@@ -9,6 +9,7 @@ import { electricityPillarTieredDemandSupplyPosts_2025_12_26 } from "@/lib/gener
 import { utilityBillsLineItemsFeesPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26";
 import { utilityBillsProrationPastDueMinimumPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26";
 import { waterPillarChargesLeaksSummerPosts_2025_12_26 } from "@/lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26";
+import { gasPillarMeterSummerCustomerPosts_2025_12_26 } from "@/lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26";
 
 const posts: Post[] = [
   {
@@ -3678,6 +3679,7 @@ const posts: Post[] = [
   ...waterPillarPosts_2025_12_25,
   ...waterPillarChargesLeaksSummerPosts_2025_12_26,
   ...gasPillarPosts_2025_12_25,
+  ...gasPillarMeterSummerCustomerPosts_2025_12_26,
   ...heatingCoolingPillarPosts_2025_12_25,
   ...utilityBillsPillarPosts_2025_12_25,
   ...utilityBillsLineItemsFeesPosts_2025_12_26,
