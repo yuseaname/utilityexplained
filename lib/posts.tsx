@@ -5,6 +5,9 @@ import { heatingCoolingPillarPosts_2025_12_25 } from "@/lib/generatedPosts/heati
 import { utilityBillsPillarPosts_2025_12_25 } from "@/lib/generatedPosts/utilityBillsPillarPosts_2025_12_25";
 import { waterPillarPosts_2025_12_25 } from "@/lib/generatedPosts/waterPillarPosts_2025_12_25";
 import { electricityPillarPosts_2025_12_25 } from "@/lib/generatedPosts/electricityPillarPosts_2025_12_25";
+import { electricityPillarTieredDemandSupplyPosts_2025_12_26 } from "@/lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26";
+import { utilityBillsLineItemsFeesPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26";
+import { utilityBillsProrationPastDueMinimumPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26";
 
 const posts: Post[] = [
   {
@@ -3670,10 +3673,13 @@ const posts: Post[] = [
     ]
   },
   ...electricityPillarPosts_2025_12_25,
+  ...electricityPillarTieredDemandSupplyPosts_2025_12_26,
   ...waterPillarPosts_2025_12_25,
   ...gasPillarPosts_2025_12_25,
   ...heatingCoolingPillarPosts_2025_12_25,
-  ...utilityBillsPillarPosts_2025_12_25
+  ...utilityBillsPillarPosts_2025_12_25,
+  ...utilityBillsLineItemsFeesPosts_2025_12_26,
+  ...utilityBillsProrationPastDueMinimumPosts_2025_12_26
 ];
 
 export const getAllPosts = () => posts;
@@ -3696,4 +3702,3 @@ export const getPostsByCategory = (category: string) =>
   posts.filter((post) => post.category === category);
 
 export default posts;
-
