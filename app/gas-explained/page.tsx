@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -10,6 +11,12 @@ export const metadata: Metadata = {
     "Learn how natural gas works, how therms are measured, how gas bills are structured, and how to manage gas heating costs in plain English.",
   alternates: {
     canonical: `${siteConfig.url}/gas-explained`
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1
   }
 };
 

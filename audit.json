@@ -1,0 +1,954 @@
+{
+  "articles": [
+    {
+      "filepath": ".\\ADSENSE-SETUP.md",
+      "title": "ADSENSE-SETUP.md",
+      "category": ".",
+      "content_hash": "708370515200464b3dbfd7991697403f",
+      "word_count": 1027
+    },
+    {
+      "filepath": ".\\README.md",
+      "title": "README.md",
+      "category": ".",
+      "content_hash": "e4dc01df00bba43f5bc904e3f43e0ee3",
+      "word_count": 133
+    },
+    {
+      "filepath": ".\\app\\page.tsx",
+      "title": "Finally understand your utility bills\u2014no jargon, no stress.",
+      "category": "Uncategorized",
+      "content_hash": "5fc11fc28098b337185a42703734a7e2",
+      "word_count": 453
+    },
+    {
+      "filepath": ".\\app\\about\\page.tsx",
+      "title": "About",
+      "category": "About",
+      "content_hash": "a3cf781630c334ea0dc26da0446859ae",
+      "word_count": 176
+    },
+    {
+      "filepath": ".\\app\\blog\\page.tsx",
+      "title": "Utility Bill Guides",
+      "category": "Blog",
+      "content_hash": "6d4a6e4b4f1a29ddb048480f5c65c1a7",
+      "word_count": 156
+    },
+    {
+      "filepath": ".\\app\\blog\\category\\[category]\\page.tsx",
+      "title": "page.tsx",
+      "category": "[category]",
+      "content_hash": "6fd5282ca09b9e39a2df2f745f869f25",
+      "word_count": 149
+    },
+    {
+      "filepath": ".\\app\\blog\\page\\[page]\\page.tsx",
+      "title": "Blog",
+      "category": "[page]",
+      "content_hash": "f79cd65b3b1c41c34a081e4e61463b8b",
+      "word_count": 198
+    },
+    {
+      "filepath": ".\\app\\blog\\[slug]\\page.tsx",
+      "title": "page.tsx",
+      "category": "[slug]",
+      "content_hash": "480f09153ca52c1e7dddd5f3b6492dba",
+      "word_count": 832
+    },
+    {
+      "filepath": ".\\app\\contact\\page.tsx",
+      "title": "Contact",
+      "category": "Contact",
+      "content_hash": "c23637c3fd854d76d2a9349d15baf759",
+      "word_count": 147
+    },
+    {
+      "filepath": ".\\app\\disclaimer\\page.tsx",
+      "title": "Disclaimer",
+      "category": "Disclaimer",
+      "content_hash": "a9b707c3db274bf9f60d9054e20d17b7",
+      "word_count": 141
+    },
+    {
+      "filepath": ".\\app\\electricity-explained\\page.tsx",
+      "title": "Electricity Explained: Complete Guide to Understanding Your Electric Service",
+      "category": "Electricity-explained",
+      "content_hash": "0b1d055a2fcbce8b7f26ec53ac463ca9",
+      "word_count": 2248
+    },
+    {
+      "filepath": ".\\app\\gas-explained\\page.tsx",
+      "title": "Natural Gas Explained: Complete Guide to Understanding Gas Service",
+      "category": "Gas-explained",
+      "content_hash": "bb3ac9336da434f5c77df008ea4d119b",
+      "word_count": 2188
+    },
+    {
+      "filepath": ".\\app\\heating-cooling-explained\\page.tsx",
+      "title": "Heating & Cooling Explained: Complete Guide to HVAC Systems and Costs",
+      "category": "Heating-cooling-explained",
+      "content_hash": "3ad2cacf78cc6fc40d2ea5646d66ed41",
+      "word_count": 2176
+    },
+    {
+      "filepath": ".\\app\\privacy-policy\\page.tsx",
+      "title": "Privacy Policy",
+      "category": "Privacy-policy",
+      "content_hash": "51b1a18dcd27e3becaf78b5fb6c58065",
+      "word_count": 206
+    },
+    {
+      "filepath": ".\\app\\terms\\page.tsx",
+      "title": "Terms of Service",
+      "category": "Terms",
+      "content_hash": "1314666180202b096cafadb1ac226163",
+      "word_count": 157
+    },
+    {
+      "filepath": ".\\app\\utilities-glossary\\page.tsx",
+      "title": "Utilities Glossary: Common Terms Explained in Plain English",
+      "category": "Utilities-glossary",
+      "content_hash": "66fd40c2f4dfc4a6f9123746d1249d23",
+      "word_count": 1798
+    },
+    {
+      "filepath": ".\\app\\utility-bills-costs-explained\\page.tsx",
+      "title": "Utility Bills & Costs Explained: Complete Budgeting and Management Guide",
+      "category": "Utility-bills-costs-explained",
+      "content_hash": "f9294674789cd6fa0df239ba15dedf7c",
+      "word_count": 2110
+    },
+    {
+      "filepath": ".\\app\\water-explained\\page.tsx",
+      "title": "Water Service Explained: Complete Guide to Understanding Water Bills",
+      "category": "Water-explained",
+      "content_hash": "cd595c23c50c916037466640671c8357",
+      "word_count": 2081
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\posts.fragment.tsx",
+      "title": "Understanding Kilowatt-Hours (kWh): What They Are and Why They Matter",
+      "category": "Electricity",
+      "content_hash": "c82ba6e19c0f24a5fb11b887d7df1dd1",
+      "word_count": 2774
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Electricity",
+      "content_hash": "a8d68e00b1e718a0a20a81897afd8ac1",
+      "word_count": 383
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\snippets.tsx",
+      "title": "snippets.tsx",
+      "category": "Electricity-pillar-kwh-meter-bill-2025-12-25",
+      "content_hash": "a9776ff13c8eb6ec220c7c8d2a219018",
+      "word_count": 147
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\posts.fragment.tsx",
+      "title": "posts.fragment.tsx",
+      "category": "Electricity-pillar-smart-meters-tou-savings-2025-12-25",
+      "content_hash": "f94a747fbf58eae5c433358f733f34a8",
+      "word_count": 2842
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Electricity-pillar-smart-meters-tou-savings-2025-12-25",
+      "content_hash": "e7a5ed1e850dad6ca8f866536f291f89",
+      "word_count": 952
+    },
+    {
+      "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\snippets.tsx",
+      "title": "How Do Smart Meters Work? (And Should You Trust Them?)",
+      "category": "Electricity",
+      "content_hash": "82c1fee886e18cc79bab77f1c6389a05",
+      "word_count": 183
+    },
+    {
+      "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\OUTLINES.md",
+      "title": "OUTLINES.md",
+      "category": "Gas-pillar-winter-units-charges-2025-12-25",
+      "content_hash": "e33b633f3ece074fd1d2488653bb96af",
+      "word_count": 882
+    },
+    {
+      "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\posts.fragment.tsx",
+      "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+      "category": "Gas",
+      "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+      "word_count": 6008
+    },
+    {
+      "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Gas-pillar-winter-units-charges-2025-12-25",
+      "content_hash": "54898ded8052ac8eaae7757bd68033c9",
+      "word_count": 227
+    },
+    {
+      "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\snippets.tsx",
+      "title": "snippets.tsx",
+      "category": "Gas-pillar-winter-units-charges-2025-12-25",
+      "content_hash": "7d3381b77f938adc332195a332801f7a",
+      "word_count": 151
+    },
+    {
+      "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\OUTLINES.md",
+      "title": "OUTLINES.md",
+      "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+      "content_hash": "0464f82dd0ad29aff34aeee5895c8cb7",
+      "word_count": 1538
+    },
+    {
+      "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\posts.fragment.tsx",
+      "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+      "category": "Heating & Cooling",
+      "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+      "word_count": 4165
+    },
+    {
+      "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+      "content_hash": "642c88afd88bcabfb0bf41ea35b78e23",
+      "word_count": 231
+    },
+    {
+      "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\snippets.tsx",
+      "title": "snippets.tsx",
+      "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+      "content_hash": "e938eaa21fcf9414d733cd2c43451c26",
+      "word_count": 149
+    },
+    {
+      "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\OUTLINES.md",
+      "title": "OUTLINES.md",
+      "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+      "content_hash": "399b3d827bf7662ff97513d0f927e368",
+      "word_count": 838
+    },
+    {
+      "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\posts.fragment.tsx",
+      "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+      "category": "Budgeting",
+      "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+      "word_count": 3271
+    },
+    {
+      "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+      "content_hash": "688c2581047dc8ef154736aa7bf2c1d6",
+      "word_count": 252
+    },
+    {
+      "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\snippets.tsx",
+      "title": "snippets.tsx",
+      "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+      "content_hash": "8e9dcd83379267263b8dc2ce8db4f821",
+      "word_count": 161
+    },
+    {
+      "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\OUTLINES.md",
+      "title": "OUTLINES.md",
+      "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+      "content_hash": "3a0bfbe9e03c434ebfa5aaa14b9462b0",
+      "word_count": 1038
+    },
+    {
+      "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\posts.fragment.tsx",
+      "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
+      "category": "Water",
+      "content_hash": "fbc138fcb10454da2aa8d967c34fbb85",
+      "word_count": 2819
+    },
+    {
+      "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\README.md",
+      "title": "README.md",
+      "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+      "content_hash": "2f8c22d2306664f0c199aedaac97af7f",
+      "word_count": 226
+    },
+    {
+      "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\snippets.tsx",
+      "title": "snippets.tsx",
+      "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+      "content_hash": "addd0bcb333f8a237612df1eee6bf81d",
+      "word_count": 141
+    },
+    {
+      "filepath": ".\\components\\AdSlot.tsx",
+      "title": "AdSlot.tsx",
+      "category": "Components",
+      "content_hash": "9ae76f64d9f4f97739ced64cd0bebe07",
+      "word_count": 159
+    },
+    {
+      "filepath": ".\\components\\BlogSearch.tsx",
+      "title": "BlogSearch.tsx",
+      "category": "Components",
+      "content_hash": "c21797990287c9f31d6a70e68ef6b918",
+      "word_count": 134
+    },
+    {
+      "filepath": ".\\components\\Breadcrumbs.tsx",
+      "title": "Breadcrumbs.tsx",
+      "category": "Components",
+      "content_hash": "9d576f11a4f580a0991d2bb98e07a355",
+      "word_count": 63
+    },
+    {
+      "filepath": ".\\components\\CategoryBadge.tsx",
+      "title": "CategoryBadge.tsx",
+      "category": "Components",
+      "content_hash": "28f883d9e6c93c02555ebe22a16de796",
+      "word_count": 19
+    },
+    {
+      "filepath": ".\\components\\ContentImage.tsx",
+      "title": "ContentImage.tsx",
+      "category": "Components",
+      "content_hash": "6dd5599ffc8c902cc04b0162253d571a",
+      "word_count": 67
+    },
+    {
+      "filepath": ".\\components\\FAQAccordion.tsx",
+      "title": "FAQAccordion.tsx",
+      "category": "Components",
+      "content_hash": "c3ecd24d237f8c0680aecde3851df84c",
+      "word_count": 86
+    },
+    {
+      "filepath": ".\\components\\Footer.tsx",
+      "title": "Footer.tsx",
+      "category": "Components",
+      "content_hash": "d9bb0ec8181d8aec0a65f805cb2c9d33",
+      "word_count": 64
+    },
+    {
+      "filepath": ".\\components\\Header.tsx",
+      "title": "Header.tsx",
+      "category": "Components",
+      "content_hash": "73398c077b5c7d753d55dc578d015de6",
+      "word_count": 57
+    },
+    {
+      "filepath": ".\\components\\Pagination.tsx",
+      "title": "Pagination.tsx",
+      "category": "Components",
+      "content_hash": "d40a7a7deec8d26e619bae9d81a31dfb",
+      "word_count": 116
+    },
+    {
+      "filepath": ".\\components\\ReadingProgress.tsx",
+      "title": "ReadingProgress.tsx",
+      "category": "Components",
+      "content_hash": "08f8cd4d2d01ffe48bfb6159e887049f",
+      "word_count": 92
+    },
+    {
+      "filepath": ".\\components\\RelatedPosts.tsx",
+      "title": "RelatedPosts.tsx",
+      "category": "Components",
+      "content_hash": "53194ce6ab309a5592357afc0364dcb9",
+      "word_count": 56
+    },
+    {
+      "filepath": ".\\components\\SkipLink.tsx",
+      "title": "SkipLink.tsx",
+      "category": "Components",
+      "content_hash": "3b3dd3587a0687a0f494769eca0afcd5",
+      "word_count": 20
+    },
+    {
+      "filepath": ".\\components\\SmartLinker.tsx",
+      "title": "SmartLinker.tsx",
+      "category": "Components",
+      "content_hash": "0db44f68dc6a754f3318e2539614dd09",
+      "word_count": 239
+    },
+    {
+      "filepath": ".\\components\\TableOfContents.tsx",
+      "title": "TableOfContents.tsx",
+      "category": "Components",
+      "content_hash": "6cd101cec70d8ded9ffef49f1b2a164f",
+      "word_count": 56
+    },
+    {
+      "filepath": ".\\components\\ThemeToggle.tsx",
+      "title": "ThemeToggle.tsx",
+      "category": "Components",
+      "content_hash": "63b700e23f31fec00460edaf633845e2",
+      "word_count": 131
+    },
+    {
+      "filepath": ".\\lib\\posts.tsx",
+      "title": "Why Is My Electricity Bill So High in Winter?",
+      "category": "Electricity",
+      "content_hash": "ee2e27990542a4b0910bbf92b0958379",
+      "word_count": 17430
+    },
+    {
+      "filepath": ".\\lib\\generatedPosts\\gasPillarPosts_2025_12_25.tsx",
+      "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+      "category": "Gas",
+      "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+      "word_count": 6008
+    },
+    {
+      "filepath": ".\\lib\\generatedPosts\\heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+      "category": "Heating & Cooling",
+      "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+      "word_count": 4165
+    },
+    {
+      "filepath": ".\\lib\\generatedPosts\\utilityBillsPillarPosts_2025_12_25.tsx",
+      "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+      "category": "Budgeting",
+      "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+      "word_count": 3271
+    },
+    {
+      "filepath": ".\\lib\\generatedPosts\\waterPillarPosts_2025_12_25.tsx",
+      "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
+      "category": "Water",
+      "content_hash": "9b59208474b709e6453a4620788659d3",
+      "word_count": 2819
+    }
+  ],
+  "categories": {
+    ".": [
+      {
+        "filepath": ".\\ADSENSE-SETUP.md",
+        "title": "ADSENSE-SETUP.md",
+        "category": ".",
+        "content_hash": "708370515200464b3dbfd7991697403f",
+        "word_count": 1027
+      },
+      {
+        "filepath": ".\\README.md",
+        "title": "README.md",
+        "category": ".",
+        "content_hash": "e4dc01df00bba43f5bc904e3f43e0ee3",
+        "word_count": 133
+      }
+    ],
+    "Uncategorized": [
+      {
+        "filepath": ".\\app\\page.tsx",
+        "title": "Finally understand your utility bills\u2014no jargon, no stress.",
+        "category": "Uncategorized",
+        "content_hash": "5fc11fc28098b337185a42703734a7e2",
+        "word_count": 453
+      }
+    ],
+    "About": [
+      {
+        "filepath": ".\\app\\about\\page.tsx",
+        "title": "About",
+        "category": "About",
+        "content_hash": "a3cf781630c334ea0dc26da0446859ae",
+        "word_count": 176
+      }
+    ],
+    "Blog": [
+      {
+        "filepath": ".\\app\\blog\\page.tsx",
+        "title": "Utility Bill Guides",
+        "category": "Blog",
+        "content_hash": "6d4a6e4b4f1a29ddb048480f5c65c1a7",
+        "word_count": 156
+      }
+    ],
+    "[category]": [
+      {
+        "filepath": ".\\app\\blog\\category\\[category]\\page.tsx",
+        "title": "page.tsx",
+        "category": "[category]",
+        "content_hash": "6fd5282ca09b9e39a2df2f745f869f25",
+        "word_count": 149
+      }
+    ],
+    "[page]": [
+      {
+        "filepath": ".\\app\\blog\\page\\[page]\\page.tsx",
+        "title": "Blog",
+        "category": "[page]",
+        "content_hash": "f79cd65b3b1c41c34a081e4e61463b8b",
+        "word_count": 198
+      }
+    ],
+    "[slug]": [
+      {
+        "filepath": ".\\app\\blog\\[slug]\\page.tsx",
+        "title": "page.tsx",
+        "category": "[slug]",
+        "content_hash": "480f09153ca52c1e7dddd5f3b6492dba",
+        "word_count": 832
+      }
+    ],
+    "Contact": [
+      {
+        "filepath": ".\\app\\contact\\page.tsx",
+        "title": "Contact",
+        "category": "Contact",
+        "content_hash": "c23637c3fd854d76d2a9349d15baf759",
+        "word_count": 147
+      }
+    ],
+    "Disclaimer": [
+      {
+        "filepath": ".\\app\\disclaimer\\page.tsx",
+        "title": "Disclaimer",
+        "category": "Disclaimer",
+        "content_hash": "a9b707c3db274bf9f60d9054e20d17b7",
+        "word_count": 141
+      }
+    ],
+    "Electricity-explained": [
+      {
+        "filepath": ".\\app\\electricity-explained\\page.tsx",
+        "title": "Electricity Explained: Complete Guide to Understanding Your Electric Service",
+        "category": "Electricity-explained",
+        "content_hash": "0b1d055a2fcbce8b7f26ec53ac463ca9",
+        "word_count": 2248
+      }
+    ],
+    "Gas-explained": [
+      {
+        "filepath": ".\\app\\gas-explained\\page.tsx",
+        "title": "Natural Gas Explained: Complete Guide to Understanding Gas Service",
+        "category": "Gas-explained",
+        "content_hash": "bb3ac9336da434f5c77df008ea4d119b",
+        "word_count": 2188
+      }
+    ],
+    "Heating-cooling-explained": [
+      {
+        "filepath": ".\\app\\heating-cooling-explained\\page.tsx",
+        "title": "Heating & Cooling Explained: Complete Guide to HVAC Systems and Costs",
+        "category": "Heating-cooling-explained",
+        "content_hash": "3ad2cacf78cc6fc40d2ea5646d66ed41",
+        "word_count": 2176
+      }
+    ],
+    "Privacy-policy": [
+      {
+        "filepath": ".\\app\\privacy-policy\\page.tsx",
+        "title": "Privacy Policy",
+        "category": "Privacy-policy",
+        "content_hash": "51b1a18dcd27e3becaf78b5fb6c58065",
+        "word_count": 206
+      }
+    ],
+    "Terms": [
+      {
+        "filepath": ".\\app\\terms\\page.tsx",
+        "title": "Terms of Service",
+        "category": "Terms",
+        "content_hash": "1314666180202b096cafadb1ac226163",
+        "word_count": 157
+      }
+    ],
+    "Utilities-glossary": [
+      {
+        "filepath": ".\\app\\utilities-glossary\\page.tsx",
+        "title": "Utilities Glossary: Common Terms Explained in Plain English",
+        "category": "Utilities-glossary",
+        "content_hash": "66fd40c2f4dfc4a6f9123746d1249d23",
+        "word_count": 1798
+      }
+    ],
+    "Utility-bills-costs-explained": [
+      {
+        "filepath": ".\\app\\utility-bills-costs-explained\\page.tsx",
+        "title": "Utility Bills & Costs Explained: Complete Budgeting and Management Guide",
+        "category": "Utility-bills-costs-explained",
+        "content_hash": "f9294674789cd6fa0df239ba15dedf7c",
+        "word_count": 2110
+      }
+    ],
+    "Water-explained": [
+      {
+        "filepath": ".\\app\\water-explained\\page.tsx",
+        "title": "Water Service Explained: Complete Guide to Understanding Water Bills",
+        "category": "Water-explained",
+        "content_hash": "cd595c23c50c916037466640671c8357",
+        "word_count": 2081
+      }
+    ],
+    "Electricity": [
+      {
+        "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\posts.fragment.tsx",
+        "title": "Understanding Kilowatt-Hours (kWh): What They Are and Why They Matter",
+        "category": "Electricity",
+        "content_hash": "c82ba6e19c0f24a5fb11b887d7df1dd1",
+        "word_count": 2774
+      },
+      {
+        "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Electricity",
+        "content_hash": "a8d68e00b1e718a0a20a81897afd8ac1",
+        "word_count": 383
+      },
+      {
+        "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\snippets.tsx",
+        "title": "How Do Smart Meters Work? (And Should You Trust Them?)",
+        "category": "Electricity",
+        "content_hash": "82c1fee886e18cc79bab77f1c6389a05",
+        "word_count": 183
+      },
+      {
+        "filepath": ".\\lib\\posts.tsx",
+        "title": "Why Is My Electricity Bill So High in Winter?",
+        "category": "Electricity",
+        "content_hash": "ee2e27990542a4b0910bbf92b0958379",
+        "word_count": 17430
+      }
+    ],
+    "Electricity-pillar-kwh-meter-bill-2025-12-25": [
+      {
+        "filepath": ".\\branches\\electricity-pillar-kwh-meter-bill-2025-12-25\\snippets.tsx",
+        "title": "snippets.tsx",
+        "category": "Electricity-pillar-kwh-meter-bill-2025-12-25",
+        "content_hash": "a9776ff13c8eb6ec220c7c8d2a219018",
+        "word_count": 147
+      }
+    ],
+    "Electricity-pillar-smart-meters-tou-savings-2025-12-25": [
+      {
+        "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\posts.fragment.tsx",
+        "title": "posts.fragment.tsx",
+        "category": "Electricity-pillar-smart-meters-tou-savings-2025-12-25",
+        "content_hash": "f94a747fbf58eae5c433358f733f34a8",
+        "word_count": 2842
+      },
+      {
+        "filepath": ".\\branches\\electricity-pillar-smart-meters-tou-savings-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Electricity-pillar-smart-meters-tou-savings-2025-12-25",
+        "content_hash": "e7a5ed1e850dad6ca8f866536f291f89",
+        "word_count": 952
+      }
+    ],
+    "Gas-pillar-winter-units-charges-2025-12-25": [
+      {
+        "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\OUTLINES.md",
+        "title": "OUTLINES.md",
+        "category": "Gas-pillar-winter-units-charges-2025-12-25",
+        "content_hash": "e33b633f3ece074fd1d2488653bb96af",
+        "word_count": 882
+      },
+      {
+        "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Gas-pillar-winter-units-charges-2025-12-25",
+        "content_hash": "54898ded8052ac8eaae7757bd68033c9",
+        "word_count": 227
+      },
+      {
+        "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\snippets.tsx",
+        "title": "snippets.tsx",
+        "category": "Gas-pillar-winter-units-charges-2025-12-25",
+        "content_hash": "7d3381b77f938adc332195a332801f7a",
+        "word_count": 151
+      }
+    ],
+    "Gas": [
+      {
+        "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\posts.fragment.tsx",
+        "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+        "category": "Gas",
+        "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+        "word_count": 6008
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\gasPillarPosts_2025_12_25.tsx",
+        "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+        "category": "Gas",
+        "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+        "word_count": 6008
+      }
+    ],
+    "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25": [
+      {
+        "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\OUTLINES.md",
+        "title": "OUTLINES.md",
+        "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+        "content_hash": "0464f82dd0ad29aff34aeee5895c8cb7",
+        "word_count": 1538
+      },
+      {
+        "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+        "content_hash": "642c88afd88bcabfb0bf41ea35b78e23",
+        "word_count": 231
+      },
+      {
+        "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\snippets.tsx",
+        "title": "snippets.tsx",
+        "category": "Heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25",
+        "content_hash": "e938eaa21fcf9414d733cd2c43451c26",
+        "word_count": 149
+      }
+    ],
+    "Heating & Cooling": [
+      {
+        "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\posts.fragment.tsx",
+        "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+        "category": "Heating & Cooling",
+        "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+        "word_count": 4165
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\heatingCoolingPillarPosts_2025_12_25.tsx",
+        "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+        "category": "Heating & Cooling",
+        "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+        "word_count": 4165
+      }
+    ],
+    "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25": [
+      {
+        "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\OUTLINES.md",
+        "title": "OUTLINES.md",
+        "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+        "content_hash": "399b3d827bf7662ff97513d0f927e368",
+        "word_count": 838
+      },
+      {
+        "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+        "content_hash": "688c2581047dc8ef154736aa7bf2c1d6",
+        "word_count": 252
+      },
+      {
+        "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\snippets.tsx",
+        "title": "snippets.tsx",
+        "category": "Utility-bills-pillar-estimates-days-budget-billing-2025-12-25",
+        "content_hash": "8e9dcd83379267263b8dc2ce8db4f821",
+        "word_count": 161
+      }
+    ],
+    "Budgeting": [
+      {
+        "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\posts.fragment.tsx",
+        "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+        "category": "Budgeting",
+        "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+        "word_count": 3271
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\utilityBillsPillarPosts_2025_12_25.tsx",
+        "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+        "category": "Budgeting",
+        "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+        "word_count": 3271
+      }
+    ],
+    "Water-pillar-ccf-sewer-toilet-2025-12-25": [
+      {
+        "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\OUTLINES.md",
+        "title": "OUTLINES.md",
+        "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+        "content_hash": "3a0bfbe9e03c434ebfa5aaa14b9462b0",
+        "word_count": 1038
+      },
+      {
+        "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\README.md",
+        "title": "README.md",
+        "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+        "content_hash": "2f8c22d2306664f0c199aedaac97af7f",
+        "word_count": 226
+      },
+      {
+        "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\snippets.tsx",
+        "title": "snippets.tsx",
+        "category": "Water-pillar-ccf-sewer-toilet-2025-12-25",
+        "content_hash": "addd0bcb333f8a237612df1eee6bf81d",
+        "word_count": 141
+      }
+    ],
+    "Water": [
+      {
+        "filepath": ".\\branches\\water-pillar-ccf-sewer-toilet-2025-12-25\\posts.fragment.tsx",
+        "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
+        "category": "Water",
+        "content_hash": "fbc138fcb10454da2aa8d967c34fbb85",
+        "word_count": 2819
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\waterPillarPosts_2025_12_25.tsx",
+        "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
+        "category": "Water",
+        "content_hash": "9b59208474b709e6453a4620788659d3",
+        "word_count": 2819
+      }
+    ],
+    "Components": [
+      {
+        "filepath": ".\\components\\AdSlot.tsx",
+        "title": "AdSlot.tsx",
+        "category": "Components",
+        "content_hash": "9ae76f64d9f4f97739ced64cd0bebe07",
+        "word_count": 159
+      },
+      {
+        "filepath": ".\\components\\BlogSearch.tsx",
+        "title": "BlogSearch.tsx",
+        "category": "Components",
+        "content_hash": "c21797990287c9f31d6a70e68ef6b918",
+        "word_count": 134
+      },
+      {
+        "filepath": ".\\components\\Breadcrumbs.tsx",
+        "title": "Breadcrumbs.tsx",
+        "category": "Components",
+        "content_hash": "9d576f11a4f580a0991d2bb98e07a355",
+        "word_count": 63
+      },
+      {
+        "filepath": ".\\components\\CategoryBadge.tsx",
+        "title": "CategoryBadge.tsx",
+        "category": "Components",
+        "content_hash": "28f883d9e6c93c02555ebe22a16de796",
+        "word_count": 19
+      },
+      {
+        "filepath": ".\\components\\ContentImage.tsx",
+        "title": "ContentImage.tsx",
+        "category": "Components",
+        "content_hash": "6dd5599ffc8c902cc04b0162253d571a",
+        "word_count": 67
+      },
+      {
+        "filepath": ".\\components\\FAQAccordion.tsx",
+        "title": "FAQAccordion.tsx",
+        "category": "Components",
+        "content_hash": "c3ecd24d237f8c0680aecde3851df84c",
+        "word_count": 86
+      },
+      {
+        "filepath": ".\\components\\Footer.tsx",
+        "title": "Footer.tsx",
+        "category": "Components",
+        "content_hash": "d9bb0ec8181d8aec0a65f805cb2c9d33",
+        "word_count": 64
+      },
+      {
+        "filepath": ".\\components\\Header.tsx",
+        "title": "Header.tsx",
+        "category": "Components",
+        "content_hash": "73398c077b5c7d753d55dc578d015de6",
+        "word_count": 57
+      },
+      {
+        "filepath": ".\\components\\Pagination.tsx",
+        "title": "Pagination.tsx",
+        "category": "Components",
+        "content_hash": "d40a7a7deec8d26e619bae9d81a31dfb",
+        "word_count": 116
+      },
+      {
+        "filepath": ".\\components\\ReadingProgress.tsx",
+        "title": "ReadingProgress.tsx",
+        "category": "Components",
+        "content_hash": "08f8cd4d2d01ffe48bfb6159e887049f",
+        "word_count": 92
+      },
+      {
+        "filepath": ".\\components\\RelatedPosts.tsx",
+        "title": "RelatedPosts.tsx",
+        "category": "Components",
+        "content_hash": "53194ce6ab309a5592357afc0364dcb9",
+        "word_count": 56
+      },
+      {
+        "filepath": ".\\components\\SkipLink.tsx",
+        "title": "SkipLink.tsx",
+        "category": "Components",
+        "content_hash": "3b3dd3587a0687a0f494769eca0afcd5",
+        "word_count": 20
+      },
+      {
+        "filepath": ".\\components\\SmartLinker.tsx",
+        "title": "SmartLinker.tsx",
+        "category": "Components",
+        "content_hash": "0db44f68dc6a754f3318e2539614dd09",
+        "word_count": 239
+      },
+      {
+        "filepath": ".\\components\\TableOfContents.tsx",
+        "title": "TableOfContents.tsx",
+        "category": "Components",
+        "content_hash": "6cd101cec70d8ded9ffef49f1b2a164f",
+        "word_count": 56
+      },
+      {
+        "filepath": ".\\components\\ThemeToggle.tsx",
+        "title": "ThemeToggle.tsx",
+        "category": "Components",
+        "content_hash": "63b700e23f31fec00460edaf633845e2",
+        "word_count": 131
+      }
+    ]
+  },
+  "duplicates": {
+    "a970c9486eff2f3161d27665e9bdfe62": [
+      {
+        "filepath": ".\\branches\\gas-pillar-winter-units-charges-2025-12-25\\posts.fragment.tsx",
+        "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+        "category": "Gas",
+        "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+        "word_count": 6008
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\gasPillarPosts_2025_12_25.tsx",
+        "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
+        "category": "Gas",
+        "content_hash": "a970c9486eff2f3161d27665e9bdfe62",
+        "word_count": 6008
+      }
+    ],
+    "d15c24e02f6e03f3f6e967b67c6eba29": [
+      {
+        "filepath": ".\\branches\\heating-cooling-pillar-heat-pump-aux-duct-leaks-ratings-2025-12-25\\posts.fragment.tsx",
+        "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+        "category": "Heating & Cooling",
+        "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+        "word_count": 4165
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\heatingCoolingPillarPosts_2025_12_25.tsx",
+        "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
+        "category": "Heating & Cooling",
+        "content_hash": "d15c24e02f6e03f3f6e967b67c6eba29",
+        "word_count": 4165
+      }
+    ],
+    "b92437c929d6fbe753cd7e9d4c19b798": [
+      {
+        "filepath": ".\\branches\\utility-bills-pillar-estimates-days-budget-billing-2025-12-25\\posts.fragment.tsx",
+        "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+        "category": "Budgeting",
+        "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+        "word_count": 3271
+      },
+      {
+        "filepath": ".\\lib\\generatedPosts\\utilityBillsPillarPosts_2025_12_25.tsx",
+        "title": "Estimated Utility Bill Explained: What \u201cEstimated\u201d Means and What Happens Next",
+        "category": "Budgeting",
+        "content_hash": "b92437c929d6fbe753cd7e9d4c19b798",
+        "word_count": 3271
+      }
+    ]
+  }
+}

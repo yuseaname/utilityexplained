@@ -18,6 +18,11 @@ export const generateMetadata = async ({ params }: { params: { page: string } })
     description: "Browse practical, plain-English utility guides by page.",
     alternates: {
       canonical: p === 1 ? `${siteConfig.url}/blog` : `${siteConfig.url}/blog/page/${p}`
+    },
+    robots: {
+      index: p <= 3,  // Only index first 3 pages to avoid thin content
+      follow: true,
+      "max-image-preview": "large"
     }
   };
 };

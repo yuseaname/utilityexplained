@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Utility Plain English",
   description:
-    "Home utility and adulting explainers for electricity, gas, and water bills in plain English.",
+    "Plain-English guides to electricity, gas, and water bills—so you can budget with confidence, not confusion.",
   url: "https://www.utilityplainenglish.com",
   ogImage: "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
   socials: {

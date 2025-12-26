@@ -10,6 +10,12 @@ export const metadata: Metadata = {
     "Learn how to read utility bills, understand rate structures, budget for seasonal costs, and manage electricity, gas, water, and other home utility expenses.",
   alternates: {
     canonical: `${siteConfig.url}/utility-bills-costs-explained`
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1
   }
 };
 

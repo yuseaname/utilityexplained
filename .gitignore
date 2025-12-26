@@ -5,6 +5,7 @@ Thumbs.db
 # Editors
 .vscode/
 .idea/
+.vs/
 
 # Node / JS
 node_modules/
@@ -12,6 +13,7 @@ dist/
 build/
 coverage/
 .next/
+out/
 
 # Logs and temp
 *.log
@@ -26,3 +28,4 @@ yarn-error.log*
 # Misc
 .tmp/
 .sass-cache/
+.vercel/

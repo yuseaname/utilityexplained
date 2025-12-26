@@ -21,19 +21,18 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div>
-            <h1>Home utilities explained in plain English.</h1>
+            <h1>Finally understand your utility bills—no jargon, no stress.</h1>
             <p>
-              Utility bills can feel overwhelming. We break down electricity, gas,
-              and water costs with clear examples, real-world ranges, and calm
-              guidance so you can budget with confidence.
+              Utility bills can feel like a foreign language. We break down electricity,
+              gas, and water costs so you can budget with confidence—not confusion.
             </p>
             <p>
-              Explore seasonal spikes, compare heating options, and learn how to read
-              your meters without jargon.
+              Learn what kWh, therms, and CCF actually mean. Predict seasonal spikes
+              before they hit. Read your bills like you wrote them.
             </p>
             <div className="hero-actions">
               <Link className="button" href="/blog">
-                Browse the guides
+                Pick your first guide
               </Link>
             </div>
           </div>
@@ -57,6 +56,37 @@ export default function HomePage() {
         </div>
       </section>
 
+      <AdSlot label="Homepage mid-content ad" format="horizontal" slot={process.env.NEXT_PUBLIC_AD_SLOT_HOME_MID} />
+
+      <section className="section">
+        <div className="container">
+          <h2>How it works</h2>
+          <div className="post-grid">
+            <div className="hero-card">
+              <h3>1. Pick your utility</h3>
+              <p>
+                Start with electric, gas, or water—whichever bill is confusing you
+                right now.
+              </p>
+            </div>
+            <div className="hero-card">
+              <h3>2. Read the plain-English guide</h3>
+              <p>
+                No rush, no tests. Just clear explanations of what each charge
+                means and why it's there.
+              </p>
+            </div>
+            <div className="hero-card">
+              <h3>3. Budget with confidence</h3>
+              <p>
+                Know exactly what you're paying for. Predict seasonal spikes.
+                Spot errors before they cost you.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="section">
         <div className="container">
           <h2>Popular explainers</h2>
@@ -68,11 +98,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      <AdSlot label="In-content ad" />
+      <AdSlot label="Homepage lower ad" format="horizontal" slot={process.env.NEXT_PUBLIC_AD_SLOT_HOME_BOTTOM} />
 
-      <section className="section">
-        <div className="container">
-          <h2>Why people trust Utility Plain English</h2>
+      <section className="section">\n        <div className="container">\n          <h2>Why readers come here first</h2>
           <div className="post-grid">
             <div className="hero-card">
               <h3>Neutral, practical explanations</h3>

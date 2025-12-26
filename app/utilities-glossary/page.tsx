@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -9,6 +10,12 @@ export const metadata: Metadata = {
     "Quick definitions for electricity, gas, water, and heating terms like kWh, therm, AFUE, SEER, CCF, and more—all explained in plain English.",
   alternates: {
     canonical: `${siteConfig.url}/utilities-glossary`
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1
   }
 };
 
@@ -61,7 +68,7 @@ export default function UtilitiesGlossaryPage() {
 
         <h3 id="kilowatt-hour">Kilowatt-hour (kWh)</h3>
         <p>
-          A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period. See detailed examples in our <Link href="/blog/what-does-kwh-mean-on-an-electric-bill">kWh explainer</Link>.
+          A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period. See detailed examples in our <Link href="/blog/what-is-a-kilowatt-hour">kWh explainer</Link>.
         </p>
 
         <h3 id="off-peak">Off-peak hours</h3>

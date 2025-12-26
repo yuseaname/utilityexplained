@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -10,12 +11,64 @@ export const metadata: Metadata = {
     "Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system works in plain English.",
   alternates: {
     canonical: `${siteConfig.url}/electricity-explained`
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1
   }
 };
 
 export default function ElectricityExplainedPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Electricity Explained: Complete Guide to Understanding Your Electric Service",
+    description: "Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system works in plain English.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/electricity-explained`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Electricity Explained",
+        item: `${siteConfig.url}/electricity-explained`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Electricity Explained" }
+        ]}
+      />
       <h1>Electricity Explained: Your Complete Guide</h1>
       
       <div className="hero-card">
@@ -98,7 +151,7 @@ export default function ElectricityExplainedPage() {
         </p>
         <h3>Time-of-use (TOU) pricing</h3>
         <p>
-          The price per kWh changes based on the time of day or season. Peak hours (usually late afternoon and early evening) cost more because demand is higher. Off-peak hours (overnight and early morning) cost less. TOU plans reward you for shifting usage to cheaper times.
+          The price per kWh changes based on the time of day or season. Peak hours (usually late afternoon and early evening) cost more because demand is higher. Off-peak hours (overnight and early morning) cost less. <Link href="/blog/time-of-use-electricity-rates">Time-of-Use plans</Link> reward you for shifting usage to cheaper times.
         </p>
         <p>
           If you are on a TOU plan, running dishwashers, laundry, or charging electric vehicles during off-peak hours can reduce costs.
@@ -175,7 +228,7 @@ export default function ElectricityExplainedPage() {
       <section>
         <h2>Smart meters and real-time usage data</h2>
         <p>
-          Many utilities have installed smart meters that record electricity usage hourly or daily. Smart meters send usage data automatically, which eliminates the need for manual meter reading.
+          Many utilities have installed <Link href="/blog/how-do-smart-meters-work">smart meters</Link> that record electricity usage hourly or daily. Smart meters send usage data automatically, which eliminates the need for manual meter reading.
         </p>
         <p>
           If you have a smart meter, your utility may offer an online portal or app where you can see daily or hourly usage charts. This data helps you identify when usage is highest and which days had unusual spikes.
@@ -210,8 +263,23 @@ export default function ElectricityExplainedPage() {
         </p>
         <ul>
           <li>
-            <Link href="/blog/what-does-kwh-mean-on-an-electric-bill">
-              What does kWh mean on an electric bill?
+            <Link href="/blog/how-do-smart-meters-work">
+              How Do Smart Meters Work? (And Should You Trust Them?)
+            </Link> — Learn about accuracy, privacy, and how to read your new meter.
+          </li>
+          <li>
+            <Link href="/blog/time-of-use-electricity-rates">
+              What Are Time-of-Use Rates?
+            </Link> — Decide if switching to a peak/off-peak plan will save you money.
+          </li>
+          <li>
+            <Link href="/blog/how-to-lower-electric-bill-without-solar">
+              How to Lower Your Electric Bill Without Solar Panels
+            </Link> — 12 proven methods to reduce costs without major investments.
+          </li>
+          <li>
+            <Link href="/blog/what-is-a-kilowatt-hour">
+              What Is a Kilowatt-Hour (kWh)?
             </Link> — Learn how to calculate kWh for appliances and estimate costs.
           </li>
           <li>
@@ -265,6 +333,15 @@ export default function ElectricityExplainedPage() {
           If you are ready to explore other utilities, visit our guides on <Link href="/gas-explained">gas service</Link>, <Link href="/water-explained">water bills</Link>, or <Link href="/heating-cooling-explained">heating and cooling systems</Link>.
         </p>
       </section>
+      
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

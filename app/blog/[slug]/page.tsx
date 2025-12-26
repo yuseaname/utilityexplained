@@ -103,11 +103,11 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
 
   const linkMap = [
     // Core metrics & units
-    { phrase: "kwh", href: "/blog/what-does-kwh-mean-on-an-electric-bill" },
-    { phrase: "kilowatt-hour", href: "/blog/what-does-kwh-mean-on-an-electric-bill" },
+    { phrase: "kwh", href: "/blog/what-is-a-kilowatt-hour" },
+    { phrase: "kilowatt-hour", href: "/blog/what-is-a-kilowatt-hour" },
     { phrase: "therm", href: "/blog/how-to-read-your-gas-bill-therms-explained" },
     { phrase: "therms", href: "/blog/how-to-read-your-gas-bill-therms-explained" },
-    { phrase: "ccf", href: "/water-explained" },
+    { phrase: "ccf", href: "/blog/what-is-ccf-on-a-water-bill" },
     { phrase: "gallon", href: "/water-explained" },
     
     // Rate & billing terms
@@ -116,14 +116,25 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     { phrase: "variable rate", href: "/blog/fixed-vs-variable-rate-electricity-plan" },
     { phrase: "tiered pricing", href: "/water-explained" },
     { phrase: "demand charge", href: "/utility-bills-costs-explained" },
-    { phrase: "budget billing", href: "/blog/how-to-budget-for-utilities-in-your-first-apartment" },
+    { phrase: "budget billing", href: "/blog/budget-billing-level-pay-explained" },
+    { phrase: "level pay", href: "/blog/budget-billing-level-pay-explained" },
+    { phrase: "average billing", href: "/blog/budget-billing-level-pay-explained" },
+    { phrase: "estimated bill", href: "/blog/estimated-utility-bill-explained" },
+    { phrase: "estimated reading", href: "/blog/estimated-utility-bill-explained" },
+    { phrase: "billing days", href: "/blog/why-my-utility-bill-is-higher-with-same-usage" },
+    { phrase: "fixed charge", href: "/blog/why-my-utility-bill-is-higher-with-same-usage" },
+    { phrase: "customer charge", href: "/blog/why-my-utility-bill-is-higher-with-same-usage" },
+    { phrase: "delivery charge", href: "/blog/gas-delivery-charge-vs-supply-charge" },
+    { phrase: "supply charge", href: "/blog/gas-delivery-charge-vs-supply-charge" },
     
     // Systems & efficiency
     { phrase: "hvac", href: "/heating-cooling-explained" },
     { phrase: "heat pump", href: "/heating-cooling-explained" },
-    { phrase: "afue", href: "/heating-cooling-explained" },
-    { phrase: "seer", href: "/heating-cooling-explained" },
-    { phrase: "hspf", href: "/heating-cooling-explained" },
+    { phrase: "aux heat", href: "/blog/aux-heat-vs-emergency-heat-meaning" },
+    { phrase: "emergency heat", href: "/blog/aux-heat-vs-emergency-heat-meaning" },
+    { phrase: "afue", href: "/blog/afue-vs-seer-vs-hspf-vs-cop" },
+    { phrase: "seer", href: "/blog/afue-vs-seer-vs-hspf-vs-cop" },
+    { phrase: "hspf", href: "/blog/afue-vs-seer-vs-hspf-vs-cop" },
     
     // Troubleshooting & tasks
     { phrase: "water meter", href: "/blog/how-to-read-a-water-meter" },
@@ -209,10 +220,11 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
               <section key={section.id} id={section.id}>
                 <h2>{section.title}</h2>
                 <SmartLinker map={linkMap}>{section.content}</SmartLinker>
-                {i === 0 ? <AdSlot label="In-article ad" /> : null}
+                {i === 0 && <AdSlot label="In-article ad (top)" format="auto" slot={process.env.NEXT_PUBLIC_AD_SLOT_ARTICLE_TOP} responsive />}
+                {i === Math.floor(post.sections.length / 2) && <AdSlot label="In-article ad (mid)" format="auto" slot={process.env.NEXT_PUBLIC_AD_SLOT_ARTICLE_MID} responsive />}
               </section>
             ))}
-            <AdSlot label="After content ad" />
+            <AdSlot label="After content ad" format="horizontal" slot={process.env.NEXT_PUBLIC_AD_SLOT_ARTICLE_BOTTOM} />
             <section>
               <h2>Frequently asked questions</h2>
               <FAQAccordion items={post.faqs} />

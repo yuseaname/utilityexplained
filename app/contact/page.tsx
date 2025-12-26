@@ -37,7 +37,7 @@ export default function ContactPage() {
             Message
             <textarea name="message" rows={6} placeholder="How can we help?" />
           </label>
-          <button type="button">Send message</button>
+          <button type="button">Ask your question</button>
         </form>
       </div>
       <AdSlot label="Contact page ad" />

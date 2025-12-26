@@ -10,6 +10,12 @@ export const metadata: Metadata = {
     "Learn how water is measured, how water bills are structured, what drives water costs, and how to manage usage in plain English.",
   alternates: {
     canonical: `${siteConfig.url}/water-explained`
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1
   }
 };
 
