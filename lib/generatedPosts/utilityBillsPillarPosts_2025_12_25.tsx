@@ -290,7 +290,13 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       "why-my-utility-bill-is-higher-with-same-usage",
       "budget-billing-level-pay-explained",
       "electric-bill-breakdown-understanding-line-items",
-      "how-to-read-electric-meter"
+      "how-to-read-electric-meter",
+      "what-is-customer-charge-on-utility-bill",
+      "fuel-adjustment-charge-on-utility-bill-explained",
+      "utility-bill-surcharges-and-riders-explained",
+      "utility-bill-proration-explained",
+      "past-due-balance-utility-bill-explained",
+      "minimum-bill-utility-bill-explained"
     ]
   },
   {
