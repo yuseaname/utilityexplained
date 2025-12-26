@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import BlogSearch from "@/components/BlogSearch";
 import Pagination from "@/components/Pagination";
-import PostCard from "@/components/PostCard";
 import { getCategories } from "@/lib/posts";
 import posts from "@/lib/posts";
 import { siteConfig } from "@/lib/site";
@@ -32,18 +32,18 @@ export default function BlogPage() {
         </p>
         <div className="category-row">
           {categories.map((category) => (
-            <span key={category} className="category-badge">
+            <Link
+              key={category}
+              href={`/blog/category/${encodeURIComponent(category)}`}
+              className="category-badge"
+              style={{ textDecoration: "none" }}
+            >
               {category}
-            </span>
+            </Link>
           ))}
         </div>
       </section>
-      <BlogSearch posts={posts} />
-      <div className="post-grid">
-        {firstPage.map((post) => (
-          <PostCard key={post.slug} post={post} />
-        ))}
-      </div>
+      <BlogSearch posts={firstPage} />
       <Pagination basePath="/blog/page" current={1} totalPages={totalPages} />
     </div>
   );
