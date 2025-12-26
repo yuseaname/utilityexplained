@@ -8,6 +8,7 @@ import { electricityPillarPosts_2025_12_25 } from "@/lib/generatedPosts/electric
 import { electricityPillarTieredDemandSupplyPosts_2025_12_26 } from "@/lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26";
 import { utilityBillsLineItemsFeesPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26";
 import { utilityBillsProrationPastDueMinimumPosts_2025_12_26 } from "@/lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26";
+import { waterPillarChargesLeaksSummerPosts_2025_12_26 } from "@/lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26";
 
 const posts: Post[] = [
   {
@@ -3675,6 +3676,7 @@ const posts: Post[] = [
   ...electricityPillarPosts_2025_12_25,
   ...electricityPillarTieredDemandSupplyPosts_2025_12_26,
   ...waterPillarPosts_2025_12_25,
+  ...waterPillarChargesLeaksSummerPosts_2025_12_26,
   ...gasPillarPosts_2025_12_25,
   ...heatingCoolingPillarPosts_2025_12_25,
   ...utilityBillsPillarPosts_2025_12_25,

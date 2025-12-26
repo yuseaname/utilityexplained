@@ -256,7 +256,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
               For the full billing structure (usage vs delivery vs fixed charges),
               start here:
               <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
-                src: "https://source.unsplash.com/featured/1200x800/?calculator,budget,bill&sig=505",
+            </p>
           </>
         )
       },

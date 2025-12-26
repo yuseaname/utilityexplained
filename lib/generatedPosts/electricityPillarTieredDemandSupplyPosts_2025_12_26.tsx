@@ -210,12 +210,6 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
         answer:
           "No. Tiered rates depend on total usage. Time-of-use rates depend on when you use electricity."
       }
-    ],
-    relatedSlugs: [
-      "what-is-a-kilowatt-hour",
-      "electric-bill-breakdown-understanding-line-items",
-      "time-of-use-electricity-rates",
-      "why-is-my-electric-bill-so-high-this-month"
     ]
   },
   {
@@ -420,12 +414,6 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
         answer:
           "They usually appear as a separate line labeled Demand or kW Demand, with a price per kW."
       }
-    ],
-    relatedSlugs: [
-      "what-is-a-kilowatt-hour",
-      "electric-bill-breakdown-understanding-line-items",
-      "why-is-my-electric-bill-so-high-this-month",
-      "tiered-electricity-rates-explained"
     ]
   },
   {
@@ -625,12 +613,6 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
         answer:
           "They are usually listed as separate sections or line items labeled Supply and Delivery (or Generation and Distribution)."
       }
-    ],
-    relatedSlugs: [
-      "electric-bill-breakdown-understanding-line-items",
-      "fixed-vs-variable-rate-electricity-plan",
-      "what-is-a-kilowatt-hour",
-      "why-is-my-electricity-bill-so-high-in-summer"
     ]
   }
 ];
