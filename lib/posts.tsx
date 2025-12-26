@@ -11,6 +11,7 @@ import { utilityBillsProrationPastDueMinimumPosts_2025_12_26 } from "@/lib/gener
 import { waterPillarChargesLeaksSummerPosts_2025_12_26 } from "@/lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26";
 import { gasPillarMeterSummerCustomerPosts_2025_12_26 } from "@/lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26";
 import { heatingCoolingPillarAcNotCoolingPosts_2025_12_26 } from "@/lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26";
+import { utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27";
 
 const posts: Post[] = [
   {
@@ -3685,7 +3686,8 @@ const posts: Post[] = [
   ...heatingCoolingPillarAcNotCoolingPosts_2025_12_26,
   ...utilityBillsPillarPosts_2025_12_25,
   ...utilityBillsLineItemsFeesPosts_2025_12_26,
-  ...utilityBillsProrationPastDueMinimumPosts_2025_12_26
+  ...utilityBillsProrationPastDueMinimumPosts_2025_12_26,
+  ...utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27
 ];
 
 export const getAllPosts = () => posts;
