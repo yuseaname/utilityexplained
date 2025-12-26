@@ -20,8 +20,8 @@ const posts: Post[] = [
     date: "2024-12-01",
     readTime: "12 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
-      alt: "Snowy house exterior with warm interior light"
+      src: "https://source.unsplash.com/featured/1200x800/?winter,home&sig=401",
+      alt: "Cozy winter home with warm lights"
     },
     sections: [
       {
@@ -297,8 +297,8 @@ const posts: Post[] = [
     date: "2025-12-20",
     readTime: "14 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c",
-      alt: "Person opening a high electric bill at a kitchen table"
+      src: "https://source.unsplash.com/featured/1200x800/?utility,bill&sig=402",
+      alt: "Person reviewing a utility bill at a table"
     },
     sections: [
       {
@@ -344,8 +344,8 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://smartenergycc.org/wp-content/uploads/2023/09/SECCs-Cooling-High-Electric-Bills-Snapshot-Infographic.png"
-                alt="cooling season infographic highlighting summer bill spikes in U.S. homes"
+                src="https://source.unsplash.com/featured/1200x800/?energy,bills&sig=403"
+                alt="Summer cooling and energy bills"
               />
               <figcaption>Cooling season often drives the year’s highest bills.</figcaption>
             </figure>
@@ -403,8 +403,8 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://assets.fixr.com/resources/images/fixr-article_energy-use.jpg"
-                alt="bar chart of U.S. appliance electricity consumption"
+                src="https://source.unsplash.com/featured/1200x800/?appliance,usage&sig=404"
+                alt="Household appliance that can increase electricity use"
               />
               <figcaption>Old appliances can dominate monthly usage.</figcaption>
             </figure>
@@ -424,8 +424,8 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://www.visualcapitalist.com/wp-content/uploads/2016/11/home-energy-use-share.png"
-                alt="home energy usage share pie chart showing major categories like HVAC and appliances"
+                src="https://source.unsplash.com/featured/1200x800/?energy,usage&sig=405"
+                alt="Everyday devices and home energy use"
               />
               <figcaption>Background loads contribute even when you are not home.</figcaption>
             </figure>
@@ -485,8 +485,8 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://devinebi.com/wp-content/uploads/2015/09/energy-infographic.png"
-                alt="infographic explaining elements of an electric bill and energy usage"
+                src="https://source.unsplash.com/featured/1200x800/?electric,bill&sig=406"
+                alt="Utility bill paperwork"
               />
               <figcaption>Understand the key bill lines to spot the cause.</figcaption>
             </figure>
@@ -524,8 +524,8 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://www.landlordsafetycertificate.co.uk/wp-content/uploads/2018/09/Tips-to-Minimize-Electric-Bill.png"
-                alt="tips to lower electric bill illustrated with icons"
+                src="https://source.unsplash.com/featured/1200x800/?energy,saving&sig=407"
+                alt="Energy-saving habit at home"
               />
               <figcaption>Simple habits slow the bleed before the next bill.</figcaption>
             </figure>
@@ -567,8 +567,8 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://assets.solar.com/wp-content/uploads/2023/07/most-electricity-by-housing-type.png"
-                alt="chart of electricity use by housing type in the U.S."
+                src="https://source.unsplash.com/featured/1200x800/?housing,electricity&sig=408"
+                alt="Home electricity and housing"
               />
               <figcaption>Goal: predictability, not perfection.</figcaption>
             </figure>
@@ -596,8 +596,8 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://devinebi.com/wp-content/uploads/2015/09/energy-infographic.png"
-                alt="energy infographic summarizing home electricity use"
+                src="https://source.unsplash.com/featured/1200x800/?energy,usage&sig=409"
+                alt="Home energy usage concept"
               />
               <figcaption>Understanding patterns beats guessing.</figcaption>
             </figure>
@@ -941,8 +941,8 @@ const posts: Post[] = [
     date: "2024-12-04",
     readTime: "13 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
-      alt: "Winter home with heating system"
+      src: "https://source.unsplash.com/featured/1200x800/?gas,furnace,home&sig=411",
+      alt: "Home heating system and winter comfort"
     },
     sections: [
       {
@@ -2696,8 +2696,8 @@ const posts: Post[] = [
     date: "2024-12-10",
     readTime: "13 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
-      alt: "Person reviewing bills and a notebook"
+      src: "https://source.unsplash.com/featured/1200x800/?budget,bills,apartment&sig=412",
+      alt: "Bills and budgeting notes on a desk"
     },
     sections: [
       {

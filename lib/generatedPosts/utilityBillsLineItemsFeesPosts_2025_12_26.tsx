@@ -11,7 +11,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "14 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1554224311-beee804633fc",
+      src: "https://source.unsplash.com/featured/1200x800/?utility,bill,service&sig=501",
       alt: "Person reviewing a utility bill at a kitchen table"
     },
     relatedSlugs: [
@@ -357,7 +357,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "15 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+      src: "https://source.unsplash.com/featured/1200x800/?energy,prices,bill&sig=502",
       alt: "Close-up of a utility bill with line items highlighted"
     },
     relatedSlugs: [

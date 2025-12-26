@@ -11,7 +11,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "15 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+      src: "https://source.unsplash.com/featured/1200x800/?calendar,bill&sig=503",
       alt: "Person reviewing a utility statement with a calendar nearby"
     },
     relatedSlugs: [
@@ -225,7 +225,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "16 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e",
+      src: "https://source.unsplash.com/featured/1200x800/?late-fee,bill&sig=504",
       alt: "Utility bills with a due date highlighted on a calendar"
     },
     relatedSlugs: [
@@ -256,7 +256,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
               For the full billing structure (usage vs delivery vs fixed charges),
               start here:
               <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
-            </p>
+                src: "https://source.unsplash.com/featured/1200x800/?calculator,budget,bill&sig=505",
           </>
         )
       },
