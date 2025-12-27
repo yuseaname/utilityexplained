@@ -14,6 +14,7 @@ import { heatingCoolingPillarAcNotCoolingPosts_2025_12_26 } from "@/lib/generate
 import { utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27";
 import { waterPillarSewerAverageWinterLeakPosts_2025_12_27 } from "@/lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27";
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
+import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 
 const posts: Post[] = [
   {
@@ -3691,7 +3692,8 @@ const posts: Post[] = [
   ...utilityBillsPillarPosts_2025_12_25,
   ...utilityBillsLineItemsFeesPosts_2025_12_26,
   ...utilityBillsProrationPastDueMinimumPosts_2025_12_26,
-  ...utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27
+  ...utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27,
+  ...utilityBillsPillarAccountFeesPosts_2025_12_27
 ];
 
 export const getAllPosts = () => posts;
@@ -3809,6 +3811,18 @@ const nextReadMap: Record<
   "past-due-balance-utility-bill-explained": [
     { label: "Next read", slug: "how-to-budget-for-utilities-in-your-first-apartment" },
     { label: "Also read", slug: "minimum-bill-utility-bill-explained" }
+  ],
+  "utility-deposit-explained": [
+    { label: "Next read", slug: "utility-connection-fee-explained" },
+    { label: "Also read", slug: "past-due-balance-utility-bill-explained" }
+  ],
+  "utility-connection-fee-explained": [
+    { label: "Next read", slug: "utility-deposit-explained" },
+    { label: "Also read", slug: "utility-bill-proration-explained" }
+  ],
+  "utility-reconnection-fee-explained": [
+    { label: "Next read", slug: "past-due-balance-utility-bill-explained" },
+    { label: "Also read", slug: "budget-billing-level-pay-explained" }
   ],
   "how-to-read-your-gas-bill-therms-explained": [
     { label: "Next read", slug: "how-to-read-gas-meter" },
