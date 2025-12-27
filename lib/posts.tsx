@@ -13,6 +13,7 @@ import { gasPillarMeterSummerCustomerPosts_2025_12_26 } from "@/lib/generatedPos
 import { heatingCoolingPillarAcNotCoolingPosts_2025_12_26 } from "@/lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26";
 import { utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27";
 import { waterPillarSewerAverageWinterLeakPosts_2025_12_27 } from "@/lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27";
+import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 
 const posts: Post[] = [
   {
@@ -3686,6 +3687,7 @@ const posts: Post[] = [
   ...gasPillarMeterSummerCustomerPosts_2025_12_26,
   ...heatingCoolingPillarPosts_2025_12_25,
   ...heatingCoolingPillarAcNotCoolingPosts_2025_12_26,
+  ...heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27,
   ...utilityBillsPillarPosts_2025_12_25,
   ...utilityBillsLineItemsFeesPosts_2025_12_26,
   ...utilityBillsProrationPastDueMinimumPosts_2025_12_26,
@@ -3911,6 +3913,18 @@ const nextReadMap: Record<
   "gas-vs-electric-heating-cost-comparison": [
     { label: "Next read", slug: "afue-vs-seer-vs-hspf-vs-cop" },
     { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-winter" }
+  ],
+  "why-is-my-furnace-blowing-cold-air": [
+    { label: "Next read", slug: "heat-pump-running-all-day-in-winter" },
+    { label: "Also read", slug: "duct-leaks-symptoms-hvac-running-all-day" }
+  ],
+  "heat-pump-running-all-day-in-winter": [
+    { label: "Next read", slug: "aux-heat-vs-emergency-heat-meaning" },
+    { label: "Also read", slug: "why-is-my-furnace-blowing-cold-air" }
+  ],
+  "ac-short-cycling-causes-fixes": [
+    { label: "Next read", slug: "ac-running-but-not-cooling" },
+    { label: "Also read", slug: "duct-leaks-symptoms-hvac-running-all-day" }
   ]
 };
 
