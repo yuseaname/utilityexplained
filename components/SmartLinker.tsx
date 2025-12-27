@@ -1,4 +1,12 @@
-import { Children, Fragment, ReactNode, isValidElement, cloneElement, useMemo } from "react";
+import {
+  Children,
+  Fragment,
+  ReactElement,
+  ReactNode,
+  cloneElement,
+  isValidElement,
+  useMemo
+} from "react";
 
 type MapEntry = { phrase: string; href: string };
 
@@ -49,8 +57,8 @@ function walk(node: ReactNode, used: Set<string>, map: MapEntry[]): ReactNode {
   if (!isValidElement(node)) return node;
   const tag = typeof node.type === "string" ? node.type : undefined;
   if (tag && SKIP_TAGS.has(tag)) return node;
-  const el: any = node;
-  const kids = el.props?.children as ReactNode;
+  const el = node as ReactElement<{ children?: ReactNode }>;
+  const kids = el.props?.children;
   const newKids = Children.map(kids, (child) => walk(child as ReactNode, used, map));
   return cloneElement(el, {}, newKids);
 }

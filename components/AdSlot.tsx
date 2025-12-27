@@ -1,6 +1,5 @@
 "use client";
 
-import type { ReactNode } from "react";
 import { useEffect, useRef } from "react";
 
 type AdSlotProps = {
@@ -9,7 +8,6 @@ type AdSlotProps = {
   format?: "auto" | "rectangle" | "vertical" | "horizontal";
   slot?: string;
   responsive?: boolean;
-  children?: ReactNode;
 };
 
 const AdSlot = ({ 
@@ -17,8 +15,7 @@ const AdSlot = ({
   className = "", 
   format = "auto",
   slot,
-  responsive = true,
-  children 
+  responsive = true
 }: AdSlotProps) => {
   const adRef = useRef<HTMLModElement>(null);
   const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === "true";
@@ -27,7 +24,7 @@ const AdSlot = ({
   useEffect(() => {
     if (adsEnabled && slot && typeof window !== "undefined") {
       try {
-        // @ts-ignore
+        // @ts-expect-error - adsbygoogle is injected by the AdSense script at runtime.
         (window.adsbygoogle = window.adsbygoogle || []).push({});
       } catch (err) {
         console.error("AdSense error:", err);
