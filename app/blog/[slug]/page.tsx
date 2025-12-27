@@ -116,6 +116,8 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     { phrase: "fixed rate", href: "/blog/fixed-vs-variable-rate-electricity-plan" },
     { phrase: "variable rate", href: "/blog/fixed-vs-variable-rate-electricity-plan" },
     { phrase: "tiered pricing", href: "/water-explained" },
+    { phrase: "tiered water rates", href: "/blog/tiered-water-rates-explained" },
+    { phrase: "tiered water pricing", href: "/blog/tiered-water-rates-explained" },
     { phrase: "demand charge", href: "/blog/demand-charge-electric-bill-explained" },
     { phrase: "budget billing", href: "/blog/budget-billing-level-pay-explained" },
     { phrase: "level pay", href: "/blog/budget-billing-level-pay-explained" },
@@ -131,6 +133,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     { phrase: "fca", href: "/blog/fuel-adjustment-charge-on-utility-bill-explained" },
     { phrase: "surcharge", href: "/blog/utility-bill-surcharges-and-riders-explained" },
     { phrase: "surcharges", href: "/blog/utility-bill-surcharges-and-riders-explained" },
+    { phrase: "drought surcharge", href: "/blog/drought-surcharge-on-water-bill-explained" },
     { phrase: "rider", href: "/blog/utility-bill-surcharges-and-riders-explained" },
     { phrase: "riders", href: "/blog/utility-bill-surcharges-and-riders-explained" },
     { phrase: "franchise fee", href: "/blog/utility-bill-surcharges-and-riders-explained" },
@@ -159,6 +162,8 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     // Comparisons & decisions
     { phrase: "gas vs electric", href: "/blog/gas-vs-electric-heating-cost-comparison" },
     { phrase: "average water usage", href: "/blog/average-water-usage-per-person" },
+    { phrase: "stormwater fee", href: "/blog/stormwater-fee-on-water-bill-explained" },
+    { phrase: "stormwater charge", href: "/blog/stormwater-fee-on-water-bill-explained" },
     
     // Pillar hubs
     { phrase: "electricity basics", href: "/electricity-explained" },

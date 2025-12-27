@@ -13,6 +13,7 @@ import { gasPillarMeterSummerCustomerPosts_2025_12_26 } from "@/lib/generatedPos
 import { heatingCoolingPillarAcNotCoolingPosts_2025_12_26 } from "@/lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26";
 import { utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27";
 import { waterPillarSewerAverageWinterLeakPosts_2025_12_27 } from "@/lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27";
+import { waterPillarRatesFeesPosts_2025_12_28 } from "@/lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28";
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 
@@ -3684,6 +3685,7 @@ const posts: Post[] = [
   ...waterPillarPosts_2025_12_25,
   ...waterPillarChargesLeaksSummerPosts_2025_12_26,
   ...waterPillarSewerAverageWinterLeakPosts_2025_12_27,
+  ...waterPillarRatesFeesPosts_2025_12_28,
   ...gasPillarPosts_2025_12_25,
   ...gasPillarMeterSummerCustomerPosts_2025_12_26,
   ...heatingCoolingPillarPosts_2025_12_25,
@@ -3899,6 +3901,18 @@ const nextReadMap: Record<
   "average-water-usage-per-person": [
     { label: "Next read", slug: "why-is-my-water-bill-higher-in-summer" },
     { label: "Also read", slug: "what-is-ccf-on-a-water-bill" }
+  ],
+  "tiered-water-rates-explained": [
+    { label: "Next read", slug: "drought-surcharge-on-water-bill-explained" },
+    { label: "Also read", slug: "stormwater-fee-on-water-bill-explained" }
+  ],
+  "drought-surcharge-on-water-bill-explained": [
+    { label: "Next read", slug: "why-is-my-water-bill-higher-in-summer" },
+    { label: "Also read", slug: "tiered-water-rates-explained" }
+  ],
+  "stormwater-fee-on-water-bill-explained": [
+    { label: "Next read", slug: "how-sewer-charges-work-on-your-water-bill" },
+    { label: "Also read", slug: "water-service-charge-explained" }
   ],
   "aux-heat-vs-emergency-heat-meaning": [
     { label: "Next read", slug: "afue-vs-seer-vs-hspf-vs-cop" },
