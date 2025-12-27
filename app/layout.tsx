@@ -60,7 +60,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Script
           src="https://app.rybbit.io/api/script.js"
           data-site-id="d5b63e065e9d"
-          strategy="beforeInteractive"
+          strategy="afterInteractive"
         />
         {adsEnabled && adClient && (
           <Script

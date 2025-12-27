@@ -37,13 +37,15 @@ export default function HomePage() {
             </div>
           </div>
           <div className="hero-card">
-            {/* Image source: Unsplash (https://unsplash.com/photos/3PeSjpLVtLg) */}
+            {/* Image source: local asset. */}
             <Image
-              src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+              src="/images/utility-paperwork.jpg"
               alt="Person reviewing a utility bill"
               width={520}
               height={360}
               className="hero-image"
+              sizes="(max-width: 768px) 100vw, 520px"
+              priority
             />
             <h3>What this site covers</h3>
             <ul>

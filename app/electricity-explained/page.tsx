@@ -73,7 +73,7 @@ export default function ElectricityExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e"
+          src="/images/utility-electricity.jpg"
           alt="Electric transmission lines and power infrastructure"
           width={800}
           height={450}

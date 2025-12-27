@@ -17,6 +17,30 @@ import { waterPillarRatesFeesPosts_2025_12_28 } from "@/lib/generatedPosts/water
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 
+const localHeroImages: Record<string, string> = {
+  Electricity: "/images/utility-electricity.jpg",
+  Gas: "/images/utility-gas.jpg",
+  Water: "/images/utility-water.jpg",
+  "Heating & Cooling": "/images/utility-hvac.jpg",
+  "Utility Bills": "/images/utility-bill.jpg"
+};
+
+const normalizePostImage = (post: Post): Post => {
+  if (!post.image?.src || !post.image.src.startsWith("http")) {
+    return post;
+  }
+
+  const fallback = localHeroImages[post.category] ?? "/images/utility-home.jpg";
+
+  return {
+    ...post,
+    image: {
+      ...post.image,
+      src: fallback
+    }
+  };
+};
+
 const posts: Post[] = [
   {
     slug: "why-is-my-electricity-bill-so-high-in-winter",
@@ -3698,10 +3722,12 @@ const posts: Post[] = [
   ...utilityBillsPillarAccountFeesPosts_2025_12_27
 ];
 
-export const getAllPosts = () => posts;
+const normalizedPosts = posts.map(normalizePostImage);
+
+export const getAllPosts = () => normalizedPosts;
 
 export const getPostBySlug = (slug: string) =>
-  posts.find((post) => post.slug === slug);
+  normalizedPosts.find((post) => post.slug === slug);
 
 const nextReadMap: Record<
   string,
@@ -3970,15 +3996,15 @@ export const getNextReads = (slug: string) => {
 export const getRelatedPosts = (slug: string) => {
   const current = getPostBySlug(slug);
   if (!current) return [];
-  return posts.filter((post) => current.relatedSlugs.includes(post.slug));
+  return normalizedPosts.filter((post) => current.relatedSlugs.includes(post.slug));
 };
 
 export const getCategories = () => {
-  const categories = new Set(posts.map((post) => post.category));
+  const categories = new Set(normalizedPosts.map((post) => post.category));
   return Array.from(categories);
 };
 
 export const getPostsByCategory = (category: string) =>
-  posts.filter((post) => post.category === category);
+  normalizedPosts.filter((post) => post.category === category);
 
-export default posts;
+export default normalizedPosts;

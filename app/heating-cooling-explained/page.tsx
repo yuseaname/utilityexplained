@@ -74,7 +74,7 @@ export default function HeatingCoolingExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="https://images.unsplash.com/photo-1607400201889-565b1ee75f8e"
+          src="/images/utility-hvac.jpg"
           alt="Modern HVAC thermostat control panel"
           width={800}
           height={450}
