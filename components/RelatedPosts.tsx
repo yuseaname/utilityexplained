@@ -1,17 +1,19 @@
 import PostCard from "@/components/PostCard";
 import type { Post } from "@/lib/types";
 
+type RelatedPostItem = { post: Post; label?: string };
+
 type RelatedPostsProps = {
   posts?: Post[];
-  labeledPosts?: { post: Post; label?: string }[];
+  labeledPosts?: RelatedPostItem[];
   title?: string;
 };
 
 const RelatedPosts = ({ posts = [], labeledPosts, title }: RelatedPostsProps) => {
-  const items =
+  const items: RelatedPostItem[] =
     labeledPosts && labeledPosts.length > 0
       ? labeledPosts
-      : posts.map((post) => ({ post }));
+      : posts.map((post) => ({ post, label: undefined }));
   if (items.length === 0) return null;
   const heading = title ?? (labeledPosts?.length ? "Next read" : "Related articles");
   return (
