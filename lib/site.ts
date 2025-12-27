@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: "Utility Plain English",
+  name: "Utility Explained",
   description:
     "Plain-English guides to electricity, gas, and water bills so you can budget with confidence, not confusion.",
-  url: "https://www.utilityplainenglish.com",
+  url: "https://www.utilityexplained.com",
   ogImage: "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
   socials: {
-    email: "hello@utilityplainenglish.com"
+    email: "hello@utilityexplained.com"
   }
 };
 

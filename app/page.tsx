@@ -21,10 +21,10 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div>
-            <h1>Finally understand your utility bills—no jargon, no stress.</h1>
+            <h1>Finally understand your utility bills--no jargon, no stress.</h1>
             <p>
               Utility bills can feel like a foreign language. We break down electricity,
-              gas, and water costs so you can budget with confidence—not confusion.
+              gas, and water costs so you can budget with confidence--not confusion.
             </p>
             <p>
               Learn what kWh, therms, and CCF actually mean. Predict seasonal spikes
@@ -65,7 +65,7 @@ export default function HomePage() {
             <div className="hero-card">
               <h3>1. Pick your utility</h3>
               <p>
-                Start with electric, gas, or water—whichever bill is confusing you
+                Start with electric, gas, or water--whichever bill is confusing you
                 right now.
               </p>
             </div>
@@ -100,7 +100,9 @@ export default function HomePage() {
 
       <AdSlot label="Homepage lower ad" format="horizontal" slot={process.env.NEXT_PUBLIC_AD_SLOT_HOME_BOTTOM} />
 
-      <section className="section">\n        <div className="container">\n          <h2>Why readers come here first</h2>
+      <section className="section">
+        <div className="container">
+          <h2>Why readers come here first</h2>
           <div className="post-grid">
             <div className="hero-card">
               <h3>Neutral, practical explanations</h3>

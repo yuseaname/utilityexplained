@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -20,8 +21,55 @@ export const metadata: Metadata = {
 };
 
 export default function WaterExplainedPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Water Service Explained: Complete Guide to Understanding Water Bills",
+    description:
+      "Learn how water is measured, how water bills are structured, what drives water costs, and how to manage usage in plain English.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/water-explained`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Water Service Explained",
+        item: `${siteConfig.url}/water-explained`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Water Service Explained" }
+        ]}
+      />
       <h1>Water Service Explained: Your Complete Guide</h1>
       
       <div className="hero-card">
@@ -35,7 +83,7 @@ export default function WaterExplainedPage() {
       </div>
 
       <p className="intro-text">
-        Water service brings fresh water to your home and removes wastewater through sewer systems. Water bills often include both water and sewer charges, plus fixed fees. This guide explains how water is measured, how you are billed, what drives usage, and how to detect problems—all in plain, straightforward language.
+        Water service brings fresh water to your home and removes wastewater through sewer systems. Water bills often include both water and sewer charges, plus fixed fees. This guide explains how water is measured, how you are billed, what drives usage, and how to detect problems--all in plain, straightforward language.
       </p>
 
       <section>
@@ -44,7 +92,7 @@ export default function WaterExplainedPage() {
           Your local water utility treats water from wells, rivers, or reservoirs to make it safe for drinking and household use. The water flows through underground pipes to your neighborhood, then through a service line to your home.
         </p>
         <p>
-          A water meter measures how much water enters your home. Everything you use—showers, toilets, laundry, cooking, outdoor watering—passes through the meter. The utility reads the meter monthly or bi-monthly and bills you for what you used.
+          A water meter measures how much water enters your home. Everything you use--showers, toilets, laundry, cooking, outdoor watering--passes through the meter. The utility reads the meter monthly or bi-monthly and bills you for what you used.
         </p>
         <p>
           Wastewater (sewage) leaves your home through a separate drain system and goes to a treatment plant. Most utilities charge for sewer service based on water usage, since what goes in usually comes back out. Some systems use a winter average to estimate sewer charges, which avoids charging for outdoor water that does not enter the sewer.
@@ -153,7 +201,7 @@ export default function WaterExplainedPage() {
           To verify your bill, compare the current meter reading to the previous reading listed on the bill. The difference is your usage. If the units do not match, use the conversion: 1 cubic foot = 7.48 gallons.
         </p>
         <p>
-          Many meters have a leak indicator—a small triangle, dial, or flashing light that moves when water is flowing. If it moves when all water is turned off, you likely have a leak.
+          Many meters have a leak indicator--a small triangle, dial, or flashing light that moves when water is flowing. If it moves when all water is turned off, you likely have a leak.
         </p>
       </section>
 
@@ -242,17 +290,48 @@ export default function WaterExplainedPage() {
           <li>
             <Link href="/blog/how-to-read-a-water-meter">
               How to read a water meter (and know if it is accurate)
-            </Link> — Step-by-step guide to reading and checking your meter.
+            </Link> -- Step-by-step guide to reading and checking your meter.
           </li>
           <li>
             <Link href="/blog/why-did-my-water-bill-suddenly-increase">
               Why did my water bill suddenly increase?
-            </Link> — Understand common causes of spikes and how to troubleshoot.
+            </Link> -- Understand common causes of spikes and how to troubleshoot.
+          </li>
+          
+          <li>
+            <Link href="/blog/what-is-ccf-on-a-water-bill">
+              What is CCF on a water bill?
+            </Link> - Convert cubic feet to gallons and costs.
           </li>
           <li>
-            <Link href="/blog/average-water-usage-per-person">
-              Average water usage per person: a practical range
-            </Link> — See typical usage ranges and what affects your household total.
+            <Link href="/blog/water-meter-leak-indicator-explained">
+              Water meter leak indicator explained
+            </Link> - Spot continuous use before it spikes your bill.
+          </li>
+          <li>
+            <Link href="/blog/is-your-toilet-running-leak-test">
+              Is your toilet running? Simple leak test
+            </Link> - A quick check that saves hundreds of gallons.
+          </li>
+          <li>
+            <Link href="/blog/how-sewer-charges-work-on-your-water-bill">
+              How sewer charges work on your water bill
+            </Link> - Understand wastewater pricing and averages.
+          </li>
+          <li>
+            <Link href="/blog/water-service-charge-explained">
+              Water service charge explained
+            </Link> - See why a fixed fee appears every month.
+          </li>
+          <li>
+            <Link href="/blog/tiered-water-rates-explained">
+              Tiered water rates explained
+            </Link> - Learn how higher use raises the price per unit.
+          </li>
+          <li>
+            <Link href="/blog/why-is-my-water-bill-higher-in-summer">
+              Why is my water bill higher in summer?
+            </Link> - Outdoor watering and seasonal drivers.
           </li>
         </ul>
       </section>
@@ -290,6 +369,15 @@ export default function WaterExplainedPage() {
           For broader utility budgeting advice, visit our <Link href="/utility-bills-costs-explained">utility bills and costs guide</Link>. To compare water costs to other utilities, see our guides on <Link href="/electricity-explained">electricity</Link> and <Link href="/gas-explained">natural gas</Link>.
         </p>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

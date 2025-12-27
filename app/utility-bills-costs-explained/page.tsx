@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -20,8 +21,55 @@ export const metadata: Metadata = {
 };
 
 export default function UtilityBillsCostsExplainedPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Utility Bills & Costs Explained: Complete Budgeting and Management Guide",
+    description:
+      "Learn how to read utility bills, understand rate structures, budget for seasonal costs, and manage electricity, gas, water, and other home utility expenses.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/utility-bills-costs-explained`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Utility Bills & Costs Explained",
+        item: `${siteConfig.url}/utility-bills-costs-explained`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Utility Bills & Costs Explained" }
+        ]}
+      />
       <h1>Utility Bills & Costs Explained: Your Complete Guide</h1>
       
       <div className="hero-card">
@@ -35,7 +83,7 @@ export default function UtilityBillsCostsExplainedPage() {
       </div>
 
       <p className="intro-text">
-        Utility bills cover the essential services that power and support your home—electricity, natural gas, water, sewer, trash, and sometimes internet. Understanding how these bills are structured, what drives costs, and how to budget for seasonal changes helps you manage expenses and avoid surprises. This guide explains utility billing and cost management in plain, practical language.
+        Utility bills cover the essential services that power and support your home--electricity, natural gas, water, sewer, trash, and sometimes internet. Understanding how these bills are structured, what drives costs, and how to budget for seasonal changes helps you manage expenses and avoid surprises. This guide explains utility billing and cost management in plain, practical language.
       </p>
 
       <section>
@@ -44,7 +92,7 @@ export default function UtilityBillsCostsExplainedPage() {
           Utility bills are monthly or bi-monthly charges for services delivered to your home. The most common utilities are electricity, natural gas, water, and sewer. Some households also pay for trash collection, recycling, stormwater management, or internet as utilities.
         </p>
         <p>
-          Utilities are usually billed by local providers—either government-owned utilities or private companies regulated by state or local agencies. Rates and billing practices vary by location, but most bills follow similar structures.
+          Utilities are usually billed by local providers--either government-owned utilities or private companies regulated by state or local agencies. Rates and billing practices vary by location, but most bills follow similar structures.
         </p>
       </section>
 
@@ -52,11 +100,11 @@ export default function UtilityBillsCostsExplainedPage() {
         <h2>Common components of utility bills</h2>
         <h3>Usage charges (variable costs)</h3>
         <p>
-          This is the cost of what you actually used—kilowatt-hours (kWh) for electricity, therms for gas, gallons or cubic feet for water. Usage charges vary each month based on consumption. Higher usage means higher costs.
+          This is the cost of what you actually used--kilowatt-hours (kWh) for electricity, therms for gas, gallons or cubic feet for water. Usage charges vary each month based on consumption. Higher usage means higher costs.
         </p>
         <h3>Delivery or distribution charges</h3>
         <p>
-          These cover the cost of infrastructure—power lines, gas pipes, water mains, treatment plants, and maintenance. Delivery charges may be fixed, usage-based, or a combination of both. You pay these even if you choose a different energy supplier.
+          These cover the cost of infrastructure--power lines, gas pipes, water mains, treatment plants, and maintenance. Delivery charges may be fixed, usage-based, or a combination of both. You pay these even if you choose a different energy supplier.
         </p>
         <h3>Fixed fees and customer charges</h3>
         <p>
@@ -72,7 +120,7 @@ export default function UtilityBillsCostsExplainedPage() {
         <h2>How to read your utility bills</h2>
         <h3>Billing period and usage summary</h3>
         <p>
-          The bill lists the start and end dates of the billing period and the total days. Compare the number of days to previous bills—a longer period will cost more even if daily usage stays the same.
+          The bill lists the start and end dates of the billing period and the total days. Compare the number of days to previous bills--a longer period will cost more even if daily usage stays the same.
         </p>
         <p>
           The usage summary shows current and previous meter readings, plus total usage for the period. If the reading is estimated, the next bill will correct it.
@@ -107,7 +155,7 @@ export default function UtilityBillsCostsExplainedPage() {
         </p>
         <h3>Demand charges (less common for residential)</h3>
         <p>
-          Some utilities charge based on peak demand—the highest usage in a short period. This is more common for commercial customers but can apply to residential customers in certain areas.
+          Some utilities charge based on peak demand--the highest usage in a short period. This is more common for commercial customers but can apply to residential customers in certain areas.
         </p>
       </section>
 
@@ -185,7 +233,7 @@ export default function UtilityBillsCostsExplainedPage() {
         <ul>
           <li>Lower the thermostat, especially at night.</li>
           <li>Seal air leaks around windows and doors.</li>
-          <li>Set water heater to 120°F if safe.</li>
+          <li>Set water heater to 120 degF if safe.</li>
           <li>Schedule annual furnace maintenance.</li>
         </ul>
         <h3>Water</h3>
@@ -264,26 +312,82 @@ export default function UtilityBillsCostsExplainedPage() {
         </p>
         <ul>
           <li>
-            <Link href="/electricity-explained">Electricity explained</Link> — Learn how kWh, rates, and electric bills work.
+            <Link href="/electricity-explained">Electricity explained</Link> -- Learn how kWh, rates, and electric bills work.
           </li>
           <li>
-            <Link href="/gas-explained">Natural gas explained</Link> — Understand therms, gas furnaces, and gas billing.
+            <Link href="/gas-explained">Natural gas explained</Link> -- Understand therms, gas furnaces, and gas billing.
           </li>
           <li>
-            <Link href="/water-explained">Water service explained</Link> — See how water is measured, billed, and conserved.
+            <Link href="/water-explained">Water service explained</Link> -- See how water is measured, billed, and conserved.
           </li>
           <li>
-            <Link href="/heating-cooling-explained">Heating & cooling explained</Link> — Compare HVAC systems and efficiency ratings.
+            <Link href="/heating-cooling-explained">Heating & cooling explained</Link> -- Compare HVAC systems and efficiency ratings.
           </li>
           <li>
             <Link href="/blog/how-to-budget-for-utilities-in-your-first-apartment">
               How to budget for utilities in your first apartment
-            </Link> — A practical budgeting guide for renters.
+            </Link> -- A practical budgeting guide for renters.
+          </li>
+          
+          <li>
+            <Link href="/blog/estimated-utility-bill-explained">
+              Estimated utility bill explained
+            </Link> - What estimated means and how corrections work.
           </li>
           <li>
-            <Link href="/blog/fixed-vs-variable-rate-electricity-plan">
-              Fixed vs. variable rate electricity plans
-            </Link> — Compare plan types and choose the right fit.
+            <Link href="/blog/utility-billing-cycle-explained">
+              Utility billing cycle explained
+            </Link> - Compare bills by days and usage.
+          </li>
+          <li>
+            <Link href="/blog/utility-bill-proration-explained">
+              Utility bill proration explained
+            </Link> - Why partial months look high or low.
+          </li>
+          <li>
+            <Link href="/blog/what-is-customer-charge-on-utility-bill">
+              What is a customer charge on a utility bill?
+            </Link> - Understand the fixed base fee.
+          </li>
+          <li>
+            <Link href="/blog/delivery-charge-vs-supply-charge-utility-bill">
+              Delivery charge vs supply charge
+            </Link> - Separate infrastructure from energy cost.
+          </li>
+          <li>
+            <Link href="/blog/utility-bill-taxes-fees-franchise-charges-explained">
+              Utility bill taxes, fees, and franchise charges
+            </Link> - Small lines that add up.
+          </li>
+          <li>
+            <Link href="/blog/utility-bill-surcharges-and-riders-explained">
+              Utility bill surcharges and riders explained
+            </Link> - Common add-ons and what they fund.
+          </li>
+          <li>
+            <Link href="/blog/fuel-adjustment-charge-on-utility-bill-explained">
+              Fuel adjustment charge on a utility bill
+            </Link> - Why fuel costs fluctuate month to month.
+          </li>
+          <li>
+            <Link href="/blog/budget-billing-level-pay-explained">
+              Budget billing and level pay explained
+            </Link> - How flat monthly payments work.
+          </li>
+          <li>
+            <Link href="/blog/why-my-utility-bill-is-higher-with-same-usage">
+              Why my utility bill is higher with the same usage
+            </Link> - Rates, days, and fees that change totals.
+          </li>
+          <li>
+            <Link href="/blog/minimum-bill-utility-bill-explained">
+              Minimum bill on a utility bill explained
+            </Link> - Why totals cannot drop below a floor.
+          </li>
+          <li>
+            <Link href="/blog/past-due-balance-utility-bill-explained">
+              Past-due balance on a utility bill explained
+            </Link> - Avoid compounding charges.
           </li>
         </ul>
       </section>
@@ -321,6 +425,15 @@ export default function UtilityBillsCostsExplainedPage() {
           For specific advice on each utility, explore our detailed guides on <Link href="/electricity-explained">electricity</Link>, <Link href="/gas-explained">natural gas</Link>, <Link href="/water-explained">water</Link>, and <Link href="/heating-cooling-explained">heating and cooling</Link>.
         </p>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

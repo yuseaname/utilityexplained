@@ -119,8 +119,8 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
             </p>
             <h3>Where the dates appear</h3>
             <p>
-              Most bills list a service period near the top, often labeled “Service
-              Dates,” “Billing Period,” or “Usage Period.”
+              Most bills list a service period near the top, often labeled "Service
+              Dates," "Billing Period," or "Usage Period."
             </p>
             <h3>Terms you might see</h3>
             <ul>
@@ -171,15 +171,15 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Prorated means the utility guessed.”</strong> Not necessarily.
+                <strong>"Prorated means the utility guessed."</strong> Not necessarily.
                 It just means the bill covers part of the cycle.
               </li>
               <li>
-                <strong>“A short period should be almost free.”</strong> Fixed charges
+                <strong>"A short period should be almost free."</strong> Fixed charges
                 can still apply even for partial months.
               </li>
               <li>
-                <strong>“The bill date is the same as the usage period.”</strong> The
+                <strong>"The bill date is the same as the usage period."</strong> The
                 usage period is what matters for proration.
               </li>
             </ul>
@@ -243,7 +243,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p className="lead">
-              You open your bill and see “past due,” a late fee, or even a
+              You open your bill and see "past due," a late fee, or even a
               disconnect notice. It feels urgent, and it is not always clear why it
               happened.
             </p>
@@ -398,15 +398,15 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Past due means I did not pay.”</strong> It can also mean the
+                <strong>"Past due means I did not pay."</strong> It can also mean the
                 payment posted after the due date.
               </li>
               <li>
-                <strong>“A disconnect notice means service ends today.”</strong> It is
+                <strong>"A disconnect notice means service ends today."</strong> It is
                 usually a warning step, not immediate shutoff.
               </li>
               <li>
-                <strong>“Late fees are tied to usage.”</strong> Late fees are tied to
+                <strong>"Late fees are tied to usage."</strong> Late fees are tied to
                 payment timing.
               </li>
             </ul>
@@ -610,15 +610,15 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Minimum means I must have used that much.”</strong> It is a
+                <strong>"Minimum means I must have used that much."</strong> It is a
                 billing floor, not a usage amount.
               </li>
               <li>
-                <strong>“Minimum bill is the same as a late fee.”</strong> It is not.
+                <strong>"Minimum bill is the same as a late fee."</strong> It is not.
                 Late fees relate to payment timing.
               </li>
               <li>
-                <strong>“If I use zero, my bill must be zero.”</strong> Some utilities
+                <strong>"If I use zero, my bill must be zero."</strong> Some utilities
                 still apply a minimum to keep service active.
               </li>
             </ul>

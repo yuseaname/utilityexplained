@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -20,8 +21,55 @@ export const metadata: Metadata = {
 };
 
 export default function HeatingCoolingExplainedPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Heating & Cooling Explained: Complete Guide to HVAC Systems and Costs",
+    description:
+      "Learn how heating and cooling systems work, compare gas vs electric options, understand efficiency ratings, and manage HVAC costs in plain English.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/heating-cooling-explained`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Heating & Cooling Explained",
+        item: `${siteConfig.url}/heating-cooling-explained`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Heating & Cooling Explained" }
+        ]}
+      />
       <h1>Heating & Cooling Explained: Your Complete Guide</h1>
       
       <div className="hero-card">
@@ -163,7 +211,7 @@ export default function HeatingCoolingExplainedPage() {
       <section>
         <h2>How to reduce heating and cooling costs</h2>
         <ul>
-          <li>Set the thermostat to 68°F or lower in winter, 76°F or higher in summer.</li>
+          <li>Set the thermostat to 68 degF or lower in winter, 76 degF or higher in summer.</li>
           <li>Use a programmable or smart thermostat to reduce heating/cooling when away.</li>
           <li>Replace HVAC filters monthly during heavy use seasons.</li>
           <li>Seal air leaks around windows, doors, and ductwork.</li>
@@ -211,7 +259,7 @@ export default function HeatingCoolingExplainedPage() {
         <h2>Common misconceptions about heating and cooling</h2>
         <h3>Misconception: Cranking the thermostat heats or cools the home faster</h3>
         <p>
-          Most systems run at a fixed speed. Setting the thermostat to 80°F in winter does not make the furnace work harder or faster. It just makes the system run longer until it reaches 80°F.
+          Most systems run at a fixed speed. Setting the thermostat to 80 degF in winter does not make the furnace work harder or faster. It just makes the system run longer until it reaches 80 degF.
         </p>
         <h3>Misconception: Closing vents in unused rooms saves energy</h3>
         <p>
@@ -242,17 +290,53 @@ export default function HeatingCoolingExplainedPage() {
           <li>
             <Link href="/blog/gas-vs-electric-heating-cost-comparison">
               Gas vs. electric heating: cost comparison for real homes
-            </Link> — Compare fuel costs, efficiency, and total expenses.
+            </Link> -- Compare fuel costs, efficiency, and total expenses.
           </li>
           <li>
             <Link href="/blog/why-is-my-electricity-bill-so-high-in-winter">
               Why is my electricity bill so high in winter?
-            </Link> — Understand winter heating loads and electric heat costs.
+            </Link> -- Understand winter heating loads and electric heat costs.
+          </li>
+          
+          <li>
+            <Link href="/blog/aux-heat-vs-emergency-heat-meaning">
+              Aux heat vs emergency heat: what it means
+            </Link> - Know when backup heat turns on.
           </li>
           <li>
-            <Link href="/blog/why-is-my-electricity-bill-so-high-in-summer">
-              Why is my electricity bill so high in summer?
-            </Link> — Learn how air conditioning and humidity affect summer usage.
+            <Link href="/blog/afue-vs-seer-vs-hspf-vs-cop">
+              AFUE vs SEER vs HSPF vs COP
+            </Link> - Compare efficiency ratings side by side.
+          </li>
+          <li>
+            <Link href="/blog/ac-running-but-not-cooling">
+              AC running but not cooling
+            </Link> - Common causes and quick checks.
+          </li>
+          <li>
+            <Link href="/blog/duct-leaks-symptoms-hvac-running-all-day">
+              Duct leak symptoms and fixes
+            </Link> - Stop airflow losses and long run times.
+          </li>
+          <li>
+            <Link href="/blog/ductless-mini-split-vs-central-air">
+              Ductless mini-split vs central air
+            </Link> - Choose the right system for your home.
+          </li>
+          <li>
+            <Link href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac">
+              Single-stage vs two-stage vs variable-speed HVAC
+            </Link> - Understand comfort, cost, and efficiency.
+          </li>
+          <li>
+            <Link href="/blog/heat-pump-running-all-day-in-winter">
+              Heat pump running all day in winter
+            </Link> - When it is normal and when it is not.
+          </li>
+          <li>
+            <Link href="/blog/why-is-my-furnace-blowing-cold-air">
+              Why is my furnace blowing cold air?
+            </Link> - Troubleshoot common causes.
           </li>
         </ul>
       </section>
@@ -261,7 +345,7 @@ export default function HeatingCoolingExplainedPage() {
         <h2>Frequently asked questions</h2>
         <h3>What temperature should I set my thermostat to save money?</h3>
         <p>
-          For heating, 68°F or lower during the day and 60°F to 65°F at night is a good starting point. For cooling, 76°F to 78°F is comfortable for most people and reduces runtime compared to lower settings.
+          For heating, 68 degF or lower during the day and 60 degF to 65 degF at night is a good starting point. For cooling, 76 degF to 78 degF is comfortable for most people and reduces runtime compared to lower settings.
         </p>
         <h3>How often should I replace my HVAC filter?</h3>
         <p>
@@ -290,6 +374,15 @@ export default function HeatingCoolingExplainedPage() {
           For broader utility cost management, visit our <Link href="/utility-bills-costs-explained">utility bills and costs guide</Link>. To compare energy sources, see our guides on <Link href="/electricity-explained">electricity</Link> and <Link href="/gas-explained">natural gas</Link>.
         </p>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         url: siteConfig.ogImage,
         width: 1200,
         height: 630,
-        alt: "Utility Plain English"
+        alt: "Utility Explained"
       }
     ],
     type: "website"

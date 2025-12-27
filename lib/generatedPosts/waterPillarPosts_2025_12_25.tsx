@@ -5,7 +5,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
     slug: "what-is-ccf-on-a-water-bill",
     title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
     description:
-      "CCF shows up on many water bills. Here’s what it means, how to convert it to gallons, and how it turns into charges.",
+      "CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges.",
     category: "Water",
     keyword: "what is ccf on a water bill",
     date: "2025-12-25",
@@ -21,13 +21,13 @@ export const waterPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              If you opened your water bill and saw “CCF,” you are not alone. It is
+              If you opened your water bill and saw "CCF," you are not alone. It is
               one of those utility terms that feels obvious to the utility and
               totally unclear to everyone else.
             </p>
             <p>
-              Here is the simple definition: <strong>CCF means “hundred cubic feet.”</strong>
-              It is a unit of <em>volume</em>—how much water flowed through your
+              Here is the simple definition: <strong>CCF means "hundred cubic feet."</strong>
+              It is a unit of <em>volume</em>--how much water flowed through your
               meter during the billing period.
             </p>
             <p>
@@ -47,8 +47,8 @@ export const waterPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Utilities measure water in volume. The most common units you’ll see
-              are gallons, cubic feet (ft³), and CCF.
+              Utilities measure water in volume. The most common units you'll see
+              are gallons, cubic feet (ft3), and CCF.
             </p>
             <ul>
               <li>
@@ -60,11 +60,11 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             </ul>
             <p>
               So if your bill says you used 6 CCF, that is about 4,488 gallons
-              ($6 × 748$).
+              ($6 x 748$).
             </p>
             <p>
               Some cities use <strong>kgal</strong> (thousand gallons) instead.
-              The important thing is that the unit is just a way to count volume—
+              The important thing is that the unit is just a way to count volume--
               it does not change the actual amount of water you used.
             </p>
           </>
@@ -96,17 +96,17 @@ export const waterPillarPosts_2025_12_25: Post[] = [
                 </tr>
                 <tr>
                   <td>2 CCF</td>
-                  <td>~1,500 gallons</td>
+                  <td>?1,500 gallons</td>
                 </tr>
                 <tr>
                   <td>10 CCF</td>
-                  <td>~7,500 gallons</td>
+                  <td>?7,500 gallons</td>
                 </tr>
               </tbody>
             </table>
             <p>
-              The goal isn’t perfect math. The goal is being able to look at your
-              bill and think, “Is this number in the right ballpark?”
+              The goal isn't perfect math. The goal is being able to look at your
+              bill and think, "Is this number in the right ballpark?"
             </p>
           </>
         )
@@ -124,13 +124,13 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             <h3>Flat-rate pricing</h3>
             <p>
               With a flat rate, each CCF costs the same. Your usage charge is
-              basically: <strong>CCF × rate</strong>.
+              basically: <strong>CCF x rate</strong>.
             </p>
             <h3>Tiered pricing</h3>
             <p>
               With tiers (block pricing), the first chunk of usage is cheaper and
               later chunks are more expensive. That can make it look like your
-              “price per unit” changed month to month.
+              "price per unit" changed month to month.
             </p>
             <p>
               If your bill also includes sewer, your water usage may drive that
@@ -161,13 +161,13 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             <h3>2) Check whether the jump makes sense</h3>
             <p>
               If your usage suddenly spiked, your next step is usually to rule out
-              leaks—especially toilets. Our troubleshooting guide is
+              leaks--especially toilets. Our troubleshooting guide is
               <a href="/blog/is-your-toilet-running-leak-test">
                 a simple toilet leak test
               </a>
               (it takes minutes).
             </p>
-            <h3>3) Use “normal” as context (not as a rule)</h3>
+            <h3>3) Use "normal" as context (not as a rule)</h3>
             <p>
               Households vary, but having a rough benchmark helps. See
               <a href="/blog/average-water-usage-per-person">
@@ -185,20 +185,20 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“CCF is water pressure.”</strong> No—pressure is psi.
+                <strong>"CCF is water pressure."</strong> No--pressure is psi.
                 CCF is strictly volume.
               </li>
               <li>
-                <strong>“CCF is a fee.”</strong> CCF is the measurement.
+                <strong>"CCF is a fee."</strong> CCF is the measurement.
                 The fee comes from the rate applied to that measurement.
               </li>
               <li>
-                <strong>“The utility is hiding gallons.”</strong> Usually it’s just
-                a standard unit that’s convenient for billing.
+                <strong>"The utility is hiding gallons."</strong> Usually it's just
+                a standard unit that's convenient for billing.
               </li>
             </ul>
             <p>
-              If you want the broader “why did this jump?” diagnosis, see
+              If you want the broader "why did this jump?" diagnosis, see
               <a href="/blog/why-did-my-water-bill-suddenly-increase">
                 why water bills suddenly increase
               </a>
@@ -243,7 +243,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
     title:
       "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)",
     description:
-      "Sewer charges confuse a lot of people—especially when they cost more than water. Here’s how they’re usually calculated and what to check.",
+      "Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check.",
     category: "Water",
     keyword: "how sewer charges work on your water bill",
     date: "2025-12-25",
@@ -260,7 +260,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               Many people expect sewer to be a small add-on. Then they see the bill
-              and think, “Why is the sewer line so high?”
+              and think, "Why is the sewer line so high?"
             </p>
             <p>
               The simplest explanation is this: <strong>water service delivers clean water</strong>,
@@ -296,15 +296,15 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>2) Winter average (to avoid charging sewer for outdoor watering)</h3>
             <p>
-              Some utilities calculate sewer charges using a “winter average” of
+              Some utilities calculate sewer charges using a "winter average" of
               your water usage, when outdoor watering is minimal. That way, summer
-              lawn watering doesn’t inflate sewer charges.
+              lawn watering doesn't inflate sewer charges.
             </p>
             <h3>3) Flat fees, minimums, and caps</h3>
             <p>
               Many bills include a fixed monthly sewer fee, a minimum charge, or a
               cap on billable sewer usage. These rules are usually described in the
-              fine print or on the utility’s rate sheet.
+              fine print or on the utility's rate sheet.
             </p>
           </>
         )
@@ -315,7 +315,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              It feels backward, but it’s common. Sewer can be higher because:
+              It feels backward, but it's common. Sewer can be higher because:
             </p>
             <ul>
               <li>
@@ -361,7 +361,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             <h3>3) Are there minimums or caps?</h3>
             <p>
               Some utilities cap sewer at a certain usage level or apply minimum
-              charges. That can make the “rate per unit” look strange when usage is
+              charges. That can make the "rate per unit" look strange when usage is
               very low.
             </p>
           </>
@@ -373,16 +373,16 @@ export const waterPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Here’s the part that surprises people: if sewer is tied to your water
-              usage, a leak can inflate sewer charges too—even if the leak never
-              “reaches” the treatment plant.
+              Here's the part that surprises people: if sewer is tied to your water
+              usage, a leak can inflate sewer charges too--even if the leak never
+              "reaches" the treatment plant.
             </p>
             <p>
               Toilets are a common silent leak. If you want a quick test, see
               <a href="/blog/is-your-toilet-running-leak-test">this toilet leak test</a>.
             </p>
             <p>
-              If you’d rather start from the meter and prove continuous flow, see
+              If you'd rather start from the meter and prove continuous flow, see
               <a href="/blog/how-to-read-a-water-meter">how to read a water meter</a>.
             </p>
           </>
@@ -395,17 +395,17 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Sewer is double-charging me.”</strong> Usually it’s charging
+                <strong>"Sewer is double-charging me."</strong> Usually it's charging
                 for a different service: wastewater collection and treatment.
               </li>
               <li>
-                <strong>“Outdoor water always counts for sewer.”</strong> Sometimes it
-                does, sometimes it doesn’t. Winter averaging and irrigation meters
+                <strong>"Outdoor water always counts for sewer."</strong> Sometimes it
+                does, sometimes it doesn't. Winter averaging and irrigation meters
                 are two common exceptions.
               </li>
               <li>
-                <strong>“If my water is low, sewer should be $0.”</strong> Sewer often
-                has fixed infrastructure costs, so there’s usually a base fee.
+                <strong>"If my water is low, sewer should be $0."</strong> Sewer often
+                has fixed infrastructure costs, so there's usually a base fee.
               </li>
             </ul>
           </>
@@ -431,7 +431,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
       {
         question: "Can a leak increase my sewer bill too?",
         answer:
-          "Yes. If your utility ties sewer charges to your water usage, extra water recorded by the meter can raise both water and sewer charges—even if the leak is silent."
+          "Yes. If your utility ties sewer charges to your water usage, extra water recorded by the meter can raise both water and sewer charges--even if the leak is silent."
       }
     ],
     relatedSlugs: [
@@ -447,7 +447,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
     title:
       "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)",
     description:
-      "Running toilets are one of the most common hidden causes of high water bills. Here’s how to test for a leak and what it usually means.",
+      "Running toilets are one of the most common hidden causes of high water bills. Here's how to test for a leak and what it usually means.",
     category: "Water",
     keyword: "toilet running water bill",
     date: "2025-12-25",
@@ -464,7 +464,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               A running toilet is one of the most frustrating utility problems:
-              it can waste a lot of water without looking “broken.”
+              it can waste a lot of water without looking "broken."
             </p>
             <p>
               Sometimes you hear the toilet refill randomly. Sometimes you hear
@@ -472,9 +472,9 @@ export const waterPillarPosts_2025_12_25: Post[] = [
               where the problem finally shows up.
             </p>
             <p>
-              If you’re trying to understand the full water-bill structure, start
+              If you're trying to understand the full water-bill structure, start
               with <a href="/water-explained">Water Service Explained</a>.
-              If you’re in “why did this spike?” mode, see
+              If you're in "why did this spike?" mode, see
               <a href="/blog/why-did-my-water-bill-suddenly-increase">
                 why water bills suddenly increase
               </a>
@@ -491,7 +491,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             <h3>The dye test (toilet-specific)</h3>
             <p>
               Add a few drops of food coloring (or a dye tablet) to the toilet tank,
-              then wait 10–15 minutes without flushing. If color appears in the bowl,
+              then wait 10-15 minutes without flushing. If color appears in the bowl,
               water is leaking from the tank into the bowl.
             </p>
             <h3>The meter test (confirms continuous flow)</h3>
@@ -518,16 +518,16 @@ export const waterPillarPosts_2025_12_25: Post[] = [
             </p>
             <p>
               In many cities, sewer is tied to your water usage. That means extra
-              metered water can raise the sewer portion too. If you’ve ever wondered
+              metered water can raise the sewer portion too. If you've ever wondered
               why sewer feels high, this explains it:
               <a href="/blog/how-sewer-charges-work-on-your-water-bill">
                 how sewer charges work
               </a>
               .
             </p>
-            <h3>A simple “back-of-the-napkin” estimate</h3>
+            <h3>A simple "back-of-the-napkin" estimate</h3>
             <p>
-              You don’t need perfect numbers. You just need a sense of scale.
+              You don't need perfect numbers. You just need a sense of scale.
               If your bill uses CCF, this converter helps:
               <a href="/blog/what-is-ccf-on-a-water-bill">what CCF means</a>.
             </p>
@@ -550,7 +550,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               Most running-toilet issues come from a few parts inside the tank.
-              You don’t need to be a plumber to understand the categories:
+              You don't need to be a plumber to understand the categories:
             </p>
             <ul>
               <li>
@@ -567,9 +567,9 @@ export const waterPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              If you’re not comfortable working inside the tank, it’s reasonable to
-              call a licensed plumber. The key is that once you’ve proven a leak with
-              the dye test or meter test, you’re no longer guessing.
+              If you're not comfortable working inside the tank, it's reasonable to
+              call a licensed plumber. The key is that once you've proven a leak with
+              the dye test or meter test, you're no longer guessing.
             </p>
           </>
         )
@@ -597,7 +597,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              If you’re still unsure what caused the spike, this guide walks the
+              If you're still unsure what caused the spike, this guide walks the
               full checklist:
               <a href="/blog/why-did-my-water-bill-suddenly-increase">
                 why water bills suddenly increase
@@ -614,14 +614,14 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“If it’s silent, it’s fine.”</strong> Silent leaks are common.
+                <strong>"If it's silent, it's fine."</strong> Silent leaks are common.
               </li>
               <li>
-                <strong>“It’s only a little water.”</strong> Small continuous flow adds
+                <strong>"It's only a little water."</strong> Small continuous flow adds
                 up quickly over weeks.
               </li>
               <li>
-                <strong>“My bill would show it right away.”</strong> Bills are delayed;
+                <strong>"My bill would show it right away."</strong> Bills are delayed;
                 the leak may have started weeks ago.
               </li>
             </ul>
@@ -638,7 +638,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
       {
         question: "How do I know if my toilet is leaking?",
         answer:
-          "Two common checks are the dye test (color appears in the bowl without flushing) and the meter test (your meter’s leak indicator moves when all water is off)."
+          "Two common checks are the dye test (color appears in the bowl without flushing) and the meter test (your meter's leak indicator moves when all water is off)."
       },
       {
         question: "Will a toilet leak increase my sewer charge too?",
@@ -646,7 +646,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
           "Often, yes. In many areas, sewer charges are based on your measured water usage, so extra metered water can raise both the water and sewer portions of the bill."
       },
       {
-        question: "What’s the most common cause of a running toilet?",
+        question: "What's the most common cause of a running toilet?",
         answer:
           "A worn or mis-seated flapper is one of the most common causes. Fill valve issues and an overly high tank water level are also frequent."
       }

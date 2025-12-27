@@ -5,7 +5,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
     slug: "water-service-charge-explained",
     title: "Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)",
     description:
-      "Seeing a water service (or base) charge even when you barely used water? Here’s what that fixed fee usually covers and how to sanity-check it.",
+      "Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it.",
     category: "Water",
     keyword: "water service charge",
     date: "2025-12-26",
@@ -29,15 +29,15 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <p className="lead">
               You did not water the lawn. You were out of town. The usage on your
-              bill looks tiny. And yet there it is: a water “service charge,” “base
-              charge,” “customer charge,” or “meter charge.”
+              bill looks tiny. And yet there it is: a water "service charge," "base
+              charge," "customer charge," or "meter charge."
             </p>
             <p>
               That moment is frustrating because it feels like you are paying for
               nothing.
             </p>
             <p>
-              You are not paying for “nothing,” but you also should not have to guess
+              You are not paying for "nothing," but you also should not have to guess
               what the fee means. This guide explains it in plain English and shows
               you how to sanity-check what you are being charged.
             </p>
@@ -74,7 +74,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <p>
               A <strong>water service charge</strong> is a <strong>fixed monthly fee</strong>
-              that helps pay for keeping your account and connection “ready to serve”
+              that helps pay for keeping your account and connection "ready to serve"
               even if you use very little water.
             </p>
             <p>
@@ -111,7 +111,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             </p>
             <p>
               Your usage is measured separately, usually in <strong>gallons</strong> or
-              <strong> CCF</strong>. If you keep seeing “CCF” on your bill and want to
+              <strong> CCF</strong>. If you keep seeing "CCF" on your bill and want to
               translate it into something you can picture, see:
               <a href="/blog/what-is-ccf-on-a-water-bill"> what CCF means on a water bill</a>.
             </p>
@@ -149,8 +149,8 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               </li>
             </ul>
             <p>
-              Some utilities also include separate fixed fees for things like “fire
-              line,” “hydrant,” or “infrastructure.” Those are still fixed-fee ideas,
+              Some utilities also include separate fixed fees for things like "fire
+              line," "hydrant," or "infrastructure." Those are still fixed-fee ideas,
               just broken into multiple lines.
             </p>
           </>
@@ -167,7 +167,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             </p>
             <ul>
               <li>Is the same amount each month, or</li>
-              <li>Mentions “base,” “service,” “customer,” or “meter,” and</li>
+              <li>Mentions "base," "service," "customer," or "meter," and</li>
               <li>Does not change when your gallons/CCF change</li>
             </ul>
             <p>
@@ -198,12 +198,12 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               Many utilities tie the service charge to meter size (for example, 5/8",
               3/4", 1"). A larger meter can mean a higher fixed charge.
             </p>
-            <h3>3) Make sure you are not seeing “two fixed fees” that are actually different</h3>
+            <h3>3) Make sure you are not seeing "two fixed fees" that are actually different</h3>
             <p>
               It is common to have more than one fixed-fee-looking line item (water
               service + sewer base fee, or water base fee + infrastructure fee). If
               the labels are unclear, look for the section headings that separate
-              “Water” and “Sewer.”
+              "Water\" and \"Sewer."
             </p>
             <p>
               If your total jumped unexpectedly and you are trying to figure out
@@ -220,7 +220,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              This is the part most people care about, so let’s be direct.
+              This is the part most people care about, so let's be direct.
             </p>
             <h3>You can usually lower</h3>
             <ul>
@@ -264,17 +264,17 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“The service charge means they estimated my usage.”</strong>
+                <strong>"The service charge means they estimated my usage."</strong>
                 No. Estimated usage is about meter reads. The service charge is a
                 fixed fee.
               </li>
               <li>
-                <strong>“If I used zero water, I should pay zero.”</strong> It feels
+                <strong>"If I used zero water, I should pay zero."</strong> It feels
                 fair, but utilities are built around fixed system costs + variable
                 usage costs.
               </li>
               <li>
-                <strong>“The fixed fee is the same everywhere.”</strong> It is not.
+                <strong>"The fixed fee is the same everywhere."</strong> It is not.
                 Utilities set rates locally, and the names and breakdowns differ.
               </li>
             </ul>
@@ -300,7 +300,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
                 make sure your record matches what is actually installed.
               </li>
               <li>
-                <strong>Separate water vs sewer</strong>. Many “water bills” are really two
+                <strong>Separate water vs sewer</strong>. Many "water bills" are really two
                 services on one statement.
               </li>
             </ol>
@@ -337,9 +337,9 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
   },
   {
     slug: "water-meter-leak-indicator-explained",
-    title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything’s Off",
+    title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything's Off",
     description:
-      "Most water meters have a small leak indicator that moves when water flows. Here’s how to use it to spot hidden leaks and rule out false alarms.",
+      "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms.",
     category: "Water",
     keyword: "water meter leak indicator",
     date: "2025-12-26",
@@ -363,11 +363,11 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <p className="lead">
               A higher water bill is one of the most confusing household surprises.
-              You did not change your routine… but your usage did.
+              You did not change your routine... but your usage did.
             </p>
             <p>
               When that happens, the fastest way to get clarity is to stop guessing
-              and use your meter. Many water meters have a small “leak indicator”
+              and use your meter. Many water meters have a small "leak indicator"
               designed for exactly this.
             </p>
             <p>
@@ -375,7 +375,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               and how to avoid common false alarms.
             </p>
             <p>
-              If you want the overall “bill detective” flowchart first, start here:
+              If you want the overall "bill detective" flowchart first, start here:
               <a href="/blog/why-did-my-water-bill-suddenly-increase"> why water bills suddenly increase</a>.
             </p>
           </>
@@ -391,7 +391,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               <li><a href="#what-it-is">What the leak indicator is</a></li>
               <li><a href="#how-to-test">How to test using the leak indicator</a></li>
               <li><a href="#false-alarms">Common false alarms (things that sip water)</a></li>
-              <li><a href="#isolate">How to isolate “house leak” vs “line leak”</a></li>
+              <li><a href="#isolate">How to isolate "house leak" vs "line leak"</a></li>
               <li><a href="#misconceptions">Common misconceptions</a></li>
               <li><a href="#what-next">What to do if it is moving</a></li>
             </ul>
@@ -410,7 +410,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             <p>
               If you shut off everything inside and outside (no faucets, no toilets
               refilling, no sprinklers), the leak indicator should stop. If it keeps
-              moving, <strong>something is using water</strong>—often a hidden toilet leak,
+              moving, <strong>something is using water</strong>--often a hidden toilet leak,
               irrigation valve, or a small continuous flow.
             </p>
             <p>
@@ -427,7 +427,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              The leak indicator is the meter’s “motion detector.” It is there because
+              The leak indicator is the meter's "motion detector." It is there because
               very small flows can be hard to see on the main number display.
             </p>
             <p>
@@ -437,10 +437,10 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               <li>A tiny red triangle</li>
               <li>A small star-shaped wheel</li>
               <li>A thin sweep hand</li>
-              <li>A little dial labeled “leak”</li>
+              <li>A little dial labeled "leak"</li>
             </ul>
             <p>
-              On many digital “smart” meters, you may not see a physical indicator.
+              On many digital "smart" meters, you may not see a physical indicator.
               Instead, the display may show a flow icon, a leak alert, or a real-time
               flow rate.
             </p>
@@ -460,21 +460,21 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             <ul>
               <li>No faucets, showers, or hose bibs</li>
               <li>No dishwasher or washing machine</li>
-              <li>Sprinklers off (including “smart” schedules)</li>
+              <li>Sprinklers off (including "smart" schedules)</li>
             </ul>
             <h3>Step 2: Wait a few minutes</h3>
             <p>
               Toilets can refill quietly after a flush. Waiting helps you avoid
               mistaking normal refill for a leak.
             </p>
-            <h3>Step 3: Watch the indicator for 60–120 seconds</h3>
+            <h3>Step 3: Watch the indicator for 60-120 seconds</h3>
             <p>
               If it is truly still, great. If it creeps or spins steadily, you have
               continuous flow.
             </p>
-            <h3>Step 4: Confirm with a “numbers” check</h3>
+            <h3>Step 4: Confirm with a "numbers" check</h3>
             <p>
-              Take a photo of the meter reading, wait 10–15 minutes with everything off,
+              Take a photo of the meter reading, wait 10-15 minutes with everything off,
               then take another photo. Any increase means water moved through the meter.
             </p>
           </>
@@ -486,7 +486,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Sometimes the meter is telling the truth, but it is not a “leak” in the
+              Sometimes the meter is telling the truth, but it is not a "leak" in the
               scary sense. It is a device using a little water in the background.
             </p>
             <p>
@@ -509,7 +509,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
       },
       {
         id: "isolate",
-        title: "How to isolate “house leak” vs “line leak”",
+        title: "How to isolate \"house leak\" vs \"line leak\"",
         content: (
           <>
             <p>
@@ -518,19 +518,19 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             </p>
             <h3>Option A: Use the main shutoff inside the home (if you can access it)</h3>
             <p>
-              Turn off the home’s main shutoff valve. If the leak indicator stops, the
+              Turn off the home's main shutoff valve. If the leak indicator stops, the
               flow is inside the home.
             </p>
             <p>
               If it keeps moving, the flow may be:
             </p>
             <ul>
-              <li>A leak on the service line (meter → house)</li>
+              <li>A leak on the service line (meter to house)</li>
               <li>A hose bib/irrigation tee that is before the shutoff</li>
             </ul>
             <h3>Option B: Separate indoor vs outdoor use</h3>
             <p>
-              In summer, irrigation is a top cause of “mystery usage.” If your bill spikes
+              In summer, irrigation is a top cause of "mystery usage." If your bill spikes
               seasonally, this guide helps you connect the dots:
               <a href="/blog/why-is-my-water-bill-higher-in-summer"> why water bills are higher in summer</a>.
             </p>
@@ -544,15 +544,15 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“If the indicator moves once, I have a leak.”</strong> Not always.
+                <strong>"If the indicator moves once, I have a leak."</strong> Not always.
                 Some appliances cycle. Look for steady movement over time.
               </li>
               <li>
-                <strong>“Small leaks do not matter.”</strong> A tiny continuous flow can add up
+                <strong>"Small leaks do not matter."</strong> A tiny continuous flow can add up
                 over a 30-day billing period.
               </li>
               <li>
-                <strong>“My bill is high because of the service charge.”</strong> The fixed fee
+                <strong>"My bill is high because of the service charge."</strong> The fixed fee
                 matters, but big jumps are usually usage. If you are unsure, this is helpful:
                 <a href="/blog/water-service-charge-explained"> water service charge explained</a>.
               </li>
@@ -608,7 +608,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
       {
         question: "How long should I watch the leak indicator?",
         answer:
-          "Watch it for at least 60–120 seconds and, if possible, confirm by taking two meter photos 10–15 minutes apart with everything off." 
+          "Watch it for at least 60-120 seconds and, if possible, confirm by taking two meter photos 10-15 minutes apart with everything off." 
       }
     ]
   },
@@ -616,7 +616,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
     slug: "why-is-my-water-bill-higher-in-summer",
     title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)",
     description:
-      "Summer water bills often jump for predictable reasons—outdoor watering, leaks, and tiered pricing. Here’s how to figure out what changed in your case.",
+      "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case.",
     category: "Water",
     keyword: "why is my water bill higher in summer",
     date: "2025-12-26",
@@ -643,7 +643,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               and the next statement is noticeably higher.
             </p>
             <p>
-              The tricky part is that “summer” is not one cause. It is a mix of outdoor
+              The tricky part is that "summer" is not one cause. It is a mix of outdoor
               use, faster evaporation, and sometimes rate structures that get more expensive
               as usage rises.
             </p>
@@ -703,7 +703,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <p>
               Before you hunt for problems, do these three quick checks. They explain a
-              huge share of “summer bill shock.”
+              huge share of "summer bill shock."
             </p>
             <h3>1) Compare usage (not dollars)</h3>
             <p>
@@ -716,7 +716,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             </p>
             <h3>2) Check billing period length</h3>
             <p>
-              A 35-day billing cycle can look like “summer use” even if daily use is steady.
+              A 35-day billing cycle can look like "summer use" even if daily use is steady.
             </p>
             <h3>3) Separate fixed fees from usage charges</h3>
             <p>
@@ -742,7 +742,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
             </p>
             <h3>2) Sprinkler or irrigation leaks</h3>
             <p>
-              Broken heads, cracked lines, and stuck valves can waste water quietly—especially
+              Broken heads, cracked lines, and stuck valves can waste water quietly--especially
               early morning when you are not outside.
             </p>
             <h3>3) Pools, hot tubs, and water features</h3>
@@ -787,8 +787,8 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               <li>Higher blocks cost more per gallon/CCF</li>
             </ul>
             <p>
-              So if you jump from “normal indoor use” into “indoor + irrigation,” you may not
-              just be buying more water—you may be buying it at a higher marginal price.
+              So if you jump from "normal indoor use" into "indoor + irrigation," you may not
+              just be buying more water--you may be buying it at a higher marginal price.
             </p>
           </>
         )
@@ -800,7 +800,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <p>
               If your usage is up and you cannot explain it, do a fast leak check. The goal is not
-              perfect diagnosis. The goal is to learn whether water is moving when everything is “off.”
+              perfect diagnosis. The goal is to learn whether water is moving when everything is "off."
             </p>
             <p>
               Start with your water meter leak indicator:
@@ -840,7 +840,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
               </li>
             </ul>
             <p>
-              If you want a baseline for “what is normal,” this is a helpful reference:
+              If you want a baseline for "what is normal," this is a helpful reference:
               <a href="/blog/average-water-usage-per-person"> average water usage per person</a>.
             </p>
           </>
@@ -853,15 +853,15 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Summer bills are always higher, so nothing is wrong.”</strong> Often true,
+                <strong>"Summer bills are always higher, so nothing is wrong."</strong> Often true,
                 but big, sudden jumps can still signal a leak.
               </li>
               <li>
-                <strong>“My rate did not change, so the bill should not change.”</strong> Even with
+                <strong>"My rate did not change, so the bill should not change."</strong> Even with
                 the same rate, more usage and more billing days increase the total.
               </li>
               <li>
-                <strong>“The service charge is why my bill is high.”</strong> The fixed fee matters,
+                <strong>"The service charge is why my bill is high."</strong> The fixed fee matters,
                 but seasonal spikes are usually usage.
               </li>
             </ul>

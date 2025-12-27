@@ -13,11 +13,11 @@ const Pagination = ({ basePath, current, totalPages }: PaginationProps) => {
   return (
     <nav className="pagination" aria-label="Pagination" style={{ marginTop: 24 }}>
       <div style={{ display: "flex", gap: 12, alignItems: "center" }}>
-        {prev ? <Link href={prev === 1 ? "/blog" : `${basePath}/${prev}`}>← Prev</Link> : <span />}
+        {prev ? <Link href={prev === 1 ? "/blog" : `${basePath}/${prev}`}>Prev</Link> : <span />}
         <span style={{ color: "var(--muted)" }}>
           Page {current} of {totalPages}
         </span>
-        {next ? <Link href={`${basePath}/${next}`}>Next →</Link> : <span />}
+        {next ? <Link href={`${basePath}/${next}`}>Next</Link> : <span />}
       </div>
     </nav>
   );

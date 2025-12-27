@@ -115,7 +115,7 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
           <>
             <p>
               Most bills list usage charges in separate lines. You might see
-              "Tier 1" and "Tier 2" or "Baseline" and "Over Baseline."
+              "Tier 1\" and \"Tier 2\" or \"Baseline\" and \"Over Baseline."
             </p>
             <p>
               If your bill has many lines, this walkthrough helps you find the

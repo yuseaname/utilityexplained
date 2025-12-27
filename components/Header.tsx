@@ -7,7 +7,7 @@ const Header = () => {
     <header className="site-header">
       <div className="container header-inner">
         <Link className="logo" href="/">
-          Utility Plain English
+          Utility Explained
         </Link>
         <nav className="nav" aria-label="Primary">
           {navigation.map((item) => (

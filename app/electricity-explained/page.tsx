@@ -82,7 +82,7 @@ export default function ElectricityExplainedPage() {
       </div>
 
       <p className="intro-text">
-        Electricity powers nearly everything in your home, yet electric bills can feel like a foreign language. This guide explains how electricity works, how it is measured, how you are billed, and what you can do to understand and manage your electric costs—all in plain English.
+        Electricity powers nearly everything in your home, yet electric bills can feel like a foreign language. This guide explains how electricity works, how it is measured, how you are billed, and what you can do to understand and manage your electric costs--all in plain English.
       </p>
 
       <section>
@@ -101,19 +101,19 @@ export default function ElectricityExplainedPage() {
       <section>
         <h2>How electricity is measured: watts, kilowatts, and kilowatt-hours</h2>
         <p>
-          Electricity is measured in units that describe power and energy. <strong>Watts (W)</strong> measure how fast electricity is being used at a moment in time—like the speedometer in a car. A 100-watt light bulb uses 100 watts when it is on.
+          Electricity is measured in units that describe power and energy. <strong>Watts (W)</strong> measure how fast electricity is being used at a moment in time--like the speedometer in a car. A 100-watt light bulb uses 100 watts when it is on.
         </p>
         <p>
           <strong>Kilowatts (kW)</strong> are just 1,000 watts. It is easier to say "2 kilowatts" than "2,000 watts." Large appliances like air conditioners, electric dryers, and ovens often use multiple kilowatts when running.
         </p>
         <p>
-          <strong>Kilowatt-hours (kWh)</strong> measure total energy used over time—like the odometer in a car. One kWh means using 1,000 watts for one hour. If you run a 1,000-watt space heater for one hour, you use 1 kWh. If you run a 100-watt bulb for 10 hours, that is also 1 kWh.
+          <strong>Kilowatt-hours (kWh)</strong> measure total energy used over time--like the odometer in a car. One kWh means using 1,000 watts for one hour. If you run a 1,000-watt space heater for one hour, you use 1 kWh. If you run a 100-watt bulb for 10 hours, that is also 1 kWh.
         </p>
         <p>
           Your electric bill charges you for kWh, not watts or kilowatts. The more kWh you use in a month, the higher your energy charge will be.
         </p>
         <p>
-          To calculate kWh for any appliance, use this simple formula: (watts ÷ 1,000) × hours used = kWh. For example, a 1,500-watt space heater running for 8 hours uses (1,500 ÷ 1,000) × 8 = 12 kWh.
+          To calculate kWh for any appliance, use this simple formula: (watts / 1,000) x hours used = kWh. For example, a 1,500-watt space heater running for 8 hours uses (1,500 / 1,000) x 8 = 12 kWh.
         </p>
       </section>
 
@@ -170,7 +170,7 @@ export default function ElectricityExplainedPage() {
           Appliances like refrigerators, washers, dryers, dishwashers, and ovens use electricity regularly. A refrigerator runs constantly, while a dryer uses a lot of power but only when running.
         </p>
         <p>
-          Lighting, electronics, and small appliances usually account for a smaller share of the total, but they still matter—especially devices left on standby or used frequently.
+          Lighting, electronics, and small appliances usually account for a smaller share of the total, but they still matter--especially devices left on standby or used frequently.
         </p>
         <p>
           Knowing which devices use the most helps you prioritize where to focus conservation efforts.
@@ -201,7 +201,7 @@ export default function ElectricityExplainedPage() {
           <li>Clean or replace HVAC filters regularly.</li>
           <li>Use fans to feel cooler without lowering the AC temperature.</li>
           <li>Seal air leaks around doors and windows.</li>
-          <li>Set water heaters to 120°F if safe for your household.</li>
+          <li>Set water heaters to 120 degF if safe for your household.</li>
           <li>Unplug chargers and small appliances when not needed.</li>
         </ul>
         <p>
@@ -265,37 +265,63 @@ export default function ElectricityExplainedPage() {
           <li>
             <Link href="/blog/how-do-smart-meters-work">
               How Do Smart Meters Work? (And Should You Trust Them?)
-            </Link> — Learn about accuracy, privacy, and how to read your new meter.
+            </Link> -- Learn about accuracy, privacy, and how to read your new meter.
           </li>
           <li>
             <Link href="/blog/time-of-use-electricity-rates">
               What Are Time-of-Use Rates?
-            </Link> — Decide if switching to a peak/off-peak plan will save you money.
+            </Link> -- Decide if switching to a peak/off-peak plan will save you money.
           </li>
           <li>
             <Link href="/blog/how-to-lower-electric-bill-without-solar">
               How to Lower Your Electric Bill Without Solar Panels
-            </Link> — 12 proven methods to reduce costs without major investments.
+            </Link> -- 12 proven methods to reduce costs without major investments.
           </li>
           <li>
             <Link href="/blog/what-is-a-kilowatt-hour">
               What Is a Kilowatt-Hour (kWh)?
-            </Link> — Learn how to calculate kWh for appliances and estimate costs.
+            </Link> -- Learn how to calculate kWh for appliances and estimate costs.
           </li>
           <li>
             <Link href="/blog/why-is-my-electricity-bill-so-high-in-winter">
               Why is my electricity bill so high in winter?
-            </Link> — Understand winter heating loads and how to reduce costs.
+            </Link> -- Understand winter heating loads and how to reduce costs.
           </li>
           <li>
             <Link href="/blog/why-is-my-electricity-bill-so-high-in-summer">
               Why is my electricity bill so high in summer?
-            </Link> — See how air conditioning and heat gain affect summer usage.
+            </Link> -- See how air conditioning and heat gain affect summer usage.
+          </li>
+          
+          <li>
+            <Link href="/blog/why-is-my-electric-bill-so-high-this-month">
+              Why is my electric bill so high this month?
+            </Link> - Quick troubleshooting checklist for sudden spikes.
           </li>
           <li>
-            <Link href="/blog/fixed-vs-variable-rate-electricity-plan">
-              Fixed vs. variable rate electricity plans: what to choose
-            </Link> — Compare plan types and learn which fits your needs.
+            <Link href="/blog/electric-bill-breakdown-understanding-line-items">
+              Electric bill breakdown: understanding line items
+            </Link> - Learn where each charge comes from.
+          </li>
+          <li>
+            <Link href="/blog/supply-vs-delivery-charges-electricity">
+              Supply vs delivery charges on electricity bills
+            </Link> - See what you can control and what you cannot.
+          </li>
+          <li>
+            <Link href="/blog/tiered-electricity-rates-explained">
+              Tiered electricity rates explained
+            </Link> - Understand how usage tiers change pricing.
+          </li>
+          <li>
+            <Link href="/blog/demand-charge-electric-bill-explained">
+              Demand charges on electric bills
+            </Link> - Learn when demand charges apply and why.
+          </li>
+          <li>
+            <Link href="/blog/how-to-read-electric-meter">
+              How to read your electric meter
+            </Link> - Check readings against your bill.
           </li>
         </ul>
       </section>

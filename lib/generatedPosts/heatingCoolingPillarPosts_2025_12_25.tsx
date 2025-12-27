@@ -6,7 +6,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
     title:
       "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
     description:
-      "If your thermostat says Aux Heat or Emergency Heat, this guide explains what’s happening, why costs can spike, and when you should (and shouldn’t) use each mode.",
+      "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode.",
     category: "Heating & Cooling",
     keyword: "aux heat vs emergency heat",
     date: "2025-12-25",
@@ -23,18 +23,18 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               <strong>Aux Heat</strong> (auxiliary heat) usually means your heat pump
-              is running <strong>backup heat</strong> to keep up with demand—often
+              is running <strong>backup heat</strong> to keep up with demand--often
               during cold snaps, defrost cycles, or when you raise the thermostat
               several degrees at once.
             </p>
             <p>
               <strong>Emergency Heat</strong> is typically a <strong>manual mode</strong>
-              you switch on when the heat pump itself can’t run properly (for example,
-              it’s malfunctioning). In many homes, emergency heat uses the same backup
-              heater as aux heat—but forces the heat pump to stay off.
+              you switch on when the heat pump itself can't run properly (for example,
+              it's malfunctioning). In many homes, emergency heat uses the same backup
+              heater as aux heat--but forces the heat pump to stay off.
             </p>
             <p>
-              The “why is my bill higher?” part is simple: backup heat is often
+              The "why is my bill higher?" part is simple: backup heat is often
               <strong>electric resistance heat</strong>, which can be much more
               expensive per hour than normal heat-pump operation.
             </p>
@@ -81,7 +81,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "the-problem",
-        title: "The problem: “Aux Heat” showed up and now the bill is higher",
+        title: "The problem: \"Aux Heat\" showed up and now the bill is higher",
         content: (
           <>
             <p>
@@ -91,14 +91,14 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             </p>
             <p>
               The external problem is obvious: <strong>higher usage</strong>.
-              The internal problem is the one that keeps you up: <strong>“Is something broken?”</strong>
-              And the philosophical problem is fair: this shouldn’t require a
+              The internal problem is the one that keeps you up: <strong>"Is something broken?"</strong>
+              And the philosophical problem is fair: this shouldn't require a
               dictionary.
             </p>
             <p>
-              Here’s the reassuring part: <strong>aux heat is often normal</strong>
+              Here's the reassuring part: <strong>aux heat is often normal</strong>
               in cold weather. The goal of this guide is to help you tell the
-              difference between “normal backup heat” and “something that needs attention.”
+              difference between "normal backup heat" and "something that needs attention."
             </p>
           </>
         )
@@ -119,14 +119,14 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               the system has to work harder to move it indoors.
             </p>
             <p>
-              That’s why many systems have a “Plan B”:
+              That's why many systems have a "Plan B":
               <strong> backup heat</strong> (often electric heat strips). Your
               thermostat can call for backup heat when it thinks the heat pump
-              alone won’t keep up.
+              alone won't keep up.
             </p>
             <p>
               If efficiency ratings like HSPF or COP feel like alphabet soup,
-              you’ll like
+              you'll like
               <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> our plain-English ratings guide</a>.
             </p>
           </>
@@ -145,7 +145,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             <h3>Common triggers</h3>
             <ul>
               <li>
-                <strong>Cold snaps:</strong> the heat pump can’t deliver heat fast enough.
+                <strong>Cold snaps:</strong> the heat pump can't deliver heat fast enough.
               </li>
               <li>
                 <strong>Big thermostat jumps:</strong> raising the setpoint several degrees may
@@ -163,8 +163,8 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             <h3>Why it can be expensive</h3>
             <p>
               Backup heat is often electric resistance heat. Resistance heat is good
-              at making heat quickly, but it’s also a straightforward conversion of
-              electricity into heat—so it can drive kWh usage fast.
+              at making heat quickly, but it's also a straightforward conversion of
+              electricity into heat--so it can drive kWh usage fast.
             </p>
             <p>
               If your winter electric bill spiked, the broader explanation is in
@@ -176,32 +176,32 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "emergency-heat",
-        title: "What Emergency Heat means (and when it’s appropriate)",
+        title: "What Emergency Heat means (and when it's appropriate)",
         content: (
           <>
             <p>
               <strong>Emergency Heat</strong> is usually a manual setting that tells
-              the system: “Don’t use the heat pump. Use backup heat only.”
+              the system: "Don't use the heat pump. Use backup heat only."
             </p>
             <p>
               People sometimes turn it on because they see it on the thermostat and
-              assume it’s “stronger.” But emergency heat is best thought of as a
+              assume it's "stronger." But emergency heat is best thought of as a
               <strong>fallback mode</strong>, not an efficiency mode.
             </p>
             <h3>When emergency heat is reasonable</h3>
             <ul>
               <li>The outdoor unit is damaged, frozen, or not running correctly.</li>
-              <li>You’re advised to use it temporarily while the heat pump is serviced.</li>
+              <li>You're advised to use it temporarily while the heat pump is serviced.</li>
               <li>The system is in a condition where running the heat pump would be harmful.</li>
             </ul>
             <h3>When emergency heat is usually a mistake</h3>
             <ul>
               <li>You want the home to warm up faster after a setback.</li>
               <li>You think it will reduce energy usage in cold weather.</li>
-              <li>You’re using it as a “default” heating mode all winter.</li>
+              <li>You're using it as a "default" heating mode all winter.</li>
             </ul>
             <p>
-              If you’re comparing gas heat and electric heat (including heat pumps),
+              If you're comparing gas heat and electric heat (including heat pumps),
               the bigger context is
               <a href="/blog/gas-vs-electric-heating-cost-comparison"> Gas vs Electric Heating: Cost Comparison</a>.
             </p>
@@ -214,14 +214,14 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              You don’t need special tools to get clarity. You just need to observe
+              You don't need special tools to get clarity. You just need to observe
               a few patterns.
             </p>
             <h3>1) How often does aux heat appear?</h3>
             <p>
               If it appears only during very cold mornings or big thermostat jumps,
-              that’s often normal. If it appears constantly even on mild days,
-              it’s a signal to look closer.
+              that's often normal. If it appears constantly even on mild days,
+              it's a signal to look closer.
             </p>
             <h3>2) Does the system struggle to maintain temperature?</h3>
             <p>
@@ -233,10 +233,10 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               air means longer runtime and more backup heat. See
               <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> Duct leaks explained</a>.
             </p>
-            <h3>3) Is the thermostat “helping” too aggressively?</h3>
+            <h3>3) Is the thermostat "helping" too aggressively?</h3>
             <p>
               Some thermostats are configured with a lockout temperature (below which
-              they use aux heat) or a “heat pump balance” setting. If aux heat is
+              they use aux heat) or a "heat pump balance" setting. If aux heat is
               coming on earlier than you expect, it may be a configuration issue.
             </p>
           </>
@@ -248,7 +248,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              A bill can feel “wrong” even when nothing is broken. These checks help
+              A bill can feel "wrong" even when nothing is broken. These checks help
               you separate timing and pricing from true usage changes.
             </p>
             <h3>Check 1: kWh per day</h3>
@@ -259,7 +259,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             <h3>Check 2: compare similar weather</h3>
             <p>
               Compare a cold week to a cold week, not a cold week to a mild week. If
-              you’re seeing aux heat during a cold snap, higher usage is expected.
+              you're seeing aux heat during a cold snap, higher usage is expected.
             </p>
             <h3>Check 3: connect changes to behavior</h3>
             <p>
@@ -280,23 +280,23 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Emergency heat warms faster, so I should use it more.”</strong>
+                <strong>"Emergency heat warms faster, so I should use it more."</strong>
                 Emergency heat often uses resistance heat only. It can feel fast,
-                but it’s usually expensive.
+                but it's usually expensive.
               </li>
               <li>
-                <strong>“Aux heat always means something is broken.”</strong>
-                Not necessarily. It’s commonly triggered by cold snaps and recovery.
+                <strong>"Aux heat always means something is broken."</strong>
+                Not necessarily. It's commonly triggered by cold snaps and recovery.
               </li>
               <li>
-                <strong>“Cranking the thermostat heats faster.”</strong>
-                Most systems don’t “ramp” like that. A bigger setpoint jump can
+                <strong>"Cranking the thermostat heats faster."</strong>
+                Most systems don't "ramp" like that. A bigger setpoint jump can
                 simply trigger backup heat and longer runtime.
               </li>
             </ul>
             <p>
-              If you want the “ratings” side of the story—what SEER, AFUE, HSPF, and
-              COP mean—go to
+              If you want the "ratings" side of the story--what SEER, AFUE, HSPF, and
+              COP mean--go to
               <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> the efficiency ratings guide</a>.
             </p>
           </>
@@ -318,12 +318,12 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
       {
         question: "What does aux heat mean on my thermostat?",
         answer:
-          "Aux heat (auxiliary heat) means your system is using backup heat to help the heat pump keep up—often during cold weather, defrost cycles, or large thermostat setpoint changes."
+          "Aux heat (auxiliary heat) means your system is using backup heat to help the heat pump keep up--often during cold weather, defrost cycles, or large thermostat setpoint changes."
       },
       {
         question: "What does emergency heat mean?",
         answer:
-          "Emergency heat is usually a manual mode that turns off the heat pump and runs backup heat only. It’s intended for situations where the heat pump can’t operate properly."
+          "Emergency heat is usually a manual mode that turns off the heat pump and runs backup heat only. It's intended for situations where the heat pump can't operate properly."
       },
       {
         question: "Is it bad if aux heat runs all the time?",
@@ -418,14 +418,14 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Most homeowners don’t want to “study HVAC.” They want comfort and a
+              Most homeowners don't want to "study HVAC." They want comfort and a
               bill that makes sense. But then a contractor quote or a rebate program
               throws out AFUE, SEER, and HSPF like everyone uses those words daily.
             </p>
             <p>
               The external problem is the jargon. The internal problem is the fear
               of making a bad decision. The philosophical problem is obvious:
-              comparing comfort shouldn’t require a decoding key.
+              comparing comfort shouldn't require a decoding key.
             </p>
             <p>
               The good news: once you know what each rating measures, you can stop
@@ -475,7 +475,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               HSPF compares heat pumps to heat pumps.
             </p>
             <p>
-              The second rule: understand that “seasonal” and “point-in-time” are
+              The second rule: understand that "seasonal" and "point-in-time" are
               different things.
             </p>
             <h3>Seasonal ratings are averages</h3>
@@ -491,7 +491,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             </p>
             <p>
               That temperature effect is also why thermostats sometimes call for
-              backup heat. If you’ve seen “Aux Heat,” read
+              backup heat. If you've seen "Aux Heat," read
               <a href="/blog/aux-heat-vs-emergency-heat-meaning"> Aux Heat vs Emergency Heat</a>.
             </p>
           </>
@@ -503,7 +503,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Ratings matter, but they aren’t the only driver. Two homes with the
+              Ratings matter, but they aren't the only driver. Two homes with the
               same equipment can have very different bills because the bill is a
               story about <strong>runtime</strong>.
             </p>
@@ -549,7 +549,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               Examples help because they show what the ratings are trying to measure.
-              These are not promises about savings—just a way to build intuition.
+              These are not promises about savings--just a way to build intuition.
             </p>
             <h3>AFUE example: 80% vs 95%</h3>
             <p>
@@ -565,7 +565,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             <h3>HSPF/COP example: heat pumps change efficiency with weather</h3>
             <p>
               A heat pump may perform extremely well in mild weather and less well in
-              extreme cold. That’s why “one number” can never tell the whole story.
+              extreme cold. That's why "one number" can never tell the whole story.
             </p>
           </>
         )
@@ -577,17 +577,17 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Higher rating always means lower total bills.”</strong>
+                <strong>"Higher rating always means lower total bills."</strong>
                 Not if the system runs much longer due to leaks, poor insulation, or
                 a different comfort schedule.
               </li>
               <li>
-                <strong>“My heater is 100% efficient, so it must be cheap.”</strong>
+                <strong>"My heater is 100% efficient, so it must be cheap."</strong>
                 Electric resistance heat can be near-100% at the point of use, but
                 cost depends on electricity pricing and runtime.
               </li>
               <li>
-                <strong>“SEER tells me everything about heating.”</strong>
+                <strong>"SEER tells me everything about heating."</strong>
                 SEER is for cooling. Heating performance is better described by HSPF
                 and COP (for heat pumps) or AFUE (for furnaces).
               </li>
@@ -616,7 +616,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
       {
         question: "What SEER rating is considered efficient?",
         answer:
-          "In general, higher SEER means higher cooling efficiency. What’s ‘efficient’ depends on climate and equipment options, but SEER is mainly a way to compare air conditioners and heat pumps in cooling mode on the same scale."
+          "In general, higher SEER means higher cooling efficiency. What's 'efficient' depends on climate and equipment options, but SEER is mainly a way to compare air conditioners and heat pumps in cooling mode on the same scale."
       },
       {
         question: "What is a good HSPF rating for a heat pump?",
@@ -626,7 +626,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
       {
         question: "What is COP and why does it change?",
         answer:
-          "COP (Coefficient of Performance) is a point-in-time efficiency number for heat pumps. It changes with conditions—especially outdoor temperature—because the heat pump has to work harder to move heat when it’s colder outside."
+          "COP (Coefficient of Performance) is a point-in-time efficiency number for heat pumps. It changes with conditions--especially outdoor temperature--because the heat pump has to work harder to move heat when it's colder outside."
       },
       {
         question: "Can a heat pump be cheaper than a gas furnace?",
@@ -666,9 +666,9 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               longer HVAC runtime, and higher energy use.
             </p>
             <p>
-              You don’t need to diagnose every detail to benefit from this guide.
+              You don't need to diagnose every detail to benefit from this guide.
               The main goal is to recognize the common signs and understand why
-              “the system runs all day” can happen even when the equipment is fine.
+              "the system runs all day" can happen even when the equipment is fine.
             </p>
             <p>
               For an overview of HVAC system types and efficiency terms, see
@@ -701,16 +701,16 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               If one room is always too hot, another is always too cold, and the HVAC
-              seems to run forever in extreme weather, it’s easy to assume the unit
+              seems to run forever in extreme weather, it's easy to assume the unit
               is failing.
             </p>
             <p>
               Sometimes the equipment is the issue. But very often, the problem is
-              simpler: the air you’re paying to heat or cool isn’t being delivered
+              simpler: the air you're paying to heat or cool isn't being delivered
               efficiently to the rooms.
             </p>
             <p>
-              Duct leaks are frustrating because they’re mostly invisible. The good
+              Duct leaks are frustrating because they're mostly invisible. The good
               news is you can understand the mechanism in minutes.
             </p>
           </>
@@ -769,7 +769,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               </li>
               <li>
                 <strong>Long runtime in extreme weather:</strong> the unit runs and runs
-                but comfort doesn’t stabilize.
+                but comfort doesn't stabilize.
               </li>
             </ul>
             <p>
@@ -797,7 +797,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
             <h3>2) Listen and feel for air loss near joints</h3>
             <p>
               If you can safely reach duct joints, you may feel air movement where
-              it shouldn’t be. (Avoid touching hot surfaces and don’t disturb
+              it shouldn't be. (Avoid touching hot surfaces and don't disturb
               insulation.)
             </p>
             <h3>3) Notice filter behavior</h3>
@@ -805,7 +805,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               If filters clog very quickly, it can be a clue that return air is
               pulling dust from an attic/crawlspace due to leakage.
             </p>
-            <h3>4) Be careful with “closing vents”</h3>
+            <h3>4) Be careful with "closing vents"</h3>
             <p>
               Closing many vents can increase pressure and create new problems.
               It can also worsen comfort in other rooms.
@@ -837,7 +837,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              This also explains why equipment ratings aren’t the whole story. Even a
+              This also explains why equipment ratings aren't the whole story. Even a
               high-efficiency unit can have a high bill if the conditioned air is lost
               before it reaches the rooms. The rating framework is covered in
               <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> AFUE vs SEER vs HSPF vs COP</a>.
@@ -852,15 +852,15 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Duct tape fixes ducts.”</strong> Many common tapes fail over
+                <strong>"Duct tape fixes ducts."</strong> Many common tapes fail over
                 time. (Professionals use specific sealing methods.)
               </li>
               <li>
-                <strong>“Closing vents saves money.”</strong> It can create pressure
+                <strong>"Closing vents saves money."</strong> It can create pressure
                 issues and worsen comfort.
               </li>
               <li>
-                <strong>“Bigger equipment will fix uneven rooms.”</strong> Oversizing
+                <strong>"Bigger equipment will fix uneven rooms."</strong> Oversizing
                 can create cycling and humidity issues while leaving delivery problems
                 unsolved.
               </li>
@@ -902,7 +902,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
           "Closing many vents can increase pressure in ductwork and may reduce system performance or create comfort issues elsewhere. If you try it, do so sparingly and watch for side effects."
       },
       {
-        question: "What’s the difference between supply and return leaks?",
+        question: "What's the difference between supply and return leaks?",
         answer:
           "Supply leaks lose conditioned air before it reaches rooms. Return leaks can pull in dusty or hot/cold air from attics or crawlspaces, making the system work harder and sometimes affecting air quality."
       }

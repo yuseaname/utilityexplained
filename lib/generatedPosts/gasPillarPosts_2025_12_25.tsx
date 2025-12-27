@@ -6,7 +6,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
     title:
       "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
     description:
-      "Winter gas bills can jump fast. Here’s how to separate longer billing cycles from real usage increases, and what usually drives the spike.",
+      "Winter gas bills can jump fast. Here's how to separate longer billing cycles from real usage increases, and what usually drives the spike.",
     category: "Gas",
     keyword: "why is my gas bill so high in winter",
     date: "2025-12-25",
@@ -25,19 +25,19 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               A winter gas bill has a special talent: it can make you feel like you
               did something wrong, even if you did the same thing you do every
               winter. You open the envelope, you see the total, and your brain
-              immediately tries to solve the mystery: “Is my furnace broken? Did the
-              utility raise rates? Did we leave a window open?”
+              immediately tries to solve the mystery: "Is my furnace broken? Did the
+              utility raise rates? Did we leave a window open?"
             </p>
             <p>
               The frustrating part is that the answer is often <em>several</em>
               smaller reasons stacked together. A colder week increases run time. A
               longer billing period adds days. A higher delivery rate shows up at the
               same time. And because the bill arrives weeks after the cold snap,
-              it’s hard to connect the dots.
+              it's hard to connect the dots.
             </p>
             <p>
-              This guide is the “make it make sense” version. You’ll learn how to
-              read your winter bill in a way that’s fair (not guessy), and you’ll
+              This guide is the "make it make sense" version. You'll learn how to
+              read your winter bill in a way that's fair (not guessy), and you'll
               walk away with a short list of checks that explain most spikes.
               For the fundamentals (therms, bill parts, and how gas service works),
               start with <a href="/gas-explained">Natural Gas Explained</a>.
@@ -47,23 +47,23 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "days-vs-usage",
-        title: "First, separate “more days” from “more usage”",
+        title: "First, separate \"more days\" from \"more usage\"",
         content: (
           <>
             <p>
-              Before you assume something changed in your home, make sure you’re
-              comparing bills correctly. Utility bills aren’t always 30 days.
+              Before you assume something changed in your home, make sure you're
+              comparing bills correctly. Utility bills aren't always 30 days.
               Depending on meter routes and holidays, your winter bill might cover
-              33–37 days. That difference alone can be a 10–20% swing.
+              33-37 days. That difference alone can be a 10-20% swing.
             </p>
             <p>
               The cleanest comparison is <strong>therms per day</strong>. Find the
               number of therms used during the billing period and divide by the
               number of days in the cycle. This is the quickest way to answer:
-              “Did my household use more gas, or did the bill just cover more time?”
+              "Did my household use more gas, or did the bill just cover more time?"
             </p>
             <p>
-              If you’re not sure where therms are listed, our bill decoder is
+              If you're not sure where therms are listed, our bill decoder is
               <a href="/blog/how-to-read-your-gas-bill-therms-explained">
                 how to read your gas bill (therms explained)
               </a>
@@ -71,14 +71,14 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Estimated vs actual reads</h3>
             <p>
-              Winter is also a season when “estimated” readings appear more often
-              (snow, access issues, remote read hiccups). An estimate isn’t always
-              wrong—but it can shift usage between months. If one bill is estimated
-              and the next is actual, the “actual” bill may include a correction.
+              Winter is also a season when "estimated" readings appear more often
+              (snow, access issues, remote read hiccups). An estimate isn't always
+              wrong--but it can shift usage between months. If one bill is estimated
+              and the next is actual, the "actual" bill may include a correction.
             </p>
             <p>
-              If you see “estimated,” treat that bill as a fuzzy data point and
-              focus on a 2–3 bill trend, not one single month.
+              If you see "estimated," treat that bill as a fuzzy data point and
+              focus on a 2-3 bill trend, not one single month.
             </p>
           </>
         )
@@ -91,17 +91,17 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               In most gas-heated homes, space heating is the largest gas load by far.
               It often accounts for 60% to 80% of annual gas use. That means winter
-              doesn’t just “increase” your bill—it can dominate it.
+              doesn't just "increase" your bill--it can dominate it.
             </p>
             <p>
-              A good mental model is run time: when it’s colder outside, your home
+              A good mental model is run time: when it's colder outside, your home
               loses heat faster. The furnace runs longer to replace that lost heat.
               Longer run time means more therms.
             </p>
             <p>
               This is why two winters can feel similar day-to-day but produce very
               different bills. A few nights of extra-cold weather can drive a large
-              share of the month’s therms.
+              share of the month's therms.
             </p>
           </>
         )
@@ -114,26 +114,26 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <h3>1) Colder weather than you remember</h3>
             <p>
               We remember winter as a season, but your furnace responds to specific
-              temperature swings. A week that’s 10°F colder than “normal” can add a
+              temperature swings. A week that's 10 degF colder than "normal" can add a
               lot of runtime. If your utility provides a usage chart, compare this
-              month’s therms to the same month last year.
+              month's therms to the same month last year.
             </p>
             <h3>2) Thermostat choices (and the timing of heat)</h3>
             <p>
-              Heating isn’t just about the setpoint; it’s also about when you need
+              Heating isn't just about the setpoint; it's also about when you need
               the heat. Mornings and evenings are common peak times because people
               are home and awake. If your schedule changed (working from home,
-              guests visiting, kids home for break), your “occupied hours” may have
+              guests visiting, kids home for break), your "occupied hours" may have
               increased. That can raise usage without any dramatic thermostat change.
             </p>
             <p>
-              The goal here isn’t to give a one-size-fits-all thermostat number.
-              It’s to notice whether you’re heating more hours per day than before.
+              The goal here isn't to give a one-size-fits-all thermostat number.
+              It's to notice whether you're heating more hours per day than before.
             </p>
             <h3>3) Air leaks and insulation (small gaps, big runtime)</h3>
             <p>
-              When cold air leaks in, warm air leaks out. Your furnace isn’t “bad”
-              in that scenario—it’s doing extra work to keep up. Drafty doors,
+              When cold air leaks in, warm air leaks out. Your furnace isn't "bad"
+              in that scenario--it's doing extra work to keep up. Drafty doors,
               poorly sealed attic hatches, and leaky ductwork can all increase
               runtime. Many households discover these issues because the bill makes
               them obvious.
@@ -141,7 +141,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <h3>4) Furnace efficiency (AFUE) and how it affects therms</h3>
             <p>
               Furnace efficiency is often expressed as AFUE (Annual Fuel Utilization
-              Efficiency). It’s a measure of how much of the fuel’s energy becomes
+              Efficiency). It's a measure of how much of the fuel's energy becomes
               usable heat in your home. Higher efficiency generally means fewer
               therms for the same comfort level.
             </p>
@@ -155,8 +155,8 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               Your winter bill may include more hot water use (longer showers, more
               laundry, more dishes, more people home). Space heating is usually the
-              headline, but hot water can be the “second layer” that pushes a bill
-              from “high” to “wow.”
+              headline, but hot water can be the "second layer" that pushes a bill
+              from "high" to "wow."
             </p>
             <p>
               If you want a broader context for heating costs, see
@@ -170,12 +170,12 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "bill-structure",
-        title: "Sometimes the bill is higher even if usage isn’t",
+        title: "Sometimes the bill is higher even if usage isn't",
         content: (
           <>
             <p>
-              This is the moment where people say, “But I used fewer therms than
-              last month—why is the total higher?” The answer is usually in the
+              This is the moment where people say, "But I used fewer therms than
+              last month--why is the total higher?" The answer is usually in the
               line items.
             </p>
             <h3>Supply vs delivery changes</h3>
@@ -194,16 +194,16 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Customer charges and minimums</h3>
             <p>
-              Many gas bills include a fixed monthly customer charge. In winter it’s
+              Many gas bills include a fixed monthly customer charge. In winter it's
               easy to ignore because usage dominates, but it still matters. It also
-              means that “cutting usage in half” won’t cut the bill in half.
+              means that "cutting usage in half" won't cut the bill in half.
             </p>
           </>
         )
       },
       {
         id: "sanity-checks",
-        title: "“Is this normal?” sanity checks that actually help",
+        title: "\"Is this normal?\" sanity checks that actually help",
         content: (
           <>
             <p>
@@ -214,16 +214,16 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               Compare the same month year-over-year and use therms per day. If your
               therms/day are similar, the spike is likely weather, days in cycle,
-              or rates—not a mystery leak.
+              or rates--not a mystery leak.
             </p>
-            <h3>Check 2: does the home “feel” different?</h3>
+            <h3>Check 2: does the home "feel" different?</h3>
             <p>
               Bills often reflect comfort decisions. If the home was warmer, more
               occupied, or had less sunlight, usage will follow.
             </p>
             <h3>Check 3: document before you call</h3>
             <p>
-              If you call your utility (or an HVAC pro), you’ll get better answers
+              If you call your utility (or an HVAC pro), you'll get better answers
               if you have: billing days, total therms, therms/day, and whether the
               read was estimated.
             </p>
@@ -238,7 +238,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               A winter spike can be caused by <strong>more therms</strong>,
               <strong> a higher price per therm</strong>, or both. The fastest way
-              to separate those drivers is to look at your bill’s line items.
+              to separate those drivers is to look at your bill's line items.
             </p>
             <p>
               Many bills split charges into <strong>supply</strong> (the gas you
@@ -279,7 +279,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               If your bill is high right now, you probably want actionable steps
-              more than theory. Here’s a practical sequence that balances quick
+              more than theory. Here's a practical sequence that balances quick
               wins with finding the real root cause.
             </p>
             <h3>1) Normalize: therms per day</h3>
@@ -290,8 +290,8 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <h3>2) Check thermostat schedule drift</h3>
             <p>
               A common winter culprit is a schedule that quietly changed:
-              vacations, guests, work-from-home days, or a new “hold” setting.
-              A 2–3°F increase can be meaningful over an entire month.
+              vacations, guests, work-from-home days, or a new "hold" setting.
+              A 2-3 degF increase can be meaningful over an entire month.
             </p>
             <h3>3) Identify your biggest gas loads</h3>
             <p>
@@ -303,7 +303,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <h3>4) Replace or clean the furnace filter</h3>
             <p>
               A clogged filter can reduce airflow and efficiency and may cause
-              longer run times. It’s one of the lowest-effort maintenance steps to
+              longer run times. It's one of the lowest-effort maintenance steps to
               try early.
             </p>
             <h3>5) Do a draft audit on the windiest day</h3>
@@ -312,7 +312,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               penetrations (cable entries, hose bibs). Drafts translate directly
               into heating load.
             </p>
-            <h3>6) Tune setbacks to avoid long “recovery” runs</h3>
+            <h3>6) Tune setbacks to avoid long "recovery" runs</h3>
             <p>
               For many systems, modest setbacks help; extreme setbacks can lead to
               long runs in the morning. The best setting is the one that reduces
@@ -327,7 +327,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>8) Look for estimation/corrections and prior-period adjustments</h3>
             <p>
-              Estimated reads can “catch up” later. If one month is oddly low and
+              Estimated reads can "catch up" later. If one month is oddly low and
               the next is high with no behavior change, a corrected read or
               adjustment is a prime suspect.
             </p>
@@ -340,7 +340,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Here’s a simple example to show how a bill can jump even when nothing
+              Here's a simple example to show how a bill can jump even when nothing
               mysterious is happening.
             </p>
             <ul>
@@ -356,8 +356,8 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               Now add pricing changes:
             </p>
             <ul>
-              <li>Supply price: $1.10/therm → $1.35/therm</li>
-              <li>Delivery (variable): $0.55/therm → $0.60/therm</li>
+              <li>Supply price: $1.10/therm to $1.35/therm</li>
+              <li>Delivery (variable): $0.55/therm to $0.60/therm</li>
             </ul>
             <p>
               More therms plus a higher combined per-therm rate will produce a
@@ -375,16 +375,16 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“My bill doubled, so my usage doubled.”</strong> Not
+                <strong>"My bill doubled, so my usage doubled."</strong> Not
                 necessarily. A longer billing period and a rate change can create a
-                big total change without a true 2× usage change.
+                big total change without a true 2x usage change.
               </li>
               <li>
-                <strong>“If the thermostat is the same, the bill should be the same.”</strong>
-                Weather varies. Wind, cold snaps, and how long you’re home all matter.
+                <strong>"If the thermostat is the same, the bill should be the same."</strong>
+                Weather varies. Wind, cold snaps, and how long you're home all matter.
               </li>
               <li>
-                <strong>“Delivery charges are a mistake.”</strong> Delivery is the
+                <strong>"Delivery charges are a mistake."</strong> Delivery is the
                 infrastructure service. It can be substantial, especially in winter.
               </li>
             </ul>
@@ -433,7 +433,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
     slug: "mcf-vs-ccf-vs-therms-on-gas-bill",
     title: "MCF vs CCF vs Therms: What Those Units Mean on a Gas Bill",
     description:
-      "Gas bills can show CCF, MCF, BTUs, and therms. Here’s what each unit means, why conversion factors exist, and how to sanity-check the math.",
+      "Gas bills can show CCF, MCF, BTUs, and therms. Here's what each unit means, why conversion factors exist, and how to sanity-check the math.",
     category: "Gas",
     keyword: "mcf vs ccf vs therms",
     date: "2025-12-25",
@@ -449,16 +449,16 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              If you’ve ever looked at your gas bill and thought, “Why are there so
-              many units?” you’re asking the right question. Electricity bills are
+              If you've ever looked at your gas bill and thought, "Why are there so
+              many units?" you're asking the right question. Electricity bills are
               mostly kWh. Gas bills can show cubic feet, CCF, MCF, BTUs, therms, and
               a mysterious conversion factor.
             </p>
             <p>
               The key idea is simple: <strong>natural gas is a fuel</strong>, and
-              you ultimately care about how much heat energy you’re getting. Volume
-              (cubic feet) is the “how much flowed through the pipe” measure.
-              Therms are the “how much usable heat energy that volume represents”
+              you ultimately care about how much heat energy you're getting. Volume
+              (cubic feet) is the "how much flowed through the pipe" measure.
+              Therms are the "how much usable heat energy that volume represents"
               measure.
             </p>
             <p>
@@ -477,10 +477,10 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               Here are the plain-English definitions you can keep in your head.
             </p>
-            <h3>Cubic feet (ft³)</h3>
+            <h3>Cubic feet (ft3)</h3>
             <p>
               A cubic foot is a unit of volume. Many residential meters record gas
-              in cubic feet. Volume is useful, but by itself it doesn’t tell you the
+              in cubic feet. Volume is useful, but by itself it doesn't tell you the
               exact heat content.
             </p>
             <h3>CCF and MCF</h3>
@@ -496,22 +496,22 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              If you see CCF or MCF, don’t panic—it’s still just volume, summarized
+              If you see CCF or MCF, don't panic--it's still just volume, summarized
               in a bigger unit.
             </p>
             <h3>BTUs</h3>
             <p>
-              A BTU (British Thermal Unit) is a unit of heat energy. It’s commonly
+              A BTU (British Thermal Unit) is a unit of heat energy. It's commonly
               used to describe appliance output (like a furnace or water heater).
             </p>
             <h3>Therms</h3>
             <p>
               A therm is also energy. <strong>1 therm = 100,000 BTUs</strong>. Many
-              residential gas bills charge per therm because it’s a convenient
-              “whole-number-ish” unit for household energy use.
+              residential gas bills charge per therm because it's a convenient
+              "whole-number-ish" unit for household energy use.
             </p>
             <p>
-              If you’re looking at your own bill while reading this, our bill
+              If you're looking at your own bill while reading this, our bill
               walk-through is
               <a href="/blog/how-to-read-your-gas-bill-therms-explained">
                 therms explained
@@ -523,19 +523,19 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "conversion-factor",
-        title: "The conversion factor: why it exists and what it’s doing",
+        title: "The conversion factor: why it exists and what it's doing",
         content: (
           <>
             <p>
-              Here’s the part utilities often don’t explain well: the energy content
-              of natural gas can vary slightly. It’s still “natural gas,” but the
+              Here's the part utilities often don't explain well: the energy content
+              of natural gas can vary slightly. It's still "natural gas," but the
               exact heat value per cubic foot can change based on supply sources and
               processing.
             </p>
             <p>
               Because of that, many utilities measure your volume (CCF/MCF) and then
               apply a <strong>conversion factor</strong> to calculate therms.
-              That’s why your bill might show something like:
+              That's why your bill might show something like:
             </p>
             <ul>
               <li>Metered usage: 85 CCF</li>
@@ -544,8 +544,8 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </ul>
             <p>
               The exact numbers vary, but the structure is common.
-              If the factor changes month to month, that’s not automatically a red
-              flag—it can be normal.
+              If the factor changes month to month, that's not automatically a red
+              flag--it can be normal.
             </p>
           </>
         )
@@ -556,13 +556,13 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Most confusion comes from trying to do one “perfect” conversion and
+              Most confusion comes from trying to do one "perfect" conversion and
               getting a different answer than the bill. Instead, aim for a sanity
               check that answers two questions:
             </p>
             <ol>
               <li>Do the units on the bill make sense for the meter type?</li>
-              <li>Does the conversion logic match what the utility says it’s doing?</li>
+              <li>Does the conversion logic match what the utility says it's doing?</li>
             </ol>
             <h3>Step 1: identify the billed unit</h3>
             <p>
@@ -571,13 +571,13 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Step 2: look for the heat content / factor</h3>
             <p>
-              It might be labeled “conversion factor,” “therm factor,” “BTU factor,”
-              or “heat content.” If you find it, you can usually reproduce the
+              It might be labeled "conversion factor," "therm factor," "BTU factor,"
+              or "heat content." If you find it, you can usually reproduce the
               therms calculation with basic multiplication.
             </p>
             <h3>Step 3: compare usage fairly</h3>
             <p>
-              If you’re comparing months, focus on therms per day. This matters
+              If you're comparing months, focus on therms per day. This matters
               especially in winter. Our winter spike guide is
               <a href="/blog/why-is-my-gas-bill-so-high-in-winter">here</a>.
             </p>
@@ -586,7 +586,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "why-math-looks-off",
-        title: "Why the math can look “off” even when it’s correct",
+        title: "Why the math can look \"off\" even when it's correct",
         content: (
           <>
             <p>
@@ -634,7 +634,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <ul>
               <li>
-                <strong>Cubic foot (ft³):</strong> the base unit of volume.
+                <strong>Cubic foot (ft3):</strong> the base unit of volume.
               </li>
               <li>
                 <strong>CCF:</strong> 100 cubic feet.
@@ -650,7 +650,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              The “why” behind therms: heat content per cubic foot can vary slightly
+              The "why" behind therms: heat content per cubic foot can vary slightly
               across sources and over time. Billing in therms helps align what you
               pay with the energy you received.
             </p>
@@ -659,13 +659,13 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "worked-conversion",
-        title: "A worked conversion example (CCF → therms)",
+        title: "A worked conversion example (CCF to therms)",
         content: (
           <>
             <p>
-              Utilities don’t all present the exact same fields, but the structure
-              is usually: <strong>volume × conversion factor = therms</strong>.
-              Here’s a concrete example using round numbers.
+              Utilities don't all present the exact same fields, but the structure
+              is usually: <strong>volume x conversion factor = therms</strong>.
+              Here's a concrete example using round numbers.
             </p>
             <p>
               Imagine your bill shows:
@@ -678,7 +678,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               Then your therms calculation is:
             </p>
             <p>
-              <strong>45 CCF × 1.03 = 46.35 therms</strong>
+              <strong>45 CCF x 1.03 = 46.35 therms</strong>
             </p>
             <p>
               If your bill shows 46.3 therms, the difference is probably rounding.
@@ -691,7 +691,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               <li>Prior-period adjustments or corrected reads</li>
             </ul>
             <p>
-              The goal isn’t to match the penny. The goal is to confirm you
+              The goal isn't to match the penny. The goal is to confirm you
               understand the unit chain and can tell whether your bill is based on
               volume, energy, or both.
             </p>
@@ -721,7 +721,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               </li>
             </ol>
             <p>
-              If you’re comparing gas heat to electric heat, make sure you’re
+              If you're comparing gas heat to electric heat, make sure you're
               comparing <strong>delivered heat</strong>, not just raw energy units.
               Furnaces and heat pumps have different efficiencies.
               A practical walkthrough is in
@@ -731,7 +731,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               .
             </p>
             <p>
-              Finally, if you’re using this unit knowledge to debug a winter spike,
+              Finally, if you're using this unit knowledge to debug a winter spike,
               the actionable guide is
               <a href="/blog/why-is-my-gas-bill-so-high-in-winter">
                 why gas bills are high in winter
@@ -743,25 +743,25 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "meter-vs-bill",
-        title: "Meter reading vs billed usage: why they don’t always match",
+        title: "Meter reading vs billed usage: why they don't always match",
         content: (
           <>
             <p>
               Another common source of confusion is comparing a meter reading to a
-              bill line and expecting the numbers to match exactly. They’re related,
-              but they aren’t always the same thing.
+              bill line and expecting the numbers to match exactly. They're related,
+              but they aren't always the same thing.
             </p>
             <h3>1) Meter reads are point-in-time snapshots</h3>
             <p>
               Your meter shows a running total of volume delivered (often in cubic
               feet). Your bill covers a <strong>billing period</strong> with a start
-              read and an end read. If you check the meter on a random day, you’re
-              not necessarily aligned with the utility’s read dates.
+              read and an end read. If you check the meter on a random day, you're
+              not necessarily aligned with the utility's read dates.
             </p>
             <h3>2) Bills may include estimated reads</h3>
             <p>
               If the utility estimates a read one month and then gets an actual read
-              the next month, your billed usage can “catch up.” That can make it look
+              the next month, your billed usage can "catch up." That can make it look
               like the conversion factor changed or the unit math is wrong, when the
               real cause is timing.
             </p>
@@ -778,7 +778,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               <a href="/blog/gas-delivery-charge-vs-supply-charge">
                 supply vs delivery charges
               </a>
-              so you can see which parts scale with therms and which don’t.
+              so you can see which parts scale with therms and which don't.
             </p>
           </>
         )
@@ -790,7 +790,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               CCF and MCF are just different groupings of cubic feet, so why do
-              utilities pick one over the other? Most of the time it’s simply
+              utilities pick one over the other? Most of the time it's simply
               convention and readability.
             </p>
             <ul>
@@ -803,13 +803,13 @@ export const gasPillarPosts_2025_12_25: Post[] = [
                 unit consistently across decades.
               </li>
               <li>
-                <strong>Metering practice:</strong> the “native” meter multiplier or
+                <strong>Metering practice:</strong> the "native" meter multiplier or
                 read format may align more naturally with one unit.
               </li>
             </ul>
             <p>
-              If you’re thinking “CCF sounds familiar,” you might be remembering
-              water bills. That’s a different utility and often a different scale.
+              If you're thinking "CCF sounds familiar," you might be remembering
+              water bills. That's a different utility and often a different scale.
               A water CCF guide is
               <a href="/blog/what-is-ccf-on-a-water-bill"> here</a>.
             </p>
@@ -828,15 +828,15 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Therms are made up.”</strong> Therms are a standard energy
+                <strong>"Therms are made up."</strong> Therms are a standard energy
                 unit (100,000 BTUs).
               </li>
               <li>
-                <strong>“CCF and MCF are different fuels.”</strong> They’re just
+                <strong>"CCF and MCF are different fuels."</strong> They're just
                 different groupings of cubic feet.
               </li>
               <li>
-                <strong>“The conversion factor is a hidden fee.”</strong> It’s a
+                <strong>"The conversion factor is a hidden fee."</strong> It's a
                 conversion step, not a surcharge.
               </li>
             </ul>
@@ -863,7 +863,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       {
         question: "What is the conversion factor on my gas bill?",
         answer:
-          "It’s a factor the utility uses to convert your measured gas volume (CCF/MCF) into therms, based on the heat content of the gas delivered during that period."
+          "It's a factor the utility uses to convert your measured gas volume (CCF/MCF) into therms, based on the heat content of the gas delivered during that period."
       }
     ],
     relatedSlugs: [
@@ -874,9 +874,9 @@ export const gasPillarPosts_2025_12_25: Post[] = [
   },
   {
     slug: "gas-delivery-charge-vs-supply-charge",
-    title: "Gas Delivery Charge vs Supply Charge: What You’re Actually Paying For",
+    title: "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For",
     description:
-      "Gas bills usually include supply (the gas) and delivery (the pipes and service). Here’s what each covers, why they change, and what to check on your statement.",
+      "Gas bills usually include supply (the gas) and delivery (the pipes and service). Here's what each covers, why they change, and what to check on your statement.",
     category: "Gas",
     keyword: "gas delivery charge vs supply charge",
     date: "2025-12-25",
@@ -893,12 +893,12 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               A gas bill often looks like a math problem. But the underlying model
-              is straightforward: you’re paying for <strong>natural gas as a fuel</strong>
-              and you’re paying for <strong>the system that delivers it</strong>.
+              is straightforward: you're paying for <strong>natural gas as a fuel</strong>
+              and you're paying for <strong>the system that delivers it</strong>.
             </p>
             <p>
-              If your bill has a “supply” section and a “delivery” section, that’s
-              the bill’s way of separating the product (the gas) from the service
+              If your bill has a "supply" section and a "delivery" section, that's
+              the bill's way of separating the product (the gas) from the service
               (the pipes, meter, maintenance, and operations that keep gas available
               at your home).
             </p>
@@ -918,17 +918,17 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               The <strong>supply charge</strong> is the cost of the natural gas
-              itself. It’s often priced per therm. In some regions, you may be able
+              itself. It's often priced per therm. In some regions, you may be able
               to choose a supplier for the supply portion. In other regions, supply
               is bundled and provided by the same utility.
             </p>
             <p>
               Supply rates can change based on market conditions, seasonal demand,
-              and how utilities procure fuel. That’s one reason the price per therm
+              and how utilities procure fuel. That's one reason the price per therm
               can look different between summer and winter.
             </p>
             <p>
-              If you’re unsure how to locate the therm usage and supply price on your
+              If you're unsure how to locate the therm usage and supply price on your
               bill, see
               <a href="/blog/how-to-read-your-gas-bill-therms-explained">
                 how to read your gas bill
@@ -956,7 +956,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </ul>
             <p>
               Delivery charges can include both fixed components and per-therm
-              components. That’s why delivery can still feel “high” even when your
+              components. That's why delivery can still feel "high" even when your
               therm usage is modest.
             </p>
             <p>
@@ -973,19 +973,19 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               Many bills include a fixed monthly customer charge (sometimes called
-              a base charge). Think of it as the “keep the account and service
-              active” fee. It supports the fixed costs of being connected.
+              a base charge). Think of it as the "keep the account and service
+              active" fee. It supports the fixed costs of being connected.
             </p>
             <p>
-              This is also why bills don’t scale perfectly with usage. Cutting usage
-              helps, but it won’t eliminate fixed costs.
+              This is also why bills don't scale perfectly with usage. Cutting usage
+              helps, but it won't eliminate fixed costs.
             </p>
           </>
         )
       },
       {
         id: "why-it-changes",
-        title: "Why your total can change even if your usage doesn’t",
+        title: "Why your total can change even if your usage doesn't",
         content: (
           <>
             <p>
@@ -1008,7 +1008,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </ul>
             <p>
               In winter, usage changes and rate changes often happen together. If
-              you’re dealing with a winter spike, the most useful guide is
+              you're dealing with a winter spike, the most useful guide is
               <a href="/blog/why-is-my-gas-bill-so-high-in-winter">
                 why gas bills spike in winter
               </a>
@@ -1055,9 +1055,9 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Utilities don’t all label charges the same way. Here are common names
-              you might see and the category they typically fall under. This isn’t
-              a legal definition, but it’s a useful decoding key when you’re trying
+              Utilities don't all label charges the same way. Here are common names
+              you might see and the category they typically fall under. This isn't
+              a legal definition, but it's a useful decoding key when you're trying
               to understand your own statement.
             </p>
             <ul>
@@ -1091,12 +1091,12 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "supplier-choice",
-        title: "If you can choose a supplier: what changes (and what doesn’t)",
+        title: "If you can choose a supplier: what changes (and what doesn't)",
         content: (
           <>
             <p>
               In some areas, customers can choose a competitive supplier for the
-              <strong> supply</strong> portion. If you’re in a supplier-choice
+              <strong> supply</strong> portion. If you're in a supplier-choice
               market, this is the key rule of thumb:
             </p>
             <p>
@@ -1107,12 +1107,12 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             </p>
             <p>
               You still pay the local utility for delivery because they own and
-              operate the distribution system. That’s why people sometimes switch
-              suppliers and are surprised the bill doesn’t drop as much as expected:
+              operate the distribution system. That's why people sometimes switch
+              suppliers and are surprised the bill doesn't drop as much as expected:
               delivery can be a large fraction of the total.
             </p>
             <p>
-              If you’re evaluating an offer, compare:
+              If you're evaluating an offer, compare:
             </p>
             <ul>
               <li>Price per therm</li>
@@ -1121,7 +1121,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               <li>Any monthly fees independent of usage</li>
             </ul>
             <p>
-              Even if you don’t have supplier choice, the same idea applies when
+              Even if you don't have supplier choice, the same idea applies when
               you compare months: keep supply and delivery separate so you can see
               whether usage drove the change or pricing/fees did.
             </p>
@@ -1146,14 +1146,14 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               A quick estimate of the pre-tax total looks like:
             </p>
             <ul>
-              <li>Supply cost ≈ 60 × 1.40 = $84.00</li>
-              <li>Delivery variable ≈ 60 × 0.65 = $39.00</li>
+              <li>Supply cost: 60 x 1.40 = $84.00</li>
+              <li>Delivery variable: 60 x 0.65 = $39.00</li>
               <li>Fixed customer charge = $15.00</li>
             </ul>
             <p>
-              That’s about $138 before taxes and fees. Now notice what happens if
+              That's about $138 before taxes and fees. Now notice what happens if
               usage drops to 30 therms: your variable portions cut in half, but the
-              $15 fixed charge remains. This is why bills don’t scale perfectly
+              $15 fixed charge remains. This is why bills don't scale perfectly
               with conservation.
             </p>
             <p>
@@ -1173,14 +1173,14 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              If you’re trying to decide whether a change is “worth it” (lowering
+              If you're trying to decide whether a change is "worth it" (lowering
               the thermostat, sealing drafts, changing suppliers), you need one key
               number: your <strong>marginal cost per therm</strong>.
             </p>
             <p>
               In plain terms, marginal cost per therm is: how much your bill changes
-              if you use one fewer therm. Fixed charges don’t change with usage, so
-              they don’t belong in that calculation.
+              if you use one fewer therm. Fixed charges don't change with usage, so
+              they don't belong in that calculation.
             </p>
             <h3>How to estimate it from your bill</h3>
             <ol>
@@ -1194,11 +1194,11 @@ export const gasPillarPosts_2025_12_25: Post[] = [
             <p>
               For example, if supply is $1.40/therm and variable delivery is
               $0.65/therm, your marginal cost is about <strong>$2.05 per therm</strong>
-              (before taxes). That’s the number you use to estimate savings from
+              (before taxes). That's the number you use to estimate savings from
               reducing therms.
             </p>
             <p>
-              If your bill doesn’t clearly show the per-therm delivery pieces, don’t
+              If your bill doesn't clearly show the per-therm delivery pieces, don't
               panic. The exact number varies by utility, but even a rough estimate is
               better than guessing.
             </p>
@@ -1207,12 +1207,12 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "what-you-control",
-        title: "What you can control (and what you usually can’t)",
+        title: "What you can control (and what you usually can't)",
         content: (
           <>
             <p>
               Gas bills are frustrating because not every part responds to your
-              behavior. Here’s a realistic breakdown.
+              behavior. Here's a realistic breakdown.
             </p>
             <h3>You can usually control</h3>
             <ul>
@@ -1225,10 +1225,10 @@ export const gasPillarPosts_2025_12_25: Post[] = [
                 supplier-choice markets, or by understanding plan types.
               </li>
             </ul>
-            <h3>You can’t usually control</h3>
+            <h3>You can't usually control</h3>
             <ul>
               <li>
-                <strong>Fixed customer charges:</strong> they apply when you’re
+                <strong>Fixed customer charges:</strong> they apply when you're
                 connected.
               </li>
               <li>
@@ -1246,7 +1246,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               <a href="/blog/why-is-my-gas-bill-so-high-in-winter">
                 the winter spike playbook
               </a>
-              will usually point you to the most likely “control knob.”
+              will usually point you to the most likely "control knob."
             </p>
           </>
         )
@@ -1257,13 +1257,13 @@ export const gasPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              If your total changed sharply and you can’t immediately explain it
+              If your total changed sharply and you can't immediately explain it
               through therms used or obvious rate changes, these questions usually
               get you to a useful answer faster.
             </p>
             <ul>
               <li>
-                Was this month’s meter read <strong>actual or estimated</strong>?
+                Was this month's meter read <strong>actual or estimated</strong>?
               </li>
               <li>
                 Did the billing cycle have an unusual number of <strong>days</strong>?
@@ -1279,7 +1279,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
               </li>
             </ul>
             <p>
-              You don’t need to become a rate expert. The point is to learn whether
+              You don't need to become a rate expert. The point is to learn whether
               the change came from usage (therms), pricing (per-therm rates), timing
               (days/reads), or one-time corrections.
             </p>
@@ -1293,15 +1293,15 @@ export const gasPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Delivery is a fake fee.”</strong> Delivery funds the
+                <strong>"Delivery is a fake fee."</strong> Delivery funds the
                 distribution system (pipes, maintenance, safety programs).
               </li>
               <li>
-                <strong>“Choosing a supplier removes delivery charges.”</strong> In
+                <strong>"Choosing a supplier removes delivery charges."</strong> In
                 many markets, supplier choice affects supply, not delivery.
               </li>
               <li>
-                <strong>“My therm usage is the only thing that matters.”</strong>
+                <strong>"My therm usage is the only thing that matters."</strong>
                 Fixed charges and rate changes can materially affect the total.
               </li>
             </ul>
@@ -1318,7 +1318,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
       {
         question: "What is the delivery charge on a gas bill?",
         answer:
-          "The delivery (distribution) charge covers the infrastructure and service required to bring gas to your home—pipes, meters, maintenance, and operations."
+          "The delivery (distribution) charge covers the infrastructure and service required to bring gas to your home--pipes, meters, maintenance, and operations."
       },
       {
         question: "Why is my delivery charge so high?",

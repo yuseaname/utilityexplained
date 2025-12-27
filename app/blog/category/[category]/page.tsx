@@ -29,6 +29,11 @@ export default function CategoryPage({ params }: { params: { category: string } 
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Blog", href: "/blog" }, { label: params.category }]} />
       <section className="section">
         <h1>{params.category}</h1>
+        <p>
+          Browse clear, plain-English guides focused on {params.category.toLowerCase()}.
+          Each article breaks down utility terms, charges, and cost drivers so you can
+          make sense of real bills faster.
+        </p>
         <div className="post-grid">
           {items.map((post) => (
             <PostCard key={post.slug} post={post} />

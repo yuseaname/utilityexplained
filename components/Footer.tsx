@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="site-footer">
       <div className="container footer-inner">
         <div>
-          <p className="footer-brand">Utility Plain English</p>
+          <p className="footer-brand">Utility Explained</p>
           <p className="footer-note">
             Informational content about home utilities and adulting. Not legal,
             financial, or professional advice.

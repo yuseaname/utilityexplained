@@ -4,7 +4,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
   {
     slug: "estimated-utility-bill-explained",
     title:
-      "Estimated Utility Bill Explained: What “Estimated” Means and What Happens Next",
+      "Estimated Utility Bill Explained: What \"Estimated\" Means and What Happens Next",
     description:
       "If your bill says the meter read was estimated, this guide explains why it happens, how the correction works, and how to sanity-check the total without panic.",
     category: "Budgeting",
@@ -30,16 +30,16 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               The key point is what happens next: when the utility gets an
               <strong> actual meter read</strong>, it usually makes a
               <strong> correction</strong>. Sometimes the correction is obvious (a
-              “catch-up” bill). Sometimes it’s subtle.
+              "catch-up" bill). Sometimes it's subtle.
             </p>
             <p>
               Most of the confusion comes from expecting each month to be perfectly
-              accurate on its own. With an estimated read, it’s more helpful to
+              accurate on its own. With an estimated read, it's more helpful to
               think in <strong>two-bill windows</strong>: the estimated period, then
               the correction period.
             </p>
             <p>
-              For the broader “how utility bills work” framework, start with
+              For the broader "how utility bills work" framework, start with
               <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
             </p>
           </>
@@ -68,14 +68,14 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              Estimated reads aren’t usually a trick. They’re a practical workaround
-              when a utility can’t get a clean reading on schedule.
+              Estimated reads aren't usually a trick. They're a practical workaround
+              when a utility can't get a clean reading on schedule.
             </p>
             <h3>Common reasons</h3>
             <ul>
               <li>
                 <strong>Access issues:</strong> a fenced yard, locked gate, or an
-                indoor meter that couldn’t be accessed.
+                indoor meter that couldn't be accessed.
               </li>
               <li>
                 <strong>Weather or staffing:</strong> a missed route during extreme
@@ -86,12 +86,12 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
                 automatically, but outages or communication failures can still happen.
               </li>
               <li>
-                <strong>Scheduling drift:</strong> billing cycles aren’t always aligned
+                <strong>Scheduling drift:</strong> billing cycles aren't always aligned
                 to the calendar, and read dates can shift.
               </li>
             </ul>
             <p>
-              If you’re thinking, “Okay, but what does that mean for me?”, the best
+              If you're thinking, "Okay, but what does that mean for me?", the best
               answer is: the estimate is a placeholder until a verified read occurs.
             </p>
           </>
@@ -137,28 +137,28 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              The correction is where people feel whiplash. One month is “weird,” and
-              the next month is “even weirder.” But the logic is usually straightforward.
+              The correction is where people feel whiplash. One month is "weird," and
+              the next month is "even weirder." But the logic is usually straightforward.
             </p>
             <h3>The two-bill window</h3>
             <p>
-              When a utility estimates, it’s essentially saying: “We’re billing you
-              now so the account stays current. We’ll reconcile when we have a verified
-              reading.”
+              When a utility estimates, it's essentially saying: "We're billing you
+              now so the account stays current. We'll reconcile when we have a verified
+              reading."
             </p>
             <p>
               So if the estimate was <em>lower</em> than actual usage, a later bill can
-              look high because it includes your current period plus a “catch-up” amount.
+              look high because it includes your current period plus a "catch-up" amount.
               If the estimate was <em>higher</em>, a later bill can look unusually low.
             </p>
             <h3>Why the total is usually accurate across time</h3>
             <p>
               In many cases, the utility is trying to make sure that over time, you pay
-              for what you used. That’s why it’s often smarter to compare
+              for what you used. That's why it's often smarter to compare
               <strong>usage per day</strong> and to look across a couple billing cycles.
             </p>
             <p>
-              If you want a clear checklist for “my bill changed but my usage didn’t,”
+              If you want a clear checklist for "my bill changed but my usage didn't,"
               the companion guide is
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> why your bill can be higher with the same usage</a>.
             </p>
@@ -171,8 +171,8 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              You don’t need perfect math. You just need to answer a few practical
-              questions that separate “normal variance” from “something worth calling about.”
+              You don't need perfect math. You just need to answer a few practical
+              questions that separate "normal variance" from "something worth calling about."
             </p>
             <h3>1) Check billing days first</h3>
             <p>
@@ -193,7 +193,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>4) Compare the same season last year</h3>
             <p>
-              Many bills show last year’s usage for the same month. Use that as a
+              Many bills show last year's usage for the same month. Use that as a
               reality check. Heating and cooling seasons routinely create peaks.
             </p>
           </>
@@ -215,15 +215,15 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
                 reads with no clear reason.
               </li>
               <li>
-                <strong>Extreme catch-up:</strong> a correction that doesn’t match any
+                <strong>Extreme catch-up:</strong> a correction that doesn't match any
                 plausible change in weather or household behavior.
               </li>
               <li>
                 <strong>Meter mismatch:</strong> the bill lists a meter number that
-                doesn’t match yours.
+                doesn't match yours.
               </li>
               <li>
-                <strong>Unit mismatch:</strong> the bill shows a unit that doesn’t
+                <strong>Unit mismatch:</strong> the bill shows a unit that doesn't
                 align with your service (rare, but worth checking).
               </li>
             </ul>
@@ -231,7 +231,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               If budgeting is your priority (you want predictable monthly payments),
               you may also want to understand
               <a href="/blog/budget-billing-level-pay-explained"> budget billing / level pay</a>.
-              It doesn’t reduce usage, but it can reduce surprises.
+              It doesn't reduce usage, but it can reduce surprises.
             </p>
           </>
         )
@@ -243,16 +243,16 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Estimated means wrong.”</strong> Not always. Many estimates
+                <strong>"Estimated means wrong."</strong> Not always. Many estimates
                 are close, and the utility typically reconciles later.
               </li>
               <li>
-                <strong>“A catch-up bill means they added random charges.”</strong>
-                Often it’s just a correction for a prior estimate.
+                <strong>"A catch-up bill means they added random charges."</strong>
+                Often it's just a correction for a prior estimate.
               </li>
               <li>
-                <strong>“If I pay an estimated bill, I’m stuck.”</strong> Paying keeps
-                the account current; it doesn’t prevent a later correction.
+                <strong>"If I pay an estimated bill, I'm stuck."</strong> Paying keeps
+                the account current; it doesn't prevent a later correction.
               </li>
             </ul>
           </>
@@ -261,9 +261,9 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
     ],
     faqs: [
       {
-        question: "What does ‘estimated’ mean on a utility bill?",
+        question: "What does 'estimated' mean on a utility bill?",
         answer:
-          "It means the utility didn’t use a freshly verified meter reading for that period and instead estimated your usage based on past patterns or other data."
+          "It means the utility didn't use a freshly verified meter reading for that period and instead estimated your usage based on past patterns or other data."
       },
       {
         question: "Will an estimated utility bill be corrected later?",
@@ -273,7 +273,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       {
         question: "How can I tell if my bill was estimated?",
         answer:
-          "Most bills label the reading as ‘estimated’ (or show an ‘E’) in the meter reading or usage section. Some also include a note explaining the estimate."
+          "Most bills label the reading as 'estimated' (or show an 'E') in the meter reading or usage section. Some also include a note explaining the estimate."
       },
       {
         question: "Can an estimated bill be higher than normal?",
@@ -301,7 +301,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
   },
   {
     slug: "why-my-utility-bill-is-higher-with-same-usage",
-    title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn’t Change",
+    title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change",
     description:
       "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads.",
     category: "Budgeting",
@@ -319,15 +319,15 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <p>
-              A utility bill can be higher even when your “usage” looks similar because
-              the total is not just usage × price. Most bills include a mix of:
+              A utility bill can be higher even when your "usage" looks similar because
+              the total is not just usage x price. Most bills include a mix of:
               <strong> billing days</strong>, <strong>rate changes</strong>,
               <strong> fixed customer charges</strong>, and sometimes
               <strong> tiers</strong> or <strong>time-of-use pricing</strong>.
             </p>
             <p>
               The fastest way to reduce confusion is to follow a simple order:
-              <strong>days → usage per day → unit price → fixed fees → tiers</strong>.
+              <strong>days, usage per day, unit price, fixed fees, tiers</strong>.
             </p>
             <p>
               For the overall billing model (usage vs delivery vs fixed fees), start
@@ -343,7 +343,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
         content: (
           <>
             <ul>
-              <li><a href="#checklist">The checklist: days → per-day → rates → fees → tiers</a></li>
+              <li><a href="#checklist">The checklist: days, per-day, rates, fees, tiers</a></li>
               <li><a href="#bill-lines">What to look for on the statement</a></li>
               <li><a href="#estimated">Estimated reads and corrections</a></li>
               <li><a href="#misconceptions">Common misconceptions</a></li>
@@ -359,7 +359,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               When people compare bills, they often jump straight to the total.
-              That’s the least informative number. Use this order instead.
+              That's the least informative number. Use this order instead.
             </p>
             <h3>Step 1: billing days (the hidden multiplier)</h3>
             <p>
@@ -368,8 +368,8 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Step 2: usage per day (normalize the comparison)</h3>
             <p>
-              Divide usage by billing days. This turns “I used 900 kWh” into
-              “I used 27 kWh/day,” which is a fair comparison.
+              Divide usage by billing days. This turns "I used 900 kWh" into
+              "I used 27 kWh/day," which is a fair comparison.
             </p>
             <h3>Step 3: unit price (did the rate change?)</h3>
             <p>
@@ -379,8 +379,8 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Step 4: fixed customer charges</h3>
             <p>
-              Fixed charges don’t care whether you used a lot or a little. That’s why
-              bills don’t scale perfectly when you reduce usage.
+              Fixed charges don't care whether you used a lot or a little. That's why
+              bills don't scale perfectly when you reduce usage.
             </p>
             <h3>Step 5: tiers or time-of-use pricing</h3>
             <p>
@@ -403,7 +403,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Usage charges</h3>
             <p>
-              These are the “per unit” charges: kWh for electricity, therms for gas,
+              These are the "per unit" charges: kWh for electricity, therms for gas,
               gallons/CCF for water. They rise when usage rises.
             </p>
             <h3>Delivery / distribution charges</h3>
@@ -413,8 +413,8 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             </p>
             <h3>Customer charges and fixed fees</h3>
             <p>
-              These apply even with low usage. If you’re trying to budget, these are
-              the “always there” part of the bill.
+              These apply even with low usage. If you're trying to budget, these are
+              the "always there" part of the bill.
             </p>
             <h3>Taxes and surcharges</h3>
             <p>
@@ -426,7 +426,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "estimated",
-        title: "Estimated reads and corrections (a common cause of ‘mystery’ swings)",
+        title: "Estimated reads and corrections (a common cause of 'mystery' swings)",
         content: (
           <>
             <p>
@@ -439,14 +439,14 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             <ol>
               <li>Estimated bill is slightly high or low.</li>
               <li>Next bill gets an actual reading.</li>
-              <li>Next bill corrects the difference (sometimes as a “catch up”).</li>
+              <li>Next bill corrects the difference (sometimes as a "catch up").</li>
             </ol>
             <p>
               If you want the full explanation and what to watch for, read
               <a href="/blog/estimated-utility-bill-explained"> Estimated utility bill explained</a>.
             </p>
             <p>
-              If you’re trying to avoid seasonal surprises altogether (not just
+              If you're trying to avoid seasonal surprises altogether (not just
               estimate surprises),
               <a href="/blog/budget-billing-level-pay-explained"> budget billing</a>
               can smooth monthly payments.
@@ -461,15 +461,15 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Same total usage means same total bill.”</strong> Not always.
+                <strong>"Same total usage means same total bill."</strong> Not always.
                 Billing days, rates, tiers, and fixed fees can change.
               </li>
               <li>
-                <strong>“If I used less, the bill must be lower.”</strong> A rate change
+                <strong>"If I used less, the bill must be lower."</strong> A rate change
                 or longer billing period can offset lower usage.
               </li>
               <li>
-                <strong>“Fixed charges are small so they don’t matter.”</strong> They
+                <strong>"Fixed charges are small so they don't matter."</strong> They
                 matter most when usage is low.
               </li>
             </ul>
@@ -491,7 +491,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       {
         question: "What are fixed charges on a utility bill?",
         answer:
-          "Fixed charges (customer charges/base charges) are fees you pay regardless of usage. They help cover service availability, billing, and infrastructure costs that don’t vary month to month."
+          "Fixed charges (customer charges/base charges) are fees you pay regardless of usage. They help cover service availability, billing, and infrastructure costs that don't vary month to month."
       },
       {
         question: "Can an estimated read make my bill look wrong?",
@@ -513,9 +513,9 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
   },
   {
     slug: "budget-billing-level-pay-explained",
-    title: "Budget Billing Explained: How “Average Monthly Payments” Really Work",
+    title: "Budget Billing Explained: How \"Average Monthly Payments\" Really Work",
     description:
-      "Budget billing (level pay / average billing) can smooth seasonal utility costs. Learn how it’s calculated, what a true-up is, and what to watch so you’re not surprised later.",
+      "Budget billing (level pay / average billing) can smooth seasonal utility costs. Learn how it's calculated, what a true-up is, and what to watch so you're not surprised later.",
     category: "Budgeting",
     keyword: "budget billing explained",
     date: "2025-12-25",
@@ -536,7 +536,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               give you <strong>more consistent monthly payments</strong>.
             </p>
             <p>
-              It doesn’t reduce your usage by itself. Instead, it spreads your
+              It doesn't reduce your usage by itself. Instead, it spreads your
               expected annual costs across the year. The utility then
               <strong> recalculates</strong> periodically. If your usage or rates
               changed, your budget amount can change too.
@@ -558,7 +558,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               <li><a href="#how-it-works">How budget billing works</a></li>
               <li><a href="#true-up">What a true-up (reconciliation) means</a></li>
               <li><a href="#pros-cons">Pros and cons</a></li>
-              <li><a href="#what-to-watch">What to watch so you’re not surprised</a></li>
+              <li><a href="#what-to-watch">What to watch so you're not surprised</a></li>
               <li><a href="#misconceptions">Common misconceptions</a></li>
               <li><a href="#faqs">FAQs</a></li>
             </ul>
@@ -572,7 +572,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
           <>
             <p>
               The simplest way to think about budget billing is: the utility tries to
-              estimate what you’ll pay over a year, then divides it into similar
+              estimate what you'll pay over a year, then divides it into similar
               monthly payments.
             </p>
             <p>
@@ -580,7 +580,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               window (like the last 12 months) and then set a monthly amount.
             </p>
             <p>
-              That monthly amount is not permanent. It’s a moving target that gets
+              That monthly amount is not permanent. It's a moving target that gets
               recalculated as new data arrives.
             </p>
           </>
@@ -600,7 +600,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               balance to catch up. If you paid more, you may have a credit.
             </p>
             <p>
-              This is why budget billing can feel confusing: you’re paying a planned
+              This is why budget billing can feel confusing: you're paying a planned
               amount monthly, but the account still tracks reality behind the scenes.
             </p>
           </>
@@ -624,7 +624,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
               <li>The payment amount can change after recalculation.</li>
             </ul>
             <p>
-              If you’re new to managing bills (especially renting), the foundation is
+              If you're new to managing bills (especially renting), the foundation is
               <a href="/blog/how-to-budget-for-utilities-in-your-first-apartment"> how to budget for utilities in your first apartment</a>.
             </p>
           </>
@@ -632,7 +632,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       },
       {
         id: "what-to-watch",
-        title: "What to watch so you’re not surprised",
+        title: "What to watch so you're not surprised",
         content: (
           <>
             <h3>1) Usage drift</h3>
@@ -658,11 +658,11 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
             <p>
               Even on budget billing, estimated reads and longer billing cycles can
               influence how the account balances look.
-              If you see “estimated,” read
+              If you see "estimated," read
               <a href="/blog/estimated-utility-bill-explained"> estimated utility bill explained</a>.
             </p>
             <p>
-              And if you’re trying to understand why a bill changed even with similar
+              And if you're trying to understand why a bill changed even with similar
               usage, the practical checklist is
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> here</a>.
             </p>
@@ -676,14 +676,14 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Budget billing saves money.”</strong> It mainly smooths payments.
+                <strong>"Budget billing saves money."</strong> It mainly smooths payments.
               </li>
               <li>
-                <strong>“If my payment is the same, my usage must be stable.”</strong>
+                <strong>"If my payment is the same, my usage must be stable."</strong>
                 Usage can change behind the scenes.
               </li>
               <li>
-                <strong>“A true-up means they made a mistake.”</strong> True-ups are a
+                <strong>"A true-up means they made a mistake."</strong> True-ups are a
                 normal part of how the program reconciles planned payments to actual
                 charges.
               </li>
@@ -706,7 +706,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       {
         question: "Does budget billing save money?",
         answer:
-          "Budget billing usually doesn’t reduce usage or rates by itself. It mainly smooths payment timing. Your total cost over time still depends on usage and pricing."
+          "Budget billing usually doesn't reduce usage or rates by itself. It mainly smooths payment timing. Your total cost over time still depends on usage and pricing."
       },
       {
         question: "Why did my budget billing amount change?",
@@ -716,7 +716,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
       {
         question: "Is budget billing a good idea?",
         answer:
-          "It can be helpful if you want predictable monthly payments and prefer fewer seasonal surprises. It’s most useful when your utility usage swings sharply between seasons."
+          "It can be helpful if you want predictable monthly payments and prefer fewer seasonal surprises. It's most useful when your utility usage swings sharply between seasons."
       }
     ],
     relatedSlugs: [

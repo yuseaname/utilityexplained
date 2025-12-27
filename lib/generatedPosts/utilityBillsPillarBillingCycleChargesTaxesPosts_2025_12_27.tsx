@@ -363,7 +363,7 @@ export const utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27: Post[] 
             <p>
               Some bills label supply and delivery as separate sections. Others blend
               them across multiple lines. Look for headings like "Energy Charges,"
-              "Distribution," "Transmission," or "Delivery."
+              "Distribution,\" \"Transmission,\" or \"Delivery."
             </p>
             <p>
               If the layout is confusing, identify the usage units first (kWh, therms,

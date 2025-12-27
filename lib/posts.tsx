@@ -299,7 +299,7 @@ const posts: Post[] = [
     title:
       "Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)",
     description:
-      "Shocked by a high electric bill? Discover 11 hidden causes—from phantom loads to rate hikes—and get immediate fixes to lower your next payment.",
+      "Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment.",
     category: "Electricity",
     keyword: "why is my electric bill so high this month",
     date: "2025-12-20",
@@ -311,19 +311,19 @@ const posts: Post[] = [
     sections: [
       {
         id: "intro",
-        title: "You’re not imagining it",
+        title: "You're not imagining it",
         content: (
           <>
             <p>
               You open your electric bill and your stomach drops. Nothing feels
-              different — you did not buy a new appliance, you did not move, and
+              different -- you did not buy a new appliance, you did not move, and
               you are not mining crypto in the garage. So why does the bill look
               like it belongs to someone else?
             </p>
             <p>
               In most homes, a sudden spike is rarely one big mistake. It is
               several small changes adding up quietly. Once you know where to look,
-              the mystery makes sense — and you can take control.
+              the mystery makes sense -- and you can take control.
             </p>
             <p>
               If you want a foundation first, see our explainer on
@@ -339,23 +339,23 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              Small seasonal shifts change how much electricity your home uses —
+              Small seasonal shifts change how much electricity your home uses --
               often without you realizing it. Shorter days mean lights stay on
               longer. Cooler nights trigger heating. Hotter days stretch AC run
               time. Higher humidity makes dehumidifiers and ACs work harder.
             </p>
             <ul>
-              <li>Shorter daylight → more lighting hours</li>
-              <li>Cold snaps → heat pumps/resistance heat run longer</li>
-              <li>Heat waves → AC cycles extend and stack</li>
-              <li>Humid days → dehumidifiers or AC remove moisture</li>
+              <li>Shorter daylight: more lighting hours</li>
+              <li>Cold snaps: heat pumps/resistance heat run longer</li>
+              <li>Heat waves: AC cycles extend and stack</li>
+              <li>Humid days: dehumidifiers or AC remove moisture</li>
             </ul>
             <figure>
               <ContentImage
                 src="/images/utility-bill.jpg"
                 alt="Summer cooling and energy bills"
               />
-              <figcaption>Cooling season often drives the year’s highest bills.</figcaption>
+              <figcaption>Cooling season often drives the year's highest bills.</figcaption>
             </figure>
           </>
         )
@@ -368,7 +368,7 @@ const posts: Post[] = [
             <p>
               Your bill reacts more to extremes than averages. A few unusually hot
               days, a sudden cold snap, or a one-week heatwave can spike a bill.
-              HVAC systems do not ramp linearly — they run aggressively to catch up
+              HVAC systems do not ramp linearly -- they run aggressively to catch up
               to your thermostat setting, especially in older or inefficient homes.
             </p>
             <ul>
@@ -388,7 +388,7 @@ const posts: Post[] = [
               Heating and cooling is usually the number one electricity user. Small
               issues quietly raise costs: clogged filters, leaky ductwork, aging
               equipment, or a thermostat set lower (or higher) than you realize. A
-              “just one degree” change matters more than it seems.
+              "just one degree" change matters more than it seems.
             </p>
             <p>
               Learn the basics of systems and efficiency ratings in
@@ -407,7 +407,7 @@ const posts: Post[] = [
               Some appliances are sneaky. They do not look powerful or noisy, but
               they add up. Common culprits: older refrigerators or freezers, garage
               fridges, dehumidifiers, space heaters, and older window AC units. Many
-              legacy models use 2–3× the electricity of modern ones.
+              legacy models use 2-3x the electricity of modern ones.
             </p>
             <figure>
               <ContentImage
@@ -425,9 +425,9 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              Homes are full of devices that draw power when “off”: TVs in standby,
+              Homes are full of devices that draw power when "off": TVs in standby,
               game consoles, cable boxes, routers, smart home hubs, and idle
-              chargers. Individually small — together, a 24/7 trickle that never
+              chargers. Individually small -- together, a 24/7 trickle that never
               stops.
             </p>
             <figure>
@@ -446,7 +446,7 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              Sometimes your usage did not increase — your price did. Many utilities
+              Sometimes your usage did not increase -- your price did. Many utilities
               use <a href="/blog/time-of-use-electricity-rates">time-of-use (TOU) pricing</a> where electricity costs more during peak
               hours. Two identical months can cost different amounts purely due to
               price per kilowatt-hour.
@@ -469,7 +469,7 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              A “normal” bill followed by a shocking one can be an estimate catch-up.
+              A "normal" bill followed by a shocking one can be an estimate catch-up.
               If last month was estimated low, this month may include the make-up
               usage after an actual meter read. This is common if you do not yet have a <a href="/blog/how-do-smart-meters-work">smart meter</a> that reports daily usage.
             </p>
@@ -485,7 +485,7 @@ const posts: Post[] = [
               Focus on four lines: total kWh, rate per kWh, billing period length,
               and comparisons (last month/last year). If usage stayed flat but cost
               rose, it is likely a rate issue. If kWh rose, something in your home
-              changed — even subtly.
+              changed -- even subtly.
             </p>
             <p>
               For kWh basics, see
@@ -514,7 +514,7 @@ const posts: Post[] = [
               <li>Did rates or plan type change?</li>
               <li>Was the billing period longer?</li>
             </ul>
-            <p>The clues are already on your statement — no guesswork required.</p>
+            <p>The clues are already on your statement -- no guesswork required.</p>
           </>
         )
       },
@@ -524,7 +524,7 @@ const posts: Post[] = [
         content: (
           <>
             <ul>
-              <li>Adjust thermostat by 1–2 degrees</li>
+              <li>Adjust thermostat by 1-2 degrees</li>
               <li>Unplug unused chargers and devices</li>
               <li>Run laundry/dishwashers during off-peak hours</li>
               <li>Use fans before lowering AC further</li>
@@ -590,15 +590,15 @@ const posts: Post[] = [
           <>
             <ul>
               <li>
-                “Nothing changed, so the bill must be wrong.” — Weather, rates, or
+                "Nothing changed, so the bill must be wrong." -- Weather, rates, or
                 background usage usually explain it.
               </li>
               <li>
-                “Solar is only for big homes.” — Smaller, hybrid setups are common
+                "Solar is only for big homes." -- Smaller, hybrid setups are common
                 for shaving peaks.
               </li>
               <li>
-                “One appliance cannot matter that much.” — Several inefficient ones
+                "One appliance cannot matter that much." -- Several inefficient ones
                 running quietly can.
               </li>
             </ul>
@@ -619,7 +619,7 @@ const posts: Post[] = [
           <>
             <p>
               A high electric bill does not mean you failed. It means your home is
-              reacting to changes — some visible, some hidden. Once you understand
+              reacting to changes -- some visible, some hidden. Once you understand
               why it happened, you are no longer guessing. You are in control.
             </p>
             <p>
@@ -627,7 +627,7 @@ const posts: Post[] = [
               <a href="/utilities-glossary"> the utilities glossary</a> and our
               guides on <a href="/electricity-explained">electricity</a> and
               <a href="/utility-bills-costs-explained"> bill line items</a> to build
-              confidence for next month’s statement.
+              confidence for next month's statement.
             </p>
           </>
         )
@@ -2421,7 +2421,7 @@ const posts: Post[] = [
     slug: "why-is-my-electricity-bill-so-high-in-summer",
     title: "Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)",
     description:
-      "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs—and 7 ways to lower your bill without sweating.",
+      "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating.",
     category: "Electricity",
     keyword: "why is my electricity bill so high in summer",
     date: "2024-12-09",
@@ -2492,7 +2492,7 @@ const posts: Post[] = [
             <p>
               Dirty filters and blocked vents make the AC work harder. Replace filters
               monthly during peak season or as recommended by the manufacturer. Keep
-              outdoor condenser coils clear of debris. Regular maintenance ensures your system runs near its rated efficiency. Learn more about <a href="/blog/hvac-efficiency-ratings-seer2-hspf2-explained">efficiency ratings (SEER)</a>.
+              outdoor condenser coils clear of debris. Regular maintenance ensures your system runs near its rated efficiency. Learn more about <a href="/blog/afue-vs-seer-vs-hspf-vs-cop">efficiency ratings (SEER)</a>.
             </p>
             <p>
               If the system is older or low on refrigerant, it may run longer than
@@ -3071,7 +3071,7 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              1 kWh is not “one appliance.” It is a chunk of energy that different
+              1 kWh is not "one appliance." It is a chunk of energy that different
               devices can use quickly or slowly.
             </p>
             <ul>
@@ -3099,16 +3099,16 @@ const posts: Post[] = [
           <>
             <p>
               You can estimate kWh with one line of math:
-              <strong> (watts ÷ 1,000) × hours used = kWh</strong>.
+              <strong> (watts / 1,000) x hours used = kWh</strong>.
             </p>
             <p>
               Example: a 1,500-watt space heater used for 3 hours.
               <br />
-              (1,500 ÷ 1,000) × 3 = 4.5 kWh
+              (1,500 / 1,000) x 3 = 4.5 kWh
             </p>
             <p>
               If you want to estimate cost, multiply by your rate (shown on your
-              bill): <strong>kWh × price per kWh</strong>.
+              bill): <strong>kWh x price per kWh</strong>.
             </p>
             <p>
               If you want a bigger-picture foundation first, our main guide to
@@ -3151,7 +3151,7 @@ const posts: Post[] = [
           <>
             <p>
               In many homes, kWh rises in summer and winter because heating and
-              cooling run longer. That is why the “same habits” can still lead to a
+              cooling run longer. That is why the "same habits" can still lead to a
               different bill when weather changes.
             </p>
             <p>
@@ -3169,15 +3169,15 @@ const posts: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Higher watts always means higher cost.”</strong> Not if it
+                <strong>"Higher watts always means higher cost."</strong> Not if it
                 runs briefly.
               </li>
               <li>
-                <strong>“Tiny devices do not matter.”</strong> They can if they run
+                <strong>"Tiny devices do not matter."</strong> They can if they run
                 24/7.
               </li>
               <li>
-                <strong>“My bill is only kWh.”</strong> Many bills include delivery
+                <strong>"My bill is only kWh."</strong> Many bills include delivery
                 and fixed fees too.
               </li>
             </ul>
@@ -3207,7 +3207,7 @@ const posts: Post[] = [
       {
         question: "How do I calculate kWh from watts?",
         answer:
-          "Use (watts ÷ 1,000) × hours used = kWh. Example: a 1,000-watt device used for 2 hours uses 2 kWh." 
+          "Use (watts / 1,000) x hours used = kWh. Example: a 1,000-watt device used for 2 hours uses 2 kWh." 
       },
       {
         question: "Why did my bill go up if my kWh stayed similar?",
@@ -3248,8 +3248,8 @@ const posts: Post[] = [
           <>
             <p>
               If your bill ever feels too high, the meter is the starting point.
-              Knowing how to read it gives you a simple reality check: “Does the
-              usage on the bill match what my meter shows?”
+              Knowing how to read it gives you a simple reality check: "Does the
+              usage on the bill match what my meter shows?"
             </p>
             <p>
               It also helps you spot unusual usage early. If you catch a spike mid-
@@ -3258,7 +3258,7 @@ const posts: Post[] = [
             <p>
               Not sure what the meter is measuring? Read
               <a href="/blog/what-is-a-kilowatt-hour"> what a kilowatt-hour is</a>
-              first — it makes the numbers feel less abstract.
+              first -- it makes the numbers feel less abstract.
             </p>
           </>
         )
@@ -3286,7 +3286,7 @@ const posts: Post[] = [
             </ul>
             <p>
               If your utility provides an online usage portal, you likely have a
-              smart meter — but the meter face still matters if you want to verify
+              smart meter -- but the meter face still matters if you want to verify
               with your own eyes.
             </p>
           </>
@@ -3333,7 +3333,7 @@ const posts: Post[] = [
             </p>
             <p>
               A practical habit: take the reading at the same time of day once per
-              week. That gives you a simple “usage trend” without any special tools.
+              week. That gives you a simple "usage trend" without any special tools.
             </p>
           </>
         )
@@ -3345,7 +3345,7 @@ const posts: Post[] = [
           <>
             <p>
               Smart meters often give you daily or hourly usage in an online portal.
-              That can be incredibly helpful — but only if you focus on a few things.
+              That can be incredibly helpful -- but only if you focus on a few things.
             </p>
             <ul>
               <li>
@@ -3410,11 +3410,11 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              When the bill arrives, find the “previous reading” and “current
-              reading” lines. Then:
+              When the bill arrives, find the "previous reading" and "current
+              reading" lines. Then:
             </p>
             <ul>
-              <li>Confirm the bill says “actual” (not estimated) if possible.</li>
+              <li>Confirm the bill says "actual" (not estimated) if possible.</li>
               <li>Compare your own reading around the same date.</li>
               <li>
                 If something seems off, confirm the billing period length first.
@@ -3471,7 +3471,7 @@ const posts: Post[] = [
     slug: "electric-bill-breakdown-understanding-line-items",
     title: "Electric Bill Breakdown: Every Charge Explained",
     description:
-      "Confused by your bill? We decode every line item—from supply and delivery to hidden fees—so you know exactly what you're paying for.",
+      "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for.",
     category: "Electricity",
     keyword: "understanding electric bill charges",
     date: "2025-12-25",
@@ -3512,10 +3512,10 @@ const posts: Post[] = [
             <p>
               The supply (or energy) charge is the part most people recognize: it is
               the electricity itself. It is usually calculated as:
-              <strong> kWh × supply rate</strong>.
+              <strong> kWh x supply rate</strong>.
             </p>
             <p>
-              Some utilities call this an “energy charge.” Some regions allow a
+              Some utilities call this an "energy charge." Some regions allow a
               separate supplier for this part. Either way, the math is the same.
             </p>
             <p>
@@ -3575,8 +3575,8 @@ const posts: Post[] = [
               but together they can noticeably change the total.
             </p>
             <p>
-              If you are budgeting, it helps to think of these as part of the “real
-              rate” you pay, even if they are not called a kWh charge.
+              If you are budgeting, it helps to think of these as part of the "real
+              rate" you pay, even if they are not called a kWh charge.
             </p>
           </>
         )
@@ -3609,7 +3609,7 @@ const posts: Post[] = [
         content: (
           <>
             <p>
-              A sudden “out of nowhere” bill can happen when one bill was estimated
+              A sudden "out of nowhere" bill can happen when one bill was estimated
               low and the next bill corrects it after an actual meter reading.
             </p>
             <p>

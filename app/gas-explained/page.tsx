@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -20,8 +21,55 @@ export const metadata: Metadata = {
 };
 
 export default function GasExplainedPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Natural Gas Explained: Complete Guide to Understanding Gas Service",
+    description:
+      "Learn how natural gas works, how therms are measured, how gas bills are structured, and how to manage gas heating costs in plain English.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/gas-explained`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Natural Gas Explained",
+        item: `${siteConfig.url}/gas-explained`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Natural Gas Explained" }
+        ]}
+      />
       <h1>Natural Gas Explained: Your Complete Guide</h1>
       
       <div className="hero-card">
@@ -35,7 +83,7 @@ export default function GasExplainedPage() {
       </div>
 
       <p className="intro-text">
-        Natural gas powers furnaces, water heaters, stoves, and dryers in millions of homes. Gas bills use different units than electric bills and often include both supply and delivery charges. This guide explains how natural gas works, how it is measured, and what drives your monthly costs—all in plain, jargon-free English.
+        Natural gas powers furnaces, water heaters, stoves, and dryers in millions of homes. Gas bills use different units than electric bills and often include both supply and delivery charges. This guide explains how natural gas works, how it is measured, and what drives your monthly costs--all in plain, jargon-free English.
       </p>
 
       <section>
@@ -143,13 +191,13 @@ export default function GasExplainedPage() {
           <li>Add insulation to attics and walls if needed.</li>
           <li>Replace furnace filters monthly during heating season.</li>
           <li>Schedule annual furnace maintenance to keep efficiency high.</li>
-          <li>Set water heater temperature to 120°F if safe for your household.</li>
+          <li>Set water heater temperature to 120 degF if safe for your household.</li>
           <li>Use cold water for laundry when possible.</li>
           <li>Insulate hot water pipes to reduce heat loss.</li>
           <li>Close vents and doors in unused rooms if safe for your system.</li>
         </ul>
         <p>
-          Even small reductions in thermostat settings can lower gas usage significantly. Lowering the temperature by 3°F can reduce heating costs by about 5% to 10%.
+          Even small reductions in thermostat settings can lower gas usage significantly. Lowering the temperature by 3 degF can reduce heating costs by about 5% to 10%.
         </p>
       </section>
 
@@ -228,12 +276,33 @@ export default function GasExplainedPage() {
           <li>
             <Link href="/blog/how-to-read-your-gas-bill-therms-explained">
               How to read your gas bill: therms explained
-            </Link> — Decode line items, delivery charges, and seasonal usage.
+            </Link> -- Decode line items, delivery charges, and seasonal usage.
+          </li>
+          
+          <li>
+            <Link href="/blog/how-to-read-gas-meter">
+              How to read your gas meter
+            </Link> - Verify readings and spot estimates.
           </li>
           <li>
-            <Link href="/blog/gas-vs-electric-heating-cost-comparison">
-              Gas vs. electric heating: cost comparison for real homes
-            </Link> — Compare fuel costs, efficiency, and total expenses.
+            <Link href="/blog/gas-delivery-charge-vs-supply-charge">
+              Gas delivery charge vs supply charge
+            </Link> - Separate the commodity from distribution fees.
+          </li>
+          <li>
+            <Link href="/blog/gas-customer-charge-explained">
+              Gas customer charge explained
+            </Link> - Understand the fixed monthly fee.
+          </li>
+          <li>
+            <Link href="/blog/why-is-my-gas-bill-so-high-in-winter">
+              Why is my gas bill so high in winter?
+            </Link> - Heating load and cold-weather factors.
+          </li>
+          <li>
+            <Link href="/blog/why-is-my-gas-bill-so-high-in-summer">
+              Why is my gas bill so high in summer?
+            </Link> - Water heating and standby usage drivers.
           </li>
         </ul>
       </section>
@@ -271,6 +340,15 @@ export default function GasExplainedPage() {
           If you want to compare gas to other energy sources, visit our <Link href="/heating-cooling-explained">heating and cooling guide</Link>. For broader budgeting advice, see our <Link href="/utility-bills-costs-explained">utility bills and costs overview</Link>.
         </p>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

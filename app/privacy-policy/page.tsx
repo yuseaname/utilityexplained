@@ -3,7 +3,7 @@ import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "How we handle data and privacy on Utility Plain English.",
+  description: "How we handle data and privacy on Utility Explained.",
   alternates: {
     canonical: `${siteConfig.url}/privacy-policy`
   }
@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
     <div className="container section">
       <h1>Privacy Policy</h1>
       <p>
-        Utility Plain English is an informational website. We do not require user
+        Utility Explained is an informational website. We do not require user
         accounts and we do not sell personal information.
       </p>
       <h2>Information we collect</h2>

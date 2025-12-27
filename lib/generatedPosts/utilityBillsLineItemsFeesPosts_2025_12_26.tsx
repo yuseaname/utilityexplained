@@ -5,7 +5,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
     slug: "what-is-customer-charge-on-utility-bill",
     title: "What Is a Customer Charge (Basic Service Charge) on a Utility Bill?",
     description:
-      "Wondering why you pay a customer charge even with low usage? Here’s what it covers, where to find it on your bill, and how it changes the math of saving.",
+      "Wondering why you pay a customer charge even with low usage? Here's what it covers, where to find it on your bill, and how it changes the math of saving.",
     category: "Budgeting",
     keyword: "customer charge on utility bill",
     date: "2025-12-26",
@@ -29,16 +29,16 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p className="lead">
-              If you’ve ever looked at your utility bill and thought, “I barely used
-              anything—why am I still paying $20, $30, or more?”, you’re usually
+              If you've ever looked at your utility bill and thought, "I barely used
+              anything--why am I still paying $20, $30, or more?", you're usually
               staring at the same line item: the <strong>customer charge</strong>
               (sometimes called a <strong>basic service charge</strong>).
             </p>
             <p>
-              The confusing part is that it can feel like you’re being charged for
-              “nothing.” But in most billing systems, that charge isn’t about your
-              monthly usage. It’s about keeping your account and service “ready to
-              go” month after month.
+              The confusing part is that it can feel like you're being charged for
+              "nothing." But in most billing systems, that charge isn't about your
+              monthly usage. It's about keeping your account and service "ready to
+              go" month after month.
             </p>
             <p>
               This guide will make the customer charge feel normal and predictable.
@@ -58,7 +58,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               <li><a href="#why-exists">Why utilities charge it</a></li>
               <li><a href="#what-not">What it is NOT</a></li>
               <li><a href="#where-find">Where to find it on your bill</a></li>
-              <li><a href="#saving-math">How it changes the “math” of saving</a></li>
+              <li><a href="#saving-math">How it changes the "math" of saving</a></li>
               <li><a href="#compare-lines">Customer vs delivery vs supply</a></li>
               <li><a href="#why-looks-higher">Why it can look higher sometimes</a></li>
               <li><a href="#what-you-can-do">What you can do (practical checks)</a></li>
@@ -76,10 +76,10 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             <p>
               A <strong>customer charge</strong> (basic service charge) is a fixed,
               recurring fee many utilities bill each cycle to cover the basic cost of
-              providing service to your address—regardless of how much you used.
+              providing service to your address--regardless of how much you used.
             </p>
             <p>
-              Think of it like “keeping the account open and the connection active.”
+              Think of it like "keeping the account open and the connection active."
               Your usage (kWh, therms, gallons/CCF) is a separate part of the bill.
             </p>
           </>
@@ -91,7 +91,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Utilities have costs that don’t rise and fall with your monthly usage.
+              Utilities have costs that don't rise and fall with your monthly usage.
               Even if your usage is low, the utility still has to maintain the
               systems that make it possible for you to get service.
             </p>
@@ -102,12 +102,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               <li><strong>Account and billing</strong> (statements, payments, support)</li>
               <li><strong>Metering</strong> (the meter itself and reading/processing)</li>
               <li><strong>Service readiness</strong> (keeping your connection available)</li>
-              <li><strong>Basic operations</strong> (the “always-on” part of running service)</li>
+              <li><strong>Basic operations</strong> (the "always-on" part of running service)</li>
             </ul>
             <p>
               Quick gut-check question: if everyone in your neighborhood used half as
               much this month, would the utility still need meters, billing systems,
-              and crews? Yes. That’s the category of cost this fee is trying to
+              and crews? Yes. That's the category of cost this fee is trying to
               capture.
             </p>
           </>
@@ -115,33 +115,33 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       },
       {
         id: "what-not",
-        title: "What it is NOT (so you don’t misread it)",
+        title: "What it is NOT (so you don't misread it)",
         content: (
           <>
             <p>
-              This is where a lot of frustration comes from—people assume the label
-              means something it doesn’t.
+              This is where a lot of frustration comes from--people assume the label
+              means something it doesn't.
             </p>
             <ul>
               <li>
-                <strong>It’s not your usage.</strong> It doesn’t represent kWh, therms,
+                <strong>It's not your usage.</strong> It doesn't represent kWh, therms,
                 or gallons.
               </li>
               <li>
-                <strong>It’s not a penalty.</strong> It typically applies to everyone on
+                <strong>It's not a penalty.</strong> It typically applies to everyone on
                 that rate class.
               </li>
               <li>
-                <strong>It’s not a deposit.</strong> Deposits (when used) are different
+                <strong>It's not a deposit.</strong> Deposits (when used) are different
                 and usually refundable.
               </li>
               <li>
-                <strong>It’s not the same as a connection fee.</strong> A connection/setup
+                <strong>It's not the same as a connection fee.</strong> A connection/setup
                 fee is often one-time. The customer charge is recurring.
               </li>
             </ul>
             <p>
-              If the whole bill changed even though your usage didn’t, you’ll also
+              If the whole bill changed even though your usage didn't, you'll also
               like <a href="/blog/why-my-utility-bill-is-higher-with-same-usage">why your bill can be higher with the same usage</a>.
             </p>
           </>
@@ -164,8 +164,8 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               <li>Account charge</li>
             </ul>
             <p>
-              If you’re unsure which part is fixed and which part is usage-based,
-              the “decoder ring” approach is in
+              If you're unsure which part is fixed and which part is usage-based,
+              the "decoder ring" approach is in
               <a href="/utility-bills-costs-explained"> the pillar guide</a>.
             </p>
           </>
@@ -173,12 +173,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       },
       {
         id: "saving-math",
-        title: "How it changes the “math” of saving money",
+        title: "How it changes the \"math\" of saving money",
         content: (
           <>
             <p>
-              Here’s the part that surprises people: if a chunk of your bill is fixed,
-              then big usage cuts don’t always create equally big bill cuts.
+              Here's the part that surprises people: if a chunk of your bill is fixed,
+              then big usage cuts don't always create equally big bill cuts.
             </p>
             <p>
               Picture your bill in two buckets:
@@ -192,13 +192,13 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               stays the same.
             </p>
             <p>
-              That’s also why some households feel like “saving isn’t working,” even
-              when it is. A smaller usage line can be real progress—your total just
-              doesn’t drop as dramatically because the fixed portion is still there.
+              That's also why some households feel like "saving isn't working," even
+              when it is. A smaller usage line can be real progress--your total just
+              doesn't drop as dramatically because the fixed portion is still there.
             </p>
             <p>
-              If you’re on budget billing/level pay, it can make bills feel steadier,
-              but it doesn’t usually eliminate the fixed line items. This explains it:
+              If you're on budget billing/level pay, it can make bills feel steadier,
+              but it doesn't usually eliminate the fixed line items. This explains it:
               <a href="/blog/budget-billing-level-pay-explained"> budget billing (level pay) explained</a>.
             </p>
           </>
@@ -211,9 +211,9 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           <>
             <p>
               If you only remember one thing, remember this:
-              <strong> customer charge</strong> is “service readiness,” while
-              <strong> delivery</strong> is “getting it to you,” and
-              <strong> supply</strong> is “the energy or commodity itself.”
+              <strong> customer charge</strong> is "service readiness," while
+              <strong> delivery</strong> is "getting it to you," and
+              <strong> supply</strong> is "the energy or commodity itself."
             </p>
             <p>
               Depending on the utility and state, you may see these grouped
@@ -233,7 +233,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Sometimes people swear the customer charge “went up,” when the change
+              Sometimes people swear the customer charge "went up," when the change
               is actually something else.
             </p>
             <h3>1) The billing cycle had more days</h3>
@@ -248,12 +248,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             </p>
             <h3>3) A correction after an estimated bill</h3>
             <p>
-              An estimated read can shift charges between months. If you’re seeing
+              An estimated read can shift charges between months. If you're seeing
               odd swings, read
               <a href="/blog/estimated-utility-bill-explained"> estimated utility bill explained</a>.
             </p>
             <p>
-              And if the “moving parts” on your bill change month-to-month, the next
+              And if the "moving parts" on your bill change month-to-month, the next
               article in this set is a good fit:
               <a href="/blog/fuel-adjustment-charge-on-utility-bill-explained"> what a fuel adjustment charge means</a>.
             </p>
@@ -266,25 +266,25 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              You don’t need to become a billing expert. You just need a few simple
+              You don't need to become a billing expert. You just need a few simple
               checks that replace guessing with clarity.
             </p>
             <ul>
               <li>
-                <strong>Find the line item</strong> and confirm it’s fixed (same amount
+                <strong>Find the line item</strong> and confirm it's fixed (same amount
                 each cycle).
               </li>
               <li>
-                <strong>Compare two or three bills</strong> so one weird month doesn’t
+                <strong>Compare two or three bills</strong> so one weird month doesn't
                 mislead you.
               </li>
               <li>
-                <strong>Separate “fixed” from “usage”</strong> so you can tell which
+                <strong>Separate "fixed" from "usage"</strong> so you can tell which
                 part changed.
               </li>
             </ul>
             <p>
-              If your bill also has a lot of “extra lines” (fees, riders, surcharges),
+              If your bill also has a lot of "extra lines" (fees, riders, surcharges),
               the companion article is:
               <a href="/blog/utility-bill-surcharges-and-riders-explained"> surcharges and riders explained</a>.
             </p>
@@ -298,20 +298,20 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“If I use almost nothing, my bill should be $0.”</strong> Not
+                <strong>"If I use almost nothing, my bill should be $0."</strong> Not
                 if a fixed customer charge applies.
               </li>
               <li>
-                <strong>“Customer charge means the utility is double charging me.”</strong>
-                It’s usually a separate cost category from usage.
+                <strong>"Customer charge means the utility is double charging me."</strong>
+                It's usually a separate cost category from usage.
               </li>
               <li>
-                <strong>“Budget billing removes the base fee.”</strong> Budget billing
-                smooths payments; it typically doesn’t remove base charges.
+                <strong>"Budget billing removes the base fee."</strong> Budget billing
+                smooths payments; it typically doesn't remove base charges.
               </li>
             </ul>
             <p>
-              If you want a calmer way to interpret a “higher total,” the best next
+              If you want a calmer way to interpret a "higher total," the best next
               read is:
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> why the total can rise with the same usage</a>.
             </p>
@@ -328,7 +328,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       {
         question: "Why do I pay a basic service charge even if I used very little?",
         answer:
-          "Because many utilities separate fixed ‘service readiness’ costs from usage costs. Even with low usage, the utility still maintains metering, billing, and the connection to your address."
+          "Because many utilities separate fixed 'service readiness' costs from usage costs. Even with low usage, the utility still maintains metering, billing, and the connection to your address."
       },
       {
         question: "Is the customer charge the same as a delivery charge?",
@@ -343,7 +343,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       {
         question: "Does budget billing change the customer charge?",
         answer:
-          "Budget billing (level pay) typically changes how much you pay each month, not which line items exist. The customer charge usually still applies; it’s just included in the smoothed payment amount."
+          "Budget billing (level pay) typically changes how much you pay each month, not which line items exist. The customer charge usually still applies; it's just included in the smoothed payment amount."
       }
     ]
   },
@@ -371,20 +371,20 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
     sections: [
       {
         id: "problem",
-        title: "The problem: a line item that changes even when you didn’t",
+        title: "The problem: a line item that changes even when you didn't",
         content: (
           <>
             <p className="lead">
               Fuel adjustment charges are one of the most common reasons a utility
-              bill feels “random.” You can look at your usage, see it’s similar to
+              bill feels "random." You can look at your usage, see it's similar to
               last month, and still notice a new or different amount labeled something
               like <strong>Fuel Adjustment</strong>, <strong>PGA</strong>, or
               <strong>FCA</strong>.
             </p>
             <p>
-              If that made you wonder, “Is this a fee they can just change whenever
-              they want?”, you’re asking the right question—because the whole point of
-              this type of line is that it’s designed to move.
+              If that made you wonder, "Is this a fee they can just change whenever
+              they want?", you're asking the right question--because the whole point of
+              this type of line is that it's designed to move.
             </p>
             <p>
               For the full bill framework (fixed vs usage vs extras), start here:
@@ -419,13 +419,13 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           <>
             <p>
               A <strong>fuel adjustment charge</strong> is a bill line that adjusts
-              (up or down) based on changes in the utility’s underlying fuel or
+              (up or down) based on changes in the utility's underlying fuel or
               energy costs. It often changes monthly, which is why your bill can move
-              even when your usage doesn’t.
+              even when your usage doesn't.
             </p>
             <p>
               The label varies by utility, but the concept is usually the same:
-              it’s a “tracker” meant to reflect changing energy costs over time.
+              it's a "tracker" meant to reflect changing energy costs over time.
             </p>
           </>
         )
@@ -436,18 +436,18 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Utilities don’t all call it the same thing. Depending on your provider
-              and whether you’re looking at gas or electricity, you might see:
+              Utilities don't all call it the same thing. Depending on your provider
+              and whether you're looking at gas or electricity, you might see:
             </p>
             <ul>
               <li><strong>Fuel Adjustment</strong></li>
               <li><strong>Fuel Cost Adjustment (FCA)</strong></li>
               <li><strong>Purchased Gas Adjustment (PGA)</strong></li>
               <li><strong>Power Cost Adjustment</strong></li>
-              <li><strong>Energy Cost Rider</strong> (or other “rider” language)</li>
+              <li><strong>Energy Cost Rider</strong> (or other "rider" language)</li>
             </ul>
             <p>
-              If you also see other “extra lines” like riders or surcharges, keep this
+              If you also see other "extra lines" like riders or surcharges, keep this
               companion article bookmarked:
               <a href="/blog/utility-bill-surcharges-and-riders-explained"> surcharges and riders explained</a>.
             </p>
@@ -468,7 +468,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             <ul>
               <li>
                 <strong>Commodity costs change.</strong> The cost to generate electricity
-                or procure natural gas isn’t perfectly flat.
+                or procure natural gas isn't perfectly flat.
               </li>
               <li>
                 <strong>Timing lag.</strong> Bills often reflect costs from an earlier
@@ -476,7 +476,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               </li>
             </ul>
             <p>
-              If you’re seeing a higher total but steady usage, the “big picture”
+              If you're seeing a higher total but steady usage, the "big picture"
               explanation is here:
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> why your bill can be higher with the same usage</a>.
             </p>
@@ -489,12 +489,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Many bills list the adjustment in the same area as other rate details—
-              often near supply/commodity charges. Sometimes it’s grouped with riders
-              or “adjustments.”
+              Many bills list the adjustment in the same area as other rate details--
+              often near supply/commodity charges. Sometimes it's grouped with riders
+              or "adjustments."
             </p>
             <p>
-              Helpful habit: look for whether it’s shown as a <strong>rate per unit</strong>
+              Helpful habit: look for whether it's shown as a <strong>rate per unit</strong>
               (like $/kWh or $/therm) or a flat dollar amount. A rate-per-unit line is
               easier to compare month-to-month.
             </p>
@@ -518,7 +518,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               The fuel adjustment usually falls into the third bucket.
             </p>
             <p>
-              If your bill also has a fixed base fee, that’s a different concept.
+              If your bill also has a fixed base fee, that's a different concept.
               See: <a href="/blog/what-is-customer-charge-on-utility-bill">customer charge explained</a>.
             </p>
           </>
@@ -530,7 +530,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              You don’t need perfect math. You just need a fair comparison.
+              You don't need perfect math. You just need a fair comparison.
             </p>
             <h3>Step 1: Check billing days and usage first</h3>
             <p>
@@ -538,20 +538,20 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               more units, the total will rise. Confirm those basics before blaming the
               adjustment.
             </p>
-            <h3>Step 2: Compare the adjustment rate (if it’s shown)</h3>
+            <h3>Step 2: Compare the adjustment rate (if it's shown)</h3>
             <p>
               If the line is stated as a rate, compare the new rate to the old rate.
               That tells you whether this specific piece changed.
             </p>
             <h3>Step 3: Watch for estimated reads and corrections</h3>
             <p>
-              If one month was estimated and the next month is actual, the “swing” may
+              If one month was estimated and the next month is actual, the "swing" may
               include a correction. This helps:
               <a href="/blog/estimated-utility-bill-explained"> estimated utility bill explained</a>.
             </p>
             <p>
               If you prefer predictable payments, budget billing can help smooth the
-              experience (even if it doesn’t remove the underlying moving parts):
+              experience (even if it doesn't remove the underlying moving parts):
               <a href="/blog/budget-billing-level-pay-explained"> budget billing explained</a>.
             </p>
           </>
@@ -564,15 +564,15 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>It’s not a late fee.</strong> Late fees are usually listed
+                <strong>It's not a late fee.</strong> Late fees are usually listed
                 separately and only apply if you missed a due date.
               </li>
               <li>
-                <strong>It’s not a “made up” charge.</strong> It’s typically a defined
+                <strong>It's not a "made up" charge.</strong> It's typically a defined
                 bill component that can move based on cost changes.
               </li>
               <li>
-                <strong>It’s not the same as a customer charge.</strong> Customer charges
+                <strong>It's not the same as a customer charge.</strong> Customer charges
                 are usually fixed; fuel adjustments are designed to vary.
               </li>
             </ul>
@@ -594,10 +594,10 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             <ul>
               <li>The adjustment jumps sharply in a single cycle</li>
               <li>You see a long run of estimated reads and then a big correction</li>
-              <li>The bill labels or units don’t match what you usually see</li>
+              <li>The bill labels or units don't match what you usually see</li>
             </ul>
             <p>
-              If your bill is also packed with “fees you didn’t expect,” the next
+              If your bill is also packed with "fees you didn't expect," the next
               logical read is:
               <a href="/blog/utility-bill-surcharges-and-riders-explained"> surcharges and riders explained</a>.
             </p>
@@ -609,12 +609,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       {
         question: "What is a fuel adjustment charge on a utility bill?",
         answer:
-          "A fuel adjustment charge is a bill line that adjusts based on changes in the utility’s underlying fuel or energy costs. It often changes from month to month, which can affect your total even if usage is similar."
+          "A fuel adjustment charge is a bill line that adjusts based on changes in the utility's underlying fuel or energy costs. It often changes from month to month, which can affect your total even if usage is similar."
       },
       {
         question: "Why does my fuel adjustment change every month?",
         answer:
-          "Because it’s designed to track changing energy costs over time. Many utilities update or reconcile this type of charge periodically, so the rate can move up or down across billing cycles."
+          "Because it's designed to track changing energy costs over time. Many utilities update or reconcile this type of charge periodically, so the rate can move up or down across billing cycles."
       },
       {
         question: "What does PGA mean on a gas bill?",
@@ -624,12 +624,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
       {
         question: "Is a fuel adjustment part of supply or delivery?",
         answer:
-          "It varies by utility, but it’s often presented as an adjustment related to energy costs rather than the fixed customer charge. It may appear near supply/commodity items or in a section for riders/adjustments."
+          "It varies by utility, but it's often presented as an adjustment related to energy costs rather than the fixed customer charge. It may appear near supply/commodity items or in a section for riders/adjustments."
       },
       {
         question: "Does budget billing remove fuel adjustment charges?",
         answer:
-          "Budget billing typically smooths what you pay each month, but it usually doesn’t remove the underlying line items or cost drivers. The adjustment can still exist—it’s just included within the averaged payment amount."
+          "Budget billing typically smooths what you pay each month, but it usually doesn't remove the underlying line items or cost drivers. The adjustment can still exist--it's just included within the averaged payment amount."
       }
     ]
   },
@@ -657,7 +657,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
     sections: [
       {
         id: "problem",
-        title: "The problem: your bill has ‘weird fees’ you didn’t ask for",
+        title: "The problem: your bill has 'weird fees' you didn't ask for",
         content: (
           <>
             <p className="lead">
@@ -667,14 +667,14 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               and more.
             </p>
             <p>
-              If you’ve ever thought, “Why are there so many fees—and why do they
-              change?”, you’re not alone. The good news is that most of these lines
+              If you've ever thought, "Why are there so many fees--and why do they
+              change?", you're not alone. The good news is that most of these lines
               fall into a few repeatable categories.
             </p>
             <p>
               If you want the overall model first, start at
               <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
-              This article zooms in on the “extra lines” so they stop feeling random.
+              This article zooms in on the "extra lines" so they stop feeling random.
             </p>
           </>
         )
@@ -705,21 +705,21 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             <p>
               A <strong>surcharge</strong> or <strong>rider</strong> on a utility bill
               is usually an extra line item used to collect a specific cost outside
-              the base usage rate—often tied to programs, local fees, or cost tracking.
+              the base usage rate--often tied to programs, local fees, or cost tracking.
             </p>
             <p>
-              In plain English: it’s a “separate bucket” for a specific purpose.
+              In plain English: it's a "separate bucket" for a specific purpose.
             </p>
           </>
         )
       },
       {
         id: "why-extra",
-        title: "Why bills have ‘extra lines’ at all",
+        title: "Why bills have 'extra lines' at all",
         content: (
           <>
             <p>
-              If you’re thinking, “Why not just roll this into one price?”, that’s a
+              If you're thinking, "Why not just roll this into one price?", that's a
               fair reaction.
             </p>
             <p>
@@ -745,17 +745,17 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             <h3>Local franchise fees</h3>
             <p>
               A franchise fee is often a local fee tied to operating within a city or
-              municipality. It may show up as “franchise fee” or similar language.
+              municipality. It may show up as "franchise fee" or similar language.
             </p>
             <h3>Taxes and tax-like charges</h3>
             <p>
               Some bills list taxes separately. Others have charges that feel like
-              taxes because they’re mandated or collected for a public purpose.
+              taxes because they're mandated or collected for a public purpose.
             </p>
             <h3>Public purpose / system benefit charges</h3>
             <p>
               These may support broader programs (the label varies widely). The key
-              is that they’re often collected as a separate line item.
+              is that they're often collected as a separate line item.
             </p>
             <h3>Regulatory riders / compliance charges</h3>
             <p>
@@ -781,7 +781,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
             </p>
             <ul>
               <li>
-                If it’s the same amount every month, it may behave like a fixed
+                If it's the same amount every month, it may behave like a fixed
                 charge (example: <a href="/blog/what-is-customer-charge-on-utility-bill">customer charge</a>).
               </li>
               <li>
@@ -789,12 +789,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
                 like a moving cost line (example: <a href="/blog/fuel-adjustment-charge-on-utility-bill-explained">fuel adjustment</a>).
               </li>
               <li>
-                If it’s tied to a named program/fee (franchise, regulatory, public
-                purpose), it’s often an “extra line” collected for a specific reason.
+                If it's tied to a named program/fee (franchise, regulatory, public
+                purpose), it's often an "extra line" collected for a specific reason.
               </li>
             </ul>
             <p>
-              If you’re trying to understand why your total went up without a clear
+              If you're trying to understand why your total went up without a clear
               usage jump, this is the best companion:
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> bill higher with same usage</a>.
             </p>
@@ -810,12 +810,12 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
               Surcharges and riders are often listed:
             </p>
             <ul>
-              <li>Near the bottom of the bill under “Other charges”</li>
+              <li>Near the bottom of the bill under "Other charges"</li>
               <li>Inside the delivery section</li>
-              <li>Inside a dedicated “riders/adjustments” section</li>
+              <li>Inside a dedicated "riders/adjustments" section</li>
             </ul>
             <p>
-              If your bill also says “estimated,” keep this in mind because corrections
+              If your bill also says "estimated," keep this in mind because corrections
               can shift amounts between months:
               <a href="/blog/estimated-utility-bill-explained"> estimated bill explained</a>.
             </p>
@@ -828,7 +828,7 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
         content: (
           <>
             <p>
-              Here’s the calm way to read a “busy” bill:
+              Here's the calm way to read a "busy" bill:
             </p>
             <ol>
               <li>
@@ -859,20 +859,20 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           <>
             <ul>
               <li>
-                <strong>“Every fee is optional.”</strong> Many lines are part of the
+                <strong>"Every fee is optional."</strong> Many lines are part of the
                 rate structure.
               </li>
               <li>
-                <strong>“Rider means scam.”</strong> “Rider” is often just a label for
+                <strong>"Rider means scam."</strong> "Rider" is often just a label for
                 a specific cost bucket.
               </li>
               <li>
-                <strong>“If I can’t explain every line, the bill must be wrong.”</strong>
+                <strong>"If I can't explain every line, the bill must be wrong."</strong>
                 Bills can be confusing while still being mechanically consistent.
               </li>
             </ul>
             <p>
-              Your best “next logical read” for total changes is:
+              Your best "next logical read" for total changes is:
               <a href="/blog/why-my-utility-bill-is-higher-with-same-usage"> why totals change with the same usage</a>.
             </p>
           </>
@@ -901,9 +901,9 @@ export const utilityBillsLineItemsFeesPosts_2025_12_26: Post[] = [
           "Not always. Delivery charges generally relate to getting the service to your home through infrastructure. Surcharges/riders are often separate line items that collect specific costs or adjustments."
       },
       {
-        question: "Why do fees change even if my usage didn’t?",
+        question: "Why do fees change even if my usage didn't?",
         answer:
-          "Because some bill components aren’t strictly tied to usage. Billing days, adjustments, and certain riders can change over time and affect the total even when your units used are similar."
+          "Because some bill components aren't strictly tied to usage. Billing days, adjustments, and certain riders can change over time and affect the total even when your units used are similar."
       }
     ]
   }

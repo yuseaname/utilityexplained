@@ -3,7 +3,7 @@ import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
-  description: "Terms for using Utility Plain English.",
+  description: "Terms for using Utility Explained.",
   alternates: {
     canonical: `${siteConfig.url}/terms`
   }
@@ -14,7 +14,7 @@ export default function TermsPage() {
     <div className="container section">
       <h1>Terms of Service</h1>
       <p>
-        Utility Plain English provides informational content only. By using this
+        Utility Explained provides informational content only. By using this
         site, you agree that the content is provided "as is" without warranties of
         any kind.
       </p>

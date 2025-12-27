@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Utilities Glossary: Common Terms Explained in Plain English",
   description:
-    "Quick definitions for electricity, gas, water, and heating terms like kWh, therm, AFUE, SEER, CCF, and more—all explained in plain English.",
+    "Quick definitions for electricity, gas, water, and heating terms like kWh, therm, AFUE, SEER, CCF, and more--all explained in plain English.",
   alternates: {
     canonical: `${siteConfig.url}/utilities-glossary`
   },
@@ -19,8 +20,55 @@ export const metadata: Metadata = {
 };
 
 export default function UtilitiesGlossaryPage() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "Utilities Glossary: Common Terms Explained in Plain English",
+    description:
+      "Quick definitions for electricity, gas, water, and heating terms like kWh, therm, AFUE, SEER, CCF, and more--all explained in plain English.",
+    author: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name
+    },
+    datePublished: "2024-12-01",
+    dateModified: new Date().toISOString(),
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${siteConfig.url}/utilities-glossary`
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteConfig.url
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Utilities Glossary",
+        item: `${siteConfig.url}/utilities-glossary`
+      }
+    ]
+  };
+
   return (
     <div className="container section">
+      <Breadcrumbs
+        items={[
+          { label: "Home", href: "/" },
+          { label: "Utilities Glossary" }
+        ]}
+      />
       <h1>Utilities Glossary</h1>
       
       <p className="intro-text">
@@ -37,7 +85,7 @@ export default function UtilitiesGlossaryPage() {
 
         <h3 id="amps">Amps (Amperes)</h3>
         <p>
-          A unit measuring electrical current. Your home's electrical service is rated in amps—commonly 100, 150, or 200 amps. This determines how much power can flow at once.
+          A unit measuring electrical current. Your home's electrical service is rated in amps--commonly 100, 150, or 200 amps. This determines how much power can flow at once.
         </p>
 
         <h3 id="baseload">Baseload</h3>
@@ -123,7 +171,7 @@ export default function UtilitiesGlossaryPage() {
 
         <h3 id="commodity-charge">Commodity charge</h3>
         <p>
-          Another term for the supply charge—the cost of the natural gas itself, separate from delivery fees.
+          Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees.
         </p>
 
         <h3 id="conversion-factor">Conversion factor</h3>
@@ -320,6 +368,15 @@ export default function UtilitiesGlossaryPage() {
           If you have questions about a specific term or topic, explore our <Link href="/blog">full article library</Link> for in-depth explanations and practical advice.
         </p>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     </div>
   );
 }

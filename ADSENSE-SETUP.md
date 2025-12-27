@@ -1,4 +1,4 @@
-# AdSense Setup Guide for Utility Plain English
+# AdSense Setup Guide for Utility Explained
 
 ## Phase 4 Implementation Complete ✅
 
@@ -51,7 +51,7 @@ All critical SEO and AdSense optimizations have been implemented. Follow these s
 
 ### Step 1: Apply for AdSense
 1. Go to https://adsense.google.com
-2. Sign up with the site: `https://www.utilityplainenglish.com`
+2. Sign up with the site: `https://www.utilityexplained.com`
 3. Add AdSense verification code when prompted (already in `<head>`)
 4. Submit for review
 
@@ -63,8 +63,8 @@ All critical SEO and AdSense optimizations have been implemented. Follow these s
 Do NOT enable ads yet. Focus on traffic:
 
 1. **Submit to Google Search Console**
-   - Add property: `utilityplainenglish.com`
-   - Submit sitemap: `https://www.utilityplainenglish.com/sitemap.xml`
+   - Add property: `utilityexplained.com`
+   - Submit sitemap: `https://www.utilityexplained.com/sitemap.xml`
    - Request indexing for pillar pages
 
 2. **Build Initial Backlinks**

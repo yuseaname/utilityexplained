@@ -4,7 +4,7 @@ import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Learn why Utility Plain English exists and how we build guides.",
+  description: "Learn why Utility Explained exists and how we build guides.",
   alternates: {
     canonical: `${siteConfig.url}/about`
   }
@@ -13,9 +13,9 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <div className="container section">
-      <h1>About Utility Plain English</h1>
+      <h1>About Utility Explained</h1>
       <p>
-        We started Utility Plain English because utility bills shouldn't require a
+        We started Utility Explained because utility bills shouldn't require a
         translator. If you've ever stared at a bill wondering what you're actually
         paying for, you're in the right place.
       </p>

@@ -14,7 +14,7 @@ export default function DisclaimerPage() {
     <div className="container section">
       <h1>Disclaimer</h1>
       <p>
-        Utility Plain English is an informational resource. We do not provide
+        Utility Explained is an informational resource. We do not provide
         financial, legal, or professional advice. Use the information on this site
         for educational purposes only.
       </p>
