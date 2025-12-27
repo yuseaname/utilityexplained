@@ -3695,6 +3695,222 @@ export const getAllPosts = () => posts;
 export const getPostBySlug = (slug: string) =>
   posts.find((post) => post.slug === slug);
 
+const nextReadMap: Record<
+  string,
+  {
+    label: string;
+    slug: string;
+  }[]
+> = {
+  "what-is-a-kilowatt-hour": [
+    { label: "Next read", slug: "how-to-read-electric-meter" },
+    { label: "Also read", slug: "electric-bill-breakdown-understanding-line-items" }
+  ],
+  "how-to-read-electric-meter": [
+    { label: "Next read", slug: "electric-bill-breakdown-understanding-line-items" },
+    { label: "Also read", slug: "why-is-my-electric-bill-so-high-this-month" }
+  ],
+  "electric-bill-breakdown-understanding-line-items": [
+    { label: "Next read", slug: "supply-vs-delivery-charges-electricity" },
+    { label: "Also read", slug: "why-is-my-electric-bill-so-high-this-month" }
+  ],
+  "why-is-my-electric-bill-so-high-this-month": [
+    { label: "Next read", slug: "how-to-lower-electric-bill-without-solar" },
+    { label: "Also read", slug: "why-is-my-electricity-bill-so-high-in-summer" }
+  ],
+  "why-is-my-electricity-bill-so-high-in-summer": [
+    { label: "Next read", slug: "time-of-use-electricity-rates" },
+    { label: "Also read", slug: "why-is-my-electricity-bill-so-high-in-winter" }
+  ],
+  "why-is-my-electricity-bill-so-high-in-winter": [
+    { label: "Next read", slug: "how-to-lower-electric-bill-without-solar" },
+    { label: "Also read", slug: "why-is-my-electric-bill-so-high-this-month" }
+  ],
+  "how-do-smart-meters-work": [
+    { label: "Next read", slug: "time-of-use-electricity-rates" },
+    { label: "Also read", slug: "how-to-read-electric-meter" }
+  ],
+  "time-of-use-electricity-rates": [
+    { label: "Next read", slug: "fixed-vs-variable-rate-electricity-plan" },
+    { label: "Also read", slug: "tiered-electricity-rates-explained" }
+  ],
+  "tiered-electricity-rates-explained": [
+    { label: "Next read", slug: "demand-charge-electric-bill-explained" },
+    { label: "Also read", slug: "supply-vs-delivery-charges-electricity" }
+  ],
+  "supply-vs-delivery-charges-electricity": [
+    { label: "Next read", slug: "demand-charge-electric-bill-explained" },
+    { label: "Also read", slug: "electric-bill-breakdown-understanding-line-items" }
+  ],
+  "demand-charge-electric-bill-explained": [
+    { label: "Next read", slug: "fixed-vs-variable-rate-electricity-plan" },
+    { label: "Also read", slug: "time-of-use-electricity-rates" }
+  ],
+  "fixed-vs-variable-rate-electricity-plan": [
+    { label: "Next read", slug: "how-to-lower-electric-bill-without-solar" },
+    { label: "Also read", slug: "time-of-use-electricity-rates" }
+  ],
+  "how-to-lower-electric-bill-without-solar": [
+    { label: "Next read", slug: "why-is-my-electric-bill-so-high-this-month" },
+    { label: "Also read", slug: "what-is-a-kilowatt-hour" }
+  ],
+  "estimated-utility-bill-explained": [
+    { label: "Next read", slug: "utility-billing-cycle-explained" },
+    { label: "Also read", slug: "why-my-utility-bill-is-higher-with-same-usage" }
+  ],
+  "utility-billing-cycle-explained": [
+    { label: "Next read", slug: "utility-bill-proration-explained" },
+    { label: "Also read", slug: "why-my-utility-bill-is-higher-with-same-usage" }
+  ],
+  "utility-bill-proration-explained": [
+    { label: "Next read", slug: "minimum-bill-utility-bill-explained" },
+    { label: "Also read", slug: "past-due-balance-utility-bill-explained" }
+  ],
+  "why-my-utility-bill-is-higher-with-same-usage": [
+    { label: "Next read", slug: "delivery-charge-vs-supply-charge-utility-bill" },
+    { label: "Also read", slug: "utility-bill-taxes-fees-franchise-charges-explained" }
+  ],
+  "delivery-charge-vs-supply-charge-utility-bill": [
+    { label: "Next read", slug: "what-is-customer-charge-on-utility-bill" },
+    { label: "Also read", slug: "utility-bill-surcharges-and-riders-explained" }
+  ],
+  "what-is-customer-charge-on-utility-bill": [
+    { label: "Next read", slug: "utility-bill-taxes-fees-franchise-charges-explained" },
+    { label: "Also read", slug: "utility-bill-surcharges-and-riders-explained" }
+  ],
+  "utility-bill-taxes-fees-franchise-charges-explained": [
+    { label: "Next read", slug: "utility-bill-surcharges-and-riders-explained" },
+    { label: "Also read", slug: "fuel-adjustment-charge-on-utility-bill-explained" }
+  ],
+  "utility-bill-surcharges-and-riders-explained": [
+    { label: "Next read", slug: "fuel-adjustment-charge-on-utility-bill-explained" },
+    { label: "Also read", slug: "delivery-charge-vs-supply-charge-utility-bill" }
+  ],
+  "fuel-adjustment-charge-on-utility-bill-explained": [
+    { label: "Next read", slug: "budget-billing-level-pay-explained" },
+    { label: "Also read", slug: "why-my-utility-bill-is-higher-with-same-usage" }
+  ],
+  "budget-billing-level-pay-explained": [
+    { label: "Next read", slug: "how-to-budget-for-utilities-in-your-first-apartment" },
+    { label: "Also read", slug: "estimated-utility-bill-explained" }
+  ],
+  "how-to-budget-for-utilities-in-your-first-apartment": [
+    { label: "Next read", slug: "budget-billing-level-pay-explained" },
+    { label: "Also read", slug: "utility-billing-cycle-explained" }
+  ],
+  "minimum-bill-utility-bill-explained": [
+    { label: "Next read", slug: "past-due-balance-utility-bill-explained" },
+    { label: "Also read", slug: "utility-bill-proration-explained" }
+  ],
+  "past-due-balance-utility-bill-explained": [
+    { label: "Next read", slug: "how-to-budget-for-utilities-in-your-first-apartment" },
+    { label: "Also read", slug: "minimum-bill-utility-bill-explained" }
+  ],
+  "how-to-read-your-gas-bill-therms-explained": [
+    { label: "Next read", slug: "how-to-read-gas-meter" },
+    { label: "Also read", slug: "gas-delivery-charge-vs-supply-charge" }
+  ],
+  "how-to-read-gas-meter": [
+    { label: "Next read", slug: "gas-delivery-charge-vs-supply-charge" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-winter" }
+  ],
+  "gas-delivery-charge-vs-supply-charge": [
+    { label: "Next read", slug: "gas-customer-charge-explained" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-winter" }
+  ],
+  "gas-customer-charge-explained": [
+    { label: "Next read", slug: "why-is-my-gas-bill-so-high-in-winter" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-summer" }
+  ],
+  "mcf-vs-ccf-vs-therms-on-gas-bill": [
+    { label: "Next read", slug: "how-to-read-your-gas-bill-therms-explained" },
+    { label: "Also read", slug: "gas-delivery-charge-vs-supply-charge" }
+  ],
+  "why-is-my-gas-bill-so-high-in-winter": [
+    { label: "Next read", slug: "gas-customer-charge-explained" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-summer" }
+  ],
+  "why-is-my-gas-bill-so-high-in-summer": [
+    { label: "Next read", slug: "how-to-read-your-gas-bill-therms-explained" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-winter" }
+  ],
+  "what-is-ccf-on-a-water-bill": [
+    { label: "Next read", slug: "how-to-read-a-water-meter" },
+    { label: "Also read", slug: "why-did-my-water-bill-suddenly-increase" }
+  ],
+  "how-to-read-a-water-meter": [
+    { label: "Next read", slug: "water-meter-leak-indicator-explained" },
+    { label: "Also read", slug: "is-your-toilet-running-leak-test" }
+  ],
+  "water-meter-leak-indicator-explained": [
+    { label: "Next read", slug: "is-your-toilet-running-leak-test" },
+    { label: "Also read", slug: "why-did-my-water-bill-suddenly-increase" }
+  ],
+  "is-your-toilet-running-leak-test": [
+    { label: "Next read", slug: "why-did-my-water-bill-suddenly-increase" },
+    { label: "Also read", slug: "water-service-charge-explained" }
+  ],
+  "why-did-my-water-bill-suddenly-increase": [
+    { label: "Next read", slug: "water-meter-leak-indicator-explained" },
+    { label: "Also read", slug: "why-is-my-water-bill-higher-in-summer" }
+  ],
+  "why-is-my-water-bill-higher-in-summer": [
+    { label: "Next read", slug: "average-water-usage-per-person" },
+    { label: "Also read", slug: "how-sewer-charges-work-on-your-water-bill" }
+  ],
+  "how-sewer-charges-work-on-your-water-bill": [
+    { label: "Next read", slug: "water-service-charge-explained" },
+    { label: "Also read", slug: "what-is-ccf-on-a-water-bill" }
+  ],
+  "water-service-charge-explained": [
+    { label: "Next read", slug: "how-sewer-charges-work-on-your-water-bill" },
+    { label: "Also read", slug: "average-water-usage-per-person" }
+  ],
+  "average-water-usage-per-person": [
+    { label: "Next read", slug: "why-is-my-water-bill-higher-in-summer" },
+    { label: "Also read", slug: "what-is-ccf-on-a-water-bill" }
+  ],
+  "aux-heat-vs-emergency-heat-meaning": [
+    { label: "Next read", slug: "afue-vs-seer-vs-hspf-vs-cop" },
+    { label: "Also read", slug: "ac-running-but-not-cooling" }
+  ],
+  "afue-vs-seer-vs-hspf-vs-cop": [
+    { label: "Next read", slug: "single-stage-vs-two-stage-vs-variable-speed-hvac" },
+    { label: "Also read", slug: "ductless-mini-split-vs-central-air" }
+  ],
+  "ac-running-but-not-cooling": [
+    { label: "Next read", slug: "duct-leaks-symptoms-hvac-running-all-day" },
+    { label: "Also read", slug: "aux-heat-vs-emergency-heat-meaning" }
+  ],
+  "duct-leaks-symptoms-hvac-running-all-day": [
+    { label: "Next read", slug: "ductless-mini-split-vs-central-air" },
+    { label: "Also read", slug: "single-stage-vs-two-stage-vs-variable-speed-hvac" }
+  ],
+  "ductless-mini-split-vs-central-air": [
+    { label: "Next read", slug: "single-stage-vs-two-stage-vs-variable-speed-hvac" },
+    { label: "Also read", slug: "gas-vs-electric-heating-cost-comparison" }
+  ],
+  "single-stage-vs-two-stage-vs-variable-speed-hvac": [
+    { label: "Next read", slug: "ductless-mini-split-vs-central-air" },
+    { label: "Also read", slug: "gas-vs-electric-heating-cost-comparison" }
+  ],
+  "gas-vs-electric-heating-cost-comparison": [
+    { label: "Next read", slug: "afue-vs-seer-vs-hspf-vs-cop" },
+    { label: "Also read", slug: "why-is-my-gas-bill-so-high-in-winter" }
+  ]
+};
+
+export const getNextReads = (slug: string) => {
+  const entries = nextReadMap[slug];
+  if (!entries) return [];
+  return entries
+    .map(({ label, slug: targetSlug }) => {
+      const post = getPostBySlug(targetSlug);
+      return post ? { label, post } : null;
+    })
+    .filter((item): item is { label: string; post: Post } => Boolean(item));
+};
+
 export const getRelatedPosts = (slug: string) => {
   const current = getPostBySlug(slug);
   if (!current) return [];

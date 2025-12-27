@@ -10,7 +10,7 @@ import TableOfContents from "@/components/TableOfContents";
 import SmartLinker from "@/components/SmartLinker";
 import { siteConfig } from "@/lib/site";
 import { formatDate } from "@/lib/utils";
-import posts, { getPostBySlug, getRelatedPosts } from "@/lib/posts";
+import posts, { getNextReads, getPostBySlug, getRelatedPosts } from "@/lib/posts";
 import Link from "next/link";
 
 export const dynamicParams = false;
@@ -60,7 +60,8 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
   if (!post) return notFound();
 
-  const related = getRelatedPosts(post.slug);
+  const nextReads = getNextReads(post.slug);
+  const related = nextReads.length === 0 ? getRelatedPosts(post.slug) : [];
   const all = posts.slice().sort((a, b) => (a.date < b.date ? 1 : -1));
   const idx = all.findIndex((p) => p.slug === post.slug);
   const prev = idx > 0 ? all[idx - 1] : null;
@@ -254,7 +255,11 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
               </div>
             </nav>
           </div>
-          <RelatedPosts posts={related} />
+          <RelatedPosts
+            posts={related}
+            labeledPosts={nextReads}
+            title={nextReads.length ? "Next read" : undefined}
+          />
         </div>
         <TableOfContents sections={post.sections} />
       </article>

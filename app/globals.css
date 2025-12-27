@@ -498,6 +498,14 @@ main {
   margin-top: 3rem;
 }
 
+.related-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 .contact-card {
   background: var(--bg-alt);
   border-radius: var(--radius);
