@@ -33,12 +33,7 @@ const AdSlot = ({
   }, [adsEnabled, slot]);
 
   if (!adsEnabled || !slot) {
-    return (
-      <div className={`ad-slot ${className}`.trim()} aria-label={label}>
-        <div className="ad-slot__label">{label}</div>
-        <div className="ad-slot__box">Ad slot placeholder</div>
-      </div>
-    );
+    return null;
   }
 
   return (

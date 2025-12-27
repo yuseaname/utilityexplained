@@ -12,7 +12,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "16 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?winter,gas,heating&sig=701",
+      src: "/images/utility-gas.jpg",
       alt: "Snow on a house roof during winter"
     },
     sections: [
@@ -882,7 +882,7 @@ export const gasPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "15 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1505860125062-3ce9329536f1",
+      src: "/images/utility-gas.jpg",
       alt: "Residential street with underground utilities"
     },
     sections: [

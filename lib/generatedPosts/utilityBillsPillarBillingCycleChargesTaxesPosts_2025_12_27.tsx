@@ -12,7 +12,7 @@ export const utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27: Post[] 
     date: "2025-12-27",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?calendar,utility,bill&sig=601",
+      src: "/images/utility-bill.jpg",
       alt: "Calendar and utility bill on a desk"
     },
     relatedSlugs: [
@@ -242,7 +242,7 @@ export const utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27: Post[] 
     date: "2025-12-27",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?powerlines,bill,home&sig=602",
+      src: "/images/utility-electricity.jpg",
       alt: "Power lines above a residential street"
     },
     relatedSlugs: [
@@ -464,7 +464,7 @@ export const utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27: Post[] 
     date: "2025-12-27",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?bill,receipt,city&sig=603",
+      src: "/images/utility-bill.jpg",
       alt: "Receipt and pen on a table with city buildings in the background"
     },
     relatedSlugs: [

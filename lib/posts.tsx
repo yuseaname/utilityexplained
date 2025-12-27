@@ -28,7 +28,7 @@ const posts: Post[] = [
     date: "2024-12-01",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?winter,home&sig=401",
+      src: "/images/utility-home.jpg",
       alt: "Cozy winter home with warm lights"
     },
     sections: [
@@ -305,7 +305,7 @@ const posts: Post[] = [
     date: "2025-12-20",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?utility,bill&sig=402",
+      src: "/images/utility-bill.jpg",
       alt: "Person reviewing a utility bill at a table"
     },
     sections: [
@@ -352,7 +352,7 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?energy,bills&sig=403"
+                src="/images/utility-bill.jpg"
                 alt="Summer cooling and energy bills"
               />
               <figcaption>Cooling season often drives the year’s highest bills.</figcaption>
@@ -411,7 +411,7 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?appliance,usage&sig=404"
+                src="/images/utility-energy.jpg"
                 alt="Household appliance that can increase electricity use"
               />
               <figcaption>Old appliances can dominate monthly usage.</figcaption>
@@ -432,7 +432,7 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?energy,usage&sig=405"
+                src="/images/utility-energy.jpg"
                 alt="Everyday devices and home energy use"
               />
               <figcaption>Background loads contribute even when you are not home.</figcaption>
@@ -493,7 +493,7 @@ const posts: Post[] = [
             </p>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?electric,bill&sig=406"
+                src="/images/utility-electricity.jpg"
                 alt="Utility bill paperwork"
               />
               <figcaption>Understand the key bill lines to spot the cause.</figcaption>
@@ -532,7 +532,7 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?energy,saving&sig=407"
+                src="/images/utility-energy.jpg"
                 alt="Energy-saving habit at home"
               />
               <figcaption>Simple habits slow the bleed before the next bill.</figcaption>
@@ -575,7 +575,7 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?housing,electricity&sig=408"
+                src="/images/utility-electricity.jpg"
                 alt="Home electricity and housing"
               />
               <figcaption>Goal: predictability, not perfection.</figcaption>
@@ -604,7 +604,7 @@ const posts: Post[] = [
             </ul>
             <figure>
               <ContentImage
-                src="https://source.unsplash.com/featured/1200x800/?energy,usage&sig=409"
+                src="/images/utility-energy.jpg"
                 alt="Home energy usage concept"
               />
               <figcaption>Understanding patterns beats guessing.</figcaption>
@@ -678,7 +678,7 @@ const posts: Post[] = [
     date: "2024-12-03",
     readTime: "12 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1502303756762-a77fef7ca7f6",
+      src: "/images/utility-meter.jpg",
       alt: "Water meter cover in a sidewalk"
     },
     sections: [
@@ -949,7 +949,7 @@ const posts: Post[] = [
     date: "2024-12-04",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?gas,furnace,home&sig=411",
+      src: "/images/utility-gas.jpg",
       alt: "Home heating system and winter comfort"
     },
     sections: [
@@ -2704,7 +2704,7 @@ const posts: Post[] = [
     date: "2024-12-10",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?budget,bills,apartment&sig=412",
+      src: "/images/utility-bill.jpg",
       alt: "Bills and budgeting notes on a desk"
     },
     sections: [
@@ -3237,7 +3237,7 @@ const posts: Post[] = [
     date: "2025-12-25",
     readTime: "14 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1581092919535-7146fdd7e8f4",
+      src: "/images/utility-meter.jpg",
       alt: "Close-up of an electric meter on the outside of a home"
     },
     sections: [

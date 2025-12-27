@@ -11,7 +11,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?water,bill&sig=771",
+      src: "/images/utility-water.jpg",
       alt: "A water bill on a table next to a glass of water"
     },
     relatedSlugs: [
@@ -345,7 +345,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?water,meter&sig=772",
+      src: "/images/utility-water.jpg",
       alt: "Close-up of a water meter dial under a clear cover"
     },
     relatedSlugs: [
@@ -622,7 +622,7 @@ export const waterPillarChargesLeaksSummerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?summer,sprinkler&sig=773",
+      src: "/images/utility-summer.jpg",
       alt: "Water sprinklers watering grass on a hot summer day"
     },
     relatedSlugs: [

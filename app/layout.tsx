@@ -52,6 +52,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   const adClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "";
+  const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === "true";
   
   return (
     <html lang="en" className={`${headingFont.variable} ${bodyFont.variable}`}>
@@ -61,7 +62,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           data-site-id="d5b63e065e9d"
           strategy="beforeInteractive"
         />
-        {adClient && (
+        {adsEnabled && adClient && (
           <Script
             async
             src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adClient}`}

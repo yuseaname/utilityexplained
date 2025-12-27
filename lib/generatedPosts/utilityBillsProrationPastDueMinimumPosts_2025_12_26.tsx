@@ -11,7 +11,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "15 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?calendar,bill&sig=503",
+      src: "/images/utility-bill.jpg",
       alt: "Person reviewing a utility statement with a calendar nearby"
     },
     relatedSlugs: [
@@ -225,7 +225,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "16 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?late-fee,bill&sig=504",
+      src: "/images/utility-bill.jpg",
       alt: "Utility bills with a due date highlighted on a calendar"
     },
     relatedSlugs: [
@@ -452,7 +452,7 @@ export const utilityBillsProrationPastDueMinimumPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "14 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1554224311-beee804633fc",
+      src: "/images/utility-bill.jpg",
       alt: "Utility statement with a small total highlighted"
     },
     relatedSlugs: [

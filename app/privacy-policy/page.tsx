@@ -30,10 +30,10 @@ export default function PrivacyPolicyPage() {
       </p>
       <h2>Advertising</h2>
       <p>
-        We plan to use Google AdSense after approval. AdSense may use cookies to
-        display relevant ads. You can learn more about Google advertising practices
-        on Google's official site and manage ad personalization in your Google
-        account.
+        We may display ads through Google AdSense. When ads are shown, AdSense may
+        use cookies to display relevant ads. You can learn more about Google's
+        advertising practices on Google's official site and manage ad personalization
+        in your Google account.
       </p>
       <h2>Updates</h2>
       <p>

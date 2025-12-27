@@ -12,7 +12,7 @@ export const utilityBillsPillarAccountFeesPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?paperwork,deposit&sig=521",
+      src: "/images/utility-paperwork.jpg",
       alt: "A stack of paperwork and a receipt on a desk"
     },
     relatedSlugs: [
@@ -260,7 +260,7 @@ export const utilityBillsPillarAccountFeesPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?moving,keys&sig=522",
+      src: "/images/utility-paperwork.jpg",
       alt: "House keys on a moving checklist"
     },
     relatedSlugs: [
@@ -490,7 +490,7 @@ export const utilityBillsPillarAccountFeesPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?door,utility&sig=523",
+      src: "/images/utility-paperwork.jpg",
       alt: "A front door with a utility meter nearby"
     },
     relatedSlugs: [

@@ -11,7 +11,7 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "14 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?electricity,rates,home&sig=601",
+      src: "/images/utility-electricity.jpg",
       alt: "Home at dusk with lights on and power lines in the foreground"
     },
     relatedSlugs: [
@@ -222,7 +222,7 @@ export const electricityPillarTieredDemandSupplyPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "15 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?electric,grid,meter&sig=602",
+      src: "/images/utility-electricity.jpg",
       alt: "Electric meter and utility equipment on a building exterior"
     },
     relatedSlugs: [

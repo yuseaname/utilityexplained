@@ -12,7 +12,7 @@ export const utilityBillsPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "16 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?meter,reading,bill&sig=506",
+      src: "/images/utility-meter.jpg",
       alt: "Person reviewing utility bills and a budget worksheet"
     },
     sections: [

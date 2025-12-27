@@ -358,7 +358,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "18 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1581579186988-17c88c7b1dcd",
+      src: "/images/utility-hvac.jpg",
       alt: "HVAC equipment and gauges used for system testing"
     },
     sections: [
@@ -925,7 +925,7 @@ export const heatingCoolingPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "19 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1503389152951-9f343605f61f",
+      src: "/images/utility-hvac.jpg",
       alt: "Outdoor HVAC condenser unit beside a home"
     },
     sections: [

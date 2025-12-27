@@ -11,7 +11,7 @@ export const heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27: Po
     date: "2025-12-27",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?furnace,home,heat&sig=741",
+      src: "/images/utility-hvac.jpg",
       alt: "Home furnace and warm air vent"
     },
     relatedSlugs: [
@@ -262,7 +262,7 @@ export const heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27: Po
     date: "2025-12-27",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?heat,pump,winter,home&sig=742",
+      src: "/images/utility-hvac.jpg",
       alt: "Outdoor heat pump unit in winter"
     },
     relatedSlugs: [
@@ -505,7 +505,7 @@ export const heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27: Po
     date: "2025-12-27",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?air,conditioner,home&sig=743",
+      src: "/images/utility-hvac.jpg",
       alt: "Outdoor air conditioner unit by a house"
     },
     relatedSlugs: [

@@ -11,7 +11,7 @@ export const gasPillarMeterSummerCustomerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?gas,meter,home&sig=711",
+      src: "/images/utility-gas.jpg",
       alt: "Residential gas meter mounted outside a home"
     },
     relatedSlugs: [
@@ -280,7 +280,7 @@ export const gasPillarMeterSummerCustomerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?summer,home,gas&sig=712",
+      src: "/images/utility-gas.jpg",
       alt: "Sunny home exterior in summer"
     },
     relatedSlugs: [
@@ -513,7 +513,7 @@ export const gasPillarMeterSummerCustomerPosts_2025_12_26: Post[] = [
     date: "2025-12-26",
     readTime: "11 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?utility,statement,home&sig=713",
+      src: "/images/utility-bill.jpg",
       alt: "Utility bill paperwork on a table"
     },
     relatedSlugs: [

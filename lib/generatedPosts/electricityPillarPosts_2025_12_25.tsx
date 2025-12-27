@@ -289,7 +289,7 @@ export const electricityPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "14 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1501139083538-0139583c61ee",
+      src: "/images/utility-meter.jpg",
       alt: "Clock face overlaid on electric bill"
     },
     relatedSlugs: [

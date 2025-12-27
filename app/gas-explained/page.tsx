@@ -26,7 +26,7 @@ export default function GasExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="https://images.unsplash.com/photo-1545259742-25a72b1e3530"
+          src="/images/utility-gas.jpg"
           alt="Natural gas flame on a stovetop"
           width={800}
           height={450}

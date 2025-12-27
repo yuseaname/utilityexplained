@@ -26,7 +26,7 @@ export default function WaterExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="https://images.unsplash.com/photo-1548604623-b2e0f6c32f24"
+          src="/images/utility-water.jpg"
           alt="Clean water flowing from a modern faucet"
           width={800}
           height={450}

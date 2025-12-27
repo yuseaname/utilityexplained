@@ -11,7 +11,7 @@ export const waterPillarSewerAverageWinterLeakPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "13 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?water,city,bill&sig=701",
+      src: "/images/utility-water.jpg",
       alt: "Water bill and city street utilities"
     },
     relatedSlugs: [
@@ -241,7 +241,7 @@ export const waterPillarSewerAverageWinterLeakPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?winter,water,home&sig=702",
+      src: "/images/utility-water.jpg",
       alt: "Winter home exterior with water line access"
     },
     relatedSlugs: [
@@ -459,7 +459,7 @@ export const waterPillarSewerAverageWinterLeakPosts_2025_12_27: Post[] = [
     date: "2025-12-27",
     readTime: "12 min read",
     image: {
-      src: "https://source.unsplash.com/featured/1200x800/?water,meter,leak&sig=703",
+      src: "/images/utility-water.jpg",
       alt: "Water meter box with dial visible"
     },
     relatedSlugs: [

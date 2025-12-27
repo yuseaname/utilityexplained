@@ -26,7 +26,7 @@ export default function UtilityBillsCostsExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="https://images.unsplash.com/photo-1554224311-beee804633fc"
+          src="/images/utility-bill.jpg"
           alt="Person reviewing utility bills and budget documents"
           width={800}
           height={450}

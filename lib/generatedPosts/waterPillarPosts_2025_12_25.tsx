@@ -11,7 +11,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "11 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1520627498534-cf7e9002facc",
+      src: "/images/utility-water.jpg",
       alt: "A water meter and shutoff valve in a utility box"
     },
     sections: [
@@ -249,7 +249,7 @@ export const waterPillarPosts_2025_12_25: Post[] = [
     date: "2025-12-25",
     readTime: "12 min read",
     image: {
-      src: "https://images.unsplash.com/photo-1581579185169-7b5b5f2f1a4e",
+      src: "/images/utility-water.jpg",
       alt: "Underground utility access cover in a street"
     },
     sections: [
