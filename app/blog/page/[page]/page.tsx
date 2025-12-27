@@ -39,7 +39,7 @@ export default function BlogPaged({ params }: { params: { page: string } }) {
         <h1>Blog</h1>
         <div className="post-grid">
           {paged.map((post) => (
-            <PostCard key={post.slug} post={post} />
+            <PostCard key={post.slug} post={post} trackingLabel="blog-page" />
           ))}
         </div>
         <Pagination basePath="/blog/page" current={current} totalPages={totalPages} />

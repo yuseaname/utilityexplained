@@ -36,7 +36,7 @@ const BlogSearch = ({ posts }: BlogSearchProps) => {
       />
       <div className="post-grid">
         {filtered.map((post) => (
-          <PostCard key={post.slug} post={post} />
+          <PostCard key={post.slug} post={post} trackingLabel="blog-search" />
         ))}
       </div>
       {filtered.length === 0 ? (

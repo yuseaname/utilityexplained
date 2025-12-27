@@ -6,9 +6,10 @@ import CategoryBadge from "@/components/CategoryBadge";
 
 type PostCardProps = {
   post: Post;
+  trackingLabel?: string;
 };
 
-const PostCard = ({ post }: PostCardProps) => {
+const PostCard = ({ post, trackingLabel }: PostCardProps) => {
   return (
     <article className="post-card">
       {/* Image source: Unsplash (see image src in post data). */}
@@ -23,7 +24,14 @@ const PostCard = ({ post }: PostCardProps) => {
       <div className="post-card__content">
         <CategoryBadge label={post.category} />
         <h3>
-          <Link href={`/blog/${post.slug}`}>{post.title}</Link>
+          <Link
+            href={`/blog/${post.slug}`}
+            data-track="internal_link"
+            data-track-label={trackingLabel ?? "post-card"}
+            data-track-value={post.slug}
+          >
+            {post.title}
+          </Link>
         </h3>
         <p>{post.description}</p>
         <div className="post-card__meta">

@@ -6,6 +6,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SkipLink from "@/components/SkipLink";
+import LinkTracker from "@/components/LinkTracker";
 import { siteConfig } from "@/lib/site";
 
 const headingFont = Fraunces({
@@ -73,6 +74,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       </head>
       <body>
         <SkipLink />
+        <LinkTracker />
         <Header />
         <main id="main-content">{children}</main>
         <Footer />

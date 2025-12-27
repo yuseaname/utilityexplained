@@ -23,7 +23,7 @@ const RelatedPosts = ({ posts = [], labeledPosts, title }: RelatedPostsProps) =>
         {items.map(({ post, label }) => (
           <div key={post.slug}>
             {label ? <p className="related-label">{label}</p> : null}
-            <PostCard post={post} />
+            <PostCard post={post} trackingLabel={label ? "next-read" : "related"} />
           </div>
         ))}
       </div>

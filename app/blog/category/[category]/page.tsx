@@ -36,7 +36,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         </p>
         <div className="post-grid">
           {items.map((post) => (
-            <PostCard key={post.slug} post={post} />
+            <PostCard key={post.slug} post={post} trackingLabel="blog-category" />
           ))}
         </div>
       </section>

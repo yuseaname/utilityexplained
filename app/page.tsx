@@ -94,7 +94,7 @@ export default function HomePage() {
           <h2>Popular explainers</h2>
           <div className="post-grid">
             {featured.map((post) => (
-              <PostCard key={post.slug} post={post} />
+              <PostCard key={post.slug} post={post} trackingLabel="home-popular" />
             ))}
           </div>
         </div>
@@ -141,7 +141,7 @@ export default function HomePage() {
           </p>
           <div className="post-grid">
             {posts.slice(3, 6).map((post) => (
-              <PostCard key={post.slug} post={post} />
+              <PostCard key={post.slug} post={post} trackingLabel="home-start" />
             ))}
           </div>
         </div>

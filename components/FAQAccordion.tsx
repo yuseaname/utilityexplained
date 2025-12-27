@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { FAQItem } from "@/lib/types";
+import { trackEvent } from "@/lib/analytics";
 
 type FAQAccordionProps = {
   items: FAQItem[];
@@ -20,7 +21,17 @@ const FAQAccordion = ({ items }: FAQAccordionProps) => {
               className="faq-question"
               type="button"
               aria-expanded={isOpen}
-              onClick={() => setOpenIndex(isOpen ? null : index)}
+              onClick={() => {
+                const nextIndex = isOpen ? null : index;
+                setOpenIndex(nextIndex);
+                if (nextIndex !== null) {
+                  trackEvent({
+                    event: "faq_expand",
+                    label: item.question,
+                    value: index
+                  });
+                }
+              }}
             >
               {item.question}
             </button>

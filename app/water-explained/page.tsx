@@ -79,6 +79,8 @@ export default function WaterExplainedPage() {
           width={800}
           height={450}
           className="hero-image"
+          sizes="(max-width: 768px) 100vw, 800px"
+          priority
         />
       </div>
 
