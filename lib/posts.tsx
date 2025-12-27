@@ -12,6 +12,7 @@ import { waterPillarChargesLeaksSummerPosts_2025_12_26 } from "@/lib/generatedPo
 import { gasPillarMeterSummerCustomerPosts_2025_12_26 } from "@/lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26";
 import { heatingCoolingPillarAcNotCoolingPosts_2025_12_26 } from "@/lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26";
 import { utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27";
+import { waterPillarSewerAverageWinterLeakPosts_2025_12_27 } from "@/lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27";
 
 const posts: Post[] = [
   {
@@ -3680,6 +3681,7 @@ const posts: Post[] = [
   ...electricityPillarTieredDemandSupplyPosts_2025_12_26,
   ...waterPillarPosts_2025_12_25,
   ...waterPillarChargesLeaksSummerPosts_2025_12_26,
+  ...waterPillarSewerAverageWinterLeakPosts_2025_12_27,
   ...gasPillarPosts_2025_12_25,
   ...gasPillarMeterSummerCustomerPosts_2025_12_26,
   ...heatingCoolingPillarPosts_2025_12_25,
@@ -3857,6 +3859,18 @@ const nextReadMap: Record<
   "why-is-my-water-bill-higher-in-summer": [
     { label: "Next read", slug: "average-water-usage-per-person" },
     { label: "Also read", slug: "how-sewer-charges-work-on-your-water-bill" }
+  ],
+  "why-is-my-water-bill-higher-in-winter": [
+    { label: "Next read", slug: "water-meter-leak-indicator-explained" },
+    { label: "Also read", slug: "why-did-my-water-bill-suddenly-increase" }
+  ],
+  "sewer-averaging-water-bill-explained": [
+    { label: "Next read", slug: "how-sewer-charges-work-on-your-water-bill" },
+    { label: "Also read", slug: "water-service-charge-explained" }
+  ],
+  "water-meter-running-when-no-water-used": [
+    { label: "Next read", slug: "water-meter-leak-indicator-explained" },
+    { label: "Also read", slug: "is-your-toilet-running-leak-test" }
   ],
   "how-sewer-charges-work-on-your-water-bill": [
     { label: "Next read", slug: "water-service-charge-explained" },
