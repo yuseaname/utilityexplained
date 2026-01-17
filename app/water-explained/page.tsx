@@ -74,13 +74,15 @@ export default function WaterExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="/images/utility-water.jpg"
-          alt="Clean water flowing from a modern faucet"
-          width={800}
-          height={450}
+          src="/images/slots/a0cd078ef39700da3d613e82/image.webp"
+          alt="Water Service Explained: Your Complete Guide"
+          width={1536}
+          height={1024}
           className="hero-image"
           sizes="(max-width: 768px) 100vw, 800px"
           priority
+          fetchPriority="high"
+          data-slot-id="a0cd078ef39700da3d613e82"
         />
       </div>
 

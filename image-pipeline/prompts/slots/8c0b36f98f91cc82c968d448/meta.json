@@ -1,0 +1,19 @@
+{
+  "anchor_index": 5,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Heat pumps",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/heating-cooling-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHeat pumps | heat-pumps | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "7b9f4ac617ae59ff5ad15460311ef4443bf9b38827eae4556d9f8804e86612ac",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "8c0b36f98f91cc82c968d448",
+  "slot_key": "heat-pumps"
+}

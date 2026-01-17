@@ -1,0 +1,19 @@
+{
+  "anchor_index": 0,
+  "anchor_selector": "jsx:h1",
+  "anchor_text": "Finally understand your utility bills--no jargon, no stress.",
+  "insertion_mode": "HERO",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/page.tsx",
+  "priority_level": 5,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nFinally understand your utility bills--no jargon, no stress. | hero | app/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "2a21ba16a4afb7dea71c7f4c36e5905dbcf01c46c7d0cf7b64f5323307a9ed06",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "236a885fdee221c1ded6cab3",
+  "slot_key": "hero"
+}

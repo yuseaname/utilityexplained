@@ -1,0 +1,19 @@
+{
+  "anchor_index": 1,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "What this site covers",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWhat this site covers | what-this-site-covers | app/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "3163052ea59f92f1999de43f8d81fc464bb437ea2a97a359c8d0c9908d7a4642",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "c05e7eb32b6a49b4a0f1722e",
+  "slot_key": "what-this-site-covers"
+}

@@ -74,13 +74,15 @@ export default function UtilityBillsCostsExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="/images/utility-bill.jpg"
-          alt="Person reviewing utility bills and budget documents"
-          width={800}
-          height={450}
+          src="/images/slots/87ce6fb70195c60cf9565a5a/image.webp"
+          alt="Utility Bills & Costs Explained: Your Complete Guide"
+          width={1536}
+          height={1024}
           className="hero-image"
           sizes="(max-width: 768px) 100vw, 800px"
           priority
+          fetchPriority="high"
+          data-slot-id="87ce6fb70195c60cf9565a5a"
         />
       </div>
 
@@ -101,6 +103,17 @@ export default function UtilityBillsCostsExplainedPage() {
       <section>
         <h2>Common components of utility bills</h2>
         <h3>Usage charges (variable costs)</h3>
+        <Image
+          src="/images/slots/054e8c866bedff1dfed5bcbf/image.webp"
+          alt="Usage charges (variable costs)"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="054e8c866bedff1dfed5bcbf"
+        />
         <p>
           This is the cost of what you actually used--kilowatt-hours (kWh) for electricity, therms for gas, gallons or cubic feet for water. Usage charges vary each month based on consumption. Higher usage means higher costs.
         </p>

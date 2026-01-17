@@ -74,13 +74,15 @@ export default function GasExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="/images/utility-gas.jpg"
-          alt="Natural gas flame on a stovetop"
-          width={800}
-          height={450}
+          src="/images/slots/4b3dbc8b048eb6e59ae062b9/image.webp"
+          alt="Natural Gas Explained: Your Complete Guide"
+          width={1536}
+          height={1024}
           className="hero-image"
           sizes="(max-width: 768px) 100vw, 800px"
           priority
+          fetchPriority="high"
+          data-slot-id="4b3dbc8b048eb6e59ae062b9"
         />
       </div>
 
@@ -90,6 +92,17 @@ export default function GasExplainedPage() {
 
       <section>
         <h2>What is natural gas and how does it reach your home?</h2>
+        <Image
+          src="/images/slots/249dadbf0a0f03420fc66fb1/image.webp"
+          alt="What is natural gas and how does it reach your home?"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="249dadbf0a0f03420fc66fb1"
+        />
         <p>
           Natural gas is a fossil fuel extracted from underground deposits. It is primarily methane and burns cleanly compared to coal or oil. Gas is transported through pipelines from production areas to distribution networks in your region, then through smaller pipes to your neighborhood and into your home.
         </p>
@@ -103,6 +116,17 @@ export default function GasExplainedPage() {
 
       <section>
         <h2>How natural gas is measured: therms, BTUs, and CCF</h2>
+        <Image
+          src="/images/slots/05fb06fde2e24b9fc3d1604f/image.webp"
+          alt="How natural gas is measured: therms, BTUs, and CCF"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="05fb06fde2e24b9fc3d1604f"
+        />
         <p>
           Natural gas is measured by the amount of heat energy it contains, not by volume alone. The most common unit on residential bills is the <strong>therm</strong>. One therm equals 100,000 British Thermal Units (BTUs). A BTU is the amount of energy needed to raise one pound of water by one degree Fahrenheit.
         </p>

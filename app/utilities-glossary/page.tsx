@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { siteConfig } from "@/lib/site";
@@ -70,6 +71,17 @@ export default function UtilitiesGlossaryPage() {
         ]}
       />
       <h1>Utilities Glossary</h1>
+      <Image
+        src="/images/slots/b99c99cccad8df1bcb6d6f8f/image.webp"
+        alt="Utilities Glossary"
+        width={1536}
+        height={1024}
+        className="article-hero"
+        sizes="(max-width: 768px) 100vw, 900px"
+        priority
+        fetchPriority="high"
+        data-slot-id="b99c99cccad8df1bcb6d6f8f"
+      />
       
       <p className="intro-text">
         Utility bills and energy systems use specialized terms that can feel confusing. This glossary defines common utility terminology in plain English. Use this as a quick reference when reading bills, comparing plans, or learning about home energy systems.
@@ -84,6 +96,17 @@ export default function UtilitiesGlossaryPage() {
         </p>
 
         <h3 id="amps">Amps (Amperes)</h3>
+        <Image
+          src="/images/slots/11341d4cc665a970f6f245ab/image.webp"
+          alt="Amps (Amperes)"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="11341d4cc665a970f6f245ab"
+        />
         <p>
           A unit measuring electrical current. Your home's electrical service is rated in amps--commonly 100, 150, or 200 amps. This determines how much power can flow at once.
         </p>

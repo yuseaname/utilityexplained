@@ -1,0 +1,19 @@
+{
+  "anchor_index": 0,
+  "anchor_selector": "jsx:h1",
+  "anchor_text": "Disclaimer",
+  "insertion_mode": "HERO",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/disclaimer/page.tsx",
+  "priority_level": 5,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nDisclaimer | hero | app/disclaimer/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "661397773dbdbdfab7ce5ddecc8aa68ed3cfba419eb439910dbd6938389bbb97",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "929597bfc8926e58a2b97cef",
+  "slot_key": "hero"
+}

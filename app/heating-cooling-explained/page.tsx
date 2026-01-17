@@ -74,13 +74,15 @@ export default function HeatingCoolingExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="/images/utility-hvac.jpg"
-          alt="Modern HVAC thermostat control panel"
-          width={800}
-          height={450}
+          src="/images/slots/5e71d9e58a13b37f73213657/image.webp"
+          alt="Heating & Cooling Explained: Your Complete Guide"
+          width={1536}
+          height={1024}
           className="hero-image"
           sizes="(max-width: 768px) 100vw, 800px"
           priority
+          fetchPriority="high"
+          data-slot-id="5e71d9e58a13b37f73213657"
         />
       </div>
 
@@ -90,6 +92,17 @@ export default function HeatingCoolingExplainedPage() {
 
       <section>
         <h2>How heating and cooling systems work</h2>
+        <Image
+          src="/images/slots/032cabbf4b2b96728e920091/image.webp"
+          alt="How heating and cooling systems work"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="032cabbf4b2b96728e920091"
+        />
         <p>
           Heating systems burn fuel (gas, oil) or use electricity to create warmth. Furnaces heat air and blow it through ducts. Boilers heat water and send it through radiators or radiant floors. Electric resistance heaters convert electricity directly into heat.
         </p>

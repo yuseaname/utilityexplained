@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
 import { siteConfig } from "@/lib/site";
 
@@ -14,6 +15,17 @@ export default function AboutPage() {
   return (
     <div className="container section">
       <h1>About Utility Explained</h1>
+      <Image
+        src="/images/slots/459c72fec1184e770c59ccec/image.webp"
+        alt="About Utility Explained"
+        width={1536}
+        height={1024}
+        className="article-hero"
+        sizes="(max-width: 768px) 100vw, 900px"
+        priority
+        fetchPriority="high"
+        data-slot-id="459c72fec1184e770c59ccec"
+      />
       <p>
         We started Utility Explained because utility bills shouldn't require a
         translator. If you've ever stared at a bill wondering what you're actually

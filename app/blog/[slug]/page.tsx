@@ -248,15 +248,17 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
             </div>
           </header>
           <div className="article-body">
-            {/* Image source: Unsplash (see image src in post data). */}
+            {/* Image source: pipeline-generated. */}
             <Image
-              src={post.image.src}
-              alt={post.image.alt}
-              width={1200}
-              height={700}
+              src="/images/slots/e1d1588004c984b540b8c22c/image.webp"
+              alt={post.title}
+              width={1536}
+              height={1024}
               className="article-hero"
               sizes="(max-width: 768px) 100vw, 900px"
               priority
+              fetchPriority="high"
+              data-slot-id="e1d1588004c984b540b8c22c"
             />
             {post.sections.map((section, i) => (
               <section key={section.id} id={section.id}>

@@ -1,0 +1,19 @@
+{
+  "anchor_index": 2,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "How natural gas is measured: therms, BTUs, and CCF",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/gas-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow natural gas is measured: therms, BTUs, and CCF | how-natural-gas-is-measured-therms-btus-and-ccf | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "167ee25592153981ef912402fa6e2b89864d3890fa18dc4638c034f5f10b242c",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "05fb06fde2e24b9fc3d1604f",
+  "slot_key": "how-natural-gas-is-measured-therms-btus-and-ccf"
+}

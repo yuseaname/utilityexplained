@@ -1,0 +1,19 @@
+{
+  "anchor_index": 3,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Understanding your gas bill",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/gas-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUnderstanding your gas bill | understanding-your-gas-bill | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "8ab93566fa5f3613396755a4b59495a15ddbc7cfde59dbe41ae19eb113e268ee",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "ea08f4218ef3c264d0e75f26",
+  "slot_key": "understanding-your-gas-bill"
+}

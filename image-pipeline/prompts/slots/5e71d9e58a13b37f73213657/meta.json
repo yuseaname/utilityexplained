@@ -1,0 +1,19 @@
+{
+  "anchor_index": 0,
+  "anchor_selector": "jsx:h1",
+  "anchor_text": "Heating & Cooling Explained: Your Complete Guide",
+  "insertion_mode": "HERO",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/heating-cooling-explained/page.tsx",
+  "priority_level": 5,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHeating & Cooling Explained: Your Complete Guide | hero | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "bc3a2309f00440f414dce511b5a1f909534532e98c28aaf6f30173211e044f3f",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "5e71d9e58a13b37f73213657",
+  "slot_key": "hero"
+}

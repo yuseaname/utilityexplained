@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import AdSlot from "@/components/AdSlot";
 import { siteConfig } from "@/lib/site";
 
@@ -16,6 +17,17 @@ export default function ContactPage() {
   return (
     <div className="container section">
       <h1>Contact</h1>
+      <Image
+        src="/images/slots/6e7d1ded6f71f4ad2faff3f0/image.webp"
+        alt="Contact"
+        width={1536}
+        height={1024}
+        className="article-hero"
+        sizes="(max-width: 768px) 100vw, 900px"
+        priority
+        fetchPriority="high"
+        data-slot-id="6e7d1ded6f71f4ad2faff3f0"
+      />
       <p>
         Have a question about a utility bill topic? Send a note and we will consider
         it for a future guide. This form is informational only and does not create a

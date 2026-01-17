@@ -1,0 +1,19 @@
+{
+  "anchor_index": 0,
+  "anchor_selector": "jsx:h1",
+  "anchor_text": "Water Service Explained: Your Complete Guide",
+  "insertion_mode": "HERO",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/water-explained/page.tsx",
+  "priority_level": 5,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWater Service Explained: Your Complete Guide | hero | app/water-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "7465f3af5ee2a1ea24dd2e945863c99e8d345cf09efae9b40e4b3d774ca00fba",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "a0cd078ef39700da3d613e82",
+  "slot_key": "hero"
+}

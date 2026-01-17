@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -13,6 +14,17 @@ export default function DisclaimerPage() {
   return (
     <div className="container section">
       <h1>Disclaimer</h1>
+      <Image
+        src="/images/slots/929597bfc8926e58a2b97cef/image.webp"
+        alt="Disclaimer"
+        width={1536}
+        height={1024}
+        className="article-hero"
+        sizes="(max-width: 768px) 100vw, 900px"
+        priority
+        fetchPriority="high"
+        data-slot-id="929597bfc8926e58a2b97cef"
+      />
       <p>
         Utility Explained is an informational resource. We do not provide
         financial, legal, or professional advice. Use the information on this site

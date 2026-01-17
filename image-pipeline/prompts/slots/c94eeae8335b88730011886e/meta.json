@@ -1,0 +1,21 @@
+{
+  "anchor_index": 6,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Boilers and radiant systems",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/heating-cooling-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nBoilers and radiant systems | boilers-and-radiant-systems | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "fb13af0044299ae93b7a371728667a300fcaa0f9536644df8dce04c81d543a1b",
+  "prompt_version": "v1",
+  "risk_factors": [
+    "ad_marker:ad"
+  ],
+  "risk_score": 0.2,
+  "slot_id": "c94eeae8335b88730011886e",
+  "slot_key": "boilers-and-radiant-systems"
+}

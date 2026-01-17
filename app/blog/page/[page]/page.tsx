@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import PostCard from "@/components/PostCard";
 import { siteConfig } from "@/lib/site";
@@ -37,6 +38,17 @@ export default function BlogPaged({ params }: { params: { page: string } }) {
     <div className="container">
       <section className="section">
         <h1>Blog</h1>
+        <Image
+          src="/images/slots/5ace06f076805659dc8872b7/image.webp"
+          alt="Blog"
+          width={1536}
+          height={1024}
+          className="article-hero"
+          sizes="(max-width: 768px) 100vw, 900px"
+          priority
+          fetchPriority="high"
+          data-slot-id="5ace06f076805659dc8872b7"
+        />
         <div className="post-grid">
           {paged.map((post) => (
             <PostCard key={post.slug} post={post} trackingLabel="blog-page" />

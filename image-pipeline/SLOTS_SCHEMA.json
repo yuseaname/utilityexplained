@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Image Slot",
+  "type": "object",
+  "required": [
+    "slot_id",
+    "page_path",
+    "anchor_text",
+    "anchor_selector",
+    "anchor_index",
+    "insertion_mode",
+    "slot_key",
+    "priority_level",
+    "risk_score"
+  ],
+  "properties": {
+    "slot_id": { "type": "string" },
+    "page_path": { "type": "string" },
+    "anchor_text": { "type": "string" },
+    "anchor_selector": { "type": "string" },
+    "anchor_index": { "type": "integer", "minimum": 0 },
+    "insertion_mode": { "type": "string", "enum": ["HERO", "INLINE"] },
+    "slot_key": { "type": "string" },
+    "priority_level": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "risk_score": { "type": "number", "minimum": 0, "maximum": 1 },
+    "risk_factors": { "type": "array", "items": { "type": "string" } },
+    "prompt": { "type": "string" },
+    "prompt_hash": { "type": "string" },
+    "prompt_version": { "type": "string" },
+    "market": {
+      "type": "object",
+      "properties": {
+        "country": { "type": "string" },
+        "locale": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": true
+}

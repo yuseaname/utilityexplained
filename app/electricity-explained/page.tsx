@@ -73,13 +73,15 @@ export default function ElectricityExplainedPage() {
       
       <div className="hero-card">
         <Image
-          src="/images/utility-electricity.jpg"
-          alt="Electric transmission lines and power infrastructure"
-          width={800}
-          height={450}
+          src="/images/slots/c4b7cdc06ad74fbf2d969102/image.webp"
+          alt="Electricity Explained: Your Complete Guide"
+          width={1536}
+          height={1024}
           className="hero-image"
           sizes="(max-width: 768px) 100vw, 800px"
           priority
+          fetchPriority="high"
+          data-slot-id="c4b7cdc06ad74fbf2d969102"
         />
       </div>
 
@@ -121,6 +123,17 @@ export default function ElectricityExplainedPage() {
 
       <section>
         <h2>Understanding your electric bill</h2>
+        <Image
+          src="/images/slots/28ec758d5f555ff5430adbc4/image.webp"
+          alt="Understanding your electric bill"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="28ec758d5f555ff5430adbc4"
+        />
         <p>
           Most electric bills have three main parts: the energy charge, the delivery charge, and fixed fees. Each part serves a different purpose.
         </p>
@@ -129,6 +142,17 @@ export default function ElectricityExplainedPage() {
           This is the cost of the electricity itself. It is usually listed as a price per kWh. If your rate is $0.15 per kWh and you used 800 kWh, the energy charge is $120. Some areas let you choose your energy supplier, which can affect this rate.
         </p>
         <h3>Delivery charge (distribution charge)</h3>
+        <Image
+          src="/images/slots/01a8e8e113c3baa2c365dea7/image.webp"
+          alt="Delivery charge (distribution charge)"
+          width={1536}
+          height={1024}
+          sizes="(max-width: 768px) 100vw, 900px"
+          loading="lazy"
+          decoding="async"
+          style={{ width: "100%", height: "auto", borderRadius: 12, margin: "1rem 0" }}
+          data-slot-id="01a8e8e113c3baa2c365dea7"
+        />
         <p>
           This covers the cost of maintaining the power lines, poles, transformers, and infrastructure that bring electricity to your home. Delivery charges may be a fixed fee, a per-kWh charge, or both. You pay this to your local utility even if you choose a different energy supplier.
         </p>

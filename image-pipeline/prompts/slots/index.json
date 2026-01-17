@@ -1,0 +1,788 @@
+{
+  "generated": true,
+  "slots": [
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "About Utility Explained",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/about/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nAbout Utility Explained | hero | app/about/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "e8f3c35bd4476184748d2a0a5d4ceeccc7ce529f60175502136652ab42aefa2b",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "459c72fec1184e770c59ccec",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Frequently asked questions",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/blog/[slug]/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nFrequently asked questions | hero | app/blog/[slug]/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "c3add328d3177ad24d901f134b77231f3e7c47f33dab00e98c6b3a4393ad95df",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "e1d1588004c984b540b8c22c",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Utility explainers and adulting guides",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/blog/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUtility explainers and adulting guides | hero | app/blog/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "0b179bdb120544101474c3e5190f92e376ebf4e2d6d8afcb3f03b9ecc446b093",
+      "prompt_version": "v1",
+      "risk_factors": [
+        "ad_marker:ad"
+      ],
+      "risk_score": 0.2,
+      "slot_id": "d19f0b785b47a1f73c3e6461",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Blog",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/blog/page/[page]/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nBlog | hero | app/blog/page/[page]/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "3d16ce476f6ffdb3e1d8ce0e9ed83ae1180f3cd2231e4af86f945d72cb0c5f89",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "5ace06f076805659dc8872b7",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Contact",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/contact/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nContact | hero | app/contact/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "d19fe8dd0c5e0a1f979502978362539d279582d1ececc897abfc6cd43b35cfd3",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "6e7d1ded6f71f4ad2faff3f0",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Disclaimer",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/disclaimer/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nDisclaimer | hero | app/disclaimer/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "661397773dbdbdfab7ce5ddecc8aa68ed3cfba419eb439910dbd6938389bbb97",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "929597bfc8926e58a2b97cef",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Electricity Explained: Your Complete Guide",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nElectricity Explained: Your Complete Guide | hero | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "6a1bc5be4eedafdb551ab8919013b3d55143483ab1448b33eda7aa9f10daee95",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "c4b7cdc06ad74fbf2d969102",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "What is electricity and how does it reach your home?",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWhat is electricity and how does it reach your home? | what-is-electricity-and-how-does-it-reach-your-home | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "3be89d00113f7ff419b248b803e63a00279e65d9b14c08b5321395d34ba35eac",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "fcd5226f3e6c4dd2354777a1",
+      "slot_key": "what-is-electricity-and-how-does-it-reach-your-home"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "How electricity is measured: watts, kilowatts, and kilowatt-hours",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow electricity is measured: watts, kilowatts, and kilowatt-hours | how-electricity-is-measured-watts-kilowatts-and-kilowatt-hours | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "936d70550d9bd23eba4bc6c6f32db84948b87fe2bd8bb73ef541d52bacc0866d",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "ef20062e7ba8ea9e869357b2",
+      "slot_key": "how-electricity-is-measured-watts-kilowatts-and-kilowatt-hours"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Understanding your electric bill",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUnderstanding your electric bill | understanding-your-electric-bill | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "3543dc3b5529fd0cec62288472ce1586af0f6b8198109898b565383308ca8e03",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "28ec758d5f555ff5430adbc4",
+      "slot_key": "understanding-your-electric-bill"
+    },
+    {
+      "anchor_index": 4,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Energy charge (supply charge)",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nEnergy charge (supply charge) | energy-charge-supply-charge | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "f61251a415d7faae52c5de87eb03049cbed346592d57203fb3857566f6616e7c",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "796b5267e17f6e655e871b95",
+      "slot_key": "energy-charge-supply-charge"
+    },
+    {
+      "anchor_index": 5,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Delivery charge (distribution charge)",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nDelivery charge (distribution charge) | delivery-charge-distribution-charge | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "cdf68d8ba6d642c00564a1a0f01b6d71a9705b3abf880c3f0da8aff48e052723",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "01a8e8e113c3baa2c365dea7",
+      "slot_key": "delivery-charge-distribution-charge"
+    },
+    {
+      "anchor_index": 6,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Fixed fees and other charges",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/electricity-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nFixed fees and other charges | fixed-fees-and-other-charges | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "33b06636bf7a7ecd911cc2da48cb613d22c6ad747675a2de7ab9ec36b3117a1f",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "7b628291d6766baad6cdb446",
+      "slot_key": "fixed-fees-and-other-charges"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Natural Gas Explained: Your Complete Guide",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/gas-explained/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nNatural Gas Explained: Your Complete Guide | hero | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "196802f2dc00af3cb89b5c9d02beea2ba540e7dbaa5dba3ac333160c553a7ce2",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "4b3dbc8b048eb6e59ae062b9",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "What is natural gas and how does it reach your home?",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/gas-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWhat is natural gas and how does it reach your home? | what-is-natural-gas-and-how-does-it-reach-your-home | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "1448dba9d5203fcf46b442ffac814e6054aced63b9694da3d2929a3cf3e7b486",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "249dadbf0a0f03420fc66fb1",
+      "slot_key": "what-is-natural-gas-and-how-does-it-reach-your-home"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "How natural gas is measured: therms, BTUs, and CCF",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/gas-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow natural gas is measured: therms, BTUs, and CCF | how-natural-gas-is-measured-therms-btus-and-ccf | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "167ee25592153981ef912402fa6e2b89864d3890fa18dc4638c034f5f10b242c",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "05fb06fde2e24b9fc3d1604f",
+      "slot_key": "how-natural-gas-is-measured-therms-btus-and-ccf"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Understanding your gas bill",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/gas-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUnderstanding your gas bill | understanding-your-gas-bill | app/gas-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "8ab93566fa5f3613396755a4b59495a15ddbc7cfde59dbe41ae19eb113e268ee",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "ea08f4218ef3c264d0e75f26",
+      "slot_key": "understanding-your-gas-bill"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Heating & Cooling Explained: Your Complete Guide",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHeating & Cooling Explained: Your Complete Guide | hero | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "bc3a2309f00440f414dce511b5a1f909534532e98c28aaf6f30173211e044f3f",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "5e71d9e58a13b37f73213657",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "How heating and cooling systems work",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow heating and cooling systems work | how-heating-and-cooling-systems-work | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "81ee7cf70e77050894f1ba26e4690cae74ca3ebe2023e29008163c0be66d1031",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "032cabbf4b2b96728e920091",
+      "slot_key": "how-heating-and-cooling-systems-work"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Common heating system types",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nCommon heating system types | common-heating-system-types | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "4ee06ae46c2e137626a159b4aed2c6ab04b56bab27d5d96a911ae9f20ada7014",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "c78f19815dc65494d1d045d5",
+      "slot_key": "common-heating-system-types"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Gas furnaces",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nGas furnaces | gas-furnaces | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "75b78b5b3effbce79432109fac8bade8a79d811c6bafc9da795317c5ad3287c1",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "41c49ce4cbe5b37e7a6c8cb9",
+      "slot_key": "gas-furnaces"
+    },
+    {
+      "anchor_index": 4,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Electric resistance heat",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nElectric resistance heat | electric-resistance-heat | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "6b0759515958ac7d64dc98693a4d0aeca1968dd08413dddf33027373b18f4402",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "dda95d32f4bdc626a56ea730",
+      "slot_key": "electric-resistance-heat"
+    },
+    {
+      "anchor_index": 5,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Heat pumps",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHeat pumps | heat-pumps | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "7b9f4ac617ae59ff5ad15460311ef4443bf9b38827eae4556d9f8804e86612ac",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "8c0b36f98f91cc82c968d448",
+      "slot_key": "heat-pumps"
+    },
+    {
+      "anchor_index": 6,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Boilers and radiant systems",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/heating-cooling-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nBoilers and radiant systems | boilers-and-radiant-systems | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "fb13af0044299ae93b7a371728667a300fcaa0f9536644df8dce04c81d543a1b",
+      "prompt_version": "v1",
+      "risk_factors": [
+        "ad_marker:ad"
+      ],
+      "risk_score": 0.2,
+      "slot_id": "c94eeae8335b88730011886e",
+      "slot_key": "boilers-and-radiant-systems"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Finally understand your utility bills--no jargon, no stress.",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nFinally understand your utility bills--no jargon, no stress. | hero | app/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "2a21ba16a4afb7dea71c7f4c36e5905dbcf01c46c7d0cf7b64f5323307a9ed06",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "236a885fdee221c1ded6cab3",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "What this site covers",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWhat this site covers | what-this-site-covers | app/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "3163052ea59f92f1999de43f8d81fc464bb437ea2a97a359c8d0c9908d7a4642",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "c05e7eb32b6a49b4a0f1722e",
+      "slot_key": "what-this-site-covers"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Utilities Glossary",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utilities-glossary/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUtilities Glossary | hero | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "5d166fe0dcfd5bb7d97f3ae29725dad95c30964aff647fa043893eec065f539e",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "b99c99cccad8df1bcb6d6f8f",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Electricity Terms",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utilities-glossary/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nElectricity Terms | electricity-terms | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "6af07d75d1d1012f9a0dd716918afc0c50e213fed6e2ff5fc03fc36bdcc0c2a7",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "900b6b282391386a01fa8b41",
+      "slot_key": "electricity-terms"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "AFUE (Annual Fuel Utilization Efficiency)",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utilities-glossary/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nAFUE (Annual Fuel Utilization Efficiency) | afue-annual-fuel-utilization-efficiency | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "27620a97dc9ab06a5ded0a5f6889a449b04f9b0ef6b8605d51d09dbac5cf74a3",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "7a39dcc472b16cd51a9d0ff4",
+      "slot_key": "afue-annual-fuel-utilization-efficiency"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Amps (Amperes)",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utilities-glossary/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nAmps (Amperes) | amps-amperes | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "0c67f884be41dfad6b3960d5094f44478c48e6dfe82c8fbc84e19dc636247209",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "11341d4cc665a970f6f245ab",
+      "slot_key": "amps-amperes"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Utility Bills & Costs Explained: Your Complete Guide",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUtility Bills & Costs Explained: Your Complete Guide | hero | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "a78dbb87a930fe716a32e1297933b15c5e8ac1b8efc559ff9cdb31abcf994dbc",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "87ce6fb70195c60cf9565a5a",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "What are utility bills and what do they cover?",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWhat are utility bills and what do they cover? | what-are-utility-bills-and-what-do-they-cover | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "138dd28dc9fdd85975b4889b51f88c3fb70532d32f4b735aaefbe6888dfe98a2",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "313d06da4c4204aa5ae63bcd",
+      "slot_key": "what-are-utility-bills-and-what-do-they-cover"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Common components of utility bills",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nCommon components of utility bills | common-components-of-utility-bills | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "12c9d02f0776bdd2b5373d21924bb2c1331760f3f987702358b80f77b4f05bba",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "bad9c88b29a759e1fa1f6ff7",
+      "slot_key": "common-components-of-utility-bills"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Usage charges (variable costs)",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUsage charges (variable costs) | usage-charges-variable-costs | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "e6526a662483c20fec2735bf0e21ea670179e05df6dea98c55289e01dda41faa",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "054e8c866bedff1dfed5bcbf",
+      "slot_key": "usage-charges-variable-costs"
+    },
+    {
+      "anchor_index": 4,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Delivery or distribution charges",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nDelivery or distribution charges | delivery-or-distribution-charges | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "b25b32da0af17d13bb82a077b02cb6c3a6cf1f962e0e5504b135e0356dd54a4e",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "549aeefee5270e4b7896366a",
+      "slot_key": "delivery-or-distribution-charges"
+    },
+    {
+      "anchor_index": 5,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Fixed fees and customer charges",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nFixed fees and customer charges | fixed-fees-and-customer-charges | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "cd7d293713545eec0f194146d2a1d4437b95aec33eaa2ce8d5c72f7f534ec794",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "e7972eb79ce95ed7b662c1d7",
+      "slot_key": "fixed-fees-and-customer-charges"
+    },
+    {
+      "anchor_index": 6,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Taxes and surcharges",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/utility-bills-costs-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nTaxes and surcharges | taxes-and-surcharges | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "4f21dfebfe05fc6ca346de5d4d0b9b47f51231ac2a832c871266a6ac78dfa1a2",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "e7c8bc7e4ca18e4604f8a047",
+      "slot_key": "taxes-and-surcharges"
+    },
+    {
+      "anchor_index": 0,
+      "anchor_selector": "jsx:h1",
+      "anchor_text": "Water Service Explained: Your Complete Guide",
+      "insertion_mode": "HERO",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/water-explained/page.tsx",
+      "priority_level": 5,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nWater Service Explained: Your Complete Guide | hero | app/water-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "7465f3af5ee2a1ea24dd2e945863c99e8d345cf09efae9b40e4b3d774ca00fba",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "a0cd078ef39700da3d613e82",
+      "slot_key": "hero"
+    },
+    {
+      "anchor_index": 1,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "How water service works",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/water-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow water service works | how-water-service-works | app/water-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "9f65eccb07068af8494799a02403ba3ecdd438ab19f3ae16ffac188fd9ea8a64",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "63a868b128fa64e2bcdc168c",
+      "slot_key": "how-water-service-works"
+    },
+    {
+      "anchor_index": 2,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "How water is measured: gallons, cubic feet, and CCF",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/water-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow water is measured: gallons, cubic feet, and CCF | how-water-is-measured-gallons-cubic-feet-and-ccf | app/water-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "83d8bcc5e20d394258ddeab002de79b1349344efa558e50880439ba354edba8e",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "59d75f3c9354300019b2c762",
+      "slot_key": "how-water-is-measured-gallons-cubic-feet-and-ccf"
+    },
+    {
+      "anchor_index": 3,
+      "anchor_selector": "jsx:h2",
+      "anchor_text": "Understanding your water bill",
+      "insertion_mode": "INLINE",
+      "market": {
+        "country": "",
+        "locale": ""
+      },
+      "page_path": "app/water-explained/page.tsx",
+      "priority_level": 3,
+      "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUnderstanding your water bill | understanding-your-water-bill | app/water-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+      "prompt_hash": "6624ceb46dba61cd22f13dae247c6a1945cb82073ff30d200627886b3feed449",
+      "prompt_version": "v1",
+      "risk_factors": [],
+      "risk_score": 0.0,
+      "slot_id": "c59916529dd9ddb1c1221742",
+      "slot_key": "understanding-your-water-bill"
+    }
+  ]
+}

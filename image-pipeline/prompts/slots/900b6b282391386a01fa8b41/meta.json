@@ -1,0 +1,19 @@
+{
+  "anchor_index": 1,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Electricity Terms",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/utilities-glossary/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nElectricity Terms | electricity-terms | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "6af07d75d1d1012f9a0dd716918afc0c50e213fed6e2ff5fc03fc36bdcc0c2a7",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "900b6b282391386a01fa8b41",
+  "slot_key": "electricity-terms"
+}

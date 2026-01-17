@@ -1,0 +1,19 @@
+{
+  "anchor_index": 0,
+  "anchor_selector": "jsx:h1",
+  "anchor_text": "Utilities Glossary",
+  "insertion_mode": "HERO",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/utilities-glossary/page.tsx",
+  "priority_level": 5,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nUtilities Glossary | hero | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "5d166fe0dcfd5bb7d97f3ae29725dad95c30964aff647fa043893eec065f539e",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "b99c99cccad8df1bcb6d6f8f",
+  "slot_key": "hero"
+}

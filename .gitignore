@@ -24,6 +24,12 @@ yarn-error.log*
 # Env files
 .env
 .env.*
+!.env.example
+
+# Image pipeline
+/image-pipeline/generated/
+__pycache__/
+*.pyc
 
 # Misc
 .tmp/

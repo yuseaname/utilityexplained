@@ -1,0 +1,19 @@
+{
+  "anchor_index": 2,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "How electricity is measured: watts, kilowatts, and kilowatt-hours",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/electricity-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nHow electricity is measured: watts, kilowatts, and kilowatt-hours | how-electricity-is-measured-watts-kilowatts-and-kilowatt-hours | app/electricity-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "936d70550d9bd23eba4bc6c6f32db84948b87fe2bd8bb73ef541d52bacc0866d",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "ef20062e7ba8ea9e869357b2",
+  "slot_key": "how-electricity-is-measured-watts-kilowatts-and-kilowatt-hours"
+}

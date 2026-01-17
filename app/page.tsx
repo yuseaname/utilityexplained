@@ -37,15 +37,17 @@ export default function HomePage() {
             </div>
           </div>
           <div className="hero-card">
-            {/* Image source: local asset. */}
+            {/* Image source: pipeline-generated. */}
             <Image
-              src="/images/utility-paperwork.jpg"
-              alt="Person reviewing a utility bill"
-              width={520}
-              height={360}
+              src="/images/slots/236a885fdee221c1ded6cab3/image.webp"
+              alt="Finally understand your utility bills--no jargon, no stress."
+              width={1536}
+              height={1024}
               className="hero-image"
               sizes="(max-width: 768px) 100vw, 520px"
               priority
+              fetchPriority="high"
+              data-slot-id="236a885fdee221c1ded6cab3"
             />
             <h3>What this site covers</h3>
             <ul>

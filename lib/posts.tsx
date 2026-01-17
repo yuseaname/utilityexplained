@@ -26,17 +26,16 @@ const localHeroImages: Record<string, string> = {
 };
 
 const normalizePostImage = (post: Post): Post => {
-  if (!post.image?.src || !post.image.src.startsWith("http")) {
-    return post;
-  }
-
+  const generated = `/images/articles/${post.slug}/image.webp`;
   const fallback = localHeroImages[post.category] ?? "/images/utility-home.jpg";
+  const src = post.image?.src?.startsWith("/images/articles/") ? post.image.src : generated;
 
   return {
     ...post,
     image: {
       ...post.image,
-      src: fallback
+      src: src || fallback,
+      alt: post.image?.alt || post.title
     }
   };
 };

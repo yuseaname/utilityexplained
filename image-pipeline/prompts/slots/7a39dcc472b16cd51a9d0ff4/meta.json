@@ -1,0 +1,19 @@
+{
+  "anchor_index": 2,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "AFUE (Annual Fuel Utilization Efficiency)",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/utilities-glossary/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nAFUE (Annual Fuel Utilization Efficiency) | afue-annual-fuel-utilization-efficiency | app/utilities-glossary/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "27620a97dc9ab06a5ded0a5f6889a449b04f9b0ef6b8605d51d09dbac5cf74a3",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "7a39dcc472b16cd51a9d0ff4",
+  "slot_key": "afue-annual-fuel-utilization-efficiency"
+}

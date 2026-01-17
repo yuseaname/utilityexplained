@@ -1,0 +1,42 @@
+slot_id,page_path,anchor_text,anchor_selector,anchor_index,insertion_mode,slot_key,priority_level,risk_score,prompt_hash
+459c72fec1184e770c59ccec,app/about/page.tsx,About Utility Explained,jsx:h1,0,HERO,hero,5,0.0,e8f3c35bd4476184748d2a0a5d4ceeccc7ce529f60175502136652ab42aefa2b
+e1d1588004c984b540b8c22c,app/blog/[slug]/page.tsx,Frequently asked questions,jsx:h1,0,HERO,hero,5,0.0,c3add328d3177ad24d901f134b77231f3e7c47f33dab00e98c6b3a4393ad95df
+d19f0b785b47a1f73c3e6461,app/blog/page.tsx,Utility explainers and adulting guides,jsx:h1,0,HERO,hero,5,0.2,0b179bdb120544101474c3e5190f92e376ebf4e2d6d8afcb3f03b9ecc446b093
+5ace06f076805659dc8872b7,app/blog/page/[page]/page.tsx,Blog,jsx:h1,0,HERO,hero,5,0.0,3d16ce476f6ffdb3e1d8ce0e9ed83ae1180f3cd2231e4af86f945d72cb0c5f89
+6e7d1ded6f71f4ad2faff3f0,app/contact/page.tsx,Contact,jsx:h1,0,HERO,hero,5,0.0,d19fe8dd0c5e0a1f979502978362539d279582d1ececc897abfc6cd43b35cfd3
+929597bfc8926e58a2b97cef,app/disclaimer/page.tsx,Disclaimer,jsx:h1,0,HERO,hero,5,0.0,661397773dbdbdfab7ce5ddecc8aa68ed3cfba419eb439910dbd6938389bbb97
+c4b7cdc06ad74fbf2d969102,app/electricity-explained/page.tsx,Electricity Explained: Your Complete Guide,jsx:h1,0,HERO,hero,5,0.0,6a1bc5be4eedafdb551ab8919013b3d55143483ab1448b33eda7aa9f10daee95
+fcd5226f3e6c4dd2354777a1,app/electricity-explained/page.tsx,What is electricity and how does it reach your home?,jsx:h2,1,INLINE,what-is-electricity-and-how-does-it-reach-your-home,3,0.0,3be89d00113f7ff419b248b803e63a00279e65d9b14c08b5321395d34ba35eac
+ef20062e7ba8ea9e869357b2,app/electricity-explained/page.tsx,"How electricity is measured: watts, kilowatts, and kilowatt-hours",jsx:h2,2,INLINE,how-electricity-is-measured-watts-kilowatts-and-kilowatt-hours,3,0.0,936d70550d9bd23eba4bc6c6f32db84948b87fe2bd8bb73ef541d52bacc0866d
+28ec758d5f555ff5430adbc4,app/electricity-explained/page.tsx,Understanding your electric bill,jsx:h2,3,INLINE,understanding-your-electric-bill,3,0.0,3543dc3b5529fd0cec62288472ce1586af0f6b8198109898b565383308ca8e03
+796b5267e17f6e655e871b95,app/electricity-explained/page.tsx,Energy charge (supply charge),jsx:h2,4,INLINE,energy-charge-supply-charge,3,0.0,f61251a415d7faae52c5de87eb03049cbed346592d57203fb3857566f6616e7c
+01a8e8e113c3baa2c365dea7,app/electricity-explained/page.tsx,Delivery charge (distribution charge),jsx:h2,5,INLINE,delivery-charge-distribution-charge,3,0.0,cdf68d8ba6d642c00564a1a0f01b6d71a9705b3abf880c3f0da8aff48e052723
+7b628291d6766baad6cdb446,app/electricity-explained/page.tsx,Fixed fees and other charges,jsx:h2,6,INLINE,fixed-fees-and-other-charges,3,0.0,33b06636bf7a7ecd911cc2da48cb613d22c6ad747675a2de7ab9ec36b3117a1f
+4b3dbc8b048eb6e59ae062b9,app/gas-explained/page.tsx,Natural Gas Explained: Your Complete Guide,jsx:h1,0,HERO,hero,5,0.0,196802f2dc00af3cb89b5c9d02beea2ba540e7dbaa5dba3ac333160c553a7ce2
+249dadbf0a0f03420fc66fb1,app/gas-explained/page.tsx,What is natural gas and how does it reach your home?,jsx:h2,1,INLINE,what-is-natural-gas-and-how-does-it-reach-your-home,3,0.0,1448dba9d5203fcf46b442ffac814e6054aced63b9694da3d2929a3cf3e7b486
+05fb06fde2e24b9fc3d1604f,app/gas-explained/page.tsx,"How natural gas is measured: therms, BTUs, and CCF",jsx:h2,2,INLINE,how-natural-gas-is-measured-therms-btus-and-ccf,3,0.0,167ee25592153981ef912402fa6e2b89864d3890fa18dc4638c034f5f10b242c
+ea08f4218ef3c264d0e75f26,app/gas-explained/page.tsx,Understanding your gas bill,jsx:h2,3,INLINE,understanding-your-gas-bill,3,0.0,8ab93566fa5f3613396755a4b59495a15ddbc7cfde59dbe41ae19eb113e268ee
+5e71d9e58a13b37f73213657,app/heating-cooling-explained/page.tsx,Heating & Cooling Explained: Your Complete Guide,jsx:h1,0,HERO,hero,5,0.0,bc3a2309f00440f414dce511b5a1f909534532e98c28aaf6f30173211e044f3f
+032cabbf4b2b96728e920091,app/heating-cooling-explained/page.tsx,How heating and cooling systems work,jsx:h2,1,INLINE,how-heating-and-cooling-systems-work,3,0.0,81ee7cf70e77050894f1ba26e4690cae74ca3ebe2023e29008163c0be66d1031
+c78f19815dc65494d1d045d5,app/heating-cooling-explained/page.tsx,Common heating system types,jsx:h2,2,INLINE,common-heating-system-types,3,0.0,4ee06ae46c2e137626a159b4aed2c6ab04b56bab27d5d96a911ae9f20ada7014
+41c49ce4cbe5b37e7a6c8cb9,app/heating-cooling-explained/page.tsx,Gas furnaces,jsx:h2,3,INLINE,gas-furnaces,3,0.0,75b78b5b3effbce79432109fac8bade8a79d811c6bafc9da795317c5ad3287c1
+dda95d32f4bdc626a56ea730,app/heating-cooling-explained/page.tsx,Electric resistance heat,jsx:h2,4,INLINE,electric-resistance-heat,3,0.0,6b0759515958ac7d64dc98693a4d0aeca1968dd08413dddf33027373b18f4402
+8c0b36f98f91cc82c968d448,app/heating-cooling-explained/page.tsx,Heat pumps,jsx:h2,5,INLINE,heat-pumps,3,0.0,7b9f4ac617ae59ff5ad15460311ef4443bf9b38827eae4556d9f8804e86612ac
+c94eeae8335b88730011886e,app/heating-cooling-explained/page.tsx,Boilers and radiant systems,jsx:h2,6,INLINE,boilers-and-radiant-systems,3,0.2,fb13af0044299ae93b7a371728667a300fcaa0f9536644df8dce04c81d543a1b
+236a885fdee221c1ded6cab3,app/page.tsx,"Finally understand your utility bills--no jargon, no stress.",jsx:h1,0,HERO,hero,5,0.0,2a21ba16a4afb7dea71c7f4c36e5905dbcf01c46c7d0cf7b64f5323307a9ed06
+c05e7eb32b6a49b4a0f1722e,app/page.tsx,What this site covers,jsx:h2,1,INLINE,what-this-site-covers,3,0.0,3163052ea59f92f1999de43f8d81fc464bb437ea2a97a359c8d0c9908d7a4642
+b99c99cccad8df1bcb6d6f8f,app/utilities-glossary/page.tsx,Utilities Glossary,jsx:h1,0,HERO,hero,5,0.0,5d166fe0dcfd5bb7d97f3ae29725dad95c30964aff647fa043893eec065f539e
+900b6b282391386a01fa8b41,app/utilities-glossary/page.tsx,Electricity Terms,jsx:h2,1,INLINE,electricity-terms,3,0.0,6af07d75d1d1012f9a0dd716918afc0c50e213fed6e2ff5fc03fc36bdcc0c2a7
+7a39dcc472b16cd51a9d0ff4,app/utilities-glossary/page.tsx,AFUE (Annual Fuel Utilization Efficiency),jsx:h2,2,INLINE,afue-annual-fuel-utilization-efficiency,3,0.0,27620a97dc9ab06a5ded0a5f6889a449b04f9b0ef6b8605d51d09dbac5cf74a3
+11341d4cc665a970f6f245ab,app/utilities-glossary/page.tsx,Amps (Amperes),jsx:h2,3,INLINE,amps-amperes,3,0.0,0c67f884be41dfad6b3960d5094f44478c48e6dfe82c8fbc84e19dc636247209
+87ce6fb70195c60cf9565a5a,app/utility-bills-costs-explained/page.tsx,Utility Bills & Costs Explained: Your Complete Guide,jsx:h1,0,HERO,hero,5,0.0,a78dbb87a930fe716a32e1297933b15c5e8ac1b8efc559ff9cdb31abcf994dbc
+313d06da4c4204aa5ae63bcd,app/utility-bills-costs-explained/page.tsx,What are utility bills and what do they cover?,jsx:h2,1,INLINE,what-are-utility-bills-and-what-do-they-cover,3,0.0,138dd28dc9fdd85975b4889b51f88c3fb70532d32f4b735aaefbe6888dfe98a2
+bad9c88b29a759e1fa1f6ff7,app/utility-bills-costs-explained/page.tsx,Common components of utility bills,jsx:h2,2,INLINE,common-components-of-utility-bills,3,0.0,12c9d02f0776bdd2b5373d21924bb2c1331760f3f987702358b80f77b4f05bba
+054e8c866bedff1dfed5bcbf,app/utility-bills-costs-explained/page.tsx,Usage charges (variable costs),jsx:h2,3,INLINE,usage-charges-variable-costs,3,0.0,e6526a662483c20fec2735bf0e21ea670179e05df6dea98c55289e01dda41faa
+549aeefee5270e4b7896366a,app/utility-bills-costs-explained/page.tsx,Delivery or distribution charges,jsx:h2,4,INLINE,delivery-or-distribution-charges,3,0.0,b25b32da0af17d13bb82a077b02cb6c3a6cf1f962e0e5504b135e0356dd54a4e
+e7972eb79ce95ed7b662c1d7,app/utility-bills-costs-explained/page.tsx,Fixed fees and customer charges,jsx:h2,5,INLINE,fixed-fees-and-customer-charges,3,0.0,cd7d293713545eec0f194146d2a1d4437b95aec33eaa2ce8d5c72f7f534ec794
+e7c8bc7e4ca18e4604f8a047,app/utility-bills-costs-explained/page.tsx,Taxes and surcharges,jsx:h2,6,INLINE,taxes-and-surcharges,3,0.0,4f21dfebfe05fc6ca346de5d4d0b9b47f51231ac2a832c871266a6ac78dfa1a2
+a0cd078ef39700da3d613e82,app/water-explained/page.tsx,Water Service Explained: Your Complete Guide,jsx:h1,0,HERO,hero,5,0.0,7465f3af5ee2a1ea24dd2e945863c99e8d345cf09efae9b40e4b3d774ca00fba
+63a868b128fa64e2bcdc168c,app/water-explained/page.tsx,How water service works,jsx:h2,1,INLINE,how-water-service-works,3,0.0,9f65eccb07068af8494799a02403ba3ecdd438ab19f3ae16ffac188fd9ea8a64
+59d75f3c9354300019b2c762,app/water-explained/page.tsx,"How water is measured: gallons, cubic feet, and CCF",jsx:h2,2,INLINE,how-water-is-measured-gallons-cubic-feet-and-ccf,3,0.0,83d8bcc5e20d394258ddeab002de79b1349344efa558e50880439ba354edba8e
+c59916529dd9ddb1c1221742,app/water-explained/page.tsx,Understanding your water bill,jsx:h2,3,INLINE,understanding-your-water-bill,3,0.0,6624ceb46dba61cd22f13dae247c6a1945cb82073ff30d200627886b3feed449

@@ -1,0 +1,19 @@
+{
+  "anchor_index": 2,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Common heating system types",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/heating-cooling-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nCommon heating system types | common-heating-system-types | app/heating-cooling-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "4ee06ae46c2e137626a159b4aed2c6ab04b56bab27d5d96a911ae9f20ada7014",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "c78f19815dc65494d1d045d5",
+  "slot_key": "common-heating-system-types"
+}

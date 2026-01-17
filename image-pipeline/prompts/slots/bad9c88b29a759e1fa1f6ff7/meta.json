@@ -1,0 +1,19 @@
+{
+  "anchor_index": 2,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Common components of utility bills",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/utility-bills-costs-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nCommon components of utility bills | common-components-of-utility-bills | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "12c9d02f0776bdd2b5373d21924bb2c1331760f3f987702358b80f77b4f05bba",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "bad9c88b29a759e1fa1f6ff7",
+  "slot_key": "common-components-of-utility-bills"
+}

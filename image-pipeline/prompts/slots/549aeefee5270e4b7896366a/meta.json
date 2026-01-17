@@ -1,0 +1,19 @@
+{
+  "anchor_index": 4,
+  "anchor_selector": "jsx:h2",
+  "anchor_text": "Delivery or distribution charges",
+  "insertion_mode": "INLINE",
+  "market": {
+    "country": "",
+    "locale": ""
+  },
+  "page_path": "app/utility-bills-costs-explained/page.tsx",
+  "priority_level": 3,
+  "prompt": "Photorealistic scene in a real environment, grounded in the topic:\nDelivery or distribution charges | delivery-or-distribution-charges | app/utility-bills-costs-explained/page.tsx\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across slots.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing unless the slot is explicitly vertical.\n",
+  "prompt_hash": "b25b32da0af17d13bb82a077b02cb6c3a6cf1f962e0e5504b135e0356dd54a4e",
+  "prompt_version": "v1",
+  "risk_factors": [],
+  "risk_score": 0.0,
+  "slot_id": "549aeefee5270e4b7896366a",
+  "slot_key": "delivery-or-distribution-charges"
+}
