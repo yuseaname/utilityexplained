@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Image from "next/image";
 import BlogSearch from "@/components/BlogSearch";
 import Pagination from "@/components/Pagination";
@@ -42,20 +41,8 @@ export default function BlogPage() {
           Search by question or browse by topic. Every guide is written to be clear,
           neutral, and helpful for first-time renters and homeowners.
         </p>
-        <div className="category-row">
-          {categories.map((category) => (
-            <Link
-              key={category}
-              href={`/blog/category/${encodeURIComponent(category)}`}
-              className="category-badge"
-              style={{ textDecoration: "none" }}
-            >
-              {category}
-            </Link>
-          ))}
-        </div>
       </section>
-      <BlogSearch posts={firstPage} />
+      <BlogSearch initialPosts={firstPage} allPosts={posts} categories={categories} />
       <Pagination basePath="/blog/page" current={1} totalPages={totalPages} />
     </div>
   );

@@ -1,616 +1,646 @@
 {
+  "count": 64,
   "generated": true,
-  "count": 61,
   "items": [
     {
-      "slug": "ac-running-but-not-cooling",
-      "title": "AC Running but Not Cooling? 13 Causes and Safe Fixes",
-      "description": "If your air conditioner is running but the house is still warm, this guide walks you through the most common causes, safe checks, and when to call for service.",
       "category": "Heating & Cooling",
+      "description": "If your air conditioner is running but the house is still warm, this guide walks you through the most common causes, safe checks, and when to call for service.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nAC Running but Not Cooling? 13 Causes and Safe Fixes \u2014 If your air conditioner is running but the house is still warm, this guide walks you through the most common causes, safe checks, and when to call for service.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "67db9681acbf97dadd0ab0c447e5fba2454546dece4a6afad21873a747471000",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26.tsx"
+      "slug": "ac-running-but-not-cooling",
+      "source": "lib/generatedPosts/heatingCoolingPillarAcNotCoolingPosts_2025_12_26.tsx",
+      "title": "AC Running but Not Cooling? 13 Causes and Safe Fixes"
     },
     {
-      "slug": "ac-short-cycling-causes-fixes",
-      "title": "AC Short Cycling: Why It Turns On and Off Too Fast",
-      "description": "Short cycling makes an AC run in quick bursts, wasting energy and lowering comfort. Learn the common causes and what it means.",
       "category": "Heating & Cooling",
+      "description": "Short cycling makes an AC run in quick bursts, wasting energy and lowering comfort. Learn the common causes and what it means.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nAC Short Cycling: Why It Turns On and Off Too Fast \u2014 Short cycling makes an AC run in quick bursts, wasting energy and lowering comfort. Learn the common causes and what it means.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "621c37ec053e323a4533e5b18f0e07e4075e14515da7a1fe99d85385de4c5ce8",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx"
+      "slug": "ac-short-cycling-causes-fixes",
+      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx",
+      "title": "AC Short Cycling: Why It Turns On and Off Too Fast"
     },
     {
-      "slug": "afue-vs-seer-vs-hspf-vs-cop",
-      "title": "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English",
-      "description": "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges.",
       "category": "Heating & Cooling",
+      "description": "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nAFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English \u2014 HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "4dcbd8d49884dfea229c0567f682e6e20cfe7566fb58f404b33017a2093293b9",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx"
+      "slug": "afue-vs-seer-vs-hspf-vs-cop",
+      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
     },
     {
-      "slug": "aux-heat-vs-emergency-heat-meaning",
-      "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)",
-      "description": "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode.",
       "category": "Heating & Cooling",
+      "description": "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nAux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English) \u2014 If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "428c3094167e66a2daa9cb57984492ff0a7fcc9eb6a596c2b4c41c2598af8d46",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx"
+      "slug": "aux-heat-vs-emergency-heat-meaning",
+      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)"
     },
     {
-      "slug": "average-water-usage-per-person",
-      "title": "Average Water Usage Per Person: A Practical Range",
-      "description": "See typical water usage ranges and what affects your household total.",
       "category": "Water",
+      "description": "See typical water usage ranges and what affects your household total.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nAverage Water Usage Per Person: A Practical Range \u2014 See typical water usage ranges and what affects your household total.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "422dfea3e1a6d521ae2dc8c5c7fc131c169e46607f00517cf4bc7f07febcfda1",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "average-water-usage-per-person",
+      "source": "lib/posts.tsx",
+      "title": "Average Water Usage Per Person: A Practical Range"
     },
     {
-      "slug": "budget-billing-level-pay-explained",
-      "title": "Budget Billing Explained: How \\",
-      "description": "Budget billing (level pay / average billing) can smooth seasonal utility costs. Learn how it's calculated, what a true-up is, and what to watch so you're not surprised later.",
       "category": "Budgeting",
+      "description": "Budget billing (level pay / average billing) can smooth seasonal utility costs. Learn how it's calculated, what a true-up is, and what to watch so you're not surprised later.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nBudget Billing Explained: How \\ \u2014 Budget billing (level pay / average billing) can smooth seasonal utility costs. Learn how it's calculated, what a true-up is, and what to watch so you're not surprised later.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "59c99f0f111b3706ee1fd692f4dde42a471e3ea47a7aa63068c5bdba46382d75",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx"
+      "slug": "budget-billing-level-pay-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx",
+      "title": "Budget Billing Explained: How \\"
     },
     {
-      "slug": "delivery-charge-vs-supply-charge-utility-bill",
-      "title": "Delivery Charge vs Supply Charge on Utility Bills (What Each One Covers)",
-      "description": "Why are there two big charges on your utility bill? This guide explains delivery vs supply in plain English and how to compare changes.",
       "category": "Budgeting",
+      "description": "Why are there two big charges on your utility bill? This guide explains delivery vs supply in plain English and how to compare changes.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nDelivery Charge vs Supply Charge on Utility Bills (What Each One Covers) \u2014 Why are there two big charges on your utility bill? This guide explains delivery vs supply in plain English and how to compare changes.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "4fc5ce87c58737df541d0e3bd19a1d6af96b3482862bcd308fd21ad5f27999a1",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx"
+      "slug": "delivery-charge-vs-supply-charge-utility-bill",
+      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx",
+      "title": "Delivery Charge vs Supply Charge on Utility Bills (What Each One Covers)"
     },
     {
-      "slug": "demand-charge-electric-bill-explained",
-      "title": "Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)",
-      "description": "A demand charge is based on your highest short-term usage, not your monthly total. Learn how it is measured and where it appears on your bill.",
       "category": "Electricity",
+      "description": "A demand charge is based on your highest short-term usage, not your monthly total. Learn how it is measured and where it appears on your bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nDemand Charges on Electric Bills Explained (Why Your Peak Usage Matters) \u2014 A demand charge is based on your highest short-term usage, not your monthly total. Learn how it is measured and where it appears on your bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "b6b9b88a9d8b7337aa79288ea5496ede1802a1f15e58f21bb39fb81610d4d664",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx"
+      "slug": "demand-charge-electric-bill-explained",
+      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx",
+      "title": "Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)"
     },
     {
-      "slug": "drought-surcharge-on-water-bill-explained",
-      "title": "Drought Surcharge on a Water Bill Explained: What It Is, When It Appears, and How It Is Calculated",
-      "description": "Drought surcharges show up during water shortages to fund supply and conservation programs. Learn how they are calculated and how to reduce the impact.",
       "category": "Water",
+      "description": "Drought surcharges show up during water shortages to fund supply and conservation programs. Learn how they are calculated and how to reduce the impact.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nDrought Surcharge on a Water Bill Explained: What It Is, When It Appears, and How It Is Calculated \u2014 Drought surcharges show up during water shortages to fund supply and conservation programs. Learn how they are calculated and how to reduce the impact.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "8da3976b9cf1094d7516673249bd8ca3914365bbdc8900627547d0812d6e903d",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx"
+      "slug": "drought-surcharge-on-water-bill-explained",
+      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx",
+      "title": "Drought Surcharge on a Water Bill Explained: What It Is, When It Appears, and How It Is Calculated"
     },
     {
-      "slug": "duct-leaks-symptoms-hvac-running-all-day",
-      "title": "Duct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb)",
-      "description": "Uneven temperatures, weak airflow, and long HVAC runtime often trace back to duct problems. Learn the signs of duct leaks, simple checks, and why leaks raise heating and cooling costs.",
       "category": "Heating & Cooling",
+      "description": "Uneven temperatures, weak airflow, and long HVAC runtime often trace back to duct problems. Learn the signs of duct leaks, simple checks, and why leaks raise heating and cooling costs.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nDuct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb) \u2014 Uneven temperatures, weak airflow, and long HVAC runtime often trace back to duct problems. Learn the signs of duct leaks, simple checks, and why leaks raise heating and cooling costs.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "d5dbf55ca4af84908f484a5267d186f961b607bb4234c04ca05788537325e7ef",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx"
+      "slug": "duct-leaks-symptoms-hvac-running-all-day",
+      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "Duct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb)"
     },
     {
-      "slug": "ductless-mini-split-vs-central-air",
-      "title": "Ductless Mini-Split vs Central Air: Cost, Efficiency, and Which One Fits Your Home",
-      "description": "Trying to choose between ductless mini-splits and central air? This guide compares upfront cost, efficiency, comfort, and real-world use cases in plain English.",
       "category": "Heating & Cooling",
+      "description": "Trying to choose between ductless mini-splits and central air? This guide compares upfront cost, efficiency, comfort, and real-world use cases in plain English.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nDuctless Mini-Split vs Central Air: Cost, Efficiency, and Which One Fits Your Home \u2014 Trying to choose between ductless mini-splits and central air? This guide compares upfront cost, efficiency, comfort, and real-world use cases in plain English.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "113db39aa1dd6ddc09c0adab3aa488ce21e97215c65677a87bfa6f71a194813c",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx"
+      "slug": "ductless-mini-split-vs-central-air",
+      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "Ductless Mini-Split vs Central Air: Cost, Efficiency, and Which One Fits Your Home"
     },
     {
-      "slug": "electric-bill-breakdown-understanding-line-items",
-      "title": "Electric Bill Breakdown: Every Charge Explained",
-      "description": "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for.",
       "category": "Electricity",
+      "description": "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nElectric Bill Breakdown: Every Charge Explained \u2014 Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "7f5e598cef72133f1aee65ed9b3afc2013bb128e80f99d0571da22d54b8e0b7e",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "electric-bill-breakdown-understanding-line-items",
+      "source": "lib/posts.tsx",
+      "title": "Electric Bill Breakdown: Every Charge Explained"
     },
     {
-      "slug": "estimated-utility-bill-explained",
-      "title": "Estimated Utility Bill Explained: What \\",
-      "description": "If your bill says the meter read was estimated, this guide explains why it happens, how the correction works, and how to sanity-check the total without panic.",
       "category": "Budgeting",
+      "description": "If your bill says the meter read was estimated, this guide explains why it happens, how the correction works, and how to sanity-check the total without panic.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nEstimated Utility Bill Explained: What \\ \u2014 If your bill says the meter read was estimated, this guide explains why it happens, how the correction works, and how to sanity-check the total without panic.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "9e82bc3fd694c674551124faa958ffed7fb829b626b6a8592590cafc06e2a8d3",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx"
+      "slug": "estimated-utility-bill-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx",
+      "title": "Estimated Utility Bill Explained: What \\"
     },
     {
-      "slug": "fixed-vs-variable-rate-electricity-plan",
-      "title": "Fixed vs. Variable Rate Electricity Plans: Which Saves More?",
-      "description": "Confused by electricity plans? We compare Fixed vs. Variable rates to help you avoid price spikes and choose the cheapest option for your home.",
       "category": "Electricity",
+      "description": "Confused by electricity plans? We compare Fixed vs. Variable rates to help you avoid price spikes and choose the cheapest option for your home.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nFixed vs. Variable Rate Electricity Plans: Which Saves More? \u2014 Confused by electricity plans? We compare Fixed vs. Variable rates to help you avoid price spikes and choose the cheapest option for your home.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "7377e699d278c0f30c9f8e585e7d299afb3213aa324a86daac33fad186016d80",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "fixed-vs-variable-rate-electricity-plan",
+      "source": "lib/posts.tsx",
+      "title": "Fixed vs. Variable Rate Electricity Plans: Which Saves More?"
     },
     {
-      "slug": "fuel-adjustment-charge-on-utility-bill-explained",
-      "title": "What Is a Fuel Adjustment Charge on a Utility Bill? (PGA/FCA Explained)",
-      "description": "Fuel adjustment charges can change every month and make your bill feel unpredictable. Learn what they are, why they move, and how to sanity-check them.",
       "category": "Budgeting",
+      "description": "Fuel adjustment charges can change every month and make your bill feel unpredictable. Learn what they are, why they move, and how to sanity-check them.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhat Is a Fuel Adjustment Charge on a Utility Bill? (PGA/FCA Explained) \u2014 Fuel adjustment charges can change every month and make your bill feel unpredictable. Learn what they are, why they move, and how to sanity-check them.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "c40c0c7984c4a9d6efd969f4e0d9e399c1598be089cd4e546f2071aa9a41e8d8",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx"
+      "slug": "fuel-adjustment-charge-on-utility-bill-explained",
+      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx",
+      "title": "What Is a Fuel Adjustment Charge on a Utility Bill? (PGA/FCA Explained)"
     },
     {
-      "slug": "gas-customer-charge-explained",
-      "title": "Gas Customer Charge Explained (Why You Pay Even With Low Usage)",
-      "description": "That monthly customer or basic service charge is normal. Learn what it covers and how it affects your total bill.",
       "category": "Gas",
+      "description": "That monthly customer or basic service charge is normal. Learn what it covers and how it affects your total bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nGas Customer Charge Explained (Why You Pay Even With Low Usage) \u2014 That monthly customer or basic service charge is normal. Learn what it covers and how it affects your total bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "94736638eb3cbdba1a51bfac2acb8ee94b6709d940521e46eae492cd0a5ee25f",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx"
+      "slug": "gas-customer-charge-explained",
+      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx",
+      "title": "Gas Customer Charge Explained (Why You Pay Even With Low Usage)"
     },
     {
-      "slug": "gas-delivery-charge-vs-supply-charge",
-      "title": "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For",
-      "description": "Gas bills usually include supply (the gas) and delivery (the pipes and service). Here's what each covers, why they change, and what to check on your statement.",
       "category": "Gas",
+      "description": "Gas bills usually include supply (the gas) and delivery (the pipes and service). Here's what each covers, why they change, and what to check on your statement.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nGas Delivery Charge vs Supply Charge: What You're Actually Paying For \u2014 Gas bills usually include supply (the gas) and delivery (the pipes and service). Here's what each covers, why they change, and what to check on your statement.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "14e7f6d4b6053705f35fd91d6ed4cb1d9a5fc5beef75a95b24a77f2a26a9dedb",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx"
+      "slug": "gas-delivery-charge-vs-supply-charge",
+      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx",
+      "title": "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For"
     },
     {
-      "slug": "gas-vs-electric-heating-cost-comparison",
-      "title": "Gas vs. Electric Heating: Cost Comparison for Real Homes",
-      "description": "Compare gas and electric heating costs, efficiency, and what matters on your bill.",
       "category": "Comparisons",
+      "description": "Compare gas and electric heating costs, efficiency, and what matters on your bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nGas vs. Electric Heating: Cost Comparison for Real Homes \u2014 Compare gas and electric heating costs, efficiency, and what matters on your bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "1bd0c2776ab9a1d369d9f391db421a3022638a17c4eca82d9a3fb1f3e199942b",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "gas-vs-electric-heating-cost-comparison",
+      "source": "lib/posts.tsx",
+      "title": "Gas vs. Electric Heating: Cost Comparison for Real Homes"
     },
     {
-      "slug": "heat-pump-running-all-day-in-winter",
-      "title": "Heat Pump Running All Day in Winter? What Is Normal vs a Problem",
-      "description": "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check.",
       "category": "Heating & Cooling",
+      "description": "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHeat Pump Running All Day in Winter? What Is Normal vs a Problem \u2014 Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "e6f98d2e3ddce9614f27dc3c70e961640117955dce82d69e1db4dc8698258220",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx"
+      "slug": "heat-pump-running-all-day-in-winter",
+      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx",
+      "title": "Heat Pump Running All Day in Winter? What Is Normal vs a Problem"
     },
     {
-      "slug": "how-do-smart-meters-work",
-      "title": "How Do Smart Meters Work? (And Should You Trust Them?)",
-      "description": "Smart meters are replacing analog dials everywhere. Learn how they measure usage, if they are accurate, and the truth about privacy concerns.",
       "category": "Electricity",
+      "description": "Smart meters are replacing analog dials everywhere. Learn how they measure usage, if they are accurate, and the truth about privacy concerns.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow Do Smart Meters Work? (And Should You Trust Them?) \u2014 Smart meters are replacing analog dials everywhere. Learn how they measure usage, if they are accurate, and the truth about privacy concerns.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "05727d1b661ed6fee4c919b2e4c2d6ab7c3dd408c9e5591ceba14cbe2838bfff",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx"
+      "slug": "how-do-smart-meters-work",
+      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx",
+      "title": "How Do Smart Meters Work? (And Should You Trust Them?)"
     },
     {
-      "slug": "how-sewer-charges-work-on-your-water-bill",
-      "title": "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)",
-      "description": "Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check.",
       "category": "Water",
+      "description": "Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water) \u2014 Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "e3b3a20cf5b2313fad0aa04a7d66487c9570d39f03d21bc2d42204170effd445",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx"
+      "slug": "how-sewer-charges-work-on-your-water-bill",
+      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx",
+      "title": "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)"
     },
     {
-      "slug": "how-to-budget-for-utilities-in-your-first-apartment",
-      "title": "How to Budget for Utilities in Your First Apartment",
-      "description": "A simple budgeting guide for electricity, gas, water, and internet in your first place.",
       "category": "Budgeting",
+      "description": "A simple budgeting guide for electricity, gas, water, and internet in your first place.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Budget for Utilities in Your First Apartment \u2014 A simple budgeting guide for electricity, gas, water, and internet in your first place.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "dfd0e6912916e423f6fdfff8a72491052d32d6032a24ea0e2e0a699f22aef78c",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "how-to-budget-for-utilities-in-your-first-apartment",
+      "source": "lib/posts.tsx",
+      "title": "How to Budget for Utilities in Your First Apartment"
     },
     {
-      "slug": "how-to-lower-electric-bill-without-solar",
-      "title": "How to Lower Your Electric Bill Without Solar Panels (12 Proven Methods)",
-      "description": "You do not need solar to save money. Discover 12 proven, low-cost ways to reduce your electricity bill starting today.",
       "category": "Electricity",
+      "description": "You do not need solar to save money. Discover 12 proven, low-cost ways to reduce your electricity bill starting today.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Lower Your Electric Bill Without Solar Panels (12 Proven Methods) \u2014 You do not need solar to save money. Discover 12 proven, low-cost ways to reduce your electricity bill starting today.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "f33367a5b46dfce441f91e9458d0788f7fe0cc89f682f06ae51361c11dc2c404",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx"
+      "slug": "how-to-lower-electric-bill-without-solar",
+      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx",
+      "title": "How to Lower Your Electric Bill Without Solar Panels (12 Proven Methods)"
     },
     {
-      "slug": "how-to-read-a-water-meter",
-      "title": "How to Read a Water Meter (and Know If Its Accurate)",
-      "description": "A step-by-step guide to reading your home water meter and checking for leaks.",
       "category": "Water",
+      "description": "A step-by-step guide to reading your home water meter and checking for leaks.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Read a Water Meter (and Know If Its Accurate) \u2014 A step-by-step guide to reading your home water meter and checking for leaks.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "b8f980cc85057786be4e9feaa17851e9427a750e01d980cdf494ed47f13b1c09",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "how-to-read-a-water-meter",
+      "source": "lib/posts.tsx",
+      "title": "How to Read a Water Meter (and Know If Its Accurate)"
     },
     {
-      "slug": "how-to-read-electric-meter",
-      "title": "How to Read an Electric Meter (Dial & Digital Guide)",
-      "description": "Confused by the dials? Learn how to read any electric meter (analog or digital) to verify your bill and spot errors instantly.",
       "category": "Electricity",
+      "description": "Confused by the dials? Learn how to read any electric meter (analog or digital) to verify your bill and spot errors instantly.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Read an Electric Meter (Dial & Digital Guide) \u2014 Confused by the dials? Learn how to read any electric meter (analog or digital) to verify your bill and spot errors instantly.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "70e2576d0a4b039606b806805634fff1bdb00a64bb9929fdad919d9ed89970f9",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "how-to-read-electric-meter",
+      "source": "lib/posts.tsx",
+      "title": "How to Read an Electric Meter (Dial & Digital Guide)"
     },
     {
-      "slug": "how-to-read-gas-meter",
-      "title": "How to Read a Gas Meter (Dial and Digital, Step by Step)",
-      "description": "Reading a gas meter is easier than it looks. Learn how to read dial and digital meters, calculate usage, and match it to your bill.",
       "category": "Gas",
+      "description": "Reading a gas meter is easier than it looks. Learn how to read dial and digital meters, calculate usage, and match it to your bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Read a Gas Meter (Dial and Digital, Step by Step) \u2014 Reading a gas meter is easier than it looks. Learn how to read dial and digital meters, calculate usage, and match it to your bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "3c20b4db3a7e61e75e59b204030b35c8f4a0b398bf9fbe66cb2d46c7697c1ba0",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx"
+      "slug": "how-to-read-gas-meter",
+      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx",
+      "title": "How to Read a Gas Meter (Dial and Digital, Step by Step)"
     },
     {
-      "slug": "how-to-read-your-gas-bill-therms-explained",
-      "title": "How to Read Your Gas Bill: Therms Explained",
-      "description": "Decode therms, delivery charges, and seasonal usage on your natural gas bill.",
       "category": "Gas",
+      "description": "Decode therms, delivery charges, and seasonal usage on your natural gas bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow to Read Your Gas Bill: Therms Explained \u2014 Decode therms, delivery charges, and seasonal usage on your natural gas bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "3e432cdd8b72b8fc729d9b255a41171734c05ee70a5395738a0e6a8cae477218",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "how-to-read-your-gas-bill-therms-explained",
+      "source": "lib/posts.tsx",
+      "title": "How to Read Your Gas Bill: Therms Explained"
     },
     {
-      "slug": "is-your-toilet-running-leak-test",
-      "title": "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)",
-      "description": "Running toilets are one of the most common hidden causes of high water bills. Here's how to test for a leak and what it usually means.",
+      "category": "Budgeting",
+      "description": "A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense.",
+      "prompt": "Photorealistic scene in a real environment that represents the article topic:\nHow Utility Rates, Fees, and Usage Work Together on Your Bill - A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
+      "prompt_hash": "def5e253aaf90fe5bcc15b792fa14a12275f78fc2530e5839cb5d0502169617f",
+      "prompt_version": "featured-v1",
+      "slug": "how-utility-rates-fees-usage-work-together",
+      "source": "lib/generatedPosts/utilityBillsPillarRatesFeesUsageBridgePosts_2026_01_15.tsx",
+      "title": "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+    },
+    {
       "category": "Water",
+      "description": "Running toilets are one of the most common hidden causes of high water bills. Here's how to test for a leak and what it usually means.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nIs Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill) \u2014 Running toilets are one of the most common hidden causes of high water bills. Here's how to test for a leak and what it usually means.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "f4b09a8c9cb76a987f7635832de3f80b45d171e319c99bf16134f40a5c043182",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx"
+      "slug": "is-your-toilet-running-leak-test",
+      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx",
+      "title": "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
     },
     {
-      "slug": "mcf-vs-ccf-vs-therms-on-gas-bill",
-      "title": "MCF vs CCF vs Therms: What Those Units Mean on a Gas Bill",
-      "description": "Gas bills can show CCF, MCF, BTUs, and therms. Here's what each unit means, why conversion factors exist, and how to sanity-check the math.",
       "category": "Gas",
+      "description": "Gas bills can show CCF, MCF, BTUs, and therms. Here's what each unit means, why conversion factors exist, and how to sanity-check the math.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nMCF vs CCF vs Therms: What Those Units Mean on a Gas Bill \u2014 Gas bills can show CCF, MCF, BTUs, and therms. Here's what each unit means, why conversion factors exist, and how to sanity-check the math.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "76ed14f7100a755de79788e596fd02fc102c7f68c72bd15e3eeeb50ff0b59c59",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx"
+      "slug": "mcf-vs-ccf-vs-therms-on-gas-bill",
+      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx",
+      "title": "MCF vs CCF vs Therms: What Those Units Mean on a Gas Bill"
     },
     {
-      "slug": "minimum-bill-utility-bill-explained",
-      "title": "Minimum Bill or Minimum Charge on a Utility Bill Explained (Why the Total Is Not Zero)",
-      "description": "Used very little but still got a bill? This guide explains minimum charges, how they differ from customer charges, and how to find them on your statement.",
       "category": "Budgeting",
+      "description": "Used very little but still got a bill? This guide explains minimum charges, how they differ from customer charges, and how to find them on your statement.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nMinimum Bill or Minimum Charge on a Utility Bill Explained (Why the Total Is Not Zero) \u2014 Used very little but still got a bill? This guide explains minimum charges, how they differ from customer charges, and how to find them on your statement.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "754c40a441137ab607732e6d933ff600fd169e032845f0f815152349bdc2f0ed",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx"
+      "slug": "minimum-bill-utility-bill-explained",
+      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx",
+      "title": "Minimum Bill or Minimum Charge on a Utility Bill Explained (Why the Total Is Not Zero)"
     },
     {
-      "slug": "past-due-balance-utility-bill-explained",
-      "title": "Past Due Balance and Late Fees on a Utility Bill Explained (and What a Disconnect Notice Really Means)",
-      "description": "Seeing a past due balance or late fee? This guide explains how bill dates, due dates, and payment posting work, and what a disconnect notice really signals.",
       "category": "Budgeting",
+      "description": "Seeing a past due balance or late fee? This guide explains how bill dates, due dates, and payment posting work, and what a disconnect notice really signals.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nPast Due Balance and Late Fees on a Utility Bill Explained (and What a Disconnect Notice Really Means) \u2014 Seeing a past due balance or late fee? This guide explains how bill dates, due dates, and payment posting work, and what a disconnect notice really signals.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "9575fca3b52d21fbb6580b64591db1b944a4e6b652446f107d0e093d477631fa",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx"
+      "slug": "past-due-balance-utility-bill-explained",
+      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx",
+      "title": "Past Due Balance and Late Fees on a Utility Bill Explained (and What a Disconnect Notice Really Means)"
     },
     {
-      "slug": "sewer-averaging-water-bill-explained",
-      "title": "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use",
-      "description": "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill.",
       "category": "Water",
+      "description": "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nSewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use \u2014 Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "5dca0e2a8f00ddb1d8e00f3dc0d742c0547b25445e6e97b07d5581c877a1f3d6",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx"
+      "slug": "sewer-averaging-water-bill-explained",
+      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx",
+      "title": "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use"
     },
     {
-      "slug": "single-stage-vs-two-stage-vs-variable-speed-hvac",
-      "title": "Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost",
-      "description": "Single-stage, two-stage, and variable-speed systems sound similar but behave very differently. This guide explains the real-world comfort and bill impacts.",
       "category": "Heating & Cooling",
+      "description": "Single-stage, two-stage, and variable-speed systems sound similar but behave very differently. This guide explains the real-world comfort and bill impacts.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nSingle-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost \u2014 Single-stage, two-stage, and variable-speed systems sound similar but behave very differently. This guide explains the real-world comfort and bill impacts.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "9f7a94e4fc1f1262fb63d97fc07544d6576dd4b6a16314b339cfd4544f552f6a",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx"
+      "slug": "single-stage-vs-two-stage-vs-variable-speed-hvac",
+      "source": "lib/generatedPosts/heatingCoolingPillarPosts_2025_12_25.tsx",
+      "title": "Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost"
     },
     {
-      "slug": "stormwater-fee-on-water-bill-explained",
-      "title": "Stormwater Fee on Your Water Bill Explained: What It Pays For and How It Is Set",
-      "description": "Stormwater fees help fund drainage, flood prevention, and clean runoff programs. Learn how fees are calculated and why they appear on water bills.",
       "category": "Water",
+      "description": "Stormwater fees help fund drainage, flood prevention, and clean runoff programs. Learn how fees are calculated and why they appear on water bills.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nStormwater Fee on Your Water Bill Explained: What It Pays For and How It Is Set \u2014 Stormwater fees help fund drainage, flood prevention, and clean runoff programs. Learn how fees are calculated and why they appear on water bills.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "aef8f9c855b60b0273cc0cd3ca526b76c01b9c050f3c2792b770f0dbac341ec1",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx"
+      "slug": "stormwater-fee-on-water-bill-explained",
+      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx",
+      "title": "Stormwater Fee on Your Water Bill Explained: What It Pays For and How It Is Set"
     },
     {
-      "slug": "supply-vs-delivery-charges-electricity",
-      "title": "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)",
-      "description": "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up.",
       "category": "Electricity",
+      "description": "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nSupply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills) \u2014 Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "758699a20de5d16dc48127f8fc55b1d171b3f66364e31b23f88339e587139845",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx"
+      "slug": "supply-vs-delivery-charges-electricity",
+      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx",
+      "title": "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)"
     },
     {
-      "slug": "tiered-electricity-rates-explained",
-      "title": "Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)",
-      "description": "Tiered rates can make a small usage increase look like a big price jump. This guide explains how tiers work, where they show up, and why the total changes.",
       "category": "Electricity",
+      "description": "Tiered rates can make a small usage increase look like a big price jump. This guide explains how tiers work, where they show up, and why the total changes.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nTiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill) \u2014 Tiered rates can make a small usage increase look like a big price jump. This guide explains how tiers work, where they show up, and why the total changes.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "4fd3a194c2f75b60cf443f01e635fa74b79937a21be12e07870cb9e43042882e",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx"
+      "slug": "tiered-electricity-rates-explained",
+      "source": "lib/generatedPosts/electricityPillarTieredDemandSupplyPosts_2025_12_26.tsx",
+      "title": "Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)"
     },
     {
-      "slug": "tiered-water-rates-explained",
-      "title": "Tiered Water Rates Explained: How Tiers Work, Why Your Price Jumps, and How to Stay in a Lower Tier",
-      "description": "Tiered water rates can make bills jump even when usage barely changes. Learn how tiers work, where the thresholds are, and how to avoid a surprise jump.",
       "category": "Water",
+      "description": "Tiered water rates can make bills jump even when usage barely changes. Learn how tiers work, where the thresholds are, and how to avoid a surprise jump.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nTiered Water Rates Explained: How Tiers Work, Why Your Price Jumps, and How to Stay in a Lower Tier \u2014 Tiered water rates can make bills jump even when usage barely changes. Learn how tiers work, where the thresholds are, and how to avoid a surprise jump.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "68586559c40c67b05d956b4c081a44f232a7ed882d78a3ddd753ba694dd9129b",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx"
+      "slug": "tiered-water-rates-explained",
+      "source": "lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28.tsx",
+      "title": "Tiered Water Rates Explained: How Tiers Work, Why Your Price Jumps, and How to Stay in a Lower Tier"
     },
     {
-      "slug": "time-of-use-electricity-rates",
-      "title": "What Are Time-of-Use Rates? (And When They Actually Save You Money)",
-      "description": "Time-of-use (TOU) rates can lower your bill or spike it. Learn how peak and off-peak pricing works and if switching is right for your lifestyle.",
       "category": "Electricity",
+      "description": "Time-of-use (TOU) rates can lower your bill or spike it. Learn how peak and off-peak pricing works and if switching is right for your lifestyle.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhat Are Time-of-Use Rates? (And When They Actually Save You Money) \u2014 Time-of-use (TOU) rates can lower your bill or spike it. Learn how peak and off-peak pricing works and if switching is right for your lifestyle.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "66d5464ba3d48825c9a8e775f95e541485317f753b08015f02d2a1d631797e2e",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx"
+      "slug": "time-of-use-electricity-rates",
+      "source": "lib/generatedPosts/electricityPillarPosts_2025_12_25.tsx",
+      "title": "What Are Time-of-Use Rates? (And When They Actually Save You Money)"
     },
     {
-      "slug": "utility-bill-proration-explained",
-      "title": "Utility Bill Proration Explained: Why Your First or Final Bill Looks Weird",
-      "description": "If your first or final utility bill looks off, proration is usually the reason. This guide explains what it means, how to spot it, and how to sanity-check the math.",
       "category": "Budgeting",
+      "description": "If your first or final utility bill looks off, proration is usually the reason. This guide explains what it means, how to spot it, and how to sanity-check the math.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Bill Proration Explained: Why Your First or Final Bill Looks Weird \u2014 If your first or final utility bill looks off, proration is usually the reason. This guide explains what it means, how to spot it, and how to sanity-check the math.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "96997ed0393fe5d8daa4f871dde042fe28da6dae8502287ae54d05f447034d1c",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx"
+      "slug": "utility-bill-proration-explained",
+      "source": "lib/generatedPosts/utilityBillsProrationPastDueMinimumPosts_2025_12_26.tsx",
+      "title": "Utility Bill Proration Explained: Why Your First or Final Bill Looks Weird"
     },
     {
-      "slug": "utility-bill-surcharges-and-riders-explained",
-      "title": "Utility Bill Surcharges and Riders Explained (Regulatory Fees, Franchise Fees, and More)",
-      "description": "Seeing extra lines like surcharges, riders, or franchise fees? Learn what these charges typically mean, why they exist, and how to read them without getting overwhelmed.",
       "category": "Budgeting",
+      "description": "Seeing extra lines like surcharges, riders, or franchise fees? Learn what these charges typically mean, why they exist, and how to read them without getting overwhelmed.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Bill Surcharges and Riders Explained (Regulatory Fees, Franchise Fees, and More) \u2014 Seeing extra lines like surcharges, riders, or franchise fees? Learn what these charges typically mean, why they exist, and how to read them without getting overwhelmed.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "8e81142f4209c9b14c3e9d144d51be7fde12bacad9813ba6c73b1e40712c5ab1",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx"
+      "slug": "utility-bill-surcharges-and-riders-explained",
+      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx",
+      "title": "Utility Bill Surcharges and Riders Explained (Regulatory Fees, Franchise Fees, and More)"
     },
     {
-      "slug": "utility-bill-taxes-fees-franchise-charges-explained",
-      "title": "Utility Bill Taxes, Fees, and Franchise Charges Explained",
-      "description": "Confused by taxes, franchise fees, and extra charges on your utility bill? Learn what they are, where they show up, and why they change.",
       "category": "Budgeting",
+      "description": "Confused by taxes, franchise fees, and extra charges on your utility bill? Learn what they are, where they show up, and why they change.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Bill Taxes, Fees, and Franchise Charges Explained \u2014 Confused by taxes, franchise fees, and extra charges on your utility bill? Learn what they are, where they show up, and why they change.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "c23e2509a9c364c3712a331f3c84443dae2fed676ebb5574777b1606e0d03eba",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx"
+      "slug": "utility-bill-taxes-fees-franchise-charges-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx",
+      "title": "Utility Bill Taxes, Fees, and Franchise Charges Explained"
     },
     {
-      "slug": "utility-billing-cycle-explained",
-      "title": "Utility Billing Cycle Explained: Meter Read Dates, Billing Days, and Why Months Vary",
-      "description": "Confused by a 33-day or 28-day bill period? This guide explains billing cycles, meter read dates, and how to compare totals fairly.",
       "category": "Budgeting",
+      "description": "Confused by a 33-day or 28-day bill period? This guide explains billing cycles, meter read dates, and how to compare totals fairly.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Billing Cycle Explained: Meter Read Dates, Billing Days, and Why Months Vary \u2014 Confused by a 33-day or 28-day bill period? This guide explains billing cycles, meter read dates, and how to compare totals fairly.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "33470f519a11835ff1c02cf84406e3ddadb4cad2a891113f6ca3e8e3357426f3",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx"
+      "slug": "utility-billing-cycle-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27.tsx",
+      "title": "Utility Billing Cycle Explained: Meter Read Dates, Billing Days, and Why Months Vary"
     },
     {
-      "slug": "utility-connection-fee-explained",
-      "title": "Utility Connection Fee Explained: Start Service, Transfer, and Setup Charges",
-      "description": "Starting or transferring utility service can include a one-time connection fee. Learn what it covers, when it appears, and how to spot it on your account.",
       "category": "Budgeting",
+      "description": "Starting or transferring utility service can include a one-time connection fee. Learn what it covers, when it appears, and how to spot it on your account.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Connection Fee Explained: Start Service, Transfer, and Setup Charges \u2014 Starting or transferring utility service can include a one-time connection fee. Learn what it covers, when it appears, and how to spot it on your account.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "75891f7cb12a25e0afd3a43d0041746a549ab7b705badd6b08986ad530c0917f",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx"
+      "slug": "utility-connection-fee-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx",
+      "title": "Utility Connection Fee Explained: Start Service, Transfer, and Setup Charges"
     },
     {
-      "slug": "utility-deposit-explained",
-      "title": "Utility Deposit Explained: Why It Exists, When It Is Required, and How Refunds Work",
-      "description": "A utility deposit can feel random when you are starting service. This guide explains what it is, when it shows up, and how refunds or credits usually work.",
       "category": "Budgeting",
+      "description": "A utility deposit can feel random when you are starting service. This guide explains what it is, when it shows up, and how refunds or credits usually work.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Deposit Explained: Why It Exists, When It Is Required, and How Refunds Work \u2014 A utility deposit can feel random when you are starting service. This guide explains what it is, when it shows up, and how refunds or credits usually work.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "d70214014dd4c0c7b4d2876e3004a31c8ac7686e18c6190af0409e3e40078d88",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx"
+      "slug": "utility-deposit-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx",
+      "title": "Utility Deposit Explained: Why It Exists, When It Is Required, and How Refunds Work"
     },
     {
-      "slug": "utility-reconnection-fee-explained",
-      "title": "Utility Reconnection Fee Explained: What Happens After Shutoff and How to Avoid Repeat Fees",
-      "description": "If service is shut off, many utilities charge a reconnection fee. This guide explains why it exists, how it is listed, and what to expect.",
       "category": "Budgeting",
+      "description": "If service is shut off, many utilities charge a reconnection fee. This guide explains why it exists, how it is listed, and what to expect.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nUtility Reconnection Fee Explained: What Happens After Shutoff and How to Avoid Repeat Fees \u2014 If service is shut off, many utilities charge a reconnection fee. This guide explains why it exists, how it is listed, and what to expect.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "633bd01e2aa4efcffa1f621027d7f7477255053e8151115f5c8302790dc6296d",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx"
+      "slug": "utility-reconnection-fee-explained",
+      "source": "lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27.tsx",
+      "title": "Utility Reconnection Fee Explained: What Happens After Shutoff and How to Avoid Repeat Fees"
     },
     {
-      "slug": "water-meter-leak-indicator-explained",
-      "title": "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything's Off",
-      "description": "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms.",
       "category": "Water",
+      "description": "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWater Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything's Off \u2014 Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "20680a7900202d3b48e6bb643a10f9d9ceb7800a527358e4abc2aa2c36834113",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx"
+      "slug": "water-meter-leak-indicator-explained",
+      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx",
+      "title": "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything's Off"
     },
     {
-      "slug": "water-meter-running-when-no-water-used",
-      "title": "Water Meter Running When Nothing Is On? What It Means and What to Check",
-      "description": "A moving water meter with everything off usually points to a leak. Learn how to confirm it and narrow down the source.",
       "category": "Water",
+      "description": "A moving water meter with everything off usually points to a leak. Learn how to confirm it and narrow down the source.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWater Meter Running When Nothing Is On? What It Means and What to Check \u2014 A moving water meter with everything off usually points to a leak. Learn how to confirm it and narrow down the source.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "f26255d115a414c92dfd4b000f433812ad425d3e387416f6d44751838a714d8f",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx"
+      "slug": "water-meter-running-when-no-water-used",
+      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx",
+      "title": "Water Meter Running When Nothing Is On? What It Means and What to Check"
     },
     {
-      "slug": "water-service-charge-explained",
-      "title": "Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)",
-      "description": "Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it.",
       "category": "Water",
+      "description": "Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWater Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It) \u2014 Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "bde70c204ac80d5f79ff03af4a16c382a758b238cd0106ee80a34efd56a3d433",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx"
+      "slug": "water-service-charge-explained",
+      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx",
+      "title": "Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)"
     },
     {
-      "slug": "what-is-a-kilowatt-hour",
-      "title": "What Is a Kilowatt-Hour (kWh)? Definition & Calculator",
-      "description": "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily.",
       "category": "Electricity",
+      "description": "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhat Is a Kilowatt-Hour (kWh)? Definition & Calculator \u2014 Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "9fca29b9295bc74bd6c9ebccd37dedb722b259c6a380fe5b2a923bf9d20b569d",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "what-is-a-kilowatt-hour",
+      "source": "lib/posts.tsx",
+      "title": "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
     },
     {
-      "slug": "what-is-ccf-on-a-water-bill",
-      "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)",
-      "description": "CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges.",
       "category": "Water",
+      "description": "CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhat Is CCF on a Water Bill? (Cubic Feet Explained in Plain English) \u2014 CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "91385e02eef4fa5ce27c93199b645d529348760b7fdc5bd0f79065be7cf4e2ad",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx"
+      "slug": "what-is-ccf-on-a-water-bill",
+      "source": "lib/generatedPosts/waterPillarPosts_2025_12_25.tsx",
+      "title": "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
     },
     {
-      "slug": "what-is-customer-charge-on-utility-bill",
-      "title": "What Is a Customer Charge (Basic Service Charge) on a Utility Bill?",
-      "description": "Wondering why you pay a customer charge even with low usage? Here's what it covers, where to find it on your bill, and how it changes the math of saving.",
       "category": "Budgeting",
+      "description": "Wondering why you pay a customer charge even with low usage? Here's what it covers, where to find it on your bill, and how it changes the math of saving.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhat Is a Customer Charge (Basic Service Charge) on a Utility Bill? \u2014 Wondering why you pay a customer charge even with low usage? Here's what it covers, where to find it on your bill, and how it changes the math of saving.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "1f2e3f06bbf60fc89cf541b80d7a3ff3374b18577a573369aa5f031fb8d96bb9",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx"
+      "slug": "what-is-customer-charge-on-utility-bill",
+      "source": "lib/generatedPosts/utilityBillsLineItemsFeesPosts_2025_12_26.tsx",
+      "title": "What Is a Customer Charge (Basic Service Charge) on a Utility Bill?"
     },
     {
-      "slug": "why-did-my-water-bill-suddenly-increase",
-      "title": "Why Did My Water Bill Suddenly Increase?",
-      "description": "Understand the most common reasons water bills spike and how to troubleshoot them.",
+      "category": "Budgeting",
+      "description": "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections.",
+      "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Did My Utility Bill Go Up This Month? (Even Without Using More) - If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
+      "prompt_hash": "b25585aaf1fb842447d1c5be30c7cf72a5cbb96405fc474aea7f0fc7a65d38e6",
+      "prompt_version": "featured-v1",
+      "slug": "why-did-my-utility-bill-go-up-this-month",
+      "source": "lib/generatedPosts/utilityBillsPillarBillUpThisMonthPosts_2026_01_15.tsx",
+      "title": "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
+    },
+    {
       "category": "Water",
+      "description": "Understand the most common reasons water bills spike and how to troubleshoot them.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Did My Water Bill Suddenly Increase? \u2014 Understand the most common reasons water bills spike and how to troubleshoot them.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "93f8cdc013b73c6e14330dd0203c03759ecc9387c66c20994db42dfa7c208b20",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "why-did-my-water-bill-suddenly-increase",
+      "source": "lib/posts.tsx",
+      "title": "Why Did My Water Bill Suddenly Increase?"
     },
     {
-      "slug": "why-is-my-electric-bill-so-high-this-month",
-      "title": "Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)",
-      "description": "Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment.",
       "category": "Electricity",
+      "description": "Electricity bills shift for reasons beyond usage: time-of-use windows, tiered rates, demand charges, and supply adjustments.",
+      "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Your Electric Bill Changes Month to Month (Even With Similar Usage) - Electricity bills shift for reasons beyond usage: time-of-use windows, tiered rates, demand charges, and supply adjustments.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
+      "prompt_hash": "6c759f7a03bcb294c44a6215c4cadbf9e5819f68fd9c6d4fb8bc3e12792b5023",
+      "prompt_version": "featured-v1",
+      "slug": "why-electric-bill-changes-month-to-month",
+      "source": "lib/generatedPosts/electricityPillarBillChangesPosts_2026_01_15.tsx",
+      "title": "Why Your Electric Bill Changes Month to Month (Even With Similar Usage)"
+    },
+    {
+      "category": "Electricity",
+      "description": "Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes) \u2014 Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "bede9bd69361aeba6a07f2f58524e728097ed99adbfc72d9e4f49712981a4f80",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "why-is-my-electric-bill-so-high-this-month",
+      "source": "lib/posts.tsx",
+      "title": "Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)"
     },
     {
-      "slug": "why-is-my-electricity-bill-so-high-in-summer",
-      "title": "Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)",
-      "description": "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating.",
       "category": "Electricity",
+      "description": "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Electricity Bill So High in Summer? (7 Causes + Fixes) \u2014 Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "c00fff3a12fae46ae233bffbc8e9e59941fd2941920d4439a6c22ab64106834f",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "why-is-my-electricity-bill-so-high-in-summer",
+      "source": "lib/posts.tsx",
+      "title": "Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)"
     },
     {
-      "slug": "why-is-my-electricity-bill-so-high-in-winter",
-      "title": "Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)",
-      "description": "Winter electric bill shock? Discover the 7 hidden reasons your usage spiked and learn practical fixes to lower your heating costs immediately.",
       "category": "Electricity",
+      "description": "Winter electric bill shock? Discover the 7 hidden reasons your usage spiked and learn practical fixes to lower your heating costs immediately.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Electricity Bill So High in Winter? (7 Reasons + Fixes) \u2014 Winter electric bill shock? Discover the 7 hidden reasons your usage spiked and learn practical fixes to lower your heating costs immediately.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "e8935c742e9d87630e1c0c278b41d0aef3d30c9c186a3177d011142bf097b53a",
       "prompt_version": "featured-v1",
-      "source": "lib/posts.tsx"
+      "slug": "why-is-my-electricity-bill-so-high-in-winter",
+      "source": "lib/posts.tsx",
+      "title": "Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)"
     },
     {
-      "slug": "why-is-my-furnace-blowing-cold-air",
-      "title": "Why Is My Furnace Blowing Cold Air? 9 Common Causes",
-      "description": "Heat is on but the air feels cold? Learn the most common causes, what is normal, and what to check before you worry.",
       "category": "Heating & Cooling",
+      "description": "Heat is on but the air feels cold? Learn the most common causes, what is normal, and what to check before you worry.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Furnace Blowing Cold Air? 9 Common Causes \u2014 Heat is on but the air feels cold? Learn the most common causes, what is normal, and what to check before you worry.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "18b191bd11d02e7892b5eb0fdef3a0a13eea0f1172c38538d667f3787d45d596",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx"
+      "slug": "why-is-my-furnace-blowing-cold-air",
+      "source": "lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27.tsx",
+      "title": "Why Is My Furnace Blowing Cold Air? 9 Common Causes"
     },
     {
-      "slug": "why-is-my-gas-bill-so-high-in-summer",
-      "title": "Why Is My Gas Bill So High in Summer? (Common Causes + Checks)",
-      "description": "Heating is off, but the gas bill still looks high. Learn the most common summer drivers and how to separate usage from fixed charges.",
       "category": "Gas",
+      "description": "Heating is off, but the gas bill still looks high. Learn the most common summer drivers and how to separate usage from fixed charges.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Gas Bill So High in Summer? (Common Causes + Checks) \u2014 Heating is off, but the gas bill still looks high. Learn the most common summer drivers and how to separate usage from fixed charges.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "5c4833f0af964942d80c049d856205356388943f7c28af125951d16c375a2b6b",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx"
+      "slug": "why-is-my-gas-bill-so-high-in-summer",
+      "source": "lib/generatedPosts/gasPillarMeterSummerCustomerPosts_2025_12_26.tsx",
+      "title": "Why Is My Gas Bill So High in Summer? (Common Causes + Checks)"
     },
     {
-      "slug": "why-is-my-gas-bill-so-high-in-winter",
-      "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)",
-      "description": "Winter gas bills can jump fast. Here's how to separate longer billing cycles from real usage increases, and what usually drives the spike.",
       "category": "Gas",
+      "description": "Winter gas bills can jump fast. Here's how to separate longer billing cycles from real usage increases, and what usually drives the spike.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check) \u2014 Winter gas bills can jump fast. Here's how to separate longer billing cycles from real usage increases, and what usually drives the spike.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "14c26170f3d3cf7f56bdacb1a174b73602dc1d921d06fb0d5a4853ac26525a30",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx"
+      "slug": "why-is-my-gas-bill-so-high-in-winter",
+      "source": "lib/generatedPosts/gasPillarPosts_2025_12_25.tsx",
+      "title": "Why Is My Gas Bill So High in Winter? (Plain-English Reasons + What to Check)"
     },
     {
-      "slug": "why-is-my-water-bill-higher-in-summer",
-      "title": "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)",
-      "description": "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case.",
       "category": "Water",
+      "description": "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First) \u2014 Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "6f8345534ce24404477ce61dc60688c475f9cc4899490b1cebf6dfcf43513a07",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx"
+      "slug": "why-is-my-water-bill-higher-in-summer",
+      "source": "lib/generatedPosts/waterPillarChargesLeaksSummerPosts_2025_12_26.tsx",
+      "title": "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
     },
     {
-      "slug": "why-is-my-water-bill-higher-in-winter",
-      "title": "Why Is My Water Bill Higher in Winter? 8 Common Causes",
-      "description": "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them.",
       "category": "Water",
+      "description": "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Is My Water Bill Higher in Winter? 8 Common Causes \u2014 No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "d6138650b9827394d8f42da5c97a4cbba9dc9cccc696187414e04b6d50088189",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx"
+      "slug": "why-is-my-water-bill-higher-in-winter",
+      "source": "lib/generatedPosts/waterPillarSewerAverageWinterLeakPosts_2025_12_27.tsx",
+      "title": "Why Is My Water Bill Higher in Winter? 8 Common Causes"
     },
     {
-      "slug": "why-my-utility-bill-is-higher-with-same-usage",
-      "title": "Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change",
-      "description": "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads.",
       "category": "Budgeting",
+      "description": "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads.",
       "prompt": "Photorealistic scene in a real environment that represents the article topic:\nWhy Your Utility Bill Can Be Higher Even If Your Usage Didn't Change \u2014 If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads.\n\nComposition and realism rules:\n- Natural lighting, realistic perspective, and credible materials.\n- No text or typography in the scene.\n- No screens, UI, logos, or branding.\n- No ad-like or misleading button visuals.\n- Avoid centered symmetry; use organic framing.\n- Avoid repeated compositions across articles.\n\nCamera:\n- 35mm lens equivalent, shallow-to-moderate depth of field.\n- Horizontal framing.\n",
       "prompt_hash": "453986a5b0721ef06c48b10f1b2ce194476c4d2ad7f3fd6498588eff21267a5c",
       "prompt_version": "featured-v1",
-      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx"
+      "slug": "why-my-utility-bill-is-higher-with-same-usage",
+      "source": "lib/generatedPosts/utilityBillsPillarPosts_2025_12_25.tsx",
+      "title": "Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change"
     }
   ]
 }

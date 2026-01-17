@@ -6,7 +6,7 @@ import { siteConfig } from "@/lib/site";
 
 export const dynamicParams = false;
 
-export async function generateStaticParams() {
+export function generateStaticParams() {
   const categories = Array.from(new Set(posts.map((p) => p.category)));
   return categories.map((category) => ({ category }));
 }
