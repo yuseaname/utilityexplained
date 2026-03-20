@@ -16,6 +16,7 @@ import { waterPillarSewerAverageWinterLeakPosts_2025_12_27 } from "@/lib/generat
 import { waterPillarRatesFeesPosts_2025_12_28 } from "@/lib/generatedPosts/waterPillarRatesFeesPosts_2025_12_28";
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
+import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpirePosts_2026_03_19";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
@@ -3718,7 +3719,8 @@ const posts: Post[] = [
   ...utilityBillsLineItemsFeesPosts_2025_12_26,
   ...utilityBillsProrationPastDueMinimumPosts_2025_12_26,
   ...utilityBillsPillarBillingCycleChargesTaxesPosts_2025_12_27,
-  ...utilityBillsPillarAccountFeesPosts_2025_12_27
+  ...utilityBillsPillarAccountFeesPosts_2025_12_27,
+  ...contentEmpirePosts_2026_03_19
 ];
 
 const normalizedPosts = posts.map(normalizePostImage);
