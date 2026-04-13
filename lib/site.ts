@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Utility Explained",
   description:
     "Plain-English guides to electricity, gas, and water bills so you can budget with confidence, not confusion.",
-  url: "https://www.utilityexplained.com",
+  url: "https://utilityexplained.com",
   ogImage: "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
   socials: {
     email: "hello@utilityexplained.com"

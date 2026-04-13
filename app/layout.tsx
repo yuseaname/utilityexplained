@@ -58,6 +58,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" className={`${headingFont.variable} ${bodyFont.variable}`}>
       <head>
+        <meta name="google-site-verification" content="ADD_VERIFICATION_CODE_HERE" />
         <Script
           src="https://app.rybbit.io/api/script.js"
           data-site-id="d5b63e065e9d"
