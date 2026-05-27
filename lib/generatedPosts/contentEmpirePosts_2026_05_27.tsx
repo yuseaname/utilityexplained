@@ -5759,3 +5759,264 @@ A> Target the biggest users: heating (40–60% of gas use), water heating (20–
     },
   ]
 };
+
+import type { Post } from "@/lib/types";
+
+export const gas_delivery_charge_vs_supply_charge_post: Post = {
+  slug: "gas-delivery-charge-vs-supply-charge",
+  title: "Gas Delivery Charge Vs Supply Charge: Complete Guide (2026)",
+  description: "Learn everything about gas delivery charge vs supply charge in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
+  category: "Utility Bills",
+  keyword: "gas delivery charge vs supply charge",
+  date: "2026-05-27",
+  readTime: "12 min read",
+  image: {
+    src: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_00001_.png",
+    alt: "Gas Delivery Charge Vs Supply Charge: Complete Guide (2026)"
+  },
+  relatedSlugs: ["gas-vs-electric-heating", "energy-efficiency-tips", "gas-supplier-comparison", "gas-bill-calculator", "natural-gas-bill-explained"],
+  sections: [
+    {
+      id: "the-short-answer",
+      title: "The Short Answer",
+      content: (
+        <>
+          <p>The <strong>supply charge</strong> covers the cost of the natural gas itself—the physical commodity you burn for heat, cooking, and hot water. The <strong>delivery charge</strong> covers the cost of moving that gas through pipelines, maintaining infrastructure, and billing services. Together, they make up nearly 100% of your natural gas bill.</p>
+          <p>This breakdown applies to homeowners served by a regulated utility (the default in most areas), especially those on standard “default service” or “basic supply” plans. If you’ve switched to an alternative supplier (a third-party company that purchases gas on your behalf), you’ll still see both charges—but the supply charge may appear as a separate line item on your utility bill or in a supplemental invoice.</p>
+          <p>In 2026, the supply charge typically accounts for **30–50%** of your total bill, while the delivery charge makes up the remaining **50–70%**, depending on your region and usage. Knowing the difference helps you compare plans, spot billing errors, and understand why your bill changes month to month—even when usage is steady.</p>
+          <figure>
+          <img src="/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_section-1_00001_.png" alt="gas delivery charge vs supply charge detailed close-up, practical example" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "what-is-gas-delivery-charge-vs-supply-ch",
+      title: "What Is gas delivery charge vs supply charge?",
+      content: (
+        <>
+          <h3>Definition</h3>
+          <p>The <strong>supply charge</strong> = the cost of the natural gas commodity. It’s what suppliers charge for the actual methane gas extracted from the ground, processed, and delivered to the local pipeline system. Think of it like the “product” cost—similar to paying for gasoline at the pump before taxes and station fees.</p>
+          <p>The <strong>delivery charge</strong> = the cost of infrastructure and service. It includes maintaining pipelines, pressure regulation, meter reading, customer service, system expansion, and regulatory compliance. This is almost always set by your state’s public utility commission and charged by your local utility company (e.g., Con Edison, PG&E, NiSource).</p>
+          <h3>How it works</h3>
+          <p>Your utility company acts as both the delivery provider and (in most cases) the default supplier. Every month, they read your meter, calculate usage in therms or CCF, and apply two rates:</p>
+          <ul>
+          <li><strong>Supply rate</strong> × therms used = supply charge</li>
+          <li><strong>Delivery rate</strong> × therms used (plus fixed monthly fees) = delivery charge</li>
+          </ul>
+          <p>For example: If your supply rate is $0.45/therm and you use 500 therms, your supply charge is $225. If your delivery rate is $0.60/therm plus a $12 monthly customer charge, your delivery charge is ($0.60 × 500) + $12 = $312. Total: $537.</p>
+          <p>Why homeowners care: <strong>The supply charge varies with commodity markets</strong> (e.g., rising oil/gas prices push it up), while the <strong>delivery charge is more stable and predictable</strong>. Understanding this helps you anticipate bill spikes and evaluate whether switching suppliers (if allowed in your state) makes sense.</p>
+          <figure>
+          <img src="/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_section-2_00001_.png" alt="gas delivery charge vs supply charge cost comparison visual, infographic style" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "cost-breakdown",
+      title: "Cost Breakdown",
+      content: (
+        <>
+          <h3>Typical costs</h3>
+          <p>In 2026, average natural gas rates across the U.S. look like this ( sourced from EIA, utility filings, and state regulators):</p>
+          <table>
+          <tr>
+          <th>Region</th>
+          <th>Supply Rate ($/therm)</th>
+          <th>Delivery Rate ($/therm)</th>
+          <th>Monthly Fixed Fee</th>
+          <th>Avg. Monthly Bill (500 therms)</th>
+          </tr>
+          <tr>
+          <td>Northeast (e.g., NY, MA)</td>
+          <td>$0.52–$0.68</td>
+          <td>$0.70–$0.85</td>
+          <td>$10–$18</td>
+          <td>$650–$820</td>
+          </tr>
+          <tr>
+          <td>Midwest (e.g., IL, OH)</td>
+          <td>$0.42–$0.55</td>
+          <td>$0.55–$0.68</td>
+          <td>$8–$14</td>
+          <td>$510–$620</td>
+          </tr>
+          <tr>
+          <td>South (e.g., TX, FL)</td>
+          <td>$0.38–$0.50</td>
+          <td>$0.48–$0.62</td>
+          <td>$6–$12</td>
+          <td>$420–$550</td>
+          </tr>
+          <tr>
+          <td>West (e.g., CA, OR)</td>
+          <td>$0.55–$0.72</td>
+          <td>$0.62–$0.80</td>
+          <td>$12–$20</td>
+          <td>$650–$780</td>
+          </tr>
+          </table>
+          <p><em>Note: Rates fluctuate monthly based on wholesale markets. These are 2026 averages for a typical residential customer.</em></p>
+          <h3>Seasonal impact</h3>
+          <p>Winter months (Dec–Feb) often see usage triple—e.g., 1,500 therms instead of 500—making delivery charges dominate due to fixed fees. In summer, when heating demand drops, supply charges make up a larger *percentage* of your bill because usage is lower and delivery fees remain fixed.</p>
+          <h3>How to calculate</h3>
+          <p>Your bill will show:</p>
+          <ul>
+          <li>Total therms used (from meter reading)</li>
+          <li>Supply rate per therm</li>
+          <li>Delivery rate per therm (often tiered or “seasonal”)</li>
+          <li>Fixed monthly charges (e.g., customer charge, infrastructure recovery)</li>
+          </ul>
+          <p><strong>Formula:</strong>
+          <em>Total Bill = (Therms × Supply Rate) + (Therms × Delivery Rate) + Fixed Fees</em></p>
+          <p>Pro tip: Use the <a href="/blog/gas-bill-calculator">utilityexplained.com Gas Bill Calculator</a> to model changes—like switching to a fixed-rate supply plan or reducing usage by 20%.</p>
+        </>
+      )
+    },
+    {
+      id: "key-factors-to-consider",
+      title: "Key Factors to Consider",
+      content: (
+        <>
+          <h3>Location</h3>
+          <p>Your state and utility determine most variables. In deregulated states (e.g., TX, PA, OH, NY), you can choose your supply provider—but delivery still comes from the utility. In regulated states (e.g., LA, AL, ID), only the utility supplies gas, so you have no supply-choice flexibility.</p>
+          <p>Delivery charges are much higher in older Northeastern cities with extensive pipe networks and seismic concerns (e.g., NYC’s delivery rate is 30% higher than Chicago’s).</p>
+          <h3>Usage patterns</h3>
+          <p>Delivery charges often include <strong>tiered pricing</strong> or <strong>seasonal rates</strong>. For example:</p>
+          <ul>
+          <li><strong>Winter (Nov–Apr)</strong>: $0.82/therm delivery</li>
+          <li><strong>Summer (May–Oct)</strong>: $0.52/therm delivery</li>
+          </ul>
+          <p>If you heat with gas, 60–75% of your annual usage occurs in winter—making delivery costs highly sensitive to outdoor temperatures. A harsh winter can push your delivery bill up by $200+ vs. a mild one.</p>
+          <h3>Plan type</h3>
+          <p>Three supply plan options exist (where available):</p>
+          <table>
+          <tr>
+          <th>Plan Type</th>
+          <th>Rate Stability</th>
+          <th>2026 Avg. Cost/Therm</th>
+          <th>Best For</th>
+          </tr>
+          <tr>
+          <td><strong>Variable (month-to-month)</strong></td>
+          <td>Fluctuates with market (±15% monthly)</td>
+          <td>$0.49</td>
+          <td>Budget-flexible households</td>
+          </tr>
+          <tr>
+          <td><strong>Fixed-term (12–24 months)</strong></td>
+          <td>Locked rate, no surprises</td>
+          <td>$0.53</td>
+          <td>Long-term budget certainty</td>
+          </tr>
+          <tr>
+          <td><strong>Fixed monthly (budget billing)</strong></td>
+          <td>Fixed total monthly payment</td>
+          <td>N/A (total bill averaged)</td>
+          <td>Smoothing seasonal spikes</td>
+          </tr>
+          </table>
+          <p>Watch for <strong>hidden fees</strong>: Early termination fees (often $50–$150), administrative fees ($2–$5/month), and “supply charge recovery” add-ons that masquerade as delivery charges.</p>
+        </>
+      )
+    },
+    {
+      id: "practical-tips-and-fixes",
+      title: "Practical Tips and Fixes",
+      content: (
+        <>
+          <h3>Immediate actions</h3>
+          <ul>
+          <li><strong>Check your last 12 months of bills</strong>—compare the <em>supply rate</em> line item. If it jumped 20%+ while delivery stayed flat, your utility’s default supply rate may be overpriced.</li>
+          <li><strong>Call your utility</strong> and ask: “Is my supply rate market-based or fixed?” Most utilities publish current rates on their website (e.g., “2026 Default Supply Rate: $0.51/therm”).</li>
+          <li><strong>Run a leak test</strong>: Turn off all gas appliances, note your meter reading, wait 2 hours, and check again. A change >0.5 CCF suggests a leak—report it immediately (delivery charges keep accruing on wasted gas!).</li>
+          </ul>
+          <h3>Long-term savings</h3>
+          <p><strong>Switch suppliers only if:</strong>
+          • You live in a competitive market (e.g., Texas, Pennsylvania, Ohio)
+          • Your current supply rate is >5% above the 30-day wholesale average (check EIA or local gas exchange data)
+          • You’re not locked into a contract with early termination fees</p>
+          <p><strong>Upgrade wisely:</strong>
+          • Install a programmable thermostat—cuts heating gas use by 7–10%
+          • Seal ducts and windows—reduces delivery charge exposure by lowering usage
+          • Consider a heat pump water heater—replaces ~60% of water-heating gas with electricity (often cheaper in 2026)</p>
+          <p>Don’t upgrade delivery infrastructure yourself—pipes and meters require utility certification. But you <em>can</em> request an <strong>efficiency audit</strong> (often free or $10–$25) to identify savings opportunities tied to your usage patterns.</p>
+        </>
+      )
+    },
+    {
+      id: "frequently-asked-questions",
+      title: "Frequently Asked Questions",
+      content: (
+        <>
+          <p><strong>Q: Why does my delivery charge change even when I used the same amount of gas?</strong><br />
+          A: Delivery rates often include seasonal adjustments (higher in winter), tiered pricing (e.g., first 500 therms at $0.55, next 500 at $0.70), or fixed monthly fees that dominate in low-usage months. Check your utility’s tariff for the full rate schedule.</p>
+          <p><strong>Q: Can I negotiate the delivery charge?</strong><br />
+          A: No—delivery rates are regulated by your state’s public utility commission and apply equally to all customers. Your only leverage is choosing a plan with lower fixed fees (e.g., some utilities offer “low-income” or “time-of-use” delivery options).</p>
+          <p><strong>Q: Is the supply charge taxable?</strong><br />
+          A: Yes—like electricity, natural gas supply charges are typically subject to state and local sales tax (3–8% depending on your county), while delivery charges may be exempt. Always check your bill’s tax line item.</p>
+          <p><strong>Q: My bill shows “transportation” or “管道” charges—what’s that?</strong><br />
+          A: Older utilities sometimes split the delivery charge into “transportation” (moving gas through trunk lines) and “distribution” (local pipes and meters). In 2026, most utilities combine these into one “delivery” line. If you’re confused, call customer service—they must explain each charge per FERC guidelines.</p>
+          <p><strong>Q: How do I verify if my gas meter is accurate?</strong><br />
+          A: Utilities perform meter calibration tests for free if you request one. A common mistake: confusing <strong>CCF</strong> (100 cubic feet) with <strong>therms</strong>. 1 CCF ≈ 1.03 therms. Your bill should convert automatically—but double-check with your utility’s conversion factor.</p>
+          <p><strong>Q: What if I see two supply charges on my bill?</strong><br />
+          A: This usually means you’re on a “default service” with your utility, and a third-party supplier has already billed you separately. Call your utility first—they can coordinate a reconciliation or stop double-billing.</p>
+        </>
+      )
+    },
+    {
+      id: "conclusion",
+      title: "Conclusion",
+      content: (
+        <>
+          <p>The <strong>gas delivery charge vs supply charge</strong> distinction is the key to unlocking smarter budgeting and avoiding surprises. In 2026, you’ll pay more for delivery than for the gas itself—especially in winter—so focus on reducing usage and understanding your rate structure before blaming “high gas prices.”</p>
+          <p><strong>Action items:</strong></p>
+          <ul>
+          <li>Review your last 3 bills and highlight supply vs. delivery costs.</li>
+          <li>Call your utility to confirm your current supply rate and whether it’s fixed or variable.</li>
+          <li>If in a competitive market, compare rates on your state’s utility portal or via <a href="/blog/gas-supplier-comparison">utilityexplained.com’s supplier comparison tool</a>.</li>
+          </ul>
+          <p>For deeper reading, explore our guides: <a href="/blog/natural-gas-bill-explained">How to Read Your Natural Gas Bill</a>, <a href="/blog/gas-vs-electric-heating">Gas vs. Electric Heating in 2026</a>, and <a href="/blog/energy-efficiency-tips">10 Ways to Cut Gas Use (Without Freezing)</a>.</p>
+        </>
+      )
+    },
+  ],
+  faqs: [
+    {
+      question: "Why does my delivery charge change even when I used the same amount of gas?  
+A: Delivery rates often include seasonal adjustments (higher in winter), tiered pricing (e.g., first 500 therms at $0.55, next 500 at $0.70), or fixed monthly fees that dominate in low-usage months. Check your utility’s tariff for the full rate schedule.",
+      answer: "Q: Can I negotiate the delivery charge?  
+A: No—delivery rates are regulated by your state’s public utility commission and apply equally to all customers. Your only leverage is choosing a plan with lower fixed fees (e.g., some utilities offer “low-income” or “time-of-use” delivery options)."
+    },
+    {
+      question: "Is the supply charge taxable?  
+A: Yes—like electricity, natural gas supply charges are typically subject to state and local sales tax (3–8% depending on your county), while delivery charges may be exempt. Always check your bill’s tax line item.",
+      answer: "Q: My bill shows “transportation” or “管道” charges—what’s that?  
+A: Older utilities sometimes split the delivery charge into “transportation” (moving gas through trunk lines) and “distribution” (local pipes and meters). In 2026, most utilities combine these into one “delivery” line. If you’re confused, call customer service—they must explain each charge per FERC guidelines."
+    },
+    {
+      question: "How do I verify if my gas meter is accurate?  
+A: Utilities perform meter calibration tests for free if you request one. A common mistake: confusing  CCF  (100 cubic feet) with  therms . 1 CCF ≈ 1.03 therms. Your bill should convert automatically—but double-check with your utility’s conversion factor.",
+      answer: "Q: What if I see two supply charges on my bill?  
+A: This usually means you’re on a “default service” with your utility, and a third-party supplier has already billed you separately. Call your utility first—they can coordinate a reconciliation or stop double-billing."
+    },
+    {
+      question: "Q: Why does my delivery charge change even when I used the same amount of gas?  
+A: Delivery rates often include seasonal adjustments (higher in winter), tiered pricing (e.g., first 500 therms at $0.55, next 500 at $0.70), or fixed monthly fees that dominate in low-usage months. Check your utility’s tariff for the full rate schedule.",
+      answer: "Q: Can I negotiate the delivery charge?  
+A: No—delivery rates are regulated by your state’s public utility commission and apply equally to all customers. Your only leverage is choosing a plan with lower fixed fees (e.g., some utilities offer “low-income” or “time-of-use” delivery options)."
+    },
+    {
+      question: "Q: Is the supply charge taxable?  
+A: Yes—like electricity, natural gas supply charges are typically subject to state and local sales tax (3–8% depending on your county), while delivery charges may be exempt. Always check your bill’s tax line item.",
+      answer: "Q: My bill shows “transportation” or “管道” charges—what’s that?  
+A: Older utilities sometimes split the delivery charge into “transportation” (moving gas through trunk lines) and “distribution” (local pipes and meters). In 2026, most utilities combine these into one “delivery” line. If you’re confused, call customer service—they must explain each charge per FERC guidelines."
+    },
+    {
+      question: "Q: How do I verify if my gas meter is accurate?  
+A: Utilities perform meter calibration tests for free if you request one. A common mistake: confusing  CCF  (100 cubic feet) with  therms . 1 CCF ≈ 1.03 therms. Your bill should convert automatically—but double-check with your utility’s conversion factor.",
+      answer: "Q: What if I see two supply charges on my bill?  
+A: This usually means you’re on a “default service” with your utility, and a third-party supplier has already billed you separately. Call your utility first—they can coordinate a reconciliation or stop double-billing."
+    },
+  ]
+};
