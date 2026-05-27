@@ -21,6 +21,7 @@ import { why_is_my_electric_bill_so_high_this_month_post } from "@/lib/generated
 import { why_is_my_electricity_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { how_to_read_a_water_meter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { gas_vs_electric_heating_cost_comparison_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { why_did_my_water_bill_suddenly_increase_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
