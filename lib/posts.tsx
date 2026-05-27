@@ -18,6 +18,7 @@ import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from 
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpirePosts_2026_03_19";
 import { why_is_my_electric_bill_so_high_this_month_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { why_is_my_electricity_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
