@@ -28,6 +28,7 @@ import { average_water_usage_per_person_post } from "@/lib/generatedPosts/conten
 import { why_is_my_electricity_bill_so_high_in_summer_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { how_to_budget_for_utilities_in_your_first_apartment_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { what_is_a_kilowatt_hour_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { how_to_read_electric_meter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
