@@ -30,6 +30,7 @@ import { how_to_budget_for_utilities_in_your_first_apartment_post } from "@/lib/
 import { what_is_a_kilowatt_hour_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { how_to_read_electric_meter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { electric_bill_breakdown_understanding_line_items_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { how_do_smart_meters_work_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
