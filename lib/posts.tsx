@@ -48,6 +48,7 @@ import { water_meter_running_when_no_water_used_post } from "@/lib/generatedPost
 import { tiered_water_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { drought_surcharge_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { stormwater_fee_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { why_is_my_gas_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
