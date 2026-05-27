@@ -46,6 +46,7 @@ import { sewer_averaging_water_bill_explained_post } from "@/lib/generatedPosts/
 import { why_is_my_water_bill_higher_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { water_meter_running_when_no_water_used_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { tiered_water_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { drought_surcharge_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
