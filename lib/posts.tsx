@@ -36,6 +36,7 @@ import { demand_charge_electric_bill_explained_post } from "@/lib/generatedPosts
 import { time_of_use_electricity_rates_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { tiered_electricity_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { supply_vs_delivery_charges_electricity_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { what_is_ccf_on_a_water_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
