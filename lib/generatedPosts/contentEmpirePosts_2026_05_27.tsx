@@ -3094,3 +3094,168 @@ Check your bill for “TOU,” “Time-of-Use,” or a rate name like “EV-TOU-
     },
   ]
 };
+
+import type { Post } from "@/lib/types";
+
+export const tiered_electricity_rates_explained_post: Post = {
+  slug: "tiered-electricity-rates-explained",
+  title: "What Is Tiered Electricity Rates Explained? Explained Simply (2026)",
+  description: "Learn everything about tiered electricity rates explained in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
+  category: "Utility Bills",
+  keyword: "tiered electricity rates explained",
+  date: "2026-05-27",
+  readTime: "12 min read",
+  image: {
+    src: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.png",
+    alt: "What Is Tiered Electricity Rates Explained? Explained Simply (2026)"
+  },
+  relatedSlugs: ["electricity-bill-tricks-2026"],
+  sections: [
+    {
+      id: "the-short-answer",
+      title: "The Short Answer",
+      content: (
+        <>
+          A tiered electricity rate is a billing system where the price per kilowatt-hour (kWh) increases as you use more electricity in a single billing cycle—usually a month. Think of it like a staircase: each step (or “tier”) has a higher price, and once you cross into the next step, all usage above that threshold pays the higher rate.
+          This matters because your electricity bill can jump significantly if you exceed a threshold—sometimes by 50% or more per kWh—without any change in your usage pattern. For first-time bill payers, understanding tiered rates helps avoid surprise charges and plan usage to stay in the lowest (and cheapest) tier.
+          Unlike flat rates (same price per kWh no matter how much you use), tiered plans encourage conservation by making extra usage more expensive. Many states and utility companies use tiered pricing to recover costs for peak demand and infrastructure upgrades. In 2026, over 22 million U.S. households are estimated to be on tiered plans—especially in California, New York, and Hawaii—so knowing how they work is more important than ever.
+          <figure>
+          <img src="/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_section-1_00001_.png" alt="tiered electricity rates explained detailed close-up, practical example" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "how-tiered-electricity-rates-work",
+      title: "How Tiered Electricity Rates Work",
+      content: (
+        <>
+          <h3>Definition</h3>
+          Tiered electricity rates divide your monthly usage into blocks—or tiers—and charge a different rate for each block. The utility sets one or more usage thresholds (e.g., 400 kWh, 800 kWh). Your first 400 kWh might cost $0.15/kWh, the next 400 kWh (401–800) cost $0.18/kWh, and anything above 800 kWh costs $0.25/kWh.
+          <h3>Key components</h3>
+          <ul>
+          <li><strong>Tier thresholds:</strong> Fixed usage levels (set by your utility) that trigger a higher rate.</li>
+          <li><strong>Tiered pricing:</strong> Rates increase at each threshold—never decrease.</li>
+          <li><strong>Billing cycle:</strong> Typically monthly. Your usage resets each cycle, so hitting a tier in January doesn’t affect February.</li>
+          </ul>
+          Your bill is calculated cumulatively. For example, if you use 1,000 kWh in a month:
+          - First 400 kWh × $0.15 = $60
+          - Next 400 kWh × $0.18 = $72
+          - Last 200 kWh × $0.25 = $50
+          - **Total = $182 (vs. $150 with a flat $0.15/kWh rate)**
+          That’s a $32 premium—over 21% more—just for going 200 kWh over the first tier.
+          The system is designed to reflect higher costs of generating electricity during peak demand or from backup power plants. Crucially, the rate increase applies only to usage *in that tier*, not your entire bill.
+          <figure>
+          <img src="/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_section-2_00001_.png" alt="tiered electricity rates explained cost comparison visual, infographic style" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "real-world-examples",
+      title: "Real-World Examples",
+      content: (
+        <>
+          <h3>Example 1: Typical Home (California, 2026)</h3>
+          PG&E’s Tiered Rate Plan (T-10) for 2026 has three tiers:
+          - Tier 1: 0–400 kWh @ $0.17/kWh
+          - Tier 2: 401–800 kWh @ $0.22/kWh
+          - Tier 3: >800 kWh @ $0.33/kWh
+          A family using 650 kWh:
+          - First 400 kWh × $0.17 = $68.00
+          - Next 250 kWh × $0.22 = $55.00
+          - **Total = $123.00 (avg. $0.19/kWh)**
+          Same family using 920 kWh:
+          - First 400 × $0.17 = $68.00
+          - Next 400 × $0.22 = $88.00
+          - Last 120 × $0.33 = $39.60
+          - **Total = $195.60 (avg. $0.21/kWh)**
+          → **$72.60 more for just 270 extra kWh—a 59% increase in cost for 41% more usage.**
+          <h3>Example 2: Different Region (Hawaii, 2026)</h3>
+          Hawaiian Electric’s standard residential plan has *four* tiers:
+          - Tier 1: 0–300 kWh @ $0.29/kWh
+          - Tier 2: 301–600 kWh @ $0.35/kWh
+          - Tier 3: 601–900 kWh @ $0.48/kWh
+          - Tier 4: >900 kWh @ $0.62/kWh
+          A condo dweller using 720 kWh:
+          - 300 × $0.29 = $87.00
+          - 300 × $0.35 = $105.00
+          - 120 × $0.48 = $57.60
+          - **Total = $249.60 (avg. $0.35/kWh)**
+          Compare to a flat rate in Texas (~$0.14/kWh): same 720 kWh would cost $100.80. That’s $148.80 more—nearly 150% higher—because Hawaii’s island grids face high fuel costs and limited generation options.
+          Regional differences stem from infrastructure, fuel sources, and climate. Cold climates rarely use tiered plans; warm, island, or high-cost states do.
+        </>
+      )
+    },
+    {
+      id: "how-it-affects-your-bill",
+      title: "How It Affects Your Bill",
+      content: (
+        <>
+          <h3>Cost impact</h3>
+          Tiered plans can increase your monthly bill by 20–60% if you dip into higher tiers—even without changing habits. For example, if your average monthly usage is 550 kWh and your plan’s Tier 1 cap is 500 kWh:
+          - You’ll pay the lower rate for 500 kWh
+          - And the higher rate for 50 kWh
+          - That 10% extra usage could cost 25% more in total.
+          Over a year, consistently hitting Tier 2 adds $150–$400 to your annual bill. In 2026, the U.S. Energy Information Administration estimates tiered-rate households spend 18% more on average than those on flat rates—*if* their usage exceeds thresholds.
+          <h3>Seasonal variations</h3>
+          Your usage—and tier placement—changes with the seasons:
+          - <strong>Summer:</strong> Air conditioning pushes usage up. A home averaging 500 kWh/month in winter may hit 850 kWh in July—jumping into Tier 3.
+          - <strong>Winter:</strong> Heating, lighting, and holidays may trigger Tier 2 in colder months.
+          - <strong>Shoulder months:</strong> Spring and fall often keep usage in Tier 1—your cheapest window.
+          Watch for “tier creep”: small increases (e.g., 10 extra loads of laundry, slightly higher AC setting) can push you over a threshold. One utility found that 37% of customers unintentionally entered Tier 2 due to a single appliance failure (e.g., a failing fridge running constantly).
+          To stay in Tier 1:
+          - Track usage weekly via your utility’s app
+          - Set usage alerts at 70–80% of your first-tier threshold
+          - Run dishwashers/washing machines before 4 PM (if paired with time-of-use, see next section)
+        </>
+      )
+    },
+    {
+      id: "frequently-asked-questions",
+      title: "Frequently Asked Questions",
+      content: (
+        <>
+          **Q: Do all utilities use tiered rates?**
+          No—only about 40% of U.S. utilities use tiered pricing. Others use flat rates, time-of-use (TOU), or hybrid plans. Check your bill’s “Rate Schedule” or your utility’s website.
+          **Q: Is tiered pricing fair?**
+          It’s designed to be fair: heavy users pay more for infrastructure and peak-generation costs. But low-income households with medical devices or large families may struggle. Some utilities offer income-eligible discounts (e.g., California’s Low-Income Health Care Assistance Program).
+          **Q: Can I switch from tiered to a flat rate?**
+          Sometimes. In deregulated markets (e.g., Texas, Pennsylvania), you can choose a fixed-rate retailer. In regulated markets (e.g., Florida, Indiana), you may be stuck with the utility’s plan—or request a rate change, if available.
+          **Q: How is tiered different from time-of-use (TOU)?**
+          Tiered = price increases based on *total monthly usage*. TOU = price changes based on *when* you use electricity (e.g., $0.30/kWh at 5 PM, $0.10/kWh at 10 AM). Some plans combine both—check your summary.
+          **Q: Will reducing usage lower my rate per kWh?**
+          Yes—but only *within* your current billing cycle. Lowering usage this month keeps you in Tier 1, but next month resets. You can’t “save up” lower rates.
+          **Q: Do tiered rates apply to solar customers?**
+          Yes—but net metering credits offset them. If you generate 500 kWh but use 700 kWh, the extra 200 kWh determines your tier. Excess generation (you use less than you make) usually pays a lower export rate.
+        </>
+      )
+    },
+    {
+      id: "conclusion",
+      title: "Conclusion",
+      content: (
+        <>
+          Tiered electricity rates are a common—and sometimes confusing—way utilities encourage conservation. They work by charging more per kWh the more you use in a month, with clear thresholds that trigger higher prices. For first-time bill payers, the biggest risk is unintentionally jumping into a higher tier and facing a bill 30–50% higher than expected.
+          To avoid surprises:
+          • Know your plan’s tier thresholds and rates (check your latest bill or utility website)
+          • Track weekly usage in your app or with a smart plug
+          • Shift high-usage activities (dishwasher, laundry) to months when you’ll stay in Tier 1
+          • Ask about companion programs like energy audits or budget billing
+          If you’re consistently hitting Tier 2, it’s not just about cutting back—it’s about smart redistribution of usage. For deeper guidance, explore our guide to <a href="/blog/electricity-bill-tricks-2026">10 electricity bill tricks that actually work in 2026</a>.
+          Remember: understanding your rate plan is the first step to controlling your costs. You’ve got this.
+        </>
+      )
+    },
+  ],
+  faqs: [
+    {
+      question: "What is this charge on my utility bill?",
+      answer: "Utility bills include multiple line items. Check your bill's detailed breakdown or contact your utility for clarification."
+    },
+    {
+      question: "How can I lower my utility bills?",
+      answer: "Focus on energy efficiency, proper insulation, smart thermostat usage, and comparing provider rates if you're in a deregulated market."
+    },
+  ]
+};

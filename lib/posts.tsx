@@ -34,6 +34,7 @@ import { how_do_smart_meters_work_post } from "@/lib/generatedPosts/contentEmpir
 import { how_to_lower_electric_bill_without_solar_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { demand_charge_electric_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { time_of_use_electricity_rates_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { tiered_electricity_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
