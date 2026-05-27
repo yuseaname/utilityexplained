@@ -17,6 +17,7 @@ import { waterPillarRatesFeesPosts_2025_12_28 } from "@/lib/generatedPosts/water
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpirePosts_2026_03_19";
+import { why_is_my_electric_bill_so_high_this_month_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
@@ -41,7 +42,8 @@ const normalizePostImage = (post: Post): Post => {
   };
 };
 
-const posts: Post[] = [
+const posts: Post[
+  why_is_my_electric_bill_so_high_this_month_post,] = [
   {
     slug: "why-is-my-electricity-bill-so-high-in-winter",
     title: "Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)",
