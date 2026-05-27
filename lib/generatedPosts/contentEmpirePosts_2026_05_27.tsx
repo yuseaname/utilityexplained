@@ -432,7 +432,7 @@ import type { Post } from "@/lib/types";
 
 export const how_to_read_a_water_meter_post: Post = {
   slug: "how-to-read-a-water-meter",
-  title: "How to How To Read A Water Meter: Step-by-Step (2026)",
+  title: "How to Read a Water Meter: Step-by-Step (2026)",
   description: "Learn everything about how to read a water meter in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
   category: "Utility Bills",
   keyword: "how to read a water meter",
@@ -440,7 +440,7 @@ export const how_to_read_a_water_meter_post: Post = {
   readTime: "12 min read",
   image: {
     src: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.png",
-    alt: "How to How To Read A Water Meter: Step-by-Step (2026)"
+    alt: "How to Read a Water Meter: Step-by-Step (2026)"
   },
   relatedSlugs: ["electricity-explained", "how-to-read-your-electric-bill", "what-is-a-kilowatt-hour"],
   sections: [
@@ -889,7 +889,7 @@ import type { Post } from "@/lib/types";
 
 export const how_to_read_your_gas_bill_therms_explained_post: Post = {
   slug: "how-to-read-your-gas-bill-therms-explained",
-  title: "What Is How To Read Your Gas Bill Therms Explained? Explained Simply (2026)",
+  title: "How to Read Your Gas Bill Therms Explained (2026)",
   description: "Learn everything about how to read your gas bill therms explained in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
   category: "Utility Bills",
   keyword: "how to read your gas bill therms explained",
@@ -897,7 +897,7 @@ export const how_to_read_your_gas_bill_therms_explained_post: Post = {
   readTime: "12 min read",
   image: {
     src: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.png",
-    alt: "What Is How To Read Your Gas Bill Therms Explained? Explained Simply (2026)"
+    alt: "How to Read Your Gas Bill Therms Explained (2026)"
   },
   relatedSlugs: ["electric-bill-breakdown"],
   sections: [
@@ -2227,7 +2227,7 @@ import type { Post } from "@/lib/types";
 
 export const how_do_smart_meters_work_post: Post = {
   slug: "how-do-smart-meters-work",
-  title: "What Is How Do Smart Meters Work? Explained Simply (2026)",
+  title: "How Do Smart Meters Work (2026)",
   description: "Learn everything about how do smart meters work in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
   category: "Utility Bills",
   keyword: "how do smart meters work",
@@ -2235,7 +2235,7 @@ export const how_do_smart_meters_work_post: Post = {
   readTime: "12 min read",
   image: {
     src: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_00001_.png",
-    alt: "What Is How Do Smart Meters Work? Explained Simply (2026)"
+    alt: "How Do Smart Meters Work (2026)"
   },
   relatedSlugs: ["electricity-explained", "how-to-read-your-electric-bill", "what-is-a-kilowatt-hour"],
   sections: [
@@ -2536,7 +2536,7 @@ import type { Post } from "@/lib/types";
 
 export const demand_charge_electric_bill_explained_post: Post = {
   slug: "demand-charge-electric-bill-explained",
-  title: "What Is Demand Charge Electric Bill Explained? Explained Simply (2026)",
+  title: "Demand Charge Electric Bill Explained (2026)",
   description: "Learn everything about demand charge electric bill explained in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
   category: "Utility Bills",
   keyword: "demand charge electric bill explained",
@@ -2544,7 +2544,7 @@ export const demand_charge_electric_bill_explained_post: Post = {
   readTime: "12 min read",
   image: {
     src: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.png",
-    alt: "What Is Demand Charge Electric Bill Explained? Explained Simply (2026)"
+    alt: "Demand Charge Electric Bill Explained (2026)"
   },
   relatedSlugs: ["how-to-read-your-electric-meter", "time-of-use-rates-explained"],
   sections: [
@@ -2933,7 +2933,7 @@ import type { Post } from "@/lib/types";
 
 export const tiered_electricity_rates_explained_post: Post = {
   slug: "tiered-electricity-rates-explained",
-  title: "What Is Tiered Electricity Rates Explained? Explained Simply (2026)",
+  title: "Tiered Electricity Rates Explained (2026)",
   description: "Learn everything about tiered electricity rates explained in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
   category: "Utility Bills",
   keyword: "tiered electricity rates explained",
@@ -2941,7 +2941,7 @@ export const tiered_electricity_rates_explained_post: Post = {
   readTime: "12 min read",
   image: {
     src: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.png",
-    alt: "What Is Tiered Electricity Rates Explained? Explained Simply (2026)"
+    alt: "Tiered Electricity Rates Explained (2026)"
   },
   relatedSlugs: ["electricity-bill-tricks-2026"],
   sections: [
