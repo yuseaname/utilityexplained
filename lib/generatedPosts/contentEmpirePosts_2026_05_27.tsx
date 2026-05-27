@@ -2849,3 +2849,248 @@ export const demand_charge_electric_bill_explained_post: Post = {
     },
   ]
 };
+
+import type { Post } from "@/lib/types";
+
+export const time_of_use_electricity_rates_post: Post = {
+  slug: "time-of-use-electricity-rates",
+  title: "Time Of Use Electricity Rates: Complete Guide (2026)",
+  description: "Learn everything about time of use electricity rates in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
+  category: "Utility Bills",
+  keyword: "time of use electricity rates",
+  date: "2026-05-27",
+  readTime: "12 min read",
+  image: {
+    src: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.png",
+    alt: "Time Of Use Electricity Rates: Complete Guide (2026)"
+  },
+  relatedSlugs: ["solar-vs-tou-plans", "solar-tou-plans", "peak-hours-by-state", "electricity-bill-troubleshooting"],
+  sections: [
+    {
+      id: "the-short-answer",
+      title: "The Short Answer",
+      content: (
+        <>
+          <p>Time of use (TOU) electricity rates charge different prices depending on <em>when</em> you use power—higher during “peak” hours (usually weekdays, 2–7 pm), lower during “off-peak” hours (nights, weekends, holidays). This applies to homeowners who opted into a TOU plan (often offered by utilities or competitive energy suppliers), especially in states like California, Texas, New York, and Illinois.</p>
+          <p>If you’re a first-time bill payer and see variable rates on your electricity statement, you’re likely on a TOU plan. It doesn’t apply to all customers—some still use flat “standard” rates. To confirm, check your latest bill under “Rate Schedule” or “Plan Name.”</p>
+          <p>Why it matters: A TOU plan can save you <strong>10–30% annually</strong> if you shift usage (like running dishwashers or chargers overnight). But if you run heavy appliances during peak hours, your bill could rise. Let’s break down everything you need to know.</p>
+          <figure>
+          <img src="/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_section-1_00001_.png" alt="time of use electricity rates detailed close-up, practical example" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "what-is-time-of-use-electricity-rates",
+      title: "What Is Time of Use Electricity Rates?",
+      content: (
+        <>
+          <h3>Definition</h3>
+          <p>Time of use (TOU) electricity rates are a pricing model where the cost per kilowatt-hour (kWh) changes based on the time of day, day of the week, and season. Instead of one flat rate 24/7, your bill reflects real-time grid demand—just like ride-share surge pricing, but for electricity.</p>
+          <h3>How It Works</h3>
+          <p>Utilities divide the day into three main periods:</p>
+          <ul>
+          <li><strong>Peak (On-Peak):</strong> Highest demand, highest price (e.g., weekdays 2–7 pm, summer)</li>
+          <li><strong>Shoulder:</strong> Moderate demand, moderate price (e.g., mornings, evenings, weekends)</li>
+          <li><strong>Off-Peak:</strong> Lowest demand, lowest price (e.g., nights, holidays, weekends)</li>
+          </ul>
+          <p>Some plans (especially in 2026) now include <strong>super off-peak</strong> windows (e.g., 10 pm–6 am year-round), ideal for EV charging or laundry.</p>
+          <p>Homeowners care because TOU plans reward flexibility. For example, if your toaster uses 1 kWh and costs $0.25/kWh off-peak but $0.75/kWh peak, the same toast costs <strong>3× more</strong> during high-demand hours.</p>
+          <p>Key components to watch on your bill:</p>
+          <ul>
+          <li><strong>Supply charge</strong> (the actual electricity cost—varies by TOU tier)</li>
+          <li><strong>Delivery charge</strong> (transmission/distribution—usually fixed)</li>
+          <li><strong>Time-of-use metering</strong> (your smart meter tracks usage hourly)</li>
+          </ul>
+          <p>Without a smart meter, TOU plans aren’t possible. In 2026, over 65% of U.S. households with smart meters are eligible for TOU options—check with your utility to see if your meter supports it.</p>
+          <figure>
+          <img src="/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_section-2_00001_.png" alt="time of use electricity rates cost comparison visual, infographic style" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "cost-breakdown",
+      title: "Cost Breakdown",
+      content: (
+        <>
+          <h3>Typical Costs (2026 Estimates)</h3>
+          <p>In 2026, average TOU rates across the U.S. look like this (per kWh, including all charges):</p>
+          <table>
+          <tr>
+          <th>Period</th>
+          <th>Summer (June–Sept)</th>
+          <th>Winter (Oct–May)</th>
+          </tr>
+          <tr>
+          <td><strong>Peak (2–7 pm weekdays)</strong></td>
+          <td>$0.38–$0.62</td>
+          <td>$0.22–$0.35</td>
+          </tr>
+          <tr>
+          <td><strong>Shoulder</strong></td>
+          <td>$0.18–$0.28</td>
+          <td>$0.14–$0.20</td>
+          </tr>
+          <tr>
+          <td><strong>Off-Peak (10 pm–6 am)</strong></td>
+          <td>$0.08–$0.15</td>
+          <td>$0.07–$0.12</td>
+          </tr>
+          </table>
+          <p><em>Note: California (PG&E) and NYISO (Con Edison) lead in TOU adoption; Texas (ERCOT) has more variable pricing.</em></p>
+          <h3>Seasonal Impact</h3>
+          <p>Summer peak hours cost more due to air conditioning demand. In 2026, many utilities added <strong>“super off-peak” discounts</strong> for EV charging—e.g., PG&E’s EV-TOU plan offers $0.06/kWh from midnight–6 am. That’s <strong>65% cheaper</strong> than peak rates.</p>
+          <p>A typical household using 900 kWh/month could see big swings:</p>
+          <ul>
+          <li>All usage during peak: ~$450/month (unrealistic but illustrates risk)</li>
+          <li>Smart shifting (70% off-peak): ~$110–$130/month</li>
+          <li>Standard flat rate (2026 avg): ~$145/month</li>
+          </ul>
+          <p>That’s a potential <strong>$25–$35/month savings</strong> with behavior changes alone.</p>
+          <h3>How to Calculate Your Bill</h3>
+          <p>Your monthly TOU bill = (Peak kWh × Peak rate) + (Shoulder kWh × Shoulder rate) + (Off-peak kWh × Off-peak rate) + fixed delivery fees.</p>
+          <p>Example: If you used 300 kWh off-peak, 200 kWh shoulder, 100 kWh peak in summer:</p>
+          <ul>
+          <li>Off-peak: 300 × $0.12 = $36</li>
+          <li>Shoulder: 200 × $0.22 = $44</li>
+          <li>Peak: 100 × $0.50 = $50</li>
+          <li><strong>Subtotal (supply): $130</strong> + $30 delivery = <strong>$160</strong></li>
+          </ul>
+          <p>Use your utility’s online calculator (e.g., “PG&E Bill Calculator” or “ComEd Electric Rate Estimator”) to model scenarios before switching plans.</p>
+        </>
+      )
+    },
+    {
+      id: "key-factors-to-consider",
+      title: "Key Factors to Consider",
+      content: (
+        <>
+          <h3>Location</h3>
+          <p>TOU design varies by utility region:</p>
+          <ul>
+          <li><strong>California (PG&E, SDG&E, SCE):</strong> 4–5 peak hours weekdays; summer-only super off-peak</li>
+          <li><strong>Texas (ERCOT):</strong> Real-time pricing; 2 pm–6 pm weekdays peak</li>
+          <li><strong>New York (Con Edison):</strong> 2–7 pm weekdays; winter off-peak rates drop 40% vs summer</li>
+          </ul>
+          <p>Always verify your utility’s current schedule—2026 updates include expanded shoulder periods to ease grid stress.</p>
+          <h3>Usage Patterns</h3>
+          <p>Ask yourself:</p>
+          <ul>
+          <li>When do you run dishwasher, washer/dryer, and EV charger?</li>
+          <li>Do you work from home (more off-peak usage)? Or leave for 9–5 (more peak usage)?</li>
+          <li>Do you have solar panels? Off-peak credits for excess solar can offset peak charges.</li>
+          </ul>
+          <p>Households with young children or remote workers may benefit more—while dual-income households (gone 9–5) risk higher bills if appliances run during peak.</p>
+          <h3>Plan Type & Hidden Fees</h3>
+          <p>Common TOU plan types in 2026:</p>
+          <table>
+          <tr>
+          <th>Plan Type</th>
+          <th>Best For</th>
+          <th>Watch Out For</th>
+          </tr>
+          <tr>
+          <td><strong>Standard TOU</strong></td>
+          <td>Flexible households</td>
+          <td>Peak rates spike in summer</td>
+          </tr>
+          <tr>
+          <td><strong>EV-TOU</strong></td>
+          <td>EV owners</td>
+          <td>Requires smart charger; 10 pm–6 am only</td>
+          </tr>
+          <tr>
+          <td><strong>Time-Based Solar TOU</strong></td>
+          <td>Homeowners with solar</td>
+          <td>Net metering credits may be lower off-peak</td>
+          </tr>
+          </table>
+          <p><strong>Hidden fees to confirm:</strong></p>
+          <ul>
+          <li>Monthly plan fee ($2–$10)</li>
+          <li>Smart meter installation fee (often waived in 2026)</li>
+          <li>Early termination fee if switching from fixed-rate</li>
+          </ul>
+          <p>Always request a <strong>rate comparison sheet</strong> from your utility—by law, they must provide it free.</p>
+        </>
+      )
+    },
+    {
+      id: "practical-tips-and-fixes",
+      title: "Practical Tips and Fixes",
+      content: (
+        <>
+          <h3>Immediate Actions (This Week)</h3>
+          <ul>
+          <li><strong>Track your usage:</strong> Log appliance use for 3 days using a plug-in power meter (like Kill-A-Watt).</li>
+          <li><strong>Shift one major load:</strong> Run dishwasher/washing machine after 8 pm or on weekends.</li>
+          <li><strong>Set timers:</strong> Use a smart plug to delay coffee maker until 7 am (off-peak).</li>
+          <li><strong>Check your bill:</strong> Look for “TOU” or “Time-of-Use” in your plan name—don’t assume.</li>
+          </ul>
+          <h3>Long-Term Savings</h3>
+          <ul>
+          <li><strong>Upgrade to smart devices:</strong> Smart thermostats (like Nest) can pre-cool homes before peak hours, saving 5–15%.</li>
+          <li><strong>Install EV charger:</strong> Many utilities offer free installation + $100/year bill credit for off-peak charging.</li>
+          <li><strong>Review annually:</strong> TOU rates change yearly—reassess in spring 2026 before summer peaks hit.</li>
+          <li><strong>Combine with solar:</strong> Pairing TOU with solar can cut bills 40–60% in high-rate areas (e.g., Southern California).</li>
+          </ul>
+          <p><a href="/blog/solar-tou-plans">Our guide to solar + TOU</a> explains how to maximize self-consumption during cheaper hours.</p>
+        </>
+      )
+    },
+    {
+      id: "frequently-asked-questions",
+      title: "Frequently Asked Questions",
+      content: (
+        <>
+          <p><strong>1. How do I know if I’m on a TOU plan?</strong><br />
+          Check your bill for “TOU,” “Time-of-Use,” or a rate name like “EV-TOU-A.” Smarter meters (digital displays) are required for TOU—call your utility if unsure.</p>
+          <p><strong>2. Can I switch back to a flat rate?</strong><br />Yes—most utilities allow one free switch per year. But 2026 changes mean flat rates are now 5–12% higher than TOU off-peak rates, so compare first.</p>
+          <p><strong>3. Are TOU rates worth it for EV owners?</strong><br />Absolutely—if you charge overnight. A 60 kWh EV costs ~$7.20 off-peak (at $0.12/kWh) vs $30+ during peak. That’s $72/month savings alone.</p>
+          <p><strong>4. Why does my bill jump in summer even with TOU?</strong><br />Peak rates are higher in summer, and AC use spikes during those hours. Try setting your thermostat 2–3°F higher during 2–7 pm.</p>
+          <p><strong>5. Do holidays count as off-peak?</strong><br />Yes—Christmas, Thanksgiving, and major holidays are off-peak all day (24 hrs), even if mid-week.</p>
+          <p><strong>6. My bill is higher after switching—what went wrong?</strong><br />You likely used more during peak hours. Review your usage log: Were you running oven/dryer during 2–5 pm? Shift those tasks.</p>
+          <p><strong>7. Are TOU plans available in all states?</strong><br />No—2026 adoption is highest in CA, TX, NY, IL, and MA. Check the <a href="https://www.eia.gov/electricity/annual/html/aeer/0302.html">EIA’s TOU map</a> for state-by-state status.</p>
+        </>
+      )
+    },
+    {
+      id: "conclusion",
+      title: "Conclusion",
+      content: (
+        <>
+          <p>Time of use electricity rates are a smart, flexible option—if you match your usage to low-cost hours. In 2026, with rising grid stress and EV adoption, TOU plans offer real savings for proactive households, but can increase bills for those unaware of peak windows.</p>
+          <p>Take action now:</p>
+          <ul>
+          <li>Review your latest bill for your current plan type</li>
+          <li>Use your utility’s TOU calculator to compare scenarios</li>
+          <li>Shift one major appliance (e.g., laundry) to off-peak this week</li>
+          </ul>
+          <p>Small changes compound: just shifting 1 kWh of daily usage from peak to off-peak saves ~$20/year. For deeper savings, explore home energy audits or smart devices.</p>
+          <p>Further reading:</p>
+          <ul>
+          <li><a href="/blog/electricity-bill-troubleshooting">How to spot errors on your electricity bill</a></li>
+          <li><a href="/blog/solar-vs-tou-plans">Solar panels + TOU: 5 mistakes to avoid</a></li>
+          <li><a href="/blog/peak-hours-by-state">2026 peak/off-peak hours by utility</a></li>
+          </ul>
+        </>
+      )
+    },
+  ],
+  faqs: [
+    {
+      question: "1. How do I know if I’m on a TOU plan?  
+Check your bill for “TOU,” “Time-of-Use,” or a rate name like “EV-TOU-A.” Smarter meters (digital displays) are required for TOU—call your utility if unsure.",
+      answer: "2. Can I switch back to a flat rate?  Yes—most utilities allow one free switch per year. But 2026 changes mean flat rates are now 5–12% higher than TOU off-peak rates, so compare first."
+    },
+    {
+      question: "3. Are TOU rates worth it for EV owners?  Absolutely—if you charge overnight. A 60 kWh EV costs ~$7.20 off-peak (at $0.12/kWh) vs $30+ during peak. That’s $72/month savings alone.",
+      answer: "4. Why does my bill jump in summer even with TOU?  Peak rates are higher in summer, and AC use spikes during those hours. Try setting your thermostat 2–3°F higher during 2–7 pm."
+    },
+    {
+      question: "5. Do holidays count as off-peak?  Yes—Christmas, Thanksgiving, and major holidays are off-peak all day (24 hrs), even if mid-week.",
+      answer: "6. My bill is higher after switching—what went wrong?  You likely used more during peak hours. Review your usage log: Were you running oven/dryer during 2–5 pm? Shift those tasks."
+    },
+  ]
+};
