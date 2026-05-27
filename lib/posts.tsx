@@ -24,6 +24,7 @@ import { gas_vs_electric_heating_cost_comparison_post } from "@/lib/generatedPos
 import { why_did_my_water_bill_suddenly_increase_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { how_to_read_your_gas_bill_therms_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { fixed_vs_variable_rate_electricity_plan_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { average_water_usage_per_person_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",

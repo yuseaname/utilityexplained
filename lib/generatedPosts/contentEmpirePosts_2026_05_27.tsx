@@ -1198,3 +1198,176 @@ export const fixed_vs_variable_rate_electricity_plan_post: Post = {
     },
   ]
 };
+
+import type { Post } from "@/lib/types";
+
+export const average_water_usage_per_person_post: Post = {
+  slug: "average-water-usage-per-person",
+  title: "What Is Average Water Usage Per Person? Explained Simply (2026)",
+  description: "Learn everything about average water usage per person in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
+  category: "Utility Bills",
+  keyword: "average water usage per person",
+  date: "2026-05-27",
+  readTime: "12 min read",
+  image: {
+    src: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_00001_.png",
+    alt: "What Is Average Water Usage Per Person? Explained Simply (2026)"
+  },
+  relatedSlugs: ["check-for-leaks", "low-flow-showerheads"],
+  sections: [
+    {
+      id: "section-1-the-short-answer",
+      title: "Section 1: The Short Answer",
+      content: (
+        <>
+          <p>The <strong>average water usage per person</strong> in the U.S. is about <strong>80–100 gallons per day</strong>. This includes all indoor and outdoor uses—like drinking, showering, laundry, and watering lawns.</p>
+          <p>Why does this number matter? Because your water bill is directly tied to how much water you use—and knowing the average helps you spot if your usage is unusually high or low. If your household of three is using over 300 gallons a day, it may be time to check for leaks or adjust habits. On the flip side, if you’re using less than 60 gallons per person daily, you’re already saving water and money.</p>
+          <p>This figure isn’t just a statistic—it’s a benchmark for budgeting, conservation, and understanding where your water dollars go. In this article, we’ll break down where those gallons come from, how they vary by region and household size, and what they mean for your next utility bill.</p>
+          <figure>
+          <img src="/images/articles/average-water-usage-per-person/average-water-usage-per-person_section-1_00001_.png" alt="average water usage per person detailed close-up, practical example" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "section-2-how-average-water-usage-per-pe",
+      title: "Section 2: How average water usage per person Works",
+      content: (
+        <>
+          <p><strong>Definition:</strong> Average water usage per person is calculated by dividing a household’s total monthly water consumption (in gallons) by the number of people living in the home. Utilities report this in your billing statement, but you can also estimate it yourself using your meter reading or past bills.</p>
+          <p><strong>Key components:</strong> Most indoor water use falls into five categories:</p>
+          <ul>
+          <li><strong>Showering and bathing:</strong> ~20% of daily use (4–10 gallons per minute)</li>
+          <li><strong>Toilets:</strong> ~25% (older models use 3.5–7 gallons per flush; new ones use ≤1.28)</li>
+          <li><strong>Laundry:</strong> ~15–20% (20–45 gallons per load)</li>
+          <li><strong>Faucets:</strong> ~15% (2–3 gallons per minute)</li>
+          <li><strong>Leaks:</strong> Often overlooked—can add 10%+ to your bill</li>
+          </ul>
+          <p>Outdoor use—like watering lawns or filling pools—can double or triple daily usage in dry or hot months. That’s why many utilities track seasonal adjustments.</p>
+          <p>Your bill reflects cumulative usage: utilities charge per 1,000 gallons (or sometimes per 100 cubic feet). For example, if your household uses 9,000 gallons in a month and your rate is $4.25 per 1,000 gallons, your water charge alone is $38.25—before sewer fees, taxes, or fixed charges.</p>
+          <p>Understanding this breakdown helps you prioritize changes. Fixing a leaky faucet (dripping at 10 drops/minute wastes ~3,000 gallons/year) can save more than skipping daily coffee runs. Tracking your usage lets you set realistic goals—like aiming for less than 70 gallons per person per day.</p>
+          <figure>
+          <img src="/images/articles/average-water-usage-per-person/average-water-usage-per-person_section-2_00001_.png" alt="average water usage per person cost comparison visual, infographic style" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "section-3-real-world-examples",
+      title: "Section 3: Real-World Examples",
+      content: (
+        <>
+          <h3>Example 1: Typical home</h3>
+          <p>A family of four in a Midwest city uses an average of 320 gallons per day in winter (January) and 480 gallons in summer (July). Here’s how that breaks down:</p>
+          <ul>
+          <li><strong>January daily average:</strong> 80 gallons/person → $2.10 per person/day</li>
+          <li><strong>July daily average:</strong> 120 gallons/person → $3.30 per person/day</li>
+          </ul>
+          <p>At 320 gallons/day × 30 days = 9,600 gallons used in January. At $4.25/1,000 gallons, their water charge = $40.80. Add 25% sewer fees and $5 fixed charge = ~$55 total for the month.</p>
+          <h3>Example 2: Different region</h3>
+          <p>The same-sized family in Phoenix, AZ, faces hotter, drier conditions and higher outdoor demand:</p>
+          <ul>
+          <li><strong>Winter (January):</strong> 90 gallons/person/day (due to dry indoor air, more showers)</li>
+          <li><strong>Summer (July):</strong> 220 gallons/person/day (lawn irrigation, more pool top-offs)</li>
+          </ul>
+          <p>That’s 2,640 gallons/day in summer × 30 = 79,200 gallons/month. At $5.10/1,000 gallons (2026 rate), water charge = $403.92—plus $100+ in sewer fees and tiered surcharges.</p>
+          <p>Regional differences matter because water scarcity drives pricing. In California (2026), many utilities use a <strong>tiered rate system</strong> to penalize high usage:</p>
+          <table>
+          <tr>
+          <th>Tier</th>
+          <th>Usage per person/day</th>
+          <th>Rate (2026)</th>
+          <th>Example cost for 4-person household (90,000 gal/month)</th>
+          </tr>
+          <tr>
+          <td>Baseline</td>
+          <td>≤80 gal</td>
+          <td>$4.00/1,000 gal</td>
+          <td>$360</td>
+          </tr>
+          <tr>
+          <td>High Use</td>
+          <td>>100 gal</td>
+          <td>$7.50/1,000 gal</td>
+          <td>$675</td>
+          </tr>
+          <tr>
+          <td>Excessive</td>
+          <td>>150 gal</td>
+          <td>$12.00/1,000 gal</td>
+          <td>$1,080+</td>
+          </tr>
+          </table>
+          <p>That extra $720 in summer isn’t just wasteful—it’s avoidable with simple conservation.</p>
+        </>
+      )
+    },
+    {
+      id: "section-4-how-it-affects-your-bill",
+      title: "Section 4: How It Affects Your Bill",
+      content: (
+        <>
+          <h3>Cost impact</h3>
+          <p>At today’s national average (2026), water and sewer combined cost about <strong>$2.00–$3.00 per 1,000 gallons</strong> in rural areas and <strong>$4.00–$7.00+ in high-cost urban zones</strong>. For most households:</p>
+          <ul>
+          <li>Every 10 extra gallons/person/day adds ~$25–$50/month to your bill</li>
+          <li>A 10% reduction in usage cuts your water/sewer cost by ~$10–$20/month</li>
+          <li>Fixing one leaky toilet (10,000 gal/year) saves $40–$70/year</li>
+          </ul>
+          <p>That’s why tracking per-person usage is smarter than just looking at your total bill.</p>
+          <h3>Seasonal variations</h3>
+          <p>Outdoor use spikes in summer—often by 30–60%—and can push usage per person above 120 gallons/day. That’s when your bill jumps:</p>
+          <ul>
+          <li><strong>Winter:</strong> 60–80 gal/person → $30–$50/month total bill</li>
+          <li><strong>Summer:</strong> 90–140+ gal/person → $55–$120+ total bill</li>
+          </ul>
+          <p><strong>When to worry:</strong> If your per-person usage stays above 120 gallons/day in winter—or above 150 in summer—dig deeper. Check for hidden leaks (turn off all water, watch your meter for 10 minutes), or review your habits (e.g., 10-minute showers × 4 people = 1,000+ gallons/week).</p>
+          <p>Also watch for unexpected jumps: if your monthly bill rose 40% but household size and weather didn’t change, there’s likely a leak or malfunctioning appliance.</p>
+        </>
+      )
+    },
+    {
+      id: "section-5-frequently-asked-questions",
+      title: "Section 5: Frequently Asked Questions",
+      content: (
+        <>
+          <p><strong>Q: Is 100 gallons per person per day normal?</strong><br />
+          Yes—especially in larger households. The U.S. Geological Survey estimates 80–100 gallons/day/person is typical for U.S. homes. But it’s not “ideal.” Many water-wise households stay under 60.</p>
+          <p><strong>Q: How much water does a person actually need to survive?</strong><br />
+          Only about 2–5 gallons for drinking, cooking, and basic hygiene. The rest is comfort and convenience—showers, laundry, lawns. You can live on 30–40 gallons, but most people don’t want to.</p>
+          <p><strong>Q: Does household size affect per-person usage?</strong><br />Yes. Smaller households (1–2 people) often use <em>more</em> per person because fixed fixtures (toilets, showers) get used more frequently per person. Larger households (4+) usually use <em>less</em> per person thanks to efficient batch laundry/dishwashing.</p>
+          <p><strong>Q: Are older homes really that much more wasteful?</strong><br />Yes—if they have pre-1992 fixtures. Toilets before 1992 used 3.5–7 gallons/flush; modern ones use ≤1.28. Showerheads before 1992 used 5–8 gpm; now they’re capped at 2.0 gpm. Upgrading cuts indoor use by 20–30%.</p>
+          <p><strong>Q: How do I calculate my own per-person usage?</strong><br />Take your last bill’s total gallons. Divide by the number of people in your home. Divide by the number of days in the billing period. Example: 6,000 gal ÷ 4 people ÷ 30 days = 50 gal/person/day.</p>
+          <p><strong>Q: Do water-saving appliances really make a difference?</strong><br />Absolutely. A ENERGY STAR washing machine uses 13–15 gallons/load vs. 23+ for older models. That’s ~200 fewer gallons/week for a family of four. Over a year? That’s 10,000+ gallons saved.</p>
+        </>
+      )
+    },
+    {
+      id: "section-6-conclusion",
+      title: "Section 6: Conclusion",
+      content: (
+        <>
+          <p>The <strong>average water usage per person</strong> in the U.S. is 80–100 gallons daily—but you can do better. Start by calculating your own usage: divide your monthly gallons by your household size and days in the billing period. Compare it to regional benchmarks (like Phoenix’s summer highs or Midwest winters) to see where you stand.</p>
+          <p>Focus on the big three levers: fix leaks, shorten showers, and upgrade fixtures. Even small changes add up—cutting your showers by 2 minutes saves ~10,000 gallons/year per person. That’s $50+ in savings annually.</p>
+          <p>Next steps:</p>
+          <ul>
+          <li><a href="/blog/check-for-leaks">Check for leaks this week</a> using your water meter</li>
+          <li><a href="/blog/low-flow-showerheads">Install low-flow showerheads</a> (they pay for themselves in 3 months)</li>
+          <li>Set a personal goal: reduce to ≤70 gallons/person/day by year-end</li>
+          </ul>
+          <p>Conservation isn’t about deprivation—it’s about using water wisely. And when you save water, you save money. Every gallon counts.</p>
+        </>
+      )
+    },
+  ],
+  faqs: [
+    {
+      question: "What is this charge on my utility bill?",
+      answer: "Utility bills include multiple line items. Check your bill's detailed breakdown or contact your utility for clarification."
+    },
+    {
+      question: "How can I lower my utility bills?",
+      answer: "Focus on energy efficiency, proper insulation, smart thermostat usage, and comparing provider rates if you're in a deregulated market."
+    },
+  ]
+};
