@@ -42,6 +42,7 @@ import { is_your_toilet_running_leak_test_post } from "@/lib/generatedPosts/cont
 import { water_service_charge_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { water_meter_leak_indicator_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { why_is_my_water_bill_higher_in_summer_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { sewer_averaging_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
