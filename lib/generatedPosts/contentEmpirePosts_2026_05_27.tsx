@@ -2697,3 +2697,155 @@ export const how_to_lower_electric_bill_without_solar_post: Post = {
     },
   ]
 };
+
+import type { Post } from "@/lib/types";
+
+export const demand_charge_electric_bill_explained_post: Post = {
+  slug: "demand-charge-electric-bill-explained",
+  title: "What Is Demand Charge Electric Bill Explained? Explained Simply (2026)",
+  description: "Learn everything about demand charge electric bill explained in 2026. Plain-English explanations, costs, and practical tips for US homeowners.",
+  category: "Utility Bills",
+  keyword: "demand charge electric bill explained",
+  date: "2026-05-27",
+  readTime: "12 min read",
+  image: {
+    src: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.png",
+    alt: "What Is Demand Charge Electric Bill Explained? Explained Simply (2026)"
+  },
+  relatedSlugs: ["how-to-read-your-electric-meter", "time-of-use-rates-explained"],
+  sections: [
+    {
+      id: "the-short-answer",
+      title: "The Short Answer",
+      content: (
+        <>
+          A <strong>demand charge</strong> is a fee on your electric bill based on your highest rate of electricity use during a specific time window — usually the 15- or 30-minute peak — within your billing period. Unlike the energy charge (which pays for the total electricity you use in kilowatt-hours), the demand charge pays for the *capacity* your usage demands from the grid — like how fast you drink from a straw, not how much you drink overall.
+          This matters because demand charges can make up a large portion — sometimes 30% to 60% — of a commercial or industrial bill, and even 10% to 20% for larger residential customers (e.g., homes with heat pumps, EVs, or workshops). Even if you only spike your usage for five minutes, that peak drives the entire demand charge for the month. Understanding this helps you avoid surprise bills and find smart ways to save.
+          <figure>
+          <img src="/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_section-1_00001_.png" alt="demand charge electric bill explained detailed close-up, practical example" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "how-demand-charge-electric-bill-explaine",
+      title: "How demand charge electric bill explained Works",
+      content: (
+        <>
+          <h3>Definition</h3>
+          In simple terms, a demand charge is your utility’s way of recovering the cost of building and maintaining the infrastructure needed to handle your *maximum power draw* — not just your total energy use. Think of it like paying for the width of a toll lane on a highway, not just for the miles you drive. If your home or business briefly turns on multiple high-wattage appliances at once, that temporary spike sets your demand charge for the entire month.
+          <h3>Key components</h3>
+          Three main elements define a demand charge:
+          - <strong>Peak demand window</strong>: Most utilities track usage in 15-minute intervals (some use 30 minutes). Your highest reading in that window becomes your “peak demand.”
+          - <strong>Demand rate</strong>: Expressed in dollars per kilowatt (kW), not per kilowatt-hour (kWh). For example, $12/kW in 2026 for commercial customers in many regions.
+          - <strong>Billing period scope</strong: Demand is typically measured per billing cycle (monthly). Some utilities average demand across multiple months (e.g., summer and winter) — especially for large customers.
+          Your demand charge = Peak demand (kW) × Demand rate ($/kW)
+          Electricity usage is measured in <strong>power (kW)</strong> vs. <strong>energy (kWh)</strong>. Power is the *rate* — how fast energy is used *right now*. Energy is the *total* — how much you used over time. A 10 kW oven running for 1 hour = 10 kWh of energy. But if that 10 kW oven runs for just 15 minutes, your peak demand is still 10 kW — and that sets your demand charge.
+          <figure>
+          <img src="/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_section-2_00001_.png" alt="demand charge electric bill explained cost comparison visual, infographic style" width="800" height="450" loading="lazy" />
+          </figure>
+        </>
+      )
+    },
+    {
+      id: "real-world-examples",
+      title: "Real-World Examples",
+      content: (
+        <>
+          <h3>Example 1: Typical home</h3>
+          Imagine a household in Ohio with a 200-amp service. In January 2026, their electric bill shows:
+          - Total energy used: 900 kWh
+          - Peak demand: 8.4 kW (recorded during a 15-min window when the heat pump, oven, dishwasher, and hair dryer ran simultaneously)
+          - Energy charge: $0.14/kWh × 900 kWh = $126.00
+          - Demand charge: $10.25/kW × 8.4 kW = $86.10
+          - Other fees (meter, taxes): ~$20
+          - **Total bill: ~$232**
+          Here, the demand charge is nearly **37% of the energy portion alone** — and 37% of the *bill before fees*.
+          The customer could reduce demand by staggering appliance use: turn on the oven *after* the dishwasher cycle ends, run the heat pump on a lower setting during peak hours, or delay hair drying until later.
+          <h3>Example 2: Different region</h3>
+          Now compare a small bakery in Austin, Texas, in 2026. Austin Energy’s commercial rate structure includes a demand charge of $14.85/kW (peak summer months). The bakery’s monthly usage:
+          - Peak demand: 42 kW (set during a 15-minute window when ovens, mixers, and refrigeration all hit full load at once)
+          - Energy used: 6,800 kWh
+          - Energy charge: $0.11/kWh × 6,800 = $748
+          - Demand charge: $14.85 × 42 = $623.70
+          - **Demand = 45% of energy cost**
+          If the bakery shifts baking schedules or adds a small energy-storage system (like a battery), it could shave 8–10 kW off its peak — saving over $120/month. That’s a real return on investment.
+          | Location | Demand Rate (2026) | Peak Demand (kW) | Demand Charge | % of Energy Cost |
+          |----------|--------------------|------------------|---------------|------------------|
+          | Ohio home | $10.25/kW | 8.4 kW | $86.10 | ~37% |
+          | Austin bakery | $14.85/kW | 42 kW | $623.70 | ~45% |
+        </>
+      )
+    },
+    {
+      id: "how-it-affects-your-bill",
+      title: "How It Affects Your Bill",
+      content: (
+        <>
+          <h3>Cost impact</h3>
+          For homes, demand charges are usually smaller than for businesses — but they’re rising. In 2026, many utilities added demand charges to “time-of-use” or “fixed-demand” residential plans, especially in areas with high grid stress (e.g., California, Texas, the Northeast). Typical ranges:
+          - Small homes (no EVs, gas appliances): $0–$10/month
+          - Medium homes (1 EV, heat pump, garage workshop): $15–$40/month
+          - Larger homes (2+ EVs, pool pump, workshop tools): $40–$100+/month
+          For small businesses, demand charges often exceed $100/month and can dominate the bill — especially for restaurants, data centers, or manufacturing.
+          <h3>Seasonal variations</h3>
+          Demand charges spike in extreme weather:
+          - <strong>Summer</strong>: Air conditioning runs constantly, and hot days may cause “ramp-up” spikes when AC kicks in after midday heat. A 2026 study in the Southeast found residential demand charges 2.3× higher in July vs. April.
+          - <strong>Winter</strong>: Electric heating (especially heat pumps in cold snaps) + simultaneous appliance use = dangerous peaks. In northern states, demand charges can double in February vs. November.
+          Your demand charge is *not* prorated — even if the spike happened on day 1 of the month, it still applies for the full billing cycle. That’s why managing *when* you use power matters more than you think.
+        </>
+      )
+    },
+    {
+      id: "frequently-asked-questions",
+      title: "Frequently Asked Questions",
+      content: (
+        <>
+          <strong>Q: Is a demand charge the same as a service charge?</strong>
+          No. A service charge (or meter charge) is a flat fee for having a connection. A demand charge is usage-based and tied to your peak power draw.
+          <strong>Q: Do all utilities charge demand for homes?</strong>
+          Not yet — but it’s spreading fast. As of 2026, over 60% of U.S. investor-owned utilities offer demand-based residential options (often optional). If you switch to a smart-meter plan or a time-of-use rate, you may be auto-enrolled.
+          <strong>Q: Can I avoid demand charges by using solar?</strong>
+          Solar reduces *energy* use, but not necessarily *demand*. If your solar panels shut off during a grid outage (standard for safety), your backup generator or battery may still cause a demand spike. Only with smart control (e.g., solar + battery + load management) can you reliably reduce demand.
+          <strong>Q: My bill says “peak demand” in kW — but my meter shows kWh. How?</strong>
+          Your smart meter measures kW continuously — it calculates power in real-time by dividing voltage × current × power factor. Every 15 minutes, it records the average kW over that window. Your utility then takes the highest of those 15-minute averages.
+          <strong>Q: Is there a way to lower demand charges without buying new appliances?</strong>
+          Yes! Simple behavioral fixes:
+          - Avoid running multiple high-wattage devices (oven, dryer, EV charger) at once
+          - Set timers so dishwashers/washing machines run off-peak
+          - Pre-cool your home before noon on hot days
+          - Use surge-protect strips to prevent phantom “standby” spikes that add up with EVs or home theaters
+          <strong>Q: Do demand charges include taxes?</strong
+          Yes — unlike some flat fees, demand charges are typically subject to state and federal taxes, just like energy charges.
+          <strong>Q: My utility doesn’t show demand on my bill. Am I being charged it?</strong>
+          Check your rate schedule. If you’re on a “flat demand” or “block” rate, the demand charge may be bundled into your energy rate. Look for terms like “demand included” or “unbundled demand.”
+        </>
+      )
+    },
+    {
+      id: "conclusion",
+      title: "Conclusion",
+      content: (
+        <>
+          A demand charge electric bill explained boils down to this: utilities charge you for how *fast* you use electricity at its busiest moment — not just how much you use overall. It’s a reflection of grid strain, not waste. Understanding it helps you avoid bills that jump unexpectedly — especially in summer or winter.
+          Take these three action items today:
+          1. <strong>Check your next bill</strong> — look for “demand,” “kW,” or “peak” line items.
+          2. <strong>Track your high-wattage appliances</strong> — note which ones run together (oven + dryer + EV = red flag).
+          3. <strong>Stagger usage</strong> — delay laundry until after dinner, pre-set your thermostat, or run your EV charger overnight.
+          If you’re on a new smart-meter plan, contact your utility to ask about demand management tools — many offer free load-monitoring apps or rebates for peak-shaving devices. Small changes in *when* you use power can cut your demand charge by 20% or more. And that’s money back in your pocket — no upgrades required.
+          For more ways to decode your electricity bill, explore our guides on <a href="/blog/time-of-use-rates-explained">time-of-use rates explained</a> and <a href="/blog/how-to-read-your-electric-meter">how to read your electric meter</a>.
+        </>
+      )
+    },
+  ],
+  faqs: [
+    {
+      question: "What is this charge on my utility bill?",
+      answer: "Utility bills include multiple line items. Check your bill's detailed breakdown or contact your utility for clarification."
+    },
+    {
+      question: "How can I lower my utility bills?",
+      answer: "Focus on energy efficiency, proper insulation, smart thermostat usage, and comparing provider rates if you're in a deregulated market."
+    },
+  ]
+};
