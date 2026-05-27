@@ -49,6 +49,7 @@ import { tiered_water_rates_explained_post } from "@/lib/generatedPosts/contentE
 import { drought_surcharge_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { stormwater_fee_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 import { why_is_my_gas_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { mcf_vs_ccf_vs_therms_on_gas_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
