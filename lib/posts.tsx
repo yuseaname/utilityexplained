@@ -17,40 +17,7 @@ import { waterPillarRatesFeesPosts_2025_12_28 } from "@/lib/generatedPosts/water
 import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from "@/lib/generatedPosts/heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27";
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpirePosts_2026_03_19";
-import { why_is_my_electric_bill_so_high_this_month_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_is_my_electricity_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_to_read_a_water_meter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { gas_vs_electric_heating_cost_comparison_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_did_my_water_bill_suddenly_increase_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_to_read_your_gas_bill_therms_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { fixed_vs_variable_rate_electricity_plan_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { average_water_usage_per_person_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_is_my_electricity_bill_so_high_in_summer_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_to_budget_for_utilities_in_your_first_apartment_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { what_is_a_kilowatt_hour_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_to_read_electric_meter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { electric_bill_breakdown_understanding_line_items_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_do_smart_meters_work_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_to_lower_electric_bill_without_solar_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { demand_charge_electric_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { time_of_use_electricity_rates_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { tiered_electricity_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { supply_vs_delivery_charges_electricity_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { what_is_ccf_on_a_water_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { how_sewer_charges_work_on_your_water_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { is_your_toilet_running_leak_test_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { water_service_charge_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { water_meter_leak_indicator_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_is_my_water_bill_higher_in_summer_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { sewer_averaging_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_is_my_water_bill_higher_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { water_meter_running_when_no_water_used_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { tiered_water_rates_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { drought_surcharge_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { stormwater_fee_on_water_bill_explained_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { why_is_my_gas_bill_so_high_in_winter_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { mcf_vs_ccf_vs_therms_on_gas_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
-import { gas_delivery_charge_vs_supply_charge_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_27";
+import { batch5UtilityPosts_2026_05_27 } from "@/lib/generatedPosts/batch5UtilityPosts_2026_05_27";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
@@ -75,8 +42,8 @@ const normalizePostImage = (post: Post): Post => {
   };
 };
 
-const posts: Post[
-  why_is_my_electric_bill_so_high_this_month_post,] = [
+const posts: Post[] = [
+  ...batch5UtilityPosts_2026_05_27,
   {
     slug: "why-is-my-electricity-bill-so-high-in-winter",
     title: "Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)",
@@ -3758,7 +3725,12 @@ const posts: Post[
   ...contentEmpirePosts_2026_03_19
 ];
 
-const normalizedPosts = posts.map(normalizePostImage);
+const normalizedPosts = posts.reduce<Post[]>((acc, post) => {
+  if (!acc.some((existing) => existing.slug === post.slug)) {
+    acc.push(normalizePostImage(post));
+  }
+  return acc;
+}, []);
 
 export const getAllPosts = () => normalizedPosts;
 
