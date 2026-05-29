@@ -18,6 +18,7 @@ import { heatingCoolingPillarFurnaceHeatPumpShortCyclingPosts_2025_12_27 } from 
 import { utilityBillsPillarAccountFeesPosts_2025_12_27 } from "@/lib/generatedPosts/utilityBillsPillarAccountFeesPosts_2025_12_27";
 import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpirePosts_2026_03_19";
 import { batch5UtilityPosts_2026_05_27 } from "@/lib/generatedPosts/batch5UtilityPosts_2026_05_27";
+import { contentEmpirePosts_2026_05_29 } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
@@ -43,6 +44,7 @@ const normalizePostImage = (post: Post): Post => {
 };
 
 const posts: Post[] = [
+  ...contentEmpirePosts_2026_05_29,
   ...batch5UtilityPosts_2026_05_27,
   {
     slug: "why-is-my-electricity-bill-so-high-in-winter",
