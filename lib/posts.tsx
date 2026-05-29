@@ -20,6 +20,7 @@ import { contentEmpirePosts_2026_03_19 } from "@/lib/generatedPosts/contentEmpir
 import { batch5UtilityPosts_2026_05_27 } from "@/lib/generatedPosts/batch5UtilityPosts_2026_05_27";
 import { contentEmpirePosts_2026_05_29 } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 import { why_your_electric_bill_keeps_rising_2026_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
+import { average_utility_bills_by_state_2026_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
