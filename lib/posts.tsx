@@ -22,6 +22,7 @@ import { contentEmpirePosts_2026_05_29 } from "@/lib/generatedPosts/contentEmpir
 import { why_your_electric_bill_keeps_rising_2026_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 import { average_utility_bills_by_state_2026_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 import { how_to_read_your_utility_bill_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
+import { 7_states_with_worst_utility_spikes_2026_post } from "@/lib/generatedPosts/contentEmpirePosts_2026_05_29";
 
 const localHeroImages: Record<string, string> = {
   Electricity: "/images/utility-electricity.jpg",
