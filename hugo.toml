@@ -1,0 +1,79 @@
+baseURL = 'https://utilityexplained.com/'
+languageCode = 'en-us'
+title = 'Utility Explained'
+theme = 'adsense-base'
+
+[params]
+  site_name = 'Utility Explained'
+  description = 'Plain-English guides to electricity, gas, and water bills so you can budget with confidence, not confusion.'
+  tagline = 'Understand your utility bills and save money.'
+  author = 'Utility Explained'
+  favicon = '/images/og-default.png'
+  og_image = '/images/og-default.png'
+  google_site_verification = ''
+
+  [params.adsense]
+    client_id = 'ca-pub-5566942094411042'
+    [params.adsense.slots]
+      below_title = { id = '', format = 'auto', responsive = 'true' }
+      mid_article = { id = '', format = 'auto', responsive = 'true' }
+      end_article = { id = '', format = 'auto', responsive = 'true' }
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[permalinks]
+  blog = '/blog/:slug'
+
+[permalinks.term]
+  categories = '/blog/category/:slug'
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menus.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+  [[menus.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+  [[menus.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 10
+  [[menus.footer]]
+    name = "Terms"
+    url = "/terms/"
+    weight = 20
+  [[menus.footer]]
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 30

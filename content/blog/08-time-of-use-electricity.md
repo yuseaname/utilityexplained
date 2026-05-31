@@ -1,13 +1,13 @@
 ---
 title: "Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save"
-description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15–40% on your electric bill."
-pubDate: 2026-03-07
-updatedDate: 2026-04-16
+slug: "08-time-of-use-electricity"
+description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15\u201340% on your electric bill."
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 category: "Rates & Plans"
 tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electricity', 'save on electric bill', 'smart meter']
 keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is electricity cheapest', 'TOU rate savings', 'best time to run appliances']
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save

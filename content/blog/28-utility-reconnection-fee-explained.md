@@ -1,12 +1,13 @@
 ---
 title: "Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff"
+slug: "28-utility-reconnection-fee-explained"
 description: "Your utility service was disconnected for non-payment. Here is exactly how much the reconnection fee costs, how long restoration takes, and how to get your service turned back on fast."
-pubDate: 2026-05-28
+date: 2026-05-28
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224157-8d0428d1b28d?w=1200&h=630&fit=crop&q=80"
 category: "Troubleshooting"
 tags: ["reconnection fee", "service shutoff", "late payment", "restore service"]
 keywords: ["utility reconnection fee", "how much to reconnect utility service", "reconnection fee after disconnection", "utility turn on fee", "restore service after shutoff"]
+image: "https://images.unsplash.com/photo-1554224157-8d0428d1b28d?w=1200&h=630&fit=crop&q=80"
 ---
 
 The power went out yesterday, but your neighbors still have lights. You check your breaker panel — everything is fine. Then you remember: you missed the final notice last week. Your electric service has been disconnected for non-payment, and getting it back on will cost you significantly more than just the past-due amount. Here is a complete breakdown of reconnection fees, timelines, and your rights.

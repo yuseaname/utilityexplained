@@ -1,13 +1,13 @@
 ---
 title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+slug: "07-gas-bill-too-high"
 description: "Troubleshoot a high natural gas bill step by step. Covers furnace efficiency, thermostat settings, water heater waste, rate changes, and seasonal spikes with real cost estimates."
-pubDate: 2026-03-07
-updatedDate: 2026-04-16
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 category: "Troubleshooting"
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One

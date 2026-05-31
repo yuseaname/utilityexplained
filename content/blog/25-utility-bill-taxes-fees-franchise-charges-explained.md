@@ -1,12 +1,13 @@
 ---
 title: "Utility Bill Taxes, Fees, and Franchise Charges Explained"
+slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
 description: "Your utility bill includes more than just energy charges. Learn what taxes, regulatory fees, franchise fees, and surcharges appear on your bill and what they fund."
-pubDate: 2026-05-28
+date: 2026-05-28
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop&q=80"
 category: "Fees"
 tags: ["utility taxes", "franchise fee", "regulatory fees", "municipal charges"]
 keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes and fees", "what is franchise fee on electric bill", "local utility taxes explained"]
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop&q=80"
 ---
 
 You have already decoded the delivery and supply charges on your utility bill, but scroll down further and you will find a section labeled "Taxes and Surcharges" or "Governmental Charges" that adds another 5% to 15% to your total. These line items — franchise fees, utility taxes, regulatory surcharges, and municipal assessments — are often opaque, confusing, and seemingly impossible to dispute. Here is what each one actually funds, how much they typically cost, and why they appear on your bill.

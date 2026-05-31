@@ -1,12 +1,13 @@
 ---
 title: "How to Read Your Gas Bill: A Plain-English Guide to Every Line Item"
-description: "Confused by your natural gas bill? This guide explains every charge on your gas bill in plain English — from therms to distribution fees — so you know exactly what you're paying for."
-pubDate: 2026-03-16
+slug: "12-how-to-read-your-gas-bill"
+description: "Confused by your natural gas bill? This guide explains every charge on your gas bill in plain English \u2014 from therms to distribution fees \u2014 so you know exactly what you're paying for."
+date: 2026-03-16
 author: "Utility Explained"
-image: "/blog/images/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill-hero.jpg"
 category: "Gas"
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
 keywords: ["how to read gas bill", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
+image: "/blog/images/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill-hero.jpg"
 ---
 
 # How to Read Your Gas Bill: Every Charge Explained

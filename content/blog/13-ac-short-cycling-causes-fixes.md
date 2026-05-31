@@ -1,12 +1,13 @@
 ---
-title: "AC Short Cycling — Causes and Fixes"
-description: "AC short cycling wastes energy and damages your compressor. Learn the common causes—dirty filters, refrigerant leaks, oversized units—and how to fix each one."
-pubDate: 2026-05-28
+title: "AC Short Cycling \u2014 Causes and Fixes"
+slug: "13-ac-short-cycling-causes-fixes"
+description: "AC short cycling wastes energy and damages your compressor. Learn the common causes\u2014dirty filters, refrigerant leaks, oversized units\u2014and how to fix each one."
+date: 2026-05-28
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1631567091196-48aa7bad9de2?w=1200&h=630&fit=crop&q=80"
 category: "HVAC"
 tags: ["HVAC", "air conditioning", "troubleshooting", "energy efficiency"]
 keywords: ["ac short cycling", "ac turning on and off", "air conditioner short cycling", "ac compressor short cycle", "why does my ac keep turning off"]
+image: "https://images.unsplash.com/photo-1631567091196-48aa7bad9de2?w=1200&h=630&fit=crop&q=80"
 ---
 
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.

@@ -1,13 +1,13 @@
 ---
 title: "Why Is My Water Bill So High? 11 Fast Checks That Find the Problem"
+slug: "06-water-bill-too-high"
 description: "Step-by-step troubleshooting guide for high water bills. Learn how to read your meter, find hidden leaks, understand rate structures, and lower your next bill."
-pubDate: 2026-03-07
-updatedDate: 2026-04-16
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 category: "Troubleshooting"
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Why Is My Water Bill So High? 11 Fast Checks That Find the Problem

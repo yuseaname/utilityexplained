@@ -1,12 +1,13 @@
 ---
 title: "Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?"
+slug: "48-heat-pump-vs-gas-furnace-savings"
 description: "Compare heat pump and gas furnace costs over time. Discover which heating system offers better long-term savings for your home and climate."
-pubDate: 2026-05-30
+date: 2026-05-30
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 category: "Gas"
 tags: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
 keywords: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 ---
 
 Are you staring at your monthly utility bills with a sense of dread? As energy prices fluctuate across the United States, many homeowners and renters are asking the same critical question: is it time to switch my heating system? When evaluating the long-term financial impact of your HVAC choices, the debate of **heat pump vs gas furnace savings** is likely at the forefront of your mind.

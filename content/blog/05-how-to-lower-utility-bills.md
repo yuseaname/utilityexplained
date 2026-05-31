@@ -1,12 +1,13 @@
 ---
 title: "How to Lower Your Utility Bills: 25 Proven Ways That Actually Work"
+slug: "05-how-to-lower-utility-bills"
 description: "Cut your utility bills by 20-40% with these proven strategies. From free quick fixes to long-term investments, ranked by savings potential."
-pubDate: 2026-03-07
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=1200&h=630&fit=crop&q=80"
 category: "Savings"
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
+image: "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=1200&h=630&fit=crop&q=80"
 ---
 
 # How to Lower Your Utility Bills: 25 Proven Ways That Actually Work

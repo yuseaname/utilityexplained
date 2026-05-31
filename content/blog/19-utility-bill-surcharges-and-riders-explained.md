@@ -1,12 +1,13 @@
 ---
 title: "Utility Bill Surcharges and Riders Explained"
+slug: "19-utility-bill-surcharges-and-riders-explained"
 description: "Surcharges and riders add $5 to $30 or more to your monthly utility bill for everything from energy efficiency programs to nuclear plant costs. Here's a plain-English breakdown of what each one means."
-pubDate: 2026-05-28
+date: 2026-05-28
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop&q=80"
 category: "Fees"
 tags: ["fees", "utility bills", "electricity", "rates"]
 keywords: ["utility bill surcharges", "utility bill riders", "what are riders on utility bill", "extra charges on utility bill"]
+image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop&q=80"
 ---
 
 You're looking at your utility bill and it has more line items than a restaurant receipt. Base charge, distribution charge, transmission charge, fuel adjustment, energy efficiency rider, nuclear decommissioning surcharge, renewable energy charge, demand-side management fee—and the list goes on. These surcharges and riders can add $5 to $30 or more per month to your bill, and most customers have no idea what they're paying for. Here's a practical breakdown of the most common utility bill surcharges and riders, what they fund, and whether you're getting anything for your money.

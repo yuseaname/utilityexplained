@@ -1,12 +1,13 @@
 ---
 title: "Demand Charges on Your Electricity Bill Explained"
+slug: "49-demand-charges-electricity-bill-explained"
 description: "Understand demand charges and why your electricity bill spikes. Learn what they are, how they're calculated and strategies to reduce them."
-pubDate: 2026-05-30
+date: 2026-05-30
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 category: "Electricity"
 tags: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
 keywords: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 ---
 
 Have you ever opened your monthly utility statement, only to find that even though your total energy usage seemed normal, your bill has skyrocketed? It is a frustrating experience that leaves many US homeowners and renters searching for answers. You might see mysterious line items or spikes in costs that don't seem to align with your actual energy consumption. This is often where the concept of "peak usage" comes into play. Getting a clear **demand charges electricity bill explained** is the first step toward regaining control over your monthly budget and preventing these unexpected financial hits.

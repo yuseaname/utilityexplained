@@ -1,13 +1,13 @@
 ---
 title: "Average Apartment Utilities Cost: What to Expect and How to Budget"
+slug: "09-apartment-utilities-cost"
 description: "Complete guide to apartment utility costs in 2026. Average costs by type, city, and apartment size, plus tips for first-time renters on budgeting and reducing utility bills."
-pubDate: 2026-03-07
-updatedDate: 2026-04-16
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 category: "Budgeting"
 tags: ['apartment utilities', 'average utility costs', 'renter utilities', 'first apartment', 'utility budget']
 keywords: ['average apartment utilities cost', 'what utilities do renters pay', 'apartment electric bill average', 'first apartment utility budget', 'utilities included apartment']
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Average Apartment Utilities Cost: What to Expect and How to Budget

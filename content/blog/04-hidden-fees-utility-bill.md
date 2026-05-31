@@ -1,12 +1,13 @@
 ---
 title: "Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them"
+slug: "04-hidden-fees-utility-bill"
 description: "Your quoted rate isn't what you actually pay. Here are the 15+ hidden fees buried in utility bills and which ones you can fight or avoid."
-pubDate: 2026-03-07
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop&q=80"
 category: "Fees"
 tags: ["utility fees", "hidden charges", "electric bill fees", "utility bill charges", "reduce bills"]
 keywords: ["hidden fees utility bill", "utility bill charges explained", "electric bill fees", "reduce utility fees", "utility surcharges"]
+image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them

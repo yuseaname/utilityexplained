@@ -1,12 +1,13 @@
 ---
 title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
+slug: "03-why-is-my-electric-bill-so-high"
 description: "Your electric bill spiked and you don't know why. Here are the 12 most common causes, how to diagnose each one, and what to do about it."
-pubDate: 2026-03-07
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop&q=80"
 category: "Troubleshooting"
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
 keywords: ["why is my electric bill so high", "high electricity bill causes", "electric bill spike", "reduce electric bill", "energy usage spike"]
+image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop&q=80"
 ---
 
 # Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them

@@ -1,12 +1,13 @@
 ---
 title: "Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing"
+slug: "22-minimum-bill-utility-bill-explained"
 description: "Understand why your utility bill shows a minimum charge even when usage is near zero. Learn what minimum bills are, how much they cost, and whether you can avoid them."
-pubDate: 2026-05-28
+date: 2026-05-28
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-8d04-dd8c8b2bf49c?w=1200&h=630&fit=crop&q=80"
 category: "Fees"
 tags: ["minimum bill", "utility fees", "base charge", "fixed charges"]
 keywords: ["minimum bill utility", "minimum charge on utility bill", "why do I have a minimum utility charge", "minimum service charge", "utility minimum bill even with low usage"]
+image: "https://images.unsplash.com/photo-1554224155-8d04-dd8c8b2bf49c?w=1200&h=630&fit=crop&q=80"
 ---
 
 You left for a month-long vacation, turned off every breaker, and came home expecting a zero-dollar electric bill. Instead, you find a charge for $15 to $40 — sometimes more. That is your minimum bill, and nearly every utility in the United States charges one. Here is what it covers, why it exists, and what you can actually do about it.

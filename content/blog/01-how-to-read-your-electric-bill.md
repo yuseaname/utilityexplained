@@ -1,12 +1,13 @@
 ---
 title: "How to Read Your Electric Bill (Line by Line Guide)"
+slug: "01-how-to-read-your-electric-bill"
 description: "Your electric bill has 15+ charges. Here's what each one means, how to calculate your real cost per kWh, and spot billing errors."
-pubDate: 2026-03-07
+date: 2026-03-07
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 category: "Electricity"
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 ---
 
 # How to Read Your Electric Bill (Line by Line Guide)

@@ -1,12 +1,13 @@
 ---
 title: "How to Check for Energy Leaks at Home: DIY Inspection Guide"
+slug: "47-check-energy-leaks-home-diy"
 description: "Stop wasting money on heating and cooling. Learn how to find and seal energy leaks in your home with simple DIY tools and techniques."
-pubDate: 2026-05-30
+date: 2026-05-30
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 category: "Heating"
 tags: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation"]
 keywords: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation", "air sealing"]
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 ---
 
 Are you tired of opening your monthly utility statements only to find your budget has been hijacked by skyrocketing heating and cooling costs? If you feel like you’ically are paying to heat the entire neighborhood, you aren't alone. One of the most effective, budget-friendly ways to reclaim control over your finances is to learn how to **check energy leaks at home DIY** style. 

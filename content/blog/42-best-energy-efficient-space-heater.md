@@ -1,12 +1,13 @@
 ---
 title: "Best Energy Efficient Space Heater: Cut Your Heating Bills"
+slug: "42-best-energy-efficient-space-heater"
 description: "Find the best energy efficient space heater to lower your heating costs. Compare types, features and energy savings for electric and radiant heaters."
-pubDate: 2026-05-30
+date: 2026-05-30
 author: "Utility Explained"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 category: "Heating"
 tags: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use"]
 keywords: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use", "cheap heating"]
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
 ---
 
 As winter temperatures drop and the wind begins to howl, many US homeowners and renters face a common, dreaded reality: the skyrocketing monthly utility bill. When the central heating system struggles to keep up or you find yourself paying to heat empty rooms, the search for the **best energy efficient space heater** becomes more than just a comfort quest—it becomes a financial necessity.
