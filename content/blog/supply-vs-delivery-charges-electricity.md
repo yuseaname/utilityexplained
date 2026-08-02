@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["supply vs delivery charges electricity"]
 keywords: ["supply vs delivery charges electricity"]
+image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: two big charges that sound the same</h2>

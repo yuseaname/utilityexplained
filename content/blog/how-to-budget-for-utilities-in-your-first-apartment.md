@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Budgeting"
 tags: ["how to budget for utilities in your first apartment"]
 keywords: ["how to budget for utilities in your first apartment"]
-image: "/images/utility-bill.jpg"
+image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_00001_.png"
 ---
 
 <h2 id="start-here">Start with the utilities you will be responsible for</h2>

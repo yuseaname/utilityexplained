@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["how to lower electric bill without solar"]
 keywords: ["how to lower electric bill without solar"]
+image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_00001_.png"
 ---
 
 <h2 id="intro">Introduction</h2>

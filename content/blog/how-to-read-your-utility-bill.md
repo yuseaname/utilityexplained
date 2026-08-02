@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Utility Bills"
 tags: ["how to read your utility bill"]
 keywords: ["how to read your utility bill"]
-image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_00003_.png"
+image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_00001_.png"
 ---
 
 <h2 id="why-understanding-your-utility-bill-matt">Why Understanding Your Utility Bill Matters</h2>

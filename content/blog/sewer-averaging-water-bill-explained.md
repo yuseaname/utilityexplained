@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["sewer averaging"]
 keywords: ["sewer averaging"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: your sewer charge stays high even when your summer use drops</h2>

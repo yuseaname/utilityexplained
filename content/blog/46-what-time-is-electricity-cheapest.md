@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["what time is electricity cheapest", "cheapest electricity hours", "off peak electricity rates", "time of use rates"]
 keywords: ["what time is electricity cheapest", "cheapest electricity hours", "off peak electricity rates", "time of use rates", "TOU rates"]
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-electricity.jpg"
 ---
 
 If you’ve ever stared at a rising monthly utility bill and wondered, **what time is electricity cheapest** to use, you aren't alone. As energy prices fluctuate due to inflation, extreme weather, and changing infrastructure, homeowners and renters across the United States are searching for any possible way to trim their monthly expenses. 

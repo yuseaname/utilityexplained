@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["average water usage per person"]
 keywords: ["average water usage per person"]
+image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_00001_.png"
 ---
 
 <h2 id="typical-range">Typical daily usage range</h2>

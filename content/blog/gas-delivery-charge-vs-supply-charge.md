@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Gas"
 tags: ["gas delivery charge vs supply charge"]
 keywords: ["gas delivery charge vs supply charge"]
-image: "/images/articles/gas-delivery-charge-vs-supply-charge/image.webp"
+image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

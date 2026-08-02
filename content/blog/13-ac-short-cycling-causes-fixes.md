@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "HVAC"
 tags: ["HVAC", "air conditioning", "troubleshooting", "energy efficiency"]
 keywords: ["ac short cycling", "ac turning on and off", "air conditioner short cycling", "ac compressor short cycle", "why does my ac keep turning off"]
-image: "https://images.unsplash.com/photo-1631567091196-48aa7bad9de2?w=1200&h=630&fit=crop&q=80"
+image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 ---
 
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.

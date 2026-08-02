@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-electricity.jpg"
 ---
 
 # How to Read Your Electric Bill (Line by Line Guide)

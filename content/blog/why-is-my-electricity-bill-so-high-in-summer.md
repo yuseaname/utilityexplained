@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["why is my electricity bill so high in summer"]
 keywords: ["why is my electricity bill so high in summer"]
+image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-electricity-bill-so-high-in-summer_hero_00001_.png"
 ---
 
 <h2 id="cooling-load">Air conditioning is usually the main driver</h2>

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["how to read a water meter"]
 keywords: ["how to read a water meter"]
-image: "/images/utility-meter.jpg"
+image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.png"
 ---
 
 <h2 id="meter-types">Know your meter type first</h2>

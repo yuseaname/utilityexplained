@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["demand charge electric bill"]
 keywords: ["demand charge electric bill"]
-image: "/images/utility-electricity.jpg"
+image: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: your total is normal, but one line is huge</h2>

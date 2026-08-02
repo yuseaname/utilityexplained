@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Costs"
 tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-paperwork.jpg"
 ---
 
 # Average Utility Costs in 2026: Complete Breakdown by Type and State

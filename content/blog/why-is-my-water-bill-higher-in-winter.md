@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["why is my water bill higher in winter"]
 keywords: ["why is my water bill higher in winter"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: winter should be cheaper, but your bill went up</h2>

@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Budgeting"
 tags: ["how utility rates and fees work together"]
 keywords: ["how utility rates and fees work together"]
+image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
 ---
 
 <h2 id="layers">Think in layers: usage times rate, plus fixed charges</h2>

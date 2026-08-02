@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Troubleshooting"
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
 keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
-image: "https://images.unsplash.com/photo-1554224155-8d04-dd8c8b2bf49c?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-electricity.jpg"
 ---
 
 Last month's electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.

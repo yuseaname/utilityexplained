@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Budgeting"
 tags: ["utility bill higher with same usage"]
 keywords: ["utility bill higher with same usage"]
+image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/image.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

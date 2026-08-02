@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Gas"
 tags: ["gas customer charge explained"]
 keywords: ["gas customer charge explained"]
-image: "/images/utility-bill.jpg"
+image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.png"
 ---
 
 <h2 id="problem">The problem: you used very little gas, but the bill still arrived</h2>

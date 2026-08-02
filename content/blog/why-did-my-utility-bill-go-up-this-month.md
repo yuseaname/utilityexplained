@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Budgeting"
 tags: ["why did my utility bill go up this month"]
 keywords: ["why did my utility bill go up this month"]
+image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
 ---
 
 <h2 id="quick-answer">The short answer most people need</h2>

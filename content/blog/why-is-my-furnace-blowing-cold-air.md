@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["why is my furnace blowing cold air"]
 keywords: ["why is my furnace blowing cold air"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: the heat is on, but the air feels cold</h2>

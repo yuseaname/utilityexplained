@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Budgeting"
 tags: ['apartment utilities', 'average utility costs', 'renter utilities', 'first apartment', 'utility budget']
 keywords: ['average apartment utilities cost', 'what utilities do renters pay', 'apartment electric bill average', 'first apartment utility budget', 'utilities included apartment']
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-bill.jpg"
 ---
 
 # Average Apartment Utilities Cost: What to Expect and How to Budget

@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["why does my electric bill change every month"]
 keywords: ["why does my electric bill change every month"]
+image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
 ---
 
 <h2 id="short-answer">The short answer: same usage does not mean same total</h2>

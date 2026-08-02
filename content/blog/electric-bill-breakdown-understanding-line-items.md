@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["understanding electric bill charges"]
 keywords: ["understanding electric bill charges"]
+image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.png"
 ---
 
 <h2 id="start-here">Start here: the four numbers that explain most bills</h2>

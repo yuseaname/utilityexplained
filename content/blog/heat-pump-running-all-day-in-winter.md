@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["heat pump running all day in winter"]
 keywords: ["heat pump running all day in winter"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: it seems like the heat pump never stops</h2>

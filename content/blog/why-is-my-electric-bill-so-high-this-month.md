@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["why is my electric bill so high this month"]
 keywords: ["why is my electric bill so high this month"]
-image: "/images/utility-bill.jpg"
+image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.png"
 ---
 
 <h2 id="intro">You</h2>

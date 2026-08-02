@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["duct leaks symptoms"]
 keywords: ["duct leaks symptoms"]
+image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_00002_.png"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

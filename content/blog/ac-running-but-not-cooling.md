@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["AC running but not cooling"]
 keywords: ["AC running but not cooling"]
+image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

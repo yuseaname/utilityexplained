@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["aux heat vs emergency heat"]
 keywords: ["aux heat vs emergency heat"]
+image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

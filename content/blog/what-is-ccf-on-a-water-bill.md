@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["what is ccf on a water bill"]
 keywords: ["what is ccf on a water bill"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.png"
 ---
 
 <h2 id="start-here">Start here: what CCF means on a water bill</h2>

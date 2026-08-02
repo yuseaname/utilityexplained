@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["AFUE vs SEER vs HSPF"]
 keywords: ["AFUE vs SEER vs HSPF"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

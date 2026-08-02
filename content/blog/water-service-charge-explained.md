@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["water service charge"]
 keywords: ["water service charge"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/water-service-charge-explained/water-service-charge-explained_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: your bill has a charge even when you used almost no water</h2>

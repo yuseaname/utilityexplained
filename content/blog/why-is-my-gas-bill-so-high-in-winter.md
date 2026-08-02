@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Gas"
 tags: ["why is my gas bill so high in winter"]
 keywords: ["why is my gas bill so high in winter"]
-image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/image.webp"
+image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/why-is-my-gas-bill-so-high-in-winter_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

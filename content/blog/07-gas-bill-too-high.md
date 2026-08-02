@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Troubleshooting"
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-gas.jpg"
 ---
 
 # Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One

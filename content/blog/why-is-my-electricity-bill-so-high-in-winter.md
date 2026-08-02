@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["why is my electricity bill so high in winter"]
 keywords: ["why is my electricity bill so high in winter"]
-image: "/images/utility-home.jpg"
+image: "/images/articles/why-is-my-electricity-bill-so-high-in-winter/why-is-my-electricity-bill-so-high-in-winter_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

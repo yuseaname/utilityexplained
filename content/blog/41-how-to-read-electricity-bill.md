@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["how to read electricity bill", "reading electricity bill", "understanding electric bill", "utility bill breakdown"]
 keywords: ["how to read electricity bill", "reading electricity bill", "understanding electric bill", "utility bill breakdown", "electric bill charges"]
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-electricity.jpg"
 ---
 
 Ever opened your mail only to feel a sudden pang of anxiety at the total amount due? You aren't alone. For many US homeowners and renters, the monthly utility statement feels like a cryptic puzzle written in a language designed to be confusing. However, learning **how to read an electricity bill** is the single most important step toward taking control of your household budget and identifying where you can cut costs.

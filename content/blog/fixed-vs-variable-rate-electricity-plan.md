@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["fixed vs variable rate electricity plan"]
 keywords: ["fixed vs variable rate electricity plan"]
+image: "/images/articles/fixed-vs-variable-rate-electricity-plan/fixed-vs-variable-rate-electricity-plan_hero_00001_.png"
 ---
 
 <h2 id="overview">The basic difference</h2>

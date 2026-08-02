@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Comparisons"
 tags: ["gas vs electric heating cost comparison"]
 keywords: ["gas vs electric heating cost comparison"]
-image: "/images/utility-gas.jpg"
+image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_00001_.png"
 ---
 
 <h2 id="big-picture">The big picture: fuel cost and system efficiency</h2>

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Billing"
 tags: ["billing cycle", "utility bill dates", "monthly billing", "bimonthly billing"]
 keywords: ["utility billing cycle", "how often do utility bills come", "utility bill period", "monthly vs bimonthly utility billing", "understanding utility billing dates"]
-image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=630&fit=crop&q=80"
+image: "/images/articles/utility-billing-cycle-explained/image.webp"
 ---
 
 Your electric bill says "Service Period: April 18 – May 17." Your water bill covers "March 1 – March 31." Your gas bill shows "February 22 – April 21." None of them line up with each other or with the calendar month, and trying to track them feels like solving a puzzle. Utility billing cycles are not arbitrary — they are structured around operational logistics, meter-reading schedules, and regulatory requirements. Here is how they actually work.

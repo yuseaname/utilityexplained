@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Rates & Plans"
 tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electricity', 'save on electric bill', 'smart meter']
 keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is electricity cheapest', 'TOU rate savings', 'best time to run appliances']
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
+image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.png"
 ---
 
 # Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save

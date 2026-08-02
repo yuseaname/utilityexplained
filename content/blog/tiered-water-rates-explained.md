@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["tiered water rates"]
 keywords: ["tiered water rates"]
-image: "/images/articles/tiered-water-rates-explained/image.webp"
+image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

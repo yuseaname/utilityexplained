@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["tiered electricity rates explained"]
 keywords: ["tiered electricity rates explained"]
-image: "/images/utility-electricity.jpg"
+image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: you used a little more, but the price jumped a lot</h2>

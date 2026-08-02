@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Fees"
 tags: ["utility fees", "hidden charges", "electric bill fees", "utility bill charges", "reduce bills"]
 keywords: ["hidden fees utility bill", "utility bill charges explained", "electric bill fees", "reduce utility fees", "utility surcharges"]
-image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-paperwork.jpg"
 ---
 
 # Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them

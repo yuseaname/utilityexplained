@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Rates & Plans"
 tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison', 'energy plan', 'budget billing']
 keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-paperwork.jpg"
 ---
 
 # Fixed vs Variable Utility Rates: Which One Saves You More Money?

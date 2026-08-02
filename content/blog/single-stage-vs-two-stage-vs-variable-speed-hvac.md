@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["single stage vs two stage vs variable speed HVAC"]
 keywords: ["single stage vs two stage vs variable speed HVAC"]
+image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single-stage-vs-two-stage-vs-variable-speed-hvac_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The quick answer</h2>

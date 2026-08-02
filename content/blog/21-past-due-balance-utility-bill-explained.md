@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Troubleshooting"
 tags: ["troubleshooting", "utility bills", "billing", "disconnection"]
 keywords: ["past due balance utility", "utility bill past due", "what happens if utility bill is late", "overdue utility bill"]
-image: "https://images.unsplash.com/photo-1554224157-8d0428b1b28d?w=1200&h=630&fit=crop&q=80"
+image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
 ---
 
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["drought surcharge water bill"]
 keywords: ["drought surcharge water bill"]
-image: "/images/articles/drought-surcharge-on-water-bill-explained/image.webp"
+image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

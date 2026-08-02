@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Utility Bills"
 tags: ["7 states with worst utility spikes 2026"]
 keywords: ["7 states with worst utility spikes 2026"]
-image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_00003_.png"
+image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_00001_.png"
 ---
 
 <h2 id="why-utility-costs-are-skyrocketing-in-20">Why Utility Costs Are Skyrocketing in 2026 — and Which States Are Hit Hardest</h2>

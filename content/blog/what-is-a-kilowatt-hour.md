@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["what is a kilowatt hour"]
 keywords: ["what is a kilowatt hour"]
+image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">The short answer (what a kWh really means)</h2>

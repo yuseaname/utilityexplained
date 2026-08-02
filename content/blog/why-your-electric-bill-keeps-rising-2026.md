@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Utility Bills"
 tags: ["why your electric bill keeps rising 2026"]
 keywords: ["why your electric bill keeps rising 2026"]
-image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_00003_.png"
+image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_00001_.png"
 ---
 
 <h2 id="understanding-the-drivers-behind-rising">Understanding the Drivers Behind Rising Electric Bills in 2026</h2>

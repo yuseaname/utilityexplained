@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["how do smart meters work"]
 keywords: ["how do smart meters work"]
+image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_00001_.png"
 ---
 
 <h2 id="intro">Introduction</h2>

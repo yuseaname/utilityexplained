@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["water meter leak indicator"]
 keywords: ["water meter leak indicator"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: your bill jumped, but you cannot see where the water went</h2>

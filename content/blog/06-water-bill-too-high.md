@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Troubleshooting"
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-water.jpg"
 ---
 
 # Why Is My Water Bill So High? 11 Fast Checks That Find the Problem

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["time-of-use electricity rates"]
 keywords: ["time-of-use electricity rates"]
-image: "/images/utility-meter.jpg"
+image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.png"
 ---
 
 <h2 id="intro">Introduction</h2>

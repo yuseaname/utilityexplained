@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Troubleshooting"
 tags: ["troubleshooting", "utility bills", "rates", "hidden fees"]
 keywords: ["utility bill higher same usage", "same usage higher bill", "why did my utility bill go up", "bill increased same consumption"]
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-paperwork.jpg"
 ---
 
 You pull up your electric bill and the usage looks normal—right around the same 900 kWh you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.

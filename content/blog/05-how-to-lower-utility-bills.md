@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Savings"
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
-image: "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=1200&h=630&fit=crop&q=80"
+image: "/images/utility-paperwork.jpg"
 ---
 
 # How to Lower Your Utility Bills: 25 Proven Ways That Actually Work

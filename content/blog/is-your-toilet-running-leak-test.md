@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["toilet running water bill"]
 keywords: ["toilet running water bill"]
+image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.png"
 ---
 
 <h2 id="why-hard-to-notice">Why a running toilet is hard to notice (but shows up on the bill)</h2>

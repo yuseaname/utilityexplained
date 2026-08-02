@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["why is my water bill higher in summer"]
 keywords: ["why is my water bill higher in summer"]
-image: "/images/utility-summer.jpg"
+image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_00001_.png"
 ---
 
 <h2 id="problem">The problem: summer arrives and your bill suddenly feels out of control</h2>

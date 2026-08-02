@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Heating & Cooling"
 tags: ["ductless mini split vs central air"]
 keywords: ["ductless mini split vs central air"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
 ---
 
 <h2 id="quick-answer">The quick answer</h2>

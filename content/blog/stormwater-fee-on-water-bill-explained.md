@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["stormwater fee on water bill"]
 keywords: ["stormwater fee on water bill"]
-image: "/images/articles/stormwater-fee-on-water-bill-explained/image.webp"
+image: "/images/articles/stormwater-fee-on-water-bill-explained/stormwater-fee-on-water-bill-explained_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["how sewer charges work on your water bill"]
 keywords: ["how sewer charges work on your water bill"]
-image: "/images/utility-water.jpg"
+image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-charges-work-on-your-water-bill_hero_00001_.png"
 ---
 
 <h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Gas"
 tags: ["MCF vs CCF vs therms"]
 keywords: ["MCF vs CCF vs therms"]
-image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/image.webp"
+image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Utility Bills"
 tags: ["time of use electricity rates explained"]
 keywords: ["time of use electricity rates explained"]
-image: "/images/articles/time-of-use-electricity-rates-explained/time-of-use-electricity-rates-explained_hero_00003_.png"
+image: "/images/articles/time-of-use-electricity-rates-explained/time-of-use-electricity-rates-explained_hero_00001_.png"
 ---
 
 <h2 id="what-are-time-of-use-electricity-rates">What Are Time of Use Electricity Rates?</h2>

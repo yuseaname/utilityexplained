@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["water meter running when no water used"]
 keywords: ["water meter running when no water used"]
-image: "/images/articles/water-meter-running-when-no-water-used/image.webp"
+image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00001_.png"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

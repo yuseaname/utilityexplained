@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Electricity"
 tags: ["how to read electric meter"]
 keywords: ["how to read electric meter"]
-image: "/images/utility-meter.jpg"
+image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.png"
 ---
 
 <h2 id="why">Why reading your meter is worth it</h2>

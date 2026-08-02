@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Water"
 tags: ["why did my water bill suddenly increase"]
 keywords: ["why did my water bill suddenly increase"]
+image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_00001_.png"
 ---
 
 <h2 id="top-reasons">The most common reasons for a sudden spike</h2>

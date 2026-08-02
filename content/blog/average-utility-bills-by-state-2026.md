@@ -7,7 +7,7 @@ author: "Utility Explained"
 category: "Utility Bills"
 tags: ["average utility bills by state 2026"]
 keywords: ["average utility bills by state 2026"]
-image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_00003_.png"
+image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_00001_.png"
 ---
 
 <h2 id="understanding-the-average-utility-bills">Understanding the Average Utility Bills by State in 2026</h2>

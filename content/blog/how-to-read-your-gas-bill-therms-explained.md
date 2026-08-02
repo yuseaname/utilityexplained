@@ -7,6 +7,7 @@ author: "Utility Explained"
 category: "Gas"
 tags: ["how to read your gas bill therms explained"]
 keywords: ["how to read your gas bill therms explained"]
+image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.png"
 ---
 
 <h2 id="therms">What is a therm?</h2>
