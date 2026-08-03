@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>How Utility Rates and Fees Work Together on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/how-utility-rates-and-fees-work-together/</link>
-    <description>Recent content in How Utility Rates and Fees Work Together on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/how-utility-rates-and-fees-work-together/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How Utility Rates, Fees, and Usage Work Together on Your Bill</title>
-      <link>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</guid>
-      <description>&lt;h2 id=&#34;layers&#34;&gt;Think in layers: usage times rate, plus fixed charges&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              Most people look at one number and feel lost. A simple model brings&#xA;              the bill back into focus.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The total is built from three layers: how much you used, what each&#xA;              unit cost, and the charges that show up no matter what.&#xA;            &lt;/p&gt;&#xA;            &lt;figure&gt;&#xA;              &lt;ContentImage&#xA;                src=&#34;https://utilityexplained.com/images/articles/how-utility-rates-fees-usage-work-together/inline/layered-model-diagram/image.webp&#34;&#xA;                alt=&#34;Layered model of usage, rate, and fixed charges&#34;&#xA;              /&gt;&#xA;            &lt;/figure&gt;&#xA;            &lt;p&gt;&#xA;              If you want the full pillar map, start with&#xA;              &lt;a href=&#34;https://utilityexplained.com/utility-bills-costs-explained&#34;&gt; Utility Bills &amp;amp; Costs Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How Utility Rates and Fees Work Together on Utility Explained</title><link>https://utilityexplained.com/tags/how-utility-rates-and-fees-work-together/</link><description>Recent content in How Utility Rates and Fees Work Together on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/how-utility-rates-and-fees-work-together/index.xml" rel="self" type="application/rss+xml"/><item><title>How Utility Rates, Fees, and Usage Work Together on Your Bill</title><link>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</guid><description>&lt;h2 id="layers">Think in layers: usage times rate, plus fixed charges&lt;/h2>
+&lt;p class="lead">
+ Most people look at one number and feel lost. A simple model brings
+ the bill back into focus.
+ &lt;/p>
+ &lt;p>
+ The total is built from three layers: how much you used, what each
+ unit cost, and the charges that show up no matter what.
+ &lt;/p>
+ &lt;figure>
+ &lt;ContentImage
+ src="https://utilityexplained.com/images/articles/how-utility-rates-fees-usage-work-together/inline/layered-model-diagram/image.webp"
+ alt="Layered model of usage, rate, and fixed charges"
+ />
+ &lt;/figure>
+ &lt;p>
+ If you want the full pillar map, start with
+ &lt;a href="https://utilityexplained.com/utility-bills-costs-explained"> Utility Bills &amp;amp; Costs Explained&lt;/a>.
+ &lt;/p></description></item></channel></rss>
