@@ -5,8 +5,9 @@ description: "Smart meters are replacing analog dials everywhere. Learn how they
 date: 2025-12-25
 author: "Utility Explained"
 category: "Electricity"
-tags: ["how do smart meters work"]
-keywords: ["how do smart meters work"]
+categories: ["Electricity"]
+tags: ["electric bill", "smart meter", "kwh", "estimated bill"]
+keywords: ["high electric bill", "smart meter accuracy", "kwh usage", "estimated utility bill"]
 image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_00001_.png"
 ---
 
@@ -35,7 +36,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             </p>
             <p>
               That interval data is what makes
-              <a href="/blog/time-of-use-electricity-rates"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
               possible. Instead of one total for the month, the utility can see
               when you used energy.
             </p>
@@ -118,7 +119,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             <ul>
               <li>
                 <strong>Fewer estimated bills:</strong> Smart meters make
-                <a href="/blog/estimated-utility-bill-explained"> estimated bills</a>
+                <a href="/blog/14-estimated-utility-bill-explained"> estimated bills</a>
                 less common.
               </li>
               <li>
@@ -206,3 +207,8 @@ Often the old analog meter was undercounting. A new digital meter can reveal you
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Best Smart Plugs to Eliminate Standby Power Drain](/blog/50-best-smart-plugs-standby-power)

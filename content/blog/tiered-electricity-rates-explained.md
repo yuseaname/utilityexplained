@@ -5,8 +5,9 @@ description: "Tiered rates can make a small usage increase look like a big price
 date: 2025-12-26
 author: "Utility Explained"
 category: "Electricity"
-tags: ["tiered electricity rates explained"]
-keywords: ["tiered electricity rates explained"]
+categories: ["Electricity"]
+tags: ["kwh", "tiered rate", "electric bill", "demand charge", "delivery charge"]
+keywords: ["kwh usage", "tiered electricity rates", "high electric bill", "demand charge electric", "delivery charge"]
 image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.png"
 ---
 
@@ -98,7 +99,7 @@ image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-r
               Also note the difference between tiered rates and time-of-use pricing.
               Time-of-use is about <em>when</em> you use power, not how much.
               If you see peak and off-peak lines, read
-              <a href="/blog/time-of-use-electricity-rates"> time-of-use electricity rates</a>.
+              <a href="/blog/08-time-of-use-electricity"> time-of-use electricity rates</a>.
             </p>
             <p>
               If your bill also lists a separate demand charge, that is a different

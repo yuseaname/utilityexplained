@@ -5,6 +5,7 @@ description: "Troubleshoot a high natural gas bill step by step. Covers furnace 
 date: 2026-03-07
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
 image: "/images/utility-gas.jpg"
@@ -258,3 +259,9 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 ---
 
 **Bottom line:** The fastest way to reduce your gas bill is to lower your thermostat by 2–4°F and replace your furnace filter. These two steps take less than 30 minutes and can save 5–15% on heating costs immediately. For long-term savings, invest in insulation and consider upgrading to a high-efficiency furnace when yours reaches end of life.
+
+---
+
+*Related Reading:*
+- [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)
+- [Why Is My Gas Bill So High in Winter? The Real Reasons (and Fixes)](/blog/why-is-my-gas-bill-so-high-in-winter)

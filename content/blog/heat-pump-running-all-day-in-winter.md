@@ -5,8 +5,9 @@ description: "Heat pumps run longer in cold weather, but nonstop runtime can fee
 date: 2025-12-27
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["heat pump running all day in winter"]
-keywords: ["heat pump running all day in winter"]
+categories: ["Heating & Cooling"]
+tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]
+keywords: ["heat pump savings", "aux heat vs emergency heat", "duct leak symptoms", "ac not cooling"]
 image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_00001_.png"
 ---
 
@@ -127,7 +128,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </ul>
             <p>
               If your system turns on and off too quickly, this is a related issue:
-              <a href="/blog/ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
+              <a href="/blog/13-ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>
@@ -166,3 +167,8 @@ Yes. Leaky ducts waste heated air and force the system to run longer to maintain
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling)

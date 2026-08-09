@@ -5,6 +5,7 @@ description: "Moving in or out mid-month? Your utility bill will be prorated. Le
 date: 2026-05-28
 author: "Utility Explained"
 category: "Billing"
+categories: ["Billing"]
 tags: ["billing", "moving", "utility bills", "electricity"]
 keywords: ["prorated utility bill", "what is bill proration", "prorated charges utility", "partial month utility bill"]
 image: "/images/articles/utility-bill-proration-explained/image.webp"
@@ -226,3 +227,9 @@ At closing, the seller is responsible for utility charges up to the day before c
 
 **Can I get a prorated bill adjusted if it's wrong?**
 Yes. Contact your utility with documentation (meter photos, move-in/move-out dates, lease or closing documents) and request a correction. Most utilities will adjust proration errors promptly. If they refuse, file a complaint with your state's public utility commission.
+
+---
+
+*Related Reading:*
+- [Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean](/blog/23-utility-billing-cycle-explained)
+- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained)

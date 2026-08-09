@@ -5,6 +5,7 @@ description: "Delivery charge and supply charge make up your total utility cost.
 date: 2026-05-28
 author: "Utility Explained"
 category: "Costs"
+categories: ["Costs"]
 tags: ["delivery charge", "supply charge", "deregulated markets", "utility breakdown"]
 keywords: ["delivery charge vs supply charge", "what is delivery charge on utility bill", "supply charge utility", "distribution charge vs supply", "utility bill delivery vs supply breakdown"]
 image: "/images/articles/delivery-charge-vs-supply-charge-utility-bill/image.webp"
@@ -163,3 +164,9 @@ Solar panels primarily reduce your supply charge by offsetting purchased electri
 **Should I choose a fixed or variable supply rate?**
 
 Fixed rates provide price certainty and are usually recommended when wholesale energy prices are stable or trending upward. Variable rates can be cheaper during periods of falling prices but expose you to spikes. In 2026, with relatively stable natural gas prices, 12-month fixed-rate plans are generally the safest choice for budget-conscious consumers.
+
+---
+
+*Related Reading:*
+- [Supply vs Delivery Charges Explained (Generation vs Distribution)](/blog/supply-vs-delivery-charges-electricity)
+- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)

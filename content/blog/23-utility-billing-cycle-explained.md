@@ -5,6 +5,7 @@ description: "Learn how utility billing cycles work, why your bill covers dates 
 date: 2026-05-28
 author: "Utility Explained"
 category: "Billing"
+categories: ["Billing"]
 tags: ["billing cycle", "utility bill dates", "monthly billing", "bimonthly billing"]
 keywords: ["utility billing cycle", "how often do utility bills come", "utility bill period", "monthly vs bimonthly utility billing", "understanding utility billing dates"]
 image: "/images/articles/utility-billing-cycle-explained/image.webp"
@@ -148,3 +149,8 @@ An estimated bill uses your historical usage data to approximate consumption. Th
 **Why do I sometimes get a bill with only 20 days of service?**
 
 Short bills typically occur when your billing cycle is being adjusted — for example, during a smart meter transition, a rate case implementation, or a route reorganization. The bill is prorated to reflect actual days of service.
+
+---
+
+*Related Reading:*
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)

@@ -5,6 +5,7 @@ description: "Understand demand charges and why your electricity bill spikes. Le
 date: 2026-05-30
 author: "Utility Explained"
 category: "Electricity"
+categories: ["Electricity"]
 tags: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
 keywords: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
 image: "/images/utility-electricity.jpg"
@@ -141,3 +142,9 @@ Understanding the **demand charges electricity bill explained** is more than jus
 *   *If you enjoyed this guide, check out our [Ultimate Guide to Smart Thermostats for Renters].*
 *   *Learn more about [How to Calculate Your Home's Energy Footprint].*
 *   *Interested in solar? Read our [Solar Battery Storage: Is the Investment Worth It?].*
+
+---
+
+*Related Reading:*
+- [Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)](/blog/demand-charge-electric-bill-explained)
+- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)

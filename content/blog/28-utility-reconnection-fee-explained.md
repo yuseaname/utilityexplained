@@ -5,6 +5,7 @@ description: "Your utility service was disconnected for non-payment. Here is exa
 date: 2026-05-28
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ["reconnection fee", "service shutoff", "late payment", "restore service"]
 keywords: ["utility reconnection fee", "how much to reconnect utility service", "reconnection fee after disconnection", "utility turn on fee", "restore service after shutoff"]
 image: "/images/articles/utility-reconnection-fee-explained/image.webp"
@@ -182,3 +183,9 @@ Some utilities will waive the reconnection fee for customers with a long history
 **Can I set up a payment plan instead of paying the full amount?**
 
 Many states require utilities to offer payment plans for customers facing financial hardship. These plans typically spread the past-due balance over 3 to 12 months, but the utility may still require the reconnection fee and a partial payment (often 25% to 50% of the past-due balance) before restoring service. Contact your utility to negotiate an arrangement.
+
+---
+
+*Related Reading:*
+- [Past Due Balance on Utility Bill Explained](/blog/21-past-due-balance-utility-bill-explained)
+- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)

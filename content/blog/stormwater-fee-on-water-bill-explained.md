@@ -5,8 +5,9 @@ description: "Most people don't know they're paying a stormwater fee on their wa
 date: 2026-05-27
 author: "Utility Explained"
 category: "Water"
-tags: ["stormwater fee on water bill"]
-keywords: ["stormwater fee on water bill"]
+categories: ["Water"]
+tags: ["stormwater", "water bill", "savings", "smart meter", "sewer"]
+keywords: ["stormwater fee", "high water bill", "lower utility bill", "smart meter accuracy", "sewer charge water bill"]
 image: "/images/articles/stormwater-fee-on-water-bill-explained/stormwater-fee-on-water-bill-explained_hero_00001_.png"
 ---
 

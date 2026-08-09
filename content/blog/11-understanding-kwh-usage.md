@@ -5,9 +5,10 @@ description: "Learn what a kWh actually is, which appliances use the most electr
 date: 2026-03-15
 author: "Utility Explained"
 category: "Electricity"
+categories: ["Electricity"]
 tags: ["kWh", "electricity usage", "electric bill", "appliance costs", "energy savings"]
 keywords: ["understanding kWh usage", "what uses most electricity home", "kWh cost calculator", "appliance electricity cost", "reduce electric bill"]
-image: "/blog/images/11-understanding-kwh-usage/11-understanding-kwh-usage-hero.jpg"
+image: "/images/utility-electricity.jpg"
 ---
 
 # Understanding kWh Usage: What Uses the Most Electricity in Your Home
@@ -168,11 +169,11 @@ Now that you know what's using electricity, here's where to focus:
 
 3. **Replace old refrigerators:** If yours is more than 12 years old, check its energy label. Modern Energy Star refrigerators use 50% less energy.
 
-4. **Time your laundry:** Run the dryer and dishwasher during off-peak hours (typically 9 PM – 7 AM) if you're on a time-of-use rate. See our guide to [time-of-use electricity rates](/blog/time-of-use-electricity).
+4. **Time your laundry:** Run the dryer and dishwasher during off-peak hours (typically 9 PM – 7 AM) if you're on a time-of-use rate. See our guide to [time-of-use electricity rates](/blog/08-time-of-use-electricity).
 
 5. **Audit standby draw:** Unplug TVs, game consoles, and chargers when not in use, or use a smart power strip.
 
-For a full list of bill-reduction strategies, see: [How to Lower Your Utility Bills](/blog/how-to-lower-utility-bills).
+For a full list of bill-reduction strategies, see: [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills).
 
 ---
 
@@ -196,4 +197,4 @@ Common reasons for sudden kWh increases: weather change requiring more HVAC use,
 
 **Is it cheaper to run appliances at night?**
 
-It depends on your rate structure. If you're on a standard flat rate, running appliances at night costs the same as during the day. If you're on a time-of-use (TOU) plan, off-peak hours (typically 9 PM – 7 AM) can be 30–50% cheaper. Contact your utility or check your bill to confirm your rate type. Learn more in our [time-of-use electricity guide](/blog/time-of-use-electricity).
+It depends on your rate structure. If you're on a standard flat rate, running appliances at night costs the same as during the day. If you're on a time-of-use (TOU) plan, off-peak hours (typically 9 PM – 7 AM) can be 30–50% cheaper. Contact your utility or check your bill to confirm your rate type. Learn more in our [time-of-use electricity guide](/blog/08-time-of-use-electricity).

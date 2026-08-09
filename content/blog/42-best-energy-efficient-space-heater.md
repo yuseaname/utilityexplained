@@ -5,6 +5,7 @@ description: "Find the best energy efficient space heater to lower your heating 
 date: 2026-05-30
 author: "Utility Explained"
 category: "Heating"
+categories: ["Heating"]
 tags: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use"]
 keywords: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use", "cheap heating"]
 image: "/images/utility-hvac.jpg"
@@ -131,3 +132,9 @@ Remember, the goal isn't just to find a heater that produces heat, but to find a
 ***
 
 *Disclaimer: Always read the manufacturer's manual before operating any electrical appliance. If you have any concerns about your home's electrical capacity, consult a licensed electrician.*
+
+---
+
+*Related Reading:*
+- [How to Check for Energy Leaks at Home: DIY Inspection Guide](/blog/47-check-energy-leaks-home-diy)
+- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)

@@ -5,8 +5,9 @@ description: "Your electric bill usually has two main buckets: supply and delive
 date: 2025-12-26
 author: "Utility Explained"
 category: "Electricity"
-tags: ["supply vs delivery charges electricity"]
-keywords: ["supply vs delivery charges electricity"]
+categories: ["Electricity"]
+tags: ["delivery charge", "kwh", "supply charge", "electric bill", "demand charge"]
+keywords: ["delivery charge", "kwh usage", "supply charge", "high electric bill", "demand charge electric"]
 image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_00001_.png"
 ---
 

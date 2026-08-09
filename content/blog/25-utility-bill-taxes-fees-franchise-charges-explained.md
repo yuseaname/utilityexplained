@@ -5,6 +5,7 @@ description: "Your utility bill includes more than just energy charges. Learn wh
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["utility taxes", "franchise fee", "regulatory fees", "municipal charges"]
 keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes and fees", "what is franchise fee on electric bill", "local utility taxes explained"]
 image: "/images/articles/utility-bill-taxes-fees-franchise-charges-explained/image.webp"
@@ -174,3 +175,9 @@ Yes. In most states, taxes, franchise fees, and regulatory surcharges apply to a
 **Why is my total tax percentage different from my neighbor's?**
 
 Tax rates can vary by municipality within the same utility service territory. Different cities impose different franchise fee rates, utility users taxes, or municipal assessments. If you and your neighbor live in different incorporated areas but are served by the same utility, your tax line items will differ.
+
+---
+
+*Related Reading:*
+- [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained)
+- [Fuel Adjustment Charge on Utility Bill Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained)

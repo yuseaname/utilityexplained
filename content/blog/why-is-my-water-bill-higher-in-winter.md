@@ -5,8 +5,9 @@ description: "No lawn watering but a higher bill? Learn the most common winter c
 date: 2025-12-27
 author: "Utility Explained"
 category: "Water"
-tags: ["why is my water bill higher in winter"]
-keywords: ["why is my water bill higher in winter"]
+categories: ["Water"]
+tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf"]
+keywords: ["water leak detection", "high water bill", "estimated utility bill", "sewer averaging", "ccf"]
 image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_00001_.png"
 ---
 
@@ -52,7 +53,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you want a step-by-step guide, see
-              <a href="/blog/utility-billing-cycle-explained"> utility billing cycle explained</a>.
+              <a href="/blog/23-utility-billing-cycle-explained"> utility billing cycle explained</a>.
             </p>
 
 <h2 id="indoor-leaks">Indoor leaks and running toilets</h2>
@@ -97,7 +98,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you see the word "estimated" on your statement, this guide helps:
-              <a href="/blog/estimated-utility-bill-explained"> estimated utility bills explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained"> estimated utility bills explained</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -147,3 +148,8 @@ Compare usage per day and check for notes about estimated reads. That separates 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Why Is My Water Bill So High? 11 Fast Checks That Find the Problem](/blog/06-water-bill-too-high)

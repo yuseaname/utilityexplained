@@ -2,11 +2,12 @@
 title: "Average Water Usage Per Person: A Practical Range"
 slug: "average-water-usage-per-person"
 description: "See typical water usage ranges and what affects your household total."
-date: 2024-12-08
+date: 2025-12-27
 author: "Utility Explained"
 category: "Water"
-tags: ["average water usage per person"]
-keywords: ["average water usage per person"]
+categories: ["Water"]
+tags: ["water bill", "gallons", "leak", "apartment", "savings"]
+keywords: ["high water bill", "gallons of water", "water leak detection", "apartment utility costs", "lower utility bill"]
 image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_00001_.png"
 ---
 

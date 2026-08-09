@@ -2,11 +2,12 @@
 title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
 description: "A step-by-step guide to reading your home water meter and checking for leaks."
-date: 2024-12-03
+date: 2025-12-25
 author: "Utility Explained"
 category: "Water"
-tags: ["how to read a water meter"]
-keywords: ["how to read a water meter"]
+categories: ["Water"]
+tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
+keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "ccf"]
 image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.png"
 ---
 
@@ -202,3 +203,9 @@ Many meters are outside, but some homes have an indoor or remote display. Check 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Water Meter Leak Indicator Explained: How to Tell If You Have a Hidden Leak](/blog/water-meter-leak-indicator-explained)
+- [What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)](/blog/what-is-ccf-on-a-water-bill)

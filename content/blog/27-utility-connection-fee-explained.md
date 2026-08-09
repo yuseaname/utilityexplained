@@ -5,6 +5,7 @@ description: "Utility connection fees range from $0 to $500+ depending on the ty
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["connection fee", "new service", "setup fee", "utility hookup"]
 keywords: ["utility connection fee", "cost to connect utilities", "new service setup fee utility", "utility hookup fee", "how much to connect electric service"]
 image: "/images/articles/utility-connection-fee-explained/image.webp"
@@ -164,3 +165,10 @@ It is difficult to avoid connection fees entirely, but you can minimize them by 
 **Who pays utility connection fees for new construction?**
 
 In most new-home purchases, the builder or developer pays all utility connection and tap fees as part of the construction budget. These costs are typically reflected in the home's purchase price. In custom construction or raw land development, the property owner is usually responsible.
+
+---
+
+*Related Reading:*
+- [Fuel Adjustment Charge on Utility Bill Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained)
+- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)
+- [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained)

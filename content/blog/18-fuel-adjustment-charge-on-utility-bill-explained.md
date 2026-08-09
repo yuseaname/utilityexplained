@@ -5,6 +5,7 @@ description: "Your electricity bill has a fuel adjustment charge that changes ev
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["fees", "electricity", "utility bills", "rates"]
 keywords: ["fuel adjustment charge", "fuel cost recovery", "fuel charge on electric bill", "what is fuel adjustment fee"]
 image: "/images/articles/fuel-adjustment-charge-on-utility-bill-explained/image.webp"
@@ -141,3 +142,9 @@ Yes, indirectly. Since the fuel adjustment is a per-kWh charge, any electricity 
 
 **Is the fuel adjustment the same for all customers of my utility?**
 Yes, the per-kWh fuel adjustment rate is the same for all residential customers of a given utility. However, the dollar impact varies by customer because higher-usage customers pay more in total fuel adjustment charges.
+
+---
+
+*Related Reading:*
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
+- [Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them](/blog/04-hidden-fees-utility-bill)

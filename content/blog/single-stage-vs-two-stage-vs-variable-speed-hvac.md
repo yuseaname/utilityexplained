@@ -5,8 +5,9 @@ description: "Single-stage, two-stage, and variable-speed systems sound similar 
 date: 2025-12-25
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["single stage vs two stage vs variable speed HVAC"]
-keywords: ["single stage vs two stage vs variable speed HVAC"]
+categories: ["Heating & Cooling"]
+tags: ["duct", "afue", "therms", "thermostat", "leak"]
+keywords: ["duct leak symptoms", "hvac efficiency ratings", "therms", "thermostat settings"]
 image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single-stage-vs-two-stage-vs-variable-speed-hvac_hero_00001_.png"
 ---
 

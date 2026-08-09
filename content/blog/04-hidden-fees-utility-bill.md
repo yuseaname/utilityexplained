@@ -5,6 +5,7 @@ description: "Your quoted rate isn't what you actually pay. Here are the 15+ hid
 date: 2026-03-07
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["utility fees", "hidden charges", "electric bill fees", "utility bill charges", "reduce bills"]
 keywords: ["hidden fees utility bill", "utility bill charges explained", "electric bill fees", "reduce utility fees", "utility surcharges"]
 image: "/images/utility-paperwork.jpg"
@@ -363,6 +364,6 @@ Hidden fees are frustrating but understanding them gives you power. Calculate yo
 ---
 
 *Related Articles:*
-- [How to Read Your Electric Bill](#)
-- [Why Is My Electric Bill So High?](#)
-- [How to Lower Your Utility Bills](#)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)

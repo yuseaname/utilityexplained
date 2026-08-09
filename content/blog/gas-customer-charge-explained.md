@@ -5,8 +5,9 @@ description: "That monthly customer or basic service charge is normal. Learn wha
 date: 2025-12-26
 author: "Utility Explained"
 category: "Gas"
-tags: ["gas customer charge explained"]
-keywords: ["gas customer charge explained"]
+categories: ["Gas"]
+tags: ["customer charge", "therms", "gas bill", "delivery charge"]
+keywords: ["customer charge utility", "therms", "high gas bill", "delivery charge"]
 image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.png"
 ---
 
@@ -81,7 +82,7 @@ image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-expla
             <p>
               If you are not sure where to look, this guide walks through a sample
               bill layout:
-              <a href="/blog/how-to-read-your-gas-bill-therms-explained">
+              <a href="/blog/12-how-to-read-your-gas-bill">
                 {" "}how to read your gas bill
               </a>
               .
@@ -164,3 +165,9 @@ Look for labels like Customer Charge, Basic Service Charge, or Service Availabil
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing](/blog/22-minimum-bill-utility-bill-explained)
+- [What Is the Customer Charge on My Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill)

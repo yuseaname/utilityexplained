@@ -1,10 +1,12 @@
 ---
 title: "How to Read Your Gas Bill: A Plain-English Guide to Every Line Item"
 slug: "12-how-to-read-your-gas-bill"
+aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/"]
 description: "Confused by your natural gas bill? This guide explains every charge on your gas bill in plain English \u2014 from therms to distribution fees \u2014 so you know exactly what you're paying for."
 date: 2026-03-16
 author: "Utility Explained"
 category: "Gas"
+categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
 keywords: ["how to read gas bill", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
 image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.png"
@@ -184,7 +186,7 @@ Many water heaters are shipped at 140°F. Lowering to 120°F reduces gas usage b
 
 If you're income-eligible, programs like LIHEAP (Low Income Home Energy Assistance Program) can significantly offset winter heating costs. Contact your utility or visit benefits.gov to check eligibility.
 
-For more on reducing bills overall, see: [How to Lower Your Utility Bills](/blog/how-to-lower-utility-bills)
+For more on reducing bills overall, see: [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
 
 ---
 
@@ -209,3 +211,8 @@ The commodity portion of your gas rate (the cost of the gas itself) adjusts mont
 **Can I switch natural gas providers?**
 
 In some states, yes. Retail natural gas competition exists in states including Georgia, Ohio, New York, and parts of Texas. In these states, you can choose your gas commodity supplier while still using your local utility's distribution infrastructure for delivery. Shopping around can sometimes save on the commodity portion of your bill. In most states, your local utility is the only gas provider and switching isn't an option.
+
+---
+
+*Related Reading:*
+- [Understanding Natural Gas Bill Charges: What Are You Paying For?](/blog/43-understand-natural-gas-bill-charges)

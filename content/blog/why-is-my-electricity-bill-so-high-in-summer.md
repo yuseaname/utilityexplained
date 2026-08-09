@@ -2,11 +2,12 @@
 title: "Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)"
 slug: "why-is-my-electricity-bill-so-high-in-summer"
 description: "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating."
-date: 2024-12-09
+date: 2025-12-26
 author: "Utility Explained"
 category: "Electricity"
-tags: ["why is my electricity bill so high in summer"]
-keywords: ["why is my electricity bill so high in summer"]
+categories: ["Electricity"]
+tags: ["air conditioner", "kwh", "therms", "thermostat", "savings"]
+keywords: ["ac not cooling", "kwh usage", "therms", "thermostat settings", "lower utility bill"]
 image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-electricity-bill-so-high-in-summer_hero_00001_.png"
 ---
 
@@ -201,3 +202,8 @@ Hotter weather, higher humidity, and longer daylight hours can increase runtime.
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes](/blog/30-sudden-spike-in-electricity-bill-no-usage)

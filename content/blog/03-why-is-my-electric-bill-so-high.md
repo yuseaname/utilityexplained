@@ -1,10 +1,12 @@
 ---
 title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
 slug: "03-why-is-my-electric-bill-so-high"
+aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/"]
 description: "Your electric bill spiked and you don't know why. Here are the 12 most common causes, how to diagnose each one, and what to do about it."
 date: 2026-03-07
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
 keywords: ["why is my electric bill so high", "high electricity bill causes", "electric bill spike", "reduce electric bill", "energy usage spike"]
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.png"
@@ -384,6 +386,8 @@ A high electric bill has a cause. The trick is systematic investigation. Start w
 ---
 
 *Related Articles:*
-- [How to Read Your Electric Bill](#)
-- [Average Utility Costs in 2026](#)
-- [Hidden Fees on Your Utility Bill](#)
+- [Why Is My Electric Bill So High in 2026? Rates, Causes, and Solutions](/blog/03-why-is-my-electric-bill-so-high)
+- [Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One](/blog/07-gas-bill-too-high)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
+- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026)
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill)

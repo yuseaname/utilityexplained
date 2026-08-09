@@ -5,8 +5,9 @@ description: "Dial meters, digital meters, smart meters \u2014 reading your gas 
 date: 2026-05-27
 author: "Utility Explained"
 category: "Gas"
-tags: ["how to read gas meter"]
-keywords: ["how to read gas meter"]
+categories: ["Gas"]
+tags: ["gas bill", "therms", "ccf", "smart meter", "leak"]
+keywords: ["high gas bill", "therms", "ccf", "smart meter accuracy", "gas leak"]
 image: "/images/articles/how-to-read-gas-meter/image.webp"
 ---
 
@@ -95,7 +96,7 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <h2 id="submitting-a-manual-gas-meter-reading">Submitting a Manual Gas Meter Reading</h2>
 <p>Many utilities let customers submit readings online, by phone, or through a mobile app. This is useful when your bill is estimated, your meter is behind a locked gate, or you want to correct a suspected reading error.</p>
 <p>Before submitting, take a clear photo of the meter face and record the date and time. Then enter only the billing dials, not the red test dials or decimal digits. If your bill uses therms but your meter shows CCF, submit the meter reading exactly as displayed; the utility will handle the conversion.</p>
-<p>If the next bill still looks wrong, compare the previous reading, current reading, and usage units. Our guide to <a href="/blog/18-mcf-vs-ccf-vs-therms-on-gas-bill">MCF vs CCF vs therms on gas bill</a> explains how those units convert.</p>
+<p>If the next bill still looks wrong, compare the previous reading, current reading, and usage units. Our guide to <a href="/blog/12-how-to-read-your-gas-bill">MCF vs CCF vs therms on gas bill</a> explains how those units convert.</p>
 
 <h3>Can I read my gas meter myself?</h3>
 <p>Yes. Most residential gas meters can be read safely from the outside without touching the meter. Read the display only, and never open, adjust, or disconnect meter equipment.</p>
@@ -113,3 +114,8 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <h2 id="bottom-line">Bottom Line</h2>
 <p>Reading your gas meter is simple once you know the meter type. Digital and smart meters usually show the number directly. Dial meters require more care: read left to right, ignore red test dials, and choose the lower number when a pointer sits between digits.</p>
 <p>The payoff is control. A monthly reading helps you verify estimated bills, understand seasonal gas usage, and catch unusual consumption before it becomes an expensive surprise.</p>
+
+---
+
+*Related Reading:*
+- [MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)

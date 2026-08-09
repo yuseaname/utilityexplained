@@ -5,8 +5,9 @@ description: "Tiered water pricing charges you more per gallon as you use more. 
 date: 2026-05-27
 author: "Utility Explained"
 category: "Water"
-tags: ["tiered water rates"]
-keywords: ["tiered water rates"]
+categories: ["Water"]
+tags: ["gallons", "budget", "tiered rate", "water bill", "savings"]
+keywords: ["gallons of water", "utility budget", "tiered electricity rates", "high water bill", "lower utility bill"]
 image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_00001_.png"
 ---
 

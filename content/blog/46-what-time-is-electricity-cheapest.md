@@ -5,6 +5,7 @@ description: "Save on your electricity bill by using appliances during off-peak 
 date: 2026-05-30
 author: "Utility Explained"
 category: "Electricity"
+categories: ["Electricity"]
 tags: ["what time is electricity cheapest", "cheapest electricity hours", "off peak electricity rates", "time of use rates"]
 keywords: ["what time is electricity cheapest", "cheapest electricity hours", "off peak electricity rates", "time of use rates", "TOU rates"]
 image: "/images/utility-electricity.jpg"
@@ -122,3 +123,9 @@ By taking thirty minutes to investigate your utility company's rate structure, y
 Start small. This week, try running your laundry or dishwasher during the late-night hours. Next week, look into a programmable thermostat or a smart plug. These small, incremental shifts in behavior, combined with long-term efficiency upgrades, will add up to significant, permanent savings in your pocket.
 
 **Ready to start saving?** Log in to your utility provider's portal today and download your usage history. The data you need to slash your bills is already sitting in your inbox—you just need to act on it!
+
+---
+
+*Related Reading:*
+- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity)
+- [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage)

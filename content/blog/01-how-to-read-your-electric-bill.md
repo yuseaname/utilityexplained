@@ -5,6 +5,7 @@ description: "Your electric bill has 15+ charges. Here's what each one means, ho
 date: 2026-03-07
 author: "Utility Explained"
 category: "Electricity"
+categories: ["Electricity"]
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
 image: "/images/utility-electricity.jpg"
@@ -329,6 +330,7 @@ Understanding your electric bill puts you in control. You'll spot errors, unders
 ---
 
 *Related Articles:*
-- [Average Utility Costs in 2026: Complete Breakdown](#)
-- [Why Is My Electric Bill So High?](#)
-- [How to Lower Your Electric Bill](#)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
+- [Average Utility Costs in 2026: Complete Breakdown](/blog/02-average-utility-costs-2026)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
+- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar)

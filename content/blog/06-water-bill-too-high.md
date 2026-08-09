@@ -5,6 +5,7 @@ description: "Step-by-step troubleshooting guide for high water bills. Learn how
 date: 2026-03-07
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
 image: "/images/utility-water.jpg"
@@ -299,3 +300,9 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 ---
 
 **Bottom line:** Start with the toilet dye test and the 15-minute meter test. These two checks take 20 minutes and will catch the majority of water bill problems. If both come back clean, work through the remaining checks in order. And if you find and fix a leak, call your utility to ask about a bill adjustment — many will credit you for the excess charges.
+
+---
+
+*Related Reading:*
+- [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)
+- [Why Is My Water Bill Higher in Winter? 8 Common Causes](/blog/why-is-my-water-bill-higher-in-winter)

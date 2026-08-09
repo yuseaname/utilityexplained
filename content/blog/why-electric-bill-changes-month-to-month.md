@@ -5,8 +5,9 @@ description: "Electricity bills shift for reasons beyond usage: time-of-use wind
 date: 2026-01-15
 author: "Utility Explained"
 category: "Electricity"
-tags: ["why does my electric bill change every month"]
-keywords: ["why does my electric bill change every month"]
+categories: ["Electricity"]
+tags: ["electric bill", "demand charge", "kwh", "estimated bill"]
+keywords: ["high electric bill", "demand charge electric", "kwh usage", "estimated utility bill"]
 image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
 ---
 
@@ -42,7 +43,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
             <p>
               If your plan has peak and off-peak pricing, the same kWh can cost
               more depending on the hour. See
-              <a href="/blog/time-of-use-electricity-rates"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
               for a clear breakdown.
             </p>
             <h3>Tier thresholds</h3>
@@ -110,7 +111,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
             <p>
               If you see an estimate, the correction usually shows up later. This
               explainer helps:
-              <a href="/blog/estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -166,3 +167,8 @@ Compare billing days, rate schedules, and the time window of your usage, not jus
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Why Is My Utility Bill Higher With the Same Usage?](/blog/15-why-utility-bill-higher-same-usage)

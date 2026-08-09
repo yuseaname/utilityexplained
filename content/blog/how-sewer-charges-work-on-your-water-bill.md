@@ -5,8 +5,9 @@ description: "Sewer charges confuse a lot of people--especially when they cost m
 date: 2025-12-25
 author: "Utility Explained"
 category: "Water"
-tags: ["how sewer charges work on your water bill"]
-keywords: ["how sewer charges work on your water bill"]
+categories: ["Water"]
+tags: ["sewer", "leak", "ccf", "sewer averaging", "water bill"]
+keywords: ["sewer charge water bill", "water leak detection", "ccf", "sewer averaging", "high water bill"]
 image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-charges-work-on-your-water-bill_hero_00001_.png"
 ---
 

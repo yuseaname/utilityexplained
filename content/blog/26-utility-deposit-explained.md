@@ -5,6 +5,7 @@ description: "Find out how much utility deposits cost, why utilities require the
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["utility deposit", "security deposit", "new service", "credit check"]
 keywords: ["utility deposit", "how much is utility deposit", "security deposit for utilities", "can I get my utility deposit back", "why does utility require deposit"]
 image: "/images/articles/utility-deposit-explained/image.webp"
@@ -183,3 +184,9 @@ Generally no. If your credit check shows good standing with no utility delinquen
 **What happens to my deposit if I move?**
 
 If you move before your deposit is refunded, the utility applies the deposit to your final bill at the old address and refunds any remaining balance to your forwarding address. If you are staying with the same utility, you can usually transfer the deposit to your new account.
+
+---
+
+*Related Reading:*
+- [Utility Connection Fee Explained: What It Costs to Set Up New Service](/blog/27-utility-connection-fee-explained)
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)

@@ -6,7 +6,7 @@ type: "page"
 layout: "single"
 ---
 
-<h1>About Utility Explained</h1>
+<h2>About Utility Explained</h2>
 <p>
 We started Utility Explained because utility bills shouldn't require a
 translator. If you've ever stared at a bill wondering what you're actually

@@ -5,8 +5,9 @@ description: "Heat is on but the air feels cold? Learn the most common causes, w
 date: 2025-12-27
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["why is my furnace blowing cold air"]
-keywords: ["why is my furnace blowing cold air"]
+categories: ["Heating & Cooling"]
+tags: ["furnace", "duct", "heat pump", "therms", "thermostat"]
+keywords: ["gas furnace", "duct leak symptoms", "heat pump savings", "therms", "thermostat settings"]
 image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_00001_.png"
 ---
 
@@ -76,7 +77,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
               If the system cycles off quickly, it can feel like a cold blast. Short
               cycling is a real issue in cooling season too. This guide explains why
               it happens:
-              <a href="/blog/ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
+              <a href="/blog/13-ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
             </p>
 
 <h2 id="airflow">Airflow and filter issues</h2>

@@ -5,8 +5,9 @@ description: "CCF shows up on many water bills. Here's what it means, how to con
 date: 2025-12-25
 author: "Utility Explained"
 category: "Water"
-tags: ["what is ccf on a water bill"]
-keywords: ["what is ccf on a water bill"]
+categories: ["Water"]
+tags: ["ccf", "gallons", "water bill", "leak", "water meter"]
+keywords: ["ccf", "gallons of water", "high water bill", "water leak detection", "water meter reading"]
 image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.png"
 ---
 

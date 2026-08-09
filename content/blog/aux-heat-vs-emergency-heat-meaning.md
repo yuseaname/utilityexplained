@@ -5,8 +5,9 @@ description: "If your thermostat says Aux Heat or Emergency Heat, this guide exp
 date: 2025-12-25
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["aux heat vs emergency heat"]
-keywords: ["aux heat vs emergency heat"]
+categories: ["Heating & Cooling"]
+tags: ["aux heat", "heat pump", "therms", "thermostat", "afue"]
+keywords: ["aux heat vs emergency heat", "heat pump savings", "therms", "thermostat settings", "hvac efficiency ratings"]
 image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_00001_.png"
 ---
 

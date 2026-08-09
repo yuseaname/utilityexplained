@@ -5,6 +5,7 @@ description: "A past due balance on your utility bill can lead to late fees, ser
 date: 2026-05-28
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ["troubleshooting", "utility bills", "billing", "disconnection"]
 keywords: ["past due balance utility", "utility bill past due", "what happens if utility bill is late", "overdue utility bill"]
 image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
@@ -275,3 +276,9 @@ Most utilities offer medical protection programs that delay or prevent disconnec
 
 **How much does it cost to reconnect service after disconnection?**
 Reconnection fees typically range from $30 to $150, plus you must pay the full past due balance and may need to pay a new security deposit ($100 to $300+). Total restoration costs often reach $300 to $600. Some utilities charge more for after-hours or weekend reconnections.
+
+---
+
+*Related Reading:*
+- [Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff](/blog/28-utility-reconnection-fee-explained)
+- [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained)

@@ -1,10 +1,12 @@
 ---
 title: "Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save"
 slug: "08-time-of-use-electricity"
+aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15\u201340% on your electric bill."
 date: 2026-03-07
 author: "Utility Explained"
 category: "Rates & Plans"
+categories: ["Rates & Plans"]
 tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electricity', 'save on electric bill', 'smart meter']
 keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is electricity cheapest', 'TOU rate savings', 'best time to run appliances']
 image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.png"
@@ -228,3 +230,9 @@ Most utilities install smart meters at no charge when you switch to TOU. The met
 ---
 
 **Bottom line:** If you can shift even 20% of your electricity usage from peak to off-peak hours, time-of-use rates will likely save you money. The easiest wins are scheduling your dishwasher, laundry, and EV charging for nighttime or weekends. Check your utility's TOU plan details and run the numbers — many households save $200–$500/year with simple habit changes.
+
+---
+
+*Related Reading:*
+- [What Time Is Electricity Cheapest? Guide to Off-Peak Energy Rates](/blog/46-what-time-is-electricity-cheapest)
+- [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage)

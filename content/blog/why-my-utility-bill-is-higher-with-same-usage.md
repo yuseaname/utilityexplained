@@ -5,8 +5,9 @@ description: "If your usage looks similar but your total jumped, this guide walk
 date: 2025-12-25
 author: "Utility Explained"
 category: "Budgeting"
-tags: ["utility bill higher with same usage"]
-keywords: ["utility bill higher with same usage"]
+categories: ["Budgeting"]
+tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
+keywords: ["estimated utility bill", "kwh usage", "utility budget", "customer charge utility", "utility surcharge"]
 image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/image.webp"
 ---
 
@@ -112,12 +113,12 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/image.web
             </ol>
             <p>
               If you want the full explanation and what to watch for, read
-              <a href="/blog/estimated-utility-bill-explained"> Estimated utility bill explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained"> Estimated utility bill explained</a>.
             </p>
             <p>
               If you're trying to avoid seasonal surprises altogether (not just
               estimate surprises),
-              <a href="/blog/budget-billing-level-pay-explained"> budget billing</a>
+              <a href="/blog/16-budget-billing-level-pay-explained"> budget billing</a>
               can smooth monthly payments.
             </p>
 

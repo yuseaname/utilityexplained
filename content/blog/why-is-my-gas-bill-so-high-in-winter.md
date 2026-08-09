@@ -5,8 +5,9 @@ description: "Your gas bill can triple in winter \u2014 and not all of it is jus
 date: 2026-05-27
 author: "Utility Explained"
 category: "Gas"
-tags: ["why is my gas bill so high in winter"]
-keywords: ["why is my gas bill so high in winter"]
+categories: ["Gas"]
+tags: ["therms", "furnace", "gas bill", "thermostat", "savings"]
+keywords: ["therms", "gas furnace", "high gas bill", "thermostat settings", "lower utility bill"]
 image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/why-is-my-gas-bill-so-high-in-winter_hero_00001_.png"
 ---
 

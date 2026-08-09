@@ -10,7 +10,7 @@ theme = 'adsense-base'
   author = 'Utility Explained'
   favicon = '/images/og-default.png'
   og_image = '/images/og-default.png'
-  google_site_verification = ''
+  google_site_verification = 'M0tDZxQjvpXgWrHqxx4sPIo2gGjWagsHQGFwxh1FJRI'
 
   [params.adsense]
     client_id = 'ca-pub-5566942094411042'

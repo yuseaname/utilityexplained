@@ -5,6 +5,7 @@ description: "Stop wasting money on heating and cooling. Learn how to find and s
 date: 2026-05-30
 author: "Utility Explained"
 category: "Heating"
+categories: ["Heating"]
 tags: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation"]
 keywords: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation", "air sealing"]
 image: "/images/utility-hvac.jpg"
@@ -178,3 +179,8 @@ By spending a few hours on a weekend performing these checks, you are setting yo
 * *[A Homeowner's Guide to Improving Attic Insulation]* (Informational)
 * *[The Best Low-Cost Smart Thermostats for Energy Savings]* (Monetization/Product Review)
 * *[How to Maintain Your HVAC System to Extend Its Lifespan]* (Informational)
+
+---
+
+*Related Reading:*
+- [Best Energy Efficient Space Heater: Cut Your Heating Bills](/blog/42-best-energy-efficient-space-heater)

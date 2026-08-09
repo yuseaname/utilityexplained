@@ -5,8 +5,9 @@ description: "Seeing a drought surcharge or drought penalty on your water bill? 
 date: 2026-05-27
 author: "Utility Explained"
 category: "Water"
-tags: ["drought surcharge water bill"]
-keywords: ["drought surcharge water bill"]
+categories: ["Water"]
+tags: ["surcharge", "drought surcharge", "gallons", "savings", "water bill"]
+keywords: ["utility surcharge", "drought surcharge water bill", "gallons of water", "lower utility bill", "high water bill"]
 image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_00001_.png"
 ---
 

@@ -5,8 +5,9 @@ description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER,
 date: 2025-12-25
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["AFUE vs SEER vs HSPF"]
-keywords: ["AFUE vs SEER vs HSPF"]
+categories: ["Heating & Cooling"]
+tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
+keywords: ["hvac efficiency ratings", "heat pump savings", "ac not cooling", "gas furnace", "duct leak symptoms"]
 image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_00001_.png"
 ---
 

@@ -5,8 +5,9 @@ description: "Running toilets are one of the most common hidden causes of high w
 date: 2025-12-25
 author: "Utility Explained"
 category: "Water"
-tags: ["toilet running water bill"]
-keywords: ["toilet running water bill"]
+categories: ["Water"]
+tags: ["leak", "water bill", "water meter", "sewer", "ccf"]
+keywords: ["water leak detection", "high water bill", "water meter reading", "sewer charge water bill", "ccf"]
 image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.png"
 ---
 

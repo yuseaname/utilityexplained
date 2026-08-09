@@ -5,8 +5,9 @@ description: "Trying to choose between ductless mini-splits and central air? Thi
 date: 2025-12-25
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["ductless mini split vs central air"]
-keywords: ["ductless mini split vs central air"]
+categories: ["Heating & Cooling"]
+tags: ["duct", "air conditioner", "leak", "savings", "therms"]
+keywords: ["duct leak symptoms", "ac not cooling", "lower utility bill", "therms"]
 image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
 ---
 

@@ -1,13 +1,49 @@
-{{/* Related Posts: show up to 3 posts from the same section, excluding current */}}
+{{/* Related Posts: topically-matched, ranked by shared category + tags.
+     Falls back to most-recent same-section pages only if no topical match. */}}
 {{ $current := . }}
-{{ $allPages := where .Site.RegularPages ".Permalink" "!=" $current.Permalink }}
-{{ $related := $allPages | first 3 }}
+{{ $currentCat := .Params.category }}
+{{ $currentTags := .Params.tags }}
 
-{{ if gt (len $related) 0 }}
+{{ $allPages := where .Site.RegularPages ".Permalink" "!=" $current.Permalink }}
+
+{{/* Score every candidate: +2 for same category, +1 per shared tag */}}
+{{ $scored := slice }}
+{{ range $allPages }}
+  {{ $candidate := . }}
+  {{ $score := 0 }}
+  {{ if and $currentCat (eq .Params.category $currentCat) }}
+    {{ $score = add $score 2 }}
+  {{ end }}
+  {{ with $currentTags }}
+    {{ range $t := . }}
+      {{ if in ($candidate.Params.tags | default slice) $t }}
+        {{ $score = add $score 1 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if gt $score 0 }}
+    {{ $scored = $scored | append (dict "page" $candidate "score" $score) }}
+  {{ end }}
+{{ end }}
+
+{{/* Sort by score (desc), tiebreak by date (desc), take 3 */}}
+{{ $related := sort $scored "score" "desc" }}
+
+{{ $top := slice }}
+{{ range first 3 $related }}
+  {{ $top = $top | append .page }}
+{{ end }}
+
+{{/* Fallback: if no topical match, use 3 most recent non-current pages */}}
+{{ if eq (len $top) 0 }}
+  {{ $top = first 3 $allPages }}
+{{ end }}
+
+{{ if gt (len $top) 0 }}
   <section class="mt-12 pt-8 border-t border-gray-200" aria-label="Related articles">
     <h2 class="text-xl font-bold text-gray-900 mb-6">Related Articles</h2>
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
-      {{ range $related }}
+      {{ range $top }}
         <article class="group">
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}

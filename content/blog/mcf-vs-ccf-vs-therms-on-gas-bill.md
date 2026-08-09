@@ -5,8 +5,9 @@ description: "MCF, CCF, therms \u2014 your gas bill uses confusing units. Here's
 date: 2026-05-27
 author: "Utility Explained"
 category: "Gas"
-tags: ["MCF vs CCF vs therms"]
-keywords: ["MCF vs CCF vs therms"]
+categories: ["Gas"]
+tags: ["therms", "ccf", "gas bill", "budget", "savings"]
+keywords: ["therms", "ccf", "high gas bill", "utility budget", "lower utility bill"]
 image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_00001_.png"
 ---
 

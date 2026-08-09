@@ -1,12 +1,13 @@
 ---
-title: "How to Choose how to read your utility bill (2026)"
+title: "How to Read Your Utility Bill: A Plain-English Guide to Every Section"
 slug: "how-to-read-your-utility-bill"
-description: "Learn everything about how to read your utility bill in 2026. Costs, comparisons, expert tips for US homeowners."
+description: "Learn what every line on your utility bill means, from delivery charges to taxes, so you can spot errors, verify meter readings, and cut costs."
 date: 2026-05-29
 author: "Utility Explained"
 category: "Utility Bills"
-tags: ["how to read your utility bill"]
-keywords: ["how to read your utility bill"]
+categories: ["Utility Bills"]
+tags: ["utility bill", "read your bill", "billing charges", "meter reading", "bill breakdown"]
+keywords: ["how to read your utility bill", "utility bill explained", "understand utility bill charges", "what do utility bill charges mean"]
 image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_00001_.png"
 ---
 
@@ -127,7 +128,7 @@ image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-
           <ul>
           <li><strong>State Tax</strong>: Typically 3–5% of supply/delivery (e.g., CA’s 3.3% utility tax)</li>
           <li><strong>Federal or Local Fees</strong>: “Reliability Charge” or “Environmental Surcharge” (e.g., $0.50–$2.00/month)</li>
-          <li><strong>Low-Income Assistance Programs</strong>: <strong>LIHEAP</strong> (Low-Income Home Energy Assistance Program) can cover up to 70% of heating/cooling costs — apply at <a href="/blog/apply-liheap">/blog/apply-liheap</a></li>
+          <li><strong>Low-Income Assistance Programs</strong>: <strong>LIHEAP</strong> (Low-Income Home Energy Assistance Program) can cover up to 70% of heating/cooling costs — apply at <a href="https://www.acf.hhs.gov/ocs/programs/liheap">the federal LIHEAP program</a></li>
           </ul>
           <p>Example tax breakdown on a $187.62 electric bill:</p>
           <ul>
@@ -172,7 +173,7 @@ image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-
           2. Set your thermostat 7–10°F lower at night (saves 10% on heating)
           3. Wash clothes in cold water (90% of energy goes to heating water)</p>
           <h3>Where can I get help paying my utility bill?</h3>
-          <p>Start with your utility’s <strong>financial assistance program</strong> — most offer payment plans and discounts. Federally, apply for <a href="/blog/apply-liheap">LIHEAP</a> through your state’s community action agency. Nonprofits like the Salvation Army and United Way also offer emergency aid.</p>
+          <p>Start with your utility’s <strong>financial assistance program</strong> — most offer payment plans and discounts. Federally, apply for <a href="https://www.acf.hhs.gov/ocs/programs/liheap">LIHEAP</a> through your state’s community action agency. Nonprofits like the Salvation Army and United Way also offer emergency aid.</p>
 
 {{< faq "Why is my utility bill higher this month even though I used less?" >}}
 
@@ -220,3 +221,9 @@ Start with your utility’s  financial assistance program  — most offer paymen
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
+- [How to Read Your Gas Bill: A Plain-English Guide to Every Line Item](/blog/12-how-to-read-your-gas-bill)

@@ -5,6 +5,7 @@ description: "AC short cycling wastes energy and damages your compressor. Learn 
 date: 2026-05-28
 author: "Utility Explained"
 category: "HVAC"
+categories: ["HVAC"]
 tags: ["HVAC", "air conditioning", "troubleshooting", "energy efficiency"]
 keywords: ["ac short cycling", "ac turning on and off", "air conditioner short cycling", "ac compressor short cycle", "why does my ac keep turning off"]
 image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
@@ -153,3 +154,9 @@ Costs range from $20 (new air filter) to $3,000+ (compressor replacement). Filte
 
 **Can an AC be too big for my house?**
 Absolutely. An oversized unit cools too quickly without removing humidity, causing short cycling and comfort complaints. Proper sizing requires a Manual J load calculation. If your contractor installed a larger unit "for safety," it may actually perform worse than a correctly sized smaller one.
+
+---
+
+*Related Reading:*
+- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling)
+- [Why Is My Furnace Blowing Cold Air? 9 Common Causes](/blog/why-is-my-furnace-blowing-cold-air)

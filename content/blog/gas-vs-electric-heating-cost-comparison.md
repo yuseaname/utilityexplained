@@ -2,11 +2,12 @@
 title: "Gas vs. Electric Heating: Cost Comparison for Real Homes"
 slug: "gas-vs-electric-heating-cost-comparison"
 description: "Compare gas and electric heating costs, efficiency, and what matters on your bill."
-date: 2024-12-04
+date: 2025-12-26
 author: "Utility Explained"
 category: "Comparisons"
-tags: ["gas vs electric heating cost comparison"]
-keywords: ["gas vs electric heating cost comparison"]
+categories: ["Comparisons"]
+tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
+keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac efficiency ratings"]
 image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_00001_.png"
 ---
 
@@ -220,3 +221,8 @@ It depends on local rates, your climate, and your home. Comparing fuel costs, fi
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Whole House Generator vs. Portable: Real Cost Comparison](/blog/45-whole-house-generator-vs-portable-cost)

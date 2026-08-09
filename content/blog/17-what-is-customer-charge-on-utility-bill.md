@@ -5,6 +5,7 @@ description: "That $10 to $25 'customer charge' on your utility bill shows up ev
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["fees", "utility bills", "electricity", "gas"]
 keywords: ["customer charge utility bill", "what is customer charge", "fixed charge on electric bill", "utility customer service charge"]
 image: "/images/articles/what-is-customer-charge-on-utility-bill/image.webp"
@@ -160,3 +161,9 @@ It depends on your usage. For an average US household using about 886 kWh/month 
 
 **Do solar customers pay the customer charge?**
 Yes. In most states, solar customers with grid-connected systems pay the full customer charge. Many utilities also impose additional "standby" or "grid access" charges on solar customers. California's NEM 3.0 program, for example, includes a grid participation charge of roughly $8 to $15/month on top of the standard customer charge.
+
+---
+
+*Related Reading:*
+- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)

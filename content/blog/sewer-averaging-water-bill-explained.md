@@ -5,8 +5,9 @@ description: "Sewer charges often use a winter average, not current water use. L
 date: 2025-12-27
 author: "Utility Explained"
 category: "Water"
-tags: ["sewer averaging"]
-keywords: ["sewer averaging"]
+categories: ["Water"]
+tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
+keywords: ["sewer charge water bill", "sewer averaging", "water leak detection", "ccf", "high water bill"]
 image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_00001_.png"
 ---
 

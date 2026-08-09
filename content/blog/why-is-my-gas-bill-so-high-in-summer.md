@@ -5,8 +5,9 @@ description: "Surprised your gas bill is high even in summer? Hot water heaters,
 date: 2026-05-27
 author: "Utility Explained"
 category: "Gas"
-tags: ["why is my gas bill so high in summer"]
-keywords: ["why is my gas bill so high in summer"]
+categories: ["Gas"]
+tags: ["leak", "gas bill", "savings", "therms", "furnace"]
+keywords: ["gas leak", "high gas bill", "lower utility bill", "therms", "gas furnace"]
 image: "/images/articles/why-is-my-gas-bill-so-high-in-summer/image.webp"
 ---
 

@@ -5,6 +5,7 @@ description: "Compare the true costs of whole house generators vs portable gener
 date: 2026-05-30
 author: "Utility Explained"
 category: "Backup Power"
+categories: ["Backup Power"]
 tags: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison"]
 keywords: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison", "backup power cost"]
 image: "/images/utility-paperwork.jpg"
@@ -129,3 +130,9 @@ When weighing **whole house generator vs portable cost**, there is no single "co
 ***
 
 *Looking for more ways to manage your household expenses? Check out our guide on [how to reduce monthly utility costs] or [essential home maintenance checklists to save money].*
+
+---
+
+*Related Reading:*
+- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
+- [Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?](/blog/48-heat-pump-vs-gas-furnace-savings)

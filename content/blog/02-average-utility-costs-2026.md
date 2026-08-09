@@ -5,6 +5,7 @@ description: "The average US household spends $500-600/month on utilities. Here'
 date: 2026-03-07
 author: "Utility Explained"
 category: "Costs"
+categories: ["Costs"]
 tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
 image: "/images/utility-paperwork.jpg"
@@ -342,6 +343,6 @@ Knowing the averages helps you benchmark your costs. If you're significantly abo
 ---
 
 *Related Articles:*
-- [How to Read Your Electric Bill](#)
-- [Why Is My Electric Bill So High?](#)
-- [How to Lower Your Utility Bills](#)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)

@@ -5,6 +5,7 @@ description: "Your electricity bill doubled overnight with no change in your hab
 date: 2026-05-28
 author: "Utility Explained"
 category: "Troubleshooting"
+categories: ["Troubleshooting"]
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
 keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
 image: "/images/utility-electricity.jpg"
@@ -227,3 +228,9 @@ HVAC system malfunctions are the most common cause of large usage spikes. A heat
 **How do I dispute an incorrect electric bill?**
 
 Contact your utility in writing describing the error and requesting an investigation. Request a meter test and account audit. If the utility does not resolve the issue to your satisfaction, file a formal complaint with your state public utility commission. Keep records of all communication, meter readings, and bills throughout the process.
+
+---
+
+*Related Reading:*
+- [Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)](/blog/why-is-my-electricity-bill-so-high-in-summer)
+- [Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)](/blog/why-is-my-electricity-bill-so-high-in-winter)

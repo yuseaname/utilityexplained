@@ -5,6 +5,7 @@ description: "Surcharges and riders add $5 to $30 or more to your monthly utilit
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["fees", "utility bills", "electricity", "rates"]
 keywords: ["utility bill surcharges", "utility bill riders", "what are riders on utility bill", "extra charges on utility bill"]
 image: "/images/articles/utility-bill-surcharges-and-riders-explained/image.webp"
@@ -230,3 +231,9 @@ Your utility's website should have a rate tariff document that explains each lin
 
 **Are surcharges permanent or temporary?**
 It depends. Some riders are temporary and expire when the funded project is paid off (like a smart meter deployment rider). Others are ongoing and tied to continuing programs (like energy efficiency or renewable energy mandates). Check your utility's rate filing documents for expiration dates.
+
+---
+
+*Related Reading:*
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
+- [Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them](/blog/04-hidden-fees-utility-bill)

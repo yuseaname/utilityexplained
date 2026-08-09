@@ -5,8 +5,9 @@ description: "If your total jumped but your habits did not, this guide breaks do
 date: 2026-01-15
 author: "Utility Explained"
 category: "Budgeting"
-tags: ["why did my utility bill go up this month"]
-keywords: ["why did my utility bill go up this month"]
+categories: ["Budgeting"]
+tags: ["estimated bill", "surcharge", "budget"]
+keywords: ["estimated utility bill", "utility surcharge", "utility budget"]
 image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
 ---
 
@@ -69,7 +70,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
             <p>
               Look for the bill period dates. Then compare usage per day, not just
               the total. For a deeper explanation, see
-              <a href="/blog/utility-billing-cycle-explained"> Utility Billing Cycle Explained</a>.
+              <a href="/blog/23-utility-billing-cycle-explained"> Utility Billing Cycle Explained</a>.
             </p>
 
 <h2 id="estimated-reads">Estimated reads and catch-up bills</h2>
@@ -87,7 +88,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
             <p>
               Check the usage section for an E or the word "estimated." If you see
               it, the story usually continues in
-              <a href="/blog/estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
             </p>
 
 <h2 id="seasonality">Seasonality without obvious behavior changes</h2>
@@ -118,7 +119,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
             </figure>
             <p>
               If you want a deeper breakdown of line items, this guide helps:
-              <a href="/blog/delivery-charge-vs-supply-charge-utility-bill">
+              <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill">
                 Delivery vs supply charges on utility bills
               </a>.
             </p>
@@ -174,3 +175,9 @@ Check the billing period length, look for estimated reads, and scan line items f
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change](/blog/why-my-utility-bill-is-higher-with-same-usage)
+- [Tiered Water Rates Explained: Why Using More Costs Dramatically More](/blog/tiered-water-rates-explained)

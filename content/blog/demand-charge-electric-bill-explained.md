@@ -5,8 +5,9 @@ description: "A demand charge is based on your highest short-term usage, not you
 date: 2025-12-26
 author: "Utility Explained"
 category: "Electricity"
-tags: ["demand charge electric bill"]
-keywords: ["demand charge electric bill"]
+categories: ["Electricity"]
+tags: ["demand charge", "kwh", "electric bill"]
+keywords: ["demand charge electric", "kwh usage", "high electric bill"]
 image: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.png"
 ---
 

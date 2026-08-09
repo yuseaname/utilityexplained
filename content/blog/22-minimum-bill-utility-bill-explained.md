@@ -5,6 +5,7 @@ description: "Understand why your utility bill shows a minimum charge even when 
 date: 2026-05-28
 author: "Utility Explained"
 category: "Fees"
+categories: ["Fees"]
 tags: ["minimum bill", "utility fees", "base charge", "fixed charges"]
 keywords: ["minimum bill utility", "minimum charge on utility bill", "why do I have a minimum utility charge", "minimum service charge", "utility minimum bill even with low usage"]
 image: "/images/articles/minimum-bill-utility-bill-explained/image.webp"
@@ -151,3 +152,9 @@ Yes. In most states in 2026, net metering policies require solar customers to pa
 **Why are minimum bills increasing?**
 
 Utilities are filing for higher fixed charges because per-kWh consumption has been declining due to energy efficiency, LED lighting, and distributed solar generation. Since fixed infrastructure costs remain constant or grow, utilities argue that shifting more costs to fixed charges ensures equitable cost recovery across all customer classes.
+
+---
+
+*Related Reading:*
+- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
+- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)

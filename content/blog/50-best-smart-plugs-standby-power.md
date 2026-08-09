@@ -5,6 +5,7 @@ description: "Stop vampire energy drain with the best smart plugs. Discover whic
 date: 2026-05-30
 author: "Utility Explained"
 category: "Energy Efficiency"
+categories: ["Energy Efficiency"]
 tags: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
 keywords: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
 image: "/images/utility-paperwork.jpg"
@@ -156,3 +157,9 @@ Don't let your hard-earned money leak out of your wall outlets. Start plugging t
 *Internal Linking Suggestions:*
 *   *If you're interested in more ways to save, check out our guide on [How to Lower Your Monthly Heating Bill].*
 *   *Learn more about the basics of smart home setup in our [Beginner's Guide to Home Automation].*
+
+---
+
+*Related Reading:*
+- [How Do Smart Meters Work? (And Should You Trust Them?)](/blog/how-do-smart-meters-work)
+- [How to Check for Energy Leaks at Home: DIY Inspection Guide](/blog/47-check-energy-leaks-home-diy)

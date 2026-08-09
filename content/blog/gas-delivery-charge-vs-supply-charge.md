@@ -5,8 +5,9 @@ description: "Your gas bill splits costs into delivery charges and supply charge
 date: 2026-05-27
 author: "Utility Explained"
 category: "Gas"
-tags: ["gas delivery charge vs supply charge"]
-keywords: ["gas delivery charge vs supply charge"]
+categories: ["Gas"]
+tags: ["gas bill", "delivery charge", "supply charge", "therms", "ccf"]
+keywords: ["high gas bill", "delivery charge", "supply charge", "therms", "ccf"]
 image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_00001_.png"
 ---
 

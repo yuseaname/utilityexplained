@@ -5,8 +5,9 @@ description: "Seeing a water service (or base) charge even when you barely used 
 date: 2025-12-26
 author: "Utility Explained"
 category: "Water"
-tags: ["water service charge"]
-keywords: ["water service charge"]
+categories: ["Water"]
+tags: ["ccf", "water bill", "leak", "gallons", "surcharge"]
+keywords: ["ccf", "high water bill", "water leak detection", "gallons of water", "utility surcharge"]
 image: "/images/articles/water-service-charge-explained/water-service-charge-explained_hero_00001_.png"
 ---
 
@@ -264,3 +265,9 @@ In most areas the service charge is set by the utility and stays the same for a 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Stormwater Fee on Your Water Bill: What You](/blog/stormwater-fee-on-water-bill-explained)
+- [Drought Surcharge on Your Water Bill: What It Is and Why You Pay It](/blog/drought-surcharge-on-water-bill-explained)

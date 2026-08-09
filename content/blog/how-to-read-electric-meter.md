@@ -5,8 +5,9 @@ description: "Confused by the dials? Learn how to read any electric meter (analo
 date: 2025-12-25
 author: "Utility Explained"
 category: "Electricity"
-tags: ["how to read electric meter"]
-keywords: ["how to read electric meter"]
+categories: ["Electricity"]
+tags: ["electric bill", "kwh", "electric meter", "smart meter"]
+keywords: ["high electric bill", "kwh usage", "read electric meter", "smart meter accuracy"]
 image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.png"
 ---
 

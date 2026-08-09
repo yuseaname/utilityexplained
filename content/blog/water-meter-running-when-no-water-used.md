@@ -5,8 +5,9 @@ description: "If your water meter is still running but no taps are open, you lik
 date: 2026-05-27
 author: "Utility Explained"
 category: "Water"
-tags: ["water meter running when no water used"]
-keywords: ["water meter running when no water used"]
+categories: ["Water"]
+tags: ["water bill", "leak", "gallons", "water meter", "therms"]
+keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "therms"]
 image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00001_.png"
 ---
 

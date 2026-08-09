@@ -5,8 +5,9 @@ description: "Simple definition of a kilowatt-hour (kWh). Learn the difference b
 date: 2025-12-25
 author: "Utility Explained"
 category: "Electricity"
-tags: ["what is a kilowatt hour"]
-keywords: ["what is a kilowatt hour"]
+categories: ["Electricity"]
+tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
+keywords: ["kwh usage", "high electric bill", "ac not cooling", "energy efficient space heater", "delivery charge"]
 image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_00001_.png"
 ---
 

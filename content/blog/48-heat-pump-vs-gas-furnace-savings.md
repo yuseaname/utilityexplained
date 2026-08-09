@@ -5,6 +5,7 @@ description: "Compare heat pump and gas furnace costs over time. Discover which 
 date: 2026-05-30
 author: "Utility Explained"
 category: "Gas"
+categories: ["Gas"]
 tags: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
 keywords: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
 image: "/images/utility-gas.jpg"
@@ -141,3 +142,9 @@ Don't guess—calculate. Contact a local, licensed HVAC professional to perform 
 * *Link to an article about: "How to read your utility bill to track energy usage"*
 * *Link to an article about: "The best smart thermostats for energy efficiency in 2024"*
 * *Link to an article about: "Understanding SEER2 and AFUE ratings for homeowners"*
+
+---
+
+*Related Reading:*
+- [Heat Pump Running All Day in Winter? What Is Normal vs a Problem](/blog/heat-pump-running-all-day-in-winter)
+- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)

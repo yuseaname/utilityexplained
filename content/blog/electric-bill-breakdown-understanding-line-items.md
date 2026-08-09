@@ -5,8 +5,9 @@ description: "Confused by your bill? We decode every line item--from supply and 
 date: 2025-12-25
 author: "Utility Explained"
 category: "Electricity"
-tags: ["understanding electric bill charges"]
-keywords: ["understanding electric bill charges"]
+categories: ["Electricity"]
+tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
+keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charge utility", "utility surcharge"]
 image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.png"
 ---
 
@@ -157,3 +158,8 @@ Check the billing period length, whether the bill was estimated, the total kWh, 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [How to Read an Electricity Bill: Complete Guide to Understanding Charges](/blog/41-how-to-read-electricity-bill)

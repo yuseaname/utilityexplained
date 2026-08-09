@@ -5,8 +5,9 @@ description: "Shocked by a high electric bill? Discover 11 hidden causes--from p
 date: 2025-12-20
 author: "Utility Explained"
 category: "Electricity"
-tags: ["why is my electric bill so high this month"]
-keywords: ["why is my electric bill so high this month"]
+categories: ["Electricity"]
+tags: ["air conditioner", "electric bill", "kwh", "therms", "thermostat"]
+keywords: ["ac not cooling", "high electric bill", "kwh usage", "therms", "thermostat settings"]
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.png"
 ---
 
@@ -108,7 +109,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
 <h2 id="rates">Utility factors: rates and time-of-use pricing</h2>
 <p>
               Sometimes your usage did not increase -- your price did. Many utilities
-              use <a href="/blog/time-of-use-electricity-rates">time-of-use (TOU) pricing</a> where electricity costs more during peak
+              use <a href="/blog/08-time-of-use-electricity">time-of-use (TOU) pricing</a> where electricity costs more during peak
               hours. Two identical months can cost different amounts purely due to
               price per kilowatt-hour.
             </p>

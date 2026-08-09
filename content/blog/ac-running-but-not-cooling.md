@@ -5,8 +5,9 @@ description: "If your air conditioner is running but the house is still warm, th
 date: 2025-12-26
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["AC running but not cooling"]
-keywords: ["AC running but not cooling"]
+categories: ["Heating & Cooling"]
+tags: ["air conditioner", "leak", "duct", "therms", "thermostat"]
+keywords: ["ac not cooling", "duct leak symptoms", "therms", "thermostat settings"]
 image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_00001_.png"
 ---
 

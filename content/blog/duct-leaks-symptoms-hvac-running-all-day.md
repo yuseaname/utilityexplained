@@ -5,8 +5,9 @@ description: "Uneven temperatures, weak airflow, and long HVAC runtime often tra
 date: 2025-12-25
 author: "Utility Explained"
 category: "Heating & Cooling"
-tags: ["duct leaks symptoms"]
-keywords: ["duct leaks symptoms"]
+categories: ["Heating & Cooling"]
+tags: ["duct", "leak", "air conditioner", "afue", "aux heat"]
+keywords: ["duct leak symptoms", "ac not cooling", "hvac efficiency ratings", "aux heat vs emergency heat"]
 image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_00002_.png"
 ---
 

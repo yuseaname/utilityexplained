@@ -6,7 +6,7 @@
     <img
       src="{{ $image }}"
       alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
-      class="w-full h-auto rounded-lg"
+      class="w-full max-h-[420px] object-cover rounded-lg"
       loading="lazy"
       {{ with .Params.image_width }}width="{{ . }}"{{ end }}
       {{ with .Params.image_height }}height="{{ . }}"{{ end }}

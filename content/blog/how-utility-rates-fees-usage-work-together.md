@@ -5,8 +5,9 @@ description: "A plain-English model of how usage, price per unit, and fixed char
 date: 2026-01-15
 author: "Utility Explained"
 category: "Budgeting"
-tags: ["how utility rates and fees work together"]
-keywords: ["how utility rates and fees work together"]
+categories: ["Budgeting"]
+tags: ["budget"]
+keywords: ["utility budget"]
 image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
 ---
 
@@ -48,7 +49,7 @@ image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
               <a href="/blog/tiered-electricity-rates-explained">
                 Tiered Electricity Rates Explained
               </a> and
-              <a href="/blog/time-of-use-electricity-rates"> Time-of-Use Rates</a>.
+              <a href="/blog/08-time-of-use-electricity"> Time-of-Use Rates</a>.
             </p>
             <h3>Adjustments and riders</h3>
             <p>
@@ -77,7 +78,7 @@ image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
             <p>
               Local taxes and franchise fees are common and can change yearly. This
               guide walks through them:
-              <a href="/blog/utility-bill-taxes-fees-franchise-charges-explained">
+              <a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained">
                 Utility Bill Taxes, Fees, and Franchise Charges Explained
               </a>.
             </p>

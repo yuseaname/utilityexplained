@@ -5,8 +5,9 @@ description: "Most water meters have a small leak indicator that moves when wate
 date: 2025-12-26
 author: "Utility Explained"
 category: "Water"
-tags: ["water meter leak indicator"]
-keywords: ["water meter leak indicator"]
+categories: ["Water"]
+tags: ["leak", "water meter", "water bill"]
+keywords: ["water leak detection", "water meter reading", "high water bill"]
 image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.png"
 ---
 
@@ -213,3 +214,8 @@ Watch it for at least 60-120 seconds and, if possible, confirm by taking two met
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [Water Meter Running When No Water Is Being Used: Causes and Fixes](/blog/water-meter-running-when-no-water-used)

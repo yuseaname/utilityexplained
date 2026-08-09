@@ -5,8 +5,9 @@ description: "Summer water bills often jump for predictable reasons--outdoor wat
 date: 2025-12-26
 author: "Utility Explained"
 category: "Water"
-tags: ["why is my water bill higher in summer"]
-keywords: ["why is my water bill higher in summer"]
+categories: ["Water"]
+tags: ["leak", "water bill", "ccf", "savings", "gallons"]
+keywords: ["water leak detection", "high water bill", "ccf", "lower utility bill", "gallons of water"]
 image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_00001_.png"
 ---
 

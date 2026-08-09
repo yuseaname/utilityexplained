@@ -5,8 +5,9 @@ description: "You do not need solar to save money. Discover 12 proven, low-cost 
 date: 2025-12-25
 author: "Utility Explained"
 category: "Electricity"
-tags: ["how to lower electric bill without solar"]
-keywords: ["how to lower electric bill without solar"]
+categories: ["Electricity"]
+tags: ["savings", "solar", "electric bill", "leak", "kwh"]
+keywords: ["lower utility bill", "solar payback", "high electric bill", "energy waste", "kwh usage"]
 image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_00001_.png"
 ---
 
@@ -32,7 +33,7 @@ image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-e
             </p>
             <p>
               If you are on a TOU plan, shifting usage matters too. See
-              <a href="/blog/time-of-use-electricity-rates"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
               if that is your plan.
             </p>
 

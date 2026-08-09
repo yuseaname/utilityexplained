@@ -5,6 +5,7 @@ description: "Cut your utility bills by 20-40% with these proven strategies. Fro
 date: 2026-03-07
 author: "Utility Explained"
 category: "Savings"
+categories: ["Savings"]
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
 image: "/images/utility-paperwork.jpg"
@@ -384,6 +385,6 @@ You don't need to do everything. Pick the strategies that match your budget and 
 ---
 
 *Related Articles:*
-- [Average Utility Costs in 2026](#)
-- [Why Is My Electric Bill So High?](#)
-- [Hidden Fees on Your Utility Bill](#)
+- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill)
