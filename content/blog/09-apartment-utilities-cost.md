@@ -13,7 +13,7 @@ image: "/images/utility-bill.jpg"
 
 Moving into your first apartment — or moving to a new one — and wondering what utilities will cost? This guide gives you **real numbers, by utility type, by apartment size, and by region**, so you can budget accurately and avoid surprises. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/utility-bill.jpg" alt="Apartment utility budgeting and planning" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-bill.jpg" alt="Close-up of a paper utility bill with visible charges illustrating apartment utility costs" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

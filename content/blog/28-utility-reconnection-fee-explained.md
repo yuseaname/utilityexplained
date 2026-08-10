@@ -13,7 +13,7 @@ image: "/images/articles/utility-reconnection-fee-explained/image.webp"
 
 The power went out yesterday, but your neighbors still have lights. You check your breaker panel — everything is fine. Then you remember: you missed the final notice last week. Your electric service has been disconnected for non-payment, and getting it back on will cost you significantly more than just the past-due amount. Here is a complete breakdown of reconnection fees, timelines, and your rights.
 
-<img src="/images/utility-home.jpg" alt="Technician working on a utility meter to restore electric service" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior relevant to utility reconnection fees" width="1200" height="630" loading="lazy" />
 
 ## Quick Answer: How Much Does It Cost to Reconnect?
 

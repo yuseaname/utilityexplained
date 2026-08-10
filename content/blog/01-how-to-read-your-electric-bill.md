@@ -13,7 +13,7 @@ image: "/images/utility-electricity.jpg"
 
 Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/utility-electricity.jpg" alt="Electric utility bill with charges breakdown" width="1200" height="630" loading="lazy" /> Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
+<img src="/images/utility-electricity.jpg" alt="Electrical power lines and poles against a blue sky, related to reading your electric bill" width="1200" height="630" loading="lazy" /> Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 
@@ -129,7 +129,7 @@ This varies wildly by location:
 | **Demand Charge** | Peak usage (commercial only) |
 | **Power Factor Penalty** | Inefficient electrical use (commercial) |
 
-<img src="/images/utility-electricity.jpg" alt="Electric bill charges breakdown chart" width="800" height="400" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Power lines and poles against a blue sky illustrating electric bill reading" width="800" height="400" loading="lazy" />
 
 ### Decoding the Jargon
 

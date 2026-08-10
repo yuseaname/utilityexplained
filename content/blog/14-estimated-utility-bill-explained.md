@@ -13,7 +13,7 @@ image: "/images/articles/estimated-utility-bill-explained/image.webp"
 
 You open your utility bill and notice something odd: instead of showing an actual [meter](/blog/how-to-read-electric-meter) reading, it says "estimated." Your water, gas, or electric company guessed how much you used and charged you accordingly. This is more common than most people realize, and it can lead to surprisingly high—or pleasantly low—bills that eventually need correcting. Here's exactly how estimated billing works and what you should do about it.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills and documents spread on a table" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+<img src="/images/utility-paperwork.jpg" alt="Flat-lay of utility bills, documents, calculator and pen on a desk for estimated bill guidance" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
 ## Table of Contents
 

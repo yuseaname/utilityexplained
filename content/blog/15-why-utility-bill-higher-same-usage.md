@@ -13,7 +13,7 @@ image: "/images/utility-home.jpg"
 
 You pull up your electric bill and the usage looks normal—right around the same 900 [kWh](/blog/what-is-a-kilowatt-hour) you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.
 
-<img src="/images/utility-home.jpg" alt="Frustrated person reviewing bills and finances" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating why your utility bill is higher" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
 ## Table of Contents
 

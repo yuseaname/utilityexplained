@@ -15,7 +15,7 @@ A high gas bill usually comes down to one of three things: **you're using more g
 
 Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. Learn more in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained).
 
-<img src="/images/utility-home.jpg" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating a high gas bill concern" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

@@ -17,7 +17,7 @@ This guide gives you 20+ proven ways to lower your electric bill, organized by c
 
 Every tip includes the math: what it costs, what it saves, and how long until it pays you back.
 
-<img src="/images/utility-energy.jpg" alt="Person adjusting thermostat to lower electric bill" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-energy.jpg" alt="Abstract energy concept with lightbulb motif illustrating electricity savings" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

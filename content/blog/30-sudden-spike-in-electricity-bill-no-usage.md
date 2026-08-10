@@ -13,7 +13,7 @@ image: "/images/utility-home.jpg"
 
 Last month's electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
 
-<img src="/images/utility-home.jpg" alt="Person reviewing a surprisingly high electricity bill at the kitchen counter" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior illustrating unexpected electricity bill spikes" width="1200" height="630" loading="lazy" />
 
 ## Quick Answer: Why Did My Bill Spike?
 

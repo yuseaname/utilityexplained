@@ -15,7 +15,7 @@ A sudden spike in your water bill is frustrating — and often a sign that somet
 
 This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill).
 
-<img src="/images/utility-home.jpg" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating a high water bill concern" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

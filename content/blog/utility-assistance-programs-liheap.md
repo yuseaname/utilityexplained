@@ -15,7 +15,7 @@ You're staring at a utility bill you can't pay. Maybe it's $480, double what you
 
 You have more options than you think. Federal programs, state assistance, utility hardship plans, and non-profit organizations can help. This guide explains every assistance program, who qualifies, how to apply, and exactly what to do if you're facing shut-off this week.
 
-<img src="/images/utility-paperwork.jpg" alt="Person reviewing utility bill with assistance program paperwork" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Utility bills, documents, and calculator flat-lay illustrating assistance paperwork" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

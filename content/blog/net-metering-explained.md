@@ -17,7 +17,7 @@ Net metering is the billing mechanism that makes rooftop solar financially viabl
 
 Here's how net metering works, how it appears on your bill, how it's evolved, and whether it's worth it in your state.
 
-<img src="/images/utility-electricity.jpg" alt="Rooftop solar panels with utility meter and electric bill" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Power lines and poles against a blue sky illustrating net metering concepts" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

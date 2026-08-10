@@ -15,7 +15,7 @@ If you live in a state with energy choice (deregulated market), you've probably 
 
 This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 
-<img src="/images/utility-meter.jpg" alt="Comparing fixed and variable utility rate plans" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-meter.jpg" alt="Electric utility meter (dial type) mounted on a wall, illustrating fixed vs variable rates" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

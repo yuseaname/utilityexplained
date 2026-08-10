@@ -13,7 +13,7 @@ image: "/images/utility-paperwork.jpg"
 
 You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour). Your effective rate is 18¢. The difference? Hidden fees. Here's what they are and what you can do about them.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bill with multiple hidden fees highlighted" width="1200" height="630" loading="lazy" /> See [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained).
+<img src="/images/utility-paperwork.jpg" alt="Flat-lay of utility bills, documents, calculator and pen on a desk illustrating hidden fees" width="1200" height="630" loading="lazy" /> See [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained).
 
 ## Table of Contents
 

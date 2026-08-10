@@ -14,7 +14,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
 
 Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/utility-home.jpg" alt="High electric bill with shocking charges" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
+<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating a high electric bill concern" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 

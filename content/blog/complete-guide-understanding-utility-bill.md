@@ -15,7 +15,7 @@ Your utility bills arrive every month. You glance at the total, pay it, and move
 
 This guide explains electricity, gas, and water bills in plain English. You'll learn what every charge means, how rate structures work, how to spot errors, and how to lower each type of bill.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills with magnifying glass showing line item charges" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Utility bills, documents, and calculator flat-lay illustrating bill analysis" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

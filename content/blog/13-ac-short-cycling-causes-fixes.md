@@ -13,7 +13,7 @@ image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.
 
-<img src="/images/utility-hvac.jpg" alt="Air conditioning unit on the side of a house during summer" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-hvac.jpg" alt="Outdoor HVAC condenser unit next to a house wall, illustrating AC short cycling issues" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

@@ -13,7 +13,7 @@ image: "/images/utility-energy.jpg"
 
 You can cut your utility bills by 20-40% without sacrificing comfort. Here are 25 proven strategies, ranked by savings potential, with actual numbers. See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
-<img src="/images/utility-energy.jpg" alt="Lower utility bills concept with downward trend" width="1200" height="630" loading="lazy" /> See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
+<img src="/images/utility-energy.jpg" alt="Abstract energy concept illustration with a lightbulb motif, related to lowering utility bills" width="1200" height="630" loading="lazy" /> See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
 
 ## Quick Answer: What Actually Lowers Utility Bills?
 

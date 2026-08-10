@@ -13,7 +13,7 @@ image: "/images/utility-electricity.jpg"
 
 Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
 
-<img src="/images/utility-electricity.jpg" alt="Home electricity usage and appliances kWh guide" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Electrical power lines and poles against a blue sky, related to understanding kWh usage" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

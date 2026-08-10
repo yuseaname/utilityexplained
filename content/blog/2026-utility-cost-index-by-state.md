@@ -17,7 +17,7 @@ This 2026 Utility Cost Index ranks all 50 states by average monthly utility cost
 
 **Key finding:** The average US household spends **$262/month** on utilities, but state-by-state variation is enormous—from **$185/month (Utah)** to **$395/month (Hawaii)**.
 
-<img src="/images/utility-bill.jpg" alt="Map of US with state-by-state utility costs highlighted" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-bill.jpg" alt="Close-up of a paper utility bill with visible charges, relevant to cost comparison by state" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

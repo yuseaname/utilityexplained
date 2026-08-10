@@ -17,7 +17,7 @@ The answer depends on three things: how much you drive, when you charge, and you
 
 Here's the complete math, how to charge during off-peak hours to save even more, and whether an EV makes financial sense for your situation.
 
-<img src="/images/utility-electricity.jpg" alt="Electric vehicle plugged into home charging station with electric meter" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Power lines and poles against a blue sky illustrating electricity costs" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

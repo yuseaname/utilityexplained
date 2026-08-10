@@ -25,7 +25,7 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 >
 > Add **taxes and small regulatory fees (5–15%)** on top. A typical bill runs about **$25–$50/month in summer** and **$80–$200/month in winter**. The rest of this page explains every line in detail.
 
-<img src="/images/utility-gas.jpg" alt="Natural gas utility bill guide with therms and charges explained" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-gas.jpg" alt="Natural gas meter and pipes infrastructure illustrating how to read your gas bill" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
