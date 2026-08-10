@@ -1,5 +1,5 @@
 ---
-title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything"
+title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
@@ -12,23 +12,10 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 ---
 
 <h2 id="problem">The problem: your bill jumped, but you cannot see where the water went</h2>
-<p class="lead">
-              A higher water bill is one of the most confusing household surprises.
-              You did not change your routine... but your usage did.
-            </p>
-            <p>
-              When that happens, the fastest way to get clarity is to stop guessing
-              and use your meter. Many water meters have a small "leak indicator"
-              designed for exactly this.
-            </p>
-            <p>
-              This article shows you how to find the indicator, how to test correctly,
-              and how to avoid common false alarms.
-            </p>
-            <p>
-              If you want the overall "bill detective" flowchart first, start here:
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why water bills suddenly increase</a>.
-            </p>
+<p class="lead">A higher water bill is one of the most confusing household surprises. You did not change your routine — but your usage did.</p>
+<p>When that happens, the fastest way to get clarity is to stop guessing and use your meter. Most water meters have a small "leak indicator" — a dial, triangle, or star — designed to move the moment any water flows, even a trickle you cannot see or hear.</p>
+<p>This guide explains what the leak indicator is, <strong>where to find it on your meter</strong>, how to test for leaks the right way, and how to avoid common false alarms. If you already know your meter is running and want the full troubleshooting playbook, see our guide on <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a>.</p>
+<p>If you want the overall "bill detective" flowchart first, start here: <a href="/blog/why-did-my-water-bill-suddenly-increase/">why water bills suddenly increase</a>.</p>
 
 <h2 id="toc">Table of contents</h2>
 <ul>
@@ -42,21 +29,10 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
             </ul>
 
 <h2 id="quick-answer">The quick answer</h2>
-<p>
-              A water meter leak indicator is a small dial, triangle, star, or sweep
-              marker that <strong>moves when any water is flowing</strong>.
-            </p>
-            <p>
-              If you shut off everything inside and outside (no faucets, no toilets
-              refilling, no sprinklers), the leak indicator should stop. If it keeps
-              moving, <strong>something is using water</strong>--often a hidden toilet leak,
-              irrigation valve, or a small continuous flow.
-            </p>
-            <p>
-              For a full meter-reading walkthrough (different dial styles, digital
-              meters), see:
-              <a href="/blog/how-to-read-a-water-meter"> how to read a water meter</a>.
-            </p>
+<p>A water meter leak indicator is a small dial, triangle, star, or sweep marker that <strong>moves whenever any water flows through your meter</strong> — even a trickle too small to register on the main numbers display.</p>
+<p><strong>How to use it:</strong> Shut off everything inside and outside (no faucets, no toilets refilling, no sprinklers, no ice maker). Wait a few minutes. Then watch the indicator for 60 seconds. If it is still moving, <strong>something is using water</strong> — most often a silent toilet leak, a stuck irrigation valve, or a hidden pipe leak.</p>
+<p><strong>Where to find it:</strong> Lift the lid on your water meter box (usually near the street or sidewalk in a concrete or plastic cover). Look at the meter face for a small red triangle, a star-shaped wheel, or a tiny dial — often labeled "leak" or "low flow." On digital smart meters, look for a flashing flow icon or a "leak" alert on the display.</p>
+<p>For a full meter-reading walkthrough covering different dial styles and digital meters, see: <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 
 <h2 id="what-it-is">What the leak indicator is</h2>
 <p>
@@ -126,7 +102,7 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
               <a href="/blog/is-your-toilet-running-leak-test"> is your toilet running? (leak test)</a>.
             </p>
 
-<h2 id="isolate">How to isolate \</h2>
+<h2 id="isolate">How to isolate "house leak" vs "line leak"</h2>
 <p>
               If the indicator is moving, your next question is: is the water being used
               inside the home, or is it leaking somewhere between the meter and the house?
@@ -168,26 +144,14 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
             </ul>
 
 <h2 id="what-next">What to do if it is moving</h2>
-<p>
-              If your leak indicator is moving steadily, keep it simple. You are trying to
-              answer two questions: <em>where</em> is the water going, and <em>how fast</em>.
-            </p>
-            <ol>
-              <li>
-                <strong>Check toilets first</strong> (they are common and often silent).
-              </li>
-              <li>
-                <strong>Check outdoor irrigation</strong> (stuck valves, broken heads, overspray).
-              </li>
-              <li>
-                <strong>Re-check the meter after each change</strong>. When the indicator stops,
-                you found the source.
-              </li>
-            </ol>
-            <p>
-              If you want a structured troubleshooting path for high bills, use:
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why your water bill suddenly increased</a>.
-            </p>
+<p>If your leak indicator is moving steadily, keep it simple. You are trying to answer two questions: <em>where</em> is the water going, and <em>how fast</em>.</p>
+<ol>
+<li><strong>Check toilets first</strong> — they are the #1 cause of hidden water use and are often completely silent. Use the <a href="/blog/is-your-toilet-running-leak-test/">toilet running leak test</a> to check each one in under five minutes.</li>
+<li><strong>Check outdoor irrigation</strong> — stuck valves, broken heads, and overspray are common culprits, especially in summer.</li>
+<li><strong>Re-check the meter after each change.</strong> When the indicator stops, you found the source.</li>
+</ol>
+<p>For the complete diagnostic playbook — including how to isolate indoor vs. outdoor leaks, check for air in the lines, estimate cost impact, and decide between DIY and calling a plumber — see our in-depth guide: <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a>.</p>
+<p>If you want a structured troubleshooting path focused on high bills specifically, use: <a href="/blog/why-did-my-water-bill-suddenly-increase/">why your water bill suddenly increased</a>. And once the leak is fixed, these tips on <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a> can help bring costs back down.</p>
 
 {{< faq "What is the leak indicator on a water meter?" >}}
 
@@ -218,4 +182,6 @@ Watch it for at least 60-120 seconds and, if possible, confirm by taking two met
 ---
 
 *Related Reading:*
-- [Water Meter Running When No Water Is Being Used: Causes and Fixes](/blog/water-meter-running-when-no-water-used)
+- [Water Meter Running When No Water Is Being Used: Causes and Fixes](/blog/water-meter-running-when-no-water-used/)
+- [How to Read a Water Meter](/blog/how-to-read-a-water-meter/)
+- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/)

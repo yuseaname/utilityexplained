@@ -11,6 +11,17 @@ keywords: ["sewer charge water bill", "water leak detection", "ccf", "sewer aver
 image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-charges-work-on-your-water-bill_hero_00001_.webp"
 ---
 
+<h2 id="quick-answer">Quick Answer</h2>
+<p>
+              <strong>Sewer charges pay for collecting and treating the water that leaves your home.</strong>
+              Most residential sewer bills are based on your water usage (often
+              measured in CCF), a "winter average," or a flat monthly fee. Sewer can
+              cost <em>more</em> than water because wastewater treatment is expensive
+              and carries large fixed costs. You usually cannot remove the fixed fee,
+              but you <em>can</em> often lower the usage-based part by fixing leaks
+              and cutting indoor water use.
+            </p>
+
 <h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>
 <p>
               Many people expect sewer to be a small add-on. Then they see the bill
@@ -70,7 +81,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               </li>
               <li>
                 <strong>Billing structures differ.</strong> Water may have cheaper
-                base tiers while sewer has higher fixed fees.
+                base <a href="/blog/tiered-water-rates-explained">tiers</a> while sewer has higher fixed fees.
               </li>
             </ul>
             <p>
@@ -83,7 +94,12 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               .
             </p>
 
-<h3>1) What unit is used?</h3>
+<h2 id="what-to-check">What to check on your own sewer charge</h2>
+<p>
+              Before assuming the bill is wrong, run through these three quick checks.
+              They explain most "why is my sewer so high?" surprises.
+            </p>
+            <h3>1) What unit is used?</h3>
             <p>
               Look for CCF, kgal, or gallons. If you see CCF, our quick explainer is
               <a href="/blog/what-is-ccf-on-a-water-bill">here</a>.
@@ -115,6 +131,41 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               <a href="/blog/how-to-read-a-water-meter">how to read a water meter</a>.
             </p>
 
+<h2 id="reduce-sewer">Can you reduce your sewer charge?</h2>
+<p>
+              The honest answer is: partly. The <strong>fixed/base fee</strong>
+              usually cannot be lowered--it covers pipes, pumps, and treatment plants
+              that run whether you use water or not. But the
+              <strong>usage-based part</strong> is something you can influence.
+            </p>
+            <ul>
+              <li>
+                <strong>Fix silent leaks.</strong> A running toilet can quietly add
+                CCF that shows up on both your water and sewer lines. The
+                <a href="/blog/is-your-toilet-running-leak-test">toilet leak test</a>
+                takes only a few minutes.
+              </li>
+              <li>
+                <strong>Know your billing method.</strong> If your utility uses winter
+                averaging, heavy summer watering will not raise sewer. If sewer is
+                tied to <em>all</em> usage, it will--and a separate irrigation meter
+                may be worth asking about.
+              </li>
+              <li>
+                <strong>Trim indoor usage.</strong> Less water in means less water
+                billed out. Compare your household to the
+                <a href="/blog/average-water-usage-per-person">average water usage
+                per person</a> to see whether you have room to cut.
+              </li>
+              <li>
+                <strong>Check for a separate stormwater line.</strong> Some of what
+                looks like "sewer" is actually a
+                <a href="/blog/stormwater-fee-on-water-bill-explained">stormwater
+                fee</a> for runoff, which is calculated differently and may have its
+                own discounts.
+              </li>
+            </ul>
+
 <h2 id="misconceptions">Common misconceptions about sewer charges</h2>
 <ul>
               <li>
@@ -128,7 +179,9 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               </li>
               <li>
                 <strong>"If my water is low, sewer should be $0."</strong> Sewer often
-                has fixed infrastructure costs, so there's usually a base fee.
+                has fixed infrastructure costs, so there's usually a base fee--just
+                like the <a href="/blog/water-service-charge-explained">water service
+                charge</a> you pay even with low usage.
               </li>
             </ul>
 

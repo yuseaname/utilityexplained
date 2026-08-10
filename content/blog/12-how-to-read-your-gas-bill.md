@@ -14,12 +14,24 @@ image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-
 
 # How to Read Your Gas Bill: Every Charge Explained
 
-Your natural gas bill arrives once a month and most people pay it without ever understanding what the charges actually mean. If you've ever wondered what "distribution charge," "gas commodity cost," or "customer charge" actually are — this guide explains every line on your bill in plain English.
+Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "customer charge" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.
+
+## Quick Answer: How to Read Your Gas Bill
+
+> **Your gas bill is measured in therms.** A **therm** is a unit of heat energy (≈100,000 BTUs) — roughly **100 cubic feet (CCF)** of natural gas. **MCF = 1,000 cubic feet (≈10 therms).**
+>
+> **Most gas bills have three main charges:**
+> 1. **Customer charge** — a fixed monthly fee of **$10–$25**, charged even if you use no gas.
+> 2. **Commodity (supply) charge** — the gas you actually burned, priced per therm.
+> 3. **Distribution (delivery) charge** — the pipes that carry gas to your home, priced per therm.
+>
+> Add **taxes and small regulatory fees (5–15%)** on top. A typical bill runs about **$25–$50/month in summer** and **$80–$200/month in winter**. The rest of this page explains every line in detail.
 
 <img src="https://images.unsplash.com/photo-1590779033100-9f17a7a7c9d4?w=1200&h=630&fit=crop&q=80" alt="Natural gas utility bill guide with therms and charges explained" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
+- [Quick Answer](#quick-answer-how-to-read-your-gas-bill)
 - [What Is a Therm?](#what-is-a-therm)
 - [The Main Charges on Your Gas Bill](#the-main-charges-on-your-gas-bill)
 - [Variable Charges That Change Monthly](#variable-charges-that-change-monthly)
@@ -38,7 +50,12 @@ A **therm** is a unit of heat energy equal to 100,000 British Thermal Units (BTU
 
 The conversion is approximately: **1 therm ≈ 100 cubic feet (CCF) of natural gas**
 
-Why therms? Because natural gas isn't 100% methane everywhere — it has slightly different heat content depending on its source. Billing in therms ensures you're paying for the actual heat energy you use, not just the volume.
+The three volume and energy terms you'll see on a gas bill:
+- **CCF** = 100 cubic feet (≈ 1 therm)
+- **MCF** = 1,000 cubic feet (≈ 10 therms)
+- **Therm** = the energy unit you're actually billed in
+
+Why therms? Because natural gas isn't 100% methane everywhere — it has slightly different heat content depending on its source. Billing in therms ensures you're paying for the actual heat energy you use, not just the volume. For a side-by-side comparison of these units, see our guide to [MCF vs CCF vs therms on a gas bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
 **Typical therm costs in the US (2026):**
 - National average: approximately $0.95–$1.50 per therm
@@ -51,7 +68,7 @@ Why therms? Because natural gas isn't 100% methane everywhere — it has slightl
 
 ### 1. Customer Charge (Monthly Service Charge)
 
-This is a fixed flat fee charged every month regardless of how much gas you use. Think of it as the utility's cost to maintain your connection, read your meter, send your bill, and provide customer service.
+This is a fixed flat fee charged every month regardless of how much gas you use. Think of it as the utility's cost to maintain your connection, read your meter, send your bill, and provide customer service. For a deeper dive, see our [guide to the gas customer charge](/blog/gas-customer-charge-explained/).
 
 **Typical range:** $10–$25 per month
 
@@ -67,7 +84,7 @@ The commodity rate can change monthly — it tracks wholesale natural gas prices
 
 ### 3. Distribution Charge (Delivery Charge)
 
-This is the largest charge for most residential customers. It pays for the pipeline network that delivers gas from the regional grid to your home — the thousands of miles of pipes, compressor stations, and local distribution infrastructure your utility maintains.
+This is the largest charge for most residential customers. It pays for the pipeline network that delivers gas from the regional grid to your home — the thousands of miles of pipes, compressor stations, and local distribution infrastructure your utility maintains. It works hand-in-hand with the commodity (supply) charge above; for a clear side-by-side, see [gas delivery charge vs supply charge](/blog/gas-delivery-charge-vs-supply-charge/).
 
 **Typical structure:** A fixed customer portion plus a variable per-therm rate
 
@@ -146,7 +163,7 @@ Everything else — the infrastructure to move gas to your home — is regulated
 
 ## Why Your Gas Bill Is Higher in Winter
 
-Natural gas usage spikes in winter because of heating. In a typical northern US household:
+Natural gas usage spikes in winter because of heating. If your winter bill caught you off guard, we break down all the reasons in [why your gas bill is so high in winter](/blog/why-is-my-gas-bill-so-high-in-winter/). In a typical northern US household:
 
 - **Summer gas use:** 2–10 therms/month (primarily water heating and cooking)
 - **Winter gas use:** 50–150 therms/month (heating-dominated)
@@ -184,9 +201,9 @@ Many water heaters are shipped at 140°F. Lowering to 120°F reduces gas usage b
 
 ### 5. Apply for utility assistance programs
 
-If you're income-eligible, programs like LIHEAP (Low Income Home Energy Assistance Program) can significantly offset winter heating costs. Contact your utility or visit benefits.gov to check eligibility.
+If you're income-eligible, programs like LIHEAP (Low Income Home Energy Assistance Program) can significantly offset winter heating costs. Contact your utility or visit benefits.gov to check eligibility. And if you've already fallen behind, act quickly — letting a past-due balance go unpaid can lead to disconnection, and getting service restored means paying what you owe plus a separate [utility reconnection fee](/blog/28-utility-reconnection-fee-explained/).
 
-For more on reducing bills overall, see: [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
+For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills) and our guide on what to do when your [gas bill is too high](/blog/07-gas-bill-too-high/).
 
 ---
 

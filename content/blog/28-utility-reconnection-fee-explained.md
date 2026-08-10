@@ -15,8 +15,18 @@ The power went out yesterday, but your neighbors still have lights. You check yo
 
 <img src="https://images.unsplash.com/photo-1554224157-8d0428d1b28d?w=1200&h=630&fit=crop&q=80" alt="Technician working on a utility meter to restore electric service" width="1200" height="630" loading="lazy" />
 
+## Quick Answer: How Much Does It Cost to Reconnect?
+
+> **Typical reconnection fees in 2025–2026:**
+> - **Electric:** $30–$150 during business hours ($100–$300+ after hours/weekends)
+> - **Natural gas:** $50–$200 during business hours ($150–$350+ after hours)
+> - **Water:** $25–$100 (rarely available after hours)
+>
+> **Before service is restored you must pay** your full past-due balance, the reconnection fee, and possibly a new deposit. With a smart meter, reconnection can happen in **under 2 hours**; otherwise expect **same-day or next-business-day** service.
+
 ## Table of Contents
 
+- [Quick Answer](#quick-answer-how-much-does-it-cost-to-reconnect)
 - [What Is a Utility Reconnection Fee?](#what-is-a-utility-reconnection-fee)
 - [How Much Is a Reconnection Fee?](#how-much-is-a-reconnection-fee)
 - [Electric Reconnection Fees](#electric-reconnection-fees)
@@ -32,7 +42,7 @@ The power went out yesterday, but your neighbors still have lights. You check yo
 
 ## What Is a Utility Reconnection Fee?
 
-A utility reconnection fee is a charge assessed by the utility when they restore service after a disconnection for non-payment. It covers the cost of sending a field technician to your property to physically reconnect service at the meter or service point.
+A utility reconnection fee is a charge assessed by the utility when they restore service after a disconnection for non-payment. It covers the cost of sending a field technician to your property to physically reconnect service at the meter or service point. (This is different from the one-time [connection fee](/blog/27-utility-connection-fee-explained/) you pay when first setting up brand-new service.)
 
 Reconnection fees are separate from and in addition to your past-due balance. You must pay the outstanding bill amount, any late fees, and the reconnection fee before the utility will restore service. For many customers facing disconnection, this creates a significant financial barrier — a $250 past-due balance plus a $75 reconnection fee requires $325 to restore service.
 
@@ -70,7 +80,7 @@ Natural gas reconnection is more involved than electric because of safety requir
 3. A leak check is mandatory before service is restored.
 4. The technician must verify that all gas appliances are functioning safely.
 
-Because of the safety component, gas reconnection fees are generally higher than electric, and after-hours service is more difficult to arrange. Some utilities will not perform gas reconnections after hours at all due to safety liability concerns.
+Because of the safety component, gas reconnection fees are generally higher than electric, and after-hours service is more difficult to arrange. Some utilities will not perform gas reconnections after hours at all due to safety liability concerns. (Once you're reconnected, understanding the charges on your [gas bill](/blog/12-how-to-read-your-gas-bill/) can help you avoid falling behind again.)
 
 ## Water Reconnection Fees
 
@@ -86,11 +96,11 @@ Water reconnection is rarely available after hours. Most water utilities restore
 
 To get your service restored, you must typically satisfy all of the following:
 
-1. **Full past-due balance:** Most utilities require the entire outstanding amount to be paid. Some may allow a payment arrangement, but many do not restore service until the balance is zero.
+1. **Full past-due balance:** Most utilities require the entire outstanding [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) to be paid. Some may allow a payment arrangement, but many do not restore service until the balance is zero.
 
 2. **Reconnection fee:** The reconnection charge itself must be paid — either upfront or through an agreed payment plan.
 
-3. **Any additional deposit:** If your original deposit has been applied to your outstanding balance, the utility may require a new deposit before restoring service.
+3. **Any additional deposit:** If your original deposit has been applied to your outstanding balance, the utility may require a new deposit before restoring service. Learn how [utility deposits](/blog/26-utility-deposit-explained/) work and when you get them back.
 
 4. **Late fees:** Accrued late payment charges are typically added to your balance and must be paid as part of the total.
 
@@ -152,7 +162,7 @@ Every state has rules governing utility disconnections. While the specifics vary
 
 If you have experienced a disconnection, preventing a recurrence is critical. Here are proven strategies:
 
-**Enroll in budget billing:** Level-pay plans spread your annual costs into equal monthly payments, eliminating seasonal spikes that can lead to missed payments.
+**Enroll in budget billing:** Level-pay plans spread your annual costs into equal monthly payments, eliminating seasonal spikes that can lead to missed payments. See our guide to [budget billing and level-pay plans](/blog/16-budget-billing-level-pay-explained/).
 
 **Set up auto-pay:** Automatic bank draft or credit card payment ensures you never miss a due date. Most utilities offer auto-pay through their online portal.
 

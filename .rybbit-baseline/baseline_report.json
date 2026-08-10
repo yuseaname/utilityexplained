@@ -1,0 +1,853 @@
+{
+  "generated": "2026-08-10T11:37:40.230282",
+  "site": "utilityexplained.com",
+  "site_id": "d5b63e065e9d",
+  "data_window": "30 days (events endpoint returned ~1 day of data; sessions returned 30d)",
+  "overview_30d": {
+    "sessions": 436,
+    "pageviews": 898,
+    "users": 376,
+    "pages_per_session": 2.06,
+    "bounce_rate_pct": 76.1,
+    "avg_session_duration_sec": 80.6
+  },
+  "events_pulled": 2950,
+  "sessions_pulled": 100,
+  "top_10_pages": [
+    {
+      "pathname": "/blog/water-meter-running-when-no-water-used/",
+      "pageviews_30d": 295,
+      "unique_users": 5,
+      "sessions_as_entry": 11,
+      "avg_session_duration_sec": 56.2,
+      "avg_pages_per_session": 1.09,
+      "bounce_rate_pct": 90.9,
+      "search_traffic_events": 236,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Organic Search": 10,
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/how-sewer-charges-work-on-your-water-bill/",
+      "pageviews_30d": 177,
+      "unique_users": 3,
+      "sessions_as_entry": 9,
+      "avg_session_duration_sec": 34.7,
+      "avg_pages_per_session": 1.33,
+      "bounce_rate_pct": 77.8,
+      "search_traffic_events": 177,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 177,
+      "top_channels": {
+        "Organic Search": 9
+      }
+    },
+    {
+      "pathname": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+      "pageviews_30d": 295,
+      "unique_users": 3,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 4.4,
+      "avg_pages_per_session": 1.6,
+      "bounce_rate_pct": 40.0,
+      "search_traffic_events": 118,
+      "direct_traffic_events": 177,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Direct": 3,
+        "Organic Search": 2
+      }
+    },
+    {
+      "pathname": "/blog/28-utility-reconnection-fee-explained/",
+      "pageviews_30d": 236,
+      "unique_users": 3,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 22.4,
+      "avg_pages_per_session": 1.4,
+      "bounce_rate_pct": 60.0,
+      "search_traffic_events": 236,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 236,
+      "top_channels": {
+        "Organic Search": 5
+      }
+    },
+    {
+      "pathname": "/blog/what-is-ccf-on-a-water-bill/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 6,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 3,
+        "Direct": 3
+      }
+    },
+    {
+      "pathname": "/blog/30-sudden-spike-in-electricity-bill-no-usage/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 110.2,
+      "avg_pages_per_session": 1.4,
+      "bounce_rate_pct": 60.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 3,
+        "Organic Search": 2
+      }
+    },
+    {
+      "pathname": "/blog/water-meter-leak-indicator-explained/",
+      "pageviews_30d": 177,
+      "unique_users": 2,
+      "sessions_as_entry": 3,
+      "avg_session_duration_sec": 24.3,
+      "avg_pages_per_session": 1.33,
+      "bounce_rate_pct": 66.7,
+      "search_traffic_events": 177,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Organic Search": 3
+      }
+    },
+    {
+      "pathname": "/blog/how-to-read-your-gas-bill-therms-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 4,
+      "avg_session_duration_sec": 0.2,
+      "avg_pages_per_session": 1.25,
+      "bounce_rate_pct": 75.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 4
+      }
+    },
+    {
+      "pathname": "/blog/05-how-to-lower-utility-bills/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 3,
+      "avg_session_duration_sec": 152.7,
+      "avg_pages_per_session": 1.67,
+      "bounce_rate_pct": 66.7,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 3
+      }
+    },
+    {
+      "pathname": "/blog/22-minimum-bill-utility-bill-explained/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 2
+      }
+    }
+  ],
+  "all_page_baselines": [
+    {
+      "pathname": "/blog/how-utility-rates-fees-usage-work-together/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/why-is-my-water-bill-higher-in-summer/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/41-how-to-read-electricity-bill/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/why-is-my-water-bill-higher-in-winter/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/what-is-ccf-on-a-water-bill/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 6,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 3,
+        "Direct": 3
+      }
+    },
+    {
+      "pathname": "/blog/24-delivery-charge-vs-supply-charge-utility-bill/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/03-why-is-my-electric-bill-so-high/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 2
+      }
+    },
+    {
+      "pathname": "/blog/tiered-water-rates-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/gas-customer-charge-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/06-water-bill-too-high/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/7-states-with-worst-utility-spikes-2026/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/23-utility-billing-cycle-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 5.5,
+      "avg_pages_per_session": 1.5,
+      "bounce_rate_pct": 50.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1,
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/electricity-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 0,
+      "avg_session_duration_sec": 0,
+      "avg_pages_per_session": 0,
+      "bounce_rate_pct": null,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 59,
+      "top_channels": {}
+    },
+    {
+      "pathname": "/blog/drought-surcharge-on-water-bill-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/28-utility-reconnection-fee-explained/",
+      "pageviews_30d": 236,
+      "unique_users": 3,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 22.4,
+      "avg_pages_per_session": 1.4,
+      "bounce_rate_pct": 60.0,
+      "search_traffic_events": 236,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 236,
+      "top_channels": {
+        "Organic Search": 5
+      }
+    },
+    {
+      "pathname": "/blog/49-demand-charges-electricity-bill-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 185.0,
+      "avg_pages_per_session": 3.0,
+      "bounce_rate_pct": 0.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/19-utility-bill-surcharges-and-riders-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 48.0,
+      "avg_pages_per_session": 1.5,
+      "bounce_rate_pct": 50.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 2
+      }
+    },
+    {
+      "pathname": "/blog/electric-bill-breakdown-understanding-line-items/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/why-your-electric-bill-keeps-rising-2026/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 2
+      }
+    },
+    {
+      "pathname": "/blog/why-is-my-electric-bill-so-high-this-month/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/how-to-read-a-water-meter/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/why-is-my-gas-bill-so-high-in-winter/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 0,
+      "avg_session_duration_sec": 0,
+      "avg_pages_per_session": 0,
+      "bounce_rate_pct": null,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 0,
+      "top_channels": {}
+    },
+    {
+      "pathname": "/blog/how-sewer-charges-work-on-your-water-bill/",
+      "pageviews_30d": 177,
+      "unique_users": 3,
+      "sessions_as_entry": 9,
+      "avg_session_duration_sec": 34.7,
+      "avg_pages_per_session": 1.33,
+      "bounce_rate_pct": 77.8,
+      "search_traffic_events": 177,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 177,
+      "top_channels": {
+        "Organic Search": 9
+      }
+    },
+    {
+      "pathname": "/blog/22-minimum-bill-utility-bill-explained/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 2
+      }
+    },
+    {
+      "pathname": "/blog/demand-charge-electric-bill-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/water-meter-leak-indicator-explained/",
+      "pageviews_30d": 177,
+      "unique_users": 2,
+      "sessions_as_entry": 3,
+      "avg_session_duration_sec": 24.3,
+      "avg_pages_per_session": 1.33,
+      "bounce_rate_pct": 66.7,
+      "search_traffic_events": 177,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Organic Search": 3
+      }
+    },
+    {
+      "pathname": "/blog/20-utility-bill-proration-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/water-service-charge-explained/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/water-meter-running-when-no-water-used/",
+      "pageviews_30d": 295,
+      "unique_users": 5,
+      "sessions_as_entry": 11,
+      "avg_session_duration_sec": 56.2,
+      "avg_pages_per_session": 1.09,
+      "bounce_rate_pct": 90.9,
+      "search_traffic_events": 236,
+      "direct_traffic_events": 59,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Organic Search": 10,
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/how-to-read-your-gas-bill-therms-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 4,
+      "avg_session_duration_sec": 0.2,
+      "avg_pages_per_session": 1.25,
+      "bounce_rate_pct": 75.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 4
+      }
+    },
+    {
+      "pathname": "/blog/average-utility-bills-by-state-2026/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 3,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 2,
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/how-to-read-your-utility-bill/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+      "pageviews_30d": 295,
+      "unique_users": 3,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 4.4,
+      "avg_pages_per_session": 1.6,
+      "bounce_rate_pct": 40.0,
+      "search_traffic_events": 118,
+      "direct_traffic_events": 177,
+      "us_traffic_events": 118,
+      "top_channels": {
+        "Direct": 3,
+        "Organic Search": 2
+      }
+    },
+    {
+      "pathname": "/water-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/stormwater-fee-on-water-bill-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 2
+      }
+    },
+    {
+      "pathname": "/blog/27-utility-connection-fee-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 187.0,
+      "avg_pages_per_session": 2.0,
+      "bounce_rate_pct": 0.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/mcf-vs-ccf-vs-therms-on-gas-bill/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/05-how-to-lower-utility-bills/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 3,
+      "avg_session_duration_sec": 152.7,
+      "avg_pages_per_session": 1.67,
+      "bounce_rate_pct": 66.7,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 3
+      }
+    },
+    {
+      "pathname": "/blog/how-do-smart-meters-work/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/02-average-utility-costs-2026/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 2
+      }
+    },
+    {
+      "pathname": "/utility-bills-costs-explained/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 1,
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/",
+      "pageviews_30d": 295,
+      "unique_users": 1,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 1974.6,
+      "avg_pages_per_session": 14.2,
+      "bounce_rate_pct": 40.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 295,
+      "us_traffic_events": 295,
+      "top_channels": {
+        "Direct": 5
+      }
+    },
+    {
+      "pathname": "/blog/14-estimated-utility-bill-explained/",
+      "pageviews_30d": 0,
+      "unique_users": 0,
+      "sessions_as_entry": 2,
+      "avg_session_duration_sec": 103.0,
+      "avg_pages_per_session": 1.5,
+      "bounce_rate_pct": 50.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 0,
+      "top_channels": {
+        "Organic Search": 1,
+        "Direct": 1
+      }
+    },
+    {
+      "pathname": "/blog/12-how-to-read-your-gas-bill/",
+      "pageviews_30d": 59,
+      "unique_users": 1,
+      "sessions_as_entry": 1,
+      "avg_session_duration_sec": 0.0,
+      "avg_pages_per_session": 1.0,
+      "bounce_rate_pct": 100.0,
+      "search_traffic_events": 59,
+      "direct_traffic_events": 0,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Organic Search": 1
+      }
+    },
+    {
+      "pathname": "/blog/30-sudden-spike-in-electricity-bill-no-usage/",
+      "pageviews_30d": 118,
+      "unique_users": 2,
+      "sessions_as_entry": 5,
+      "avg_session_duration_sec": 110.2,
+      "avg_pages_per_session": 1.4,
+      "bounce_rate_pct": 60.0,
+      "search_traffic_events": 0,
+      "direct_traffic_events": 118,
+      "us_traffic_events": 59,
+      "top_channels": {
+        "Direct": 3,
+        "Organic Search": 2
+      }
+    }
+  ]
+}

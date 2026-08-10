@@ -11,7 +11,9 @@ keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes
 image: "/images/articles/utility-bill-taxes-fees-franchise-charges-explained/image.webp"
 ---
 
-You have already decoded the delivery and supply charges on your utility bill, but scroll down further and you will find a section labeled "Taxes and Surcharges" or "Governmental Charges" that adds another 5% to 15% to your total. These line items — franchise fees, utility taxes, regulatory surcharges, and municipal assessments — are often opaque, confusing, and seemingly impossible to dispute. Here is what each one actually funds, how much they typically cost, and why they appear on your bill.
+You have already decoded the [delivery and supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) on your utility bill, but scroll down further and you will find a section labeled "Taxes and Surcharges" or "Governmental Charges" that adds another 5% to 15% to your total. These line items — franchise fees, utility taxes, regulatory surcharges, and municipal assessments — are often opaque, confusing, and seemingly impossible to dispute. Here is what each one actually funds, how much they typically cost, and why they appear on your bill.
+
+> **Quick Answer:** Taxes, fees, and franchise charges are government-mandated and regulatory charges that typically add **5% to 15%** to your utility bill. The most common is the **franchise fee** (2%–6%), which your utility pays your city for the right to run wires and pipes through public streets. Other frequent charges include state gross receipts taxes, public benefits charges, and renewable energy surcharges — none of which you can negotiate or dispute individually.
 
 <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop&q=80" alt="Utility bill close-up showing multiple tax and fee line items" width="1200" height="630" loading="lazy" />
 
@@ -34,13 +36,13 @@ You have already decoded the delivery and supply charges on your utility bill, b
 
 Utility bills across the United States include a combination of taxes, fees, and surcharges imposed by federal, state, county, and municipal governments, as well as regulatory bodies and the utilities themselves. These charges are not optional, not negotiable, and not controlled by the utility — they are mandated by law and approved through legislative or regulatory processes.
 
-The total tax and fee burden on a typical U.S. residential utility bill ranges from 5% to 15% of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed 15% when multiple overlapping charges are combined.
+The total tax and fee burden on a typical U.S. residential utility bill ranges from 5% to 15% of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed 15% when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of [hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/).
 
 These charges are generally calculated in one of three ways:
 
 1. **Percentage of total charges:** Most taxes and franchise fees are calculated as a percentage of your delivery and supply charges combined.
-2. **Per-kWh or per-therm surcharges:** Regulatory and public benefit charges are often based on consumption volume.
-3. **Flat monthly fees:** Some charges, like nuclear decommissioning fees, are fixed amounts regardless of usage.
+2. **Per-kWh or per-therm [surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/):** Regulatory and public benefit charges are often based on consumption volume.
+3. **Flat monthly fees:** Some charges, like nuclear decommissioning fees, are fixed amounts regardless of usage. These are separate from your utility's [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) or [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) — fixed costs for staying connected to the grid that appear in the delivery section of your bill.
 
 ## What Is a Franchise Fee on a Utility Bill?
 
@@ -179,5 +181,9 @@ Tax rates can vary by municipality within the same utility service territory. Di
 ---
 
 *Related Reading:*
-- [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained)
-- [Fuel Adjustment Charge on Utility Bill Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained)
+- [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/)
+- [Fuel Adjustment Charge on Utility Bill Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)
+- [Delivery Charge vs. Supply Charge Explained](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [What Is the Customer Charge on Your Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/)
+- [Minimum Bill Explained: Why You Pay Even When You Use Nothing](/blog/22-minimum-bill-utility-bill-explained/)
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/)
