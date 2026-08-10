@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf"]
 keywords: ["water leak detection", "high water bill", "estimated utility bill", "sewer averaging", "ccf"]
-image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_00001_.png"
+image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: winter should be cheaper, but your bill went up</h2>

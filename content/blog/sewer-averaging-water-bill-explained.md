@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
 keywords: ["sewer charge water bill", "sewer averaging", "water leak detection", "ccf", "high water bill"]
-image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_00001_.png"
+image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: your sewer charge stays high even when your summer use drops</h2>

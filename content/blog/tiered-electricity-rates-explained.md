@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "tiered rate", "electric bill", "demand charge", "delivery charge"]
 keywords: ["kwh usage", "tiered electricity rates", "high electric bill", "demand charge electric", "delivery charge"]
-image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.png"
+image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: you used a little more, but the price jumped a lot</h2>

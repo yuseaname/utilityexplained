@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "water meter", "sewer", "ccf"]
 keywords: ["water leak detection", "high water bill", "water meter reading", "sewer charge water bill", "ccf"]
-image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.png"
+image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.webp"
 ---
 
 <h2 id="why-hard-to-notice">Why a running toilet is hard to notice (but shows up on the bill)</h2>

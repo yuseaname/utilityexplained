@@ -9,7 +9,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
 keywords: ["why is my electric bill so high", "high electricity bill causes", "electric bill spike", "reduce electric bill", "energy usage spike"]
-image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.png"
+image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
 # Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them

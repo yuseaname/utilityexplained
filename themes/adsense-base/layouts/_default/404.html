@@ -1,20 +1,31 @@
 {{ define "main" }}
-<div class="page-404">
-  <div class="max-w-lg mx-auto">
-    <div class="mb-8 flex justify-center">
-      <svg class="w-24 h-24 text-gray-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
-      </svg>
-    </div>
-    <h1>404</h1>
-    <p>Page not found</p>
-    <p>The page you're looking for doesn't exist or has been moved.</p>
-    <a href="{{ .Site.BaseURL | absURL }}" class="inline-flex items-center justify-center gap-2 mt-8 px-6 py-3 bg-primary-600 text-white font-medium rounded-xl hover:bg-primary-700 transition-colors shadow-md">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
-      </svg>
-      Back to Home
-    </a>
+<div class="error-404">
+  <svg class="error-404-dial" viewBox="0 0 120 120" fill="none" aria-hidden="true">
+    <circle cx="60" cy="60" r="56" stroke="var(--color-neutral-300)" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="44" stroke="var(--color-neutral-300)" stroke-width="1" opacity="0.5"/>
+    {{ range seq 0 11 }}<line x1="60" y1="10" x2="60" y2="16" stroke="var(--color-neutral-400)" stroke-width="1.5" transform="rotate({{ mul . 30 }} 60 60)"/>{{ end }}
+    <line x1="60" y1="60" x2="60" y2="16" stroke="var(--color-accent-500)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="60" cy="60" r="4" fill="var(--color-accent-500)"/>
+    <text x="60" y="86" text-anchor="middle" fill="var(--color-text-muted)" font-family="var(--font-mono)" font-size="9">0 kWh</text>
+  </svg>
+  <h1 style="font-size: var(--text-3xl)">This page came back empty</h1>
+  <p style="color: var(--color-text-muted); max-width: 32rem; margin: var(--space-2) auto 0;">The page you're looking for has moved or never existed — but your answer is still here. Search for it, or browse by utility type.</p>
+
+  <div class="search-input-wrap" style="margin-top: var(--space-8)">
+    <form action="{{ "/search/" | relURL }}" method="get" role="search">
+      <span class="search-input-icon">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+      </span>
+      <input type="text" name="q" class="search-input" placeholder="Search every utility guide…" aria-label="Search">
+    </form>
+  </div>
+
+  <div class="flex flex-wrap justify-center gap-3 mt-8">
+    <a href="{{ "/electricity-explained/" | relURL }}" class="badge badge-accent">Electricity</a>
+    <a href="{{ "/gas-explained/" | relURL }}" class="badge badge-accent">Gas</a>
+    <a href="{{ "/water-explained/" | relURL }}" class="badge badge-accent">Water</a>
+    <a href="{{ "/utilities-glossary/" | relURL }}" class="badge badge-accent">Glossary</a>
+    <a href="{{ "/blog/" | relURL }}" class="badge badge-accent">All Guides</a>
   </div>
 </div>
 {{ end }}

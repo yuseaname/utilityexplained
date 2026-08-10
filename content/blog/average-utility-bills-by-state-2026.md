@@ -8,7 +8,7 @@ category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["therms", "savings", "gas bill", "kwh", "budget"]
 keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utility budget"]
-image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_00001_.png"
+image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_00001_.webp"
 ---
 
 <h2 id="understanding-the-average-utility-bills">Understanding the Average Utility Bills by State in 2026</h2>
@@ -16,7 +16,7 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
           <p>In this article, we break down electricity, natural gas, water, and waste management costs for every U.S. state. We use the most recent data from the U.S. Energy Information Administration (EIA), the American Water Works Association (AWWA), and state public utility commissions—all adjusted for inflation and projected trends through 2026.</p>
           <p>All figures below reflect typical monthly usage for an average household: ~900 kWh of electricity, ~75 therms of natural gas, and ~7,500 gallons of water. We’ll also highlight where costs are rising fastest—and where they’re surprisingly affordable.</p>
           <figure>
-          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-1_00003_.png" alt="average utility bills by state 2026 comparison" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-1_00003_.webp" alt="average utility bills by state 2026 comparison" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="electricity-rates-by-state-2026-breakdow">Electricity Rates by State: 2026 Breakdown</h2>
@@ -60,7 +60,7 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
           <p>Meanwhile, Idaho and North Dakota saw slight decreases (−0.9% and −1.2%, respectively), thanks to new transmission lines and stable hydropower output.</p>
           <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/10-fixed-vs-variable-utility-rate">how utility rates are set</a>.</p>
           <figure>
-          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-2_00003_.png" alt="average utility bills by state 2026 technology detail" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-2_00003_.webp" alt="average utility bills by state 2026 technology detail" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="gas-bills-by-state-heating-drives-the-di">Gas Bills by State: Heating Drives the Difference</h2>

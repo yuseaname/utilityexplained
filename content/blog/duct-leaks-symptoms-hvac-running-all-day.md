@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["duct", "leak", "air conditioner", "afue", "aux heat"]
 keywords: ["duct leak symptoms", "ac not cooling", "hvac efficiency ratings", "aux heat vs emergency heat"]
-image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_00002_.png"
+image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_00002_.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

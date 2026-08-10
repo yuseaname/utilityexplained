@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "ccf"]
-image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.png"
+image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.webp"
 ---
 
 <h2 id="meter-types">Know your meter type first</h2>

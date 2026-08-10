@@ -8,7 +8,7 @@ category: "Comparisons"
 categories: ["Comparisons"]
 tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
 keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac efficiency ratings"]
-image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_00001_.png"
+image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_00001_.webp"
 ---
 
 <h2 id="big-picture">The big picture: fuel cost and system efficiency</h2>

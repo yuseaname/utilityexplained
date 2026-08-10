@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["stormwater", "water bill", "savings", "smart meter", "sewer"]
 keywords: ["stormwater fee", "high water bill", "lower utility bill", "smart meter accuracy", "sewer charge water bill"]
-image: "/images/articles/stormwater-fee-on-water-bill-explained/stormwater-fee-on-water-bill-explained_hero_00001_.png"
+image: "/images/articles/stormwater-fee-on-water-bill-explained/stormwater-fee-on-water-bill-explained_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

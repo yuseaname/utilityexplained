@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["demand charge", "kwh", "electric bill"]
 keywords: ["demand charge electric", "kwh usage", "high electric bill"]
-image: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.png"
+image: "/images/articles/demand-charge-electric-bill-explained/demand-charge-electric-bill-explained_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: your total is normal, but one line is huge</h2>

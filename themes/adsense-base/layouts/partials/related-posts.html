@@ -1,5 +1,6 @@
 {{/* Related Posts: topically-matched, ranked by shared category + tags.
-     Falls back to most-recent same-section pages only if no topical match. */}}
+     Falls back to most-recent same-section pages only if no topical match.
+     Renders using the design-system card pattern for visual consistency. */}}
 {{ $current := . }}
 {{ $currentCat := .Params.category }}
 {{ $currentTags := .Params.tags }}
@@ -40,19 +41,27 @@
 {{ end }}
 
 {{ if gt (len $top) 0 }}
-  <section class="mt-12 pt-8 border-t border-gray-200" aria-label="Related articles">
-    <h2 class="text-xl font-bold text-gray-900 mb-6">Related Articles</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+  <section class="related-section" aria-label="Related articles">
+    <div class="section-heading">
+      <h2 class="related-title">Keep Reading</h2>
+    </div>
+    <div class="section-grid">
       {{ range $top }}
-        <article class="group">
+        <article class="card">
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}
-              <div class="aspect-video bg-gray-100 rounded-lg overflow-hidden mb-3">
-                <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200" loading="lazy">
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
               </div>
             {{ end }}
-            <h3 class="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">{{ .Title }}</h3>
-            {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}" class="text-xs text-gray-400 mt-1 block">{{ .Format "January 2, 2006" }}</time>{{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 110 .Plain) }}</p>
+              <div class="flex items-center justify-between mt-3">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <span class="text-xs" style="color: var(--color-text-muted)">{{ .ReadingTime }} min read</span>
+              </div>
+            </div>
           </a>
         </article>
       {{ end }}

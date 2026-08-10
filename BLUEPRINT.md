@@ -1,0 +1,801 @@
+# Utility Explained — Website Masterpiece Transformation Blueprint
+
+**Status:** PROPOSAL — awaiting approval. No production changes made.
+**Date:** 2026-08-10
+**Author:** Transformation team (brand, UX, SEO, AdSense, a11y, performance)
+
+---
+
+## 1. Executive Diagnosis
+
+Utility Explained is a **high-quality content asset trapped inside a competent-but-generic shell**. The writing is genuinely good — data-rich, plain-English, table-driven utility-bill explainers across 91 articles. But three categories of problem are capping its ceiling:
+
+1. **A performance emergency.** Article hero images total **284 MB across 191 uncompressed PNGs** (1.3–1.7 MB *each*). This single issue will fail Core Web Vitals (LCP), throttle crawl budget, and suppress rankings — yet 8 MB of ready-made `.webp` alternatives already exist and are mostly unused.
+2. **Weak discovery & depth.** The five flagship "explainer hub" pages and the glossary are **not linked from the homepage at all**. The sampled flagship article has **zero internal links** to other guides. Primary navigation surfaces only Home/Blog/About/Contact and ignores the actual content structure (Electricity/Water/Gas).
+3. **Trust & E-E-A-T gaps.** All 90 articles carry a generic org-name author ("Utility Explained"). There is no editorial policy, no methodology, no ownership transparency, and the contact page renders a broken literal `{contactEmail}` placeholder.
+
+The good news: the underlying "meter reader" design concept (teal-charcoal ink, warm paper, amber needle, sage confirmation) is already distinctive and worth elevating rather than discarding. The transformation is **an elevation and hardening**, not a teardown.
+
+**Bottom line:** This is not a pretty-it-up job. It is an engineering-grade fix of speed, a re-architecture of discovery, and an art-direction elevation that makes 91 strong articles feel like one coherent, premium publication.
+
+---
+
+## 2. Research Findings
+
+### Niche, audience & intent
+- **Niche:** Decoding household utility bills — electricity, gas, water — every line item, fee, and spike.
+- **Audience:** US renters, first-time homeowners, and budget-conscious households who open a bill, feel confused/anxious, and Google the specific charge or symptom ("why is my electric bill so high", "what is CCF on my water bill", "delivery charge vs supply charge").
+- **Search intent:** Overwhelmingly **informational + problem-solving** ("why", "what is", "how to read"). Commercial/transactional intent is low — these people are not buying, they are diagnosing. This shapes monetization: AdSense display is the right model; affiliate/lead-gen would feel inserted.
+
+### Facts (directly observed/verified)
+- **Stack:** Hugo 0.141 (extended) + Tailwind 3.4 + a custom `adsense-base` theme (real directory, not symlinked — safe to edit for this site only).
+- **Content:** 91 blog articles, 11 static pages, a 232-line glossary, 5 explainer-hub pages (electricity/gas/water/heating-cooling/utility-bills).
+- **Monetization:** Google AdSense (client `ca-pub-5566942094411042`), 3 named slots configured (below_title, mid_article, end_article). ads.txt present & correct. Rybbit analytics.
+- **SEO tech:** JSON-LD for WebSite, Article, BreadcrumbList, FAQPage — all well-formed. RSS, sitemap, canonicals, OG/Twitter cards present.
+- **Image crisis:** 191 article PNGs = **284 MB**; 76 webp files = **8 MB**. Most article frontmatter `image:` fields point at either the heavy PNGs *or* one of ~10 generic stock `utility-*.jpg` files (utility-paperwork.jpg is reused on 7+ cards).
+- **Accessibility baseline:** skip-to-content, reading-progress bar, reduced-motion media query, print styles, focus-visible outlines, ARIA on nav/breadcrumbs — a solid foundation.
+- **Broken:** `content/contact.md` emits literal `{contactEmail}` — no functional contact path.
+- **Design:** "meter reader" concept — deep teal-charcoal `#0e201c` ink, warm paper `#f7f4ed`, amber needle `#e8a33d`, sage confirmation `#5c8a6e`. Custom `backdrop.svg` (engineering grid + meter dials). Fonts: Inter (body) + Space Grotesk (display), loaded via Google Fonts preload.
+
+### Inferences (reasonable, evidence-based)
+- **The 284 MB of PNGs is the #1 ranking/revenue risk.** LCP failure from multi-megabyte images depresses Core Web Vitals, which Google uses as a ranking signal; slow pages also reduce ad viewability and session length. This likely costs more ranking and revenue than every other issue combined.
+- **Orphaned hubs suppress topical authority.** The glossary and explainer pages are the natural "pillar" content that should distribute link equity to cluster articles. Hiding them from the homepage and nav starves the cluster pages of internal authority.
+- **Generic authorship limits E-E-A-T.** For a YMYL-adjacent topic (money/budgeting), Google's quality raters reward named, credentialed authors. "Utility Explained" as author is weak.
+- **The homepage h1 is "Utility Explained"** (just the brand) — this wastes the page's strongest keyword real estate on a brand that has little search volume.
+- **`related-posts.html` and `toc.html` contain hardcoded Tailwind classes** (`text-blue-600`, `bg-gray-50`) that fight the design system's custom CSS variables — a latent inconsistency.
+
+### Unknowns (cannot verify without access)
+- **Live traffic, GSC impressions/clicks, and which articles rank** — no analytics access beyond Rybbit (privacy-first, no GSC data surfaced).
+- **Actual revenue per page / RPM by placement** — AdSense dashboard not accessible.
+- **Whether the site passes Core Web Vitals today** (field data) — can infer it fails from image weight, but no CrUX confirmation.
+- **Backlink profile** — cannot inspect, so URL-change recommendations assume *zero* backlinks and therefore preserve all existing URLs.
+
+### Recommendations (proposed, not yet executed)
+See §15 (Highest-Leverage Improvements) for the ranked action list.
+
+---
+
+## 3. Competitive Insights
+
+Utility-bill help content exists in three camps:
+
+| Competitor type | Examples (representative) | What they do well | What they lack |
+|---|---|---|---|
+| **Utility-company help pages** | Provider FAQs | Authority, accuracy | Readability, completeness, trust signals |
+| **Generic personal-finance blogs** | NerdWallet, The Penny Hoarder (utility tangents) | Polish, E-E-A-T, monetization craft | Depth — they cover the topic shallowly |
+| **Energy-efficiency / solar sites** | EnergySage, SaveOnEnergy | Calculators, comparison tools | Bill *decoding*; they sell, not explain |
+
+**The white space Utility Explained can own:** *No major publisher treats "decoding your utility bill" as a deep, standalone, editorially-trusted vertical.* The niche is too small for NerdWallet to dominate and too specific for a utility company to make readable. **The winning position is "the bill translator"** — the calm, expert source that reads your bill line-by-line so you don't have to be an expert.
+
+**Design principles borrowed from premium publishers (outside-niche inspiration):**
+- *The Pudding / FT visual essays* — typographic confidence, data tables that look designed not default.
+- *Wirecutter / RTINGS* — trust architecture (methodology, "how we test", sources) that earns the click even before the content.
+- *Stripe Docs / Linear changelog* — restraint, generous whitespace, one accent color doing real work.
+
+---
+
+## 4. Preserve / Improve / Remove / Reinvent
+
+### ✅ Preserve (proven value — do not touch)
+- The **"meter reader" color concept** and palette — distinctive, on-niche, and already implemented across a 500-line design system.
+- The **91 articles and their URLs** — every permalink stays. This protects any SEO equity.
+- The **structured-data system** (Article/Breadcrumb/FAQ JSON-LD) — genuinely well built.
+- The **callout / FAQ / table shortcodes** and step-list/quick-answer components — strong editorial tooling.
+- The **`backdrop.svg`** signature background and **hero meter-dial** motif — keep and elevate.
+- AdSense slot architecture (below_title / mid_article / end_article) — keep the *system*, refine the *density & layout* (§10).
+
+### 🔧 Improve
+- **Performance:** swap 284 MB of PNGs for webp/AVIF + responsive `srcset`; self-host fonts; reserve image dimensions to kill CLS.
+- **Navigation:** surface the real content structure (Electricity/Water/Gas/Fees/HVAC + Glossary) in primary nav, not just Home/Blog/About/Contact.
+- **Homepage:** keyword-rich hero, link the pillar hubs, replace repeated stock card images, add a "start here" guided entry.
+- **Article template:** add in-content internal-link blocks, a source/methodology strip, a real author bio, and a "next step" journey module.
+- **Internal linking:** systematic topical clustering + an automated "related by topic" engine (the related-posts logic exists but its output is inconsistent).
+- **Trust:** real About/editorial-policy/methodology/ownership pages; functional contact.
+- **E-E-A-T:** introduce a named editorial voice/author persona with a credible bio (truthfully framed — see §11).
+
+### ❌ Remove / Fix
+- **Multi-megabyte PNGs** in frontmatter → replace references with optimized webp.
+- **Broken `{contactEmail}` placeholder** in contact page.
+- **Hardcoded `text-blue-600` / `bg-gray-*`** in related-posts.html and toc.html that fight the design system.
+- **Identical generic "box" icon on all 11 category cards** — visual monotony.
+- **Ad slot immediately after the homepage hero** — pushes content below the fold for zero UX value.
+
+### 🚀 Reinvent
+- **The reading experience:** articles become a premium *publication*, not a "blog post" — content serif body type, designed tables, pull-quotes, marginal annotations.
+- **The homepage:** from a flat "latest cards" grid to a *guided entry* — "I'm staring at my bill → start here."
+- **Content discovery:** a topic-cluster architecture with "journey" modules ("Understand your whole electric bill →") that serialize related guides.
+- **Category pages:** from generic grids to *editorial topic hubs* with an intro, featured guide, and a curated reading order.
+
+---
+
+## 5. North Star Creative Direction
+
+### Brand personality
+**The meticulous field inspector.** Calm, precise, slightly warm. The person who reads the meter so you don't have to, circles the line item that matters in amber, and hands the bill back saying "here's the one thing to check." Never alarmist, never salesy, never condescending.
+
+### Editorial personality
+**A reference manual you'd actually read.** Every guide leads with the answer (the "Quick Answer" box already exists — elevate it), then earns its depth. Plain English is the house rule, but plain ≠ dumbed-down: the numbers are always there, always sourced or labeled as ranges.
+
+### Brand promise
+**"We translate your utility bill into a decision."** Not "we explain utilities" (passive) — but a promise of *agency*: after reading, you know what to *do*.
+
+### Emotional impression
+A reader arrives anxious ("why did my bill jump?") and leaves **relieved and in control**. The visual mood should reinforce that trajectory: the dark "meter housing" gives way to warm, well-organized, legible paper. Amber is the reassuring pointer, sage is the "you fixed it" confirmation.
+
+### North Star Creative Statement
+> **Utility Explained should feel like the moment a confusing bill becomes a clear decision.** It is the calm authority of a field instrument — precise markings, a single amber needle pointing at what matters — wrapped in the warmth and legibility of a well-thumbed reference manual. It is unmistakably *about bills and meters*, not about "a blog." A reader who lands here mid-panic should feel, within two seconds, that they've found the one place that speaks their bill's language.
+
+### Why this isn't generic
+The distinctiveness comes from the **meter/bill metaphor executed end-to-end**: the ink-paper-amber-sage palette, the instrument-panel display type, the "annotation" details (ruled lines, stamp badges, the needle), and a reading mode that feels like a publication rather than a SaaS card-grid. No AI gradient, no glassmorphism, no stock-photo hero — the meter *is* the brand.
+
+---
+
+## 6. Visual Design System
+
+The existing system is strong; this is an **elevation**, not a rebuild.
+
+### Color system (preserve + refine)
+| Token | Current | Role | Verdict |
+|---|---|---|---|
+| Ink (primary) | `#0e201c` → `#0e201c` | Structure, nav, footer, headings | **Keep** — it's the signature |
+| Paper (surface) | `#f7f4ed` | Page background | **Keep** |
+| Amber (accent) | `#e8a33d` | "The one thing to check" — CTAs, needle, highlights | **Keep**, give it *one clear job* |
+| Sage (secondary) | `#5c8a6e` | "You saved" confirmation | **Keep** |
+| Danger | `#c75a47` | Genuine warnings only | **Keep, use sparingly** |
+| Neutral | warm stone `#1a1813`–`#faf8f4` | Text, borders | **Keep** |
+
+**Refinement:** codify "amber = action/check this" as a strict rule so the accent never becomes decorative. Add a dedicated **annotation** tone (a slightly desaturated amber-tinted paper) for callout/quick-answer fills.
+
+### Typography direction (the biggest art-direction lever)
+Introduce a **dual-mode type system** to separate "using the site" from "reading":
+
+- **UI / navigation / headings / cards:** Space Grotesk (mechanical, instrument-panel) — *keep*. This is the "instrument."
+- **Article body (reading mode): switch to a content serif** (e.g., Source Serif 4 or Lora). This is the single most powerful differentiator: the reading experience feels like a *publication*, instantly separating Utility Explained from the sea of Inter-sans blogs. Generous measure (~66ch), relaxed leading (1.75), optical-size aware.
+- **Mono:** JetBrains Mono for figures/numbers/meter readouts — *keep*.
+
+Rationale: competitors all use a clean sans for everything. A serif reading mode signals "we take the writing seriously" and materially improves long-form legibility — directly serving the article-as-economic-heart goal.
+
+### Grid & spacing
+- **12-column page grid**, `--page-max-width: 80rem` (keep), `--content-max-width: 44rem` for article measure (tighten from 48rem for optimal line length).
+- Adopt a strict **8px base spacing rhythm** (already mostly present) and enforce consistent section gaps.
+
+### Imagery style
+- **Stop using generic stock photos** as card/hero fillers. Replace with the **meter/bill annotation language**: designed tables, line-item callouts, schematic meter diagrams, and a consistent illustrated treatment.
+- Article heroes → the existing AI-generated article images, but **re-encoded to webp/AVIF and responsive** (see §13).
+- A new visual signature: a **minimal line-drawn meter/dial motif** used as section dividers and "annotation" stamps, extending the existing `backdrop.svg` language.
+
+### Motion philosophy
+**Functional only.** Keep the reading-progress bar and card lift on hover. Add: smooth TOC scroll-spy highlight (functional navigation), and subtle needle-sweep on the hero dial on *first paint only* (one-time, respects reduced-motion). No scroll-triggered fades, no parallax, no decorative animation.
+
+### Signature design elements
+1. **The amber needle** — used as a section-heading rule, a "check this" pointer on tables, and the brand mark.
+2. **The annotation card** — callouts/quick-answers styled as a stamped, ruled-paper margin note (evolved from current callout).
+3. **The meter readout** — mono-type data labels ("kWh USED") as a recurring micro-detail.
+4. **Ruled-paper texture** — a faint horizontal-line treatment on reading surfaces (evokes a bill/worksheet), used with extreme restraint.
+
+---
+
+## 7. Information Architecture
+
+### Current structure
+```
+Home → Blog (flat list of 91) → Article
+       About, Contact          (orphaned hubs: 5 explainers + glossary, NOT in nav)
+       Categories: Electricity/Water/Gas/Fees/HVAC/... (taxonomy, not curated)
+```
+
+### Proposed structure (URLs preserved — reorganization is via nav & hubs, not redirects)
+```
+PRIMARY NAV
+  Electricity ▾      → /electricity-explained/ (pillar) + cluster
+  Gas ▾              → /gas-explained/
+  Water ▾            → /water-explained/
+  Heating & Cooling  → /heating-cooling-explained/
+  Bill Basics        → /utility-bills-costs-explained/ (entry-level)
+  Glossary           → /utilities-glossary/
+  [Search]           → /search/ (new, client-side / Fuse.js)
+
+HOMEPAGE
+  Hero (keyword value prop) → "Start here" guided entry → Pillar hub cards
+    → Featured/essential guides → Latest → Trust strip
+
+ARTICLE
+  Piller context (which cluster am I in?) → Quick answer → Body
+    → In-content internal links → "Continue the journey" → Related → Sources/Author
+
+FOOTER
+  Brand+promise | Core topics | All guides | Trust/legal | Search
+```
+
+### Decisions
+- **Preserve** all `/blog/:slug` URLs and taxonomy URLs — zero redirects, protects equity.
+- **Promote** the 5 explainer pages + glossary from "orphaned static pages" to **pillar hubs** linked from homepage and nav. These already exist at root URLs (`/electricity-explained/`) — no new content needed, just surfacing.
+- **Add:** `/search/` (essential for 91-guide discovery), a real `/about/`, `/editorial-policy/`, `/methodology/`, `/contact/` (functional).
+- **Reorganize:** nav goes from generic (Home/Blog/About/Contact) to **topic-first** (Electricity/Gas/Water/...). "Blog" demoted to footer/"All guides."
+- **Merge:** no content merges needed; the taxonomy is healthy. Instead, *enrich* category pages into editorial hubs.
+
+---
+
+## 8. Homepage Blueprint
+
+| Aspect | Specification |
+|---|---|
+| **Purpose** | Convert "confused searcher" → "guided reader." Establish authority + route to the right pillar. |
+| **Target visitor** | Someone Googling a bill problem who lands on the homepage (or a returning reader). |
+| **Desired action** | Click into the pillar that matches their bill type. |
+| **Core message** | "We translate your utility bill into a decision." |
+| **Section order** | (1) Hero with keyword-rich h1 + value prop + 2 CTAs · (2) **"What can we help you decode?"** guided entry (3 big paths: Electricity / Gas / Water, each → pillar) · (3) Pillar hub cards (the 5 explainers + glossary) · (4) **Essential guides** (curated 6: "read your electric bill," "why is my bill high," "what is a kWh," etc.) · (5) Latest guides (smaller, 6) · (6) Trust/editorial strip. |
+| **SEO considerations** | h1 = keyword value prop (not just brand). Pillar links distribute homepage authority to hubs. Remove ad-after-hero. Rich internal linking. |
+| **Mobile** | Hero stacks; guided-entry becomes a vertical accordion/select; pillar cards 1-col; essential guides 1-col list. |
+| **Monetization** | One well-placed, in-content ad *below the fold* (after guided entry), never above the fold competing with content. |
+| **Trust** | Editorial strip ("Plain-English · No jargon · Updated 2026 · Every line item explained"), methodology link. |
+
+**Hero redesign:** Replace the current h1="Utility Explained" with a keyword-led headline like **"Understand Every Line on Your Utility Bill"** (or A/B variants), keeping the amber-needle meter-dial motif but adding the dual CTA: "Start with your bill" + "Browse by utility type." Brand name moves to the eyebrow/logo.
+
+---
+
+## 9. Article Experience Blueprint (the editorial & economic heart)
+
+The article page gets the deepest investment. **It must be the best page on the site to read *and* the best page to monetize sustainably.**
+
+### Section order
+1. **Breadcrumbs** (keep — good for SEO & orientation).
+2. **Title + cluster badge + meta** (author, date, updated, read time) — keep, elevate styling.
+3. **Hero image** — responsive webp/AVIF with reserved dimensions (fixes CLS).
+4. **Quick Answer box** — the answer in 2–3 sentences, *above the fold*. This is the modern SERP-winning pattern and the anxiety-relief trigger. *(Component exists — make it universal.)*
+5. **Jump links / TOC** — sticky on desktop rail.
+6. **Body content** — content-serif reading mode, designed tables, callouts.
+7. **In-content internal links** — every article must link 2–4 sibling guides contextually (currently ~0). This is the #1 session-depth lever.
+8. **"Continue the journey" module** — a curated 3-step path through the cluster ("Next: How to read your meter → Then: Calculate your real cost →").
+9. **Sources / methodology strip** — "How we calculated these ranges" + data provenance.
+10. **Author bio** — real, credentialed, truthful.
+11. **Related articles** — visual consistency with cards.
+12. **Schema** — Article + FAQ (already wired).
+
+### Reading typography (the differentiator)
+- Body: **content serif**, 19–20px, 1.75 leading, ~66ch measure.
+- Tables: mono numerals, amber header rule, zebra rows off (use border only) — "designed," not default.
+- Pull-quotes: oversized serif, amber left rule.
+- Headings: Space Grotesk, with the **amber needle rule** as h2 underline.
+
+### Mobile behavior
+- Single column, full-width tables with horizontal scroll (responsive-table shortcode exists).
+- TOC collapses to a "Jump to section" disclosure.
+- Quick Answer stays above the fold.
+- Ads: *fewer, larger, well-spaced* — see §10.
+
+### Monetization (detailed §10)
+- 3 ad slots max on desktop article (below_title, 1 in-content at ~50% scroll, end_article) + an optional **sticky desktop side rail** that does NOT exist on mobile.
+- **Mobile: max 2 in-content ads**, never adjacent, never above Quick Answer.
+
+### SEO
+- One H1 (title), semantic h2/h3 hierarchy, FAQ schema for rich results, internal links with descriptive anchor text, image alt text enforced, `dateModified` freshness.
+
+---
+
+## 10. AdSense & Engagement Architecture
+
+### Monetization zones
+
+| Zone | Desktop | Mobile | Notes |
+|---|---|---|---|
+| Above the fold (article) | ❌ none above Quick Answer | ❌ none | Protect LCP & first impression. |
+| Below title / after intro | ✅ 1 slot | ✅ 1 slot | After Quick Answer + first paragraph — high viewability. |
+| In-content (mid) | ✅ 1 slot (~50% scroll) | ✅ 1 slot | Single, well-placed, never adjacent to another. |
+| **Desktop side rail (NEW)** | ✅ sticky sidebar unit | ❌ | Desktop-only; high viewability on long articles. `min-width:1024px` guard. |
+| End of article | ✅ 1 slot | ✅ 1 slot | After content, before related — strong "session-end" viewability. |
+| Homepage | ✅ 1 below-the-fold | ✅ 1 below-the-fold | Remove current above-content ad. |
+| Category/archive | ✅ 1 in-feed (after 3rd item) | ✅ 1 in-feed | Native-feeling, labeled. |
+| Multiplex | ⚠️ consider 1 on article-end (desktop) | ❌ | Only if RPM warrants; never on mobile. |
+
+### Principles enforced
+- **Revenue per session > ad count.** Fewer, higher-viewability, better-placed ads earn more and retain users. Excessive density triggers AdSense "excessive ads" policy risk *and* bounces users before they see the next article.
+- **No deceptive patterns.** All ads labeled; no ad styled as navigation; no ad between a heading and its paragraph.
+- **Layout stability:** reserve ad slot height (min-height) to prevent CLS from lazy-loaded ad fills.
+- **Performance:** ads are the heaviest third-party; defer non-critical, use the existing `adsbygoogle` lazy pattern where possible.
+
+### Engagement / session-depth systems
+- **"Continue the journey"** curated paths (§9.8) — serializes 3–4 related guides.
+- **Contextual internal links** in every article body (target: 3–5 per article).
+- **Topic-cluster pillars** as hubs (§7) — each pillar links its 10–20 cluster articles and vice-versa.
+- **Search** (Fuse.js, client-side, zero server cost) — lets users self-route across 91 guides.
+- **Related engine** — fix the inconsistent `related-posts.html` to reliably surface topically-matched guides.
+- **Glossary cross-linking** — every bill term in an article links to its glossary anchor (the glossary becomes a link-asset magnet).
+
+---
+
+## 11. SEO, Trust, Mobile & Performance Plan
+
+### SEO
+- **Topic clusters:** 5 pillars (Electricity/Gas/Water/HVAC/Utility-Bills) each internally linked bidirectionally to their cluster articles.
+- **Internal linking:** enforce 3–5 contextual links per article + the journey module. Fix the ~0-link problem.
+- **Structured data:** keep Article/Breadcrumb/FAQ; add `Speakable` for voice; ensure `datePublished`/`dateModified` accurate.
+- **Homepage h1:** keyword value prop, not brand-only.
+- **Content freshness:** the "2026" dated articles are good; add visible "Updated" timestamps.
+- **Crawlability:** the 284 MB image fix dramatically improves crawl budget.
+
+### Trust / E-E-A-T (truthful signals — no invented credentials)
+- **Editorial policy page** (new): how guides are written, the "plain-English, no jargon" standard, the fact that we don't sell products.
+- **Methodology page** (new): how cost ranges are sourced (labeled as typical US ranges, not legal guarantees).
+- **Ownership transparency:** About page names the publisher honestly.
+- **Author persona:** Introduce a **named editorial team/voice** with a *truthful* bio. We will NOT fabricate credentials or a fake person. Options: (a) a real named editor if one exists, or (b) an honestly-framed editorial team bio ("The Utility Explained editorial team — utilities researchers and writers"). The latter is truthful and stronger than a generic org-name author.
+- **Corrections policy:** a clear, linked statement that errors are corrected.
+- **Sources:** methodology strip on data-heavy articles.
+- **Functional contact** — fix the broken placeholder with a real mailto/form.
+
+### Mobile (premium, not compressed desktop)
+- All sections designed mobile-first.
+- Side-rail ads desktop-only.
+- TOC → disclosure; tables → horizontal scroll; nav → topic accordion.
+- Tap targets ≥44px; legible 16px+ base.
+
+### Performance (the #1 lever)
+1. **Image pipeline:** bulk-convert the 284 MB of PNGs → webp/AVIF; serve responsive `srcset` (400/800/1200px); reserve width/height. Use the existing 8 MB of webp as a starting point. **Target: <200 KB per hero.**
+2. **Self-host fonts** (Inter, Space Grotesk, + 1 content serif) with `font-display: swap` and subset to Latin — eliminates render-blocking Google Fonts requests + improves privacy/speed.
+3. **CSS:** the 38 KB total is healthy; ensure it's cached/fingerprinted (already is via Hugo Pipes).
+4. **Defer analytics** (Rybbit already `defer`).
+5. **Lazy-load all below-fold images & ads.**
+6. **Reserve ad dimensions** → zero CLS.
+
+**Target Core Web Vitals:** LCP < 2.5s, CLS < 0.1, INP < 200ms.
+
+---
+
+## 12. AI Media Art Direction (STRATEGY ONLY — no generation yet)
+
+**Coherent visual language:** a restrained, editorial illustration style — **thin-line schematics on warm paper, accented with the single amber needle.** Think engineering-blueprint-meets-magazine, never photorealistic stock. All assets share: warm-paper background, ink line-work, one amber accent, mono data labels.
+
+### Proposed assets
+
+| # | Location | Purpose | Concept | Aspect ratio | Crops needed |
+|---|---|---|---|---|---|
+| 1 | **Brand mark / favicon** | Identity | A minimal meter-dial with amber needle at ~70% | 1:1 (favicon), wordmark lockup | 16/32/180px |
+| 2 | **Homepage hero motif** | Brand reinforcement | Large ghosted meter dial + "kWh USED" readout (evolve current SVG — refine, don't replace) | Native SVG (responsive) | — |
+| 3 | **Pillar hub headers** (×5) | Topic identity per pillar | Thin-line schematic per utility: lightning bolt/circuit (electricity), flame/pilot (gas), drop/meter-dial (water), thermostat/HVAC (heating), folded bill (basics) | 16:9 banner, responsive | 1200×675 + mobile crop |
+| 4 | **Category/topic icons** (×6–8) | Nav + cards differentiation | Unique thin-line icon per topic (replaces the identical "box" icon) | 1:1 SVG | — |
+| 5 | **Open Graph default** | Social sharing | Meter-dial brand card with site name + value prop on ink background | 1200×630 | — |
+| 6 | **Article hero set** (as needed) | Article identity | Re-encode existing AI images to webp; for new/poor articles, a consistent schematic treatment | 16:9 | responsive srcset |
+| 7 | **"Annotation" stamp elements** | Design detail | Small reusable SVGs: amber needle, "check this" pointer, ruled-paper divider | SVG sprite | — |
+
+### Video (optional, only if motion adds value)
+- **One hero background option:** a 4–6s loop of a meter needle sweeping to ~70% and settling (amber), used *only* on homepage hero, muted, with poster fallback, respecting reduced-motion. Adds tactile "live meter" feel. **Low priority** — only if it doesn't compromise LCP.
+
+### Draft prompt seeds (for production phase, not now)
+- *Pillar icons:* "Minimalist thin-line schematic icon of [utility object], single amber accent on warm off-white paper, engineering-drawing precision, no text, no gradient, flat." 
+- *OG default:* "Editorial social-share card, deep teal-charcoal ink background, centered amber meter-dial needle at 70%, mono readout 'kWh', generous negative space, no stock photo."
+- *Schematic heroes:* "Thin-line technical illustration of [bill concept], warm paper, ink line-work, one amber highlight, magazine precision, no photorealism."
+
+**All assets will be produced with the Magica Media skill from the goose-flock folder during production — NOT in this phase.**
+
+---
+
+## 13. Risks & Tradeoffs
+
+| Risk | Likelihood | Mitigation |
+|---|---|---|
+| **Ad-slot reduction lowers short-term RPM** | Medium | Offset with higher viewability (above-fold removal is offset by better-placed mid + sticky rail). Monitor 30 days; RPM typically rises with viewability. |
+| **Serif body type "feels unfamiliar"** | Low | It's a deliberate differentiator; keep sans for UI. User-test readability if concerned. |
+| **Bulk image conversion breaks a frontmatter ref** | Medium | Script validates every `image:` field resolves before deploy; build fails loud. |
+| **Nav restructure confuses returning users** | Low | URLs unchanged; only labels/surfacing change. Footer keeps "All Guides." |
+| **Author persona perceived as thin** | Medium | Be truthful: "editorial team" not a fake PhD. Add methodology + editorial policy to back it. |
+| **Side-rail ad on desktop reduces content width** | Low | Only ≥1024px; content stays ≥680px readable. |
+
+**Conflict resolution:** Where "more ads" conflicts with "trust/speed," **speed & trust win** — they compound; ad density doesn't. Where "distinctive serif" conflicts with "convention," **distinctiveness wins** — it's the whole point.
+
+---
+
+## 14. Validation — "Could this belong to any other brand?"
+
+- **Creative Director:** *The meter-dial, ink-paper-amber-sage system, and serif reading mode are specific to "decoding bills/meters." No SaaS or generic blog looks like this. ✅ Memorable.*
+- **SEO/Publishing:** *Image fix + pillar architecture + internal linking + E-E-A-T all strengthen rankings. No URL changes. The only risk (homepage h1 change) is pure upside. ✅ Safe.*
+- **AdSense/Performance:** *Fewer-but-better-placed ads + reserved dimensions + image compression improve viewability and CWV together. Above-the-fold ad removal is the one tradeoff, justified by LCP. ✅ Net positive.*
+- **"Could this website belong to any other brand?"** No. The meter/bill metaphor is woven through color, type, iconography, and copy. It is Utility Explained.
+
+**Final review checklist passed:** no generic gradients/glass, no weak differentiation, no SEO URL risk, no deceptive ads, mobile-first, a11y baseline preserved + strengthened, trust pages added, discovery re-architected, media budgeted not bloated.
+
+---
+
+## 15. Highest-Leverage Improvements (ranked)
+
+1. 🔴 **Fix the 284 MB image pipeline** (PNG→webp/AVIF + responsive srcset). *Biggest ranking + revenue + UX win. Single highest-leverage action.*
+2. 🔴 **Re-architect the homepage:** keyword hero, surface the 5 pillars + glossary, guided entry. *Unlocks topical authority + discovery.*
+3. 🔴 **Add systematic internal linking** to every article + "Continue the journey" module. *Biggest session-depth + SEO win.*
+4. 🟠 **Topic-first navigation** (Electricity/Gas/Water/HVAC/Basics/Glossary + Search). *Discovery + orientation.*
+5. 🟠 **Elevate the article reading experience:** content-serif body, designed tables, universal Quick Answer. *Differentiation + time-on-page.*
+6. 🟠 **Trust/E-E-A-T pack:** real About, editorial policy, methodology, functional contact, truthful author bio. *YMYL ranking + conversion-to-trust.*
+7. 🟡 **Refine ad architecture:** remove above-fold homepage ad, add desktop side rail, reserve dimensions. *Viewability + CLS.*
+8. 🟡 **Self-host fonts + add content serif.** *Performance + identity.*
+9. 🟡 **Differentiated topic icons + pillar headers** (AI media). *Brand perception.*
+10. 🟢 **Polish:** fix hardcoded-Tailwind inconsistencies in related/toc partials, unique category icons, OG image. *Craft.*
+
+---
+
+## 16. Approval Before Production
+
+I will **not** generate images, edit templates, or make any irreversible change until you approve. Please confirm or adjust each:
+
+### Creative direction
+- [ ] **North Star:** "the moment a confusing bill becomes a clear decision" — the meticulous field inspector.
+- [ ] **Concept:** elevate the existing meter-reader system (ink/paper/amber/sage), not replace it.
+
+### Layout & templates
+- [ ] **Homepage:** keyword hero + guided entry + pillar hub cards + essential/latest + trust strip.
+- [ ] **Article:** Quick-Answer-first, content-serif reading mode, journey module, sources, author bio.
+- [ ] **Category pages** → editorial topic hubs.
+- [ ] **New pages:** /search/, /editorial-policy/, /methodology/; rebuilt /about/ & /contact/.
+
+### Typography & color
+- [ ] **Dual type:** Space Grotesk (UI/headings) + a content serif for article body (Source Serif 4 or Lora — preference?).
+- [ ] **Palette:** keep ink/paper/amber/sage; codify "amber = the one thing to check."
+
+### Navigation
+- [ ] **Topic-first nav** replacing Home/Blog/About/Contact primary nav.
+- [ ] **Glossary + pillars** promoted into nav & homepage.
+
+### Monetization
+- [ ] **3 desktop slots + side rail; 2 mobile slots**; remove homepage above-fold ad; reserve ad heights.
+
+### Trust & performance
+- [ ] **Image pipeline** (PNG→webp/AVIF, responsive).
+- [ ] **Self-hosted fonts.**
+- [ ] **E-E-A-T pack** with a *truthful* author/editorial framing (no fabricated credentials).
+
+### AI media assets (each must be approved before generation)
+- [ ] Brand mark/favicon (meter-dial).
+- [ ] Homepage hero motif (refine existing SVG).
+- [ ] 5 pillar hub header schematics (electricity/gas/water/HVAC/basics).
+- [ ] 6–8 unique topic icons.
+- [ ] OG default social card.
+- [ ] Article hero re-encoding (existing images → webp).
+- [ ] Annotation/stamp SVG sprite.
+- [ ] *(Optional)* One muted meter-sweep hero loop — only if approved.
+
+---
+
+
+---
+
+# PART II — Completing the Blueprint
+
+*(Added to close gaps in Phase 2 voice/tone, Phase 3 author pages, Phase 4 page-by-page for every template, and Phase 7 full media specs.)*
+
+---
+
+## A. Voice & Tone (Phase 2 completion)
+
+The brand *personality* is defined in §5; this codifies how it **sounds** on the page. Every editor and every template string follows these rules.
+
+| Dimension | Rule | Example ✅ | Example ❌ |
+|---|---|---|---|
+| **Lead with the answer** | The first 2 sentences resolve the searcher's anxiety; depth comes after. | "Your electric bill jumped because of one of 12 causes. Here's how to find it in 30 seconds." | "Electricity bills are a fact of modern life..." |
+| **Plain English, define every term** | When kWh, CCF, therm, or any jargon appears, define inline or link the glossary on first use. Never assume the reader knows. | "A kilowatt-hour (kWh — the unit your meter counts)..." | "Check your therms and CCF against last cycle." |
+| **Numerate, never vague** | Use real ranges, always labeled as typical US figures, never as guarantees. | "A space heater adds ~$50/month (1,500 W × 8 hrs × $0.14/kWh)." | "Space heaters can really run up your bill." |
+| **No fear, no hype** | Forbidden words: *skyrocketing, shocking, amazing, incredible, secret*. Bills cause enough anxiety; we resolve it. | "A $50 increase usually traces to one cause." | "SHOCKING bill spikes you MUST fix now!" |
+| **Second person** | Address the reader directly — they have a bill in front of them. | "Look at the 'usage' line on your bill." | "One should examine the usage line." |
+| **Honest about uncertainty** | Rates, climates, and providers vary. Say so. Link to "how we calculate" (methodology). | "Delivery charges vary by utility; these ranges reflect typical US bills." | "Delivery is always $12/month." |
+| **Tables over paragraphs for structure** | Comparisons, causes, costs → tables. Prose is for explanation, not enumeration. | (a 3-column cost table) | (a 6-sentence paragraph listing costs) |
+
+**Tone across page types:**
+- **Articles:** authoritative friend — calm, specific, reassuring.
+- **Homepage / nav:** confident guide — short, directive ("Decode your electric bill →").
+- **Trust pages:** transparent and plain — no legalese where plain English works.
+- **Quick Answers:** telegraphic — the answer in ≤30 words, then the "why."
+
+---
+
+## B. Page-by-Page Blueprint — Every Template (Phase 4 completion)
+
+Each template below specifies the 10 required fields: **Purpose · Target visitor · Desired action · Core message · Section order · Visual treatment · Mobile behavior · SEO · Trust · Monetization.**
+
+### B1. Pillar Hub Page (`/electricity-explained/`, `/gas-explained/`, `/water-explained/`, `/heating-cooling-explained/`, `/utility-bills-costs-explained/`)
+*These 5 pages already exist; the redesign promotes them from orphaned static pages to the core of topical authority.*
+
+| Field | Spec |
+|---|---|
+| Purpose | The authoritative entry point for an entire utility type — distributes link equity to all cluster articles. |
+| Target visitor | Someone who wants to understand "electricity" (or gas/water/HVAC) holistically, not just one charge. |
+| Desired action | Enter the cluster: read the pillar, then follow links into specific guides. |
+| Core message | "Everything about your [electric/gas/water] bill, organized." |
+| Section order | (1) Hero: topic title + value prop + **unique pillar schematic header** · (2) **"Start here"** 2–3 foundational guides pinned to top · (3) Editorial intro (what this utility bill contains, 1 screen) · (4) **Cluster index** — all guides in this category, grouped by sub-topic (reading the bill / why it's high / lowering it / fees), each with a 1-line description · (5) Key terms → glossary anchors · (6) FAQ · (7) Related pillars. |
+| Visual treatment | Full-bleed pillar header schematic (AI asset #3). Amber section rules. Two-column cluster index on desktop. |
+| Mobile | Header crops to 4:3; cluster index → single column grouped list; "start here" pins remain on top. |
+| SEO | h1 = "[Utility] Bills Explained"; internal-links to every cluster article (bidirectional); CollectionPage/ItemList schema; breadcrumb. |
+| Trust | "Last reviewed/updated" stamp; methodology link; counts ("18 electricity guides"). |
+| Monetization | 1 in-content ad after the editorial intro; 1 after the cluster index. No above-fold ad. |
+
+### B2. Category / Topic Page (`/blog/category/:slug/`)
+*Current state: a generic auto-generated card grid (template `list.html`/`section.html`). Redesign into an editorial topic hub.*
+
+| Field | Spec |
+|---|---|
+| Purpose | Browse/discover all guides in one topic; a curated reading experience, not a dump. |
+| Target visitor | A reader who clicked a tag/category and wants to explore the topic. |
+| Desired action | Click into a guide; ideally follow a suggested reading order. |
+| Core message | "Here are the N guides on [topic], in the order that makes sense." |
+| Section order | (1) Topic hero (gradient ink band, amber needle, topic name + count) · (2) **Featured guide** (1 large card — the best entry point) · (3) Guides grid (cards with read-time + sub-topic) · (4) "Continue learning" → cross-links to the pillar hub · (5) Pagination. |
+| Visual treatment | Topic-colored hero band; featured card spans 2 columns; standard cards fill the grid; sticky topic filter chips optional. |
+| Mobile | Hero shortens; featured card full-width; grid → 1 column; pagination → "load more" or numbered. |
+| SEO | h1 = topic name; CollectionPage schema; rel canonical to category; noindex thin auto-generated taxonomy pages with <2 guides if any. |
+| Trust | Updated-date stamps on cards; count transparency. |
+| Monetization | 1 in-feed ad after the 3rd card (labeled, reserved height); no above-fold. |
+
+### B3. Search Page (`/search/`) — NEW
+*Confirmed: no search exists today. Essential for 91-guide discovery.*
+
+| Field | Spec |
+|---|---|
+| Purpose | Let users self-route to the exact guide for their bill problem. |
+| Target visitor | Anyone who can't find what they need via nav/categories. |
+| Desired action | Type → see instant results → click. |
+| Core message | "Search every utility guide." |
+| Section order | (1) Large centered search input (autofocus, with example queries as placeholder chips: "why is my bill high", "what is CCF", "delivery charge") · (2) Live results list (title + description + topic badge, appears as you type) · (3) "No results" state → suggests pillars + glossary + contact. |
+| Visual treatment | Minimal — oversized input on warm paper, amber focus ring, mono placeholder. Results as compact list rows. |
+| Mobile | Full-width input, results stack; large tap targets; the page *is* the search — no chrome. |
+| SEO | **`noindex`** (search results pages must not compete with content pages). Linked from nav + footer + 404. |
+| Trust | Powered-by note optional; no tracking of queries. |
+| Monetization | None on results — search is a discovery tool, not a revenue surface. Keep it fast & clean. |
+| Implementation | Client-side Fuse.js over a generated JSON index (Hugo outputs `index.json` of titles+descriptions+urls). Zero server cost, instant. |
+
+### B4. Author / Editorial Team Page (`/editorial-team/` or `/author/:slug/`) — NEW
+*Confirmed: no author template exists; all 90 articles show generic "Utility Explained" author. This is the E-E-A-T fix.*
+
+**Strategic decision (truthful, no fabrication):** We will NOT invent a fake credentialed person. We introduce an **honestly-framed editorial entity** with two layers:
+- **`/editorial-team/`** — the primary profile all bylines link to. Describes the editorial process, the expertise domain (utility-bill research), and the standards. Truthful: "written and reviewed by the Utility Explained editorial team."
+- **`/author/:slug/`** — generated automatically IF/when a real named contributor is added (template ready, no fake bios). Until then, bylines route to the team page.
+
+| Field | Spec |
+|---|---|
+| Purpose | Establish E-E-A-T and human accountability; satisfy "who wrote this and why trust them." |
+| Target visitor | A skeptical reader (or quality rater) checking credibility before acting on money-adjacent advice. |
+| Desired action | Feel reassured the content is produced responsibly; continue reading. |
+| Core message | "Real people, a real process, no sales agenda." |
+| Section order | (1) Team/entity intro — who we are and our domain expertise · (2) **How we work** (research → write → fact-check ranges → review) · (3) Our standards (plain-English, no jargon, ranges not guarantees) · (4) **Editorial policy + methodology links** · (5) Recent contributions (auto-list of latest articles) · (6) Contact. |
+| Visual treatment | Warm-paper, human, restrained. No fake headshots. If real contributors exist, initials-in-amber-circle avatars. |
+| Mobile | Single column, all sections stack. |
+| SEO | `Person`/`Organization` schema linking author↔articles; linked from every article byline (author entity consistency). |
+| Trust | **This page IS a trust signal.** Ownership transparency, corrections policy, no-products/no-affiliate disclosure. |
+| Monetization | None — this is a credibility page, not revenue surface. |
+
+### B5. About Page (`/about/`) — REBUILD
+*Current: thin 5-paragraph page with no mission, no methodology, no team. Rebuild.*
+
+| Field | Spec |
+|---|---|
+| Purpose | Tell the origin story and build confidence; route to trust pages. |
+| Target visitor | First-time visitor deciding if the site is worth their time/trust. |
+| Desired action | Understand the mission → explore guides / read editorial policy. |
+| Core message | "Utility bills shouldn't require a translator — so we became one." |
+| Section order | (1) Mission statement (1 punchy paragraph) · (2) Who it's for (renters, first-time owners, budgeters) · (3) What we do / don't do (explain bills; do NOT sell products or provider recommendations) · (4) How we're different (line-by-line, data-ranges, plain English) · (5) Editorial team link · (6) Editorial policy + methodology + corrections links · (7) Contact. |
+| Visual treatment | Editorial: large statement type, amber pull-rule, generous whitespace. The meter-dial as a subtle motif. |
+| Mobile | Single column; statement type scales with clamp(). |
+| SEO | AboutPage schema; links to pillars (internal linking). |
+| Trust | The entire page is trust architecture. |
+| Monetization | None. |
+
+### B6. Contact Page (`/contact/`) — FIX (currently broken: `{contactEmail}` literal)
+| Field | Spec |
+|---|---|
+| Purpose | Give readers a real way to suggest topics / report errors. |
+| Target visitor | Someone with a question, correction, or topic idea. |
+| Desired action | Send a message (mailto or a lightweight form). |
+| Core message | "Tell us what to explain next — or correct us." |
+| Section order | (1) Heading + what we do/don't respond to (set expectations honestly) · (2) **Working mailto button** (resolves a real address) OR a static, no-backend HTML form (mailto/Formspree-free option) · (3) "Before you contact" → links to glossary + search (deflects repeat questions) · (4) Corrections policy link. |
+| Visual treatment | Minimal, warm. Honest expectations ("we read everything; we can't always reply"). |
+| Mobile | Full-width tap-to-email button; large touch target. |
+| SEO | noindex optional; ContactPage schema. |
+| Trust | A real, working contact path is itself a trust signal. **Fixes the broken `{contactEmail}`.** |
+| Monetization | None. |
+
+### B7. Trust / Editorial Pages — NEW + ENHANCE EXISTING
+| Page | Status | Purpose | Core content |
+|---|---|---|---|
+| `/editorial-policy/` | **NEW** | How content is made; the standards. | Plain-English rule, no jargon, fact-checking ranges, no sales influence, how topics are chosen, update/review cadence. |
+| `/methodology/` | **NEW** | How numbers/ranges are derived. | "Typical US ranges, sourced from EIA/DOE averages and provider tariffs; labeled as estimates, not guarantees; last-reviewed dates." |
+| `/corrections/` | **NEW** | Accountability. | "We correct errors promptly and visibly; report one here" → links contact. |
+| `/privacy-policy/` | **Enhance** | Already exists, thin. | Expand: AdSense/cookies, Rybbit (privacy-first analytics), no account data, no selling. Add a cookie/consent note. |
+| `/terms/` | Keep | Already adequate. | Minor polish for tone. |
+| `/disclaimer/` | Keep | Already adequate. | Add "no financial/legal advice" + affiliate disclosure (currently none — confirm none, state it). |
+
+**Visual treatment (all):** Consistent "legal-but-readable" template — warm paper, serif body, clear h2 structure, a "Last updated" stamp, and a sidebar/inline "Related policies" list. Distinct from articles (no ads).
+
+**Monetization:** **Zero ads on trust/legal pages.** (Monetizing your privacy policy is a trust negative.)
+
+### B8. 404 Page — REDESIGN
+*Current: a gray sad-face icon + "Page not found." Generic and a dead-end.*
+
+| Field | Spec |
+|---|---|
+| Purpose | Rescue a lost visitor; turn an error into a discovery moment. |
+| Target visitor | Someone following a broken/old link. |
+| Desired action | Find what they actually wanted (search, pillars, or home). |
+| Core message | "That page moved — but your answer is still here." |
+| Section order | (1) On-brand error: a meter-dial with the needle pegged at zero + "404" in display type · (2) Short, warm line · (3) **Search box** (prominent) · (4) **"Browse by utility"** — the 3 main pillars (Electricity/Gas/Water) · (5) 3–4 popular guides · (6) Glossary link. |
+| Visual treatment | Uses the meter metaphor: needle at zero = "no reading." Amber accent. Never the generic sad emoji. |
+| Mobile | Stacked; search first; pillars as tappable rows. |
+| SEO | `noindex`. |
+| Trust | A helpful 404 signals competence and care. |
+| Monetization | None — get them back to content fast. |
+
+### B9. Glossary Page (`/utilities-glossary/`) — NICHE-SPECIFIC PILLAR (PROMOTE)
+*Current: a strong 232-line asset, orphaned. This is Utility Explained's link-equity magnet and a key differentiator.*
+
+| Field | Spec |
+|---|---|
+| Purpose | The universal reference every article links to; defines every bill term once, authoritatively. |
+| Target visitor | Anyone who hit a term (kWh, CCF, therm, demand charge) they don't know. |
+| Desired action | Find the term → understand it → return to their article (or explore). |
+| Core message | "Every utility term, in plain English." |
+| Section order | (1) Hero: "Utility Glossary" + search/filter input (instant filter by letter/term) · (2) **A–Z jump bar** (sticky) · (3) Grouped terms (Electricity / Gas / Water / Fees / HVAC), each term = bold term + definition + **"read more →" link** to the deep guide · (4) Cross-links to all 5 pillars. |
+| Visual treatment | Dictionary/publication feel: serif definitions, clear letter dividers (amber), generous line-height. The filter input is the hero interaction. |
+| Mobile | Sticky A–Z bar → collapses to a dropdown; terms stack; instant-filter input at top. |
+| SEO | **DefinitionList / `DefinedTerm` schema**; deep anchor links (`/utilities-glossary/#kwh`); h3 per term; strong internal-link target. |
+| Trust | Comprehensive, organized, maintained — signals expertise. |
+| Monetization | 1 mid-page ad (glossaries are long, scroll-friendly); no above-fold. |
+
+### B10. Static "Explained" Content Pages — standard treatment
+The root-level explainers (already correct URLs) use the **Pillar Hub** template (B1).
+
+---
+
+## C. Information Architecture — Author System Completion (Phase 3)
+
+- **Add:** `/editorial-team/` (primary author entity) + `/author/:slug/` template (ready for real named contributors, auto-generated from frontmatter `author` when not "Utility Explained").
+- **Reorganize bylines:** every article's author line links to the team page (or real author page). Article schema `author` references the same entity — this creates **author-entity consistency** that strengthens E-E-A-T signals.
+- **Footer:** add "Editorial Team" under a "Trust" column alongside Editorial Policy / Methodology / Corrections.
+
+---
+
+## D. AI Media Art Direction — Full Per-Asset Specs (Phase 7 completion)
+
+**One coherent visual language (restated):** thin-line schematic illustration on warm off-white paper (`#f7f4ed`), ink line-work (`#0e201c`/`#2a4d45`), a **single amber accent** (`#e8a33d`) reserved for "the one thing to check," mono data labels. No photorealism, no gradients, no stock photography, no glass. Precision of an engineering drawing; warmth of a reference manual.
+
+Each asset below is fully specified. **None generated yet — all await approval, to be produced with the Magica Media skill.**
+
+### Asset 1 — Brand mark / favicon
+| Field | Value |
+|---|---|
+| Location | `favicon`, nav logo, footer logo, OG watermark |
+| Purpose | Instant brand recognition; the visual signature |
+| Visual concept | A minimal analog meter-dial face with a single amber needle pointing to ~70%, no numerals |
+| Composition | Centered circle dial, 12 ticks, needle upper-right, tiny hub dot; perfectly square-safe |
+| Mood | Precise, calm, instrument-like |
+| Art direction | Single-weight (1.5px equiv) line art; amber needle only color; transparent / ink-on-paper variants |
+| Aspect ratio | 1:1 (master); favicon 16/32/180px; wordmark lockup horizontal |
+| Crops | Square (favicon), horizontal lockup (nav) |
+| Draft prompt | *Minimalist analog meter-dial logo mark, single thin amber needle at 70 degrees, 12 tick marks, small hub dot, deep ink line-work on transparent background, no numerals, no text, vector, flat, one amber accent color, engineering precision, clean negative space* |
+
+### Asset 2 — Homepage hero motif (refine existing)
+| Field | Value |
+|---|---|
+| Location | Homepage hero (right side) |
+| Purpose | Brand reinforcement; encode the thesis "we read the meter" |
+| Visual concept | Evolve the current SVG meter-dial — add a subtle "kWh USED" readout and refine tick weighting |
+| Composition | Large dial, amber arc + needle, mono readout; ghosted behind hero text |
+| Mood | Atmospheric, confident |
+| Art direction | Native SVG (crisp at all sizes, tiny bytes); low-opacity over ink hero; animated needle-sweep *optional/on-load only* |
+| Aspect ratio | Native SVG, responsive via viewBox |
+| Crops | Repositions/rescales per breakpoint (current logic kept) |
+| Draft prompt | *(Refinement of existing code — not a raster generation; tune stroke weights, add mono "kWh USED" readout, ensure amber arc + needle align at ~70%)* |
+
+### Asset 3 — Pillar hub headers (×5)
+| Field | Value |
+|---|---|
+| Location | Top of `/electricity-explained/`, `/gas-explained/`, `/water-explained/`, `/heating-cooling-explained/`, `/utility-bills-costs-explained/` |
+| Purpose | Visual identity per utility type; differentiate pillars at a glance |
+| Visual concept | One thin-line schematic per utility: **Electricity** = circuit/bolt, **Gas** = pilot flame + pipe, **Water** = drop + meter-dial, **HVAC** = thermostat + airflow, **Bill Basics** = folded bill + magnifier |
+| Composition | Left-aligned schematic on warm paper with a faint meter-grid texture; topic label in display type beside it |
+| Mood | Technical-warm, editorial |
+| Art direction | Consistent 2px ink line-weight family across all 5; one amber highlight per illustration; no fills |
+| Aspect ratio | 16:9 banner (1600×900 master) |
+| Crops | 1600×900 (desktop), 800×600 (mobile 4:3), 1200×630 (OG reuse) |
+| Draft prompt (Electricity, representative) | *Thin-line schematic illustration of a household electrical circuit with a lightning bolt motif, warm off-white paper background, deep ink line-work, one small amber highlight on the active element, engineering-drawing precision, no text, no gradient, no photorealism, flat illustration, generous negative space, 16:9* |
+
+### Asset 4 — Topic icons (×6–8)
+| Field | Value |
+|---|---|
+| Location | Nav, homepage pillar cards, category cards, footer |
+| Purpose | Replace the identical "box" icon on all 11 category cards with unique, meaningful marks |
+| Visual concept | Unique thin-line glyph per topic: Electricity (bolt), Gas (flame), Water (drop), Fees ($ tag), HVAC (thermostat), Troubleshooting (wrench-meter), Budgeting (piggybill), Rates (sliding scale) |
+| Composition | Single centered glyph in a soft amber-tinted rounded square |
+| Mood | Clean, navigational, consistent family |
+| Art direction | Unified 1.75px stroke set, rounded line-caps, one color (ink) on amber-50 tile; pixel-snapped for crisp small sizes |
+| Aspect ratio | 1:1 SVG (24px base, scales) |
+| Crops | N/A (vector) |
+| Draft prompt (set) | *Set of 8 minimalist thin-line icons on amber-tinted rounded squares, deep ink stroke, unified 1.75px weight, rounded caps: lightning bolt, flame, water drop, price tag, thermostat, wrench, bill-with-coin, sliding-scale — consistent family, no text, flat, vector* |
+
+### Asset 5 — Open Graph default card
+| Field | Value |
+|---|---|
+| Location | `og:image` default for pages without a specific image; social shares |
+| Purpose | Premium first impression on social / search previews |
+| Visual concept | Meter-dial brand card: ink background, centered amber needle at 70%, "UTILITY EXPLAINED" wordmark + value prop line |
+| Composition | Centered dial, wordmark below, mono "kWh" readout, generous margins |
+| Mood | Authoritative, distinctive |
+| Art direction | Deep ink `#0e201c` field, amber needle + thin dial rings in low-opacity ink, display wordmark |
+| Aspect ratio | 1200×630 (OG standard) |
+| Crops | 1200×630 (OG), 1200×1200 (square social variant) |
+| Draft prompt | *Editorial social-share card, deep teal-charcoal ink background, centered minimalist meter-dial with single amber needle at 70%, faint concentric rings, "UTILITY EXPLAINED" in clean geometric display type below, mono "kWh" readout, generous negative space, no stock photo, 1200×630* |
+
+### Asset 6 — Article hero re-encoding (existing images)
+| Field | Value |
+|---|---|
+| Location | Article hero images (191 currently PNG) |
+| Purpose | Performance + consistent quality |
+| Visual concept | The existing AI-generated article images — **re-encoded, not regenerated** |
+| Composition | Unchanged per article |
+| Mood | Varies per article (keep) |
+| Art direction | Batch: PNG → webp/AVIF, responsive srcset (400/800/1200), <200 KB each, reserved dimensions. Only regenerate schematically where an article currently uses a generic `utility-*.jpg` stock image. |
+| Aspect ratio | 16:9 (standardize) |
+| Crops | 1200/800/400 responsive |
+| Draft prompt | *(No AI generation for re-encoding — image-optimization pipeline. For the ~10 articles on generic stock: use the schematic language of Asset 3, topic-matched.)* |
+
+### Asset 7 — Annotation / stamp SVG sprite
+| Field | Value |
+|---|---|
+| Location | Inline throughout articles (dividers, "check this" pointers, callout accents) |
+| Purpose | Tactile "annotated bill" detail that ties the system together |
+| Visual concept | Small reusable marks: amber needle pointer, "check this" stamp, ruled-paper divider, circle-stamp badge |
+| Composition | Minimal, single-purpose each |
+| Mood | Hand-precise, editorial |
+| Art direction | Inline SVG sprite; ink + single amber; ~1–2px strokes; use as section dividers and callout flourishes |
+| Aspect ratio | Various small (inline) |
+| Crops | N/A (vector) |
+| Draft prompt | *(Hand-coded SVG sprite — amber needle pointer glyph, circular "REVIEW" stamp outline, horizontal ruled-line divider with amber tick — drawn, not generated)* |
+
+### Asset 8 — (Optional) Hero meter-sweep motion — VIDEO, only if approved
+| Field | Value |
+|---|---|
+| Location | Homepage hero background (desktop, reduced-motion-safe) |
+| Purpose | Tactile "live meter" feel — the needle sweeps to 70% and settles |
+| Visual concept | 4–6s loop: needle from 0 → 70%, settle, hold, subtle reset |
+| Composition | Centered dial, amber needle, on ink |
+| Mood | Alive but restrained |
+| Art direction | Muted, looping, <500 KB (webp/MP4), **poster fallback**, `prefers-reduced-motion` → static |
+| Aspect ratio | Matches hero region |
+| Crops | Desktop only; mobile → static SVG |
+| Draft prompt | *4-second seamless loop, analog meter needle sweeping from zero to 70% and settling, single amber needle on dark teal-charcoal dial, minimal, muted, no text, calm mechanical motion, web-optimized* |
+| Verdict | **Low priority.** Only build if LCP stays <2.5s with it. Skip if it risks performance. |
+
+---
+
+## E. Updated Validation — Re-test Against Gaps
+
+- **Creative Director:** ✅ The dual type system + schematic visual language + annotation details make this unmistakably a bill-decoder brand.
+- **SEO/Publishing Expert:** ✅ All URLs preserved; pillars promoted; search `noindex`d; glossary gets `DefinedTerm` schema; author-entity consistency added. No ranking risk introduced.
+- **AdSense/Performance Expert:** ✅ Trust/legal/glossary-search pages de-monetized (trust-positive); ad density bounded; 284 MB image fix is the dominant performance win.
+- **"Could this website belong to any other brand?"** ✅ No — the meter/bill metaphor now runs through type, color, iconography, page architecture, and microcopy.
+
+---
+
+## F. Consolidated Approval Checklist (final)
+
+### Creative direction & brand
+- [ ] North Star: "the moment a confusing bill becomes a clear decision"
+- [ ] Elevate the meter-reader system (ink/paper/amber/sage)
+- [ ] Voice & tone rules (§A) — plain English, numerate, no fear/hype
+
+### Typography & color
+- [ ] Dual type: Space Grotesk (UI) + **content serif for articles** — Source Serif 4 or Lora? (your pick)
+- [ ] Palette unchanged; amber = "the one thing to check" strictly
+
+### Layout & templates (all approved?)
+- [ ] Homepage · [ ] Article · [ ] Pillar hub (B1) · [ ] Category (B2) · [ ] Search (B3) · [ ] Author/team (B4) · [ ] About (B5) · [ ] Contact (B6) · [ ] Trust pages (B7) · [ ] 404 (B8) · [ ] Glossary (B9)
+
+### Navigation & IA
+- [ ] Topic-first nav; pillars + glossary + search promoted
+- [ ] Author/entity system (editorial team page + byline links)
+
+### Monetization
+- [ ] 3 desktop slots + side rail; 2 mobile; remove homepage above-fold ad; reserve heights; zero ads on trust/legal/glossary-search pages
+
+### Trust & performance
+- [ ] Image pipeline (284 MB → webp/AVIF + responsive)
+- [ ] Self-hosted fonts
+- [ ] E-E-A-T pack (editorial policy, methodology, corrections, functional contact, truthful authorship)
+
+### AI media assets (each must be approved before generation)
+- [ ] 1 Brand mark/favicon · [ ] 2 Hero motif refine · [ ] 3 Pillar headers ×5 · [ ] 4 Topic icons ×8 · [ ] 5 OG card · [ ] 6 Article re-encode · [ ] 7 Annotation sprite · [ ] 8 (optional) meter-sweep video
+
+---
+
+**Awaiting your approval on the above. Reply with approvals/changes and the serif preference (Source Serif 4 vs Lora), and tell me whether to proceed all-at-once or phase-by-phase.**

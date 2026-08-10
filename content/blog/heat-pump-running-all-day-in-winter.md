@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]
 keywords: ["heat pump savings", "aux heat vs emergency heat", "duct leak symptoms", "ac not cooling"]
-image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_00001_.png"
+image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: it seems like the heat pump never stops</h2>

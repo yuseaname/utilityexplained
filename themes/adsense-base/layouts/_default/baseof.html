@@ -8,6 +8,9 @@
   <!-- Skip to content (accessibility) -->
   <a href="#main-content" class="skip-to-content">Skip to content</a>
 
+  {{/* Inlined SVG sprite: topic icons */}}
+  {{ readFile "static/images/topic-icons.svg" | safeHTML }}
+
   <!-- Reading Progress Bar (only on article pages) -->
   {{ if and (not .IsHome) (not .IsNode) }}
   <div class="progress-bar" id="reading-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>

@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
 keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charge utility", "utility surcharge"]
-image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.png"
+image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp"
 ---
 
 <h2 id="start-here">Start here: the four numbers that explain most bills</h2>

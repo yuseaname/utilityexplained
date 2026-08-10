@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["sewer", "leak", "ccf", "sewer averaging", "water bill"]
 keywords: ["sewer charge water bill", "water leak detection", "ccf", "sewer averaging", "high water bill"]
-image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-charges-work-on-your-water-bill_hero_00001_.png"
+image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-charges-work-on-your-water-bill_hero_00001_.webp"
 ---
 
 <h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>

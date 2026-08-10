@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "budget", "kwh", "deposit", "apartment"]
 keywords: ["high electric bill", "utility budget", "kwh usage", "utility deposit", "apartment utility costs"]
-image: "/images/articles/fixed-vs-variable-rate-electricity-plan/fixed-vs-variable-rate-electricity-plan_hero_00001_.png"
+image: "/images/articles/fixed-vs-variable-rate-electricity-plan/fixed-vs-variable-rate-electricity-plan_hero_00001_.webp"
 ---
 
 <h2 id="overview">The basic difference</h2>

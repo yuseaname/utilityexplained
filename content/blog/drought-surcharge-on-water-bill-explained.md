@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["surcharge", "drought surcharge", "gallons", "savings", "water bill"]
 keywords: ["utility surcharge", "drought surcharge water bill", "gallons of water", "lower utility bill", "high water bill"]
-image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_00001_.png"
+image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

@@ -9,7 +9,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
 keywords: ["how to read gas bill", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
-image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.png"
+image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.webp"
 ---
 
 # How to Read Your Gas Bill: Every Charge Explained

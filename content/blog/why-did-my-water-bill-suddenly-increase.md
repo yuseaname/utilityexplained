@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "gallons", "water bill"]
 keywords: ["water leak detection", "gallons of water", "high water bill"]
-image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_00001_.png"
+image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_00001_.webp"
 ---
 
 <h2 id="top-reasons">The most common reasons for a sudden spike</h2>

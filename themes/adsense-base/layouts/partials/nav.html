@@ -1,66 +1,84 @@
 <nav class="nav-container sticky top-0 z-50" id="main-nav" role="navigation" aria-label="Main navigation">
   <div class="max-w-7xl mx-auto px-4 sm:px-6">
     <div class="flex items-center justify-between h-14">
-      <!-- Logo with icon -->
-      <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-lg font-bold text-gray-900 hover:text-primary-600 transition-colors">
-        <svg class="w-6 h-6 text-primary-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+
+      <!-- Brand mark: meter dial + wordmark -->
+      <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2.5 group" aria-label="{{ .Site.Params.site_name | default .Site.Title }} home">
+        <svg class="w-7 h-7 flex-shrink-0" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+          <circle cx="20" cy="20" r="18" class="footer-accent" stroke="currentColor" stroke-width="1.5" opacity="0.4"/>
+          <circle cx="20" cy="20" r="14" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+          {{/* tick marks */}}
+          {{ range seq 0 5 }}<line x1="20" y1="4" x2="20" y2="7" stroke="currentColor" stroke-width="1.5" opacity="0.3" transform="rotate({{ mul . 60 }} 20 20)"/>{{ end }}
+          {{/* amber needle pointing to ~70% */}}
+          <line x1="20" y1="20" x2="29" y2="11" class="footer-accent" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          <circle cx="20" cy="20" r="2.5" class="footer-accent" fill="currentColor"/>
         </svg>
-        <span>{{ .Site.Params.site_name | default .Site.Title }}</span>
+        <span class="footer-brand text-base font-bold tracking-tight">{{ .Site.Params.site_name | default .Site.Title }}</span>
       </a>
 
-      <!-- Desktop nav -->
-      <div class="hidden sm:flex items-center gap-1">
+      <!-- Desktop: topic-first nav -->
+      <div class="hidden lg:flex items-center gap-0.5">
         {{ $currentPage := . }}
-        {{ $menuItems := .Site.Menus.main }}
-        {{ if and $menuItems (gt (len $menuItems) 0) }}
-          {{ range $menuItems }}
-            {{ $isActive := or (eq $currentPage.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
-            <a href="{{ .URL }}"
-               class="px-3 py-2 text-sm font-medium rounded-lg transition-colors
-               {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}">
-              {{ .Name }}
-            </a>
-          {{ end }}
-        {{ else }}
-          {{ range .Site.Sections }}
-            <a href="{{ .RelPermalink }}" class="px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors">{{ .Title }}</a>
-          {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ $isActive := or (eq $currentPage.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
+          <a href="{{ .URL }}"
+             class="px-2.5 py-2 text-sm font-medium rounded-lg transition-colors
+             {{ if $isActive }}text-accent-300 bg-white/5{{ else }}hover:text-accent-300 hover:bg-white/5{{ end }}">
+            {{ .Name }}
+          </a>
         {{ end }}
+      </div>
 
-
+      <!-- Desktop right cluster: search + secondary -->
+      <div class="hidden lg:flex items-center gap-1">
+        <a href="{{ "/search/" | relURL }}" class="nav-search" aria-label="Search guides" title="Search">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+        {{ range .Site.Menus.secondary }}
+          {{ $isActive := eq $currentPage.RelPermalink .URL }}
+          <a href="{{ .URL }}"
+             class="px-2.5 py-2 text-sm rounded-lg transition-colors
+             {{ if $isActive }}text-accent-300 bg-white/5{{ else }}hover:text-accent-300 hover:bg-white/5{{ end }}"
+             style="opacity:0.8">
+            {{ .Name }}
+          </a>
+        {{ end }}
       </div>
 
       <!-- Mobile hamburger -->
-      <button class="sm:hidden p-2 text-gray-600 hover:text-gray-900 rounded-lg hover:bg-gray-50 transition-colors" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu">
-        <svg class="w-6 h-6" id="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+      <button class="lg:hidden p-2 rounded-lg transition-colors hover:bg-white/5" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu">
+        <svg class="w-6 h-6 footer-accent" id="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
         </svg>
-        <svg class="w-6 h-6 hidden" id="close-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <svg class="w-6 h-6 hidden footer-accent" id="close-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
         </svg>
       </button>
     </div>
 
     <!-- Mobile menu -->
-    <div class="sm:hidden hidden border-t border-gray-200 pb-4" id="mobile-menu" role="menu">
-      <div class="pt-3 space-y-1">
+    <div class="lg:hidden hidden pb-4" id="mobile-menu" role="menu">
+      {{/* Search first */}}
+      <a href="{{ "/search/" | relURL }}" class="flex items-center gap-3 px-3 py-3 mb-2 mt-2 rounded-lg bg-white/5 footer-accent text-sm font-medium" role="menuitem">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        Search all guides
+      </a>
+      <div class="space-y-0.5">
         {{ $currentPage := . }}
-        {{ $menuItems := .Site.Menus.main }}
-        {{ if and $menuItems (gt (len $menuItems) 0) }}
-          {{ range $menuItems }}
-            {{ $isActive := or (eq $currentPage.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
-            <a href="{{ .URL }}"
-               class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors
-               {{ if $isActive }}bg-primary-50 text-primary-700{{ else }}text-gray-600 hover:text-gray-900 hover:bg-gray-50{{ end }}"
-               role="menuitem">{{ .Name }}</a>
-          {{ end }}
-        {{ else }}
-          {{ range .Site.Sections }}
-            <a href="{{ .RelPermalink }}" class="block px-3 py-2.5 text-base font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors" role="menuitem">{{ .Title }}</a>
-          {{ end }}
+        <p class="px-3 pt-2 pb-1 text-xs uppercase tracking-wider" style="color: rgba(255,253,248,0.4)">Topics</p>
+        {{ range .Site.Menus.main }}
+          {{ $isActive := or (eq $currentPage.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
+          <a href="{{ .URL }}"
+             class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors
+             {{ if $isActive }}text-accent-300 bg-white/5{{ else }}hover:bg-white/5{{ end }}"
+             role="menuitem">{{ .Name }}</a>
         {{ end }}
-
+        <p class="px-3 pt-3 pb-1 text-xs uppercase tracking-wider" style="color: rgba(255,253,248,0.4)">More</p>
+        {{ range .Site.Menus.secondary }}
+          <a href="{{ .URL }}" class="block px-3 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-white/5" role="menuitem">{{ .Name }}</a>
+        {{ end }}
       </div>
     </div>
   </div>

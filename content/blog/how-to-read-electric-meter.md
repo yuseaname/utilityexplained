@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "electric meter", "smart meter"]
 keywords: ["high electric bill", "kwh usage", "read electric meter", "smart meter accuracy"]
-image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.png"
+image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.webp"
 ---
 
 <h2 id="why">Why reading your meter is worth it</h2>

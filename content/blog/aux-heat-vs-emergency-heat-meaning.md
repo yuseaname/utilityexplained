@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["aux heat", "heat pump", "therms", "thermostat", "afue"]
 keywords: ["aux heat vs emergency heat", "heat pump savings", "therms", "thermostat settings", "hvac efficiency ratings"]
-image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_00001_.png"
+image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

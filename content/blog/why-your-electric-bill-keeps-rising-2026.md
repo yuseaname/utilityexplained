@@ -8,14 +8,14 @@ category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["solar", "kwh", "electric bill", "savings", "air conditioner"]
 keywords: ["solar payback", "kwh usage", "high electric bill", "lower utility bill", "ac not cooling"]
-image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_00001_.png"
+image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_00001_.webp"
 ---
 
 <h2 id="understanding-the-drivers-behind-rising">Understanding the Drivers Behind Rising Electric Bills in 2026</h2>
 <p>For many U.S. households, electric bills have become harder to predict—and harder to afford. In 2026, the average residential electricity rate stands at <strong>17.4¢ per kilowatt-hour (kWh)</strong>, up from 16.1¢ in 2025 and just 14.2¢ in 2020. That’s a <strong>22.5% increase in six years</strong>, translating to roughly <strong>$21 more per month</strong> for a typical 1,200 kWh household.</p>
           <p>This trend isn’t accidental. A combination of infrastructure upgrades, fuel price volatility, climate-driven grid modernization, and policy shifts are pushing rates upward. But understanding <em>why</em> your bill keeps rising is the first step toward managing it. This guide breaks down the key forces behind the 2026 rate hikes—and what you can do about them.</p>
           <figure>
-          <img src="/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_section-1_00003_.png" alt="why your electric bill keeps rising 2026 comparison" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_section-1_00003_.webp" alt="why your electric bill keeps rising 2026 comparison" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="infrastructure-modernization-and-grid-up">Infrastructure Modernization and Grid Upgrades</h2>
@@ -34,7 +34,7 @@ image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-elect
           </ul>
           <p>These costs are recovery-based: utilities must prove expenses to regulators before passing them along. Still, they add up. For a household using 1,000 kWh/month, a 6.2% T&D increase means an extra <strong>$52/year</strong> in fixed grid fees.</p>
           <figure>
-          <img src="/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_section-2_00003_.png" alt="why your electric bill keeps rising 2026 technology detail" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_section-2_00003_.webp" alt="why your electric bill keeps rising 2026 technology detail" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="fuel-price-volatility-and-energy-mix-shi">Fuel Price Volatility and Energy Mix Shifts</h2>

@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["ccf", "gallons", "water bill", "leak", "water meter"]
 keywords: ["ccf", "gallons of water", "high water bill", "water leak detection", "water meter reading"]
-image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.png"
+image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.webp"
 ---
 
 <h2 id="start-here">Start here: what CCF means on a water bill</h2>

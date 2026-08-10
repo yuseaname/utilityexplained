@@ -1,18 +1,19 @@
-{{/* Hero/Featured Image for article pages */}}
+{{/* Hero/Featured Image for article pages — responsive, CLS-safe */}}
 {{ with . }}
 {{ $image := .Params.image }}
 {{ if $image }}
-  <figure class="mb-6">
-    <img
-      src="{{ $image }}"
-      alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
-      class="w-full max-h-[420px] object-cover rounded-lg"
-      loading="lazy"
-      {{ with .Params.image_width }}width="{{ . }}"{{ end }}
-      {{ with .Params.image_height }}height="{{ . }}"{{ end }}
-    >
+  <figure class="hero-figure">
+    <div class="hero-figure-frame">
+      <img
+        src="{{ $image }}"
+        alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
+        class="hero-img"
+        width="1600" height="900"
+        loading="eager" fetchpriority="high" decoding="async"
+      >
+    </div>
     {{ with .Params.image_caption }}
-      <figcaption class="text-sm text-gray-500 mt-2 text-center">{{ . }}</figcaption>
+      <figcaption class="hero-caption">{{ . }}</figcaption>
     {{ end }}
   </figure>
 {{ end }}

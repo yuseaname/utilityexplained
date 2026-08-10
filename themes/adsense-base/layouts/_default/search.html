@@ -1,0 +1,148 @@
+{{ define "main" }}
+<div class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+
+  <div class="search-hero">
+    <h1>Search Utility Explained</h1>
+    <p style="color: var(--color-text-muted); margin-top: var(--space-2);">Find the guide for your bill question — search by topic, charge, or symptom.</p>
+
+    <div class="search-input-wrap">
+      <span class="search-input-icon">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+      </span>
+      <input type="text" id="search-input" class="search-input" placeholder="e.g. why is my bill high, what is CCF…" aria-label="Search guides" autofocus>
+    </div>
+
+    <div class="search-chips" id="search-chips">
+      <button class="search-chip" data-q="why is my electric bill so high">High electric bill</button>
+      <button class="search-chip" data-q="water meter">Water meter</button>
+      <button class="search-chip" data-q="delivery charge">Delivery charge</button>
+      <button class="search-chip" data-q="kwh">kWh</button>
+      <button class="search-chip" data-q="gas bill winter">Gas bill winter</button>
+      <button class="search-chip" data-q="lower my bill">Lower my bill</button>
+    </div>
+  </div>
+
+  <div class="search-results" id="search-results" aria-live="polite"></div>
+
+  <div id="search-empty" style="display:none; text-align:center; padding: var(--space-12) var(--space-4); color: var(--color-text-muted);">
+    <p style="font-family: var(--font-display); font-weight: 600; color: var(--color-neutral-800);">No matches found.</p>
+    <p style="margin-top: var(--space-2);">Try a different term, or browse by <a href="/electricity-explained/">electricity</a>, <a href="/gas-explained/">gas</a>, or <a href="/water-explained/">water</a>. Check the <a href="/utilities-glossary/">glossary</a> for definitions.</p>
+  </div>
+
+  {{/* Default state: show popular guides before a search */}}
+  <div id="search-default">
+    <div class="section-heading" style="max-width: 48rem; margin: var(--space-10) auto var(--space-6);">
+      <h2 style="font-size: var(--text-lg)">Popular Guides</h2>
+    </div>
+    <div class="search-results">
+      {{ range first 8 (where .Site.RegularPages "Section" "blog") }}
+        <a href="{{ .RelPermalink }}" class="search-result">
+          <div class="search-result-title">{{ .Title }}</div>
+          <div class="search-result-desc">{{ .Params.description | default (truncate 100 .Plain) }}</div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{/* Embedded search index */}}
+<script type="application/json" id="search-index">
+[
+{{- $pages := where .Site.RegularPages "Section" "blog" -}}
+{{- range $i, $p := $pages -}}
+  {{- if $i -}},{{- end -}}
+  {"title":{{ .Title | jsonify }},"desc":{{ (.Params.description | default (truncate 140 .Plain)) | jsonify }},"url":{{ .RelPermalink | jsonify }},"category":{{ (.Params.category | default "") | jsonify }}}
+{{- end -}}
+]
+</script>
+
+{{/* Fuse.js + search logic */}}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
+<script>
+(function () {
+  var idxEl = document.getElementById('search-index');
+  var input = document.getElementById('search-input');
+  var resultsEl = document.getElementById('search-results');
+  var emptyEl = document.getElementById('search-empty');
+  var defaultEl = document.getElementById('search-default');
+  var data = JSON.parse(idxEl.textContent);
+  var fuse = null;
+
+  function initFuse() {
+    if (fuse || typeof Fuse === 'undefined') return;
+    fuse = new Fuse(data, {
+      keys: [
+        { name: 'title', weight: 0.6 },
+        { name: 'desc', weight: 0.25 },
+        { name: 'category', weight: 0.15 }
+      ],
+      includeScore: true,
+      threshold: 0.4,
+      ignoreLocation: true,
+      minMatchCharLength: 2
+    });
+  }
+
+  function render(list) {
+    resultsEl.innerHTML = '';
+    if (!list.length) {
+      emptyEl.style.display = 'block';
+      return;
+    }
+    emptyEl.style.display = 'none';
+    var frag = document.createDocumentFragment();
+    list.forEach(function (item) {
+      var r = item.item;
+      var a = document.createElement('a');
+      a.href = r.url;
+      a.className = 'search-result';
+      var t = document.createElement('div');
+      t.className = 'search-result-title';
+      t.textContent = r.title;
+      var d = document.createElement('div');
+      d.className = 'search-result-desc';
+      d.textContent = r.desc;
+      a.appendChild(t);
+      a.appendChild(d);
+      frag.appendChild(a);
+    });
+    resultsEl.appendChild(frag);
+  }
+
+  function runSearch(q) {
+    initFuse();
+    if (!q || !q.trim()) {
+      resultsEl.innerHTML = '';
+      emptyEl.style.display = 'none';
+      defaultEl.style.display = 'block';
+      return;
+    }
+    defaultEl.style.display = 'none';
+    render(fuse ? fuse.search(q).slice(0, 12) : []);
+  }
+
+  if (input) {
+    var t;
+    input.addEventListener('input', function () {
+      clearTimeout(t);
+      var q = input.value;
+      t = setTimeout(function () { runSearch(q); }, 120);
+    });
+    // read ?q= from URL (e.g. from 404 form)
+    var urlQ = new URLSearchParams(window.location.search).get('q');
+    if (urlQ) { input.value = urlQ; runSearch(urlQ); }
+  }
+
+  var chips = document.querySelectorAll('.search-chip');
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      if (input) {
+        input.value = chip.getAttribute('data-q');
+        runSearch(chip.getAttribute('data-q'));
+        input.focus();
+      }
+    });
+  });
+})();
+</script>
+{{ end }}

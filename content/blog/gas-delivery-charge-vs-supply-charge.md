@@ -8,7 +8,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "delivery charge", "supply charge", "therms", "ccf"]
 keywords: ["high gas bill", "delivery charge", "supply charge", "therms", "ccf"]
-image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_00001_.png"
+image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

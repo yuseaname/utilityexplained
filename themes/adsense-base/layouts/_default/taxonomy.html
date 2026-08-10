@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+
+  {{ partial "breadcrumbs.html" . }}
+
+  <!-- Category hero band -->
+  {{ $iconMap := dict "Electricity" "i-electricity" "Gas" "i-gas" "Water" "i-water" "Fees" "i-fees" "Troubleshooting" "i-troubleshoot" "Budgeting" "i-budgeting" "Billing" "i-billing" "Costs" "i-fees" "Heating" "i-hvac" }}
+  {{ $icon := index $iconMap .Title | default "i-meter" }}
+  <div class="category-band">
+    <header class="flex items-center gap-4">
+      <svg class="w-12 h-12 flex-shrink-0" style="color: var(--color-accent-400)"><use href="#{{ $icon }}"></use></svg>
+      <h1 style="margin:0;">{{ .Title }}</h1>
+      {{ with .Params.description }}<p class="text-lg max-w-2xl">{{ . }}</p>{{ else }}
+      <p class="text-lg max-w-2xl" style="color: var(--color-primary-200)">Guides in the {{ .Title }} category — explained in plain English.</p>
+      {{ end }}
+      {{ $count := len .Pages }}
+      <div class="category-band-meta">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/></svg>
+        {{ $count }} guide{{ if ne $count 1 }}s{{ end }}
+      </div>
+    </header>
+  </div>
+
+  <!-- Articles Grid -->
+  <div class="section-grid">
+    {{ range .Pages }}
+      <article class="card">
+        <a href="{{ .RelPermalink }}" class="block">
+          {{ with .Params.image }}
+            <div class="overflow-hidden">
+              <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
+            </div>
+          {{ end }}
+          <div class="card-body">
+            <h2 class="card-title">{{ .Title }}</h2>
+            <p class="card-text">{{ .Params.description | default (truncate 110 .Plain) }}</p>
+            <div class="flex items-center justify-between mt-3">
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+              <span class="text-xs" style="color: var(--color-text-muted)">{{ .ReadingTime }} min read</span>
+            </div>
+          </div>
+        </a>
+      </article>
+    {{ end }}
+  </div>
+
+  <!-- Cross-link to related pillar -->
+  <div class="mt-12 text-center">
+    <a href="/blog/" class="section-heading-link">Browse all guides →</a>
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

@@ -8,7 +8,7 @@ category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["utility bill", "read your bill", "billing charges", "meter reading", "bill breakdown"]
 keywords: ["how to read your utility bill", "utility bill explained", "understand utility bill charges", "what do utility bill charges mean"]
-image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_00001_.png"
+image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_00001_.webp"
 ---
 
 <h2 id="why-understanding-your-utility-bill-matt">Why Understanding Your Utility Bill Matters</h2>
@@ -16,7 +16,7 @@ image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-
           <p>In 2026, average U.S. electricity rates hover around <strong>$0.167 per kilowatt-hour (kWh)</strong>, natural gas averages <strong>$1.20 per therm</strong>, and water costs roughly <strong>$2.50 per 1,000 gallons</strong>. But these numbers vary wildly by region, utility provider, and even your home’s age. Without knowing what each line on your bill means, you’re paying for services you may not need — or missing out on credits you’re owed.</p>
           <p>This guide walks you through every major section of a typical utility bill — from delivery charges to taxes — using real-world examples and clear explanations. You’ll learn how to compare your usage month-to-month, verify meter readings, and identify red flags like unexpected surcharges or billing errors.</p>
           <figure>
-          <img src="/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_section-1_00003_.png" alt="how to read your utility bill comparison" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_section-1_00003_.webp" alt="how to read your utility bill comparison" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="top-level-summary-the-first-page-at-a-gl">Top-Level Summary: The First Page at a Glance</h2>
@@ -38,7 +38,7 @@ image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-
           <p>Always compare this period’s charges to the same month last year. If natural gas usage is up 25% without changes to your habits, investigate — you may have a leak or inefficient appliance.</p>
           <p>Also check the <strong>meter read</strong> and <strong>estimated read</strong> indicators. If your bill says “E” next to the meter reading (e.g., “Meter Read: 45,720 <em>E</em>”), it means the utility estimated your usage rather than using an actual reading. Estimated bills often overstate consumption. Submit your own meter reading to your provider for correction.</p>
           <figure>
-          <img src="/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_section-2_00003_.png" alt="how to read your utility bill technology detail" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_section-2_00003_.webp" alt="how to read your utility bill technology detail" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="electricity-charges-a-line-by-line-break">Electricity Charges: A Line-by-Line Breakdown</h2>

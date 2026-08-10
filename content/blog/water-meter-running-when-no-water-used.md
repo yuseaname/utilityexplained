@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "therms"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "therms"]
-image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00001_.png"
+image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

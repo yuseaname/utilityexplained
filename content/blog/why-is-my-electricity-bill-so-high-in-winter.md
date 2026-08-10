@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "heat pump", "savings", "therms"]
 keywords: ["high electric bill", "kwh usage", "heat pump savings", "lower utility bill", "therms"]
-image: "/images/articles/why-is-my-electricity-bill-so-high-in-winter/why-is-my-electricity-bill-so-high-in-winter_hero_00001_.png"
+image: "/images/articles/why-is-my-electricity-bill-so-high-in-winter/why-is-my-electricity-bill-so-high-in-winter_hero_00001_.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

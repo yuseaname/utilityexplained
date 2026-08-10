@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "water meter", "water bill"]
 keywords: ["water leak detection", "water meter reading", "high water bill"]
-image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.png"
+image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp"
 ---
 
 <h2 id="problem">The problem: your bill jumped, but you cannot see where the water went</h2>

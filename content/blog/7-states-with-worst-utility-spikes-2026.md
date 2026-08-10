@@ -8,7 +8,7 @@ category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["kwh", "solar", "air conditioner", "electric bill", "therms"]
 keywords: ["kwh usage", "solar payback", "ac not cooling", "high electric bill", "therms"]
-image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_00001_.png"
+image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_00001_.webp"
 ---
 
 <h2 id="why-utility-costs-are-skyrocketing-in-20">Why Utility Costs Are Skyrocketing in 2026 — and Which States Are Hit Hardest</h2>
@@ -16,7 +16,7 @@ In 2026, American households are feeling the squeeze like never before. Energy p
           The average U.S. residential electricity rate rose 7.4% in 2026 — more than double the 2025 increase. Gas prices followed, though with more regional variation. What makes 2026 unique is the convergence of several cost drivers: post-pandemic demand surges, new federal climate mandates, and major grid upgrades funded through rate hikes. For consumers, this means higher bills — especially during peak seasons like summer, when air conditioning pushes demand to new highs.
           This guide identifies the seven states with the largest utility bill increases in 2026. We break down the causes, quantify the impact, and offer practical ways to manage the rise. Whether you’re in a state already struggling with affordability or just planning ahead, understanding *why* your bill jumped is the first step toward protecting your budget.
           <figure>
-          <img src="/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-1_00003_.png" alt="7 states with worst utility spikes 2026 comparison" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-1_00003_.webp" alt="7 states with worst utility spikes 2026 comparison" width="800" height="450" loading="lazy" />
           </figure>
 
 <h2 id="key-drivers-behind-the-2026-utility-spik">Key Drivers Behind the 2026 Utility Spikes</h2>
@@ -25,7 +25,7 @@ Several major forces converged in 2026 to push utility costs higher. First, grid
           Third, policy changes played a role. The Inflation Reduction Act’s implementation phase in 2026 triggered new renewable integration fees and transmission charges in several states. While these aim to lower long-term costs, the upfront recovery is steep. Finally, inflation remained elevated at 3.8% (BLS, December 2026), pressuring labor, materials, and fuel costs across the utility supply chain.
           These factors combined to produce some of the steepest utility rate hikes in over a decade — with the most painful effects concentrated in a few states. Below, we spotlight the seven with the largest increases, based on data from the U.S. Energy Information Administration (EIA), state public utility commissions, and utility filings.
           <figure>
-          <img src="/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-2_00003_.png" alt="7 states with worst utility spikes 2026 technology detail" width="800" height="450" loading="lazy" />
+          <img src="/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-2_00003_.webp" alt="7 states with worst utility spikes 2026 technology detail" width="800" height="450" loading="lazy" />
           </figure>
 
 <h3>1. California: +14.2% electricity, +9.1% gas</h3>

@@ -8,7 +8,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["customer charge", "therms", "gas bill", "delivery charge"]
 keywords: ["customer charge utility", "therms", "high gas bill", "delivery charge"]
-image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.png"
+image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.webp"
 ---
 
 <h2 id="problem">The problem: you used very little gas, but the bill still arrived</h2>

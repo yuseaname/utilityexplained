@@ -7,7 +7,7 @@ In 2026, American households are feeling the squeeze like never before. Energy p
  The average U.S. residential electricity rate rose 7.4% in 2026 — more than double the 2025 increase. Gas prices followed, though with more regional variation. What makes 2026 unique is the convergence of several cost drivers: post-pandemic demand surges, new federal climate mandates, and major grid upgrades funded through rate hikes. For consumers, this means higher bills — especially during peak seasons like summer, when air conditioning pushes demand to new highs.
  This guide identifies the seven states with the largest utility bill increases in 2026. We break down the causes, quantify the impact, and offer practical ways to manage the rise. Whether you’re in a state already struggling with affordability or just planning ahead, understanding *why* your bill jumped is the first step toward protecting your budget.
  &lt;figure>
- &lt;img src="https://utilityexplained.com/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-1_00003_.png" alt="7 states with worst utility spikes 2026 comparison" width="800" height="450" loading="lazy" />
+ &lt;img src="https://utilityexplained.com/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-1_00003_.webp" alt="7 states with worst utility spikes 2026 comparison" width="800" height="450" loading="lazy" />
  &lt;/figure>
 &lt;h2 id="key-drivers-behind-the-2026-utility-spik">Key Drivers Behind the 2026 Utility Spikes&lt;/h2>
 Several major forces converged in 2026 to push utility costs higher. First, grid modernization efforts — long delayed — finally kicked into high gear. Utilities across the country spent billions upgrading transmission lines, substations, and distribution networks after years of underinvestment. These projects, while necessary for reliability and clean energy integration, are being recovered through higher customer rates over time.
@@ -15,7 +15,7 @@ Several major forces converged in 2026 to push utility costs higher. First, grid
  Third, policy changes played a role. The Inflation Reduction Act’s implementation phase in 2026 triggered new renewable integration fees and transmission charges in several states. While these aim to lower long-term costs, the upfront recovery is steep. Finally, inflation remained elevated at 3.8% (BLS, December 2026), pressuring labor, materials, and fuel costs across the utility supply chain.
  These factors combined to produce some of the steepest utility rate hikes in over a decade — with the most painful effects concentrated in a few states. Below, we spotlight the seven with the largest increases, based on data from the U.S. Energy Information Administration (EIA), state public utility commissions, and utility filings.
  &lt;figure>
- &lt;img src="https://utilityexplained.com/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-2_00003_.png" alt="7 states with worst utility spikes 2026 technology detail" width="800" height="450" loading="lazy" />
+ &lt;img src="https://utilityexplained.com/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_section-2_00003_.webp" alt="7 states with worst utility spikes 2026 technology detail" width="800" height="450" loading="lazy" />
  &lt;/figure>
 &lt;h3>1. California: +14.2% electricity, +9.1% gas&lt;/h3>
  California led the nation in 2026 utility cost increases. Its electricity rate rose from 32.6¢/kWh in 2025 to 37.3¢/kWh — the highest in the country. The spike was driven by three main factors: the phaseout of legacy solar net metering (replaced with NEM 3.0), new grid resilience charges, and soaring summer cooling demand. PG&amp;E alone collected $2.1 billion in additional rate revenue in 2026 for transmission upgrades.
@@ -1041,30 +1041,44 @@ While you can’t stop utility rate hikes, you *can* manage their impact. Here a
  In most homes, a sudden spike is rarely one big mistake. It is
  several small changes adding up quietly. Once you know where to look,
  the mystery makes sense -- and you can take control.
- &lt;/p></description></item><item><title>About</title><link>https://utilityexplained.com/about/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/about/</guid><description>&lt;h2>About Utility Explained&lt;/h2>
-&lt;p>
-We started Utility Explained because utility bills shouldn't require a
-translator. If you've ever stared at a bill wondering what you're actually
-paying for, you're in the right place.
-&lt;/p>
-&lt;p>
-This site is for renters, first-time homeowners, and anyone who wants to
-understand electricity, gas, and water costs without the jargon.
-&lt;/p>
-&lt;p>
-We focus on clear definitions, simple examples, and real-world ranges instead
-of sales language. We do not sell products or services. If we ever mention a
-service or provider, it is strictly for educational context.
-&lt;/p></description></item><item><title>Contact</title><link>https://utilityexplained.com/contact/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/contact/</guid><description>&lt;h1>Contact&lt;/h1>
-&lt;p>
-Have a question about a utility bill topic? Send a note and we will consider
-it for a future guide. This form is informational only and does not create a
-customer support relationship with any utility provider.
-&lt;/p>
-&lt;p>
-Submitting the form opens your email app so you can send the message directly
-to {contactEmail}.
-&lt;/p></description></item><item><title>Disclaimer</title><link>https://utilityexplained.com/disclaimer/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/disclaimer/</guid><description>&lt;h1>Disclaimer&lt;/h1>
+ &lt;/p></description></item><item><title>About</title><link>https://utilityexplained.com/about/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/about/</guid><description>&lt;h1 id="about-utility-explained">About Utility Explained&lt;/h1>
+&lt;p>Utility bills shouldn&amp;rsquo;t require a translator. If you&amp;rsquo;ve ever stared at a bill wondering what you&amp;rsquo;re actually paying for, you&amp;rsquo;re exactly who we write for.&lt;/p>
+&lt;h2 id="our-mission">Our mission&lt;/h2>
+&lt;p>We translate electricity, gas, and water bills into decisions you can actually make — line by line, charge by charge — so you stop overpaying and start understanding.&lt;/p>
+&lt;h2 id="who-its-for">Who it&amp;rsquo;s for&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Renters&lt;/strong> setting up utilities for the first time&lt;/li>
+&lt;li>&lt;strong>First-time homeowners&lt;/strong> learning what every line item means&lt;/li>
+&lt;li>&lt;strong>Anyone&lt;/strong> who opened a bill this month and thought, &lt;em>&amp;ldquo;why is this so high?&amp;rdquo;&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-do">What we do&lt;/h2>
+&lt;p>We publish plain-English explainers that decode every part of a utility bill: the usage charges, the delivery fees, the taxes and surcharges, the spikes, and the fixes. We use real cost ranges, show the math, and link related guides so you can follow a question all the way to an answer.&lt;/p></description></item><item><title>Contact</title><link>https://utilityexplained.com/contact/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/contact/</guid><description>&lt;h1 id="contact-utility-explained">Contact Utility Explained&lt;/h1>
+&lt;p>Have a utility-bill question we haven&amp;rsquo;t answered? Found an error? Want to suggest a topic? We read every message.&lt;/p>
+&lt;h2 id="before-you-reach-out">Before you reach out&lt;/h2>
+&lt;p>We may already have your answer:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Searching for a term?&lt;/strong> Check the &lt;a href="https://utilityexplained.com/utilities-glossary/">glossary&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>Looking for a specific guide?&lt;/strong> &lt;a href="https://utilityexplained.com/search/">Search all guides&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>Found a wrong number?&lt;/strong> See our &lt;a href="https://utilityexplained.com/corrections/">corrections policy&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="send-us-a-message">Send us a message&lt;/h2>
+&lt;p>The quickest way to reach us is by email. Your email app will open with our address pre-filled:&lt;/p></description></item><item><title>Corrections Policy</title><link>https://utilityexplained.com/corrections/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/corrections/</guid><description>&lt;h1 id="corrections-policy">Corrections Policy&lt;/h1>
+&lt;p>Accuracy matters when the topic is your money. If we get something wrong, we want to fix it — fast and visibly.&lt;/p>
+&lt;h2 id="how-to-report-an-error">How to report an error&lt;/h2>
+&lt;p>If you spot an inaccuracy — a wrong figure, a misleading explanation, an outdated rate — please &lt;a href="https://utilityexplained.com/contact/">contact us&lt;/a> with the guide title and the specific issue. The more detail you provide, the faster we can verify and correct it.&lt;/p>
+&lt;h2 id="what-happens-next">What happens next&lt;/h2>
+&lt;ol>
+&lt;li>We review the claim against our &lt;a href="https://utilityexplained.com/methodology/">sources and methodology&lt;/a>.&lt;/li>
+&lt;li>If the content is wrong, we correct it promptly.&lt;/li>
+&lt;li>Where a figure was materially off, we update the &amp;ldquo;Updated&amp;rdquo; date so the change is visible.&lt;/li>
+&lt;li>For significant corrections, we note what changed so readers aren&amp;rsquo;t confused by a silent edit.&lt;/li>
+&lt;/ol>
+&lt;h2 id="updates-vs-corrections">Updates vs. corrections&lt;/h2>
+&lt;ul>
+&lt;li>A &lt;strong>correction&lt;/strong> fixes something that was inaccurate.&lt;/li>
+&lt;li>An &lt;strong>update&lt;/strong> refreshes a figure or rate to keep it current (e.g., new average prices). Updates carry an &amp;ldquo;Updated&amp;rdquo; timestamp.&lt;/li>
+&lt;/ul>
+&lt;p>Both are part of keeping the guides trustworthy. See our &lt;a href="https://utilityexplained.com/editorial-policy/">editorial policy&lt;/a> for how we maintain content over time.&lt;/p></description></item><item><title>Disclaimer</title><link>https://utilityexplained.com/disclaimer/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/disclaimer/</guid><description>&lt;h1>Disclaimer&lt;/h1>
 &lt;p>
 Utility Explained is an informational resource. We do not provide
 financial, legal, or professional advice. Use the information on this site
@@ -1078,7 +1092,27 @@ details with your local utility or service provider before making decisions.
 We make reasonable efforts to keep content accurate, but we cannot guarantee
 it is complete or up to date. If you notice an error, contact us so we can
 review and improve the information.
-&lt;/p></description></item><item><title>Electricity Explained: Complete Guide to Understanding Your Electric Service</title><link>https://utilityexplained.com/electricity-explained/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/electricity-explained/</guid><description>&lt;h2>What is electricity and how does it reach your home?&lt;/h2>
+&lt;/p></description></item><item><title>Editorial Policy</title><link>https://utilityexplained.com/editorial-policy/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/editorial-policy/</guid><description>&lt;h1 id="editorial-policy">Editorial Policy&lt;/h1>
+&lt;p>This page explains how Utility Explained creates and maintains its content. Our goal is simple: every guide should help a real person understand and act on a utility-bill question.&lt;/p>
+&lt;h2 id="what-we-cover">What we cover&lt;/h2>
+&lt;p>Plain-English explainers on electricity, gas, and water bills — how to read them, why they change, what every charge means, and how to lower them. We focus on the &lt;strong>informational and problem-solving&lt;/strong> questions bill-payers actually have.&lt;/p></description></item><item><title>Editorial Team</title><link>https://utilityexplained.com/editorial-team/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/editorial-team/</guid><description>&lt;h1 id="whos-behind-utility-explained">Who&amp;rsquo;s Behind Utility Explained&lt;/h1>
+&lt;p>Utility Explained is researched, written, and reviewed by a small editorial team that specializes in &lt;strong>household utility billing&lt;/strong> — electricity, gas, and water. We are not affiliated with any utility company, energy provider, or product manufacturer.&lt;/p>
+&lt;h2 id="how-we-work">How we work&lt;/h2>
+&lt;p>Every guide follows the same process:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Research.&lt;/strong> We start from the question a real bill-payer asks — &lt;em>&amp;ldquo;why did my bill jump?&amp;rdquo;&lt;/em>, &lt;em>&amp;ldquo;what is a CCF?&amp;rdquo;&lt;/em> — and trace it back to the line items and rates that cause it.&lt;/li>
+&lt;li>&lt;strong>Explain in plain English.&lt;/strong> We define every term on first use and link it to our &lt;a href="https://utilityexplained.com/utilities-glossary/">glossary&lt;/a>. No jargon survives without a definition.&lt;/li>
+&lt;li>&lt;strong>Use real ranges.&lt;/strong> Where costs appear, we use typical U.S. figures and label them as estimates, not guarantees. See our &lt;a href="https://utilityexplained.com/methodology/">methodology&lt;/a> for how we source them.&lt;/li>
+&lt;li>&lt;strong>Review.&lt;/strong> Each guide is checked for accuracy, clarity, and completeness before publishing, and revisited to keep figures current.&lt;/li>
+&lt;/ol>
+&lt;h2 id="our-standards">Our standards&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>No sales agenda.&lt;/strong> We do not sell products, recommend providers for commission, or take referral fees. If we ever reference a service, it is for educational context only.&lt;/li>
+&lt;li>&lt;strong>Neutral and factual.&lt;/strong> Content stays objective so it remains useful and compliant with advertising policies.&lt;/li>
+&lt;li>&lt;strong>Plain-English first.&lt;/strong> If a sentence requires a utility industry background to understand, we rewrite it.&lt;/li>
+&lt;/ul>
+&lt;h2 id="corrections-and-updates">Corrections and updates&lt;/h2>
+&lt;p>Mistakes happen. When they do, we correct them promptly and visibly. If you spot an error, &lt;a href="https://utilityexplained.com/contact/">tell us&lt;/a>. See our &lt;a href="https://utilityexplained.com/corrections/">corrections policy&lt;/a>.&lt;/p></description></item><item><title>Electricity Explained: Complete Guide to Understanding Your Electric Service</title><link>https://utilityexplained.com/electricity-explained/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/electricity-explained/</guid><description>&lt;h2>What is electricity and how does it reach your home?&lt;/h2>
 &lt;p>
 Electricity is the flow of electrical energy through wires. Power plants generate electricity using coal, natural gas, nuclear energy, or renewable sources like wind and solar. That electricity travels through high-voltage transmission lines to substations, then through distribution lines to your neighborhood, and finally through a service line to your home.
 &lt;/p>
@@ -1096,7 +1130,17 @@ Heating systems burn fuel (gas, oil) or use electricity to create warmth. Furnac
 &lt;/p>
 &lt;p>
 Cooling systems remove heat from indoor air and transfer it outside. Central air conditioners use refrigerant to absorb heat indoors and release it outdoors. The cooled air is distributed through ducts. Window units and ductless mini-splits work similarly but serve smaller areas.
-&lt;/p></description></item><item><title>Privacy Policy</title><link>https://utilityexplained.com/privacy-policy/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/privacy-policy/</guid><description>&lt;h1>Privacy Policy&lt;/h1>
+&lt;/p></description></item><item><title>Methodology</title><link>https://utilityexplained.com/methodology/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/methodology/</guid><description>&lt;h1 id="methodology-how-we-get-our-numbers">Methodology: How We Get Our Numbers&lt;/h1>
+&lt;p>Utility Explained uses real-world ranges — not exact figures — because utility costs vary by region, provider, climate, season, and household. This page explains how we arrive at the numbers you see across our guides.&lt;/p>
+&lt;h2 id="our-sources">Our sources&lt;/h2>
+&lt;p>Where possible, cost and usage figures are grounded in publicly available, authoritative references, including:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>U.S. Energy Information Administration (EIA)&lt;/strong> — average retail electricity and gas prices by state.&lt;/li>
+&lt;li>&lt;strong>U.S. Department of Energy (DOE) / ENERGY STAR&lt;/strong> — typical appliance energy consumption.&lt;/li>
+&lt;li>&lt;strong>Provider tariffs and rate schedules&lt;/strong> — published customer charges, delivery fees, and rate structures.&lt;/li>
+&lt;li>&lt;strong>Water and sewer utility rate disclosures&lt;/strong> — published CCF rates and fixed service charges.&lt;/li>
+&lt;/ul>
+&lt;p>When a figure is a general rule of thumb rather than a sourced average, we label it clearly.&lt;/p></description></item><item><title>Privacy Policy</title><link>https://utilityexplained.com/privacy-policy/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/privacy-policy/</guid><description>&lt;h1>Privacy Policy&lt;/h1>
 &lt;p>
 Utility Explained is an informational website. We do not require user
 accounts and we do not sell personal information.
@@ -1111,7 +1155,7 @@ content. We do not share it with third parties for marketing.
 &lt;p>
 We may use basic analytics to understand which pages are helpful. Analytics
 data is aggregated and does not identify individual visitors.
-&lt;/p></description></item><item><title>Terms of Service</title><link>https://utilityexplained.com/terms/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/terms/</guid><description>&lt;h1>Terms of Service&lt;/h1>
+&lt;/p></description></item><item><title>Search</title><link>https://utilityexplained.com/search/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/search/</guid><description/></item><item><title>Terms of Service</title><link>https://utilityexplained.com/terms/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/terms/</guid><description>&lt;h1>Terms of Service&lt;/h1>
 &lt;p>
 Utility Explained provides informational content only. By using this
 site, you agree that the content is provided "as is" without warranties of
