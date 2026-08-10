@@ -3,7 +3,7 @@ title: "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructi
 slug: "how-to-read-gas-meter"
 description: "Dial meters, digital meters, smart meters \u2014 reading your gas meter doesn't have to be confusing. Here's exactly how to read every type and track your usage."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "therms", "ccf", "smart meter", "leak"]

@@ -1,0 +1,70 @@
+{
+  "competitors": [
+    {
+      "competitor": "SaveOnEnergy.com",
+      "domain_authority_estimate": 60,
+      "estimated_indexed_pages": 50000,
+      "top_content_categories": ["Energy Plans", "Rate Comparison", "Deregulated Markets"],
+      "content_gaps_we_can_exploit": ["Plain-language bill explanations", "Line-item charge breakdowns", "Water and sewer bills", "Meter reading guides"],
+      "their_strengths": ["Plan comparison tools", "Marketplace traffic", "Brand recognition"],
+      "their_weaknesses": ["Sales-focused not educational", "Only deregulated states", "No water/gas bill help", "No troubleshooting content"],
+      "keywords_they_rank_for_that_we_dont": ["cheap electricity rates", "compare energy plans", "deregulated energy states", "switch electricity provider", "best electricity rates"]
+    },
+    {
+      "competitor": "ChooseEnergy.com",
+      "domain_authority_estimate": 55,
+      "estimated_indexed_pages": 35000,
+      "top_content_categories": ["Energy Marketplace", "Plan Comparison", "Green Energy"],
+      "content_gaps_we_can_exploit": ["Bill literacy and education", "Low-income assistance programs", "Utility complaint processes", "Understanding rate structures"],
+      "their_strengths": ["Strong affiliate network", "Comparison tools", "Multi-state marketplace"],
+      "their_weaknesses": ["Pure sales funnel", "No educational content", "No help with existing utility problems", "No coverage of regulated states"],
+      "keywords_they_rank_for_that_we_dont": ["energy plans near me", "electricity providers", "compare electric rates", "green energy plans", "fixed vs variable electricity"]
+    },
+    {
+      "competitor": "EnergySage.com",
+      "domain_authority_estimate": 70,
+      "estimated_indexed_pages": 100000,
+      "top_content_categories": ["Solar Marketplace", "Solar Panel Reviews", "Heat Pumps", "EV Charging"],
+      "content_gaps_we_can_exploit": ["Basic utility bill reading", "Gas and water billing", "Low-income assistance", "Utility troubleshooting", "Rate structure education"],
+      "their_strengths": ["Solar marketplace dominance", "Strong review content", "Financing options", "Contractor network"],
+      "their_weaknesses": ["Solar/greentech focus only", "No utility bill basics", "No help for non-solar customers", "No traditional utility coverage"],
+      "keywords_they_rank_for_that_we_dont": ["solar panel cost", "solar tax credit", "best solar panels", "heat pump cost", "solar installation"]
+    }
+  ],
+  "moat_strategy": {
+    "priority_gaps_to_close": [
+      {"keyword": "liheap eligibility", "effort": "medium", "impact": "critical"},
+      {"keyword": "net metering by state", "effort": "high", "impact": "high"},
+      {"keyword": "how to lower electric bill", "effort": "medium", "impact": "critical"},
+      {"keyword": "utility assistance programs", "effort": "medium", "impact": "critical"},
+      {"keyword": "ev charging cost", "effort": "low", "impact": "high"},
+      {"keyword": "utility deregulation", "effort": "high", "impact": "high"},
+      {"keyword": "smart thermostat savings", "effort": "low", "impact": "medium"},
+      {"keyword": "energy audit cost", "effort": "low", "impact": "medium"},
+      {"keyword": "demand response program", "effort": "medium", "impact": "medium"},
+      {"keyword": "community solar", "effort": "medium", "impact": "high"},
+      {"keyword": "utility shut-off rights", "effort": "medium", "impact": "high"},
+      {"keyword": "propane vs electric heating", "effort": "medium", "impact": "medium"},
+      {"keyword": "weatherization assistance", "effort": "low", "impact": "high"},
+      {"keyword": "prepaid electricity", "effort": "low", "impact": "medium"},
+      {"keyword": "phantom load cost", "effort": "low", "impact": "medium"},
+      {"keyword": "medical baseline allowance", "effort": "low", "impact": "medium"},
+      {"keyword": "utility rate comparison", "effort": "medium", "impact": "high"},
+      {"keyword": "time-of-use optimization", "effort": "low", "impact": "high"},
+      {"keyword": "oil heating costs", "effort": "low", "impact": "medium"},
+      {"keyword": "heat pump water heater", "effort": "medium", "impact": "medium"}
+    ],
+    "blue_ocean_topics": [
+      "Interactive utility bill decoder tool",
+      "State-by-state utility charge comparison database",
+      "Utility bill error checker calculator",
+      "Phantom load cost calculator by device",
+      "Time-of-use rate optimizer tool",
+      "Utility assistance program directory by state",
+      "Utility scam identification checklist",
+      "Home energy audit DIY scoring system",
+      "EV charging cost calculator by state",
+      "Utility rate lock vs variable comparison tool"
+    ]
+  }
+}

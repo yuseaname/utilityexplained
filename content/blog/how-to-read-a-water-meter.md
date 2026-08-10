@@ -3,7 +3,7 @@ title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
 description: "A step-by-step guide to reading your home water meter and checking for leaks."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
@@ -201,6 +201,28 @@ The utility may have used a usage average when a reader could not access the met
 Many meters are outside, but some homes have an indoor or remote display. Check with your utility to see if a remote display is available.
 
 {{< /faq >}}
+
+
+## Water Meter Types Comparison
+
+| Feature | Analog (Dial) | Digital | Smart Meter |
+|---------|:---:|:---:|:---:|
+| Display | Rotating dials | LCD number | Auto-read |
+| Reading method | Left to right | Direct read | Utility reads remotely |
+| Leak indicator | Small triangle/dial | Flashing icon | App alert |
+| Accuracy | ±2% | ±0.5% | ±0.2% |
+| Units | Gallons or CCF | Gallons or CCF | Configurable |
+
+### Meter Reading Calculation Example
+
+| Reading | Value | Calculation |
+|---------|-------|-------------|
+| Previous reading | 4,523 CCF | From last bill |
+| Current reading | 4,531 CCF | Read today |
+| Usage | 8 CCF | 4,531 - 4,523 |
+| × 748 | 5,984 gallons | 8 × 748 |
+| × $4.25/CCF | $34.00 | 8 × $4.25 |
+
 
 {{< faq-schema >}}
 

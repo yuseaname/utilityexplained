@@ -3,17 +3,17 @@ title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
 keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
-image: "/images/utility-electricity.jpg"
+image: "/images/utility-home.jpg"
 ---
 
 Last month's electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
 
-<img src="https://images.unsplash.com/photo-1554224155-8d04-dd8c8b2bf49c?w=1200&h=630&fit=crop&q=80" alt="Person reviewing a surprisingly high electricity bill at the kitchen counter" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Person reviewing a surprisingly high electricity bill at the kitchen counter" width="1200" height="630" loading="lazy" />
 
 ## Quick Answer: Why Did My Bill Spike?
 
@@ -245,27 +245,27 @@ For 25 actionable strategies ranked by savings — from free quick wins to long-
 
 ## Frequently Asked Questions
 
-**Why did my electric bill double with no change in usage?**
-
+{{< faq "Why did my electric bill double with no change in usage?" >}}
 The most common causes are a rate increase, a longer billing period, an estimated meter reading that was corrected upward, or an HVAC system that is malfunctioning and drawing more power than normal. Check the rate, billing period, and reading type on your bill first, then investigate HVAC and appliance issues. For a look at gradual increases rather than sudden spikes, see [why your utility bill is higher with the same usage](/blog/15-why-utility-bill-higher-same-usage/).
+{{< /faq >}}
 
-**How do I know if my electric meter is broken?**
-
+{{< faq "How do I know if my electric meter is broken?" >}}
 The most reliable test is to record your meter reading daily for one week and calculate your daily usage. Compare this to your billed daily usage. If your recorded daily usage is consistently and significantly lower than what the utility is billing, request a meter test. Most utilities will test your meter for free.
+{{< /faq >}}
 
-**Can an estimated reading cause a bill spike?**
-
+{{< faq "Can an estimated reading cause a bill spike?" >}}
 Yes. If the previous month's reading was underestimated, the current month will include a "true-up" that adds the under-billed amount to your current bill, creating an apparent spike. Check for "EST" or "Estimated" on your bill and compare previous readings.
+{{< /faq >}}
 
-**What appliance causes the biggest unexpected electricity spike?**
-
+{{< faq "What appliance causes the biggest unexpected electricity spike?" >}}
 HVAC system malfunctions are the most common cause of large usage spikes. A heat pump running on emergency electric heat, an AC with a refrigerant leak, or a furnace with a failed component can double or triple your electricity consumption. Water heater issues and malfunctioning pool pumps are the next most common causes.
+{{< /faq >}}
 
-**How do I dispute an incorrect electric bill?**
-
+{{< faq "How do I dispute an incorrect electric bill?" >}}
 Contact your utility in writing describing the error and requesting an investigation. Request a meter test and account audit. If the utility does not resolve the issue to your satisfaction, file a formal complaint with your state public utility commission. Keep records of all communication, meter readings, and bills throughout the process.
+{{< /faq >}}
 
----
+{{< faq-schema >}}
 
 *Related Reading:*
 - [How to Lower Your Utility Bills: 25 Proven Ways](/blog/05-how-to-lower-utility-bills/)

@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "01-how-to-read-your-electric-bill",
+    "current_title": "How to Read Your Electric Bill (Line by Line Guide)",
+    "variant_a_title": "Electric Bill Explained: Every Charge in Plain English (2026)",
+    "variant_b_title": "How to Read Your Electric Bill: 15 Charges Decoded",
+    "current_description": "",
+    "variant_a_description": "Your electric bill decoded: every line item, fee, and charge explained in simple terms with real examples.",
+    "variant_b_description": "Stop guessing at your electric bill. Here's what all 15 charges mean and how to spot errors.",
+    "hypothesis": "Clarity promise with year vs Numbered listicle angle"
+  },
+  {
+    "slug": "03-why-is-my-electric-bill-so-high",
+    "current_title": "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them",
+    "variant_a_title": "Why Is My Electric Bill So High in 2026? 15 Surprising Causes",
+    "variant_b_title": "Electric Bill Suddenly High? 12 Causes and Fast Fixes",
+    "current_description": "",
+    "variant_a_description": "Electric bill spike? Discover 15 common causes and proven solutions to lower your monthly costs.",
+    "variant_b_description": "Sudden high electric bill? Learn the 12 most common causes and how to fix each one fast.",
+    "hypothesis": "Year relevance vs urgency/emergency framing"
+  },
+  {
+    "slug": "05-how-to-lower-utility-bills",
+    "current_title": "How to Lower Your Utility Bills",
+    "variant_a_title": "How to Lower Utility Bills: 21 Proven Ways to Save $200/Month",
+    "variant_b_title": "Utility Bill Too High? 10 Ways to Cut Costs Today",
+    "current_description": "",
+    "variant_a_description": "Save money on utilities with 21 proven strategies that can reduce your monthly bills by $200 or more.",
+    "variant_b_description": "High utility bills? Cut costs today with these 10 practical tips that work immediately.",
+    "hypothesis": "Specific dollar savings vs immediate action promise"
+  },
+  {
+    "slug": "04-hidden-fees-utility-bill",
+    "current_title": "Hidden Fees on Your Utility Bill",
+    "variant_a_title": "Hidden Fees on Your Utility Bill: 12 Charges You're Overpaying",
+    "variant_b_title": "Utility Bill Fees Explained: Stop Paying These Hidden Costs",
+    "current_description": "",
+    "variant_a_description": "Discover 12 hidden utility bill fees that silently inflate your costs and how to eliminate them.",
+    "variant_b_description": "Utility bills have hidden fees. Learn what they are, why they exist, and how to avoid overpaying.",
+    "hypothesis": "Numbered overpayment focus vs educational prevention"
+  },
+  {
+    "slug": "02-average-utility-costs-2026",
+    "current_title": "Average Utility Costs in 2026: Complete Breakdown",
+    "variant_a_title": "Average Utility Bills in 2026: What You Should Actually Pay",
+    "variant_b_title": "2026 Utility Costs by State: Is Your Bill Too High?",
+    "current_description": "",
+    "variant_a_description": "What's the average utility bill in 2026? Complete breakdown of electricity, gas, and water costs.",
+    "variant_b_description": "Compare your utility bills to 2026 state averages. Find out if you're paying too much.",
+    "hypothesis": "Expectation setting vs comparison/benchmarking"
+  },
+  {
+    "slug": "06-water-bill-too-high",
+    "current_title": "Water Bill Too High?",
+    "variant_a_title": "Water Bill Too High? 10 Hidden Leaks Costing You Money",
+    "variant_b_title": "Why Is My Water Bill So High? 8 Common Causes",
+    "current_description": "",
+    "variant_a_description": "High water bill? Discover 10 hidden leaks that could be silently costing you hundreds.",
+    "variant_b_description": "Water bill spike? Learn the 8 most common causes and how to fix each one.",
+    "hypothesis": "Specific leak focus vs general causes"
+  },
+  {
+    "slug": "07-gas-bill-too-high",
+    "current_title": "Gas Bill Too High?",
+    "variant_a_title": "Gas Bill Too High? 12 Reasons and Quick Fixes",
+    "variant_b_title": "Why Is My Gas Bill So High This Month? Common Causes",
+    "current_description": "",
+    "variant_a_description": "Gas bill spike? Discover 12 common causes and proven fixes to lower your monthly heating costs.",
+    "variant_b_description": "Sudden high gas bill? Learn the most common causes and what you can do about them.",
+    "hypothesis": "Numbered solutions vs urgency/timing focus"
+  },
+  {
+    "slug": "08-time-of-use-electricity",
+    "current_title": "Time-of-Use Electricity Rates",
+    "variant_a_title": "Time-of-Use Electricity Rates: Save $50/Month by Shifting Usage",
+    "variant_b_title": "What Are Time-of-Use Rates? Complete Guide (2026)",
+    "current_description": "",
+    "variant_a_description": "TOU rates can save or cost you money. Learn optimal usage times to cut your electric bill by $50 monthly.",
+    "variant_b_description": "Everything you need to know about time-of-use electricity rates: how they work, peak hours, and savings strategies.",
+    "hypothesis": "Specific savings promise vs educational guide"
+  },
+  {
+    "slug": "11-understanding-kwh-usage",
+    "current_title": "Understanding kWh Usage",
+    "variant_a_title": "Understanding kWh: How Your Electric Usage Becomes Your Bill",
+    "variant_b_title": "What Is kWh? Simple Explanation for Non-Technical Readers",
+    "current_description": "",
+    "variant_a_description": "Kilowatt-hours determine your electric bill. Learn how usage translates to costs with real examples.",
+    "variant_b_description": "Confused by kWh? Here's a simple, jargon-free explanation of how electricity usage is measured and billed.",
+    "hypothesis": "Bill connection vs accessibility promise"
+  },
+  {
+    "slug": "what-is-a-kilowatt-hour",
+    "current_title": "What Is a Kilowatt-Hour?",
+    "variant_a_title": "What Is a Kilowatt-Hour? The Simple Explanation (2026)",
+    "variant_b_title": "Kilowatt-Hour Explained: How Utilities Calculate Your Bill",
+    "current_description": "",
+    "variant_a_description": "Finally understand what a kWh means and how it affects your electric bill with simple examples.",
+    "variant_b_description": "Learn how utilities use kilowatt-hours to calculate your electric bill and what you're actually paying for.",
+    "hypothesis": "Year freshness vs practical calculation focus"
+  },
+  {
+    "slug": "how-to-lower-electric-bill-without-solar",
+    "current_title": "How to Lower Your Electric Bill Without Solar",
+    "variant_a_title": "How to Lower Your Electric Bill Without Solar (20 Expert Tips)",
+    "variant_b_title": "Cut Electric Bills Without Solar: 15 No-Cost Strategies",
+    "current_description": "",
+    "variant_a_description": "Lower your electric bill without solar panels. 20 expert strategies that work in any home.",
+    "variant_b_description": "No solar needed. Here are 15 free ways to cut your electric bill starting today.",
+    "hypothesis": "Expert authority vs zero-cost emphasis"
+  },
+  {
+    "slug": "average-utility-bills-by-state-2026",
+    "current_title": "Average Utility Bills by State 2026",
+    "variant_a_title": "Average Utility Bills by State (2026): Full Ranking",
+    "variant_b_title": "Utility Costs by State: Find Your State's Average Bill",
+    "current_description": "",
+    "variant_a_description": "Complete 2026 ranking of average utility bills by state. See where your state ranks.",
+    "variant_b_description": "Find your state's average utility bill and compare to national averages. Updated for 2026.",
+    "hypothesis": "Comprehensive ranking vs personalized lookup"
+  },
+  {
+    "slug": "how-do-smart-meters-work",
+    "current_title": "How Do Smart Meters Work?",
+    "variant_a_title": "How Do Smart Meters Work? Benefits, Drawbacks, and Privacy",
+    "variant_b_title": "Smart Meters Explained: Are They Worth It in 2026?",
+    "current_description": "",
+    "variant_a_description": "Smart meters explained: how they work, the benefits, potential drawbacks, and privacy concerns.",
+    "variant_b_description": "Are smart meters worth it? Learn how they work and decide if upgrading makes sense for you.",
+    "hypothesis": "Comprehensive pros/cons vs decision-focused question"
+  },
+  {
+    "slug": "why-is-my-electricity-bill-so-high-in-summer",
+    "current_title": "Why Is My Electricity Bill So High in Summer?",
+    "variant_a_title": "Why Is My Electric Bill So High in Summer? 8 AC-Related Causes",
+    "variant_b_title": "Summer Electric Bill Spiking? 10 Ways to Cool Your Costs",
+    "current_description": "",
+    "variant_a_description": "Summer electric bill skyrocketing? Discover 8 AC-related causes and how to fix them.",
+    "variant_b_description": "Electric bill spiking in summer? Here are 10 proven ways to keep your home cool for less.",
+    "hypothesis": "Specific AC causes vs actionable solutions"
+  },
+  {
+    "slug": "why-is-my-electricity-bill-so-high-in-winter",
+    "current_title": "Why Is My Electricity Bill So High in Winter?",
+    "variant_a_title": "Why Is My Electric Bill So High in Winter? Heating Causes",
+    "variant_b_title": "Winter Electric Bill Too High? 12 Ways to Stay Warm for Less",
+    "current_description": "",
+    "variant_a_description": "Winter electric bill spike? Learn why heating costs soar and how to manage them.",
+    "variant_b_description": "Electric bill too high this winter? Stay warm and pay less with these 12 proven strategies.",
+    "hypothesis": "Educational causes vs actionable comfort solutions"
+  },
+  {
+    "slug": "heat-pump-vs-gas-furnace-savings",
+    "current_title": "Heat Pump vs Gas Furnace Savings",
+    "variant_a_title": "Heat Pump vs Gas Furnace: Which Saves More in 2026?",
+    "variant_b_title": "Heat Pump vs Gas Furnace: Complete Cost Comparison",
+    "current_description": "",
+    "variant_a_description": "Heat pump or gas furnace? Compare 2026 costs, efficiency, and savings to choose the best heating system.",
+    "variant_b_description": "Complete cost comparison: heat pump vs gas furnace. Upfront costs, operating costs, and break-even analysis.",
+    "hypothesis": "Year-relevance decision vs comprehensive comparison"
+  },
+  {
+    "slug": "16-budget-billing-level-pay-explained",
+    "current_title": "Budget Billing Level Pay Explained",
+    "variant_a_title": "Budget Billing Explained: Pros, Cons, and How It Works",
+    "variant_b_title": "Utility Budget Billing: Is Level Pay Worth It?",
+    "current_description": "",
+    "variant_a_description": "Utility budget billing explained: how it works, the pros and cons, and whether it's right for you.",
+    "variant_b_description": "Considering utility budget billing? Learn if level pay programs are worth it for your situation.",
+    "hypothesis": "Educational overview vs decision-focused evaluation"
+  },
+  {
+    "slug": "24-delivery-charge-vs-supply-charge-utility-bill",
+    "current_title": "Delivery Charge vs Supply Charge",
+    "variant_a_title": "Delivery Charge vs Supply Charge: What's the Difference?",
+    "variant_b_title": "Understanding Your Electric Bill: Delivery vs Supply Charges",
+    "current_description": "",
+    "variant_a_description": "Delivery charge vs supply charge: learn the difference, why you pay both, and how they affect your bill.",
+    "variant_b_description": "Decode your electric bill by understanding delivery charges vs supply charges and what each covers.",
+    "hypothesis": "Direct comparison vs bill understanding context"
+  },
+  {
+    "slug": "how-to-read-your-utility-bill",
+    "current_title": "How to Read Your Utility Bill",
+    "variant_a_title": "How to Read Your Utility Bill (Electric, Gas, and Water)",
+    "variant_b_title": "Understanding Your Utility Bill: A Complete Guide",
+    "current_description": "",
+    "variant_a_description": "Learn to read electric, gas, and water bills with this complete line-by-line explanation.",
+    "variant_b_description": "Utility bill confusing? Here's a complete guide to understanding every charge and fee.",
+    "hypothesis": "Comprehensive multi-utility vs accessible simplicity"
+  },
+  {
+    "slug": "13-ac-short-cycling-causes-fixes",
+    "current_title": "AC Short Cycling: Causes and Fixes",
+    "variant_a_title": "AC Short Cycling: 8 Causes and How to Fix Each",
+    "variant_b_title": "Why Your AC Keeps Turning On and Off (Short Cycling)",
+    "current_description": "",
+    "variant_a_description": "AC short cycling? Learn 8 common causes and the specific fix for each problem.",
+    "variant_b_description": "AC keeps turning on and off? That's short cycling. Learn why it happens and how to stop it.",
+    "hypothesis": "Numbered solutions vs symptom recognition"
+  }
+]

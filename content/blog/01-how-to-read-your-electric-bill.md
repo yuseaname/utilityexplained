@@ -3,7 +3,7 @@ title: "How to Read Your Electric Bill (Line by Line Guide)"
 slug: "01-how-to-read-your-electric-bill"
 description: "Your electric bill has 15+ charges. Here's what each one means, how to calculate your real cost per kWh, and spot billing errors."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
@@ -11,18 +11,16 @@ keywords: ["how to read electric bill", "understand electricity bill", "kWh char
 image: "/images/utility-electricity.jpg"
 ---
 
-# How to Read Your Electric Bill (Line by Line Guide)
+Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line.
-
-<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80" alt="Electric utility bill with charges breakdown" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Electric utility bill with charges breakdown" width="1200" height="630" loading="lazy" /> Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 
 - [The Basic Structure](#the-basic-structure)
 - [Key Numbers to Find](#key-numbers-to-find)
-- [Common Charges Explained](#common-charges-explained)
-- [How Your Bill Is Calculated](#how-your-bill-is-calculated)
+- [Common Charges Explained](#common-charges-explained) Learn more in [Delivery vs Supply Charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill).
+- [How Your Bill Is Calculated](#how-your-bill-is-calculated) Learn more in [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
 - [Spotting Errors and Problems](#spotting-errors-and-problems)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
@@ -47,7 +45,7 @@ This shows:
 ### 2. Usage Details (Page 2-3)
 
 This shows:
-- **Meter readings** — Current and previous
+- **[meter](/blog/how-to-read-electric-meter) readings** — Current and previous
 - **kWh used** — Your consumption
 - **Rate schedule** — How you're charged
 - **Demand (commercial)** — Peak usage
@@ -131,7 +129,7 @@ This varies wildly by location:
 | **Demand Charge** | Peak usage (commercial only) |
 | **Power Factor Penalty** | Inefficient electrical use (commercial) |
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&q=80" alt="Electric bill charges breakdown chart" width="800" height="400" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Electric bill charges breakdown chart" width="800" height="400" loading="lazy" />
 
 ### Decoding the Jargon
 
@@ -253,55 +251,27 @@ Make sure the meter number on the bill matches your actual meter.
 
 ## Frequently Asked Questions
 
-### Why is my bill higher than my neighbor's?
+{{< faq "Why is my bill higher than my neighbor's?" >}}
+Possible reasons include different rate plans, different appliances (electric vs gas heat), more occupants, older less efficient appliances, pool or hot tub, or poor insulation.
+{{< /faq >}}
 
-Possible reasons:
-- Different rate plans
-- Different appliances (electric vs gas heat)
-- More occupants
-- Older, less efficient appliances
-- Pool, hot tub, or EV
-- Poor insulation
+{{< faq "What is an estimated reading?" >}}
+When the utility can't read your meter, they estimate usage based on history. This is corrected when they do an actual reading. Look for "E" or "Estimated" next to meter reading.
+{{< /faq >}}
 
----
+{{< faq "Can I switch electricity providers?" >}}
+In deregulated states (TX, PA, OH, NY, IL, others), yes. In regulated states, no. Deregulated means you choose your supplier; regulated means one utility company serves the area.
+{{< /faq >}}
 
-### What is an estimated reading?
+{{< faq "What's the difference between supply and delivery?" >}}
+Supply is the electricity itself (~60% of bill) where you can choose your provider in some states. Delivery is getting it to you (~40% of bill) through fixed utility company infrastructure at regulated rates.
+{{< /faq >}}
 
-When the utility can't read your meter, they estimate usage based on history. This is corrected when they do an actual reading.
+{{< faq "Why do rates vary by state?" >}}
+Rates vary based on fuel mix (coal, gas, nuclear, hydro, solar), regulations, population density, climate, infrastructure age, and state taxes.
+{{< /faq >}}
 
-**Sign:** Look for "E" or "Estimated" next to meter reading.
-
----
-
-### Can I switch electricity providers?
-
-In deregulated states (TX, PA, OH, NY, IL, others), yes. In regulated states, no.
-
-**Deregulated = you choose your supplier**
-**Regulated = one utility company**
-
----
-
-### What's the difference between supply and delivery?
-
-| Supply | Delivery |
-|--------|----------|
-| The electricity itself | Getting it to you |
-| Can choose provider (some states) | Fixed utility company |
-| Competitive pricing | Regulated rates |
-| ~60% of bill | ~40% of bill |
-
----
-
-### Why do rates vary by state?
-
-Factors:
-- Fuel mix (coal, gas, nuclear, hydro, solar)
-- Regulations
-- Population density
-- Climate
-- Infrastructure age
-- State taxes
+{{< faq-schema >}}
 
 ---
 

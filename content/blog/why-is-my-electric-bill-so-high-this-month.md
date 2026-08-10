@@ -3,7 +3,7 @@ title: "Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)"
 slug: "why-is-my-electric-bill-so-high-this-month"
 description: "Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment."
 date: 2025-12-20
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["air conditioner", "electric bill", "kwh", "therms", "thermostat"]
@@ -273,5 +273,29 @@ It varies by region and season. Expect significant swings throughout the year as
 Use efficiency upgrades (LEDs, smart thermostat), seal drafts, improve insulation, shift usage to off-peak, and replace power-hungry legacy appliances.
 
 {{< /faq >}}
+
+
+## Bill Spike Diagnosis Table
+
+| Symptom | Likely Cause | Est. Cost Impact | Quick Fix |
+|---------|-------------|:---:|-----------|
+| Bill doubled | Rate change or meter error | $50-100 | Compare kWh to last year |
+| Bill +30-50% | Seasonal AC/heating | $30-60 | Expected — adjust thermostat |
+| Same kWh, higher $ | Rate increase | $10-30 | Check rate line on bill |
+| Estimated reading | Overestimate | $20-80 | Request actual reading |
+| Sudden new charge | New fee added | $3-15 | Compare line items |
+
+### Top Appliance Energy Hogs
+
+| Appliance | Monthly kWh | Monthly Cost | % of Bill |
+|-----------|:---:|:---:|:---:|
+| Central AC | 600-1,200 | $84-168 | 40-50% |
+| Water heater | 300-450 | $42-63 | 15-20% |
+| Refrigerator | 60-150 | $8-21 | 3-7% |
+| Clothes dryer | 60-90 | $8-13 | 3-5% |
+| Dishwasher | 30-45 | $4-6 | 1-2% |
+| Space heater | 150-450 | $21-63 | 8-20% |
+| Pool pump | 200-450 | $28-63 | 10-18% |
+
 
 {{< faq-schema >}}

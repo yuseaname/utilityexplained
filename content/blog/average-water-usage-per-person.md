@@ -3,7 +3,7 @@ title: "Average Water Usage Per Person: A Practical Range"
 slug: "average-water-usage-per-person"
 description: "See typical water usage ranges and what affects your household total."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "gallons", "leak", "apartment", "savings"]
@@ -55,6 +55,55 @@ image: "/images/articles/average-water-usage-per-person/average-water-usage-per-
                 <tr>
                   <td>Leaks</td>
                   <td>5% to 10%</td>
+                </tr>
+              </tbody>
+            </table>
+            </table>
+            <h3>Daily water usage by activity</h3>
+            <p>Beyond percentages, it helps to know how many gallons each activity typically uses:</p>
+            <table>
+              <thead>
+                <tr>
+                  <th>Activity</th>
+                  <th>Typical Gallons per Use</th>
+                  <th>Notes</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Shower (10 minutes)</td>
+                  <td>15 - 25 gallons</td>
+                  <td>Standard showerhead: 2.5 gpm; low-flow: 1.5 gpm</td>
+                </tr>
+                <tr>
+                  <td>Toilet flush</td>
+                  <td>1.6 - 3.5 gallons</td>
+                  <td>Older models: 3.5+ gallons; modern: 1.28 gallons</td>
+                </tr>
+                <tr>
+                  <td>Clothes washer</td>
+                  <td>15 - 30 gallons</td>
+                  <td>Older top-load: 30+ gallons; HE front-load: 15 gallons</td>
+                </tr>
+                <tr>
+                  <td>Dishwasher cycle</td>
+                  <td>4 - 6 gallons</td>
+                  <td>Older models: 10+ gallons; modern Energy Star: 4 gallons</td>
+                </tr>
+                <tr>
+                  <td>Kitchen faucet (running)</td>
+                  <td>2 - 2.5 gallons/min</td>
+                  <td>Aerators can reduce to 0.5 gpm</td>
+                </tr>
+                <tr>
+                  <td>Bathroom faucet (running)</td>
+                  <td>1 - 2 gallons/min</td>
+                  <td>Brushing teeth (2 min): ~2 gallons if left running</td>
+                </tr>
+                <tr>
+                  <td>Bathtub (full)</td>
+                  <td>30 - 50 gallons</td>
+                  <td>Varies by tub size and how full it is</td>
                 </tr>
               </tbody>
             </table>
@@ -132,6 +181,53 @@ image: "/images/articles/average-water-usage-per-person/average-water-usage-per-
               If your community uses submeters, request a usage report to compare
               your unit to the building average.
             </p>
+
+<h3>Household size vs. monthly water usage</h3>
+<p>Household size is one of the strongest predictors of total water use. Here's what typical monthly usage looks like by household size (assuming standard indoor use only):</p>
+<table>
+  <thead>
+    <tr>
+      <th>Household Size</th>
+      <th>Monthly Gallons</th>
+      <th>Monthly Cost (at $2/1000 gal)</th>
+      <th>Per-Person Daily Average</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 person</td>
+      <td>1,200 - 2,400 gallons</td>
+      <td>$2.40 - $4.80</td>
+      <td>40 - 80 gallons</td>
+    </tr>
+    <tr>
+      <td>2 people</td>
+      <td>2,400 - 4,800 gallons</td>
+      <td>$4.80 - $9.60</td>
+      <td>40 - 80 gallons</td>
+    </tr>
+    <tr>
+      <td>3 people</td>
+      <td>3,600 - 7,200 gallons</td>
+      <td>$7.20 - $14.40</td>
+      <td>40 - 80 gallons</td>
+    </tr>
+    <tr>
+      <td>4 people</td>
+      <td>4,800 - 9,600 gallons</td>
+      <td>$9.60 - $19.20</td>
+      <td>40 - 80 gallons</td>
+    </tr>
+    <tr>
+      <td>5+ people</td>
+      <td>6,000 - 12,000+ gallons</td>
+      <td>$12.00 - $24.00+</td>
+      <td>40 - 80 gallons</td>
+    </tr>
+  </tbody>
+</table>
+<p><em>Note: These figures assume indoor use only. Adding outdoor irrigation can easily double or triple these totals in summer months.</em></p>
+
 
 <h2 id="outdoor-usage">Outdoor usage can dwarf indoor use</h2>
 <p>
@@ -228,5 +324,30 @@ Check the meter when no water is in use. If the meter still moves, you likely ha
 Yes. Low-flow showerheads and toilets can reduce water use without a noticeable comfort loss.
 
 {{< /faq >}}
+
+
+## Daily Water Usage by Activity
+
+| Activity | Gallons/Use | Uses/Day | Daily Total | % of Usage |
+|----------|:---:|:---:|:---:|:---:|
+| Shower (8 min) | 16 | 1 | 16 | 22% |
+| Toilet flush | 3 | 5 | 15 | 21% |
+| Faucet (hands, teeth) | 2 | 8 | 16 | 22% |
+| Washing machine | 15 | 0.3 | 5 | 7% |
+| Dishwasher | 6 | 0.5 | 3 | 4% |
+| Bath | 30 | 0.1 | 3 | 4% |
+| Leaks (average) | — | — | 10 | 14% |
+| Other | — | — | 4 | 6% |
+
+### Household Size vs Monthly Water Usage
+
+| Household Size | Gal/Month | CCF/Month | Typical Bill |
+|:---:|:---:|:---:|:---:|
+| 1 person | 2,200 | 3 | $25-$45 |
+| 2 people | 4,400 | 6 | $45-$75 |
+| 3 people | 6,600 | 9 | $65-$100 |
+| 4 people | 8,800 | 12 | $85-$130 |
+| 5+ people | 11,000+ | 15+ | $110-$170 |
+
 
 {{< faq-schema >}}

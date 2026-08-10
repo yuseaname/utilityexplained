@@ -3,7 +3,7 @@ title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check 
 slug: "why-is-my-water-bill-higher-in-summer"
 description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "ccf", "savings", "gallons"]
@@ -215,5 +215,18 @@ Yes. A small continuous leak can add up over a 30-day period, and it is easy to 
 Often, yes. With tiered pricing, higher usage blocks cost more per gallon/CCF. Summer irrigation can push you into a higher tier, making the increase feel larger.
 
 {{< /faq >}}
+
+
+## Summer Water Usage Breakdown
+
+| Activity | Summer (gal/day) | Winter (gal/day) | Difference |
+|----------|:---:|:---:|:---:|
+| Lawn/garden watering | 50-200 | 0 | +200 |
+| Pool filling/makeup | 10-30 | 0 | +30 |
+| Car washing | 5-15 | 0 | +15 |
+| Extra showers | 15-25 | 10-15 | +10 |
+| Sprinkler/spray toys | 10-30 | 0 | +30 |
+| **Total difference** | | | **+85-115 gal/day** |
+
 
 {{< faq-schema >}}

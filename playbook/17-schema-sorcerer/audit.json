@@ -1,0 +1,103 @@
+{
+  "site_schema_status": {
+    "current_schema_types": [
+      "Article",
+      "BreadcrumbList",
+      "FAQPage",
+      "WebSite"
+    ],
+    "missing_types": [
+      "Organization",
+      "HowTo",
+      "Product",
+      "Service",
+      "VideoObject"
+    ],
+    "coverage_percentage": 65
+  },
+  "recommendations": [
+    {
+      "page_type": "How-to guides",
+      "current_schema": "Article + FAQPage",
+      "recommended_schema": "Article + HowTo + FAQPage + VideoObject",
+      "priority": "high",
+      "implementation_notes": "Add HowTo schema for step-by-step instructions",
+      "estimated_rich_result_impact": "40-60% increase in SERP real estate"
+    },
+    {
+      "page_type": "Homepage",
+      "current_schema": "WebSite",
+      "recommended_schema": "WebSite + Organization",
+      "priority": "high",
+      "implementation_notes": "Add Organization schema to base template",
+      "estimated_rich_result_impact": "Knowledge panel eligibility"
+    },
+    {
+      "page_type": "Comparison articles",
+      "current_schema": "Article",
+      "recommended_schema": "Article + FAQPage",
+      "priority": "medium",
+      "implementation_notes": "Structure decision process with FAQ",
+      "estimated_rich_result_impact": "25-35% increase in CTR"
+    },
+    {
+      "page_type": "Definition articles",
+      "current_schema": "Article",
+      "recommended_schema": "Article + FAQPage",
+      "priority": "medium",
+      "implementation_notes": "Structure with clear definition blocks",
+      "estimated_rich_result_impact": "Featured snippet eligibility"
+    },
+    {
+      "page_type": "Video content",
+      "current_schema": "None",
+      "recommended_schema": "VideoObject",
+      "priority": "low",
+      "implementation_notes": "Include VideoObject schema with duration and thumbnail",
+      "estimated_rich_result_impact": "Video carousel eligibility"
+    }
+  ],
+  "pages_audited": 91,
+  "schema_gap_percentage": 35,
+  "quick_wins": [
+    {
+      "quick_win": "Add HowTo schema to how-to guides",
+      "effort": "1-2 hours",
+      "impact": "High"
+    },
+    {
+      "quick_win": "Add Organization schema to homepage",
+      "effort": "30 minutes",
+      "impact": "Medium"
+    },
+    {
+      "quick_win": "Add FAQPage schema to articles with FAQ sections",
+      "effort": "1 hour",
+      "impact": "High"
+    }
+  ],
+  "howto_eligible_articles": [
+    "how-to-read-your-electric-bill",
+    "how-to-read-electric-meter",
+    "how-to-read-gas-meter",
+    "how-to-check-for-water-leaks",
+    "how-to-lower-electric-bill",
+    "how-to-lower-gas-bill",
+    "how-to-understand-time-of-use-rates",
+    "how-to-dispute-utility-bill",
+    "how-to-switch-energy-providers",
+    "how-to-conduct-home-energy-audit"
+  ],
+  "faq_eligible_articles": [
+    "why-is-my-electric-bill-so-high",
+    "what-is-a-kilowatt-hour",
+    "delivery-charge-vs-supply-charge",
+    "what-is-ccf-on-water-bill",
+    "what-is-a-therm",
+    "what-is-demand-charge",
+    "time-of-use-electricity-explained",
+    "how-do-smart-meters-work",
+    "budget-billing-explained",
+    "net-metering-explained"
+  ]
+}

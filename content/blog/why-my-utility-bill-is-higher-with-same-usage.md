@@ -3,7 +3,7 @@ title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn"
 slug: "why-my-utility-bill-is-higher-with-same-usage"
 description: "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
@@ -167,5 +167,18 @@ Yes. An estimated bill can be higher or lower than actual usage, and later bills
 They can. If more of your usage occurs during peak hours one month, the total cost can rise even if the total kWh is similar.
 
 {{< /faq >}}
+
+
+## Hidden Cost Increases on Utility Bills
+
+| Fee Type | Typical Increase | How It Appears | How to Spot |
+|----------|-----------------|----------------|-------------|
+| Fuel adjustment | 0.5-2¢/kWh | "Fuel adj." or "PICA" | Compare to last year |
+| Delivery surcharge | 5-15% | "Delivery rider" | Check rate per kWh |
+| Regulatory fee | $1-3/mo | "Regulatory cost recovery" | Line item comparison |
+| Environmental charge | 0.25-1¢/kWh | "Env. compliance" | Year-over-year diff |
+| Infrastructure charge | $2-5/mo | "Grid modernization" | New line items |
+| Storm recovery | 1-3% | "Storm cost recovery" | Temporary surcharge |
+
 
 {{< faq-schema >}}

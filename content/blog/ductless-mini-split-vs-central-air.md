@@ -3,7 +3,7 @@ title: "Ductless Mini-Split vs Central Air: Cost, Efficiency, and Which One Fits
 slug: "ductless-mini-split-vs-central-air"
 description: "Trying to choose between ductless mini-splits and central air? This guide compares upfront cost, efficiency, comfort, and real-world use cases in plain English."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["duct", "air conditioner", "leak", "savings", "therms"]
@@ -248,5 +248,31 @@ Mini-splits often have higher rated efficiency and avoid duct losses, but centra
 It can, especially if you are replacing electric resistance heat or bypassing leaky ducts, but savings depend on usage, insulation, and energy rates.
 
 {{< /faq >}}
+
+
+## Mini-Split vs Central Air Comparison
+
+| Feature | Mini-Split | Central Air |
+|--------|:---:|:---:|
+| Installation cost | $3,000-8,000 | $4,000-8,000 |
+| Ductwork needed | No | Yes |
+| Zoned cooling | ✅ Standard | ❌ Requires zoning |
+| Efficiency (SEER) | 20-30 | 14-22 |
+| Noise level | Very quiet | Moderate |
+| Aesthetics | Wall units | Hidden |
+| Maintenance | Simple per-unit | Duct cleaning |
+| Best for | Additions, small homes | Whole-home cooling |
+
+### Cost Breakdown
+
+| Cost Factor | Mini-Split | Central Air |
+|-------------|:---:|:---:|
+| Equipment | $1,500-4,000 | $2,000-4,500 |
+| Installation labor | $1,000-3,000 | $1,500-3,500 |
+| Ductwork | $0 | $0-5,000 |
+| Annual operation | $200-400 | $300-600 |
+| Annual maintenance | $100-200 | $150-300 |
+| 10-year total | $5,000-12,000 | $6,000-15,000 |
+
 
 {{< faq-schema >}}

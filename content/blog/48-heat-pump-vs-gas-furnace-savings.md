@@ -3,7 +3,7 @@ title: "Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?"
 slug: "48-heat-pump-vs-gas-furnace-savings"
 description: "Compare heat pump and gas furnace costs over time. Discover which heating system offers better long-term savings for your home and climate."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
@@ -148,3 +148,23 @@ Don't guess—calculate. Contact a local, licensed HVAC professional to perform 
 *Related Reading:*
 - [Heat Pump Running All Day in Winter? What Is Normal vs a Problem](/blog/heat-pump-running-all-day-in-winter)
 - [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
+
+## Frequently Asked Questions
+
+{{< faq "Is a heat pump cheaper to run than a gas furnace?" >}}
+In most climates, yes. Heat pumps deliver 2-4 units of heat per unit of electricity, making them 200-400% efficient. Gas furnaces max out at 98.5% efficiency. However, in very cold climates with cheap gas and expensive electricity, gas may still be cheaper.
+{{< /faq >}}
+
+{{< faq "What temperature is too cold for a heat pump?" >}}
+Modern cold-climate heat pumps work efficiently down to -13°F (-25°C). Below 30-40°F, standard heat pumps switch to electric resistance heating. Cold-climate models maintain efficiency at much lower temperatures.
+{{< /faq >}}
+
+{{< faq "How much can I save switching from gas to a heat pump?" >}}
+Typical savings range from $300-1,000 per year depending on your climate, electricity rates, and gas prices. Homes in mild climates with expensive gas see the highest savings.
+{{< /faq >}}
+
+{{< faq "Does a heat pump increase my electric bill?" >}}
+Yes, your electric bill increases but your gas bill decreases or disappears. The net total utility cost is usually lower with a heat pump.
+{{< /faq >}}
+
+{{< faq-schema >}}

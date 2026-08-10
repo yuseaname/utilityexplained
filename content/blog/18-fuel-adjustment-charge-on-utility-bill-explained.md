@@ -3,7 +3,7 @@ title: "Fuel Adjustment Charge on Utility Bill Explained"
 slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
 description: "Your electricity bill has a fuel adjustment charge that changes every month. Here's how this volatile fee works, what drives it, and why your bill can spike even when your usage doesn't change."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]
 tags: ["fees", "electricity", "utility bills", "rates"]
@@ -13,7 +13,7 @@ image: "/images/articles/fuel-adjustment-charge-on-utility-bill-explained/image.
 
 That line item on your electric bill labeled "fuel adjustment," "fuel cost recovery," "energy cost adjustment," or "purchased power adjustment" might seem minor—until it doubles overnight and adds $60 to your bill. The fuel adjustment charge is the single most volatile component of your utility bill, and it's the most common reason your electric costs spike even when your electricity usage stays exactly the same. Understanding what it is and why it fluctuates helps you anticipate these changes and budget accordingly.
 
-<img src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?w=1200&h=630&fit=crop&q=80" alt="Industrial energy facility with power lines at dusk" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Industrial energy facility with power lines at dusk" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -125,26 +125,36 @@ Because the fuel adjustment is a pass-through, you can't negotiate it or shop ar
 
 ## Frequently Asked Questions
 
-**What is the fuel adjustment charge on my electric bill?**
+{{< faq "What is the fuel adjustment charge on my electric bill?" >}}
 It's a pass-through charge that reflects your utility's actual cost of fuel (natural gas, coal, purchased power) used to generate electricity. It's separate from the base rate and fluctuates monthly based on wholesale fuel market prices. The utility earns no profit on this charge.
+{{< /faq >}}
 
-**Why did my fuel adjustment charge double?**
+{{< faq "Why did my fuel adjustment charge double?" >}}
 Fuel adjustment charges spike when wholesale fuel prices increase. Natural gas prices are the biggest driver, and they're influenced by seasonal demand, storage levels, production disruptions, and global market conditions. The 2022 energy crisis, for example, caused many utilities' fuel adjustments to double or triple.
+{{< /faq >}}
 
-**Can I dispute an incorrect fuel adjustment?**
+{{< faq "Can I dispute an incorrect fuel adjustment?" >}}
 Yes, but the grounds are limited. You can dispute if the per-kWh rate was incorrectly applied, if your meter reading was wrong, or if the utility's calculation contained an error. However, you can't dispute the charge simply because fuel prices were high. File a complaint with your state's public utility commission if you suspect a calculation error.
+{{< /faq >}}
 
-**Does the fuel adjustment change every month?**
+{{< faq "Does the fuel adjustment change every month?" >}}
 It varies by utility. Some adjust monthly, others quarterly. Most use a 1-3 month lag to allow for billing processing. Check your utility's website—they typically publish the current fuel adjustment rate and its effective dates.
+{{< /faq >}}
 
-**Do solar panels reduce the fuel adjustment?**
+{{< faq "Do solar panels reduce the fuel adjustment?" >}}
 Yes, indirectly. Since the fuel adjustment is a per-kWh charge, any electricity you generate with solar panels reduces the kWh you purchase from the grid, which reduces your fuel adjustment proportionally. However, in states with reduced net metering benefits, the savings may be modest.
+{{< /faq >}}
 
-**Is the fuel adjustment the same for all customers of my utility?**
+{{< faq "Is the fuel adjustment the same for all customers of my utility?" >}}
 Yes, the per-kWh fuel adjustment rate is the same for all residential customers of a given utility. However, the dollar impact varies by customer because higher-usage customers pay more in total fuel adjustment charges.
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ---
 
-*Related Reading:*
+*Related Articles:*
 - [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
 - [Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them](/blog/04-hidden-fees-utility-bill)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)

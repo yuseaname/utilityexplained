@@ -3,7 +3,7 @@ title: "Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use No
 slug: "22-minimum-bill-utility-bill-explained"
 description: "Understand why your utility bill shows a minimum charge even when usage is near zero. Learn what minimum bills are, how much they cost, and whether you can avoid them."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]
 tags: ["minimum bill", "utility fees", "base charge", "fixed charges"]
@@ -15,7 +15,7 @@ If you barely used any electricity this month but are still being charged $8 to 
 
 > **Quick Answer:** A minimum bill is the lowest amount your utility will charge you each billing period — typically **$8–$45/month** — even if you use little or nothing. You are paying because it costs money to keep your home connected to the grid (the wires, meter, and billing systems), and every connected customer shares that fixed cost. It is an approved rate set by your state utility commission, so it cannot be waived or negotiated away.
 
-<img src="https://images.unsplash.com/photo-1554224155-8d04-dd8c8b2bf49c?w=1200&h=630&fit=crop&q=80" alt="Close-up of an electric utility meter showing monthly charges" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Close-up of an electric utility meter showing monthly charges" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

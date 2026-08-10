@@ -3,7 +3,7 @@ title: "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
 slug: "what-is-a-kilowatt-hour"
 description: "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
@@ -186,8 +186,33 @@ Rate changes, time-of-use pricing, longer billing periods, or higher fixed/deliv
 
 {{< faq "Is lowering kWh the only way to lower my bill?" >}}
 
-Reducing kWh helps, but your total bill may also include fixed charges. Understanding both usage-based and fixed charges makes the changes you make feel more predictable.
-
+Reducing kWh helps, but your total bill may also include fixed charges. Understanding both usage-based a---
 {{< /faq >}}
 
+
+## Appliance kWh Usage Table
+
+| Appliance | Wattage | Hours/Day | kWh/Month | Monthly Cost |
+|-----------|---------|-----------|-----------|-------------|
+| Central AC | 3,500W | 8 | 840 | $118 |
+| Refrigerator | 150W | 24 | 108 | $15 |
+| Water heater | 4,000W | 3 | 360 | $51 |
+| Clothes dryer | 3,000W | 1 | 90 | $13 |
+| Oven/stove | 2,000W | 1.5 | 90 | $13 |
+| Dishwasher | 1,800W | 1 | 54 | $8 |
+| Washing machine | 500W | 1 | 15 | $2 |
+| TV (55" LED) | 100W | 5 | 15 | $2 |
+| LED light bulb | 10W | 6 | 2 | $0.28 |
+| Space heater | 1,500W | 4 | 180 | $25 |
+
+*Based on $0.14/kWh national average. Costs vary by state and usage.*
+
+
 {{< faq-schema >}}
+
+*Related Articles:*
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
+- [Understanding kWh Usage](/blog/11-understanding-kwh-usage)
+- [How Do Smart Meters Work](/blog/how-do-smart-meters-work)
+- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)

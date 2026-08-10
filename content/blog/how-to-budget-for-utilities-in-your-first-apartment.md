@@ -3,7 +3,7 @@ title: "How to Budget for Utilities in Your First Apartment"
 slug: "how-to-budget-for-utilities-in-your-first-apartment"
 description: "A simple budgeting guide for electricity, gas, water, and internet in your first place."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
@@ -216,6 +216,29 @@ It can help with consistency, but it is not always cheaper. Compare the plan ter
 Some utilities waive deposits with a credit check or a letter of good standing from a previous provider. Ask about options.
 
 {{< /faq >}}
+
+
+## Typical Apartment Utility Costs
+
+| Utility | Studio | 1 Bedroom | 2 Bedroom | Notes |
+|---------|:---:|:---:|:---:|-------|
+| Electricity | $40-80 | $50-100 | $70-150 | AC/heat drives cost |
+| Gas (if applicable) | $15-30 | $20-40 | $25-50 | Heating/cooking |
+| Water/sewer | $20-35 | $25-40 | $30-50 | Often included |
+| Internet | $40-60 | $40-60 | $40-60 | Same regardless |
+| Trash | $10-20 | $10-20 | $10-25 | Often included |
+| **Monthly Total** | **$125-225** | **$145-260** | **$175-335** | Varies by region |
+
+### First-Year Utility Budget by Season
+
+| Season | Months | Est. Monthly Cost | Why |
+|--------|--------|:---:|-----|
+| Fall | Sep-Nov | $120-180 | Mild weather, baseline |
+| Winter | Dec-Feb | $180-300 | Heating costs peak |
+| Spring | Mar-May | $120-180 | Mild weather returns |
+| Summer | Jun-Aug | $150-280 | AC drives costs |
+| **Annual Average** | | **$145-235/mo** | Budget for peaks |
+
 
 {{< faq-schema >}}
 

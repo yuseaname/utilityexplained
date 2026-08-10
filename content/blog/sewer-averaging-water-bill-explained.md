@@ -3,7 +3,7 @@ title: "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer U
 slug: "sewer-averaging-water-bill-explained"
 description: "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
@@ -164,5 +164,26 @@ A leak can raise the winter average. If you can document a repair, some utilitie
 No. Some utilities use winter averages, others use annual averages or fixed formulas. Your bill or local utility site usually explains the method.
 
 {{< /faq >}}
+
+
+## Sewer Averaging Periods by Region
+
+| Region | Typical Averaging Period | Calculation Method |
+|--------|------------------------|-------------------|
+| Southeast | Nov-Feb | Average winter usage |
+| Midwest | Dec-Mar | Lowest 3 consecutive months |
+| Southwest | Dec-Mar | Average winter usage |
+| Northeast | Jan-Mar | Coldest months |
+| West Coast | Nov-Apr | Varies by utility |
+
+### Winter Usage vs Summer Sewer Charges
+
+| Month | Actual Usage (CCF) | Sewer Charge Based On | Difference |
+|-------|-------------------|----------------------|-----------|
+| January | 4 CCF | Actual (4 CCF) | Baseline |
+| June | 12 CCF | Averaged (4 CCF) | Save 8 CCF |
+| July | 14 CCF | Averaged (4 CCF) | Save 10 CCF |
+| August | 11 CCF | Averaged (4 CCF) | Save 7 CCF |
+
 
 {{< faq-schema >}}

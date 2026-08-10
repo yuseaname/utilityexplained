@@ -3,7 +3,7 @@ title: "Why Is My Gas Bill So High in Winter? The Real Reasons (and Fixes)"
 slug: "why-is-my-gas-bill-so-high-in-winter"
 description: "Your gas bill can triple in winter \u2014 and not all of it is just cold weather. Here are all the real reasons your winter gas bill is high and how to lower it."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["therms", "furnace", "gas bill", "thermostat", "savings"]

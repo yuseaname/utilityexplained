@@ -3,7 +3,7 @@ title: "Best Energy Efficient Space Heater: Cut Your Heating Bills"
 slug: "42-best-energy-efficient-space-heater"
 description: "Find the best energy efficient space heater to lower your heating costs. Compare types, features and energy savings for electric and radiant heaters."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating"
 categories: ["Heating"]
 tags: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use"]

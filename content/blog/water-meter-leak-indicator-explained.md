@@ -3,7 +3,7 @@ title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running Wh
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water meter", "water bill"]
@@ -176,6 +176,29 @@ Toilets are one of the most common causes because a flapper leak can run quietly
 Watch it for at least 60-120 seconds and, if possible, confirm by taking two meter photos 10-15 minutes apart with everything off.
 
 {{< /faq >}}
+
+
+## Leak Indicator Types by Meter
+
+| Meter Brand | Indicator Type | Location | What It Does |
+|-------------|---------------|----------|-------------|
+| Sensus (analog) | Small triangle | Below dials | Spins when water flows |
+| Neptune (analog) | Red star/triangle | Center of dial | Rotates with any flow |
+| Badger (digital) | Flow icon | LCD screen | Flashes "+" when flowing |
+| Aclara (smart) | Leak alert | Online portal | Sends notification |
+| Itron (smart) | Continuous flow | App/dashboard | Flags 24+ hr usage |
+
+### Leak Indicator Status Guide
+
+| Indicator State | Meaning | Action Needed | Urgency |
+|----------------|---------|--------------|:---:|
+| Not moving | No flow | All clear | ✅ None |
+| Spinning slowly | Small flow | Check faucets | 🟡 Low |
+| Spinning fast | Heavy flow | Check all fixtures | 🟡 Medium |
+| Spinning, all off | Hidden leak | Call plumber | 🔴 High |
+| Flashing + icon | Recent usage | Check for running toilets | 🟡 Medium |
+| Continuous flow alert | 24+ hr constant | Major leak | 🔴 Critical |
+
 
 {{< faq-schema >}}
 

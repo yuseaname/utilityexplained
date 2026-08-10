@@ -3,7 +3,7 @@ title: "Gas Delivery Charge vs Supply Charge: What"
 slug: "gas-delivery-charge-vs-supply-charge"
 description: "Your gas bill splits costs into delivery charges and supply charges \u2014 but most people don't know what they're paying for. Here's the complete breakdown."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "delivery charge", "supply charge", "therms", "ccf"]

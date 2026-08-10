@@ -1,0 +1,14 @@
+{{- /* step.html — Individual step within a howto guide */ -}}
+{{- /* Usage: {{< step number="1" >}} Content here {{< /step >}} */ -}}
+{{- $num := .Get "number" | default "1" -}}
+<div class="howto-step flex gap-3 mb-4">
+  <div class="flex-shrink-0 w-7 h-7 rounded-full bg-blue-600 text-white text-sm font-bold flex items-center justify-center">{{ $num }}</div>
+  <div class="flex-1">
+    {{ .Inner | strings.TrimSpace | markdownify | safeHTML }}
+  </div>
+</div>
+{{- with .Page.Store.Get "howtoSteps" -}}
+  {{- .Page.Store.Add "howtoSteps" (slice (dict "name" (printf "Step %s" $num) "text" (.Inner | strings.TrimSpace))) -}}
+{{- else -}}
+  {{- .Page.Store.Set "howtoSteps" (slice (dict "name" (printf "Step %s" $num) "text" (.Inner | strings.TrimSpace))) -}}
+{{- end -}}

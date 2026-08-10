@@ -3,7 +3,7 @@ title: "Understanding kWh Usage: What Uses the Most Electricity in Your Home"
 slug: "11-understanding-kwh-usage"
 description: "Learn what a kWh actually is, which appliances use the most electricity, and how to calculate your exact cost per appliance to lower your electric bill."
 date: 2026-03-15
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kWh", "electricity usage", "electric bill", "appliance costs", "energy savings"]
@@ -11,11 +11,9 @@ keywords: ["understanding kWh usage", "what uses most electricity home", "kWh co
 image: "/images/utility-electricity.jpg"
 ---
 
-# Understanding kWh Usage: What Uses the Most Electricity in Your Home
+Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
 
-Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month.
-
-<img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop&q=80" alt="Home electricity usage and appliances kWh guide" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-electricity.jpg" alt="Home electricity usage and appliances kWh guide" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -56,7 +54,7 @@ To calculate what any appliance costs you:
 **Example — 5,000-watt central AC, 6 hours/day, $0.15/kWh:**
 (5,000 ÷ 1,000) × 6 × 30 × $0.15 = **$135/month**
 
-Your electricity rate appears on your bill. Look for "energy charge" or "supply charge" measured in cents per kWh. Most US rates range from $0.10 to $0.30 per kWh depending on your state and utility.
+Your electricity rate appears on your bill. Look for "energy charge" or "[supply charge](/blog/supply-vs-delivery-charges-electricity)" measured in cents per kWh. Most US rates range from $0.10 to $0.30 per kWh depending on your state and utility.
 
 ---
 
@@ -177,24 +175,36 @@ For a full list of bill-reduction strategies, see: [How to Lower Your Utility Bi
 
 ---
 
+---
+
+*Related Articles:*
+- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
+- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
+- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
+- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
+
+
 ## Frequently Asked Questions
 
-**How much does 1 kWh cost in the US?**
-
+{{< faq "How much does 1 kWh cost in the US?" >}}
 The national average is approximately $0.16 per kWh as of 2026, but rates vary widely by state. Hawaii has some of the highest rates at over $0.40/kWh; states like Louisiana and Utah have rates under $0.11/kWh. Your exact rate appears on your electric bill under "energy charge."
+{{< /faq >}}
 
-**What uses the most electricity in a house?**
-
+{{< faq "What uses the most electricity in a house?" >}}
 For most US homes, heating and cooling (HVAC) is the largest electricity consumer — typically 30–40% of the total bill. After HVAC, water heating and refrigeration are the next biggest users. Lighting, once a major cost, has become much less significant with the shift to LED bulbs.
+{{< /faq >}}
 
-**How many kWh per day is normal?**
-
+{{< faq "How many kWh per day is normal?" >}}
 The average US household uses approximately 30 kWh per day (900 kWh/month). But this varies enormously by home size, climate, and number of occupants. A 500 sq ft apartment might use 10–15 kWh/day; a 3,000 sq ft home with a pool could use 60–80 kWh/day.
+{{< /faq >}}
 
-**Why did my kWh usage jump this month?**
-
+{{< faq "Why did my kWh usage jump this month?" >}}
 Common reasons for sudden kWh increases: weather change requiring more HVAC use, a new appliance added to the home, a failing appliance running more than usual (especially old refrigerators and HVAC units), a water heater leak causing it to reheat constantly, or guests/additional occupants. Check your utility's usage history to pinpoint which day or week the increase began.
+{{< /faq >}}
 
-**Is it cheaper to run appliances at night?**
-
+{{< faq "Is it cheaper to run appliances at night?" >}}
 It depends on your rate structure. If you're on a standard flat rate, running appliances at night costs the same as during the day. If you're on a time-of-use (TOU) plan, off-peak hours (typically 9 PM – 7 AM) can be 30–50% cheaper. Contact your utility or check your bill to confirm your rate type. Learn more in our [time-of-use electricity guide](/blog/08-time-of-use-electricity).
+{{< /faq >}}
+
+{{< faq-schema >}}

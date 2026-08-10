@@ -3,7 +3,7 @@ title: "Why Your Electric Bill Changes Month to Month (Even With Similar Usage)"
 slug: "why-electric-bill-changes-month-to-month"
 description: "Electricity bills shift for reasons beyond usage: time-of-use windows, tiered rates, demand charges, and supply adjustments."
 date: 2026-01-15
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "demand charge", "kwh", "estimated bill"]
@@ -167,6 +167,44 @@ Compare billing days, rate schedules, and the time window of your usage, not jus
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Seasonal Usage Patterns
+
+Your electricity usage follows predictable seasonal patterns. Understanding these patterns helps you anticipate bill changes before they happen.
+
+| Month | Typical Usage | Average Cost | Primary Driver |
+|-------|--------------|-------------|----------------|
+| January | 1,100-1,800 kWh | $160-$260 | Electric heating |
+| February | 1,000-1,600 kWh | $145-$230 | Heating, shorter days |
+| March | 800-1,200 kWh | $115-$175 | Transition month |
+| April | 600-900 kWh | $85-$130 | Mild weather |
+| May | 650-950 kWh | $95-$140 | AC starts |
+| June | 900-1,400 kWh | $130-$200 | Cooling begins |
+| July | 1,200-2,000 kWh | $175-$290 | Peak AC |
+| August | 1,200-2,000 kWh | $175-$290 | Peak AC |
+| September | 900-1,400 kWh | $130-$200 | Cooling tapers |
+| October | 650-950 kWh | $95-$140 | Mild weather |
+| November | 800-1,200 kWh | $115-$175 | Heating starts |
+| December | 1,000-1,600 kWh | $145-$230 | Heating, lights |
+
+### How Rate Structures Amplify Seasonal Swings
+
+If you're on a **tiered rate plan**, your bill changes more dramatically than your usage. In summer, when you use more kWh, you push into higher-priced tiers where each additional kWh costs 50-100% more than baseline.
+
+| Rate Type | Summer Impact | Winter Impact | Bill Volatility |
+|-----------|--------------|---------------|-----------------|
+| Flat rate | Proportional | Proportional | Low |
+| Tiered | Amplified 1.5x | Amplified 1.3x | High |
+| Time-of-Use | Depends on timing | Depends on timing | Medium-High |
+
+### How to Track Your Usage Month to Month
+
+1. **Check your utility's app or portal** — Most utilities offer daily usage tracking
+2. **Compare year-over-year** — Look at the same month last year, not just last month
+3. **Calculate your effective rate** — Total bill ÷ kWh used. If this jumps, it's a rate change, not usage
+4. **Watch for estimated readings** — These cause artificial swings that correct later
+
+
 
 ---
 

@@ -3,27 +3,25 @@ title: "Why Is My Water Bill So High? 11 Fast Checks That Find the Problem"
 slug: "06-water-bill-too-high"
 description: "Step-by-step troubleshooting guide for high water bills. Learn how to read your meter, find hidden leaks, understand rate structures, and lower your next bill."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
-image: "/images/utility-water.jpg"
+image: "/images/utility-home.jpg"
 ---
 
-# Why Is My Water Bill So High? 11 Fast Checks That Find the Problem
+A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour. Learn more in [How to Read a Water Meter](/blog/how-to-read-a-water-meter).
 
-A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour.
+This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill).
 
-This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle.
-
-<img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
 - [Quick diagnosis: 4 questions to ask first](#quick-diagnosis-4-questions-to-ask-first)
 - [The 11 checks, ranked by likelihood](#the-11-checks-ranked-by-likelihood)
-- [How to read your water meter (the definitive test)](#how-to-read-your-water-meter-the-definitive-test)
+- [How to read your water [meter](/blog/how-to-read-electric-meter) (the definitive test)](#how-to-read-your-water-meter-the-definitive-test)
 - [Understanding your water rate structure](#understanding-your-water-rate-structure)
 - [Cost and savings math](#cost-and-savings-math)
 - [When to call your water utility](#when-to-call-your-water-utility)
@@ -261,32 +259,38 @@ Contact your water utility when:
 
 ---
 
-## FAQ
-
-### How much should my water bill be?
+{{< faq "How much should my water bill be?" >}}
 The average US household water bill is $45–$100/month for a family of four, but this varies widely by region. Seattle and San Francisco residents can pay $150+/month, while some Midwest cities average under $40.
+{{< /faq >}}
 
-### Can a leak double my water bill?
+{{< faq "Can a leak double my water bill?" >}}
 Absolutely. A single running toilet can waste enough water to double or triple a typical household bill. Underground leaks can be even more costly.
+{{< /faq >}}
 
-### Will my utility refund me for a leak?
+{{< faq "Will my utility refund me for a leak?" >}}
 Many utilities have **leak adjustment programs**. If you repair a documented leak, they may credit the excess charges for one or two billing periods. Ask about this — it can save hundreds of dollars.
+{{< /faq >}}
 
-### How often should I check for leaks?
+{{< faq "How often should I check for leaks?" >}}
 - **Monthly:** Quick visual check of toilets, faucets, and water heater area.
 - **Quarterly:** 15-minute meter test.
 - **Annually:** Full plumbing inspection, especially before and after winter.
+{{< /faq >}}
 
-### Is my water meter accurate?
+{{< faq "Is my water meter accurate?" >}}
 Modern water meters are highly accurate, typically within ±1.5%. Older mechanical meters tend to slow down with age, meaning they usually **under-read** rather than over-read. If your meter was recently replaced, the new meter may simply be more accurate.
+{{< /faq >}}
 
-### Why is my sewer charge higher than my water charge?
+{{< faq "Why is my sewer charge higher than my water charge?" >}}
 This is common and confusing. Sewer treatment is more expensive than water treatment. In many cities, the sewer rate is 1.5–2x the water rate per unit. Since sewer is often calculated as a percentage of water usage, reducing water consumption reduces your sewer bill too.
+{{< /faq >}}
 
-### What's the difference between gallons and CCF on my bill?
+{{< faq "What's the difference between gallons and CCF on my bill?" >}}
 - **Gallons** — Direct measurement. Easy to understand.
 - **CCF (hundred cubic feet)** — 1 CCF = 748 gallons. Many utilities bill in CCF because it's the industry standard for meter reading.
+{{< /faq >}}
 
+{{< faq-schema >}}
 ---
 
 ## Related guides
@@ -295,13 +299,23 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 - [Why Is My Electric Bill So High?](./03-why-is-my-electric-bill-so-high.md) — Troubleshoot high electricity costs
 - [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
 - [Hidden Fees on Your Utility Bill](./04-hidden-fees-utility-bill.md) — Find charges you can dispute
-- [How to Read Your Gas Bill](./12-how-to-read-your-gas-bill.md) — Gas bill breakdown
+- [How to Read Your [gas bill](/blog/understand-natural-gas-bill-charges)](./12-how-to-read-your-gas-bill.md) — Gas bill breakdown
 
 ---
 
 **Bottom line:** Start with the toilet dye test and the 15-minute meter test. These two checks take 20 minutes and will catch the majority of water bill problems. If both come back clean, work through the remaining checks in order. And if you find and fix a leak, call your utility to ask about a bill adjustment — many will credit you for the excess charges.
 
 ---
+
+---
+
+*Related Articles:*
+- [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill)
+- [How to Read a Water Meter](/blog/how-to-read-a-water-meter)
+- [Water Service Charge Explained](/blog/water-service-charge-explained)
+- [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill)
+- [Tiered Water Rates Explained](/blog/tiered-water-rates-explained)
+
 
 *Related Reading:*
 - [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)

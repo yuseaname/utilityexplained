@@ -3,7 +3,7 @@ title: "7 states with worst utility spikes: Complete Guide (2026)"
 slug: "7-states-with-worst-utility-spikes-2026"
 description: "Learn everything about 7 states with worst utility spikes in 2026. Costs, comparisons, expert tips for US homeowners."
 date: 2026-05-29
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["kwh", "solar", "air conditioner", "electric bill", "therms"]

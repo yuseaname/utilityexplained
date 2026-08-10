@@ -3,7 +3,7 @@ title: "How to Read an Electricity Bill: Complete Guide to Understanding Charges
 slug: "41-how-to-read-electricity-bill"
 description: "Stop overpaying on your electricity bill. Learn how to read and understand every charge, fee and line item on your monthly utility statement."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["how to read electricity bill", "reading electricity bill", "understanding electric bill", "utility bill breakdown"]

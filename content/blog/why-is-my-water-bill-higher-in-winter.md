@@ -3,7 +3,7 @@ title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
 slug: "why-is-my-water-bill-higher-in-winter"
 description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf"]
@@ -148,6 +148,42 @@ Compare usage per day and check for notes about estimated reads. That separates 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Winter vs Summer Water Usage Comparison
+
+| Activity | Summer (gallons/day) | Winter (gallons/day) | Difference |
+|----------|:---:|:---:|:---:|
+| Showering | 17 | 25 | +47% |
+| Laundry | 15 | 22 | +47% |
+| Dishwashing | 4 | 5 | +25% |
+| Toilet flushing | 18 | 20 | +11% |
+| Faucet use | 11 | 12 | +9% |
+| Outdoor (hose) | 30 | 0 | -100% |
+| Pipe leaks | 0 | 5-50 | New! |
+| **Total** | **95** | **89-139** | **Variable** |
+
+### Pipe Insulation Cost vs Savings
+
+| Pipe Type | Insulation Cost | Annual Savings | Payback Period |
+|-----------|:---:|:---:|:---:|
+| Hot water pipes (DIY) | $15-30 | $30-60 | 6-12 months |
+| Exterior pipes (pro) | $200-500 | $100-200 | 1-3 years |
+| Full home (pro) | $500-1,500 | $150-400 | 2-5 years |
+
+### Winter Plumbing Checklist
+
+- [ ] Insulate exposed pipes in unheated areas (crawl spaces, garages, attics)
+- [ ] Disconnect and drain outdoor hoses and sprinkler systems
+- [ ] Seal gaps where pipes enter your home with foam sealant
+- [ ] Set thermostat no lower than 55°F when away
+- [ ] Open cabinet doors under sinks to let warm air circulate
+- [ ] Check water meter for hidden leaks (read before bed and after waking)
+- [ ] Consider a smart water leak detector ($30-80)
+- [ ] Service water heater (flush sediment to maintain efficiency)
+- [ ] Check for running toilets (add food coloring to tank, wait 15 minutes)
+- [ ] Wrap water heater with insulation blanket if older than 10 years
+
+
 
 ---
 

@@ -1,0 +1,167 @@
+[
+  {
+    "trend": "EV home charging costs",
+    "category": "Electricity",
+    "momentum": "rising",
+    "search_volume_trend": "50% growth in 6 months",
+    "content_angle": "How much EV charging adds to your electric bill with real cost calculator",
+    "timing_urgency": "immediate",
+    "estimated_volume": 18000,
+    "competitor_coverage": "low",
+    "recommended_action": "Publish comprehensive EV charging cost guide within 1 week"
+  },
+  {
+    "trend": "Heat pump adoption surge",
+    "category": "HVAC/Efficiency",
+    "momentum": "rising",
+    "search_volume_trend": "75% growth YoY",
+    "content_angle": "Heat pump vs gas furnace cost comparison with 2026 incentives",
+    "timing_urgency": "immediate",
+    "estimated_volume": 24500,
+    "competitor_coverage": "medium",
+    "recommended_action": "Update heat pump comparison article with latest rebate information"
+  },
+  {
+    "trend": "Smart meter rollout expansion",
+    "category": "Smart Technology",
+    "momentum": "steady",
+    "search_volume_trend": "30% growth in 12 months",
+    "content_angle": "Smart meter opt-out options and privacy rights guide",
+    "timing_urgency": "urgent",
+    "estimated_volume": 12000,
+    "competitor_coverage": "low",
+    "recommended_action": "Create smart meter rights and opt-out guide within 2 weeks"
+  },
+  {
+    "trend": "Time-of-use rate mandates",
+    "category": "Rate Structures",
+    "momentum": "rising",
+    "search_volume_trend": "60% growth as states mandate TOU",
+    "content_angle": "State-by-state TOU adoption timeline and preparation guide",
+    "timing_urgency": "urgent",
+    "estimated_volume": 15000,
+    "competitor_coverage": "low",
+    "recommended_action": "Create TOU state mandate tracking guide within 1 week"
+  },
+  {
+    "trend": "Community solar growth",
+    "category": "Renewable Energy",
+    "momentum": "rising",
+    "search_volume_trend": "45% growth in 6 months",
+    "content_angle": "How community solar credits appear on utility bills",
+    "timing_urgency": "medium",
+    "estimated_volume": 9500,
+    "competitor_coverage": "medium",
+    "recommended_action": "Create community solar bill credit explanation article"
+  },
+  {
+    "trend": "Virtual power plants",
+    "category": "Grid Technology",
+    "momentum": "emerging",
+    "search_volume_trend": "New concept, early adoption phase",
+    "content_angle": "How VPP programs pay homeowners for grid flexibility",
+    "timing_urgency": "monitor",
+    "estimated_volume": 3000,
+    "competitor_coverage": "very_low",
+    "recommended_action": "Monitor trend; create foundational explainer when search volume hits 5000"
+  },
+  {
+    "trend": "Dynamic pricing pilots",
+    "category": "Rate Structures",
+    "momentum": "emerging",
+    "search_volume_trend": "25% growth in utility pilot areas",
+    "content_angle": "Real-time pricing vs fixed rates: when each saves money",
+    "timing_urgency": "monitor",
+    "estimated_volume": 5000,
+    "competitor_coverage": "very_low",
+    "recommended_action": "Create explainer when 3+ states launch major pilots"
+  },
+  {
+    "trend": "Demand response expansion",
+    "category": "Grid Programs",
+    "momentum": "rising",
+    "search_volume_trend": "40% growth in summer months",
+    "content_angle": "How demand response events impact your bill and earnings",
+    "timing_urgency": "medium",
+    "estimated_volume": 11000,
+    "competitor_coverage": "medium",
+    "recommended_action": "Create demand response bill impact guide within 3 weeks"
+  },
+  {
+    "trend": "Home battery storage",
+    "category": "Energy Storage",
+    "momentum": "rising",
+    "search_volume_trend": "55% growth YoY",
+    "content_angle": "Battery storage impact on time-of-use bill savings",
+    "timing_urgency": "urgent",
+    "estimated_volume": 14000,
+    "competitor_coverage": "medium",
+    "recommended_action": "Create battery + TOU savings calculator guide within 2 weeks"
+  },
+  {
+    "trend": "Electrification (gas-to-electric)",
+    "category": "Policy/Trends",
+    "momentum": "rising",
+    "search_volume_trend": "35% growth with new gas bans",
+    "content_angle": "Converting gas appliances to electric: bill impact comparison",
+    "timing_urgency": "urgent",
+    "estimated_volume": 16000,
+    "competitor_coverage": "low",
+    "recommended_action": "Create electrification cost comparison guide within 1 week"
+  },
+  {
+    "trend": "Smart panel adoption",
+    "category": "Smart Technology",
+    "momentum": "emerging",
+    "search_volume_trend": "Early adoption, growing awareness",
+    "content_angle": "Smart electrical panels: energy monitoring and circuit control",
+    "timing_urgency": "monitor",
+    "estimated_volume": 4000,
+    "competitor_coverage": "very_low",
+    "recommended_action": "Monitor trend; create guide when search volume exceeds 8000"
+  },
+  {
+    "trend": "Real-time pricing",
+    "category": "Rate Structures",
+    "momentum": "emerging",
+    "search_volume_trend": "Growing with smart meter adoption",
+    "content_angle": "How real-time pricing works and when it saves money",
+    "timing_urgency": "monitor",
+    "estimated_volume": 6000,
+    "competitor_coverage": "low",
+    "recommended_action": "Create real-time pricing explainer when major utilities launch programs"
+  },
+  {
+    "trend": "Utility shutoff moratoriums",
+    "category": "Consumer Protection",
+    "momentum": "seasonal",
+    "search_volume_trend": "Spikes in winter/summer extreme weather",
+    "content_angle": "State-by-state shutoff protection and bill assistance guide",
+    "timing_urgency": "seasonal_urgent",
+    "estimated_volume": 22000,
+    "competitor_coverage": "medium",
+    "recommended_action": "Update seasonal shutoff protection guide before winter 2026"
+  },
+  {
+    "trend": "AI energy management",
+    "category": "Smart Technology",
+    "momentum": "emerging",
+    "search_volume_trend": "New concept with smart home integration",
+    "content_angle": "AI thermostats and energy managers: real savings or hype?",
+    "timing_urgency": "monitor",
+    "estimated_volume": 7000,
+    "competitor_coverage": "very_low",
+    "recommended_action": "Create AI energy management comparison guide when adoption hits 10%"
+  },
+  {
+    "trend": "Utility data access APIs",
+    "category": "Data/Technology",
+    "momentum": "emerging",
+    "search_volume_trend": "Growing with Green Button adoption",
+    "content_angle": "How to access your utility data through APIs and Green Button",
+    "timing_urgency": "medium",
+    "estimated_volume": 3500,
+    "competitor_coverage": "very_low",
+    "recommended_action": "Create utility data access guide for energy-conscious consumers"
+  }
+]

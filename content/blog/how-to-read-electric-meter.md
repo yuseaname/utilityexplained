@@ -3,7 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
 slug: "how-to-read-electric-meter"
 description: "Confused by the dials? Learn how to read any electric meter (analog or digital) to verify your bill and spot errors instantly."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "electric meter", "smart meter"]
@@ -191,3 +191,61 @@ Yes. Take a baseline reading, run one major load (like a dryer cycle), then read
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Digital vs Analog Meter Reading
+
+| Feature | Analog Meter | Digital Meter | Smart Meter |
+|---------|-------------|---------------|-------------|
+| Display | Rotating dials | LCD display | LCD + wireless |
+| Reading method | Manual (left to right) | Direct read | Auto-transmitted |
+| Accuracy | ±2% | ±0.5% | ±0.2% |
+| Remote reading | No | No | Yes |
+| TOU tracking | No | Some | Yes |
+| Outage detection | No | No | Yes |
+| Cost to utility | Low | Medium | High |
+
+### How to Calculate Daily Usage
+
+Track your daily consumption to spot unusual patterns:
+
+```
+Daily kWh = Today's Reading − Yesterday's Reading
+Daily Cost = Daily kWh × Your Rate per kWh
+```
+
+**Example tracking log:**
+
+| Day | Meter Reading | Daily kWh | Estimated Cost | Notes |
+|-----|:---:|:---:|:---:|-------|
+| Mon | 45,230 | — | — | Starting point |
+| Tue | 45,530 | 300 | $42.00 | Normal day |
+| Wed | 45,860 | 330 | $46.20 | AC ran more |
+| Thu | 45,900 | 40 | $5.60 | Out of town |
+| Fri | 46,300 | 400 | $56.00 | Laundry + guests |
+
+Day 5 shows a spike — 400 kWh. Was someone home all day? Did you run multiple appliances simultaneously?
+
+### Common Meter Reading Mistakes
+
+| Mistake | What Happens | How to Avoid |
+|---------|-------------|--------------|
+| Reading right to left | Numbers reversed | Always read left to right |
+| Ignoring dial direction | Wrong digit | Note which dials go CW vs CCW |
+| Recording估estimated as actual | False usage data | Look for "E" or "EST" marking |
+| Reading the wrong meter | Paying neighbor's bill | Verify meter number matches bill |
+| Ignoring decimal/multiplier | 10x error | Check for "× 10" or "kWh × 1000" |
+
+### Smart Meter vs Manual Reading
+
+| Aspect | Manual Reading | Smart Meter |
+|--------|:---:|:---:|
+| Frequency | Monthly | Real-time (15-min intervals) |
+| Accuracy | Human error possible | Highly accurate |
+| Billing | Based on single reading | Based on actual usage |
+| Outage reporting | Customer must call | Automatic notification |
+| Usage insights | Monthly total | Daily/hourly breakdown |
+| TOU billing | Difficult | Automatic |
+| Privacy | None needed | Data transmitted wirelessly |
+
+Smart meters eliminate estimated bills and give you access to detailed usage data through your utility's online portal. If your utility offers a smart meter program, sign up — it's almost always free and gives you tools to reduce your bill.
+

@@ -4,21 +4,19 @@ slug: "12-how-to-read-your-gas-bill"
 aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/"]
 description: "Confused by your natural gas bill? This guide explains every charge on your gas bill in plain English \u2014 from therms to distribution fees \u2014 so you know exactly what you're paying for."
 date: 2026-03-16
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
-keywords: ["how to read gas bill", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
+keywords: ["how to read [gas bill](/blog/understand-natural-gas-bill-charges)", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
 image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.webp"
 ---
 
-# How to Read Your Gas Bill: Every Charge Explained
-
-Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "customer charge" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.
+Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "[customer charge](/blog/17-what-is-customer-charge-on-utility-bill)" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.
 
 ## Quick Answer: How to Read Your Gas Bill
 
-> **Your gas bill is measured in therms.** A **therm** is a unit of heat energy (≈100,000 BTUs) — roughly **100 cubic feet (CCF)** of natural gas. **MCF = 1,000 cubic feet (≈10 therms).**
+> **Your gas bill is measured in therms.** A **therm** is a unit of heat energy (≈100,000 BTUs) — roughly **100 cubic feet (CCF)** of natural gas. **MCF = 1,000 cubic feet (≈10 therms).** See [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
 >
 > **Most gas bills have three main charges:**
 > 1. **Customer charge** — a fixed monthly fee of **$10–$25**, charged even if you use no gas.
@@ -27,7 +25,7 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 >
 > Add **taxes and small regulatory fees (5–15%)** on top. A typical bill runs about **$25–$50/month in summer** and **$80–$200/month in winter**. The rest of this page explains every line in detail.
 
-<img src="https://images.unsplash.com/photo-1590779033100-9f17a7a7c9d4?w=1200&h=630&fit=crop&q=80" alt="Natural gas utility bill guide with therms and charges explained" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-gas.jpg" alt="Natural gas utility bill guide with therms and charges explained" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -46,7 +44,7 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 
 Before understanding your bill, you need to understand the unit being measured.
 
-A **therm** is a unit of heat energy equal to 100,000 British Thermal Units (BTUs). Your gas meter measures actual gas volume in cubic feet, then your utility converts that to therms based on the heat content of the gas.
+A **therm** is a unit of heat energy equal to 100,000 British Thermal Units (BTUs). Your gas [meter](/blog/how-to-read-electric-meter) measures actual gas volume in cubic feet, then your utility converts that to therms based on the heat content of the gas.
 
 The conversion is approximately: **1 therm ≈ 100 cubic feet (CCF) of natural gas**
 
@@ -207,29 +205,38 @@ For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/
 
 ---
 
-## Frequently Asked Questions
-
-**What does "distribution charge" mean on my gas bill?**
-
-The distribution charge pays for the local pipeline network — the infrastructure that delivers gas from the regional transmission grid to your home. It includes the costs of maintaining underground pipes, pressure regulation equipment, meters, and the workers who operate this system. This charge is regulated by your state's utility commission and doesn't change with the commodity gas price.
-
-**Why is my gas bill so high even though I barely use gas?**
-
-The customer charge (monthly service fee) means there's a fixed cost every month regardless of usage. If you're using very little gas — perhaps you have an electric stove and just a gas water heater — the customer charge can represent a large percentage of your bill even though your actual consumption is minimal. You're paying to remain connected to the gas system.
-
-**What is a "therm" on a gas bill?**
-
-A therm is a unit of heat energy equal to 100,000 BTUs. Your gas meter measures cubic feet of gas, which is then converted to therms based on the gas's heat content. One therm is approximately 100 cubic feet (CCF) of natural gas at standard heat content. Your bill charges you per therm, not per cubic foot.
-
-**Why does my gas rate change month to month?**
-
-The commodity portion of your gas rate (the cost of the gas itself) adjusts monthly based on wholesale natural gas market prices. This is a pass-through cost — your utility buys gas on the market and passes the actual cost to customers. The distribution and transmission portions are regulated and change only when the utility files a rate case with the state commission.
-
-**Can I switch natural gas providers?**
-
-In some states, yes. Retail natural gas competition exists in states including Georgia, Ohio, New York, and parts of Texas. In these states, you can choose your gas commodity supplier while still using your local utility's distribution infrastructure for delivery. Shopping around can sometimes save on the commodity portion of your bill. In most states, your local utility is the only gas provider and switching isn't an option.
 
 ---
 
+---
+
+*Related Articles:*
+- [Understanding Natural Gas Bill Charges](/blog/understand-natural-gas-bill-charges)
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
+- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
+
+
 *Related Reading:*
 - [Understanding Natural Gas Bill Charges: What Are You Paying For?](/blog/43-understand-natural-gas-bill-charges)
+
+## Frequently Asked Questions
+
+{{< faq "What is a therm on my gas bill?" >}}
+A therm is a unit of heat energy equal to 100,000 BTUs. It's the standard billing unit for natural gas. Your gas usage is measured in therms (or CCF, which is roughly equivalent).
+{{< /faq >}}
+
+{{< faq "Why is my gas bill higher in winter?" >}}
+Gas bills typically rise 50-200% in winter due to heating. Your furnace uses significantly more gas when temperatures drop. See our guide on [why your gas bill is high in winter](/blog/why-is-my-gas-bill-so-high-in-winter) for causes and fixes.
+{{< /faq >}}
+
+{{< faq "What's the difference between delivery and supply charges on my gas bill?" >}}
+Supply charges cover the cost of the natural gas itself. Delivery charges cover the infrastructure (pipes, meters) that transport gas to your home. See our [delivery vs supply charge guide](/blog/gas-delivery-charge-vs-supply-charge) for details.
+{{< /faq >}}
+
+{{< faq "Can I switch gas suppliers?" >}}
+Only in deregulated states. If you live in a deregulated gas market, you can choose your gas supplier while the delivery company stays the same. Check your bill for a 'supplier' or 'ESCO' section.
+{{< /faq >}}
+
+{{< faq-schema >}}

@@ -3,7 +3,7 @@ title: "Duct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb)"
 slug: "duct-leaks-symptoms-hvac-running-all-day"
 description: "Uneven temperatures, weak airflow, and long HVAC runtime often trace back to duct problems. Learn the signs of duct leaks, simple checks, and why leaks raise heating and cooling costs."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["duct", "leak", "air conditioner", "afue", "aux heat"]
@@ -210,5 +210,27 @@ Closing many vents can increase pressure in ductwork and may reduce system perfo
 Supply leaks lose conditioned air before it reaches rooms. Return leaks can pull in dusty or hot/cold air from attics or crawlspaces, making the system work harder and sometimes affecting air quality.
 
 {{< /faq >}}
+
+
+## Duct Leak Symptoms and Costs
+
+| Symptom | Severity | Estimated Monthly Waste | Action Needed |
+|---------|----------|----------------------|---------------|
+| Uneven room temps | Moderate | $15-30 | Seal visible leaks |
+| System never stops | High | $30-60 | Professional inspection |
+| Dusty rooms | Moderate | $10-25 | Filter + seal leaks |
+| High humidity | Low-Moderate | $5-15 | Check return ducts |
+| Whistling sounds | Low | $5-10 | Tape loose joints |
+| Visible disconnected duct | Critical | $40-80+ | Immediate repair |
+
+### DIY vs Professional Duct Sealing
+
+| Method | Cost | Savings | Difficulty |
+|--------|------|---------|-----------|
+| Mastic sealant (DIY) | $20-40 | 10-15% | Medium |
+| Foil tape (DIY) | $10-20 | 5-10% | Easy |
+| Aeroseal (professional) | $1,500-3,000 | 20-30% | Pro only |
+| Full duct replacement | $3,000-8,000 | 30-50% | Pro only |
+
 
 {{< faq-schema >}}

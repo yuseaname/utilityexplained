@@ -3,24 +3,22 @@ title: "Average Utility Costs in 2026: Complete Breakdown by Type and State"
 slug: "02-average-utility-costs-2026"
 description: "The average US household spends $500-600/month on utilities. Here's exactly where that money goes, how your state compares, and what's normal."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Costs"
 categories: ["Costs"]
 tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
-image: "/images/utility-paperwork.jpg"
+image: "/images/utility-bill.jpg"
 ---
 
-# Average Utility Costs in 2026: Complete Breakdown by Type and State
+Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much.
-
-<img src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=630&fit=crop&q=80" alt="Utility bills and costs breakdown" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-bill.jpg" alt="Utility bills and costs breakdown" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 
 - [The Big Picture](#the-big-picture)
-- [Electricity Costs](#electricity-costs)
+- [Electricity Costs](#electricity-costs) See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
 - [Natural Gas Costs](#natural-gas-costs)
 - [Water and Sewer Costs](#water-and-sewer-costs)
 - [Internet and Phone](#internet-and-phone)
@@ -64,7 +62,7 @@ Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly
 | Metric | Value |
 |--------|-------|
 | Average monthly bill | $137 |
-| Average kWh used | 886-908 kWh |
+| Average [kWh](/blog/what-is-a-kilowatt-hour) used | 886-908 kWh |
 | Average rate | 14.12¢/kWh |
 | Annual cost | $1,644 |
 
@@ -148,7 +146,7 @@ Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly
 | Sewer | $35-45 | $420-540 |
 | **Combined** | **$75-92** | **$900-1,104** |
 
-### What Affects Water Bills
+### What Affects [water bill](/blog/what-is-ccf-on-a-water-bill)s
 
 | Factor | Impact |
 |--------|--------|
@@ -284,41 +282,39 @@ Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly
 
 ---
 
-## Frequently Asked Questions
-
-### How much should I budget for utilities?
-
+{{< faq "How much should I budget for utilities?" >}}
 **Rule of thumb:** $0.50-1.00 per square foot per month.
-
 | Home Size | Budget Range |
 |-----------|--------------|
 | 1,000 sq ft | $500-1,000/month |
 | 2,000 sq ft | $1,000-2,000/month |
 | 3,000 sq ft | $1,500-3,000/month |
+{{< /faq >}}
 
-### Are utilities included in rent?
-
+{{< faq "Are utilities included in rent?" >}}
 Sometimes. If included:
 - Verify what's included
 - Expect higher rent (landlord isn't losing money)
 - You lose control over usage
+{{< /faq >}}
 
-### What if my utilities are much higher than average?
-
+{{< faq "What if my utilities are much higher than average?" >}}
 Check for:
 - Rate plan (are you on default?)
 - Energy leaks (insulation, windows)
 - Old appliances
 - Phantom loads
 - Incorrect meter readings
+{{< /faq >}}
 
-### Do utilities affect home value?
-
+{{< faq "Do utilities affect home value?" >}}
 Yes. High utility costs reduce affordability. In areas with high utilities:
 - Buyers have less budget for mortgage
 - Homes may sit longer on market
 - Energy-efficient homes command premium
+{{< /faq >}}
 
+{{< faq-schema >}}
 ---
 
 ## Quick Reference
@@ -346,3 +342,5 @@ Knowing the averages helps you benchmark your costs. If you're significantly abo
 - [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
 - [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
 - [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
+- [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained)
+- [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)

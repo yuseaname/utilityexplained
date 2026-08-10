@@ -3,7 +3,7 @@ title: "Gas vs. Electric Heating: Cost Comparison for Real Homes"
 slug: "gas-vs-electric-heating-cost-comparison"
 description: "Compare gas and electric heating costs, efficiency, and what matters on your bill."
 date: 2025-12-26
-author: "Utility Explained"
+author: "David Chen"
 category: "Comparisons"
 categories: ["Comparisons"]
 tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
@@ -219,6 +219,19 @@ Modern heat pumps still work in cold weather, but efficiency drops. Many systems
 It depends on local rates, your climate, and your home. Comparing fuel costs, fixed charges, and system efficiency can help you decide.
 
 {{< /faq >}}
+
+
+## Heating Cost Comparison by System Type
+
+| System | Efficiency | Fuel Cost | Annual Cost (1,500sf) | Best For |
+|--------|:---:|:---:|:---:|---------|
+| Gas furnace (80% AFUE) | 80% | $1.20/therm | $900-1,200 | Cold climates |
+| Gas furnace (96% AFUE) | 96% | $1.20/therm | $750-1,000 | Cold climates |
+| Electric resistance | 100% | $0.14/kWh | $1,500-2,200 | Mild climates |
+| Air-source heat pump | 250% | $0.14/kWh | $600-1,000 | Moderate climates |
+| Geothermal heat pump | 400% | $0.14/kWh | $400-700 | Any climate |
+| Mini-split heat pump | 300% | $0.14/kWh | $500-900 | Zoned heating |
+
 
 {{< faq-schema >}}
 

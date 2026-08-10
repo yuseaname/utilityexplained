@@ -3,27 +3,25 @@ title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
 slug: "07-gas-bill-too-high"
 description: "Troubleshoot a high natural gas bill step by step. Covers furnace efficiency, thermostat settings, water heater waste, rate changes, and seasonal spikes with real cost estimates."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
-image: "/images/utility-gas.jpg"
+image: "/images/utility-home.jpg"
 ---
 
-# Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One
+A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it. Learn more in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
 
-A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it.
+Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. Learn more in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained).
 
-Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills.
-
-<img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="Utility bill troubleshooting and household budget review" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
 - [Quick diagnosis: Start here](#quick-diagnosis-start-here)
 - [10 common causes, ranked by likelihood](#10-common-causes-ranked-by-likelihood)
-- [How to read your gas meter](#how-to-read-your-gas-meter)
+- [How to read your gas [meter](/blog/how-to-read-electric-meter)](#how-to-read-your-gas-meter)
 - [Understanding gas rate structures](#understanding-gas-rate-structures)
 - [Cost and savings math](#cost-and-savings-math)
 - [When to call your gas utility](#when-to-call-your-gas-utility)
@@ -111,7 +109,7 @@ Natural gas prices are volatile. Your utility's "gas cost recovery" rate can cha
 
 **What to check on your bill:**
 - **Cost per therm** — Compare with the same month last year.
-- **Delivery charges** — Your utility may have raised the fixed delivery charge.
+- **[delivery charge](/blog/supply-vs-delivery-charges-electricity)s** — Your utility may have raised the fixed delivery charge.
 - **Pipeline or infrastructure surcharges** — Becoming more common.
 - **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
 
@@ -225,27 +223,31 @@ Contact your gas utility when:
 
 ---
 
-## FAQ
-
-### What's a normal gas bill?
+{{< faq "What's a normal gas bill?" >}}
 The average US household gas bill ranges from **$40–$80/month** in summer (mostly water heating and cooking) to **$100–$250/month** in winter (heating-dominated). Bills in cold climates (Minnesota, Michigan, New York) can exceed $300/month in peak winter.
+{{< /faq >}}
 
-### Why is my gas bill high in summer?
+{{< faq "Why is my gas bill high in summer?" >}}
 If your gas bill stays high in summer, the most likely culprits are your **gas water heater** (check temperature settings) or a **gas fireplace pilot light** left on. Other possibilities: gas dryer used frequently, gas stove/oven used heavily, or a small gas leak.
+{{< /faq >}}
 
-### Should I switch to electric heat?
+{{< faq "Should I switch to electric heat?" >}}
 It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our guide on [gas vs electric heat cost comparison](./10-fixed-vs-variable-utility-rate.md).
+{{< /faq >}}
 
-### How do I know if my furnace needs replacing?
+{{< faq "How do I know if my furnace needs replacing?" >}}
 Consider replacement if:
 - It's more than 15–20 years old
 - Your gas bills have been steadily increasing despite same usage habits
 - Repair estimates exceed $500–$1,000
 - The heat exchanger is cracked (carbon monoxide risk — replace immediately)
+{{< /faq >}}
 
-### Can I negotiate my gas rate?
+{{< faq "Can I negotiate my gas rate?" >}}
 In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illinois, and others), you can choose your gas supplier. Compare offers at your state's public utility commission website. In regulated states, rates are set by the commission — you can attend public hearings or file comments during rate cases.
+{{< /faq >}}
 
+{{< faq-schema >}}
 ---
 
 ## Related guides
@@ -261,6 +263,16 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 **Bottom line:** The fastest way to reduce your gas bill is to lower your thermostat by 2–4°F and replace your furnace filter. These two steps take less than 30 minutes and can save 5–15% on heating costs immediately. For long-term savings, invest in insulation and consider upgrading to a high-efficiency furnace when yours reaches end of life.
 
 ---
+
+---
+
+*Related Articles:*
+- [Understanding Natural Gas Bill Charges](/blog/understand-natural-gas-bill-charges)
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
+- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
+
 
 *Related Reading:*
 - [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)

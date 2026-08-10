@@ -4,7 +4,7 @@ slug: "03-why-is-my-electric-bill-so-high"
 aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/"]
 description: "Your electric bill spiked and you don't know why. Here are the 12 most common causes, how to diagnose each one, and what to do about it."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
@@ -12,11 +12,9 @@ keywords: ["why is my electric bill so high", "high electricity bill causes", "e
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
-# Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them
+Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it.
-
-<img src="https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop&q=80" alt="High electric bill with shocking charges" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-home.jpg" alt="High electric bill with shocking charges" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 
@@ -32,10 +30,10 @@ Your electric bill jumped $50, $100, or more — and nothing changed. Or so you 
 
 ### Check These First
 
-| If Bill Doubled | If Bill Up 20-50% | If Bill Gradually Rising |
+| If Bill Doubled | If Bill Up 20-50% | If Bill Gradually Rising | See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
 |-----------------|-------------------|-------------------------|
-| Meter error | Seasonal change | Rate increases |
-| Billing error | New appliance | Appliance aging |
+| Meter error | Seasonal change | Rate increases | See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
+| Billing error | New appliance | Appliance aging | See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 | Theft | Guest/occupant | Insulation degradation |
 
 ### The 30-Second Test
@@ -312,43 +310,38 @@ If you have a smart meter:
 
 ---
 
-## Frequently Asked Questions
-
-### Can a faulty meter cause high bills?
-
+{{< faq "Can a faulty meter cause high bills?" >}}
 Yes, but it's rare. Meters typically fail in your favor (under-report). Still worth checking if bill doubled without explanation.
+{{< /faq >}}
 
-### How much is too much for electricity?
-
+{{< faq "How much is too much for electricity?" >}}
 | Situation | "Normal" Range |
 |-----------|---------------|
 | 1 person, apartment | 300-500 kWh |
 | 2 people, house | 600-900 kWh |
 | Family of 4, house | 900-1,300 kWh |
 | Large home, pool | 1,300-2,000 kWh |
-
 **If you're 50%+ above these, investigate.**
+{{< /faq >}}
 
-### Can neighbors steal electricity?
-
+{{< faq "Can neighbors steal electricity?" >}}
 Yes, especially in apartments and older buildings. Signs:
 - Bill spikes when you were away
 - Meter spins with everything off
 - Unusual wiring
-
 **Call utility to investigate.**
+{{< /faq >}}
 
-### Why is my bill higher than neighbors?
-
+{{< faq "Why is my bill higher than neighbors?" >}}
 Possible reasons:
 - Different rate plan
 - Different appliances
 - More occupants
 - Poor insulation
 - More electronics
+{{< /faq >}}
 
-### How quickly can I see savings?
-
+{{< faq "How quickly can I see savings?" >}}
 | Change | Time to See Savings |
 |--------|-------------------|
 | Turn off lights | Immediate |
@@ -356,7 +349,9 @@ Possible reasons:
 | Replace appliances | 1 month |
 | Add insulation | 1-2 months |
 | Replace HVAC | 1 month |
+{{< /faq >}}
 
+{{< faq-schema >}}
 ---
 
 ## Action Checklist

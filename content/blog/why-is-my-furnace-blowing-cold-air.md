@@ -3,7 +3,7 @@ title: "Why Is My Furnace Blowing Cold Air? 9 Common Causes"
 slug: "why-is-my-furnace-blowing-cold-air"
 description: "Heat is on but the air feels cold? Learn the most common causes, what is normal, and what to check before you worry."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["furnace", "duct", "heat pump", "therms", "thermostat"]
@@ -173,5 +173,19 @@ That can point to ignition or fuel issues. If the issue persists, contact a lice
 During defrost cycles, heat pumps can blow cooler air briefly. See the heat pump guide for details.
 
 {{< /faq >}}
+
+
+## Furnace Problem Diagnosis Table
+
+| Symptom | Likely Cause | DIY Fix? | Repair Cost |
+|---------|-------------|----------|------------|
+| Cold air at startup | Normal warmup (60-90 sec) | Yes — wait | $0 |
+| Cold air continuously | Pilot light out | Yes — relight | $0 |
+| Cold air, then shuts off | Flame sensor dirty | Yes — clean | $0-150 |
+| Cold air, fan runs | Limit switch tripped | No | $150-300 |
+| Intermittent cold air | Dirty air filter | Yes — replace | $5-15 |
+| Cold air + clicking | Igniter failed | No | $200-400 |
+| Cold air + smell | Cracked heat exchanger | No — DANGER | $1,000-3,000 |
+
 
 {{< faq-schema >}}

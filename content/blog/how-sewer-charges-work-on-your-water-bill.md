@@ -3,7 +3,7 @@ title: "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Th
 slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["sewer", "leak", "ccf", "sewer averaging", "water bill"]
@@ -208,5 +208,28 @@ Winter average is a method where your utility averages water usage during winter
 Yes. If your utility ties sewer charges to your water usage, extra water recorded by the meter can raise both water and sewer charges--even if the leak is silent.
 
 {{< /faq >}}
+
+
+## Sewer Charge Calculation Example
+
+| Step | Description | Amount |
+|------|-------------|--------|
+| 1. Water consumed | 8 CCF (5,984 gallons) | — |
+| 2. Sewer volume | 8 CCF × 80% = 6.4 CCF | — |
+| 3. Sewer rate | $4.25/CCF | — |
+| 4. Volume charge | 6.4 CCF × $4.25 | $27.20 |
+| 5. Fixed sewer fee | Monthly base | $12.00 |
+| 6. **Total sewer** | | **$39.20** |
+
+### Sewer Charge Components Breakdown
+
+| Component | % of Sewer Bill | Typical Cost | Description |
+|-----------|:---:|------------|-------------|
+| Treatment | 45% | $15-25 | Wastewater processing |
+| Collection system | 25% | $8-15 | Pipe maintenance |
+| Fixed base charge | 20% | $8-15 | Infrastructure |
+| Testing/compliance | 5% | $2-4 | EPA requirements |
+| Capital improvement | 5% | $2-4 | Future upgrades |
+
 
 {{< faq-schema >}}

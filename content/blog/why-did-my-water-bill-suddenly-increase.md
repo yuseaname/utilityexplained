@@ -3,7 +3,7 @@ title: "Why Did My Water Bill Suddenly Increase?"
 slug: "why-did-my-water-bill-suddenly-increase"
 description: "Understand the most common reasons water bills spike and how to troubleshoot them."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "gallons", "water bill"]
@@ -197,6 +197,21 @@ It can if it regenerates too often or is set incorrectly. Check the settings and
 Start with a quick leak check at home. If the meter suggests a leak or the bill does not match your reading, contact the utility for help.
 
 {{< /faq >}}
+
+
+## Sudden Bill Increase Causes
+
+| Cause | Typical Increase | How to Check | Urgency |
+|-------|:---:|-------------|:---:|
+| Running toilet | $20-90/mo | Food coloring test | High |
+| Hidden pipe leak | $30-100/mo | Check meter at night | High |
+| Sprinkler malfunction | $15-60/mo | Read meter before/after | Medium |
+| Water heater relief valve | $10-30/mo | Check for dripping pipe | Medium |
+| New appliance | $5-15/mo | Check purchase date | Low |
+| Rate increase | 5-15% | Compare rate per CCF | Low |
+| Estimated billing | Varies | Look for "EST" | Medium |
+| Pool auto-fill stuck | $20-50/mo | Check fill valve | High |
+
 
 {{< faq-schema >}}
 

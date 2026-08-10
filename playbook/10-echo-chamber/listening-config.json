@@ -1,0 +1,175 @@
+{
+  "keywords": [
+    "electric bill",
+    "gas bill",
+    "water bill",
+    "utility bill",
+    "high electric bill",
+    "electricity bill",
+    "energy costs",
+    "kWh",
+    "kilowatt hour",
+    "therm",
+    "CCF",
+    "delivery charge",
+    "supply charge",
+    "demand charge",
+    "fuel adjustment",
+    "customer charge",
+    "service charge",
+    "utility rates",
+    "time of use",
+    "TOU rates",
+    "off peak electricity",
+    "save electricity",
+    "lower electric bill",
+    "reduce utility bills",
+    "energy savings",
+    "home energy",
+    "smart meter",
+    "electric meter",
+    "gas meter",
+    "water meter",
+    "how to read meter",
+    "utility bill explanation",
+    "utility bill help",
+    "understanding utility bill",
+    "energy efficiency",
+    "HVAC efficiency",
+    "insulation",
+    "weatherization",
+    "phantom load",
+    "standby power",
+    "vampire power",
+    "energy audit",
+    "home energy audit",
+    "utility scam",
+    "energy provider",
+    "electric supplier",
+    "net metering",
+    "solar billing",
+    "budget billing",
+    "utility deposit"
+  ],
+  "hashtags": [
+    "#electricbill",
+    "#utilitybill",
+    "#energy",
+    "#electricity",
+    "#energycosts",
+    "#homeenergy",
+    "#kwh",
+    "#kilowatthour",
+    "#utilityrates",
+    "#energysavings",
+    "#saveenergy",
+    "#utilitybills",
+    "#electricitycost",
+    "#energyefficiency",
+    "#hvac",
+    "#smartmeter",
+    "#energymoney",
+    "#budgetbills",
+    "#homeimprovement",
+    "#realestate",
+    "#personalfinance",
+    "#frugal",
+    "#moneytips",
+    "#savemoney"
+  ],
+  "subreddits": [
+    {
+      "name": "r/personalfinance",
+      "focus": "General utility bill questions",
+      "post_frequency": "Daily"
+    },
+    {
+      "name": "r/Frugal",
+      "focus": "Utility saving tips",
+      "post_frequency": "3x/week"
+    },
+    {
+      "name": "r/homeowners",
+      "focus": "HVAC, insulation, meter issues",
+      "post_frequency": "Daily"
+    },
+    {
+      "name": "r/RealEstate",
+      "focus": "Utility costs for buyers",
+      "post_frequency": "3x/week"
+    },
+    {
+      "name": "r/Renters",
+      "focus": "Landlord-utility arrangements",
+      "post_frequency": "2x/week"
+    },
+    {
+      "name": "r/electricians",
+      "focus": "Technical meter questions",
+      "post_frequency": "Weekly"
+    },
+    {
+      "name": "r/HVAC",
+      "focus": "HVAC efficiency",
+      "post_frequency": "Weekly"
+    },
+    {
+      "name": "r/energy",
+      "focus": "Broader energy topics",
+      "post_frequency": "Weekly"
+    },
+    {
+      "name": "r/solar",
+      "focus": "Net metering, solar billing",
+      "post_frequency": "Weekly"
+    },
+    {
+      "name": "r/teslamotors",
+      "focus": "EV charging costs",
+      "post_frequency": "Bi-weekly"
+    },
+    {
+      "name": "r/HomeImprovement",
+      "focus": "Weatherization projects",
+      "post_frequency": "Weekly"
+    },
+    {
+      "name": "r/landlord",
+      "focus": "Rental property utilities",
+      "post_frequency": "Weekly"
+    }
+  ],
+  "response_templates": [
+    {
+      "scenario": "User posts screenshot of confusing bill",
+      "hook_template": "I see {specific_charge} on your bill — that's {explanation}.",
+      "value_add": "Here's what each line item means",
+      "cta": "I wrote a complete guide explaining {charge_type} charges.",
+      "link_strategy": "Link directly to relevant article"
+    },
+    {
+      "scenario": "User asking about high bill spike",
+      "hook_template": "A {percentage}% spike in {season} is usually {common_cause}.",
+      "value_add": "Compare kWh usage to same month last year.",
+      "cta": "I have a step-by-step diagnostic guide.",
+      "link_strategy": "Link to high bill article"
+    },
+    {
+      "scenario": "User confused by kWh",
+      "hook_template": "kWh is just a unit of energy — like gallons for water.",
+      "value_add": "1 kWh = 1,000 watts for 1 hour.",
+      "cta": "I have an appliance kWh cheat sheet.",
+      "link_strategy": "Link to kWh article"
+    }
+  ],
+  "scan_frequency_minutes": 30,
+  "peak_hours": [
+    "9-11am",
+    "7-9pm"
+  ],
+  "tone_guidelines": {
+    "helpful": "Always provide genuine value before linking",
+    "authentic": "Sound like a knowledgeable person, not a brand",
+    "transparent": "Mention 'I wrote a guide' rather than 'Check out our site'"
+  }
+}

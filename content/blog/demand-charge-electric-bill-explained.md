@@ -3,7 +3,7 @@ title: "Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)
 slug: "demand-charge-electric-bill-explained"
 description: "A demand charge is based on your highest short-term usage, not your monthly total. Learn how it is measured and where it appears on your bill."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["demand charge", "kwh", "electric bill"]
@@ -147,3 +147,39 @@ They usually appear as a separate line labeled Demand or kW Demand, with a price
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Demand Charge Calculation Example
+
+Demand charges are based on your highest 15-30 minute usage period during the billing cycle — not your total usage. Here's how it works:
+
+**Scenario:** A small business uses 4,000 kWh in a month but has a peak demand of 20 kW.
+
+| Component | Calculation | Cost |
+|-----------|-------------|------|
+| Energy charge | 4,000 kWh × $0.08 | $320.00 |
+| Demand charge | 20 kW × $15.00/kW | $300.00 |
+| Customer charge | Fixed | $25.00 |
+| **Total** | | **$645.00** |
+
+Without the demand charge, the bill would be $345. The demand charge **nearly doubled** the bill — even though total usage is modest.
+
+### Residential vs Commercial Demand Charges
+
+| Factor | Residential | Commercial | Industrial |
+|--------|-------------|------------|------------|
+| Demand charge? | Rare (growing trend) | Standard | Always |
+| Typical rate | $0-5/kW | $8-20/kW | $12-30/kW |
+| Measurement | 15-min peak | 15-min peak | 15-min peak |
+| Time-of-use impact | Low | High | Very High |
+
+### How to Reduce Demand Charges
+
+| Strategy | Description | Savings Potential |
+|----------|-------------|:---:|
+| Stagger equipment startup | Don't start everything at once | 15-25% |
+| Shift loads to off-peak | Run heavy equipment at night | 20-40% |
+| Install soft starters | Reduce motor inrush current | 10-15% |
+| Add power factor correction | Reduce reactive power | 5-15% |
+| Use battery storage | Shave peak with stored energy | 30-50% |
+| Upgrade to efficient motors | Lower overall draw | 10-20% |
+

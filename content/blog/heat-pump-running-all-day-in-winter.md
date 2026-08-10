@@ -3,7 +3,7 @@ title: "Heat Pump Running All Day in Winter? What Is Normal vs a Problem"
 slug: "heat-pump-running-all-day-in-winter"
 description: "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check."
 date: 2025-12-27
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]
@@ -165,6 +165,19 @@ If the home never reaches setpoint, the air feels cold for long periods, or the 
 Yes. Leaky ducts waste heated air and force the system to run longer to maintain comfort.
 
 {{< /faq >}}
+
+
+## Heat Pump Running Patterns — Normal vs Concerning
+
+| Pattern | Temperature | Normal? | What It Means |
+|---------|------------|---------|---------------|
+| Runs 30-60 min, off 15 min | 35-50°F | ✅ Normal | Heating cycle |
+| Runs continuously | 15-35°F | ✅ Normal | Cold weather mode |
+| Runs continuously + aux heat | Below 15°F | ✅ Expected | Backup heat active |
+| Runs continuously, temp drops | Any | ❌ Problem | Undersized or broken |
+| Short cycles (5-10 min) | Any | ❌ Problem | Thermostat or refrigerant |
+| Runs, blows cold | Any | ❌ Problem | Reversing valve stuck |
+
 
 {{< faq-schema >}}
 

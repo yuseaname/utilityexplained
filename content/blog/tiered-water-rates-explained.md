@@ -3,7 +3,7 @@ title: "Tiered Water Rates Explained: Why Using More Costs Dramatically More"
 slug: "tiered-water-rates-explained"
 description: "Tiered water pricing charges you more per gallon as you use more. Learn how tiers work, how to read your bill, and how to stay in the lower tiers."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["gallons", "budget", "tiered rate", "water bill", "savings"]

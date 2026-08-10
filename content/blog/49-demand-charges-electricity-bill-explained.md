@@ -3,7 +3,7 @@ title: "Demand Charges on Your Electricity Bill Explained"
 slug: "49-demand-charges-electricity-bill-explained"
 description: "Understand demand charges and why your electricity bill spikes. Learn what they are, how they're calculated and strategies to reduce them."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]

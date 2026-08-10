@@ -3,7 +3,7 @@ title: "Utility Bill Proration Explained"
 slug: "20-utility-bill-proration-explained"
 description: "Moving in or out mid-month? Your utility bill will be prorated. Learn how proration works for electric, gas, and water bills, and what to watch for to avoid overpaying."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]
 tags: ["billing", "moving", "utility bills", "electricity"]
@@ -13,7 +13,7 @@ image: "/images/articles/utility-bill-proration-explained/image.webp"
 
 You move into a new apartment on March 15th, and your first electric bill covers March 15 through April 18—34 days instead of the typical 28 to 31. Or you close on a house sale on June 10th and get a final water bill that covers just 10 days of June. These are prorated utility bills, and they work differently from standard monthly bills. If you don't understand the math, you might overpay by $20 to $100 or more—especially when selling or buying a home during the expensive summer or winter months. Here's exactly how utility bill proration works and how to verify you're being charged correctly.
 
-<img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=630&fit=crop&q=80" alt="Calendar and clock representing time-based billing" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Calendar and clock representing time-based billing" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

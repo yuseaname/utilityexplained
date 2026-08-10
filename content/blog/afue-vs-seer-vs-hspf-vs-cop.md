@@ -3,7 +3,7 @@ title: "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
 slug: "afue-vs-seer-vs-hspf-vs-cop"
 description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
@@ -229,5 +229,26 @@ COP (Coefficient of Performance) is a point-in-time efficiency number for heat p
 Sometimes, depending on local gas and electricity prices, system efficiency, and climate. The most practical way to think about it is to compare delivered heat and consider fixed charges.
 
 {{< /faq >}}
+
+
+## Efficiency Rating Comparison
+
+| Rating | Measures | Applies To | Typical Range | Good | Excellent |
+|--------|---------|-----------|:---:|:---:|:---:|
+| AFUE | Fuel efficiency | Furnaces | 80-98.5% | 90%+ | 96%+ |
+| SEER | Cooling efficiency | ACs/Heat pumps | 13-28 | 16+ | 20+ |
+| HSPF | Heating efficiency | Heat pumps | 8.2-14 | 10+ | 12+ |
+| COP | General efficiency | Heat pumps | 2.0-5.0 | 3.0+ | 4.0+ |
+
+### System Type vs Typical Ratings
+
+| System | AFUE | SEER | HSPF | COP | Annual Cost |
+|--------|:---:|:---:|:---:|:---:|:---:|
+| Basic furnace + AC | 80% | 14 | — | — | $1,500 |
+| High-eff furnace + AC | 96% | 16 | — | — | $1,100 |
+| Standard heat pump | — | 15 | 9.0 | 3.0 | $900 |
+| Premium heat pump | — | 22 | 12.0 | 4.5 | $600 |
+| Geothermal | — | — | — | 5.0 | $400 |
+
 
 {{< faq-schema >}}

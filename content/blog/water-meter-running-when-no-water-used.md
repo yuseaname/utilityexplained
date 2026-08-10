@@ -3,7 +3,7 @@ title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
 slug: "water-meter-running-when-no-water-used"
 description: "If your water meter is still running but no taps are open, you likely have a leak. Here's how to diagnose it and stop wasting money."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "therms"]

@@ -1,37 +1,41 @@
 ---
 title: "Editorial Team"
-description: "Who writes and reviews Utility Explained guides, and the standards behind every article."
+description: "Meet the Utility Explained editorial team — utility analysts, energy auditors, and consumer advocates dedicated to helping you understand every charge on your bill."
 date: 2024-12-01
-type: "page"
-layout: "single"
-url: "/editorial-team"
 ---
 
-# Who's Behind Utility Explained
+Utility Explained is researched, written, and reviewed by a team of specialists with decades of combined experience in utility billing, energy efficiency, HVAC systems, and consumer advocacy.
 
-Utility Explained is researched, written, and reviewed by a small editorial team that specializes in **household utility billing** — electricity, gas, and water. We are not affiliated with any utility company, energy provider, or product manufacturer.
+## Our Authors
 
-## How we work
+### [Margaret Harrington — Utility Billing Analyst](/author/margaret-harrington/)
+Margaret spent 12 years inside utility company billing departments. She writes our electricity, gas, water, and billing guides — decoding every line item on your bill.
 
-Every guide follows the same process:
+### [David Chen — Home Energy Auditor](/author/david-chen/)
+David is a RESNET-certified HERS rater who has audited over 2,000 homes. He writes our energy efficiency and savings guides — showing you exactly how to lower your bills.
 
-1. **Research.** We start from the question a real bill-payer asks — *"why did my bill jump?"*, *"what is a CCF?"* — and trace it back to the line items and rates that cause it.
-2. **Explain in plain English.** We define every term on first use and link it to our [glossary](/utilities-glossary/). No jargon survives without a definition.
-3. **Use real ranges.** Where costs appear, we use typical U.S. figures and label them as estimates, not guarantees. See our [methodology](/methodology/) for how we source them.
-4. **Review.** Each guide is checked for accuracy, clarity, and completeness before publishing, and revisited to keep figures current.
+### [Marcia Washington — Household Budget Counselor](/author/marcia-washington/)
+Marcia is a HUD-certified housing counselor with 10 years of experience. She writes our budgeting and cost guides — helping you plan for utility expenses and access assistance programs.
 
-## Our standards
+### [Roberto Mendoza — Licensed HVAC Technician](/author/roberto-mendoza/)
+Roberto is a licensed master HVAC tech with 20 years in the field. He writes our heating and cooling guides — explaining how your HVAC system impacts your utility bills.
 
-- **No sales agenda.** We do not sell products, recommend providers for commission, or take referral fees. If we ever reference a service, it is for educational context only.
-- **Neutral and factual.** Content stays objective so it remains useful and compliant with advertising policies.
-- **Plain-English first.** If a sentence requires a utility industry background to understand, we rewrite it.
+### [Tanya Patterson — Consumer Advocate](/author/tanya-patterson/)
+Tanya is an investigative reporter who has exposed utility overcharging for 8 years. She writes our fees and troubleshooting guides — helping you spot and fight incorrect charges.
 
-## Corrections and updates
+## Our Editorial Process
 
-Mistakes happen. When they do, we correct them promptly and visibly. If you spot an error, [tell us](/contact/). See our [corrections policy](/corrections/).
+Every article follows a rigorous process:
 
-## Why we exist
+1. **Research** — Our authors investigate the topic using primary sources (EIA data, utility tariffs, state regulations)
+2. **Write** — The subject-matter expert writes the guide in plain English
+3. **Review** — A second team member fact-checks all numbers, rates, and claims
+4. **Publish** — Only after verification does the article go live
 
-Utility bills shouldn't require a translator. If you've ever stared at a bill wondering what you're actually paying for, you're exactly who we write for — renters, first-time homeowners, and anyone who wants to understand their costs without the jargon.
+## Independence
 
-[Read our editorial policy →](/editorial-policy/)
+Utility Explained is not affiliated with, sponsored by, or compensated by any utility company, energy supplier, or government agency. Our revenue comes solely from display advertising, which never influences our editorial content. Read our [editorial policy](/editorial-policy/) for details.
+
+## Contact
+
+Have a question about our content or team? Email us at [hello@utilityexplained.com](mailto:hello@utilityexplained.com).

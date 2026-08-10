@@ -3,7 +3,7 @@ title: "Supply vs Delivery Charges Explained (Generation vs Distribution on Elec
 slug: "supply-vs-delivery-charges-electricity"
 description: "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["delivery charge", "kwh", "supply charge", "electric bill", "demand charge"]
@@ -147,3 +147,42 @@ They are usually listed as separate sections or line items labeled Supply and De
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Deregulated vs Regulated States
+
+Whether you can shop for your electricity supplier depends on your state. In deregulated states, you choose who generates your power (supply), while the utility still delivers it.
+
+| State | Deregulated? | Can Shop Supply? | Notes |
+|-------|:---:|:---:|-------|
+| Texas | ✅ | Yes | Most competitive market |
+| Pennsylvania | ✅ | Yes | Strong consumer protections |
+| Ohio | ✅ | Yes | Compare offers at EnergyChoiceOhio.gov |
+| New York | ✅ | Yes | ConEd, National Grid territories |
+| Illinois | ✅ | Yes | ComEd territory |
+| Maryland | ✅ | Yes | BGE, Pepco territories |
+| New Jersey | ✅ | Yes | PSE&G, JCP&L territories |
+| Connecticut | ✅ | Yes | Eversource, UI territories |
+| Massachusetts | ✅ | Yes | Limited suppliers |
+| California | ❌ | No | Regulated (CPUC sets rates) |
+| Florida | ❌ | No | Regulated |
+| Georgia | ❌ | No | Regulated |
+
+### How to Reduce Each Charge
+
+| Charge Type | Reduction Strategy | Potential Savings |
+|-------------|-------------------|-------------------|
+| Supply charge | Switch to cheaper supplier (deregulated states) | 5-15% |
+| Supply charge | Use less electricity | Direct |
+| Delivery charge | Reduce peak demand (TOU plans) | 10-20% |
+| Delivery charge | Energy efficiency upgrades | 5-15% |
+| Customer charge | Cannot reduce (fixed) | $0 |
+
+### Supply vs Delivery Cost Breakdown by Region
+
+| Region | Supply % | Delivery % | Average Total |
+|--------|---------|-----------|---------------|
+| Northeast | 45% | 55% | $0.22/kWh |
+| Midwest | 55% | 45% | $0.14/kWh |
+| South | 50% | 50% | $0.12/kWh |
+| West | 45% | 55% | $0.19/kWh |
+

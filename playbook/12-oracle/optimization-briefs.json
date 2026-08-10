@@ -1,0 +1,263 @@
+[
+  {
+    "slug": "01-how-to-read-your-electric-bill",
+    "current_title": "How to Read Your Electric Bill (Line by Line Guide)",
+    "issues": [
+      {"issue": "missing_internal_links", "recommendation": "Add 5+ internal links to related articles within same category", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "content_depth", "recommendation": "Add comparison table for state-by-state rate differences", "priority": "medium", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add 3-5 FAQ items using shortcode for FAQPage schema", "priority": "high", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "02-average-utility-costs-2026",
+    "current_title": "Average Utility Costs in 2026: Complete Breakdown",
+    "issues": [
+      {"issue": "outdated_data", "recommendation": "Update with Q1 2026 EIA data and regional breakdowns", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add state-by-state comparison table with monthly averages", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add CTA to specific state guides for deeper localization", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "03-why-is-my-electric-bill-so-high",
+    "current_title": "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Expand troubleshooting section with diagnostic flowchart", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_faq", "recommendation": "Add seasonal FAQ section for summer/winter-specific issues", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "title_optimization", "recommendation": "Add year and number to title for freshness", "priority": "medium", "estimated_effort_hours": 0.2}
+    ]
+  },
+  {
+    "slug": "04-hidden-fees-utility-bill",
+    "current_title": "Hidden Fees on Your Utility Bill",
+    "issues": [
+      {"issue": "content_depth", "recommendation": "Add fee breakdown table with typical ranges", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_internal_links", "recommendation": "Link to each fee type's detailed explanation article", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "mobile_readability", "recommendation": "Format fee list as collapsible accordions for mobile", "priority": "medium", "estimated_effort_hours": 0.75}
+    ]
+  },
+  {
+    "slug": "05-how-to-lower-utility-bills",
+    "current_title": "How to Lower Your Utility Bills",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add room-by-room savings checklist", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add savings calculator table with ROI estimates", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add free energy audit CTA", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "06-water-bill-too-high",
+    "current_title": "Water Bill Too High?",
+    "issues": [
+      {"issue": "title_optimization", "recommendation": "Add number list and year to title", "priority": "medium", "estimated_effort_hours": 0.2},
+      {"issue": "missing_faq", "recommendation": "Add leak detection FAQ and repair guide", "priority": "high", "estimated_effort_hours": 0.75},
+      {"issue": "thin_section", "recommendation": "Add water usage calculator by fixture type", "priority": "medium", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "07-gas-bill-too-high",
+    "current_title": "Gas Bill Too High?",
+    "issues": [
+      {"issue": "title_optimization", "recommendation": "Add year and specific causes to title", "priority": "medium", "estimated_effort_hours": 0.2},
+      {"issue": "missing_internal_links", "recommendation": "Link to HVAC efficiency articles", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "content_depth", "recommendation": "Add gas appliance efficiency comparison table", "priority": "medium", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "08-time-of-use-electricity",
+    "current_title": "Time-of-Use Electricity Rates",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add peak/off-peak schedule comparison table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add TOU optimization tips for major appliances", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add TOU vs flat rate FAQ", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "09-apartment-utilities-cost",
+    "current_title": "Apartment Utilities Cost",
+    "issues": [
+      {"issue": "outdated_data", "recommendation": "Update 2026 rental market utility cost averages", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_table", "recommendation": "Add cost breakdown by apartment size and location", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add roommate utility split calculator CTA", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "10-fixed-vs-variable-utility-rate",
+    "current_title": "Fixed vs Variable Utility Rate",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add decision matrix for rate selection", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add rate switching FAQ and timing guide", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "content_depth", "recommendation": "Add historical rate volatility charts", "priority": "medium", "estimated_effort_hours": 1.5}
+    ]
+  },
+  {
+    "slug": "11-understanding-kwh-usage",
+    "current_title": "Understanding kWh Usage",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add appliance kWh consumption table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add usage calculation examples with real bills", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_internal_links", "recommendation": "Link to reduction tips article", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "12-how-to-read-your-gas-bill",
+    "current_title": "How to Read Your Gas Bill",
+    "issues": [
+      {"issue": "content_depth", "recommendation": "Add therm-to-kWh conversion explanation", "priority": "medium", "estimated_effort_hours": 0.75},
+      {"issue": "missing_faq", "recommendation": "Add gas meter reading FAQ", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "mobile_readability", "recommendation": "Format charge breakdown as mobile-friendly cards", "priority": "low", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "13-ac-short-cycling-causes-fixes",
+    "current_title": "AC Short Cycling: Causes and Fixes",
+    "issues": [
+      {"issue": "missing_faq", "recommendation": "Add DIY vs professional repair FAQ", "priority": "high", "estimated_effort_hours": 0.75},
+      {"issue": "thin_section", "recommendation": "Add cost estimate table for repairs vs replacement", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add HVAC technician finder CTA", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "14-estimated-utility-bill-explained",
+    "current_title": "Estimated Utility Bill Explained",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add estimation accuracy improvement tips", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_internal_links", "recommendation": "Link to meter reading guide", "priority": "medium", "estimated_effort_hours": 0.3},
+      {"issue": "content_depth", "recommendation": "Add true-up bill explanation with examples", "priority": "medium", "estimated_effort_hours": 0.75}
+    ]
+  },
+  {
+    "slug": "15-why-utility-bill-higher-same-usage",
+    "current_title": "Why Utility Bill Higher Same Usage",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add rate increase notification tracking guide", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add rate hike dispute FAQ", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "content_depth", "recommendation": "Add seasonal rate change explanation", "priority": "medium", "estimated_effort_hours": 0.75}
+    ]
+  },
+  {
+    "slug": "16-budget-billing-level-pay-explained",
+    "current_title": "Budget Billing Level Pay Explained",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add budget billing vs actual cost comparison table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add catch-up bill explanation with examples", "priority": "high", "estimated_effort_hours": 0.75},
+      {"issue": "missing_faq", "recommendation": "Add enrollment/exit FAQ", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "17-what-is-customer-charge-on-utility-bill",
+    "current_title": "What Is Customer Charge on Utility Bill",
+    "issues": [
+      {"issue": "content_depth", "recommendation": "Add customer charge range comparison by utility", "priority": "medium", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add fixed charge vs usage charge explanation", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "missing_internal_links", "recommendation": "Link to fee reduction strategies", "priority": "low", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "18-fuel-adjustment-charge-on-utility-bill-explained",
+    "current_title": "Fuel Adjustment Charge on Utility Bill Explained",
+    "issues": [
+      {"issue": "outdated_data", "recommendation": "Update with 2026 fuel price trends", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add fuel charge volatility explanation", "priority": "medium", "estimated_effort_hours": 0.75},
+      {"issue": "missing_faq", "recommendation": "Add fuel hedging FAQ", "priority": "low", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "19-utility-bill-surcharges-and-riders-explained",
+    "current_title": "Utility Bill Surcharges and Riders Explained",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add surcharge type table with descriptions", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "content_depth", "recommendation": "Add regulatory explanation for common riders", "priority": "medium", "estimated_effort_hours": 1.5},
+      {"issue": "mobile_readability", "recommendation": "Format surcharge list for mobile readability", "priority": "low", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "24-delivery-charge-vs-supply-charge-utility-bill",
+    "current_title": "Delivery Charge vs Supply Charge",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add delivery vs supply charge breakdown table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add deregulated market explanation", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add supplier switching FAQ", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  },
+  {
+    "slug": "30-sudden-spike-in-electricity-bill-no-usage",
+    "current_title": "Sudden Spike in Electricity Bill No Usage",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add leak/phantom load detection checklist", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_faq", "recommendation": "Add meter accuracy testing FAQ", "priority": "high", "estimated_effort_hours": 0.75},
+      {"issue": "weak_cta", "recommendation": "Add energy audit CTA", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "average-utility-bills-by-state-2026",
+    "current_title": "Average Utility Bills by State 2026",
+    "issues": [
+      {"issue": "outdated_data", "recommendation": "Update with latest EIA state-level data", "priority": "high", "estimated_effort_hours": 2.0},
+      {"issue": "missing_table", "recommendation": "Add comprehensive state ranking table", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "content_depth", "recommendation": "Add regional climate impact explanation", "priority": "medium", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "how-to-lower-electric-bill-without-solar",
+    "current_title": "How to Lower Your Electric Bill Without Solar",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add behavioral vs hardware savings comparison", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add ROI table for common efficiency upgrades", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add rebates finder CTA", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "what-is-a-kilowatt-hour",
+    "current_title": "What Is a Kilowatt-Hour?",
+    "issues": [
+      {"issue": "missing_table", "recommendation": "Add appliance kWh consumption reference table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "thin_section", "recommendation": "Add usage calculation practice examples", "priority": "medium", "estimated_effort_hours": 0.75},
+      {"issue": "missing_internal_links", "recommendation": "Link to reduction strategies article", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "how-do-smart-meters-work",
+    "current_title": "How Do Smart Meters Work?",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add smart meter benefits vs analog comparison", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_faq", "recommendation": "Add privacy/health concerns FAQ", "priority": "high", "estimated_effort_hours": 0.75},
+      {"issue": "content_depth", "recommendation": "Add smart meter data access guide", "priority": "medium", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "why-is-my-electricity-bill-so-high-in-summer",
+    "current_title": "Why Is My Electricity Bill So High in Summer?",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add AC efficiency troubleshooting guide", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add summer appliance cost breakdown table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "weak_cta", "recommendation": "Add free AC tune-up CTA", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "why-is-my-electricity-bill-so-high-in-winter",
+    "current_title": "Why Is My Electricity Bill So High in Winter?",
+    "issues": [
+      {"issue": "thin_section", "recommendation": "Add heating system efficiency guide", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add winter heating cost comparison table", "priority": "high", "estimated_effort_hours": 1.0},
+      {"issue": "missing_internal_links", "recommendation": "Link to heat pump comparison article", "priority": "medium", "estimated_effort_hours": 0.3}
+    ]
+  },
+  {
+    "slug": "heat-pump-vs-gas-furnace-savings",
+    "current_title": "Heat Pump vs Gas Furnace Savings",
+    "issues": [
+      {"issue": "outdated_data", "recommendation": "Update with 2026 energy prices and incentives", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_table", "recommendation": "Add cost comparison table by climate zone", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "thin_section", "recommendation": "Add hybrid system consideration section", "priority": "medium", "estimated_effort_hours": 1.0}
+    ]
+  },
+  {
+    "slug": "how-to-read-your-utility-bill",
+    "current_title": "How to Read Your Utility Bill",
+    "issues": [
+      {"issue": "content_depth", "recommendation": "Add multi-utility bill reading guide (electric+gas+water)", "priority": "high", "estimated_effort_hours": 1.5},
+      {"issue": "missing_internal_links", "recommendation": "Link to each utility type's detailed guide", "priority": "medium", "estimated_effort_hours": 0.5},
+      {"issue": "missing_faq", "recommendation": "Add common bill reading mistakes FAQ", "priority": "medium", "estimated_effort_hours": 0.5}
+    ]
+  }
+]

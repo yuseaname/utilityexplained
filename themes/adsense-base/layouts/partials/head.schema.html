@@ -58,6 +58,15 @@
       {{- $article = dict "dateModified" (printf "%s" .) | merge $article -}}
     {{- end -}}
   {{- end -}}
+  {{- with .WordCount -}}
+    {{- $article = dict "wordCount" . | merge $article -}}
+  {{- end -}}
+  {{- with .Params.keywords -}}
+    {{- $article = dict "keywords" (delimit . ", ") | merge $article -}}
+  {{- end -}}
+  {{- with .Params.categories -}}
+    {{- $article = dict "articleSection" (delimit . ", ") | merge $article -}}
+  {{- end -}}
   {{- $schemas = $schemas | append $article -}}
 {{- end -}}
 
@@ -112,6 +121,28 @@
         "mainEntity" $faqItems
     -}}
     {{- $schemas = $schemas | append $faqSchema -}}
+  {{- end -}}
+{{- end -}}
+
+
+{{/* ── HowTo schema (if howto shortcodes were used) ── */}}
+{{- with .Store.Get "howtoSteps" -}}
+  {{- if gt (len .) 0 -}}
+    {{- $steps := slice -}}
+    {{- range $i, $step := . -}}
+      {{- $steps = $steps | append (dict
+          "@type" "HowToStep"
+          "name" $step.name
+          "text" $step.text
+      ) -}}
+    {{- end -}}
+    {{- $howtoSchema := dict
+        "@context" "https://schema.org"
+        "@type" "HowTo"
+        "name" ($.Store.Get "howtoTitle")
+        "step" $steps
+    -}}
+    {{- $schemas = $schemas | append $howtoSchema -}}
   {{- end -}}
 {{- end -}}
 

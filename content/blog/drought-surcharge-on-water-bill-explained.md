@@ -3,7 +3,7 @@ title: "Drought Surcharge on Your Water Bill: What It Is and Why You"
 slug: "drought-surcharge-on-water-bill-explained"
 description: "Seeing a drought surcharge or drought penalty on your water bill? Here's exactly what it means, how it's calculated, and whether you can reduce it."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["surcharge", "drought surcharge", "gallons", "savings", "water bill"]

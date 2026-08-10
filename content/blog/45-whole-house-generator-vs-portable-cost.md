@@ -3,12 +3,12 @@ title: "Whole House Generator vs. Portable: Real Cost Comparison"
 slug: "45-whole-house-generator-vs-portable-cost"
 description: "Compare the true costs of whole house generators vs portable generators. Upfront price, fuel, maintenance and which is better for your budget."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Backup Power"
 categories: ["Backup Power"]
 tags: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison"]
 keywords: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison", "backup power cost"]
-image: "/images/utility-paperwork.jpg"
+image: "/images/utility-hvac.jpg"
 ---
 
 When the lights flicker and the neighborhood goes dark during a summer thunderstorm, the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?

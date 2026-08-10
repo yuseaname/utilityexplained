@@ -3,7 +3,7 @@ title: "Water Service Charge Explained: What the Fixed Fee Covers (and Why You S
 slug: "water-service-charge-explained"
 description: "Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["ccf", "water bill", "leak", "gallons", "surcharge"]

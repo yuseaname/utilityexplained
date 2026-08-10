@@ -3,7 +3,7 @@ title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
 slug: "what-is-ccf-on-a-water-bill"
 description: "CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["ccf", "gallons", "water bill", "leak", "water meter"]
@@ -208,5 +208,26 @@ No. One CCF equals 100 cubic feet. A cubic foot is the smaller base unit; CCF is
 Some utilities use cubic feet/CCF because many water meters record in cubic feet. Billing in CCF is a convenient way to summarize volume.
 
 {{< /faq >}}
+
+
+## Water Measurement Conversion Table
+
+| Unit | Abbreviation | Gallons | Cubic Feet | Liters |
+|------|-------------|---------|-----------|--------|
+| 1 CCF | 1 CCF | 748 | 100 | 2,832 |
+| 1 MCF | 1 MCF | 7,480 | 1,000 | 28,317 |
+| 1 gallon | 1 gal | 1 | 0.134 | 3.785 |
+| 1 cubic foot | 1 ft³ | 7.48 | 1 | 28.3 |
+
+### Typical CCF Usage by Household Size
+
+| Household | Monthly CCF | Monthly Gallons | Typical Cost |
+|-----------|------------|-----------------|-------------|
+| 1 person | 2-4 CCF | 1,500-3,000 | $25-$50 |
+| 2 people | 4-6 CCF | 3,000-4,500 | $40-$70 |
+| 3 people | 6-8 CCF | 4,500-6,000 | $55-$90 |
+| 4 people | 8-12 CCF | 6,000-9,000 | $70-$120 |
+| 5+ people | 12-18 CCF | 9,000-13,500 | $100-$170 |
+
 
 {{< faq-schema >}}

@@ -1,0 +1,115 @@
+{
+  "site": "utilityexplained.com",
+  "publishing_cadence": "3-5 articles per day",
+  "total_articles_planned": 91,
+  "period_days": 30,
+  "personas": [
+    "Utility Analyst",
+    "Energy Auditor",
+    "Budget Counselor",
+    "HVAC Technician",
+    "Consumer Advocate"
+  ],
+  "weekly_themes": [
+    {
+      "week": 1,
+      "theme": "Foundation",
+      "focus": "Gap analysis topics"
+    },
+    {
+      "week": 2,
+      "theme": "Content Engine",
+      "focus": "Pillar + cluster articles"
+    },
+    {
+      "week": 3,
+      "theme": "Distribution",
+      "focus": "Trend topics + comparisons"
+    },
+    {
+      "week": 4,
+      "theme": "Optimization",
+      "focus": "Cannibalizers + advanced"
+    }
+  ],
+  "calendar": [
+    {
+      "day": 1,
+      "date": "2026-08-10",
+      "week_theme": "Foundation",
+      "articles": [
+        {
+          "title": "What Is a Kilowatt Hour",
+          "slug": "what-is-a-kilowatt-hour",
+          "category": "Electricity",
+          "type": "pillar",
+          "persona": "Utility Analyst",
+          "words": 800
+        },
+        {
+          "title": "How to Read Your Electric Bill",
+          "slug": "how-to-read-your-electric-bill",
+          "category": "Billing",
+          "type": "pillar",
+          "persona": "Consumer Advocate",
+          "words": 1200
+        },
+        {
+          "title": "What Is a Therm",
+          "slug": "what-is-a-therm",
+          "category": "Gas",
+          "type": "gap_fill",
+          "persona": "Utility Analyst",
+          "words": 600
+        },
+        {
+          "title": "Understanding Water Bill",
+          "slug": "understanding-water-bill",
+          "category": "Water",
+          "type": "gap_fill",
+          "persona": "Utility Analyst",
+          "words": 700
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-08-11",
+      "week_theme": "Foundation",
+      "articles": [
+        {
+          "title": "What Is Customer Charge",
+          "slug": "customer-charge-utility-bill",
+          "category": "Billing",
+          "type": "gap_fill",
+          "persona": "Consumer Advocate",
+          "words": 650
+        },
+        {
+          "title": "How to Read Gas Meter",
+          "slug": "how-to-read-gas-meter",
+          "category": "Gas",
+          "type": "howto",
+          "persona": "Energy Auditor",
+          "words": 900
+        },
+        {
+          "title": "What Is CCF on Water Bill",
+          "slug": "what-is-ccf-on-water-bill",
+          "category": "Water",
+          "type": "definition",
+          "persona": "Utility Analyst",
+          "words": 550
+        },
+        {
+          "title": "Electricity Bill Too High",
+          "slug": "electricity-bill-too-high",
+          "category": "Costs",
+          "type": "troubleshooting",
+          "persona": "Energy Auditor",
+          "words": 1100
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@ title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your 
 slug: "is-your-toilet-running-leak-test"
 description: "Running toilets are one of the most common hidden causes of high water bills. Here's how to test for a leak and what it usually means."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "water meter", "sewer", "ccf"]
@@ -168,5 +168,18 @@ Often, yes. In many areas, sewer charges are based on your measured water usage,
 A worn or mis-seated flapper is one of the most common causes. Fill valve issues and an overly high tank water level are also frequent.
 
 {{< /faq >}}
+
+
+## Toilet Leak Cost Calculator
+
+| Leak Rate | Gallons/Day | Gallons/Month | Monthly Cost |
+|-----------|------------|---------------|-------------|
+| Slow drip | 5 | 150 | $0.50-$1.50 |
+| Visible run | 30 | 900 | $3-$9 |
+| Continuous run | 200 | 6,000 | $20-$60 |
+| Flapper open | 300+ | 9,000+ | $30-$90+ |
+
+*Based on average water rate of $4/1,000 gallons including sewer.*
+
 
 {{< faq-schema >}}

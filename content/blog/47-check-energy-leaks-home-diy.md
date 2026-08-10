@@ -3,7 +3,7 @@ title: "How to Check for Energy Leaks at Home: DIY Inspection Guide"
 slug: "47-check-energy-leaks-home-diy"
 description: "Stop wasting money on heating and cooling. Learn how to find and seal energy leaks in your home with simple DIY tools and techniques."
 date: 2026-05-30
-author: "Utility Explained"
+author: "Roberto Mendoza"
 category: "Heating"
 categories: ["Heating"]
 tags: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation"]

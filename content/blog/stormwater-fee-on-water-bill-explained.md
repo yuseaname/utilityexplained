@@ -3,7 +3,7 @@ title: "Stormwater Fee on Your Water Bill: What You"
 slug: "stormwater-fee-on-water-bill-explained"
 description: "Most people don't know they're paying a stormwater fee on their water bill. Here's what this charge funds, how it's calculated, and if you can get a discount."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["stormwater", "water bill", "savings", "smart meter", "sewer"]

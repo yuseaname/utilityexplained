@@ -3,7 +3,7 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
@@ -158,6 +158,50 @@ Check the billing period length, whether the bill was estimated, the total kWh, 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Complete Line-Item Glossary
+
+Your electric bill may contain 15+ separate charges. Here's what each one means:
+
+| Charge | What It Covers | Typical Cost | Variable or Fixed |
+|--------|---------------|-------------|:---:|
+| Energy/Generation charge | Cost of electricity produced | 8-15¢/kWh | Variable |
+| Supply charge | Same as energy (deregulated) | 6-12¢/kWh | Variable |
+| Delivery/Distribution charge | Local wire maintenance | 2-5¢/kWh | Variable |
+| Transmission charge | High-voltage grid | 1-2¢/kWh | Variable |
+| Customer charge | Account infrastructure | $5-15/mo | Fixed |
+| Demand charge | Peak usage (commercial) | $8-20/kW | Variable |
+| Fuel adjustment | Fuel cost pass-through | 0.5-2¢/kWh | Variable |
+| Renewable energy charge | Green energy programs | $0.50-2/mo | Fixed |
+| Energy efficiency charge | State efficiency programs | $1-3/mo | Fixed |
+| Nuclear decommissioning | Cleanup fund | $0.50-1/mo | Fixed |
+| Franchise fee | Municipal right-of-way | 1-5% of bill | Variable |
+| Taxes | State/local utility tax | 3-8% | Variable |
+| Late fee | Past due penalty | 1-5% | Conditional |
+| Minimum bill charge | Minimum revenue guarantee | $10-25/mo | Conditional |
+
+### Typical Bill Breakdown by Percentage
+
+| Category | % of Total Bill | Amount (on $150 bill) |
+|----------|:---:|:---:|
+| Generation/Supply | 45% | $67.50 |
+| Delivery/Distribution | 25% | $37.50 |
+| Transmission | 8% | $12.00 |
+| Customer charge | 7% | $10.50 |
+| Fuel adjustment | 5% | $7.50 |
+| Taxes & fees | 10% | $15.00 |
+
+### Red Flag Charges to Watch For
+
+Watch for these charges that may indicate billing errors or questionable fees:
+- **Negative usage** — Meter error
+- **Same kWh every month** — Estimated billing
+- **New charges not on previous bills** — Utility added fees
+- **Demand charge on residential bill** — Usually shouldn't exist (yet)
+- **Multiple customer charges** — Should only appear once
+- **Unusually high fuel adjustment** — May indicate billing error
+
+
 
 ---
 

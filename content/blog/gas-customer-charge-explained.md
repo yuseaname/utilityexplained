@@ -3,7 +3,7 @@ title: "Gas Customer Charge Explained (Why You Pay Even With Low Usage)"
 slug: "gas-customer-charge-explained"
 description: "That monthly customer or basic service charge is normal. Learn what it covers and how it affects your total bill."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["customer charge", "therms", "gas bill", "delivery charge"]
@@ -165,6 +165,43 @@ Look for labels like Customer Charge, Basic Service Charge, or Service Availabil
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Customer Charge by State
+
+The gas customer charge (also called "basic service charge" or "facility charge") varies significantly by state and utility. Here's a comparison of typical charges:
+
+| Utility | State | Monthly Customer Charge | Includes |
+|---------|-------|:---:|---------|
+| National Grid | NY | $22.50 | Meter, billing, connection |
+| ConEdison | NY | $18.75 | Meter, billing, connection |
+| Peoples Gas | IL | $27.00 | Meter, billing, pipeline |
+| Nicor Gas | IL | $21.00 | Meter, billing, connection |
+| PG&E | CA | $15.90 | Meter, billing, connection |
+| SoCalGas | CA | $20.00 | Meter, billing, connection |
+| CenterPoint | MN | $12.50 | Meter, billing, connection |
+| Atmos Energy | TX | $19.50 | Meter, billing, connection |
+| Dominion | OH | $24.75 | Meter, billing, pipeline |
+| Xcel Energy | CO | $16.00 | Meter, billing, connection |
+
+### What's Included in the Customer Charge
+
+| Component | Description | % of Charge |
+|-----------|-------------|:---:|
+| Meter maintenance | Reading, testing, replacement | 25% |
+| Billing & customer service | Statement, processing, support | 30% |
+| Connection infrastructure | Pipes, valves to your property | 25% |
+| Fixed overhead | Administrative, regulatory costs | 20% |
+
+### How to Challenge Your Customer Charge
+
+The customer charge is set by your state's Public Utility Commission (PUC), not the gas company directly. To challenge it:
+
+1. **Contact your utility first** — Ask if there's a low-income discount or waiver
+2. **File a complaint with your state PUC** — Search "[your state] public utility commission complaint"
+3. **Check for budget billing** — This spreads costs evenly but doesn't reduce the charge
+4. **Verify you're on the right rate class** — Some customers are misclassified (residential vs small commercial)
+
+
 
 ---
 

@@ -19,6 +19,8 @@ theme = 'adsense-base'
       mid_article = { id = '7429084400', format = 'auto', responsive = 'true' }
       end_article = { id = '3364726638', format = 'auto', responsive = 'true' }
 
+  google_analytics = 'G-SGVWNS876W'
+
   [params.rybbit]
     instance_url = 'https://app.rybbit.io'
     site_id = 'd5b63e065e9d'
@@ -86,9 +88,14 @@ theme = 'adsense-base'
     url = "/about/"
     weight = 2
   [[menus.secondary]]
+    name = "Our Authors"
+    url = "/author/"
+    weight = 3
+
+  [[menus.secondary]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
   [[menus.footer]]
     name = "Privacy Policy"

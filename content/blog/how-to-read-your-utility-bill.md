@@ -3,7 +3,7 @@ title: "How to Read Your Utility Bill: A Plain-English Guide to Every Section"
 slug: "how-to-read-your-utility-bill"
 description: "Learn what every line on your utility bill means, from delivery charges to taxes, so you can spot errors, verify meter readings, and cut costs."
 date: 2026-05-29
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["utility bill", "read your bill", "billing charges", "meter reading", "bill breakdown"]
@@ -224,6 +224,8 @@ Start with your utility’s  financial assistance program  — most offer paymen
 
 ---
 
-*Related Reading:*
+*Related Articles:*
 - [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
 - [How to Read Your Gas Bill: A Plain-English Guide to Every Line Item](/blog/12-how-to-read-your-gas-bill)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)

@@ -3,7 +3,7 @@ title: "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
 slug: "why-did-my-utility-bill-go-up-this-month"
 description: "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections."
 date: 2026-01-15
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["estimated bill", "surcharge", "budget"]
@@ -173,6 +173,21 @@ They can. Some service charges and riders are adjusted periodically, so a higher
 Check the billing period length, look for estimated reads, and scan line items for rate changes or new riders.
 
 {{< /faq >}}
+
+
+## Common Bill Increase Causes
+
+| Cause | Typical Increase | How to Verify | How to Fix |
+|-------|-----------------|---------------|------------|
+| Rate increase | 5-15% | Compare rate/kWh to last bill | Contact PUC |
+| Seasonal change | 20-100% | Compare to same month last year | Budget for it |
+| Estimated reading | Varies | Look for "EST" on bill | Request actual read |
+| New appliance | $15-50/mo | Check purchase date | Use efficiently |
+| HVAC problem | 30-50% | Check if system runs constantly | Service HVAC |
+| Water leak | $20-100/mo | Check meter when water is off | Fix leak |
+| More occupants | $30-50/person | Review household changes | Expected |
+| Rate plan expiry | 10-30% | Check supplier contract | Shop for new plan |
+
 
 {{< faq-schema >}}
 

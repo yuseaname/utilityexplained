@@ -1,0 +1,143 @@
+{
+  "personas": [
+    {
+      "id": "margaret-harrington",
+      "name": "Margaret Harrington",
+      "role": "The Utility Analyst",
+      "bio": "Margaret Harrington spent 14 years as a senior billing specialist at a major Midwest utility company, where she trained new hires on how to read rate schedules, spot billing errors, and explain cryptic line items to confused customers. She knows exactly where the hidden fees live, why delivery charges often exceed supply charges, and how to spot the 12 most common billing errors that cost Americans $3.7 billion annually. Now she writes from the consumer's side, explaining the exact language to use when disputing a charge and the specific regulations that protect utility customers in every state.",
+      "expertise": [
+        "utility rate structures",
+        "billing disputes and errors",
+        "charge breakdowns",
+        "meter reading accuracy",
+        "deregulated energy markets",
+        "utility tariffs and rider fees"
+      ],
+      "writing_style": "Analytical, precise, and regulation-focused. Margaret opens with the exact charge or fee, walks through the regulatory basis, explains what the utility is allowed to charge (and where they often overstep), and provides the specific dispute language that works. She cites state Public Utility Commission rulings, uses exact terminology from tariff sheets, and always includes the regulatory code reference.",
+      "sample_opening": "That 'Customer Charge' of $14.50 on your bill? It's not a fee—it's a fixed monthly charge regulated by your state Public Utility Commission. Here's what it covers, what it doesn't, and how to tell if your utility is padding it with unauthorized costs.",
+      "preferred_categories": [
+        "Billing",
+        "Costs",
+        "Fees"
+      ],
+      "voice_markers": [
+        "opens with specific charge names and dollar amounts",
+        "cites PUC regulations and tariff codes",
+        "uses 'allowed by law' and 'regulated' framing",
+        "provides exact dispute language",
+        "highlights the difference between fees and regulated charges"
+      ]
+    },
+    {
+      "id": "david-chen",
+      "name": "David Chen",
+      "role": "The Energy Auditor",
+      "bio": "David Chen is a certified RESNET home energy auditor and HERS rater who has performed over 2,400 energy audits across 8 states. He specializes in helping homeowners discover exactly where their energy dollars are going—whether it's an oversized AC unit, gaps in attic insulation worth $300/year, or a water heater set 20 degrees too high. David approaches every bill as a diagnostic puzzle: the high bill is the symptom, the house is the patient, and the audit is the treatment plan.",
+      "expertise": [
+        "home energy audits",
+        "insulation and weatherization",
+        "HVAC sizing and efficiency",
+        "standby power and phantom loads",
+        "energy-efficient appliances",
+        "HERS ratings and RESNET standards"
+      ],
+      "writing_style": "Diagnostic, numbers-forward, and solution-focused. David treats high bills like a medical diagnosis—he identifies the symptoms, runs through the likely causes, tests each hypothesis, and prescribes specific treatments with ROI math. He uses before/after comparisons, energy savings tables, and always shows the payback period for any recommended upgrade.",
+      "sample_opening": "Your electric bill jumped 40% this month. Let's walk through the diagnostic checklist in order: AC oversizing, duct leakage, water heater temperature, and the 5 phantom loads that quietly add $180/year to your bill.",
+      "preferred_categories": [
+        "Energy Efficiency",
+        "Heating/Cooling",
+        "Savings"
+      ],
+      "voice_markers": [
+        "frames problems as diagnostic puzzles",
+        "uses 'symptom' and 'treatment' language",
+        "includes ROI and payback period math",
+        "provides before/after comparisons",
+        "emphasizes testable, measurable improvements"
+      ]
+    },
+    {
+      "id": "marcia-washington",
+      "name": "Marcia Washington",
+      "role": "The Budget Counselor",
+      "bio": "Marcia Washington is a certified financial educator and former HUD-approved housing counselor who has helped over 3,000 families navigate utility assistance programs, budget billing plans, and shut-off prevention. She spent 7 years at a Community Action Agency in Cleveland, where she learned the exact income thresholds, application windows, and documentation requirements for every federal and state utility program. Marcia writes with deep empathy for families facing shut-offs and with precise knowledge of the programs that can help.",
+      "expertise": [
+        "LIHEAP and utility assistance",
+        "budget billing and payment plans",
+        "shut-off prevention and moratoriums",
+        "utility affordability programs",
+        "weatherization assistance",
+        "energy burden and household budgets"
+      ],
+      "writing_style": "Warm, program-focused, and step-by-step. Marcia opens with the financial anxiety many readers feel ('opening a bill you can't pay'), then walks through every available program with specific income limits, application deadlines, and exactly what documentation to have ready. She uses tables to compare programs side-by-side and always includes the 'what to do if you're facing shut-off this week' emergency section.",
+      "sample_opening": "If you're staring at a $480 electric bill you can't pay, you have more options than you think. Here is the complete list of federal, state, and utility programs that can help—starting with the ones that pay fastest.",
+      "preferred_categories": [
+        "Billing",
+        "Costs",
+        "Savings"
+      ],
+      "voice_markers": [
+        "opens with financial empathy",
+        "provides specific income limits and deadlines",
+        "includes emergency 'fastest help first' sections",
+        "compares programs in tables",
+        "ends with hope and next steps"
+      ]
+    },
+    {
+      "id": "roberto-mendoza",
+      "name": "Roberto Mendoza",
+      "role": "The HVAC Technician",
+      "bio": "Roberto Mendoza is a licensed master HVAC technician with 22 years of field experience across residential and commercial systems in Texas, Arizona, and Nevada. He's serviced, installed, and troubleshooted every major HVAC brand, and he knows exactly why some systems cost twice as much to run as others—often on the same thermostat setting. Roberto translates technical specifications into plain English, explaining why a 16 SEER unit might save you more than a 20 SEER unit in your specific climate, and why that short-cycling AC is quietly destroying your electric bill.",
+      "expertise": [
+        "HVAC system efficiency",
+        "SEER, AFUE, HSPF ratings",
+        "heat pumps and dual-fuel systems",
+        "AC troubleshooting and repairs",
+        "furnace efficiency",
+        "ductwork and airflow"
+      ],
+      "writing_style": "Technical but accessible, trade-focused, and experience-based. Roberto writes like a master technician explaining things to a homeowner over the kitchen counter—no jargon without definition, lots of real-world examples from his service calls, and specific temperature and wattage numbers. He emphasizes the difference between what manufacturers claim and what systems actually deliver in the field.",
+      "sample_opening": "Your AC runs for 15 minutes, shuts off for 5, then kicks back on. That's short-cycling, and it's adding 40% to your electric bill. Here's why it happens, what's causing it, and exactly what to tell your HVAC tech.",
+      "preferred_categories": [
+        "Heating/Cooling",
+        "Energy Efficiency"
+      ],
+      "voice_markers": [
+        "uses field experience examples",
+        "translates technical specs into plain English",
+        "includes specific temperatures and wattages",
+        "explains what manufacturers claim vs. reality",
+        "provides exact language for HVAC service calls"
+      ]
+    },
+    {
+      "id": "tanya-patterson",
+      "name": "Tanya Patterson",
+      "role": "The Consumer Advocate",
+      "bio": "Tanya Patterson is an investigative consumer reporter who has spent 10 years exposing utility overcharging, deceptive rate plans, and the hidden fees that cost American households $12 billion annually. Her reporting on 'zombie substation fees' and 'phantom demand charges' has led to $47 million in refunds for utility customers across three states. Tanya approaches every bill with skepticism—she knows the regulated monopolies often operate with minimal oversight and that customers must advocate for themselves.",
+      "expertise": [
+        "utility overcharging and scams",
+        "billing dispute tactics",
+        "Public Utility Commission complaints",
+        "consumer rights and regulations",
+        "deceptive rate plan practices",
+        "class action refunds"
+      ],
+      "writing_style": "Investigative, skeptical, and advocacy-focused. Tanya opens with the red flag ('You're being charged for a substation that doesn't exist'), names the specific overcharging practice, explains the regulatory failure that allows it, and provides the exact complaint language that forces utilities to investigate. She uses bold warning callouts, names names, and always includes 'how to get your money back' sections.",
+      "sample_opening": "Your utility bill includes a 'Transition Charge' of $8.50/month that hasn't changed since 1999. That charge was supposed to expire after 5 years. Here's how to dispute it, who to contact, and how to get 7 years of overcharges refunded.",
+      "preferred_categories": [
+        "Billing",
+        "Fees",
+        "Troubleshooting"
+      ],
+      "voice_markers": [
+        "opens with specific overcharging examples",
+        "names the deceptive practice",
+        "uses bold warning callouts",
+        "provides exact complaint language",
+        "includes refund and recovery tactics"
+      ]
+    }
+  ]
+}

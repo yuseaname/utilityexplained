@@ -3,7 +3,7 @@ title: "What Is the Customer Charge on My Utility Bill?"
 slug: "17-what-is-customer-charge-on-utility-bill"
 description: "That $10 to $25 'customer charge' on your utility bill shows up every month even if you used zero energy. Here's what it covers, why it exists, and why it keeps going up."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]
 tags: ["fees", "utility bills", "electricity", "gas"]
@@ -13,7 +13,7 @@ image: "/images/articles/what-is-customer-charge-on-utility-bill/image.webp"
 
 Every month, regardless of whether you used 200 kWh or 2,000 kWh, your utility bill includes a "customer charge" (also called a service charge, basic service charge, or customer facility charge). This fixed fee appears on your bill before any energy usage is calculated. It typically ranges from $8 to $30 per month for residential customers depending on your utility and state. For many low-usage households, this charge represents a significant portion of the total bill—and it's been rising steadily. Here's what you're actually paying for.
 
-<img src="https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=1200&h=630&fit=crop&q=80" alt="Customer service representative helping a client" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-paperwork.jpg" alt="Customer service representative helping a client" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -144,23 +144,31 @@ However, there are strategies to manage its impact:
 
 ## Frequently Asked Questions
 
-**Do I still pay the customer charge if I use no electricity?**
+{{< faq "Do I still pay the customer charge if I use no electricity?" >}}
 Yes. The customer charge is a fixed fee for being connected to the utility system. Even if your meter reads zero because you were away or had your main breaker off, the customer charge still applies every month you have an active account.
+{{< /faq >}}
 
-**Why does my customer charge keep going up?**
+{{< faq "Why does my customer charge keep going up?" >}}
 Customer charges are rising because utilities face increasing fixed costs for grid modernization, infrastructure maintenance, and compliance requirements. As energy efficiency reduces per-customer consumption, utilities shift revenue recovery to fixed charges to maintain stable revenue. Regulatory decisions in rate cases also contribute.
+{{< /faq >}}
 
-**Is the customer charge the same as a connection fee?**
+{{< faq "Is the customer charge the same as a connection fee?" >}}
 Not exactly. A connection fee is typically a one-time charge for establishing new service. The customer charge is a recurring monthly fee for maintaining your existing connection. Some utilities also charge a reconnection fee if service is disconnected and restored.
+{{< /faq >}}
 
-**Can I negotiate the customer charge?**
+{{< faq "Can I negotiate the customer charge?" >}}
 No, the customer charge is a regulated rate set by your state's public utility commission. Individual customers cannot negotiate it. However, you can participate in rate case proceedings and advocate for lower fixed charges through your commission's public comment process.
+{{< /faq >}}
 
-**What percentage of my bill is the customer charge?**
+{{< faq "What percentage of my bill is the customer charge?" >}}
 It depends on your usage. For an average US household using about 886 kWh/month with a $14 customer charge and $0.13/kWh rate, the customer charge is about 10-11% of the total. For low-usage households (300 kWh/month), it can be 30-40%.
+{{< /faq >}}
 
-**Do solar customers pay the customer charge?**
+{{< faq "Do solar customers pay the customer charge?" >}}
 Yes. In most states, solar customers with grid-connected systems pay the full customer charge. Many utilities also impose additional "standby" or "grid access" charges on solar customers. California's NEM 3.0 program, for example, includes a grid participation charge of roughly $8 to $15/month on top of the standard customer charge.
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ---
 

@@ -3,7 +3,7 @@ title: "Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)"
 slug: "tiered-electricity-rates-explained"
 description: "Tiered rates can make a small usage increase look like a big price jump. This guide explains how tiers work, where they show up, and why the total changes."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "tiered rate", "electric bill", "demand charge", "delivery charge"]
@@ -159,3 +159,40 @@ No. Tiered rates depend on total usage. Time-of-use rates depend on when you use
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Tier Rate Comparison by State
+
+Tier structures vary dramatically by state and utility. Here's how the major utilities structure their tiers:
+
+| Utility | State | Tier 1 Range | Tier 1 Rate | Tier 2 Rate | Tier 3 Rate |
+|---------|-------|-------------|-------------|-------------|-------------|
+| PG&E | CA | 0-314 kWh | $0.32 | $0.40 | $0.50 |
+| SCE | CA | 0-300 kWh | $0.29 | $0.37 | $0.45 |
+| ConEdison | NY | No tiers | $0.22 flat | — | — |
+| ComEd | IL | No tiers | $0.14 flat | — | — |
+| Reliant | TX | 0-500 kWh | $0.08 | $0.12 | $0.16 |
+| Duke Energy | NC | 0-350 kWh | $0.11 | $0.14 | — |
+| Dominion | VA | 0-800 kWh | $0.12 | $0.15 | — |
+
+### How Tiered Rates Affect Your Bill — Real Example
+
+**Scenario:** Two households, same state, different usage:
+
+| Household | Usage | Tier Breakdown | Total Bill |
+|-----------|-------|---------------|------------|
+| Small apartment | 400 kWh | All Tier 1: 400 × $0.11 | **$44.00** |
+| Large house | 1,200 kWh | T1: 500 × $0.11 + T2: 500 × $0.14 + T3: 200 × $0.18 | **$165.00** |
+
+The large house uses 3× the electricity but pays **3.75×** more — the tier penalty amplifies the cost difference.
+
+### Strategies to Stay in Tier 1
+
+| Strategy | Description | Tier Reduction |
+|----------|-------------|:---:|
+| Shift laundry to off-peak | Run after 9 PM on TOU plans | 1-2 tiers |
+| Use portable fans instead of AC | Target cooling vs whole-home | Stay in T1 |
+| Cook with slow cooker/microwave | Avoid oven heat in summer | Save 50-100 kWh/mo |
+| Charge EV overnight | Off-peak tier rates | Save $20-40/mo |
+| Pool pump on timer | Run 4 hrs instead of 8 | Save 200-400 kWh/mo |
+| LED conversion | 20 bulbs = 150 kWh/mo savings | Drop 1 tier |
+

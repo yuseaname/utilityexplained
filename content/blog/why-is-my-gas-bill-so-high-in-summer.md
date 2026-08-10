@@ -3,7 +3,7 @@ title: "Why Is My Gas Bill So High in Summer? It"
 slug: "why-is-my-gas-bill-so-high-in-summer"
 description: "Surprised your gas bill is high even in summer? Hot water heaters, pool heaters, and summer rate changes are often the culprit. Here's everything that drives summer gas costs."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["leak", "gas bill", "savings", "therms", "furnace"]

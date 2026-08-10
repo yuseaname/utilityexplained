@@ -4,7 +4,7 @@ slug: "08-time-of-use-electricity"
 aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15\u201340% on your electric bill."
 date: 2026-03-07
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Rates & Plans"
 categories: ["Rates & Plans"]
 tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electricity', 'save on electric bill', 'smart meter']
@@ -12,13 +12,11 @@ keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is e
 image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.webp"
 ---
 
-# Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save
+If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 
-If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more.
+This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings. Learn more in [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
 
-This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings.
-
-<img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80" alt="Utility bill optimization and time-based electricity rates" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-meter.jpg" alt="Utility bill optimization and time-based electricity rates" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -101,7 +99,7 @@ The savings from TOU depend on three factors:
 
 ### Example calculation
 
-**Scenario:** Average household using 900 kWh/month on a TOU plan.
+**Scenario:** Average household using 900 [kWh](/blog/what-is-a-kilowatt-hour)/month on a TOU plan.
 
 | Period | Rate | Usage | Cost |
 |--------|------|-------|------|
@@ -186,7 +184,7 @@ Look at your last 3 electric bills and estimate:
 3. If it's **25–40%**, it's a wash — check your utility's specific rates.
 4. If it's **over 40%**, you'll likely pay more on TOU.
 
-If your utility provides hourly usage data (smart meter dashboard), use that instead of estimating.
+If your utility provides hourly usage data ([smart meter](/blog/how-do-smart-meters-work) dashboard), use that instead of estimating.
 
 ---
 
@@ -200,23 +198,27 @@ If your utility provides hourly usage data (smart meter dashboard), use that ins
 
 ---
 
-## FAQ
+{{< faq "What if my utility doesn't offer TOU?" >}}
+Not all utilities have implemented TOU yet. However, many are transitioning as they deploy smart [meter](/blog/how-to-read-electric-meter)s. Check your state's public utility commission for upcoming rate changes.
+{{< /faq >}}
 
-### What if my utility doesn't offer TOU?
-Not all utilities have implemented TOU yet. However, many are transitioning as they deploy smart meters. Check your state's public utility commission for upcoming rate changes.
-
-### Does TOU work with solar panels?
+{{< faq "Does TOU work with solar panels?" >}}
 Yes, and it can be very beneficial. If your solar production during peak hours exceeds your usage, you may earn credits at the higher peak rate. This is called "TOU arbitrage" and is one of the best ways to maximize solar ROI.
+{{< /faq >}}
 
-### Can I switch back if TOU costs more?
+{{< faq "Can I switch back if TOU costs more?" >}}
 Most utilities allow you to switch back to a flat-rate plan within the first 12 months. After that, some require you to stay on TOU for a minimum period. Ask about lock-in terms before switching.
+{{< /faq >}}
 
-### What about critical peak pricing (CPP)?
+{{< faq "What about critical peak pricing (CPP)?" >}}
 Some TOU plans include "critical peak" events — a handful of days per year when rates spike to 5–10× normal. These are usually during extreme weather. If your plan includes CPP, the off-peak rates are typically lower to compensate, but you need to drastically reduce usage during CPP events.
+{{< /faq >}}
 
-### Do smart meters cost extra?
+{{< faq "Do smart meters cost extra?" >}}
 Most utilities install smart meters at no charge when you switch to TOU. The meter is necessary for them to track when you use electricity. If there is a fee, it's usually $2–$5/month added to your bill.
+{{< /faq >}}
 
+{{< faq-schema >}}
 ---
 
 ## Related guides
@@ -232,6 +234,16 @@ Most utilities install smart meters at no charge when you switch to TOU. The met
 **Bottom line:** If you can shift even 20% of your electricity usage from peak to off-peak hours, time-of-use rates will likely save you money. The easiest wins are scheduling your dishwasher, laundry, and EV charging for nighttime or weekends. Check your utility's TOU plan details and run the numbers — many households save $200–$500/year with simple habit changes.
 
 ---
+
+---
+
+*Related Articles:*
+- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
+- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
+- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
+- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
+
 
 *Related Reading:*
 - [What Time Is Electricity Cheapest? Guide to Off-Peak Energy Rates](/blog/46-what-time-is-electricity-cheapest)

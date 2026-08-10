@@ -3,7 +3,7 @@ title: "Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)"
 slug: "why-is-my-electricity-bill-so-high-in-winter"
 description: "Winter electric bill shock? Discover the 7 hidden reasons your usage spiked and learn practical fixes to lower your heating costs immediately."
 date: 2025-12-25
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "heat pump", "savings", "therms"]
@@ -211,5 +211,29 @@ It can if you set schedules that reduce heating when you are asleep or away. The
 Check the number of days in the billing cycle and any rate changes. A longer cycle or higher price per kWh can raise the total even if kWh stays flat.
 
 {{< /faq >}}
+
+
+## Winter Bill Increase Causes
+
+| Cause | Typical Increase | How to Fix | Savings |
+|-------|:---:|-----------|:---:|
+| Electric heating | 50-150% | Lower thermostat 2°F | $20-50/mo |
+| Heat pump aux heat | 30-80% | Insulate, seal drafts | $30-80/mo |
+| Water heater works harder | 10-20% | Insulate tank/pipes | $5-15/mo |
+| More hot water use | 10-15% | Low-flow showerhead | $5-10/mo |
+| Shorter days (lighting) | 3-5% | LED bulbs | $2-5/mo |
+| Electric blanket/space heater | $15-50/unit | Zone heat only | $10-40/mo |
+| Holiday lights | $5-20/mo | LED holiday lights | $3-15/mo |
+
+### Heating System Efficiency Comparison
+
+| System | Efficiency | Monthly Cost (1500sf) | Notes |
+|--------|:---:|:---:|-------|
+| Gas furnace (old) | 80% AFUE | $150-250 | 15+ years old |
+| Gas furnace (new) | 96% AFUE | $110-180 | High efficiency |
+| Heat pump (standard) | 250% | $100-180 | Works to ~10°F |
+| Heat pump (cold-climate) | 280% | $90-160 | Works to -13°F |
+| Electric resistance | 100% | $300-500 | Most expensive |
+
 
 {{< faq-schema >}}

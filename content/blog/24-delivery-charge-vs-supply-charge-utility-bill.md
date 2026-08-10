@@ -3,7 +3,7 @@ title: "Delivery Charge vs Supply Charge on Your Utility Bill: What's the Differ
 slug: "24-delivery-charge-vs-supply-charge-utility-bill"
 description: "Delivery charge and supply charge make up your total utility cost. Learn what each covers, how to read them on your bill, and how deregulated markets split these charges."
 date: 2026-05-28
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Costs"
 categories: ["Costs"]
 tags: ["delivery charge", "supply charge", "deregulated markets", "utility breakdown"]
@@ -13,7 +13,7 @@ image: "/images/articles/delivery-charge-vs-supply-charge-utility-bill/image.web
 
 Open your electric bill and you will likely see two separate charge sections — one labeled "Delivery" and another labeled "Supply" (or "Generation"). Together, they account for roughly 70% to 80% of your total bill. Understanding what each one covers is the single most important step toward making sense of your utility costs, especially if you live in a deregulated market where you can shop for supply rates.
 
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop&q=80" alt="Split view of power transmission lines and a light switch representing delivery and supply" width="1200" height="630" loading="lazy" />
+<img src="/images/utility-bill.jpg" alt="Split view of power transmission lines and a light switch representing delivery and supply" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -145,28 +145,30 @@ The split on natural gas bills tends to skew more toward supply than electricity
 
 ## Frequently Asked Questions
 
-**What is the difference between delivery and supply charges?**
-
+{{< faq "What is the difference between delivery and supply charges?" >}}
 Delivery charges cover the infrastructure (wires, pipes, meters, substations) that transport energy to your home. Supply charges cover the actual cost of generating or purchasing the energy itself. Together, they make up the energy portion of your bill before taxes and fees.
+{{< /faq >}}
 
-**Why is my delivery charge higher than my supply charge?**
-
+{{< faq "Why is my delivery charge higher than my supply charge?" >}}
 In some regions — particularly the Northeast — delivery charges exceed supply charges because of aging infrastructure requiring expensive upgrades, high population density distribution costs, and legacy costs from deregulation transition periods. Delivery charges are also rising faster than supply charges nationwide as utilities invest in grid modernization.
+{{< /faq >}}
 
-**Can I switch my delivery provider?**
-
+{{< faq "Can I switch my delivery provider?" >}}
 No. The delivery function is a regulated monopoly. Only the company that owns the infrastructure serving your address can deliver energy to your home. In deregulated markets, you can only choose your supply provider.
+{{< /faq >}}
 
-**Do solar panels reduce my delivery charge?**
-
+{{< faq "Do solar panels reduce my delivery charge?" >}}
 Solar panels primarily reduce your supply charge by offsetting purchased electricity. They may also reduce the variable per-kWh portion of your delivery charge. However, most utilities impose a minimum customer charge or minimum delivery charge that solar cannot eliminate.
+{{< /faq >}}
 
-**Should I choose a fixed or variable supply rate?**
-
+{{< faq "Should I choose a fixed or variable supply rate?" >}}
 Fixed rates provide price certainty and are usually recommended when wholesale energy prices are stable or trending upward. Variable rates can be cheaper during periods of falling prices but expose you to spikes. In 2026, with relatively stable natural gas prices, 12-month fixed-rate plans are generally the safest choice for budget-conscious consumers.
+{{< /faq >}}
 
----
+{{< faq-schema >}}
 
-*Related Reading:*
+*Related Articles:*
 - [Supply vs Delivery Charges Explained (Generation vs Distribution)](/blog/supply-vs-delivery-charges-electricity)
 - [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)

@@ -3,7 +3,7 @@ title: "How Utility Rates, Fees, and Usage Work Together on Your Bill"
 slug: "how-utility-rates-fees-usage-work-together"
 description: "A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
 date: 2026-01-15
-author: "Utility Explained"
+author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["budget"]
@@ -169,3 +169,50 @@ Start with the Utility Bills & Costs Explained hub, then read the article for yo
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Real Bill Calculation Example
+
+Let's walk through a complete bill calculation step by step. This example uses realistic numbers for a 1,500 sq ft home in a mid-cost state.
+
+**Starting data:**
+- Usage: 950 kWh
+- Rate: Tiered (see below)
+- Location: Texas (deregulated)
+
+### Step-by-Step Calculation
+
+| Step | Calculation | Amount |
+|------|------------|--------|
+| Tier 1 (0-500 kWh) | 500 × $0.08 | $40.00 |
+| Tier 2 (501-1000 kWh) | 450 × $0.12 | $54.00 |
+| Supply subtotal | | $94.00 |
+| Delivery charge | 950 × $0.04 | $38.00 |
+| Customer charge | Fixed | $9.50 |
+| Transmission cost | 950 × $0.01 | $9.50 |
+| Fuel adjustment | 950 × $0.005 | $4.75 |
+| Subtotal | | $155.75 |
+| Taxes (6%) | $155.75 × 0.06 | $9.35 |
+| **Total Bill** | | **$165.10** |
+| **Effective Rate** | $165.10 ÷ 950 | **$0.174/kWh** |
+
+Notice: The effective rate (17.4¢) is much higher than the advertised base rate (8¢). This gap surprises most customers.
+
+### Common Rate Combinations
+
+| Rate Type | Best For | Worst For | Bill Predictability |
+|-----------|---------|----------|---------------------|
+| Flat rate | Budget consistency | High users | High |
+| Tiered | Low-usage households | Large families | Low |
+| Time-of-Use | Flexible schedules | 9-to-5 workers | Medium |
+| Demand-based | Commercial | Residential | N/A |
+
+### How to Calculate Your Effective Rate
+
+Use this simple formula every month:
+
+```
+Effective Rate = Total Bill ÷ kWh Used
+```
+
+Compare this number month to month. If your usage stays similar but your effective rate jumps, you're paying more per unit — investigate rate changes or billing errors.
+

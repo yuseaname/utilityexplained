@@ -3,7 +3,7 @@ title: "Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)"
 slug: "why-is-my-electricity-bill-so-high-in-summer"
 description: "Summer bill shock? Learn how AC, humidity, and peak rates spike your costs--and 7 ways to lower your bill without sweating."
 date: 2025-12-26
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["air conditioner", "kwh", "therms", "thermostat", "savings"]
@@ -13,7 +13,7 @@ image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-
 
 <h2 id="cooling-load">Air conditioning is usually the main driver</h2>
 <p>
-              Summer electric bills rise because air conditioners use a lot of power.
+              Summer [Why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high) can have many causes electric bills rise because air conditioners use a lot of power.
               A central AC can draw 2,000 to 5,000 watts when running. If it runs
               several hours a day, it can add hundreds of <a href="/blog/what-is-a-kilowatt-hour">kWh</a> to the bill.
             </p>
@@ -201,9 +201,37 @@ Hotter weather, higher humidity, and longer daylight hours can increase runtime.
 
 {{< /faq >}}
 
+
+## Summer Bill Increase Causes
+
+| Cause | Typical Increase | How to Fix | Cost to Fix |
+|-------|:---:|-----------|:---:|
+| AC running more | 30-100% | Raise temp 2-3°F | $0 |
+| AC inefficiency | 20-40% | Replace filter, service | $5-150 |
+| Pool pump running | $30-80/mo | Reduce to 4-6 hrs | $0 |
+| Dehumidifier | $15-40/mo | Use only when needed | $0 |
+| Extra refrigerator | $15-25/mo | Unplug if rarely used | $0 |
+| Fans left running | $5-15/mo | Turn off when leaving | $0 |
+| Window AC units | $20-60/unit | Use central AC efficiently | $0 |
+| Rate plan mismatch | 10-30% | Switch to TOU plan | $0 |
+
+### AC Temperature Setting Cost Impact
+
+| Setting | vs 72°F Baseline | Monthly Savings | Comfort Level |
+|---------|:---:|:---:|:---:|
+| 74°F | +2°F | $12-24 | Barely noticeable |
+| 76°F | +4°F | $24-48 | Slightly warm |
+| 78°F | +6°F | $36-72 | Comfortable with fan |
+| 80°F | +8°F | $48-96 | Warm, needs fan |
+
+
 {{< faq-schema >}}
 
 ---
 
-*Related Reading:*
+*Related Articles:*
 - [Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes](/blog/30-sudden-spike-in-electricity-bill-no-usage)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)
+- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained)
+

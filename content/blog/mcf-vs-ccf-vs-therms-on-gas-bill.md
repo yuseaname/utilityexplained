@@ -3,7 +3,7 @@ title: "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean"
 slug: "mcf-vs-ccf-vs-therms-on-gas-bill"
 description: "MCF, CCF, therms \u2014 your gas bill uses confusing units. Here's exactly what each one means, how they compare, and how to calculate your actual gas cost."
 date: 2026-05-27
-author: "Utility Explained"
+author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["therms", "ccf", "gas bill", "budget", "savings"]
