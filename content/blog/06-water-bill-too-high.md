@@ -299,7 +299,7 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 - [Why Is My Electric Bill So High?](./03-why-is-my-electric-bill-so-high.md) — Troubleshoot high electricity costs
 - [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
 - [Hidden Fees on Your Utility Bill](./04-hidden-fees-utility-bill.md) — Find charges you can dispute
-- [How to Read Your [gas bill](/blog/understand-natural-gas-bill-charges)](./12-how-to-read-your-gas-bill.md) — Gas bill breakdown
+- [How to Read Your [gas bill](/blog/43-understand-natural-gas-bill-charges/)](./12-how-to-read-your-gas-bill.md) — Gas bill breakdown
 
 ---
 

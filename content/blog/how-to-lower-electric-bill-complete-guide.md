@@ -573,6 +573,6 @@ A desktop computer in sleep mode uses 5–10 W ($5–$10/year). In standby, it's
 
 - [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
 - [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill)
-- [HVAC Efficiency: SEER, AFUE, and HSPF Explained](/blog/hvac-efficiency-seer-afue-hspf-explained)
-- [Phantom Loads: The Silent Electricity Hogs](/blog/phantom-loads-silent-electricity-hogs)
-- [Time-of-Use Rates: How to Save by Shifting Usage](/blog/tou-rates-save-by-shifting-usage)
+- [HVAC Efficiency: SEER, AFUE, and HSPF Explained](/blog/afue-vs-seer-vs-hspf-vs-cop/)
+- [Phantom Loads: The Silent Electricity Hogs](/blog/50-best-smart-plugs-standby-power/)
+- [Time-of-Use Rates: How to Save by Shifting Usage](/blog/08-time-of-use-electricity/)

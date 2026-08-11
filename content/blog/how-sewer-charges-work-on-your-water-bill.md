@@ -15,17 +15,17 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
 <p>
               <strong>Sewer charges pay for collecting and treating the water that leaves your home.</strong>
               Most residential sewer bills are based on your water usage (often
-              measured in CCF), a "winter average," or a flat monthly fee. Sewer can
+              measured in [CCF](/blog/what-is-ccf-on-a-water-bill/)), a <strong>"winter average"</strong> (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a flat monthly fee. Sewer can
               cost <em>more</em> than water because wastewater treatment is expensive
               and carries large fixed costs. You usually cannot remove the fixed fee,
-              but you <em>can</em> often lower the usage-based part by fixing leaks
+              but you <em>can</em> often lower the usage-based part by <strong>fixing leaks</strong> — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so <strong>check this first</strong>
               and cutting indoor water use.
             </p>
 
 <h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>
 <p>
               Many people expect sewer to be a small add-on. Then they see the bill
-              and think, "Why is the sewer line so high?"
+              and think, "Why is the sewer line so <strong>high</strong>? If this keeps happening, [read why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/)."
             </p>
             <p>
               The simplest explanation is this: <strong>water service delivers clean water</strong>,

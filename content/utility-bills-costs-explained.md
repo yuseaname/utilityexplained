@@ -287,3 +287,55 @@ Utility bills are a regular part of home expenses, but understanding how they ar
 <p>
 For specific advice on each utility, explore our detailed guides on electricity, natural gas, water, and heating and cooling.
 </p>
+
+<h2 id="bill-guides">Browse Our Utility Bill Guides</h2>
+<p>Explore our complete library of utility bill guides, organized by topic:</p>
+
+<h3>Reading and Understanding Bills</h3>
+<ul>
+<li><a href="/blog/how-to-read-your-utility-bill/">How to Read Your Utility Bill</a></li>
+<li><a href="/blog/complete-guide-understanding-utility-bill/">Complete Guide to Understanding Your Utility Bill</a></li>
+<li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown</a></li>
+<li><a href="/blog/how-utility-rates-fees-usage-work-together/">How Rates, Fees, and Usage Work Together</a></li>
+<li><a href="/blog/why-electric-bill-changes-month-to-month/">Why Your Electric Bill Changes Month to Month</a></li>
+</ul>
+
+<h3>Fees and Charges Explained</h3>
+<ul>
+<li><a href="/blog/04-hidden-fees-utility-bill/">Hidden Fees on Your Utility Bill</a></li>
+<li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">What Is the Customer Charge?</a></li>
+<li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">Fuel Adjustment Charge Explained</a></li>
+<li><a href="/blog/19-utility-bill-surcharges-and-riders-explained/">Surcharges and Riders Explained</a></li>
+<li><a href="/blog/22-minimum-bill-utility-bill-explained/">Minimum Bill Explained</a></li>
+<li><a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">Taxes, Fees, and Franchise Charges</a></li>
+</ul>
+
+<h3>Connection and Deposits</h3>
+<ul>
+<li><a href="/blog/27-utility-connection-fee-explained/">Utility Connection Fee Explained</a></li>
+<li><a href="/blog/26-utility-deposit-explained/">Utility Deposit Explained</a></li>
+<li><a href="/blog/28-utility-reconnection-fee-explained/">Utility Reconnection Fee Explained</a></li>
+<li><a href="/blog/21-past-due-balance-utility-bill-explained/">Past Due Balance Explained</a></li>
+</ul>
+
+<h3>Billing Cycles and Plans</h3>
+<ul>
+<li><a href="/blog/23-utility-billing-cycle-explained/">Utility Billing Cycle Explained</a></li>
+<li><a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a></li>
+<li><a href="/blog/20-utility-bill-proration-explained/">Utility Bill Proration Explained</a></li>
+<li><a href="/blog/16-budget-billing-level-pay-explained/">Budget Billing and Level Pay Explained</a></li>
+</ul>
+
+<h3>Costs and Budgeting</h3>
+<ul>
+<li><a href="/blog/02-average-utility-costs-2026/">Average Utility Costs in 2026</a></li>
+<li><a href="/blog/average-utility-bills-by-state-2026/">Average Utility Bills by State</a></li>
+<li><a href="/blog/09-apartment-utilities-cost/">Average Apartment Utilities Cost</a></li>
+<li><a href="/blog/how-to-budget-for-utilities-in-your-first-apartment/">How to Budget for Utilities</a></li>
+<li><a href="/blog/05-how-to-lower-utility-bills/">How to Lower Your Utility Bills (25 Ways)</a></li>
+</ul>
+
+<h3>Assistance Programs</h3>
+<ul>
+<li><a href="/blog/utility-assistance-programs-liheap/">Utility Assistance Programs (LIHEAP)</a></li>
+</ul>

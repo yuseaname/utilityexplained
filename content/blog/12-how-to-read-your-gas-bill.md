@@ -8,7 +8,7 @@ author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
-keywords: ["how to read [gas bill](/blog/understand-natural-gas-bill-charges)", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
+keywords: ["how to read [gas bill](/blog/43-understand-natural-gas-bill-charges/)", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
 image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.webp"
 ---
 
@@ -211,7 +211,7 @@ For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/
 ---
 
 *Related Articles:*
-- [Understanding Natural Gas Bill Charges](/blog/understand-natural-gas-bill-charges)
+- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/)
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
 - [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)

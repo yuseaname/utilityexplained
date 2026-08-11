@@ -238,3 +238,39 @@ Water service is essential for daily life, but understanding how it is measured 
 <p>
 For broader utility budgeting advice, visit our utility bills and costs guide. To compare water costs to other utilities, see our guides on electricity and natural gas.
 </p>
+
+<h2 id="water-guides">Browse Our Water Bill Guides</h2>
+<p>Explore our complete library of water and sewer bill guides:</p>
+
+<h3>Understanding Water Charges</h3>
+<ul>
+<li><a href="/blog/what-is-ccf-on-a-water-bill/">What Is CCF on a Water Bill?</a></li>
+<li><a href="/blog/how-sewer-charges-work-on-your-water-bill/">How Sewer Charges Work on Your Water Bill</a></li>
+<li><a href="/blog/sewer-averaging-water-bill-explained/">Sewer Averaging Explained</a></li>
+<li><a href="/blog/water-service-charge-explained/">Water Service Charge Explained</a></li>
+<li><a href="/blog/stormwater-fee-on-water-bill-explained/">Stormwater Fee on Your Water Bill</a></li>
+<li><a href="/blog/drought-surcharge-on-water-bill-explained/">Drought Surcharge Explained</a></li>
+<li><a href="/blog/tiered-water-rates-explained/">Tiered Water Rates Explained</a></li>
+</ul>
+
+<h3>Why Is My Water Bill High?</h3>
+<ul>
+<li><a href="/blog/06-water-bill-too-high/">Why Is My Water Bill So High? (11 Fast Checks)</a></li>
+<li><a href="/blog/why-did-my-water-bill-suddenly-increase/">Why Did My Water Bill Suddenly Increase?</a></li>
+<li><a href="/blog/why-is-my-water-bill-higher-in-summer/">Why Is My Water Bill Higher in Summer?</a></li>
+<li><a href="/blog/why-is-my-water-bill-higher-in-winter/">Why Is My Water Bill Higher in Winter?</a></li>
+</ul>
+
+<h3>Leaks and Meters</h3>
+<ul>
+<li><a href="/blog/water-meter-leak-indicator-explained/">Water Meter Leak Indicator Explained</a></li>
+<li><a href="/blog/water-meter-running-when-no-water-used/">Water Meter Running When No Water Used</a></li>
+<li><a href="/blog/how-to-read-a-water-meter/">How to Read a Water Meter</a></li>
+<li><a href="/blog/is-your-toilet-running-leak-test/">Is Your Toilet Running? Leak Test</a></li>
+</ul>
+
+<h3>Lower Your Water Bill</h3>
+<ul>
+<li><a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
+<li><a href="/blog/average-water-usage-per-person/">Average Water Usage Per Person</a></li>
+</ul>

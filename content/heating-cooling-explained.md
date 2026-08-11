@@ -242,3 +242,32 @@ Heating and cooling are essential for comfort, but understanding how systems wor
 <p>
 For broader utility cost management, visit our utility bills and costs guide. To compare energy sources, see our guides on electricity and natural gas.
 </p>
+
+<h2 id="hvac-guides">Browse Our Heating & Cooling Guides</h2>
+<p>Explore our complete library of HVAC and heating/cooling guides:</p>
+
+<h3>Troubleshooting</h3>
+<ul>
+<li><a href="/blog/ac-running-but-not-cooling/">AC Running but Not Cooling? (13 Causes)</a></li>
+<li><a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
+<li><a href="/blog/why-is-my-furnace-blowing-cold-air/">Why Is My Furnace Blowing Cold Air?</a></li>
+<li><a href="/blog/heat-pump-running-all-day-in-winter/">Heat Pump Running All Day in Winter?</a></li>
+<li><a href="/blog/duct-leaks-symptoms-hvac-running-all-day/">Duct Leaks: Why Some Rooms Never Feel Right</a></li>
+</ul>
+
+<h3>System Comparisons</h3>
+<ul>
+<li><a href="/blog/ductless-mini-split-vs-central-air/">Ductless Mini-Split vs Central Air</a></li>
+<li><a href="/blog/gas-vs-electric-heating-cost-comparison/">Gas vs Electric Heating Cost</a></li>
+<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings</a></li>
+<li><a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/">Single-Stage vs Two-Stage vs Variable-Speed HVAC</a></li>
+</ul>
+
+<h3>Efficiency and Savings</h3>
+<ul>
+<li><a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">HVAC Efficiency Ratings Explained (AFUE, SEER, HSPF, COP)</a></li>
+<li><a href="/blog/aux-heat-vs-emergency-heat-meaning/">Aux Heat vs Emergency Heat</a></li>
+<li><a href="/blog/42-best-energy-efficient-space-heater/">Best Energy Efficient Space Heater</a></li>
+<li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
+<li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs for Standby Power</a></li>
+</ul>

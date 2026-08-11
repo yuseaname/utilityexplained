@@ -267,7 +267,7 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 ---
 
 *Related Articles:*
-- [Understanding Natural Gas Bill Charges](/blog/understand-natural-gas-bill-charges)
+- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/)
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
 - [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)

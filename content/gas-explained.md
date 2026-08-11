@@ -212,3 +212,29 @@ Natural gas is an efficient fuel for heating and other household uses, but under
 <p>
 If you want to compare gas to other energy sources, visit our heating and cooling guide. For broader budgeting advice, see our utility bills and costs overview.
 </p>
+
+<h2 id="gas-guides">Browse Our Gas Bill Guides</h2>
+<p>Explore our complete library of natural gas bill guides:</p>
+
+<h3>Understanding Your Gas Bill</h3>
+<ul>
+<li><a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
+<li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
+<li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
+<li><a href="/blog/gas-delivery-charge-vs-supply-charge/">Gas Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/gas-customer-charge-explained/">Gas Customer Charge Explained</a></li>
+<li><a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
+</ul>
+
+<h3>Why Is My Gas Bill High?</h3>
+<ul>
+<li><a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
+<li><a href="/blog/why-is-my-gas-bill-so-high-in-winter/">Why Is My Gas Bill High in Winter?</a></li>
+<li><a href="/blog/why-is-my-gas-bill-so-high-in-summer/">Why Is My Gas Bill High in Summer?</a></li>
+</ul>
+
+<h3>Gas vs Other Heating Options</h3>
+<ul>
+<li><a href="/blog/gas-vs-electric-heating-cost-comparison/">Gas vs Electric Heating Cost Comparison</a></li>
+<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings</a></li>
+</ul>

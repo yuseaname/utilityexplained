@@ -229,3 +229,52 @@ Electricity is a constant part of daily life, but understanding how it is measur
 <p>
 If you are ready to explore other utilities, visit our guides on gas service, water bills, or heating and cooling systems.
 </p>
+
+<h2 id="electricity-guides">Browse Our Electricity Guides</h2>
+<p>Explore our complete library of electricity bill guides, organized by topic:</p>
+
+<h3>Understanding Your Bill</h3>
+<ul>
+<li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill (Line by Line)</a></li>
+<li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown: Every Charge Explained</a></li>
+<li><a href="/blog/41-how-to-read-electricity-bill/">How to Read an Electricity Bill: Complete Guide</a></li>
+<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/supply-vs-delivery-charges-electricity/">Supply vs Delivery Charges Explained</a></li>
+</ul>
+
+<h3>Why Your Bill Is High</h3>
+<ul>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
+<li><a href="/blog/why-is-my-electric-bill-so-high-this-month/">Why Is My Electric Bill So High This Month?</a></li>
+<li><a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
+<li><a href="/blog/why-is-my-electricity-bill-so-high-in-summer/">Why Is My Electricity Bill High in Summer?</a></li>
+<li><a href="/blog/why-is-my-electricity-bill-so-high-in-winter/">Why Is My Electricity Bill High in Winter?</a></li>
+<li><a href="/blog/why-your-electric-bill-keeps-rising-2026/">Why Your Electric Bill Keeps Rising</a></li>
+<li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>
+</ul>
+
+<h3>Electricity Rates and Plans</h3>
+<ul>
+<li><a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a></li>
+<li><a href="/blog/46-what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
+<li><a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a></li>
+<li><a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
+<li><a href="/blog/fixed-vs-variable-rate-electricity-plan/">Fixed vs Variable Electricity Plans</a></li>
+<li><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
+</ul>
+
+<h3>Meters and Usage</h3>
+<ul>
+<li><a href="/blog/what-is-a-kilowatt-hour/">What Is a Kilowatt-Hour (kWh)?</a></li>
+<li><a href="/blog/11-understanding-kwh-usage/">Understanding kWh Usage</a></li>
+<li><a href="/blog/how-to-read-electric-meter/">How to Read an Electric Meter</a></li>
+<li><a href="/blog/how-do-smart-meters-work/">How Do Smart Meters Work?</a></li>
+</ul>
+
+<h3>Lower Your Electric Bill</h3>
+<ul>
+<li><a href="/blog/how-to-lower-electric-bill-without-solar/">Lower Your Electric Bill Without Solar</a></li>
+<li><a href="/blog/how-to-lower-electric-bill-complete-guide/">Complete Guide to Lowering Your Electric Bill</a></li>
+<li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
+<li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs to Eliminate Standby Power</a></li>
+</ul>

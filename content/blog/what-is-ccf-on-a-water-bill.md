@@ -13,11 +13,11 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 
 <h2 id="quick-answer">Quick Answer</h2>
 <p>
-              <strong>CCF stands for "hundred cubic feet," and one CCF equals 748 gallons of water.</strong>
+              <strong>CCF stands for "hundred cubic feet," and one CCF equals **748 gallons** of water.</strong>
               The first "C" is the Roman numeral for 100, and "CF" means cubic feet.
-              It is simply the unit most water meters use to measure volume--how much
+              It is simply the unit most water meters use to measure volume. To verify your readings are accurate, [learn how to read a water meter](/blog/how-to-read-a-water-meter/).--how much
               water flowed through your meter during the billing period. If your bill
-              says 6 CCF, you used about 4,488 gallons.
+              says 6 CCF, you used about **4,488 gallons**.
             </p>
 
 <h2 id="start-here">What CCF means on your water bill</h2>
@@ -32,11 +32,11 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
               meter during the billing period.
             </p>
             <p>
-              This article gives you a plain-English conversion you can trust, plus
+              This article gives you a plain-English conversion. Since many [sewer charges](/blog/how-sewer-charges-work-on-your-water-bill/) are calculated based on your CCF usage, understanding this unit helps you track both water and sewer costs. you can trust, plus
               a quick way to connect the CCF number to what you actually pay.
             </p>
             <p>
-              If you want the big picture first, start with our
+              For help understanding other parts of your bill beyond usage, check out our guide on [water service charges](/blog/water-service-charge-explained/). If you want the big picture first, start with our
               <a href="/water-explained">Water Service Explained</a> pillar.
             </p>
 
@@ -47,20 +47,20 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
             </p>
             <ul>
               <li>
-                <strong>1 cubic foot</strong> = <strong>7.48 gallons</strong>
+                <strong>1 cubic foot</strong> = <strong>**7.48 gallons**</strong>
               </li>
               <li>
-                <strong>1 CCF</strong> = <strong>100 cubic feet</strong> = <strong>748 gallons</strong>
+                <strong>1 CCF</strong> = <strong>**100 cubic feet**</strong> = <strong>**748 gallons**</strong>
               </li>
             </ul>
             <p>
-              So if your bill says you used 6 CCF, that is about 4,488 gallons
+              So if your bill says you used 6 CCF, that is about **4,488 gallons**
               (6 × 748).
             </p>
             <p>
               Some cities use <strong>kgal</strong> (thousand gallons) instead.
               The important thing is that the unit is just a way to count volume--
-              it does not change the actual amount of water you used.
+              it does not change the actual amount of water you used. However, some utilities apply [tiered water rates](/blog/tiered-water-rates-explained/), where the price per CCF increases as your usage goes up..
             </p>
 
 <h2 id="quick-conversions">Quick conversions you can memorize</h2>
@@ -81,15 +81,15 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
                 </tr>
                 <tr>
                   <td>1 CCF</td>
-                  <td>750 gallons</td>
+                  <td>**750 gallons**</td>
                 </tr>
                 <tr>
                   <td>2 CCF</td>
-                  <td>~1,500 gallons</td>
+                  <td>~**1,500 gallons**</td>
                 </tr>
                 <tr>
                   <td>10 CCF</td>
-                  <td>~7,500 gallons</td>
+                  <td>~**7,500 gallons**</td>
                 </tr>
               </tbody>
             </table>
@@ -187,19 +187,19 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 
 {{< faq "How many gallons are in 1 CCF?" >}}
 
-1 CCF (hundred cubic feet) is 100 cubic feet, which is about 748 gallons.
+1 CCF (hundred cubic feet) is **100 cubic feet**, which is about **748 gallons**.
 
 {{< /faq >}}
 
 {{< faq "What does CCF stand for on a water bill?" >}}
 
-CCF stands for "hundred cubic feet." The first "C" is the Roman numeral for 100, so CCF means 100 cubic feet (CF). One CCF equals about 748 gallons, and it is the volume unit most water meters use to measure how much water you used during the billing period.
+CCF stands for "hundred cubic feet." The first "C" is the Roman numeral for 100, so CCF means **100 cubic feet** (CF). One CCF equals about **748 gallons**, and it is the volume unit most water meters use to measure how much water you used during the billing period.
 
 {{< /faq >}}
 
 {{< faq "Is CCF the same as a cubic foot?" >}}
 
-No. One CCF equals 100 cubic feet. A cubic foot is the smaller base unit; CCF is a larger bundled unit used for billing.
+No. One CCF equals **100 cubic feet**. A cubic foot is the smaller base unit; CCF is a larger bundled unit used for billing.
 
 {{< /faq >}}
 

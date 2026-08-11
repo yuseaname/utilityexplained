@@ -10,6 +10,16 @@ tags: ["troubleshooting", "utility bills", "billing", "disconnection"]
 keywords: ["past due balance utility", "utility bill past due", "what happens if utility bill is late", "overdue utility bill"]
 image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
 ---
+## Quick Answer
+
+**A past due balance is unpaid charges from a previous billing cycle that carry forward to your current bill.** If you don't pay it within the grace period (typically 10-20 days), you'll face late fees, then a disconnection notice, and eventually service shutoff. Here's what to do right now:
+
+- **Can't pay the full amount?** Call your utility and ask for a payment arrangement — most offer these before disconnection.
+- **Need emergency help?** Ask about LIHEAP, hardship programs, or [[utility assistance programs](/blog/utility-assistance-programs-liheap/)](/blog/utility-assistance-programs-liheap/).
+- **Facing disconnection?** Most states require utilities to give you written notice 10-15 days before shutting off service.
+- **Worried about your credit?** Utility debts can be sent to collections and reported to credit bureaus.
+
+
 
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
 
@@ -38,7 +48,7 @@ A past due balance is the amount from a previous billing period that was not pai
 - Late fee: $8.50
 - Total amount due: $338.50
 
-The past due balance carries forward from month to month until it's paid. It does not "reset" or expire—utilities have the right to collect overdue balances for as long as the account is active. In many states, utility debts can even be sent to collection agencies, reported to credit bureaus, or deducted from future security deposits.
+The past due balance carries forward from month to month until it's paid. It does not "reset" or expire—utilities have the right to collect overdue balances for as long as the account is active. In many states, utility debts can even be sent to collection agencies, reported to credit bureaus, or deducted from future [security deposits](/blog/26-utility-deposit-explained/).
 
 ## How Utility Billing Grace Periods Work
 
@@ -95,7 +105,7 @@ If the balance remains unpaid after the notice period, the utility can physicall
 
 **Reconnection costs are significant:**
 
-- Reconnection fee: $30 to $150
+- [Reconnection fee](/blog/28-utility-reconnection-fee-explained/): $30 to $150
 - Outstanding balance: Full past due amount
 - Deposit: New security deposit may be required ($100 to $300+)
 - Total to restore service: Often $300 to $600+ in a single payment
