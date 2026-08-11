@@ -14,6 +14,9 @@
         {{ $count }} guide{{ if ne $count 1 }}s{{ end }}
       </div>
     </header>
+
+  {{/* Page body content */}}
+  {{ .Content }}
   </div>
 
   {{/* Show sub-sections if they exist */}}
