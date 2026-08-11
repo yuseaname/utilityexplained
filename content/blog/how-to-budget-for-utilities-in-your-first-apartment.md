@@ -11,6 +11,16 @@ keywords: ["utility budget", "apartment utility costs", "utility deposit", "hidd
 image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).** Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.
+
+- **Get exact numbers from the seller** - Request 12 months of utility history before signing
+- **Plan for seasonal spikes** - Summer AC can add $50-100/month; winter heating may double gas bills
+- **Start with 20% buffer** - First apartments often have inefficient appliances or poor insulation
+
+See [average water usage per person](/blog/average-water-usage-per-person/) for calculating water costs.
+
 <h2 id="start-here">Start with the utilities you will be responsible for</h2>
 <p>
               Lease agreements vary. Some rentals include water or trash, while

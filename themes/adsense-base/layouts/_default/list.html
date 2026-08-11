@@ -9,6 +9,9 @@
     {{ with .Params.description }}<p class="text-lg text-gray-600 mt-2 max-w-2xl">{{ . }}</p>{{ end }}
   </header>
 
+  {{/* Page body content */}}
+  {{ .Content }}
+
   {{/* Ad: top of list */}}
   {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "below_title" "ctx" .) }}{{ end }}
 

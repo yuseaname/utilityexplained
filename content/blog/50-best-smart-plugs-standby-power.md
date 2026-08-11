@@ -11,6 +11,16 @@ keywords: ["best smart plugs standby power", "smart plugs energy saving", "stand
 image: "/images/articles/50-best-smart-plugs-standby-power/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**Smart plugs can reduce standby power costs by automatically cutting power to devices, saving $50-150 per year on average.** Phantom loads account for 5-10% of residential electricity use, costing the average household $100-200 annually for devices that appear "off" but still draw power.
+
+- **Top smart plugs use <1W** - Look for models with energy monitoring (TP-Link Kasa, Wyze, Belkin)
+- **Payback in 6-12 months** - Smart plugs cost $15-30 and save $8-15/month on entertainment centers
+- **Target these devices first** - TVs, gaming consoles, cable boxes, and microwaves have the highest standby loads
+
+See [why your electric bill is high](/blog/03-why-is-my-electric-bill-so-high/) for more savings strategies.
+
 Do you ever feel like your electric bill is climbing even when you haven't changed your habits? You aren't alone. Many US homeowners and renters are being hit by "vampire energy"—the silent, invisible drain caused by devices that stay plugged in even when they aren't in use. Fortunately, finding the **best smart plugs for standby power** can be a game-changer for your monthly budget. By using automation to physically sever the connection to these energy-leeching devices, you can stop the bleed and start seeing real savings on your utility bills.
 
 In this comprehensive guide, we will explore why standby power is such a problem, what specific features you should look for in a smart plug to combat it, and provide actionable recommendations to help you turn your home into an energy-efficient powerhouse.

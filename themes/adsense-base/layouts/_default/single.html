@@ -63,6 +63,9 @@
     {{ partial "toc.html" . }}
   {{ end }}
 
+  {{/* Ad slot: mid article */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
+
   <!-- Article Content -->
   <div class="article-content">
     {{ .Content }}
@@ -97,6 +100,9 @@
       <p class="author-bio-name">By <a href="{{ "/author/" | relURL }}{{ $authorSlug }}/">{{ $authorName }}</a> · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
       <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a> or <a href="{{ "/author/" | relURL }}{{ $authorSlug }}/">learn more about {{ $authorName }}</a>.</p>
   </div>
+
+  {{/* Email capture */}}
+  {{ partial "email-capture.html" . }}
 
   {{ if eq .Section "blog" }}
   {{ partial "related-posts.html" . }}

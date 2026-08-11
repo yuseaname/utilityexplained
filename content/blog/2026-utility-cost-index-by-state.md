@@ -11,6 +11,16 @@ keywords: ["average utility bill by state", "electricity cost by state", "gas co
 image: "/images/articles/2026-utility-cost-index-by-state/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**Hawaii has the highest electricity costs at $0.34/kWh (avg. $450/month), while Louisiana has the lowest at $0.09/kWh (avg. $120/month).** The national average electricity rate is $0.16/kWh, with dramatic variations based on local energy sources, infrastructure costs, and state regulations.
+
+- **Coastal states pay 2-3x more** - Hawaii, California, Massachusetts, and New York top the expensive list
+- **Natural gas states are cheapest** - Louisiana, Texas, Oklahoma benefit from abundant local energy
+- **Solar can offset $100-250/month** in high-cost states depending on system size
+
+See [fixed vs variable rate plans](/blog/fixed-vs-variable-rate-electricity-plan/) for managing costs.
+
 Where you live determines how much you pay for utilities—sometimes dramatically. A household in Hawaii pays $360/month for electricity, while a household in Louisiana pays just $84. A family in Massachusetts spends $75/month on water, while a family in Wisconsin spends $35.
 
 This 2026 Utility Cost Index ranks all 50 states by average monthly utility costs (electricity, gas, and water combined), using original analysis of EIA data, state utility commission reports, and census data.

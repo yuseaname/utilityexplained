@@ -11,6 +11,16 @@ keywords: ["how to read electricity bill", "reading electricity bill", "understa
 image: "/images/articles/41-how-to-read-electricity-bill/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**Understanding your electricity bill requires checking three key sections: the usage summary (kWh consumed), the rate breakdown (supply vs. delivery charges), and the billing period (days in cycle).** Most bills separate generation (60-70% of cost) from distribution (30-40%), with additional fees averaging $15-30/month.
+
+- **Supply charges are 60-70%** of your bill and are often competitive (shop for lower rates)
+- **Delivery fees are fixed** - These pay for grid maintenance and are non-negotiable
+- **Billing period affects averages** - Compare same-month bills year-over-year for accurate trends
+
+See [why your electric bill might be high](/blog/03-why-is-my-electric-bill-so-high/) for cost-saving tips.
+
 Ever opened your mail only to feel a sudden pang of anxiety at the total amount due? You aren't alone. For many US homeowners and renters, the monthly utility statement feels like a cryptic puzzle written in a language designed to be confusing. However, learning **how to read an electricity bill** is the single most important step toward taking control of your household budget and identifying where you can cut costs.
 
 When you understand exactly what you are paying for, you move from being a passive payer to an active manager of your energy consumption. This guide will break down every line item, explain the technical jargon, and provide you with actionable strategies to lower your monthly expenses.

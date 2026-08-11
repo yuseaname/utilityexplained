@@ -1,0 +1,20 @@
+{{/* email-capture.html */}}
+{{ if eq .Section "blog" }}
+<div class="newsletter-box">
+  <div class="newsletter-inner">
+    <div class="newsletter-icon">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+      </svg>
+    </div>
+    <div>
+      <h3 class="newsletter-title">Stop Overpaying on Utility Bills</h3>
+      <p class="newsletter-text">Get plain-English tips to lower your electricity, gas, and water bills. One email per month. No spam, unsubscribe anytime.</p>
+    </div>
+  </div>
+  <form class="newsletter-form" action="https://utilityexplained.us21.list-manage.com/subscribe/post" method="POST">
+    <input type="email" name="EMAIL" placeholder="your@email.com" class="newsletter-input" required aria-label="Email address">
+    <button type="submit" class="newsletter-btn">Get Free Tips</button>
+  </form>
+</div>
+{{ end }}

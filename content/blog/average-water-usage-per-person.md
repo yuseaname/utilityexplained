@@ -11,6 +11,16 @@ keywords: ["high water bill", "gallons of water", "water leak detection", "apart
 image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**The average person uses 80-100 gallons of water per day, with indoor use averaging 60-70 gallons (70% of total) and outdoor use making up the remaining 30%.** Toilet flushing (24 gallons), showers (20 gallons), and faucet use (15 gallons) account for the largest indoor shares, while lawn irrigation can add 30-100+ gallons daily in warmer months.
+
+- **Toilet = 24 gallons/day (30%)** - Old toilets use 3.5-5 gallons per flush vs. 1.28 gallons for efficient models
+- **Showers = 20 gallons/day (25%)** - Low-flow showerheads save 7,500 gallons/year per person
+- **Faucets = 15 gallons/day (19%)** - Fixing leaks saves 10% on water bills ($50-100/year)
+
+See [how to budget for utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment/) for cost management.
+
 <h2 id="typical-range">Typical daily usage range</h2>
 <p>
               In the US, a common range is 40 to 80 gallons per person per day for

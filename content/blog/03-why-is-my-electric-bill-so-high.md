@@ -12,6 +12,16 @@ keywords: ["why is my electric bill so high", "high electricity bill causes", "e
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Your electric bill is likely high due to phantom power loads (5-10% of usage), inefficient appliances adding $50-150 monthly, and rate plans that don't match your usage patterns.** The average household spends $150-200/month on electricity, with heating/cooling accounting for 40-50% of total usage.
+
+- **Phantom power costs $100-200 per year** - Unplug devices when not in use or use smart power strips
+- **Swap to LED bulbs** - Save $75/year per household and use 75% less energy
+- **Check your rate plan** - Time-of-use plans can save 10-20% if you shift usage to off-peak hours
+
+See [how to read your electricity bill](/blog/41-how-to-read-electricity-bill/) for detailed analysis.
+
 Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it.
 
 <img src="/images/articles/03-why-is-my-electric-bill-so-high/custom_inline.webp" alt="Utility bill showing unexpected high charges" width="1200" height="630" loading="lazy" />
