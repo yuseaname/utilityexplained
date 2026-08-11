@@ -277,4 +277,5 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <li><a href="/blog/how-to-lower-electric-bill-complete-guide/">Complete Guide to Lowering Your Electric Bill</a></li>
 <li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
 <li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs to Eliminate Standby Power</a></li>
+<li><a href="/blog/phantom-power-draw-explained/">Phantom Power Draw Explained (Silent Electricity Thieves)</a></li>
 </ul>

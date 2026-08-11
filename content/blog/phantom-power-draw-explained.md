@@ -11,6 +11,8 @@ keywords: ["phantom power draw", "standby power consumption", "vampire power", "
 image: "/images/articles/phantom-power-draw-explained/custom_hero.webp"
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **Phantom power (also called standby power or vampire draw) is electricity consumed by devices that are plugged in but turned off or in standby mode.** It costs the average U.S. household **$100–$200 per year** — typically **5–10% of your total electric bill**.

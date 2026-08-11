@@ -11,6 +11,8 @@ keywords: ["best smart plugs standby power", "smart plugs energy saving", "stand
 image: "/images/articles/50-best-smart-plugs-standby-power/custom_hero.webp"
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **Smart plugs can reduce standby power costs by automatically cutting power to devices, saving $50-150 per year on average.** Phantom loads account for 5-10% of residential electricity use, costing the average household $100-200 annually for devices that appear "off" but still draw power.

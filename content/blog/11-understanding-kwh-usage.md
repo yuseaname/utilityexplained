@@ -82,7 +82,7 @@ According to the EIA's 2023 Residential Energy Consumption Survey, here's where 
 | Refrigerator | 7% |
 | TVs & Electronics | 6% |
 | Washer & Dryer | 5% |
-| Other (standby, misc.) | 27% |
+| Other ([standby](/blog/phantom-power-draw-explained/), misc.) | 27% |
 
 **The big three — HVAC, water heating, and refrigeration — account for roughly 36% of your total bill.** If you want to make a meaningful dent in your electric bill, these are the areas that pay off.
 

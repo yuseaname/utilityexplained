@@ -11,6 +11,8 @@ keywords: ["best energy efficient space heater", "energy efficient heater", "spa
 image: "/images/articles/42-best-energy-efficient-space-heater/custom_hero.webp"
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **The most energy-efficient space heaters can cut your heating costs by 30-50% compared to central heating for small areas, typically costing $0.15-0.30 per hour to operate.** Look for models with thermostats, timers, and eco-modes for maximum savings.
