@@ -11,6 +11,17 @@ keywords: ["water leak detection", "high water bill", "water meter reading", "se
 image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.webp"
 ---
 
+<h2 id="quick-answer">Quick Answer: The 10-Minute Toilet Leak Test</h2>
+<p><strong>A running toilet can waste 200–400 gallons per day and add $50–$100+ to your water bill.</strong> Here is how to test for one right now:</p>
+<ol>
+<li><strong>Remove the toilet tank lid.</strong></li>
+<li><strong>Add 5–10 drops of food coloring</strong> (or a dye tablet) to the tank water.</li>
+<li><strong>Wait 10–15 minutes without flushing.</strong></li>
+<li><strong>Check the bowl.</strong> If any color appears in the bowl, your flapper is leaking.</li>
+<li><strong>If color appears:</strong> The flapper valve needs replacing (a $10–$15 part, 15-minute DIY fix).</li>
+</ol>
+<p>Want to confirm with your water meter? Turn off all water, check the <a href="/blog/water-meter-leak-indicator-explained/">leak indicator dial</a>, and see if it moves. If it does and the toilet test is negative, you may have a <a href="/blog/water-meter-running-when-no-water-used/">hidden leak elsewhere</a>.</p>
+
 <h2 id="why-hard-to-notice">Why a running toilet is hard to notice (but shows up on the bill)</h2>
 <p>
               A running toilet is one of the most frustrating utility problems:

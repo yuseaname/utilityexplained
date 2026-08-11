@@ -11,6 +11,17 @@ keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utilit
 image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_00001_.webp"
 ---
 
+<h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026</h2>
+<p>The average U.S. household pays <strong>$430–$500 per month</strong> for all utilities combined (electricity, gas, water, sewer, trash). Here is the national breakdown:</p>
+<ul>
+<li><strong>Electricity:</strong> $137/month (≈900 kWh at 14.3¢/kWh)</li>
+<li><strong>Natural gas:</strong> $60–$120/month (higher in winter, lower in summer)</li>
+<li><strong>Water & sewer:</strong> $70–$120/month combined</li>
+<li><strong>Internet:</strong> $60–$80/month</li>
+<li><strong>Trash/recycling:</strong> $15–$35/month (often bundled with water)</li>
+</ul>
+<p>The cheapest states for utilities are <strong>Idaho, Utah, and Washington</strong> (abundant hydropower). The most expensive are <strong>Hawaii, Alaska, and Connecticut</strong>. For a full state-by-state breakdown, see the tables below. To understand what drives these costs, see our guide on <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a>.</p>
+
 <h2 id="understanding-the-average-utility-bills">Understanding the Average Utility Bills by State in 2026</h2>
 <p>Utility costs vary widely across the U.S. in 2026—not just due to regional differences in energy sources, but also because of state regulations, climate, and infrastructure age. Whether you're moving, budgeting for a new home, or just curious how your bill compares, knowing the <strong>average utility bills by state 2026</strong> gives you real leverage in financial planning.</p>
           <p>In this article, we break down electricity, natural gas, water, and waste management costs for every U.S. state. We use the most recent data from the U.S. Energy Information Administration (EIA), the American Water Works Association (AWWA), and state public utility commissions—all adjusted for inflation and projected trends through 2026.</p>

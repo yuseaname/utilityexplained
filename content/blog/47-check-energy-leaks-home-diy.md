@@ -28,7 +28,7 @@ A high-performing envelope is airtight and well-insulated. However, most homes�
 ### The Cost of Inefficiency
 When your home has significant air leaks, your HVAC (Heating, Ventilation, and Air Conditioning) system has to work overtime. During the summer, your AC struggles to combat the hot air leaking in through poorly sealed windows. In the winter, your furnace fights a losing battle against the frigid drafts creeping in under doors. 
 
-This constant cycling doesn't just raise your electricity or gas bills; it also leads to:
+This constant cycling doesn't just raise your [electricity or gas bills](/blog/why-is-my-electricity-bill-so-high-in-winter); it also leads to:
 * **Increased Wear and Tear:** Your HVAC system will likely fail sooner if it’s constantly running at maximum capacity.
 * **Reduced Comfort:** You may experience "cold spots" in certain rooms or humidity fluctuations.
 * **Potential Mold Issues:** Air leaks can lead to condensation buildup in wall cavities, which is a breeding-block for mold and mildew.
@@ -95,7 +95,7 @@ Heat rises. In the winter, your expensive warm air is looking for any way to esc
 
 ### Electrical Outlets and Switches
 This is one of the most overlooked areas in a home energy audit. Electrical outlets located on exterior walls are essentially small holes in your home's thermal envelope.
-* **The Temperature Check:** Use your IR thermometer on outlets. If the temperature of the outlet plate is significantly lower than the surrounding wall, air is leaking through the wall cavity.
+* **The Temperature Check:** Use your IR thermometer on outlets. If the temperature of the outlet plate is significantly lower than the surrounding wall, air is leaking through the wall cavity. To better understand your energy consumption patterns, [learn how to read your electricity bill](/blog/41-how-to-read-electricity-bill).
 - **The Solution:** You can buy inexpensive foam gaskets that sit behind the outlet cover to provide an extra layer of insulation.
 
 ### The Basement and Crawlspace
@@ -166,9 +166,9 @@ To make your audit as efficient as possible, use this quick checklist:
 
 ## Conclusion: Small Changes, Big Savings
 
-Learning how to **check energy leaks at home DIY** style is one of the most empowering moves you can make as a resident. It shifts you from being a passive consumer of utility services to an active manager of your home's efficiency. 
+Learning how to **check energy leaks at home DIY** style is one of the most empowering moves you can make as a resident. [Understanding kWh usage](/blog/11-understanding-kwh-usage) helps you track your savings. It shifts you from being a passive consumer of utility services to an active manager of your home's efficiency. 
 
-By spending a few hours on a weekend performing these checks, you are setting yourself up for long-term financial rewards. The money you save on your monthly heating and cooling bills can be redirected toward savings, home improvements, or even a well-deserved vacation. 
+By spending a few hours on a weekend performing these checks, you are setting yourself up for long-term financial rewards. The money you save on your monthly heating and cooling bills can be redirected toward savings, home improvements, or even a well-deserved vacation. For more comprehensive savings strategies, [check out our complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide). 
 
 **Don't wait for the next heatwave or cold snap to strike.** Grab a flashlight and some incense, and start your energy audit today. Your wallet—and your comfort—will thank you.
 

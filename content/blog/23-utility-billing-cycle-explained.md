@@ -68,7 +68,7 @@ Smart meters (AMI) have changed this somewhat — they can report usage remotely
 
 ## How to Read Your Billing Period
 
-Every utility bill includes the service period, though the formatting varies. Here are the most common ways it appears:
+Every utility bill includes the service period, though the formatting varies. For a comprehensive breakdown of all [utility bill charges and fees](/blog/complete-guide-understanding-utility-bill), understanding this period is essential. Here are the most common ways it appears:
 
 - "Service Period: 04/18/2026 – 05/17/2026"
 - "Billing Dates: Apr 18 – May 17, 2026"
@@ -77,11 +77,11 @@ Every utility bill includes the service period, though the formatting varies. He
 
 The number of days in your service period matters. If your usage is 30 kWh per day and your service period is 34 days, your bill will show 1,020 kWh. Next month, if the period is 28 days, you will be billed for 840 kWh — a 170 kWh difference that has nothing to do with your actual consumption habits.
 
-To compare apples to apples across months, calculate your average daily usage by dividing total kWh by the number of days in the service period. If that number changes significantly between bills, something in your usage pattern has shifted.
+To compare apples to apples across months, calculate your average daily usage by dividing total kWh by the number of days in the service period. This helps you understand [how rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together). If that number changes significantly between bills, something in your usage pattern has shifted.
 
 ## Estimated vs. Actual Meter Readings in Your Billing Cycle
 
-Not every bill is based on an actual meter reading. Utilities estimate readings when they cannot access your meter — locked gates, aggressive dogs, weather events, or staffing constraints. An estimated bill uses historical data or seasonal averages to approximate your usage.
+Not every bill is based on an actual meter reading. [Utilities estimate readings](/blog/14-estimated-utility-bill-explained) when they cannot access your meter — locked gates, aggressive dogs, weather events, or staffing constraints. An estimated bill uses historical data or seasonal averages to approximate your usage.
 
 An estimated bill will typically note "EST" or "Estimated" next to the reading on your statement. If you receive an estimated bill, the next actual reading will result in a correction — either a credit if the estimate was too high or an additional charge if it was too low. This can create a sudden spike or drop that looks like a billing error but is actually a normalization.
 
@@ -91,7 +91,7 @@ If you believe your bill is based on a faulty estimate, contact your utility and
 
 ## How Billing Cycles Affect Budget Billing
 
-Budget billing (also called level pay, balanced billing, or average payment plans) spreads your estimated annual utility costs into equal monthly payments. Most utilities calculate your budget amount by averaging your previous 12 months of actual usage and applying current rates.
+[Budget billing](/blog/16-budget-billing-level-pay-explained) (also called level pay, balanced billing, or average payment plans) spreads your estimated annual utility costs into equal monthly payments. Most utilities calculate your budget amount by averaging your previous 12 months of actual usage and applying current rates.
 
 Here is where billing cycles introduce complexity. If your utility transitions you to budget billing mid-cycle, the first few months may include "true-up" adjustments as the system aligns your budget payments with actual consumption. Additionally, if your billing cycle is bimonthly, your budget payment will be larger but less frequent — a $150/month budget payment becomes roughly $300 every two months.
 

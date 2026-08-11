@@ -12,9 +12,9 @@ keywords: ["why is my electric bill so high", "high electricity bill causes", "e
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
-Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it.
 
-<img src="/images/articles/03-why-is-my-electric-bill-so-high/custom_inline.webp" alt="Editorial illustration relevant to Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
+<img src="/images/articles/03-why-is-my-electric-bill-so-high/custom_inline.webp" alt="Utility bill showing unexpected high charges" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
@@ -30,11 +30,13 @@ Your electric bill jumped $50, $100, or more — and nothing changed. Or so you 
 
 ### Check These First
 
-| If Bill Doubled | If Bill Up 20-50% | If Bill Gradually Rising | See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
+| If Bill Doubled | If Bill Up 20-50% | If Bill Gradually Rising |
 |-----------------|-------------------|-------------------------|
-| Meter error | Seasonal change | Rate increases | See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
-| Billing error | New appliance | Appliance aging | See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
-| Theft | Guest/occupant | Insulation degradation |
+| Meter error | Seasonal change | [Rate increases](/blog/15-why-utility-bill-higher-same-usage/) |
+| [Billing error](/blog/14-estimated-utility-bill-explained/) | New appliance | Appliance aging |
+| Theft | Guest/occupant | [Insulation degradation](/blog/47-check-energy-leaks-home-diy/) |
+
+**Start here:** Check your [kWh usage](/blog/what-is-a-kilowatt-hour/) against last month. Then verify whether your [rate plan](/blog/10-fixed-vs-variable-utility-rate/) changed. If neither explains it, work through the 12 causes below.
 
 ### The 30-Second Test
 

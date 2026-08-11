@@ -11,22 +11,15 @@ keywords: ["high electric bill", "smart meter accuracy", "kwh usage", "estimated
 image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_00001_.webp"
 ---
 
-<h2 id="intro">Introduction</h2>
-<p class="lead">
-              A smart meter shows up on your house and suddenly the bill feels
-              different. Is it more accurate, or just faster at charging you?
-            </p>
-            <p>
-              The short answer: smart meters are digital meters that report usage
-              in short intervals. That gives utilities better data, and it gives
-              you a clearer view of when your home uses power.
-            </p>
-            <p>
-              You are not powerless here. This guide explains how smart meters
-              work, what they can and cannot see, and how to check the numbers
-              yourself. If you want the full electricity basics first, start with
-              <a href="/electricity-explained"> Electricity Explained</a>.
-            </p>
+<h2 id="quick-answer">Quick Answer</h2>
+<p><strong>A smart meter is a digital electricity meter that records your usage in short intervals (usually 15–60 minutes) and sends that data automatically to your utility.</strong> Unlike old analog meters with spinning dials, smart meters:</p>
+<ul>
+<li><strong>Track exactly when</strong> you use power, not just how much</li>
+<li><strong>Report remotely</strong> — no meter reader visits your property</li>
+<li><strong>Enable time-of-use rates</strong> — different prices at different hours</li>
+<li><strong>Eliminate estimated bills</strong> — the utility gets actual usage data</li>
+</ul>
+<p>Are they accurate? <strong>Yes — smart meters are generally more accurate than aging analog meters</strong>, which tend to slow down and under-report usage over time. If your bill jumped after a smart meter installation, it is likely because the new meter is catching usage the old one missed. For help diagnosing a sudden increase, see our guide on <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden electricity bill spikes</a>.</p>
 
 <h2 id="short-answer">The short answer (what a smart meter actually does)</h2>
 <p>
@@ -231,4 +224,3 @@ Often the old analog meter was undercounting. A new digital meter can reveal you
 - [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
 - [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)
 - [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained)
-

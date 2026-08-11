@@ -51,11 +51,11 @@ Proration occurs whenever your service period doesn't align with the utility's s
 
 ### Moving In
 
-When you set up new utility service, your first bill typically covers a partial period. If you move in on the 15th and the utility bills monthly, your first bill might cover just 16 days (the 15th through the end of the month) or it might extend into the next month depending on how the utility handles initial billing.
+When you [set up new utility service](/blog/27-utility-connection-fee-explained), your first bill typically covers a partial period. If you move in on the 15th and the utility bills monthly, your first bill might cover just 16 days (the 15th through the end of the month) or it might extend into the next month depending on how the utility handles initial billing.
 
 ### Moving Out
 
-When you terminate service, your final bill covers the period from your last meter reading to the disconnection date. This is often a short period of just a few days or weeks. However, if the utility can't read the meter on your move-out date, they may estimate the final reading—which brings the risk of overbilling.
+When you terminate service, your final bill covers the period from your last meter reading to the disconnection date. This is often a short period of just a few days or weeks. However, it could include [past due balances](/blog/21-past-due-balance-utility-bill-explained) if you are behind on payments. However, if the utility can't read the meter on your move-out date, they may estimate the final reading—which brings the risk of overbilling.
 
 ### Real Estate Closings
 
