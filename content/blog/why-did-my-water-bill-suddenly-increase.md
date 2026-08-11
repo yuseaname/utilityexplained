@@ -11,6 +11,17 @@ keywords: ["water leak detection", "gallons of water", "high water bill"]
 image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_00001_.webp"
 ---
 
+
+## Quick Answer
+
+**A sudden water bill increase usually indicates a leak (toilet, pipe, or irrigation), rate changes, or seasonal usage spikes.**
+
+- **A running toilet wastes 200–**300 gallons**/day** — adds ****$50****–****$150****/month
+- **Hidden leaks account for 10,000+ gallons/month** before detection
+- **Seasonal rates increase 10–****20%**** in summer** due to peak demand
+
+[For more detail, see [common causes of high utility bills](/blog/why-is-my-electric-bill-so-high-this-month/).]
+
 <h2 id="top-reasons">The most common reasons for a sudden spike</h2>
 <p>
               Sudden increases are usually tied to leaks, seasonal outdoor use, or a
@@ -163,7 +174,7 @@ image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-wate
             </p>
             <p>
               When you contact the utility, ask for your usage history over the last
-              12 months. That history can show whether the spike is unusual or part
+              **12 months**. That history can show whether the spike is unusual or part
               of a seasonal pattern.
             </p>
 
@@ -182,7 +193,7 @@ image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-wate
 
 {{< faq "How much water does a running toilet waste?" >}}
 
-A leaking flapper can waste 200 to 700 gallons per day depending on the leak size.
+A leaking flapper can waste 200 to **700 gallons** per day depending on the leak size.
 
 {{< /faq >}}
 
@@ -203,14 +214,14 @@ Start with a quick leak check at home. If the meter suggests a leak or the bill 
 
 | Cause | Typical Increase | How to Check | Urgency |
 |-------|:---:|-------------|:---:|
-| Running toilet | $20-90/mo | Food coloring test | High |
-| Hidden pipe leak | $30-100/mo | Check meter at night | High |
-| Sprinkler malfunction | $15-60/mo | Read meter before/after | Medium |
-| Water heater relief valve | $10-30/mo | Check for dripping pipe | Medium |
-| New appliance | $5-15/mo | Check purchase date | Low |
-| Rate increase | 5-15% | Compare rate per CCF | Low |
+| Running toilet | ****$20****-90/mo | Food coloring test | High |
+| Hidden pipe leak | ****$30****-100/mo | Check meter at night | High |
+| Sprinkler malfunction | ****$15****-60/mo | Read meter before/after | Medium |
+| Water heater relief valve | ****$10****-30/mo | Check for dripping pipe | Medium |
+| New appliance | ****$5****-15/mo | Check purchase date | Low |
+| Rate increase | 5-****15%**** | Compare rate per CCF | Low |
 | Estimated billing | Varies | Look for "EST" | Medium |
-| Pool auto-fill stuck | $20-50/mo | Check fill valve | High |
+| Pool auto-fill stuck | ****$20****-50/mo | Check fill valve | High |
 
 
 {{< faq-schema >}}

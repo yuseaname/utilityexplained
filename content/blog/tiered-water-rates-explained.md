@@ -12,8 +12,12 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>
-<p># Tiered Water Rates Explained: Why Using More Costs Dramatically More</p>
-<p>Tiered water rates are a billing structure where the price per gallon increases as your total usage rises, meaning the more water you consume, the more expensive every additional gallon becomes. Unlike a flat rate where every gallon costs the same regardless of volume, tiered pricing divides usage into blocks, charging a lower rate for essential indoor needs and a higher rate for discretionary outdoor or excessive use. This system is designed to encourage conservation and ensure that heavy users pay a fairer share of the infrastructure costs required to deliver and treat water.</p>
+<p>**Tiered water rates** charge higher prices per gallon as you use more water. Instead of a flat rate, usage is divided into blocks—essential indoor needs get lower rates while outdoor/excessive use gets charged higher rates.</p>
+<ul>
+<li><strong>Example:</strong> First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**</li>
+<li><strong>Impact:</strong> Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**</li>
+</ul>
+<p>Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.</p>
 
 <h2 id="what-are-tiered-water-rates">What Are Tiered Water Rates?</h2>
 <p>To understand your water bill, you must first understand the pricing model your utility company uses. While some older systems rely on a simple flat fee or a uniform rate per gallon, most modern utilities have shifted toward <strong>tiered water rates explained</strong> as a conservation tool. According to the City of Vancouver, WA, tiered water billing is a rate structure that charges different amounts for water used. Water usage is divided into tiers, with each tier charging a higher rate than the previous one.</p>
@@ -25,18 +29,18 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <h3>The Base Tier (Essential Needs)</h3>
 <p>The first tier covers your "budgeted" or "essential" water use. This is calculated based on average household needs for indoor activities. This includes:</p>
 <ul><li>Drinking and cooking.</li><li>Bathing and showering.</li><li>Flushing toilets.</li><li>Washing clothes and dishes.</li></ul>
-<p>Utilities aim to set this threshold so that a typical family of four can meet these needs without paying the higher rates. For example, a utility might set the first tier at 12,000 gallons per month. Anything used within this limit costs $X per 1,000 gallons.</p>
+<p>Utilities aim to set this threshold so that a typical family of four can meet these needs without paying the higher rates. For example, a utility might set the first tier at **12,000 gallons** per month. Anything used within this limit costs $X per 1,000 gallons.</p>
 <h3>The Upper Tiers (Discretionary Use)</h3>
 <p>Once you exceed the base tier, you enter the second, third, or even fourth tiers. These tiers usually correlate with outdoor usage, such as:</p>
 <ul><li>Lawn irrigation.</li><li>Garden watering.</li><li>Pool filling and topping off.</li><li>Washing cars or driveways.</li></ul>
 <p>Tiered water rates are designed to charge different prices for water based on the amount used, with higher prices applied as consumption increases and as the utility incurs higher costs. As you move up the tiers, the cost per unit can double or even triple. This sharp increase is intentional; it signals to the homeowner that they are consuming water at a rate that strains the local infrastructure.</p>
 <h3>A Practical Calculation Example</h3>
 <p>To visualize how this impacts your wallet, consider a hypothetical utility with the following structure:</p>
-<ul><li><strong>Tier 1:</strong> 0–10,000 gallons @ $4.00 per 1,000 gallons.</li><li><strong>Tier 2:</strong> 10,001–20,000 gallons @ $6.00 per 1,000 gallons.</li><li><strong>Tier 3:</strong> 20,001+ gallons @ $10.00 per 1,000 gallons.</li></ul>
+<ul><li><strong>Tier 1:</strong> **0–10,000 gallons** @ $4.00 per 1,000 gallons.</li><li><strong>Tier 2:</strong> **10,001–20,000 gallons** @ $6.00 per 1,000 gallons.</li><li><strong>Tier 3:</strong> **20,001+** gallons @ $10.00 per 1,000 gallons.</li></ul>
 <p>If you use 15,000 gallons in a month:</p>
-<ol><li><strong>First 10,000 gallons:</strong> 10 units x $4.00 = $40.00.</li><li><strong>Next 5,000 gallons:</strong> 5 units x $6.00 = $30.00.</li><li><strong>Total Water Cost:</strong> $70.00.</li></ol>
+<ol><li><strong>First 10,000 gallons:</strong> 10 units x $4.00 = $40.00.</li><li><strong>Next 5,000 gallons:</strong> 5 units x $6.00 = **$30.00**.</li><li><strong>Total Water Cost:</strong> **$70.00**.</li></ol>
 <p>If you use 25,000 gallons in a month:</p>
-<ol><li><strong>First 10,000 gallons:</strong> 10 units x $4.00 = $40.00.</li><li><strong>Next 10,000 gallons:</strong> 10 units x $6.00 = $60.00.</li><li><strong>Remaining 5,000 gallons:</strong> 5 units x $10.00 = $50.00.</li><li><strong>Total Water Cost:</strong> $150.00.</li></ol>
+<ol><li><strong>First 10,000 gallons:</strong> 10 units x $4.00 = $40.00.</li><li><strong>Next 10,000 gallons:</strong> 10 units x $6.00 = **$60.00**.</li><li><strong>Remaining 5,000 gallons:</strong> 5 units x $10.00 = **$50.00**.</li><li><strong>Total Water Cost:</strong> **$150.00**.</li></ol>
 <p>Notice that you only used 10,000 gallons more in the second scenario, but your bill more than doubled. This is the core function of <strong>tiered water rates explained</strong>: the marginal cost of water rises as you consume more.</p>
 
 <h2 id="comparison-flat-rate-vs-tiered-rate">Comparison: Flat Rate vs. Tiered Rate</h2>
@@ -56,7 +60,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>Reading a water bill can be daunting, especially when it includes technical terms like CCF, Therms, or Gallons. To manage your costs, you need to identify where your usage falls within the tiers.</p>
 <h3>Understanding the Units</h3>
 <p>Most US utilities measure water in hundreds of cubic feet (CCF) or gallons.</p>
-<ul><li><strong>1 CCF = 100 Cubic Feet = 748 Gallons.</strong></li><li>Some bills show usage in Gallons directly.</li><li>Some show usage in "Units" where 1 Unit = 1,000 Gallons.</li></ul>
+<ul><li><strong>1 CCF = 100 Cubic Feet = **748 Gallons**.</strong></li><li>Some bills show usage in Gallons directly.</li><li>Some show usage in "Units" where 1 Unit = 1,000 Gallons.</li></ul>
 <p>Check the "Usage" section of your bill. Look for a breakdown that shows how many units fell into Tier 1, Tier 2, etc. If your bill does not explicitly show the tier breakdown, you may need to look up your utility's rate card online.</p>
 <h3>Identifying the Thresholds</h3>
 <p>Your bill should state the threshold for each tier. For example, "Tier 1: 0–15 CCF." If your meter reading shows you used 20 CCF, you know you used 15 CCF at the low rate and 5 CCF at the higher rate. Some utilities provide a "water budget" graphic on the bill, showing a bar that fills up as you approach the next tier.</p>
@@ -72,7 +76,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>Outdoor watering is the primary driver of tier escalation.</p>
 <ul><li><strong>Water Early:</strong> Water your lawn early in the morning to reduce evaporation.</li><li><strong>Smart Controllers:</strong> Install weather-based irrigation controllers that adjust watering based on rain and temperature.</li><li><strong>Xeriscaping:</strong> Replace high-water grass with drought-tolerant native plants.</li></ul>
 <h3>3. Upgrade Fixtures</h3>
-<p>Installing low-flow showerheads and faucet aerators can reduce indoor usage by 20-30%. This keeps you firmly in the essential tier. Replacing an old toilet with a WaterSense certified model can save up to 1,100 gallons per person per year.</p>
+<p>Installing low-flow showerheads and faucet aerators can reduce indoor usage by **20-30%**. This keeps you firmly in the essential tier. Replacing an old toilet with a WaterSense certified model can save up to **1,100 gallons** per person per year.</p>
 <h3>4. Monitor Your Usage</h3>
 <p>Don't wait for the bill to arrive to know how much you used. Many utilities offer online portals where you can track daily or weekly usage. If you see a spike, investigate immediately. Understanding your baseline usage helps you know when you are approaching a tier break.</p>
 <p>For more comprehensive strategies on saving money across all your services, check out our guide on <a href="/blog/05-how-to-lower-utility-bills">how to lower utility bills</a>.</p>
@@ -82,7 +86,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <h3>The Move Away from Flat Rates</h3>
 <p>The most significant shift for 2026 is the move away from “flat rate” models. Utilities are scrapping the monthly flat fee for low-consumption users. Instead, they are implementing “strictly per-gallon” or “tiered” systems. This means even low users will see a variable charge based on usage, rather than a fixed service fee that covers everything.</p>
 <h3>Regulatory Changes in Colorado</h3>
-<p>In Colorado, legislation is explicitly driving this change. January 1, 2026, HB 1090 in Colorado requires that tenants cannot be charged more than the actual amount billed by the water utility. This impacts submetered apartments and condos, ensuring that pass-through costs reflect the actual tiered rates charged by the provider.</p>
+<p>In Colorado, legislation is explicitly driving this change. **January 1, 2026**, HB 1090 in Colorado requires that tenants cannot be charged more than the actual amount billed by the water utility. This impacts submetered apartments and condos, ensuring that pass-through costs reflect the actual tiered rates charged by the provider.</p>
 <h3>Cherry Creek Valley and Little Thompson</h3>
 <p>Specific districts are announcing changes for the upcoming year. The District Board of Directors will approve a tiered rate plan in the next few months for calendar year 2026. Customers will be billed a water service fee and higher rates for higher water usage. There will be a sewer service fee and usage charges that align with this structure.</p>
 <p>Similarly, while your base rate is fixed, the usage rate depends on how much water you use each month. To encourage conservation and reflect the actual cost of delivering water, LTWD uses a tiered pricing structure. These changes mean that homeowners planning for their budget in 2026 must account for variable rates.</p>

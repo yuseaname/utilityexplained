@@ -18,11 +18,11 @@ The power went out yesterday, but your neighbors still have lights. You check yo
 ## Quick Answer: How Much Does It Cost to Reconnect?
 
 > **Typical reconnection fees in 2025–2026:**
-> - **Electric:** $30–$150 during business hours ($100–$300+ after hours/weekends)
-> - **Natural gas:** $50–$200 during business hours ($150–$350+ after hours)
-> - **Water:** $25–$100 (rarely available after hours)
+> - **Electric:** ****$30****–****$150**** during business hours (****$100****–****$300****+ after hours/weekends)
+> - **Natural gas:** ****$50****–****$200**** during business hours (****$150****–****$350****+ after hours)
+> - **Water:** ****$25****–****$100**** (rarely available after hours)
 >
-> **Before service is restored you must pay** your full past-due balance, the reconnection fee, and possibly a new deposit. With a smart meter, reconnection can happen in **under 2 hours**; otherwise expect **same-day or next-business-day** service.
+> **Before service is restored you must pay** your full past-due balance, the reconnection fee, and possibly a new deposit. With a smart meter, reconnection can happen in **under **2 hours****; otherwise expect **same-day or next-business-day** service.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ The power went out yesterday, but your neighbors still have lights. You check yo
 
 A utility reconnection fee is a charge assessed by the utility when they restore service after a disconnection for non-payment. It covers the cost of sending a field technician to your property to physically reconnect service at the meter or service point. (This is different from the one-time [connection fee](/blog/27-utility-connection-fee-explained/) you pay when first setting up brand-new service.)
 
-Reconnection fees are separate from and in addition to your past-due balance. You must pay the outstanding bill amount, any late fees, and the reconnection fee before the utility will restore service. For many customers facing disconnection, this creates a significant financial barrier — a $250 past-due balance plus a $75 reconnection fee requires $325 to restore service.
+Reconnection fees are separate from and in addition to your past-due balance. You must pay the outstanding bill amount, any late fees, and the reconnection fee before the utility will restore service. For many customers facing disconnection, this creates a significant financial barrier — a ****$250**** past-due balance plus a ****$75**** reconnection fee requires ****$325**** to restore service.
 
 Reconnection fees are regulated by state public utility commissions, meaning they are not arbitrary — the utility must justify the amount through its approved tariff. However, the approved amounts vary widely by state and utility.
 
@@ -54,11 +54,11 @@ Reconnection fees vary by utility type, location, and whether the reconnection o
 
 | Utility Type | Regular Hours | After-Hours/Weekend |
 |---|---|---|
-| Electric | $30 – $150 | $100 – $300+ |
-| Natural Gas | $50 – $200 | $150 – $350+ |
-| Water/Sewer | $25 – $100 | $75 – $200+ |
+| Electric | ****$30**** – ****$150**** | ****$100**** – ****$300****+ |
+| Natural Gas | ****$50**** – ****$200**** | ****$150**** – ****$350****+ |
+| Water/Sewer | ****$25**** – ****$100**** | ****$75**** – ****$200****+ |
 
-In some areas, fees are on the higher end. Duke Energy charges approximately $30–$45 during business hours but $150–$200 for after-hours restoration in most markets. Pacific Gas and Electric charges $50–$75 for standard reconnection and $200+ for emergency after-hours service. CenterPoint Energy in Texas charges approximately $75 during regular hours and $175–$250 after hours.
+In some areas, fees are on the higher end. Duke Energy charges approximately ****$30****–****$45**** during business hours but ****$150****–****$200**** for after-hours restoration in most markets. Pacific Gas and Electric charges ****$50****–****$75**** for standard reconnection and ****$200****+ for emergency after-hours service. CenterPoint Energy in Texas charges approximately ****$75**** during regular hours and ****$175****–****$250**** after hours.
 
 ## Electric Reconnection Fees
 
@@ -69,7 +69,7 @@ Electric reconnection is the most common and most costly. The process typically 
 3. The technician may check for tampering or safety hazards at the service entrance.
 4. The reconnection fee is applied to your next bill or must be paid at the time of service.
 
-For smart-metered accounts, some utilities now offer remote reconnection, which is faster and cheaper. If your account is eligible, you may be able to pay by phone or online and have service restored within minutes without a field visit. Remote reconnection fees are typically lower — $15 to $50 — because no technician dispatch is needed.
+For smart-metered accounts, some utilities now offer remote reconnection, which is faster and cheaper. If your account is eligible, you may be able to pay by phone or online and have service restored within minutes without a field visit. Remote reconnection fees are typically lower — ****$15**** to ****$50**** — because no technician dispatch is needed.
 
 ## Natural Gas Reconnection Fees
 
@@ -104,26 +104,26 @@ To get your service restored, you must typically satisfy all of the following:
 
 4. **Late fees:** Accrued late payment charges are typically added to your balance and must be paid as part of the total.
 
-For customers facing financial hardship, the total amount required can be daunting. A $450 past-due balance, $75 reconnection fee, and $200 new deposit means $725 must be paid before service is restored.
+For customers facing financial hardship, the total amount required can be daunting. A ****$450**** past-due balance, ****$75**** reconnection fee, and ****$200**** new deposit means ****$725**** must be paid before service is restored.
 
 ## How Long Does Reconnection Take?
 
 Reconnection timelines depend on when you pay and the utility's scheduling:
 
-**Remote reconnection (smart meters):** 15 minutes to 2 hours after payment is confirmed. Available 24/7 with participating utilities.
+**Remote reconnection (smart meters):** 15 minutes to **2 hours** after payment is confirmed. Available 24/7 with participating utilities.
 
 **Regular business hours:** If you pay before the cutoff time (usually 2:00 PM to 4:00 PM), most utilities will restore service the same day. If you pay after the cutoff, service will be restored the next business day.
 
 **Scheduled appointment:** Some utilities require you to schedule a specific reconnection appointment, which may be 1 to 3 business days out depending on technician availability.
 
-**After-hours/emergency:** Available for an additional fee, typically within 2 to 6 hours of payment. Not all utilities offer this option.
+**After-hours/emergency:** Available for an additional fee, typically within 2 to **6 hours** of payment. Not all utilities offer this option.
 
 ## After-Hours and Emergency Reconnection
 
 If you need service restored urgently — for medical equipment, extreme weather, or safety reasons — many utilities offer after-hours reconnection, but at a premium cost:
 
-- **Electric after-hours reconnection:** $100 to $300+ in addition to regular fees.
-- **Gas after-hours reconnection:** $150 to $350+, and availability is limited.
+- **Electric after-hours reconnection:** ****$100**** to ****$300****+ in addition to regular fees.
+- **Gas after-hours reconnection:** ****$150**** to ****$350****+, and availability is limited.
 - **Medical emergency priority:** If you or a household member depends on electrically powered medical equipment (oxygen concentrator, dialysis machine, etc.), inform the utility immediately. Many states require utilities to expedite restoration for medical-baseline customers, sometimes waiving the after-hours fee.
 
 To qualify for medical priority, you typically need to submit a Medical Baseline or Medical Certification form to the utility. Keep this documentation updated and on file.
@@ -146,15 +146,15 @@ Reconnection fees are set in the utility's approved tariff, so individual custom
 
 Every state has rules governing utility disconnections. While the specifics vary, the following protections are common across most states:
 
-**Notice requirements:** Utilities must provide written notice before disconnection, typically 10 to 30 days in advance. The notice must state the amount due, the disconnection date, and how to contact the utility for payment arrangements.
+**Notice requirements:** Utilities must provide written notice before disconnection, typically 10 to **30 days** in advance. The notice must state the amount due, the disconnection date, and how to contact the utility for payment arrangements.
 
 **No disconnection on weekends or holidays:** Most states prohibit disconnections on Fridays, weekends, and holidays, or on days before holidays. This ensures customers have access to payment and assistance resources.
 
-**Extreme weather protections:** Many states prohibit disconnections during extreme heat (above 95°F) or extreme cold (below 32°F). Some states extend this protection for longer periods during winter moratoriums (November through March in many northern states).
+**Extreme weather protections:** Many states prohibit disconnections during extreme heat (above **95°F**) or extreme cold (below **32°F**). Some states extend this protection for longer periods during winter moratoriums (November through March in many northern states).
 
 **Medical protection:** Customers with documented medical conditions may be protected from disconnection or eligible for deferred payment arrangements.
 
-**Right to payment arrangement:** Many states require utilities to offer payment plans for customers who cannot pay their full balance. These plans typically spread the balance over 3 to 12 months.
+**Right to payment arrangement:** Many states require utilities to offer payment plans for customers who cannot pay their full balance. These plans typically spread the balance over 3 to **12 months**.
 
 **Right to a hearing:** In some states, you can request a hearing before the PUC to dispute a disconnection.
 
@@ -176,11 +176,11 @@ If you have experienced a disconnection, preventing a recurrence is critical. He
 
 **How much is a utility reconnection fee?**
 
-Electric reconnection fees typically range from $30 to $150 during regular business hours and $100 to $300 for after-hours service. Natural gas reconnection fees are $50 to $200 during business hours. Water reconnection fees are usually $25 to $100. Actual fees depend on your utility and location.
+Electric reconnection fees typically range from ****$30**** to ****$150**** during regular business hours and ****$100**** to ****$300**** for after-hours service. Natural gas reconnection fees are ****$50**** to ****$200**** during business hours. Water reconnection fees are usually ****$25**** to ****$100****. Actual fees depend on your utility and location.
 
 **How long does it take to get power restored after paying?**
 
-With smart meters, reconnection can happen within 15 minutes to 2 hours. For physical reconnections, service is typically restored the same day if you pay before the afternoon cutoff, or the next business day if you pay later. After-hours emergency reconnection takes 2 to 6 hours.
+With smart meters, reconnection can happen within 15 minutes to **2 hours**. For physical reconnections, service is typically restored the same day if you pay before the afternoon cutoff, or the next business day if you pay later. After-hours emergency reconnection takes 2 to **6 hours**.
 
 **Can I be disconnected on a weekend?**
 
@@ -188,11 +188,11 @@ Most states prohibit utility disconnections on weekends, Fridays, and holidays. 
 
 **Will the utility waive the reconnection fee if I am a first-time offender?**
 
-Some utilities will waive the reconnection fee for customers with a long history of on-time payments who experience their first disconnection. This is not guaranteed, but it is worth asking. Additionally, income-qualified customers may have the fee waived through hardship programs.
+Some utilities will waive the reconnection fee for customers with a long history of on-time payments who experience their first disconnection. This is not guaranteed, but it is worth asking. Plus, income-qualified customers may have the fee waived through hardship programs.
 
 **Can I set up a payment plan instead of paying the full amount?**
 
-Many states require utilities to offer payment plans for customers facing financial hardship. These plans typically spread the past-due balance over 3 to 12 months, but the utility may still require the reconnection fee and a partial payment (often 25% to 50% of the past-due balance) before restoring service. Contact your utility to negotiate an arrangement.
+Many states require utilities to offer payment plans for customers facing financial hardship. These plans typically spread the past-due balance over 3 to **12 months**, but the utility may still require the reconnection fee and a partial payment (often ****25%**** to ****50%**** of the past-due balance) before restoring service. Contact your utility to negotiate an arrangement.
 
 ---
 
