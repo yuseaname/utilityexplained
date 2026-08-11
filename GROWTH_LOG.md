@@ -140,3 +140,32 @@ Dispatched 3 parallel agents (glm-4.5) to add contextual internal links:
 3. Create missing cluster articles (phantom loads, appliance consumption)
 4. Improve blog listing page for better discovery
 5. If bounce rates improve, scale the approach to remaining articles
+
+---
+
+## Entry 3 — 2026-08-10: Revenue + UX Features + 100% Quick Answer Coverage
+
+### Revenue Features
+- **Email capture**: Created newsletter signup partial, integrated on all blog articles
+- **Mid-article AdSense slot**: Activated 3rd ad position (below_title + mid_article + end_article)
+- **Affiliate disclosure**: Added to about page + created affiliate-disclosure shortcode
+- **Blog listing improvement**: Categorized browse-by-topic grid on /blog/ page
+
+### Content Completion
+- **97/97 articles (100%)** now have Quick Answer sections
+- Created phantom-power-draw-explained.md (1,332 words, fills Electricity cluster gap)
+
+### Verification (Live Production)
+- Trailing slash 301 redirects: ✅ LIVE
+- Quick Answers rendering: ✅
+- Email capture: ✅
+- 3 AdSense slots per article: ✅
+- Blog browse section: ✅
+- Hub page links (35+ on electricity): ✅
+- Phantom power article: ✅ LIVE
+- Sitemap (300+ URLs): ✅
+- Page load <1s: ✅
+- Mobile responsive: ✅
+- Affiliate disclosure: ✅
+
+### Total Commits: 11
