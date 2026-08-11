@@ -10,6 +10,17 @@ tags: ["fees", "utility bills", "electricity", "rates"]
 keywords: ["utility bill surcharges", "utility bill riders", "what are riders on utility bill", "extra charges on utility bill"]
 image: "/images/articles/utility-bill-surcharges-and-riders-explained/image.webp"
 ---
+## Quick Answer
+
+**Utility surcharges and riders are regulatory fees that add 5-15% to your bill for specific programs like energy efficiency, low-income assistance, or infrastructure upgrades.** These appear as small line items that increase over time.
+
+- **Riders are temporary surcharges** - typically 5-10 years for specific projects
+- **Energy efficiency riders add 1-3%** - fund rebates and weatherization programs
+- **Infrastructure riders fund upgrades** - grid modernization, pipeline replacement
+
+For more detail, see [surcharge types explained](/blog/19-utility-bill-surcharges-and-riders-explained/).
+
+
 
 You're looking at your utility bill and it has more line items than a restaurant receipt. Base charge, distribution charge, transmission charge, fuel adjustment, energy efficiency rider, nuclear decommissioning surcharge, renewable energy charge, demand-side management fee—and the list goes on. These surcharges and riders can add $5 to $30 or more per month to your bill, and most customers have no idea what they're paying for. Here's a practical breakdown of the most common utility bill surcharges and riders, what they fund, and whether you're getting anything for your money.
 

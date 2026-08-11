@@ -10,6 +10,17 @@ tags: ["fees", "utility bills", "electricity", "gas"]
 keywords: ["customer charge utility bill", "what is customer charge", "fixed charge on electric bill", "utility customer service charge"]
 image: "/images/articles/what-is-customer-charge-on-utility-bill/image.webp"
 ---
+## Quick Answer
+
+**A customer charge on your utility bill is a fixed monthly fee ($5-15 typically) that covers meter reading, billing, and infrastructure maintenance - it's charged regardless of your usage.** This fee can be 20-30% of small bills but under 5% of large ones.
+
+- **Customer charges are non-negotiable** - every customer pays the same fixed amount
+- **They cover fixed costs** - billing, meter, customer service, account maintenance
+- **Commercial customers pay higher rates** - $20-50/month depending on service size
+
+For more detail, see [customer charges explained](/blog/17-what-is-customer-charge-on-utility-bill/).
+
+
 
 Every month, regardless of whether you used 200 kWh or 2,000 kWh, your utility bill includes a "customer charge" (also called a service charge, basic service charge, or customer facility charge). This fixed fee appears on your bill before any energy usage is calculated. It is separate from [variable fees and charges](/blog/04-hidden-fees-utility-bill) that depend on your consumption. It typically ranges from $8 to $30 per month for residential customers depending on your utility and state. For many low-usage households, this charge represents a significant portion of the total bill—and it's been rising steadily. Here's what you're actually paying for.
 

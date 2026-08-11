@@ -10,6 +10,17 @@ tags: ["troubleshooting", "utility bills", "rates", "hidden fees"]
 keywords: ["utility bill higher same usage", "same usage higher bill", "why did my utility bill go up", "bill increased same consumption"]
 image: "/images/articles/15-why-utility-bill-higher-same-usage/custom_hero.webp"
 ---
+## Quick Answer
+
+**Your utility bill can be higher with the same usage due to rate increases (typically 3-8% annually), seasonal rate changes, or new fees.** Fixed charges like customer fees and delivery fees can increase even when your usage stays exactly the same.
+
+- **Check for rate increases** - utilities must notify customers 30-60 days in advance
+- **Fixed charges can be 30-50% of your bill** - even with zero usage changes
+- **Seasonal rates vary by 20-50%** - summer/winter demand changes pricing tiers
+
+For more detail, see [why bills change](/blog/15-why-utility-bill-higher-same-usage/).
+
+
 
 You pull up your electric bill and the usage looks normal—right around the same 900 [kWh](/blog/what-is-a-kilowatt-hour) you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.
 

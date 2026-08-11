@@ -11,6 +11,15 @@ keywords: ["utility connection fee", "cost to connect utilities", "new service s
 image: "/images/articles/utility-connection-fee-explained/image.webp"
 ---
 
+## Quick Answer
+
+**Utility connection fees typically range from $25-150 for residential services and cover the administrative and physical costs of setting up new service.** These one-time fees are charged when you establish service at a new property.
+
+- **Connection fees are non-refundable** and separate from your regular monthly service charge
+- **Some utilities waive fees** if you're transferring existing service within their service area
+
+For more detail, see [utility deposits](/blog/26-utility-deposit-explained/).
+
 You are moving into a new apartment and budgeted for rent, security deposit, and first month's utilities. Then the electric company tells you there is a $75 "service establishment fee." The water utility wants $50 for a "new account setup charge." The gas company charges $45 to "initiate service." Before you even consume a single kilowatt-hour or therm, you are out $170 in connection fees alone. Here is what these fees actually cover, how much they typically cost, and what you can and cannot negotiate.
 
 <img src="/images/articles/27-utility-connection-fee-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Connection Fee Explained: What It Costs to Set Up New Service" width="1200" height="630" loading="lazy" />

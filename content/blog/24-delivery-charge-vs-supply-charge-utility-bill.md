@@ -10,6 +10,17 @@ tags: ["delivery charge", "supply charge", "deregulated markets", "utility break
 keywords: ["delivery charge vs supply charge", "what is delivery charge on utility bill", "supply charge utility", "distribution charge vs supply", "utility bill delivery vs supply breakdown"]
 image: "/images/articles/delivery-charge-vs-supply-charge-utility-bill/image.webp"
 ---
+## Quick Answer
+
+**Delivery charges (sometimes called distribution fees) cover getting electricity/gas to your home and typically represent 40-60% of your total bill, while supply charges are the actual energy commodity cost.** Delivery rates are fixed while supply varies with market conditions.
+
+- **Delivery charges are fixed per kWh/therm** - set by state regulators and change slowly
+- **Supply charges fluctuate monthly** - based on wholesale energy markets
+- **In deregulated states you can shop suppliers** - potentially save 10-20% on supply
+
+For more detail, see [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).
+
+
 
 Open your electric bill and you will likely see two separate charge sections — one labeled "Delivery" and another labeled "Supply" (or "Generation"). Together, they account for roughly 70% to 80% of your total bill. Understanding what each one covers is the single most important step toward making sense of your utility costs, especially if you live in a deregulated market where you can shop for supply rates.
 

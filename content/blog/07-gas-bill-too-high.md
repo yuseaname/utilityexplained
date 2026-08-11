@@ -10,6 +10,17 @@ tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
 image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
 ---
+## Quick Answer
+
+**High gas bills are typically caused by inefficient heating (40-50% of usage), water heaters, or rate hikes during winter months.** The average household spends $50-150/month on gas, with winter bills often 2-3x higher than summer.
+
+- **Thermostat settings matter** - each degree above 68°F adds 3-5% to heating costs
+- **Old furnaces waste 20-30%** - upgrade to 95%+ AFUE units for maximum savings
+- **Insulation upgrades typically pay back in 2-3 years**
+
+For more detail, see [how to reduce gas bills](/blog/07-gas-bill-too-high/).
+
+
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it. Learn more in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
 

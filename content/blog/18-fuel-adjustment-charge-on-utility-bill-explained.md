@@ -10,6 +10,17 @@ tags: ["fees", "electricity", "utility bills", "rates"]
 keywords: ["fuel adjustment charge", "fuel cost recovery", "fuel charge on electric bill", "what is fuel adjustment fee"]
 image: "/images/articles/fuel-adjustment-charge-on-utility-bill-explained/image.webp"
 ---
+## Quick Answer
+
+**A fuel adjustment charge (FAC) is a pass-through fee that fluctuates monthly based on the utility's actual fuel costs, typically varying ±15-30% from month to month.** It's shown as a separate line item and can add or subtract $5-50/month depending on market conditions.
+
+- **FAC is a direct pass-through** - utilities don't profit from these charges
+- **Natural gas prices drive most variations** - tied to commodity markets
+- **Can be negative in some months** - utilities credit back when fuel costs drop
+
+For more detail, see [fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/).
+
+
 
 That line item on your electric bill labeled "fuel adjustment," "fuel cost recovery," "energy cost adjustment," or "purchased power adjustment" might seem minor—until it doubles overnight and adds $60 to your bill. The fuel adjustment charge is the single most volatile component of your utility bill, and it's the most common reason your electric costs spike even when your electricity usage stays exactly the same. Understanding what it is and why it fluctuates helps you anticipate these changes and budget accordingly.
 

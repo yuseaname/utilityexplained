@@ -10,6 +10,17 @@ tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison',
 keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
 image: "/images/articles/10-fixed-vs-variable-utility-rate/custom_hero.webp"
 ---
+## Quick Answer
+
+**Fixed rates lock in your price per kWh for 12-24 months (typically $0.12-0.18), protecting you from price spikes, while variable rates fluctuate monthly with the market (often $0.10-0.25).** Fixed rates offer stability but may cost more if market prices drop.
+
+- **Choose fixed rates** if you want predictable monthly bills
+- **Choose variable rates** if you're willing to risk price changes for potential savings
+- **Most fixed contracts** have early termination fees of $50-150
+
+For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
+
+
 
 If you live in a state with energy choice (deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal? Should you float with the market instead? Or is there a third option? Learn more in [How Do Smart Meters Work?](/blog/how-do-smart-meters-work).
 

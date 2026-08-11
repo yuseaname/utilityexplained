@@ -11,6 +11,15 @@ keywords: ["estimated utility bill", "how are utility bills estimated", "estimat
 image: "/images/articles/estimated-utility-bill-explained/image.webp"
 ---
 
+## Quick Answer
+
+**Estimated utility bills are calculated based on your historical usage patterns and weather data, but your actual bill may vary by 20-30% from month to month.** Utilities estimate your consumption when they can't get an actual meter reading.
+
+- **Estimated bills are reconciled** when actual meter readings are obtained, leading to "catch-up" bills
+- **Submit your own meter reading** online to avoid estimated bills and ensure accuracy
+
+For more detail, see [utility billing cycles](/blog/23-utility-billing-cycle-explained/).
+
 You open your utility bill and notice something odd: instead of showing an actual [meter](/blog/how-to-read-electric-meter) reading, it says "estimated." Your water, gas, or electric company guessed how much you used and charged you accordingly. This is more common than most people realize, and it can lead to surprisingly high—or pleasantly low—bills that eventually need correcting. Here's exactly how estimated billing works and what you should do about it.
 
 <img src="/images/articles/14-estimated-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Estimated Utility Bill Explained" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).

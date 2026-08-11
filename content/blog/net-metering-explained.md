@@ -10,6 +10,17 @@ tags: ["net metering", "solar panels", "solar credits", "electric bill", "roofto
 keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering 2.0", "solar ROI"]
 image: "/images/articles/net-metering-explained/custom_hero.webp"
 ---
+## Quick Answer
+
+**Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.** Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.
+
+- **You get credits** for solar power you don't use immediately
+- **Credits roll over month-to-month** (in most states) to cover nighttime/cloudy day usage
+- **Annual "true-up"** settles any remaining credits or charges
+
+For more detail, see [Time-of-Use Electricity](/blog/08-time-of-use-electricity/).
+
+
 
 You're considering solar panels. You've heard about "net metering" and "solar credits," but what does that actually mean for your electric bill? Will you still get a bill? Will the utility pay you?
 

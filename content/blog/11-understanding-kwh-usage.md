@@ -10,6 +10,17 @@ tags: ["kWh", "electricity usage", "electric bill", "appliance costs", "energy s
 keywords: ["understanding kWh usage", "what uses most electricity home", "kWh cost calculator", "appliance electricity cost", "reduce electric bill"]
 image: "/images/articles/11-understanding-kwh-usage/custom_hero.webp"
 ---
+## Quick Answer
+
+**A kilowatt-hour (kWh) measures how much electricity you use over time — one kWh equals using 1,000 watts for one hour.** The average U.S. household uses about 886 kWh per month, costing roughly $115-150 depending on local rates.
+
+- **A 100-watt light bulb** running for 10 hours uses 1 kWh
+- **Your HVAC system** typically accounts for 40-50% of total usage
+- **Monitor your usage daily** to spot unusual consumption patterns
+
+For more detail, see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/).
+
+
 
 Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
 

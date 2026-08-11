@@ -10,6 +10,17 @@ tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
 image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
 ---
+## Quick Answer
+
+**Your electric bill charges you for every kilowatt-hour (kWh) of electricity used, with rates typically ranging from $0.10 to $0.30 per kWh depending on your location and provider.** The main sections include your usage history, current charges, rate details, and payment due date.
+
+- **Your average monthly usage** (measured in kWh) determines your base charges
+- **Peak usage times** (usually 4-9 PM) often have higher rates
+- **Check the "rate schedule" section** to understand your exact pricing structure
+
+For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
+
+
 
 Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 

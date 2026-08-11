@@ -10,6 +10,17 @@ tags: ["utility fees", "hidden charges", "electric bill fees", "utility bill cha
 keywords: ["hidden fees utility bill", "utility bill charges explained", "electric bill fees", "reduce utility fees", "utility surcharges"]
 image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
 ---
+## Quick Answer
+
+**Hidden fees on utility bills typically add 20-40% to your base rate, including customer charges ($5-15/month), meter fees, and regulatory surcharges.** These fixed fees appear regardless of how much energy you actually use.
+
+- **Customer charges average $8-12/month** - even with zero usage
+- **Taxes and fees add 5-15%** - franchise fees, sales tax, regulatory surcharges
+- **Delivery fees often exceed supply costs** - sometimes 50-60% of total bill
+
+For more detail, see [hidden utility fees explained](/blog/04-hidden-fees-utility-bill/).
+
+
 
 You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour). Your effective rate is 18¢. The difference? Hidden fees. Here's what they are and what you can do about them.
 

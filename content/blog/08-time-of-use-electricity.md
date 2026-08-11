@@ -11,6 +11,17 @@ tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electrici
 keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is electricity cheapest', 'TOU rate savings', 'best time to run appliances']
 image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.webp"
 ---
+## Quick Answer
+
+**Time-of-Use (TOU) rates charge you different prices based on when you use electricity — typically $0.12-0.15/kWh during off-peak, $0.25-0.40/kWh during peak hours (4-9 PM).** You can save 15-25% on your bill by shifting usage to cheaper times.
+
+- **Off-peak hours** (nights, mornings, midday) have the lowest rates
+- **Peak hours** (usually 4-9 PM) cost 2-3x more
+- **Shift 50% of usage** to off-peak to save $30-60/month
+
+For more detail, see [When Is Electricity Cheapest](/blog/46-what-time-is-electricity-cheapest/).
+
+
 
 If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 

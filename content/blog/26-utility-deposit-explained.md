@@ -11,6 +11,15 @@ keywords: ["utility deposit", "how much is utility deposit", "security deposit f
 image: "/images/articles/utility-deposit-explained/image.webp"
 ---
 
+## Quick Answer
+
+**Utility deposits range from $100-500 depending on your credit history and the utility's policies, but most deposits are refundable after 12-24 months of on-time payments.** Utilities use deposits to protect against unpaid bills.
+
+- **Deposits are typically returned** with interest if you maintain a good payment history
+- **Bad credit or previous utility debt** can result in higher deposit requirements
+
+For more detail, see [utility connection fees](/blog/27-utility-connection-fee-explained/).
+
 You just signed a lease, called the electric company to set up service, and they are asking for a $200 deposit before they will turn the power on. You need electricity today, not in 12 months when the deposit might be refunded. Utility deposits are a standard part of starting new service, but the rules around how much they charge, who has to pay them, and how you get your money back vary significantly by state and utility.
 
 <img src="/images/articles/26-utility-deposit-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Deposit Explained: How Much and How to Get It Back" width="1200" height="630" loading="lazy" />

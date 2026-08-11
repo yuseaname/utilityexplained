@@ -10,6 +10,17 @@ tags: ["what time is electricity cheapest", "cheapest electricity hours", "off p
 keywords: ["what time is electricity cheapest", "cheapest electricity hours", "off peak electricity rates", "time of use rates", "TOU rates"]
 image: "/images/articles/46-what-time-is-electricity-cheapest/custom_hero.webp"
 ---
+## Quick Answer
+
+**Electricity is typically cheapest during off-peak hours: late at night (11 PM-6 AM), early morning (6-9 AM), and midday (9 AM-4 PM) when demand is lowest.** Off-peak rates can be 30-50% lower than peak hours (usually 4-9 PM), saving you $20-60 per month by shifting usage.
+
+- **Run major appliances** (dishwashers, laundry) before 9 AM or after 9 PM
+- **Peak hours are typically 4-9 PM** when rates are 2-3x higher
+- **Set timers on devices** to automatically run during cheap hours
+
+For more detail, see [Time-of-Use Electricity](/blog/08-time-of-use-electricity/).
+
+
 
 If you’ve ever stared at a rising monthly utility bill and wondered, **what time is electricity cheapest** to use, you aren't alone. As energy prices fluctuate due to inflation, extreme weather, and changing infrastructure, homeowners and renters across the United States are searching for any possible way to trim their monthly expenses. 
 
