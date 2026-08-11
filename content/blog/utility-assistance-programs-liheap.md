@@ -11,6 +11,17 @@ keywords: ["utility bill help", "LIHEAP application", "utility payment plans", "
 image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**LIHEAP (Low Income Home Energy Assistance Program) helps eligible low-income households pay home energy bills, with an average benefit of $500-800 for heating and $300-500 for cooling costs annually.**
+
+- **Fact:** LIHEAP served approximately 5.3 million households in 2023, with benefits averaging $621 per household
+- **Action:** Apply through your local LIHEAP office - eligibility is typically 150-200% of federal poverty level
+
+For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
+
+
+
 You're staring at a utility bill you can't pay. Maybe it's $480, double what you expected. Maybe you're between jobs, or an unexpected medical expense wiped out your buffer. The due date is looming, and you're worried about shut-off.
 
 You have more options than you think. Federal programs, state assistance, utility hardship plans, and non-profit organizations can help. This guide explains every assistance program, who qualifies, how to apply, and exactly what to do if you're facing shut-off this week.

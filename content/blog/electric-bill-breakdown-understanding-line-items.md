@@ -11,6 +11,17 @@ keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charg
 image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Your electric bill contains 5-7 line items: Service Charge ($10-25 fixed), Energy Charge (usage × rate $0.08-0.15/kWh), Distribution/Transmission fees ($0.02-0.05/kWh), Regulatory/Environmental fees ($0.005-0.02/kWh), and Taxes (5-8%).**
+
+- **Fact:** Delivery and transmission charges can add 30-50% on top of base energy costs
+- **Action:** Compare your "Energy Charge" month-over-month to track real usage changes vs. rate increases
+
+For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electric-bill-complete-guide/).
+
+
+
 <h2 id="start-here">Start here: the four numbers that explain most bills</h2>
 <p>
               Electric bills look complicated because they combine usage-based

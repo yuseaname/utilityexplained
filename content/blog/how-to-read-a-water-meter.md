@@ -11,6 +11,17 @@ keywords: ["high water bill", "water leak detection", "gallons of water", "water
 image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Water meters measure in cubic feet or gallons: Read the first 4-5 numbers (black on white) to get your usage, then subtract the previous reading. Most residential usage is 80-150 gallons per person daily ($40-80/month typical).**
+
+- **Fact:** A running toilet can waste 200-400 gallons daily, adding $50-100 to monthly bills
+- **Action:** Check your meter while all water is off - if it's still moving, you have a leak
+
+For more detail, see [Understanding Utility Bills](/blog/complete-guide-understanding-utility-bill/).
+
+
+
 <h2 id="meter-types">Know your meter type first</h2>
 <p>
               Most homes have either a dial meter or a digital meter. Dial meters use

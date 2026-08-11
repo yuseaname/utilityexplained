@@ -11,6 +11,17 @@ keywords: ["high electric bill", "kwh usage", "read electric meter", "smart mete
 image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Reading your electric meter: Digital meters show a 5-digit number (ignore any zeros at the right) - subtract last month's reading from current reading and multiply by your rate (e.g., 12,500 - 10,000 = 2,500 kWh × $0.12 = $300 usage).**
+
+- **Fact:** Analog meters with 4-5 dials are read right-to-left, recording the number the pointer just passed
+- **Action:** Check your meter weekly to catch unusual usage spikes before they become expensive problems
+
+For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
+
+
+
 <h2 id="why">Why reading your meter is worth it</h2>
 <p>
               If your bill ever feels too high, the meter is the starting point.
@@ -248,4 +259,3 @@ Day 5 shows a spike — 400 kWh. Was someone home all day? Did you run multiple 
 | Privacy | None needed | Data transmitted wirelessly |
 
 Smart meters eliminate estimated bills and give you access to detailed usage data through your utility's online portal. If your utility offers a smart meter program, sign up — it's almost always free and gives you tools to reduce your bill.
-
