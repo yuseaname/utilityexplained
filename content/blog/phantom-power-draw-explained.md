@@ -136,14 +136,26 @@ That is a **6% reduction** in their electric bill with no lifestyle change — j
 
 ## Frequently Asked Questions
 
-{{< faq >}}
+{{< faq "Does unplugging appliances really save money?" >}}
 
-{{< faq-item question="Does unplugging appliances really save money?" answer="Yes. A typical home has 15–25 devices drawing standby power 24/7. Eliminating phantom power saves $50–$150 per year on average. The biggest savings come from cable boxes, game consoles, and entertainment centers on power strips." >}}
+Yes. A typical home has 15–25 devices drawing standby power 24/7. Eliminating phantom power saves $50–$150 per year on average. The biggest savings come from cable boxes, game consoles, and entertainment centers on power strips.
 
-{{< faq-item question="Will unplugging my TV damage it?" answer="No. Modern TVs are designed to be unplugged. The only inconvenience is waiting 5–10 seconds longer for it to turn on (it needs to reinitialize). Some TVs may lose channel settings if unplugged for extended periods, but this is rare with modern models." >}}
+{{< /faq >}}
 
-{{< faq-item question="How many watts does a phone charger use when plugged in but not charging?" answer="A typical phone charger draws 0.1–0.5 watts when plugged in without a phone attached. That is about $0.50–$2 per year per charger. Not huge individually, but multiply by 5–10 chargers in your home and it adds up." >}}
+{{< faq "Will unplugging my TV damage it?" >}}
 
-{{< faq-item question="Is phantom power the reason my electric bill is high?" answer="It can be a contributing factor, but if your bill jumped suddenly, phantom power is unlikely to be the cause. Check our guide on [sudden electricity bill spikes](/blog/30-sudden-spike-in-electricity-bill-no-usage/) for more likely culprits." >}}
+No. Modern TVs are designed to be unplugged. The only inconvenience is waiting 5–10 seconds longer for it to turn on. Some older TVs may lose channel settings if unplugged for extended periods.
+
+{{< /faq >}}
+
+{{< faq "How many watts does a phone charger use when not charging?" >}}
+
+A typical phone charger draws 0.1–0.5 watts when plugged in without a phone. That is about $0.50–$2 per year per charger. Not huge individually, but multiply by 5–10 chargers and it adds up.
+
+{{< /faq >}}
+
+{{< faq "Is phantom power why my electric bill is high?" >}}
+
+It can contribute, but if your bill jumped suddenly, phantom power is unlikely to be the cause. See our guide on [sudden electricity bill spikes](/blog/30-sudden-spike-in-electricity-bill-no-usage/) for more likely culprits.
 
 {{< /faq >}}
