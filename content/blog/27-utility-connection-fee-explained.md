@@ -13,7 +13,7 @@ image: "/images/articles/utility-connection-fee-explained/image.webp"
 
 You are moving into a new apartment and budgeted for rent, security deposit, and first month's utilities. Then the electric company tells you there is a $75 "service establishment fee." The water utility wants $50 for a "new account setup charge." The gas company charges $45 to "initiate service." Before you even consume a single kilowatt-hour or therm, you are out $170 in connection fees alone. Here is what these fees actually cover, how much they typically cost, and what you can and cannot negotiate.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills and paperwork on a desk illustrating connection fees" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/27-utility-connection-fee-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Connection Fee Explained: What It Costs to Set Up New Service" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["EV charging", "electric vehicle", "electric bill", "off-peak charging", "TOU rates"]
 keywords: ["EV charging cost", "electric bill increase", "home EV charging", "off-peak charging savings", "EV vs gas cost"]
-image: "/images/utility-electricity.jpg"
+image: "/images/articles/ev-charging-impact-electric-bill/custom_hero.webp"
 ---
 
 You're considering an electric vehicle (EV). You've heard that "charging at home is cheaper than gas," but how much will it actually increase your electric bill? Will it erase your savings? Will it push you into a higher rate tier?
@@ -17,7 +17,7 @@ The answer depends on three things: how much you drive, when you charge, and you
 
 Here's the complete math, how to charge during off-peak hours to save even more, and whether an EV makes financial sense for your situation.
 
-<img src="/images/utility-electricity.jpg" alt="Power lines and poles against a blue sky illustrating electricity costs" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/ev-charging-impact-electric-bill/custom_inline.webp" alt="Custom illustration relevant to How Much Does EV Charging Add to Your Electric Bill?" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

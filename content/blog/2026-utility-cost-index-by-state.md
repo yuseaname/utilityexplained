@@ -8,7 +8,7 @@ category: "Costs"
 categories: ["Costs"]
 tags: ["average bills", "utility costs", "electricity cost", "gas cost", "water cost"]
 keywords: ["average utility bill by state", "electricity cost by state", "gas cost by state", "water cost by state", "utility cost comparison"]
-image: "/images/utility-bill.jpg"
+image: "/images/articles/2026-utility-cost-index-by-state/custom_hero.webp"
 ---
 
 Where you live determines how much you pay for utilities—sometimes dramatically. A household in Hawaii pays $360/month for electricity, while a household in Louisiana pays just $84. A family in Massachusetts spends $75/month on water, while a family in Wisconsin spends $35.
@@ -17,7 +17,7 @@ This 2026 Utility Cost Index ranks all 50 states by average monthly utility cost
 
 **Key finding:** The average US household spends **$262/month** on utilities, but state-by-state variation is enormous—from **$185/month (Utah)** to **$395/month (Hawaii)**.
 
-<img src="/images/utility-bill.jpg" alt="Close-up of a paper utility bill with visible charges, relevant to cost comparison by state" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/2026-utility-cost-index-by-state/custom_inline.webp" alt="Custom illustration relevant to 2026 Utility Cost Index: Average Electric, Gas & Water Bills by State" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

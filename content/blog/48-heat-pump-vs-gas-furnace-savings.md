@@ -8,7 +8,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
 keywords: ["heat pump vs gas furnace savings", "heat pump vs gas furnace", "heating system comparison", "electric vs gas heating"]
-image: "/images/utility-gas.jpg"
+image: "/images/articles/48-heat-pump-vs-gas-furnace-savings/custom_hero.webp"
 ---
 
 Are you staring at your monthly utility bills with a sense of dread? As energy prices fluctuate across the United States, many homeowners and renters are asking the same critical question: is it time to switch my heating system? When evaluating the long-term financial impact of your HVAC choices, the debate of **heat pump vs gas furnace savings** is likely at the forefront of your mind.

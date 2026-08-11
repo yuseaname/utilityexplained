@@ -13,7 +13,7 @@ image: "/images/articles/utility-billing-cycle-explained/image.webp"
 
 Your electric bill says "Service Period: April 18 – May 17." Your water bill covers "March 1 – March 31." Your gas bill shows "February 22 – April 21." None of them line up with each other or with the calendar month, and trying to track them feels like solving a puzzle. Utility billing cycles are not arbitrary — they are structured around operational logistics, meter-reading schedules, and regulatory requirements. Here is how they actually work.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills and documents on a desk illustrating the billing cycle" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/23-utility-billing-cycle-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

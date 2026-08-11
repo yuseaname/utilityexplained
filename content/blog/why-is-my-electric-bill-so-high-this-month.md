@@ -44,8 +44,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </ul>
             <figure>
               <ContentImage
-                src="/images/utility-bill.jpg"
-                alt="Summer cooling and energy bills"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Cooling season often drives the year's highest bills.</figcaption>
             </figure>
@@ -85,8 +85,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </p>
             <figure>
               <ContentImage
-                src="/images/utility-energy.jpg"
-                alt="Household appliance that can increase electricity use"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Old appliances can dominate monthly usage.</figcaption>
             </figure>
@@ -100,8 +100,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </p>
             <figure>
               <ContentImage
-                src="/images/utility-energy.jpg"
-                alt="Everyday devices and home energy use"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Background loads contribute even when you are not home.</figcaption>
             </figure>
@@ -143,8 +143,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </p>
             <figure>
               <ContentImage
-                src="/images/utility-electricity.jpg"
-                alt="Utility bill paperwork"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Understand the key bill lines to spot the cause.</figcaption>
             </figure>
@@ -170,8 +170,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </ul>
             <figure>
               <ContentImage
-                src="/images/utility-energy.jpg"
-                alt="Energy-saving habit at home"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Simple habits slow the bleed before the next bill.</figcaption>
             </figure>
@@ -201,8 +201,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </ul>
             <figure>
               <ContentImage
-                src="/images/utility-electricity.jpg"
-                alt="Home electricity and housing"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Goal: predictability, not perfection.</figcaption>
             </figure>
@@ -224,8 +224,8 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
             </ul>
             <figure>
               <ContentImage
-                src="/images/utility-energy.jpg"
-                alt="Home energy usage concept"
+                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
+                alt="Custom illustration relevant to high electric bill causes"
               />
               <figcaption>Understanding patterns beats guessing.</figcaption>
             </figure>

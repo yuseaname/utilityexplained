@@ -8,14 +8,14 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
-image: "/images/utility-home.jpg"
+image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
 ---
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it. Learn more in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
 
 Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. Learn more in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained).
 
-<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating a high gas bill concern" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/07-gas-bill-too-high/custom_inline.webp" alt="Editorial illustration relevant to Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

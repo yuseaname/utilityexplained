@@ -8,12 +8,12 @@ category: "Costs"
 categories: ["Costs"]
 tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
-image: "/images/utility-bill.jpg"
+image: "/images/articles/02-average-utility-costs-2026/custom_hero.webp"
 ---
 
 Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/utility-bill.jpg" alt="Close-up of a paper utility bill with visible charges illustrating average utility costs" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
+<img src="/images/articles/02-average-utility-costs-2026/custom_inline.webp" alt="Editorial illustration relevant to Average Utility Costs in 2026: Complete Breakdown by Type and State" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
 ## Table of Contents
 

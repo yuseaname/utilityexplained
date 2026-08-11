@@ -15,7 +15,7 @@ You have already decoded the [delivery and supply charges](/blog/24-delivery-cha
 
 > **Quick Answer:** Taxes, fees, and franchise charges are government-mandated and regulatory charges that typically add **5% to 15%** to your utility bill. The most common is the **franchise fee** (2%–6%), which your utility pays your city for the right to run wires and pipes through public streets. Other frequent charges include state gross receipts taxes, public benefits charges, and renewable energy surcharges — none of which you can negotiate or dispute individually.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills and paperwork on a desk illustrating taxes and fees" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Bill Taxes, Fees, and Franchise Charges Explained" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

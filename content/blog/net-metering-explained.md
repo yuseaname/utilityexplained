@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]
 keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering 2.0", "solar ROI"]
-image: "/images/utility-electricity.jpg"
+image: "/images/articles/net-metering-explained/custom_hero.webp"
 ---
 
 You're considering solar panels. You've heard about "net metering" and "solar credits," but what does that actually mean for your electric bill? Will you still get a bill? Will the utility pay you?
@@ -17,7 +17,7 @@ Net metering is the billing mechanism that makes rooftop solar financially viabl
 
 Here's how net metering works, how it appears on your bill, how it's evolved, and whether it's worth it in your state.
 
-<img src="/images/utility-electricity.jpg" alt="Power lines and poles against a blue sky illustrating net metering concepts" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/net-metering-explained/custom_inline.webp" alt="Custom illustration relevant to Net Metering Explained: How Solar Panels Affect Your Electric Bill" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

@@ -8,7 +8,7 @@ category: "Backup Power"
 categories: ["Backup Power"]
 tags: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison"]
 keywords: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison", "backup power cost"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/45-whole-house-generator-vs-portable-cost/custom_hero.webp"
 ---
 
 When the lights flicker and the neighborhood goes dark during a summer thunderstorm, the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?

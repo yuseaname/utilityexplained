@@ -13,7 +13,7 @@ image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
 
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
 
-<img src="/images/utility-home.jpg" alt="Cozy residential home interior illustrating past-due balance concerns" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/21-past-due-balance-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Past Due Balance on Utility Bill Explained" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

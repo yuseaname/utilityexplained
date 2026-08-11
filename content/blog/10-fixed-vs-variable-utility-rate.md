@@ -8,14 +8,14 @@ category: "Rates & Plans"
 categories: ["Rates & Plans"]
 tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison', 'energy plan', 'budget billing']
 keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
-image: "/images/utility-meter.jpg"
+image: "/images/articles/10-fixed-vs-variable-utility-rate/custom_hero.webp"
 ---
 
 If you live in a state with energy choice (deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal? Should you float with the market instead? Or is there a third option? Learn more in [How Do Smart Meters Work?](/blog/how-do-smart-meters-work).
 
 This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 
-<img src="/images/utility-meter.jpg" alt="Electric utility meter (dial type) mounted on a wall, illustrating fixed vs variable rates" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/10-fixed-vs-variable-utility-rate/custom_inline.webp" alt="Editorial illustration relevant to Fixed vs Variable Utility Rates: Which One Saves You More Money?" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

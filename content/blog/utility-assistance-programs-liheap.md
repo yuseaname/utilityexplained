@@ -8,14 +8,14 @@ category: "Billing"
 categories: ["Billing"]
 tags: ["LIHEAP", "utility assistance", "payment plans", "shut-off prevention", "hardship programs"]
 keywords: ["utility bill help", "LIHEAP application", "utility payment plans", "avoid utility shut-off", "utility hardship programs"]
-image: "/images/utility-paperwork.jpg"
+image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"
 ---
 
 You're staring at a utility bill you can't pay. Maybe it's $480, double what you expected. Maybe you're between jobs, or an unexpected medical expense wiped out your buffer. The due date is looming, and you're worried about shut-off.
 
 You have more options than you think. Federal programs, state assistance, utility hardship plans, and non-profit organizations can help. This guide explains every assistance program, who qualifies, how to apply, and exactly what to do if you're facing shut-off this week.
 
-<img src="/images/utility-paperwork.jpg" alt="Utility bills, documents, and calculator flat-lay illustrating assistance paperwork" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/utility-assistance-programs-liheap/custom_inline.webp" alt="Custom illustration relevant to Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

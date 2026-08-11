@@ -8,14 +8,14 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
-image: "/images/utility-home.jpg"
+image: "/images/articles/06-water-bill-too-high/custom_hero.webp"
 ---
 
 A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour. Learn more in [How to Read a Water Meter](/blog/how-to-read-a-water-meter).
 
 This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill).
 
-<img src="/images/utility-home.jpg" alt="Cozy residential home interior with furniture, illustrating a high water bill concern" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/06-water-bill-too-high/custom_inline.webp" alt="Editorial illustration relevant to Why Is My Water Bill So High? 11 Fast Checks That Find the Problem" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

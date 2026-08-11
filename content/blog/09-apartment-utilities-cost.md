@@ -8,12 +8,12 @@ category: "Budgeting"
 categories: ["Budgeting"]
 tags: ['apartment utilities', 'average utility costs', 'renter utilities', 'first apartment', 'utility budget']
 keywords: ['average apartment utilities cost', 'what utilities do renters pay', 'apartment electric bill average', 'first apartment utility budget', 'utilities included apartment']
-image: "/images/utility-bill.jpg"
+image: "/images/articles/09-apartment-utilities-cost/custom_hero.webp"
 ---
 
 Moving into your first apartment — or moving to a new one — and wondering what utilities will cost? This guide gives you **real numbers, by utility type, by apartment size, and by region**, so you can budget accurately and avoid surprises. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/utility-bill.jpg" alt="Close-up of a paper utility bill with visible charges illustrating apartment utility costs" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/09-apartment-utilities-cost/custom_inline.webp" alt="Editorial illustration relevant to Average Apartment Utilities Cost: What to Expect and How to Budget" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 

@@ -8,7 +8,7 @@ category: "Heating"
 categories: ["Heating"]
 tags: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation"]
 keywords: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation", "air sealing"]
-image: "/images/utility-hvac.jpg"
+image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"
 ---
 
 Are you tired of opening your monthly utility statements only to find your budget has been hijacked by skyrocketing heating and cooling costs? If you feel like you’ically are paying to heat the entire neighborhood, you aren't alone. One of the most effective, budget-friendly ways to reclaim control over your finances is to learn how to **check energy leaks at home DIY** style. 

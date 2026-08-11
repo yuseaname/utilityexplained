@@ -8,12 +8,12 @@ category: "Savings"
 categories: ["Savings"]
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
-image: "/images/utility-energy.jpg"
+image: "/images/articles/05-how-to-lower-utility-bills/custom_hero.webp"
 ---
 
 You can cut your utility bills by 20-40% without sacrificing comfort. Here are 25 proven strategies, ranked by savings potential, with actual numbers. See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
-<img src="/images/utility-energy.jpg" alt="Abstract energy concept illustration with a lightbulb motif, related to lowering utility bills" width="1200" height="630" loading="lazy" /> See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
+<img src="/images/articles/05-how-to-lower-utility-bills/custom_inline.webp" alt="Editorial illustration relevant to How to Lower Your Utility Bills: 25 Proven Ways That Actually Work" width="1200" height="630" loading="lazy" /> See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
 
 ## Quick Answer: What Actually Lowers Utility Bills?
 

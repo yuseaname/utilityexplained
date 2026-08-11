@@ -16,7 +16,7 @@ If your electric utility has offered you a "time-of-use" rate plan, you might be
 
 This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings. Learn more in [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
 
-<img src="/images/utility-meter.jpg" alt="Electric utility meter (dial type) mounted on a wall, illustrating time-of-use electricity" width="1200" height="630" loading="lazy" />
+<img src="/images/articles/08-time-of-use-electricity/custom_inline.webp" alt="Editorial illustration relevant to Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save" width="1200" height="630" loading="lazy" />
 
 ## Table of Contents
 
