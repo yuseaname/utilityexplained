@@ -98,3 +98,45 @@ Added comprehensive "Browse Our Guides" sections to all 5 hub pages:
 4. If bounce rates improve, apply same pattern to next batch of articles
 5. Begin building missing cluster articles (phantom loads, TOU savings guide)
 6. Investigate Google indexing issue (only 2 sessions from Google in 90 days)
+
+---
+
+## Entry 2 — 2026-08-10: Phase 2 Internal Linking + Page Rescues
+
+### Changes Made
+
+#### Internal Linking Wave (22 articles enhanced)
+Dispatched 3 parallel agents (glm-4.5) to add contextual internal links:
+- **Electricity batch (7 articles):** 34 new links (energy leaks, rate plans, bill reading, TOU rates, demand charges, winter bills, smart plugs)
+- **Water/Gas batch (7 articles):** 28 new links (water usage, lowering bills, meter reading, bill increases, gas charges, heat pumps, heating comparison)
+- **Bills/Fees batch (8 articles):** ~40 new links (billing cycles, customer charges, proration, deposits, space heaters, generators, state costs, budgeting)
+
+#### Additional Page Rescues (4 more 100% bounce articles)
+1. **average-utility-bills-by-state-2026.md** (100% bounce) → Added Quick Answer with national averages table
+2. **how-do-smart-meters-work.md** (100% bounce) → Replaced "Introduction" heading with answer-first Quick Answer
+3. **is-your-toilet-running-leak-test.md** (75% bounce) → Added Quick Answer with 10-minute dye test steps
+4. **03-why-is-my-electric-bill-so-high.md** (100% bounce) → Fixed broken table formatting + cleaned up random link placement
+
+#### Sitemap Submission
+- Pinged Google and Bing about updated sitemap
+- Sitemap has 328 URLs, all valid XML
+
+### Cumulative Impact (Phase 1 + Phase 2)
+- **Total new internal links:** ~250+ across 30+ articles
+- **Hub page links:** 138 across 5 hubs
+- **Articles with Quick Answer sections:** 10 (up from 4)
+- **100% bounce articles fixed:** 6 (past-due, electric rising, smart meters, utility bills by state, electric bill high, + table fix)
+- **Broken links fixed:** 5
+- **Trailing slash redirects:** Live and verified on production (HTTP 301 confirmed)
+
+### Commits
+- 832f361: Phase 1 (technical fixes + hub pages + 6 article rescues)
+- 04fa5ba: Phase 2 (22 article internal links + 4 more page rescues)
+- Both deployed to Hostinger via GitHub Actions
+
+### Next Actions
+1. Monitor Rybbit for 7-14 days for bounce rate improvement
+2. Audit remaining articles for AI writing patterns
+3. Create missing cluster articles (phantom loads, appliance consumption)
+4. Improve blog listing page for better discovery
+5. If bounce rates improve, scale the approach to remaining articles
