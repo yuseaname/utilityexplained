@@ -11,6 +11,15 @@ keywords: ["ac short cycling", "ac turning on and off", "air conditioner short c
 image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 ---
 
+## Quick Answer
+
+**AC short cycling typically costs homeowners an extra $200-500 per season in wasted energy and premature system wear.** Common causes include an oversized AC unit, dirty air filters, low refrigerant, or a malfunctioning thermostat.
+
+- **A short-cycling AC unit can increase your energy bill by 15-30%**
+- **Check your air filter first—it's the most common cause**
+
+[For more detail, see our complete guide to [AC maintenance tips](/blog/ac-maintenance-tips/).]
+
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.
 
 <img src="/images/articles/13-ac-short-cycling-causes-fixes/custom_inline.webp" alt="Custom illustration relevant to AC Short Cycling u2014 Causes and Fixes" width="1200" height="630" loading="lazy" />

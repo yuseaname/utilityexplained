@@ -11,6 +11,15 @@ keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac effi
 image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_00001_.webp"
 ---
 
+## Quick Answer
+
+**Electric heating costs 2-3 times more than gas heating in most areas, with average monthly costs of $150-250 for electric vs. $80-150 for gas.** However, electric heat pumps can match or beat gas efficiency in moderate climates.
+
+- **Cost per million BTU: Gas ($12-18) vs Electric resistance ($30-45)**
+- **Heat pumps: $15-25 per million BTU (300% efficiency)**
+
+[For more detail, see our guide to [heat pump savings](/blog/48-heat-pump-vs-gas-furnace-savings/).]
+
 <h2 id="big-picture">The big picture: fuel cost and system efficiency</h2>
 <p>
               Heating cost is driven by two main factors: the price of the fuel and

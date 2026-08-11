@@ -11,6 +11,15 @@ keywords: ["EV charging cost", "electric bill increase", "home EV charging", "of
 image: "/images/articles/ev-charging-impact-electric-bill/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**Charging an electric vehicle at home typically adds $30-60 to your monthly electric bill (approx. $0.04-0.06 per mile), about half the cost of gas for similar mileage.** Most EV owners see a 15-30% increase in total household electricity consumption.
+
+- **Home charging cost: ~$500-800 annually vs. $1,200-1,800 for gas**
+- **Time-of-use charging can save $100-200 per year**
+
+[For more detail, see our guide to [electricity rate plans](/blog/time-of-use-electricity-rates/).]
+
 You're considering an electric vehicle (EV). You've heard that "charging at home is cheaper than gas," but how much will it actually increase your electric bill? Will it erase your savings? Will it push you into a higher rate tier?
 
 The answer depends on three things: how much you drive, when you charge, and your electric rate. For most EV owners, home charging adds $40–$80/month to the electric bill—but saves $100–$180/month on gas.

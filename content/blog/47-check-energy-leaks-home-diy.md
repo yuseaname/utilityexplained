@@ -11,6 +11,15 @@ keywords: ["check energy leaks home DIY", "home energy audit DIY", "find energy 
 image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**Sealing home energy leaks can reduce your energy bills by 5-30%, with most homeowners saving $100-400 annually after simple DIY improvements.** The most common culprits are drafty windows, uninsulated outlets, and unsealed gaps around pipes.
+
+- **A simple candle test can reveal most air leaks in under 30 minutes**
+- **Weatherstripping doors costs ~$10 but saves ~$35/year**
+
+[For more detail, see our guide to [home weatherization](/blog/home-weatherization-guide/).]
+
 Are you tired of opening your monthly utility statements only to find your budget has been hijacked by skyrocketing heating and cooling costs? If you feel like you’ically are paying to heat the entire neighborhood, you aren't alone. One of the most effective, budget-friendly ways to reclaim control over your finances is to learn how to **check energy leaks at home DIY** style. 
 
 Energy leaks—often referred to as "air leaks" or "drafts"—are invisible culprits that allow conditioned air to escape your living space while pulling expensive outdoor air inside. Whether you are a homeowner looking to increase your property value or a renter trying to keep monthly expenses low, identifying these thermal bridges is the first step toward a more comfortable, cost-efficient home.

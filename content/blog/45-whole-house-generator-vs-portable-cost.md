@@ -11,6 +11,15 @@ keywords: ["whole house generator vs portable cost", "whole house generator cost
 image: "/images/articles/45-whole-house-generator-vs-portable-cost/custom_hero.webp"
 ---
 
+## Quick Answer
+
+**A whole-house generator costs $5,000-15,000 installed but adds $5,000-10,000 to your home's resale value, while portable generators cost $500-2,500 but only power essential circuits.** Whole-house generators typically cost $500-1,000 per year in maintenance.
+
+- **Installation cost difference: Whole-house ($10k avg) vs Portable ($1k avg)**
+- **Portable generators run on $5-15 of gas per day during outages**
+
+[For more detail, see our guide to [home energy backup options](/blog/home-power-backup-guide/).]
+
 When the lights flicker and the neighborhood goes dark during a summer thunderstorm, [the immediate concern is often safety](/blog/03-why-is-my-electric-bill-so-high)., the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?
 
 Deciding between a permanent standby unit and a mobile, plug-in generator isn't just about wattage; it is about analyzing upfront capital, ongoing maintenance, and the "hidden" costs of energy management. If you are looking to protect your household while remaining fiscally responsible, this guide will break down the numbers to help you decide which path offers the best return on investment.

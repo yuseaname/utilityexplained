@@ -11,6 +11,15 @@ keywords: ["prorated utility bill", "what is bill proration", "prorated charges 
 image: "/images/articles/utility-bill-proration-explained/image.webp"
 ---
 
+## Quick Answer
+
+**Utility bill proration typically costs $25-75 extra during move-in or move-out periods, calculated based on the number of days you occupied the property.** This practice ensures fair payment for utility usage when your service period doesn't align with the billing cycle.
+
+- **Prorated bills usually arrive 30-45 days after moving**
+- **Always submit meter readings on move-in and move-out days**
+
+[For more detail, see our guide to [reading your utility bill](/blog/how-to-read-utility-bill/).]
+
 You move into a new apartment on March 15th, and your first electric bill covers March 15 through April 18—34 days instead of the typical 28 to 31. Or you close on a house sale on June 10th and get a final water bill that covers just 10 days of June. These are prorated utility bills, and they work differently from standard monthly bills. If you don't understand the math, you might overpay by $20 to $100 or more—especially when selling or buying a home during the expensive summer or winter months. Here's exactly how utility bill proration works and how to verify you're being charged correctly.
 
 <img src="/images/articles/20-utility-bill-proration-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Bill Proration Explained" width="1200" height="630" loading="lazy" />
