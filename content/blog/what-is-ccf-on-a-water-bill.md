@@ -69,6 +69,8 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
             </p>
 
 <h2 id="quick-conversions">Quick conversions you can memorize</h2>
+
+{{< image src="/images/articles/what-is-ccf-on-a-water-bill/ccf-convert.webp" alt="CCF to gallons to dollars conversion chain" caption="One CCF equals 748 gallons — multiply by your water rate to see what each unit costs you." >}}
 <p>
               If you want a quick mental shortcut, these are the most useful:
             </p>
@@ -139,6 +141,8 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
             </p>
 
 <h2 id="sanity-check-usage">How to sanity-check your CCF usage</h2>
+
+{{< image src="/images/articles/what-is-ccf-on-a-water-bill/ccf-normal.webp" alt="Is your CCF normal - usage bands per person per month" caption="A typical household uses about 2-4 CCF per person per month. Well above that, and a hidden leak is the usual suspect." >}}
 <p>
               The fastest way to build confidence is to connect three things:
               (1) your meter, (2) your bill, and (3) what your household is doing.

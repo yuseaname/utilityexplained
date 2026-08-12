@@ -33,6 +33,8 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
 </blockquote>
 
 <h2 id="start-here">Start here: the four numbers that explain most bills</h2>
+
+{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp" alt="The four numbers that explain your electric bill" caption="Most of your bill comes down to four numbers: the kWh you used, your price per kWh, the days billed, and the fixed fees." >}}
 <p>
               Electric bills look complicated because they combine usage-based
               charges with infrastructure charges. But most of the story is usually
@@ -103,6 +105,8 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             </p>
 
 <h2 id="tou-tiered">Time-of-use and tiered rates: when you use power can matter</h2>
+
+{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-tou.webp" alt="Time-of-use peak vs off-peak pricing" caption="On a time-of-use plan, power costs more during peak hours — shifting a few big loads to off-peak can trim your bill noticeably." >}}
 <p>
               Under time-of-use (TOU) pricing, kWh costs more during peak hours and
               less during off-peak. That can make bills feel unpredictable if your
