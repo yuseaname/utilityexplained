@@ -463,23 +463,45 @@ a:hover {
   margin-bottom: 0;
 }
 
-/* ── TOC Styles ── */
+/* ── TOC (collapsible <details>) — collapsed by default so the answer leads ── */
 .toc {
   background: var(--color-surface-muted);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-xl);
-  padding: var(--space-5);
+  border-radius: var(--radius-lg);
+  padding: 0;
+  margin: var(--space-5) 0;
+  overflow: hidden;
 }
+.toc-summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-4);
+  user-select: none;
+}
+.toc-summary::-webkit-details-marker,
+.toc-summary::marker { display: none; content: ""; }
 .toc-title {
   font-size: var(--text-sm);
   font-weight: var(--weight-semibold);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--color-text-muted);
-  margin-bottom: var(--space-3);
+  margin: 0;
 }
+.toc-chevron {
+  flex-shrink: 0;
+  color: var(--color-text-muted);
+  transition: transform var(--transition-fast);
+}
+.toc[open] > .toc-summary .toc-chevron { transform: rotate(180deg); }
+.toc[open] > .toc-summary { border-bottom: 1px solid var(--color-border); }
 .toc-nav {
   font-size: var(--text-sm);
+  padding: var(--space-3) var(--space-4) var(--space-4);
 }
 .toc-nav ul {
   list-style: none;
@@ -1301,7 +1323,9 @@ button:focus-visible {
 .hero-figure-frame {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  /* Match GPT Image 2 landscape output (1536×1024 = 3:2) so heroes display
+     natively — zero crop, zero letterbox. */
+  aspect-ratio: 3 / 2;
   background: var(--color-surface-muted);
 }
 .hero-figure-frame .hero-img {

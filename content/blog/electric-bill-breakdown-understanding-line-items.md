@@ -22,6 +22,16 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
 
 
 
+<blockquote>
+<p><strong>One line look wrong? Here's where to dig in:</strong></p>
+<ul>
+<li><strong><a href="/blog/03-why-is-my-electric-bill-so-high/">Whole bill too high?</a></strong> — start with the diagnostic on what actually drives the total.</li>
+<li><strong><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery vs. supply charge</a></strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
+<li><strong><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand charge</a></strong> — a single line that can surprise business and time-of-use customers.</li>
+<li><strong><a href="/blog/04-hidden-fees-utility-bill/">Hidden fees</a></strong> — the small recurring charges that quietly add up.</li>
+</ul>
+</blockquote>
+
 <h2 id="start-here">Start here: the four numbers that explain most bills</h2>
 <p>
               Electric bills look complicated because they combine usage-based

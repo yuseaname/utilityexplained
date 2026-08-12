@@ -21,6 +21,16 @@ image: "/images/articles/water-meter-running-when-no-water-used/water-meter-runn
 </ol>
 <p>Why act now? A running toilet can waste <strong>200+ gallons per day</strong>, and a hidden slab leak can drain thousands of gallons before you ever see a puddle — potentially causing structural damage. The steps below will help you pinpoint the source, estimate the cost, and decide whether it is a DIY fix or time to call a plumber. Not sure which dial to watch? See our <a href="/blog/water-meter-leak-indicator-explained/">water meter leak indicator guide</a> to confirm exactly what to look for.</p>
 
+<blockquote>
+<p><strong>Confirmed a leak? The culprit is almost always one of these — check them in order:</strong></p>
+<ol>
+<li><strong><a href="/blog/is-your-toilet-running-leak-test/">Running toilet (often silent)</a></strong> — the #1 cause. A 2-minute dye test confirms it.</li>
+<li><strong><a href="/blog/water-meter-leak-indicator-explained/">Confirm you're reading the right dial</a></strong> — the small triangle or star is the leak indicator, not the sweep hand.</li>
+<li><strong><a href="/blog/how-to-read-a-water-meter/">Read the numbers</a></strong> — quantify how many gallons you're actually losing.</li>
+</ol>
+<p>Already found the source? See <a href="/blog/why-did-my-water-bill-suddenly-increase/">how it drives up your bill</a> or <a href="/blog/05-how-to-lower-utility-bills/">how to lower your water bill</a>.</p>
+</blockquote>
+
 <h2 id="why-your-water-meter-should-be-still">Why Your Water Meter Should Be Still</h2>
 <p>In a properly functioning home with all faucets, appliances, and irrigation systems turned off, your water meter should be completely stationary. Water meters are precision instruments designed to track the volume of water flowing from the municipal supply into your property. They are required for code compliance and are the primary tool utility companies use to determine your billing amount.</p>
 <p>However, the meter can sometimes act as a diagnostic tool beyond just billing. If you've noticed [your water bill suddenly increased](/blog/why-did-my-water-bill-suddenly-increase/), a meter test is the first step. As noted by plumbing professionals at Skelton's Heating, Cooling &amp; Plumbing, the meter can help clients understand their home's water usage patterns. If the meter is moving when nothing is running, it indicates that water is flowing through the system regardless of whether a fixture is open.</p>
@@ -28,6 +38,8 @@ image: "/images/articles/water-meter-running-when-no-water-used/water-meter-runn
 <ol><li><strong>The Sweep Hand:</strong> This large hand moves to measure gallons used. If this is moving slowly, you have a significant leak.</li><li><strong>The Leak Detector (Low Flow Indicator):</strong> This is often a small triangle or star dial that spins even with very small amounts of water flow. If this is spinning while all water is off, you have a small leak, often a dripping faucet or a running toilet.</li></ol>
 
 <h2 id="common-causes-of-a-running-water-meter">Common Causes of a Running Water Meter</h2>
+
+{{< image src="/images/articles/water-meter-running-when-no-water-used/leak-causes.webp" alt="Top causes of a running water meter by gallons wasted per day" caption="A running toilet alone can waste 200+ gallons a day — almost always the first thing to check." >}}
 <p>When you encounter the scenario where the <strong>water meter running when no water used</strong> is the primary symptom, the cause usually falls into one of three categories: internal leaks, external leaks, or meter anomalies.</p>
 <h3>1. Toilet Flapper Leaks</h3>
 <p>The most common cause of a moving water meter is a faulty toilet flapper. Over time, the rubber flapper inside the tank degrades, warps, or gets covered in mineral deposits. This prevents a tight seal, allowing water to trickle from the tank into the bowl continuously. This water is replenished by the fill valve, which registers usage on your meter.</p>
@@ -43,6 +55,8 @@ image: "/images/articles/water-meter-running-when-no-water-used/water-meter-runn
 <ul><li><strong>Air Trapped:</strong> After pipeline repairs or long periods of non-use, air can get trapped in the meter. This air can compress and expand, causing the meter to jerk or spin irregularly, tricking it into recording false consumption.</li><li><strong>Pressure Spikes:</strong> Sudden pressure spikes or drops from the municipal water supply can cause mechanical meters to register false movement.</li><li><strong>Wear and Tear:</strong> Old mechanical meters can develop internal friction issues that cause the dial to creep even without flow.</li></ul>
 
 <h2 id="how-to-diagnose-the-problem-step-by-step">How to Diagnose the Problem Step-by-Step</h2>
+
+{{< image src="/images/articles/water-meter-running-when-no-water-used/meter-test.webp" alt="The 3-step water meter test for hidden leaks" caption="The 30-second meter test: turn off every faucet and appliance, wait 15 minutes, then check the leak-indicator dial." >}}
 <p>Before calling a plumber or your water company, you can perform a few tests to isolate the issue. This process helps you determine if the leak is inside the house, outside, or with the meter itself.</p>
 <h3>Step 1: The All-Off Test</h3>
 <p>Turn off every water-using appliance and fixture in your home. This includes:</p>

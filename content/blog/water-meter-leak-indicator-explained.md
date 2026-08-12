@@ -17,16 +17,7 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <p>This guide explains what the leak indicator is, <strong>where to find it on your meter</strong>, how to test for leaks the right way, and how to avoid common false alarms. If you already know your meter is running and want the full troubleshooting playbook, see our guide on <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a>.</p>
 <p>If you want the overall "bill detective" flowchart first, start here: <a href="/blog/why-did-my-water-bill-suddenly-increase/">why water bills suddenly increase</a>.</p>
 
-<h2 id="toc">Table of contents</h2>
-<ul>
-              <li><a href="#quick-answer">The quick answer</a></li>
-              <li><a href="#what-it-is">What the leak indicator is</a></li>
-              <li><a href="#how-to-test">How to test using the leak indicator</a></li>
-              <li><a href="#false-alarms">Common false alarms (things that sip water)</a></li>
-              <li><a href="#isolate">How to isolate "house leak" vs "line leak"</a></li>
-              <li><a href="#misconceptions">Common misconceptions</a></li>
-              <li><a href="#what-next">What to do if it is moving</a></li>
-            </ul>
+<!-- Manual TOC removed: single.html now auto-generates a collapsible TOC. -->
 
 <h2 id="quick-answer">The quick answer</h2>
 <p>A water meter leak indicator is a small dial, triangle, star, or sweep marker that <strong>moves whenever any water flows through your meter</strong> — even a trickle too small to register on the main numbers display.</p>

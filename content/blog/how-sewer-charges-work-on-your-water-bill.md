@@ -1,7 +1,7 @@
 ---
 title: "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)"
 slug: "how-sewer-charges-work-on-your-water-bill"
-description: "Sewer charges confuse a lot of people--especially when they cost more than water. Here's how they're usually calculated and what to check."
+description: "Sewer charges pay to collect and treat wastewater, and most bills base them on your water usage, a winter average, or a flat monthly fee. They can cost more than water because treatment is expensive — here's how yours is calculated and how to lower the usage-based part."
 date: 2025-12-25
 author: "Margaret Harrington"
 category: "Water"
@@ -39,6 +39,8 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
             </p>
 
 <h2 id="how-calculated">The most common ways sewer is calculated</h2>
+
+{{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-3-ways.webp" alt="The three ways sewer charges are calculated" caption="Most homes are billed for sewer one of three ways: usage-based, a winter average, or a flat monthly fee." >}}
 <p>
               Sewer billing varies by city, but most residential bills use one of
               these patterns.
@@ -67,6 +69,8 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
             </p>
 
 <h2 id="why-sewer-higher">Why sewer can cost more than water</h2>
+
+{{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-why-higher.webp" alt="Why sewer can cost more than water: cost breakdown" caption="Sewer can top water because wastewater treatment, collection pipes, and fixed infrastructure carry large costs." >}}
 <p>
               It feels backward, but it's common. Sewer can be higher because:
             </p>

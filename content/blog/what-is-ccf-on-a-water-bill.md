@@ -1,7 +1,7 @@
 ---
 title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
 slug: "what-is-ccf-on-a-water-bill"
-description: "CCF shows up on many water bills. Here's what it means, how to convert it to gallons, and how it turns into charges."
+description: "CCF on a water bill means 'hundred cubic feet' — 1 CCF equals 748 gallons. Here's what your CCF number means, how to convert it, and how to tell if a hidden leak is driving up your bill."
 date: 2025-12-25
 author: "Margaret Harrington"
 category: "Water"
@@ -13,12 +13,18 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 
 <h2 id="quick-answer">Quick Answer</h2>
 <p>
-              <strong>CCF stands for "hundred cubic feet," and one CCF equals **748 gallons** of water.</strong>
-              The first "C" is the Roman numeral for 100, and "CF" means cubic feet.
-              It is simply the unit most water meters use to measure volume. To verify your readings are accurate, [learn how to read a water meter](/blog/how-to-read-a-water-meter/).--how much
-              water flowed through your meter during the billing period. If your bill
-              says 6 CCF, you used about **4,488 gallons**.
+              <strong>CCF stands for "hundred cubic feet," and one CCF equals 748 gallons of water.</strong>
+              The first "C" is the Roman numeral for 100, and "CF" means cubic feet — it is the unit most U.S. water meters use to measure how much water flowed through your meter during the billing period. If your bill says 6 CCF, you used about <strong>4,488 gallons</strong> that month.
             </p>
+
+<blockquote>
+<p><strong>Got the definition? Good — now the part most people miss: what your CCF number reveals about your bill.</strong> Once you know your CCF, you can tell in about 30 seconds whether your usage is normal or whether water (and money) is quietly leaking. Two things to know up front:</p>
+<ul>
+<li><strong>A typical household uses roughly 2–4 CCF per person per month.</strong> If yours is a lot higher, a hidden leak is the usual suspect.</li>
+<li><strong>Your CCF also drives your sewer charges</strong> — so one high number raises both bills.</li>
+</ul>
+<p>Run the 30-second check in <a href="#sanity-check-usage">"Is your CCF normal?"</a> below, or jump straight to <a href="/blog/water-meter-running-when-no-water-used/">finding a leak</a>.</p>
+</blockquote>
 
 <h2 id="start-here">What CCF means on your water bill</h2>
 <p>
@@ -32,8 +38,7 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
               meter during the billing period.
             </p>
             <p>
-              This article gives you a plain-English conversion. Since many [sewer charges](/blog/how-sewer-charges-work-on-your-water-bill/) are calculated based on your CCF usage, understanding this unit helps you track both water and sewer costs. you can trust, plus
-              a quick way to connect the CCF number to what you actually pay.
+              This article gives you a plain-English conversion you can trust, plus a quick way to connect your CCF number to what you actually pay. Since many <a href="/blog/how-sewer-charges-work-on-your-water-bill/">sewer charges</a> are calculated from your CCF usage, understanding this unit helps you track both your water and sewer costs.
             </p>
             <p>
               For help understanding other parts of your bill beyond usage, check out our guide on [water service charges](/blog/water-service-charge-explained/). If you want the big picture first, start with our

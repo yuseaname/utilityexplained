@@ -11,13 +11,11 @@ keywords: ["how to lower utility bills", "reduce electric bill", "save on utilit
 image: "/images/articles/05-how-to-lower-utility-bills/custom_hero.webp"
 ---
 
-You can cut your utility bills by 20-40% without sacrificing comfort. Here are 25 proven strategies, ranked by savings potential, with actual numbers. See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-
-<img src="/images/articles/05-how-to-lower-utility-bills/custom_inline.webp" alt="Editorial illustration relevant to How to Lower Your Utility Bills: 25 Proven Ways That Actually Work" width="1200" height="630" loading="lazy" /> See [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
+You can cut your utility bills by 20-40% without sacrificing comfort. Here are 25 proven strategies, ranked by savings potential, with actual numbers.
 
 ## Quick Answer: What Actually Lowers Utility Bills?
 
-| Strategy | Cost | Annual Savings | Effort | See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
+| Strategy | Cost | Annual Savings | Effort |
 |----------|------|----------------|-------|
 | Raise AC / lower heat by 2°F | Free | $100–300 | 1 minute |
 | Switch to cold-water laundry | Free | $50–75 | 1 minute |
@@ -31,18 +29,7 @@ You can cut your utility bills by 20-40% without sacrificing comfort. Here are 2
 >
 > **Not sure why your bill is high in the first place?** A sudden spike usually means a billing error, rate change, or malfunctioning appliance — not bad habits. See our guide on [sudden bill spikes with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/) or [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/) to diagnose the root cause before you start cutting.
 
-## Table of Contents
-
-- [Quick Answer: What Actually Lowers Utility Bills?](#quick-answer-what-actually-lowers-utility-bills) Learn more in [Delivery vs Supply Charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill).
-- [Quick Wins (Free, Immediate)](#quick-wins-free-immediate)
-- [Low-Cost Improvements (Under $100)](#low-cost-improvements-under-100)
-- [Medium Investments ($100-500)](#medium-investments-100-500)
-- [Major Upgrades ($500+)](#major-upgrades-500)
-- [Behavioral Changes](#behavioral-changes)
-- [Rate Optimization](#rate-optimization)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
+> **Want to go deeper on a specific bill?** Attack the biggest one first: [lower your electric bill](/blog/how-to-lower-electric-bill-complete-guide/), or fix the usual cause of a high [water bill](/blog/06-water-bill-too-high/) or [gas bill](/blog/07-gas-bill-too-high/). Not sure where your money is going? See [electric bill line items explained](/blog/electric-bill-breakdown-understanding-line-items/) or [delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).
 
 ## Quick Wins (Free, Immediate)
 
