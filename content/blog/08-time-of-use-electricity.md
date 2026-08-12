@@ -22,24 +22,12 @@ image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-r
 For more detail, see [When Is Electricity Cheapest](/blog/46-what-time-is-electricity-cheapest/).
 
 
-
 If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 
 This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings. Learn more in [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
 
 <img src="/images/articles/08-time-of-use-electricity/custom_inline.webp" alt="Editorial illustration relevant to Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What is time-of-use pricing?](#what-is-time-of-use-pricing)
-- [Typical peak and off-peak hours](#typical-peak-and-off-peak-hours)
-- [How much can you save?](#how-much-can-you-save)
-- [Appliance-by-appliance shifting guide](#appliance-by-appliance-shifting-guide)
-- [Is TOU right for you?](#is-tou-right-for-you)
-- [How to switch to a TOU plan](#how-to-switch-to-a-tou-plan)
-- [FAQ](#faq)
-
----
 
 ## What is time-of-use pricing?
 

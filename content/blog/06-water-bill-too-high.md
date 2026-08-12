@@ -21,24 +21,12 @@ image: "/images/articles/06-water-bill-too-high/custom_hero.webp"
 For more detail, see [how to find water leaks](/blog/06-water-bill-too-high/).
 
 
-
 A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour. Learn more in [How to Read a Water Meter](/blog/how-to-read-a-water-meter).
 
 This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill).
 
 <img src="/images/articles/06-water-bill-too-high/custom_inline.webp" alt="Editorial illustration relevant to Why Is My Water Bill So High? 11 Fast Checks That Find the Problem" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [Quick diagnosis: 4 questions to ask first](#quick-diagnosis-4-questions-to-ask-first)
-- [The 11 checks, ranked by likelihood](#the-11-checks-ranked-by-likelihood)
-- [How to read your water [meter](/blog/how-to-read-electric-meter) (the definitive test)](#how-to-read-your-water-meter-the-definitive-test)
-- [Understanding your water rate structure](#understanding-your-water-rate-structure)
-- [Cost and savings math](#cost-and-savings-math)
-- [When to call your water utility](#when-to-call-your-water-utility)
-- [FAQ](#faq)
-
----
 
 ## Quick diagnosis: 4 questions to ask first
 

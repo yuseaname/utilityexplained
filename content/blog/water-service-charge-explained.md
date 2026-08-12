@@ -32,7 +32,6 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
               <a href="/water-explained"> Water Service Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The quick answer</a></li>
               <li><a href="#what-it-is">What a water service charge is (and what it is not)</a></li>

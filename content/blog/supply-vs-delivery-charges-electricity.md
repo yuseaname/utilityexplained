@@ -24,7 +24,6 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
               <a href="/electricity-explained"> Electricity Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#supply">Supply charges (generation)</a></li>

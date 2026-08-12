@@ -29,19 +29,6 @@ This 2026 Utility Cost Index ranks all 50 states by average monthly utility cost
 
 <img src="/images/articles/2026-utility-cost-index-by-state/custom_inline.webp" alt="Custom illustration relevant to 2026 Utility Cost Index: Average Electric, Gas & Water Bills by State" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [2026 Utility Cost Rankings: All 50 States](#2026-utility-cost-rankings-all-50-states)
-- [Regional Breakdowns](#regional-breakdowns)
-- [Why Utility Costs Vary by State](#why-utility-costs-vary-by-state)
-- [Electricity Costs: State-by-State Analysis](#electricity-costs-state-by-state-analysis)
-- [Gas Costs: State-by-State Analysis](#gas-costs-state-by-state-analysis)
-- [Water Costs: State-by-State Analysis](#water-costs-state-by-state-analysis)
-- [Year-over-Year Changes: 2025 vs 2026](#year-over-year-changes-2025-vs-2026)
-- [Methodology](#methodology)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## 2026 Utility Cost Rankings: All 50 States
 

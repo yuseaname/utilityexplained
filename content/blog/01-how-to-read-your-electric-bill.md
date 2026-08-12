@@ -21,21 +21,10 @@ image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
 For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
 
 
-
 Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
 <img src="/images/articles/01-how-to-read-your-electric-bill/custom_inline.webp" alt="Editorial illustration relevant to How to Read Your Electric Bill (Line by Line Guide)" width="1200" height="630" loading="lazy" /> Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
 
-## Table of Contents
-
-- [The Basic Structure](#the-basic-structure)
-- [Key Numbers to Find](#key-numbers-to-find)
-- [Common Charges Explained](#common-charges-explained) Learn more in [Delivery vs Supply Charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill).
-- [How Your Bill Is Calculated](#how-your-bill-is-calculated) Learn more in [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour).
-- [Spotting Errors and Problems](#spotting-errors-and-problems)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## The Basic Structure
 

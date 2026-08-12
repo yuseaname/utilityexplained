@@ -28,18 +28,6 @@ Here's the complete math, how to charge during off-peak hours to save even more,
 
 <img src="/images/articles/ev-charging-impact-electric-bill/custom_inline.webp" alt="Custom illustration relevant to How Much Does EV Charging Add to Your Electric Bill?" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [The EV Charging Math](#the-ev-charging-math)
-- [Charging Levels and Costs](#charging-levels-and-costs)
-- [Off-Peak Charging: How to Save](#off-peak-charging-how-to-save)
-- [Demand Charges and TOU Rates](#demand-charges-and-tou-rates)
-- [EV vs Gas: Cost Comparison](#ev-vs-gas-cost-comparison)
-- [How to Track EV Charging on Your Bill](#how-to-track-ev-charging-on-your-bill)
-- [EV Charging Rebates and Incentives](#ev-charging-rebates-and-incentives)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## The EV Charging Math
 

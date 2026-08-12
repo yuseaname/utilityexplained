@@ -21,23 +21,10 @@ image: "/images/articles/09-apartment-utilities-cost/custom_hero.webp"
 For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
 
-
 Moving into your first apartment — or moving to a new one — and wondering what utilities will cost? This guide gives you **real numbers, by utility type, by apartment size, and by region**, so you can budget accurately and avoid surprises. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
 <img src="/images/articles/09-apartment-utilities-cost/custom_inline.webp" alt="Editorial illustration relevant to Average Apartment Utilities Cost: What to Expect and How to Budget" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What utilities do renters typically pay?](#what-utilities-do-renters-typically-pay)
-- [Average costs by utility type](#average-costs-by-utility-type) Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-- [Average costs by apartment size](#average-costs-by-apartment-size) Learn more in [Delivery vs Supply Charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill).
-- [Average costs by region](#average-costs-by-region)
-- [Utilities included vs. tenant-paid](#utilities-included-vs-tenant-paid)
-- [First apartment budget template](#first-apartment-budget-template)
-- [How to reduce apartment utility costs](#how-to-reduce-apartment-utility-costs)
-- [FAQ](#faq)
-
----
 
 ## What utilities do renters typically pay?
 

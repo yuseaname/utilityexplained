@@ -21,7 +21,6 @@ image: "/images/articles/how-to-lower-electric-bill-complete-guide/custom_hero.w
 For more detail, see [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 
-
 Your electric bill is too high. You've tried turning off lights, but it barely made a dent. You want real savings—$50, $100, even $150 per month—and you want to know exactly what to do and what it'll cost.
 
 This guide gives you 20+ proven ways to lower your electric bill, organized by cost: free changes you can make today, under-$50 upgrades for this week, under-$500 investments for this month, and long-term upgrades that pay for themselves.
@@ -30,21 +29,6 @@ Every tip includes the math: what it costs, what it saves, and how long until it
 
 <img src="/images/articles/how-to-lower-electric-bill-complete-guide/custom_inline.webp" alt="Custom illustration relevant to How to Lower Your Electric Bill: The Complete Guide (2026)" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [Why Your Electric Bill Is So High](#why-your-electric-bill-is-so-high)
-- [Free Changes: Start Today (Save 10–25%)](#free-changes-start-today-save-1025)
-- [Under $50: This Week (Save 15–30%)](#under-50-this-week-save-1530)
-- [Under $500: This Month (Save 25–40%)](#under-500-this-month-save-2540)
-- [Long-Term Investments (Save 40–60%)](#long-term-investments-save-4060)
-- [HVAC Optimization (Save 20–35%)](#hvac-optimization-save-2035)
-- [Water Heater Savings (Save 10–20%)](#water-heater-savings-save-1020)
-- [Phantom Load Elimination (Save 5–15%)](#phantom-load-elimination-save-515)
-- [Rate Plan Optimization (Save 10–25%)](#rate-plan-optimization-save-1025)
-- [Quick Reference Checklist](#quick-reference-checklist)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## Why Your Electric Bill Is So High
 

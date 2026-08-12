@@ -24,18 +24,6 @@ Your electric bill says "Service Period: April 18 – May 17." Your water bill c
 
 <img src="/images/articles/23-utility-billing-cycle-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a Utility Billing Cycle?](#what-is-a-utility-billing-cycle)
-- [Monthly vs. Bimonthly vs. Quarterly Billing](#monthly-vs-bimonthly-vs-quarterly-billing)
-- [Why Don't Utility Bills Align with Calendar Months?](#why-dont-utility-bills-align-with-calendar-months)
-- [How to Read Your Billing Period](#how-to-read-your-billing-period)
-- [Estimated vs. Actual Meter Readings in Your Billing Cycle](#estimated-vs-actual-meter-readings-in-your-billing-cycle)
-- [How Billing Cycles Affect Budget Billing](#how-billing-cycles-affect-budget-billing)
-- [What Happens When Your Billing Cycle Changes](#what-happens-when-your-billing-cycle-changes)
-- [Managing Due Dates Across Multiple Utilities](#managing-due-dates-across-multiple-utilities)
-- [Billing Cycles and Moving In or Out](#billing-cycles-and-moving-in-or-out)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is a Utility Billing Cycle?
 

@@ -20,24 +20,10 @@ image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
 - **Worried about your credit?** Utility debts can be sent to collections and reported to credit bureaus.
 
 
-
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
 
 <img src="/images/articles/21-past-due-balance-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Past Due Balance on Utility Bill Explained" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a Past Due Balance?](#what-is-a-past-due-balance)
-- [How Utility Billing Grace Periods Work](#how-utility-billing-grace-periods-work)
-- [What Happens When You Don't Pay on Time](#what-happens-when-you-dont-pay-on-time)
-- [Late Fees and Penalties](#late-fees-and-penalties)
-- [The Disconnection Timeline](#the-disconnection-timeline)
-- [Your Rights as a Utility Customer](#your-rights-as-a-utility-customer)
-- [Emergency and Medical Protections](#emergency-and-medical-protections)
-- [How to Resolve a Past Due Balance](#how-to-resolve-a-past-due-balance)
-- [Financial Assistance Programs](#financial-assistance-programs)
-- [Impact on Your Credit](#impact-on-your-credit)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is a Past Due Balance?
 

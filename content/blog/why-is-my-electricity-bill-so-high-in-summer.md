@@ -14,11 +14,11 @@ image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-
 
 ## Quick Answer
 
-**Summer electric bills spike because air conditioning alone accounts for 40–****50%**** of home energy use during hot months.**
+**Summer electric bills spike because air conditioning alone accounts for 40–**50%** of home energy use during hot months.**
 
-- **AC costs ****$50****–****$200**** extra per month** depending on efficiency and temperature settings
-- **Every degree above **78°F** saves 3–****5%**** on cooling costs**
-- **Peak hours (4–9 PM) charge 2–3x higher rates** — run appliances early morning or late evening
+- AC costs **$50**–**$200** extra per month** depending on efficiency and temperature settings
+- Every degree above **78°F** saves 3–**5%** on cooling costs**
+- Peak hours (4–9 PM) charge 2–3x higher rates** — run appliances early morning or late evening
 
 [For more detail, see [why your electric bill is so high this month](/blog/why-is-my-electric-bill-so-high-this-month/).]
 
@@ -46,7 +46,7 @@ image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-
 <h2 id="thermostat">Thermostat settings and heat gain</h2>
 <p>
               A lower thermostat setting increases AC runtime. Setting the thermostat
-              to 72F instead of 76F can raise energy use by ****10%**** to ****20%**** depending on
+              to 72F instead of 76F can raise energy use by **10%** to 20%** depending on
               your home and climate.
             </p>
             <p>
@@ -217,23 +217,23 @@ Hotter weather, higher humidity, and longer daylight hours can increase runtime.
 
 | Cause | Typical Increase | How to Fix | Cost to Fix |
 |-------|:---:|-----------|:---:|
-| AC running more | 30-****100%**** | Raise temp 2-**3°F** | ****$0**** |
-| AC inefficiency | 20-****40%**** | Replace filter, service | ****$5****-150 |
-| Pool pump running | ****$30****-80/mo | Reduce to 4-6 hrs | ****$0**** |
-| Dehumidifier | ****$15****-40/mo | Use only when needed | ****$0**** |
-| Extra refrigerator | ****$15****-25/mo | Unplug if rarely used | ****$0**** |
-| Fans left running | ****$5****-15/mo | Turn off when leaving | ****$0**** |
-| Window AC units | ****$20****-60/unit | Use central AC efficiently | ****$0**** |
-| Rate plan mismatch | 10-****30%**** | Switch to TOU plan | ****$0**** |
+| AC running more | 30-**100%** | Raise temp 2-**3°F** | $0** |
+| AC inefficiency | 20-**40%** | Replace filter, service | $5**-150 |
+| Pool pump running | **$30**-80/mo | Reduce to 4-6 hrs | $0** |
+| Dehumidifier | **$15**-40/mo | Use only when needed | $0** |
+| Extra refrigerator | **$15**-25/mo | Unplug if rarely used | $0** |
+| Fans left running | **$5**-15/mo | Turn off when leaving | $0** |
+| Window AC units | **$20**-60/unit | Use central AC efficiently | $0** |
+| Rate plan mismatch | 10-**30%** | Switch to TOU plan | $0** |
 
 ### AC Temperature Setting Cost Impact
 
 | Setting | vs **72°F** Baseline | Monthly Savings | Comfort Level |
 |---------|:---:|:---:|:---:|
-| **74°F** | +**2°F** | ****$12****-24 | Barely noticeable |
-| **76°F** | +**4°F** | ****$24****-48 | Slightly warm |
-| **78°F** | +**6°F** | ****$36****-72 | Comfortable with fan |
-| **80°F** | +**8°F** | ****$48****-96 | Warm, needs fan |
+| 74°F** | +**2°F** | $12**-24 | Barely noticeable |
+| **76°F** | +**4°F** | $24**-48 | Slightly warm |
+| **78°F** | +**6°F** | $36**-72 | Comfortable with fan |
+| **80°F** | +**8°F** | $48**-96 | Warm, needs fan |
 
 
 {{< faq-schema >}}

@@ -26,15 +26,6 @@ Your electric bill jumped $50, $100, or more — and nothing changed. Or so you 
 
 <img src="/images/articles/03-why-is-my-electric-bill-so-high/custom_inline.webp" alt="Utility bill showing unexpected high charges" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [Quick Diagnosis](#quick-diagnosis)
-- [The 12 Most Common Causes](#the-12-most-common-causes)
-- [How to Find the Culprit](#how-to-find-the-culprit)
-- [When to Call for Help](#when-to-call-for-help)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## Quick Diagnosis
 

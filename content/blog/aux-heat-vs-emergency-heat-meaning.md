@@ -34,7 +34,6 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li>
                 <a href="#the-problem">The problem: a confusing thermostat label</a>

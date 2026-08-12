@@ -3,7 +3,6 @@ title: "David Chen — Home Energy Auditor"
 slug: "david-chen"
 description: "David Chen is a RESNET-certified home energy auditor who has evaluated over 2,000 homes for efficiency and helped families cut their utility bills by 20-40%."
 date: 2026-08-10
-image: "/images/utility-energy.jpg"
 ---
 
 # David Chen

@@ -22,7 +22,6 @@ image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-expla
               therms used.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#what-it-covers">What the customer charge covers</a></li>
@@ -200,7 +199,6 @@ The customer charge is set by your state's Public Utility Commission (PUC), not 
 2. **File a complaint with your state PUC** — Search "[your state] public utility commission complaint"
 3. **Check for budget billing** — This spreads costs evenly but doesn't reduce the charge
 4. **Verify you're on the right rate class** — Some customers are misclassified (residential vs small commercial)
-
 
 
 ---

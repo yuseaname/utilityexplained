@@ -26,7 +26,6 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
               <a href="/water-explained"> Water Service Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#billing-days">Longer billing cycle</a></li>
@@ -182,7 +181,6 @@ Compare usage per day and check for notes about estimated reads. That separates 
 - [ ] Service water heater (flush sediment to maintain efficiency)
 - [ ] Check for running toilets (add food coloring to tank, wait 15 minutes)
 - [ ] Wrap water heater with insulation blanket if older than 10 years
-
 
 
 ---

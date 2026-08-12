@@ -24,20 +24,6 @@ You just signed a lease, called the electric company to set up service, and they
 
 <img src="/images/articles/26-utility-deposit-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Deposit Explained: How Much and How to Get It Back" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a Utility Deposit?](#what-is-a-utility-deposit)
-- [How Much Is a Typical Utility Deposit?](#how-much-is-a-typical-utility-deposit)
-- [Why Do Utilities Require Deposits?](#why-do-utilities-require-deposits)
-- [How Do Utilities Determine If You Need a Deposit?](#how-do-utilities-determine-if-you-need-a-deposit)
-- [Utility Deposits and Credit Checks](#utility-deposits-and-credit-checks)
-- [Deposits for Gas, Water, and Other Utilities](#deposits-for-gas-water-and-other-utilities)
-- [How to Avoid Paying a Utility Deposit](#how-to-avoid-paying-a-utility-deposit)
-- [Payment Plans for Large Deposits](#payment-plans-for-large-deposits)
-- [How to Get Your Utility Deposit Back](#how-to-get-your-utility-deposit-back)
-- [What Happens If You Move Before the Deposit Is Refunded?](#what-happens-if-you-move-before-the-deposit-is-refunded)
-- [Utility Deposits by State: Key Variations](#utility-deposits-by-state-key-variations)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is a Utility Deposit?
 

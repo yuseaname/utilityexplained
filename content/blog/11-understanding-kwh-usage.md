@@ -21,21 +21,10 @@ image: "/images/articles/11-understanding-kwh-usage/custom_hero.webp"
 For more detail, see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/).
 
 
-
 Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
 
 <img src="/images/articles/11-understanding-kwh-usage/custom_inline.webp" alt="Editorial illustration relevant to Understanding kWh Usage: What Uses the Most Electricity in Your Home" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a kWh?](#what-is-a-kwh)
-- [The kWh Cost Formula](#the-kwh-cost-formula)
-- [Top Electricity Users in the Average Home](#top-electricity-users-in-the-average-home)
-- [Appliance-by-Appliance Breakdown](#appliance-by-appliance-breakdown)
-- [How to Track Your Own Usage](#how-to-track-your-own-usage)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## What Is a kWh?
 

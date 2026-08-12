@@ -28,7 +28,6 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#definitions">What each system really is</a></li>
               <li><a href="#upfront-cost">Upfront cost: what drives the quote</a></li>

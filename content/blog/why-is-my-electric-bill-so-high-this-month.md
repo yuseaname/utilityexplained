@@ -16,9 +16,9 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
 
 **Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.**
 
-- **Heating/cooling accounts for 40-****50%**** of your bill** — check your thermostat settings
-- **Phantom loads add ****$100****–****$200**** per year** — unplug devices when not in use
-- **Rates vary by time of use** — running appliances during off-peak hours saves 15–****30%****
+- Heating/cooling accounts for 40-**50%** of your bill** — check your thermostat settings
+- Phantom loads add **$100**–**$200** per year** — unplug devices when not in use
+- Rates vary by time of use** — running appliances during off-peak hours saves 15–**30%**
 
 [For more detail, see [why electricity bills change month to month](/blog/why-electric-bill-changes-month-to-month/).]
 
@@ -290,23 +290,23 @@ Use efficiency upgrades (LEDs, smart thermostat), seal drafts, improve insulatio
 
 | Symptom | Likely Cause | Est. Cost Impact | Quick Fix |
 |---------|-------------|:---:|-----------|
-| Bill doubled | Rate change or meter error | ****$50****-100 | Compare kWh to last year |
-| Bill +30-****50%**** | Seasonal AC/heating | ****$30****-60 | Expected — adjust thermostat |
-| Same kWh, higher $ | Rate increase | ****$10****-30 | Check rate line on bill |
-| Estimated reading | Overestimate | ****$20****-80 | Request actual reading |
-| Sudden new charge | New fee added | ****$3****-15 | Compare line items |
+| Bill doubled | Rate change or meter error | $50**-100 | Compare kWh to last year |
+| Bill +30-**50%** | Seasonal AC/heating | $30**-60 | Expected — adjust thermostat |
+| Same kWh, higher $ | Rate increase | **$10**-30 | Check rate line on bill |
+| Estimated reading | Overestimate | $20**-80 | Request actual reading |
+| Sudden new charge | New fee added | **$3**-15 | Compare line items |
 
 ### Top Appliance Energy Hogs
 
 | Appliance | Monthly kWh | Monthly Cost | % of Bill |
 |-----------|:---:|:---:|:---:|
-| Central AC | 600-1,200 | ****$84****-168 | 40-****50%**** |
-| Water heater | 300-450 | ****$42****-63 | 15-****20%**** |
-| Refrigerator | 60-150 | ****$8****-21 | 3-****7%**** |
-| Clothes dryer | 60-90 | ****$8****-13 | 3-****5%**** |
-| Dishwasher | 30-45 | ****$4****-6 | 1-****2%**** |
-| Space heater | 150-450 | ****$21****-63 | 8-****20%**** |
-| Pool pump | 200-450 | ****$28****-63 | 10-****18%**** |
+| Central AC | 600-1,200 | $84**-168 | 40-**50%** |
+| Water heater | 300-450 | $42**-63 | 15-**20%** |
+| Refrigerator | 60-150 | $8**-21 | 3-**7%** |
+| Clothes dryer | 60-90 | $8**-13 | 3-**5%** |
+| Dishwasher | 30-45 | $4**-6 | 1-**2%** |
+| Space heater | 150-450 | $21**-63 | 8-**20%** |
+| Pool pump | 200-450 | $28**-63 | 10-**18%** |
 
 
 {{< faq-schema >}}

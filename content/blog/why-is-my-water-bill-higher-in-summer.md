@@ -30,7 +30,6 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
               <a href="/water-explained"> Water Service Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The quick answer</a></li>
               <li><a href="#first-check">The first three things to check</a></li>

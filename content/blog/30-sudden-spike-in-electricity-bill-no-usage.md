@@ -34,23 +34,6 @@ In roughly 90% of cases, a sudden spike with no usage change comes down to one o
 
 > **Start here:** Grab your current bill and last month's bill. In 10 minutes you can rule out causes #1–#5 without leaving your kitchen. Detailed instructions for each follow below.
 
-## Table of Contents
-
-- [Quick Answer: Why Did My Bill Spike?](#quick-answer-why-did-my-bill-spike)
-- [Step 1: Verify the Bill Is Correct](#step-1-verify-the-bill-is-correct)
-- [Step 2: Check the Billing Period Length](#step-2-check-the-billing-period-length)
-- [Step 3: Compare the Per-KWh Rate](#step-3-compare-the-per-kwh-rate)
-- [Step 4: Rule Out Weather and Seasonal Factors](#step-4-rule-out-weather-and-seasonal-factors)
-- [Step 5: Check for Estimated Meter Readings](#step-5-check-for-estimated-meter-readings)
-- [Step 6: Investigate HVAC System Issues](#step-6-investigate-hvac-system-issues)
-- [Step 7: Look for Phantom Appliances or New Loads](#step-7-look-for-phantom-appliances-or-new-loads)
-- [Step 8: Check for Water Heater Problems](#step-8-check-for-water-heater-problems)
-- [Step 9: Investigate Possible Meter Malfunctions](#step-9-investigate-possible-meter-malfunctions)
-- [Step 10: Check for Electrical Problems in Your Home](#step-10-check-for-electrical-problems-in-your-home)
-- [Step 11: Neighbor or Cross-Billing Issues](#step-11-neighbor-or-cross-billing-issues)
-- [Step 12: File a Formal Dispute](#step-12-file-a-formal-dispute)
-- [How to Audit Your Electricity Usage](#how-to-audit-your-electricity-usage)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Step 1: Verify the Bill Is Correct
 

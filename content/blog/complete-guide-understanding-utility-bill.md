@@ -21,26 +21,12 @@ image: "/images/articles/complete-guide-understanding-utility-bill/custom_hero.w
 For more detail, see [How Utility Rates Work](/blog/how-utility-rates-fees-usage-work-together/).
 
 
-
 Your utility bills arrive every month. You glance at the total, pay it, and move on. But those bills contain valuable information—and possible errors costing you money. Every line item, every charge, every rate structure affects what you pay.
 
 This guide explains electricity, gas, and water bills in plain English. You'll learn what every charge means, how rate structures work, how to spot errors, and how to lower each type of bill.
 
 <img src="/images/articles/complete-guide-understanding-utility-bill/custom_inline.webp" alt="Custom illustration relevant to Understanding Your Utility Bill: The Complete Guide for 2026" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [The Three Utility Bills](#the-three-utility-bills)
-- [Anatomy of a Utility Bill](#anatomy-of-a-utility-bill)
-- [Electricity Bills: Every Charge Explained](#electricity-bills-every-charge-explained)
-- [Gas Bills: Every Charge Explained](#gas-bills-every-charge-explained)
-- [Water Bills: Every Charge Explained](#water-bills-every-charge-explained)
-- [Rate Structures: How You're Charged](#rate-structures-how-youre-charged)
-- [How to Spot Billing Errors](#how-to-spot-billing-errors)
-- [How to Lower Each Type of Bill](#how-to-lower-each-type-of-bill)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## The Three Utility Bills
 

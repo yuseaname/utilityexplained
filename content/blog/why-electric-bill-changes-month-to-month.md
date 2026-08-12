@@ -16,9 +16,9 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
 
 **Your electric bill changes month-to-month due to variable-rate plans, seasonal usage patterns, and fluctuating fuel costs passed through by utilities.**
 
-- **Seasonal swings: Winter/summer bills are 30–****50%**** higher** than spring/fall
-- **Time-of-use rates vary daily** — peak hours cost 2–3x more
-- **Fuel adjustment charges add ****$10****–****$40**** per month** during energy price spikes
+- Seasonal swings: Winter/summer bills are 30–**50%** higher** than spring/fall
+- Time-of-use rates vary daily** — peak hours cost 2–3x more
+- **Fuel adjustment charges add $10**–**$40** per month** during energy price spikes
 
 [For more detail, see [why electricity bills are high in summer](/blog/why-is-my-electricity-bill-so-high-in-summer/).]
 
@@ -185,22 +185,22 @@ Your electricity usage follows predictable seasonal patterns. Understanding thes
 
 | Month | Typical Usage | Average Cost | Primary Driver |
 |-------|--------------|-------------|----------------|
-| January | 1,100-**1,800 kWh** | ****$160****-****$260**** | Electric heating |
-| February | 1,000-**1,600 kWh** | ****$145****-****$230**** | Heating, shorter days |
-| March | 800-**1,200 kWh** | ****$115****-****$175**** | Transition month |
-| April | 600-**900 kWh** | ****$85****-****$130**** | Mild weather |
-| May | 650-**950 kWh** | ****$95****-****$140**** | AC starts |
-| June | 900-**1,400 kWh** | ****$130****-****$200**** | Cooling begins |
-| July | 1,200-**2,000 kWh** | ****$175****-****$290**** | Peak AC |
-| August | 1,200-**2,000 kWh** | ****$175****-****$290**** | Peak AC |
-| September | 900-**1,400 kWh** | ****$130****-****$200**** | Cooling tapers |
-| October | 650-**950 kWh** | ****$95****-****$140**** | Mild weather |
-| November | 800-**1,200 kWh** | ****$115****-****$175**** | Heating starts |
-| December | 1,000-**1,600 kWh** | ****$145****-****$230**** | Heating, lights |
+| January | 1,100-**1,800 kWh** | $160**-**$260** | Electric heating |
+| February | 1,000-**1,600 kWh** | $145**-**$230** | Heating, shorter days |
+| March | 800-**1,200 kWh** | $115**-**$175** | Transition month |
+| April | 600-**900 kWh** | $85**-**$130** | Mild weather |
+| May | 650-**950 kWh** | $95**-**$140** | AC starts |
+| June | 900-**1,400 kWh** | $130**-**$200** | Cooling begins |
+| July | 1,200-**2,000 kWh** | $175**-**$290** | Peak AC |
+| August | 1,200-**2,000 kWh** | $175**-**$290** | Peak AC |
+| September | 900-**1,400 kWh** | $130**-**$200** | Cooling tapers |
+| October | 650-**950 kWh** | $95**-**$140** | Mild weather |
+| November | 800-**1,200 kWh** | $115**-**$175** | Heating starts |
+| December | 1,000-**1,600 kWh** | $145**-**$230** | Heating, lights |
 
 ### How Rate Structures Amplify Seasonal Swings
 
-If you're on a **tiered rate plan**, your bill changes more dramatically than your usage. In summer, when you use more kWh, you push into higher-priced tiers where each additional kWh costs 50-****100%**** more than baseline.
+If you're on a tiered rate plan**, your bill changes more dramatically than your usage. In summer, when you use more kWh, you push into higher-priced tiers where each additional kWh costs 50-**100%** more than baseline.
 
 | Rate Type | Summer Impact | Winter Impact | Bill Volatility |
 |-----------|--------------|---------------|-----------------|
@@ -210,9 +210,9 @@ If you're on a **tiered rate plan**, your bill changes more dramatically than yo
 
 ### How to Track Your Usage Month to Month
 
-1. **Check your utility's app or portal** — Most utilities offer daily usage tracking
+1. Check your utility's app or portal** — Most utilities offer daily usage tracking
 2. **Compare year-over-year** — Look at the same month last year, not just last month
-3. **Calculate your effective rate** — Total bill ÷ kWh used. If this jumps, it's a rate change, not usage
+3. Calculate your effective rate** — Total bill ÷ kWh used. If this jumps, it's a rate change, not usage
 4. **Watch for estimated readings** — These cause artificial swings that correct later
 
 

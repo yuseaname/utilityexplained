@@ -28,7 +28,6 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
               <a href="/water-explained"> Water Service Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#how-it-works">How sewer averaging works</a></li>

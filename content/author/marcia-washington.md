@@ -3,7 +3,6 @@ title: "Marcia Washington — Household Budget Counselor"
 slug: "marcia-washington"
 description: "Marcia Washington is a certified financial counselor specializing in household utility budgeting, with 10 years helping families manage and reduce their energy costs."
 date: 2026-08-10
-image: "/images/utility-paperwork.jpg"
 ---
 
 # Marcia Washington

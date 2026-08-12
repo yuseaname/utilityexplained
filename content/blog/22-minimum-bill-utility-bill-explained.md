@@ -17,18 +17,6 @@ If you barely used any electricity this month but are still being charged $8 to 
 
 <img src="/images/articles/22-minimum-bill-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a Minimum Bill on a Utility Statement?](#what-is-a-minimum-bill-on-a-utility-statement)
-- [Why Do Utilities Charge a Minimum Bill?](#why-do-utilities-charge-a-minimum-bill)
-- [How Much Is a Typical Minimum Bill?](#how-much-is-a-typical-minimum-bill)
-- [Minimum Bill vs. Base Charge vs. Customer Charge](#minimum-bill-vs-base-charge-vs-customer-charge)
-- [What Is Included in a Minimum Bill](#what-is-included-in-a-minimum-bill)
-- [Can You Avoid or Reduce the Minimum Bill?](#can-you-avoid-or-reduce-the-minimum-bill)
-- [Minimum Bills by Utility Type](#minimum-bills-by-utility-type)
-- [Minimum Bills in Deregulated Markets](#minimum-bills-in-deregulated-markets)
-- [Seasonal Properties and Minimum Bills](#seasonal-properties-and-minimum-bills)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is a Minimum Bill on a Utility Statement?
 

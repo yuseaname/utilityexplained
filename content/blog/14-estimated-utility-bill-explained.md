@@ -24,15 +24,6 @@ You open your utility bill and notice something odd: instead of showing an actua
 
 <img src="/images/articles/14-estimated-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Estimated Utility Bill Explained" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-## Table of Contents
-
-- [Why Do Utility Companies Estimate Bills?](#why-do-utility-companies-estimate-bills) See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-- [How Utility Companies Calculate Estimates](#how-utility-companies-calculate-estimates)
-- [Estimated vs. Actual Bills: What Happens Next](#estimated-vs-actual-bills-what-happens-next)
-- [How to Tell If Your Bill Is Estimated](#how-to-tell-if-your-bill-is-estimated)
-- [What to Do If Your Estimated Bill Is Too High](#what-to-do-if-your-estimated-bill-is-too-high)
-- [[smart meter](/blog/how-do-smart-meters-work)s and the End of Estimation](#smart-meters-and-the-end-of-estimation)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Why Do Utility Companies Estimate Bills?
 

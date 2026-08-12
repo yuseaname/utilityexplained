@@ -31,7 +31,6 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#thermostat">Start with the thermostat</a></li>
               <li><a href="#airflow">Airflow problems you can fix today</a></li>

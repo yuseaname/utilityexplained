@@ -24,7 +24,6 @@ image: "/images/articles/demand-charge-electric-bill-explained/demand-charge-ele
               start with <a href="/electricity-explained">Electricity Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#demand-vs-energy">Demand vs energy: kW vs kWh</a></li>

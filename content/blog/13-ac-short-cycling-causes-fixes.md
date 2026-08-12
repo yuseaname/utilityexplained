@@ -24,15 +24,6 @@ Your air conditioner kicks on, runs for two minutes, shuts off, then starts agai
 
 <img src="/images/articles/13-ac-short-cycling-causes-fixes/custom_inline.webp" alt="Custom illustration relevant to AC Short Cycling u2014 Causes and Fixes" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is AC Short Cycling?](#what-is-ac-short-cycling)
-- [How to Tell If Your AC Is Short Cycling](#how-to-tell-if-your-ac-is-short-cycling)
-- [8 Common Causes of AC Short Cycling](#8-common-causes-of-ac-short-cycling)
-- [How to Fix AC Short Cycling](#how-to-fix-ac-short-cycling)
-- [When to Call an HVAC Technician](#when-to-call-an-hvac-technician)
-- [What Short Cycling Costs You](#what-short-cycling-costs-you) See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is AC Short Cycling?
 

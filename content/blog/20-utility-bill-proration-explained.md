@@ -24,17 +24,6 @@ You move into a new apartment on March 15th, and your first electric bill covers
 
 <img src="/images/articles/20-utility-bill-proration-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Bill Proration Explained" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is Utility Bill Proration?](#what-is-utility-bill-proration)
-- [When Does Proration Happen?](#when-does-proration-happen)
-- [How Proration Is Calculated](#how-proration-is-calculated)
-- [Proration for Fixed vs. Variable Charges](#proration-for-fixed-vs-variable-charges)
-- [Common Proration Scenarios](#common-proration-scenarios)
-- [Proration During Real Estate Transactions](#proration-during-real-estate-transactions)
-- [What to Watch For: Proration Pitfalls](#what-to-watch-for-proration-pitfalls)
-- [How to Verify Your Prorated Bill](#how-to-verify-your-prorated-bill)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is Utility Bill Proration?
 

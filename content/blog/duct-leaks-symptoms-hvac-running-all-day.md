@@ -27,7 +27,6 @@ image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-sym
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#the-problem">The problem: uneven rooms and long runtime</a></li>
               <li><a href="#delivery-model">HVAC as a delivery system</a></li>

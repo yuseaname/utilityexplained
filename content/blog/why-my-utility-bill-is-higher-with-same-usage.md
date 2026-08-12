@@ -29,7 +29,6 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/image.web
               <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#checklist">The checklist: days, per-day, rates, fees, tiers</a></li>
               <li><a href="#bill-lines">What to look for on the statement</a></li>

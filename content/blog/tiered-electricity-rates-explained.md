@@ -24,7 +24,6 @@ image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-r
               <a href="/electricity-explained"> Electricity Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#how-tiered-works">How tiered rates work (simple example)</a></li>

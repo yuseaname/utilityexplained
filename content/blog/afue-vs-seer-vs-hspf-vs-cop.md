@@ -38,7 +38,6 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#the-problem">The problem: too many ratings</a></li>
               <li><a href="#one-sentence">One-sentence definitions</a></li>

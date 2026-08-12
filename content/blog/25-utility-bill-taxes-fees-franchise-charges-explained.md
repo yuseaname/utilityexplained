@@ -17,20 +17,6 @@ You have already decoded the [delivery and supply charges](/blog/24-delivery-cha
 
 <img src="/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Bill Taxes, Fees, and Franchise Charges Explained" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [Overview of Taxes and Fees on Utility Bills](#overview-of-taxes-and-fees-on-utility-bills)
-- [What Is a Franchise Fee on a Utility Bill?](#what-is-a-franchise-fee-on-a-utility-bill)
-- [State and Local Utility Taxes](#state-and-local-utility-taxes)
-- [Gross Receipts Tax](#gross-receipts-tax)
-- [Federal and State Regulatory Surcharges](#federal-and-state-regulatory-surcharges)
-- [Public Benefits Charges](#public-benefits-charges)
-- [Renewable Energy Surcharges](#renewable-energy-surcharges)
-- [Nuclear Decommissioning Charges](#nuclear-decommissioning-charges)
-- [Universal Service and Low-Income Surcharges](#universal-service-and-low-income-surcharges)
-- [How Much Do Taxes and Fees Add to Your Bill?](#how-much-do-taxes-and-fees-add-to-your-bill)
-- [Are Any of These Charges Deductible on Your Taxes?](#are-any-of-these-charges-deductible-on-your-taxes)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Overview of Taxes and Fees on Utility Bills
 

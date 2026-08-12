@@ -26,7 +26,6 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
               <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#definitions">What single-stage, two-stage, and variable-speed mean</a></li>
               <li><a href="#bill">How these choices affect your bill</a></li>

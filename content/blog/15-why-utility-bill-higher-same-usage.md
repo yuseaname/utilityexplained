@@ -21,23 +21,10 @@ image: "/images/articles/15-why-utility-bill-higher-same-usage/custom_hero.webp"
 For more detail, see [why bills change](/blog/15-why-utility-bill-higher-same-usage/).
 
 
-
 You pull up your electric bill and the usage looks normal—right around the same 900 [kWh](/blog/what-is-a-kilowatt-hour) you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.
 
 <img src="/images/articles/15-why-utility-bill-higher-same-usage/custom_inline.webp" alt="Custom illustration relevant to Why Is My Utility Bill Higher With the Same Usage?" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-## Table of Contents
-
-- [The Most Common Reason: Your Rate Changed](#the-most-common-reason-your-rate-changed) See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-- [[tiered rates](/blog/tiered-electricity-rates-explained) and Seasonal Pricing](#tiered-rates-and-seasonal-pricing)
-- [Time-of-Use Rate Traps](#time-of-use-rate-traps)
-- [Hidden Fee Increases](#hidden-fee-increases)
-- [[fuel adjustment](/blog/18-fuel-adjustment-charge-on-utility-bill-explained) and Energy Cost Charges](#fuel-adjustment-and-energy-cost-charges)
-- [Billing Period Differences](#billing-period-differences)
-- [Estimated vs. Actual Reading Corrections](#estimated-vs-actual-reading-corrections)
-- [Tax Changes and Local Assessments](#tax-changes-and-local-assessments)
-- [How to Audit Your Bill for the Real Cause](#how-to-audit-your-bill-for-the-real-cause)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## The Most Common Reason: Your Rate Changed
 

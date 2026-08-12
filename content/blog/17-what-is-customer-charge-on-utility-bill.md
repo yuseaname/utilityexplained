@@ -21,21 +21,10 @@ image: "/images/articles/what-is-customer-charge-on-utility-bill/image.webp"
 For more detail, see [customer charges explained](/blog/17-what-is-customer-charge-on-utility-bill/).
 
 
-
 Every month, regardless of whether you used 200 kWh or 2,000 kWh, your utility bill includes a "customer charge" (also called a service charge, basic service charge, or customer facility charge). This fixed fee appears on your bill before any energy usage is calculated. It is separate from [variable fees and charges](/blog/04-hidden-fees-utility-bill) that depend on your consumption. It typically ranges from $8 to $30 per month for residential customers depending on your utility and state. For many low-usage households, this charge represents a significant portion of the total bill—and it's been rising steadily. Here's what you're actually paying for.
 
 <img src="/images/articles/17-what-is-customer-charge-on-utility-bill/custom_inline.webp" alt="Custom illustration relevant to What Is the Customer Charge on My Utility Bill?" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Exactly Is the Customer Charge?](#what-exactly-is-the-customer-charge)
-- [What the Customer Charge Covers](#what-the-customer-charge-covers)
-- [Why Customer Charges Vary by Utility](#why-customer-charges-vary-by-utility)
-- [Why Customer Charges Keep Increasing](#why-customer-charges-keep-increasing)
-- [Customer Charge vs. Volumetric Charges](#customer-charge-vs-volumetric-charges)
-- [How the Customer Charge Affects Low-Usage Households](#how-the-customer-charge-affects-low-usage-households)
-- [Can You Avoid or Reduce the Customer Charge?](#can-you-avoid-or-reduce-the-customer-charge)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Exactly Is the Customer Charge?
 

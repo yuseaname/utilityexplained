@@ -26,7 +26,6 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#why-long">Why heat pumps run longer in cold weather</a></li>

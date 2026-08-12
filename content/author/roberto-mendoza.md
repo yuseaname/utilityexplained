@@ -3,7 +3,6 @@ title: "Roberto Mendoza — Licensed HVAC Technician"
 slug: "roberto-mendoza"
 description: "Roberto Mendoza is a licensed master HVAC technician with 20 years of field experience diagnosing and fixing heating and cooling systems that drive up utility bills."
 date: 2026-08-10
-image: "/images/utility-hvac.jpg"
 ---
 
 # Roberto Mendoza

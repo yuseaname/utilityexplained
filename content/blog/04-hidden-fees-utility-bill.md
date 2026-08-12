@@ -21,22 +21,10 @@ image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
 For more detail, see [hidden utility fees explained](/blog/04-hidden-fees-utility-bill/).
 
 
-
 You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour). Your effective rate is 18¢. The difference? Hidden fees. Here's what they are and what you can do about them.
 
 <img src="/images/articles/04-hidden-fees-utility-bill/custom_inline.webp" alt="Editorial illustration relevant to Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them" width="1200" height="630" loading="lazy" /> See [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained).
 
-## Table of Contents
-
-- [The Fee Reality](#the-fee-reality) See [Surcharges Explained](/blog/19-utility-bill-surcharges-and-riders-explained).
-- [Types of Hidden Fees](#types-of-hidden-fees) See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
-- [Fees You Can't Avoid](#fees-you-cant-avoid)
-- [Fees You Can Fight](#fees-you-can-fight)
-- [Fees You Can Reduce](#fees-you-can-reduce)
-- [Fee Comparison by Provider](#fee-comparison-by-provider)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## The Fee Reality
 

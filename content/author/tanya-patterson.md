@@ -3,7 +3,6 @@ title: "Tanya Patterson — Consumer Advocate"
 slug: "tanya-patterson"
 description: "Tanya Patterson is an investigative consumer reporter who has spent 8 years exposing utility overcharging, hidden fees, and billing scams that cost households money."
 date: 2026-08-10
-image: "/images/utility-home.jpg"
 ---
 
 # Tanya Patterson

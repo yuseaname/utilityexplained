@@ -27,18 +27,6 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 
 <img src="/images/articles/12-how-to-read-your-gas-bill/custom_inline.webp" alt="Editorial illustration relevant to How to Read Your Gas Bill: A Plain-English Guide to Every Line Item" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [Quick Answer](#quick-answer-how-to-read-your-gas-bill)
-- [What Is a Therm?](#what-is-a-therm)
-- [The Main Charges on Your Gas Bill](#the-main-charges-on-your-gas-bill)
-- [Variable Charges That Change Monthly](#variable-charges-that-change-monthly)
-- [How Gas Prices Are Set](#how-gas-prices-are-set)
-- [Why Your Gas Bill Is Higher in Winter](#why-your-gas-bill-is-higher-in-winter)
-- [How to Lower Your Gas Bill](#how-to-lower-your-gas-bill)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## What Is a Therm?
 

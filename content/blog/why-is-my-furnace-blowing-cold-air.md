@@ -27,7 +27,6 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
               <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
             </p>
 
-<h2 id="toc">Table of contents</h2>
 <ul>
               <li><a href="#quick-answer">The short answer</a></li>
               <li><a href="#thermostat">Thermostat and fan settings</a></li>

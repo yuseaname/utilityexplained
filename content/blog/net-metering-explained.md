@@ -21,7 +21,6 @@ image: "/images/articles/net-metering-explained/custom_hero.webp"
 For more detail, see [Time-of-Use Electricity](/blog/08-time-of-use-electricity/).
 
 
-
 You're considering solar panels. You've heard about "net metering" and "solar credits," but what does that actually mean for your electric bill? Will you still get a bill? Will the utility pay you?
 
 Net metering is the billing mechanism that makes rooftop solar financially viable for most homeowners. It's the difference between solar panels taking 12 years to pay for themselves versus taking 20+ years.
@@ -30,17 +29,6 @@ Here's how net metering works, how it appears on your bill, how it's evolved, an
 
 <img src="/images/articles/net-metering-explained/custom_inline.webp" alt="Custom illustration relevant to Net Metering Explained: How Solar Panels Affect Your Electric Bill" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is Net Metering?](#what-is-net-metering)
-- [How Net Metering Appears on Your Bill](#how-net-metering-appears-on-your-bill)
-- [Net Metering 1.0 vs 2.0 vs 3.0](#net-metering-10-vs-20-vs-30)
-- [State-by-State Net Metering Policies](#state-by-state-net-metering-policies)
-- [The ROI Math: Is Net Metering Worth It?](#the-roi-math-is-net-metering-worth-it)
-- [Alternatives to Net Metering](#alternatives-to-net-metering)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
----
 
 ## What Is Net Metering?
 

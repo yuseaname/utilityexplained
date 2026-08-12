@@ -24,19 +24,6 @@ You are moving into a new apartment and budgeted for rent, security deposit, and
 
 <img src="/images/articles/27-utility-connection-fee-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Connection Fee Explained: What It Costs to Set Up New Service" width="1200" height="630" loading="lazy" />
 
-## Table of Contents
-
-- [What Is a Utility Connection Fee?](#what-is-a-utility-connection-fee)
-- [Connection Fee vs. Deposit vs. Setup Fee](#connection-fee-vs-deposit-vs-setup-fee)
-- [How Much Are Utility Connection Fees?](#how-much-are-utility-connection-fees)
-- [Electric Connection Fees](#electric-connection-fees)
-- [Natural Gas Connection Fees](#natural-gas-connection-fees)
-- [Water and Sewer Connection Fees](#water-and-sewer-connection-fees)
-- [New Construction vs. Existing Service](#new-construction-vs-existing-service)
-- [How to Set Up Utility Service and Minimize Fees](#how-to-set-up-utility-service-and-minimize-fees)
-- [Connection Fees for New Construction](#connection-fees-for-new-construction)
-- [Do You Pay Connection Fees When Switching Providers?](#do-you-pay-connection-fees-when-switching-providers)
-- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What Is a Utility Connection Fee?
 

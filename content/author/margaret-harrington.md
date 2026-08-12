@@ -3,7 +3,6 @@ title: "Margaret Harrington — Utility Billing Analyst"
 slug: "margaret-harrington"
 description: "Margaret Harrington is a former utility company billing specialist with 12 years of experience deciphering electricity, gas, and water bills for consumers."
 date: 2026-08-10
-image: "/images/utility-bill.jpg"
 ---
 
 # Margaret Harrington
