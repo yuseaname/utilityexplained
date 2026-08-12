@@ -20,13 +20,9 @@ image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
 
 For more detail, see [how to reduce gas bills](/blog/07-gas-bill-too-high/).
 
-
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it. Learn more in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
 
 Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. Learn more in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained).
-
-<img src="/images/articles/07-gas-bill-too-high/custom_inline.webp" alt="Editorial illustration relevant to Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One" width="1200" height="630" loading="lazy" />
-
 
 ## Quick diagnosis: Start here
 
@@ -271,7 +267,6 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 - [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
 - [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
-
 
 *Related Reading:*
 - [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)

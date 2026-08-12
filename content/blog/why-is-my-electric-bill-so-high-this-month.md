@@ -11,7 +11,6 @@ keywords: ["ac not cooling", "high electric bill", "kwh usage", "therms", "therm
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
-
 ## Quick Answer
 
 **Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.**
@@ -53,13 +52,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               <li>Heat waves: AC cycles extend and stack</li>
               <li>Humid days: dehumidifiers or AC remove moisture</li>
             </ul>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Cooling season often drives the year's highest bills.</figcaption>
-            </figure>
+            
 
 <h2 id="extreme-weather">Extreme weather and temperature swings</h2>
 <p>
@@ -94,13 +87,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               fridges, dehumidifiers, space heaters, and older window AC units. Many
               legacy models use 2-3x the electricity of modern ones.
             </p>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Old appliances can dominate monthly usage.</figcaption>
-            </figure>
+            
 
 <h2 id="phantom-loads">Phantom power and always-on devices</h2>
 <p>
@@ -109,13 +96,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               chargers. Individually small -- together, a 24/7 trickle that never
               stops.
             </p>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Background loads contribute even when you are not home.</figcaption>
-            </figure>
+            
 
 <h2 id="rates">Utility factors: rates and time-of-use pricing</h2>
 <p>
@@ -152,13 +133,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               For kWh basics, see
               <a href="/blog/what-is-a-kilowatt-hour"> what kWh means on a bill</a>.
             </p>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Understand the key bill lines to spot the cause.</figcaption>
-            </figure>
+            
 
 <h2 id="comparison-checklist">Month-to-month comparison checklist</h2>
 <ul>
@@ -179,13 +154,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               <li>Use fans before lowering AC further</li>
               <li>Turn off lights in unused rooms</li>
             </ul>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Simple habits slow the bleed before the next bill.</figcaption>
-            </figure>
+            
 
 <h2 id="medium-fixes">Medium-term fixes that pay back quickly</h2>
 <ul>
@@ -210,13 +179,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
               <li>Small arrays offsetting peak periods</li>
               <li>Battery backup for the highest-cost hours</li>
             </ul>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Goal: predictability, not perfection.</figcaption>
-            </figure>
+            
 
 <h2 id="myths">Common myths</h2>
 <ul>
@@ -233,13 +196,7 @@ image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-el
                 running quietly can.
               </li>
             </ul>
-            <figure>
-              <ContentImage
-                src="/images/articles/why-is-my-electric-bill-so-high-this-month/custom_inline.webp"
-                alt="Custom illustration relevant to high electric bill causes"
-              />
-              <figcaption>Understanding patterns beats guessing.</figcaption>
-            </figure>
+            
 
 <h2 id="final-thought">Final thought</h2>
 <p>
@@ -285,7 +242,6 @@ Use efficiency upgrades (LEDs, smart thermostat), seal drafts, improve insulatio
 
 {{< /faq >}}
 
-
 ## Bill Spike Diagnosis Table
 
 | Symptom | Likely Cause | Est. Cost Impact | Quick Fix |
@@ -307,6 +263,5 @@ Use efficiency upgrades (LEDs, smart thermostat), seal drafts, improve insulatio
 | Dishwasher | 30-45 | $4**-6 | 1-**2%** |
 | Space heater | 150-450 | $21**-63 | 8-**20%** |
 | Pool pump | 200-450 | $28**-63 | 10-**18%** |
-
 
 {{< faq-schema >}}

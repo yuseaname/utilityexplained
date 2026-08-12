@@ -19,11 +19,7 @@ image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
 - **Facing disconnection?** Most states require utilities to give you written notice 10-15 days before shutting off service.
 - **Worried about your credit?** Utility debts can be sent to collections and reported to credit bureaus.
 
-
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
-
-<img src="/images/articles/21-past-due-balance-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Past Due Balance on Utility Bill Explained" width="1200" height="630" loading="lazy" />
-
 
 ## What Is a Past Due Balance?
 

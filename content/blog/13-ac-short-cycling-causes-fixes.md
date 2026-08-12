@@ -22,9 +22,6 @@ image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.
 
-<img src="/images/articles/13-ac-short-cycling-causes-fixes/custom_inline.webp" alt="Custom illustration relevant to AC Short Cycling u2014 Causes and Fixes" width="1200" height="630" loading="lazy" />
-
-
 ## What Is AC Short Cycling?
 
 Short cycling happens when your air conditioner's compressor turns on and off in rapid, abnormally short intervals. A properly functioning central AC unit should run in cooling cycles of roughly 15 to 20 minutes. During that time, the system removes both heat and humidity from your indoor air. When cycles last only 3 to 10 minutes, the system never completes a full cooling cycle, leaving warm spots, high humidity, and excess wear on components.
@@ -135,7 +132,6 @@ The financial impact of ignoring short cycling goes beyond your monthly electric
 
 The math is clear: a $150 repair today prevents a $3,000 compressor replacement next year and saves hundreds in wasted electricity in between.
 
-
 ---
 
 ---
@@ -146,7 +142,6 @@ The math is clear: a $150 repair today prevents a $3,000 compressor replacement 
 - [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
 - [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
 - [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
-
 
 *Related Reading:*
 - [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling)

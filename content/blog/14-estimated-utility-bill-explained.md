@@ -22,9 +22,6 @@ For more detail, see [utility billing cycles](/blog/23-utility-billing-cycle-exp
 
 You open your utility bill and notice something odd: instead of showing an actual [meter](/blog/how-to-read-electric-meter) reading, it says "estimated." Your water, gas, or electric company guessed how much you used and charged you accordingly. This is more common than most people realize, and it can lead to surprisingly high—or pleasantly low—bills that eventually need correcting. Here's exactly how estimated billing works and what you should do about it.
 
-<img src="/images/articles/14-estimated-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Estimated Utility Bill Explained" width="1200" height="630" loading="lazy" /> See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
-
-
 ## Why Do Utility Companies Estimate Bills?
 
 Utility companies prefer to read every meter every month, but that's not always possible. Here are the main reasons your bill might be estimated:
@@ -108,7 +105,6 @@ As of 2025, approximately 72% of US electric meters are smart meters, up from le
 
 If your utility has upgraded to smart meters in your area and you're still receiving estimated bills, contact customer service. This usually indicates a communication issue with your specific meter that needs troubleshooting. Smart meters that fail to transmit for multiple billing cycles are sometimes flagged for manual reading or estimation as a fallback.
 
-
 ---
 
 ---
@@ -119,7 +115,6 @@ If your utility has upgraded to smart meters in your area and you're still recei
 - [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)
 - [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill)
 - [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-
 
 *Related Reading:*
 - [Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean](/blog/23-utility-billing-cycle-explained)

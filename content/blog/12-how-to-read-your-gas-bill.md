@@ -25,9 +25,6 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 >
 > Add **taxes and small regulatory fees (5–15%)** on top. A typical bill runs about **$25–$50/month in summer** and **$80–$200/month in winter**. The rest of this page explains every line in detail.
 
-<img src="/images/articles/12-how-to-read-your-gas-bill/custom_inline.webp" alt="Editorial illustration relevant to How to Read Your Gas Bill: A Plain-English Guide to Every Line Item" width="1200" height="630" loading="lazy" />
-
-
 ## What Is a Therm?
 
 Before understanding your bill, you need to understand the unit being measured.
@@ -193,7 +190,6 @@ For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/
 
 ---
 
-
 ---
 
 ---
@@ -204,7 +200,6 @@ For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/
 - [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
 - [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
-
 
 *Related Reading:*
 - [Understanding Natural Gas Bill Charges: What Are You Paying For?](/blog/43-understand-natural-gas-bill-charges)

@@ -20,11 +20,7 @@ image: "/images/articles/budget-billing-level-pay-explained/image.webp"
 
 For more detail, see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/).
 
-
 Your July electric bill hits $320. By October, it's down to $85. That $235 swing makes budgeting nearly impossible. Budget billing—also called level pay, average billing, or equal payment plans—eliminates this roller coaster by spreading your annual utility costs into 12 equal monthly payments. Most major US utilities offer some form of this program. For example, [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity) can affect how budget billing calculations work, and enrollment is usually free. But it's not without trade-offs. Here's everything you need to know before signing up.
-
-<img src="/images/articles/16-budget-billing-level-pay-explained/custom_inline.webp" alt="Custom illustration relevant to Budget Billing and Level Pay Explained" width="1200" height="630" loading="lazy" />
-
 
 ## How Budget Billing Works
 

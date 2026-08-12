@@ -20,11 +20,7 @@ image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
 
 For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
 
-
 Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
-
-<img src="/images/articles/01-how-to-read-your-electric-bill/custom_inline.webp" alt="Editorial illustration relevant to How to Read Your Electric Bill (Line by Line Guide)" width="1200" height="630" loading="lazy" /> Learn more in [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-
 
 ## The Basic Structure
 
@@ -128,8 +124,6 @@ This varies wildly by location:
 | **Franchise Fee** | Municipal fee for using rights-of-way |
 | **Demand Charge** | Peak usage (commercial only) |
 | **Power Factor Penalty** | Inefficient electrical use (commercial) |
-
-<img src="/images/articles/01-how-to-read-your-electric-bill/custom_inline.webp" alt="Editorial illustration relevant to How to Read Your Electric Bill (Line by Line Guide)" width="800" height="400" loading="lazy" />
 
 ### Decoding the Jargon
 

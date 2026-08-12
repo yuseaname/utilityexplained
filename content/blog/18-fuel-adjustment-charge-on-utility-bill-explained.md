@@ -20,11 +20,7 @@ image: "/images/articles/fuel-adjustment-charge-on-utility-bill-explained/image.
 
 For more detail, see [fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/).
 
-
 That line item on your electric bill labeled "fuel adjustment," "fuel cost recovery," "energy cost adjustment," or "purchased power adjustment" might seem minor—until it doubles overnight and adds $60 to your bill. The fuel adjustment charge is the single most volatile component of your utility bill, and it's the most common reason your electric costs spike even when your electricity usage stays exactly the same. Understanding what it is and why it fluctuates helps you anticipate these changes and budget accordingly.
-
-<img src="/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Fuel Adjustment Charge on Utility Bill Explained" width="1200" height="630" loading="lazy" />
-
 
 ## What Is the Fuel Adjustment Charge?
 

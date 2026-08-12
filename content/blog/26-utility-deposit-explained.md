@@ -22,9 +22,6 @@ For more detail, see [utility connection fees](/blog/27-utility-connection-fee-e
 
 You just signed a lease, called the electric company to set up service, and they are asking for a $200 deposit before they will turn the power on. You need electricity today, not in 12 months when the deposit might be refunded. Utility deposits are a standard part of starting new service, but the rules around how much they charge, who has to pay them, and how you get your money back vary significantly by state and utility.
 
-<img src="/images/articles/26-utility-deposit-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Deposit Explained: How Much and How to Get It Back" width="1200" height="630" loading="lazy" />
-
-
 ## What Is a Utility Deposit?
 
 A utility deposit is an upfront payment required by a utility company before they [establish new service](/blog/27-utility-connection-fee-explained) at your address. It functions as a security deposit — money the utility holds to protect against the risk that you might consume energy and then fail to pay your bill.

@@ -26,9 +26,6 @@ The answer depends on three things: how much you drive, when you charge, and you
 
 Here's the complete math, how to charge during off-peak hours to save even more, and whether an EV makes financial sense for your situation.
 
-<img src="/images/articles/ev-charging-impact-electric-bill/custom_inline.webp" alt="Custom illustration relevant to How Much Does EV Charging Add to Your Electric Bill?" width="1200" height="630" loading="lazy" />
-
-
 ## The EV Charging Math
 
 To calculate how much EV charging will cost, you need three numbers:

@@ -22,9 +22,6 @@ For more detail, see [how to lower your water bill](/blog/44-how-to-lower-water-
 
 Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
 
-<img src="/images/articles/02-average-utility-costs-2026/custom_inline.webp" alt="Editorial illustration relevant to Average Utility Costs in 2026: Complete Breakdown by Type and State" width="1200" height="630" loading="lazy" /> See [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained).
-
-
 ## The Big Picture
 
 ### Average Monthly Utility Costs (2026)

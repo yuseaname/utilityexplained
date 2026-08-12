@@ -13,8 +13,6 @@ image: "/images/articles/28-utility-reconnection-fee-explained/reconnect_hero.we
 
 The power went out yesterday, but your neighbors still have lights. You check your breaker panel — everything is fine. Then you remember: you missed the final notice last week. Your electric service has been disconnected for non-payment, and getting it back on will cost you significantly more than just the past-due amount. Here is a complete breakdown of reconnection fees, timelines, and your rights.
 
-<img src="/images/articles/28-utility-reconnection-fee-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff" width="1200" height="630" loading="lazy" />
-
 ## Quick Answer: How Much Does It Cost to Reconnect?
 
 > **Typical reconnection fees in 2025–2026:**

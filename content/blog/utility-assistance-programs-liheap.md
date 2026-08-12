@@ -20,13 +20,9 @@ image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"
 
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
-
 You're staring at a utility bill you can't pay. Maybe it's $480, double what you expected. Maybe you're between jobs, or an unexpected medical expense wiped out your buffer. The due date is looming, and you're worried about shut-off.
 
 You have more options than you think. Federal programs, state assistance, utility hardship plans, and non-profit organizations can help. This guide explains every assistance program, who qualifies, how to apply, and exactly what to do if you're facing shut-off this week.
-
-<img src="/images/articles/utility-assistance-programs-liheap/custom_inline.webp" alt="Custom illustration relevant to Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help" width="1200" height="630" loading="lazy" />
-
 
 ## Emergency: Facing Shut-Off This Week
 
@@ -155,7 +151,6 @@ Yes, but options are more limited. You can still:
 - Negotiate a **hardship extension** (especially if you lost a job)
 {{< /faq >}}
 
-
 ---{{< faq "How fast can I get help if I'm being shut off this week?" >}}
 **Fastest options:**
 1. **Call your utility** — Payment plans can be set up same-day
@@ -166,13 +161,11 @@ Yes, but options are more limited. You can still:
 **Do ALL of the above simultaneously.**
 {{< /faq >}}
 
-
 ---{{< faq "Can I use LIHEAP more than once per year?" >}}
 **Regular LIHEAP:** Once per heating season (and once per cooling season in some states)
 
 **Crisis LIHEAP:** Multiple times if you have multiple shut-off notices, but total annual benefit is capped
 {{< /faq >}}
-
 
 ---{{< faq "Will applying for assistance affect my credit?" >}}
 **No.** LIHEAP, utility hardship programs, and charity assistance do not appear on credit reports and do not affect your credit score.

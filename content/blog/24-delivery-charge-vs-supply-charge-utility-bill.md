@@ -20,11 +20,7 @@ image: "/images/articles/delivery-charge-vs-supply-charge-utility-bill/image.web
 
 For more detail, see [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).
 
-
 Open your electric bill and you will likely see two separate charge sections — one labeled "Delivery" and another labeled "Supply" (or "Generation"). Together, they account for roughly 70% to 80% of your total bill. Understanding what each one covers is the single most important step toward making sense of your utility costs, especially if you live in a deregulated market where you can shop for supply rates.
-
-<img src="/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/custom_inline.webp" alt="Custom illustration relevant to Delivery Charge vs Supply Charge on Your Utility Bill: Whats the Difference?" width="1200" height="630" loading="lazy" />
-
 
 ## What Is the Delivery Charge on a Utility Bill?
 

@@ -15,9 +15,6 @@ If you barely used any electricity this month but are still being charged $8 to 
 
 > **Quick Answer:** A minimum bill is the lowest amount your utility will charge you each billing period — typically **$8–$45/month** — even if you use little or nothing. You are paying because it costs money to keep your home connected to the grid (the wires, meter, and billing systems), and every connected customer shares that fixed cost. It is an approved rate set by your state utility commission, so it cannot be waived or negotiated away.
 
-<img src="/images/articles/22-minimum-bill-utility-bill-explained/custom_inline.webp" alt="Custom illustration relevant to Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing" width="1200" height="630" loading="lazy" />
-
-
 ## What Is a Minimum Bill on a Utility Statement?
 
 A minimum bill — sometimes called a minimum service charge, minimum use charge, or basic service charge — is the lowest amount a utility will bill you in a given billing period, regardless of how much energy or water you actually consume. If your calculated charges for the month come out to $8 but your minimum bill is $25, you pay $25. The utility does not issue a credit for the difference.

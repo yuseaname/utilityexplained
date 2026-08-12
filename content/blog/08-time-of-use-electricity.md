@@ -21,13 +21,9 @@ image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-r
 
 For more detail, see [When Is Electricity Cheapest](/blog/46-what-time-is-electricity-cheapest/).
 
-
 If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
 
 This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings. Learn more in [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
-
-<img src="/images/articles/08-time-of-use-electricity/custom_inline.webp" alt="Editorial illustration relevant to Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save" width="1200" height="630" loading="lazy" />
-
 
 ## What is time-of-use pricing?
 
@@ -242,7 +238,6 @@ Most utilities install smart meters at no charge when you switch to TOU. The met
 - [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
 - [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
 - [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
-
 
 *Related Reading:*
 - [What Time Is Electricity Cheapest? Guide to Off-Peak Energy Rates](/blog/46-what-time-is-electricity-cheapest)

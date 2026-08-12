@@ -20,11 +20,7 @@ image: "/images/articles/utility-bill-surcharges-and-riders-explained/image.webp
 
 For more detail, see [surcharge types explained](/blog/19-utility-bill-surcharges-and-riders-explained/).
 
-
 You're looking at your utility bill and it has more line items than a restaurant receipt. Base charge, distribution charge, transmission charge, fuel adjustment, energy efficiency rider, nuclear decommissioning surcharge, renewable energy charge, demand-side management fee—and the list goes on. These surcharges and riders can add $5 to $30 or more per month to your bill, and most customers have no idea what they're paying for. Here's a practical breakdown of the most common utility bill surcharges and riders, what they fund, and whether you're getting anything for your money.
-
-<img src="/images/articles/19-utility-bill-surcharges-and-riders-explained/custom_inline.webp" alt="Custom illustration relevant to Utility Bill Surcharges and Riders Explained" width="1200" height="630" loading="lazy" />
-
 
 ## What Are Surcharges and Riders?
 

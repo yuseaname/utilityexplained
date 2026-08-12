@@ -24,9 +24,6 @@ See [how to read your electricity bill](/blog/41-how-to-read-electricity-bill/) 
 
 Your electric bill jumped $50, $100, or more — and nothing changed. Or so you think. Here's how to find the culprit and fix it.
 
-<img src="/images/articles/03-why-is-my-electric-bill-so-high/custom_inline.webp" alt="Utility bill showing unexpected high charges" width="1200" height="630" loading="lazy" />
-
-
 ## Quick Diagnosis
 
 ### Check These First

@@ -20,13 +20,9 @@ image: "/images/articles/complete-guide-understanding-utility-bill/custom_hero.w
 
 For more detail, see [How Utility Rates Work](/blog/how-utility-rates-fees-usage-work-together/).
 
-
 Your utility bills arrive every month. You glance at the total, pay it, and move on. But those bills contain valuable information—and possible errors costing you money. Every line item, every charge, every rate structure affects what you pay.
 
 This guide explains electricity, gas, and water bills in plain English. You'll learn what every charge means, how rate structures work, how to spot errors, and how to lower each type of bill.
-
-<img src="/images/articles/complete-guide-understanding-utility-bill/custom_inline.webp" alt="Custom illustration relevant to Understanding Your Utility Bill: The Complete Guide for 2026" width="1200" height="630" loading="lazy" />
-
 
 ## The Three Utility Bills
 
@@ -394,7 +390,6 @@ High bills usually stem from one of these causes:
 **What to do:** Compare your usage (kWh) to the same month last year. If usage is similar but the bill is higher, check for rate increases or billing errors.
 {{< /faq >}}
 
-
 ---{{< faq "Can I switch electric providers?" >}}
 **Depends on your state:**
 
@@ -405,7 +400,6 @@ High bills usually stem from one of these causes:
 
 **Deregulated states:** Texas, Pennsylvania, Ohio, Illinois, New York, New Jersey, Connecticut, Maryland, Delaware, Massachusetts, Maine, New Hampshire, Rhode Island, Oregon, and DC.
 {{< /faq >}}
-
 
 ---{{< faq "What is a kilowatt-hour (kWh)?" >}}
 One kilowatt-hour (kWh) = 1,000 watts running for 1 hour.
@@ -419,7 +413,6 @@ One kilowatt-hour (kWh) = 1,000 watts running for 1 hour.
 
 **Average household:** 886–908 kWh/month
 {{< /faq >}}
-
 
 ---{{< faq "Why is my delivery charge higher than my energy charge?" >}}
 This is common in deregulated states and areas with older infrastructure. The energy charge (actual electricity) might be 8–12¢/kWh, while the delivery charge (wires, poles, maintenance) adds another 3–6¢/kWh.

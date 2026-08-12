@@ -20,15 +20,11 @@ image: "/images/articles/net-metering-explained/custom_hero.webp"
 
 For more detail, see [Time-of-Use Electricity](/blog/08-time-of-use-electricity/).
 
-
 You're considering solar panels. You've heard about "net metering" and "solar credits," but what does that actually mean for your electric bill? Will you still get a bill? Will the utility pay you?
 
 Net metering is the billing mechanism that makes rooftop solar financially viable for most homeowners. It's the difference between solar panels taking 12 years to pay for themselves versus taking 20+ years.
 
 Here's how net metering works, how it appears on your bill, how it's evolved, and whether it's worth it in your state.
-
-<img src="/images/articles/net-metering-explained/custom_inline.webp" alt="Custom illustration relevant to Net Metering Explained: How Solar Panels Affect Your Electric Bill" width="1200" height="630" loading="lazy" />
-
 
 ## What Is Net Metering?
 
@@ -141,7 +137,6 @@ The payback period for solar depends heavily on net metering rules.
 **Typical solar bill:** $10–$50/month (vs. $100–$200+ before solar)
 {{< /faq >}}
 
-
 ---{{< faq "Do utilities pay me for excess solar credits?" >}}
 **It depends on the state and timing.**
 
@@ -151,7 +146,6 @@ The payback period for solar depends heavily on net metering rules.
 | **Annual true-up** | Once/year, utility pays you for excess credits (but often at reduced "avoided cost" rate) |
 | **Use it or lose it** | Some states expire credits after 12 months |
 {{< /faq >}}
-
 
 ---{{< faq "Can I go off-grid with solar panels?" >}}
 **Technically yes, but it's expensive and complicated.**

@@ -20,13 +20,9 @@ image: "/images/articles/10-fixed-vs-variable-utility-rate/custom_hero.webp"
 
 For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
 
-
 If you live in a state with energy choice (deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal? Should you float with the market instead? Or is there a third option? Learn more in [How Do Smart Meters Work?](/blog/how-do-smart-meters-work).
 
 This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
-
-<img src="/images/articles/10-fixed-vs-variable-utility-rate/custom_inline.webp" alt="Editorial illustration relevant to Fixed vs Variable Utility Rates: Which One Saves You More Money?" width="1200" height="630" loading="lazy" />
-
 
 ## What are fixed and variable rates?
 
@@ -268,7 +264,6 @@ Most contracts auto-renew. You'll typically be moved to:
 - [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
 - [What Is Customer Charge on Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill)
 - [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
-
 
 *Related Reading:*
 - [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity)

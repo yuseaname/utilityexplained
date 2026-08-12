@@ -13,8 +13,6 @@ image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_her
 
 Last month's electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
 
-<img src="/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_inline.webp" alt="Custom illustration relevant to Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes" width="1200" height="630" loading="lazy" />
-
 ## Quick Answer: Why Did My Bill Spike?
 
 In roughly 90% of cases, a sudden spike with no usage change comes down to one of these causes. Check them in order from fastest to hardest to fix:
@@ -33,7 +31,6 @@ In roughly 90% of cases, a sudden spike with no usage change comes down to one o
 | 10 | **Cross-billing / wrong meter** | Verify meter number on bill matches your physical meter | 1 phone call |
 
 > **Start here:** Grab your current bill and last month's bill. In 10 minutes you can rule out causes #1–#5 without leaving your kitchen. Detailed instructions for each follow below.
-
 
 ## Step 1: Verify the Bill Is Correct
 
