@@ -169,3 +169,51 @@ Dispatched 3 parallel agents (glm-4.5) to add contextual internal links:
 - Affiliate disclosure: ✅
 
 ### Total Commits: 11
+
+---
+
+## Entry 4 — 2026-08-12: Top-Tier Page Optimization (Day 2)
+
+### Method
+Pulled **fresh per-page Rybbit engagement** (last 100 sessions, site `d5b63e065e9d`) for the 13 highest-traffic pages, then applied **targeted enhancement** (not full rewrites) via **3 parallel minimax-m3 subagents** on Ollama Cloud, each with detailed per-page instructions (search intent + live analytics + specific fixes). Every output passed an automated verifier (frontmatter preserved, shortcode pairs balanced, internal links not dropped, FAQ-schema present) and a full link-existence scan.
+
+### Live Analytics That Drove Priorities (Rybbit, last 100 sessions)
+Critical (100% bounce): leak-indicator (10s), CCF (16s), taxes/fees (20s), deposit (12s), **hub page utility-bills-costs-explained (0s)**, lower-electric-no-solar (20s). The day-1 CCF "fix" had NOT stuck — still 100% — because it was definition-first, not diagnosis-first.
+
+### Per-Page Changes (words before → after)
+| Page | Live data | Key change | Words |
+|------|-----------|------------|-------|
+| what-is-ccf-on-a-water-bill | 100% / 16s | Lead QA with "is mine normal?" + leak signal; fixed literal `**` in `<li>`/`<td>` + raw-MD link in HTML | 1400→1638 |
+| water-meter-leak-indicator | 100% / 10s | Removed "problem" narrative; answer-first QA + 60-sec test up top | 1560→1754 |
+| 25-taxes-fees-franchise | 100% / 20s | Added answer-first Quick Answer (was missing) + FAQ + FAQ-schema | 2198→2301 |
+| 26-utility-deposit | 100% / 12s | Dollar-range QA + deposit table + FAQ-schema | 2557→2652 |
+| lower-electric-no-solar | 100% / 20s | Killed "Introduction"; deepened 12 methods substantially | 1295→2759 |
+| utility-bills-costs-explained (HUB) | 100% / 0s | Added answer-first intro + pillar links + jump link; FAQ-schema | 2289→2496 |
+| 28-reconnection-fee | 77% / 244s (top traffic) | Sharpened QA + FAQ-schema (was missing) + cross-sell | 2229→2291 |
+| 23-billing-cycle | 83% / 23s | Strengthened QA + contextual links + FAQ-schema | 2178→2431 |
+| water-meter-running | 75% / 527s | Converted plain-text FAQ → shortcode + schema; removed "Conclusion" | 2721→2588 |
+| 30-spike-electric | 75% / 140s | Sharpened QA to surface top-3 causes | 3709→4142 |
+| sewer-charges | 67% / 1485s | Light touch: tightened QA + cross-links | 1439→1471 |
+| 05-lower-utility-bills | 33% / 298s (best) | Very light polish only | 1978→2002 |
+| electric-bill-breakdown | 67% / 297s, 7.7 pv | Light polish | 1400→1611 |
+| **Total** | | | **26,953 → 30,136** |
+
+### Universal Patterns Applied
+- **Answer-first hooks**: every page's primary question answered in the first 1–2 sentences with the key number bolded (directly targets the <20s bounce pages).
+- **FAQ + FAQ-schema**: 4 pages that lacked it (reconnection, billing-cycle, taxes/fees, hub) now emit `FAQPage` JSON-LD; FAQ where plain-text converted to the `{{< faq >}}` shortcode. Verified schema renders in built HTML.
+- **Broken-markdown fixes**: CCF's literal `**` inside HTML lists/tables and a raw-Markdown link inside an HTML `<p>` (wouldn't have rendered) — both corrected.
+- **AI-pattern removal**: "Furthermore", "Additionally", "In conclusion", etc. removed.
+
+### Link Integrity (post-enhancement)
+Comprehensive scan of every internal link across all 13 files against the real content tree. **3 model-introduced broken links caught and repointed** to real slugs: `heating-and-cooling-explained` → `heating-cooling-explained` (hub); `how-to-read-electric-bill` → `01-how-to-read-your-electric-bill` (spike); `how-to-lower-your-water-bill` → `44-how-to-lower-water-bill` (sewer). 1 dropped pillar link (`electricity-explained`) restored on lower-electric-no-solar. **Final: 0 broken internal links.**
+
+### Verification
+- ✅ Hugo build: 547 pages, 0 errors, 636ms
+- ✅ FAQPage JSON-LD schema confirmed in rendered HTML on all pages
+- ✅ Zero literal `**` rendering artifacts in `<li>`/`<td>`
+- ✅ Zero broken internal links
+- ✅ Frontmatter (title/slug/date/author/image) preserved on all 13
+
+### Still TODO This Session
+- Regenerate AI-slop hero + inline images on these pages via Magica GPT Image 2.
+- Deploy to production (pending go-ahead) + resubmit sitemap.

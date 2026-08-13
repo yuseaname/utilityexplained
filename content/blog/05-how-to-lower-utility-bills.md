@@ -11,7 +11,7 @@ keywords: ["how to lower utility bills", "reduce electric bill", "save on utilit
 image: "/images/articles/05-how-to-lower-utility-bills/custom_hero.webp"
 ---
 
-You can cut your utility bills by 20-40% without sacrificing comfort. Here are 25 proven strategies, ranked by savings potential, with actual numbers.
+You can cut your utility bills by **20–40%** without sacrificing comfort. The biggest savings come from your HVAC setpoint, water heater temperature, switching to LEDs, sealing air leaks, and shifting usage to off-peak hours. Here are 25 proven strategies, ranked by savings potential, with actual dollar amounts.
 
 ## Quick Answer: What Actually Lowers Utility Bills?
 

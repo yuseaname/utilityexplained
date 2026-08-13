@@ -13,10 +13,14 @@ image: "/images/articles/electric-bill-breakdown-understanding-line-items/electr
 
 ## Quick Answer
 
-**Your electric bill contains 5-7 line items: Service Charge ($10-25 fixed), Energy Charge (usage × rate $0.08-0.15/kWh), Distribution/Transmission fees ($0.02-0.05/kWh), Regulatory/Environmental fees ($0.005-0.02/kWh), and Taxes (5-8%).**
+**Your electric bill comes down to four numbers: your kWh × the supply rate, delivery/distribution charges, the fixed customer charge, and taxes/surcharges.** Supply and delivery together make up the bulk — typically **70–80% of your total bill**.
 
-- **Fact:** Delivery and transmission charges can add 30-50% on top of base energy costs
-- **Action:** Compare your "Energy Charge" month-over-month to track real usage changes vs. rate increases
+- **Energy/Supply charge:** kWh × rate, usually **8–15¢/kWh** (the single biggest line)
+- **Delivery + transmission:** poles, wires, transformers — often adds **30–50%** on top of base energy costs
+- **Customer charge:** a flat **$5–$25/month**, paid even when usage is near zero
+- **Taxes + surcharges:** small lines that together add **5–10%** to the total
+
+**Tip:** Compare your "Energy Charge" month-over-month — that tells you whether a jump came from more usage or a rate change.
 
 For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
@@ -55,7 +59,12 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
 <p>
               The supply (or energy) charge is the part most people recognize: it is
               the electricity itself. It is usually calculated as:
-              <strong> kWh x supply rate</strong>.
+              <strong> kWh × supply rate</strong> — and it is normally the single
+              largest line on the bill.
+            </p>
+<p>
+              <strong>Worked example:</strong> 900 kWh × 12¢/kWh =
+              <strong>$108</strong> for the supply portion of the bill.
             </p>
             <p>
               Some utilities call this an "energy charge." Some regions allow a
@@ -76,13 +85,21 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             <p>
               Delivery can include both a fixed portion and a usage-based portion.
               That is why two households with the same kWh can still see different
-              totals depending on their rate plan.
+              totals depending on their rate plan. In most regions, delivery plus
+              transmission add another <strong>30–50% on top of the supply
+              cost</strong>.
+            </p>
+            <p>
+              <strong>Worked example:</strong> on that same 900 kWh, a
+              <strong>4¢/kWh</strong> delivery + transmission line adds about
+              <strong>$36</strong> to the bill.
             </p>
 
 <h2 id="fixed-fees">Fixed customer charges: why you get a bill even with low usage</h2>
 <p>
               Many bills include a monthly customer charge (sometimes called a basic
-              service fee). This is a flat amount that does not depend on kWh.
+              service fee). This is a flat amount — typically
+              <strong>$5–$25/month</strong> — that does not depend on kWh.
             </p>
             <p>
               This fee helps cover account setup, billing, customer service, and
@@ -90,14 +107,15 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             </p>
             <p>
               This is also why reducing usage might lower your bill, but not all the
-              way to zero.
+              way to zero. On a low-usage month, the customer charge can easily be
+              <strong>20–40% of the total</strong>.
             </p>
 
 <h2 id="taxes-surcharges">Taxes and surcharges: small lines that add up</h2>
 <p>
               You may see extra lines for taxes, local franchise fees, regulatory
               charges, or public benefit programs. Individually they can look minor,
-              but together they can noticeably change the total.
+              but together they typically add <strong>5–10%</strong> to the total.
             </p>
             <p>
               If you are budgeting, it helps to think of these as part of the "real
@@ -125,7 +143,9 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
 <h2 id="estimated">Estimated readings and true-ups: a common source of surprises</h2>
 <p>
               A sudden "out of nowhere" bill can happen when one bill was estimated
-              low and the next bill corrects it after an actual meter reading.
+              low and the next bill corrects it after an actual meter reading. A
+              single true-up can shift a bill by <strong>10–20%</strong> in either
+              direction.
             </p>
             <p>
               If you want to verify readings yourself, see
@@ -179,6 +199,12 @@ Rate changes, time-of-use timing, more billing days, higher delivery charges, ta
 {{< faq "What should I check first if my bill seems wrong?" >}}
 
 Check the billing period length, whether the bill was estimated, the total kWh, and the rate per kWh. Those four items explain most surprises.
+
+{{< /faq >}}
+
+{{< faq "What line items are most likely to be wrong on my bill?" >}}
+
+The most common errors show up as an estimated-reading true-up, a duplicate customer charge, a demand charge on a residential account, or a sudden fuel adjustment. If any of those appear, call your utility and ask for an itemized review.
 
 {{< /faq >}}
 

@@ -13,13 +13,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
 
 <h2 id="quick-answer">Quick Answer</h2>
 <p>
-              <strong>Sewer charges pay for collecting and treating the water that leaves your home.</strong>
-              Most residential sewer bills are based on your water usage (often
-              measured in [CCF](/blog/what-is-ccf-on-a-water-bill/)), a <strong>"winter average"</strong> (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a flat monthly fee. Sewer can
-              cost <em>more</em> than water because wastewater treatment is expensive
-              and carries large fixed costs. You usually cannot remove the fixed fee,
-              but you <em>can</em> often lower the usage-based part by <strong>fixing leaks</strong> — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so <strong>check this first</strong>
-              and cutting indoor water use.
+              <strong>Most residential sewer bills are calculated one of three ways:</strong> a <strong>usage-based</strong> charge tied to your measured water use (often shown in [CCF](/blog/what-is-ccf-on-a-water-bill/) or gallons), a <strong>"winter average"</strong> (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a <strong>flat monthly fee</strong>. Sewer charges pay to collect and treat the water that leaves your home, and they often cost <em>more</em> than water because wastewater treatment is expensive and carries large fixed costs. You usually can't remove the fixed fee, but you can often lower the usage-based part by <strong>fixing leaks</strong> — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so check that first.
             </p>
 
 <h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>
@@ -123,7 +117,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
 <h2 id="leaks-matter">Why leaks can raise both water and sewer</h2>
 <p>
               Here's the part that surprises people: if sewer is tied to your water
-              usage, a leak can inflate sewer charges too--even if the leak never
+              usage, a leak can inflate sewer charges too — even if the leak never
               "reaches" the treatment plant.
             </p>
             <p>
@@ -138,7 +132,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
 <h2 id="reduce-sewer">Can you reduce your sewer charge?</h2>
 <p>
               The honest answer is: partly. The <strong>fixed/base fee</strong>
-              usually cannot be lowered--it covers pipes, pumps, and treatment plants
+              usually cannot be lowered — it covers pipes, pumps, and treatment plants
               that run whether you use water or not. But the
               <strong>usage-based part</strong> is something you can influence.
             </p>
@@ -152,14 +146,16 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               <li>
                 <strong>Know your billing method.</strong> If your utility uses winter
                 averaging, heavy summer watering will not raise sewer. If sewer is
-                tied to <em>all</em> usage, it will--and a separate irrigation meter
+                tied to <em>all</em> usage, it will — and a separate irrigation meter
                 may be worth asking about.
               </li>
               <li>
                 <strong>Trim indoor usage.</strong> Less water in means less water
                 billed out. Compare your household to the
                 <a href="/blog/average-water-usage-per-person">average water usage
-                per person</a> to see whether you have room to cut.
+                per person</a> to see whether you have room to cut, then work through
+                our <a href="/blog/44-how-to-lower-water-bill/">guide to lowering your water bill</a>
+                for the highest-impact changes.
               </li>
               <li>
                 <strong>Check for a separate stormwater line.</strong> Some of what
@@ -183,7 +179,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               </li>
               <li>
                 <strong>"If my water is low, sewer should be $0."</strong> Sewer often
-                has fixed infrastructure costs, so there's usually a base fee--just
+                has fixed infrastructure costs, so there's usually a base fee — just
                 like the <a href="/blog/water-service-charge-explained">water service
                 charge</a> you pay even with low usage.
               </li>
@@ -209,7 +205,7 @@ Winter average is a method where your utility averages water usage during winter
 
 {{< faq "Can a leak increase my sewer bill too?" >}}
 
-Yes. If your utility ties sewer charges to your water usage, extra water recorded by the meter can raise both water and sewer charges--even if the leak is silent.
+Yes. If your utility ties sewer charges to your water usage, extra water recorded by the meter can raise both water and sewer charges — even if the leak is silent.
 
 {{< /faq >}}
 

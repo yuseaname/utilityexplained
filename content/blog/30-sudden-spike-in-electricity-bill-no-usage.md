@@ -11,26 +11,38 @@ keywords: ["sudden spike in electricity bill", "electric bill spike no change in
 image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
 ---
 
-Last month's electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
+## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
 
-## Quick Answer: Why Did My Bill Spike?
+A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:
 
-In roughly 90% of cases, a sudden spike with no usage change comes down to one of these causes. Check them in order from fastest to hardest to fix:
+1. **A longer billing period or estimated reading.** A 28-day bill followed by a 34-day bill adds <strong>~21%</strong> more days of usage. A corrected "EST" reading can lump two months of charges into one bill.
+2. **A rate increase.** A fuel adjustment, seasonal shift, or new rate schedule can raise your per-kWh cost by 10%–25% with no usage change at all.
+3. **Weather or HVAC working harder.** A heat wave, a refrigerant leak, a clogged filter, or a heat pump stuck on emergency heat can double or triple your consumption without you changing a single habit.
+4. **A malfunctioning appliance.** A water heater element, a running well pump, an old garage fridge, or a continuously cycling pool pump can quietly add <strong>300–500 kWh</strong> per month (roughly $40–$75).
+5. **A meter error or cross-billing.** Rare, but real — and worth ruling out if nothing above fits.
 
-| # | Likely Cause | How to Check | Time to Fix |
-|---|-------------|--------------|-------------|
+**Start here:** Grab your current bill and last month's bill. In about 10 minutes you can rule out causes #1, #2, and #5 without leaving your kitchen. The 12-step investigation below walks through each cause in order, with dollar amounts, examples, and the exact action to take for each.
+
+---
+
+Last month's electric bill was <strong>$135</strong>. This month it is <strong>$340</strong>. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A <strong>150% increase</strong> with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
+
+## The Top 10 Causes at a Glance
+
+| # | Likely Cause | How to Check | Typical Time to Fix |
+|---|-------------|--------------|---------------------|
 | 1 | **Longer billing period** (28 vs 34 days) | Compare service dates on this bill vs. last | Instant |
 | 2 | **Estimated meter reading** corrected upward | Look for "EST" or "Estimated" on your bill | 1 phone call |
 | 3 | **Rate increase** (fuel adjustment, seasonal, or new TOU plan) | Compare per-kWh rate to last year's same month | Instant |
 | 4 | **Hidden fees or rider charges** added or increased | Line-item review of the charges section | 1 phone call |
 | 5 | **Demand charges** (some commercial and a few residential plans) | Look for a "demand" or "kW" line item | Rate plan change |
 | 6 | **HVAC malfunction** (refrigerant leak, clogged filter, emergency heat) | Check airflow, filter, and cooling performance | Service call |
-| 7 | **Water heater failure** (bad element, sediment, leak) | Check for leaks, temperature setting, recovery time | Repair/replacement |
-| 8 | **Meter error** | Read meter yourself daily for a week and compare | 1–2 weeks |
-| 9 | **Phantom or new load** (old fridge, space heater, EV, pool pump) | Circuit-by-circuit breaker test | 1 hour |
-| 10 | **Cross-billing / wrong meter** | Verify meter number on bill matches your physical meter | 1 phone call |
+| 7 | **Water heater failure** (bad element, sediment, leak) | Check for leaks, temperature setting, recovery time | Repair or replacement |
+| 8 | **Phantom or new load** (old fridge, space heater, EV, pool pump) | Circuit-by-circuit breaker test | 1 hour |
+| 9 | **Meter error** | Read meter yourself daily for a week and compare | 1–2 weeks |
+| 10 | **Cross-billing or wrong meter** | Verify meter number on bill matches your physical meter | 1 phone call |
 
-> **Start here:** Grab your current bill and last month's bill. In 10 minutes you can rule out causes #1–#5 without leaving your kitchen. Detailed instructions for each follow below.
+> **Start here:** In roughly 10 minutes you can rule out causes #1–#5 with just your last two bills in hand. Detailed instructions for each follow below.
 
 ## Step 1: Verify the Bill Is Correct
 
@@ -44,15 +56,17 @@ Before investigating your usage, verify that the bill itself is accurate. Check 
 
 **Rate schedule:** Verify you are on the correct rate plan. A recent rate case or system change may have moved you to a different (more expensive) rate schedule without notification.
 
-**Hidden fees and rider charges:** Scan the charges section of your bill line by line. Utilities sometimes add or increase rider charges — transmission riders, distribution riders, energy efficiency surcharges, or "customer charge" increases — that are easy to overlook because they are small per-kWh adders that compound across a month of usage. A 0.5¢/kWh rider increase on 1,200 kWh is $6/month you may not have noticed in previous months.
+**Hidden fees and rider charges:** Scan the charges section of your bill line by line. Utilities sometimes add or increase rider charges — transmission riders, distribution riders, energy efficiency surcharges, or "customer charge" increases — that are easy to overlook because they are small per-kWh adders that compound across a month of usage. A <strong>0.5¢/kWh</strong> rider increase on 1,200 kWh is <strong>$6/month</strong> you may not have noticed in previous months.
 
 If any of these elements are wrong, call the utility's billing department immediately and request a correction. Most utilities will investigate and correct verified billing errors within one to two billing cycles, applying a credit to your next bill.
 
 ## Step 2: Check the Billing Period Length
 
-Billing periods vary from 28 to 34 days. A longer billing period means more days of usage and a higher bill, even if your daily consumption is unchanged.
+Billing periods vary from <strong>28 to 34 days</strong>. A longer billing period means more days of usage and a higher bill, even if your daily consumption is unchanged.
 
-Compare the service period dates on your current bill to the previous month's bill. If last month covered 28 days and this month covers 34 days, that is a 21% increase in the number of billing days — which would account for a significant portion of a bill increase.
+Compare the service period dates on your current bill to the previous month's bill. If last month covered 28 days and this month covers 34 days, that is a <strong>21% increase</strong> in the number of billing days — which would account for a significant portion of a bill increase.
+
+**Worked example:** If your average daily usage is 40 kWh at 15¢/kWh, your bill should be roughly $168 for a 28-day period and $204 for a 34-day period. That $36 difference is billing-period math, not behavior change.
 
 Calculate your average daily usage by dividing total kWh by the number of days in the service period. This normalizes for period length and gives you a comparable number across months. If your daily usage is the same but the total bill is higher, the spike is explained by the billing period.
 
@@ -60,7 +74,7 @@ Calculate your average daily usage by dividing total kWh by the number of days i
 
 Rate changes are one of the most overlooked causes of sudden bill increases. Utilities can and do change their rates, sometimes with minimal notification buried in the fine print of your bill.
 
-Compare the per-kWh rate on your current bill to the same month last year. If the rate has increased from 12 cents to 15 cents per kWh, that alone would cause a 25% bill increase even with identical usage.
+Compare the per-kWh rate on your current bill to the same month last year. If the rate has increased from 12¢ to 15¢ per kWh, that alone would cause a <strong>25% bill increase</strong> even with identical usage.
 
 Rate increases happen through several mechanisms:
 
@@ -74,13 +88,13 @@ Rate increases happen through several mechanisms:
 
 Even if you feel like your habits have not changed, weather can dramatically affect your electricity consumption without you realizing it:
 
-**Heat waves:** A 10-day stretch of temperatures above 95°F can double your air conditioning usage compared to a month with temperatures in the 80s. Your thermostat setting may be the same, but the AC runs longer and harder to maintain it.
+**Heat waves:** A <strong>10-day stretch above 95°F</strong> can double your air conditioning usage compared to a month with temperatures in the 80s. Your thermostat setting may be the same, but the AC runs longer and harder to maintain it.
 
 **Cold snaps:** Electric heating (heat pumps, electric baseboard, space heaters) responds similarly to cold. A week of temperatures below 20°F can triple heating-related electricity consumption.
 
 **Humidity:** High humidity makes air conditioners work harder because they must remove moisture in addition to cooling the air. A humid August month can produce significantly higher AC energy use than a dry August.
 
-Compare your bill month to the same month last year, but also compare it to the actual weather data. The National Weather Service and most local news sites publish heating degree days (HDD) and cooling degree days (CDD), which measure how much heating or cooling was needed. If this month had 50% more CDD than last year, a proportional increase in your bill is expected.
+Compare your bill month to the same month last year, but also compare it to the actual weather data. The National Weather Service and most local news sites publish heating degree days (HDD) and cooling degree days (CDD), which measure how much heating or cooling was needed. If this month had <strong>50% more CDD</strong> than last year, a proportional increase in your bill is expected.
 
 ## Step 5: Check for Estimated Meter Readings
 
@@ -89,7 +103,6 @@ If your bill says "Estimated" or "EST" next to the meter reading, the utility di
 Estimated readings can produce spikes for two reasons:
 
 1. **The estimate was too high:** The utility overestimated your usage, and you are being overcharged. The next actual reading will correct this with a credit.
-
 2. **The previous month was underestimated:** Your current bill may include a "catch-up" for a prior month where the estimate was too low. The current month shows normal usage plus the undercharged amount from last month.
 
 If you see an estimated reading, call the utility and request an actual meter reading. Most will send a technician within a few business days. You can also read the meter yourself and provide the reading to the utility for an immediate recalculation. For a deeper explanation of how estimated billing works and why it causes spikes, read our guide on [estimated utility bills](/blog/14-estimated-utility-bill-explained/).
@@ -98,37 +111,37 @@ If you see an estimated reading, call the utility and request an actual meter re
 
 HVAC problems are the single most common cause of legitimate usage spikes:
 
-**Dirty air filter:** A clogged air filter forces your AC or furnace to work 15% to 30% harder, consuming significantly more electricity. Replace your filter every 1 to 3 months.
+**Dirty air filter:** A clogged air filter forces your AC or furnace to work <strong>15% to 30% harder</strong>, consuming significantly more electricity. Replace your filter every 1 to 3 months.
 
-**Refrigerant leak:** If your AC system is low on refrigerant, it runs much longer to achieve the same cooling, increasing energy consumption by 30% to 50%. Signs include reduced cooling performance, ice on the outdoor unit, and a hissing sound.
+**Refrigerant leak:** If your AC system is low on refrigerant, it runs much longer to achieve the same cooling, increasing energy consumption by <strong>30% to 50%</strong>. Signs include reduced cooling performance, ice on the outdoor unit, and a hissing sound.
 
-**Duct leaks:** Leaky ductwork can lose 20% to 30% of conditioned air before it reaches your living spaces, forcing your system to run longer to compensate.
+**Duct leaks:** Leaky ductwork can lose <strong>20% to 30%</strong> of conditioned air before it reaches your living spaces, forcing your system to run longer to compensate.
 
 **Failed compressor components:** A failing compressor motor draws more current than a healthy one. If your AC is 10+ years old, compressor inefficiency may be silently increasing your energy use.
 
 **Thermostat malfunction:** A thermostat that reads incorrectly (reading 72°F when the actual temperature is 78°F) will cause your HVAC system to run unnecessarily.
 
-**Heat pump emergency heat:** If your heat pump's outdoor unit fails and the system switches to emergency electric resistance heat, your heating costs can increase by 200% to 300%. Emergency heat uses electric resistance coils that consume 3 to 5 times more energy than the heat pump's normal operation.
+**Heat pump emergency heat:** If your heat pump's outdoor unit fails and the system switches to emergency electric resistance heat, your heating costs can increase by <strong>200% to 300%</strong>. Emergency heat uses electric resistance coils that consume 3 to 5 times more energy than the heat pump's normal operation.
 
-If you suspect an HVAC issue, schedule a professional inspection. The cost of a service call ($100–$200) is usually recovered within one or two months of lower energy bills after the repair.
+If you suspect an HVAC issue, schedule a professional inspection. The cost of a service call (<strong>$100–$200</strong>) is usually recovered within one or two months of lower energy bills after the repair.
 
 ## Step 7: Look for Phantom Appliances or New Loads
 
 Sometimes the cause is an appliance you forgot about or one that started malfunctioning:
 
-**Second refrigerator or freezer:** An old, inefficient refrigerator in the garage can consume 100–200 kWh per month, adding $15–$30 to your bill. If it is running more because of summer heat, the cost increases.
+**Second refrigerator or freezer:** An old, inefficient refrigerator in the garage can consume <strong>100–200 kWh per month</strong>, adding <strong>$15–$30</strong> to your bill. If it is running more because of summer heat, the cost increases.
 
-**Space heaters:** A single 1,500-watt space heater running 8 hours per day adds approximately 360 kWh per month — roughly $40–$60. If multiple heaters are in use, the cost compounds rapidly.
+**Space heaters:** A single <strong>1,500-watt</strong> space heater running 8 hours per day adds approximately <strong>360 kWh per month</strong> — roughly $40–$60. If multiple heaters are in use, the cost compounds rapidly.
 
-**Electric water heater issues:** If the heating element or thermostat in your electric water heater fails, the unit may run continuously, consuming 300–500 kWh per month more than normal.
+**Electric water heater issues:** If the heating element or thermostat in your electric water heater fails, the unit may run continuously, consuming <strong>300–500 kWh per month</strong> more than normal.
 
 **Well pump:** If your home has a well, a failing well pump or a leak in the pressure tank can cause the pump to cycle on and off continuously, drawing significant power.
 
-**Dehumidifier:** A basement dehumidifier running continuously in humid months can consume 200–400 kWh per month.
+**Dehumidifier:** A basement dehumidifier running continuously in humid months can consume <strong>200–400 kWh per month</strong>.
 
-**Pool equipment:** A pool pump running 24/7 instead of the recommended 4–8 hours can waste 300–500 kWh per month. A pool heater adds even more.
+**Pool equipment:** A pool pump running 24/7 instead of the recommended 4–8 hours can waste <strong>300–500 kWh per month</strong>. A pool heater adds even more.
 
-**Charging an electric vehicle:** If someone in the household started charging an EV, consumption increases by 250–500 kWh per month depending on driving habits and charging efficiency.
+**Charging an electric vehicle:** If someone in the household started charging an EV, consumption increases by <strong>250–500 kWh per month</strong> depending on driving habits and charging efficiency.
 
 > **Tip:** A faulty appliance that runs continuously is the most common hidden cause of a usage spike. Smart plugs can help you identify and eliminate standby power waste — see our [best smart plugs for standby power](/blog/50-best-smart-plugs-standby-power/) to monitor individual devices.
 
@@ -136,13 +149,13 @@ Sometimes the cause is an appliance you forgot about or one that started malfunc
 
 Electric water heaters are the second-largest energy consumer in most homes (after HVAC). Common issues that cause spikes:
 
-**Leaking hot water:** A dripping hot water faucet or running toilet can waste hundreds of gallons of hot water per month. Each gallon heated from 50°F to 120°F requires approximately 0.15 kWh. A leak of 100 gallons per day wastes 15 kWh per day or 450 kWh per month — about $55–$75.
+**Leaking hot water:** A dripping hot water faucet or running toilet can waste hundreds of gallons of hot water per month. Each gallon heated from 50°F to 120°F requires approximately <strong>0.15 kWh</strong>. A leak of 100 gallons per day wastes 15 kWh per day or <strong>450 kWh per month</strong> — about $55–$75.
 
-**Failed lower element:** In a dual-element electric water heater, if the lower element fails, the upper element alone must heat the entire tank. This causes the upper element to run twice as long, increasing consumption by 30% to 50%.
+**Failed lower element:** In a dual-element electric water heater, if the lower element fails, the upper element alone must heat the entire tank. This causes the upper element to run twice as long, increasing consumption by <strong>30% to 50%</strong>.
 
-**Sediment buildup:** Over years of use, mineral sediment accumulates at the bottom of the tank, insulating the heating element from the water. The heater must run longer to heat through the sediment layer, reducing efficiency by 10% to 25%.
+**Sediment buildup:** Over years of use, mineral sediment accumulates at the bottom of the tank, insulating the heating element from the water. The heater must run longer to heat through the sediment layer, reducing efficiency by <strong>10% to 25%</strong>.
 
-**Thermostat set too high:** Each 10°F reduction in water heater temperature saves approximately 3% to 5% on water heating costs. If your thermostat is set to 140°F (the factory default) instead of the recommended 120°F, you are wasting 6% to 10% on water heating.
+**Thermostat set too high:** Each 10°F reduction in water heater temperature saves approximately <strong>3% to 5%</strong> on water heating costs. If your thermostat is set to 140°F (the factory default) instead of the recommended 120°F, you are wasting 6% to 10% on water heating.
 
 ## Step 9: Investigate Possible Meter Malfunctions
 
@@ -156,7 +169,7 @@ Meter malfunctions are rare but do happen. Smart meters (AMI meters) can occasio
 
 If you suspect a meter malfunction, you can:
 
-1. **Request a meter test:** Most utilities will test your meter for free or a small fee ($5–$25). The utility removes the meter, tests it in their lab, and replaces it with a tested meter.
+1. **Request a meter test:** Most utilities will test your meter for free or a small fee (<strong>$5–$25</strong>). The utility removes the meter, tests it in their lab, and replaces it with a tested meter.
 2. **Monitor your own usage:** Track your daily meter readings for a week and compare them to the utility's reported daily usage. If there is a consistent discrepancy, the meter may be faulty.
 3. **File a complaint with the PUC:** If the utility refuses to test the meter or you disagree with the results, your state public utility commission can order an independent test.
 
@@ -172,7 +185,7 @@ Internal electrical problems in your home can cause significant energy waste:
 
 **Aluminum wiring:** Homes built between 1965 and 1975 may have aluminum branch circuit wiring, which is prone to loose connections and overheating. These loose connections create resistance, waste energy, and pose fire hazards.
 
-If you suspect an electrical problem, have a licensed electrician perform an inspection. An electrical inspection typically costs $100–$300 and can identify problems that save far more in energy costs and prevent potential fires.
+If you suspect an electrical problem, have a licensed electrician perform an inspection. An electrical inspection typically costs <strong>$100–$300</strong> and can identify problems that save far more in energy costs and prevent potential fires.
 
 ## Step 11: Neighbor or Cross-Billing Issues
 
@@ -194,7 +207,7 @@ If you have ruled out all usage-related causes and believe the bill is in error,
 
 2. **Request a meter test and account audit:** Ask the utility to verify your meter number, test the meter, and audit your account for errors.
 
-3. **Escalate to the public utility commission:** If the utility does not resolve the issue within 30 days (or sooner in emergency situations), file a complaint with your state PUC. PUC complaints are taken seriously, and utilities are required to respond within specified timelines.
+3. **Escalate to the public utility commission:** If the utility does not resolve the issue within <strong>30 days</strong> (or sooner in emergency situations), file a complaint with your state PUC. PUC complaints are taken seriously, and utilities are required to respond within specified timelines.
 
 4. **Document everything:** Keep copies of all bills, correspondence, meter readings, and technician reports. This documentation is essential if the dispute escalates.
 
@@ -206,7 +219,7 @@ To systematically investigate a usage spike, conduct a home electricity audit:
 
 2. **Perform a circuit-by-circuit test:** Turn off all breakers except one. Wait 15 minutes and read the meter. The difference from zero represents the consumption of that circuit. Repeat for each circuit. This identifies which circuit is consuming the most power.
 
-3. **Use a Kill A Watt meter:** Plug individual appliances into a Kill A Watt meter ($25–$40) to measure their actual consumption. Test refrigerators, freezers, space heaters, and any device you suspect may be malfunctioning.
+3. **Use a Kill A Watt meter:** Plug individual appliances into a Kill A Watt meter (<strong>$25–$40</strong>) to measure their actual consumption. Test refrigerators, freezers, space heaters, and any device you suspect may be malfunctioning.
 
 4. **Check your utility's online dashboard:** Most utilities with smart meters offer a usage dashboard showing hourly or daily consumption data. Look for patterns — a sudden increase in overnight usage, for example, could indicate a malfunctioning appliance.
 
@@ -216,12 +229,12 @@ To systematically investigate a usage spike, conduct a home electricity audit:
 
 Diagnosing the spike is half the battle. Once you know what went wrong, the next step is bringing your bill down and preventing it from happening again:
 
-- **If it was an HVAC issue:** Repairs plus a programmable or smart thermostat can cut 10–23% off heating and cooling costs.
+- **If it was an HVAC issue:** Repairs plus a programmable or smart thermostat can cut <strong>10%–23%</strong> off heating and cooling costs.
 - **If it was a rate change:** Compare providers, check time-of-use plans, and make sure you are on the cheapest rate for your usage pattern.
 - **If it was a phantom load:** Eliminate standby waste with smart plugs and power strips.
 - **If it was a billing error:** It should be corrected going forward — but review every bill carefully from now on.
 
-For 25 actionable strategies ranked by savings — from free quick wins to long-term investments — see our complete guide on [how to lower your utility bills](/blog/05-how-to-lower-utility-bills/). For a broader look at why bills run high in the first place, see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
+For 25 actionable strategies ranked by savings — from free quick wins to long-term investments — see our complete guide on [how to lower your utility bills](/blog/05-how-to-lower-utility-bills/). For a broader look at why bills run high in the first place, see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/). For help decoding charges after you find them, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
 ## Frequently Asked Questions
 
@@ -230,19 +243,27 @@ The most common causes are a rate increase, a longer billing period, an estimate
 {{< /faq >}}
 
 {{< faq "How do I know if my electric meter is broken?" >}}
-The most reliable test is to record your meter reading daily for one week and calculate your daily usage. Compare this to your billed daily usage. If your recorded daily usage is consistently and significantly lower than what the utility is billing, request a meter test. Most utilities will test your meter for free.
+The most reliable test is to record your meter reading daily for one week and calculate your daily usage. Compare this to your billed daily usage. If your recorded daily usage is consistently and significantly lower than what the utility is billing, request a meter test. Most utilities will test your meter for free or for a small fee (typically $5–$25).
 {{< /faq >}}
 
 {{< faq "Can an estimated reading cause a bill spike?" >}}
-Yes. If the previous month's reading was underestimated, the current month will include a "true-up" that adds the under-billed amount to your current bill, creating an apparent spike. Check for "EST" or "Estimated" on your bill and compare previous readings.
+Yes. If the previous month's reading was underestimated, the current month will include a "true-up" that adds the under-billed amount to your current bill, creating an apparent spike. Check for "EST" or "Estimated" on your bill and compare previous readings. You can also read your meter yourself and submit the reading to avoid future estimates.
 {{< /faq >}}
 
 {{< faq "What appliance causes the biggest unexpected electricity spike?" >}}
-HVAC system malfunctions are the most common cause of large usage spikes. A heat pump running on emergency electric heat, an AC with a refrigerant leak, or a furnace with a failed component can double or triple your electricity consumption. Water heater issues and malfunctioning pool pumps are the next most common causes.
+HVAC system malfunctions are the most common cause of large usage spikes. A heat pump running on emergency electric heat, an AC with a refrigerant leak, or a furnace with a failed component can double or triple your electricity consumption. Water heater issues and malfunctioning pool pumps are the next most common causes, often adding 300–500 kWh per month.
 {{< /faq >}}
 
 {{< faq "How do I dispute an incorrect electric bill?" >}}
-Contact your utility in writing describing the error and requesting an investigation. Request a meter test and account audit. If the utility does not resolve the issue to your satisfaction, file a formal complaint with your state public utility commission. Keep records of all communication, meter readings, and bills throughout the process.
+Contact your utility in writing describing the error and requesting an investigation. Request a meter test and account audit. If the utility does not resolve the issue to your satisfaction within 30 days, file a formal complaint with your state public utility commission. Keep records of all communication, meter readings, and bills throughout the process.
+{{< /faq >}}
+
+{{< faq "Can the weather really double my electric bill with no usage change on my end?" >}}
+Yes. A 10-day heat wave above 95°F can roughly double AC runtime compared to a mild month, even if you never touch the thermostat. Electric heat is even more sensitive — a cold snap below 20°F can triple heating-related consumption. Compare this month's cooling or heating degree days to the same month last year before assuming something inside your home broke.
+{{< /faq >}}
+
+{{< faq "How long does it take to get a billing error corrected?" >}}
+Most utilities investigate and resolve verified billing errors within one to two billing cycles, applying a credit to your next bill. If the utility does not respond within 30 days, you can escalate the complaint to your state public utility commission, which has authority to order corrections and refunds.
 {{< /faq >}}
 
 {{< faq-schema >}}

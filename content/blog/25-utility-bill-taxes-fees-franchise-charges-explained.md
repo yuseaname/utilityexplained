@@ -11,15 +11,15 @@ keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes
 image: "/images/articles/utility-bill-taxes-fees-franchise-charges-explained/image.webp"
 ---
 
-You have already decoded the [delivery and supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) on your utility bill, but scroll down further and you will find a section labeled "Taxes and Surcharges" or "Governmental Charges" that adds another 5% to 15% to your total. These line items — franchise fees, utility taxes, regulatory surcharges, and municipal assessments — are often opaque, confusing, and seemingly impossible to dispute. Here is what each one actually funds, how much they typically cost, and why they appear on your bill.
+## Quick Answer
 
-> **Quick Answer:** Taxes, fees, and franchise charges are government-mandated and regulatory charges that typically add **5% to 15%** to your utility bill. The most common is the **franchise fee** (2%–6%), which your utility pays your city for the right to run wires and pipes through public streets. Other frequent charges include state gross receipts taxes, public benefits charges, and renewable energy surcharges — none of which you can negotiate or dispute individually.
+Taxes, fees, and franchise charges typically add **5% to 15%** to your total utility bill — and in some high-tax states, even more. The **franchise fee**, usually **2% to 6%** of your charges, is the most common one: it is what your city collects from the utility for using public streets and rights-of-way to run wires and pipes, then passes straight through to you on your bill. Other frequent line items include state **gross receipts taxes**, local **utility users taxes**, **public benefits charges**, and **renewable energy surcharges** — none of which you can negotiate individually.
 
-## Overview of Taxes and Fees on Utility Bills
+## Why Are There So Many Taxes and Fees on My Utility Bill?
 
 Utility bills across the United States include a combination of taxes, fees, and surcharges imposed by federal, state, county, and municipal governments, as well as regulatory bodies and the utilities themselves. These charges are not optional, not negotiable, and not controlled by the utility — they are mandated by law and approved through legislative or regulatory processes.
 
-The total tax and fee burden on a typical U.S. residential utility bill ranges from 5% to 15% of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed 15% when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of [hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/).
+The total tax and fee burden on a typical U.S. residential utility bill ranges from **5% to 15%** of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed **15%** when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of [hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/).
 
 These charges are generally calculated in one of three ways:
 
@@ -31,7 +31,7 @@ These charges are generally calculated in one of three ways:
 
 A franchise fee is the single most common local charge on utility bills, appearing in virtually every U.S. municipality. The fee represents the payment a utility makes to a city or county for the right to use public rights-of-way — streets, sidewalks, and alleys — to run their wires, pipes, and other infrastructure.
 
-Franchise fees are authorized by state law and negotiated through franchise agreements between the utility and the local government. They typically range from 2% to 6% of gross utility revenues. On your bill, this translates to roughly $2 to $15 per month depending on your total usage and the local rate.
+Franchise fees are authorized by state law and negotiated through franchise agreements between the utility and the local government. They typically range from **2% to 6%** of gross utility revenues. On your bill, this translates to roughly **$2 to $15 per month** depending on your total usage and the local rate.
 
 Common bill line items that represent franchise fees include:
 
@@ -43,35 +43,35 @@ In some states, franchise fees are explicitly labeled as taxes and appear in the
 
 Franchise fees fund municipal services indirectly — they are general revenue that the city can spend on any public purpose, including road maintenance, parks, police, and fire services. They are not earmarked specifically for utility infrastructure or energy programs.
 
-## State and Local Utility Taxes
+## What State and Local Utility Taxes Appear on My Bill?
 
 Beyond franchise fees, many states and localities impose additional taxes on utility service:
 
-**State Utility Gross Receipts Tax:** Some states tax the utility's total revenue from service. The utility passes this cost through to customers as a surcharge. Examples include Pennsylvania's Gross Receipts Tax (approximately 4.8% on electric) and Ohio's KWH Tax.
+**State Utility Gross Receipts Tax:** Some states tax the utility's total revenue from service. The utility passes this cost through to customers as a surcharge. Examples include Pennsylvania's Gross Receipts Tax (approximately **4.8%** on electric) and Ohio's KWH Tax.
 
 **State Sales Tax on Utility Service:** Most states exempt residential electricity and natural gas from sales tax, but some do not. In Texas, residential electricity is exempt from state sales tax, but in some municipalities, local sales taxes apply. In Nebraska, electricity is subject to state sales tax.
 
-**Local Utility Users Tax (UUT):** Some California cities impose a utility users tax of 1% to 11% on electric, gas, water, and telephone charges. Los Angeles, for example, charges a UUT of approximately 9.5% on electric service, which adds $10–$15 to a typical residential bill.
+**Local Utility Users Tax (UUT):** Some California cities impose a utility users tax of **1% to 11%** on electric, gas, water, and telephone charges. Los Angeles, for example, charges a UUT of approximately **9.5%** on electric service, which adds **$10 to $15** to a typical residential bill.
 
 **Municipal Occupation Tax:** Some cities in Pennsylvania and Ohio impose an occupation tax on utilities operating within their borders, which is passed through as a line-item charge.
 
-## Gross Receipts Tax
+## How Does a Gross Receipts Tax Affect My Utility Bill?
 
 A gross receipts tax (GRT) is a state-level tax on the total revenue of a utility, rather than on its profits. Unlike a corporate income tax, a GRT is charged regardless of whether the utility is profitable. Utilities pass this cost to customers through a dedicated surcharge.
 
-Pennsylvania's electric Gross Receipts Tax is one of the most significant in the nation at approximately 4.8%. For a customer with a $150 monthly electric bill, this adds about $7.20. West Virginia, Virginia, and Maryland also impose gross receipts taxes on utilities, though at lower rates (typically 1% to 3%).
+Pennsylvania's electric Gross Receipts Tax is one of the most significant in the nation at approximately **4.8%**. For a customer with a **$150 monthly electric bill**, this adds about **$7.20**. West Virginia, Virginia, and Maryland also impose gross receipts taxes on utilities, though at lower rates (typically **1% to 3%**).
 
-## Federal and State Regulatory Surcharges
+## What Are Federal and State Regulatory Surcharges?
 
 Regulatory bodies charge utilities for their oversight activities, and utilities pass these costs to customers:
 
-**FERC Charges:** The Federal Energy Regulatory Commission charges fees to fund its operations. These appear on your bill as "FERC" or "FERC-Regulated Charges" and are typically less than $0.50 per month for residential customers.
+**FERC Charges:** The Federal Energy Regulatory Commission charges fees to fund its operations. These appear on your bill as "FERC" or "FERC-Regulated Charges" and are typically less than **$0.50 per month** for residential customers.
 
-**State PUC Assessments:** State public utility commissions charge utilities annual assessments to fund their regulatory activities. These appear as "PUC Assessment" or "Regulatory Charge" and typically add $0.25 to $1.00 per month.
+**State PUC Assessments:** State public utility commissions charge utilities annual assessments to fund their regulatory activities. These appear as "PUC Assessment" or "Regulatory Charge" and typically add **$0.25 to $1.00 per month**.
 
-**Nuclear Regulatory Commission (NRC) Fees:** Customers served by nuclear power plants may see an NRC fee that funds the federal oversight of nuclear safety. This is typically a tiny per-kWh charge, under $0.001/kWh.
+**Nuclear Regulatory Commission (NRC) Fees:** Customers served by nuclear power plants may see an NRC fee that funds the federal oversight of nuclear safety. This is typically a tiny per-kWh charge, under **$0.001/kWh**.
 
-## Public Benefits Charges
+## What Is a Public Benefits Charge?
 
 Public benefits charges fund statewide programs that serve the public interest. These are authorized by state legislation and are administered by the utility or a designated state agency. Common programs funded by public benefits charges include:
 
@@ -80,9 +80,9 @@ Public benefits charges fund statewide programs that serve the public interest. 
 - **Energy efficiency rebates:** Incentives for all customers to purchase efficient appliances, lighting, and HVAC equipment.
 - **Demand response programs:** Compensation for customers who reduce usage during peak demand events.
 
-Public benefits charges typically range from $0.005 to $0.03 per kWh, adding $2 to $12 per month to a typical residential bill. California's Public Purpose Programs charge is one of the highest in the nation, contributing to the state's elevated per-kWh rates.
+Public benefits charges typically range from **$0.005 to $0.03 per kWh**, adding **$2 to $12 per month** to a typical residential bill. California's Public Purpose Programs charge is one of the highest in the nation, contributing to the state's elevated per-kWh rates.
 
-## Renewable Energy Surcharges
+## Why Am I Paying a Renewable Energy Surcharge?
 
 Many states with Renewable Portfolio Standards (RPS) impose surcharges to fund the development of renewable energy resources. These surcharges may be called:
 
@@ -90,11 +90,11 @@ Many states with Renewable Portfolio Standards (RPS) impose surcharges to fund t
 - "Clean Energy Fund Surcharge"
 - "Renewable Energy Certificate (REC) Cost Recovery"
 
-The cost varies significantly by state. Illinois's renewable energy surcharge adds approximately $0.003/kWh. Pennsylvania's Alternative Energy Portfolio Standard surcharge is about $0.0006/kWh. Some states, like Texas, do not impose a statewide renewable surcharge, though individual retail providers may include REC costs in their supply rates.
+The cost varies significantly by state. Illinois's renewable energy surcharge adds approximately **$0.003/kWh**. Pennsylvania's Alternative Energy Portfolio Standard surcharge is about **$0.0006/kWh**. Some states, like Texas, do not impose a statewide renewable surcharge, though individual retail providers may include REC costs in their supply rates.
 
-## Nuclear Decommissioning Charges
+## What Is a Nuclear Decommissioning Charge?
 
-Utilities that own or purchase power from nuclear plants must set aside funds for decommissioning — the process of safely shutting down and dismantling a nuclear facility when it reaches the end of its operational life. Decommissioning a single nuclear plant can cost $500 million to $1 billion or more.
+Utilities that own or purchase power from nuclear plants must set aside funds for decommissioning — the process of safely shutting down and dismantling a nuclear facility when it reaches the end of its operational life. Decommissioning a single nuclear plant can cost **$500 million to $1 billion or more**.
 
 These charges appear on your bill as:
 
@@ -102,9 +102,9 @@ These charges appear on your bill as:
 - "Nuclear Cost Recovery Surcharge"
 - "Plant Decommissioning Cost"
 
-The charge is typically small — $0.50 to $3.00 per month for residential customers — but it can be higher in states with significant nuclear generation like Illinois, Pennsylvania, New York, and South Carolina.
+The charge is typically small — **$0.50 to $3.00 per month** for residential customers — but it can be higher in states with significant nuclear generation like Illinois, Pennsylvania, New York, and South Carolina.
 
-## Universal Service and Low-Income Surcharges
+## Why Am I Paying a Universal Service Surcharge?
 
 Most states fund low-income utility assistance through surcharges on all customers' bills. These are separate from the federal LIHEAP program and are administered at the state level:
 
@@ -113,27 +113,27 @@ Most states fund low-income utility assistance through surcharges on all custome
 - **Pennsylvania:** The Low-Income Usage Reduction Program (LIURP) and Customer Assistance Program (CAP) are funded by customer surcharges.
 - **Texas:** The System Benefit Fund (now largely defunded) previously provided low-income assistance through a per-kWh surcharge.
 
-These charges typically add $0.50 to $2.00 per month for the average residential customer.
+These charges typically add **$0.50 to $2.00 per month** for the average residential customer.
 
-## How Much Do Taxes and Fees Add to Your Bill?
+## How Much Will Taxes and Fees Add to My Bill?
 
 Here is a breakdown of the total tax and fee burden by region, based on 2025–2026 utility rate data:
 
 | Region | Typical Tax/Fee Range | Common Charges |
 |---|---|---|
-| Northeast (NY, MA, CT, PA) | 8% – 15% | Franchise fee, GRT, public benefits, RPS surcharge |
-| Southeast (GA, FL, AL, SC) | 5% – 8% | Franchise fee, gross receipts tax, nuclear decommissioning |
-| Midwest (IL, OH, MI, IN) | 5% – 10% | Franchise fee, utility tax, RPS surcharge, PUC assessment |
-| Southwest (TX, AZ, NM) | 3% – 8% | Franchise fee (TX exempt from state tax), PUC assessment |
-| West Coast (CA, OR, WA) | 6% – 12% | City utility tax, public benefits, RPS, nuclear decommissioning |
+| Northeast (NY, MA, CT, PA) | **8% – 15%** | Franchise fee, GRT, public benefits, RPS surcharge |
+| Southeast (GA, FL, AL, SC) | **5% – 8%** | Franchise fee, gross receipts tax, nuclear decommissioning |
+| Midwest (IL, OH, MI, IN) | **5% – 10%** | Franchise fee, utility tax, RPS surcharge, PUC assessment |
+| Southwest (TX, AZ, NM) | **3% – 8%** | Franchise fee (TX exempt from state tax), PUC assessment |
+| West Coast (CA, OR, WA) | **6% – 12%** | City utility tax, public benefits, RPS, nuclear decommissioning |
 
-For a household paying $150 per month for electricity, taxes and fees typically add $8 to $22 to the total bill. For households with higher consumption — $250 or more — the percentage stays the same but the dollar amount rises proportionally.
+For a household paying **$150 per month** for electricity, taxes and fees typically add **$8 to $22** to the total bill. For households with higher consumption — **$250 or more** — the percentage stays the same but the dollar amount rises proportionally.
 
-## Are Any of These Charges Deductible on Your Taxes?
+## Are Utility Taxes and Fees Tax-Deductible?
 
 Under current IRS rules (as of 2026), utility taxes and fees have limited deductibility:
 
-- **State and local taxes (SALT):** Franchise fees and utility taxes may be deductible as part of your SALT deduction if you itemize, subject to the $10,000 SALT cap.
+- **State and local taxes (SALT):** Franchise fees and utility taxes may be deductible as part of your SALT deduction if you itemize, subject to the **$10,000** SALT cap.
 - **Home office deduction:** If you deduct home office expenses, you can include a proportional share of your utility costs (including taxes and fees) as part of your home office utility expense.
 - **Rental property:** Landlords can deduct utility taxes and fees as part of the utility expenses for rental properties.
 
@@ -141,27 +141,31 @@ Consult a tax professional for guidance specific to your situation, as state and
 
 ## Frequently Asked Questions
 
-**What is a franchise fee on my electric bill?**
+{{< faq "What is a franchise fee on my electric bill?" >}}
+A franchise fee is a charge (typically **2% to 6%**) that your utility pays to your local government for the right to run wires and pipes through public streets and rights-of-way. The utility collects this fee from customers and remits it to the municipality, where it becomes general revenue for the city.
+{{< /faq >}}
 
-A franchise fee is a charge (typically 2% to 6%) that your utility pays to your local government for the right to run wires and pipes through public streets and rights-of-way. The utility collects this fee from customers and remits it to the municipality, where it becomes general revenue.
+{{< faq "Can I dispute or remove these charges from my bill?" >}}
+You cannot dispute or remove legally mandated taxes, franchise fees, or regulatory surcharges on an individual basis. These charges are set by legislation or regulatory order. You can, however, participate in public comment periods when your state PUC reviews rate cases or when your city renegotiates franchise agreements — that is where changes actually happen.
+{{< /faq >}}
 
-**Can I dispute taxes or fees on my utility bill?**
+{{< faq "How much do utility taxes and fees add to a typical bill?" >}}
+For most U.S. households, taxes and fees add **5% to 15%** on top of energy charges — roughly **$8 to $22** on a **$150** monthly electric bill. In high-tax states like California, New York, and Pennsylvania, the total burden can exceed **15%**.
+{{< /faq >}}
 
-You cannot dispute legally mandated taxes, franchise fees, or regulatory surcharges on an individual basis. These charges are set by legislation or regulatory order. You can, however, participate in public comment periods when your state PUC reviews rate cases or when your city renegotiates franchise agreements.
+{{< faq "Are utility taxes and fees deductible on my income tax return?" >}}
+Franchise fees and utility taxes may be deductible as part of your state and local tax (SALT) deduction if you itemize, but only up to the **$10,000** SALT cap. If you work from home and claim a home office deduction, or if you rent out a property, you can also include a proportional share of utility taxes and fees. Most homeowners who take the standard deduction cannot deduct them.
+{{< /faq >}}
 
-**Why does my bill show both a franchise fee and a utility tax?**
+{{< faq "What is a public benefits charge on my utility bill?" >}}
+A public benefits charge is a small per-kWh surcharge (typically **$0.005 to $0.03 per kWh**) that funds statewide programs like low-income bill assistance (LIHEAP), free weatherization for income-qualified households, energy efficiency rebates, and demand response programs. It appears on your bill as a separate line item and is set by state law, not your utility.
+{{< /faq >}}
 
-These are different charges imposed by different levels of government. The franchise fee is a local (municipal or county) charge for right-of-way access. The utility tax is a state-level charge on the utility's gross revenues. Both are common and typically both appear on the same bill.
+{{< faq "Do solar customers still pay these taxes and fees?" >}}
+Yes. In most states, taxes, franchise fees, and regulatory surcharges apply to all customers regardless of whether they have solar panels. Charges calculated on delivered energy shrink as your solar production offsets usage, but flat monthly fees and percentage-based charges on remaining service charges still apply.
+{{< /faq >}}
 
-**Do solar customers pay these taxes and fees?**
-
-Yes. In most states, taxes, franchise fees, and regulatory surcharges apply to all customers regardless of whether they have solar panels. Some charges are calculated on delivered energy (meaning solar offsets reduce them), while others are calculated on total service charges or are flat monthly fees that apply regardless of usage.
-
-**Why is my total tax percentage different from my neighbor's?**
-
-Tax rates can vary by municipality within the same utility service territory. Different cities impose different franchise fee rates, utility users taxes, or municipal assessments. If you and your neighbor live in different incorporated areas but are served by the same utility, your tax line items will differ.
-
----
+{{< faq-schema >}}
 
 *Related Reading:*
 - [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/)
