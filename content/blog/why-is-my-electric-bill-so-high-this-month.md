@@ -1,6 +1,7 @@
 ---
 title: "Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)"
 slug: "why-is-my-electric-bill-so-high-this-month"
+canonical: "https://utilityexplained.com/blog/03-why-is-my-electric-bill-so-high/"
 description: "Shocked by a high electric bill? Discover 11 hidden causes--from phantom loads to rate hikes--and get immediate fixes to lower your next payment."
 date: 2025-12-20
 author: "Margaret Harrington"

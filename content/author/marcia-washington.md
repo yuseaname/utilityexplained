@@ -1,34 +1,22 @@
 ---
-title: "Marcia Washington — Household Budget Counselor"
+title: "Marcia Washington — Affordability & Assistance Editor"
 slug: "marcia-washington"
-description: "Marcia Washington is a certified financial counselor specializing in household utility budgeting, with 10 years helping families manage and reduce their energy costs."
+description: "Marcia Washington is an editor on the Utility Explained team, focusing on utility budgeting, assistance programs, and keeping service on."
 date: 2026-08-10
 ---
 
 # Marcia Washington
 
-**Role:** Household Budget Counselor
+**Role:** Affordability & Assistance Editor
 
-Marcia Washington is a HUD-certified housing counselor who has spent 10 years helping low- and moderate-income families budget for and manage their utility costs. She has worked with over 1,500 households through nonprofit housing agencies, teaching them how to read their bills, enroll in assistance programs, and avoid shut-offs.
+Marcia is an editor on the Utility Explained team. She focuses on the guides that help households plan for and manage utility costs — budget billing and level-pay plans, assistance programs like LIHEAP and the Weatherization Assistance Program, payment-plan options, and the rights that protect consumers against shut-offs.
 
-Marcia specializes in making utility costs predictable — whether through budget billing plans, LIHEAP applications, or practical household budgeting strategies that account for seasonal spikes.
-
-## Expertise
-
-- Utility assistance programs (LIHEAP, WAP, state programs)
-- Budget billing and level-pay plans
-- Household utility budgeting
-- Utility shut-off prevention and rights
-- Payment plan negotiation with utilities
-- Seasonal cost planning
-
-## Credentials
-
-- HUD-Certified Housing Counselor (Certificate #HC-2289)
-- 10 years of nonprofit housing counseling experience
-- Certified Financial Education Instructor (CFEI)
-- Former caseworker for the Low Income Home Energy Assistance Program
+Her aim is to make utility costs predictable, especially for households stretched by seasonal spikes, and to point readers to the real programs and protections available in their state.
 
 ## What Marcia Writes About
 
-Marcia writes our budgeting and cost guides — the articles that help you plan for utility expenses, access assistance programs, and keep your lights on during tough times.
+Marcia writes and reviews our budgeting, assistance-program, and cost-planning guides — the articles that help you plan for utility expenses, find help when you need it, and keep your service on.
+
+---
+
+*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

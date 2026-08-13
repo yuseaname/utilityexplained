@@ -1,0 +1,47 @@
+{{/* Self-hosted cookie consent banner — drives Google Consent Mode v2.
+     Shows only until the visitor chooses; persists the choice in localStorage. */}}
+<style>
+  #ue-consent{position:fixed;bottom:0;left:0;right:0;z-index:9000;background:#16182b;color:#eef0f7;padding:14px 18px;box-shadow:0 -3px 18px rgba(0,0,0,.35);display:none;font-size:14px;line-height:1.5}
+  #ue-consent.show{display:block}
+  #ue-consent .ue-inner{max-width:1100px;margin:0 auto;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+  #ue-consent .ue-text{flex:1 1 420px}
+  #ue-consent .ue-text a{color:#9cc2ff;text-decoration:underline}
+  #ue-consent .ue-btns{flex:0 0 auto;display:flex;gap:10px}
+  #ue-consent button{border:none;padding:10px 18px;border-radius:6px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+  #ue-consent .ue-accept{background:#1a73e8;color:#fff}
+  #ue-consent .ue-decline{background:transparent;color:#c4c7d4;border:1px solid #5a5e72}
+  @media (max-width:600px){#ue-consent .ue-text{flex:1 1 100%}#ue-consent .ue-btns{flex:1 1 100%}#ue-consent button{flex:1}}
+</style>
+<div id="ue-consent" role="dialog" aria-label="Cookie consent" aria-live="polite">
+  <div class="ue-inner">
+    <div class="ue-text">
+      We use cookies to serve ads and measure traffic so these guides stay free. Google AdSense and Google Analytics set cookies to personalize ads and content; you can opt out anytime. See our <a href="/privacy-policy/">privacy policy</a>.
+    </div>
+    <div class="ue-btns">
+      <button class="ue-decline" id="ue-decline">Decline</button>
+      <button class="ue-accept" id="ue-accept">Accept all</button>
+    </div>
+  </div>
+</div>
+<script>
+  (function(){
+    var banner = document.getElementById('ue-consent');
+    if(!banner) return;
+    // Show only when no choice has been made yet.
+    if(!localStorage.getItem('ue_consent')){ banner.classList.add('show'); }
+    function setConsent(state){
+      localStorage.setItem('ue_consent', state);
+      if(typeof gtag === 'function'){
+        var vals = (state === 'granted')
+          ? {ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'}
+          : {ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'};
+        gtag('consent','update',vals);
+      }
+      banner.classList.remove('show');
+    }
+    var a = document.getElementById('ue-accept');
+    var d = document.getElementById('ue-decline');
+    if(a) a.addEventListener('click', function(){ setConsent('granted'); });
+    if(d) d.addEventListener('click', function(){ setConsent('denied'); });
+  })();
+</script>

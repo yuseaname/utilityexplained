@@ -1,6 +1,7 @@
 ---
 title: "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)"
 slug: "supply-vs-delivery-charges-electricity"
+canonical: "https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/"
 description: "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up."
 date: 2025-12-26
 author: "Margaret Harrington"

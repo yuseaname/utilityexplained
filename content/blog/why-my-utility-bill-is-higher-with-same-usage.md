@@ -1,6 +1,7 @@
 ---
 title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn"
 slug: "why-my-utility-bill-is-higher-with-same-usage"
+canonical: "https://utilityexplained.com/blog/15-why-utility-bill-higher-same-usage/"
 description: "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads."
 date: 2025-12-25
 author: "Marcia Washington"

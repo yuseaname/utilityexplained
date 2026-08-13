@@ -24,9 +24,9 @@ We translate electricity, gas, and water bills into decisions you can actually m
 
 We publish plain-English explainers that decode every part of a utility bill: the usage charges, the delivery fees, the taxes and surcharges, the spikes, and the fixes. We use real cost ranges, show the math, and link related guides so you can follow a question all the way to an answer.
 
-## What we don't do
+## How we're funded
 
-We do not sell products or services. We do not recommend providers for commission. If we ever mention a service or product, it is strictly for educational context. See our [editorial policy](/editorial-policy/).
+We do not sell products or services, and we do not accept payment to recommend any provider. Our primary revenue is display advertising. On a few product-focused guides, we may include affiliate links — if you buy through one, we may earn a small commission at no extra cost to you. Affiliate links never determine what we cover or what we say; our recommendations are based on the same research and source material as the rest of the site. See our [editorial policy](/editorial-policy/).
 
 ## How we're different
 

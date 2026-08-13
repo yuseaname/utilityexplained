@@ -1,6 +1,7 @@
 ---
 title: "Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)"
 slug: "demand-charge-electric-bill-explained"
+canonical: "https://utilityexplained.com/blog/49-demand-charges-electricity-bill-explained/"
 description: "A demand charge is based on your highest short-term usage, not your monthly total. Learn how it is measured and where it appears on your bill."
 date: 2025-12-26
 author: "Margaret Harrington"

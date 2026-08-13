@@ -28,6 +28,10 @@ Plain-English explainers on electricity, gas, and water bills — how to read th
 - **Numbers over vagueness.** We use typical U.S. cost ranges and label them as estimates. See our [methodology](/methodology/).
 - **No fear or hype.** Bills cause enough anxiety; our job is to resolve it with clarity, not amplify it.
 
+## AI assistance
+
+Our guides are drafted with the help of AI tools. This lets us research and produce clear explanations efficiently across a wide range of utility-bill topics. AI assistance does not replace human judgment: every guide is reviewed by an editor who fact-checks the numbers, rate structures, and claims against primary sources (U.S. EIA data, state utility commission filings, and published provider tariffs) before it is published. We do not present AI-generated credentials or fabricated expert qualifications. See our [methodology](/methodology/) for how we source figures.
+
 ## Advertising
 
 This site displays ads served by Google AdSense. Ad placements are automated and editorially independent — advertising never influences which topics we cover or what we say about them. See our [privacy policy](/privacy-policy/) for details.
