@@ -1,34 +1,28 @@
 ---
 title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
 slug: "07-gas-bill-too-high"
-description: "Troubleshoot a high natural gas bill step by step. Covers furnace efficiency, thermostat settings, water heater waste, rate changes, and seasonal spikes with real cost estimates."
+description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
-keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency', 'gas water heater waste']
+keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency AFUE', 'gas water heater waste']
 image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
 ---
 ## Quick Answer
 
-**High gas bills are typically caused by inefficient heating (40-50% of usage), water heaters, or rate hikes during winter months.** The average household spends $50-150/month on gas, with winter bills often 2-3x higher than summer.
+**A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.** The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
 
-- **Thermostat settings matter** - each degree above 68°F adds 3-5% to heating costs
-- **Old furnaces waste 20-30%** - upgrade to 95%+ AFUE units for maximum savings
-- **Insulation upgrades typically pay back in 2-3 years**
+A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the 10 most common causes and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
-For more detail, see [how to reduce gas bills](/blog/07-gas-bill-too-high/).
-
-A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide helps you figure out which one — and what to do about it. Learn more in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
-
-Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. Learn more in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained).
+Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. The fixed monthly fee on top of usage is covered in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/).
 
 ## Quick diagnosis: Start here
 
 Answer these four questions before diving into troubleshooting:
 
-1. **Did your therm usage actually increase?** Compare the "usage" line (in therms or CCF) with the same month last year. If therms are flat but your bill went up, the issue is rate or fee changes — not your equipment.
+1. **Did your therm usage actually increase?** Compare the "usage" line (in therms or CCF) with the same month last year. If therms are flat but your bill went up, the issue is rate or fee changes — not your equipment. For a line-by-line breakdown, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
 
 2. **How cold was this month compared to last year?** Gas usage is dominated by heating. A month that's 5°F colder on average can increase your gas usage by 15–25%. Check heating degree days (HDD) data from Weather Underground for your zip code.
 
@@ -97,14 +91,16 @@ Water heating is typically the **second-largest gas expense** (15–25% of gas u
 - **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.
 - **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
 - **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
+- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10% (U.S. DOE).
 
 ### 6. Rate increase
 
-Natural gas prices are volatile. Your utility's "gas cost recovery" rate can change monthly or quarterly. In 2025, many US utilities increased rates by 15–30% compared to 2024.
+Natural gas prices are volatile. Your utility's "gas cost recovery" rate can change monthly or quarterly. In late 2025 and into 2026, many U.S. utilities have increased rates 15–30% year-over-year (U.S. EIA, 2026).
 
 **What to check on your bill:**
 - **Cost per therm** — Compare with the same month last year.
-- **[delivery charge](/blog/supply-vs-delivery-charges-electricity)s** — Your utility may have raised the fixed delivery charge.
+- **[delivery charges](/blog/gas-delivery-charge-vs-supply-charge/)** — Your utility may have raised the fixed delivery charge.
+- **[Fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)** — A line item that passes wholesale gas cost changes through to your bill.
 - **Pipeline or infrastructure surcharges** — Becoming more common.
 - **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
 
@@ -139,7 +135,7 @@ Single-pane windows or old double-pane windows with failed seals let significant
 A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed.
 
 **What to check:**
-- "Days of service" on your bill
+- **Days of service** on your bill
 - Whether the read was actual or estimated
 - If estimated, the next actual read will correct any overcharge
 
@@ -147,7 +143,7 @@ A 35-day billing period will naturally cost more than a 28-day period. And estim
 
 ## How to read your gas meter
 
-Gas meters measure usage in **cubic feet**. The display has 4–5 dials or a digital readout.
+Gas meters measure usage in **cubic feet**. The display has 4–5 dials or a digital readout. For the full bill breakdown after you read the meter, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
 
 ### Analog meter
 - Read the dials left to right
@@ -181,6 +177,9 @@ Your gas bill has two main components:
 - **Supply charges** — The cost of the gas itself. In deregulated states, you can shop for this.
 - **Delivery charges** — The cost of transporting gas to your home. This is set by your utility and regulated by your state's public utility commission.
 
+### Fuel adjustment and riders
+Utilities often pass through volatile wholesale gas costs and infrastructure project costs as separate line items. The [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) is the most common; surcharges and riders are covered in [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) (state public utility commission).
+
 ---
 
 ## Cost and savings math
@@ -191,6 +190,7 @@ Your gas bill has two main components:
 | Programmable thermostat schedule | $20–$50 | $25–$250 | 1–6 months |
 | Annual furnace maintenance | $10–$25 | $80–$200 | 4–12 months |
 | Water heater temp: 140°F → 120°F | $5–$20 | $0 | Immediate |
+| Water heater insulation blanket | $5–$15 | $20–$40 | 1–3 months |
 | Weatherstripping doors/windows | $10–$30 | $20–$50 | 1–3 months |
 | Attic insulation (R-11 → R-38) | $30–$80 | $1,000–$2,500 | 1–3 years |
 | New 96% AFUE furnace (replacing 70% AFUE) | $40–$100 | $3,000–$6,000 | 3–8 years |
@@ -212,11 +212,13 @@ Contact your gas utility when:
 1. **You suspect a gas leak** — Call the emergency line immediately. Don't wait.
 2. **Your meter appears damaged or reading incorrectly** — Request a meter inspection.
 3. **You want a billing review** — They can explain rate changes and check for errors.
-4. **You need help with payment** — Most utilities offer payment plans and assistance programs (LIHEAP) for income-qualified customers.
+4. **You need help with payment** — Most utilities offer payment plans and assistance programs. Income-qualified households can apply through [LIHEAP utility assistance](/blog/utility-assistance-programs-liheap/) (state public utility commission).
 5. **You want to switch rate plans** — Ask about fixed-rate options or budget billing.
 6. **You suspect an estimated reading was wrong** — Request an actual read.
 
 ---
+
+**Next step:** Pull up your last 12 months of gas bills and compare this month's therms to the same month last year. If therms are flat, the issue is rate or fee changes — call your utility for a billing review. If therms are up, work through the causes above in order, starting with thermostat settings and furnace maintenance.
 
 {{< faq "What's a normal gas bill?" >}}
 The average US household gas bill ranges from **$40–$80/month** in summer (mostly water heating and cooking) to **$100–$250/month** in winter (heating-dominated). Bills in cold climates (Minnesota, Michigan, New York) can exceed $300/month in peak winter.
@@ -227,7 +229,7 @@ If your gas bill stays high in summer, the most likely culprits are your **gas w
 {{< /faq >}}
 
 {{< faq "Should I switch to electric heat?" >}}
-It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our guide on [gas vs electric heat cost comparison](./10-fixed-vs-variable-utility-rate.md).
+It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/gas-vs-electric-heating-cost-comparison/).
 {{< /faq >}}
 
 {{< faq "How do I know if my furnace needs replacing?" >}}
@@ -243,31 +245,22 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 ## Related guides
 
-- [How to Read Your Gas Bill](./12-how-to-read-your-gas-bill.md) — Detailed bill breakdown
-- [Why Is My Electric Bill So High?](./03-why-is-my-electric-bill-so-high.md) — Troubleshoot electricity costs
-- [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
-- [Fixed vs Variable Utility Rates](./10-fixed-vs-variable-utility-rate.md) — Choose the right rate plan
-- [Hidden Fees on Your Utility Bill](./04-hidden-fees-utility-bill.md) — Find charges you can dispute
-
----
-
-**Bottom line:** The fastest way to reduce your gas bill is to lower your thermostat by 2–4°F and replace your furnace filter. These two steps take less than 30 minutes and can save 5–15% on heating costs immediately. For long-term savings, invest in insulation and consider upgrading to a high-efficiency furnace when yours reaches end of life.
-
----
-
----
-
-*Related Articles:*
-- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/)
-- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
-- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
-- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
-- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
-
-*Related Reading:*
-- [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)
-- [Why Is My Gas Bill So High in Winter? The Real Reasons (and Fixes)](/blog/why-is-my-gas-bill-so-high-in-winter)
+- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — Detailed line-by-line breakdown
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) — Troubleshoot electricity costs
+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
+- [Fixed vs Variable Utility Rates](/blog/10-fixed-vs-variable-utility-rate/) — Choose the right rate plan
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Spot charges you can dispute
+- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/) — Full charge-by-charge guide
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — Decode the units on your bill
+- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/) — That fixed monthly fee
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — What you're paying for
+- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — How utilities pass through gas cost changes
+- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — Line items beyond supply and delivery
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — Track usage between bills
+- [High Gas Bill in Winter: Common Causes](/blog/why-is-my-gas-bill-so-high-in-winter/) — Cold-weather specific spikes
+- [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — Help paying your gas bill

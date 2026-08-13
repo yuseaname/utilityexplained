@@ -11,163 +11,28 @@ keywords: ["customer charge utility", "therms", "high gas bill", "delivery charg
 image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.webp"
 ---
 
-<h2 id="problem">The problem: you used very little gas, but the bill still arrived</h2>
-<p class="lead">
-              Many people cut usage in summer and expect the bill to drop close to
-              zero. Then the statement shows a steady monthly charge anyway.
-            </p>
-            <p>
-              That line is usually the customer charge (also called a basic service
-              charge). It is standard on most gas bills, and it does not depend on
-              therms used.
-            </p>
+## Quick Answer
 
-<ul>
-              <li><a href="#quick-answer">The short answer</a></li>
-              <li><a href="#what-it-covers">What the customer charge covers</a></li>
-              <li><a href="#why-it-stays">Why it does not go away</a></li>
-              <li><a href="#where-on-bill">Where to find it on the bill</a></li>
-              <li><a href="#compare">How it affects bill comparisons</a></li>
-              <li><a href="#supply-delivery">Customer charge vs supply vs delivery</a></li>
-              <li><a href="#misconceptions">Common misconceptions</a></li>
-              <li><a href="#faqs">FAQs</a></li>
-            </ul>
+The gas customer charge is a fixed monthly fee of about **$12–$27** that you pay even if you use zero gas. It covers the cost of keeping your meter, pipe connection, and billing active — so it shows up every month, including summer, no matter how few therms you use. It is set by your state's utility commission and is the same for everyone on your rate class.
 
-<h2 id="quick-answer">The short answer</h2>
-<p>
-              The customer charge is a fixed monthly fee that keeps your gas
-              service active. It helps cover meter service, billing, and the
-              infrastructure needed to deliver gas safely.
-            </p>
+- **Typical range:** **$12–$27/month** for residential gas (see the by-state table below)
+- **It does not go away** in low-usage months — that is normal, not a billing error
+- **It is separate from delivery charges** and from the per-therm cost of the gas itself
 
-<h2 id="what-it-covers">What the customer charge covers</h2>
-<p>
-              While names vary, this fee typically supports:
-            </p>
-            <ul>
-              <li>Meter maintenance and service</li>
-              <li>Billing and account support</li>
-              <li>Local distribution infrastructure availability</li>
-              <li>Safety programs and system inspections</li>
-            </ul>
-            <p>
-              It is not tied to usage, which is why it remains in low-usage months.
-            </p>
+## What the customer charge covers
 
-<h2 id="why-it-stays">Why it does not go away</h2>
-<p>
-              Gas service has fixed costs that exist even when usage is minimal.
-              The customer charge helps cover those base costs so the system stays
-              available on demand.
-            </p>
-            <p>
-              This is why a summer bill can stay higher than expected even when
-              therms are low. For the most common summer drivers, see
-              <a href="/blog/why-is-my-gas-bill-so-high-in-summer">
-                {" "}why gas bills are high in summer
-              </a>
-              .
-            </p>
+This fee pays for the fixed costs of having gas service available on demand. While labels vary by utility, it typically supports:
 
-<h2 id="where-on-bill">Where to find it on the bill</h2>
-<p>
-              Look for labels like:
-            </p>
-            <ul>
-              <li>Customer charge</li>
-              <li>Basic service charge</li>
-              <li>Service availability charge</li>
-            </ul>
-            <p>
-              If you are not sure where to look, this guide walks through a sample
-              bill layout:
-              <a href="/blog/12-how-to-read-your-gas-bill">
-                {" "}how to read your gas bill
-              </a>
-              .
-            </p>
+- **Meter maintenance and reading** (testing, replacement, monthly reads) — about **25%** of the charge
+- **Billing and customer service** (statements, payment processing, support) — about **30%**
+- **Connection infrastructure** (the pipes and valves up to your property) — about **25%**
+- **Fixed overhead** (regulatory compliance, safety inspections) — about **20%**
 
-<h2 id="compare">How it affects bill comparisons</h2>
-<p>
-              When comparing bills month to month, separate fixed charges from
-              usage charges. The best quick comparison is therms per day and the
-              price per therm. Fixed charges will not change with usage.
-            </p>
-            <p>
-              If you want to verify usage directly, use your meter:
-              <a href="/blog/how-to-read-gas-meter"> how to read a gas meter</a>.
-            </p>
+None of this is tied to how much gas you use, which is why the charge stays on your bill even in summer when your therm usage drops near zero. If you are trying to figure out why a summer bill still looks high, the customer charge is a big part of it — see our guide to [why gas bills are high in summer](/blog/why-is-my-gas-bill-so-high-in-summer/).
 
-<h2 id="supply-delivery">Customer charge vs supply vs delivery</h2>
-<p>
-              Think of the bill in three parts:
-            </p>
-            <ul>
-              <li><strong>Supply:</strong> the gas itself, priced per therm.</li>
-              <li><strong>Delivery:</strong> the system that brings gas to you.</li>
-              <li><strong>Customer charge:</strong> the fixed monthly base cost.</li>
-            </ul>
-            <p>
-              If you want a deeper breakdown of supply vs delivery, read
-              <a href="/blog/gas-delivery-charge-vs-supply-charge">
-                {" "}gas delivery vs supply charges
-              </a>
-              .
-            </p>
+## Customer charge by state
 
-<h2 id="misconceptions">Common misconceptions</h2>
-<ul>
-              <li>
-                <strong>"The customer charge is a penalty."</strong> It is a base
-                service fee that applies to all connected accounts.
-              </li>
-              <li>
-                <strong>"If I cut usage, the whole bill should drop."</strong> Usage
-                affects the supply and delivery portions, but the customer charge
-                stays the same.
-              </li>
-              <li>
-                <strong>"The customer charge is the same as delivery."</strong> It is
-                separate from delivery. Delivery can include both fixed and usage
-                based charges.
-              </li>
-            </ul>
-
-{{< faq "What is a customer charge on a gas bill?" >}}
-
-It is a fixed monthly fee for keeping gas service active, covering meter service, billing, and system availability.
-
-{{< /faq >}}
-
-{{< faq "Why do I pay a gas customer charge in summer?" >}}
-
-Because the fee is fixed and does not depend on usage. It applies year round.
-
-{{< /faq >}}
-
-{{< faq "Can I avoid the customer charge by using less gas?" >}}
-
-No. Using less gas lowers the usage charges, but the customer charge stays the same.
-
-{{< /faq >}}
-
-{{< faq "Is the customer charge the same as the delivery charge?" >}}
-
-No. Delivery charges cover the distribution system and may include usage based parts. The customer charge is a separate fixed fee.
-
-{{< /faq >}}
-
-{{< faq "Where do I find the customer charge on my bill?" >}}
-
-Look for labels like Customer Charge, Basic Service Charge, or Service Availability Charge.
-
-{{< /faq >}}
-
-{{< faq-schema >}}
-
-## Customer Charge by State
-
-The gas customer charge (also called "basic service charge" or "facility charge") varies significantly by state and utility. Here's a comparison of typical charges:
+The gas customer charge (also called "basic service charge" or "facility charge") varies significantly by state and utility. Here is a comparison of typical residential charges:
 
 | Utility | State | Monthly Customer Charge | Includes |
 |---------|-------|:---:|---------|
@@ -182,27 +47,81 @@ The gas customer charge (also called "basic service charge" or "facility charge"
 | Dominion | OH | $24.75 | Meter, billing, pipeline |
 | Xcel Energy | CO | $16.00 | Meter, billing, connection |
 
-### What's Included in the Customer Charge
+### How to challenge your customer charge
 
-| Component | Description | % of Charge |
-|-----------|-------------|:---:|
-| Meter maintenance | Reading, testing, replacement | 25% |
-| Billing & customer service | Statement, processing, support | 30% |
-| Connection infrastructure | Pipes, valves to your property | 25% |
-| Fixed overhead | Administrative, regulatory costs | 20% |
+The customer charge is set by your state's Public Utility Commission (PUC), not the gas company directly, so you usually cannot negotiate it down — but you can check for relief:
 
-### How to Challenge Your Customer Charge
+1. **Contact your utility first** — Ask whether a low-income discount, senior rate, or waiver applies.
+2. **File a complaint with your state PUC** — Search "[your state] public utility commission complaint" if you believe the charge is misapplied.
+3. **Check for budget billing** — This spreads your costs evenly across the year but does not reduce the charge itself (see [budget billing explained](/blog/16-budget-billing-level-pay-explained/)).
+4. **Verify your rate class** — Some customers are mistakenly classified as small commercial instead of residential, which carries a much higher customer charge.
 
-The customer charge is set by your state's Public Utility Commission (PUC), not the gas company directly. To challenge it:
+## Customer charge vs supply vs delivery
 
-1. **Contact your utility first** — Ask if there's a low-income discount or waiver
-2. **File a complaint with your state PUC** — Search "[your state] public utility commission complaint"
-3. **Check for budget billing** — This spreads costs evenly but doesn't reduce the charge
-4. **Verify you're on the right rate class** — Some customers are misclassified (residential vs small commercial)
+It helps to think of your gas bill in three parts:
 
+- **Supply:** the gas itself, priced per therm. This is the part that moves with usage.
+- **Delivery:** the system that brings gas to your home. This can include both fixed and usage-based charges.
+- **Customer charge:** the fixed monthly base cost that keeps you connected.
+
+For a deeper look at how these split up, read our guide to [gas delivery vs supply charges](/blog/gas-delivery-charge-vs-supply-charge/). To verify your actual usage at the source, learn [how to read your gas meter](/blog/how-to-read-gas-meter/).
+
+## Where to find it on the bill
+
+Look for one of these labels on the charges section of your statement:
+
+- Customer charge
+- Basic service charge
+- Service availability charge
+
+If you are not sure where to look, our walkthrough of a [sample gas bill](/blog/12-how-to-read-your-gas-bill/) shows exactly where each charge appears.
+
+## How it affects bill comparisons
+
+When comparing bills month to month, separate the fixed charges from the usage charges. The cleanest quick comparison is **therms per day** and **price per therm** — those tell you whether your usage actually changed. The customer charge will stay flat no matter what, so it is not a signal of higher usage.
+
+## Common misconceptions
+
+- **"The customer charge is a penalty."** It is not — it is a base service fee that applies to every connected account, the same for everyone on your rate.
+- **"If I cut usage, the whole bill should drop."** Usage affects the supply and delivery portions, but the customer charge stays the same. A summer bill with near-zero therms will still carry the full customer charge.
+- **"The customer charge is the same as delivery."** They are separate. Delivery can include both fixed and usage-based charges; the customer charge is a single fixed fee. For the parallel concept on electric bills, see [what is the customer charge on a utility bill](/blog/17-what-is-customer-charge-on-utility-bill/).
+
+{{< faq "What is a customer charge on a gas bill?" >}}
+
+It is a fixed monthly fee — typically **$12–$27** for residential service — for keeping your gas service active. It covers meter service, billing, and system availability, and it does not depend on how many therms you use.
+
+{{< /faq >}}
+
+{{< faq "Why do I pay a gas customer charge in summer when I barely use any gas?" >}}
+
+Because the fee is fixed and not tied to usage. The cost of keeping your meter, pipe connection, and account active exists year-round, so the charge applies every month — including summer when your therm usage is near zero.
+
+{{< /faq >}}
+
+{{< faq "Can I avoid the customer charge by using less gas?" >}}
+
+No. Using less gas lowers your supply and usage-based delivery charges, but the customer charge stays the same. The only way to avoid it is to disconnect service entirely.
+
+{{< /faq >}}
+
+{{< faq "Is the customer charge the same as the delivery charge?" >}}
+
+No. Delivery charges cover the distribution system and may include both fixed and usage-based parts. The customer charge is a separate, single fixed fee for account and connection availability.
+
+{{< /faq >}}
+
+{{< faq "Where do I find the customer charge on my bill?" >}}
+
+Look in the charges section for labels like Customer Charge, Basic Service Charge, or Service Availability Charge. It is usually listed as a flat dollar amount rather than a per-therm rate.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ---
 
 *Related Reading:*
-- [Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing](/blog/22-minimum-bill-utility-bill-explained)
-- [What Is the Customer Charge on My Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill)
+- [Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use Nothing](/blog/22-minimum-bill-utility-bill-explained/)
+- [What Is the Customer Charge on My Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/)
+- [Understand Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/)
+- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)

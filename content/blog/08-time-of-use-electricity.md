@@ -2,7 +2,7 @@
 title: "Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save"
 slug: "08-time-of-use-electricity"
 aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
-description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15\u201340% on your electric bill."
+description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15–40% on your electric bill."
 date: 2026-03-07
 author: "Margaret Harrington"
 category: "Rates & Plans"
@@ -13,23 +13,21 @@ image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-r
 ---
 ## Quick Answer
 
-**Time-of-Use (TOU) rates charge you different prices based on when you use electricity — typically $0.12-0.15/kWh during off-peak, $0.25-0.40/kWh during peak hours (4-9 PM).** You can save 15-25% on your bill by shifting usage to cheaper times.
+Time-of-Use (TOU) rates charge different prices by time of day — typically **$0.12–$0.15/kWh** off-peak vs. **$0.25–$0.40/kWh** on-peak (usually 4–9 PM weekdays). Shifting laundry, EV charging, dishwashing, and pool pumps to overnight or weekend off-peak windows can cut your electric bill 15–25%.
 
-- **Off-peak hours** (nights, mornings, midday) have the lowest rates
-- **Peak hours** (usually 4-9 PM) cost 2-3x more
-- **Shift 50% of usage** to off-peak to save $30-60/month
+- **Off-peak hours** (nights, early mornings, weekends) carry the lowest rates
+- **On-peak hours** (typically 4–9 PM weekdays) cost 2–3× more
+- **Shift 50% of usage to off-peak** to save roughly $30–$60/month
 
-For more detail, see [When Is Electricity Cheapest](/blog/46-what-time-is-electricity-cheapest/).
+If your utility has offered you a time-of-use rate plan, whether it saves money depends on when you use power. Households that can move most of their usage to off-peak windows save 15–25% on the same kWh; households that can't shift much often pay more. Your peak-to-off-peak price ratio, how much load you can move, and your current usage pattern are the three numbers that decide it.
 
-If your electric utility has offered you a "time-of-use" rate plan, you might be wondering whether it's a good deal. The short answer: **it depends entirely on when you use electricity.** If you can shift most of your usage to off-peak hours, TOU rates can save you 15–40%. If you can't, you might pay more. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
+This guide walks through how TOU rates work, when peak and off-peak windows usually fall, the dollar amounts you can expect, and a practical plan to maximize savings — including how TOU differs from [tiered electricity rates](/blog/tiered-electricity-rates-explained/) and where it fits in your broader strategy to [lower your electric bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
-This guide explains how TOU rates work, what the typical peak and off-peak windows are, and gives you a practical plan to maximize savings. Learn more in [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
-
-## What is time-of-use pricing?
+## What are time-of-use electricity rates?
 
 Time-of-use (TOU) is a rate structure where the price you pay for electricity **changes based on the time of day**. During periods of high demand (peak), electricity is more expensive. During periods of low demand (off-peak), it's cheaper.
 
-**Why does the price change?** Electricity can't be stored in large quantities on the grid. During peak demand — hot summer afternoons when everyone runs AC, or cold winter mornings when heaters kick on — utilities have to fire up expensive "peaker" power plants to meet demand. TOU pricing passes those real-time costs to consumers, incentivizing you to use less during expensive periods.
+**Why does the price change?** Electricity can't be stored in large quantities on the grid. During peak demand — hot summer afternoons when everyone runs AC, or cold winter mornings when heaters kick on — utilities have to fire up expensive "peaker" power plants to meet demand. TOU pricing passes those real-time costs to consumers, giving you a financial reason to use less during expensive hours (U.S. EIA, 2025).
 
 ### The three TOU periods
 
@@ -45,7 +43,7 @@ Some utilities use just two tiers (peak and off-peak). A few add a fourth "super
 
 ---
 
-## Typical peak and off-peak hours
+## When are peak and off-peak hours?
 
 Every utility sets its own schedule, but here are the most common patterns:
 
@@ -68,9 +66,9 @@ Every utility sets its own schedule, but here are the most common patterns:
 **Why:** Winter peak is driven by heating demand in the morning (people waking up and turning up heat) and evening (people returning home).
 
 ### Weekend and holidays
-Most TOU plans charge **off-peak rates all day** on weekends and holidays. This makes weekends ideal for running major appliances.
+Most TOU plans charge **off-peak rates all day** on weekends and holidays. This makes weekends ideal for running major appliances. For the exact schedule where you live, see [what time electricity is cheapest](/blog/46-what-time-is-electricity-cheapest/).
 
-### Major utility examples
+### Major utility examples (verify with your utility for 2026)
 
 | Utility | Summer On-Peak | Summer Off-Peak | Peak/Off-Peak Ratio |
 |---------|---------------|-----------------|---------------------|
@@ -80,21 +78,23 @@ Most TOU plans charge **off-peak rates all day** on weekends and holidays. This 
 | ConEd (New York) | 12 PM – 8 PM (summer) | 12 AM – 8 AM | ~2.5:1 |
 | Duke Energy (Carolinas) | 1 PM – 6 PM | 9 PM – 10 AM | ~2:1 |
 
-**Always check your specific utility's schedule** — the exact hours vary significantly.
+Schedules change frequently. **Check your specific utility's current TOU schedule** before signing up — the exact hours vary by year and by your state public utility commission filings.
 
 ---
 
-## How much can you save?
+## How much can you save with TOU?
 
-The savings from TOU depend on three factors:
+The savings depend on three factors:
 
 1. **The peak-to-off-peak price ratio** — How much more expensive is peak power?
 2. **Your shiftable load** — What percentage of your usage can you move to off-peak?
 3. **Your baseline usage pattern** — How much do you already use during off-peak?
 
-### Example calculation
+### Worked example: shifting 150 kWh from peak to off-peak
 
 **Scenario:** Average household using 900 [kWh](/blog/what-is-a-kilowatt-hour)/month on a TOU plan.
+
+**Before shifting:**
 
 | Period | Rate | Usage | Cost |
 |--------|------|-------|------|
@@ -103,7 +103,7 @@ The savings from TOU depend on three factors:
 | On-peak | $0.32/kWh | 200 kWh (22%) | $64.00 |
 | **Total** | | **900 kWh** | **$160.00** |
 
-If you shift 150 kWh from on-peak to off-peak:
+**After shifting 150 kWh from on-peak to off-peak:**
 
 | Period | Rate | Usage | Cost |
 |--------|------|-------|------|
@@ -112,7 +112,7 @@ If you shift 150 kWh from on-peak to off-peak:
 | On-peak | $0.32/kWh | 50 kWh | $16.00 |
 | **Total** | | **900 kWh** | **$130.00** |
 
-**Savings: $30/month ($360/year) — with zero reduction in total usage.**
+**Savings: $30/month ($360/year) — with zero reduction in total usage.** That single shift is the kind of move that powers most TOU wins described in our [complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
 ### Realistic savings range
 - **Easy shifts** (dishwasher, laundry timing): 10–15% savings
@@ -121,9 +121,9 @@ If you shift 150 kWh from on-peak to off-peak:
 
 ---
 
-## Appliance-by-appliance shifting guide
+## How to shift appliances to off-peak hours (and save the most)
 
-Here's every major household appliance ranked by how much you can save by shifting it to off-peak:
+Every major household appliance ranked by how much you can save by shifting it to off-peak:
 
 ### 🏆 High-impact shifts
 
@@ -156,20 +156,20 @@ This avoids running AC during the most expensive hours while maintaining comfort
 
 ---
 
-## Is TOU right for you?
+## Is a TOU plan right for your household?
 
 ### TOU works well for:
-- ✅ **EV owners** who charge overnight (huge savings)
-- ✅ **Night owls** or early risers who naturally use power off-peak
-- ✅ **People away during the day** (empty house = low peak usage)
-- ✅ **Households with smart appliances** that can auto-schedule
-- ✅ **Solar + battery owners** (use battery during peak, charge off-peak)
+- **EV owners** who charge overnight (huge savings)
+- **Night owls** or early risers who naturally use power off-peak
+- **People away during the day** (empty house = low peak usage)
+- **Households with smart appliances** that can auto-schedule
+- **Solar + battery owners** (use battery during peak, charge off-peak)
 
 ### TOU may cost more for:
-- ❌ **Work-from-home households** with heavy daytime usage
-- ❌ **Families with kids home after school** (peak hours coincide)
-- ❌ **People who can't shift usage** (medical equipment, comfort needs)
-- ❌ **Homes without AC** (no ability to pre-cool)
+- **Work-from-home households** with heavy daytime usage
+- **Families with kids home after school** (peak hours coincide)
+- **People who can't shift usage** (medical equipment, comfort needs)
+- **Homes without AC** (no ability to pre-cool)
 
 ### The 5-minute test
 
@@ -179,11 +179,11 @@ Look at your last 3 electric bills and estimate:
 3. If it's **25–40%**, it's a wash — check your utility's specific rates.
 4. If it's **over 40%**, you'll likely pay more on TOU.
 
-If your utility provides hourly usage data ([smart meter](/blog/how-do-smart-meters-work) dashboard), use that instead of estimating.
+If your utility provides hourly usage data via a [smart meter](/blog/how-do-smart-meters-work) dashboard, use that instead of estimating. For more on spotting when your bill is high in the first place, see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 ---
 
-## How to switch to a TOU plan
+## How to switch to a time-of-use electricity plan
 
 1. **Check availability** — Not all utilities offer TOU plans. Check your utility's website or call customer service.
 2. **Compare rate schedules** — Your utility may offer multiple TOU options (2-tier, 3-tier, seasonal variations).
@@ -191,10 +191,26 @@ If your utility provides hourly usage data ([smart meter](/blog/how-do-smart-met
 4. **Start with a trial** — Many utilities let you try TOU for 12 months and switch back if it costs more. Ask about this option.
 5. **Set up automation** — Smart plugs, appliance delay timers, and programmable thermostats make shifting effortless.
 
+**Next step:** Pull up your last 3 months of electric bills, estimate your peak-hour share with the 5-minute test above, then run the numbers in your utility's TOU calculator. If the projection shows savings, request a 12-month trial switch.
+
+---
+
+## Related guides
+
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) — Understand all the charges
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) — Troubleshoot high electricity costs
+- [Understanding Your kWh Usage](/blog/11-understanding-kwh-usage/) — Learn what drives your consumption
+- [Fixed vs Variable Utility Rates](/blog/10-fixed-vs-variable-utility-rate/) — Compare rate plan types
+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
+
 ---
 
 {{< faq "What if my utility doesn't offer TOU?" >}}
 Not all utilities have implemented TOU yet. However, many are transitioning as they deploy smart [meter](/blog/how-to-read-electric-meter)s. Check your state's public utility commission for upcoming rate changes.
+{{< /faq >}}
+
+{{< faq "How is TOU different from tiered electricity rates?" >}}
+TOU rates change with the time of day you use power. Tiered rates change with the total amount of power you use in a billing cycle — the more kWh you consume, the higher the per-kWh price on the next tier. TOU rewards when you use power; tiered rewards how little you use overall. The full side-by-side is in [tiered electricity rates explained](/blog/tiered-electricity-rates-explained/).
 {{< /faq >}}
 
 {{< faq "Does TOU work with solar panels?" >}}
@@ -214,31 +230,3 @@ Most utilities install smart meters at no charge when you switch to TOU. The met
 {{< /faq >}}
 
 {{< faq-schema >}}
----
-
-## Related guides
-
-- [How to Read Your Electric Bill](./01-how-to-read-your-electric-bill.md) — Understand all the charges
-- [Why Is My Electric Bill So High?](./03-why-is-my-electric-bill-so-high.md) — Troubleshoot high electricity costs
-- [Understanding Your kWh Usage](./11-understanding-kwh-usage.md) — Learn what drives your consumption
-- [Fixed vs Variable Utility Rates](./10-fixed-vs-variable-utility-rate.md) — Compare rate plan types
-- [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
-
----
-
-**Bottom line:** If you can shift even 20% of your electricity usage from peak to off-peak hours, time-of-use rates will likely save you money. The easiest wins are scheduling your dishwasher, laundry, and EV charging for nighttime or weekends. Check your utility's TOU plan details and run the numbers — many households save $200–$500/year with simple habit changes.
-
----
-
----
-
-*Related Articles:*
-- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
-- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
-- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
-- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
-- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
-
-*Related Reading:*
-- [What Time Is Electricity Cheapest? Guide to Off-Peak Energy Rates](/blog/46-what-time-is-electricity-cheapest)
-- [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage)

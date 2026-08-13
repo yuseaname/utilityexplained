@@ -13,30 +13,23 @@ image: "/images/articles/electric-bill-breakdown-understanding-line-items/electr
 
 ## Quick Answer
 
-**Your electric bill comes down to four numbers: your kWh × the supply rate, delivery/distribution charges, the fixed customer charge, and taxes/surcharges.** Supply and delivery together make up the bulk — typically **70–80% of your total bill**.
-
-- **Energy/Supply charge:** kWh × rate, usually **8–15¢/kWh** (the single biggest line)
-- **Delivery + transmission:** poles, wires, transformers — often adds **30–50%** on top of base energy costs
-- **Customer charge:** a flat **$5–$25/month**, paid even when usage is near zero
-- **Taxes + surcharges:** small lines that together add **5–10%** to the total
+Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for **70–80% of your total bill**, with the customer charge paid even on zero-usage months.
 
 **Tip:** Compare your "Energy Charge" month-over-month — that tells you whether a jump came from more usage or a rate change.
-
-For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
 
 
 <blockquote>
 <p><strong>One line look wrong? Here's where to dig in:</strong></p>
 <ul>
-<li><strong><a href="/blog/03-why-is-my-electric-bill-so-high/">Whole bill too high?</a></strong> — start with the diagnostic on what actually drives the total.</li>
-<li><strong><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery vs. supply charge</a></strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
-<li><strong><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand charge</a></strong> — a single line that can surprise business and time-of-use customers.</li>
-<li><strong><a href="/blog/04-hidden-fees-utility-bill/">Hidden fees</a></strong> — the small recurring charges that quietly add up.</li>
+<li><strong>[Whole bill too high?](/blog/03-why-is-my-electric-bill-so-high/)</strong> — start with the diagnostic on what actually drives the total.</li>
+<li><strong>[Delivery vs. supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)</strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
+<li><strong>[Demand charge](/blog/49-demand-charges-electricity-bill-explained/)</strong> — a single line that can surprise business and time-of-use customers.</li>
+<li><strong>[Hidden fees](/blog/04-hidden-fees-utility-bill/)</strong> — the small recurring charges that quietly add up.</li>
 </ul>
 </blockquote>
 
-<h2 id="start-here">Start here: the four numbers that explain most bills</h2>
+## Start here: the four numbers that explain most bills {#start-here}
 
 {{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp" alt="The four numbers that explain your electric bill" caption="Most of your bill comes down to four numbers: the kWh you used, your price per kWh, the days billed, and the fixed fees." >}}
 <p>
@@ -45,17 +38,17 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
               explained by four things:
             </p>
             <ul>
-              <li>Total <a href="/blog/what-is-a-kilowatt-hour">kWh</a> used</li>
+              <li>Total [kWh](/blog/what-is-a-kilowatt-hour/) used</li>
               <li>Price per kWh (your energy rate)</li>
               <li>Billing period length (days)</li>
               <li>Fixed fees and delivery charges</li>
             </ul>
             <p>
               If you want the unit basics first, read
-              <a href="/blog/what-is-a-kilowatt-hour"> what a kWh is</a>.
+              [what a kWh is](/blog/what-is-a-kilowatt-hour/).
             </p>
 
-<h2 id="supply">Energy (supply) charges: what you actually used</h2>
+## Energy (supply) charges: what you actually used {#supply}
 <p>
               The supply (or energy) charge is the part most people recognize: it is
               the electricity itself. It is usually calculated as:
@@ -75,7 +68,7 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
               and off-peak buckets with different prices.
             </p>
 
-<h2 id="delivery">Delivery (distribution) charges: the grid that brings it to you</h2>
+## Delivery (distribution) charges: the grid that brings it to you {#delivery}
 <p>
               Delivery charges pay for the poles, wires, transformers, meter
               maintenance, and local system operations that bring power to your
@@ -95,7 +88,7 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
               <strong>$36</strong> to the bill.
             </p>
 
-<h2 id="fixed-fees">Fixed customer charges: why you get a bill even with low usage</h2>
+## Fixed customer charges: why you get a bill even with low usage {#fixed-fees}
 <p>
               Many bills include a monthly customer charge (sometimes called a basic
               service fee). This is a flat amount — typically
@@ -111,7 +104,7 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
               <strong>20–40% of the total</strong>.
             </p>
 
-<h2 id="taxes-surcharges">Taxes and surcharges: small lines that add up</h2>
+## Taxes and surcharges: small lines that add up {#taxes-surcharges}
 <p>
               You may see extra lines for taxes, local franchise fees, regulatory
               charges, or public benefit programs. Individually they can look minor,
@@ -122,7 +115,7 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
               rate" you pay, even if they are not called a kWh charge.
             </p>
 
-<h2 id="tou-tiered">Time-of-use and tiered rates: when you use power can matter</h2>
+## Time-of-use and tiered rates: when you use power can matter {#tou-tiered}
 
 {{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-tou.webp" alt="Time-of-use peak vs off-peak pricing" caption="On a time-of-use plan, power costs more during peak hours — shifting a few big loads to off-peak can trim your bill noticeably." >}}
 <p>
@@ -133,14 +126,11 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             <p>
               If you are not sure what plan you are on, the bill usually lists it.
               Our
-              <a href="/blog/fixed-vs-variable-rate-electricity-plan">
-                
-                fixed vs. variable plan guide
-              </a>
+              [fixed vs. variable plan guide](/blog/fixed-vs-variable-rate-electricity-plan/)
               can help you spot the tradeoffs.
             </p>
 
-<h2 id="estimated">Estimated readings and true-ups: a common source of surprises</h2>
+## Estimated readings and true-ups: a common source of surprises {#estimated}
 <p>
               A sudden "out of nowhere" bill can happen when one bill was estimated
               low and the next bill corrects it after an actual meter reading. A
@@ -149,11 +139,10 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             </p>
             <p>
               If you want to verify readings yourself, see
-              <a href="/blog/how-to-read-electric-meter"> how to read your meter</a>
-              .
+              [how to read your meter](/blog/how-to-read-electric-meter/).
             </p>
 
-<h2 id="spikes">Why bills jump: the most common (boring) explanations</h2>
+## Why bills jump: the most common (boring) explanations {#spikes}
 <p>
               Most spikes are not mysterious. They are usually one of these:
             </p>
@@ -165,11 +154,7 @@ For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electr
             </ul>
             <p>
               For a troubleshooting checklist, read
-              <a href="/blog/why-is-my-electric-bill-so-high-this-month">
-                
-                why your electric bill is high this month
-              </a>
-              .
+              [why your bill jumped this month](/blog/why-is-my-electric-bill-so-high-this-month/).
             </p>
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
@@ -257,4 +242,4 @@ Watch for these charges that may indicate billing errors or questionable fees:
 ---
 
 *Related Reading:*
-- [How to Read an Electricity Bill: Complete Guide to Understanding Charges](/blog/41-how-to-read-electricity-bill)
+- [How to Read an Electricity Bill: Complete Guide to Understanding Charges](/blog/41-how-to-read-electricity-bill/)

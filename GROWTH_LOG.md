@@ -221,3 +221,51 @@ Full audit of images across the 13 pages: **14/23 inspected (all 10 inline diagr
 - ✅ Committed (`0db8f7e`) + pushed → GitHub Actions "Deploy to Hostinger" succeeded.
 - ✅ Verified LIVE on production: Quick Answers, FAQ schema, internal links confirmed in served HTML.
 - ✅ Hugo build: 547 pages, 0 errors. Sitemap: 328 URLs valid XML.
+
+---
+
+## Entry 5 — Day 3 (2026-08-12): Deep-enhance 16 pages + featured-snippet pivot
+
+### Method
+Researched 2025–2026 best practices for reader retention + on-page SEO (BLUF/answer-first, F-pattern, information foraging, EEAT, AI-Overview ranking factors, AI-slop lexicon) via parallel research agent. **Key strategic finding: Google deprecated FAQ rich results (May 7, 2026)** — FAQ schema no longer earns SERP dropdowns. Pivoted the playbook accordingly: keep FAQ sections (readers + AI parsing value them) but optimize each page's TOP answer as a 40–50-word featured-snippet block, and reinvest effort in semantic completeness + hub-and-spoke internal linking.
+
+Hybrid execution: hardened Day-2 orchestrator (minimax-m3 via Ollama cloud) with three upgrades — (1) featured-snippet Quick Answer requirement, (2) **allowlist-only linking** (226 real slugs built from the content tree at runtime; verify() auto-rejects any link not in the set), (3) expanded slop-kill list + hard prohibition on `**` artifacts. 3 parallel batches (6/5/5). 2 pages (gas-customer-charge, fixed-variable) hit a reproducible minimax thinking-loop (unbounded `thinking` field consuming the entire token budget, zero content output) and were hand-edited.
+
+### Per-page work (16 files; words in→out)
+| Tier | Page | Key fixes |
+|---|---|---|
+| 1 | why-is-my-electricity-bill-so-high-in-summer (1523→1788) | Fixed ALL stray `**` artifacts in Quick Answer + both bottom tables (page was visibly broken); fixed mangled mid-sentence link + nested broken link; answer-first featured-snippet hook; EIA source |
+| 1 | water-meter-running (2588→2666) | Removed keyword stuffing; strengthened internal-link pull-through (top traffic page, 28 sessions/86% bounce) with "what to do next" CTA |
+| 1 | 07-gas-bill-too-high (2511→2668) | Removed self-link; fixed mismatched anchor; converted broken `./md` refs; dropped "Bottom line:"; featured-snippet |
+| 1 | is-your-toilet-running-leak-test (1087→1704) | Fixed dead `/water-explained` link; moved cost-calc table up; featured-snippet ($50–100/mo) |
+| 1 | how-to-read-your-utility-bill (2100→2107) | Deleted duplicate FAQ block (7 H3s repeated as shortcodes); removed self-link; cited income claim |
+| 1 | 7-states-with-worst-utility-spikes (2260→2355) | Replaced off-topic boilerplate FAQs; killed "feeling the squeeze" AI opener; rewrote generic description/keywords |
+| 2 | 20-utility-bill-proration (2675→2784) | Converted manual FAQ→shortcodes+schema; fixed nested broken link + wrong slug |
+| 2 | 27-utility-connection-fee (2060→2018) | Converted manual FAQ→shortcodes+schema |
+| 2 | how-to-lower-electric-bill-complete-guide (2741→3160) | Converted manual FAQ→shortcodes+schema; heat-pump rebate caveat |
+| 2 | gas-customer-charge (1086→1227) **hand-edit** | Made Quick Answer numeric ($12–27); moved by-state table before FAQ; cleaned `{" "}` JSX artifacts; consolidated thin sections |
+| 2 | tiered-electricity-rates (1218→1957) | Fixed literal `\"` artifact; fixed dead `/electricity-explained` link; moved by-state table before FAQ; numeric Quick Answer |
+| 3 | 08-time-of-use (1981→2103) | Dropped "Bottom line:"; naturalized forced "Learn more in" links; fixed `./md` refs |
+| 3 | 10-fixed-vs-variable (2081→2072) **hand-edit** | Dropped "Bottom line:"; removed forced links; fixed `./md` refs |
+| 3 | 18-fuel-adjustment (2131→2386) | Removed self-link; trimmed filler intro; added sibling fee links |
+| 3 | 03-why-electric-high (1622→1790) | Removed self-link; deepened causes #10/#11 with budget-billing action |
+| 3 | electric-bill-breakdown (1611→1544) | Converted HTML links→Markdown; standardized headings; trailing-slash fix |
+
+### Universal patterns applied
+- **Featured-snippet Quick Answer** (40–50 word declarative answer, key number bolded) on all 16 — the primary lever now that FAQ rich results are deprecated.
+- **AI-slop removal**: killed "Bottom line:", forced "Learn more in", "Imagine", "Additionally", "feeling the squeeze", keyword stuffing, dramatic openers.
+- **Hub-and-spoke internal linking**: 165 internal links across the 16 files, all allowlist-verified.
+- **EEAT**: inline source notes (U.S. EIA), current year, named authors preserved.
+- **Next-step CTAs** to convert bounces into second pageviews.
+
+### Verification
+- ✅ 0 broken internal links across 165 links (allowlist-enforced + verified)
+- ✅ All `**` balanced (0 unmatched); 0 literal `**` in rendered HTML
+- ✅ All shortcodes balanced; all 16 have faq-schema + Quick Answer
+- ✅ Title/slug/frontmatter preserved on all 16
+- ✅ Hugo build: 559 pages, 0 errors, 2.1s
+- ✅ Rendered-HTML spot-checks: summer tables clean, states-spikes opener/description fixed, gas-customer-charge table-before-FAQ confirmed
+
+### Baseline for re-measurement (Rybbit, 90-day window 2026-05-15 → 08-13)
+Site: 435 sessions / 80.0% bounce / 1m59s avg / 1.97 pages-per-session. Top entry page: water-meter-running (28 sessions, 86% bounce). Re-pull at 2-week and 4-week marks.
+

@@ -18,11 +18,9 @@ image: "/images/articles/10-fixed-vs-variable-utility-rate/custom_hero.webp"
 - **Choose variable rates** if you're willing to risk price changes for potential savings
 - **Most fixed contracts** have early termination fees of $50-150
 
-For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
+If you live in a state with energy choice (a deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal, should you float with the market, or is there a third option?
 
-If you live in a state with energy choice (deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal? Should you float with the market instead? Or is there a third option? Learn more in [How Do Smart Meters Work?](/blog/how-do-smart-meters-work).
-
-This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. Learn more in [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items).
+This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. For help reading the charges you're comparing, see our [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 ## What are fixed and variable rates?
 
@@ -245,15 +243,15 @@ Most contracts auto-renew. You'll typically be moved to:
 
 ## Related guides
 
-- [How to Read Your Electric Bill](./01-how-to-read-your-electric-bill.md) — Understand all charges on your bill
-- [Time-of-Use Electricity Rates](./08-time-of-use-electricity.md) — When power is cheapest
-- [Hidden Fees on Your Utility Bill](./04-hidden-fees-utility-bill.md) — Find charges you can dispute
-- [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
-- [Average Utility Costs 2026](./02-average-utility-costs-2026.md) — Nationwide data and benchmarks
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) — Understand all charges on your bill
+- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/) — When power is cheapest
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Find charges you can dispute
+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
+- [Average Utility Costs 2026](/blog/02-average-utility-costs-2026/) — Nationwide data and benchmarks
 
 ---
 
-**Bottom line:** In a deregulated market, a fixed rate is usually the smarter choice if the premium over variable is under 15% — it protects you from seasonal spikes without much downside. If you're cost-optimizing and willing to monitor rates, variable can save money during mild periods. And in regulated markets, budget billing is your best tool for predictable monthly costs.
+**The takeaway:** In a deregulated market, a fixed rate is usually the smarter choice if the premium over variable is under 15% — it protects you from seasonal spikes without much downside. If you're cost-optimizing and willing to monitor rates, variable can save money during mild periods. And in regulated markets, [budget billing](/blog/16-budget-billing-level-pay-explained/) is your best tool for predictable monthly costs.
 
 ---
 
