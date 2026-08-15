@@ -125,7 +125,7 @@ The payback period for solar depends heavily on net metering rules.
 | **2.0 (Current Standard)** | $1,800 | 11–12 years | $45,000 |
 | **Weak / No Net Metering** | $800–$1,200 | 18–25 years | $20,000–$30,000 |
 
-**The federal solar tax credit (30% through 2032) reduces upfront cost by $7,500, accelerating payback by 3–4 years.**
+**Update: the 30% federal solar tax credit expired December 31, 2025.** Systems installed in 2025 keep the credit ($7,500 on a $25,000 system) on that year's return; 2026 buyers pay full price, which stretches the payback ranges above by roughly 3–4 years. For a state-by-state breakdown of export compensation, see <a href="https://solarpoweredproject.com/pages/net-metering-by-state-2026.html">net metering by state (2026)</a>.
 
 ---
 
