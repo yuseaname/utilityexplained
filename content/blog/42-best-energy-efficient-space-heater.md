@@ -132,6 +132,12 @@ While we are focused on saving money, we must never compromise on safety. Portab
 *   **Essential Safety Features:** Only purchase units that include **Tip-Over Protection** (the unit shuts off if knocked over) and **Overheat Protection** (the unit shuts off if it gets too hot).
 *   **Keep the "Clearance Zone":** Maintain at least three feet of space between your heater and anything flammable, including curtains, bedding, or paper.
 
+{{< product-box asin="B009P5BCNA" name="Lasko 754200 Compact Ceramic Heater" label="Home office pick (and the budget pick)" description="The $25 answer for quick-session heat: 750W/1500W dual settings — the same 750W toggle this guide's math uses to halve heating cost. Small, quiet, and cheap enough to pay for itself in a single month of not touching the central thermostat." button="Check price on Amazon" >}}
+
+{{< product-box asin="B00G96S4Y8" name="De'Longhi Dragon 4 Digital Oil-Filled Radiator" label="Master bedroom pick" description="Silent convection warmth that keeps radiating after the element cycles off — the oil-filled category this guide recommends for sleepers. Digital timer, no glowing element, no fan noise." button="Check price on Amazon" >}}
+
+{{< product-box asin="B002QZ11J6" name="Dr Infrared Heater DR-968" label="Drafty living room pick" description="Heats people and furniture directly instead of the air — exactly the property that makes infrared the right call for drafty rooms. 5200 BTU dual-heating system covers spaces ceramic units can't." button="Check price on Amazon" >}}
+
 ## Conclusion: Making a Smart Investment in Your Comfort
 
 Choosing the **best energy efficient space heater** is a strategic move that pays dividends in both comfort and cost savings. By understanding the difference between oil-filled, ceramic, and infrared technologies, you can tailor your heating strategy to the specific layout of your home.

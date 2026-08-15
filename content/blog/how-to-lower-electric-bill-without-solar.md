@@ -10,6 +10,8 @@ tags: ["savings", "solar", "electric bill", "leak", "kwh"]
 keywords: ["lower utility bill", "solar payback", "high electric bill", "energy waste", "kwh usage"]
 image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_00001_.webp"
 ---
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 **You can lower your electric bill by roughly <strong>15–30% ($25–$75/month)</strong> without installing solar panels by cutting HVAC waste, killing phantom loads, and shifting usage to off-peak hours.** The highest-ROI moves, in order, are: raise your AC setpoint <strong>1°F in summer or lower heat 1°F in winter</strong> (~$15–$30/month), <strong>seal air leaks</strong> (~$10–$25/month), <strong>switch to LED bulbs</strong> (~$10–$20/month), <strong>lower the water heater to 120°F</strong> (~$8–$15/month), <strong>unplug vampire electronics with a smart strip</strong> (~$7–$15/month), and <strong>run laundry and the dishwasher on cold + off-peak cycles</strong> (~$5–$12/month).
@@ -376,6 +378,10 @@ For a weekend trip, no — the energy to reheat a full tank outweighs the saving
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+{{< product-box asin="B0D9B6MXGS" name="Kasa Matter Smart Plugs (2-pack, Energy Monitoring)" label="Kill the phantom loads" description="Standby drain from TVs, consoles, and chargers runs $50–150/year in typical homes. Schedule the entertainment center off overnight and watch per-device wattage in the app — the cheapest measurable win on this list." button="Check price on Amazon" >}}
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Audit before you optimize" description="Find which appliances actually deserve your attention before spending a dollar on fixes. One weekend, one meter, a ranked list of your home's real energy eaters." button="Check price on Amazon" >}}
 
 ## Quick Wins Table — Ranked by Savings
 

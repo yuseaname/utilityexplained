@@ -10,6 +10,8 @@ tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency AFUE', 'gas water heater waste']
 image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
 ---
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 **A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.** The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
@@ -247,6 +249,8 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 {{< faq-schema >}}
 
 ---
+
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's measured savings: ~12% on heating, ~15% on cooling. The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
 
 ## Related guides
 

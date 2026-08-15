@@ -12,6 +12,8 @@ keywords: ["ac not cooling", "high electric bill", "kwh usage", "therms", "therm
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 **Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.**
@@ -242,6 +244,8 @@ It varies by region and season. Expect significant swings throughout the year as
 Use efficiency upgrades (LEDs, smart thermostat), seal drafts, improve insulation, shift usage to off-peak, and replace power-hungry legacy appliances.
 
 {{< /faq >}}
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="The first diagnostic step" description="Before assuming rate hikes, measure: a failing fridge compressor or ancient freezer can quietly add $30+/month. Plug-and-read — the fastest way to confirm whether usage or rates moved." button="Check price on Amazon" >}}
 
 ## Bill Spike Diagnosis Table
 

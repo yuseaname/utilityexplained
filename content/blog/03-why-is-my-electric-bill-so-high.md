@@ -12,6 +12,8 @@ keywords: ["why is my electric bill so high", "high electricity bill causes", "e
 image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
 ---
 
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 The top causes of a high electric bill, in order: HVAC working harder, an old or inefficient appliance (fridge, water heater, or AC), phantom loads at <strong>5–10%</strong> of usage, a longer or estimated billing period, or a rate increase. Check these one by one to find the culprit.
@@ -305,6 +307,8 @@ If you have a smart meter:
 - Unit is 15+ years old
 
 ---
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Find the culprit in an afternoon" description="Plug in the fridge, the freezer, the entertainment center — this $30 meter shows each appliance's true monthly cost. Most 'mystery' high bills trace to one failing appliance; this finds it in an afternoon." button="Check price on Amazon" >}}
 
 ## Action Checklist
 

@@ -10,6 +10,8 @@ tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter readin
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
 image: "/images/articles/06-water-bill-too-high/custom_hero.webp"
 ---
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 **A high water bill is usually caused by leaks (running toilets can waste 200+ gallons/day), seasonal changes, or rate increases.** The average household uses 80-100 gallons per person daily, and bills over $150/month for a family of four warrant investigation.
@@ -287,6 +289,10 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 
 {{< faq-schema >}}
 ---
+
+{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Localize the leak first" description="High bill with no visible water? Place sensors at the usual suspects — toilet bases, under sinks, by the water heater and washer — and let the 100dB alarms point you to it." button="Check price on Amazon" >}}
+
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Water Monitor" label="Watch usage in real time" description="Straps onto your existing meter — no plumber. Hourly usage, leak alerts, and the data to prove whether your bill matches reality or the meter is wrong." button="Check price on Amazon" >}}
 
 ## Related guides
 

@@ -11,6 +11,8 @@ keywords: ["how to lower water bill", "lower water bill tips", "reduce water usa
 image: "/images/articles/44-how-to-lower-water-bill/custom_hero.webp"
 ---
 
+
+{{< affiliate-disclosure >}}
 ## Quick Answer
 
 **Lower your water bill by 10-30% through simple habit changes like fixing leaks, installing low-flow fixtures, and reducing shower time.** The average household wastes 10,000 gallons of water annually from leaks alone—costing hundreds of dollars.
@@ -122,6 +124,10 @@ If you are looking for an eco-friendly way to water your garden, consider instal
 
 - **Homeowners:** Focus on long-term upgrades like irrigation controllers and toilet replacements.
 - **Renters:** Focus on low-cost fixes like faucet aerators, shorter showers, and communicating with landlords about leaks.
+
+{{< product-box asin="B001W2CEYA" name="High Sierra 1.5 GPM All-Metal Showerhead" label="The fastest water-bill win" description="A 2.5 GPM showerhead swapped for this 1.5 GPM WaterSense pick cuts ~1,800 gallons/year per daily showerer — with pressure that doesn't feel like a sacrifice. All-metal, no clogging nozzle." button="Check price on Amazon" >}}
+
+{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Stop silent leaks" description="A running toilet can waste 6,000 gallons/month. $25 of sensors under sinks, behind toilets, and by the water heater catches leaks before they become line items." button="Check price on Amazon" >}}
 
 ## Conclusion: Take Control of Your Utility Costs Today
 
