@@ -35,6 +35,9 @@ The practical goal here is simple: learn to recognize the common signs of duct l
 
 ## How Ducts Deliver Conditioned Air
 
+
+{{< image src="/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leak-house.webp" alt="Cutaway diagram of a house showing a supply duct leaking conditioned air into the attic and a return duct pulling dusty air from the crawl space" caption="Supply leaks push treated air into the attic; return leaks pull dusty air in. Both starve the far rooms." >}}
+
 Supply ducts push conditioned air from the equipment into the rooms, and return ducts carry that air back to the system to be reconditioned. The setup only works when the ductwork stays sealed. When leaks develop, air often escapes into attics, wall cavities, or crawlspaces instead of reaching the living spaces you paid to heat or cool. Return-side leaks create a separate problem: they pull unconditioned, often dusty air from those same cavities directly into the system, which forces the equipment to work harder and can degrade indoor air quality. Both sides waste energy, and return leaks add the extra burden of unconditioned, dusty air being redistributed through the home. Understanding how each side of the system is supposed to function — see our [Heating & Cooling explained](/heating-cooling-explained) guide for the full model — makes it easier to notice when something is off.
 
 ## Signs Your Ducts May Be Leaking

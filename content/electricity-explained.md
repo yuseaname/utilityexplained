@@ -1,6 +1,7 @@
 ---
 title: "Electricity Explained: Complete Guide to Understanding Your Electric Service"
 description: "Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system works in plain English."
+image: "/images/articles/electricity-explained/custom_hero.webp"
 date: 2024-12-01
 type: "page"
 layout: "single"

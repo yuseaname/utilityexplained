@@ -35,6 +35,9 @@ Those three variables — mileage, rate, and timing — are the numbers worth un
 
 ## The Three Numbers Behind Your Bill
 
+
+{{< image src="/images/articles/ev-charging-impact-electric-bill/ev-charge-math.webp" alt="Cost comparison flowchart: 1,100 miles per month becomes about 320 kWh, costing 35 to 55 dollars at home versus 90 or more at DC fast chargers" caption="The same miles, two very different bills: home charging versus DC fast." >}}
+
 Your electric bill comes down to three numbers: how many miles you drive each month, how efficiently your EV turns electricity into miles, and what you pay per [kilowatt-hour](/blog/11-understanding-kwh-usage/). Monthly mileage sets the baseline. Light drivers cover around 500 miles, average drivers about 1,000, heavy drivers 1,500, and long commuters roughly 2,000. The typical American driver lands near 1,100 to 1,125 miles per month.
 
 EV efficiency varies more than most people expect. A Tesla Model 3 delivers about 4.2 miles per kWh, while a Rivian R1T gets closer to 1.8. That gap nearly doubles your charging cost for the same miles driven. Pick the wrong vehicle for your rate plan and the savings you expected can shrink fast.

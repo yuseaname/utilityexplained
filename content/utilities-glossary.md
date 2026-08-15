@@ -1,6 +1,7 @@
 ---
 title: "Utility Glossary: Plain-English Definitions for Common Utility Terms"
 description: "Confused by terms on your utility bill? Our glossary explains CCF, kWh, therms, delivery charges, demand fees, and more in plain English."
+image: "/images/articles/utilities-glossary/custom_hero.webp"
 date: 2024-12-01
 type: "page"
 layout: "single"

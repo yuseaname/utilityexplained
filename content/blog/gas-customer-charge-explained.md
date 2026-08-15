@@ -49,6 +49,9 @@ The customer charge is set through formal rate cases at your state's public util
 
 ## Customer Charge vs Supply, Delivery, and Minimum Bill
 
+
+{{< image src="/images/articles/gas-customer-charge-explained/gas-bill-split.webp" alt="Diagram of a gas bill split into a fixed customer charge of 8 to 27 dollars and a usage charge per therm" caption="Usage can hit zero in summer. The customer charge never does." >}}
+
 A natural gas bill breaks into three distinct pieces, and confusing them is the most common reason homeowners think a bill is wrong. Supply is the gas commodity itself, priced per therm, and it is the only portion that rises and falls with how much gas you actually burn. [Delivery](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) covers the distribution system that brings gas to your home and can include both fixed and usage-based components, which makes it easy to mistake for the customer charge. The customer charge is something else entirely: a single flat fee for keeping your meter, pipe connection, and account active, billed every month whether you use gas or not. It is also not the same as a [minimum bill](/blog/22-minimum-bill-utility-bill-explained/). A customer charge is a fixed line item that always appears on every connected account, while a minimum bill is a floor on the total amount owed for the billing period. Utilities that have one do not always have the other, and mixing the two up can send you to the wrong place when trying to challenge a charge — the electric-side version of this fee is covered in [what is a customer charge on a utility bill](/blog/17-what-is-customer-charge-on-utility-bill/).
 
 ## Common Misconceptions About the Charge

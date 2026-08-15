@@ -1,6 +1,7 @@
 ---
 title: "Utility Bills & Costs Explained: Complete Guide"
 description: "Understand every charge on your utility bill, from energy costs to fixed fees, taxes, and surcharges. Learn what you can and cannot control."
+image: "/images/articles/utility-bills-costs-explained/custom_hero.webp"
 date: 2024-12-01
 type: "page"
 layout: "single"

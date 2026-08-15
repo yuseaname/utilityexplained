@@ -51,6 +51,9 @@ The TP-Link Kasa Smart Plug Slim with Energy Monitoring is the practical startin
 
 ## How to Set Them Up to Actually Save
 
+
+{{< image src="/images/articles/50-best-smart-plugs-standby-power/phantom-load-cut.webp" alt="Flowchart of an entertainment center phantom load cluster passing through a smart plug with a schedule, saving 50 to 150 dollars per year" caption="Cluster the idle draws behind one plug, then let the schedule do the cutting." >}}
+
 The most effective way to use smart plugs for real savings is to cluster phantom loads behind a single plug. Plug a power strip into one smart plug, then attach your entertainment center, desk peripherals, or charging hub so one schedule cuts a whole group of idle draws at once. For predictable windows, time-based schedules work well, like shutting power off from 1:00 AM to 8:00 AM when no one is watching — pairing cleanly with [cheap overnight electricity hours](/blog/46-what-time-is-electricity-cheapest/). For less predictable gaps, motion sensors or away-mode triggers kill power to monitors, printers, or game consoles when the room is empty. None of this matters, though, without energy monitoring turned on first. The app's real-time wattage readouts and historical data are what reveal which outlets are the worst offenders. To put the math in perspective, cutting a 5-watt phantom load for 20 hours a day at 15 cents per [kWh](/blog/11-understanding-kwh-usage/) saves roughly 5.50 dollars a year per outlet, so chasing tiny loads alone takes years to pay back. The real wins come from identifying the multi-watt offenders at your entertainment center and home office, then letting the schedule do the rest. With the biggest drains identified, the next question is safety and what mistakes to avoid.
 
 ## Safety, Payback, and Common Mistakes

@@ -1,6 +1,7 @@
 ---
 title: "Gas Explained: Complete Guide to Understanding Your Natural Gas Service"
 description: "Learn how natural gas is measured, billed, and delivered to your home. Understand your gas bill, therms, and how to cut costs."
+image: "/images/articles/gas-explained/custom_hero.webp"
 date: 2024-12-01
 type: "page"
 layout: "single"
