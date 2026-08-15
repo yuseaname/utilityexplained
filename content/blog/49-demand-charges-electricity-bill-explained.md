@@ -19,7 +19,7 @@ image: "/images/articles/49-demand-charges-electricity-bill-explained/custom_her
 - **Peak demand costs: $15-45 per kW for most commercial accounts**
 - **Smart load scheduling can reduce demand charges by 20-35%**
 
-[For more detail, see our guide to [understanding your electricity bill](/blog/how-to-read-electricity-bill/).]
+[For more detail, see our guide to [understanding your electricity bill](/blog/41-how-to-read-electricity-bill/).]
 
 Have you ever opened your monthly utility statement, only to find that even though your total energy usage seemed normal, your bill has skyrocketed? It is a frustrating experience that leaves many US homeowners and renters searching for answers. You might see mysterious line items or spikes in costs that don't seem to align with your actual energy consumption. This is often where the concept of "peak usage" comes into play. Getting a clear **demand charges electricity bill explained** is the first step toward regaining control over your monthly budget and preventing these unexpected financial hits.
 

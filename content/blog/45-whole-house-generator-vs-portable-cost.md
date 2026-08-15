@@ -20,7 +20,7 @@ image: "/images/articles/45-whole-house-generator-vs-portable-cost/custom_hero.w
 - **Installation cost difference: Whole-house ($10k avg) vs Portable ($1k avg)**
 - **Portable generators run on $5-15 of gas per day during outages**
 
-[For more detail, see our guide to [home energy backup options](/blog/home-power-backup-guide/).]
+[For more detail, see our guide to [home energy backup options](/blog/45-whole-house-generator-vs-portable-cost/).]
 
 When the lights flicker and the neighborhood goes dark during a summer thunderstorm, [the immediate concern is often safety](/blog/03-why-is-my-electric-bill-so-high)., the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?
 

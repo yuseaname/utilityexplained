@@ -1,0 +1,4 @@
+{{- $asin := .Get "asin" -}}
+{{- $text := .Get "text" | default "Check current price on Amazon" -}}
+{{- $tag := .Site.Params.amazon_tag | default "litwd-20" -}}
+<a href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" class="amazon-link">{{ $text }}</a>

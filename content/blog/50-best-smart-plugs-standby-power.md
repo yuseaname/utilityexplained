@@ -49,56 +49,5 @@ Energy monitoring is the feature that turns a smart plug from a curiosity into a
 
 The TP-Link Kasa Smart Plug Slim with Energy Monitoring is the practical starting point for most US homes. It costs less in multi-packs, the Kasa app shows energy usage in clear graphs, and the slim housing leaves the second outlet on a standard duplex free. For homeowners who want to dig into the numbers, the Meross Smart Wi-Fi Plug offers more granular usage history, which is useful when building automations or alerts around specific wattage thresholds. Apple households willing to pay more can look at the Eve Energy, which uses Matter to work across HomeKit, Google, and Alexa without locking into one brand's app. Renters or anyone just testing the waters should start with the Wyze Plug, which is inexpensive enough to try on one or two outlets before committing to a whole-house rollout. Each of these four includes energy monitoring, the feature that makes savings measurable rather than guessed. With hardware picked out, the next step is getting schedules and automations set up so the plugs actually cut phantom loads instead of just reporting them.
 
-## How to Set Them Up to Actually Save
+{{< product-box asin="B0D9B6MXGS" name="Kasa Smart Plug Slim with Energy Monitoring" label="Our top pick, 2026" description="The exact model this guide recommends as the starting point for most US homes: clear energy graphs in the Kasa app, slim housing that leaves the second outlet free, and multi-pack pricing that beats buying singles." button="Check price on Amazon" >}}
 
-
-{{< image src="/images/articles/50-best-smart-plugs-standby-power/phantom-load-cut.webp" alt="Flowchart of an entertainment center phantom load cluster passing through a smart plug with a schedule, saving 50 to 150 dollars per year" caption="Cluster the idle draws behind one plug, then let the schedule do the cutting." >}}
-
-The most effective way to use smart plugs for real savings is to cluster phantom loads behind a single plug. Plug a power strip into one smart plug, then attach your entertainment center, desk peripherals, or charging hub so one schedule cuts a whole group of idle draws at once. For predictable windows, time-based schedules work well, like shutting power off from 1:00 AM to 8:00 AM when no one is watching — pairing cleanly with [cheap overnight electricity hours](/blog/46-what-time-is-electricity-cheapest/). For less predictable gaps, motion sensors or away-mode triggers kill power to monitors, printers, or game consoles when the room is empty. None of this matters, though, without energy monitoring turned on first. The app's real-time wattage readouts and historical data are what reveal which outlets are the worst offenders. To put the math in perspective, cutting a 5-watt phantom load for 20 hours a day at 15 cents per [kWh](/blog/11-understanding-kwh-usage/) saves roughly 5.50 dollars a year per outlet, so chasing tiny loads alone takes years to pay back. The real wins come from identifying the multi-watt offenders at your entertainment center and home office, then letting the schedule do the rest. With the biggest drains identified, the next question is safety and what mistakes to avoid.
-
-## Safety, Payback, and Common Mistakes
-
-Safety comes first with smart plugs. Standard consumer smart plugs are typically rated for 15 amps or about 1800 watts, which handles lamps, TVs, and most electronics fine. High-wattage heating appliances like space heaters, portable air conditioners, and electric radiators often draw right at or above that ceiling, especially on startup surges. Plugging one into an underrated smart plug can cause overheating and, in the worst case, a fire. Always check the amperage rating on both the plug and the appliance before connecting anything that generates heat, and look for plugs specifically listed for that load if you need to control a heavier device.
-
-On payback, a $30 four-pack that saves roughly $5 per month on scheduled cuts breaks even around month six. After that, every month is pure margin, and the plugs keep working for years. That math only works when you aim at the right targets. A few multi-watt offenders clustered in an entertainment center or home office will outperform dozens of one-watt trickle loads scattered elsewhere — which is why the monitoring step comes first in every plan to [lower your electric bill](/blog/03-why-is-my-electric-bill-so-high/). Use the energy monitoring feature to find those clusters first, then schedule the biggest cuts where the watts actually are. Everything else can wait.
-
-## Related Reading
-
-- [How to Check for Energy Leaks at Home (DIY)](/blog/47-check-energy-leaks-home-diy/)
-- [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/)
-- [What Is a Kilowatt-Hour?](/blog/11-understanding-kwh-usage/)
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
-
-## Frequently Asked Questions
-
-{{< faq "How much money can smart plugs actually save each year?" >}}
-
-Smart plugs can reduce standby power costs by $50-150 per year on average. Phantom loads account for 5-10% of residential electricity use, costing the average household $100-200 annually for devices that appear off. Top smart plugs use less than 1 watt themselves, so they add almost nothing to your bill.
-
-{{< /faq >}}
-
-{{< faq "Can smart plugs be dangerous with certain appliances?" >}}
-
-Yes, you should never use a standard smart plug for high-wattage heating appliances like space heaters, portable air conditioners, or electric radiators. These draw too much current and can overheat the plug, creating a fire risk. Always check the amperage rating on your smart plug before plugging anything in.
-
-{{< /faq >}}
-
-{{< faq "How do you set up smart plugs to actually save energy?" >}}
-
-Start by plugging a power strip into a single smart plug, then connect your entertainment center to the strip. Set a time-based schedule to cut power overnight, like 1:00 AM to 8:00 AM. Use the energy monitoring app to track real-time wattage and historical savings over the first month.
-
-{{< /faq >}}
-
-{{< faq "What's the best smart plug for monitoring energy use?" >}}
-
-Top picks include the TP-Link Kasa Smart Plug Slim for overall value, Meross for detailed data, and Eve Energy for Apple users thanks to Matter support. All three offer energy monitoring to track real-time wattage and history. The Wyze Plug is the best budget option for beginners wanting to start small.
-
-{{< /faq >}}
-
-{{< faq "Which household devices waste the most standby power?" >}}
-
-Entertainment centers are the biggest culprits, especially TVs, gaming consoles like PS5 and Xbox, cable boxes, soundbars, and streaming sticks. Kitchen appliances with clocks, such as microwaves and coffee makers, also drain power. Home office gear like desktop computers, monitors, and printers adds even more phantom load.
-
-{{< /faq >}}
-
-{{< faq-schema >}}

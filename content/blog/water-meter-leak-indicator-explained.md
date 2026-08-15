@@ -11,6 +11,8 @@ keywords: ["water leak detection", "water meter reading", "high water bill"]
 image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp"
 ---
 
+{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Confirm it fast" description="Your meter's leak indicator tells you something is leaking — these tell you where. Put one under each fixture; the one that alarms is your culprit. 100dB alarm, app alerts, under $25." button="Check price on Amazon" >}}
+
 <!-- Manual TOC removed: single.html now auto-generates a collapsible TOC. -->
 
 <h2 id="quick-answer">Quick Answer</h2>

@@ -18,7 +18,7 @@ image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 - **A short-cycling AC unit can increase your energy bill by 15-30%**
 - **Check your air filter first—it's the most common cause**
 
-[For more detail, see our complete guide to [AC maintenance tips](/blog/ac-maintenance-tips/).]
+[For more detail, see our complete guide to [AC maintenance tips](/blog/48-heat-pump-vs-gas-furnace-savings/).]
 
 Your air conditioner kicks on, runs for two minutes, shuts off, then starts again three minutes later. This pattern—called short cycling—is one of the most common and damaging HVAC problems homeowners face. It drives up your electricity bill, wears out your compressor prematurely, and leaves your home humid and uncomfortable. Here's what causes it and how to fix each issue.
 

@@ -525,44 +525,5 @@ Before spending on upgrades, confirm nothing on the utility side is inflating yo
 **Yes, if you use them on phantom loads.** Smart plugs ($15–$30) cut power to devices that draw standby power. A game console can save $15–$25/year. Payback: 6–12 months. A pack of three on your entertainment center usually pays for itself in under 6 months.
 {{< /faq >}}
 
-{{< faq "Is it worth replacing a working refrigerator?" >}}
-**Probably not, unless it's very old.**
+{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Whole-Home Energy Monitor" label="See every circuit" description="Smart plugs cover one outlet at a time — the Vue covers the whole house. Sixteen circuit-level sensors show exactly which appliances eat your kWh, in real time, in one app." button="Check price on Amazon" >}}
 
-- 1990s fridge: Replacing saves $80–$120/year → Payback 6–10 years
-- 2000s fridge: Replacing saves $50–$80/year → Payback 9–15 years
-- 2010+ fridge: Replacing saves $20–$40/year → Payback 15–25 years
-
-**Wait until it fails**, then buy ENERGY STAR.
-{{< /faq >}}
-
-{{< faq "Do LED bulbs really make a difference?" >}}
-**Yes, massively.**
-
-| Bulb | Wattage | Annual Cost (3 hrs/day) |
-|------|---------|-------------------------|
-| 60W incandescent | 60 W | $7.88 |
-| 9W LED | 9 W | $1.18 |
-
-**Per bulb:** $6.70/year savings
-**For 20 bulbs:** $134/year savings
-**Cost:** $30 (20 × $1.50)
-**Payback:** 3 months
-{{< /faq >}}
-
-{{< faq "Should I turn off my computer at night?" >}}
-**Yes, if you're not using it.**
-
-A desktop computer in sleep mode uses 5–10 W ($5–$10/year). In standby, it's similar. Turned off, it uses 1–2 W ($1–$2/year).
-
-**Savings:** $4–$8/year per computer
-
-**For 3 computers:** $12–$24/year
-
-**Not huge, but it adds up.**
-{{< /faq >}}
-
-{{< faq "Is a heat pump really worth it if the payback is 20+ years?" >}}
-On fuel savings alone, the simple payback can run 20–33 years — but that ignores the real-world math. Federal IRA tax credits (up to $2,000), state and utility rebates ($500–$5,000 in many states), and the comfort and resilience value of all-electric heating usually bring the effective payback to 8–15 years. If your furnace or AC is already at end of life, a heat pump is rarely a bad swap.
-{{< /faq >}}
-
-{{< faq-schema >}}

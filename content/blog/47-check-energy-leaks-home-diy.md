@@ -18,7 +18,7 @@ image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"
 - **A simple candle test can reveal most air leaks in under 30 minutes**
 - **Weatherstripping doors costs ~$10 but saves ~$35/year**
 
-[For more detail, see our guide to [home weatherization](/blog/home-weatherization-guide/).]
+[For more detail, see our guide to [home weatherization](/blog/05-how-to-lower-utility-bills/).]
 
 Are you tired of opening your monthly utility statements only to find your budget has been hijacked by skyrocketing heating and cooling costs? If you feel like you’ically are paying to heat the entire neighborhood, you aren't alone. One of the most effective, budget-friendly ways to reclaim control over your finances is to learn how to **check energy leaks at home DIY** style. 
 

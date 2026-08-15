@@ -1907,3 +1907,13 @@ button:focus-visible {
 .newsletter-btn{padding:0.75rem 1.5rem;background:#5eead4;color:#0e201c;border:none;border-radius:0.5rem;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s}
 .newsletter-btn:hover{background:#2dd4bf}
 @media(max-width:640px){.newsletter-inner{flex-direction:column;gap:0.5rem}.newsletter-form{flex-direction:column}.newsletter-btn{width:100%}}
+
+/* === Affiliate product boxes (Amazon Associates, litwd-20) === */
+.product-box{position:relative;margin:2rem 0;padding:1.5rem 1.6rem 1.4rem;border:1px solid var(--color-line,#d7cdbb);border-radius:var(--radius-lg,12px);background:#fffdf8;box-shadow:0 10px 30px -12px rgba(49,39,20,.18)}
+.product-box .product-label{display:inline-block;margin-bottom:.6rem;padding:.2rem .7rem;background:var(--color-accent-200,#f5d98e);border-radius:999px;font-size:.66rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#5c4a1e}
+.product-box .product-name{display:block;margin:0 0 .5rem;font-weight:800;font-size:1.22rem;line-height:1.2;color:#1f2937}
+.product-box p{margin:0 0 1rem;max-width:560px;color:#4b5563;font-size:.95rem;line-height:1.55}
+.product-box .product-cta{display:inline-flex;align-items:center;gap:.5rem;padding:.8rem 1.4rem;background:var(--color-accent-500,#e8a33d);color:#20141f;font-weight:700;border-radius:var(--radius-lg,10px);text-decoration:none;transition:background .18s ease,transform .18s ease;box-shadow:0 4px 14px -2px rgba(232,163,61,.45)}
+.product-box .product-cta:hover{background:var(--color-accent-400,#ebb23a);transform:translateY(-1px)}
+.product-box .product-note{display:block;margin-top:.7rem;color:#6b7280;font-size:.7rem;line-height:1.4}
+.amazon-link{font-weight:600}
