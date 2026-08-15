@@ -251,22 +251,38 @@ Utility bills can affect your credit in several ways:
 
 ## Frequently Asked Questions
 
-**How long do I have before my utility is disconnected?**
+{{< faq "How long do I have before my utility is disconnected?" >}}
+
 Typically 45 to 60 days past the due date for electric and gas utilities. Federal regulations require at least 14 days' written notice before disconnection. Water utilities may disconnect faster—some within 30 days. Exact timelines vary by state and utility.
 
-**Can I set up a payment plan for a past due balance?**
+{{< /faq >}}
+
+{{< faq "Can I set up a payment plan for a past due balance?" >}}
+
 Yes. Most utilities offer payment arrangements that spread past due amounts over 3 to 6 months. Contact customer service to request a plan. You'll need to pay current charges plus a portion of the arrears each month. You must initiate the arrangement—the utility won't offer it automatically.
 
-**Will a past due utility bill affect my credit score?**
+{{< /faq >}}
+
+{{< faq "Will a past due utility bill affect my credit score?" >}}
+
 It can. Many utilities report to credit bureaus after 30 to 60 days of non-payment. A collection account from an unpaid utility bill stays on your credit report for 7 years. Paying on time and setting up payment plans before the account reaches collections can prevent credit damage.
 
-**Can my utility disconnect me in winter?**
+{{< /faq >}}
+
+{{< faq "Can my utility disconnect me in winter?" >}}
+
 Many states have cold-weather protections that prohibit or restrict gas and electric disconnections during winter months. Protections vary by state—some prohibit disconnection below 32°F, others have full winter moratoriums (November through March). These protections typically require you to be enrolled in a payment plan.
 
-**What if I have a medical device that needs electricity?**
+{{< /faq >}}
+
+{{< faq "What if I have a medical device that needs electricity?" >}}
+
 Most utilities offer medical protection programs that delay or prevent disconnection for households with life-sustaining medical equipment. Your doctor must complete a medical certification form. This provides temporary protection (typically 30 to 90 days) while you arrange payment or assistance. It does not eliminate the debt.
 
-**How much does it cost to reconnect service after disconnection?**
+{{< /faq >}}
+
+{{< faq "How much does it cost to reconnect service after disconnection?" >}}
+
 Reconnection fees typically range from $30 to $150, plus you must pay the full past due balance and may need to pay a new security deposit ($100 to $300+). Total restoration costs often reach $300 to $600. Some utilities charge more for after-hours or weekend reconnections.
 
 ---
@@ -274,3 +290,7 @@ Reconnection fees typically range from $30 to $150, plus you must pay the full p
 *Related Reading:*
 - [Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff](/blog/28-utility-reconnection-fee-explained)
 - [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained)
+
+{{< /faq >}}
+
+{{< faq-schema >}}

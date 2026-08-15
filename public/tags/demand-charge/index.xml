@@ -1,46 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demand Charge on Utility Explained</title><link>https://utilityexplained.com/tags/demand-charge/</link><description>Recent content in Demand Charge on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/demand-charge/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Your Electric Bill Changes Month to Month (Even With Similar Usage)</title><link>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Your electric bill changes month-to-month due to variable-rate plans, seasonal usage patterns, and fluctuating fuel costs passed through by utilities.&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Seasonal swings: Winter/summer bills are 30–&lt;strong>&lt;strong>50%&lt;/strong>&lt;/strong> higher&lt;/strong> than spring/fall&lt;/li>
-&lt;li>&lt;strong>Time-of-use rates vary daily&lt;/strong> — peak hours cost 2–3x more&lt;/li>
-&lt;li>&lt;strong>Fuel adjustment charges add &lt;strong>&lt;strong>$10&lt;/strong>&lt;/strong>–&lt;strong>&lt;strong>$40&lt;/strong>&lt;/strong> per month&lt;/strong> during energy price spikes&lt;/li>
-&lt;/ul>
-&lt;p>[For more detail, see &lt;a href="https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/">why electricity bills are high in summer&lt;/a>.]&lt;/p>
-&lt;h2 id="short-answer">The short answer: same usage does not mean same total&lt;/h2>
-&lt;p class="lead">
- You kept your routine steady, but the bill moved anyway. That can
- feel unfair.
- &lt;/p></description></item><item><title>Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)</title><link>https://utilityexplained.com/blog/demand-charge-electric-bill-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/demand-charge-electric-bill-explained/</guid><description>&lt;h2 id="problem">The problem: your total is normal, but one line is huge&lt;/h2>
-&lt;p class="lead">
- Some electric bills include a line called "demand charge" that feels
- wildly out of proportion. You did not double your monthly usage, but
- that line can still be large. The missing detail is that demand charges
- are about a short peak, not your whole month.
- &lt;/p>
- &lt;p>
- This guide explains demand charges in plain English, and how to spot
- them on your bill. If you want the full electricity overview first,
- start with &lt;a href="https://utilityexplained.com/electricity-explained">Electricity Explained&lt;/a>.
- &lt;/p></description></item><item><title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title><link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid><description>&lt;h2 id="problem">The problem: two big charges that sound the same&lt;/h2>
-&lt;p class="lead">
- Many people open an electric bill and see two large sections:
- "Supply" and "Delivery." Both say electricity, so why are there two?
- That split is real, and it is one of the fastest ways to make a bill
- feel less confusing.
- &lt;/p>
- &lt;p>
- This guide separates those two buckets in plain English. If you want
- the full electricity overview, start with
- &lt;a href="https://utilityexplained.com/electricity-explained"> Electricity Explained&lt;/a>.
- &lt;/p></description></item><item><title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title><link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid><description>&lt;h2 id="problem">The problem: you used a little more, but the price jumped a lot&lt;/h2>
-&lt;p class="lead">
- If your electric bill suddenly jumped and you did not change much,
- tiered pricing is often the hidden reason. You cross a threshold,
- and the next block of electricity costs more. It feels like a penalty,
- but it is just how the rate is structured.
- &lt;/p>
- &lt;p>
- This guide turns tiered rates into something you can see and predict.
- If you want the full electricity basics first, start with
- &lt;a href="https://utilityexplained.com/electricity-explained"> Electricity Explained&lt;/a>.
- &lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demand Charge on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/demand-charge/</link>
+    <description>Recent content in Demand Charge on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/demand-charge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Your Electric Bill Changes Month to Month (Even With Similar Usage)</title>
+      <link>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill changes month-to-month due to variable-rate plans, seasonal usage patterns, and fluctuating fuel costs passed through by utilities.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seasonal swings: Winter/summer bills are 30–&lt;strong&gt;50%&lt;/strong&gt; higher** than spring/fall&lt;/li&gt;&#xA;&lt;li&gt;Time-of-use rates vary daily** — peak hours cost 2–3x more&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fuel adjustment charges add $10&lt;/strong&gt;–&lt;strong&gt;$40&lt;/strong&gt; per month** during energy price spikes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;[For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/&#34;&gt;why electricity bills are high in summer&lt;/a&gt;.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;short-answer&#34;&gt;The short answer: same usage does not mean same total&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              You kept your routine steady, but the bill moved anyway. That can&#xA;              feel unfair.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title>
+      <link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;The problem: two big charges that sound the same&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              Many people open an electric bill and see two large sections:&#xA;              &#34;Supply&#34; and &#34;Delivery.&#34; Both say electricity, so why are there two?&#xA;              That split is real, and it is one of the fastest ways to make a bill&#xA;              feel less confusing.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              This guide separates those two buckets in plain English. If you want&#xA;              the full electricity overview, start with&#xA;              &lt;a href=&#34;https://utilityexplained.com/electricity-explained&#34;&gt; Electricity Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title>
+      <link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tiered electricity rates&lt;/strong&gt; charge a lower price per kWh up to a baseline allowance (often &lt;strong&gt;400–500 kWh in summer&lt;/strong&gt;), then a higher price above it. Tier 2 typically runs &lt;strong&gt;10–30% over Tier 1&lt;/strong&gt;, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;The problem: you used a little more, but the price jumped a lot&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;If your electric bill suddenly jumped and you did not change much,&#xA;tiered pricing is often the hidden reason. You cross a threshold,&#xA;and the next block of electricity costs more. It feels like a penalty,&#xA;but it is just how the rate is structured.&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

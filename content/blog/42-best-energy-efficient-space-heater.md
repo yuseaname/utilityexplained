@@ -149,3 +149,31 @@ Remember, the goal isn't just to find a heater that produces heat, but to find a
 *Related Reading:*
 - [How to Check for Energy Leaks at Home: DIY Inspection Guide](/blog/47-check-energy-leaks-home-diy)
 - [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
+
+## Frequently Asked Questions
+
+{{< faq "How much money can an energy efficient space heater save?" >}}
+
+Energy efficient space heaters can cut heating costs by 30-50% for small areas compared to central heating. A 1500W infrared model costs about $0.20 per hour, and running one for 5 hours a day totals roughly $36 per month at the US average of $0.16 per kWh.
+
+{{< /faq >}}
+
+{{< faq "Are all electric space heaters 100% efficient?" >}}
+
+Technically, yes. Almost all electric space heaters convert 100% of electrical energy into heat. The real efficiency difference comes from heat distribution and energy management, so prioritize models with thermostatic control, dual wattage settings like 750W and 1500W, and eco-modes.
+
+{{< /faq >}}
+
+{{< faq "How can I cut my space heater's running costs in half?" >}}
+
+Use the lower 750W setting instead of 1500W whenever possible, which can drop monthly costs from $36 to $18 for 5 hours of daily use. Adding a programmable timer saves another $15-30 per month, and sealing drafts with weatherstripping keeps warmth from escaping your room.
+
+{{< /faq >}}
+
+{{< faq "Which type of space heater works best for a drafty living room?" >}}
+
+Infrared heaters are the best choice for drafty living rooms. They emit waves that directly warm people and furniture rather than heating air that drafts steal away. A 1500W infrared unit uses about $0.20 per hour, delivering quick personal warmth without wasting energy on the whole room.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

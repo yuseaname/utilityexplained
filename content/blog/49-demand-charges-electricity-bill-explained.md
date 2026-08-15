@@ -3,6 +3,7 @@ title: "Demand Charges on Your Electricity Bill Explained"
 slug: "49-demand-charges-electricity-bill-explained"
 description: "Understand demand charges and why your electricity bill spikes. Learn what they are, how they're calculated and strategies to reduce them."
 date: 2026-05-30
+aliases: ["/blog/demand-charge-electric-bill-explained/"]
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -157,3 +158,37 @@ Understanding the **demand charges electricity bill explained** is more than jus
 *Related Reading:*
 - [Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)](/blog/demand-charge-electric-bill-explained)
 - [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
+
+## Frequently Asked Questions
+
+{{< faq "How much can smart load scheduling save on demand charges?" >}}
+
+Smart load scheduling can reduce demand charges by 20-35% according to industry guidance. The strategy works by shifting heavy appliance use to off-peak hours so you avoid triggering the single highest 15 or 30 minute demand spike of the month.
+
+{{< /faq >}}
+
+{{< faq "Do demand charges only affect businesses, not homeowners?" >}}
+
+Demand charges most often appear on commercial electric bills, where they add 10-40% to the total. Residential customers rarely see them directly, but a brief 15 minute surge of high usage can still drive up costs under some time-of-use pricing plans.
+
+{{< /faq >}}
+
+{{< faq "How do I lower peak electricity demand in my home?" >}}
+
+The golden rule is never run two high-wattage appliances at the same time. Use delay-start features on dishwashers and laundry, run heavy loads after 10 PM, and pre-cool your home before the 4 PM to 9 PM evening peak window.
+
+{{< /faq >}}
+
+{{< faq "What is the difference between kW and kWh on a bill?" >}}
+
+kWh measures the total volume of electricity you used across the month, like water through a hose. kW measures the flow rate at any single moment, capturing your highest 15 or 30 minute demand spike that drives demand charges.
+
+{{< /faq >}}
+
+{{< faq "What time of day counts as peak electricity demand?" >}}
+
+For most utilities, peak demand falls between 4:00 PM and 9:00 PM when households run AC, dryers, ovens, and EV chargers at once. Demand charges are based on the single highest 15 or 30 minute interval recorded during your billing cycle.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

@@ -1,22 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rates &amp; Plans on Utility Explained</title><link>https://utilityexplained.com/blog/category/rates-plans/</link><description>Recent content in Rates &amp; Plans on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/blog/category/rates-plans/index.xml" rel="self" type="application/rss+xml"/><item><title>Budget Billing and Level Pay Explained</title><link>https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Budget billing (or level pay) plans average your annual electric costs into equal monthly payments, eliminating seasonal spikes of $100-300.&lt;/strong> Your utility reviews your usage annually and adjusts the payment amount to match actual consumption.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>You pay the same amount&lt;/strong> each month (usually $100-180 for average households)&lt;/li>
-&lt;li>&lt;strong>Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong> adjusts your payment based on actual usage&lt;/li>
-&lt;li>&lt;strong>Build a buffer&lt;/strong> by overpaying slightly during low-usage months&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill&lt;/a>.&lt;/p></description></item><item><title>Fixed vs Variable Utility Rates: Which One Saves You More Money?</title><link>https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Fixed rates lock in your price per kWh for 12-24 months (typically $0.12-0.18), protecting you from price spikes, while variable rates fluctuate monthly with the market (often $0.10-0.25).&lt;/strong> Fixed rates offer stability but may cost more if market prices drop.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Choose fixed rates&lt;/strong> if you want predictable monthly bills&lt;/li>
-&lt;li>&lt;strong>Choose variable rates&lt;/strong> if you&amp;rsquo;re willing to risk price changes for potential savings&lt;/li>
-&lt;li>&lt;strong>Most fixed contracts&lt;/strong> have early termination fees of $50-150&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/11-understanding-kwh-usage/">Understanding kWh Usage&lt;/a>.&lt;/p></description></item><item><title>Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save</title><link>https://utilityexplained.com/blog/08-time-of-use-electricity/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/08-time-of-use-electricity/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Time-of-Use (TOU) rates charge you different prices based on when you use electricity — typically $0.12-0.15/kWh during off-peak, $0.25-0.40/kWh during peak hours (4-9 PM).&lt;/strong> You can save 15-25% on your bill by shifting usage to cheaper times.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Off-peak hours&lt;/strong> (nights, mornings, midday) have the lowest rates&lt;/li>
-&lt;li>&lt;strong>Peak hours&lt;/strong> (usually 4-9 PM) cost 2-3x more&lt;/li>
-&lt;li>&lt;strong>Shift 50% of usage&lt;/strong> to off-peak to save $30-60/month&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/46-what-time-is-electricity-cheapest/">When Is Electricity Cheapest&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rates &amp; Plans on Utility Explained</title>
+    <link>https://utilityexplained.com/blog/category/rates-plans/</link>
+    <description>Recent content in Rates &amp; Plans on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/blog/category/rates-plans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Budget Billing and Level Pay Explained</title>
+      <link>https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Budget billing (or level pay) plans average your annual electric costs into equal monthly payments, eliminating seasonal spikes of $100-300.&lt;/strong&gt; Your utility reviews your usage annually and adjusts the payment amount to match actual consumption.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;You pay the same amount&lt;/strong&gt; each month (usually $100-180 for average households)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong&gt; adjusts your payment based on actual usage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build a buffer&lt;/strong&gt; by overpaying slightly during low-usage months&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/&#34;&gt;How to Read Your Electric Bill&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fixed vs Variable Utility Rates: Which One Saves You More Money?</title>
+      <link>https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fixed rates lock in your price per kWh for 12-24 months (typically $0.12-0.18), protecting you from price spikes, while variable rates fluctuate monthly with the market (often $0.10-0.25).&lt;/strong&gt; Fixed rates offer stability but may cost more if market prices drop.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Choose fixed rates&lt;/strong&gt; if you want predictable monthly bills&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Choose variable rates&lt;/strong&gt; if you&amp;rsquo;re willing to risk price changes for potential savings&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Most fixed contracts&lt;/strong&gt; have early termination fees of $50-150&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you live in a state with energy choice (a deregulated market), you&amp;rsquo;ve probably seen offers to &amp;ldquo;lock in&amp;rdquo; your electricity or gas rate for 12–36 months. Is that a good deal, should you float with the market, or is there a third option?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save</title>
+      <link>https://utilityexplained.com/blog/08-time-of-use-electricity/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/08-time-of-use-electricity/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Time-of-Use (TOU) rates charge different prices by time of day — typically &lt;strong&gt;$0.12–$0.15/kWh&lt;/strong&gt; off-peak vs. &lt;strong&gt;$0.25–$0.40/kWh&lt;/strong&gt; on-peak (usually 4–9 PM weekdays). Shifting laundry, EV charging, dishwashing, and pool pumps to overnight or weekend off-peak windows can cut your electric bill 15–25%.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Off-peak hours&lt;/strong&gt; (nights, early mornings, weekends) carry the lowest rates&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;On-peak hours&lt;/strong&gt; (typically 4–9 PM weekdays) cost 2–3× more&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shift 50% of usage to off-peak&lt;/strong&gt; to save roughly $30–$60/month&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If your utility has offered you a time-of-use rate plan, whether it saves money depends on when you use power. Households that can move most of their usage to off-peak windows save 15–25% on the same kWh; households that can&amp;rsquo;t shift much often pay more. Your peak-to-off-peak price ratio, how much load you can move, and your current usage pattern are the three numbers that decide it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

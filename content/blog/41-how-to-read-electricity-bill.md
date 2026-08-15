@@ -148,3 +148,37 @@ Don't let your utility bill remain a mystery that causes monthly stress. Use the
 *Related Reading:*
 - [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
 - [Demand Charges on Your Electricity Bill Explained](/blog/49-demand-charges-electricity-bill-explained)
+
+## Frequently Asked Questions
+
+{{< faq "What percentage of my electric bill is supply vs delivery?" >}}
+
+Supply charges make up 60-70% of your bill and cover the actual energy produced by power plants. Delivery charges account for 30-40% and pay for fixed infrastructure like poles, wires, and meters. Additional fees typically average $15-30 per month on top of these two categories.
+
+{{< /faq >}}
+
+{{< faq "Can I lower the delivery charges on my electric bill?" >}}
+
+Delivery charges are fixed and non-negotiable because they cover grid maintenance including poles, wires, transformers, and meters. You will pay them even if you use zero electricity. To save money, focus on the supply portion, which is 60-70% of your bill and often competitive in deregulated markets like Texas and parts of the Northeast.
+
+{{< /faq >}}
+
+{{< faq "Why is my electric bill higher than usual this month?" >}}
+
+Check the billing period first, because a 33-day cycle costs more than a 28-day one with the same habits. Look at whether the meter reading says Estimated or Actual, since estimates can cause spikes when corrected. Also compare same-month usage year-over-year before assuming something is wrong.
+
+{{< /faq >}}
+
+{{< faq "What is a kWh on an electricity bill?" >}}
+
+A kilowatt-hour measures energy use, specifically running 1,000 watts for one hour. A 10W LED bulb on for 100 hours equals 1 kWh, and a 1,000W window air conditioner running for 1 hour also equals 1 kWh. Your total kWh shows how much electricity your home consumed during the billing cycle.
+
+{{< /faq >}}
+
+{{< faq "What uses the most electricity in a typical home?" >}}
+
+Heating and cooling systems, or HVAC, typically consume 40-50% of total home energy, making them the single largest driver of your bill. This is why bills spike in July or January. Setting your thermostat to 78 degrees in summer and 68 in winter offers the biggest savings opportunity.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

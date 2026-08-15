@@ -140,3 +140,37 @@ Start small. This week, try running your laundry or dishwasher during the late-n
 *Related Reading:*
 - [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity)
 - [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage)
+
+## Frequently Asked Questions
+
+{{< faq "How much money can off-peak electricity hours save you?" >}}
+
+Shifting major appliance use to off-peak hours can save $20-60 per month on your bill. Off-peak rates run 30-50% lower than peak rates, which are 2-3x higher. Over a year, that adds up to hundreds of dollars in savings for most households.
+
+{{< /faq >}}
+
+{{< faq "Is there one cheapest hour for electricity everywhere in the US?" >}}
+
+No, there is no single magic hour for cheap electricity across the country. The cheapest time depends on your specific utility provider and rate plan. Major providers like PG&E in California, ConEd in New York, and Duke Energy in the Carolinas all publish their own schedules online.
+
+{{< /faq >}}
+
+{{< faq "Which appliances should you run during off-peak hours?" >}}
+
+Move high-load appliances to off-peak windows, meaning before 9 AM or after 9 PM. Run dishwashers using the Delay Start feature around 2 AM. Shift laundry and electric dryers from 6 PM to 11 PM. Electric vehicles should always charge overnight on a time-of-use plan.
+
+{{< /faq >}}
+
+{{< faq "What is a time-of-use electricity rate plan?" >}}
+
+A time-of-use, or TOU, plan charges different rates for electricity based on the time of day. Prices are highest during peak hours like 4-9 PM and lowest during off-peak windows like 11 PM-6 AM. Your bill can actually go up if you do not change your habits.
+
+{{< /faq >}}
+
+{{< faq "Does shifting usage help if you have a flat-rate plan?" >}}
+
+No, it does not. With flat-rate pricing, you pay the same amount per kilowatt-hour regardless of when you use power. Shifting usage to off-peak hours only saves money on time-of-use or variable rate plans. Reducing total usage still helps, but timing alone does not.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

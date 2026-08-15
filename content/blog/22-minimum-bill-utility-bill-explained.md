@@ -120,23 +120,31 @@ Some strategies for seasonal property owners include:
 
 ## Frequently Asked Questions
 
-**Why is there a minimum charge on my utility bill even when I used almost nothing?**
+{{< faq "Why is there a minimum charge on my utility bill even when I used almost nothing?" >}}
 
 The minimum charge covers the fixed costs of maintaining the infrastructure connected to your home — the wires, meters, billing systems, and grid capacity — regardless of how much electricity, gas, or water you actually consume. Every connected customer shares these costs.
 
-**Can I get my minimum bill waived?**
+{{< /faq >}}
+
+{{< faq "Can I get my minimum bill waived?" >}}
 
 In most cases, no. The minimum bill is an approved tariff item set by your state public utility commission. The only common exception is seasonal or vacation disconnect programs offered by some utilities, which replace the standard minimum with a lower vacant-property rate.
 
-**Is the minimum bill the same as the customer charge?**
+{{< /faq >}}
+
+{{< faq "Is the minimum bill the same as the customer charge?" >}}
 
 Not always. The customer charge is a fixed monthly fee, while the minimum bill is the lowest total bill amount. In some cases, the minimum bill equals the customer charge. In others, it includes the customer charge plus a minimum usage charge.
 
-**Do solar customers still pay a minimum bill?**
+{{< /faq >}}
+
+{{< faq "Do solar customers still pay a minimum bill?" >}}
 
 Yes. In most states in 2026, net metering policies require solar customers to pay at minimum the standard customer charge or a dedicated solar minimum bill. This means even if your solar panels produce more than you consume, you will still owe a fixed monthly charge.
 
-**Why are minimum bills increasing?**
+{{< /faq >}}
+
+{{< faq "Why are minimum bills increasing?" >}}
 
 Utilities are filing for higher fixed charges because per-kWh consumption has been declining due to energy efficiency, LED lighting, and distributed solar generation. Since fixed infrastructure costs remain constant or grow, utilities argue that shifting more costs to fixed charges ensures equitable cost recovery across all customer classes.
 
@@ -149,3 +157,7 @@ Utilities are filing for higher fixed charges because per-kWh consumption has be
 - [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/)
 - [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
 - [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)
+
+{{< /faq >}}
+
+{{< faq-schema >}}

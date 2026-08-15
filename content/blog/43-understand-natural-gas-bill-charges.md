@@ -158,3 +158,37 @@ Don't let a high bill catch you off guard. Start with the small, actionable chan
 *Related Reading:*
 - [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
 - [How to Read Your Gas Bill: A Plain-English Guide to Every Line Item](/blog/12-how-to-read-your-gas-bill)
+
+## Frequently Asked Questions
+
+{{< faq "How much can lowering my thermostat save on my gas bill?" >}}
+
+Lowering your thermostat by 7 to 10 degrees Fahrenheit for 8 hours a day, such as while you are at work or sleeping, can save you up to 10% a year on heating costs. This is the single most effective habit for reducing gas expenses.
+
+{{< /faq >}}
+
+{{< faq "Why am I charged for gas even when I don't use any?" >}}
+
+Even with zero gas usage, you'll still see charges on your bill. A customer service fee of $5 to $15 per month covers account maintenance, and delivery charges (typically 40 to 60% of your total bill) fund pipes, meter reading, and emergency services regardless of consumption.
+
+{{< /faq >}}
+
+{{< faq "How do I tell if my gas bill is estimated or actual?" >}}
+
+Look on your statement for the words 'Estimated' or 'Actual.' If your meter wasn't accessible due to snow, a locked gate, or a dog, the utility estimates usage based on your history. After several estimates, an actual reading can result in a large catch-up bill covering previously unbilled gas.
+
+{{< /faq >}}
+
+{{< faq "What is a smart thermostat and does it really help?" >}}
+
+A smart thermostat, like a Nest or Ecobee, is a programmable device that automates your home's heating schedule. It learns your routine and adjusts temperatures so you are not heating an empty house, helping you reduce gas consumption without constant manual adjustments.
+
+{{< /faq >}}
+
+{{< faq "What's the difference between therms and CCF on my bill?" >}}
+
+Therms measure heat energy, with one therm equal to 100,000 BTUs. CCF measures volume, where 1 CCF equals 100 cubic feet of gas. Utilities apply a conversion factor to turn CCF into therms, so steady CCF with rising therms means the gas energy density has changed.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

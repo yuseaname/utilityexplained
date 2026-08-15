@@ -80,21 +80,50 @@ image: "/images/articles/stormwater-fee-on-water-bill-explained/stormwater-fee-o
 <p>For homeowners, this means budgeting for potential increases. If your city is in a growth phase or facing aging infrastructure issues, a fee adjustment is likely. Keep an eye on city council meeting minutes regarding utility rates. Most cities are required to hold public hearings before increasing utility fees, giving you a chance to understand the justification before the new rates hit your bill.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
-<p>Here are the most common questions homeowners have regarding the stormwater fee on their water bill, based on municipal data and utility guidelines.</p>
-<h3>1. Is the stormwater fee considered a tax?</h3>
-<p>No. Most jurisdictions explicitly classify this as a utility user fee, not a tax. For example, the City of Alexandria states that the Stormwater Utility Fee is not a tax, but a charge for a specific service (runoff management). This distinction matters because fees are tied to the service provided and the property's impact on the system, whereas taxes are broad revenue sources.</p>
-<h3>2. Why is the fee on my water bill if I don't use water for it?</h3>
-<p>The fee is bundled with the water bill for administrative efficiency. The water utility already has your billing information and collection systems. However, the charge itself is not based on water consumption. It is based on the size of your property's impervious surface, which generates runoff regardless of whether you use indoor water.</p>
-<h3>3. Can I get a discount if I have a small roof?</h3>
-<p>Yes, in many cases. Since the fee is calculated based on impervious surface area (like the Single Family Equivalent Unit used in Raleigh), a property with less hard surface area will be billed less. If your property is smaller than the standard unit definition, you may qualify for a reduced rate. You must check with your local utility provider to see if they offer pro-rated billing for smaller properties.</p>
-<h3>4. What happens if I don't pay the stormwater fee?</h3>
-<p>Failure to pay this fee is treated similarly to non-payment of water or sewer charges. Depending on the municipality, late fees may be applied, or the amount could be added to your property tax lien. In some cases, consistent non-payment can lead to service interruption or legal action, similar to other utility defaults.</p>
-<h3>5. Does the fee cover water main breaks or leaks?</h3>
-<p>Generally, no. Stormwater fees fund the drainage system (pipes, inlets, catch basins) that handles rainwater. They do not typically fund the potable water distribution system or wastewater treatment. However, in combined sewer systems (common in older cities like Philadelphia), stormwater and wastewater pipes are connected, so the fee helps maintain infrastructure that handles both flows during heavy rain.</p>
-<h3>6. Why did my stormwater fee increase suddenly?</h3>
-<p>Sudden increases are often due to scheduled rate hikes approved by the city council to fund new infrastructure projects or to catch up with inflation. For instance, Fort Worth proposed a significant increase to generate **$3.4 million** in additional revenue. Always check utility announcements or city council meeting summaries to understand the specific reason for a rate change in your area.</p>
-<h3>7. Can I appeal my stormwater assessment?</h3>
-<p>Yes. If you believe your impervious surface area was miscalculated, you can usually appeal the assessment. You may need to provide a survey or a site plan showing the actual square footage of your driveway and roof. Contact your local water department or tax assessor's office for the specific appeal process and deadlines.</p>
+
+{{< faq "Is the stormwater fee considered a tax?" >}}
+
+No. Most jurisdictions explicitly classify this as a utility user fee, not a tax. For example, the City of Alexandria states that the Stormwater Utility Fee is not a tax, but a charge for a specific service (runoff management). This distinction matters because fees are tied to the service provided and the property's impact on the system, whereas taxes are broad revenue sources.
+
+{{< /faq >}}
+
+{{< faq "Why is the fee on my water bill if I don't use water for it?" >}}
+
+The fee is bundled with the water bill for administrative efficiency. The water utility already has your billing information and collection systems. However, the charge itself is not based on water consumption. It is based on the size of your property's impervious surface, which generates runoff regardless of whether you use indoor water.
+
+{{< /faq >}}
+
+{{< faq "Can I get a discount if I have a small roof?" >}}
+
+Yes, in many cases. Since the fee is calculated based on impervious surface area (like the Single Family Equivalent Unit used in Raleigh), a property with less hard surface area will be billed less. If your property is smaller than the standard unit definition, you may qualify for a reduced rate. You must check with your local utility provider to see if they offer pro-rated billing for smaller properties.
+
+{{< /faq >}}
+
+{{< faq "What happens if I don't pay the stormwater fee?" >}}
+
+Failure to pay this fee is treated similarly to non-payment of water or sewer charges. Depending on the municipality, late fees may be applied, or the amount could be added to your property tax lien. In some cases, consistent non-payment can lead to service interruption or legal action, similar to other utility defaults.
+
+{{< /faq >}}
+
+{{< faq "Does the fee cover water main breaks or leaks?" >}}
+
+Generally, no. Stormwater fees fund the drainage system (pipes, inlets, catch basins) that handles rainwater. They do not typically fund the potable water distribution system or wastewater treatment. However, in combined sewer systems (common in older cities like Philadelphia), stormwater and wastewater pipes are connected, so the fee helps maintain infrastructure that handles both flows during heavy rain.
+
+{{< /faq >}}
+
+{{< faq "Why did my stormwater fee increase suddenly?" >}}
+
+Sudden increases are often due to scheduled rate hikes approved by the city council to fund new infrastructure projects or to catch up with inflation. For instance, Fort Worth proposed a significant increase to generate **$3.4 million** in additional revenue. Always check utility announcements or city council meeting summaries to understand the specific reason for a rate change in your area.
+
+{{< /faq >}}
+
+{{< faq "Can I appeal my stormwater assessment?" >}}
+
+Yes. If you believe your impervious surface area was miscalculated, you can usually appeal the assessment. You may need to provide a survey or a site plan showing the actual square footage of your driveway and roof. Contact your local water department or tax assessor's office for the specific appeal process and deadlines.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="conclusion">Conclusion</h2>
 <p>The <strong>stormwater fee on water bill</strong> is a legitimate charge designed to fund the critical infrastructure that manages rainwater runoff, prevents flooding, and protects local waterways. While it may feel like an extra cost, it represents a shift toward more equitable billing where property owners pay based on their contribution to the runoff problem rather than a flat tax.</p>

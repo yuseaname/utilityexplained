@@ -66,13 +66,44 @@ image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charg
 <p><strong>5. Consider Renewable Options</strong> If you are concerned about the supply charge volatility, consider switching to an electric heat pump if your climate allows. While this involves an upfront investment, it decouples your heating from the natural gas market entirely. However, be aware that this shifts your cost to the electricity bill, which has its own delivery and supply dynamics.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
-<p>Here are the most common questions homeowners have regarding the split between delivery and supply charges.</p>
-<p><strong>1. Can I refuse the delivery charge?</strong> No. The delivery charge is mandatory because it pays for the physical infrastructure required to bring energy to your property. Even if you switch to a competitive supplier for the gas itself, that gas must travel through the utility's pipes, so you must pay the delivery fee.</p>
-<p><strong>2. Who sets the price for the supply charge?</strong> The supply charge is tied to wholesale natural gas prices. In regulated default service, the utility usually passes that cost through without markup. In deregulated markets, a competitive supplier can set its own offer, including fixed-rate or variable-rate plans.</p>
-<p><strong>3. Why is my delivery charge higher than my supply charge?</strong> This is common when wholesale gas prices are low or when your utility has major infrastructure costs. Delivery charges pay for pipes, meters, maintenance, safety inspections, billing systems, and regulated utility operations.</p>
-<p><strong>4. Can switching gas suppliers remove my delivery charge?</strong> No. Switching suppliers only changes who sells you the gas. Your local utility still delivers that gas through its pipe network, so the delivery charge remains on the bill.</p>
-<p><strong>5. Which charge should I focus on to save money?</strong> Focus on usage first because lower consumption reduces both supply and delivery charges. After that, compare supply rates if your state allows gas supplier choice. Delivery rates usually require public utility commission action, not individual shopping.</p>
-<p><strong>6. Are delivery charges the same as fixed monthly fees?</strong> Not always. Some delivery charges vary with usage, while customer charges are fixed monthly fees. Your bill may include both. Review the rate table so you know which charges change when you use less gas.</p>
+
+{{< faq "Can I refuse the delivery charge?" >}}
+
+No. The delivery charge is mandatory because it pays for the physical infrastructure required to bring energy to your property. Even if you switch to a competitive supplier for the gas itself, that gas must travel through the utility's pipes, so you must pay the delivery fee.
+
+{{< /faq >}}
+
+{{< faq "Who sets the price for the supply charge?" >}}
+
+The supply charge is tied to wholesale natural gas prices. In regulated default service, the utility usually passes that cost through without markup. In deregulated markets, a competitive supplier can set its own offer, including fixed-rate or variable-rate plans.
+
+{{< /faq >}}
+
+{{< faq "Why is my delivery charge higher than my supply charge?" >}}
+
+This is common when wholesale gas prices are low or when your utility has major infrastructure costs. Delivery charges pay for pipes, meters, maintenance, safety inspections, billing systems, and regulated utility operations.
+
+{{< /faq >}}
+
+{{< faq "Can switching gas suppliers remove my delivery charge?" >}}
+
+No. Switching suppliers only changes who sells you the gas. Your local utility still delivers that gas through its pipe network, so the delivery charge remains on the bill.
+
+{{< /faq >}}
+
+{{< faq "Which charge should I focus on to save money?" >}}
+
+Focus on usage first because lower consumption reduces both supply and delivery charges. After that, compare supply rates if your state allows gas supplier choice. Delivery rates usually require public utility commission action, not individual shopping.
+
+{{< /faq >}}
+
+{{< faq "Are delivery charges the same as fixed monthly fees?" >}}
+
+Not always. Some delivery charges vary with usage, while customer charges are fixed monthly fees. Your bill may include both. Review the rate table so you know which charges change when you use less gas.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="bottom-line">Bottom Line</h2>
 <p>The supply charge pays for the natural gas itself. The delivery charge pays to move that gas safely through the local utility network and maintain the infrastructure behind it. You may be able to shop for supply in a deregulated state, but delivery is tied to your local utility.</p>

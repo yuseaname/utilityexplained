@@ -1,33 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sewer on Utility Explained</title><link>https://utilityexplained.com/tags/sewer/</link><description>Recent content in Sewer on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/sewer/index.xml" rel="self" type="application/rss+xml"/><item><title>Stormwater Fee on Your Water Bill: What You</title><link>https://utilityexplained.com/blog/stormwater-fee-on-water-bill-explained/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/stormwater-fee-on-water-bill-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>A stormwater fee covers the cost of managing rainwater runoff from streets and properties.&lt;/strong> It is usually a flat monthly charge on your water or utility bill, separate from your water usage charges. You typically cannot reduce it by using less water, but some utilities offer discounts for installing permeable surfaces or rain barrels.&lt;/p>
-&lt;h2 id="what-is-a-stormwater-fee-exactly">What Is a Stormwater Fee Exactly?&lt;/h2>
-&lt;p>To understand the &lt;strong>stormwater fee on water bill&lt;/strong>, you must first understand the difference between a utility service and a tax. Many municipalities explicitly state that this charge is a user fee, not a tax. For example, the City of Alexandria, Virginia, clarifies on its official website that the Stormwater Utility Fee is included as a separate line item on the real estate tax bill but is "not a tax." It is a utility user fee modeled after how residents are billed for other services like water and sewer.&lt;/p></description></item><item><title>Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use</title><link>https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/</guid><description>&lt;h2 id="problem">The problem: your sewer charge stays high even when your summer use drops&lt;/h2>
-&lt;p class="lead">
- You cut back on outdoor watering, your water use goes down, but the sewer
- charge barely moves. That mismatch makes a lot of people think the bill
- is wrong.
- &lt;/p>
- &lt;p>
- In most cities, the sewer line is not metered directly. Instead, the
- utility estimates your wastewater based on a winter average or a fixed
- seasonal formula. Once you understand that system, the charge makes more
- sense.
- &lt;/p></description></item><item><title>How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)</title><link>https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>
- &lt;strong>Sewer charges pay for collecting and treating the water that leaves your home.&lt;/strong>
- Most residential sewer bills are based on your water usage (often
- measured in [CCF](/blog/what-is-ccf-on-a-water-bill/)), a &lt;strong>"winter average"&lt;/strong> (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a flat monthly fee. Sewer can
- cost &lt;em>more&lt;/em> than water because wastewater treatment is expensive
- and carries large fixed costs. You usually cannot remove the fixed fee,
- but you &lt;em>can&lt;/em> often lower the usage-based part by &lt;strong>fixing leaks&lt;/strong> — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so &lt;strong>check this first&lt;/strong>
- and cutting indoor water use.
- &lt;/p></description></item><item><title>Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)</title><link>https://utilityexplained.com/blog/is-your-toilet-running-leak-test/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/is-your-toilet-running-leak-test/</guid><description>&lt;h2 id="quick-answer">Quick Answer: The 10-Minute Toilet Leak Test&lt;/h2>
-&lt;p>&lt;strong>A running toilet can waste 200–400 gallons per day and add $50–$100+ to your water bill.&lt;/strong> Here is how to test for one right now:&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>Remove the toilet tank lid.&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Add 5–10 drops of food coloring&lt;/strong> (or a dye tablet) to the tank water.&lt;/li>
-&lt;li>&lt;strong>Wait 10–15 minutes without flushing.&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Check the bowl.&lt;/strong> If any color appears in the bowl, your flapper is leaking.&lt;/li>
-&lt;li>&lt;strong>If color appears:&lt;/strong> The flapper valve needs replacing (a $10–$15 part, 15-minute DIY fix).&lt;/li>
-&lt;/ol>
-&lt;p>Want to confirm with your water meter? Turn off all water, check the &lt;a href="https://utilityexplained.com/blog/water-meter-leak-indicator-explained/">leak indicator dial&lt;/a>, and see if it moves. If it does and the toilet test is negative, you may have a &lt;a href="https://utilityexplained.com/blog/water-meter-running-when-no-water-used/">hidden leak elsewhere&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sewer on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/sewer/</link>
+    <description>Recent content in Sewer on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/sewer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stormwater Fee on Your Water Bill: What You</title>
+      <link>https://utilityexplained.com/blog/stormwater-fee-on-water-bill-explained/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/stormwater-fee-on-water-bill-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A stormwater fee covers the cost of managing rainwater runoff from streets and properties.&lt;/strong&gt; It is usually a flat monthly charge on your water or utility bill, separate from your water usage charges. You typically cannot reduce it by using less water, but some utilities offer discounts for installing permeable surfaces or rain barrels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-stormwater-fee-exactly&#34;&gt;What Is a Stormwater Fee Exactly?&lt;/h2&gt;&#xA;&lt;p&gt;To understand the &lt;strong&gt;stormwater fee on water bill&lt;/strong&gt;, you must first understand the difference between a utility service and a tax. Many municipalities explicitly state that this charge is a user fee, not a tax. For example, the City of Alexandria, Virginia, clarifies on its official website that the Stormwater Utility Fee is included as a separate line item on the real estate tax bill but is &#34;not a tax.&#34; It is a utility user fee modeled after how residents are billed for other services like water and sewer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use</title>
+      <link>https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/</guid>
+      <description>&lt;h2 id=&#34;problem&#34;&gt;The problem: your sewer charge stays high even when your summer use drops&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              You cut back on outdoor watering, your water use goes down, but the sewer&#xA;              charge barely moves. That mismatch makes a lot of people think the bill&#xA;              is wrong.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              In most cities, the sewer line is not metered directly. Instead, the&#xA;              utility estimates your wastewater based on a winter average or a fixed&#xA;              seasonal formula. Once you understand that system, the charge makes more&#xA;              sense.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Than Water)</title>
+      <link>https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              &lt;strong&gt;Most residential sewer bills are calculated one of three ways:&lt;/strong&gt; a &lt;strong&gt;usage-based&lt;/strong&gt; charge tied to your measured water use (often shown in [CCF](/blog/what-is-ccf-on-a-water-bill/) or gallons), a &lt;strong&gt;&#34;winter average&#34;&lt;/strong&gt; (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a &lt;strong&gt;flat monthly fee&lt;/strong&gt;. Sewer charges pay to collect and treat the water that leaves your home, and they often cost &lt;em&gt;more&lt;/em&gt; than water because wastewater treatment is expensive and carries large fixed costs. You usually can&#39;t remove the fixed fee, but you can often lower the usage-based part by &lt;strong&gt;fixing leaks&lt;/strong&gt; — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so check that first.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)</title>
+      <link>https://utilityexplained.com/blog/is-your-toilet-running-leak-test/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/is-your-toilet-running-leak-test/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer: Is Your Toilet Running?&lt;/h2&gt;&#xA;&lt;p&gt;A running toilet can waste 200–400 gallons a day and add &lt;strong&gt;$50–$100+&lt;/strong&gt; a month to your water bill (U.S. EPA WaterSense estimate). Test it in 10 minutes: drop 10 drops of food coloring in the tank, wait 10–15 minutes without flushing; if color appears in the bowl, the flapper is leaking.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dye-test&#34;&gt;Run the 10-Minute Dye Test&lt;/h2&gt;&#xA;&lt;p&gt;The dye test is the fastest way to confirm a toilet leak without any tools. It isolates the flapper, which causes the majority of running-toilet problems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

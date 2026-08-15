@@ -1,55 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Customer Charge on Utility Explained</title><link>https://utilityexplained.com/tags/customer-charge/</link><description>Recent content in Customer Charge on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/customer-charge/index.xml" rel="self" type="application/rss+xml"/><item><title>Gas Customer Charge Explained (Why You Pay Even With Low Usage)</title><link>https://utilityexplained.com/blog/gas-customer-charge-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/gas-customer-charge-explained/</guid><description>&lt;h2 id="problem">The problem: you used very little gas, but the bill still arrived&lt;/h2>
-&lt;p class="lead">
- Many people cut usage in summer and expect the bill to drop close to
- zero. Then the statement shows a steady monthly charge anyway.
- &lt;/p>
- &lt;p>
- That line is usually the customer charge (also called a basic service
- charge). It is standard on most gas bills, and it does not depend on
- therms used.
- &lt;/p>
-&lt;h2 id="toc">Table of contents&lt;/h2>
-&lt;ul>
- &lt;li>&lt;a href="#quick-answer">The short answer&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#what-it-covers">What the customer charge covers&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#why-it-stays">Why it does not go away&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#where-on-bill">Where to find it on the bill&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#compare">How it affects bill comparisons&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#supply-delivery">Customer charge vs supply vs delivery&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#misconceptions">Common misconceptions&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#faqs">FAQs&lt;/a>&lt;/li>
- &lt;/ul>
-&lt;h2 id="quick-answer">The short answer&lt;/h2>
-&lt;p>
- The customer charge is a fixed monthly fee that keeps your gas
- service active. It helps cover meter service, billing, and the
- infrastructure needed to deliver gas safely.
- &lt;/p></description></item><item><title>Electric Bill Breakdown: Every Charge Explained</title><link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Your electric bill contains 5-7 line items: Service Charge ($10-25 fixed), Energy Charge (usage × rate $0.08-0.15/kWh), Distribution/Transmission fees ($0.02-0.05/kWh), Regulatory/Environmental fees ($0.005-0.02/kWh), and Taxes (5-8%).&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Fact:&lt;/strong> Delivery and transmission charges can add 30-50% on top of base energy costs&lt;/li>
-&lt;li>&lt;strong>Action:&lt;/strong> Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month to track real usage changes vs. rate increases&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/how-to-lower-electric-bill-complete-guide/">How to Lower Your Electric Bill&lt;/a>.&lt;/p>
-&lt;h2 id="start-here">Start here: the four numbers that explain most bills&lt;/h2>
-&lt;p>
- Electric bills look complicated because they combine usage-based
- charges with infrastructure charges. But most of the story is usually
- explained by four things:
- &lt;/p></description></item><item><title>Why Your Utility Bill Can Be Higher Even If Your Usage Didn</title><link>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
-&lt;p>
- A utility bill can be higher even when your "usage" looks similar because
- the total is not just usage x price. Most bills include a mix of:
- &lt;strong> billing days&lt;/strong>, &lt;strong>rate changes&lt;/strong>,
- &lt;strong> fixed customer charges&lt;/strong>, and sometimes
- &lt;strong> tiers&lt;/strong> or &lt;strong>time-of-use pricing&lt;/strong>.
- &lt;/p>
- &lt;p>
- The fastest way to reduce confusion is to follow a simple order:
- &lt;strong>days, usage per day, unit price, fixed fees, tiers&lt;/strong>.
- &lt;/p>
- &lt;p>
- For the overall billing model (usage vs delivery vs fixed fees), start
- at
- &lt;a href="https://utilityexplained.com/utility-bills-costs-explained"> Utility Bills &amp;amp; Costs Explained&lt;/a>.
- &lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer Charge on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/customer-charge/</link>
+    <description>Recent content in Customer Charge on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/customer-charge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gas Customer Charge Explained (Why You Pay Even With Low Usage)</title>
+      <link>https://utilityexplained.com/blog/gas-customer-charge-explained/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/gas-customer-charge-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The gas customer charge is a fixed monthly fee — typically $8 to $27 — that every connected customer pays, no matter how little gas is used.&lt;/strong&gt; It funds meter reading, billing, pipeline maintenance, and safety programs, and it&#39;s set by your state utility commission through a rate case, not by the utility&#39;s discretion. Low-income discount programs and LIHEAP can reduce it for qualifying households.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why that July bill still costs money.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electric Bill Breakdown: Every Charge Explained</title>
+      <link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for &lt;strong&gt;70–80% of your total bill&lt;/strong&gt;, with the customer charge paid even on zero-usage months.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month — that tells you whether a jump came from more usage or a rate change.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;One line look wrong? Here&#39;s where to dig in:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Your Utility Bill Can Be Higher Even If Your Usage Didn</title>
+      <link>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              A utility bill can be higher even when your &#34;usage&#34; looks similar because&#xA;              the total is not just usage x price. Most bills include a mix of:&#xA;              &lt;strong&gt; billing days&lt;/strong&gt;, &lt;strong&gt;rate changes&lt;/strong&gt;,&#xA;              &lt;strong&gt; fixed customer charges&lt;/strong&gt;, and sometimes&#xA;              &lt;strong&gt; tiers&lt;/strong&gt; or &lt;strong&gt;time-of-use pricing&lt;/strong&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The fastest way to reduce confusion is to follow a simple order:&#xA;              &lt;strong&gt;days, usage per day, unit price, fixed fees, tiers&lt;/strong&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              For the overall billing model (usage vs delivery vs fixed fees), start&#xA;              at&#xA;              &lt;a href=&#34;https://utilityexplained.com/utility-bills-costs-explained&#34;&gt; Utility Bills &amp;amp; Costs Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

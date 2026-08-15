@@ -6,4 +6,5 @@
   <h3 class="font-semibold text-gray-900">{{ $question }}</h3>
   <div class="text-gray-600 mt-1">{{ $answer | safeHTML }}</div>
 </div>
-{{- .Page.Store.Add "faqs" (slice (dict "q" $question "a" .Inner)) -}}
+{{- /* Store plainified answer text: JSON-LD must carry plain text, not markdown */ -}}
+{{- .Page.Store.Add "faqs" (slice (dict "q" $question "a" ($answer | plainify))) -}}

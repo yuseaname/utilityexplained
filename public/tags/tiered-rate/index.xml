@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tiered Rate on Utility Explained</title><link>https://utilityexplained.com/tags/tiered-rate/</link><description>Recent content in Tiered Rate on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/tiered-rate/index.xml" rel="self" type="application/rss+xml"/><item><title>Tiered Water Rates Explained: Why Using More Costs Dramatically More</title><link>https://utilityexplained.com/blog/tiered-water-rates-explained/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-water-rates-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>**Tiered water rates** charge higher prices per gallon as you use more water. Instead of a flat rate, usage is divided into blocks—essential indoor needs get lower rates while outdoor/excessive use gets charged higher rates.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Example:&lt;/strong> First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**&lt;/li>
-&lt;li>&lt;strong>Impact:&lt;/strong> Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**&lt;/li>
-&lt;/ul>
-&lt;p>Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.&lt;/p></description></item><item><title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title><link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid><description>&lt;h2 id="problem">The problem: you used a little more, but the price jumped a lot&lt;/h2>
-&lt;p class="lead">
- If your electric bill suddenly jumped and you did not change much,
- tiered pricing is often the hidden reason. You cross a threshold,
- and the next block of electricity costs more. It feels like a penalty,
- but it is just how the rate is structured.
- &lt;/p>
- &lt;p>
- This guide turns tiered rates into something you can see and predict.
- If you want the full electricity basics first, start with
- &lt;a href="https://utilityexplained.com/electricity-explained"> Electricity Explained&lt;/a>.
- &lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiered Rate on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/tiered-rate/</link>
+    <description>Recent content in Tiered Rate on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/tiered-rate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiered Water Rates Explained: Why Using More Costs Dramatically More</title>
+      <link>https://utilityexplained.com/blog/tiered-water-rates-explained/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/tiered-water-rates-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;**Tiered water rates** charge higher prices per gallon as you use more water. Instead of a flat rate, usage is divided into blocks—essential indoor needs get lower rates while outdoor/excessive use gets charged higher rates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title>
+      <link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tiered electricity rates&lt;/strong&gt; charge a lower price per kWh up to a baseline allowance (often &lt;strong&gt;400–500 kWh in summer&lt;/strong&gt;), then a higher price above it. Tier 2 typically runs &lt;strong&gt;10–30% over Tier 1&lt;/strong&gt;, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;The problem: you used a little more, but the price jumped a lot&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;If your electric bill suddenly jumped and you did not change much,&#xA;tiered pricing is often the hidden reason. You cross a threshold,&#xA;and the next block of electricity costs more. It feels like a penalty,&#xA;but it is just how the rate is structured.&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

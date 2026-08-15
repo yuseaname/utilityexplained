@@ -137,3 +137,37 @@ Don't wait for the next high bill to arrive. Start with the easiest task today: 
 *   *Link to an article about: "How to reduce electricity bills during summer months."*
 *   *Link to an article about: "The ultimate seasonal home maintenance checklist for homeowners."*
 *   *Link to an article about: "Budgeting for unexpected home repairs and plumbing emergencies."*
+
+## Frequently Asked Questions
+
+{{< faq "How much can I really save on my water bill?" >}}
+
+Most households can cut their water bill by 10-30% through habit changes, leak fixes, and low-flow fixtures. Fixing dripping faucets and running toilets alone saves about 10% immediately. The average home wastes 10,000 gallons of water annually from leaks.
+
+{{< /faq >}}
+
+{{< faq "Do I need to remodel my home to lower my water bill?" >}}
+
+No major renovation is required. Most savings come from free behavioral changes like turning off the tap while brushing teeth, which can save up to 4 gallons per minute. Upgrades like WaterSense showerheads or toilets are small, affordable swaps that pay for themselves over time.
+
+{{< /faq >}}
+
+{{< faq "How do I check if my toilet is leaking?" >}}
+
+Drop a few drops of food coloring into the tank, wait 20 to 30 minutes without flushing, then check the bowl. If color appears, water is leaking, usually from a faulty flapper. Replacing the flapper is an inexpensive DIY fix that prevents hundreds of gallons of monthly waste.
+
+{{< /faq >}}
+
+{{< faq "What is a WaterSense fixture and is it worth it?" >}}
+
+WaterSense is an EPA certification for products meeting strict efficiency standards, including low-flow showerheads and high-efficiency toilets. These fixtures use about 20% less water than standard models without sacrificing performance, making them a smart long-term investment.
+
+{{< /faq >}}
+
+{{< faq "When is the best time to water my lawn?" >}}
+
+Water between 5 and 10 AM or in the late evening to avoid evaporation loss during midday heat. Skipping irrigation when rain is forecast also helps. Pairing smart timing with drip irrigation, mulching, and native plants can dramatically cut outdoor water use.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

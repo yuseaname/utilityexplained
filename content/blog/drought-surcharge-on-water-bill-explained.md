@@ -77,21 +77,50 @@ image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surch
 <p>For a comprehensive guide on reducing your overall spending, including water, check out our guide on <a href="/blog/05-how-to-lower-utility-bills">how to lower utility bills</a>. These strategies often cross over between water, electricity, and gas, helping you manage the total cost of living.</p>
 
 <h2 id="frequently-asked-questions-about-drought-surcharges">Frequently Asked Questions About Drought Surcharges</h2>
-<p>Here are the most common questions homeowners have regarding these fees, based on current utility regulations and research.</p>
-<h3>1. Is the drought surcharge permanent?</h3>
-<p>No. Drought surcharges are typically temporary and tied to specific drought declarations or seasonal periods. For example, Denver Water's surcharge plan only triggers when reservoir storage falls below a specific threshold. Once water levels recover or the drought stage is lowered, the surcharge is removed from your bill. However, as climate change makes droughts more common, these "temporary" fees may appear more frequently.</p>
-<h3>2. Does conserving water remove the surcharge entirely?</h3>
-<p>It depends on the utility's tier structure. If you reduce your usage below the threshold that triggers the surcharge, you will not pay the extra fee. However, some utilities apply a minimum surcharge or base fee during drought stages even for low users. In Colorado, a conservation-minded homeowner might still see a low surcharge of around $7 per bill even if they do minimal outdoor watering.</p>
-<h3>3. Is a drought surcharge the same as a fine?</h3>
-<p>No. A surcharge is a rate increase based on volume. A fine is a penalty for violating a rule. For instance, in San Antonio, you might pay a drought surcharge for using 20,000 gallons, but you would also face a Non-Compliance Charge if an enforcement officer observed you watering your lawn on a banned day. Violations must be documented and observed by trained enforcement personnel.</p>
-<h3>4. Why is my bill higher even though I used less water?</h3>
-<p>This is a common complaint. If the drought stage has increased, the threshold for the surcharge may have dropped. You might be using the same amount of water as last year, but last year that amount was below the surcharge line. This year, that same amount is above the line, triggering the fee. Additionally, the base cost of water may have increased due to infrastructure investments mentioned in the Giving Compass report.</p>
-<h3>5. Can I get a rebate for fixing leaks during a drought?</h3>
-<p>Many utilities offer emergency rebates for leak repairs or smart meter installation during drought periods to help reduce the overall strain on the system. Check your local utility website specifically for "drought assistance" or "conservation rebates." These incentives can sometimes offset the cost of the surcharge.</p>
-<h3>6. Do drought surcharges apply to renters?</h3>
-<p>Yes. Water bills are typically passed through to renters, especially in multi-family homes where individual meters exist. If you rent a house with your own meter, the surcharge appears on your bill. If you rent an apartment where water is included, the landlord absorbs the cost, though this may eventually lead to higher rent increases to cover utility inflation.</p>
-<h3>7. Will the surcharge affect my credit score?</h3>
-<p>No. A drought surcharge is not a debt; it is a rate adjustment. However, if you ignore the bill and do not pay the total amount due, the unpaid balance could be sent to collections, which would affect your credit. Always pay the full bill, including surcharges, by the due date.</p>
+
+{{< faq "Is the drought surcharge permanent?" >}}
+
+No. Drought surcharges are typically temporary and tied to specific drought declarations or seasonal periods. For example, Denver Water's surcharge plan only triggers when reservoir storage falls below a specific threshold. Once water levels recover or the drought stage is lowered, the surcharge is removed from your bill. However, as climate change makes droughts more common, these "temporary" fees may appear more frequently.
+
+{{< /faq >}}
+
+{{< faq "Does conserving water remove the surcharge entirely?" >}}
+
+It depends on the utility's tier structure. If you reduce your usage below the threshold that triggers the surcharge, you will not pay the extra fee. However, some utilities apply a minimum surcharge or base fee during drought stages even for low users. In Colorado, a conservation-minded homeowner might still see a low surcharge of around $7 per bill even if they do minimal outdoor watering.
+
+{{< /faq >}}
+
+{{< faq "Is a drought surcharge the same as a fine?" >}}
+
+No. A surcharge is a rate increase based on volume. A fine is a penalty for violating a rule. For instance, in San Antonio, you might pay a drought surcharge for using 20,000 gallons, but you would also face a Non-Compliance Charge if an enforcement officer observed you watering your lawn on a banned day. Violations must be documented and observed by trained enforcement personnel.
+
+{{< /faq >}}
+
+{{< faq "Why is my bill higher even though I used less water?" >}}
+
+This is a common complaint. If the drought stage has increased, the threshold for the surcharge may have dropped. You might be using the same amount of water as last year, but last year that amount was below the surcharge line. This year, that same amount is above the line, triggering the fee. Additionally, the base cost of water may have increased due to infrastructure investments mentioned in the Giving Compass report.
+
+{{< /faq >}}
+
+{{< faq "Can I get a rebate for fixing leaks during a drought?" >}}
+
+Many utilities offer emergency rebates for leak repairs or smart meter installation during drought periods to help reduce the overall strain on the system. Check your local utility website specifically for "drought assistance" or "conservation rebates." These incentives can sometimes offset the cost of the surcharge.
+
+{{< /faq >}}
+
+{{< faq "Do drought surcharges apply to renters?" >}}
+
+Yes. Water bills are typically passed through to renters, especially in multi-family homes where individual meters exist. If you rent a house with your own meter, the surcharge appears on your bill. If you rent an apartment where water is included, the landlord absorbs the cost, though this may eventually lead to higher rent increases to cover utility inflation.
+
+{{< /faq >}}
+
+{{< faq "Will the surcharge affect my credit score?" >}}
+
+No. A drought surcharge is not a debt; it is a rate adjustment. However, if you ignore the bill and do not pay the total amount due, the unpaid balance could be sent to collections, which would affect your credit. Always pay the full bill, including surcharges, by the due date.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="conclusion">Conclusion</h2>
 <p>A drought surcharge on your water bill is a direct financial signal that water is scarce in your region. It is not a random fee, but a calculated adjustment based on your usage volume and the severity of local drought conditions. While the fee can range from a modest **$7 to over $76** per month, it serves a dual purpose: covering the utility's increased costs and encouraging conservation.</p>

@@ -67,13 +67,50 @@ image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/why-is-my-gas-bill
 <p>As the table demonstrates, the combination of increased usage volume and increased unit price creates a compounding effect. A 344% increase in usage combined with a 22% rate hike results in a bill that is nearly six times higher than the summer equivalent. This context helps explain why the bill shock feels so severe even if you haven't changed your lifestyle.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
-<p><strong>1. Why did my gas bill go up if I didn't change my thermostat?</strong> Even if your thermostat setting remained the same, extreme cold outside forces your furnace to run longer to maintain that temperature. Gas rates also often rise in winter due to higher market demand. If your billing cycle included more days than the previous month, your total bill will also be higher.</p>
-<p><strong>2. Is it normal for my gas bill to triple in winter?</strong> Yes, for many homeowners, winter bills can be two to three times higher than summer bills. This is due to the massive increase in heating demand. However, if your bill is significantly higher than your historical average for the same month, it may indicate a maintenance issue or a billing error.</p>
-<p><strong>3. How do I know if my furnace is working efficiently?</strong> Signs of inefficiency include the system running constantly, uneven heating in different rooms, strange noises, or higher-than-expected bills. A professional inspection can measure your AFUE rating and check for heat exchanger cracks or airflow issues.</p>
-<p><strong>4. What is a Weather Normalization Adjustment (WNA)?</strong> A WNA is a billing adjustment used by some utilities to account for extreme weather. It can either increase or decrease your bill based on how the current weather compares to a historical average. Some utilities use this to smooth out spikes, while others use it to ensure infrastructure costs are covered during peak seasons.</p>
-<p><strong>5. Can I get help if my winter bill is too high?</strong> Yes. Many utilities offer assistance programs for low-income households. Additionally, programs like the Low Income Home Energy Assistance Program (LIHEAP) can help pay heating bills. Check with your local utility provider or community action agency for eligibility.</p>
-<p><strong>6. Why is my water heater using more gas in winter?</strong> Incoming groundwater is colder in the winter. Your water heater must burn more gas to raise that cold water to your set temperature (usually 120°F). This results in higher gas consumption for the same amount of hot water usage.</p>
-<p><strong>7. Should I switch to a budget billing plan?</strong> Budget billing plans average your usage over 12 months, giving you a consistent payment amount. This helps avoid huge winter spikes. However, if you do not pay the catch-up charges at the end of the year, you may accumulate debt. It is best if you can pay the true-up amount annually.</p>
+
+{{< faq "Why did my gas bill go up if I didn't change my thermostat?" >}}
+
+Even if your thermostat setting remained the same, extreme cold outside forces your furnace to run longer to maintain that temperature. Gas rates also often rise in winter due to higher market demand. If your billing cycle included more days than the previous month, your total bill will also be higher.
+
+{{< /faq >}}
+
+{{< faq "Is it normal for my gas bill to triple in winter?" >}}
+
+Yes, for many homeowners, winter bills can be two to three times higher than summer bills. This is due to the massive increase in heating demand. However, if your bill is significantly higher than your historical average for the same month, it may indicate a maintenance issue or a billing error.
+
+{{< /faq >}}
+
+{{< faq "How do I know if my furnace is working efficiently?" >}}
+
+Signs of inefficiency include the system running constantly, uneven heating in different rooms, strange noises, or higher-than-expected bills. A professional inspection can measure your AFUE rating and check for heat exchanger cracks or airflow issues.
+
+{{< /faq >}}
+
+{{< faq "What is a Weather Normalization Adjustment (WNA)?" >}}
+
+A WNA is a billing adjustment used by some utilities to account for extreme weather. It can either increase or decrease your bill based on how the current weather compares to a historical average. Some utilities use this to smooth out spikes, while others use it to ensure infrastructure costs are covered during peak seasons.
+
+{{< /faq >}}
+
+{{< faq "Can I get help if my winter bill is too high?" >}}
+
+Yes. Many utilities offer assistance programs for low-income households. Additionally, programs like the Low Income Home Energy Assistance Program (LIHEAP) can help pay heating bills. Check with your local utility provider or community action agency for eligibility.
+
+{{< /faq >}}
+
+{{< faq "Why is my water heater using more gas in winter?" >}}
+
+Incoming groundwater is colder in the winter. Your water heater must burn more gas to raise that cold water to your set temperature (usually 120°F). This results in higher gas consumption for the same amount of hot water usage.
+
+{{< /faq >}}
+
+{{< faq "Should I switch to a budget billing plan?" >}}
+
+Budget billing plans average your usage over 12 months, giving you a consistent payment amount. This helps avoid huge winter spikes. However, if you do not pay the catch-up charges at the end of the year, you may accumulate debt. It is best if you can pay the true-up amount annually.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="conclusion">Conclusion</h2>
 <p>High winter gas bills are a predictable outcome of colder weather, increased demand, and seasonal rate adjustments. The combination of a furnace working overtime, colder incoming water, and higher wholesale gas prices creates a perfect storm for utility costs. However, understanding the specific drivers behind your bill empowers you to take action.</p>

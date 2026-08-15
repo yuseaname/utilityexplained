@@ -1,13 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meter Reading on Utility Explained</title><link>https://utilityexplained.com/tags/meter-reading/</link><description>Recent content in Meter Reading on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/meter-reading/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Read Your Utility Bill: A Plain-English Guide to Every Section</title><link>https://utilityexplained.com/blog/how-to-read-your-utility-bill/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-to-read-your-utility-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Your utility bill includes account information, billing period, meter readings, usage charges, and fees—focus on the usage section to understand what you&amp;rsquo;re actually paying for.&lt;/strong> Understanding each line item helps you spot errors and save money.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Compare usage to the same period last year&lt;/strong> to identify unusual consumption patterns&lt;/li>
-&lt;li>&lt;strong>Check the meter reading section&lt;/strong> to verify you&amp;rsquo;re being billed for actual usage, not estimates&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/43-understand-natural-gas-bill-charges/">natural gas bill charges&lt;/a>.&lt;/p></description></item><item><title>Estimated Utility Bill Explained</title><link>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Estimated utility bills are calculated based on your historical usage patterns and weather data, but your actual bill may vary by 20-30% from month to month.&lt;/strong> Utilities estimate your consumption when they can&amp;rsquo;t get an actual meter reading.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Estimated bills are reconciled&lt;/strong> when actual meter readings are obtained, leading to &amp;ldquo;catch-up&amp;rdquo; bills&lt;/li>
-&lt;li>&lt;strong>Submit your own meter reading&lt;/strong> online to avoid estimated bills and ensure accuracy&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/23-utility-billing-cycle-explained/">utility billing cycles&lt;/a>.&lt;/p></description></item><item><title>Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes</title><link>https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/</guid><description>&lt;p>Last month&amp;rsquo;s electric bill was $135. This month it is $340. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A 150% increase with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meter Reading on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/meter-reading/</link>
+    <description>Recent content in Meter Reading on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/meter-reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Read Your Utility Bill: A Plain-English Guide to Every Section</title>
+      <link>https://utilityexplained.com/blog/how-to-read-your-utility-bill/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/how-to-read-your-utility-bill/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;A typical utility bill contains five core sections: your account information, billing period dates, meter readings, usage charges (kWh or therms), and fees/taxes. To verify the bill is accurate, focus on the usage section and compare kWh or therms month-to-month and against the same month last year.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-understanding-your-utility-bill-matt&#34;&gt;Why Understanding Your Utility Bill Matters&lt;/h2&gt;&#xA;&lt;p&gt;Reading your utility bill is more than checking a total amount due — it&#39;s about knowing exactly where your money goes. U.S. households commonly spend &lt;strong&gt;5–10% of monthly income&lt;/strong&gt; on combined utilities (electricity, natural gas, water, and wastewater), based on BLS Consumer Expenditure Survey data. When you understand the breakdown, you can spot errors, challenge inflated charges, and find real ways to cut costs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Estimated Utility Bill Explained</title>
+      <link>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estimated utility bills are calculated based on your historical usage patterns and weather data, but your actual bill may vary by 20-30% from month to month.&lt;/strong&gt; Utilities estimate your consumption when they can&amp;rsquo;t get an actual meter reading.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estimated bills are reconciled&lt;/strong&gt; when actual meter readings are obtained, leading to &amp;ldquo;catch-up&amp;rdquo; bills&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Submit your own meter reading&lt;/strong&gt; online to avoid estimated bills and ensure accuracy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/23-utility-billing-cycle-explained/&#34;&gt;utility billing cycles&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes</title>
+      <link>https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/</guid>
+      <description>&lt;h2 id=&#34;quick-answer-why-did-my-electric-bill-spike-with-no-usage-change&#34;&gt;Quick Answer: Why Did My Electric Bill Spike With No Usage Change?&lt;/h2&gt;&#xA;&lt;p&gt;A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;A longer billing period or estimated reading.&lt;/strong&gt; A 28-day bill followed by a 34-day bill adds &lt;strong&gt;~21%&lt;/strong&gt; more days of usage. A corrected &amp;ldquo;EST&amp;rdquo; reading can lump two months of charges into one bill.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;A rate increase.&lt;/strong&gt; A fuel adjustment, seasonal shift, or new rate schedule can raise your per-kWh cost by 10%–25% with no usage change at all.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Weather or HVAC working harder.&lt;/strong&gt; A heat wave, a refrigerant leak, a clogged filter, or a heat pump stuck on emergency heat can double or triple your consumption without you changing a single habit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;A malfunctioning appliance.&lt;/strong&gt; A water heater element, a running well pump, an old garage fridge, or a continuously cycling pool pump can quietly add &lt;strong&gt;300–500 kWh&lt;/strong&gt; per month (roughly $40–$75).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;A meter error or cross-billing.&lt;/strong&gt; Rare, but real — and worth ruling out if nothing above fits.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Start here:&lt;/strong&gt; Grab your current bill and last month&amp;rsquo;s bill. In about 10 minutes you can rule out causes #1, #2, and #5 without leaving your kitchen. The 12-step investigation below walks through each cause in order, with dollar amounts, examples, and the exact action to take for each.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

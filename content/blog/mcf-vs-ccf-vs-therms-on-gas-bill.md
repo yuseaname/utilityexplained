@@ -96,21 +96,50 @@ image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-o
 <p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/05-how-to-lower-utility-bills">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
-<p>Here are the most common questions homeowners have about gas bill units.</p>
-<h3>1. Is 1 CCF equal to 1 Therm?</h3>
-<p>No. 1 CCF is a measure of volume (100 cubic feet), while 1 Therm is a measure of energy (100,000 BTU). On average, 1 CCF contains about 1.037 therms of energy. They are close, but not identical.</p>
-<h3>2. Why does my bill change from CCF to Therms?</h3>
-<p>It usually doesn't change unless you switch utility providers or move to a different state. However, if you are comparing bills from different regions, you will see different units. Some utilities also display both on the bill for clarity, showing the volume read by the meter and the energy calculated for billing.</p>
-<h3>3. Which unit is better for consumers?</h3>
-<p>Therms are generally considered better for consumers because they reflect the actual energy you are paying for. Volume units (CCF/MCF) can fluctuate in energy value based on gas density, meaning you might pay for the same volume but get less heat in colder months if not adjusted.</p>
-<h3>4. How do I calculate my cost per therm if my bill shows CCF?</h3>
-<p>Multiply your CCF usage by the heating value factor on your bill. If no factor is shown, use 1.037 as a rough estimate. Then divide your gas supply charge by the converted therms. Example: 80 CCF x 1.037 = 82.96 therms. If the supply charge was $95, your cost is about $1.15 per therm.</p>
-<h3>5. What does MCF mean on a residential gas bill?</h3>
-<p>MCF means 1,000 cubic feet of natural gas. It is more common on commercial accounts, but some utilities use it for residential billing. If you see MCF, remember that 1 MCF is about 10.37 therms, so even a small MCF number can represent meaningful usage.</p>
-<h3>6. Why do gas companies use a BTU factor?</h3>
-<p>The BTU factor adjusts for the actual heat content of the gas delivered to your area. Natural gas from different sources can contain slightly different amounts of energy per cubic foot. The factor helps convert volume into fair energy billing.</p>
-<h3>7. Can unit confusion make my gas bill look wrong?</h3>
-<p>Yes. A bill in CCF, MCF, or therms can look unusually high or low if you compare only the raw usage number. Convert everything to therms before comparing months, providers, or regional averages.</p>
+
+{{< faq "Is 1 CCF equal to 1 Therm?" >}}
+
+No. 1 CCF is a measure of volume (100 cubic feet), while 1 Therm is a measure of energy (100,000 BTU). On average, 1 CCF contains about 1.037 therms of energy. They are close, but not identical.
+
+{{< /faq >}}
+
+{{< faq "Why does my bill change from CCF to Therms?" >}}
+
+It usually doesn't change unless you switch utility providers or move to a different state. However, if you are comparing bills from different regions, you will see different units. Some utilities also display both on the bill for clarity, showing the volume read by the meter and the energy calculated for billing.
+
+{{< /faq >}}
+
+{{< faq "Which unit is better for consumers?" >}}
+
+Therms are generally considered better for consumers because they reflect the actual energy you are paying for. Volume units (CCF/MCF) can fluctuate in energy value based on gas density, meaning you might pay for the same volume but get less heat in colder months if not adjusted.
+
+{{< /faq >}}
+
+{{< faq "How do I calculate my cost per therm if my bill shows CCF?" >}}
+
+Multiply your CCF usage by the heating value factor on your bill. If no factor is shown, use 1.037 as a rough estimate. Then divide your gas supply charge by the converted therms. Example: 80 CCF x 1.037 = 82.96 therms. If the supply charge was $95, your cost is about $1.15 per therm.
+
+{{< /faq >}}
+
+{{< faq "What does MCF mean on a residential gas bill?" >}}
+
+MCF means 1,000 cubic feet of natural gas. It is more common on commercial accounts, but some utilities use it for residential billing. If you see MCF, remember that 1 MCF is about 10.37 therms, so even a small MCF number can represent meaningful usage.
+
+{{< /faq >}}
+
+{{< faq "Why do gas companies use a BTU factor?" >}}
+
+The BTU factor adjusts for the actual heat content of the gas delivered to your area. Natural gas from different sources can contain slightly different amounts of energy per cubic foot. The factor helps convert volume into fair energy billing.
+
+{{< /faq >}}
+
+{{< faq "Can unit confusion make my gas bill look wrong?" >}}
+
+Yes. A bill in CCF, MCF, or therms can look unusually high or low if you compare only the raw usage number. Convert everything to therms before comparing months, providers, or regional averages.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="bottom-line">Bottom Line</h2>
 <p>CCF and MCF tell you how much gas volume passed through your meter. Therms tell you how much usable heat energy you were billed for. For budgeting, rate comparison, and billing disputes, therms are the most useful common denominator.</p>

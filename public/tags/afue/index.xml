@@ -1,75 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Afue on Utility Explained</title><link>https://utilityexplained.com/tags/afue/</link><description>Recent content in Afue on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/afue/index.xml" rel="self" type="application/rss+xml"/><item><title>Gas vs. Electric Heating: Cost Comparison for Real Homes</title><link>https://utilityexplained.com/blog/gas-vs-electric-heating-cost-comparison/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/gas-vs-electric-heating-cost-comparison/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Electric heating costs 2-3 times more than gas heating in most areas, with average monthly costs of $150-250 for electric vs. $80-150 for gas.&lt;/strong> However, electric heat pumps can match or beat gas efficiency in moderate climates.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Cost per million BTU: Gas ($12-18) vs Electric resistance ($30-45)&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Heat pumps: $15-25 per million BTU (300% efficiency)&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;p>[For more detail, see our guide to &lt;a href="https://utilityexplained.com/blog/48-heat-pump-vs-gas-furnace-savings/">heat pump savings&lt;/a>.]&lt;/p>
-&lt;h2 id="big-picture">The big picture: fuel cost and system efficiency&lt;/h2>
-&lt;p>
- Heating cost is driven by two main factors: the price of the fuel and
- how efficiently your system turns that fuel into heat. Gas furnaces are
- often cheaper to run because natural gas prices per unit of energy are
- usually lower than electricity prices. However, high-efficiency electric
- heat pumps can close the gap in mild climates.
- &lt;/p></description></item><item><title>AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English</title><link>https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
-&lt;p>
- HVAC efficiency ratings tell you how effectively a system turns fuel or
- electricity into heating or cooling. The tricky part is that
- &lt;strong> different systems use different ratings&lt;/strong>.
- &lt;/p>
- &lt;ul>
- &lt;li>
- &lt;strong>AFUE&lt;/strong> is for furnaces and boilers (how much fuel becomes usable heat).
- &lt;/li>
- &lt;li>
- &lt;strong>SEER&lt;/strong> is for air conditioning (cooling efficiency over a season).
- &lt;/li>
- &lt;li>
- &lt;strong>HSPF&lt;/strong> is for heat pumps in heating mode (seasonal heating efficiency).
- &lt;/li>
- &lt;li>
- &lt;strong>COP&lt;/strong> is for heat pumps at a specific condition (instant efficiency).
- &lt;/li>
- &lt;/ul>
- &lt;p>
- This guide gives you a simple framework to compare ratings without
- feeling like you need an engineering degree.
- For the broader HVAC primer, see
- &lt;a href="https://utilityexplained.com/heating-cooling-explained"> Heating &amp;amp; Cooling Explained&lt;/a>.
- &lt;/p></description></item><item><title>Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)</title><link>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
-&lt;p>
- &lt;strong>Aux Heat&lt;/strong> (auxiliary heat) usually means your heat pump
- is running &lt;strong>backup heat&lt;/strong> to keep up with demand--often
- during cold snaps, defrost cycles, or when you raise the thermostat
- several degrees at once.
- &lt;/p>
- &lt;p>
- &lt;strong>Emergency Heat&lt;/strong> is typically a &lt;strong>manual mode&lt;/strong>
- you switch on when the heat pump itself can't run properly (for example,
- it's malfunctioning). In many homes, emergency heat uses the same backup
- heater as aux heat--but forces the heat pump to stay off.
- &lt;/p></description></item><item><title>Duct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb)</title><link>https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
-&lt;p>
- Duct leaks waste heating and cooling because some of the conditioned air
- you paid for never reaches your rooms. That can lead to uneven comfort,
- longer HVAC runtime, and higher energy use.
- &lt;/p>
- &lt;p>
- You don't need to diagnose every detail to benefit from this guide.
- The main goal is to recognize the common signs and understand why
- "the system runs all day" can happen even when the equipment is fine.
- &lt;/p></description></item><item><title>Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost</title><link>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</guid><description>&lt;h2 id="quick-answer">The quick answer&lt;/h2>
-&lt;p>
- Single-stage systems are simple and affordable, but they cycle on and
- off at full power. Two-stage systems run on low most of the time and
- switch to high only when needed, which can improve comfort and humidity
- control. Variable-speed systems adjust output in many small steps and
- typically provide the steadiest comfort when the home and ductwork are
- well designed.
- &lt;/p>
- &lt;p>
- If ductwork is leaking or the system is oversized, even the best
- equipment can struggle. See
- &lt;a href="https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks explained&lt;/a>.
- &lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Afue on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/afue/</link>
+    <description>Recent content in Afue on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/afue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gas vs. Electric Heating: Cost Comparison for Real Homes</title>
+      <link>https://utilityexplained.com/blog/gas-vs-electric-heating-cost-comparison/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/gas-vs-electric-heating-cost-comparison/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Electric heating costs 2-3 times more than gas heating in most areas, with average monthly costs of $150-250 for electric vs. $80-150 for gas.&lt;/strong&gt; However, electric heat pumps can match or beat gas efficiency in moderate climates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost per million BTU: Gas ($12-18) vs Electric resistance ($30-45)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Heat pumps: $15-25 per million BTU (300% efficiency)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;[For more detail, see our guide to &lt;a href=&#34;https://utilityexplained.com/blog/48-heat-pump-vs-gas-furnace-savings/&#34;&gt;heat pump savings&lt;/a&gt;.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;big-picture&#34;&gt;The big picture: fuel cost and system efficiency&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              Heating cost is driven by two main factors: the price of the fuel and&#xA;              how efficiently your system turns that fuel into heat. Gas furnaces are&#xA;              often cheaper to run because natural gas prices per unit of energy are&#xA;              usually lower than electricity prices. However, high-efficiency electric&#xA;              heat pumps can close the gap in mild climates.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English</title>
+      <link>https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              HVAC efficiency ratings tell you how effectively a system turns fuel or&#xA;              electricity into heating or cooling. The tricky part is that&#xA;              &lt;strong&gt; different systems use different ratings&lt;/strong&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;ul&gt;&#xA;              &lt;li&gt;&#xA;                &lt;strong&gt;AFUE&lt;/strong&gt; is for furnaces and boilers (how much fuel becomes usable heat).&#xA;              &lt;/li&gt;&#xA;              &lt;li&gt;&#xA;                &lt;strong&gt;SEER&lt;/strong&gt; is for air conditioning (cooling efficiency over a season).&#xA;              &lt;/li&gt;&#xA;              &lt;li&gt;&#xA;                &lt;strong&gt;HSPF&lt;/strong&gt; is for heat pumps in heating mode (seasonal heating efficiency).&#xA;              &lt;/li&gt;&#xA;              &lt;li&gt;&#xA;                &lt;strong&gt;COP&lt;/strong&gt; is for heat pumps at a specific condition (instant efficiency).&#xA;              &lt;/li&gt;&#xA;            &lt;/ul&gt;&#xA;            &lt;p&gt;&#xA;              This guide gives you a simple framework to compare ratings without&#xA;              feeling like you need an engineering degree.&#xA;              For the broader HVAC primer, see&#xA;              &lt;a href=&#34;https://utilityexplained.com/heating-cooling-explained&#34;&gt; Heating &amp;amp; Cooling Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)</title>
+      <link>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              &lt;strong&gt;Aux Heat&lt;/strong&gt; (auxiliary heat) usually means your heat pump&#xA;              is running &lt;strong&gt;backup heat&lt;/strong&gt; to keep up with demand--often&#xA;              during cold snaps, defrost cycles, or when you raise the thermostat&#xA;              several degrees at once.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              &lt;strong&gt;Emergency Heat&lt;/strong&gt; is typically a &lt;strong&gt;manual mode&lt;/strong&gt;&#xA;              you switch on when the heat pump itself can&#39;t run properly (for example,&#xA;              it&#39;s malfunctioning). In many homes, emergency heat uses the same backup&#xA;              heater as aux heat--but forces the heat pump to stay off.&#xA;            &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost</title>
+      <link>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The quick answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              Single-stage systems are simple and affordable, but they cycle on and&#xA;              off at full power. Two-stage systems run on low most of the time and&#xA;              switch to high only when needed, which can improve comfort and humidity&#xA;              control. Variable-speed systems adjust output in many small steps and&#xA;              typically provide the steadiest comfort when the home and ductwork are&#xA;              well designed.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              If ductwork is leaking or the system is oversized, even the best&#xA;              equipment can struggle. See&#xA;              &lt;a href=&#34;https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day&#34;&gt; duct leaks explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

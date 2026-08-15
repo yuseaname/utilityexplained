@@ -105,21 +105,50 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>For a detailed breakdown of what else might be on your statement, read our article on <a href="/blog/04-hidden-fees-utility-bill">hidden fees on utility bill</a>. Being aware of these fees ensures you aren't blindsided by a bill that seems higher than expected based on water usage alone.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
-<p>Here are the most common questions homeowners ask about tiered water pricing, based on current utility data and customer inquiries.</p>
-<h3>1. Do tiered water rates apply to all customers?</h3>
-<p>Not necessarily. While most single-family residential customers are subject to tiered rates, some utilities offer exemptions or different structures for commercial, industrial, or agricultural users. Additionally, some utilities offer a "lifeline" tier for low-income households to ensure basic water access remains affordable.</p>
-<h3>2. How do I know which tier I am in?</h3>
-<p>Check your monthly water bill. It should show your total usage and the tier thresholds. If it doesn't, visit your utility's website. They usually publish a rate card that lists the gallon limits for Tier 1, Tier 2, and Tier 3.</p>
-<h3>3. Does rain affect my tiered water bill?</h3>
-<p>Yes, indirectly. If it rains heavily, you are less likely to water your lawn, keeping your usage lower. However, in systems with seasonal budgets (like in California), the utility may adjust the tier thresholds based on evapotranspiration (ET) data. Rain doesn't lower your rate, but it helps you stay in the lower tiers.</p>
-<h3>4. Can I get a refund if I use less than the first tier?</h3>
-<p>Generally, no. You pay for the service connection regardless of usage. However, using less than the first tier threshold ensures you never pay the higher rates associated with Tier 2 or Tier 3. This is the primary way to save money.</p>
-<h3>5. Why is my bill higher in the summer even if I didn't change habits?</h3>
-<p>Summer bills often spike due to two factors. First, evapotranspiration rates are higher, meaning plants need more water. Second, some utilities adjust the tier thresholds seasonally. If your summer threshold is lower than your winter threshold, you might hit a higher tier with the same amount of usage.</p>
-<h3>6. Are tiered rates more expensive than flat rates?</h3>
-<p>For low users, tiered rates can be cheaper or the same as flat rates because the first tier is often subsidized. For high users, tiered rates are significantly more expensive. The average cost per gallon is usually higher in a tiered system for heavy consumers.</p>
-<h3>7. What happens if I have a leak and my usage spikes?</h3>
-<p>If a leak pushes you into a higher tier, you pay the higher rate for the excess water. Most utilities offer a one-time adjustment or credit for leaks if you can prove you repaired the issue. Contact your utility immediately if you suspect a leak to discuss options for bill adjustment.</p>
+
+{{< faq "Do tiered water rates apply to all customers?" >}}
+
+Not necessarily. While most single-family residential customers are subject to tiered rates, some utilities offer exemptions or different structures for commercial, industrial, or agricultural users. Additionally, some utilities offer a "lifeline" tier for low-income households to ensure basic water access remains affordable.
+
+{{< /faq >}}
+
+{{< faq "How do I know which tier I am in?" >}}
+
+Check your monthly water bill. It should show your total usage and the tier thresholds. If it doesn't, visit your utility's website. They usually publish a rate card that lists the gallon limits for Tier 1, Tier 2, and Tier 3.
+
+{{< /faq >}}
+
+{{< faq "Does rain affect my tiered water bill?" >}}
+
+Yes, indirectly. If it rains heavily, you are less likely to water your lawn, keeping your usage lower. However, in systems with seasonal budgets (like in California), the utility may adjust the tier thresholds based on evapotranspiration (ET) data. Rain doesn't lower your rate, but it helps you stay in the lower tiers.
+
+{{< /faq >}}
+
+{{< faq "Can I get a refund if I use less than the first tier?" >}}
+
+Generally, no. You pay for the service connection regardless of usage. However, using less than the first tier threshold ensures you never pay the higher rates associated with Tier 2 or Tier 3. This is the primary way to save money.
+
+{{< /faq >}}
+
+{{< faq "Why is my bill higher in the summer even if I didn't change habits?" >}}
+
+Summer bills often spike due to two factors. First, evapotranspiration rates are higher, meaning plants need more water. Second, some utilities adjust the tier thresholds seasonally. If your summer threshold is lower than your winter threshold, you might hit a higher tier with the same amount of usage.
+
+{{< /faq >}}
+
+{{< faq "Are tiered rates more expensive than flat rates?" >}}
+
+For low users, tiered rates can be cheaper or the same as flat rates because the first tier is often subsidized. For high users, tiered rates are significantly more expensive. The average cost per gallon is usually higher in a tiered system for heavy consumers.
+
+{{< /faq >}}
+
+{{< faq "What happens if I have a leak and my usage spikes?" >}}
+
+If a leak pushes you into a higher tier, you pay the higher rate for the excess water. Most utilities offer a one-time adjustment or credit for leaks if you can prove you repaired the issue. Contact your utility immediately if you suspect a leak to discuss options for bill adjustment.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 <h2 id="conclusion">Conclusion</h2>
 <p>Understanding <strong>tiered water rates explained</strong> is essential for modern homeowners who want to control their utility costs. This pricing structure is not just a billing method; it is a tool for conservation and infrastructure management. By charging more per gallon as usage increases, utilities ensure that those who use more resources pay a fairer share of the cost.</p>

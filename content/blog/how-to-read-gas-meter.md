@@ -123,3 +123,37 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 
 *Related Reading:*
 - [MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
+
+## Frequently Asked Questions
+
+{{< faq "What is the difference between CCF and therms on a gas bill?" >}}
+
+CCF stands for centum cubic feet, meaning 100 cubic feet of gas. Therms measure heat energy, not just volume. Approximately 1 therm equals 100 cubic feet, though the exact conversion varies based on the energy content of the gas that month. One therm also equals about 29.3 kWh of electric equivalent.
+
+{{< /faq >}}
+
+{{< faq "Should I read a gas meter from left to right or right to left?" >}}
+
+Read it from left to right. This is the opposite of how many electric meters are read. Start with the far left dial and move right, recording the lower number when a pointer sits between two digits. If a dial is between 9 and 0, record 9 instead, because the next dial has not yet rolled over.
+
+{{< /faq >}}
+
+{{< faq "How do I read a dial gas meter step by step?" >}}
+
+Open the cover and ignore any red test dials. Read the white dials from left to right. When a pointer is between two numbers, record the lower one. Write the numbers as one continuous string with no decimals. For example, pointers between 4 and 5, 5 and 6, 4 and 5, and 5 and 6 produce a reading of 4545.
+
+{{< /faq >}}
+
+{{< faq "What are the main types of residential gas meters?" >}}
+
+There are three main types. Analog dial meters have four or five white dials plus smaller red test dials, with pointers that rotate in alternating directions. Digital meters show usage on an LCD screen, sometimes in CCF or therms. Smart meters, also called AMI (Advanced Metering Infrastructure), transmit data wirelessly to the utility.
+
+{{< /faq >}}
+
+{{< faq "How often should I read my own gas meter?" >}}
+
+Monthly readings are enough for most households. Weekly checks can help during winter, after a rate change, or when troubleshooting an unusually high bill. Submitting your own reading to the utility prevents them from using an estimate, which can drift higher than actual usage and lead to a large catch-up bill later.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

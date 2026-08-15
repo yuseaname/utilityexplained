@@ -147,3 +147,37 @@ When weighing **whole house generator vs portable cost**, there is no single "co
 *Related Reading:*
 - [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
 - [Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?](/blog/48-heat-pump-vs-gas-furnace-savings)
+
+## Frequently Asked Questions
+
+{{< faq "How much home value does a whole house generator add?" >}}
+
+A whole-house generator adds $5,000-10,000 to your home's resale value. While the upfront installation runs $5,000-15,000, this bump in property value helps offset the cost over time for permanent homeowners who plan to sell.
+
+{{< /faq >}}
+
+{{< faq "Are whole house generators expensive to maintain?" >}}
+
+Whole-house generators typically cost $500-1,000 per year in maintenance, including an annual professional inspection that runs $200-500. The tradeoff is you avoid the manual effort of refueling, oil changes, and buying fuel stabilizer that portable units require.
+
+{{< /faq >}}
+
+{{< faq "What extra equipment do I need to install a portable generator?" >}}
+
+To safely connect a portable generator to your home's electrical panel, you'll need a transfer switch or power inlet box installed by a licensed electrician. This adds $200-500 to your budget beyond the $500-3,000 unit cost.
+
+{{< /faq >}}
+
+{{< faq "What's the main difference between standby and portable generators?" >}}
+
+Standby (whole-house) generators are permanently installed, run on natural gas or propane, and power your entire home including central AC and well pumps. Portable units cost less upfront at $500-3,000, run on gasoline, and only handle essentials like a fridge and lights.
+
+{{< /faq >}}
+
+{{< faq "How much does it cost to fuel a portable generator?" >}}
+
+A portable generator burns through $5-15 of gasoline per day during an outage, depending on the load. Gas prices can spike during disasters when stations are closed or have long lines, adding real unpredictability to your emergency budget.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

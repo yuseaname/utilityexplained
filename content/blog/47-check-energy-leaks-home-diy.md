@@ -193,3 +193,37 @@ By spending a few hours on a weekend performing these checks, you are setting yo
 
 *Related Reading:*
 - [Best Energy Efficient Space Heater: Cut Your Heating Bills](/blog/42-best-energy-efficient-space-heater)
+
+## Frequently Asked Questions
+
+{{< faq "How much money can sealing energy leaks actually save?" >}}
+
+Sealing home energy leaks can reduce your energy bills by 5-30%, with most homeowners saving $100-400 annually after simple DIY improvements. The most common culprits are drafty windows, uninsulated outlets, and unsealed gaps around pipes and other penetrations.
+
+{{< /faq >}}
+
+{{< faq "How do I find air leaks without special equipment?" >}}
+
+You can find most air leaks in under 30 minutes using a simple candle or incense test. Hold a lit incense stick near windows, doors, outlets, and baseboards. If the smoke flickers, swirls, or disappears, you have found a draft. A flashlight test on dark evenings can also reveal light peeking through gaps.
+
+{{< /faq >}}
+
+{{< faq "What tools do I need for a DIY home energy audit?" >}}
+
+For a basic budget-friendly audit, you will need incense sticks or a candle, a high-lumen flashlight, and a handheld mirror. For more thorough checks, add an infrared thermometer to spot temperature differences on walls and outlets. A thermal imaging camera offers professional-grade results and can often be rented from local hardware stores.
+
+{{< /faq >}}
+
+{{< faq "Are electrical outlets really a big source of energy loss?" >}}
+
+Many people overlook outlets during an energy audit, but electrical outlets on exterior walls are essentially small holes in your home thermal envelope. Use an infrared thermometer on outlet plates. If they are significantly colder than the surrounding wall, air is leaking through. Inexpensive foam gaskets placed behind the cover fix this in under five minutes per outlet.
+
+{{< /faq >}}
+
+{{< faq "Does weatherstripping doors really pay for itself?" >}}
+
+Yes, weatherstripping doors costs about $10 but saves around $35 per year. Foam tape works well for sealing gaps in window sashes, V-strip tension seals fill larger gaps, and door sweeps block drafts at the floor level. These low-cost fixes typically pay for themselves within a single season.
+
+{{< /faq >}}
+
+{{< faq-schema >}}

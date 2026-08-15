@@ -500,7 +500,7 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 ## Frequently Asked Questions
 
-### Why does Hawaii have the most expensive electricity?
+{{< faq "Why does Hawaii have the most expensive electricity?" >}}
 
 **Hawaii generates electricity with oil.** While most states use coal, natural gas, nuclear, or hydro, Hawaii imports oil for 100% of its electricity generation.
 
@@ -512,9 +512,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Hawaii is also isolated:** No grid interconnection, so backup generation is expensive.
 
----
+{{< /faq >}}
 
-### Why do Northeast states have such high gas costs?
+{{< faq "Why do Northeast states have such high gas costs?" >}}
 
 **Pipeline constraints.** The Northeast imports natural gas from the Gulf States via limited pipeline capacity. During cold snaps, demand exceeds pipeline capacity, forcing utilities to buy spot-market LNG (liquefied natural gas) at much higher prices.
 
@@ -524,9 +524,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Solution:** Some states are building more pipeline capacity, but permitting is slow due to environmental opposition.
 
----
+{{< /faq >}}
 
-### Why is Washington's electricity so cheap?
+{{< faq "Why is Washington's electricity so cheap?" >}}
 
 **Hydropower.** Washington generates 85% of its electricity from hydroelectric dams (Columbia River basin). Once dams are built, "fuel" (water) is free.
 
@@ -534,9 +534,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Catch:** Washington has high water costs (infrastructure, salmon habitat restoration), so total utility costs are closer to national average.
 
----
+{{< /faq >}}
 
-### Why does California have high electricity but low gas use?
+{{< faq "Why does California have high electricity but low gas use?" >}}
 
 **Climate + efficiency.**
 
@@ -550,9 +550,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 - Strict building codes (efficient homes)
 - Many homes are all-electric (no gas appliances)
 
----
+{{< /faq >}}
 
-### Why do Midwest states have moderate total costs?
+{{< faq "Why do Midwest states have moderate total costs?" >}}
 
 **Balanced climate + good gas access.**
 
@@ -567,9 +567,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Result:** Michigan ($268/month), Ohio ($236/month), Illinois ($240/month) all near or below national average.
 
----
+{{< /faq >}}
 
-### What's the "utility burden" by state?
+{{< faq "What's the "utility burden" by state?" >}}
 
 **Utility burden** = % of household income spent on utilities.
 
@@ -583,9 +583,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Burden is highest in low-income states** (Mississippi, West Virginia) even though total costs are lower.
 
----
+{{< /faq >}}
 
-### How can I reduce my utility bill to match the cheapest states?
+{{< faq "How can I reduce my utility bill to match the cheapest states?" >}}
 
 **You can't change your location, but you can change your usage:**
 
@@ -599,7 +599,9 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 **Reality check:** Moving from Massachusetts ($395/month) to Utah ($201/month) saves $2,328/year. Moving costs $10,000–$30,000. Payback: 4–13 years. Not worth it just for utilities.
 
----
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ## Related Articles:
 

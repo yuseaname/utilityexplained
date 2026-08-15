@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bimonthly Billing on Utility Explained</title><link>https://utilityexplained.com/tags/bimonthly-billing/</link><description>Recent content in Bimonthly Billing on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/bimonthly-billing/index.xml" rel="self" type="application/rss+xml"/><item><title>Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean</title><link>https://utilityexplained.com/blog/23-utility-billing-cycle-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/23-utility-billing-cycle-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
-&lt;p>&lt;strong>Utility billing cycles typically run 25-35 days and may not align with calendar months, causing due date confusion and payment timing issues.&lt;/strong> Your billing cycle determines when your meter is read and when payment is due.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Mark your calendar&lt;/strong> for your specific cycle dates to avoid late fees (typically $25-50)&lt;/li>
-&lt;li>&lt;strong>Payment due dates vary&lt;/strong> by 2-3 days each month depending on weekends and holidays&lt;/li>
-&lt;/ul>
-&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/14-estimated-utility-bill-explained/">estimated utility bills&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bimonthly Billing on Utility Explained</title>
+    <link>https://utilityexplained.com/tags/bimonthly-billing/</link>
+    <description>Recent content in Bimonthly Billing on Utility Explained</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://utilityexplained.com/tags/bimonthly-billing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean</title>
+      <link>https://utilityexplained.com/blog/23-utility-billing-cycle-explained/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://utilityexplained.com/blog/23-utility-billing-cycle-explained/</guid>
+      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Most U.S. utility bills arrive monthly&lt;/strong&gt;, with a service period of &lt;strong&gt;28–34 days&lt;/strong&gt; — not a calendar month. Some water utilities and rural electric co-ops bill every 2 months (bimonthly) or 4 times a year (quarterly). The dates printed on your bill are the &lt;strong&gt;service period your meter was actually read for&lt;/strong&gt;, not &amp;ldquo;May&amp;rdquo; or &amp;ldquo;June.&amp;rdquo; Your bill is not misdated — it covers the rolling 28–34 day cycle your utility assigned to your route when you opened your account.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
