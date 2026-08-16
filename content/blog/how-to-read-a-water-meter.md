@@ -41,6 +41,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </p>
 
 <h2 id="read-dial">Reading a dial meter</h2>
+
+{{< image src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits" caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
+
 <p>
               Dial meters usually have four or five dials. Read them from left to
               right. If a hand is between two numbers, record the lower number. This

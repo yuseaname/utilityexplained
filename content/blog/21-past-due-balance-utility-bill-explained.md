@@ -30,6 +30,8 @@ A past due balance is the amount from a previous billing period that was not pai
 - Late fee: $8.50
 - Total amount due: $338.50
 
+{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-bill-anatomy.webp" alt="Labeled utility bill diagram showing current charges, past due balance, late fee, and total amount due, with a past due stamp and due dates" caption="Where the past due balance sits on your bill — and how it grows the total you owe." >}}
+
 The past due balance carries forward from month to month until it's paid. It does not "reset" or expire—utilities have the right to collect overdue balances for as long as the account is active. In many states, utility debts can even be sent to collection agencies, reported to credit bureaus, or deducted from future [security deposits](/blog/26-utility-deposit-explained/).
 
 ## How Utility Billing Grace Periods Work
@@ -111,6 +113,8 @@ Late fees are the most immediate financial consequence of a past due balance. He
 ## The Disconnection Timeline
 
 Here's a typical disconnection timeline for a regulated electric or gas utility:
+
+{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-disconnection-timeline.webp" alt="Timeline showing what happens as a utility bill stays unpaid: grace period days 1-15, late fee days 15-30, disconnect notice days 30-45, disconnection days 45-60, and collections after day 60" caption="The escalation from missed payment to collections usually takes about two months — and every stage has a way out." >}}
 
 | Day Past Due | Action |
 |---|---|

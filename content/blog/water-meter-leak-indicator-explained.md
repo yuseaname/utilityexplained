@@ -54,6 +54,8 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <li>A thin sweep hand</li>
 <li>A little dial labeled "leak"</li>
 </ul>
+
+{{< image src="/images/articles/water-meter-leak-indicator-explained/leak-indicator-dial.webp" alt="Labeled water meter face diagram showing the red triangle leak indicator, the odometer-style usage register, and the sweep hand" caption="The three parts of a meter face — the red triangle is the one that tells on a silent leak." >}}
 <p>On many digital "smart" meters, you may not see a physical indicator. Instead, the display may show a flow icon, a leak alert, or a real-time flow rate in gallons per minute.</p>
 
 <h2 id="meter-types">Leak indicator types by meter</h2>

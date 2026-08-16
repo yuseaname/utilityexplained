@@ -17,6 +17,8 @@ Taxes, fees, and franchise charges typically add **5% to 15%** to your total uti
 
 ## Why Are There So Many Taxes and Fees on My Utility Bill?
 
+{{< image src="/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/taxes-fees-breakdown.webp" alt="Breakdown of typical utility bill tax and fee line items: city franchise fee, state gross receipts tax, local utility users tax, and public benefits charge, together adding 5-15% to a typical bill" caption="The four taxes and fees that show up on most U.S. utility bills — together, a 5-15% surcharge you can't negotiate." >}}
+
 Utility bills across the United States include a combination of taxes, fees, and surcharges imposed by federal, state, county, and municipal governments, as well as regulatory bodies and the utilities themselves. These charges are not optional, not negotiable, and not controlled by the utility — they are mandated by law and approved through legislative or regulatory processes.
 
 The total tax and fee burden on a typical U.S. residential utility bill ranges from **5% to 15%** of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed **15%** when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of [hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/).

@@ -3,16 +3,47 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://utilityexplained.com/blog/gadgets-that-lower-utility-bills/</loc>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority></url>
+
+  <url>
+    <loc>https://utilityexplained.com/affiliate-disclosure/</loc>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority></url>
+
+  <url>
     <loc>https://utilityexplained.com/blog/</loc>
-    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority></url>
 
   <url>
     <loc>https://utilityexplained.com/categories/</loc>
-    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority></url>
+
+
+
+  <url>
+    <loc>https://utilityexplained.com/blog/category/savings/</loc>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority></url>
+
+
+
+
+  <url>
+    <loc>https://utilityexplained.com/</loc>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority></url>
+
+
 
   <url>
     <loc>https://utilityexplained.com/blog/do-programmable-thermostats-cut-heating-bills/</loc>
@@ -29,14 +60,6 @@
 
 
 
-
-
-
-  <url>
-    <loc>https://utilityexplained.com/</loc>
-    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority></url>
 
   <url>
     <loc>https://utilityexplained.com/privacy-policy/</loc>
@@ -669,19 +692,12 @@
 
 
 
-  <url>
-    <loc>https://utilityexplained.com/blog/category/savings/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority></url>
-
 
   <url>
     <loc>https://utilityexplained.com/blog/08-time-of-use-electricity/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority></url>
-
 
 
 
