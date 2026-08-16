@@ -51,8 +51,14 @@
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}
               <div class="overflow-hidden">
-                <img src="{{ . }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
+                {{/* Decorative card art: the visible card heading labels the link,
+                     so alt stays empty instead of duplicating (or mislabeling) text. */}}
+                <img src="{{ . }}" alt="" class="card-image" loading="lazy" decoding="async">
               </div>
+            {{ else }}
+              {{/* Intentional no-image fallback: branded monogram block keeps card
+                   geometry stable instead of a missing-image gap. */}}
+              <div class="card-fallback" aria-hidden="true">{{ substr .Title 0 1 }}</div>
             {{ end }}
             <div class="card-body">
               <h3 class="card-title">{{ .Title }}</h3>

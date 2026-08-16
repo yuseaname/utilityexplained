@@ -8,7 +8,8 @@ category: "Energy Efficiency"
 categories: ["Energy Efficiency"]
 tags: ["lower electric bill", "save electricity", "energy efficiency", "reduce electric bill", "energy savings"]
 keywords: ["lower electric bill", "reduce electricity usage", "energy saving tips", "electric bill hacks", "cut electricity costs"]
-image: "/images/articles/how-to-lower-electric-bill-complete-guide/custom_hero.webp"
+image: "/images/articles/how-to-lower-electric-bill-complete-guide/energy-hogs-hero.webp"
+image_alt: "Horizontal bar chart: where the average U.S. home energy bill goes — heating and cooling 40–50% (gold bar), water heating 12–18%, refrigeration 6–12%, lighting 6–10%, electronics and standby power 4–8% (teal bars). Source: U.S. EIA."
 ---
 
 ## Quick Answer
@@ -17,6 +18,8 @@ You can cut your electric bill **20–40%** with the highest-ROI moves: raise su
 
 - Heating and cooling drive 40–50% of home energy costs — start there.
 - Most utilities run a free home energy audit; call before you spend a dollar.
+
+{{< jump-row "Free today|#free-changes-start-today-save-1025" "Under $50|#under-50-this-week-save-1530" "HVAC|#hvac-optimization-save-2035" "Rate plans|#rate-plan-optimization-save-1025" "Checklist|#quick-reference-checklist" >}}
 
 Your electric bill is too high. You've tried turning off lights, but it barely made a dent. You want real savings—$50, $100, even $150 per month—and you want to know exactly what to do and what it'll cost.
 

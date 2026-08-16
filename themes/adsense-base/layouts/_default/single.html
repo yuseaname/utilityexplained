@@ -66,9 +66,6 @@
     {{ .Content }}
   </div>
 
-  {{/* Ad slot: mid article — placed AFTER content so it never pushes the answer down */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "mid_article" "ctx" .) }}{{ end }}
-
   {{/* Tags */}}
   {{ with .Params.tags }}
   <div class="mt-8 flex flex-wrap gap-2">
@@ -92,11 +89,12 @@
 
   {{/* Author bio — default links to the editorial team */}}
   {{ $authorName := .Params.author | default "Utility Explained" }}
-  {{ $authorSlug := $authorName | lower | replaceRE "[^a-z0-9]+" "-" | trim "-" }}
+  {{ $authorSlug := $authorName | urlize }}
+  {{ $authorPage := site.GetPage (printf "/author/%s" $authorSlug) }}
   <div class="author-bio">
     <div class="author-bio-avatar">{{ substr $authorName 0 1 }}</div>
-      <p class="author-bio-name">By <a href="{{ "/author/" | relURL }}{{ $authorSlug }}/">{{ $authorName }}</a> · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
-      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a> or <a href="{{ "/author/" | relURL }}{{ $authorSlug }}/">learn more about {{ $authorName }}</a>.</p>
+      <p class="author-bio-name">By {{ with $authorPage }}<a href="{{ .RelPermalink }}">{{ $authorName }}</a>{{ else }}{{ $authorName }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
+      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>{{ with $authorPage }} or <a href="{{ .RelPermalink }}">learn more about {{ $authorName }}</a>{{ end }}.</p>
   </div>
 
   {{/* Email capture */}}

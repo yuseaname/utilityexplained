@@ -1,0 +1,24 @@
+{{- /* jump-row.html — compact, always-visible section shortcuts for long guides.
+     Sits near the top of an article so readers self-navigate instead of
+     pogo-sticking back to search. The collapsible TOC stays for depth; this
+     row covers the 4–6 paths that answer "where do I start?"
+
+     Usage (label|anchor pairs, order preserved):
+     {{< jump-row "Free today|#free-changes-start-today-save-1025" "Checklist|#quick-reference-checklist" >}}
+*/ -}}
+{{- if .IsNamedParams -}}
+<nav class="jump-row" aria-label="Jump to section">
+  {{- range .Params -}}
+    <a href="{{ . }}">{{ .Name }}</a>
+  {{- end -}}
+</nav>
+{{- else -}}
+<nav class="jump-row" aria-label="Jump to section">
+  {{- range .Params -}}
+    {{- $parts := split . "|" -}}
+    {{- $label := trim (index $parts 0) " " -}}
+    {{- $anchor := trim (index $parts 1) " " -}}
+    <a href="{{ $anchor }}">{{ $label }}</a>
+  {{- end -}}
+</nav>
+{{- end -}}

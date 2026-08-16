@@ -263,6 +263,20 @@ a:hover {
 .card:hover .card-image {
   transform: scale(1.03);
 }
+/* Intentional no-image state: keeps the 16:9 card geometry stable with a
+   branded monogram instead of a missing-image gap or collapsed card. */
+.card-fallback {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--color-primary-700), var(--color-primary-900));
+  color: var(--color-accent-300);
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-weight: var(--weight-bold);
+}
 .card-body {
   padding: var(--space-4);
 }
@@ -528,6 +542,49 @@ a:hover {
   font-size: 0.9em;
 }
 
+/* ── Jump Row (visible section shortcuts) ── */
+.jump-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: var(--space-5) 0;
+}
+.jump-row-label {
+  align-self: center;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin-right: var(--space-1);
+}
+.jump-row a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.8rem;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--color-primary-700);
+  background: var(--color-surface-muted);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+}
+.jump-row a:hover,
+.jump-row a:focus-visible {
+  background: var(--color-primary-700);
+  border-color: var(--color-primary-700);
+  color: var(--color-accent-100);
+}
+
+/* ── AdSense: collapse unfilled inventory ──
+   An <ins> that AdSense marks data-ad-status="unfilled" must reserve zero
+   height, so empty slots never leave blank gaps in the page flow. */
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+}
+
 /* Sticky TOC wrapper */
 .toc-wrapper {
   position: sticky;
@@ -572,6 +629,11 @@ a:hover {
   width: 100%;
   height: auto;
   display: block;
+  /* Compact hero: the practical answer must land above the fold, so cap the
+     art height and crop (never squash) the 16:9 source. The width/height
+     attributes still reserve the exact box — no layout shift. */
+  max-height: 340px;
+  object-fit: cover;
 }
 .hero-caption {
   font-size: var(--text-xs);
@@ -836,6 +898,12 @@ a:hover {
   line-height: var(--leading-relaxed);
   color: var(--color-text);
   font-variation-settings: "opsz" 14;
+  /* Quiet reading surface: fully opaque warm paper under long-form prose and
+     tables. The blueprint/meter motif stays visible in the framing areas
+     (header/hero/footer) but no longer competes with dense reading. */
+  background-color: var(--color-surface);
+  border-radius: var(--radius-xl);
+  padding: var(--space-2) var(--space-4);
 }
 .article-content > * + * {
   margin-top: var(--space-4);
@@ -1324,8 +1392,11 @@ button:focus-visible {
   position: relative;
   width: 100%;
   /* Match GPT Image 2 landscape output (1536×1024 = 3:2) so heroes display
-     natively — zero crop, zero letterbox. */
+     natively — zero crop, zero letterbox. The max-height cap keeps the frame
+     compact so the article's practical answer stays above the fold on a
+     standard 936px viewport; object-fit: cover absorbs the crop. */
   aspect-ratio: 3 / 2;
+  max-height: 340px;
   background: var(--color-surface-muted);
 }
 .hero-figure-frame .hero-img {
