@@ -177,3 +177,24 @@ The following articles use generic stock photos as hero images where article-spe
 **The image audit reduced the image footprint by 69% (32.7MB → 10.2MB) while improving accessibility compliance.** All 205 orphaned/unused image files were safely deleted after confirming zero references. All 36 fabricated alt texts were corrected across 35 articles by 3 parallel fleet agents. The Hugo site builds cleanly with 540 pages and zero errors. The remaining 9 generic stock photos are topically appropriate and intentionally reused, with honest alt text throughout.
 
 **Core Rule Honored:** Every image is now intentional. Every reuse has a reason. Every image reinforces the content around it.
+
+---
+
+## Batch Addendum — 2026-08-15: GPT Image 2 Educational Diagrams (Cycle 2)
+
+**Tool:** Magica API → `gpt-image-2-text` (High, 1536×1024 → webp q85). Vision-QA'd via `openai/gpt-5.5` (text transcription verified, 6/6 PASS).
+**Style:** warm cream #FEFAF2, terracotta/warm-brown flat vector, red warnings — matches Aug 14 program.
+**Deploy:** commit `fe6a739f`, CI green, live 200s verified.
+
+| Page | Visual | Placement | Status |
+|---|---|---|---|
+| 21-past-due-balance | `past-due-bill-anatomy.webp` | after $145/$185/$8.50/$338.50 example | ✅ live |
+| 21-past-due-balance | `past-due-disconnection-timeline.webp` | "The Disconnection Timeline" | ✅ live |
+| water-meter-leak-indicator | `leak-indicator-dial.webp` | "What the leak indicator actually is" | ✅ live |
+| water-meter-running | `decision-tree.webp` | "The 10-Minute Test" | ✅ live |
+| 25-taxes-fees-franchise | `taxes-fees-breakdown.webp` | "Why Are There So Many Taxes and Fees" | ✅ live |
+| how-to-read-a-water-meter | `dial-meter-reading.webp` | "Reading a dial meter" | ✅ live |
+
+**Also:** meter-running page rebuilt from 16-line stub → 2,053-word guide (was top-2 traffic page with zero body). Removed 3 tracked orphan webps (`leak-causes`, `meter-test`, `custom_inline` in past-due dir — git-recoverable).
+
+**Next opportunities (priority):** reconnection-fee page (2 inline, could use a reconnection-process graphic); sewer-charges flow visual; hero refresh on the 9 remaining generic-stock heroes; `28-` and `04-` clusters' inline density.
