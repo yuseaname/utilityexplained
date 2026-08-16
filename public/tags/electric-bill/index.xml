@@ -1,138 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Electric Bill on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/electric-bill/</link>
-    <description>Recent content in Electric Bill on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/electric-bill/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How Much Does EV Charging Add to Your Electric Bill?</title>
-      <link>https://utilityexplained.com/blog/ev-charging-impact-electric-bill/</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/ev-charging-impact-electric-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Expect an extra $30–$60 per month for a typical US driver.&lt;/strong&gt; That&#39;s roughly &lt;strong&gt;320 kWh&lt;/strong&gt; of home charging (about 13,500 miles a year at 3–4 miles per kWh) at typical residential rates. Off-peak time-of-use charging can cut that meaningfully — while DC fast charging runs &lt;strong&gt;2–4× home rates&lt;/strong&gt; and should stay a road-trip tool, not a habit.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;The bill comes down to three numbers.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Miles driven&lt;/strong&gt; — the average US driver covers about 1,100 miles a month.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficiency&lt;/strong&gt; — typical EVs run 3–4 miles per kWh; big trucks can be near 2.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Your rate and timing&lt;/strong&gt; — flat vs time-of-use decides the multiplier.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Run the full math in &lt;a href=&#34;#the-three-numbers-behind-your-bill&#34;&gt;the three numbers&lt;/a&gt;, or compare directly with &lt;a href=&#34;#ev-vs-gasoline-real-cost-comparison&#34;&gt;gasoline costs&lt;/a&gt;. New to the units? Start with &lt;a href=&#34;https://utilityexplained.com/blog/11-understanding-kwh-usage/&#34;&gt;what a kWh actually is&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Net Metering Explained: How Solar Panels Affect Your Electric Bill</title>
-      <link>https://utilityexplained.com/blog/net-metering-explained/</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/net-metering-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.&lt;/strong&gt; Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;You get credits&lt;/strong&gt; for solar power you don&amp;rsquo;t use immediately&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Credits roll over month-to-month&lt;/strong&gt; (in most states) to cover nighttime/cloudy day usage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong&gt; settles any remaining credits or charges&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/08-time-of-use-electricity/&#34;&gt;Time-of-Use Electricity&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phantom Power Draw: How to Find and Stop Silent Electricity Thieves</title>
-      <link>https://utilityexplained.com/blog/phantom-power-draw-explained/</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/phantom-power-draw-explained/</guid>
-      <description>&lt;div class=&#34;affiliate-disclosure&#34; style=&#34;background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;&#34;&gt;&#xA;  &lt;strong style=&#34;color:#475569;&#34;&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href=&#34;https://utilityexplained.com/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phantom power (also called standby power or vampire draw) is electricity consumed by devices that are plugged in but turned off or in standby mode.&lt;/strong&gt; It costs the average U.S. household &lt;strong&gt;$100–$200 per year&lt;/strong&gt; — typically &lt;strong&gt;5–10% of your total electric bill&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Understanding Your Utility Bill: The Complete Guide for 2026</title>
-      <link>https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your utility bill typically consists of 3-5 components: base service charge ($10-30/month), energy usage charges ($0.08-0.30 per kWh), delivery fees ($0.02-0.06 per kWh), taxes, and regulatory fees totaling $150-250 monthly for average households.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fact:&lt;/strong&gt; Energy usage makes up 60-70% of most electric bills, with fixed charges accounting for 20-30%&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action:&lt;/strong&gt; Review the &amp;ldquo;Details of Charges&amp;rdquo; section to identify which components are driving your highest costs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/&#34;&gt;How Utility Rates Work&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why your electric bill keeps rising: Complete Guide (2026)</title>
-      <link>https://utilityexplained.com/blog/why-your-electric-bill-keeps-rising-2026/</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-your-electric-bill-keeps-rising-2026/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill keeps rising because of three main factors: rate increases approved by utility commissions, higher fixed charges (delivery/customer fees), and increased consumption from extreme weather.&lt;/strong&gt; Even if your usage stays the same, your bill can go up because:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Supply rates&lt;/strong&gt; change with fuel costs and market conditions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Delivery charges&lt;/strong&gt; have increased 20-40% in many states since 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fixed monthly fees&lt;/strong&gt; (customer charge) have doubled in some areas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time-of-use rate plans&lt;/strong&gt; charge more during peak hours&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extreme weather&lt;/strong&gt; forces HVAC systems to work harder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here&#39;s what you can do: Check if you&#39;re on the cheapest available [rate plan](/blog/10-fixed-vs-variable-utility-rate/), [reduce peak-hour usage](/blog/08-time-of-use-electricity/), and [audit your home for energy leaks](/blog/47-check-energy-leaks-home-diy/).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Understanding kWh Usage: What Uses the Most Electricity in Your Home</title>
-      <link>https://utilityexplained.com/blog/11-understanding-kwh-usage/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/11-understanding-kwh-usage/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A kilowatt-hour (kWh) measures how much electricity you use over time — one kWh equals using 1,000 watts for one hour.&lt;/strong&gt; The average U.S. household uses about 886 kWh per month, costing roughly $115-150 depending on local rates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;A 100-watt light bulb&lt;/strong&gt; running for 10 hours uses 1 kWh&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Your HVAC system&lt;/strong&gt; typically accounts for 40-50% of total usage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monitor your usage daily&lt;/strong&gt; to spot unusual consumption patterns&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/&#34;&gt;How to Read Your Electric Bill&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Read Your Electric Bill (Line by Line Guide)</title>
-      <link>https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill charges you for every kilowatt-hour (kWh) of electricity used, with rates typically ranging from $0.10 to $0.30 per kWh depending on your location and provider.&lt;/strong&gt; The main sections include your usage history, current charges, rate details, and payment due date.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Your average monthly usage&lt;/strong&gt; (measured in kWh) determines your base charges&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Peak usage times&lt;/strong&gt; (usually 4-9 PM) often have higher rates&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Check the &amp;ldquo;rate schedule&amp;rdquo; section&lt;/strong&gt; to understand your exact pricing structure&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/11-understanding-kwh-usage/&#34;&gt;Understanding kWh Usage&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Your Electric Bill Changes Month to Month (Even With Similar Usage)</title>
-      <link>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill changes month-to-month due to variable-rate plans, seasonal usage patterns, and fluctuating fuel costs passed through by utilities.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seasonal swings: Winter/summer bills are 30–&lt;strong&gt;50%&lt;/strong&gt; higher** than spring/fall&lt;/li&gt;&#xA;&lt;li&gt;Time-of-use rates vary daily** — peak hours cost 2–3x more&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fuel adjustment charges add $10&lt;/strong&gt;–&lt;strong&gt;$40&lt;/strong&gt; per month** during energy price spikes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;[For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/&#34;&gt;why electricity bills are high in summer&lt;/a&gt;.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;short-answer&#34;&gt;The short answer: same usage does not mean same total&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              You kept your routine steady, but the bill moved anyway. That can&#xA;              feel unfair.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title>
-      <link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong&gt; Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fixed = budget stability&lt;/strong&gt; - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variable = potential savings&lt;/strong&gt; - Best for flexible households in mild climates with low usage volatility&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Switching costs $0-50&lt;/strong&gt; - Many providers allow plan changes monthly; early termination fees can apply&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/2026-utility-cost-index-by-state/&#34;&gt;utility cost index by state&lt;/a&gt; for regional rate comparisons.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title>
-      <link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid>
-      <description>&lt;h2 id=&#34;problem&#34;&gt;The problem: two big charges that sound the same&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              Many people open an electric bill and see two large sections:&#xA;              &#34;Supply&#34; and &#34;Delivery.&#34; Both say electricity, so why are there two?&#xA;              That split is real, and it is one of the fastest ways to make a bill&#xA;              feel less confusing.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              This guide separates those two buckets in plain English. If you want&#xA;              the full electricity overview, start with&#xA;              &lt;a href=&#34;https://utilityexplained.com/electricity-explained&#34;&gt; Electricity Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title>
-      <link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tiered electricity rates&lt;/strong&gt; charge a lower price per kWh up to a baseline allowance (often &lt;strong&gt;400–500 kWh in summer&lt;/strong&gt;), then a higher price above it. Tier 2 typically runs &lt;strong&gt;10–30% over Tier 1&lt;/strong&gt;, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;The problem: you used a little more, but the price jumped a lot&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;If your electric bill suddenly jumped and you did not change much,&#xA;tiered pricing is often the hidden reason. You cross a threshold,&#xA;and the next block of electricity costs more. It feels like a penalty,&#xA;but it is just how the rate is structured.&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Electric Bill Breakdown: Every Charge Explained</title>
-      <link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for &lt;strong&gt;70–80% of your total bill&lt;/strong&gt;, with the customer charge paid even on zero-usage months.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month — that tells you whether a jump came from more usage or a rate change.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;One line look wrong? Here&#39;s where to dig in:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Do Smart Meters Work? (And Should You Trust Them?)</title>
-      <link>https://utilityexplained.com/blog/how-do-smart-meters-work/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-do-smart-meters-work/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A smart meter is a digital electricity meter that records your usage in short intervals (usually 15–60 minutes) and sends that data automatically to your utility.&lt;/strong&gt; Unlike old analog meters with spinning dials, smart meters:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Track exactly when&lt;/strong&gt; you use power, not just how much&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Report remotely&lt;/strong&gt; — no meter reader visits your property&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enable time-of-use rates&lt;/strong&gt; — different prices at different hours&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Eliminate estimated bills&lt;/strong&gt; — the utility gets actual usage data&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Are they accurate? &lt;strong&gt;Yes — smart meters are generally more accurate than aging analog meters&lt;/strong&gt;, which tend to slow down and under-report usage over time. If your bill jumped after a smart meter installation, it is likely because the new meter is catching usage the old one missed. For help diagnosing a sudden increase, see our guide on &lt;a href=&#34;https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/&#34;&gt;sudden electricity bill spikes&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Lower Your Electric Bill Without Solar Panels (12 Proven Methods)</title>
-      <link>https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/</guid>
-      <description>&lt;div class=&#34;affiliate-disclosure&#34; style=&#34;background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;&#34;&gt;&#xA;  &lt;strong style=&#34;color:#475569;&#34;&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href=&#34;https://utilityexplained.com/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;You can lower your electric bill by roughly &lt;strong&gt;15–30% ($25–$75/month)&lt;/strong&gt; without installing solar panels by cutting HVAC waste, killing phantom loads, and shifting usage to off-peak hours.&lt;/strong&gt; The highest-ROI moves, in order, are: raise your AC setpoint &lt;strong&gt;1°F in summer or lower heat 1°F in winter&lt;/strong&gt; (&lt;del&gt;$15–$30/month), &lt;strong&gt;seal air leaks&lt;/strong&gt; (&lt;/del&gt;$10–$25/month), &lt;strong&gt;switch to LED bulbs&lt;/strong&gt; (&lt;del&gt;$10–$20/month), &lt;strong&gt;lower the water heater to 120°F&lt;/strong&gt; (&lt;/del&gt;$8–$15/month), &lt;strong&gt;unplug vampire electronics with a smart strip&lt;/strong&gt; (&lt;del&gt;$7–$15/month), and &lt;strong&gt;run laundry and the dishwasher on cold + off-peak cycles&lt;/strong&gt; (&lt;/del&gt;$5–$12/month).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Read an Electric Meter (Dial &amp; Digital Guide)</title>
-      <link>https://utilityexplained.com/blog/how-to-read-electric-meter/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-to-read-electric-meter/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reading your electric meter: Digital meters show a 5-digit number (ignore any zeros at the right) - subtract last month&amp;rsquo;s reading from current reading and multiply by your rate (e.g., 12,500 - 10,000 = 2,500 kWh × $0.12 = $300 usage).&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fact:&lt;/strong&gt; Analog meters with 4-5 dials are read right-to-left, recording the number the pointer just passed&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action:&lt;/strong&gt; Check your meter weekly to catch unusual usage spikes before they become expensive problems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/&#34;&gt;Understanding Your Utility Bill&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Is a Kilowatt-Hour (kWh)? Definition &amp; Calculator</title>
-      <link>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer (what a kWh really means)&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              A kilowatt-hour (kWh) is a unit of energy. It tells you how much&#xA;              electricity you used over time. If you use 1,000 watts for one hour,&#xA;              you used 1 kWh.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The easiest way to picture it: &lt;strong&gt;kW is how fast&lt;/strong&gt; you are&#xA;              using electricity, and &lt;strong&gt;kWh is how much&lt;/strong&gt; you used in&#xA;              total. For more basics, see our &lt;a href=&#34;https://utilityexplained.com/electricity-explained&#34;&gt;electricity guide&lt;/a&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              Once kWh clicks, your bill stops feeling random. You can connect&#xA;              everyday activities (laundry, heating, cooking) to the number you are&#xA;              paying for.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Is My Electricity Bill So High in Winter? (7 Reasons &#43; Fixes)</title>
-      <link>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-winter/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-winter/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              Winter electric bills often spike because your home uses more energy for&#xA;              heating, longer lighting hours, and running appliances that work harder&#xA;              in cold weather. Even small temperature gaps, like a leaky window or&#xA;              unsealed door, can force electric heaters or heat pumps to run longer.&#xA;              The result is more kilowatt-hours (kWh) billed at the same price, so the&#xA;              total jumps even if your rate does not change.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Is My Electric Bill So High This Month? (11 Hidden Causes &#43; Fixes)</title>
-      <link>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</guid>
-      <description>&lt;div class=&#34;affiliate-disclosure&#34; style=&#34;background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;&#34;&gt;&#xA;  &lt;strong style=&#34;color:#475569;&#34;&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href=&#34;https://utilityexplained.com/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Heating/cooling accounts for 40-&lt;strong&gt;50%&lt;/strong&gt; of your bill** — check your thermostat settings&lt;/li&gt;&#xA;&lt;li&gt;Phantom loads add &lt;strong&gt;$100&lt;/strong&gt;–&lt;strong&gt;$200&lt;/strong&gt; per year** — unplug devices when not in use&lt;/li&gt;&#xA;&lt;li&gt;Rates vary by time of use** — running appliances during off-peak hours saves 15–&lt;strong&gt;30%&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;[For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/&#34;&gt;why electricity bills change month to month&lt;/a&gt;.]&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electric Bill on Utility Explained</title><link>https://utilityexplained.com/tags/electric-bill/</link><description>Recent content in Electric Bill on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/electric-bill/index.xml" rel="self" type="application/rss+xml"/><item><title>How Much Does EV Charging Add to Your Electric Bill?</title><link>https://utilityexplained.com/blog/ev-charging-impact-electric-bill/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/ev-charging-impact-electric-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Expect an extra $30–$60 per month for a typical US driver.&lt;/strong> That's roughly &lt;strong>320 kWh&lt;/strong> of home charging (about 13,500 miles a year at 3–4 miles per kWh) at typical residential rates. Off-peak time-of-use charging can cut that meaningfully — while DC fast charging runs &lt;strong>2–4× home rates&lt;/strong> and should stay a road-trip tool, not a habit.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>The bill comes down to three numbers.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Miles driven&lt;/strong> — the average US driver covers about 1,100 miles a month.&lt;/li>
+&lt;li>&lt;strong>Efficiency&lt;/strong> — typical EVs run 3–4 miles per kWh; big trucks can be near 2.&lt;/li>
+&lt;li>&lt;strong>Your rate and timing&lt;/strong> — flat vs time-of-use decides the multiplier.&lt;/li>
+&lt;/ul>
+&lt;p>Run the full math in &lt;a href="#the-three-numbers-behind-your-bill">the three numbers&lt;/a>, or compare directly with &lt;a href="#ev-vs-gasoline-real-cost-comparison">gasoline costs&lt;/a>. New to the units? Start with &lt;a href="https://utilityexplained.com/blog/11-understanding-kwh-usage/">what a kWh actually is&lt;/a>.&lt;/p></description></item><item><title>Net Metering Explained: How Solar Panels Affect Your Electric Bill</title><link>https://utilityexplained.com/blog/net-metering-explained/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/net-metering-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.&lt;/strong> Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>You get credits&lt;/strong> for solar power you don&amp;rsquo;t use immediately&lt;/li>
+&lt;li>&lt;strong>Credits roll over month-to-month&lt;/strong> (in most states) to cover nighttime/cloudy day usage&lt;/li>
+&lt;li>&lt;strong>Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong> settles any remaining credits or charges&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/08-time-of-use-electricity/">Time-of-Use Electricity&lt;/a>.&lt;/p></description></item><item><title>Phantom Power Draw: How to Find and Stop Silent Electricity Thieves</title><link>https://utilityexplained.com/blog/phantom-power-draw-explained/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/phantom-power-draw-explained/</guid><description>&lt;div class="affiliate-disclosure" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;">
+ &lt;strong style="color:#475569;">Disclosure:&lt;/strong> Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href="https://utilityexplained.com/affiliate-disclosure/">affiliate disclosure&lt;/a>.
+&lt;/div>
+&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Phantom power (also called standby power or vampire draw) is electricity consumed by devices that are plugged in but turned off or in standby mode.&lt;/strong> It costs the average U.S. household &lt;strong>$100–$200 per year&lt;/strong> — typically &lt;strong>5–10% of your total electric bill&lt;/strong>.&lt;/p></description></item><item><title>Understanding Your Utility Bill: The Complete Guide for 2026</title><link>https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your utility bill typically consists of 3-5 components: base service charge ($10-30/month), energy usage charges ($0.08-0.30 per kWh), delivery fees ($0.02-0.06 per kWh), taxes, and regulatory fees totaling $150-250 monthly for average households.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fact:&lt;/strong> Energy usage makes up 60-70% of most electric bills, with fixed charges accounting for 20-30%&lt;/li>
+&lt;li>&lt;strong>Action:&lt;/strong> Review the &amp;ldquo;Details of Charges&amp;rdquo; section to identify which components are driving your highest costs&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/">How Utility Rates Work&lt;/a>.&lt;/p></description></item><item><title>Why your electric bill keeps rising: Complete Guide (2026)</title><link>https://utilityexplained.com/blog/why-your-electric-bill-keeps-rising-2026/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-your-electric-bill-keeps-rising-2026/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your electric bill keeps rising because of three main factors: rate increases approved by utility commissions, higher fixed charges (delivery/customer fees), and increased consumption from extreme weather.&lt;/strong> Even if your usage stays the same, your bill can go up because:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Supply rates&lt;/strong> change with fuel costs and market conditions&lt;/li>
+&lt;li>&lt;strong>Delivery charges&lt;/strong> have increased 20-40% in many states since 2022&lt;/li>
+&lt;li>&lt;strong>Fixed monthly fees&lt;/strong> (customer charge) have doubled in some areas&lt;/li>
+&lt;li>&lt;strong>Time-of-use rate plans&lt;/strong> charge more during peak hours&lt;/li>
+&lt;li>&lt;strong>Extreme weather&lt;/strong> forces HVAC systems to work harder&lt;/li>
+&lt;/ul>
+&lt;p>Here's what you can do: Check if you're on the cheapest available [rate plan](/blog/10-fixed-vs-variable-utility-rate/), [reduce peak-hour usage](/blog/08-time-of-use-electricity/), and [audit your home for energy leaks](/blog/47-check-energy-leaks-home-diy/).&lt;/p></description></item><item><title>Understanding kWh Usage: What Uses the Most Electricity in Your Home</title><link>https://utilityexplained.com/blog/11-understanding-kwh-usage/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/11-understanding-kwh-usage/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>A kilowatt-hour (kWh) measures how much electricity you use over time — one kWh equals using 1,000 watts for one hour.&lt;/strong> The average U.S. household uses about 886 kWh per month, costing roughly $115-150 depending on local rates.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>A 100-watt light bulb&lt;/strong> running for 10 hours uses 1 kWh&lt;/li>
+&lt;li>&lt;strong>Your HVAC system&lt;/strong> typically accounts for 40-50% of total usage&lt;/li>
+&lt;li>&lt;strong>Monitor your usage daily&lt;/strong> to spot unusual consumption patterns&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill&lt;/a>.&lt;/p></description></item><item><title>How to Read Your Electric Bill (Line by Line Guide)</title><link>https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your electric bill charges you for every kilowatt-hour (kWh) of electricity used, with rates typically ranging from $0.10 to $0.30 per kWh depending on your location and provider.&lt;/strong> The main sections include your usage history, current charges, rate details, and payment due date.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Your average monthly usage&lt;/strong> (measured in kWh) determines your base charges&lt;/li>
+&lt;li>&lt;strong>Peak usage times&lt;/strong> (usually 4-9 PM) often have higher rates&lt;/li>
+&lt;li>&lt;strong>Check the &amp;ldquo;rate schedule&amp;rdquo; section&lt;/strong> to understand your exact pricing structure&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/11-understanding-kwh-usage/">Understanding kWh Usage&lt;/a>.&lt;/p></description></item><item><title>Why Your Electric Bill Changes Month to Month (Even With Similar Usage)</title><link>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your electric bill changes month-to-month due to variable-rate plans, seasonal usage patterns, and fluctuating fuel costs passed through by utilities.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Seasonal swings: Winter/summer bills are 30–&lt;strong>50%&lt;/strong> higher** than spring/fall&lt;/li>
+&lt;li>Time-of-use rates vary daily** — peak hours cost 2–3x more&lt;/li>
+&lt;li>&lt;strong>Fuel adjustment charges add $10&lt;/strong>–&lt;strong>$40&lt;/strong> per month** during energy price spikes&lt;/li>
+&lt;/ul>
+&lt;p>[For more detail, see &lt;a href="https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/">why electricity bills are high in summer&lt;/a>.]&lt;/p>
+&lt;h2 id="short-answer">The short answer: same usage does not mean same total&lt;/h2>
+&lt;p class="lead">
+ You kept your routine steady, but the bill moved anyway. That can
+ feel unfair.
+ &lt;/p></description></item><item><title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title><link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong> Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fixed = budget stability&lt;/strong> - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li>
+&lt;li>&lt;strong>Variable = potential savings&lt;/strong> - Best for flexible households in mild climates with low usage volatility&lt;/li>
+&lt;li>&lt;strong>Switching costs $0-50&lt;/strong> - Many providers allow plan changes monthly; early termination fees can apply&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/2026-utility-cost-index-by-state/">utility cost index by state&lt;/a> for regional rate comparisons.&lt;/p></description></item><item><title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title><link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid><description>&lt;h2 id="problem">The problem: two big charges that sound the same&lt;/h2>
+&lt;p class="lead">
+ Many people open an electric bill and see two large sections:
+ "Supply" and "Delivery." Both say electricity, so why are there two?
+ That split is real, and it is one of the fastest ways to make a bill
+ feel less confusing.
+ &lt;/p>
+ &lt;p>
+ This guide separates those two buckets in plain English. If you want
+ the full electricity overview, start with
+ &lt;a href="https://utilityexplained.com/electricity-explained"> Electricity Explained&lt;/a>.
+ &lt;/p></description></item><item><title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title><link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Tiered electricity rates&lt;/strong> charge a lower price per kWh up to a baseline allowance (often &lt;strong>400–500 kWh in summer&lt;/strong>), then a higher price above it. Tier 2 typically runs &lt;strong>10–30% over Tier 1&lt;/strong>, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p>
+&lt;h2 id="problem">The problem: you used a little more, but the price jumped a lot&lt;/h2>
+&lt;p class="lead">
+If your electric bill suddenly jumped and you did not change much,
+tiered pricing is often the hidden reason. You cross a threshold,
+and the next block of electricity costs more. It feels like a penalty,
+but it is just how the rate is structured.
+&lt;/p></description></item><item><title>Electric Bill Breakdown: Every Charge Explained</title><link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for &lt;strong>70–80% of your total bill&lt;/strong>, with the customer charge paid even on zero-usage months.&lt;/p>
+&lt;p>&lt;strong>Tip:&lt;/strong> Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month — that tells you whether a jump came from more usage or a rate change.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>One line look wrong? Here's where to dig in:&lt;/strong>&lt;/p></description></item><item><title>How Do Smart Meters Work? (And Should You Trust Them?)</title><link>https://utilityexplained.com/blog/how-do-smart-meters-work/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-do-smart-meters-work/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>A smart meter is a digital electricity meter that records your usage in short intervals (usually 15–60 minutes) and sends that data automatically to your utility.&lt;/strong> Unlike old analog meters with spinning dials, smart meters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Track exactly when&lt;/strong> you use power, not just how much&lt;/li>
+&lt;li>&lt;strong>Report remotely&lt;/strong> — no meter reader visits your property&lt;/li>
+&lt;li>&lt;strong>Enable time-of-use rates&lt;/strong> — different prices at different hours&lt;/li>
+&lt;li>&lt;strong>Eliminate estimated bills&lt;/strong> — the utility gets actual usage data&lt;/li>
+&lt;/ul>
+&lt;p>Are they accurate? &lt;strong>Yes — smart meters are generally more accurate than aging analog meters&lt;/strong>, which tend to slow down and under-report usage over time. If your bill jumped after a smart meter installation, it is likely because the new meter is catching usage the old one missed. For help diagnosing a sudden increase, see our guide on &lt;a href="https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden electricity bill spikes&lt;/a>.&lt;/p></description></item><item><title>How to Lower Your Electric Bill Without Solar Panels (12 Proven Methods)</title><link>https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/</guid><description>&lt;div class="affiliate-disclosure" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;">
+ &lt;strong style="color:#475569;">Disclosure:&lt;/strong> Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href="https://utilityexplained.com/affiliate-disclosure/">affiliate disclosure&lt;/a>.
+&lt;/div>
+&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>You can lower your electric bill by roughly &lt;strong>15–30% ($25–$75/month)&lt;/strong> without installing solar panels by cutting HVAC waste, killing phantom loads, and shifting usage to off-peak hours.&lt;/strong> The highest-ROI moves, in order, are: raise your AC setpoint &lt;strong>1°F in summer or lower heat 1°F in winter&lt;/strong> (&lt;del>$15–$30/month), &lt;strong>seal air leaks&lt;/strong> (&lt;/del>$10–$25/month), &lt;strong>switch to LED bulbs&lt;/strong> (&lt;del>$10–$20/month), &lt;strong>lower the water heater to 120°F&lt;/strong> (&lt;/del>$8–$15/month), &lt;strong>unplug vampire electronics with a smart strip&lt;/strong> (&lt;del>$7–$15/month), and &lt;strong>run laundry and the dishwasher on cold + off-peak cycles&lt;/strong> (&lt;/del>$5–$12/month).&lt;/p></description></item><item><title>How to Read an Electric Meter (Dial &amp; Digital Guide)</title><link>https://utilityexplained.com/blog/how-to-read-electric-meter/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-to-read-electric-meter/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Reading your electric meter: Digital meters show a 5-digit number (ignore any zeros at the right) - subtract last month&amp;rsquo;s reading from current reading and multiply by your rate (e.g., 12,500 - 10,000 = 2,500 kWh × $0.12 = $300 usage).&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fact:&lt;/strong> Analog meters with 4-5 dials are read right-to-left, recording the number the pointer just passed&lt;/li>
+&lt;li>&lt;strong>Action:&lt;/strong> Check your meter weekly to catch unusual usage spikes before they become expensive problems&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/">Understanding Your Utility Bill&lt;/a>.&lt;/p></description></item><item><title>What Is a Kilowatt-Hour (kWh)? Definition &amp; Calculator</title><link>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</guid><description>&lt;h2 id="quick-answer">The short answer (what a kWh really means)&lt;/h2>
+&lt;p>
+ A kilowatt-hour (kWh) is a unit of energy. It tells you how much
+ electricity you used over time. If you use 1,000 watts for one hour,
+ you used 1 kWh.
+ &lt;/p>
+ &lt;p>
+ The easiest way to picture it: &lt;strong>kW is how fast&lt;/strong> you are
+ using electricity, and &lt;strong>kWh is how much&lt;/strong> you used in
+ total. For more basics, see our &lt;a href="https://utilityexplained.com/electricity-explained">electricity guide&lt;/a>.
+ &lt;/p>
+ &lt;p>
+ Once kWh clicks, your bill stops feeling random. You can connect
+ everyday activities (laundry, heating, cooking) to the number you are
+ paying for.
+ &lt;/p></description></item><item><title>Why Is My Electricity Bill So High in Winter? (7 Reasons + Fixes)</title><link>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-winter/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-winter/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
+&lt;p>
+ Winter electric bills often spike because your home uses more energy for
+ heating, longer lighting hours, and running appliances that work harder
+ in cold weather. Even small temperature gaps, like a leaky window or
+ unsealed door, can force electric heaters or heat pumps to run longer.
+ The result is more kilowatt-hours (kWh) billed at the same price, so the
+ total jumps even if your rate does not change.
+ &lt;/p></description></item><item><title>Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)</title><link>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</guid><description>&lt;div class="affiliate-disclosure" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;">
+ &lt;strong style="color:#475569;">Disclosure:&lt;/strong> Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href="https://utilityexplained.com/affiliate-disclosure/">affiliate disclosure&lt;/a>.
+&lt;/div>
+&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Heating/cooling accounts for 40-&lt;strong>50%&lt;/strong> of your bill** — check your thermostat settings&lt;/li>
+&lt;li>Phantom loads add &lt;strong>$100&lt;/strong>–&lt;strong>$200&lt;/strong> per year** — unplug devices when not in use&lt;/li>
+&lt;li>Rates vary by time of use** — running appliances during off-peak hours saves 15–&lt;strong>30%&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>[For more detail, see &lt;a href="https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/">why electricity bills change month to month&lt;/a>.]&lt;/p></description></item></channel></rss>

@@ -1,61 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Thermostat on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/thermostat/</link>
-    <description>Recent content in Thermostat on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/thermostat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why Is My Gas Bill So High in Winter? The Real Reasons (and Fixes)</title>
-      <link>https://utilityexplained.com/blog/why-is-my-gas-bill-so-high-in-winter/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-gas-bill-so-high-in-winter/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;**Your gas bill is high in winter** because your heating system works harder in cold weather, gas rates often spike during peak demand, and billing cycles may include more days. Winter bills can reach **$200-$400 per month** compared to **$50-$100 in summer**—a **300-400% increase**.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Primary driver:&lt;/strong&gt; Cold temperatures force your furnace to run longer, consuming **2-3x more therms** than summer months&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Rate spikes:&lt;/strong&gt; Gas prices can jump **22% higher** during winter due to market demand&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check your [thermostat settings](/blog/05-how-to-lower-utility-bills) and seal air leaks to reduce costs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Is My Furnace Blowing Cold Air? 9 Common Causes</title>
-      <link>https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/</guid>
-      <description>&lt;h2 id=&#34;problem&#34;&gt;The problem: the heat is on, but the air feels cold&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              You set the thermostat to heat. The system turns on. Then a rush of&#xA;              cool air comes out of the vents. It feels backwards, and it is hard&#xA;              to tell if something is wrong or if this is normal.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The good news is that many &#34;cold air&#34; moments have simple explanations&#xA;              like fan settings, warm-up cycles, or airflow issues. This guide walks&#xA;              you through the most common causes in plain English.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AC Running but Not Cooling? 13 Causes and Safe Fixes</title>
-      <link>https://utilityexplained.com/blog/ac-running-but-not-cooling/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/ac-running-but-not-cooling/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              When your AC is running but not cooling, the problem is usually&#xA;              airflow, a frozen coil, or the outdoor unit not doing its job. Start&#xA;              with the basics: confirm the thermostat is on cool, the fan is set to&#xA;              auto, the filter is clean, and vents are open. If the system is blowing&#xA;              weak air or you see ice on the indoor coil or lines, turn cooling off&#xA;              and let it thaw.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Is My Electricity Bill So High in Summer? (7 Causes &#43; Fixes)</title>
-      <link>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Summer electric bills spike because air conditioning drives &lt;strong&gt;40–50%&lt;/strong&gt; of home energy use during hot months. The biggest cost-cutting levers: raise the thermostat above &lt;strong&gt;78°F&lt;/strong&gt;, shift laundry and dishes to off-peak hours, and seal duct leaks. Together these can cut cooling costs by &lt;strong&gt;15–30%&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;product-box&#34;&gt;&#xA;  &lt;span class=&#34;product-label&#34;&gt;Cooling-bill automation&lt;/span&gt;&#xA;  &lt;strong class=&#34;product-name&#34;&gt;Google Nest Learning Thermostat (4th gen)&lt;/strong&gt;&#xA;  &lt;p&gt;Learns your schedule and nudges temperatures on its own — Google&amp;#39;s own numbers: ~12% off heating and ~15% off cooling bills. The 78°F strategy in this article, running itself.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)</title>
-      <link>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              &lt;strong&gt;Aux Heat&lt;/strong&gt; (auxiliary heat) usually means your heat pump&#xA;              is running &lt;strong&gt;backup heat&lt;/strong&gt; to keep up with demand--often&#xA;              during cold snaps, defrost cycles, or when you raise the thermostat&#xA;              several degrees at once.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              &lt;strong&gt;Emergency Heat&lt;/strong&gt; is typically a &lt;strong&gt;manual mode&lt;/strong&gt;&#xA;              you switch on when the heat pump itself can&#39;t run properly (for example,&#xA;              it&#39;s malfunctioning). In many homes, emergency heat uses the same backup&#xA;              heater as aux heat--but forces the heat pump to stay off.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost</title>
-      <link>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The quick answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              Single-stage systems are simple and affordable, but they cycle on and&#xA;              off at full power. Two-stage systems run on low most of the time and&#xA;              switch to high only when needed, which can improve comfort and humidity&#xA;              control. Variable-speed systems adjust output in many small steps and&#xA;              typically provide the steadiest comfort when the home and ductwork are&#xA;              well designed.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              If ductwork is leaking or the system is oversized, even the best&#xA;              equipment can struggle. See&#xA;              &lt;a href=&#34;https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day&#34;&gt; duct leaks explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Is My Electric Bill So High This Month? (11 Hidden Causes &#43; Fixes)</title>
-      <link>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</guid>
-      <description>&lt;div class=&#34;affiliate-disclosure&#34; style=&#34;background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;&#34;&gt;&#xA;  &lt;strong style=&#34;color:#475569;&#34;&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href=&#34;https://utilityexplained.com/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Heating/cooling accounts for 40-&lt;strong&gt;50%&lt;/strong&gt; of your bill** — check your thermostat settings&lt;/li&gt;&#xA;&lt;li&gt;Phantom loads add &lt;strong&gt;$100&lt;/strong&gt;–&lt;strong&gt;$200&lt;/strong&gt; per year** — unplug devices when not in use&lt;/li&gt;&#xA;&lt;li&gt;Rates vary by time of use** — running appliances during off-peak hours saves 15–&lt;strong&gt;30%&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;[For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/&#34;&gt;why electricity bills change month to month&lt;/a&gt;.]&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thermostat on Utility Explained</title><link>https://utilityexplained.com/tags/thermostat/</link><description>Recent content in Thermostat on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/thermostat/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Is My Gas Bill So High in Winter? The Real Reasons (and Fixes)</title><link>https://utilityexplained.com/blog/why-is-my-gas-bill-so-high-in-winter/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-gas-bill-so-high-in-winter/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>**Your gas bill is high in winter** because your heating system works harder in cold weather, gas rates often spike during peak demand, and billing cycles may include more days. Winter bills can reach **$200-$400 per month** compared to **$50-$100 in summer**—a **300-400% increase**.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Primary driver:&lt;/strong> Cold temperatures force your furnace to run longer, consuming **2-3x more therms** than summer months&lt;/li>
+&lt;li>&lt;strong>Rate spikes:&lt;/strong> Gas prices can jump **22% higher** during winter due to market demand&lt;/li>
+&lt;/ul>
+&lt;p>Check your [thermostat settings](/blog/05-how-to-lower-utility-bills) and seal air leaks to reduce costs.&lt;/p></description></item><item><title>Why Is My Furnace Blowing Cold Air? 9 Common Causes</title><link>https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/</guid><description>&lt;h2 id="problem">The problem: the heat is on, but the air feels cold&lt;/h2>
+&lt;p class="lead">
+ You set the thermostat to heat. The system turns on. Then a rush of
+ cool air comes out of the vents. It feels backwards, and it is hard
+ to tell if something is wrong or if this is normal.
+ &lt;/p>
+ &lt;p>
+ The good news is that many "cold air" moments have simple explanations
+ like fan settings, warm-up cycles, or airflow issues. This guide walks
+ you through the most common causes in plain English.
+ &lt;/p></description></item><item><title>AC Running but Not Cooling? 13 Causes and Safe Fixes</title><link>https://utilityexplained.com/blog/ac-running-but-not-cooling/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/ac-running-but-not-cooling/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
+&lt;p>
+ When your AC is running but not cooling, the problem is usually
+ airflow, a frozen coil, or the outdoor unit not doing its job. Start
+ with the basics: confirm the thermostat is on cool, the fan is set to
+ auto, the filter is clean, and vents are open. If the system is blowing
+ weak air or you see ice on the indoor coil or lines, turn cooling off
+ and let it thaw.
+ &lt;/p></description></item><item><title>Why Is My Electricity Bill So High in Summer? (7 Causes + Fixes)</title><link>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-electricity-bill-so-high-in-summer/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>Summer electric bills spike because air conditioning drives &lt;strong>40–50%&lt;/strong> of home energy use during hot months. The biggest cost-cutting levers: raise the thermostat above &lt;strong>78°F&lt;/strong>, shift laundry and dishes to off-peak hours, and seal duct leaks. Together these can cut cooling costs by &lt;strong>15–30%&lt;/strong>.&lt;/p>
+&lt;div class="product-box">
+ &lt;span class="product-label">Cooling-bill automation&lt;/span>
+ &lt;strong class="product-name">Google Nest Learning Thermostat (4th gen)&lt;/strong>
+ &lt;p>Learns your schedule and nudges temperatures on its own — Google&amp;#39;s own numbers: ~12% off heating and ~15% off cooling bills. The 78°F strategy in this article, running itself.&lt;/p></description></item><item><title>Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)</title><link>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
+&lt;p>
+ &lt;strong>Aux Heat&lt;/strong> (auxiliary heat) usually means your heat pump
+ is running &lt;strong>backup heat&lt;/strong> to keep up with demand--often
+ during cold snaps, defrost cycles, or when you raise the thermostat
+ several degrees at once.
+ &lt;/p>
+ &lt;p>
+ &lt;strong>Emergency Heat&lt;/strong> is typically a &lt;strong>manual mode&lt;/strong>
+ you switch on when the heat pump itself can't run properly (for example,
+ it's malfunctioning). In many homes, emergency heat uses the same backup
+ heater as aux heat--but forces the heat pump to stay off.
+ &lt;/p></description></item><item><title>Single-Stage vs Two-Stage vs Variable-Speed HVAC: Comfort, Efficiency, and Cost</title><link>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/</guid><description>&lt;h2 id="quick-answer">The quick answer&lt;/h2>
+&lt;p>
+ Single-stage systems are simple and affordable, but they cycle on and
+ off at full power. Two-stage systems run on low most of the time and
+ switch to high only when needed, which can improve comfort and humidity
+ control. Variable-speed systems adjust output in many small steps and
+ typically provide the steadiest comfort when the home and ductwork are
+ well designed.
+ &lt;/p>
+ &lt;p>
+ If ductwork is leaking or the system is oversized, even the best
+ equipment can struggle. See
+ &lt;a href="https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks explained&lt;/a>.
+ &lt;/p></description></item><item><title>Why Is My Electric Bill So High This Month? (11 Hidden Causes + Fixes)</title><link>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-this-month/</guid><description>&lt;div class="affiliate-disclosure" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.5rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.85rem;color:#64748b;">
+ &lt;strong style="color:#475569;">Disclosure:&lt;/strong> Some links in this article are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never affects our recommendations — see our &lt;a href="https://utilityexplained.com/affiliate-disclosure/">affiliate disclosure&lt;/a>.
+&lt;/div>
+&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your electric bill is likely high this month due to seasonal rate increases, HVAC usage, or phantom loads from always-on devices.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Heating/cooling accounts for 40-&lt;strong>50%&lt;/strong> of your bill** — check your thermostat settings&lt;/li>
+&lt;li>Phantom loads add &lt;strong>$100&lt;/strong>–&lt;strong>$200&lt;/strong> per year** — unplug devices when not in use&lt;/li>
+&lt;li>Rates vary by time of use** — running appliances during off-peak hours saves 15–&lt;strong>30%&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>[For more detail, see &lt;a href="https://utilityexplained.com/blog/why-electric-bill-changes-month-to-month/">why electricity bills change month to month&lt;/a>.]&lt;/p></description></item></channel></rss>

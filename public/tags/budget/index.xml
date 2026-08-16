@@ -1,68 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Budget on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/budget/</link>
-    <description>Recent content in Budget on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/budget/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Average utility bills by state: Full Comparison (2026)</title>
-      <link>https://utilityexplained.com/blog/average-utility-bills-by-state-2026/</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/average-utility-bills-by-state-2026/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer: Average U.S. Utility Bills in 2026&lt;/h2&gt;&#xA;&lt;p&gt;The average U.S. household pays &lt;strong&gt;$430–$500 per month&lt;/strong&gt; for all utilities combined (electricity, gas, water, sewer, trash). Here is the national breakdown:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Electricity:&lt;/strong&gt; $137/month (≈900 kWh at 14.3¢/kWh)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural gas:&lt;/strong&gt; $60–$120/month (higher in winter, lower in summer)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Water &amp; sewer:&lt;/strong&gt; $70–$120/month combined&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Internet:&lt;/strong&gt; $60–$80/month&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trash/recycling:&lt;/strong&gt; $15–$35/month (often bundled with water)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The cheapest states for utilities are &lt;strong&gt;Idaho, Utah, and Washington&lt;/strong&gt; (abundant hydropower). The most expensive are &lt;strong&gt;Hawaii, Alaska, and Connecticut&lt;/strong&gt;. For a full state-by-state breakdown, see the tables below. To understand what drives these costs, see our guide on &lt;a href=&#34;https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/&#34;&gt;how utility rates, fees, and usage work together&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean</title>
-      <link>https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;# MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean&lt;/p&gt;&#xA;&lt;p&gt;Therms measure the actual heat energy you use, while CCF and MCF measure the physical volume of gas flowing through your meter. To compare costs accurately, you must convert these volume units into therms because gas density varies by region and temperature. Understanding MCF vs CCF vs therms on gas bill is essential for spotting billing errors, comparing utility rates, and tracking your true energy consumption.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiered Water Rates Explained: Why Using More Costs Dramatically More</title>
-      <link>https://utilityexplained.com/blog/tiered-water-rates-explained/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/tiered-water-rates-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;**Tiered water rates** charge higher prices per gallon as you use more water. Instead of a flat rate, usage is divided into blocks—essential indoor needs get lower rates while outdoor/excessive use gets charged higher rates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Utility Rates, Fees, and Usage Work Together on Your Bill</title>
-      <link>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your final utility bill equals: (Usage kWh × Rate) + Fixed Fees + Delivery Charges + Taxes. For example, using 800 kWh at $0.12/kWh with a $15 service fee and $30 delivery = $141 before taxes, which adds 5-15% more.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fact:&lt;/strong&gt; Tiered rates can increase costs by 20-50% when you cross usage thresholds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action:&lt;/strong&gt; Track your usage patterns to avoid hitting expensive upper-rate tiers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/&#34;&gt;Understanding Your Utility Bill&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Did My Utility Bill Go Up This Month? (Even Without Using More)</title>
-      <link>https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer most people need&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              You open the bill, see a higher total, and think, &#34;Nothing changed.&#34;&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              That feeling is common. Most increases come from a mix of billing days,&#xA;              rate changes, and fixed charges, not a sudden spike in usage.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              If you want the broader map first, start with&#xA;              &lt;a href=&#34;https://utilityexplained.com/utility-bills-costs-explained&#34;&gt; Utility Bills &amp;amp; Costs Explained&lt;/a&gt;.&#xA;              It shows how all the pieces fit together.&#xA;            &lt;/p&gt;&#xA;&lt;h2 id=&#34;three-buckets&#34;&gt;The three buckets that change your total&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              This part surprises a lot of people: your bill is not just usage.&#xA;              It is usage &lt;em&gt;times&lt;/em&gt; price, plus fixed charges.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title>
-      <link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong&gt; Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fixed = budget stability&lt;/strong&gt; - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variable = potential savings&lt;/strong&gt; - Best for flexible households in mild climates with low usage volatility&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Switching costs $0-50&lt;/strong&gt; - Many providers allow plan changes monthly; early termination fees can apply&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/2026-utility-cost-index-by-state/&#34;&gt;utility cost index by state&lt;/a&gt; for regional rate comparisons.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Budget for Utilities in Your First Apartment</title>
-      <link>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).&lt;/strong&gt; Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Get exact numbers from the seller&lt;/strong&gt; - Request 12 months of utility history before signing&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plan for seasonal spikes&lt;/strong&gt; - Summer AC can add $50-100/month; winter heating may double gas bills&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Start with 20% buffer&lt;/strong&gt; - First apartments often have inefficient appliances or poor insulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/average-water-usage-per-person/&#34;&gt;average water usage per person&lt;/a&gt; for calculating water costs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Your Utility Bill Can Be Higher Even If Your Usage Didn</title>
-      <link>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              A utility bill can be higher even when your &#34;usage&#34; looks similar because&#xA;              the total is not just usage x price. Most bills include a mix of:&#xA;              &lt;strong&gt; billing days&lt;/strong&gt;, &lt;strong&gt;rate changes&lt;/strong&gt;,&#xA;              &lt;strong&gt; fixed customer charges&lt;/strong&gt;, and sometimes&#xA;              &lt;strong&gt; tiers&lt;/strong&gt; or &lt;strong&gt;time-of-use pricing&lt;/strong&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The fastest way to reduce confusion is to follow a simple order:&#xA;              &lt;strong&gt;days, usage per day, unit price, fixed fees, tiers&lt;/strong&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              For the overall billing model (usage vs delivery vs fixed fees), start&#xA;              at&#xA;              &lt;a href=&#34;https://utilityexplained.com/utility-bills-costs-explained&#34;&gt; Utility Bills &amp;amp; Costs Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Budget on Utility Explained</title><link>https://utilityexplained.com/tags/budget/</link><description>Recent content in Budget on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/budget/index.xml" rel="self" type="application/rss+xml"/><item><title>Average utility bills by state: Full Comparison (2026)</title><link>https://utilityexplained.com/blog/average-utility-bills-by-state-2026/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/average-utility-bills-by-state-2026/</guid><description>&lt;h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026&lt;/h2>
+&lt;p>The average U.S. household pays &lt;strong>$430–$500 per month&lt;/strong> for all utilities combined (electricity, gas, water, sewer, trash). Here is the national breakdown:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Electricity:&lt;/strong> $137/month (≈900 kWh at 14.3¢/kWh)&lt;/li>
+&lt;li>&lt;strong>Natural gas:&lt;/strong> $60–$120/month (higher in winter, lower in summer)&lt;/li>
+&lt;li>&lt;strong>Water &amp; sewer:&lt;/strong> $70–$120/month combined&lt;/li>
+&lt;li>&lt;strong>Internet:&lt;/strong> $60–$80/month&lt;/li>
+&lt;li>&lt;strong>Trash/recycling:&lt;/strong> $15–$35/month (often bundled with water)&lt;/li>
+&lt;/ul>
+&lt;p>The cheapest states for utilities are &lt;strong>Idaho, Utah, and Washington&lt;/strong> (abundant hydropower). The most expensive are &lt;strong>Hawaii, Alaska, and Connecticut&lt;/strong>. For a full state-by-state breakdown, see the tables below. To understand what drives these costs, see our guide on &lt;a href="https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together&lt;/a>.&lt;/p></description></item><item><title>MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean</title><link>https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p># MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean&lt;/p>
+&lt;p>Therms measure the actual heat energy you use, while CCF and MCF measure the physical volume of gas flowing through your meter. To compare costs accurately, you must convert these volume units into therms because gas density varies by region and temperature. Understanding MCF vs CCF vs therms on gas bill is essential for spotting billing errors, comparing utility rates, and tracking your true energy consumption.&lt;/p></description></item><item><title>Tiered Water Rates Explained: Why Using More Costs Dramatically More</title><link>https://utilityexplained.com/blog/tiered-water-rates-explained/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-water-rates-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>**Tiered water rates** charge higher prices per gallon as you use more water. Instead of a flat rate, usage is divided into blocks—essential indoor needs get lower rates while outdoor/excessive use gets charged higher rates.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Example:&lt;/strong> First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**&lt;/li>
+&lt;li>&lt;strong>Impact:&lt;/strong> Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**&lt;/li>
+&lt;/ul>
+&lt;p>Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.&lt;/p></description></item><item><title>How Utility Rates, Fees, and Usage Work Together on Your Bill</title><link>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Your final utility bill equals: (Usage kWh × Rate) + Fixed Fees + Delivery Charges + Taxes. For example, using 800 kWh at $0.12/kWh with a $15 service fee and $30 delivery = $141 before taxes, which adds 5-15% more.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fact:&lt;/strong> Tiered rates can increase costs by 20-50% when you cross usage thresholds&lt;/li>
+&lt;li>&lt;strong>Action:&lt;/strong> Track your usage patterns to avoid hitting expensive upper-rate tiers&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/">Understanding Your Utility Bill&lt;/a>.&lt;/p></description></item><item><title>Why Did My Utility Bill Go Up This Month? (Even Without Using More)</title><link>https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/</guid><description>&lt;h2 id="quick-answer">The short answer most people need&lt;/h2>
+&lt;p class="lead">
+ You open the bill, see a higher total, and think, "Nothing changed."
+ &lt;/p>
+ &lt;p>
+ That feeling is common. Most increases come from a mix of billing days,
+ rate changes, and fixed charges, not a sudden spike in usage.
+ &lt;/p>
+ &lt;p>
+ If you want the broader map first, start with
+ &lt;a href="https://utilityexplained.com/utility-bills-costs-explained"> Utility Bills &amp;amp; Costs Explained&lt;/a>.
+ It shows how all the pieces fit together.
+ &lt;/p>
+&lt;h2 id="three-buckets">The three buckets that change your total&lt;/h2>
+&lt;p>
+ This part surprises a lot of people: your bill is not just usage.
+ It is usage &lt;em>times&lt;/em> price, plus fixed charges.
+ &lt;/p></description></item><item><title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title><link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong> Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fixed = budget stability&lt;/strong> - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li>
+&lt;li>&lt;strong>Variable = potential savings&lt;/strong> - Best for flexible households in mild climates with low usage volatility&lt;/li>
+&lt;li>&lt;strong>Switching costs $0-50&lt;/strong> - Many providers allow plan changes monthly; early termination fees can apply&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/2026-utility-cost-index-by-state/">utility cost index by state&lt;/a> for regional rate comparisons.&lt;/p></description></item><item><title>How to Budget for Utilities in Your First Apartment</title><link>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).&lt;/strong> Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Get exact numbers from the seller&lt;/strong> - Request 12 months of utility history before signing&lt;/li>
+&lt;li>&lt;strong>Plan for seasonal spikes&lt;/strong> - Summer AC can add $50-100/month; winter heating may double gas bills&lt;/li>
+&lt;li>&lt;strong>Start with 20% buffer&lt;/strong> - First apartments often have inefficient appliances or poor insulation&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/average-water-usage-per-person/">average water usage per person&lt;/a> for calculating water costs.&lt;/p></description></item><item><title>Why Your Utility Bill Can Be Higher Even If Your Usage Didn</title><link>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/why-my-utility-bill-is-higher-with-same-usage/</guid><description>&lt;h2 id="quick-answer">The short answer&lt;/h2>
+&lt;p>
+ A utility bill can be higher even when your "usage" looks similar because
+ the total is not just usage x price. Most bills include a mix of:
+ &lt;strong> billing days&lt;/strong>, &lt;strong>rate changes&lt;/strong>,
+ &lt;strong> fixed customer charges&lt;/strong>, and sometimes
+ &lt;strong> tiers&lt;/strong> or &lt;strong>time-of-use pricing&lt;/strong>.
+ &lt;/p>
+ &lt;p>
+ The fastest way to reduce confusion is to follow a simple order:
+ &lt;strong>days, usage per day, unit price, fixed fees, tiers&lt;/strong>.
+ &lt;/p>
+ &lt;p>
+ For the overall billing model (usage vs delivery vs fixed fees), start
+ at
+ &lt;a href="https://utilityexplained.com/utility-bills-costs-explained"> Utility Bills &amp;amp; Costs Explained&lt;/a>.
+ &lt;/p></description></item></channel></rss>

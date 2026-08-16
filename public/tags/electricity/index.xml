@@ -1,47 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Electricity on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/electricity/</link>
-    <description>Recent content in Electricity on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/electricity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estimated Utility Bill Explained</title>
-      <link>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estimated utility bills are calculated based on your historical usage patterns and weather data, but your actual bill may vary by 20-30% from month to month.&lt;/strong&gt; Utilities estimate your consumption when they can&amp;rsquo;t get an actual meter reading.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estimated bills are reconciled&lt;/strong&gt; when actual meter readings are obtained, leading to &amp;ldquo;catch-up&amp;rdquo; bills&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Submit your own meter reading&lt;/strong&gt; online to avoid estimated bills and ensure accuracy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/23-utility-billing-cycle-explained/&#34;&gt;utility billing cycles&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fuel Adjustment Charge on Utility Bill Explained</title>
-      <link>https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;The fuel adjustment charge (FAC) is a pass-through fee that moves with the utility&amp;rsquo;s actual fuel costs, typically swinging &lt;strong&gt;±15–30%&lt;/strong&gt; month to month. It&amp;rsquo;s why two identical-usage bills can differ by $20–$80, and you can&amp;rsquo;t dispute it — only reduce usage.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;FAC is a direct pass-through&lt;/strong&gt; — utilities earn no profit on this charge&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural gas prices drive most swings&lt;/strong&gt; — the fuel is tied to commodity markets&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Can be negative in some months&lt;/strong&gt; — utilities credit back when fuel costs drop&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See also: &lt;a href=&#34;https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/&#34;&gt;Utility bill surcharges and riders explained&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Utility Bill Proration Explained</title>
-      <link>https://utilityexplained.com/blog/20-utility-bill-proration-explained/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/20-utility-bill-proration-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Proration adds &lt;strong&gt;$25–$75&lt;/strong&gt; to a move-in or move-out bill. The utility calculates a daily rate from your monthly charge and multiplies it by the days you had service, so you pay only for those days. Submit meter readings on move-in and move-out days to avoid overpaying &lt;strong&gt;$20–$100&lt;/strong&gt;. For context on every line item, see our &lt;a href=&#34;https://utilityexplained.com/blog/how-to-read-your-utility-bill/&#34;&gt;guide to reading your utility bill&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You move into a new apartment on March 15th, and your first electric bill covers March 15 through April 18—34 days instead of the typical 28 to 31. Or you close on a house sale on June 10th and get a final water bill that covers just 10 days of June. These are prorated utility bills, and they work differently from standard monthly bills. If you don&amp;rsquo;t understand the math, you might overpay by $20 to $100 or more—especially when selling or buying a home during the expensive summer or winter months. Here&amp;rsquo;s exactly how utility bill proration works and how to verify you&amp;rsquo;re being charged correctly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Utility Bill Surcharges and Riders Explained</title>
-      <link>https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Utility surcharges and riders are regulatory fees that add 5-15% to your bill for specific programs like energy efficiency, low-income assistance, or infrastructure upgrades.&lt;/strong&gt; These appear as small line items that increase over time.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Riders are temporary surcharges&lt;/strong&gt; - typically 5-10 years for specific projects&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Energy efficiency riders add 1-3%&lt;/strong&gt; - fund rebates and weatherization programs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Infrastructure riders fund upgrades&lt;/strong&gt; - grid modernization, pipeline replacement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/&#34;&gt;surcharge types explained&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Is the Customer Charge on My Utility Bill?</title>
-      <link>https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A customer charge on your utility bill is a fixed monthly fee ($5-15 typically) that covers meter reading, billing, and infrastructure maintenance - it&amp;rsquo;s charged regardless of your usage.&lt;/strong&gt; This fee can be 20-30% of small bills but under 5% of large ones.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Customer charges are non-negotiable&lt;/strong&gt; - every customer pays the same fixed amount&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;They cover fixed costs&lt;/strong&gt; - billing, meter, customer service, account maintenance&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Commercial customers pay higher rates&lt;/strong&gt; - $20-50/month depending on service size&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/&#34;&gt;customer charges explained&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electricity on Utility Explained</title><link>https://utilityexplained.com/tags/electricity/</link><description>Recent content in Electricity on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/electricity/index.xml" rel="self" type="application/rss+xml"/><item><title>Estimated Utility Bill Explained</title><link>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/14-estimated-utility-bill-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Estimated utility bills are calculated based on your historical usage patterns and weather data, but your actual bill may vary by 20-30% from month to month.&lt;/strong> Utilities estimate your consumption when they can&amp;rsquo;t get an actual meter reading.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Estimated bills are reconciled&lt;/strong> when actual meter readings are obtained, leading to &amp;ldquo;catch-up&amp;rdquo; bills&lt;/li>
+&lt;li>&lt;strong>Submit your own meter reading&lt;/strong> online to avoid estimated bills and ensure accuracy&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/23-utility-billing-cycle-explained/">utility billing cycles&lt;/a>.&lt;/p></description></item><item><title>Fuel Adjustment Charge on Utility Bill Explained</title><link>https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>The fuel adjustment charge (FAC) is a pass-through fee that moves with the utility&amp;rsquo;s actual fuel costs, typically swinging &lt;strong>±15–30%&lt;/strong> month to month. It&amp;rsquo;s why two identical-usage bills can differ by $20–$80, and you can&amp;rsquo;t dispute it — only reduce usage.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>FAC is a direct pass-through&lt;/strong> — utilities earn no profit on this charge&lt;/li>
+&lt;li>&lt;strong>Natural gas prices drive most swings&lt;/strong> — the fuel is tied to commodity markets&lt;/li>
+&lt;li>&lt;strong>Can be negative in some months&lt;/strong> — utilities credit back when fuel costs drop&lt;/li>
+&lt;/ul>
+&lt;p>See also: &lt;a href="https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/">Utility bill surcharges and riders explained&lt;/a>.&lt;/p></description></item><item><title>Utility Bill Proration Explained</title><link>https://utilityexplained.com/blog/20-utility-bill-proration-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/20-utility-bill-proration-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>Proration adds &lt;strong>$25–$75&lt;/strong> to a move-in or move-out bill. The utility calculates a daily rate from your monthly charge and multiplies it by the days you had service, so you pay only for those days. Submit meter readings on move-in and move-out days to avoid overpaying &lt;strong>$20–$100&lt;/strong>. For context on every line item, see our &lt;a href="https://utilityexplained.com/blog/how-to-read-your-utility-bill/">guide to reading your utility bill&lt;/a>.&lt;/p>
+&lt;p>You move into a new apartment on March 15th, and your first electric bill covers March 15 through April 18—34 days instead of the typical 28 to 31. Or you close on a house sale on June 10th and get a final water bill that covers just 10 days of June. These are prorated utility bills, and they work differently from standard monthly bills. If you don&amp;rsquo;t understand the math, you might overpay by $20 to $100 or more—especially when selling or buying a home during the expensive summer or winter months. Here&amp;rsquo;s exactly how utility bill proration works and how to verify you&amp;rsquo;re being charged correctly.&lt;/p></description></item><item><title>Utility Bill Surcharges and Riders Explained</title><link>https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Utility surcharges and riders are regulatory fees that add 5-15% to your bill for specific programs like energy efficiency, low-income assistance, or infrastructure upgrades.&lt;/strong> These appear as small line items that increase over time.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Riders are temporary surcharges&lt;/strong> - typically 5-10 years for specific projects&lt;/li>
+&lt;li>&lt;strong>Energy efficiency riders add 1-3%&lt;/strong> - fund rebates and weatherization programs&lt;/li>
+&lt;li>&lt;strong>Infrastructure riders fund upgrades&lt;/strong> - grid modernization, pipeline replacement&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/">surcharge types explained&lt;/a>.&lt;/p></description></item><item><title>What Is the Customer Charge on My Utility Bill?</title><link>https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>A customer charge on your utility bill is a fixed monthly fee ($5-15 typically) that covers meter reading, billing, and infrastructure maintenance - it&amp;rsquo;s charged regardless of your usage.&lt;/strong> This fee can be 20-30% of small bills but under 5% of large ones.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Customer charges are non-negotiable&lt;/strong> - every customer pays the same fixed amount&lt;/li>
+&lt;li>&lt;strong>They cover fixed costs&lt;/strong> - billing, meter, customer service, account maintenance&lt;/li>
+&lt;li>&lt;strong>Commercial customers pay higher rates&lt;/strong> - $20-50/month depending on service size&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/">customer charges explained&lt;/a>.&lt;/p></description></item></channel></rss>
