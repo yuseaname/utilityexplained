@@ -50,7 +50,9 @@
 {{- end -}}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-{{- with .Params.image -}}
+{{- $shareImg := .Params.image -}}
+{{- if and $shareImg (strings.HasSuffix $shareImg ".svg") -}}{{- $shareImg = replace $shareImg ".svg" ".png" -}}{{- end -}}
+{{- with $shareImg -}}
 <meta property="og:image" content="{{ . }}">
 {{- end -}}
 {{- with .Params.image_alt -}}
@@ -79,7 +81,7 @@
 {{- with .Params.description -}}
 <meta name="twitter:description" content="{{ truncate 155 . }}">
 {{- end -}}
-{{- with .Params.image -}}
+{{- with $shareImg -}}
 <meta name="twitter:image" content="{{ . }}">
 {{- end -}}
 
