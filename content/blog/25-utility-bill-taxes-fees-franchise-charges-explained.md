@@ -9,6 +9,7 @@ categories: ["Fees"]
 tags: ["utility taxes", "franchise fee", "regulatory fees", "municipal charges"]
 keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes and fees", "what is franchise fee on electric bill", "local utility taxes explained"]
 image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"
+hero_below_answer: true
 ---
 
 ## Quick Answer
@@ -21,13 +22,13 @@ Taxes, fees, and franchise charges typically add **5% to 15%** to your total uti
 
 Utility bills across the United States include a combination of taxes, fees, and surcharges imposed by federal, state, county, and municipal governments, as well as regulatory bodies and the utilities themselves. These charges are not optional, not negotiable, and not controlled by the utility — they are mandated by law and approved through legislative or regulatory processes.
 
-The total tax and fee burden on a typical U.S. residential utility bill ranges from **5% to 15%** of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed **15%** when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of [hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/).
+The total tax and fee burden on a typical U.S. residential utility bill ranges from **5% to 15%** of the total, depending on the state and locality. Some areas, like parts of Pennsylvania and New York, can exceed **15%** when multiple overlapping charges are combined. To find every charge that may be hiding on your statement, see our breakdown of <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on your utility bill</a>.
 
 These charges are generally calculated in one of three ways:
 
 1. **Percentage of total charges:** Most taxes and franchise fees are calculated as a percentage of your delivery and supply charges combined.
-2. **Per-kWh or per-therm [surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/):** Regulatory and public benefit charges are often based on consumption volume.
-3. **Flat monthly fees:** Some charges, like nuclear decommissioning fees, are fixed amounts regardless of usage. These are separate from your utility's [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) or [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) — fixed costs for staying connected to the grid that appear in the delivery section of your bill.
+2. **Per-kWh or per-therm <a href="/blog/19-utility-bill-surcharges-and-riders-explained/">surcharges</a>:** Regulatory and public benefit charges are often based on consumption volume.
+3. **Flat monthly fees:** Some charges, like nuclear decommissioning fees, are fixed amounts regardless of usage. These are separate from your utility's <a href="/blog/17-what-is-customer-charge-on-utility-bill/">customer charge</a> or <a href="/blog/22-minimum-bill-utility-bill-explained/">minimum bill</a> — fixed costs for staying connected to the grid that appear in the delivery section of your bill.
 
 ## What Is a Franchise Fee on a Utility Bill?
 
@@ -170,9 +171,9 @@ Yes. In most states, taxes, franchise fees, and regulatory surcharges apply to a
 {{< faq-schema >}}
 
 *Related Reading:*
-- [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/)
-- [Fuel Adjustment Charge on Utility Bill Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)
-- [Delivery Charge vs. Supply Charge Explained](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
-- [What Is the Customer Charge on Your Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/)
-- [Minimum Bill Explained: Why You Pay Even When You Use Nothing](/blog/22-minimum-bill-utility-bill-explained/)
-- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/)
+- <a href="/blog/19-utility-bill-surcharges-and-riders-explained/">Utility Bill Surcharges and Riders Explained</a>
+- <a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">Fuel Adjustment Charge on Utility Bill Explained</a>
+- <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs. Supply Charge Explained</a>
+- <a href="/blog/17-what-is-customer-charge-on-utility-bill/">What Is the Customer Charge on Your Utility Bill?</a>
+- <a href="/blog/22-minimum-bill-utility-bill-explained/">Minimum Bill Explained: Why You Pay Even When You Use Nothing</a>
+- <a href="/blog/04-hidden-fees-utility-bill/">Hidden Fees on Your Utility Bill</a>

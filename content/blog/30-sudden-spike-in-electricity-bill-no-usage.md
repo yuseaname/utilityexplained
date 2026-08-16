@@ -223,3 +223,21 @@ To systematically investigate a usage spike, conduct a home electricity audit:
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Find the energy thief" description="The $25 meter the article above is describing. Plug any appliance in and watch its true consumption — refrigerators, freezers, space heaters, and anything you suspect is malfunctioning." button="Check price on Amazon" >}}
 
+## Frequently Asked Questions
+
+{{< faq "Why did my electricity bill double with no usage change?" >}}
+The most common cause is a longer billing period or an estimated reading correction: a 28-day bill followed by a 34-day bill adds roughly 21% more days, and a corrected "EST" reading can lump two months into one bill. Rate increases, weather-driven HVAC load, and a malfunctioning appliance (water heater element, well pump, old garage fridge, pool pump) are the next things to check.
+{{< /faq >}}
+
+{{< faq "Can a faulty meter cause a sudden bill spike?" >}}
+Yes, though it is rare. A smart meter can register inflated usage from a calibration error, firmware bug, or worn bearing, and communication errors can make the utility's system estimate usage too high. The article recommends tracking your own daily meter readings for a week and requesting a free or low-cost ($5–25) utility meter test if the numbers do not match.
+{{< /faq >}}
+
+{{< faq "Do space heaters really cause bill spikes?" >}}
+Yes — a single 1,500-watt space heater running 8 hours a day adds about 360 kWh per month, or $40–$60. The article flags space heaters, second refrigerators, dehumidifiers, pool pumps, and EV charging as the phantom loads most likely to add 200–500 kWh per month without you noticing.
+{{< /faq >}}
+
+{{< faq "How do I get my utility to test my meter?" >}}
+Call the billing department and ask for a formal meter test — most utilities do it for free or a small fee ($5–25) and swap in a tested meter. Read your own meter daily for a week beforehand so you can show the discrepancy, and if the utility refuses or you disagree with the result, escalate to your state public utility commission, which can order an independent test.
+{{< /faq >}}
+

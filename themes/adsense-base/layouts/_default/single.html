@@ -52,13 +52,25 @@
     </p>
     {{ end }}
 
-    {{/* Hero image sits AFTER the title/lead so the answer leads, not the image */}}
-    {{ partial "hero-image.html" . }}
+    {{/* Hero image sits AFTER the title/lead so the answer leads, not the image.
+           Pages with `hero_below_answer: true` push the hero further down —
+           it renders after the TOC, right before the body, so the Quick
+           Answer block is the first thing on screen under the header. */}}
+    {{ if not .Params.hero_below_answer }}
+      {{ partial "hero-image.html" . }}
+    {{ end }}
   </header>
 
   {{/* Table of Contents (collapsible — reclaims above-the-fold space) */}}
   {{ if and (gt .WordCount 800) .TableOfContents }}
     {{ partial "toc.html" . }}
+  {{ end }}
+
+  {{/* Deferred hero (hero_below_answer pages): body content carries its own
+           inline figure, so the front-matter hero is suppressed entirely —
+           the Quick Answer block reaches screen first. */}}
+  {{ if .Params.hero_below_answer }}
+    {{/* hero intentionally not rendered */}}
   {{ end }}
 
   <!-- Article Content (the answer leads — no ads precede it) -->

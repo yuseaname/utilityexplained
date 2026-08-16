@@ -88,3 +88,21 @@ You can cut your utility bills by **20–40%** without sacrificing comfort. The 
 
 {{< product-box asin="B0D9B6MXGS" name="Kasa Matter Smart Plug (2-pack) with Energy Monitoring" label="Phantom-load killer" description="The exact fix this article recommends: schedule outlets off at night and watch real-time wattage per device in the Kasa app. Matter support means it plays with Alexa, Google, and Apple Home." button="Check price on Amazon" >}}
 
+## Frequently Asked Questions
+
+{{< faq "What is the fastest way to lower a utility bill?" >}}
+Adjust your thermostat 2°F closer to the outdoor temperature and switch laundry to cold water. The article's table puts those two free changes at roughly $150–$375 in combined annual savings, with no equipment, no cost, and a one-time setup. Lowering your water heater to 120°F is the next free win at $30–$60 a year.
+{{< /faq >}}
+
+{{< faq "Do energy-saving gadgets actually work?" >}}
+The gadgets that work are the boring ones: smart thermostats save $100–$250 a year, smart plugs kill $40–$60 of phantom load from game consoles and cable boxes, and LEDs save about $149 a year per 20-bulb swap. High-marketed "energy saver" plug-in devices that just plug into an outlet generally do not deliver measurable savings.
+{{< /faq >}}
+
+{{< faq "Which free fixes cut the most?" >}}
+Thermostat adjustment, cold-water laundry, lowering the water heater to 120°F, and unplugging phantom loads. Together they cost nothing and the article's table totals $220–$495 a year, with the thermostat alone delivering $100–$300. Line-drying clothes adds another $50–$150 per year if you currently run 3+ electric dryer loads a week.
+{{< /faq >}}
+
+{{< faq "How much can behavior changes alone save?" >}}
+The article's headline figure is 20–40% off your utility bills without sacrificing comfort, and the free behavior changes alone (thermostat, cold-water laundry, water-heater temperature, and phantom-load unplugging) cover a large slice of that — roughly $220–$495 per year in the table. The remaining savings come from one-time equipment investments like LEDs, a smart thermostat, and attic insulation.
+{{< /faq >}}
+

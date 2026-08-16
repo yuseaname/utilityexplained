@@ -97,17 +97,21 @@ Responsibility divides at the water meter:
 
 ## Frequently Asked Questions
 
-**Can a water meter run without a leak?**
+{{< faq "Can a water meter run without a leak?" >}}
 Rarely. If you've verified everything is truly off — including ice makers and smart irrigation — a moving meter means flow. The one exception: some utilities briefly cycle or flush lines nearby, which can nudge the indicator for a few minutes. If the meter moves continuously for 10+ minutes with the house valve shut, treat it as a leak.
+{{< /faq >}}
 
-**How do I know if it's the utility's side or mine?**
+{{< faq "How do I know if it's the utility's side or mine?" >}}
 The main-valve test in Step 3 answers this. Meter stops with the valve closed = your side. Still running = between the meter and valve.
+{{< /faq >}}
 
-**Will my water utility charge me for a leak on my side?**
+{{< faq "Will my water utility charge me for a leak on my side?" >}}
 Yes — you're billed for everything that passes through the meter. Many utilities offer a one-time leak adjustment or credit if you report the leak and prove it was fixed. Ask before you pay the bill.
+{{< /faq >}}
 
-**How much does a plumber cost to find a leak?**
+{{< faq "How much does a plumber cost to find a leak?" >}}
 Leak detection typically runs $150–400; many plumbers waive the detection fee if they do the repair. For suspected slab leaks, hire a specialist with acoustic detection equipment rather than a general plumber.
+{{< /faq >}}
 
 ## Related Reading
 
@@ -115,3 +119,22 @@ Leak detection typically runs $150–400; many plumbers waive the detection fee 
 - [How to read a water meter](/blog/how-to-read-a-water-meter/) — dials, digits, and units
 - [What is CCF on a water bill?](/blog/what-is-ccf-on-a-water-bill/) — understanding the units on your bill
 - [Why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) — the full bill-detective playbook
+
+## Frequently Asked Questions
+
+{{< faq "Can a water meter run with every fixture off?" >}}
+Yes. If every faucet, appliance, and irrigation valve is truly off and the meter is still moving, water is flowing somewhere — usually a leak. The article's Step 1 checklist (including ice makers and smart sprinkler schedules) is what "every fixture off" really means, and a meter that continues moving after that points to a running toilet, a stuck irrigation valve, or a service-line leak.
+{{< /faq >}}
+
+{{< faq "What is the most common cause of a meter running with no water used?" >}}
+A silent running toilet with a worn flapper valve. The article calls it the #1 cause — a $10–15 flapper can waste 200–400 gallons a day, which is $50–100 per month on most bills. It is invisible because the water trickles straight into the bowl with no sound.
+{{< /faq >}}
+
+{{< faq "Does a slowly spinning meter always mean a leak?" >}}
+Almost always, yes. The article notes one minor exception: some utilities briefly cycle or flush nearby lines, which can nudge the leak indicator for a few minutes. If the meter moves continuously for 10+ minutes with the house shutoff valve closed, treat it as a real leak and follow the 10-minute test to locate it.
+{{< /faq >}}
+
+{{< faq "Should I call the utility or a plumber first?" >}}
+Start with the article's main-valve test (Step 3). If the meter stops when you close the house valve, the leak is on your side and you need a plumber. If it keeps running, the leak is between the meter and your house — call the utility too, because some utilities will credit part of a documented leak on your side or repair their side for free.
+{{< /faq >}}
+

@@ -3,21 +3,26 @@
 
 {{/* ── WebSite schema (homepage only) ── */}}
 {{- if .IsHome -}}
+  {{- $org := dict
+      "@context" "https://schema.org"
+      "@type" "Organization"
+      "name" "Utility Explained"
+      "url" "https://utilityexplained.com/"
+  -}}
+  {{- $org = dict "logo" "https://utilityexplained.com/images/og-default.png" | merge $org -}}
+  {{- $searchAction := dict
+      "@type" "SearchAction"
+      "target" "https://utilityexplained.com/search/?q={search_term_string}"
+      "query-input" "required name=search_term_string"
+  -}}
   {{- $ws := dict
       "@context" "https://schema.org"
       "@type" "WebSite"
-      "name" .Site.Title
-      "url" .Site.BaseURL
+      "name" "Utility Explained"
+      "url" "https://utilityexplained.com/"
+      "potentialAction" $searchAction
   -}}
-  {{- with .Site.Params.description -}}
-    {{- $ws = dict "description" . | merge $ws -}}
-  {{- end -}}
-  {{- $pub := dict
-      "@type" "Organization"
-      "name" (or .Site.Params.org_name .Site.Title)
-      "url" .Site.BaseURL
-  -}}
-  {{- $ws = dict "publisher" $pub | merge $ws -}}
+  {{- $schemas = $schemas | append $org -}}
   {{- $schemas = $schemas | append $ws -}}
 {{- end -}}
 

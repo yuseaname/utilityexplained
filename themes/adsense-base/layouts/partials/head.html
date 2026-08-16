@@ -24,8 +24,9 @@
 {{ end }}
 
 {{/* Primary meta tags */}}
-<title>{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}</title>
-{{- with .Params.description -}}
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}{{ end }}</title>
+{{- $pageDesc := .Params.description | default .Site.Params.description -}}
+{{- with $pageDesc -}}
 <meta name="description" content="{{ truncate 155 . }}">
 {{- end -}}
 {{- with .Params.author -}}
@@ -45,15 +46,16 @@
 {{/* Open Graph */}}
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:title" content="{{ .Title }}">
-{{- with .Params.description -}}
+{{- $pageDesc := .Params.description | default .Site.Params.description -}}
+{{- with $pageDesc -}}
 <meta property="og:description" content="{{ truncate 155 . }}">
 {{- end -}}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-{{- $shareImg := .Params.image -}}
+{{- $shareImg := .Params.image | default .Site.Params.og_image -}}
 {{- if and $shareImg (strings.HasSuffix $shareImg ".svg") -}}{{- $shareImg = replace $shareImg ".svg" ".png" -}}{{- end -}}
 {{- with $shareImg -}}
-<meta property="og:image" content="{{ . }}">
+<meta property="og:image" content="{{ . | absURL }}">
 {{- end -}}
 {{- with .Params.image_alt -}}
 <meta property="og:image:alt" content="{{ . }}">
@@ -78,11 +80,12 @@
 {{/* Twitter Card */}}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ .Title }}">
-{{- with .Params.description -}}
+{{- $pageDesc := .Params.description | default .Site.Params.description -}}
+{{- with $pageDesc -}}
 <meta name="twitter:description" content="{{ truncate 155 . }}">
 {{- end -}}
 {{- with $shareImg -}}
-<meta name="twitter:image" content="{{ . }}">
+<meta name="twitter:image" content="{{ . | absURL }}">
 {{- end -}}
 
 {{/* Robots */}}

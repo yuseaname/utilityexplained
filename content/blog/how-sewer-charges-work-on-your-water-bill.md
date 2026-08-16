@@ -11,15 +11,15 @@ keywords: ["sewer charge water bill", "water leak detection", "ccf", "sewer aver
 image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-explained.svg"
 ---
 
-<h2 id="quick-answer">Quick Answer</h2>
+## Quick Answer {#quick-answer}
 <p>
-              <strong>Most residential sewer bills are calculated one of three ways:</strong> a <strong>usage-based</strong> charge tied to your measured water use (often shown in [CCF](/blog/what-is-ccf-on-a-water-bill/) or gallons), a <strong>"winter average"</strong> (also called [sewer averaging](/blog/sewer-averaging-water-bill-explained/)), or a <strong>flat monthly fee</strong>. Sewer charges pay to collect and treat the water that leaves your home, and they often cost <em>more</em> than water because wastewater treatment is expensive and carries large fixed costs. You usually can't remove the fixed fee, but you can often lower the usage-based part by <strong>fixing leaks</strong> — a [running toilet can waste 200+ gallons per day](/blog/is-your-toilet-running-leak-test/), so check that first.
+              <strong>Most residential sewer bills are calculated one of three ways:</strong> a <strong>usage-based</strong> charge tied to your measured water use (often shown in <a href="/blog/what-is-ccf-on-a-water-bill/">CCF</a> or gallons), a <strong>"winter average"</strong> (also called <a href="/blog/sewer-averaging-water-bill-explained/">sewer averaging</a>), or a <strong>flat monthly fee</strong>. Sewer charges pay to collect and treat the water that leaves your home, and they often cost <em>more</em> than water because wastewater treatment is expensive and carries large fixed costs. You usually can't remove the fixed fee, but you can often lower the usage-based part by <strong>fixing leaks</strong> — a <a href="/blog/is-your-toilet-running-leak-test/">running toilet can waste 200+ gallons per day</a>, so check that first.
             </p>
 
-<h2 id="why-sewer-exists">The simple idea: what sewer charges pay for</h2>
+## The simple idea: what sewer charges pay for {#why-sewer-exists}
 <p>
               Many people expect sewer to be a small add-on. Then they see the bill
-              and think, "Why is the sewer line so <strong>high</strong>? If this keeps happening, [read why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/)."
+              and think, "Why is the sewer line so <strong>high</strong>? If this keeps happening, <a href="/blog/why-did-my-water-bill-suddenly-increase/">read why water bills suddenly increase</a>."
             </p>
             <p>
               The simplest explanation is this: <strong>water service delivers clean water</strong>,
@@ -34,7 +34,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <a href="/water-explained">Water Service Explained</a>.
             </p>
 
-<h2 id="how-calculated">The most common ways sewer is calculated</h2>
+## The most common ways sewer is calculated {#how-calculated}
 
 {{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-3-ways.webp" alt="The three ways sewer charges are calculated" caption="Most homes are billed for sewer one of three ways: usage-based, a winter average, or a flat monthly fee." >}}
 <p>
@@ -64,7 +64,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               fine print or on the utility's rate sheet.
             </p>
 
-<h2 id="why-sewer-higher">Why sewer can cost more than water</h2>
+## Why sewer can cost more than water {#why-sewer-higher}
 
 {{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-why-higher.webp" alt="Why sewer can cost more than water: cost breakdown" caption="Sewer can top water because wastewater treatment, collection pipes, and fixed infrastructure carry large costs." >}}
 <p>
@@ -94,7 +94,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               .
             </p>
 
-<h2 id="what-to-check">What to check on your own sewer charge</h2>
+## What to check on your own sewer charge {#what-to-check}
 <p>
               Before assuming the bill is wrong, run through these three quick checks.
               They explain most "why is my sewer so high?" surprises.
@@ -116,7 +116,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               very low.
             </p>
 
-<h2 id="leaks-matter">Why leaks can raise both water and sewer</h2>
+## Why leaks can raise both water and sewer {#leaks-matter}
 <p>
               Here's the part that surprises people: if sewer is tied to your water
               usage, a leak can inflate sewer charges too — even if the leak never
@@ -131,7 +131,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <a href="/blog/how-to-read-a-water-meter">how to read a water meter</a>.
             </p>
 
-<h2 id="reduce-sewer">Can you reduce your sewer charge?</h2>
+## Can you reduce your sewer charge? {#reduce-sewer}
 <p>
               The honest answer is: partly. The <strong>fixed/base fee</strong>
               usually cannot be lowered — it covers pipes, pumps, and treatment plants
@@ -168,7 +168,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               </li>
             </ul>
 
-<h2 id="misconceptions">Common misconceptions about sewer charges</h2>
+## Common misconceptions about sewer charges {#misconceptions}
 <ul>
               <li>
                 <strong>"Sewer is double-charging me."</strong> Usually it's charging

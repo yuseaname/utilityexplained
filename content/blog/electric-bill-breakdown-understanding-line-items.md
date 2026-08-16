@@ -22,10 +22,10 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
 <blockquote>
 <p><strong>One line look wrong? Here's where to dig in:</strong></p>
 <ul>
-<li><strong>[Whole bill too high?](/blog/03-why-is-my-electric-bill-so-high/)</strong> — start with the diagnostic on what actually drives the total.</li>
-<li><strong>[Delivery vs. supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)</strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
-<li><strong>[Demand charge](/blog/49-demand-charges-electricity-bill-explained/)</strong> — a single line that can surprise business and time-of-use customers.</li>
-<li><strong>[Hidden fees](/blog/04-hidden-fees-utility-bill/)</strong> — the small recurring charges that quietly add up.</li>
+<li><strong><a href="/blog/03-why-is-my-electric-bill-so-high/">Whole bill too high?</a></strong> — start with the diagnostic on what actually drives the total.</li>
+<li><strong><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery vs. supply charge</a></strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
+<li><strong><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand charge</a></strong> — a single line that can surprise business and time-of-use customers.</li>
+<li><strong><a href="/blog/04-hidden-fees-utility-bill/">Hidden fees</a></strong> — the small recurring charges that quietly add up.</li>
 </ul>
 </blockquote>
 
@@ -38,14 +38,14 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
               explained by four things:
             </p>
             <ul>
-              <li>Total [kWh](/blog/what-is-a-kilowatt-hour/) used</li>
+              <li>Total <a href="/blog/what-is-a-kilowatt-hour/">kWh</a> used</li>
               <li>Price per kWh (your energy rate)</li>
               <li>Billing period length (days)</li>
               <li>Fixed fees and delivery charges</li>
             </ul>
             <p>
               If you want the unit basics first, read
-              [what a kWh is](/blog/what-is-a-kilowatt-hour/).
+              <a href="/blog/what-is-a-kilowatt-hour/">what a kWh is</a>.
             </p>
 
 ## Energy (supply) charges: what you actually used {#supply}
@@ -126,7 +126,7 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
             <p>
               If you are not sure what plan you are on, the bill usually lists it.
               Our
-              [fixed vs. variable plan guide](/blog/fixed-vs-variable-rate-electricity-plan/)
+              <a href="/blog/fixed-vs-variable-rate-electricity-plan/">fixed vs. variable plan guide</a>
               can help you spot the tradeoffs.
             </p>
 
@@ -139,7 +139,7 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
             </p>
             <p>
               If you want to verify readings yourself, see
-              [how to read your meter](/blog/how-to-read-electric-meter/).
+              <a href="/blog/how-to-read-electric-meter/">how to read your meter</a>.
             </p>
 
 ## Why bills jump: the most common (boring) explanations {#spikes}
@@ -154,7 +154,7 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
             </ul>
             <p>
               For a troubleshooting checklist, read
-              [why your bill jumped this month](/blog/why-is-my-electric-bill-so-high-this-month/).
+              <a href="/blog/why-is-my-electric-bill-so-high-this-month/">why your bill jumped this month</a>.
             </p>
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
@@ -242,4 +242,4 @@ Watch for these charges that may indicate billing errors or questionable fees:
 ---
 
 *Related Reading:*
-- [How to Read an Electricity Bill: Complete Guide to Understanding Charges](/blog/41-how-to-read-electricity-bill/)
+- <a href="/blog/41-how-to-read-electricity-bill/">How to Read an Electricity Bill: Complete Guide to Understanding Charges</a>
