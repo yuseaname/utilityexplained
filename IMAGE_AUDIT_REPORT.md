@@ -211,3 +211,17 @@ The following articles use generic stock photos as hero images where article-spe
 
 **Hero task closed (was stale):** the "9 generic-stock heroes" from the Aug 10 audit were already replaced sitewide by commit `deca1949` (63 custom AI heroes). Fresh 103-hero dedup scan: brand-consistent, no stock, no action needed.
 **Remaining next:** GSC+Rybbit pull ~Aug 19 (measure engagement lift on the 8 visually-upgraded pages); inline density pass on `04-`/`17-`–`24-` fee-cluster articles if data supports it.
+
+## Batch Addendum — 2026-08-15 Cycle 4: Full Hero Quality Sweep (103 heroes audited, 66 replaced)
+
+**Audit:** all 103 heroes vision-QA'd in 11 batches (gpt-5.5, 10 images/call). **66 FAIL** — 43 text-only title cards with no illustrated subject + 23 scenes with garbled bill pseudo-text. Full fail list: `.hero_fails.json`.
+
+**Replacement:** 66 editorial-scene heroes via Magica `gpt-image-2-text` (High, 1536×1024, webp q85), alternating deep-green/cream backgrounds in the true theme palette (#0e201c / #fffdf8 / #ebb23a / #5eead4). No text-card prompts — scene-first, minimal/no text, single focal subject.
+
+**QA gate:** 66/66 PASS — 62 first-gen, 2 recovered from a staging dir-collision (the two electric-bill articles shared an old-hero directory), 2 targeted regens with grounded scene prompts (reconnection-fee: technician at meter; tiered-water: thrifty-vs-lavish yards).
+
+**Deploy:** commit `2c4dbdb4`, CI green (14s), live-verified — new hero URLs 200, old URLs 404 at origin (one old tiered-water URL still edge-cached ~2.7d; unreferenced, no impact). Naming: `{slug}/{slug}_hero_v2.webp`; 65 old files + 65 stale public/ artifacts purged; zero residual references in built HTML.
+
+**Repo hygiene same night:** NFS copy (divergent twin at `7e87ba8`) hard-synced to main; stranded 17:51 SVG work archived on `archive/svg-diagrams-20260815`. Sewer hero: hand-built branded SVG flow diagram + theme og:image PNG-twin fallback (`2a0b506c`).
+
+**Next:** GSC + Rybbit engagement pull ~Aug 19 across upgraded pages; theme-level report items (cookie banner, homepage grid, trust cues) as a focused session; rebuild 4 blue/teal inline graphics (reconnect_fees, reconnect_avoid, ccf-convert, ccf-normal) as branded SVGs.
