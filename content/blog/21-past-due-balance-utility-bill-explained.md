@@ -23,6 +23,8 @@ You open your utility bill and see "Past Due Balance: $185.00" printed in bold. 
 
 ## What Is a Past Due Balance?
 
+{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-bill-anatomy.svg" alt="Illustrative utility bill showing previous balance minus payments carrying over as a highlighted past due balance, separate from this month's current charges" caption="A past due balance is last cycle's unpaid amount carried onto your current bill — separate from the new charges. (Example figures.)" >}}
+
 A past due balance is the amount from a previous billing period that was not paid by the due date. It typically appears as a separate line item on your current bill, in addition to the current month's charges. For example:
 
 - Current charges (this month): $145.00
@@ -109,6 +111,8 @@ Late fees are the most immediate financial consequence of a past due balance. He
 **Important:** Many states cap the total late fees and penalties a utility can assess. In California, for example, late fees cannot exceed $10 or 1.5% of the unpaid balance, whichever is less. In New York, late fees are capped at 1.5% per month. Check your state's specific limits.
 
 ## The Disconnection Timeline
+
+{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-disconnection-timeline.svg" alt="Timeline of a typical past due utility bill: grace period days 1 to 15, late fee days 15 to 30, disconnection warning days 30 to 45, and possible disconnection days 45 to 60" caption="Most regulated utilities follow a similar escalation over 60 days — but water utilities and state rules vary, so read your notice." >}}
 
 Here's a typical disconnection timeline for a regulated electric or gas utility:
 

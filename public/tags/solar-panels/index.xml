@@ -1,19 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Solar Panels on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/solar-panels/</link>
-    <description>Recent content in Solar Panels on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/solar-panels/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Net Metering Explained: How Solar Panels Affect Your Electric Bill</title>
-      <link>https://utilityexplained.com/blog/net-metering-explained/</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/net-metering-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.&lt;/strong&gt; Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;You get credits&lt;/strong&gt; for solar power you don&amp;rsquo;t use immediately&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Credits roll over month-to-month&lt;/strong&gt; (in most states) to cover nighttime/cloudy day usage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong&gt; settles any remaining credits or charges&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/08-time-of-use-electricity/&#34;&gt;Time-of-Use Electricity&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Solar Panels on Utility Explained</title><link>https://utilityexplained.com/tags/solar-panels/</link><description>Recent content in Solar Panels on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/solar-panels/index.xml" rel="self" type="application/rss+xml"/><item><title>Net Metering Explained: How Solar Panels Affect Your Electric Bill</title><link>https://utilityexplained.com/blog/net-metering-explained/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/net-metering-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.&lt;/strong> Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>You get credits&lt;/strong> for solar power you don&amp;rsquo;t use immediately&lt;/li>
+&lt;li>&lt;strong>Credits roll over month-to-month&lt;/strong> (in most states) to cover nighttime/cloudy day usage&lt;/li>
+&lt;li>&lt;strong>Annual &amp;ldquo;true-up&amp;rdquo;&lt;/strong> settles any remaining credits or charges&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/08-time-of-use-electricity/">Time-of-Use Electricity&lt;/a>.&lt;/p></description></item></channel></rss>

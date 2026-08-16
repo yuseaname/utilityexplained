@@ -1,61 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Delivery Charge on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/delivery-charge/</link>
-    <description>Recent content in Delivery Charge on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/delivery-charge/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Delivery Charge vs Supply Charge on Your Utility Bill: What&#39;s the Difference?</title>
-      <link>https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Delivery charges (sometimes called distribution fees) cover getting electricity/gas to your home and typically represent 40-60% of your total bill, while supply charges are the actual energy commodity cost.&lt;/strong&gt; Delivery rates are fixed while supply varies with market conditions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Delivery charges are fixed per kWh/therm&lt;/strong&gt; - set by state regulators and change slowly&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Supply charges fluctuate monthly&lt;/strong&gt; - based on wholesale energy markets&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;In deregulated states you can shop suppliers&lt;/strong&gt; - potentially save 10-20% on supply&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detail, see &lt;a href=&#34;https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/&#34;&gt;delivery vs supply charges&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gas Delivery Charge vs Supply Charge: What</title>
-      <link>https://utilityexplained.com/blog/gas-delivery-charge-vs-supply-charge/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/gas-delivery-charge-vs-supply-charge/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;# Gas Delivery Charge vs Supply Charge: What&#39;s the Difference?&lt;/p&gt;&#xA;&lt;p&gt;The gas supply charge pays for the actual natural gas molecule you consume, while the gas delivery charge covers the cost of the infrastructure, pipes, and service required to transport that fuel safely to your home. This split is known as &#34;unbundling,&#34; and understanding it is the first step to controlling your energy budget. While the supply charge fluctuates based on global market prices, the delivery charge is typically regulated by state public utility commissions and remains more stable, though it can still rise due to infrastructure maintenance or taxes. Most homeowners see both combined on a single line item or separated into two distinct sections, but knowing which part of the bill you can control is essential for saving money.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gas Customer Charge Explained (Why You Pay Even With Low Usage)</title>
-      <link>https://utilityexplained.com/blog/gas-customer-charge-explained/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/gas-customer-charge-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The gas customer charge is a fixed monthly fee — typically $8 to $27 — that every connected customer pays, no matter how little gas is used.&lt;/strong&gt; It funds meter reading, billing, pipeline maintenance, and safety programs, and it&#39;s set by your state utility commission through a rate case, not by the utility&#39;s discretion. Low-income discount programs and LIHEAP can reduce it for qualifying households.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why that July bill still costs money.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title>
-      <link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid>
-      <description>&lt;h2 id=&#34;problem&#34;&gt;The problem: two big charges that sound the same&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;              Many people open an electric bill and see two large sections:&#xA;              &#34;Supply&#34; and &#34;Delivery.&#34; Both say electricity, so why are there two?&#xA;              That split is real, and it is one of the fastest ways to make a bill&#xA;              feel less confusing.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              This guide separates those two buckets in plain English. If you want&#xA;              the full electricity overview, start with&#xA;              &lt;a href=&#34;https://utilityexplained.com/electricity-explained&#34;&gt; Electricity Explained&lt;/a&gt;.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title>
-      <link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tiered electricity rates&lt;/strong&gt; charge a lower price per kWh up to a baseline allowance (often &lt;strong&gt;400–500 kWh in summer&lt;/strong&gt;), then a higher price above it. Tier 2 typically runs &lt;strong&gt;10–30% over Tier 1&lt;/strong&gt;, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;The problem: you used a little more, but the price jumped a lot&lt;/h2&gt;&#xA;&lt;p class=&#34;lead&#34;&gt;&#xA;If your electric bill suddenly jumped and you did not change much,&#xA;tiered pricing is often the hidden reason. You cross a threshold,&#xA;and the next block of electricity costs more. It feels like a penalty,&#xA;but it is just how the rate is structured.&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Electric Bill Breakdown: Every Charge Explained</title>
-      <link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for &lt;strong&gt;70–80% of your total bill&lt;/strong&gt;, with the customer charge paid even on zero-usage months.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month — that tells you whether a jump came from more usage or a rate change.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;One line look wrong? Here&#39;s where to dig in:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Is a Kilowatt-Hour (kWh)? Definition &amp; Calculator</title>
-      <link>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;The short answer (what a kWh really means)&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;              A kilowatt-hour (kWh) is a unit of energy. It tells you how much&#xA;              electricity you used over time. If you use 1,000 watts for one hour,&#xA;              you used 1 kWh.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              The easiest way to picture it: &lt;strong&gt;kW is how fast&lt;/strong&gt; you are&#xA;              using electricity, and &lt;strong&gt;kWh is how much&lt;/strong&gt; you used in&#xA;              total. For more basics, see our &lt;a href=&#34;https://utilityexplained.com/electricity-explained&#34;&gt;electricity guide&lt;/a&gt;.&#xA;            &lt;/p&gt;&#xA;            &lt;p&gt;&#xA;              Once kWh clicks, your bill stops feeling random. You can connect&#xA;              everyday activities (laundry, heating, cooking) to the number you are&#xA;              paying for.&#xA;            &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Delivery Charge on Utility Explained</title><link>https://utilityexplained.com/tags/delivery-charge/</link><description>Recent content in Delivery Charge on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/delivery-charge/index.xml" rel="self" type="application/rss+xml"/><item><title>Delivery Charge vs Supply Charge on Your Utility Bill: What's the Difference?</title><link>https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Delivery charges (sometimes called distribution fees) cover getting electricity/gas to your home and typically represent 40-60% of your total bill, while supply charges are the actual energy commodity cost.&lt;/strong> Delivery rates are fixed while supply varies with market conditions.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Delivery charges are fixed per kWh/therm&lt;/strong> - set by state regulators and change slowly&lt;/li>
+&lt;li>&lt;strong>Supply charges fluctuate monthly&lt;/strong> - based on wholesale energy markets&lt;/li>
+&lt;li>&lt;strong>In deregulated states you can shop suppliers&lt;/strong> - potentially save 10-20% on supply&lt;/li>
+&lt;/ul>
+&lt;p>For more detail, see &lt;a href="https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/">delivery vs supply charges&lt;/a>.&lt;/p></description></item><item><title>Gas Delivery Charge vs Supply Charge: What</title><link>https://utilityexplained.com/blog/gas-delivery-charge-vs-supply-charge/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/gas-delivery-charge-vs-supply-charge/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p># Gas Delivery Charge vs Supply Charge: What's the Difference?&lt;/p>
+&lt;p>The gas supply charge pays for the actual natural gas molecule you consume, while the gas delivery charge covers the cost of the infrastructure, pipes, and service required to transport that fuel safely to your home. This split is known as "unbundling," and understanding it is the first step to controlling your energy budget. While the supply charge fluctuates based on global market prices, the delivery charge is typically regulated by state public utility commissions and remains more stable, though it can still rise due to infrastructure maintenance or taxes. Most homeowners see both combined on a single line item or separated into two distinct sections, but knowing which part of the bill you can control is essential for saving money.&lt;/p></description></item><item><title>Gas Customer Charge Explained (Why You Pay Even With Low Usage)</title><link>https://utilityexplained.com/blog/gas-customer-charge-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/gas-customer-charge-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>The gas customer charge is a fixed monthly fee — typically $8 to $27 — that every connected customer pays, no matter how little gas is used.&lt;/strong> It funds meter reading, billing, pipeline maintenance, and safety programs, and it's set by your state utility commission through a rate case, not by the utility's discretion. Low-income discount programs and LIHEAP can reduce it for qualifying households.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Why that July bill still costs money.&lt;/strong>&lt;/p></description></item><item><title>Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)</title><link>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/supply-vs-delivery-charges-electricity/</guid><description>&lt;h2 id="problem">The problem: two big charges that sound the same&lt;/h2>
+&lt;p class="lead">
+ Many people open an electric bill and see two large sections:
+ "Supply" and "Delivery." Both say electricity, so why are there two?
+ That split is real, and it is one of the fastest ways to make a bill
+ feel less confusing.
+ &lt;/p>
+ &lt;p>
+ This guide separates those two buckets in plain English. If you want
+ the full electricity overview, start with
+ &lt;a href="https://utilityexplained.com/electricity-explained"> Electricity Explained&lt;/a>.
+ &lt;/p></description></item><item><title>Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)</title><link>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/tiered-electricity-rates-explained/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Tiered electricity rates&lt;/strong> charge a lower price per kWh up to a baseline allowance (often &lt;strong>400–500 kWh in summer&lt;/strong>), then a higher price above it. Tier 2 typically runs &lt;strong>10–30% over Tier 1&lt;/strong>, so crossing the threshold by 20–50 kWh can spike your bill — only the over-baseline kWh pay the higher price.&lt;/p>
+&lt;h2 id="problem">The problem: you used a little more, but the price jumped a lot&lt;/h2>
+&lt;p class="lead">
+If your electric bill suddenly jumped and you did not change much,
+tiered pricing is often the hidden reason. You cross a threshold,
+and the next block of electricity costs more. It feels like a penalty,
+but it is just how the rate is structured.
+&lt;/p></description></item><item><title>Electric Bill Breakdown: Every Charge Explained</title><link>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for &lt;strong>70–80% of your total bill&lt;/strong>, with the customer charge paid even on zero-usage months.&lt;/p>
+&lt;p>&lt;strong>Tip:&lt;/strong> Compare your &amp;ldquo;Energy Charge&amp;rdquo; month-over-month — that tells you whether a jump came from more usage or a rate change.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>One line look wrong? Here's where to dig in:&lt;/strong>&lt;/p></description></item><item><title>What Is a Kilowatt-Hour (kWh)? Definition &amp; Calculator</title><link>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</link><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/what-is-a-kilowatt-hour/</guid><description>&lt;h2 id="quick-answer">The short answer (what a kWh really means)&lt;/h2>
+&lt;p>
+ A kilowatt-hour (kWh) is a unit of energy. It tells you how much
+ electricity you used over time. If you use 1,000 watts for one hour,
+ you used 1 kWh.
+ &lt;/p>
+ &lt;p>
+ The easiest way to picture it: &lt;strong>kW is how fast&lt;/strong> you are
+ using electricity, and &lt;strong>kWh is how much&lt;/strong> you used in
+ total. For more basics, see our &lt;a href="https://utilityexplained.com/electricity-explained">electricity guide&lt;/a>.
+ &lt;/p>
+ &lt;p>
+ Once kWh clicks, your bill stops feeling random. You can connect
+ everyday activities (laundry, heating, cooking) to the number you are
+ paying for.
+ &lt;/p></description></item></channel></rss>

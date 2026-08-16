@@ -1,33 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Apartment on Utility Explained</title>
-    <link>https://utilityexplained.com/tags/apartment/</link>
-    <description>Recent content in Apartment on Utility Explained</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://utilityexplained.com/tags/apartment/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Average Water Usage Per Person: A Practical Range</title>
-      <link>https://utilityexplained.com/blog/average-water-usage-per-person/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/average-water-usage-per-person/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The average person uses 80-100 gallons of water per day, with indoor use averaging 60-70 gallons (70% of total) and outdoor use making up the remaining 30%.&lt;/strong&gt; Toilet flushing (24 gallons), showers (20 gallons), and faucet use (15 gallons) account for the largest indoor shares, while lawn irrigation can add 30-100+ gallons daily in warmer months.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Toilet = 24 gallons/day (30%)&lt;/strong&gt; - Old toilets use 3.5-5 gallons per flush vs. 1.28 gallons for efficient models&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Showers = 20 gallons/day (25%)&lt;/strong&gt; - Low-flow showerheads save 7,500 gallons/year per person&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Faucets = 15 gallons/day (19%)&lt;/strong&gt; - Fixing leaks saves 10% on water bills ($50-100/year)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/&#34;&gt;how to budget for utilities&lt;/a&gt; for cost management.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title>
-      <link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong&gt; Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fixed = budget stability&lt;/strong&gt; - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variable = potential savings&lt;/strong&gt; - Best for flexible households in mild climates with low usage volatility&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Switching costs $0-50&lt;/strong&gt; - Many providers allow plan changes monthly; early termination fees can apply&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/2026-utility-cost-index-by-state/&#34;&gt;utility cost index by state&lt;/a&gt; for regional rate comparisons.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Budget for Utilities in Your First Apartment</title>
-      <link>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</guid>
-      <description>&lt;h2 id=&#34;quick-answer&#34;&gt;Quick Answer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).&lt;/strong&gt; Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Get exact numbers from the seller&lt;/strong&gt; - Request 12 months of utility history before signing&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plan for seasonal spikes&lt;/strong&gt; - Summer AC can add $50-100/month; winter heating may double gas bills&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Start with 20% buffer&lt;/strong&gt; - First apartments often have inefficient appliances or poor insulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://utilityexplained.com/blog/average-water-usage-per-person/&#34;&gt;average water usage per person&lt;/a&gt; for calculating water costs.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apartment on Utility Explained</title><link>https://utilityexplained.com/tags/apartment/</link><description>Recent content in Apartment on Utility Explained</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://utilityexplained.com/tags/apartment/index.xml" rel="self" type="application/rss+xml"/><item><title>Average Water Usage Per Person: A Practical Range</title><link>https://utilityexplained.com/blog/average-water-usage-per-person/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/average-water-usage-per-person/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>The average person uses 80-100 gallons of water per day, with indoor use averaging 60-70 gallons (70% of total) and outdoor use making up the remaining 30%.&lt;/strong> Toilet flushing (24 gallons), showers (20 gallons), and faucet use (15 gallons) account for the largest indoor shares, while lawn irrigation can add 30-100+ gallons daily in warmer months.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Toilet = 24 gallons/day (30%)&lt;/strong> - Old toilets use 3.5-5 gallons per flush vs. 1.28 gallons for efficient models&lt;/li>
+&lt;li>&lt;strong>Showers = 20 gallons/day (25%)&lt;/strong> - Low-flow showerheads save 7,500 gallons/year per person&lt;/li>
+&lt;li>&lt;strong>Faucets = 15 gallons/day (19%)&lt;/strong> - Fixing leaks saves 10% on water bills ($50-100/year)&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/">how to budget for utilities&lt;/a> for cost management.&lt;/p></description></item><item><title>Fixed vs. Variable Rate Electricity Plans: Which Saves More?</title><link>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/fixed-vs-variable-rate-electricity-plan/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Fixed-rate electricity plans lock in your price (typically 12-24 months) and cost $0.13-0.18/kWh, while variable rates fluctuate monthly ($0.09-0.25/kWh range) based on market conditions.&lt;/strong> Fixed plans provide budget certainty and protect against spikes, while variable plans offer potential savings when wholesale prices drop but risk 20-50% increases during peak demand.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Fixed = budget stability&lt;/strong> - Perfect for predictable monthly expenses, especially in extreme weather regions&lt;/li>
+&lt;li>&lt;strong>Variable = potential savings&lt;/strong> - Best for flexible households in mild climates with low usage volatility&lt;/li>
+&lt;li>&lt;strong>Switching costs $0-50&lt;/strong> - Many providers allow plan changes monthly; early termination fees can apply&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/2026-utility-cost-index-by-state/">utility cost index by state&lt;/a> for regional rate comparisons.&lt;/p></description></item><item><title>How to Budget for Utilities in Your First Apartment</title><link>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/</guid><description>&lt;h2 id="quick-answer">Quick Answer&lt;/h2>
+&lt;p>&lt;strong>Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).&lt;/strong> Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Get exact numbers from the seller&lt;/strong> - Request 12 months of utility history before signing&lt;/li>
+&lt;li>&lt;strong>Plan for seasonal spikes&lt;/strong> - Summer AC can add $50-100/month; winter heating may double gas bills&lt;/li>
+&lt;li>&lt;strong>Start with 20% buffer&lt;/strong> - First apartments often have inefficient appliances or poor insulation&lt;/li>
+&lt;/ul>
+&lt;p>See &lt;a href="https://utilityexplained.com/blog/average-water-usage-per-person/">average water usage per person&lt;/a> for calculating water costs.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 940" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Decision tree: water meter running when no water is being used</title>
+  <desc id="d">Flowchart: if the meter spins with everything off, shut the main valve; if it stops the leak is on your side, if it keeps spinning the leak is on the utility side.</desc>
+  <rect width="1200" height="940" fill="#ffffff"/>
+  <text x="600" y="52" text-anchor="middle" fill="#111827" font-size="30" font-weight="800">Meter spinning with everything off? Do this.</text>
+
+  <!-- node 1 -->
+  <rect x="330" y="90" width="540" height="86" rx="14" fill="#2563EB"/>
+  <text x="600" y="128" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">Leak indicator or sweep hand is moving</text>
+  <text x="600" y="158" text-anchor="middle" fill="#DBEAFE" font-size="20">every faucet, appliance, and irrigation zone is off</text>
+
+  <path d="M 600 176 L 600 216" stroke="#374151" stroke-width="4" marker-end="url(#aK)"/>
+
+  <!-- node 2 -->
+  <rect x="330" y="220" width="540" height="76" rx="14" fill="#ffffff" stroke="#2563EB" stroke-width="3"/>
+  <text x="600" y="252" text-anchor="middle" fill="#1E40AF" font-size="23" font-weight="700">Turn off the main water shutoff valve</text>
+  <text x="600" y="280" text-anchor="middle" fill="#6B7280" font-size="19">usually where the pipe enters the house — watch the meter for 5 minutes</text>
+
+  <path d="M 600 296 L 600 336 L 320 336 L 320 376" fill="none" stroke="#374151" stroke-width="4" marker-end="url(#aK)"/>
+  <path d="M 600 296 L 600 336 L 880 336 L 880 376" fill="none" stroke="#374151" stroke-width="4" marker-end="url(#aK)"/>
+
+  <!-- left branch: stopped -->
+  <rect x="130" y="380" width="380" height="66" rx="14" fill="#CCFBF1" stroke="#14B8A6" stroke-width="3"/>
+  <text x="320" y="422" text-anchor="middle" fill="#0F766E" font-size="24" font-weight="800">Meter STOPPED</text>
+
+  <rect x="130" y="470" width="380" height="66" rx="14" fill="#ffffff" stroke="#14B8A6" stroke-width="3"/>
+  <text x="320" y="502" text-anchor="middle" fill="#0F766E" font-size="21" font-weight="700">The leak is on YOUR side</text>
+  <text x="320" y="526" text-anchor="middle" fill="#6B7280" font-size="18">between the valve and your fixtures</text>
+
+  <path d="M 320 446 L 320 466" stroke="#14B8A6" stroke-width="4" marker-end="url(#aT2)"/>
+
+  <rect x="130" y="560" width="380" height="230" rx="14" fill="#F0FDFA" stroke="#14B8A6" stroke-width="2.5"/>
+  <text x="160" y="596" fill="#0F766E" font-size="21" font-weight="700">Check in this order:</text>
+  <g fill="#134E4A" font-size="20">
+    <text x="160" y="632">1. Toilets — flapper stuck open</text>
+    <text x="160" y="664">    (most common, silent)</text>
+    <text x="160" y="700">2. Irrigation valve stuck open</text>
+    <text x="160" y="736">3. Water heater T&amp;P valve</text>
+    <text x="160" y="768">4. Hidden pipe or slab leak</text>
+  </g>
+  <rect x="130" y="810" width="380" height="60" rx="12" fill="#0D9488"/>
+  <text x="320" y="847" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700">Fix it or call a plumber</text>
+
+  <!-- right branch: still spinning -->
+  <rect x="690" y="380" width="380" height="66" rx="14" fill="#FEF3C7" stroke="#F59E0B" stroke-width="3"/>
+  <text x="880" y="422" text-anchor="middle" fill="#B45309" font-size="24" font-weight="800">Meter STILL spinning</text>
+
+  <rect x="690" y="470" width="380" height="66" rx="14" fill="#ffffff" stroke="#F59E0B" stroke-width="3"/>
+  <text x="880" y="502" text-anchor="middle" fill="#B45309" font-size="21" font-weight="700">The leak is on the UTILITY's side</text>
+  <text x="880" y="526" text-anchor="middle" fill="#6B7280" font-size="18">between the meter and the main — before your valve</text>
+
+  <path d="M 880 446 L 880 466" stroke="#F59E0B" stroke-width="4" marker-end="url(#aA2)"/>
+
+  <rect x="690" y="560" width="380" height="230" rx="14" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2.5"/>
+  <text x="720" y="596" fill="#92400E" font-size="21" font-weight="700">What to do:</text>
+  <g fill="#78350F" font-size="20">
+    <text x="720" y="634">• Don't dig — the service line</text>
+    <text x="720" y="664">   belongs to the water utility</text>
+    <text x="720" y="702">• That repair is typically their</text>
+    <text x="720" y="732">   cost, not yours</text>
+    <text x="720" y="770">• Keep paying your normal bill</text>
+  </g>
+  <rect x="690" y="810" width="380" height="60" rx="12" fill="#F59E0B"/>
+  <text x="880" y="847" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700">Call your water utility</text>
+
+  <!-- bottom fact -->
+  <rect x="150" y="886" width="900" height="42" rx="10" fill="#EFF6FF"/>
+  <text x="600" y="914" text-anchor="middle" fill="#1E40AF" font-size="20" font-weight="700">A silent running toilet can waste 200+ gallons a day — check it first.</text>
+
+  <defs>
+    <marker id="aK" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L8,4.5 L0,9 z" fill="#374151"/></marker>
+    <marker id="aT2" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L8,4.5 L0,9 z" fill="#14B8A6"/></marker>
+    <marker id="aA2" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L8,4.5 L0,9 z" fill="#F59E0B"/></marker>
+  </defs>
+</svg>

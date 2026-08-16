@@ -18,6 +18,8 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <h2 id="quick-answer">Quick Answer</h2>
 <p>The leak indicator on a water meter is a <strong>small dial, triangle, or star that moves whenever any water flows through the meter</strong> — even a trickle too small to register on the main number display.</p>
 <p><strong>The simple rule:</strong> If the leak indicator is moving when every faucet and appliance is off, <strong>water is flowing somewhere and you almost certainly have a leak</strong>. The most common culprits are a silent toilet flapper, a stuck irrigation valve, or a small pipe leak.</p>
+
+{{< image src="/images/articles/water-meter-leak-indicator-explained/meter-leak-indicator-face.svg" alt="Labeled diagram of a water meter face showing the red triangular leak indicator, the blue sweep hand, and the usage number wheels" caption="The leak indicator is the small triangle (or star/gear) on the meter face — it moves with any flow, even a trickle too small for the numbers." >}}
 <p><strong>Where to find it:</strong> Lift the lid on your meter box (usually near the street or sidewalk in a concrete or plastic cover). Look on the meter face for a small red triangle, star, or dial — often labeled "leak" or "low flow." On digital smart meters, look for a flashing flow icon or a "leak" alert on the display.</p>
 <p>For a full meter-reading walkthrough covering different dial styles and digital meters, see: <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 
