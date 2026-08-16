@@ -9,7 +9,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["air conditioner", "electric bill", "kwh", "therms", "thermostat"]
 keywords: ["ac not cooling", "high electric bill", "kwh usage", "therms", "thermostat settings"]
-image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_00001_.webp"
+image: "/images/articles/why-is-my-electric-bill-so-high-this-month/why-is-my-electric-bill-so-high-this-month_hero_v2.webp"
 ---
 
 

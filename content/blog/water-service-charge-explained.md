@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["ccf", "water bill", "leak", "gallons", "surcharge"]
 keywords: ["ccf", "high water bill", "water leak detection", "gallons of water", "utility surcharge"]
-image: "/images/articles/water-service-charge-explained/water-service-charge-explained_hero_00001_.webp"
+image: "/images/articles/water-service-charge-explained/water-service-charge-explained_hero_v2.webp"
 ---
 
 <h2 id="problem">The problem: your bill has a charge even when you used almost no water</h2>

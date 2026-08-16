@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "ccf", "savings", "gallons"]
 keywords: ["water leak detection", "high water bill", "ccf", "lower utility bill", "gallons of water"]
-image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_00001_.webp"
+image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_v2.webp"
 ---
 
 <h2 id="problem">The problem: summer arrives and your bill suddenly feels out of control</h2>

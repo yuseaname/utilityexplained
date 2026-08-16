@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["gallons", "budget", "tiered rate", "water bill", "savings"]
 keywords: ["gallons of water", "utility budget", "tiered electricity rates", "high water bill", "lower utility bill"]
-image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_00001_.webp"
+image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

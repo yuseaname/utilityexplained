@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["air conditioner", "leak", "duct", "therms", "thermostat"]
 keywords: ["ac not cooling", "duct leak symptoms", "therms", "thermostat settings"]
-image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_00001_.webp"
+image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

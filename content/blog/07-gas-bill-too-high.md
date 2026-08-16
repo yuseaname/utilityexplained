@@ -8,7 +8,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency AFUE', 'gas water heater waste']
-image: "/images/articles/07-gas-bill-too-high/custom_hero.webp"
+image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

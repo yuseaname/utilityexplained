@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["water bill", "gallons", "leak", "apartment", "savings"]
 keywords: ["high water bill", "gallons of water", "water leak detection", "apartment utility costs", "lower utility bill"]
-image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_00001_.webp"
+image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_v2.webp"
 ---
 
 ## Quick Answer

@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["fees", "utility bills", "electricity", "rates"]
 keywords: ["utility bill surcharges", "utility bill riders", "what are riders on utility bill", "extra charges on utility bill"]
-image: "/images/articles/utility-bill-surcharges-and-riders-explained/image.webp"
+image: "/images/articles/19-utility-bill-surcharges-and-riders-explained/19-utility-bill-surcharges-and-riders-explained_hero_v2.webp"
 ---
 ## Quick Answer
 

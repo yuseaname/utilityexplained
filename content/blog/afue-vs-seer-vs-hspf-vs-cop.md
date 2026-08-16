@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
 keywords: ["hvac efficiency ratings", "heat pump savings", "ac not cooling", "gas furnace", "duct leak symptoms"]
-image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_00001_.webp"
+image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

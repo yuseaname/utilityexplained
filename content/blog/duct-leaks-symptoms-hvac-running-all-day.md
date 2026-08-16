@@ -9,7 +9,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["duct leaks", "hvac running all day", "uneven heating", "duct sealing", "energy waste"]
 keywords: ["duct leak symptoms", "hvac runs all day", "uneven heating rooms", "duct sealing savings", "room never reaches temperature"]
-image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_00002_.webp"
+image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

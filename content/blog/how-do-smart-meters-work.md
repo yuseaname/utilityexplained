@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "smart meter", "kwh", "estimated bill"]
 keywords: ["high electric bill", "smart meter accuracy", "kwh usage", "estimated utility bill"]
-image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_00001_.webp"
+image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

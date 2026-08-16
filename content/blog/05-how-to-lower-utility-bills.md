@@ -8,7 +8,7 @@ category: "Savings"
 categories: ["Savings"]
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
-image: "/images/articles/05-how-to-lower-utility-bills/custom_hero.webp"
+image: "/images/articles/05-how-to-lower-utility-bills/05-how-to-lower-utility-bills_hero_v2.webp"
 ---
 
 You can cut your utility bills by **20–40%** without sacrificing comfort. The biggest savings come from your HVAC setpoint, water heater temperature, switching to LEDs, sealing air leaks, and shifting usage to off-peak hours. Here are 25 proven strategies, ranked by savings potential, with actual dollar amounts.

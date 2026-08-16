@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "water meter", "sewer", "ccf", "toilet flapper", "dye test"]
 keywords: ["running toilet leak test", "toilet dye test food coloring", "toilet flapper leak", "how much water does a running toilet waste", "running toilet water bill cost", "high water bill cause", "water meter leak indicator"]
-image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_00001_.webp"
+image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer: Is Your Toilet Running?</h2>

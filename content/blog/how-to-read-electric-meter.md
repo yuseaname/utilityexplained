@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "electric meter", "smart meter"]
 keywords: ["high electric bill", "kwh usage", "read electric meter", "smart meter accuracy"]
-image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_00001_.webp"
+image: "/images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_v2.webp"
 ---
 
 ## Quick Answer

@@ -8,7 +8,7 @@ category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["estimated bill", "surcharge", "budget"]
 keywords: ["estimated utility bill", "utility surcharge", "utility budget"]
-image: "/images/articles/why-did-my-utility-bill-go-up-this-month/image.webp"
+image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-utility-bill-go-up-this-month_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The short answer most people need</h2>

@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["utility taxes", "franchise fee", "regulatory fees", "municipal charges"]
 keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes and fees", "what is franchise fee on electric bill", "local utility taxes explained"]
-image: "/images/articles/utility-bill-taxes-fees-franchise-charges-explained/image.webp"
+image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"
 ---
 
 ## Quick Answer

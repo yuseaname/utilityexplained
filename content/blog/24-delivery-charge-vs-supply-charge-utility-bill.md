@@ -8,7 +8,7 @@ category: "Costs"
 categories: ["Costs"]
 tags: ["delivery charge", "supply charge", "deregulated markets", "utility breakdown"]
 keywords: ["delivery charge vs supply charge", "what is delivery charge on utility bill", "supply charge utility", "distribution charge vs supply", "utility bill delivery vs supply breakdown"]
-image: "/images/articles/delivery-charge-vs-supply-charge-utility-bill/image.webp"
+image: "/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp"
 ---
 ## Quick Answer
 

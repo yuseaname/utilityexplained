@@ -9,7 +9,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["customer charge", "therms", "gas bill", "delivery charge"]
 keywords: ["customer charge utility", "gas customer charge explained", "fixed charge gas bill", "customer charge vs minimum bill"]
-image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_00002_.webp"
+image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

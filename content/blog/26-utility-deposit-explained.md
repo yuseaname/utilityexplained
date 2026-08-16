@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["utility deposit", "security deposit", "new service", "credit check"]
 keywords: ["utility deposit", "how much is utility deposit", "security deposit for utilities", "can I get my utility deposit back", "why does utility require deposit"]
-image: "/images/articles/utility-deposit-explained/image.webp"
+image: "/images/articles/26-utility-deposit-explained/26-utility-deposit-explained_hero_v2.webp"
 ---
 
 ## Quick Answer

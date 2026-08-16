@@ -9,7 +9,7 @@ category: "Costs"
 categories: ["Costs"]
 tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
-image: "/images/articles/02-average-utility-costs-2026/custom_hero.webp"
+image: "/images/articles/02-average-utility-costs-2026/02-average-utility-costs-2026_hero_v2.webp"
 ---
 
 ## Quick Answer

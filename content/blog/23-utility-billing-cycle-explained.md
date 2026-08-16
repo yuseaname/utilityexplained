@@ -8,7 +8,7 @@ category: "Billing"
 categories: ["Billing"]
 tags: ["billing cycle", "utility bill dates", "monthly billing", "bimonthly billing"]
 keywords: ["utility billing cycle", "how often do utility bills come", "utility bill period", "monthly vs bimonthly utility billing", "understanding utility billing dates"]
-image: "/images/articles/utility-billing-cycle-explained/image.webp"
+image: "/images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp"
 ---
 
 ## Quick Answer

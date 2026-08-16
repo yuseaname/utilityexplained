@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["fees", "utility bills", "electricity", "gas"]
 keywords: ["customer charge utility bill", "what is customer charge", "fixed charge on electric bill", "utility customer service charge"]
-image: "/images/articles/what-is-customer-charge-on-utility-bill/image.webp"
+image: "/images/articles/17-what-is-customer-charge-on-utility-bill/17-what-is-customer-charge-on-utility-bill_hero_v2.webp"
 ---
 ## Quick Answer
 

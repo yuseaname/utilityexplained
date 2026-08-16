@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["phantom power", "standby power", "energy efficiency", "electric bill", "vampire draw"]
 keywords: ["phantom power draw", "standby power consumption", "vampire power", "eliminate phantom load", "reduce electric bill"]
-image: "/images/articles/phantom-power-draw-explained/custom_hero.webp"
+image: "/images/articles/phantom-power-draw-explained/phantom-power-draw-explained_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

@@ -9,7 +9,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
 keywords: ["demand charges electricity bill explained", "electric demand charges", "demand charge vs energy charge", "reduce demand charges"]
-image: "/images/articles/49-demand-charges-electricity-bill-explained/custom_hero.webp"
+image: "/images/articles/49-demand-charges-electricity-bill-explained/49-demand-charges-electricity-bill-explained_hero_v2.webp"
 ---
 
 ## Quick Answer

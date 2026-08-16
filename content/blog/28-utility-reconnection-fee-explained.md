@@ -8,7 +8,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["reconnection fee", "service shutoff", "late payment", "restore service"]
 keywords: ["utility reconnection fee", "how much to reconnect utility service", "reconnection fee after disconnection", "utility turn on fee", "restore service after shutoff"]
-image: "/images/articles/28-utility-reconnection-fee-explained/reconnect_hero.webp"
+image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp"
 ---
 
 ## Quick Answer: How Much Does It Cost to Reconnect Utility Service After Shutoff?

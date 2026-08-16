@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "demand charge", "kwh", "estimated bill"]
 keywords: ["high electric bill", "demand charge electric", "kwh usage", "estimated utility bill"]
-image: "/images/articles/why-electric-bill-changes-month-to-month/image.webp"
+image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-bill-changes-month-to-month_hero_v2.webp"
 ---
 
 

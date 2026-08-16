@@ -9,7 +9,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["delivery charge", "kwh", "supply charge", "electric bill", "demand charge"]
 keywords: ["delivery charge", "kwh usage", "supply charge", "high electric bill", "demand charge electric"]
-image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_00001_.webp"
+image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_v2.webp"
 ---
 
 <h2 id="problem">The problem: two big charges that sound the same</h2>

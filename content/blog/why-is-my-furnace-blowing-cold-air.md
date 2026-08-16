@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["furnace", "duct", "heat pump", "therms", "thermostat"]
 keywords: ["gas furnace", "duct leak symptoms", "heat pump savings", "therms", "thermostat settings"]
-image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_00001_.webp"
+image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_v2.webp"
 ---
 
 <h2 id="problem">The problem: the heat is on, but the air feels cold</h2>

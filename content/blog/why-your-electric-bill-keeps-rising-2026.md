@@ -8,7 +8,7 @@ category: "Utility Bills"
 categories: ["Utility Bills"]
 tags: ["solar", "kwh", "electric bill", "savings", "air conditioner"]
 keywords: ["solar payback", "kwh usage", "high electric bill", "lower utility bill", "ac not cooling"]
-image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_00001_.webp"
+image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_v2.webp"
 ---
 ## Quick Answer
 

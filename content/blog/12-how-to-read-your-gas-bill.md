@@ -9,7 +9,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms", "gas costs"]
 keywords: ["how to read [gas bill](/blog/43-understand-natural-gas-bill-charges/)", "gas bill explained", "what is distribution charge gas bill", "therm cost", "natural gas bill breakdown"]
-image: "/images/articles/how-to-read-your-gas-bill-therms-explained/how-to-read-your-gas-bill-therms-explained_hero_00001_.webp"
+image: "/images/articles/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill_hero_v2.webp"
 ---
 
 Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "[customer charge](/blog/17-what-is-customer-charge-on-utility-bill)" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.

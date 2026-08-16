@@ -8,7 +8,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["how to lower water bill", "lower water bill tips", "reduce water usage", "save on water bill"]
 keywords: ["how to lower water bill", "lower water bill tips", "reduce water usage", "save on water bill", "water conservation"]
-image: "/images/articles/44-how-to-lower-water-bill/custom_hero.webp"
+image: "/images/articles/44-how-to-lower-water-bill/44-how-to-lower-water-bill_hero_v2.webp"
 ---
 
 

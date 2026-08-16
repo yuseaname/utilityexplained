@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["minimum bill", "utility fees", "base charge", "fixed charges"]
 keywords: ["minimum bill utility", "minimum charge on utility bill", "why do I have a minimum utility charge", "minimum service charge", "utility minimum bill even with low usage"]
-image: "/images/articles/minimum-bill-utility-bill-explained/image.webp"
+image: "/images/articles/22-minimum-bill-utility-bill-explained/22-minimum-bill-utility-bill-explained_hero_v2.webp"
 ---
 
 If you barely used any electricity this month but are still being charged $8 to $45, that is your **minimum bill** — the lowest amount your utility will charge you each [billing period](/blog/23-utility-billing-cycle-explained/), regardless of how little you use. It covers the fixed cost of keeping your home connected to the grid, so it applies even when your usage is near zero. Nearly every utility in the United States charges one. Here is what it covers, why it exists, and what you can actually do about it.

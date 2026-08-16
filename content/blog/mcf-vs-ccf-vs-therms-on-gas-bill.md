@@ -8,7 +8,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["therms", "ccf", "gas bill", "budget", "savings"]
 keywords: ["therms", "ccf", "high gas bill", "utility budget", "lower utility bill"]
-image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_00001_.webp"
+image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

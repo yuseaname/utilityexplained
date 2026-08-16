@@ -8,7 +8,7 @@ category: "Budgeting"
 categories: ["Budgeting"]
 tags: ['apartment utilities', 'average utility costs', 'renter utilities', 'first apartment', 'utility budget']
 keywords: ['average apartment utilities cost', 'what utilities do renters pay', 'apartment electric bill average', 'first apartment utility budget', 'utilities included apartment']
-image: "/images/articles/09-apartment-utilities-cost/custom_hero.webp"
+image: "/images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost_hero_v2.webp"
 ---
 
 ## Quick Answer

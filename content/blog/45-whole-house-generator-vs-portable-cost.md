@@ -8,7 +8,7 @@ category: "Backup Power"
 categories: ["Backup Power"]
 tags: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison"]
 keywords: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison", "backup power cost"]
-image: "/images/articles/45-whole-house-generator-vs-portable-cost/custom_hero.webp"
+image: "/images/articles/45-whole-house-generator-vs-portable-cost/45-whole-house-generator-vs-portable-cost_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

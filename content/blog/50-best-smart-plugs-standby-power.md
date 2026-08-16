@@ -9,7 +9,7 @@ category: "Energy Efficiency"
 categories: ["Energy Efficiency"]
 tags: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
 keywords: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
-image: "/images/articles/50-best-smart-plugs-standby-power/custom_hero.webp"
+image: "/images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

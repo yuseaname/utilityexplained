@@ -8,7 +8,7 @@ category: "Gas"
 categories: ["Gas"]
 tags: ["therms", "furnace", "gas bill", "thermostat", "savings"]
 keywords: ["therms", "gas furnace", "high gas bill", "thermostat settings", "lower utility bill"]
-image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/why-is-my-gas-bill-so-high-in-winter_hero_00001_.webp"
+image: "/images/articles/why-is-my-gas-bill-so-high-in-winter/why-is-my-gas-bill-so-high-in-winter_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

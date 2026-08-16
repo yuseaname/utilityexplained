@@ -8,7 +8,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["troubleshooting", "utility bills", "billing", "disconnection"]
 keywords: ["past due balance utility", "utility bill past due", "what happens if utility bill is late", "overdue utility bill"]
-image: "/images/articles/past-due-balance-utility-bill-explained/image.webp"
+image: "/images/articles/21-past-due-balance-utility-bill-explained/21-past-due-balance-utility-bill-explained_hero_v2.webp"
 ---
 ## Quick Answer
 

@@ -8,7 +8,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["troubleshooting", "utility bills", "rates", "hidden fees"]
 keywords: ["utility bill higher same usage", "same usage higher bill", "why did my utility bill go up", "bill increased same consumption"]
-image: "/images/articles/15-why-utility-bill-higher-same-usage/custom_hero.webp"
+image: "/images/articles/15-why-utility-bill-higher-same-usage/15-why-utility-bill-higher-same-usage_hero_v2.webp"
 ---
 ## Quick Answer
 

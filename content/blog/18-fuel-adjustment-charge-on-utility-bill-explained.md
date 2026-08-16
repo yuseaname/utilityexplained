@@ -8,7 +8,7 @@ category: "Fees"
 categories: ["Fees"]
 tags: ["fees", "electricity", "utility bills", "rates"]
 keywords: ["fuel adjustment charge", "fuel cost recovery", "fuel charge on electric bill", "what is fuel adjustment fee"]
-image: "/images/articles/fuel-adjustment-charge-on-utility-bill-explained/image.webp"
+image: "/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/18-fuel-adjustment-charge-on-utility-bill-explained_hero_v2.webp"
 ---
 ## Quick Answer
 

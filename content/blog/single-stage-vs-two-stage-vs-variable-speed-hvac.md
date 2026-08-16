@@ -8,7 +8,7 @@ category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["duct", "afue", "therms", "thermostat", "leak"]
 keywords: ["duct leak symptoms", "hvac efficiency ratings", "therms", "thermostat settings"]
-image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single-stage-vs-two-stage-vs-variable-speed-hvac_hero_00001_.webp"
+image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single-stage-vs-two-stage-vs-variable-speed-hvac_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The quick answer</h2>

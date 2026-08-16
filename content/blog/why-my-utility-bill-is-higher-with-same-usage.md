@@ -9,7 +9,7 @@ category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
 keywords: ["estimated utility bill", "kwh usage", "utility budget", "customer charge utility", "utility surcharge"]
-image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/image.webp"
+image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-utility-bill-is-higher-with-same-usage_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The short answer</h2>

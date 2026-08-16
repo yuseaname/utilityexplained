@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
 keywords: ["kwh usage", "high electric bill", "ac not cooling", "energy efficient space heater", "delivery charge"]
-image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_00001_.webp"
+image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2.webp"
 ---
 
 <h2 id="quick-answer">The short answer (what a kWh really means)</h2>

@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["savings", "solar", "electric bill", "leak", "kwh"]
 keywords: ["lower utility bill", "solar payback", "high electric bill", "energy waste", "kwh usage"]
-image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_00001_.webp"
+image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

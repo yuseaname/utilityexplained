@@ -8,7 +8,7 @@ category: "Budgeting"
 categories: ["Budgeting"]
 tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
 keywords: ["utility budget", "apartment utility costs", "utility deposit", "hidden costs", "budget billing plan"]
-image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_00001_.webp"
+image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_v2.webp"
 ---
 
 ## Quick Answer

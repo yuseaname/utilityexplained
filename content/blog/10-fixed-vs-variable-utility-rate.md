@@ -8,7 +8,7 @@ category: "Rates & Plans"
 categories: ["Rates & Plans"]
 tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison', 'energy plan', 'budget billing']
 keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
-image: "/images/articles/10-fixed-vs-variable-utility-rate/custom_hero.webp"
+image: "/images/articles/10-fixed-vs-variable-utility-rate/10-fixed-vs-variable-utility-rate_hero_v2.webp"
 ---
 ## Quick Answer
 

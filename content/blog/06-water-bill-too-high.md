@@ -8,7 +8,7 @@ category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high water bill', 'water bill spike', 'hidden leak', 'water meter reading', 'reduce water bill', 'water conservation']
 keywords: ['why is my water bill so high', 'high water bill causes', 'water leak signs', 'how to lower water bill', 'water meter test', 'toilet leak detection']
-image: "/images/articles/06-water-bill-too-high/custom_hero.webp"
+image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.webp"
 ---
 
 {{< affiliate-disclosure >}}

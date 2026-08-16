@@ -8,7 +8,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["air conditioner", "kwh", "therms", "thermostat", "savings"]
 keywords: ["ac not cooling", "kwh usage", "therms", "thermostat settings", "lower utility bill"]
-image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-electricity-bill-so-high-in-summer_hero_00001_.webp"
+image: "/images/articles/why-is-my-electricity-bill-so-high-in-summer/why-is-my-electricity-bill-so-high-in-summer_hero_v2.webp"
 ---
 
 
