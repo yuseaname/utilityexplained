@@ -198,3 +198,16 @@ The following articles use generic stock photos as hero images where article-spe
 **Also:** meter-running page rebuilt from 16-line stub → 2,053-word guide (was top-2 traffic page with zero body). Removed 3 tracked orphan webps (`leak-causes`, `meter-test`, `custom_inline` in past-due dir — git-recoverable).
 
 **Next opportunities (priority):** reconnection-fee page (2 inline, could use a reconnection-process graphic); sewer-charges flow visual; hero refresh on the 9 remaining generic-stock heroes; `28-` and `04-` clusters' inline density.
+
+## Batch Addendum — 2026-08-15 Cycle 3: Process Graphics + Hero Audit
+
+**Tool:** Magica `gpt-image-2-text` (High, 1536×1024 → webp). Vision-QA via gpt-5.5: 2/2 PASS.
+**Deploy:** commit `2d605bb8`, CI green, live 200s verified.
+
+| Page | Visual | Placement | Status |
+|---|---|---|---|
+| 28-reconnection-fee | `reconnect-process.webp` — 4-payment road to restoration + timeline chips + $725 example | end of "What You Must Pay Before Reconnection" | ✅ live |
+| how-sewer-charges | `sewer-flow.webp` — water-in vs sewer-out two-lane flow | "The simple idea: what sewer charges pay for" | ✅ live |
+
+**Hero task closed (was stale):** the "9 generic-stock heroes" from the Aug 10 audit were already replaced sitewide by commit `deca1949` (63 custom AI heroes). Fresh 103-hero dedup scan: brand-consistent, no stock, no action needed.
+**Remaining next:** GSC+Rybbit pull ~Aug 19 (measure engagement lift on the 8 visually-upgraded pages); inline density pass on `04-`/`17-`–`24-` fee-cluster articles if data supports it.
