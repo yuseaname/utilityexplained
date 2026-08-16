@@ -27,6 +27,8 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/how-sewer-cha
               Treatment plants, pipes, pumps, and maintenance cost money every day,
               even when your household uses less.
             </p>
+
+{{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp" alt="Two-lane flow diagram comparing water service, which delivers clean water from a source through pipes to the home, against sewer service, which carries wastewater from the home through the sewer main to a treatment plant" caption="Two services, two directions: clean water in, used water out — and only one of them has to treat what it carries." >}}
             <p>
               If you want the full water-billing model first, start with
               <a href="/water-explained">Water Service Explained</a>.

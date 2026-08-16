@@ -93,6 +93,8 @@ To get your service restored, you must typically satisfy all of the following:
 
 For customers facing financial hardship, the total amount required can be daunting. A **$450** past-due balance, **$75** reconnection fee, and **$200** new deposit means **$725** must be paid before service is restored.
 
+{{< image src="/images/articles/28-utility-reconnection-fee-explained/reconnect-process.webp" alt="Step path showing the four payments required before utility reconnection - past-due balance, reconnection fee, new deposit, and late fees - leading to service restored, with reconnection time options and a $725 example total" caption="Everything that must be paid before the lights come back on — and how fast restoration happens once you do." >}}
+
 ## How Long Does Reconnection Take?
 
 Reconnection timelines depend on when you pay and the utility's scheduling:
