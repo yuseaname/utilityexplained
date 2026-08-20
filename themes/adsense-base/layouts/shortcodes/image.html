@@ -1,16 +1,11 @@
 {{- /* image.html — Responsive image with figure/figcaption */ -}}
-{{- /* Usage: {{< image src="url" alt="text" caption="text" width="" height="" >}} */ -}}
-{{- $src := .Get "src" -}}
-{{- $alt := .Get "alt" -}}
-{{- $caption := .Get "caption" -}}
-{{- $width := .Get "width" -}}
-{{- $height := .Get "height" -}}
+{{- /* Usage: image src="url" alt="" caption="" */ -}}
 <figure class="my-6">
-  <img src="{{ $src }}"
-       alt="{{ if $alt }}{{ $alt }}{{ else }}{{ $src }}{{ end }}"
+  <img src="{{ .Get "src" }}"
+       alt="{{ .Get "alt" | default .Get "src" }}"
        class="w-full h-auto rounded-lg"
        loading="lazy"
-       {{- with $width }} width="{{ . }}"{{ end -}}
-       {{- with $height }} height="{{ . }}"{{ end -}}>
-  {{- with $caption }}<figcaption class="text-sm text-gray-500 text-center mt-2">{{ . }}</figcaption>{{ end -}}
+       {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+       {{- with .Get "height" }} height="{{ . }}"{{ end -}}>
+  {{- with .Get "caption" }}<figcaption class="text-sm text-gray-500 text-center mt-2">{{ . }}</figcaption>{{ end -}}
 </figure>

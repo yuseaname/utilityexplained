@@ -1,0 +1,6 @@
+{{- /* faq-schema.html — no-op.
+   FAQPage JSON-LD is emitted site-wide by partials/head.schema.html, which
+   reads the same page Store this shortcode used to serialize. Emission here
+   double-encoded strings (Go script-context escaping) and duplicated the
+   FAQPage graph head.schema already produces. Kept as a no-op so the
+   {{< faq-schema >}} calls in ~76 existing posts keep building. */ -}}
