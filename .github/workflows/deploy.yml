@@ -30,3 +30,17 @@ jobs:
             -e "ssh -i ~/.ssh/deploy_key -p 65002" \
             ./public/ \
             "${{ secrets.HOSTINGER_SSH_USER }}@${{ secrets.HOSTINGER_SSH_HOST }}:~/domains/utilityexplained.com/public_html/"
+      - name: Notify IndexNow (Bing/DDG ecosystem) of sitemap URLs
+        if: github.event_name == 'push'
+        run: |
+          KEY="f8c073ef959f844532b388dda52d0bcd"
+          URLS=$(python3 -c "
+          import re
+          xml = open('public/sitemap.xml').read()
+          print('\n'.join(re.findall(r'<loc>([^<]+)</loc>', xml)))")
+          printf '%s\n' "$URLS" | jq -R -s -c 'split("\n")[:-1]' > /tmp/urls.json
+          jq -n --arg host "utilityexplained.com" --arg key "$KEY" --rawfile urls /tmp/urls.json \
+            '{host:$host, key:$key, urlList:($urls|fromjson)}' > /tmp/payload.json
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d @/tmp/payload.json -o /dev/null -w "IndexNow response: HTTP %{http_code}\n"
