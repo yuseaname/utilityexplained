@@ -378,10 +378,10 @@ A high electric bill has a cause. The trick is systematic investigation. Start w
 
 *Related Articles:*
 - [Why Is My Electric Bill So High This Month? 7 Hidden Causes](/blog/03-why-is-my-electric-bill-so-high/)
-- [Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One](/blog/07-gas-bill-too-high)
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
-- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026)
-- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill)
+- [Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One](/blog/07-gas-bill-too-high/)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026/)
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/)
 
 {{< faq "Can a faulty meter cause high bills?" >}}
 Yes, but it's rare. Meters typically fail in your favor (under-report). Still worth checking if bill doubled without explanation.

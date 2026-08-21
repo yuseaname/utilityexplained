@@ -238,7 +238,7 @@ It depends. Some riders are temporary and expire when the funded project is paid
 ---
 
 *Related Articles:*
-- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
-- [Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them](/blog/04-hidden-fees-utility-bill)
-- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
-- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/)
+- [Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them](/blog/04-hidden-fees-utility-bill/)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill/)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/)

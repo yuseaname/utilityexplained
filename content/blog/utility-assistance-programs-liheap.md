@@ -177,12 +177,12 @@ Yes, but options are more limited. You can still:
 
 ## Related Articles:
 
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
-- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)
 
 *Related Articles:*
-- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-- [Past Due Balance on Your Utility Bill](/blog/21-past-due-balance-utility-bill-explained)
-- [How to Budget for Utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Past Due Balance on Your Utility Bill](/blog/21-past-due-balance-utility-bill-explained/)
+- [How to Budget for Utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment/)

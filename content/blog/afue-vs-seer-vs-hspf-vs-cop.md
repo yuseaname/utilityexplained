@@ -35,7 +35,7 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
               This guide gives you a simple framework to compare ratings without
               feeling like you need an engineering degree.
               For the broader HVAC primer, see
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -111,7 +111,7 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
             <p>
               That temperature effect is also why thermostats sometimes call for
               backup heat. If you've seen "Aux Heat," read
-              <a href="/blog/aux-heat-vs-emergency-heat-meaning"> Aux Heat vs Emergency Heat</a>.
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/"> Aux Heat vs Emergency Heat</a>.
             </p>
 
 <h2 id="what-moves-bills">What actually moves your bill (the practical lens)</h2>
@@ -130,7 +130,7 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
               Duct leaks can also quietly increase runtime. If some of the conditioned
               air never reaches the rooms, the system compensates by running longer.
               See
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> Duct leaks explained</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> Duct leaks explained</a>.
             </p>
             <h3>2) Thermostat behavior</h3>
             <p>
@@ -141,16 +141,16 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
             <p>
               Extreme weather increases demand. Longer billing cycles increase totals.
               If your electricity spikes seasonally, these guides help:
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter"> winter</a>
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> winter</a>
               and
-              <a href="/blog/03-why-is-my-electric-bill-so-high"> summer</a>.
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> summer</a>.
             </p>
             <h3>4) Fuel prices and fixed charges</h3>
             <p>
               A high-AFUE gas furnace can still feel expensive if gas prices or fixed
               customer charges are high. A heat pump can be competitive in many
               climates. For a calm, real-world comparison, read
-              <a href="/blog/gas-vs-electric-heating-cost-comparison"> gas vs electric heating cost comparison</a>.
+              <a href="/blog/gas-vs-electric-heating-cost-comparison/"> gas vs electric heating cost comparison</a>.
             </p>
 
 <h2 id="examples">Examples that make the differences tangible</h2>

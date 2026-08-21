@@ -25,7 +25,7 @@ Expect a deposit request when you set up new service, and ask your previous util
 
 ## What Is a Utility Deposit?
 
-A utility deposit is an upfront payment required by a utility company before they [establish new service](/blog/27-utility-connection-fee-explained) at your address. It functions as a security deposit — money the utility holds to protect against the risk that you might consume energy and then fail to pay your bill.
+A utility deposit is an upfront payment required by a utility company before they [establish new service](/blog/27-utility-connection-fee-explained/) at your address. It functions as a security deposit — money the utility holds to protect against the risk that you might consume energy and then fail to pay your bill.
 
 Unlike a landlord's security deposit, which is governed by a lease agreement, utility deposits are governed by state law and the utility's approved tariff. Every state has some form of regulation covering utility deposits, though the specific rules vary widely.
 
@@ -103,7 +103,7 @@ There are several strategies to avoid or reduce a utility deposit requirement:
 
 **Demonstrate income stability:** Providing proof of steady employment or income can sometimes satisfy the utility's risk assessment without requiring a deposit.
 
-**Apply for low-income assistance programs:** Income-qualified customers may be exempt from deposit requirements under state law. Programs like [CARE in California](/blog/utility-assistance-programs-liheap) or LIHEAP in many states can provide deposit waivers.
+**Apply for low-income assistance programs:** Income-qualified customers may be exempt from deposit requirements under state law. Programs like [CARE in California](/blog/utility-assistance-programs-liheap/) or LIHEAP in many states can provide deposit waivers.
 
 ## Payment Plans for Large Deposits
 
@@ -111,7 +111,7 @@ If the utility requires a large deposit you cannot afford upfront, ask about ins
 
 **Installment deposits:** Many utilities allow you to pay the deposit in 2 to 3 monthly installments added to your first few bills. For example, a $300 deposit might be billed as **$100/month for the first three months**.
 
-**Deposit deferral for hardship:** Some utilities offer [hardship programs](/blog/utility-assistance-programs-liheap) that defer the deposit requirement for customers facing financial difficulty, with the deposit amount added to the account and collected over time.
+**Deposit deferral for hardship:** Some utilities offer [hardship programs](/blog/utility-assistance-programs-liheap/) that defer the deposit requirement for customers facing financial difficulty, with the deposit amount added to the account and collected over time.
 
 **Prepaid service as an alternative:** Some utilities offer prepaid electricity plans where you pay in advance rather than receiving a monthly bill. These plans do not require a deposit, though they come with their own risks (service can be disconnected quickly if your balance runs out).
 
@@ -127,7 +127,7 @@ The deposit refund process is straightforward but requires attention to timing:
 
 **Move-out refund:** If you close your account before completing 12 months of on-time payments, the utility will apply your deposit to your final bill and refund any remaining balance. This typically happens within **30 to 45 days** of account closure.
 
-**What if the deposit does not cover your final balance?** If you move out owing more than your deposit, the utility will bill you for the difference. If you do not pay, the account may be sent to collections, which can affect your credit score and your ability to establish service at a new address. If service is disconnected, you may also face a [reconnection fee](/blog/28-utility-reconnection-fee-explained) to restore service.
+**What if the deposit does not cover your final balance?** If you move out owing more than your deposit, the utility will bill you for the difference. If you do not pay, the account may be sent to collections, which can affect your credit score and your ability to establish service at a new address. If service is disconnected, you may also face a [reconnection fee](/blog/28-utility-reconnection-fee-explained/) to restore service.
 
 ## What Happens If You Move Before the Deposit Is Refunded?
 
@@ -171,7 +171,7 @@ Most utilities perform a **soft credit inquiry** through one of the major credit
 {{< /faq >}}
 
 {{< faq "How can I avoid paying a utility deposit?" >}}
-You can often avoid a deposit by providing a **letter of good credit** from your previous utility (showing **12+ months of on-time payments**), enrolling in **automatic payment**, using a **guarantor** with good credit, or demonstrating **income stability**. Low-income customers enrolled in programs like [CARE in California](/blog/utility-assistance-programs-liheap) or LIHEAP may also be exempt under state rules.
+You can often avoid a deposit by providing a **letter of good credit** from your previous utility (showing **12+ months of on-time payments**), enrolling in **automatic payment**, using a **guarantor** with good credit, or demonstrating **income stability**. Low-income customers enrolled in programs like [CARE in California](/blog/utility-assistance-programs-liheap/) or LIHEAP may also be exempt under state rules.
 {{< /faq >}}
 
 {{< faq "When is interest paid on a utility deposit?" >}}
@@ -181,6 +181,6 @@ Many states require utilities to pay interest on customer deposits, but the rule
 {{< faq-schema >}}
 
 *Related Reading:*
-- [Utility Connection Fee Explained: What It Costs to Set Up New Service](/blog/27-utility-connection-fee-explained)
-- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
-- [Moving Utilities Checklist: Avoid Paying for Two Homes](/blog/moving-utilities-checklist)
+- [Utility Connection Fee Explained: What It Costs to Set Up New Service](/blog/27-utility-connection-fee-explained/)
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/)
+- [Moving Utilities Checklist: Avoid Paying for Two Homes](/blog/moving-utilities-checklist/)

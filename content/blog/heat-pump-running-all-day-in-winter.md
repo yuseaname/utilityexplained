@@ -23,7 +23,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </p>
             <p>
               If you want the full system overview first, start with
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -61,7 +61,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </p>
             <p>
               If you want the efficiency basics, see
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> HVAC efficiency ratings explained</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> HVAC efficiency ratings explained</a>.
             </p>
 
 <h2 id="defrost">Defrost cycles and cool air</h2>
@@ -83,7 +83,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             <p>
               If you see "AUX" or "EMER" on your thermostat often, learn what those
               modes mean here:
-              <a href="/blog/aux-heat-vs-emergency-heat-meaning"> aux heat vs emergency heat</a>.
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/"> aux heat vs emergency heat</a>.
             </p>
 
 <h2 id="airflow">Airflow and filter checks</h2>
@@ -104,7 +104,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </p>
             <p>
               This guide helps you spot duct issues:
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks symptoms</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks symptoms</a>.
             </p>
 
 <h2 id="signs">Signs it is not normal</h2>
@@ -116,7 +116,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </ul>
             <p>
               If the air feels cold during heat mode, compare this guide:
-              <a href="/blog/why-is-my-furnace-blowing-cold-air"> why a furnace blows cold air</a>.
+              <a href="/blog/why-is-my-furnace-blowing-cold-air/"> why a furnace blows cold air</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -127,7 +127,7 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
             </ul>
             <p>
               If your system turns on and off too quickly, this is a related issue:
-              <a href="/blog/13-ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
+              <a href="/blog/13-ac-short-cycling-causes-fixes/"> AC short cycling explained</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>
@@ -183,4 +183,4 @@ Yes. Leaky ducts waste heated air and force the system to run longer to maintain
 ---
 
 *Related Reading:*
-- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling)
+- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling/)

@@ -69,7 +69,7 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
           <li><strong>Florida</strong>: +6.3% (coal-to-gas conversions)</li>
           </ul>
           <p>Meanwhile, Idaho and North Dakota saw slight decreases (−0.9% and −1.2%, respectively), thanks to new transmission lines and stable hydropower output.</p>
-          <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/10-fixed-vs-variable-utility-rate">how utility rates are set</a>.</p>
+          <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/10-fixed-vs-variable-utility-rate/">how utility rates are set</a>.</p>
           <figure>
           <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-2_00003_.webp" alt="average utility bills by state 2026 technology detail" width="800" height="450" loading="lazy" />
           </figure>
@@ -108,7 +108,7 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
           </ul>
           <p>California’s high costs aren’t just from rates—many cities (like San Diego and Los Angeles) add <strong>drought surcharges</strong> of up to 30% during dry periods. In 2026, 12 states implemented new conservation-tier pricing, meaning you pay more per gallon as your usage increases.</p>
           <p>Water bills also vary dramatically within states. In Texas, for example, Austin averages $52/month, while El Paso (with extensive reuse and desalination) is $39—despite being in a drought-prone region. That’s thanks to long-term infrastructure planning.</p>
-          <p>For practical ways to reduce your water bill, check out our <a href="/blog/44-how-to-lower-water-bill">water-saving tips for homeowners</a>.</p>
+          <p>For practical ways to reduce your water bill, check out our <a href="/blog/44-how-to-lower-water-bill/">water-saving tips for homeowners</a>.</p>
 
 <h2 id="total-utility-cost-comparison-2026-state">Total Utility Cost Comparison: 2026 State-by-State Summary</h2>
 <p>Putting it all together, here’s how the average <strong>total monthly utility bill</strong> (electricity + natural gas + water + sewer) breaks down by region in 2026:</p>
@@ -289,7 +289,7 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
           <h3>Can I reduce my utility bill even in high-cost states?</h3>
           <p>Absolutely. In high-cost states like Massachusetts, households that adopted efficiency measures (heat pump installation, attic insulation, smart thermostats) reduced their gas bill by 22% and electric by 15% in 2026—savings of $105/month on average.</p>
           <h3>Where can I find my state’s exact utility rates?</h3>
-          <p>State public utility commissions publish updated rate schedules. You can also compare average utility costs by state in the <a href="/blog/average-utility-bills-by-state-2026">state-by-state table above</a>.</p>
+          <p>State public utility commissions publish updated rate schedules. You can also compare average utility costs by state in the <a href="/blog/average-utility-bills-by-state-2026/">state-by-state table above</a>.</p>
 
 {{< faq "How much more expensive are utilities in high-cost states like Hawaii versus low-cost states like Idaho?" >}}
 

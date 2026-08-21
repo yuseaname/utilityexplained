@@ -1,0 +1,66 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+      <!-- Brand column -->
+      <div class="sm:col-span-2 lg:col-span-1">
+        <a href="{{ .Site.BaseURL | relURL }}" class="flex items-center gap-2 text-sm font-bold footer-brand">
+          <svg class="w-5 h-5 footer-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+          </svg>
+          {{ .Site.Params.site_name | default .Site.Title }}
+        </a>
+        {{ with .Site.Params.description }}
+        <p class="footer-desc mt-3">{{ . }}</p>
+        {{ end }}
+        <p class="footer-copy mt-4">© {{ now.Year }} {{ .Site.Params.site_name | default .Site.Title }}. All rights reserved.</p>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h3 class="footer-heading">Guides</h3>
+        <ul class="footer-list">
+          <li><a href="/" class="footer-link">Home</a></li>
+          <li><a href="/blog/" class="footer-link">All Guides</a></li>
+          <li><a href="/about/" class="footer-link">About</a></li>
+          <li><a href="/contact/" class="footer-link">Contact</a></li>
+        </ul>
+      </div>
+
+      <!-- Categories (curated, deterministic — replaces unstable count-sort whose
+           ties shuffled order/membership across builds; see SQ-013) -->
+      <div>
+        <h3 class="footer-heading">Topics</h3>
+        <ul class="footer-list">
+          <li><a href="/blog/category/electricity/" class="footer-link">Electricity</a></li>
+          <li><a href="/blog/category/water/" class="footer-link">Water</a></li>
+          <li><a href="/blog/category/heating-cooling/" class="footer-link">Heating &amp; Cooling</a></li>
+          <li><a href="/blog/category/billing/" class="footer-link">Billing</a></li>
+          <li><a href="/blog/category/fees/" class="footer-link">Fees</a></li>
+          <li><a href="/blog/category/troubleshooting/" class="footer-link">Troubleshooting</a></li>
+        </ul>
+      </div>
+
+      <!-- Trust & Policies -->
+      <div>
+        <h3 class="footer-heading">Trust &amp; Legal</h3>
+        <ul class="footer-list">
+          <li><a href="/editorial-team/" class="footer-link">Editorial Team</a></li>
+          <li><a href="/editorial-policy/" class="footer-link">Editorial Policy</a></li>
+          <li><a href="/methodology/" class="footer-link">Methodology</a></li>
+          <li><a href="/corrections/" class="footer-link">Corrections</a></li>
+          <li><a href="/privacy-policy/" class="footer-link">Privacy Policy</a></li>
+          <li><a href="/terms/" class="footer-link">Terms</a></li>
+          <li><a href="/disclaimer/" class="footer-link">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- AdSense disclosure -->
+    <div class="footer-disclosure">
+      <p>
+        This site may display advertisements provided by third parties. Ad placements are automated and not personally endorsed.
+        {{ with .Site.Params.adsense.client_id }}We use Google AdSense to serve ads.{{ end }}
+      </p>
+    </div>
+  </div>
+</footer>

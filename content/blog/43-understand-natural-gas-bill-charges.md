@@ -156,8 +156,8 @@ Don't let a high bill catch you off guard. Start with the small, actionable chan
 ---
 
 *Related Reading:*
-- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
-- [How to Read Your Gas Bill: A Plain-English Guide to Every Line Item](/blog/12-how-to-read-your-gas-bill)
+- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained/)
+- [How to Read Your Gas Bill: A Plain-English Guide to Every Line Item](/blog/12-how-to-read-your-gas-bill/)
 
 ## Frequently Asked Questions
 

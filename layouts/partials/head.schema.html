@@ -1,0 +1,175 @@
+{{- /* head.schema.html — JSON-LD structured data
+      SITE OVERRIDE of theme partial (SQ-013): author-section pages now emit
+      ProfilePage + Person instead of Article (author bios are not articles);
+      articles gain inLanguage + publisher url/@id. Keep in sync with theme
+      changes to the base file. */ -}}
+{{- $schemas := slice -}}
+
+{{/* ── WebSite schema (homepage only) ── */}}
+{{- if .IsHome -}}
+  {{- $org := dict
+      "@context" "https://schema.org"
+      "@type" "Organization"
+      "name" "Utility Explained"
+      "url" "https://utilityexplained.com/"
+  -}}
+  {{- $org = dict "logo" "https://utilityexplained.com/images/og-default.png" | merge $org -}}
+  {{- $searchAction := dict
+      "@type" "SearchAction"
+      "target" "https://utilityexplained.com/search/?q={search_term_string}"
+      "query-input" "required name=search_term_string"
+  -}}
+  {{- $ws := dict
+      "@context" "https://schema.org"
+      "@type" "WebSite"
+      "name" "Utility Explained"
+      "url" "https://utilityexplained.com/"
+      "potentialAction" $searchAction
+  -}}
+  {{- $schemas = $schemas | append $org -}}
+  {{- $schemas = $schemas | append $ws -}}
+{{- end -}}
+
+{{/* ── ProfilePage + Person schema (author-section singles) ── */}}
+{{- if and (not .IsHome) (not .IsNode) (eq .CurrentSection.Path "/author") -}}
+  {{- $personName := .Title -}}
+  {{- $jobTitle := "" -}}
+  {{- $parts := split .Title " — " -}}
+  {{- if gt (len $parts) 1 -}}
+    {{- $personName = index $parts 0 -}}
+    {{- $jobTitle = index $parts 1 -}}
+  {{- end -}}
+  {{- $person := dict
+      "@context" "https://schema.org"
+      "@type" "Person"
+      "name" $personName
+      "url" .Permalink
+      "description" (.Params.description | default "")
+  -}}
+  {{- with $jobTitle -}}
+    {{- $person = dict "jobTitle" . | merge $person -}}
+  {{- end -}}
+  {{- $person = dict "worksFor" (dict "@type" "Organization" "name" .Site.Title) | merge $person -}}
+  {{- $profile := dict
+      "@context" "https://schema.org"
+      "@type" "ProfilePage"
+      "mainEntity" $person
+      "url" .Permalink
+  -}}
+  {{- $schemas = $schemas | append $profile -}}
+{{- end -}}
+
+{{/* ── Article schema (single pages only, excluding author bios) ── */}}
+{{- if and (not .IsHome) (not .IsNode) (ne .CurrentSection.Path "/author") -}}
+  {{- $article := dict
+      "@context" "https://schema.org"
+      "@type" "Article"
+      "headline" .Title
+      "inLanguage" "en-US"
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" (.Params.canonical | default .Permalink))
+  -}}
+  {{- with .Params.description -}}
+    {{- $article = dict "description" (truncate 200 .) | merge $article -}}
+  {{- end -}}
+  {{- with .Params.image -}}
+    {{- $article = dict "image" . | merge $article -}}
+  {{- end -}}
+  {{- $authorName := .Params.author | default "" -}}
+  {{- with $authorName -}}
+    {{- $article = dict "author" (dict "@type" "Person" "name" .) | merge $article -}}
+  {{- end -}}
+  {{- $pub := dict
+      "@type" "Organization"
+      "name" (or .Site.Params.org_name .Site.Title)
+      "url" .Site.BaseURL
+  -}}
+  {{- with .Site.Params.logo -}}
+    {{- $pub = dict "logo" (dict "@type" "ImageObject" "url" .) | merge $pub -}}
+  {{- end -}}
+  {{- $pub = dict "@id" (.Site.BaseURL | printf "%s#organization") | merge $pub -}}
+  {{- $article = dict "publisher" $pub | merge $article -}}
+  {{- with .Date -}}
+    {{- $article = dict "datePublished" (.Format "2006-01-02T15:04:05-07:00") | merge $article -}}
+  {{- end -}}
+  {{- with .Params.updated -}}
+    {{- $article = dict "dateModified" . | merge $article -}}
+  {{- else -}}
+    {{- with .Lastmod -}}
+      {{- $article = dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00") | merge $article -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with .WordCount -}}
+    {{- $article = dict "wordCount" . | merge $article -}}
+  {{- end -}}
+  {{- with .Params.keywords -}}
+    {{- $article = dict "keywords" (delimit . ", ") | merge $article -}}
+  {{- end -}}
+  {{- with .Params.categories -}}
+    {{- $article = dict "articleSection" (delimit . ", ") | merge $article -}}
+  {{- end -}}
+  {{- $schemas = $schemas | append $article -}}
+{{- end -}}
+
+{{/* ── BreadcrumbList schema (all pages except home) ── */}}
+{{- if not .IsHome -}}
+  {{- $items := slice -}}
+  {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" 1
+      "name" "Home"
+      "item" .Site.BaseURL
+  ) -}}
+  {{- $sections := .CurrentSection -}}
+  {{- if and (not .IsSection) (ne .CurrentSection.RelPermalink "/") -}}
+    {{- $items = $items | append (dict
+        "@type" "ListItem"
+        "position" 2
+        "name" $sections.Title
+        "item" $sections.Permalink
+    ) -}}
+  {{- end -}}
+  {{- $pos := len $items -}}
+  {{- $pos = add $pos 1 -}}
+  {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" $pos
+      "name" .Title
+      "item" (.Params.canonical | default .Permalink)
+  ) -}}
+  {{- $bc := dict
+      "@context" "https://schema.org"
+      "@type" "BreadcrumbList"
+      "itemListElement" $items
+  -}}
+  {{- $schemas = $schemas | append $bc -}}
+{{- end -}}
+
+{{/* ── HowTo schema (if howto shortcodes were used) ── */}}
+{{- with .Store.Get "howtoSteps" -}}
+  {{- if gt (len .) 0 -}}
+    {{- $steps := slice -}}
+    {{- range $i, $step := . -}}
+      {{- $steps = $steps | append (dict
+          "@type" "HowToStep"
+          "name" $step.name
+          "text" $step.text
+      ) -}}
+    {{- end -}}
+    {{- $howtoSchema := dict
+        "@context" "https://schema.org"
+        "@type" "HowTo"
+        "name" ($.Store.Get "howtoTitle")
+        "step" $steps
+    -}}
+    {{- $schemas = $schemas | append $howtoSchema -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* ── Output combined JSON-LD ── */}}
+{{- /* safeJS is required: script content is a JS context — safeHTML still gets
+       JS-escaped there, double-encoding the JSON into an unparseable string. */ -}}
+{{- if gt (len $schemas) 0 -}}
+<script type="application/ld+json">
+{{- $schemas | jsonify | safeJS -}}
+</script>
+{{- end -}}

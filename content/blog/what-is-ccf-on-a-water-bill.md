@@ -27,7 +27,7 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 <p>If you opened your water bill and saw "CCF," you are not alone. It is one of those utility terms that feels obvious to the utility and totally unclear to everyone else.</p>
 <p>Here is the simple definition: <strong>CCF means "hundred cubic feet."</strong> The first "C" is the Roman numeral for 100, and "CF" means cubic feet. It is a unit of <em>volume</em> — how much water flowed through your meter during the billing period.</p>
 <p>This article gives you a plain-English conversion you can trust, plus a quick way to connect your CCF number to what you actually pay. Since many <a href="/blog/how-sewer-charges-work-on-your-water-bill/">sewer charges</a> are calculated from your CCF usage, understanding this unit helps you track both your water and sewer costs.</p>
-<p>For help understanding other parts of your bill beyond usage, check out our guide on <a href="/blog/water-service-charge-explained/">water service charges</a>. If you want the big picture first, start with our <a href="/water-explained">Water Service Explained</a> pillar.</p>
+<p>For help understanding other parts of your bill beyond usage, check out our guide on <a href="/blog/water-service-charge-explained/">water service charges</a>. If you want the big picture first, start with our <a href="/water-explained/">Water Service Explained</a> pillar.</p>
 
 ## CCF vs cubic feet vs gallons (and why bills use different units) {#ccf-definition}
 <p>Utilities measure water in volume. The most common units you'll see are gallons, cubic feet (ft³), and CCF.</p>
@@ -75,20 +75,20 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 <h3>Flat-rate pricing</h3>
 <p>With a flat rate, each CCF costs the same. Your usage charge is basically: <strong>CCF × rate</strong>. The dollar ranges in the table below show what <strong>2–8 CCF</strong> typically costs a household — usage only, before fixed service fees, sewer, and stormwater are added.</p>
 <h3>Tiered pricing</h3>
-<p>With tiers (block pricing), the first chunk of usage is cheaper and later chunks are more expensive. That can make it look like your "price per unit" changed month to month, even though the tiers themselves are fixed. See our guide to <a href="/blog/tiered-water-rates-explained">tiered water rates</a> for how the blocks work.</p>
-<p>If your bill also includes sewer, your water usage may drive that charge too. See <a href="/blog/how-sewer-charges-work-on-your-water-bill">how sewer charges work</a> for the plain-English model.</p>
-<p>CCF only drives the <em>usage</em> part of your bill. Most bills also include a fixed <a href="/blog/water-service-charge-explained">water service charge</a>, and many add a separate <a href="/blog/stormwater-fee-on-water-bill-explained">stormwater fee</a> for runoff — neither of which depends on your CCF.</p>
+<p>With tiers (block pricing), the first chunk of usage is cheaper and later chunks are more expensive. That can make it look like your "price per unit" changed month to month, even though the tiers themselves are fixed. See our guide to <a href="/blog/tiered-water-rates-explained/">tiered water rates</a> for how the blocks work.</p>
+<p>If your bill also includes sewer, your water usage may drive that charge too. See <a href="/blog/how-sewer-charges-work-on-your-water-bill/">how sewer charges work</a> for the plain-English model.</p>
+<p>CCF only drives the <em>usage</em> part of your bill. Most bills also include a fixed <a href="/blog/water-service-charge-explained/">water service charge</a>, and many add a separate <a href="/blog/stormwater-fee-on-water-bill-explained/">stormwater fee</a> for runoff — neither of which depends on your CCF.</p>
 
 ## Is your CCF normal? A 30-second check {#sanity-check-usage}
 
 {{< image src="/images/articles/what-is-ccf-on-a-water-bill/ccf-normal.webp" alt="Is your CCF normal - usage bands per person per month" caption="A typical household uses about 2-4 CCF per person per month. Well above that, and a hidden leak is the usual suspect." >}}
 <p>The fastest way to build confidence is to connect three things: (1) your meter, (2) your bill, and (3) what your household is doing.</p>
 <h3>1) Compare the meter to the bill</h3>
-<p>Your bill lists a previous and current meter reading. Subtract to get usage. If you want the step-by-step, see <a href="/blog/how-to-read-a-water-meter">how to read a water meter</a>.</p>
+<p>Your bill lists a previous and current meter reading. Subtract to get usage. If you want the step-by-step, see <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 <h3>2) Check whether the jump makes sense</h3>
-<p>If your usage suddenly spiked, your next step is usually to rule out leaks — especially toilets. A running toilet can quietly waste <strong>1+ CCF per day</strong> (hundreds of gallons) without making a sound. Our troubleshooting guide is <a href="/blog/is-your-toilet-running-leak-test">a simple toilet leak test</a> (it takes minutes).</p>
+<p>If your usage suddenly spiked, your next step is usually to rule out leaks — especially toilets. A running toilet can quietly waste <strong>1+ CCF per day</strong> (hundreds of gallons) without making a sound. Our troubleshooting guide is <a href="/blog/is-your-toilet-running-leak-test/">a simple toilet leak test</a> (it takes minutes).</p>
 <h3>3) Use "normal" as context (not as a rule)</h3>
-<p>Households vary, but having a rough benchmark helps. See <a href="/blog/average-water-usage-per-person">average water usage per person</a> for a practical range. If your number is well above the typical band for your household size and nothing has changed about your routine, that is the point to start looking for a leak — not to assume the utility made a mistake.</p>
+<p>Households vary, but having a rough benchmark helps. See <a href="/blog/average-water-usage-per-person/">average water usage per person</a> for a practical range. If your number is well above the typical band for your household size and nothing has changed about your routine, that is the point to start looking for a leak — not to assume the utility made a mistake.</p>
 
 ## Common misconceptions about CCF {#misconceptions}
 <ul>
@@ -96,7 +96,7 @@ image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill
 <li><strong>"CCF is a fee."</strong> CCF is the measurement. The fee comes from the rate applied to that measurement.</li>
 <li><strong>"The utility is hiding gallons."</strong> Usually it's just a standard unit that's convenient for billing. CCF and gallons describe the same water; CCF is simply the unit your meter records in.</li>
 </ul>
-<p>If you want the broader "why did this jump?" diagnosis, see <a href="/blog/why-did-my-water-bill-suddenly-increase">why water bills suddenly increase</a>.</p>
+<p>If you want the broader "why did this jump?" diagnosis, see <a href="/blog/why-did-my-water-bill-suddenly-increase/">why water bills suddenly increase</a>.</p>
 
 ## Water Measurement Conversion Table
 
@@ -152,5 +152,11 @@ Often, yes. If your CCF is well above the typical **2–4 CCF per person per mon
 In many cities, yes. Sewer charges are often calculated from your water usage (in CCF or gallons), so a high water bill can pull your sewer bill up with it. The exact rule varies by utility, so check your bill or your utility's website for how they handle it.
 
 {{< /faq >}}
+
+## Next steps
+
+- Your CCF number looks high? Walk through [why your water bill is so high](/blog/06-water-bill-too-high/) — 11 checks ranked by likelihood.
+- Suspect a leak? [Check your meter's leak indicator](/blog/water-meter-leak-indicator-explained/) first — it takes two minutes.
+- Curious how water usage becomes sewer charges? See [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/).
 
 {{< faq-schema >}}

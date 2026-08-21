@@ -20,7 +20,7 @@ image: "/images/articles/17-what-is-customer-charge-on-utility-bill/17-what-is-c
 
 For more detail, see [customer charges explained](/blog/17-what-is-customer-charge-on-utility-bill/).
 
-Every month, regardless of whether you used 200 kWh or 2,000 kWh, your utility bill includes a "customer charge" (also called a service charge, basic service charge, or customer facility charge). This fixed fee appears on your bill before any energy usage is calculated. It is separate from [variable fees and charges](/blog/04-hidden-fees-utility-bill) that depend on your consumption. It typically ranges from $8 to $30 per month for residential customers depending on your utility and state. For many low-usage households, this charge represents a significant portion of the total bill—and it's been rising steadily. Here's what you're actually paying for.
+Every month, regardless of whether you used 200 kWh or 2,000 kWh, your utility bill includes a "customer charge" (also called a service charge, basic service charge, or customer facility charge). This fixed fee appears on your bill before any energy usage is calculated. It is separate from [variable fees and charges](/blog/04-hidden-fees-utility-bill/) that depend on your consumption. It typically ranges from $8 to $30 per month for residential customers depending on your utility and state. For many low-usage households, this charge represents a significant portion of the total bill—and it's been rising steadily. Here's what you're actually paying for.
 
 ## What Exactly Is the Customer Charge?
 
@@ -49,7 +49,7 @@ Every month, the utility processes your account—reading your meter (or receivi
 
 ### Distribution Infrastructure
 
-A portion of the fixed costs of the local distribution system—poles, wires, transformers, substations, and the maintenance crews that keep them operational. While the [per-kWh distribution charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill) covers the variable costs of delivering power, the customer charge covers the portion of this infrastructure that exists specifically to serve your address.
+A portion of the fixed costs of the local distribution system—poles, wires, transformers, substations, and the maintenance crews that keep them operational. While the [per-kWh distribution charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) covers the variable costs of delivering power, the customer charge covers the portion of this infrastructure that exists specifically to serve your address.
 
 ### Grid Modernization
 
@@ -126,7 +126,7 @@ Low-income households, seniors on fixed incomes, and efficient households effect
 
 ## Can You Avoid or Reduce the Customer Charge?
 
-Unfortunately, there's no way to eliminate the customer charge while remaining connected to the utility. Even if you produce 100% of your own electricity with solar panels and batteries, most utilities charge a [minimum monthly fee](/blog/22-minimum-bill-utility-bill-explained)—sometimes called a "standby charge"—sometimes called a "standby charge" or "minimum bill"—for the option of drawing grid power when needed.
+Unfortunately, there's no way to eliminate the customer charge while remaining connected to the utility. Even if you produce 100% of your own electricity with solar panels and batteries, most utilities charge a [minimum monthly fee](/blog/22-minimum-bill-utility-bill-explained/)—sometimes called a "standby charge"—sometimes called a "standby charge" or "minimum bill"—for the option of drawing grid power when needed.
 
 However, there are strategies to manage its impact:
 
@@ -149,7 +149,7 @@ Customer charges are rising because utilities face increasing fixed costs for gr
 {{< /faq >}}
 
 {{< faq "Is the customer charge the same as a connection fee?" >}}
-Not exactly. A [connection fee](/blog/27-utility-connection-fee-explained) is typically a one-time charge for establishing new service. The customer charge is a recurring monthly fee for maintaining your existing connection. Some utilities also charge a reconnection fee if service is disconnected and restored.
+Not exactly. A [connection fee](/blog/27-utility-connection-fee-explained/) is typically a one-time charge for establishing new service. The customer charge is a recurring monthly fee for maintaining your existing connection. Some utilities also charge a reconnection fee if service is disconnected and restored.
 {{< /faq >}}
 
 {{< faq "Can I negotiate the customer charge?" >}}
@@ -169,5 +169,5 @@ Yes. In most states, solar customers with grid-connected systems pay the full cu
 ---
 
 *Related Reading:*
-- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
-- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
+- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained/)
+- [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/)

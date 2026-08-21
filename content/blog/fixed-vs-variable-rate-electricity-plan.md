@@ -26,7 +26,7 @@ See [utility cost index by state](/blog/2026-utility-cost-index-by-state/) for r
 <p>
               A fixed-rate plan locks in the price per kWh for a set term, often 6 to
               24 months. A variable-rate plan changes each month based on market
-              conditions. Both plans have the same <a href="/utility-bills-costs-explained">delivery charges</a>, but the energy
+              conditions. Both plans have the same <a href="/utility-bills-costs-explained/">delivery charges</a>, but the energy
               price can vary.
             </p>
             <p>
@@ -327,7 +327,7 @@ See [utility cost index by state](/blog/2026-utility-cost-index-by-state/) for r
             </p>
             <p>
               For seasonal context, review our guide on
-              <a href="/blog/03-why-is-my-electric-bill-so-high">
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
                 summer electricity costs
               </a>
               .

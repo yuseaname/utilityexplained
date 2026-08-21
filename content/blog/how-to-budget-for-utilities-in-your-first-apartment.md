@@ -92,7 +92,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
 <h2 id="setup">Setting up utilities and deposits</h2>
 <p>
               You typically need to start service one to two weeks before move-in.
-              Providers may require a [deposit or credit check](/blog/26-utility-deposit-explained). Ask about deposit
+              Providers may require a [deposit or credit check](/blog/26-utility-deposit-explained/). Ask about deposit
               waivers or payment plans if the upfront cost is a concern.
             </p>
             <p>
@@ -129,7 +129,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               months, you will see a clear pattern and can adjust your budget range.
             </p>
             <p>
-              Tracking usage helps you separate rate changes from behavior changes. [Understanding why utility bills vary](/blog/why-my-utility-bill-is-higher-with-same-usage) can help you identify patterns.
+              Tracking usage helps you separate rate changes from behavior changes. [Understanding why utility bills vary](/blog/why-my-utility-bill-is-higher-with-same-usage/) can help you identify patterns.
               If the kWh or gallons stay steady but the cost rises, the rate likely
               changed rather than your habits.
             </p>
@@ -200,13 +200,13 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               <li>Use LED bulbs and switch off lights in empty rooms.</li>
               <li>Set your thermostat a few degrees lower in winter and higher in summer.</li>
               <li>Run full loads in the dishwasher and washer.</li>
-              <li>[Report leaks](/blog/47-check-energy-leaks-home-diy) or maintenance issues quickly.</li>
+              <li>[Report leaks](/blog/47-check-energy-leaks-home-diy/) or maintenance issues quickly.</li>
               <li>Use a smart power strip for electronics.</li>
             </ul>
             <p>
               These small actions can keep your first-year bills predictable and
               manageable. If you are unsure about average usage, see our guide on
-              <a href="/blog/average-water-usage-per-person">
+              <a href="/blog/average-water-usage-per-person/">
                 average water use per person
               </a>
               .
@@ -258,4 +258,4 @@ Some utilities waive deposits with a credit check or a letter of good standing f
 ---
 
 *Related Reading:*
-- [Average Apartment Utilities Cost: What to Expect and How to Budget](/blog/09-apartment-utilities-cost)
+- [Average Apartment Utilities Cost: What to Expect and How to Budget](/blog/09-apartment-utilities-cost/)

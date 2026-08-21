@@ -135,7 +135,7 @@ Lowering your water bill doesn't require a major renovation; it requires a strat
 
 Don't wait for the next high bill to arrive. Start with the easiest task today: **Perform a quick check of your faucets and the "dye test" on your toilets.** Small steps today lead to significant savings tomorrow.
 
-**Are you looking for more ways to manage your household budget?** Check out our other guides on [reducing electricity bills](/blog/how-to-lower-electric-bill-without-solar) and [essential seasonal home maintenance](/blog/47-check-energy-leaks-home-diy) to keep your utility costs low all year round.
+**Are you looking for more ways to manage your household budget?** Check out our other guides on [reducing electricity bills](/blog/how-to-lower-electric-bill-without-solar/) and [essential seasonal home maintenance](/blog/47-check-energy-leaks-home-diy/) to keep your utility costs low all year round.
 
 ***
 

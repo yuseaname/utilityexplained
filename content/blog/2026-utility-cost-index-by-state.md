@@ -605,14 +605,14 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 
 ## Related Articles:
 
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
-- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill)
-- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill/)
+- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)
 - [How to Lower Your Electric Bill: The Complete Guide---
 
 *Related Articles:*
-- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026)
-- [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026)
-- [Apartment Utilities Cost](/blog/09-apartment-utilities-cost)
-- [How to Budget for Utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment)
+- [Average Utility Costs in 2026](/blog/02-average-utility-costs-2026/)
+- [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/)
+- [Apartment Utilities Cost](/blog/09-apartment-utilities-cost/)
+- [How to Budget for Utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment/)

@@ -126,7 +126,7 @@ help).
 <p>
 If your bill has many other lines beyond tiers — supply, delivery, riders,
 taxes — this walkthrough helps you find the right section:
-<a href="/blog/electric-bill-breakdown-understanding-line-items"> how to read electric bill line items</a>.
+<a href="/blog/electric-bill-breakdown-understanding-line-items/"> how to read electric bill line items</a>.
 </p>
 
 <h2 id="why-jump">Why your electric bill jumps with small usage changes</h2>
@@ -142,7 +142,7 @@ Ask yourself: did this bill cover more days than last month? If so, compare
 <strong>kWh per day</strong>, not total kWh. The full checklist is in
 <a href="/blog/03-why-is-my-electric-bill-so-high/">why your electric bill is so high</a>
 and the
-<a href="/blog/03-why-is-my-electric-bill-so-high"> bill-spike guide for any month</a>.
+<a href="/blog/03-why-is-my-electric-bill-so-high/"> bill-spike guide for any month</a>.
 </p>
 <p>
 Also note the difference between tiered rates and time-of-use pricing.
@@ -185,7 +185,7 @@ $10–$30 more than a 28-day cycle even with the same daily habits.
 <p>
 If you also see separate supply and delivery charges, that is another layer
 of the bill. This guide keeps them clear:
-<a href="/blog/supply-vs-delivery-charges-electricity"> supply vs delivery charges</a>.
+<a href="/blog/supply-vs-delivery-charges-electricity/"> supply vs delivery charges</a>.
 </p>
 
 <h2 id="state-comparison">Tier Rate Comparison by State</h2>

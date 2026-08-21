@@ -25,7 +25,7 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             </p>
             <p>
               If you want the big picture first, start with
-              <a href="/water-explained"> Water Service Explained</a>.
+              <a href="/water-explained/"> Water Service Explained</a>.
             </p>
 
 <ul>
@@ -69,7 +69,7 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             </ul>
             <p>
               If you want a deeper breakdown of the sewer line itself, see
-              <a href="/blog/how-sewer-charges-work-on-your-water-bill"> how sewer charges work</a>.
+              <a href="/blog/how-sewer-charges-work-on-your-water-bill/"> how sewer charges work</a>.
             </p>
 
 <h2 id="where-show">Where it appears on the bill</h2>
@@ -80,12 +80,12 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             </p>
             <p>
               If the unit is unfamiliar, start with
-              <a href="/blog/what-is-ccf-on-a-water-bill"> what CCF means on a water bill</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/"> what CCF means on a water bill</a>.
             </p>
             <p>
               Your bill may also include a separate base fee. That is a different line
               than sewer averaging. See
-              <a href="/blog/water-service-charge-explained"> water service charges explained</a>.
+              <a href="/blog/water-service-charge-explained/"> water service charges explained</a>.
             </p>
 
 <h2 id="what-raises">What can raise your average</h2>
@@ -101,9 +101,9 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             </ul>
             <p>
               If you suspect a leak, check
-              <a href="/blog/water-meter-leak-indicator-explained"> the water meter leak indicator</a>
+              <a href="/blog/water-meter-leak-indicator-explained/"> the water meter leak indicator</a>
               or the quick test in
-              <a href="/blog/is-your-toilet-running-leak-test"> is your toilet running</a>.
+              <a href="/blog/is-your-toilet-running-leak-test/"> is your toilet running</a>.
             </p>
 
 <h2 id="estimate">How to estimate your sewer charge</h2>
@@ -115,7 +115,7 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             <p>
               This simple estimate helps you separate a sewer average issue from a
               sudden usage change. For a full troubleshooting flow, see
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why your water bill suddenly increased</a>.
+              <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why your water bill suddenly increased</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -126,7 +126,7 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
             </ul>
             <p>
               If your winter bill is higher than expected, this related guide can help:
-              <a href="/blog/why-is-my-water-bill-higher-in-winter"> why water bills rise in winter</a>.
+              <a href="/blog/why-is-my-water-bill-higher-in-winter/"> why water bills rise in winter</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>

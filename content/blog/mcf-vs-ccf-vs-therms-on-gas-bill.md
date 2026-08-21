@@ -49,7 +49,7 @@ image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-o
 <ol><li><strong>Find your Usage:</strong> Look at your bill for the "Usage" in CCF.</li><li><strong>Find your Total Gas Charge:</strong> Look at the total amount paid for gas supply (excluding fixed fees).</li><li><strong>Convert Usage to Therms:</strong> Multiply your CCF usage by 1.037.</li><li><strong>Calculate Rate:</strong> Divide the Total Gas Charge by the Therms calculated in step 3.</li></ol>
 <p>For example, if you used 50 CCF and paid $50 for gas:</p>
 <ul><li>50 CCF x 1.037 = 51.85 Therms.</li><li>$50 / 51.85 Therms = $0.96 per Therm.</li></ul>
-<p>This allows you to compare your rate against <a href="/blog/02-average-utility-costs-2026">average utility costs 2026</a> benchmarks. If your calculated rate is significantly higher than the regional average, you may be eligible for a better rate plan or need to investigate your usage.</p>
+<p>This allows you to compare your rate against <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a> benchmarks. If your calculated rate is significantly higher than the regional average, you may be eligible for a better rate plan or need to investigate your usage.</p>
 
 <h2 id="why-your-utility-company-chooses-specific-units">Why Your Utility Company Chooses Specific Units</h2>
 <p>You might wonder why there isn't one universal standard. The choice of unit often depends on historical infrastructure, regional regulations, and the size of the customer base.</p>
@@ -66,7 +66,7 @@ image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-o
 <p>Your bill usually shows a "Commodity Charge" and a "Delivery Charge." The Commodity Charge is the cost of the gas itself. The Delivery Charge is the cost to transport it to your home.</p>
 <p>If you are trying to understand MCF vs CCF vs therms on gas bill regarding price, focus on the Commodity Charge. Delivery rates are often fixed or tiered and do not change based on the unit of measurement in the same way.</p>
 <h3>The Impact of Fixed Fees</h3>
-<p>Many utility bills include fixed monthly customer charges. These are the kind of <a href="/blog/04-hidden-fees-utility-bill">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
+<p>Many utility bills include fixed monthly customer charges. These are the kind of <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
 <p>To get an accurate picture of your energy cost:</p>
 <ol><li>Subtract fixed customer charges from the total bill.</li><li>Subtract taxes and surcharges if possible.</li><li>Divide the remaining "Supply Cost" by your usage in therms.</li></ol>
 <p>This gives you the true market rate you are paying for the fuel. If this rate fluctuates wildly month-to-month, your utility likely uses a variable rate plan. If it stays stable, you are likely on a fixed-rate plan or the utility absorbs the volatility.</p>
@@ -84,7 +84,7 @@ image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-o
 <h2 id="impact-on-your-budget-and-average-costs">Impact on Your Budget and Average Costs</h2>
 <p>Understanding these units helps you budget accurately for the year. Gas bills are seasonal. You will use significantly more gas in winter than in summer.</p>
 <p>If you track your usage in volume (CCF) during winter, the numbers will be high. If you track in volume during summer, they will be low. However, if you track in therms, you are tracking heat output. If your therm usage is high in summer, it might indicate a leak or a water heater issue, not just heating.</p>
-<p>Comparing your usage to <a href="/blog/02-average-utility-costs-2026">average utility costs 2026</a> can help you identify if your home is inefficient. If the average household in your zip code uses 50 therms in July and you are using 100, you have an outlier issue. If you are using 50 CCF, you need to convert that to 51.85 therms to make the comparison.</p>
+<p>Comparing your usage to <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a> can help you identify if your home is inefficient. If the average household in your zip code uses 50 therms in July and you are using 100, you have an outlier issue. If you are using 50 CCF, you need to convert that to 51.85 therms to make the comparison.</p>
 <p>This data is crucial for long-term planning. If you are considering switching to electric heating or installing solar, you need to know your baseline energy consumption in a standard unit. Therms are often the bridge between gas and electricity comparisons (kWh vs Therms).</p>
 
 <h2 id="how-to-reduce-your-gas-consumption">How to Reduce Your Gas Consumption</h2>
@@ -93,7 +93,7 @@ image: "/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-o
 <ul><li><strong>Lower the Thermostat:</strong> Dropping your thermostat by 2 degrees can save 1-3% on your bill. Over a winter, this reduces your therm usage significantly.</li><li><strong>Use Timers:</strong> Ensure your heating system isn't running when you are at work.</li><li><strong>Seal Leaks:</strong> Drafty windows waste heat. If you are burning more gas to maintain temperature, your therm usage rises even if the gas quality stays the same.</li></ul>
 <h3>Equipment Upgrades</h3>
 <ul><li><strong>High-Efficiency Furnace:</strong> Older furnaces may lose 30% of energy in the vent. A new furnace converts more of the gas volume into usable heat, meaning you use fewer therms for the same comfort.</li><li><strong>Tankless Water Heater:</strong> Gas water heaters are a major consumer of therms. Tankless models heat water on demand, reducing standby losses.</li></ul>
-<p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/05-how-to-lower-utility-bills">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
+<p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/05-how-to-lower-utility-bills/">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
 

@@ -13,15 +13,15 @@ image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconn
 
 ## Quick Answer: How Much Does It Cost to Reconnect Utility Service After Shutoff?
 
-A utility reconnection fee typically runs **$20–$60** for electric, **$25–$75** for natural gas, and **$25–$60** for water during regular business hours — and **$75–$200+** more for after-hours or weekend restoration. **You must pay the full [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) plus the reconnection fee (and often a new [utility deposit](/blog/26-utility-deposit-explained/)) before the utility will turn your service back on.** With a smart meter, restoration can happen in **under 2 hours**; otherwise, expect **same-day** service if you pay before the utility's afternoon cutoff, or **next business day** after that.
+A utility reconnection fee typically runs **$30–$150** for electric, **$50–$200** for natural gas, and **$25–$100** for water during regular business hours — and **$100–$300+** more for after-hours or weekend restoration. **You must pay the full [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) plus the reconnection fee (and often a new [utility deposit](/blog/26-utility-deposit-explained/)) before the utility will turn your service back on.** With a smart meter, restoration can happen in **under 2 hours**; otherwise, expect **same-day** service if you pay before the utility's afternoon cutoff, or **next business day** after that. Smaller municipal utilities often land at the low end; major investor-owned utilities at the high end.
 
 ### Reconnection Fees at a Glance
 
 | Utility | Regular Hours | After-Hours / Weekend |
 |---|---|---|
-| Electric | **$20** – **$60** | **$75** – **$150+** |
-| Natural gas | **$25** – **$75** | **$100** – **$200+** |
-| Water / sewer | **$25** – **$60** | Rarely available |
+| Electric | **$30** – **$150** | **$100** – **$300**+ |
+| Natural gas | **$50** – **$200** | **$150** – **$350**+ |
+| Water / sewer | **$25** – **$100** | **$75** – **$200**+ |
 
 > **Related guides:** Check your [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) so you know exactly what's owed, review your [billing cycle](/blog/23-utility-billing-cycle-explained/) to avoid falling behind again, and read about [utility deposits](/blog/26-utility-deposit-explained/) since a new one is commonly required at reconnection. To prevent a future shutoff, see [budget billing / level-pay plans](/blog/16-budget-billing-level-pay-explained/). First-time setup is different — a [connection fee](/blog/27-utility-connection-fee-explained/) is not the same as a reconnection fee.
 
@@ -188,7 +188,7 @@ Many states require utilities to offer payment plans for customers facing financ
 ---
 
 *Related Reading:*
-- [Past Due Balance on Utility Bill Explained](/blog/21-past-due-balance-utility-bill-explained)
-- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)
+- [Past Due Balance on Utility Bill Explained](/blog/21-past-due-balance-utility-bill-explained/)
+- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained/)
 
 {{< faq-schema >}}

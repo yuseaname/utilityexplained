@@ -13,6 +13,18 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
+# --- Consolidation 301s (2026 cluster merges — server-level replaces meta-refresh alias stubs) ---
+RewriteRule ^blog/29-why-is-my-electric-bill-so-high-2026/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]
+RewriteRule ^blog/why-is-my-electric-bill-so-high-this-month/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]
+RewriteRule ^blog/why-is-my-electricity-bill-so-high-in-summer/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]
+RewriteRule ^blog/why-is-my-electricity-bill-so-high-in-winter/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]
+RewriteRule ^blog/why-is-my-gas-bill-so-high-in-summer/?$ /blog/07-gas-bill-too-high/ [R=301,L]
+RewriteRule ^blog/why-is-my-gas-bill-so-high-in-winter/?$ /blog/07-gas-bill-too-high/ [R=301,L]
+RewriteRule ^blog/time-of-use-electricity-rates/?$ /blog/08-time-of-use-electricity/ [R=301,L]
+RewriteRule ^blog/time-of-use-electricity-rates-explained/?$ /blog/08-time-of-use-electricity/ [R=301,L]
+RewriteRule ^blog/demand-charge-electric-bill-explained/?$ /blog/49-demand-charges-electricity-bill-explained/ [R=301,L]
+RewriteRule ^blog/how-to-read-your-gas-bill-therms-explained/?$ /blog/12-how-to-read-your-gas-bill/ [R=301,L]
+
 # --- Force trailing slash (301 redirect) ---
 # Only for paths WITHOUT a file extension and WITHOUT a trailing slash
 # This consolidates duplicate URLs that were splitting search equity

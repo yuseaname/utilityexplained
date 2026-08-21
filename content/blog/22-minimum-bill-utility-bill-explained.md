@@ -155,8 +155,8 @@ Utilities are filing for higher fixed charges because per-kWh consumption has be
 - [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/)
 - [Delivery Charge vs. Supply Charge Explained](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
 - [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/)
-- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained)
-- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained)
+- [Gas Customer Charge Explained (Why You Pay Even With Low Usage)](/blog/gas-customer-charge-explained/)
+- [Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)](/blog/water-service-charge-explained/)
 
 {{< /faq >}}
 

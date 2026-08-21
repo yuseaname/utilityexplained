@@ -20,7 +20,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             <p>
               The easiest way to picture it: <strong>kW is how fast</strong> you are
               using electricity, and <strong>kWh is how much</strong> you used in
-              total. For more basics, see our <a href="/electricity-explained">electricity guide</a>.
+              total. For more basics, see our <a href="/electricity-explained/">electricity guide</a>.
             </p>
             <p>
               Once kWh clicks, your bill stops feeling random. You can connect
@@ -100,7 +100,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             </p>
             <p>
               If you want a bigger-picture foundation first, our main guide to
-              <a href="/electricity-explained"> electricity explained</a> walks
+              <a href="/electricity-explained/"> electricity explained</a> walks
               through how electricity is delivered and billed.
             </p>
 
@@ -117,7 +117,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             </p>
             <p>
               For a line-by-line explanation, see
-              <a href="/blog/electric-bill-breakdown-understanding-line-items">
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/">
                 
                 our electric bill breakdown
               </a>
@@ -132,7 +132,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             </p>
             <p>
               If you want to connect kWh to the biggest household loads, our
-              <a href="/heating-cooling-explained"> heating and cooling explainer</a>
+              <a href="/heating-cooling-explained/"> heating and cooling explainer</a>
               shows why HVAC often dominates monthly usage.
             </p>
 
@@ -153,7 +153,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             </ul>
             <p>
               If you are trying to figure out a sudden spike, start with
-              <a href="/blog/03-why-is-my-electric-bill-so-high">
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
                 
                 common reasons bills jump
               </a>
@@ -211,8 +211,8 @@ Reducing kWh helps, but your total bill may also include fixed charges. Understa
 {{< faq-schema >}}
 
 *Related Articles:*
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
-- [Understanding kWh Usage](/blog/11-understanding-kwh-usage)
-- [How Do Smart Meters Work](/blog/how-do-smart-meters-work)
-- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity)
-- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)
+- [How Do Smart Meters Work](/blog/how-do-smart-meters-work/)
+- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items/)

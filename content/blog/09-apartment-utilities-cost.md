@@ -20,7 +20,7 @@ image: "/images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost
 
 For more detail, see [How to Lower Your Electric Bill](/blog/how-to-lower-electric-bill-complete-guide/).
 
-Moving into your first apartment — or moving to a new one — and wondering what utilities will cost? This guide gives you **real numbers, by utility type, by apartment size, and by region**, so you can budget accurately and avoid surprises. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+Moving into your first apartment — or moving to a new one — and wondering what utilities will cost? This guide gives you **real numbers, by utility type, by apartment size, and by region**, so you can budget accurately and avoid surprises. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/).
 
 ## What utilities do renters typically pay?
 
@@ -35,7 +35,7 @@ Every lease is different, but here's what most renters are responsible for:
 | **Internet/cable** | Tenant (always) | You choose the provider and plan |
 | **Renters insurance** | Tenant (should) | $15–$30/month, not technically a utility |
 
-**Rule of thumb:** If it's [meter](/blog/how-to-read-electric-meter)ed individually to your unit (electric, gas), you almost certainly pay it. If it's shared (water, trash), the landlord often covers it — but not always.
+**Rule of thumb:** If it's [meter](/blog/how-to-read-electric-meter/)ed individually to your unit (electric, gas), you almost certainly pay it. If it's shared (water, trash), the landlord often covers it — but not always.
 
 ---
 
@@ -220,6 +220,7 @@ Yes. It covers your belongings in case of fire, theft, water damage, and liabili
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 ## Related guides
@@ -228,7 +229,7 @@ Yes. It covers your belongings in case of fire, theft, water damage, and liabili
 - [Average Utility Costs 2026](./02-average-utility-costs-2026.md) — Nationwide data and comparisons
 - [How to Lower Utility Bills](./05-how-to-lower-utility-bills.md) — Comprehensive savings strategies
 - [Fixed vs Variable Utility Rates](./10-fixed-vs-variable-utility-rate.md) — Choose the right rate plan
-- [Understanding Your [kWh](/blog/what-is-a-kilowatt-hour) Usage](./11-understanding-kwh-usage.md) — What drives your consumption
+- [Understanding Your [kWh](/blog/what-is-a-kilowatt-hour/) Usage](./11-understanding-kwh-usage.md) — What drives your consumption
 
 ---
 
@@ -239,12 +240,12 @@ Yes. It covers your belongings in case of fire, theft, water damage, and liabili
 ---
 
 *Related Articles:*
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
-- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)
-- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill)
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
+- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained/)
+- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
 
 *Related Reading:*
-- [How to Budget for Utilities in Your First Apartment](/blog/how-to-budget-for-utilities-in-your-first-apartment)
-- [Average Utility Costs in 2026: Complete Breakdown by Type and State](/blog/02-average-utility-costs-2026)
+- [How to Budget for Utilities in Your First Apartment](/blog/how-to-budget-for-utilities-in-your-first-apartment/)
+- [Average Utility Costs in 2026: Complete Breakdown by Type and State](/blog/02-average-utility-costs-2026/)

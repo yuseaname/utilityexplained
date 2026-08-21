@@ -166,12 +166,12 @@ To go off-grid, you need:
 
 ## Related Articles:
 
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
-- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill)
-- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items)
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill/)
+- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items/)
 
 *Related Articles:*
-- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar)
-- [Understanding kWh Usage](/blog/11-understanding-kwh-usage)
-- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
-- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
+- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar/)
+- [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)
+- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour/)
+- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work/)

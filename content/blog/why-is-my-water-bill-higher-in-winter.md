@@ -23,7 +23,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you want the basics first, start with
-              <a href="/water-explained"> Water Service Explained</a>.
+              <a href="/water-explained/"> Water Service Explained</a>.
             </p>
 
 <ul>
@@ -52,7 +52,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you want a step-by-step guide, see
-              <a href="/blog/23-utility-billing-cycle-explained"> utility billing cycle explained</a>.
+              <a href="/blog/23-utility-billing-cycle-explained/"> utility billing cycle explained</a>.
             </p>
 
 <h2 id="indoor-leaks">Indoor leaks and running toilets</h2>
@@ -63,9 +63,9 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               Start with the quick dye test in
-              <a href="/blog/is-your-toilet-running-leak-test"> is your toilet running</a>,
+              <a href="/blog/is-your-toilet-running-leak-test/"> is your toilet running</a>,
               then check the meter using
-              <a href="/blog/water-meter-leak-indicator-explained"> the leak indicator</a>.
+              <a href="/blog/water-meter-leak-indicator-explained/"> the leak indicator</a>.
             </p>
 
 <h2 id="hot-water">More hot water use</h2>
@@ -76,7 +76,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you want to quantify usage, this guide helps:
-              <a href="/blog/what-is-ccf-on-a-water-bill"> what CCF means on a water bill</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/"> what CCF means on a water bill</a>.
             </p>
 
 <h2 id="sewer-average">Sewer averaging changes</h2>
@@ -87,7 +87,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               For a full explanation, see
-              <a href="/blog/sewer-averaging-water-bill-explained"> sewer averaging explained</a>.
+              <a href="/blog/sewer-averaging-water-bill-explained/"> sewer averaging explained</a>.
             </p>
 
 <h2 id="estimated">Estimated reads and true-ups</h2>
@@ -97,7 +97,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </p>
             <p>
               If you see the word "estimated" on your statement, this guide helps:
-              <a href="/blog/14-estimated-utility-bill-explained"> estimated utility bills explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained/"> estimated utility bills explained</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -108,7 +108,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
             </ul>
             <p>
               If your bill jumped suddenly, check
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why water bills suddenly increase</a>.
+              <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why water bills suddenly increase</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>
@@ -186,4 +186,4 @@ Compare usage per day and check for notes about estimated reads. That separates 
 ---
 
 *Related Reading:*
-- [Why Is My Water Bill So High? 11 Fast Checks That Find the Problem](/blog/06-water-bill-too-high)
+- [Why Is My Water Bill So High? 11 Fast Checks That Find the Problem](/blog/06-water-bill-too-high/)

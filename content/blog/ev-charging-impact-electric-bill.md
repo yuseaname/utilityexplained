@@ -60,7 +60,7 @@ Home charging is almost always the cheapest way to fuel an EV, and the gap over 
 
 ## Charging Speeds, Panels, and Practical Concerns
 
-Charging speed shapes the whole experience of owning an EV at home. Level 1 charging, which uses a standard 120V outlet, adds only 3–5 miles of range per hour — enough for a light driver to top off overnight, but painfully slow for anyone covering serious weekly mileage. Level 2 charging at 240V jumps that to roughly 20–40 miles per hour, covering an average driver's daily use in just a few evening hours. The catch is your electrical panel. A 100A panel might handle a Level 2 charger if you have available headroom, a 150A panel usually can, and a 200A panel takes it without complaint. Before installing, ask your utility whether an EV-specific rate plan or a separate EV meter is available, since off-peak rates in the 8–12¢/kWh range can meaningfully trim your charging bill. The savings only materialize if your panel cooperates and your rate plan rewards overnight charging. For the foundations, our [Electricity explained](/electricity-explained) guide covers how household circuits and panels work.
+Charging speed shapes the whole experience of owning an EV at home. Level 1 charging, which uses a standard 120V outlet, adds only 3–5 miles of range per hour — enough for a light driver to top off overnight, but painfully slow for anyone covering serious weekly mileage. Level 2 charging at 240V jumps that to roughly 20–40 miles per hour, covering an average driver's daily use in just a few evening hours. The catch is your electrical panel. A 100A panel might handle a Level 2 charger if you have available headroom, a 150A panel usually can, and a 200A panel takes it without complaint. Before installing, ask your utility whether an EV-specific rate plan or a separate EV meter is available, since off-peak rates in the 8–12¢/kWh range can meaningfully trim your charging bill. The savings only materialize if your panel cooperates and your rate plan rewards overnight charging. For the foundations, our [Electricity explained](/electricity-explained/) guide covers how household circuits and panels work.
 
 ## Related Reading
 
@@ -111,6 +111,6 @@ Charging speed shapes the whole experience of owning an EV at home. Level 1 char
 
 ## Related Articles:
 
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
-- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)

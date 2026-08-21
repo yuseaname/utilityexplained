@@ -146,8 +146,8 @@ Don't let your utility bill remain a mystery that causes monthly stress. Use the
 ---
 
 *Related Reading:*
-- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
-- [Demand Charges on Your Electricity Bill Explained](/blog/49-demand-charges-electricity-bill-explained)
+- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/)
+- [Demand Charges on Your Electricity Bill Explained](/blog/49-demand-charges-electricity-bill-explained/)
 
 ## Frequently Asked Questions
 

@@ -22,7 +22,7 @@ image: "/images/articles/45-whole-house-generator-vs-portable-cost/45-whole-hous
 
 [For more detail, see our guide to [home energy backup options](/blog/45-whole-house-generator-vs-portable-cost/).]
 
-When the lights flicker and the neighborhood goes dark during a summer thunderstorm, [the immediate concern is often safety](/blog/03-why-is-my-electric-bill-so-high)., the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?
+When the lights flicker and the neighborhood goes dark during a summer thunderstorm, [the immediate concern is often safety](/blog/03-why-is-my-electric-bill-so-high/)., the immediate concern is often safety. However, for the savvy US homeowner or renter, a second, more pressing thought quickly follows: *How much is this outage going to cost me?* Between spoiled groceries, the potential for frozen pipes, and the loss of productivity for remote workers, power outages are expensive. This brings us to the ultimate financial dilemma: **whole house generator vs portable cost**—which investment actually makes sense for your long-term budget?
 
 Deciding between a permanent standby unit and a mobile, plug-in generator isn't just about wattage; it is about analyzing upfront capital, ongoing maintenance, and the "hidden" costs of energy management. If you are looking to protect your household while remaining fiscally responsible, this guide will break down the numbers to help you decide which path offers the best return on investment.
 
@@ -100,7 +100,7 @@ Portable generators are generally designed to power specific, high-priority item
 *   s**The Effort Cost:** To use a portable generator, you (or someone in your house) must physically go outside, start the machine, and manage heavy extension cords. In extreme weather (snow, heavy rain, heat), this "labor cost" is a significant factor in your quality of life.
 
 ### Whole House Capacity: The "Business as Usual" Approach
-A whole house generator is designed to carry the load of your entire home, including [heavy appliances](/blog/afue-vs-seer-vs-hspf-vs-cop).
+A whole house generator is designed to carry the load of your entire home, including [heavy appliances](/blog/afue-vs-seer-vs-hspf-vs-cop/).
 *   **Typical Load:** It can power your central AC, electric water heater, well pump, and electric oven.
 *   **The Value of Continuity:** The true "cost saving" here is the prevention of secondary losses. A whole house generator ensures that your food doesn't spoil, your sump pump keeps the basement dry, and your home's climate remains controlled, protecting your property value.
 
@@ -136,7 +136,7 @@ When weighing **whole house generator vs portable cost**, there is no single "co
 *   **Choose a Portable Generator if:** You want to minimize upfront debt, you are comfortable with manual labor and DIY maintenance, and you only need to power essential devices during an emergency.
 *   **Choose a Whole House Generator if:** You want seamless protection, you have the capital for a major home improvement, and you want to ensure your entire household—including heavy appliances—remains operational without lifting a finger.
 
-**Final Actionable Advice:** Before making a purchase, sit down with your [last three months of utility bills](/blog/how-to-read-your-utility-bill) and a list of your "must-run" appliances. and a list of your "must-run" appliances. Calculate the wattage of those appliances. Once you know your *actual* power needs, you can stop guessing and start budgeting for the solution that truly protects your home and your wallet.
+**Final Actionable Advice:** Before making a purchase, sit down with your [last three months of utility bills](/blog/how-to-read-your-utility-bill/) and a list of your "must-run" appliances. and a list of your "must-run" appliances. Calculate the wattage of those appliances. Once you know your *actual* power needs, you can stop guessing and start budgeting for the solution that truly protects your home and your wallet.
 
 ***
 
@@ -145,8 +145,8 @@ When weighing **whole house generator vs portable cost**, there is no single "co
 ---
 
 *Related Reading:*
-- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
-- [Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?](/blog/48-heat-pump-vs-gas-furnace-savings)
+- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison/)
+- [Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?](/blog/48-heat-pump-vs-gas-furnace-savings/)
 
 ## Frequently Asked Questions
 

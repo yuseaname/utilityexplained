@@ -29,7 +29,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             </p>
             <p>
               That interval data is what makes
-              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity/"> time-of-use rates</a>
               possible. Instead of one total for the month, the utility can see
               when you used energy.
             </p>
@@ -62,7 +62,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             </p>
             <p>
               Usage is measured in
-              <a href="/blog/what-is-a-kilowatt-hour"> kilowatt-hours (kWh)</a>,
+              <a href="/blog/what-is-a-kilowatt-hour/"> kilowatt-hours (kWh)</a>,
               the same unit your old meter used. The difference is timing.
             </p>
             <p>
@@ -83,7 +83,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             <p>
               If you think a number is wrong, compare the meter display to your
               bill and follow the step-by-step check in the
-              <a href="/blog/electric-bill-breakdown-understanding-line-items">
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/">
                 {" "}
                 bill line item guide
               </a>
@@ -112,7 +112,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             <ul>
               <li>
                 <strong>Fewer estimated bills:</strong> Smart meters make
-                <a href="/blog/14-estimated-utility-bill-explained"> estimated bills</a>
+                <a href="/blog/14-estimated-utility-bill-explained/"> estimated bills</a>
                 less common.
               </li>
               <li>
@@ -122,7 +122,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
               <li>
                 <strong>Better usage insight:</strong> Daily or hourly charts help
                 you explain
-                <a href="/blog/03-why-is-my-electric-bill-so-high">
+                <a href="/blog/03-why-is-my-electric-bill-so-high/">
                   {" "}
                   bill spikes
                 </a>
@@ -146,7 +146,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
             </ol>
             <p>
               If you need help reading the display, see
-              <a href="/blog/how-to-read-electric-meter"> how to read an electric meter</a>.
+              <a href="/blog/how-to-read-electric-meter/"> how to read an electric meter</a>.
             </p>
 
 <h2 id="opt-out">Can you opt out?</h2>
@@ -220,7 +220,7 @@ Often the old analog meter was undercounting. A new digital meter can reveal you
 ---
 
 *Related Articles:*
-- [Best Smart Plugs to Eliminate Standby Power Drain](/blog/50-best-smart-plugs-standby-power)
-- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
-- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)
-- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained)
+- [Best Smart Plugs to Eliminate Standby Power Drain](/blog/50-best-smart-plugs-standby-power/)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill/)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/)
+- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained/)

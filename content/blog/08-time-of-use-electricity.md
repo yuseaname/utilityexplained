@@ -92,7 +92,7 @@ The savings depend on three factors:
 
 ### Worked example: shifting 150 kWh from peak to off-peak
 
-**Scenario:** Average household using 900 [kWh](/blog/what-is-a-kilowatt-hour)/month on a TOU plan.
+**Scenario:** Average household using 900 [kWh](/blog/what-is-a-kilowatt-hour/)/month on a TOU plan.
 
 **Before shifting:**
 
@@ -179,7 +179,7 @@ Look at your last 3 electric bills and estimate:
 3. If it's **25–40%**, it's a wash — check your utility's specific rates.
 4. If it's **over 40%**, you'll likely pay more on TOU.
 
-If your utility provides hourly usage data via a [smart meter](/blog/how-do-smart-meters-work) dashboard, use that instead of estimating. For more on spotting when your bill is high in the first place, see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
+If your utility provides hourly usage data via a [smart meter](/blog/how-do-smart-meters-work/) dashboard, use that instead of estimating. For more on spotting when your bill is high in the first place, see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 ---
 
@@ -206,7 +206,7 @@ If your utility provides hourly usage data via a [smart meter](/blog/how-do-smar
 ---
 
 {{< faq "What if my utility doesn't offer TOU?" >}}
-Not all utilities have implemented TOU yet. However, many are transitioning as they deploy smart [meter](/blog/how-to-read-electric-meter)s. Check your state's public utility commission for upcoming rate changes.
+Not all utilities have implemented TOU yet. However, many are transitioning as they deploy smart [meter](/blog/how-to-read-electric-meter/)s. Check your state's public utility commission for upcoming rate changes.
 {{< /faq >}}
 
 {{< faq "How is TOU different from tiered electricity rates?" >}}

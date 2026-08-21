@@ -37,15 +37,15 @@ Most utilities prorate bills in the following situations:
 
 ## When Does Proration Happen?
 
-Proration occurs whenever your service period doesn't align with the utility's standard [billing cycle](/blog/23-utility-billing-cycle-explained). The most common situations include:
+Proration occurs whenever your service period doesn't align with the utility's standard [billing cycle](/blog/23-utility-billing-cycle-explained/). The most common situations include:
 
 ### Moving In
 
-When you [set up new utility service](/blog/27-utility-connection-fee-explained), your first bill typically covers a partial period. If you move in on the 15th and the utility bills monthly, your first bill might cover just 16 days (the 15th through the end of the month) or it might extend into the next month depending on how the utility handles initial billing. Most utilities also collect a [security deposit](/blog/26-utility-deposit-explained) at activation—typically $50–$300, refundable after 12 months of on-time payments.
+When you [set up new utility service](/blog/27-utility-connection-fee-explained/), your first bill typically covers a partial period. If you move in on the 15th and the utility bills monthly, your first bill might cover just 16 days (the 15th through the end of the month) or it might extend into the next month depending on how the utility handles initial billing. Most utilities also collect a [security deposit](/blog/26-utility-deposit-explained/) at activation—typically $50–$300, refundable after 12 months of on-time payments.
 
 ### Moving Out
 
-When you terminate service, your final bill covers the period from your last meter reading to the disconnection date. This is often a short period of just a few days or weeks. However, it could include [past due balances](/blog/21-past-due-balance-utility-bill-explained) if you are behind on payments. If the utility can't read the meter on your move-out date, they may estimate the final reading—which brings the risk of overbilling.
+When you terminate service, your final bill covers the period from your last meter reading to the disconnection date. This is often a short period of just a few days or weeks. However, it could include [past due balances](/blog/21-past-due-balance-utility-bill-explained/) if you are behind on payments. If the utility can't read the meter on your move-out date, they may estimate the final reading—which brings the risk of overbilling.
 
 ### Real Estate Closings
 
@@ -87,7 +87,7 @@ This is where proration gets tricky. Your utility bill contains both fixed charg
 
 ### Fixed Charges (Customer Charge, Service Fee)
 
-Fixed charges are prorated by the day. If your monthly [customer charge](/blog/17-what-is-customer-charge-on-utility-bill) is $15 and your service period is 20 days out of a 30-day billing cycle:
+Fixed charges are prorated by the day. If your monthly [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) is $15 and your service period is 20 days out of a 30-day billing cycle:
 
 $15 × (20 ÷ 30) = $10.00
 
@@ -174,7 +174,7 @@ Some utilities charge the full monthly customer charge even for partial periods.
 
 ### Proration with Estimated Readings
 
-If the utility estimates your final reading (because they can't access the meter), the estimate might be high. When the actual reading eventually occurs (perhaps when the new occupant moves in), any overcharge should be corrected—but you might need to request the adjustment. Keep your final bill and compare it against the new occupant's first bill if possible. See our [guide to estimated utility bills](/blog/14-estimated-utility-bill-explained) for how those estimates become final charges.
+If the utility estimates your final reading (because they can't access the meter), the estimate might be high. When the actual reading eventually occurs (perhaps when the new occupant moves in), any overcharge should be corrected—but you might need to request the adjustment. Keep your final bill and compare it against the new occupant's first bill if possible. See our [guide to estimated utility bills](/blog/14-estimated-utility-bill-explained/) for how those estimates become final charges.
 
 ### Water and Sewer Proration Quirks
 
@@ -198,7 +198,7 @@ Take 5 minutes to verify the proration math on any partial-period bill:
 
 ## Next Step: Check Your Last Prorated Bill
 
-Pull out your most recent prorated bill and run the five verification steps above. If the dates or math don't match your move-in or move-out date, call your utility within the same billing cycle—most will correct proration errors on the spot. For a full breakdown of every line item, read our [guide to reading your utility bill](/blog/how-to-read-your-utility-bill/), and if you're moving into a new place, review the [utility connection fee](/blog/27-utility-connection-fee-explained), [utility deposit](/blog/26-utility-deposit-explained), and [customer charge](/blog/17-what-is-customer-charge-on-utility-bill) before service starts.
+Pull out your most recent prorated bill and run the five verification steps above. If the dates or math don't match your move-in or move-out date, call your utility within the same billing cycle—most will correct proration errors on the spot. For a full breakdown of every line item, read our [guide to reading your utility bill](/blog/how-to-read-your-utility-bill/), and if you're moving into a new place, review the [utility connection fee](/blog/27-utility-connection-fee-explained/), [utility deposit](/blog/26-utility-deposit-explained/), and [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) before service starts.
 
 ## Frequently Asked Questions
 

@@ -20,7 +20,7 @@ image: "/images/articles/14-estimated-utility-bill-explained/14-estimated-utilit
 
 For more detail, see [utility billing cycles](/blog/23-utility-billing-cycle-explained/).
 
-You open your utility bill and notice something odd: instead of showing an actual [meter](/blog/how-to-read-electric-meter) reading, it says "estimated." Your water, gas, or electric company guessed how much you used and charged you accordingly. This is more common than most people realize, and it can lead to surprisingly high—or pleasantly low—bills that eventually need correcting. Here's exactly how estimated billing works and what you should do about it.
+You open your utility bill and notice something odd: instead of showing an actual [meter](/blog/how-to-read-electric-meter/) reading, it says "estimated." Your water, gas, or electric company guessed how much you used and charged you accordingly. This is more common than most people realize, and it can lead to surprisingly high—or pleasantly low—bills that eventually need correcting. Here's exactly how estimated billing works and what you should do about it.
 
 ## Why Do Utility Companies Estimate Bills?
 
@@ -44,7 +44,7 @@ Utilities don't pull numbers out of thin air. Estimated bills are based on histo
 
 ### Historical Usage Averaging
 
-The simplest method: the utility looks at your usage during the same month in previous years. If you used 850 [kWh](/blog/what-is-a-kilowatt-hour) of electricity last May and 820 kWh the May before, they might estimate 835 kWh for this May. This works well when your consumption patterns are consistent from year to year.
+The simplest method: the utility looks at your usage during the same month in previous years. If you used 850 [kWh](/blog/what-is-a-kilowatt-hour/) of electricity last May and 820 kWh the May before, they might estimate 835 kWh for this May. This works well when your consumption patterns are consistent from year to year.
 
 ### Weather-Adjusted Averaging
 
@@ -110,15 +110,15 @@ If your utility has upgraded to smart meters in your area and you're still recei
 ---
 
 *Related Articles:*
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
-- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)
-- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill)
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
+- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained/)
+- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
 
 *Related Reading:*
-- [Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean](/blog/23-utility-billing-cycle-explained)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
+- [Utility Billing Cycle Explained: How Often Bills Come and What the Dates Mean](/blog/23-utility-billing-cycle-explained/)
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
 
 ## Frequently Asked Questions
 
@@ -135,7 +135,7 @@ Yes. Most utilities allow you to request a meter reading or submit your own read
 {{< /faq >}}
 
 {{< faq "What happens after an estimated bill?" >}}
-The next actual reading will 'true up' the difference. If the estimate was too high, you get a credit. If too low, you owe more. This can cause a sudden spike on your next bill. See our guide on [sudden electricity bill spikes](/blog/30-sudden-spike-in-electricity-bill-no-usage).
+The next actual reading will 'true up' the difference. If the estimate was too high, you get a credit. If too low, you owe more. This can cause a sudden spike on your next bill. See our guide on [sudden electricity bill spikes](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
 {{< /faq >}}
 
 {{< faq-schema >}}

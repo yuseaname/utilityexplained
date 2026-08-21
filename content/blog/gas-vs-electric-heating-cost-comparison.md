@@ -205,7 +205,7 @@ image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric
             </p>
             <p>
               For a deeper look at winter electricity costs, read
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter">
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/">
                 why winter bills rise
               </a>
               .
@@ -247,4 +247,4 @@ It depends on local rates, your climate, and your home. Comparing fuel costs, fi
 ---
 
 *Related Reading:*
-- [Whole House Generator vs. Portable: Real Cost Comparison](/blog/45-whole-house-generator-vs-portable-cost)
+- [Whole House Generator vs. Portable: Real Cost Comparison](/blog/45-whole-house-generator-vs-portable-cost/)

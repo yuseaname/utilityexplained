@@ -1,5 +1,5 @@
 ---
-title: "Heating & Cooling Explained: Complete Guide to HVAC Systems and Costs"
+title: "Heating & Cooling: HVAC Systems and Costs Explained"
 description: "Learn how heating and cooling systems work, what they cost to run, and how to keep your home comfortable without breaking the bank."
 image: "/images/articles/heating-cooling-explained/custom_hero.webp"
 date: 2024-12-01

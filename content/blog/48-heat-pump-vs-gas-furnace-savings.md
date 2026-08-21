@@ -155,8 +155,8 @@ Don't guess—calculate. Contact a local, licensed HVAC professional to perform 
 ---
 
 *Related Reading:*
-- [Heat Pump Running All Day in Winter? What Is Normal vs a Problem](/blog/heat-pump-running-all-day-in-winter)
-- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison)
+- [Heat Pump Running All Day in Winter? What Is Normal vs a Problem](/blog/heat-pump-running-all-day-in-winter/)
+- [Gas vs. Electric Heating: Cost Comparison for Real Homes](/blog/gas-vs-electric-heating-cost-comparison/)
 
 ## Frequently Asked Questions
 

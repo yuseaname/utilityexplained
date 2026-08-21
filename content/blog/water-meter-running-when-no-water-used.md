@@ -10,22 +10,23 @@ tags: ["water bill", "leak", "gallons", "water meter", "therms"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "water meter running when no water used", "leaking toilet", "irrigation leak", "slab leak"]
 image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00002_.webp"
 ---
-{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Water Monitor" label="Catch silent leaks" description="Straps onto your existing water meter in minutes — no plumber. Real-time usage on your phone, and it alerts you the moment continuous flow suggests a leak, even a silent toilet or slab leak." button="Check price on Amazon" >}}
-{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Budget first alert" description="Place these under the water heater, sink, and toilet. A $25 sensor beeps at 100dB the moment it touches water — the fastest way to find WHERE the leak is once your meter tells you THAT you have one." button="Check price on Amazon" >}}
-
 ## Quick Answer
 
 **If your water meter keeps spinning or clicking when every faucet and appliance is off, water is flowing somewhere — and that means a leak.** The three most common culprits, in order:
 
-1. **A silent running toilet** — a worn flapper valve lets water trickle into the bowl 24 hours a day. This is the #1 cause, and it's a $15 fix.
+1. **A silent running toilet** — a worn flapper valve lets water trickle into the bowl 24 hours a day. This is the #1 cause, and it's a $15 fix. ([Test yours in 2 minutes](/blog/is-your-toilet-running-leak-test/).)
 2. **A stuck irrigation valve** — a sprinkler zone that never fully closes leaks underground where you'll never see it.
-3. **A service-line or slab leak** — the pipe between the street meter and your house can crack underground, wasting up to 36,000 gallons a month.
+3. **A service-line or slab leak** — the pipe between the street meter and your house can crack underground, wasting up to 36,000 gallons a month. ([Not sure how to read the dial? Here's the guide](/blog/how-to-read-a-water-meter/).)
 
-The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard.
+The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how water meters work and how accurate they are](/blog/how-do-smart-meters-work/).
 
 ## The 10-Minute Test: Find Where the Leak Is
 
 {{< image src="/images/articles/water-meter-running-when-no-water-used/decision-tree.webp" alt="Decision tree for a water meter running with no water use: shut the main valve, then check whether the meter stopped to tell inside-house leaks from service-line leaks" caption="One valve answers the big question: is the leak inside your house, or under your yard?" >}}
+
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Water Monitor" label="Catch silent leaks" description="Straps onto your existing water meter in minutes — no plumber. Real-time usage on your phone, and it alerts you the moment continuous flow suggests a leak, even a silent toilet or slab leak." button="Check price on Amazon" >}}
+
+{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Budget first alert" description="Place these under the water heater, sink, and toilet. A $25 sensor beeps at 100dB the moment it touches water — the fastest way to find WHERE the leak is once your meter tells you THAT you have one." button="Check price on Amazon" >}}
 
 ### Step 1: Kill every drop of water use
 
@@ -119,22 +120,4 @@ Leak detection typically runs $150–400; many plumbers waive the detection fee 
 - [How to read a water meter](/blog/how-to-read-a-water-meter/) — dials, digits, and units
 - [What is CCF on a water bill?](/blog/what-is-ccf-on-a-water-bill/) — understanding the units on your bill
 - [Why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) — the full bill-detective playbook
-
-## Frequently Asked Questions
-
-{{< faq "Can a water meter run with every fixture off?" >}}
-Yes. If every faucet, appliance, and irrigation valve is truly off and the meter is still moving, water is flowing somewhere — usually a leak. The article's Step 1 checklist (including ice makers and smart sprinkler schedules) is what "every fixture off" really means, and a meter that continues moving after that points to a running toilet, a stuck irrigation valve, or a service-line leak.
-{{< /faq >}}
-
-{{< faq "What is the most common cause of a meter running with no water used?" >}}
-A silent running toilet with a worn flapper valve. The article calls it the #1 cause — a $10–15 flapper can waste 200–400 gallons a day, which is $50–100 per month on most bills. It is invisible because the water trickles straight into the bowl with no sound.
-{{< /faq >}}
-
-{{< faq "Does a slowly spinning meter always mean a leak?" >}}
-Almost always, yes. The article notes one minor exception: some utilities briefly cycle or flush nearby lines, which can nudge the leak indicator for a few minutes. If the meter moves continuously for 10+ minutes with the house shutoff valve closed, treat it as a real leak and follow the 10-minute test to locate it.
-{{< /faq >}}
-
-{{< faq "Should I call the utility or a plumber first?" >}}
-Start with the article's main-valve test (Step 3). If the meter stops when you close the house valve, the leak is on your side and you need a plumber. If it keeps running, the leak is between the meter and your house — call the utility too, because some utilities will credit part of a documented leak on your side or repair their side for free.
-{{< /faq >}}
 

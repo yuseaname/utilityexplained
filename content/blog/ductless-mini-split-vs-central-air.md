@@ -25,7 +25,7 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             </p>
             <p>
               For the broader HVAC foundation, start with
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -106,8 +106,8 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             </p>
             <p>
               If you want to understand how electricity is billed, see
-              <a href="/electricity-explained"> Electricity Explained</a> and
-              <a href="/blog/what-is-a-kilowatt-hour"> what a kilowatt-hour means</a>.
+              <a href="/electricity-explained/"> Electricity Explained</a> and
+              <a href="/blog/what-is-a-kilowatt-hour/"> what a kilowatt-hour means</a>.
             </p>
 
 <h2 id="ducts">Ductwork: the deal breaker in many homes</h2>
@@ -119,7 +119,7 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             <p>
               If the system runs all day and some rooms never feel right, duct losses
               are a common culprit. This guide explains the signs:
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks symptoms</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks symptoms</a>.
             </p>
             <p>
               When duct problems are severe, a mini-split can bypass the issue entirely.
@@ -155,7 +155,7 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             <p>
               If your summer bill spikes or the home feels clammy, this guide helps
               you separate usage from rate changes:
-              <a href="/blog/03-why-is-my-electric-bill-so-high">
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
                 why electricity bills spike in summer
               </a>.
             </p>
@@ -210,7 +210,7 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             </ul>
             <p>
               If you are also deciding between equipment tiers, the next read is
-              <a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac">
+              <a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/">
                 single-stage vs two-stage vs variable-speed HVAC
               </a>.
             </p>

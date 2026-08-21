@@ -156,8 +156,8 @@ Understanding the **demand charges electricity bill explained** is more than jus
 ---
 
 *Related Reading:*
-- [Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)](/blog/demand-charge-electric-bill-explained)
-- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
+- [Demand Charges on Electric Bills Explained (Why Your Peak Usage Matters)](/blog/demand-charge-electric-bill-explained/)
+- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/)
 
 ## Frequently Asked Questions
 

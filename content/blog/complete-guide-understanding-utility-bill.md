@@ -428,17 +428,17 @@ This is common in deregulated states and areas with older infrastructure. The en
 
 ## Related Articles:
 
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill)
-- [How to Read Your Gas Bill: Understanding Natural Gas Charges](/blog/12-how-to-read-your-gas-bill)
-- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
-- [What Is CCF on a Water Bill? Understanding Water Measurement](/blog/what-is-ccf-on-a-water-bill)
+- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
+- [How to Read Your Gas Bill: Understanding Natural Gas Charges](/blog/12-how-to-read-your-gas-bill/)
+- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)
+- [What Is CCF on a Water Bill? Understanding Water Measurement](/blog/what-is-ccf-on-a-water-bill/)
 
 *Related Articles:*
-- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
-- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill)
-- [What Is CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill)
-- [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items)
-- [Delivery Charge vs Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill/)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/)
+- [What Is CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/)
+- [Electric Bill Breakdown](/blog/electric-bill-breakdown-understanding-line-items/)
+- [Delivery Charge vs Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)

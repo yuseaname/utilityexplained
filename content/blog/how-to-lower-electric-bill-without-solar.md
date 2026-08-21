@@ -35,7 +35,7 @@ For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/
             </p>
             <p>
               If you are on a TOU plan, shifting usage matters too. See
-              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity/"> time-of-use rates</a>
               if that is your plan.
             </p>
 
@@ -216,7 +216,7 @@ For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/
               and whether you have pets. A $5–$15 filter change is one of the
               cheapest efficiency upgrades you can make. If you use electric heat,
               understanding
-              <a href="/blog/aux-heat-vs-emergency-heat-meaning">
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/">
                 {" "}
                 auxiliary heat
               </a>
@@ -295,12 +295,12 @@ For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/
             </p>
             <p>
               If your bill still looks high, this guide can help:
-              <a href="/blog/03-why-is-my-electric-bill-so-high">
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
                 {" "}
                 summer bill spikes
               </a>
               and
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter">
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/">
                 {" "}
                 winter bill spikes
               </a>
@@ -334,7 +334,7 @@ For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/
             </ul>
             <p>
               If you use electric heat, understanding
-              <a href="/blog/aux-heat-vs-emergency-heat-meaning">
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/">
                 {" "}
                 auxiliary heat
               </a>

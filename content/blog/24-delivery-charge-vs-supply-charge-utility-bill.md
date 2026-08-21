@@ -161,7 +161,7 @@ Fixed rates provide price certainty and are usually recommended when wholesale e
 {{< faq-schema >}}
 
 *Related Articles:*
-- [Supply vs Delivery Charges Explained (Generation vs Distribution)](/blog/supply-vs-delivery-charges-electricity)
-- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items)
-- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
-- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill)
+- [Supply vs Delivery Charges Explained (Generation vs Distribution)](/blog/supply-vs-delivery-charges-electricity/)
+- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill/)
+- [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/)

@@ -40,7 +40,7 @@ Four forces converged in 2026 to push utility costs higher. First, grid moderniz
 
 <h3>1. California: +14.2% electricity, +9.1% gas</h3>
           California led the nation in 2026 utility cost increases. Its electricity rate rose from 32.6¢/kWh in 2025 to 37.3¢/kWh — the highest in the country. The spike had three main drivers: the phaseout of legacy solar net metering (replaced with NEM 3.0), new grid resilience charges, and soaring summer cooling demand. PG&E alone collected $2.1 billion in additional rate revenue in 2026 for transmission upgrades (CPUC filings).
-          Natural gas rates rose 9.1% due to supply constraints and increased reliance on gas-fired "peaker" plants during heatwaves. Average monthly bills jumped from $192 to $221 for a typical household. Summer 2026 produced the steepest surges — [July and August bills averaged 23% higher](/blog/why-did-my-utility-bill-go-up-this-month) year-over-year. Over 2 million California customers missed at least one payment in summer 2026 (CPUC data), the highest figure on record.
+          Natural gas rates rose 9.1% due to supply constraints and increased reliance on gas-fired "peaker" plants during heatwaves. Average monthly bills jumped from $192 to $221 for a typical household. Summer 2026 produced the steepest surges — [July and August bills averaged 23% higher](/blog/why-did-my-utility-bill-go-up-this-month/) year-over-year. Over 2 million California customers missed at least one payment in summer 2026 (CPUC data), the highest figure on record.
           <h3>2. Texas: +12.8% electricity only</h3>
           Texas, no stranger to volatile energy markets, saw its largest rate hike in over a decade. The Electric Reliability Council of Texas (ERCOT) implemented a new capacity market surcharge to incentivize grid reliability after repeated winter crises. Residential rates jumped from 22.4¢/kWh to 25.2¢/kWh — a 12.8% increase. Natural gas rates rose only 4.2%, but electricity bills spiked harder due to summer demand. In July 2026, ERCOT hit a record peak demand of 84,500 MW, pushing spot prices to $500/MWh. Customers on variable-rate plans absorbed much of that volatility directly.
           <h3>3. Florida: +12.1% electricity, +8.7% gas</h3>
@@ -76,7 +76,7 @@ The summer of 2026 delivered record-breaking heat across much of the country. Th
 You can't stop a PUC-approved rate hike, but you can shrink its impact. Three moves that actually worked in 2026:
           <ul>
           <li><strong>Compare plans and switch if you can</strong>: In regulated markets, shopping around isn't an option. In deregulated states (TX, PA, OH, NJ, NY), switching to a 12-month fixed-rate plan averaged 11% cheaper than variable rates in 2026.</li>
-          <li><strong>Run a home energy audit</strong>: A [DIY energy-leak check](/blog/47-check-energy-leaks-home-diy) can expose hidden waste. Sealing leaks, upgrading to ENERGY STAR® cooling units, and adding a smart thermostat reduced average bills by 12–18% in 2026 (U.S. DOE, 2026).</li>
+          <li><strong>Run a home energy audit</strong>: A [DIY energy-leak check](/blog/47-check-energy-leaks-home-diy/) can expose hidden waste. Sealing leaks, upgrading to ENERGY STAR® cooling units, and adding a smart thermostat reduced average bills by 12–18% in 2026 (U.S. DOE, 2026).</li>
           <li><strong>Apply for bill assistance</strong>: The Low Income Home Energy Assistance Program (LIHEAP) helped over 5 million households in 2026 — and many eligible households never apply. Income thresholds vary by state, but up to 60% of area median income may qualify. See <a href="https://www.acf.hhs.gov/ocs/programs/liheap">LIHEAP state-by-state eligibility</a> from HHS.</li>
           </ul>
           <p><strong>Next step:</strong> Compare your state's rate to the national average in the [2026 utility cost index by state](/blog/2026-utility-cost-index-by-state/) to see where you sit — and whether a fixed-rate switch or efficiency upgrade will pay off faster in your ZIP code.</p>
@@ -93,8 +93,8 @@ You can't stop a PUC-approved rate hike, but you can shrink its impact. Three mo
           Use your utility bill history to project costs. Most providers allow you to set up monthly budget billing — spreading annual costs evenly. Also, track usage with smart meters or your utility's app. Small changes — like raising your thermostat 1–2°F in summer or washing clothes in cold water — can cut summer bills by 5–10% without sacrificing comfort.
 
 *Related Reading:*
-- [Why your electric bill keeps rising: Complete Guide (2026)](/blog/why-your-electric-bill-keeps-rising-2026)
-- [Average utility bills by state: Full Comparison (2026)](/blog/average-utility-bills-by-state-2026)
+- [Why your electric bill keeps rising: Complete Guide (2026)](/blog/why-your-electric-bill-keeps-rising-2026/)
+- [Average utility bills by state: Full Comparison (2026)](/blog/average-utility-bills-by-state-2026/)
 - [2026 utility cost index by state](/blog/2026-utility-cost-index-by-state/)
 
 {{< faq "Will utility costs go down in 2027?" >}}

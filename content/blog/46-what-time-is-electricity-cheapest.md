@@ -138,8 +138,8 @@ Start small. This week, try running your laundry or dishwasher during the late-n
 ---
 
 *Related Reading:*
-- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity)
-- [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage)
+- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity/)
+- [Understanding kWh Usage: What Uses the Most Electricity in Your Home](/blog/11-understanding-kwh-usage/)
 
 ## Frequently Asked Questions
 

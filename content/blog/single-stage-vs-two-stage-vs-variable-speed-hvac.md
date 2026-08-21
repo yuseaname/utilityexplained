@@ -23,7 +23,7 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             <p>
               If ductwork is leaking or the system is oversized, even the best
               equipment can struggle. See
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks explained</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks explained</a>.
             </p>
 
 <ul>
@@ -68,9 +68,9 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             </p>
             <p>
               If your bills spike seasonally, these explain the common drivers:
-              <a href="/blog/03-why-is-my-electric-bill-so-high"> summer spikes</a>
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> summer spikes</a>
               and
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter"> winter spikes</a>.
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> winter spikes</a>.
             </p>
 
 <h2 id="comfort">Comfort and temperature stability</h2>
@@ -114,7 +114,7 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             </p>
             <p>
               If you want a plain-English breakdown, see
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> AFUE vs SEER vs HSPF vs COP</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> AFUE vs SEER vs HSPF vs COP</a>.
             </p>
 
 <h2 id="costs">Upfront cost and value</h2>
@@ -126,7 +126,7 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             <p>
               If you are also choosing between ducted and ductless systems, compare
               those first:
-              <a href="/blog/ductless-mini-split-vs-central-air">
+              <a href="/blog/ductless-mini-split-vs-central-air/">
                 ductless mini-split vs central air
               </a>.
             </p>
@@ -139,7 +139,7 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             </p>
             <p>
               If you see Aux Heat or Emergency Heat on your thermostat, read
-              <a href="/blog/aux-heat-vs-emergency-heat-meaning"> Aux Heat vs Emergency Heat</a>
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/"> Aux Heat vs Emergency Heat</a>
               for a plain-English explanation.
             </p>
 

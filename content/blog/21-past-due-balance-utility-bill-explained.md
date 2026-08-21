@@ -294,8 +294,8 @@ Reconnection fees typically range from $30 to $150, plus you must pay the full p
 ---
 
 *Related Reading:*
-- [Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff](/blog/28-utility-reconnection-fee-explained)
-- [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained)
+- [Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff](/blog/28-utility-reconnection-fee-explained/)
+- [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained/)
 
 {{< /faq >}}
 

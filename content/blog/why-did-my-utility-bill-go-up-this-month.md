@@ -21,7 +21,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             </p>
             <p>
               If you want the broader map first, start with
-              <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
+              <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
               It shows how all the pieces fit together.
             </p>
 
@@ -45,7 +45,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             <p>
               Rates can change mid-year, and tiered or time-based pricing can make
               small shifts feel big. If you want a deeper model, see
-              <a href="/blog/how-utility-rates-fees-usage-work-together">
+              <a href="/blog/how-utility-rates-fees-usage-work-together/">
                 how rates, fees, and usage work together
               </a>.
             </p>
@@ -70,7 +70,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             <p>
               Look for the bill period dates. Then compare usage per day, not just
               the total. For a deeper explanation, see
-              <a href="/blog/23-utility-billing-cycle-explained"> Utility Billing Cycle Explained</a>.
+              <a href="/blog/23-utility-billing-cycle-explained/"> Utility Billing Cycle Explained</a>.
             </p>
 
 <h2 id="estimated-reads">Estimated reads and catch-up bills</h2>
@@ -88,7 +88,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             <p>
               Check the usage section for an E or the word "estimated." If you see
               it, the story usually continues in
-              <a href="/blog/14-estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained/"> Estimated Utility Bill Explained</a>.
             </p>
 
 <h2 id="seasonality">Seasonality without obvious behavior changes</h2>
@@ -99,7 +99,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             </p>
             <p>
               If electricity seems to be the driver, this companion guide helps:
-              <a href="/blog/why-electric-bill-changes-month-to-month">
+              <a href="/blog/why-electric-bill-changes-month-to-month/">
                 Why your electric bill changes month to month
               </a>.
             </p>
@@ -119,7 +119,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             </figure>
             <p>
               If you want a deeper breakdown of line items, this guide helps:
-              <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill">
+              <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">
                 Delivery vs supply charges on utility bills
               </a>.
             </p>
@@ -141,7 +141,7 @@ image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-uti
             </ul>
             <p>
               Continue learning in the main hub:
-              <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
+              <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
 {{< faq "Why did my utility bill go up when my usage looks the same?" >}}
@@ -194,5 +194,5 @@ Check the billing period length, look for estimated reads, and scan line items f
 ---
 
 *Related Reading:*
-- [Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change](/blog/why-my-utility-bill-is-higher-with-same-usage)
-- [Tiered Water Rates Explained: Why Using More Costs Dramatically More](/blog/tiered-water-rates-explained)
+- [Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change](/blog/why-my-utility-bill-is-higher-with-same-usage/)
+- [Tiered Water Rates Explained: Why Using More Costs Dramatically More](/blog/tiered-water-rates-explained/)

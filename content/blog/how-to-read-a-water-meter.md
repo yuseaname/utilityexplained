@@ -243,5 +243,5 @@ Many meters are outside, but some homes have an indoor or remote display. Check 
 ---
 
 *Related Reading:*
-- [Water Meter Leak Indicator Explained: How to Tell If You Have a Hidden Leak](/blog/water-meter-leak-indicator-explained)
-- [What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)](/blog/what-is-ccf-on-a-water-bill)
+- [Water Meter Leak Indicator Explained: How to Tell If You Have a Hidden Leak](/blog/water-meter-leak-indicator-explained/)
+- [What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)](/blog/what-is-ccf-on-a-water-bill/)

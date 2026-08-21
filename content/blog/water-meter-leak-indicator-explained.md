@@ -92,7 +92,7 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <li>Water softeners (regeneration cycle)</li>
 <li>Drip irrigation systems</li>
 </ul>
-<p>Toilets are the biggest repeat offender because you can have a leak you never hear. This quick test takes minutes: <a href="/blog/is-your-toilet-running-leak-test">is your toilet running? (leak test)</a>.</p>
+<p>Toilets are the biggest repeat offender because you can have a leak you never hear. This quick test takes minutes: <a href="/blog/is-your-toilet-running-leak-test/">is your toilet running? (leak test)</a>.</p>
 
 ## How to isolate "house leak" vs "line leak" {#isolate}
 <p>If the indicator is moving, your next question is: is the water being used inside the home, or is it leaking somewhere between the meter and the house?</p>
@@ -106,13 +106,13 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 </ul>
 
 <h3>Option B: Separate indoor vs outdoor use</h3>
-<p>In summer, irrigation is a top cause of "mystery usage." If your bill spikes seasonally, this guide helps you connect the dots: <a href="/blog/why-is-my-water-bill-higher-in-summer">why water bills are higher in summer</a>.</p>
+<p>In summer, irrigation is a top cause of "mystery usage." If your bill spikes seasonally, this guide helps you connect the dots: <a href="/blog/why-is-my-water-bill-higher-in-summer/">why water bills are higher in summer</a>.</p>
 
 ## Common misconceptions {#misconceptions}
 <ul>
 <li><strong>"If the indicator moves once, I have a leak."</strong> Not always. Some appliances cycle. Look for steady movement over time, or use the 10–15 minute numbers check.</li>
 <li><strong>"Small leaks do not matter."</strong> A tiny continuous flow adds up over a 30-day billing period — a single flapper that drips can waste hundreds of gallons a month.</li>
-<li><strong>"My bill is high because of the service charge."</strong> The fixed fee matters, but big jumps are usually usage. If you are unsure, this is helpful: <a href="/blog/water-service-charge-explained">water service charge explained</a>.</li>
+<li><strong>"My bill is high because of the service charge."</strong> The fixed fee matters, but big jumps are usually usage. If you are unsure, this is helpful: <a href="/blog/water-service-charge-explained/">water service charge explained</a>.</li>
 </ul>
 
 ## What to do if the indicator is moving {#what-next}

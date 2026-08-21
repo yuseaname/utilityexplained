@@ -12,11 +12,11 @@ keywords: ["how to read [gas bill](/blog/43-understand-natural-gas-bill-charges/
 image: "/images/articles/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill_hero_v2.webp"
 ---
 
-Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "[customer charge](/blog/17-what-is-customer-charge-on-utility-bill)" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.
+Your gas bill is a stack of charges with confusing names — "distribution charge," "gas commodity cost," "[customer charge](/blog/17-what-is-customer-charge-on-utility-bill/)" — and most people pay it without knowing what any of them mean. This guide breaks down **every line on a typical gas bill in plain English**, starting with what a therm is, then walking through each charge one by one. If you just want the short version, it's right below.
 
 ## Quick Answer: How to Read Your Gas Bill
 
-> **Your gas bill is measured in therms.** A **therm** is a unit of heat energy (≈100,000 BTUs) — roughly **100 cubic feet (CCF)** of natural gas. **MCF = 1,000 cubic feet (≈10 therms).** See [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill).
+> **Your gas bill is measured in therms.** A **therm** is a unit of heat energy (≈100,000 BTUs) — roughly **100 cubic feet (CCF)** of natural gas. **MCF = 1,000 cubic feet (≈10 therms).** See [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 >
 > **Most gas bills have three main charges:**
 > 1. **Customer charge** — a fixed monthly fee of **$10–$25**, charged even if you use no gas.
@@ -29,7 +29,7 @@ Your gas bill is a stack of charges with confusing names — "distribution charg
 
 Before understanding your bill, you need to understand the unit being measured.
 
-A **therm** is a unit of heat energy equal to 100,000 British Thermal Units (BTUs). Your gas [meter](/blog/how-to-read-electric-meter) measures actual gas volume in cubic feet, then your utility converts that to therms based on the heat content of the gas.
+A **therm** is a unit of heat energy equal to 100,000 British Thermal Units (BTUs). Your gas [meter](/blog/how-to-read-electric-meter/) measures actual gas volume in cubic feet, then your utility converts that to therms based on the heat content of the gas.
 
 The conversion is approximately: **1 therm ≈ 100 cubic feet (CCF) of natural gas**
 
@@ -186,7 +186,7 @@ Many water heaters are shipped at 140°F. Lowering to 120°F reduces gas usage b
 
 If you're income-eligible, programs like LIHEAP (Low Income Home Energy Assistance Program) can significantly offset winter heating costs. Contact your utility or visit benefits.gov to check eligibility. And if you've already fallen behind, act quickly — letting a past-due balance go unpaid can lead to disconnection, and getting service restored means paying what you owe plus a separate [utility reconnection fee](/blog/28-utility-reconnection-fee-explained/).
 
-For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills) and our guide on what to do when your [gas bill is too high](/blog/07-gas-bill-too-high/).
+For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/) and our guide on what to do when your [gas bill is too high](/blog/07-gas-bill-too-high/).
 
 ---
 
@@ -196,13 +196,13 @@ For more on reducing bills overall, see [How to Lower Your Utility Bills](/blog/
 
 *Related Articles:*
 - [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/)
-- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
-- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained)
-- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge)
-- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter)
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/)
+- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/)
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/)
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/)
 
 *Related Reading:*
-- [Understanding Natural Gas Bill Charges: What Are You Paying For?](/blog/43-understand-natural-gas-bill-charges)
+- [Understanding Natural Gas Bill Charges: What Are You Paying For?](/blog/43-understand-natural-gas-bill-charges/)
 
 ## Frequently Asked Questions
 
@@ -215,7 +215,7 @@ Gas bills typically rise 50-200% in winter due to heating. Your furnace uses sig
 {{< /faq >}}
 
 {{< faq "What's the difference between delivery and supply charges on my gas bill?" >}}
-Supply charges cover the cost of the natural gas itself. Delivery charges cover the infrastructure (pipes, meters) that transport gas to your home. See our [delivery vs supply charge guide](/blog/gas-delivery-charge-vs-supply-charge) for details.
+Supply charges cover the cost of the natural gas itself. Delivery charges cover the infrastructure (pipes, meters) that transport gas to your home. See our [delivery vs supply charge guide](/blog/gas-delivery-charge-vs-supply-charge/) for details.
 {{< /faq >}}
 
 {{< faq "Can I switch gas suppliers?" >}}

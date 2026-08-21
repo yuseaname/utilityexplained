@@ -31,7 +31,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If you want the bigger HVAC picture first, start at
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -99,7 +99,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               If efficiency ratings like HSPF or COP feel like alphabet soup,
               you'll like
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> our plain-English ratings guide</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> our plain-English ratings guide</a>.
             </p>
 
 <h2 id="aux-heat">What Aux Heat usually means</h2>
@@ -134,7 +134,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If your winter electric bill spiked, the broader explanation is in
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter"> Why Is My Electricity Bill So High in Winter?</a>
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> Why Is My Electricity Bill So High in Winter?</a>
               It explains how heating load dominates many winter bills.
             </p>
 
@@ -163,7 +163,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               If you're comparing gas heat and electric heat (including heat pumps),
               the bigger context is
-              <a href="/blog/gas-vs-electric-heating-cost-comparison"> Gas vs Electric Heating: Cost Comparison</a>.
+              <a href="/blog/gas-vs-electric-heating-cost-comparison/"> Gas vs Electric Heating: Cost Comparison</a>.
             </p>
 
 <h2 id="what-to-look-for">What to look for (without becoming an HVAC tech)</h2>
@@ -185,7 +185,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               One underrated cause is <strong>duct leakage</strong>. Lost conditioned
               air means longer runtime and more backup heat. See
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> Duct leaks explained</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> Duct leaks explained</a>.
             </p>
             <h3>3) Is the thermostat "helping" too aggressively?</h3>
             <p>
@@ -216,7 +216,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If summer bills are your bigger pain point, the sister guide is
-              <a href="/blog/03-why-is-my-electric-bill-so-high"> Why Is My Electricity Bill So High in Summer?</a>.
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electricity Bill So High in Summer?</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -239,7 +239,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               If you want the "ratings" side of the story--what SEER, AFUE, HSPF, and
               COP mean--go to
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> the efficiency ratings guide</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> the efficiency ratings guide</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>

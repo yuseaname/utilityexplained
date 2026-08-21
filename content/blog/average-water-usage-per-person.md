@@ -1,7 +1,7 @@
 ---
 title: "Average Water Usage Per Person: A Practical Range"
 slug: "average-water-usage-per-person"
-description: "See typical water usage ranges and what affects your household total."
+description: "The average American uses 80–100 gallons of water per day. See what drives your number, how household size changes it, and when usage signals a leak."
 date: 2025-12-27
 author: "Margaret Harrington"
 category: "Water"
@@ -150,7 +150,7 @@ See [how to budget for utilities](/blog/how-to-budget-for-utilities-in-your-firs
             </p>
             <p>
               If you want a more precise number, read your meter directly. Our guide
-              on <a href="/blog/how-to-read-a-water-meter">reading a water meter</a>
+              on <a href="/blog/how-to-read-a-water-meter/">reading a water meter</a>
               walks through the steps.
             </p>
 

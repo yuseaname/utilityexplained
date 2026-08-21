@@ -39,7 +39,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </figure>
             <p>
               If you want the full pillar map, start with
-              <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
+              <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
 <h2 id="rates">Rates: the price per unit (and why it changes)</h2>
@@ -57,10 +57,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             <p>
               Tiered rates charge more after a threshold. Time-of-use rates charge
               more at certain hours. If you want examples, see
-              <a href="/blog/tiered-electricity-rates-explained">
+              <a href="/blog/tiered-electricity-rates-explained/">
                 Tiered Electricity Rates Explained
               </a> and
-              <a href="/blog/08-time-of-use-electricity"> Time-of-Use Rates</a>.
+              <a href="/blog/08-time-of-use-electricity/"> Time-of-Use Rates</a>.
             </p>
             <h3>Adjustments and riders</h3>
             <p>
@@ -83,13 +83,13 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             <p>
               You will often see a base charge for keeping service active. Water
               bills are a clear example. See
-              <a href="/blog/water-service-charge-explained"> Water Service Charge Explained</a>.
+              <a href="/blog/water-service-charge-explained/"> Water Service Charge Explained</a>.
             </p>
             <h3>Taxes and franchise fees</h3>
             <p>
               Local taxes and franchise fees are common and can change yearly. This
               guide walks through them:
-              <a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained">
+              <a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">
                 Utility Bill Taxes, Fees, and Franchise Charges Explained
               </a>.
             </p>
@@ -107,7 +107,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </figure>
             <p>
               If your total jumped and you want a quick diagnosis, start with
-              <a href="/blog/why-did-my-utility-bill-go-up-this-month">
+              <a href="/blog/why-did-my-utility-bill-go-up-this-month/">
                 why your utility bill went up this month
               </a>.
             </p>
@@ -124,7 +124,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               If electricity is the main driver, this focused guide helps:
-              <a href="/blog/why-electric-bill-changes-month-to-month">
+              <a href="/blog/why-electric-bill-changes-month-to-month/">
                 Why your electric bill changes month to month
               </a>.
             </p>
@@ -146,7 +146,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </ul>
             <p>
               Continue learning in the hub:
-              <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
+              <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
 {{< faq "How do rates and fees work together on a utility bill?" >}}

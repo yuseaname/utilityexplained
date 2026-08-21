@@ -20,7 +20,7 @@ image: "/images/articles/budget-billing-level-pay-explained/image.webp"
 
 For more detail, see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/).
 
-Your July electric bill hits $320. By October, it's down to $85. That $235 swing makes budgeting nearly impossible. Budget billing—also called level pay, average billing, or equal payment plans—eliminates this roller coaster by spreading your annual utility costs into 12 equal monthly payments. Most major US utilities offer some form of this program. For example, [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity) can affect how budget billing calculations work, and enrollment is usually free. But it's not without trade-offs. Here's everything you need to know before signing up.
+Your July electric bill hits $320. By October, it's down to $85. That $235 swing makes budgeting nearly impossible. Budget billing—also called level pay, average billing, or equal payment plans—eliminates this roller coaster by spreading your annual utility costs into 12 equal monthly payments. Most major US utilities offer some form of this program. For example, [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/) can affect how budget billing calculations work, and enrollment is usually free. But it's not without trade-offs. Here's everything you need to know before signing up.
 
 ## How Budget Billing Works
 
@@ -135,11 +135,11 @@ Budget billing works best when you actively manage it rather than set it and for
 ## Frequently Asked Questions
 
 {{< faq "Does budget billing save me money?" >}}
-No. Budget billing only changes when you pay, not how much you pay in total. Over a full year, you'll pay the same amount you would have paid with standard billing. The benefit is predictability, not savings. To actually [reduce your utility costs](/blog/05-how-to-lower-utility-bills), you'll need energy efficiency improvements.
+No. Budget billing only changes when you pay, not how much you pay in total. Over a full year, you'll pay the same amount you would have paid with standard billing. The benefit is predictability, not savings. To actually [reduce your utility costs](/blog/05-how-to-lower-utility-bills/), you'll need energy efficiency improvements.
 {{< /faq >}}
 
 {{< faq "Can I be on budget billing for both electricity and gas?" >}}
-Yes. Most utilities that offer budget billing for electricity also offer it for gas, and you can enroll in both simultaneously. Some utilities even combine them into a single monthly budget payment that covers all services. Understanding [supply vs delivery charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill) helps you see the full picture that covers all your utility services.
+Yes. Most utilities that offer budget billing for electricity also offer it for gas, and you can enroll in both simultaneously. Some utilities even combine them into a single monthly budget payment that covers all services. Understanding [supply vs delivery charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) helps you see the full picture that covers all your utility services.
 {{< /faq >}}
 
 {{< faq "What happens if I move while on budget billing?" >}}
@@ -163,8 +163,8 @@ Contact your utility and request a review. They can adjust your monthly payment 
 ---
 
 *Related Articles:*
-- [Fixed vs Variable Utility Rates: Which One Saves You More Money?](/blog/10-fixed-vs-variable-utility-rate)
-- [How to Lower Your Utility Bills: 25 Proven Ways That Actually Work](/blog/05-how-to-lower-utility-bills)
-- [Estimated Utility Bill Explained: How Utilities Calculate Your Monthly Payment](/blog/14-estimated-utility-bill-explained)
-- [Utility Billing Cycle Explained: Understanding Your Monthly Statement](/blog/23-utility-billing-cycle-explained)
-- [How to Read Your Utility Bill: A Complete Guide](/blog/how-to-read-your-utility-bill)
+- [Fixed vs Variable Utility Rates: Which One Saves You More Money?](/blog/10-fixed-vs-variable-utility-rate/)
+- [How to Lower Your Utility Bills: 25 Proven Ways That Actually Work](/blog/05-how-to-lower-utility-bills/)
+- [Estimated Utility Bill Explained: How Utilities Calculate Your Monthly Payment](/blog/14-estimated-utility-bill-explained/)
+- [Utility Billing Cycle Explained: Understanding Your Monthly Statement](/blog/23-utility-billing-cycle-explained/)
+- [How to Read Your Utility Bill: A Complete Guide](/blog/how-to-read-your-utility-bill/)

@@ -24,7 +24,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
             </p>
             <p>
               If you want the big picture first, start with
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -49,7 +49,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
             <p>
               If you have a heat pump, some cool air during defrost is normal. This
               related guide explains what that looks like:
-              <a href="/blog/heat-pump-running-all-day-in-winter"> heat pump running all day in winter</a>.
+              <a href="/blog/heat-pump-running-all-day-in-winter/"> heat pump running all day in winter</a>.
             </p>
 
 <h2 id="thermostat">Thermostat and fan settings</h2>
@@ -76,7 +76,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
               If the system cycles off quickly, it can feel like a cold blast. Short
               cycling is a real issue in cooling season too. This guide explains why
               it happens:
-              <a href="/blog/13-ac-short-cycling-causes-fixes"> AC short cycling explained</a>.
+              <a href="/blog/13-ac-short-cycling-causes-fixes/"> AC short cycling explained</a>.
             </p>
 
 <h2 id="airflow">Airflow and filter issues</h2>
@@ -100,7 +100,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
             <p>
               If your system runs a long time and some rooms never feel warm, this
               guide can help you spot duct issues:
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day"> duct leaks symptoms</a>.
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks symptoms</a>.
             </p>
 
 <h2 id="ignition">Ignition or fuel problems</h2>
@@ -124,7 +124,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
             <p>
               If the air stays cold after these checks, it may be time for professional
               service. For a system overview and what terms mean, see
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> HVAC efficiency ratings explained</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> HVAC efficiency ratings explained</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -135,7 +135,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-bl
             </ul>
             <p>
               If you have a heat pump instead of a furnace, this is the next best read:
-              <a href="/blog/heat-pump-running-all-day-in-winter"> heat pump running all day in winter</a>.
+              <a href="/blog/heat-pump-running-all-day-in-winter/"> heat pump running all day in winter</a>.
             </p>
 
 <h2 id="faqs">FAQs</h2>

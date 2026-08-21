@@ -20,7 +20,7 @@ image: "/images/articles/11-understanding-kwh-usage/custom_hero.webp"
 
 For more detail, see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/).
 
-Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest).
+Your electric bill charges you by the kilowatt-hour (kWh), but most people have no idea what that number actually represents — or which appliances are driving it up. This guide explains exactly how kWh usage works, which devices consume the most energy, and how to calculate what each appliance costs you every month. See [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/).
 
 ## What Is a kWh?
 
@@ -50,7 +50,7 @@ To calculate what any appliance costs you:
 **Example — 5,000-watt central AC, 6 hours/day, $0.15/kWh:**
 (5,000 ÷ 1,000) × 6 × 30 × $0.15 = **$135/month**
 
-Your electricity rate appears on your bill. Look for "energy charge" or "[supply charge](/blog/supply-vs-delivery-charges-electricity)" measured in cents per kWh. Most US rates range from $0.10 to $0.30 per kWh depending on your state and utility.
+Your electricity rate appears on your bill. Look for "energy charge" or "[supply charge](/blog/supply-vs-delivery-charges-electricity/)" measured in cents per kWh. Most US rates range from $0.10 to $0.30 per kWh depending on your state and utility.
 
 ---
 
@@ -163,22 +163,22 @@ Now that you know what's using electricity, here's where to focus:
 
 3. **Replace old refrigerators:** If yours is more than 12 years old, check its energy label. Modern Energy Star refrigerators use 50% less energy.
 
-4. **Time your laundry:** Run the dryer and dishwasher during off-peak hours (typically 9 PM – 7 AM) if you're on a time-of-use rate. See our guide to [time-of-use electricity rates](/blog/08-time-of-use-electricity).
+4. **Time your laundry:** Run the dryer and dishwasher during off-peak hours (typically 9 PM – 7 AM) if you're on a time-of-use rate. See our guide to [time-of-use electricity rates](/blog/08-time-of-use-electricity/).
 
 5. **Audit standby draw:** Unplug TVs, game consoles, and chargers when not in use, or use a smart power strip.
 
-For a full list of bill-reduction strategies, see: [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills).
+For a full list of bill-reduction strategies, see: [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/).
 
 ---
 
 ---
 
 *Related Articles:*
-- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
-- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
-- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
-- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
-- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
+- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour/)
+- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work/)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items/)
+- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity/)
+- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained/)
 
 ## Frequently Asked Questions
 
@@ -199,7 +199,7 @@ Common reasons for sudden kWh increases: weather change requiring more HVAC use,
 {{< /faq >}}
 
 {{< faq "Is it cheaper to run appliances at night?" >}}
-It depends on your rate structure. If you're on a standard flat rate, running appliances at night costs the same as during the day. If you're on a time-of-use (TOU) plan, off-peak hours (typically 9 PM – 7 AM) can be 30–50% cheaper. Contact your utility or check your bill to confirm your rate type. Learn more in our [time-of-use electricity guide](/blog/08-time-of-use-electricity).
+It depends on your rate structure. If you're on a standard flat rate, running appliances at night costs the same as during the day. If you're on a time-of-use (TOU) plan, off-peak hours (typically 9 PM – 7 AM) can be 30–50% cheaper. Contact your utility or check your bill to confirm your rate type. Learn more in our [time-of-use electricity guide](/blog/08-time-of-use-electricity/).
 {{< /faq >}}
 
 {{< faq-schema >}}

@@ -21,6 +21,8 @@ You can cut your electric bill **20–40%** with the highest-ROI moves: raise su
 
 {{< jump-row "Free today|#free-changes-start-today-save-1025" "Under $50|#under-50-this-week-save-1530" "HVAC|#hvac-optimization-save-2035" "Rate plans|#rate-plan-optimization-save-1025" "Checklist|#quick-reference-checklist" >}}
 
+Not sure your bill is actually too high to begin with? It may be a billing error or a [rate change disguised as higher usage](/blog/03-why-is-my-electric-bill-so-high/) — rule that out in five minutes before changing anything. If it's genuinely usage, your fastest wins are [HVAC settings](/blog/13-ac-short-cycling-causes-fixes/) and [killing standby power](/blog/50-best-smart-plugs-standby-power/).
+
 Your electric bill is too high. You've tried turning off lights, but it barely made a dent. You want real savings—$50, $100, even $150 per month—and you want to know exactly what to do and what it'll cost.
 
 This guide gives you 20+ proven ways to lower your electric bill, organized by cost: free changes you can make today, under-$50 upgrades for this week, under-$500 investments for this month, and long-term upgrades that pay for themselves.

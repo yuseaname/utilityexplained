@@ -17,7 +17,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <li><strong>Example:</strong> First **10,000 gallons** might cost **$4.00 per 1,000 gallons**, but usage above **20,000 gallons** can cost **$10.00 per 1,000 gallons**</li>
 <li><strong>Impact:</strong> Using **25,000 gallons** could cost **$150**, while using **15,000 gallons** only costs **$70**—more than double the cost for **66% less water**</li>
 </ul>
-<p>Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026) to avoid crossing into expensive pricing blocks.</p>
+<p>Check your [water bill tier thresholds](/blog/02-average-utility-costs-2026/) to avoid crossing into expensive pricing blocks.</p>
 
 <h2 id="what-are-tiered-water-rates">What Are Tiered Water Rates?</h2>
 <p>To understand your water bill, you must first understand the pricing model your utility company uses. While some older systems rely on a simple flat fee or a uniform rate per gallon, most modern utilities have shifted toward <strong>tiered water rates explained</strong> as a conservation tool. According to the City of Vancouver, WA, tiered water billing is a rate structure that charges different amounts for water used. Water usage is divided into tiers, with each tier charging a higher rate than the previous one.</p>
@@ -79,7 +79,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>Installing low-flow showerheads and faucet aerators can reduce indoor usage by **20-30%**. This keeps you firmly in the essential tier. Replacing an old toilet with a WaterSense certified model can save up to **1,100 gallons** per person per year.</p>
 <h3>4. Monitor Your Usage</h3>
 <p>Don't wait for the bill to arrive to know how much you used. Many utilities offer online portals where you can track daily or weekly usage. If you see a spike, investigate immediately. Understanding your baseline usage helps you know when you are approaching a tier break.</p>
-<p>For more comprehensive strategies on saving money across all your services, check out our guide on <a href="/blog/05-how-to-lower-utility-bills">how to lower utility bills</a>.</p>
+<p>For more comprehensive strategies on saving money across all your services, check out our guide on <a href="/blog/05-how-to-lower-utility-bills/">how to lower utility bills</a>.</p>
 
 <h2 id="the-2026-shift-what-s-changing-for-homeowners">The 2026 Shift: What’s Changing for Homeowners</h2>
 <p>The landscape of water billing is changing rapidly. As of early 2026, many utilities are moving away from legacy pricing models to stricter tiered systems. This shift is driven by aging infrastructure, climate change, and new state regulations.</p>
@@ -92,7 +92,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>Similarly, while your base rate is fixed, the usage rate depends on how much water you use each month. To encourage conservation and reflect the actual cost of delivering water, LTWD uses a tiered pricing structure. These changes mean that homeowners planning for their budget in 2026 must account for variable rates.</p>
 <h3>Impact on Budgeting</h3>
 <p>Because rates are becoming more variable, budgeting for utilities becomes more complex. You cannot simply set aside a fixed amount for water each month. You must anticipate seasonal spikes. If you expect to water your garden heavily in June, July, and August, you should budget for the higher tier costs during those months.</p>
-<p>For a broader look at how these shifts affect your overall household budget, review our analysis of <a href="/blog/02-average-utility-costs-2026">average utility costs 2026</a>. Understanding the national trend helps you contextualize your local rate changes.</p>
+<p>For a broader look at how these shifts affect your overall household budget, review our analysis of <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a>. Understanding the national trend helps you contextualize your local rate changes.</p>
 
 <h2 id="hidden-fees-and-additional-charges">Hidden Fees and Additional Charges</h2>
 <p>When analyzing your water bill, the water usage charge is often not the only line item. Tiered rates are frequently accompanied by other fees that can inflate the total cost.</p>
@@ -102,7 +102,7 @@ image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explain
 <p>In many municipalities, your sewer bill is calculated based on your water usage, operating under the assumption that all water entering your home eventually goes down the drain. Therefore, if you use more water, your sewer bill also goes up, often at a similar tiered rate. Some areas also charge a stormwater fee for runoff management, which might be flat or tiered.</p>
 <h3>Penalty Fees</h3>
 <p>Some utilities impose penalties for excessive usage that exceeds a certain threshold, separate from the tiered rate. These can be labeled as "Drought Surcharge" or "Excess Usage Fee." These are often hidden in the fine print.</p>
-<p>For a detailed breakdown of what else might be on your statement, read our article on <a href="/blog/04-hidden-fees-utility-bill">hidden fees on utility bill</a>. Being aware of these fees ensures you aren't blindsided by a bill that seems higher than expected based on water usage alone.</p>
+<p>For a detailed breakdown of what else might be on your statement, read our article on <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a>. Being aware of these fees ensures you aren't blindsided by a bill that seems higher than expected based on water usage alone.</p>
 
 <h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
 

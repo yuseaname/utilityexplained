@@ -26,16 +26,16 @@ Your air conditioner kicks on, runs for two minutes, shuts off, then starts agai
 
 Short cycling happens when your air conditioner's compressor turns on and off in rapid, abnormally short intervals. A properly functioning central AC unit should run in cooling cycles of roughly 15 to 20 minutes. During that time, the system removes both heat and humidity from your indoor air. When cycles last only 3 to 10 minutes, the system never completes a full cooling cycle, leaving warm spots, high humidity, and excess wear on components.
 
-The average US household spends about $1,000 to $1,500 per year on cooling costs, according to the Department of Energy. A short-cycling unit can increase that by 15% to 40% depending on severity. Over a single summer, that's potentially an extra $150 to $600 wasted on electricity. See [Time-of-Use Electricity Explained](/blog/08-time-of-use-electricity).
+The average US household spends about $1,000 to $1,500 per year on cooling costs, according to the Department of Energy. A short-cycling unit can increase that by 15% to 40% depending on severity. Over a single summer, that's potentially an extra $150 to $600 wasted on electricity. See [Time-of-Use Electricity Explained](/blog/08-time-of-use-electricity/).
 
 ## How to Tell If Your AC Is Short Cycling
 
 The signs are straightforward once you know what to watch for:
 
 - **Rapid on-off pattern:** The outdoor compressor kicks on and shuts down within 5 to 10 minutes, repeatedly.
-- **Inconsistent temperatures:** Some rooms feel cool while others remain warm and muggy. See [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity).
+- **Inconsistent temperatures:** Some rooms feel cool while others remain warm and muggy. See [Supply vs Delivery Charges](/blog/supply-vs-delivery-charges-electricity/).
 - **High indoor humidity:** The AC removes moisture best during longer run cycles. Short cycling leaves humidity above 50-55%.
-- **Higher-than-normal electric bills:** Your [kWh](/blog/what-is-a-kilowatt-hour) usage spikes during cooling months despite no change in habits.
+- **Higher-than-normal electric bills:** Your [kWh](/blog/what-is-a-kilowatt-hour/) usage spikes during cooling months despite no change in habits.
 - **Frequent thermostat display changes:** You notice the thermostat switching between "cooling" and "idle" far more often than expected.
 
 Set a timer next time your AC starts. If the compressor shuts off before reaching 10 minutes of runtime, short cycling is likely occurring.
@@ -52,7 +52,7 @@ Most 1-inch disposable filters need replacement every 30 to 60 days. Thicker 4-5
 
 Low refrigerant (freon or Puron, depending on system age) changes the pressure dynamics inside your AC. The compressor works harder, runs hotter, and may trigger a high-pressure safety switch that forces a shutdown. Once pressures equalize, the compressor restarts, creating the short-cycle loop.
 
-Refrigerant doesn't get "used up"—it circulates in a closed loop. Low levels always mean a leak somewhere in the system. Typical leak detection and repair costs range from $200 to $1,500 depending on leak location and whether the coil needs replacement. See [Tiered Electricity Rates](/blog/tiered-electricity-rates-explained).
+Refrigerant doesn't get "used up"—it circulates in a closed loop. Low levels always mean a leak somewhere in the system. Typical leak detection and repair costs range from $200 to $1,500 depending on leak location and whether the coil needs replacement. See [Tiered Electricity Rates](/blog/tiered-electricity-rates-explained/).
 
 ### 3. Oversized Air Conditioner
 
@@ -137,15 +137,15 @@ The math is clear: a $150 repair today prevents a $3,000 compressor replacement 
 ---
 
 *Related Articles:*
-- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour)
-- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work)
-- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items)
-- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity)
-- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained)
+- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour/)
+- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work/)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items/)
+- [Supply vs Delivery Charges: Electricity](/blog/supply-vs-delivery-charges-electricity/)
+- [Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained/)
 
 *Related Reading:*
-- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling)
-- [Why Is My Furnace Blowing Cold Air? 9 Common Causes](/blog/why-is-my-furnace-blowing-cold-air)
+- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling/)
+- [Why Is My Furnace Blowing Cold Air? 9 Common Causes](/blog/why-is-my-furnace-blowing-cold-air/)
 
 ## Frequently Asked Questions
 

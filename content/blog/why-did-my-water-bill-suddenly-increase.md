@@ -229,5 +229,5 @@ Start with a quick leak check at home. If the meter suggests a leak or the bill 
 ---
 
 *Related Reading:*
-- [Why Is My Water Bill So High? 11 Fast Checks That Find the Problem](/blog/06-water-bill-too-high)
-- [Water Meter Running When No Water Is Being Used: Causes and Fixes](/blog/water-meter-running-when-no-water-used)
+- [Why Is My Water Bill So High? 11 Fast Checks That Find the Problem](/blog/06-water-bill-too-high/)
+- [Water Meter Running When No Water Is Being Used: Causes and Fixes](/blog/water-meter-running-when-no-water-used/)

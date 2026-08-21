@@ -28,7 +28,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </p>
             <p>
               For a broader HVAC foundation, visit
-              <a href="/heating-cooling-explained"> Heating &amp; Cooling Explained</a>.
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
             </p>
 
 <ul>
@@ -107,7 +107,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             <p>
               If airflow is still weak, the issue may be in the ducts or blower
               components. See
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day">
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/">
                 duct leaks and airflow symptoms
               </a>
               for what to look for.
@@ -233,7 +233,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </p>
             <p>
               The practical checklist is in
-              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day">
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/">
                 duct leaks and HVAC runtime symptoms
               </a>
               .
@@ -260,7 +260,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </ul>
             <p>
               If your summer bills also jump, see
-              <a href="/blog/03-why-is-my-electric-bill-so-high">
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
                 why electricity bills rise in summer
               </a>
               to separate usage from rate changes.
@@ -280,11 +280,11 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </p>
             <p>
               The equipment options and efficiency basics are explained in
-              <a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac">
+              <a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/">
                 single-stage vs two-stage vs variable-speed HVAC
               </a>
               and
-              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop"> HVAC efficiency ratings</a>.
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> HVAC efficiency ratings</a>.
             </p>
             <p>
               If your home has large additions, finished attics, or a converted
@@ -338,7 +338,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             <p>
               If your home needs room-by-room control, consider whether a ductless
               system is a fit. This comparison helps:
-              <a href="/blog/ductless-mini-split-vs-central-air">
+              <a href="/blog/ductless-mini-split-vs-central-air/">
                 ductless mini-split vs central air
               </a>
               .

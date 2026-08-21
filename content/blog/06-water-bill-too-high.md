@@ -20,11 +20,11 @@ image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.w
 - **Compare to same month last year** - a 20-30% increase needs investigation
 - **Most leaks are toilet flappers or faucet washers** - DIY repair costs $5-20
 
-For more detail, see [how to find water leaks](/blog/06-water-bill-too-high/).
+For more detail, see [how to find water leaks](/blog/water-meter-leak-indicator-explained/).
 
-A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour. Learn more in [How to Read a Water Meter](/blog/how-to-read-a-water-meter).
+A sudden spike in your water bill is frustrating — and often a sign that something specific has changed. The good news: most high water bills trace back to one of a handful of causes, and you can diagnose most of them yourself in under an hour. Learn more in [How to Read a Water Meter](/blog/how-to-read-a-water-meter/).
 
-This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill).
+This guide walks you through **exactly what to check**, in the order that matters most, so you can find the problem fast and fix it before your next billing cycle. Learn more in [How to Lower Water Bill](/blog/44-how-to-lower-water-bill/).
 
 ## Quick diagnosis: 4 questions to ask first
 
@@ -291,6 +291,7 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 {{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Localize the leak first" description="High bill with no visible water? Place sensors at the usual suspects — toilet bases, under sinks, by the water heater and washer — and let the 100dB alarms point you to it." button="Check price on Amazon" >}}
@@ -314,12 +315,12 @@ This is common and confusing. Sewer treatment is more expensive than water treat
 ---
 
 *Related Articles:*
-- [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill)
-- [How to Read a Water Meter](/blog/how-to-read-a-water-meter)
-- [Water Service Charge Explained](/blog/water-service-charge-explained)
-- [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill)
-- [Tiered Water Rates Explained](/blog/tiered-water-rates-explained)
+- [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/)
+- [How to Read a Water Meter](/blog/how-to-read-a-water-meter/)
+- [Water Service Charge Explained](/blog/water-service-charge-explained/)
+- [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/)
+- [Tiered Water Rates Explained](/blog/tiered-water-rates-explained/)
 
 *Related Reading:*
-- [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high)
-- [Why Is My Water Bill Higher in Winter? 8 Common Causes](/blog/why-is-my-water-bill-higher-in-winter)
+- [Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them](/blog/03-why-is-my-electric-bill-so-high/)
+- [Why Is My Water Bill Higher in Winter? 8 Common Causes](/blog/why-is-my-water-bill-higher-in-winter/)

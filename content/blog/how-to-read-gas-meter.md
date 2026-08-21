@@ -17,7 +17,7 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <li><strong>Dial meters:</strong> Read **left to right** (opposite of electric meters), record lower number when pointer is between digits</li>
 <li><strong>Digital/smart meters:</strong> Simply read the number displayed on screen—usually in **CCF** (hundred cubic feet) or **therms**</li>
 </ul>
-<p>Track your usage to spot [billing errors](/blog/12-how-to-read-your-gas-bill) and potential gas leaks.</p>
+<p>Track your usage to spot [billing errors](/blog/12-how-to-read-your-gas-bill/) and potential gas leaks.</p>
 <p>Understanding <strong>how to read gas meter</strong> devices is one of the most practical skills a homeowner or renter can have. It transforms a monthly bill from a mysterious number into a manageable metric. When you know exactly how much natural gas you are consuming, you gain the power to spot billing errors, identify leaks, and adjust your habits to save money.</p>
 <p>Utility companies typically estimate bills if they cannot access your meter for a physical reading. These estimates often drift higher than actual usage over time, leading to a "catch-up" bill that shocks homeowners later in the year. By submitting your own readings or verifying the utility's readings, you ensure you only pay for what you use. Furthermore, knowing how to interpret the numbers on your meter helps you understand the difference between cubic feet, CCF, and therms, which is essential for budgeting during peak heating seasons.</p>
 <p>This guide covers everything from the classic analog dial meters to modern digital and smart meters. We will break down the specific rules for each type, explain the confusing unit measurements, and show you how to use this data to lower your energy expenses. Whether you have a National Grid, CenterPoint, or SoCalGas meter, the principles remain largely the same across the United States.</p>
@@ -26,7 +26,7 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <p>Most consumers simply open their envelope or email and pay the balance due. However, relying solely on the utility's reading creates a blind spot in your financial management. According to data from major providers like SoCalGas, your meter is generally on a monthly cycle, but specific regions use a 21-day read cycle. If your utility provider misses a read date or relies on an estimate, your bill might not reflect your actual consumption for that period.</p>
 <p>There are three primary reasons to learn <strong>how to read gas meter</strong> devices yourself:</p>
 <ol><li><strong>Prevent Billing Errors:</strong> Utility companies process millions of bills. Human error or transmission glitches can occasionally result in a reading being transposed (e.g., 4500 recorded as 5400). Catching this early prevents paying for gas you didn't burn.</li><li><strong>Track Seasonal Usage:</strong> Natural gas is primarily used for heating and hot water. By reading your meter monthly, you can see exactly how much your heating bill spikes in January versus March. This data is invaluable for comparing years and understanding the impact of weather on your wallet.</li><li><strong>Detect Leaks:</strong> A gas meter can indicate a leak even before you smell gas. If the meter numbers are ticking over while all gas appliances are turned off, you may have a loss in the system. This is a critical safety feature that requires you to understand how to interpret the moving dials.</li></ol>
-<p>If you are looking to understand your overall spending, checking the <a href="/blog/02-average-utility-costs-2026">average utility costs 2026</a> can help you benchmark your usage against national standards. However, your personal meter reading provides the granular data needed to beat those averages.</p>
+<p>If you are looking to understand your overall spending, checking the <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a> can help you benchmark your usage against national standards. However, your personal meter reading provides the granular data needed to beat those averages.</p>
 
 <h2 id="identifying-your-gas-meter-type">Identifying Your Gas Meter Type</h2>
 <p>Before you can read the meter, you need to identify which technology is installed at your property. While the goal is the same—measuring flow—there are three main types of meters installed across the US.</p>
@@ -88,8 +88,8 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <p>Once you know how to read your meter, you can use that data to reduce your spending. Natural gas is a significant portion of household energy costs, especially in colder climates. By tracking your meter readings monthly, you can identify spikes in usage.</p>
 <p>For example, if your meter reading jumps significantly in February compared to January, but you didn't change your behavior, you might have a leak or a failing furnace. If the jump is consistent every winter, you know your heating load baseline.</p>
 <p>To effectively use this data:</p>
-<ol><li><strong>Submit Monthly Readings:</strong> Many utility websites allow you to submit a manual reading. This prevents the utility from using an estimate.</li><li><strong>Monitor the Flow Dial:</strong> On a dial meter, watch the smallest red dial. If it is spinning rapidly while your furnace, water heater, and stove are off, you have a leak.</li><li><strong>Compare Against Averages:</strong> Knowing the <a href="/blog/02-average-utility-costs-2026">average utility costs 2026</a> helps you determine if your usage is high for your region. If your CCF usage is double the average, investigate your insulation or thermostat settings.</li></ol>
-<p>You can also look for ways to optimize your usage. <a href="/blog/05-how-to-lower-utility-bills">How to lower utility bills</a> offers specific strategies like sealing ducts and adjusting water heater temperatures. However, none of those strategies work if you do not have a baseline measurement from your meter.</p>
+<ol><li><strong>Submit Monthly Readings:</strong> Many utility websites allow you to submit a manual reading. This prevents the utility from using an estimate.</li><li><strong>Monitor the Flow Dial:</strong> On a dial meter, watch the smallest red dial. If it is spinning rapidly while your furnace, water heater, and stove are off, you have a leak.</li><li><strong>Compare Against Averages:</strong> Knowing the <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a> helps you determine if your usage is high for your region. If your CCF usage is double the average, investigate your insulation or thermostat settings.</li></ol>
+<p>You can also look for ways to optimize your usage. <a href="/blog/05-how-to-lower-utility-bills/">How to lower utility bills</a> offers specific strategies like sealing ducts and adjusting water heater temperatures. However, none of those strategies work if you do not have a baseline measurement from your meter.</p>
 
 <h2 id="how-to-check-for-possible-gas-leaks">How to Check for Possible Gas Leaks</h2>
 <p>Your gas meter can help you spot a potential leak, but safety comes first. If you smell rotten eggs, hear hissing near a gas line, or feel lightheaded, leave the building immediately and call your gas utility or emergency services from outside.</p>
@@ -100,7 +100,7 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 <h2 id="submitting-a-manual-gas-meter-reading">Submitting a Manual Gas Meter Reading</h2>
 <p>Many utilities let customers submit readings online, by phone, or through a mobile app. This is useful when your bill is estimated, your meter is behind a locked gate, or you want to correct a suspected reading error.</p>
 <p>Before submitting, take a clear photo of the meter face and record the date and time. Then enter only the billing dials, not the red test dials or decimal digits. If your bill uses therms but your meter shows CCF, submit the meter reading exactly as displayed; the utility will handle the conversion.</p>
-<p>If the next bill still looks wrong, compare the previous reading, current reading, and usage units. Our guide to <a href="/blog/12-how-to-read-your-gas-bill">MCF vs CCF vs therms on gas bill</a> explains how those units convert.</p>
+<p>If the next bill still looks wrong, compare the previous reading, current reading, and usage units. Our guide to <a href="/blog/12-how-to-read-your-gas-bill/">MCF vs CCF vs therms on gas bill</a> explains how those units convert.</p>
 
 <h3>Can I read my gas meter myself?</h3>
 <p>Yes. Most residential gas meters can be read safely from the outside without touching the meter. Read the display only, and never open, adjust, or disconnect meter equipment.</p>
@@ -122,7 +122,7 @@ image: "/images/articles/how-to-read-gas-meter/image.webp"
 ---
 
 *Related Reading:*
-- [MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean](/blog/mcf-vs-ccf-vs-therms-on-gas-bill)
+- [MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/)
 
 ## Frequently Asked Questions
 

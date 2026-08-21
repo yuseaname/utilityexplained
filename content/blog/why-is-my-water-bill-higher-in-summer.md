@@ -27,7 +27,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </p>
             <p>
               For the big-picture water billing model, start with:
-              <a href="/water-explained"> Water Service Explained</a>.
+              <a href="/water-explained/"> Water Service Explained</a>.
             </p>
 
 <ul>
@@ -67,7 +67,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </p>
             <p>
               If your bill uses <strong>CCF</strong> and you want to picture the volume, this helps:
-              <a href="/blog/what-is-ccf-on-a-water-bill"> CCF explained</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/"> CCF explained</a>.
             </p>
             <h3>2) Check billing period length</h3>
             <p>
@@ -77,7 +77,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             <p>
               If the bill rose but usage did not, scan for fees. This guide explains the most
               common one:
-              <a href="/blog/water-service-charge-explained"> water service charge explained</a>.
+              <a href="/blog/water-service-charge-explained/"> water service charge explained</a>.
             </p>
 
 <h2 id="reasons">7 common reasons summer bills rise</h2>
@@ -141,16 +141,16 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </p>
             <p>
               Start with your water meter leak indicator:
-              <a href="/blog/water-meter-leak-indicator-explained"> leak indicator explained</a>.
+              <a href="/blog/water-meter-leak-indicator-explained/"> leak indicator explained</a>.
             </p>
             <p>
               Also check toilets. They are common and easy to miss:
-              <a href="/blog/is-your-toilet-running-leak-test"> simple toilet leak test</a>.
+              <a href="/blog/is-your-toilet-running-leak-test/"> simple toilet leak test</a>.
             </p>
             <p>
               If you want a broader troubleshooting guide (including billing cycle and rate questions),
               use:
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why your water bill suddenly increased</a>.
+              <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why your water bill suddenly increased</a>.
             </p>
 
 <h2 id="reduce">How to reduce summer water use (without weird tricks)</h2>
@@ -172,7 +172,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </ul>
             <p>
               If you want a baseline for "what is normal," this is a helpful reference:
-              <a href="/blog/average-water-usage-per-person"> average water usage per person</a>.
+              <a href="/blog/average-water-usage-per-person/"> average water usage per person</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>

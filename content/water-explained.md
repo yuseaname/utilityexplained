@@ -1,5 +1,5 @@
 ---
-title: "Water Explained: Complete Guide to Understanding Your Water Service"
+title: "Water Explained: Rates, CCF, and Your Bill"
 description: "Learn how water is measured, billed, and delivered. Understand your water bill, CCF, gallons, and how to spot leaks."
 image: "/images/articles/water-explained/custom_hero.webp"
 date: 2024-12-01

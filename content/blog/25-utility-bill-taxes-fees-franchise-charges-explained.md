@@ -16,6 +16,10 @@ hero_below_answer: true
 
 Taxes, fees, and franchise charges typically add **5% to 15%** to your total utility bill — and in some high-tax states, even more. The **franchise fee**, usually **2% to 6%** of your charges, is the most common one: it is what your city collects from the utility for using public streets and rights-of-way to run wires and pipes, then passes straight through to you on your bill. Other frequent line items include state **gross receipts taxes**, local **utility users taxes**, **public benefits charges**, and **renewable energy surcharges** — none of which you can negotiate individually.
 
+{{< jump-row "How much on my bill?|#how-much-will-taxes-and-fees-add-to-my-bill" "Franchise fee|#what-is-a-franchise-fee-on-a-utility-bill" "State taxes|#what-state-and-local-utility-taxes-appear-on-my-bill" "Deductible?|#are-utility-taxes-and-fees-tax-deductible" >}}
+
+Two follow-ups most readers want: the [region-by-region table of what these charges actually add](#how-much-will-taxes-and-fees-add-to-my-bill), and the [fees on your bill you can actually do something about](/blog/04-hidden-fees-utility-bill/).
+
 ## Why Are There So Many Taxes and Fees on My Utility Bill?
 
 {{< image src="/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/taxes-fees-breakdown.webp" alt="Breakdown of typical utility bill tax and fee line items: city franchise fee, state gross receipts tax, local utility users tax, and public benefits charge, together adding 5-15% to a typical bill" caption="The four taxes and fees that show up on most U.S. utility bills — together, a 5-15% surcharge you can't negotiate." >}}

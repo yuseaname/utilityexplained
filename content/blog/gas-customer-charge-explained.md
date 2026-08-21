@@ -22,7 +22,7 @@ image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-expla
 <li><strong>It's regulated</strong> — the amount comes from your state PUC; the utility can't waive it on request.</li>
 <li><strong>Don't confuse it</strong> — a customer charge is a fixed line item; a <a href="/blog/22-minimum-bill-utility-bill-explained/">minimum bill</a> is a floor on the total.</li>
 </ul>
-<p>See <a href="#what-the-charge-pays-for">what it pays for</a>, compare <a href="#customer-charges-by-state-and-utility">state-by-state rates</a>, or start with the <a href="/gas-explained">Gas Service explained</a> pillar.</p>
+<p>See <a href="#what-the-charge-pays-for">what it pays for</a>, compare <a href="#customer-charges-by-state-and-utility">state-by-state rates</a>, or start with the <a href="/gas-explained/">Gas Service explained</a> pillar.</p>
 </blockquote>
 
 ## What the Gas Customer Charge Is

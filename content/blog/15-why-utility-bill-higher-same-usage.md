@@ -20,7 +20,7 @@ image: "/images/articles/15-why-utility-bill-higher-same-usage/15-why-utility-bi
 
 For more detail, see [why bills change](/blog/15-why-utility-bill-higher-same-usage/).
 
-You pull up your electric bill and the usage looks normal—right around the same 900 [kWh](/blog/what-is-a-kilowatt-hour) you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.
+You pull up your electric bill and the usage looks normal—right around the same 900 [kWh](/blog/what-is-a-kilowatt-hour/) you used last month. But the dollar amount is $40 higher. You used the same amount of energy, so why are you paying more? This is one of the most frustrating billing scenarios, and it happens far more often than people realize. The answer almost always comes down to rate structures, not usage.
 
 ## The Most Common Reason: Your Rate Changed
 
@@ -135,15 +135,15 @@ If you're on a tiered or TOU rate plan, ask your utility for a usage-by-hour or 
 ---
 
 *Related Articles:*
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
-- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)
-- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill)
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
+- [Utility Billing Cycle Explained](/blog/23-utility-billing-cycle-explained/)
+- [Delivery Charge vs Supply Charge: Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
 
 *Related Reading:*
-- [Why Your Electric Bill Changes Month to Month (Even With Similar Usage)](/blog/why-electric-bill-changes-month-to-month)
-- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained)
+- [Why Your Electric Bill Changes Month to Month (Even With Similar Usage)](/blog/why-electric-bill-changes-month-to-month/)
+- [Estimated Utility Bill Explained](/blog/14-estimated-utility-bill-explained/)
 
 ## Frequently Asked Questions
 

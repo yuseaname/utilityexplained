@@ -34,7 +34,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             </p>
             <p>
               If you want the bigger utility-bill picture, start with
-              <a href="/blog/why-did-my-utility-bill-go-up-this-month">
+              <a href="/blog/why-did-my-utility-bill-go-up-this-month/">
                 why a utility bill goes up without using more
               </a>.
             </p>
@@ -54,14 +54,14 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             <p>
               If your plan has peak and off-peak pricing, the same kWh can cost
               more depending on the hour. See
-              <a href="/blog/08-time-of-use-electricity"> time-of-use rates</a>
+              <a href="/blog/08-time-of-use-electricity/"> time-of-use rates</a>
               for a clear breakdown.
             </p>
             <h3>Tier thresholds</h3>
             <p>
               A small usage bump can push you into a higher tier. That makes the
               last block of usage more expensive. Learn more in
-              <a href="/blog/tiered-electricity-rates-explained">
+              <a href="/blog/tiered-electricity-rates-explained/">
                 Tiered Electricity Rates Explained
               </a>.
             </p>
@@ -85,7 +85,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             <p>
               If your bill includes demand charges, this guide will help you spot
               them:
-              <a href="/blog/demand-charge-electric-bill-explained">
+              <a href="/blog/demand-charge-electric-bill-explained/">
                 Demand Charges on Electric Bills Explained
               </a>.
             </p>
@@ -103,7 +103,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             </figure>
             <p>
               For a clean explanation, see
-              <a href="/blog/supply-vs-delivery-charges-electricity">
+              <a href="/blog/supply-vs-delivery-charges-electricity/">
                 Supply vs Delivery Charges Explained
               </a>.
             </p>
@@ -122,7 +122,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             <p>
               If you see an estimate, the correction usually shows up later. This
               explainer helps:
-              <a href="/blog/14-estimated-utility-bill-explained"> Estimated Utility Bill Explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained/"> Estimated Utility Bill Explained</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -142,7 +142,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
             </ul>
             <p>
               If you want the full model, see
-              <a href="/blog/how-utility-rates-fees-usage-work-together">
+              <a href="/blog/how-utility-rates-fees-usage-work-together/">
                 how rates, fees, and usage work together
               </a>.
             </p>
@@ -220,4 +220,4 @@ If you're on a tiered rate plan**, your bill changes more dramatically than your
 ---
 
 *Related Reading:*
-- [Why Is My Utility Bill Higher With the Same Usage?](/blog/15-why-utility-bill-higher-same-usage)
+- [Why Is My Utility Bill Higher With the Same Usage?](/blog/15-why-utility-bill-higher-same-usage/)

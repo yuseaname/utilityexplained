@@ -31,7 +31,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
 {{< image src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp" alt="Two-lane flow diagram comparing water service, which delivers clean water from a source through pipes to the home, against sewer service, which carries wastewater from the home through the sewer main to a treatment plant" caption="Two services, two directions: clean water in, used water out — and only one of them has to treat what it carries." >}}
             <p>
               If you want the full water-billing model first, start with
-              <a href="/water-explained">Water Service Explained</a>.
+              <a href="/water-explained/">Water Service Explained</a>.
             </p>
 
 ## The most common ways sewer is calculated {#how-calculated}
@@ -49,7 +49,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
             </p>
             <p>
               If you see CCF and want to translate it into gallons, see
-              <a href="/blog/what-is-ccf-on-a-water-bill">what CCF means</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/">what CCF means</a>.
             </p>
             <h3>2) Winter average (to avoid charging sewer for outdoor watering)</h3>
             <p>
@@ -81,14 +81,14 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               </li>
               <li>
                 <strong>Billing structures differ.</strong> Water may have cheaper
-                base <a href="/blog/tiered-water-rates-explained">tiers</a> while sewer has higher fixed fees.
+                base <a href="/blog/tiered-water-rates-explained/">tiers</a> while sewer has higher fixed fees.
               </li>
             </ul>
             <p>
               If your bill increased suddenly, the first step is to check whether
               your measured water usage increased too. This guide walks you through
               the common causes:
-              <a href="/blog/why-did-my-water-bill-suddenly-increase">
+              <a href="/blog/why-did-my-water-bill-suddenly-increase/">
                 why water bills suddenly increase
               </a>
               .
@@ -102,7 +102,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
             <h3>1) What unit is used?</h3>
             <p>
               Look for CCF, kgal, or gallons. If you see CCF, our quick explainer is
-              <a href="/blog/what-is-ccf-on-a-water-bill">here</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/">here</a>.
             </p>
             <h3>2) Is sewer tied to usage or winter average?</h3>
             <p>
@@ -124,11 +124,11 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
             </p>
             <p>
               Toilets are a common silent leak. If you want a quick test, see
-              <a href="/blog/is-your-toilet-running-leak-test">this toilet leak test</a>.
+              <a href="/blog/is-your-toilet-running-leak-test/">this toilet leak test</a>.
             </p>
             <p>
               If you'd rather start from the meter and prove continuous flow, see
-              <a href="/blog/how-to-read-a-water-meter">how to read a water meter</a>.
+              <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.
             </p>
 
 ## Can you reduce your sewer charge? {#reduce-sewer}
@@ -142,7 +142,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <li>
                 <strong>Fix silent leaks.</strong> A running toilet can quietly add
                 CCF that shows up on both your water and sewer lines. The
-                <a href="/blog/is-your-toilet-running-leak-test">toilet leak test</a>
+                <a href="/blog/is-your-toilet-running-leak-test/">toilet leak test</a>
                 takes only a few minutes.
               </li>
               <li>
@@ -154,7 +154,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <li>
                 <strong>Trim indoor usage.</strong> Less water in means less water
                 billed out. Compare your household to the
-                <a href="/blog/average-water-usage-per-person">average water usage
+                <a href="/blog/average-water-usage-per-person/">average water usage
                 per person</a> to see whether you have room to cut, then work through
                 our <a href="/blog/44-how-to-lower-water-bill/">guide to lowering your water bill</a>
                 for the highest-impact changes.
@@ -162,7 +162,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <li>
                 <strong>Check for a separate stormwater line.</strong> Some of what
                 looks like "sewer" is actually a
-                <a href="/blog/stormwater-fee-on-water-bill-explained">stormwater
+                <a href="/blog/stormwater-fee-on-water-bill-explained/">stormwater
                 fee</a> for runoff, which is calculated differently and may have its
                 own discounts.
               </li>
@@ -182,7 +182,7 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
               <li>
                 <strong>"If my water is low, sewer should be $0."</strong> Sewer often
                 has fixed infrastructure costs, so there's usually a base fee — just
-                like the <a href="/blog/water-service-charge-explained">water service
+                like the <a href="/blog/water-service-charge-explained/">water service
                 charge</a> you pay even with low usage.
               </li>
             </ul>

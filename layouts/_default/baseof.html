@@ -63,9 +63,9 @@
     })();
   </script>
 
-  {{/* Minimal JS bundle */}}
+  {{/* Minimal JS bundle (deferred — lazy-img polyfill + nav, not render-critical) */}}
   {{ with resources.Get "js/main.js" }}
-    <script src="{{ .RelPermalink }}"></script>
+    <script src="{{ .RelPermalink }}" defer></script>
   {{ end }}
 
   {{/* Rybbit Analytics */}}

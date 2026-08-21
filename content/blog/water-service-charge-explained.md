@@ -29,7 +29,7 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
             <p>
               If you want the big picture of how water bills are built (fixed fees +
               usage + sewer), start with our pillar:
-              <a href="/water-explained"> Water Service Explained</a>.
+              <a href="/water-explained/"> Water Service Explained</a>.
             </p>
 
 <ul>
@@ -79,7 +79,7 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
               Your usage is measured separately, usually in <strong>gallons</strong> or
               <strong> CCF</strong>. If you keep seeing "CCF" on your bill and want to
               translate it into something you can picture, see:
-              <a href="/blog/what-is-ccf-on-a-water-bill"> what CCF means on a water bill</a>.
+              <a href="/blog/what-is-ccf-on-a-water-bill/"> what CCF means on a water bill</a>.
             </p>
 
 <h2 id="what-it-covers">What the fixed fee usually covers</h2>
@@ -128,7 +128,7 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
               If your bill includes sewer on the same statement, do not be surprised
               if it looks bigger than the water service charge. Sewer is often a
               major part of the total. This is the clearest explanation on the site:
-              <a href="/blog/how-sewer-charges-work-on-your-water-bill"> how sewer charges work</a>.
+              <a href="/blog/how-sewer-charges-work-on-your-water-bill/"> how sewer charges work</a>.
             </p>
 
 <h2 id="sanity-check">How to sanity-check the charge</h2>
@@ -157,7 +157,7 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
               If your total jumped unexpectedly and you are trying to figure out
               whether it is usage, a rate change, or something else, this guide is a
               good next stop:
-              <a href="/blog/why-did-my-water-bill-suddenly-increase"> why your water bill suddenly increased</a>.
+              <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why your water bill suddenly increased</a>.
             </p>
 
 <h2 id="lower-total">What you can (and cannot) lower</h2>
@@ -188,12 +188,12 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
             <ul>
               <li>
                 If you suspect a hidden leak, use your meter as a truth source:
-                <a href="/blog/water-meter-leak-indicator-explained"> water meter leak indicator explained</a>.
+                <a href="/blog/water-meter-leak-indicator-explained/"> water meter leak indicator explained</a>.
               </li>
               <li>
                 If your bill climbs every summer, the pattern is usually outdoor use +
                 tiered pricing:
-                <a href="/blog/why-is-my-water-bill-higher-in-summer"> why water bills are higher in summer</a>.
+                <a href="/blog/why-is-my-water-bill-higher-in-summer/"> why water bills are higher in summer</a>.
               </li>
             </ul>
 
@@ -236,7 +236,7 @@ image: "/images/articles/water-service-charge-explained/water-service-charge-exp
             </ol>
             <p>
               You can also browse the rest of the Water pillar for related topics:
-              <a href="/water-explained"> Water Service Explained</a>.
+              <a href="/water-explained/"> Water Service Explained</a>.
             </p>
 
 {{< faq "What is a water service charge?" >}}
@@ -268,5 +268,5 @@ In most areas the service charge is set by the utility and stays the same for a 
 ---
 
 *Related Reading:*
-- [Stormwater Fee on Your Water Bill: What You](/blog/stormwater-fee-on-water-bill-explained)
-- [Drought Surcharge on Your Water Bill: What It Is and Why You Pay It](/blog/drought-surcharge-on-water-bill-explained)
+- [Stormwater Fee on Your Water Bill: What You](/blog/stormwater-fee-on-water-bill-explained/)
+- [Drought Surcharge on Your Water Bill: What It Is and Why You Pay It](/blog/drought-surcharge-on-water-bill-explained/)

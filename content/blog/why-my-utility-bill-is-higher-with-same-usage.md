@@ -27,7 +27,7 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-ut
             <p>
               For the overall billing model (usage vs delivery vs fixed fees), start
               at
-              <a href="/utility-bills-costs-explained"> Utility Bills &amp; Costs Explained</a>.
+              <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
 <ul>
@@ -57,7 +57,7 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-ut
             <p>
               If your kWh/day is similar but the total rose, look at the price per
               unit. For electricity plan types, see
-              <a href="/blog/fixed-vs-variable-rate-electricity-plan"> fixed vs variable electricity plans</a>.
+              <a href="/blog/fixed-vs-variable-rate-electricity-plan/"> fixed vs variable electricity plans</a>.
             </p>
             <h3>Step 4: fixed customer charges</h3>
             <p>
@@ -75,7 +75,7 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-ut
 <p>
               If your bill has many lines, it helps to group them into a few buckets.
               A detailed walkthrough is in
-              <a href="/blog/electric-bill-breakdown-understanding-line-items"> Electric bill breakdown: understanding line items</a>.
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/"> Electric bill breakdown: understanding line items</a>.
             </p>
             <h3>Usage charges</h3>
             <p>
@@ -113,12 +113,12 @@ image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-ut
             </ol>
             <p>
               If you want the full explanation and what to watch for, read
-              <a href="/blog/14-estimated-utility-bill-explained"> Estimated utility bill explained</a>.
+              <a href="/blog/14-estimated-utility-bill-explained/"> Estimated utility bill explained</a>.
             </p>
             <p>
               If you're trying to avoid seasonal surprises altogether (not just
               estimate surprises),
-              <a href="/blog/16-budget-billing-level-pay-explained"> budget billing</a>
+              <a href="/blog/16-budget-billing-level-pay-explained/"> budget billing</a>
               can smooth monthly payments.
             </p>
 

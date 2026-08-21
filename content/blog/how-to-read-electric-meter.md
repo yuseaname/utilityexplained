@@ -34,7 +34,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               Not sure what the meter is measuring? Read
-              <a href="/blog/what-is-a-kilowatt-hour"> what a kilowatt-hour is</a>
+              <a href="/blog/what-is-a-kilowatt-hour/"> what a kilowatt-hour is</a>
               first -- it makes the numbers feel less abstract.
             </p>
 
@@ -51,7 +51,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
                 <strong>Digital meter</strong> that displays a kWh number.
               </li>
               <li>
-                <strong><a href="/blog/how-do-smart-meters-work">Smart meter</a></strong> (often digital) that can send readings
+                <strong><a href="/blog/how-do-smart-meters-work/">Smart meter</a></strong> (often digital) that can send readings
                 automatically to the utility.
               </li>
             </ul>
@@ -113,7 +113,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </ul>
             <p>
               If your bill varies a lot month to month, our
-              <a href="/utility-bills-costs-explained"> utility bills guide</a>
+              <a href="/utility-bills-costs-explained/"> utility bills guide</a>
               explains how rate structures can change the total.
             </p>
 
@@ -164,7 +164,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             <p>
               If you want to understand how the meter reading turns into line items
               and fees, read
-              <a href="/blog/electric-bill-breakdown-understanding-line-items">
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/">
                 
                 our electric bill breakdown
               </a>

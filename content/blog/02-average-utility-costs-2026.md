@@ -21,7 +21,7 @@ image: "/images/articles/02-average-utility-costs-2026/02-average-utility-costs-
 
 For more detail, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
 
-Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/).
 
 ## The Big Picture
 
@@ -58,7 +58,7 @@ Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly
 | Metric | Value |
 |--------|-------|
 | Average monthly bill | $137 |
-| Average [kWh](/blog/what-is-a-kilowatt-hour) used | 886-908 kWh |
+| Average [kWh](/blog/what-is-a-kilowatt-hour/) used | 886-908 kWh |
 | Average rate | 14.12¢/kWh |
 | Annual cost | $1,644 |
 
@@ -142,7 +142,7 @@ Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly
 | Sewer | $35-45 | $420-540 |
 | **Combined** | **$75-92** | **$900-1,104** |
 
-### What Affects [water bill](/blog/what-is-ccf-on-a-water-bill)s
+### What Affects [water bill](/blog/what-is-ccf-on-a-water-bill/)s
 
 | Factor | Impact |
 |--------|--------|
@@ -311,6 +311,7 @@ Yes. High utility costs reduce affordability. In areas with high utilities:
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 ## Quick Reference
@@ -335,8 +336,8 @@ Knowing the averages helps you benchmark your costs. If you're significantly abo
 ---
 
 *Related Articles:*
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
-- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
-- [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained)
-- [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/)
+- [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained/)

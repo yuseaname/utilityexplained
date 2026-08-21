@@ -25,9 +25,9 @@ This guide breaks down fixed vs variable utility rates, explains when each makes
 ## What are fixed and variable rates?
 
 ### Fixed rate
-You pay the **same price per unit** (per [kWh](/blog/what-is-a-kilowatt-hour) for electricity, per therm for gas) for the duration of your contract — typically 6, 12, 24, or 36 months. The rate doesn't change regardless of market conditions.
+You pay the **same price per unit** (per [kWh](/blog/what-is-a-kilowatt-hour/) for electricity, per therm for gas) for the duration of your contract — typically 6, 12, 24, or 36 months. The rate doesn't change regardless of market conditions.
 
-**What's fixed:** The [supply charge](/blog/supply-vs-delivery-charges-electricity) (the cost of the energy itself).
+**What's fixed:** The [supply charge](/blog/supply-vs-delivery-charges-electricity/) (the cost of the energy itself).
 **What's NOT fixed:** Delivery charges, taxes, and fees — these are set by your utility and can change.
 
 ### Variable rate
@@ -239,6 +239,7 @@ Most contracts auto-renew. You'll typically be moved to:
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 ## Related guides
@@ -258,11 +259,11 @@ Most contracts auto-renew. You'll typically be moved to:
 ---
 
 *Related Articles:*
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained)
-- [What Is Customer Charge on Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together)
+- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
+- [What Is Customer Charge on Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/)
+- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)
 
 *Related Reading:*
-- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity)
-- [Average Utility Costs in 2026: Complete Breakdown by Type and State](/blog/02-average-utility-costs-2026)
+- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity/)
+- [Average Utility Costs in 2026: Complete Breakdown by Type and State](/blog/02-average-utility-costs-2026/)

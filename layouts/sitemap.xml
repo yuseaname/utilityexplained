@@ -2,8 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{ range .Data.Pages }}
-{{- /* Exclude noindexed tag taxonomy pages (term + listing) — categories stay listed */ -}}
-{{- if not (and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Singular "tag")) }}
+{{- /* Exclude noindexed pages: tag taxonomy (term + listing) and any page with
+      front-matter noindex (e.g. /search/) — never send mixed signals to engines */ -}}
+{{- if and (not .Params.noindex) (not (and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Singular "tag"))) }}
   <url>
     <loc>{{ .Permalink }}</loc>
     {{- if not .Lastmod.IsZero }}

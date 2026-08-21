@@ -20,7 +20,7 @@ image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
 
 For more detail, see [hidden utility fees explained](/blog/04-hidden-fees-utility-bill/).
 
-You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour). Your effective rate is 18¢. The difference? Hidden fees. Here's what they are and what you can do about them.
+You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour/). Your effective rate is 18¢. The difference? Hidden fees. Here's what they are and what you can do about them.
 
 ## The Fee Reality
 
@@ -54,7 +54,7 @@ These appear every month regardless of usage:
 
 | Fee | Typical Cost | What It Is |
 |-----|-------------|------------|
-| [customer charge](/blog/17-what-is-customer-charge-on-utility-bill) | $5-15 | Account maintenance |
+| [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) | $5-15 | Account maintenance |
 | Service availability | $10-25 | Connection to grid |
 | Meter charge | $2-5 | Meter maintenance |
 | Administrative fee | $3-8 | Billing costs |
@@ -328,6 +328,7 @@ In deregulated states:
 {{< /faq >}}
 
 {{< faq-schema >}}
+
 ---
 
 ## Action Items
@@ -354,8 +355,8 @@ Hidden fees are frustrating but understanding them gives you power. Calculate yo
 ---
 
 *Related Articles:*
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill)
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
-- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills)
-- [Customer Charge Explained](/blog/17-what-is-customer-charge-on-utility-bill)
-- [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained)
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/)
+- [Customer Charge Explained](/blog/17-what-is-customer-charge-on-utility-bill/)
+- [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)

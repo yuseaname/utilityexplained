@@ -20,7 +20,7 @@ image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
 
 For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).
 
-Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained).
+Your electric bill arrives every month. You look at the total, pay it, and move on. But that bill contains valuable information — and possibly errors costing you money. Here's how to read every line. Learn more in [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/).
 
 ## The Basic Structure
 
@@ -41,7 +41,7 @@ This shows:
 ### 2. Usage Details (Page 2-3)
 
 This shows:
-- **[meter](/blog/how-to-read-electric-meter) readings** — Current and previous
+- **[meter](/blog/how-to-read-electric-meter/) readings** — Current and previous
 - **kWh used** — Your consumption
 - **Rate schedule** — How you're charged
 - **Demand (commercial)** — Peak usage
@@ -294,7 +294,7 @@ Understanding your electric bill puts you in control. You'll spot errors, unders
 ---
 
 *Related Articles:*
-- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill)
-- [Average Utility Costs in 2026: Complete Breakdown](/blog/02-average-utility-costs-2026)
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high)
-- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar)
+- [How to Read Your Utility Bill](/blog/how-to-read-your-utility-bill/)
+- [Average Utility Costs in 2026: Complete Breakdown](/blog/02-average-utility-costs-2026/)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
+- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar/)

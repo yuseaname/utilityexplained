@@ -22,7 +22,7 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
             <p>
               This guide separates those two buckets in plain English. If you want
               the full electricity overview, start with
-              <a href="/electricity-explained"> Electricity Explained</a>.
+              <a href="/electricity-explained/"> Electricity Explained</a>.
             </p>
 
 <ul>
@@ -60,7 +60,7 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
             <p>
               If you see fixed vs variable pricing on the supply line, this overview
               helps explain it:
-              <a href="/blog/fixed-vs-variable-rate-electricity-plan"> fixed vs variable rates</a>.
+              <a href="/blog/fixed-vs-variable-rate-electricity-plan/"> fixed vs variable rates</a>.
             </p>
 
 <h2 id="delivery">Delivery charges (the grid and service cost)</h2>
@@ -91,7 +91,7 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
             </ul>
             <p>
               If you need a quick map of the line items, this guide helps:
-              <a href="/blog/electric-bill-breakdown-understanding-line-items"> electric bill breakdown</a>.
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/"> electric bill breakdown</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
@@ -112,8 +112,8 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
             <p>
               If your bill also uses tiered pricing or demand charges, those are
               separate structures:
-              <a href="/blog/tiered-electricity-rates-explained"> tiered rates</a> and
-              <a href="/blog/demand-charge-electric-bill-explained"> demand charges</a>.
+              <a href="/blog/tiered-electricity-rates-explained/"> tiered rates</a> and
+              <a href="/blog/demand-charge-electric-bill-explained/"> demand charges</a>.
             </p>
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
