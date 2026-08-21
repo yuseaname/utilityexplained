@@ -246,9 +246,9 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <h3>Why Your Bill Is High</h3>
 <ul>
 <li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
-<li><a href="/blog/why-is-my-electric-bill-so-high-this-month/">Why Is My Electric Bill So High This Month?</a></li>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High This Month?</a></li>
 <li><a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
-<li><a href="/blog/why-is-my-electricity-bill-so-high-in-summer/">Why Is My Electricity Bill High in Summer?</a></li>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electricity Bill High in Summer?</a></li>
 <li><a href="/blog/why-is-my-electricity-bill-so-high-in-winter/">Why Is My Electricity Bill High in Winter?</a></li>
 <li><a href="/blog/why-your-electric-bill-keeps-rising-2026/">Why Your Electric Bill Keeps Rising</a></li>
 <li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>

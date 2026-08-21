@@ -67,7 +67,7 @@ Charging speed shapes the whole experience of owning an EV at home. Level 1 char
 - [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/)
 - [Time-of-Use Electricity Rates Explained](/blog/08-time-of-use-electricity/)
 - [What Is a Kilowatt-Hour?](/blog/11-understanding-kwh-usage/)
-- [Why Is My Electricity Bill So High in Summer?](/blog/why-is-my-electricity-bill-so-high-in-summer/)
+- [Why Is My Electricity Bill So High in Summer?](/blog/03-why-is-my-electric-bill-so-high/)
 
 ## Frequently Asked Questions
 

@@ -230,8 +230,7 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <h3>Why Is My Gas Bill High?</h3>
 <ul>
 <li><a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
-<li><a href="/blog/why-is-my-gas-bill-so-high-in-winter/">Why Is My Gas Bill High in Winter?</a></li>
-<li><a href="/blog/why-is-my-gas-bill-so-high-in-summer/">Why Is My Gas Bill High in Summer?</a></li>
+<li><a href="/blog/07-gas-bill-too-high/#comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
 </ul>
 
 <h3>Gas vs Other Heating Options</h3>

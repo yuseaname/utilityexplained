@@ -155,7 +155,7 @@ image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
             <p>
               If your summer bill spikes or the home feels clammy, this guide helps
               you separate usage from rate changes:
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer">
+              <a href="/blog/03-why-is-my-electric-bill-so-high">
                 why electricity bills spike in summer
               </a>.
             </p>

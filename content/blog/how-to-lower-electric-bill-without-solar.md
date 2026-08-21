@@ -295,7 +295,7 @@ For more detail, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/
             </p>
             <p>
               If your bill still looks high, this guide can help:
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer">
+              <a href="/blog/03-why-is-my-electric-bill-so-high">
                 {" "}
                 summer bill spikes
               </a>

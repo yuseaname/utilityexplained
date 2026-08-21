@@ -153,7 +153,7 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
             </ul>
             <p>
               If you are trying to figure out a sudden spike, start with
-              <a href="/blog/why-is-my-electric-bill-so-high-this-month">
+              <a href="/blog/03-why-is-my-electric-bill-so-high">
                 
                 common reasons bills jump
               </a>

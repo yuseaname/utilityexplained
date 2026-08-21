@@ -1,6 +1,7 @@
 ---
 title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
 slug: "07-gas-bill-too-high"
+aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
 author: "Tanya Patterson"
@@ -45,6 +46,8 @@ This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natu
 - Check if your billing period included an unusually cold week.
 - Look at "heating degree days" (HDD) — a standard measure of heating demand. Your utility may include this on your bill.
 
+**HDD worked example:** Heating Degree Days are calculated as `65°F − average daily temperature`. If the day's average temperature is 40°F, that day counts as 25 HDDs. During a cold snap where the average is 15°F, that jumps to 50 HDDs — meaning your home needs roughly **double the energy** to stay warm. If last January averaged 35°F (1,000 HDDs over the month) and this January averages 20°F (1,450 HDDs), your gas consumption rises proportionally even with identical thermostat settings and habits. Check your zip code's HDD history on Weather Underground or NOAA to compare year-over-year.
+
 **What to do:**
 - If weather is the cause, focus on efficiency improvements (insulation, thermostat settings) rather than looking for a "problem."
 
@@ -61,7 +64,9 @@ Every degree above 68°F increases heating energy use by roughly **3–5%**. If 
 
 ### 3. Furnace efficiency decline
 
-Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance.
+Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance. Pre-2000 furnaces commonly sit at **70–80% AFUE**, meaning **20–30% of the fuel you pay for escapes through the exhaust flue** as wasted heat rather than warming your home. A new high-efficiency condensing furnace reaches **95% AFUE** — that gap is the single biggest efficiency upgrade available to most gas-heated households.
+
+Short cycling (the burner turning on and off every few minutes without reaching set temperature) is another symptom of an aging or struggling furnace. It wastes fuel during startup cycles and stresses the heat exchanger. Annual professional tune-up — cleaning burners, checking the heat exchanger, verifying airflow — keeps the system near its rated AFUE.
 
 **Signs your furnace is wasting gas:**
 - Runs longer to reach the target temperature
@@ -106,6 +111,8 @@ Natural gas prices are volatile. Your utility's "gas cost recovery" rate can cha
 - **Pipeline or infrastructure surcharges** — Becoming more common.
 - **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
 
+**WNA (Winter Non-Winter Adjustment) explained:** Some utilities — Virginia Natural Gas is one example — apply a **Winter Non-Winter Adjustment** on six bills during the heating season, typically November through April. The WNA recovers the fixed cost of maintaining gas delivery infrastructure during peak winter demand, spread across winter bills rather than charged flat year-round. The utility does not profit from it, but it does show up as a separate line item and contributes to winter totals being higher than summer totals even at identical usage. Check your bill for "WNA" or "winter adjustment" line items; they're normal and regulated, not a billing error.
+
 **What to do:** If rates increased significantly, check if you're in a deregulated state where you can choose a gas supplier. You may be able to lock in a lower rate through a third-party supplier.
 
 ### 7. Gas leak (safety concern)
@@ -117,6 +124,8 @@ A gas leak is both a safety emergency and a source of wasted gas. Signs include:
 - **Higher-than-expected usage** — Even a small leak adds up over a billing period.
 
 **⚠️ If you smell gas:** Leave the house immediately. Don't use light switches, phones, or anything that could create a spark. Call your gas utility's emergency line (or 911) from outside.
+
+**Soapy-water leak test (non-emergency):** If you don't smell gas but suspect a small leak on an accessible fitting, mix dish soap and water in a spray bottle, then spray the mixture on gas connections behind appliances, at the meter, and at shut-off valves. If bubbles form and grow, gas is escaping at that joint. **Do not attempt to repair the fitting yourself** — call a licensed plumber or your utility. Higher summer gas pressure can also worsen slow leaks, which is why unexplained summer spikes deserve a meter-and-fitting audit before you assume rate increases are to blame.
 
 ### 8. Gas fireplace or logs left on
 
@@ -140,6 +149,45 @@ A 35-day billing period will naturally cost more than a 28-day period. And estim
 - **Days of service** on your bill
 - Whether the read was actual or estimated
 - If estimated, the next actual read will correct any overcharge
+
+### 11. Outdoor gas appliances (pool, spa, grill, fire pit)
+
+Many homeowners forget that outdoor gas appliances tie back to the same meter that serves the furnace. In warm months when heating is off, these can quietly carry the bill:
+
+- **Gas pool heater** — Maintaining a pool temperature during summer requires constant gas input to offset evaporation and heat loss. A typical gas pool heater adds **$50–$150/month** to your bill during active swim season — one of the most expensive gas appliances to run per hour of use.
+- **Gas spa / hot tub** — Smaller than a pool but operates at higher temperatures (100–104°F) year-round in many homes. Expect steady monthly gas use whenever the tub is heated.
+- **Outdoor gas grill** — Frequent summer cookouts add up. A high-BTU grill running on natural gas (not propane tanks) consumes real volume over a barbecue-heavy month.
+- **Gas fire pit / outdoor fireplace** — Natural gas fire pits running on summer evenings register on the meter too.
+
+**What to do:** If your summer bill surprises you, walk your property and count gas-tied outdoor appliances. A pool heater alone can push a "should be tiny" summer bill into the $150+ range.
+
+---
+
+## Seasonal comparison: Winter vs summer gas usage
+
+To visualize how the same home's gas demand shifts across the year, the table below compares a typical US single-family residence. Winter heating dominates; summer is water-heating and outdoor appliances.
+
+| Usage Category | Winter share | Summer share | Notes |
+|-----|-----|-----|-----|
+| Space heating | 60–70% | 0% | Furnace off or rarely used in summer |
+| Water heating | 20–25% | 40–50% | Colder inlet water in winter; more showers/laundry in summer |
+| Cooking | 10–15% | 10–15% | Consistent year-round |
+| Clothes drying | 5–10% | 10–15% | Humidity extends summer dry times |
+| Outdoor / pool / grill | 0% | 5–10% | Pool heaters, grills, fire pits |
+
+**Month-by-month example (illustrative, based on typical US home):**
+
+| Metric | July (summer) | January (winter) | Difference |
+|-----|-----|-----|-----|
+| Avg outdoor temp | ~85°F | ~30°F | 55°F colder |
+| Heating usage | 0 therms | 120 therms | +120 therms |
+| Water heating | 30 therms | 45 therms | +15 therms (colder inlet water) |
+| Cooking / dryer | 15 therms | 25 therms | +10 therms |
+| Total usage | 45 therms | 200 therms | ~344% increase |
+| Avg cost / therm | ~$1.10 | ~$1.35 | ~22% rate increase |
+| Total bill | ~$49.50 | ~$270.00 | ~445% increase |
+
+A 344% jump in usage combined with a 22% rate hike produces a bill that is nearly six times higher than the summer equivalent. Knowing the split makes it easier to tell whether a spike is weather, rate, or appliance-driven.
 
 ---
 
@@ -246,6 +294,22 @@ Consider replacement if:
 In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illinois, and others), you can choose your gas supplier. Compare offers at your state's public utility commission website. In regulated states, rates are set by the commission — you can attend public hearings or file comments during rate cases.
 {{< /faq >}}
 
+{{< faq "What is a Winter Non-Winter Adjustment (WNA)?" >}}
+A WNA is a billing adjustment some utilities apply during the heating season (typically November through April) to recover the fixed cost of maintaining gas delivery infrastructure during peak winter demand. It appears as a line item on six winter bills and contributes to higher winter totals even when usage is identical to summer. It is a regulated pass-through — not a billing error and not profit for the utility.
+{{< /faq >}}
+
+{{< faq "Why does my water heater use more gas in winter?" >}}
+Incoming groundwater is colder in winter, so your water heater must burn more gas to raise that cold water to your set temperature (usually 120°F). The same number of showers and laundry loads will therefore consume more therms in January than in July.
+{{< /faq >}}
+
+{{< faq "How much does a gas pool heater add to my bill?" >}}
+A typical residential gas pool heater adds **$50–$150 per month** to your bill during active swim season, depending on pool size, target temperature, and local rates. It is one of the most expensive gas appliances to run per month of use.
+{{< /faq >}}
+
+{{< faq "Can I do a leak test myself?" >}}
+Yes — for accessible fittings, mix dish soap and water in a spray bottle and apply to gas connections behind appliances, at the meter, and at shut-off valves. Bubbles that form and grow indicate a leak. Do not attempt to repair it yourself; call a licensed plumber or your utility. If you smell gas, leave the home and call your utility's emergency line from outside.
+{{< /faq >}}
+
 {{< faq-schema >}}
 
 ---
@@ -266,5 +330,4 @@ In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illi
 - [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — How utilities pass through gas cost changes
 - [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — Line items beyond supply and delivery
 - [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — Track usage between bills
-- [High Gas Bill in Winter: Common Causes](/blog/why-is-my-gas-bill-so-high-in-winter/) — Cold-weather specific spikes
 - [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — Help paying your gas bill

@@ -143,7 +143,7 @@ image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop
               If your electricity spikes seasonally, these guides help:
               <a href="/blog/why-is-my-electricity-bill-so-high-in-winter"> winter</a>
               and
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer"> summer</a>.
+              <a href="/blog/03-why-is-my-electric-bill-so-high"> summer</a>.
             </p>
             <h3>4) Fuel prices and fixed charges</h3>
             <p>

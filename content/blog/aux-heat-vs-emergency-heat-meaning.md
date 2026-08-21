@@ -216,7 +216,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If summer bills are your bigger pain point, the sister guide is
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer"> Why Is My Electricity Bill So High in Summer?</a>.
+              <a href="/blog/03-why-is-my-electric-bill-so-high"> Why Is My Electricity Bill So High in Summer?</a>.
             </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>

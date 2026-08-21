@@ -154,7 +154,7 @@ Your electric bill comes down to four numbers: kWh used × the supply rate (8–
             </ul>
             <p>
               For a troubleshooting checklist, read
-              <a href="/blog/why-is-my-electric-bill-so-high-this-month/">why your bill jumped this month</a>.
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">why your bill jumped this month</a>.
             </p>
 
 {{< faq "What is the difference between supply and delivery charges?" >}}

@@ -260,7 +260,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </ul>
             <p>
               If your summer bills also jump, see
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer">
+              <a href="/blog/03-why-is-my-electric-bill-so-high">
                 why electricity bills rise in summer
               </a>
               to separate usage from rate changes.

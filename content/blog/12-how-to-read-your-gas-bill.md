@@ -146,7 +146,7 @@ Everything else — the infrastructure to move gas to your home — is regulated
 
 ## Why Your Gas Bill Is Higher in Winter
 
-Natural gas usage spikes in winter because of heating. If your winter bill caught you off guard, we break down all the reasons in [why your gas bill is so high in winter](/blog/why-is-my-gas-bill-so-high-in-winter/). In a typical northern US household:
+Natural gas usage spikes in winter because of heating. If your winter bill caught you off guard, the [why is my gas bill so high](/blog/07-gas-bill-too-high/) guide breaks down all the causes ranked by likelihood. In a typical northern US household:
 
 - **Summer gas use:** 2–10 therms/month (primarily water heating and cooking)
 - **Winter gas use:** 50–150 therms/month (heating-dominated)
@@ -211,7 +211,7 @@ A therm is a unit of heat energy equal to 100,000 BTUs. It's the standard billin
 {{< /faq >}}
 
 {{< faq "Why is my gas bill higher in winter?" >}}
-Gas bills typically rise 50-200% in winter due to heating. Your furnace uses significantly more gas when temperatures drop. See our guide on [why your gas bill is high in winter](/blog/why-is-my-gas-bill-so-high-in-winter) for causes and fixes.
+Gas bills typically rise 50-200% in winter due to heating. Your furnace uses significantly more gas when temperatures drop. See our [why is my gas bill so high](/blog/07-gas-bill-too-high/) guide for causes and fixes.
 {{< /faq >}}
 
 {{< faq "What's the difference between delivery and supply charges on my gas bill?" >}}

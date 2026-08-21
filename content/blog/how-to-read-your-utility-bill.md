@@ -39,7 +39,7 @@ A typical utility bill contains five core sections: your account information, bi
           <li>Charges This Period: $187.62</li>
           <li><strong>Total Due</strong>: $187.62</li>
           </ul>
-          <p>Always compare this period's charges to the same month last year. If natural gas usage is up 25% without changes to your habits, investigate — you may have a leak or inefficient appliance. Our guide on <a href="/blog/why-is-my-gas-bill-so-high-in-winter/">why winter gas bills spike</a> covers the most common culprits.</p>
+          <p>Always compare this period's charges to the same month last year. If natural gas usage is up 25% without changes to your habits, investigate — you may have a leak or inefficient appliance. Our guide on <a href="/blog/07-gas-bill-too-high/">why gas bills spike</a> covers the most common culprits.</p>
           <p>Also check the <strong>meter read</strong> and <strong>estimated read</strong> indicators. If your bill says "E" next to the meter reading (e.g., "Meter Read: 45,720 <em>E</em>"), it means the utility estimated your usage rather than using an actual reading. Estimated bills often overstate consumption. Submit your own meter reading to your provider for correction. The <a href="/blog/how-to-read-electric-meter/">how to read your electric meter</a> guide walks through the dial-by-dial process.</p>
           <figure>
           <img src="/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_section-2_00003_.webp" alt="how to read your utility bill technology detail" width="800" height="450" loading="lazy" />

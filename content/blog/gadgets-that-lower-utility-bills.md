@@ -69,7 +69,7 @@ The honest summary: **buy the meters before the fixes.** A $25 meter that finds 
 
 ## Related guides
 
-- [Why Is My Electricity Bill So High in Summer?](/blog/why-is-my-electricity-bill-so-high-in-summer/)
+- [Why Is My Electricity Bill So High in Summer?](/blog/03-why-is-my-electric-bill-so-high/)
 - [Sudden Spike in Electricity Bill? Here's How to Find the Cause](/blog/30-sudden-spike-in-electricity-bill-no-usage/)
 - [Best Smart Plugs for Standby Power](/blog/50-best-smart-plugs-standby-power/)
 - [Water Meter Running When No Water Is Used? Do This](/blog/water-meter-running-when-no-water-used/)

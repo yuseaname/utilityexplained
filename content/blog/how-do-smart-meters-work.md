@@ -122,7 +122,7 @@ image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_
               <li>
                 <strong>Better usage insight:</strong> Daily or hourly charts help
                 you explain
-                <a href="/blog/why-is-my-electric-bill-so-high-this-month">
+                <a href="/blog/03-why-is-my-electric-bill-so-high">
                   {" "}
                   bill spikes
                 </a>

@@ -20,7 +20,7 @@ image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-wate
 - Hidden leaks account for 10,000+ gallons/month** before detection
 - **Seasonal rates increase 10–**20%** in summer** due to peak demand
 
-[For more detail, see [common causes of high utility bills](/blog/why-is-my-electric-bill-so-high-this-month/).]
+[For more detail, see [common causes of high utility bills](/blog/03-why-is-my-electric-bill-so-high/).]
 
 <h2 id="top-reasons">The most common reasons for a sudden spike</h2>
 <p>

@@ -68,7 +68,7 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
             </p>
             <p>
               If your bills spike seasonally, these explain the common drivers:
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer"> summer spikes</a>
+              <a href="/blog/03-why-is-my-electric-bill-so-high"> summer spikes</a>
               and
               <a href="/blog/why-is-my-electricity-bill-so-high-in-winter"> winter spikes</a>.
             </p>

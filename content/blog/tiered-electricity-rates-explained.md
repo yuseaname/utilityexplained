@@ -142,7 +142,7 @@ Ask yourself: did this bill cover more days than last month? If so, compare
 <strong>kWh per day</strong>, not total kWh. The full checklist is in
 <a href="/blog/03-why-is-my-electric-bill-so-high/">why your electric bill is so high</a>
 and the
-<a href="/blog/why-is-my-electric-bill-so-high-this-month"> bill-spike guide for any month</a>.
+<a href="/blog/03-why-is-my-electric-bill-so-high"> bill-spike guide for any month</a>.
 </p>
 <p>
 Also note the difference between tiered rates and time-of-use pricing.

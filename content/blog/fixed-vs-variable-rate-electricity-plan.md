@@ -327,7 +327,7 @@ See [utility cost index by state](/blog/2026-utility-cost-index-by-state/) for r
             </p>
             <p>
               For seasonal context, review our guide on
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-summer">
+              <a href="/blog/03-why-is-my-electric-bill-so-high">
                 summer electricity costs
               </a>
               .

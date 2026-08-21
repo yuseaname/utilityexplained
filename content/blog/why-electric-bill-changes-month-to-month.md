@@ -20,7 +20,7 @@ image: "/images/articles/why-electric-bill-changes-month-to-month/why-electric-b
 - Time-of-use rates vary daily** — peak hours cost 2–3x more
 - **Fuel adjustment charges add $10**–**$40** per month** during energy price spikes
 
-[For more detail, see [why electricity bills are high in summer](/blog/why-is-my-electricity-bill-so-high-in-summer/).]
+[For more detail, see [why electricity bills are high in summer](/blog/03-why-is-my-electric-bill-so-high/).]
 
 <h2 id="short-answer">The short answer: same usage does not mean same total</h2>
 <p class="lead">
