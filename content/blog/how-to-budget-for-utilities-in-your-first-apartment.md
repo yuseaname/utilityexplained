@@ -100,6 +100,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               information. This makes it easier to resolve billing issues later.
             </p>
             <p>
+              Moving into your first place? Use the [moving utilities checklist](/blog/moving-utilities-checklist/) to avoid paying for two homes while you set up accounts.
+            </p>
+            <p>
               If you are moving from a roommate situation, make sure the old account
               is closed or transferred to avoid paying for service after you leave.
             </p>

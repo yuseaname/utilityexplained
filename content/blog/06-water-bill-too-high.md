@@ -94,6 +94,8 @@ These are the most expensive and hardest to detect. Signs include:
 
 **What to do:** Call a plumber who specializes in leak detection. Many use acoustic equipment or thermal imaging to pinpoint the leak without tearing up your property. Typical cost: $150–$400 for detection, plus repair.
 
+Water bills don't automatically protect against shutoff—see [when the utility can shut off your service](/blog/can-utility-shut-off-service/) for what rules apply.
+
 ### Check 5: Irrigation system leak
 
 If you have an in-ground sprinkler system, leaks are extremely common — especially at the beginning of watering season.
@@ -249,6 +251,7 @@ Contact your water utility when:
 4. **You need help understanding your rate structure** — Customer service can explain your tiers, seasonal rates, and whether a different rate plan would save you money.
 5. **You want to set up a payment plan** — If a large bill puts you in a bind, most utilities offer payment arrangements.
 6. **You suspect an estimated reading was wrong** — Request an actual meter read.
+7. **Your bill looks inflated for no reason** — If your water bill looks inflated for no reason, see [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) first before filing a complaint.
 
 ### What to say when you call
 

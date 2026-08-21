@@ -183,3 +183,4 @@ Many states require utilities to pay interest on customer deposits, but the rule
 *Related Reading:*
 - [Utility Connection Fee Explained: What It Costs to Set Up New Service](/blog/27-utility-connection-fee-explained)
 - [Utility Bill Taxes, Fees, and Franchise Charges Explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained)
+- [Moving Utilities Checklist: Avoid Paying for Two Homes](/blog/moving-utilities-checklist)

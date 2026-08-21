@@ -21,6 +21,8 @@ image: "/images/articles/21-past-due-balance-utility-bill-explained/21-past-due-
 
 You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
 
+If your balance is past due, understand [when the utility can shut off service](/blog/can-utility-shut-off-service/) before you lose power.
+
 ## What Is a Past Due Balance?
 
 A past due balance is the amount from a previous billing period that was not paid by the due date. It typically appears as a separate line item on your current bill, in addition to the current month's charges. For example:
@@ -134,7 +136,7 @@ If you have a past due balance, you have legal protections that vary by state bu
 
 **The right to written notice.** Your utility must notify you in writing before disconnecting service. The notice must include the amount owed, the deadline for payment, and information about assistance programs. Phone calls and emails are not sufficient—the notice must be in writing (paper mail is standard).
 
-**The right to dispute the balance.** If you believe the past due amount is incorrect (billing error, estimated reading that was too high, charges for service you didn't receive), you have the right to formally dispute it. During the dispute, the utility typically cannot disconnect your service, provided you pay the undisputed portion of the bill.
+**The right to dispute the balance.** If you believe the past due amount is incorrect (billing error, estimated reading that was too high, charges for service you didn't receive), you have the right to formally dispute it. If you believe the past due balance is wrong, follow our guide on [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) before paying it. During the dispute, the utility typically cannot disconnect your service, provided you pay the undisputed portion of the bill.
 
 **The right to a payment arrangement.** Most utilities offer payment plans for past due balances. These typically spread the balance over 3 to 6 months with your current bills. You must contact the utility to set up a plan—they won't offer it automatically.
 
