@@ -269,3 +269,35 @@ Hybrid execution: hardened Day-2 orchestrator (minimax-m3 via Ollama cloud) with
 ### Baseline for re-measurement (Rybbit, 90-day window 2026-05-15 → 08-13)
 Site: 435 sessions / 80.0% bounce / 1m59s avg / 1.97 pages-per-session. Top entry page: water-meter-running (28 sessions, 86% bounce). Re-pull at 2-week and 4-week marks.
 
+
+---
+
+## Entry 6 — 2026-08-21: SQ-013 full-squad audit + correctness/engagement batch (Commander ZCode + squad)
+
+### Baseline (Rybbit, 7d, pulled 2026-08-21)
+- **1,337 sessions / 2,028 pv** (was ~5/day before Aug 14 — **traffic spike is Bing-ecosystem discovery**: DDG 42.4%, Bing 34.5%, Yahoo 12.2%; Google only 4.8%). US 78% · CN 13.5% @98.8% bounce (suspected bots) · Mobile 58%.
+- Bounce 84.7% · pages/session 1.52 · avg session 80s. Organic-search bounce 90.8%.
+- Top entries: complete-guide 61 · water-meter 38 · spike-electric 37 · water-bill-too-high 34 · ccf 33.
+
+### Changes (all validated: Hugo build clean ×3, sitemap 138 URLs, FAQPage on 96 pages deterministic, 0 broken internal links)
+1. **Phantom TOC H2 fix (5 pages)**: `{{< faq-schema >}}` directly followed by `---` rendered a setext-H2 `HAHAHUGOSHORTCODE…` into every TOC. Blank line inserted (04/06/09/02/10-hidden/apartment/costs pages). Pattern eliminated sitewide.
+2. **444 internal links canonicalized**: 262 markdown + 182 raw-HTML `href=` links gained trailing slashes (URL-set-driven conversion against the real build; 0 remaining in content). Template tag-chips (~448) remain — theme-level fix queued (R3 canonical-theme propagation).
+3. **Self-link removed** on 06-water-bill-too-high QA (repointed to leak-indicator article).
+4. **Footer nondeterminism fixed**: `range first 6 (sort cats "Count" "desc")` had unstable ties (Billing↔Fees order, Troubleshooting↔Gas membership flipped between builds). Site-level `layouts/partials/footer.html` override with curated deterministic Topics.
+5. **48-word affiliate-only stub expanded**: do-programmable-thermostats-cut-heating-bills now a full answer-first article (~1,500 words: DOE 1%/degree rule, ENERGY STAR schedule, recovery myth, heat-pump caveat, savings tables, 6 FAQs + schema). Product box retained.
+6. **Hub titles shortened** (all 6 were 87–96 chars → 42–51): keyword-first, truncation-safe.
+7. **Schema corrected/enriched** (site-level head.schema.html override): author pages now emit ProfilePage+Person (were wrongly Article); articles gain inLanguage + publisher url/@id.
+8. **Sitemap hygiene**: noindexed pages (e.g. /search/) no longer listed.
+9. **10 consolidation aliases → server 301s** in .htaccess (meta-refresh stubs remain as unreachable fallback).
+10. **Engagement fixes on 4 defect-exit pages** (analyst-classified): taxes-fees (4s-bail page) gained jump-row + in-QA links to the regional table; complete-guide gained action-path line after jump-row; water-meter + spike-electric gained in-QA contextual links.
+11. **IndexNow wired**: key at /f8c073….txt + CI step POSTs sitemap URLs to api.indexnow.org on every deploy (Bing channel reinforcement).
+12. average-water-usage-per-person description rewritten (was <70 chars).
+
+### Squad credits (SQ-013)
+Analyst (dsv4-flash): bounce diagnosis, SATISFIED vs DEFECT exit classification. Challenger (dsv4-flash): adversarial review (trust-page ads, cannibalization, Amazon tag, E-E-A-T gaps). Twin Q (qwen3.8): technical-SEO audit (pagination canonicals, alias stubs, author schema, overlong titles). Commander: verification of all claims at disk level (refuted 3, confirmed rest), all edits above, reference-build determinism harness (/tmp/sq013-ref). Muse reconciliation + researcher perf/content audits: workers stalled (hardware/model issues), Commander covered critical paths directly.
+
+### Verification battery (all green)
+URL set stable except intended −/search/ · 0 hahahugo artifacts · footer identical across 3 builds · FAQPage=96 across 3 builds · all 9 new internal links resolve · all 4 jump-row anchors exist · YAML lint on deploy.yml · independent Twin Q verification pass on the full diff before commit.
+
+### Rollback
+Git: `git revert <commit>` or reset to 36ca5a18 (pre-session). Tar snapshot: logs/backups/utilityexplained-prework-20260821-120504.tar.gz (source tree).

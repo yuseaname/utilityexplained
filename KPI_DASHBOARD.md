@@ -1,16 +1,18 @@
 # UtilityExplained — KPI Tracking Dashboard
 
-## Current Baseline (August 10, 2026)
-Source: Rybbit Analytics (90-day window, saved as RYBBIT_BASELINE_2026-08-10.json)
+## Current Baseline (August 21, 2026 — 7-day window)
+Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem indexation** (DDG 42%, Bing 35%, Yahoo 12%; Google 4.8% — not yet following).
 
-| Metric | Current | Target (30 days) | Target (60 days) | How to Measure |
-|--------|---------|-------------------|-------------------|----------------|
-| Sessions/day | ~3 | 15-20 | 50-100 | Rybbit > Overview |
-| Bounce Rate | 79.8% | <65% | <50% | Rybbit > Overview |
-| Pages/Session | 1.76 | >1.9 | >2.0 | Rybbit > Overview |
-| Avg Duration | 112s | >150s | >180s | Rybbit > Overview |
-| Google Traffic | 2/90 days | 5+/week | 20+/day | Rybbit > Referrers |
-| US Visitors | 77% | >80% | >85% | Rybbit > Countries |
+| Metric | Aug 10 (90d) | **Aug 21 (7d)** | Target (30 days) | How to Measure |
+|--------|--------------|-----------------|-------------------|----------------|
+| Sessions | ~3/day | **~191/day** | sustain 150+/day | Rybbit > Overview |
+| Bounce Rate | 79.8% | **84.7%** | <70% | Rybbit > Overview |
+| Pages/Session | 1.76 | **1.52** | >1.9 | Rybbit > Overview |
+| Avg Duration | 112s | **80s** | >120s | Rybbit > Overview |
+| Google Traffic | 2/90d | **22/7d (4.8%)** | 50+/day | Rybbit > Referrers |
+| US Visitors | 77% | **78%** (CN 13.5% @99% bounce = bots) | >80% | Rybbit > Countries |
+
+**Watch (post 2026-08-21 batch):** bounce + time-on-page on the 4 defect-exit pages (taxes-fees, complete-guide, water-meter, spike-electric); hub-page entrances after title shortening; IndexNow-submitted URL pickup in Bing.
 
 ## Milestones (from original plan)
 1. **100 visitors/day sustained** for 14+ days
