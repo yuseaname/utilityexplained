@@ -3,6 +3,7 @@ title: "Whole House Generator vs. Portable: Real Cost Comparison"
 slug: "45-whole-house-generator-vs-portable-cost"
 description: "Compare the true costs of whole house generators vs portable generators. Upfront price, fuel, maintenance and which is better for your budget."
 date: 2026-05-30
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "Backup Power"
 categories: ["Backup Power"]

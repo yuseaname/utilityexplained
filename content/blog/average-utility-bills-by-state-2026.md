@@ -3,6 +3,7 @@ title: "Average utility bills by state: Full Comparison (2026)"
 slug: "average-utility-bills-by-state-2026"
 description: "Learn everything about average utility bills by state in 2026. Costs, comparisons, expert tips for US homeowners."
 date: 2026-05-29
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]

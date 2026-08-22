@@ -3,6 +3,7 @@ title: "Estimated Utility Bill Explained"
 slug: "14-estimated-utility-bill-explained"
 description: "Why does your utility bill say 'estimated' instead of showing an actual meter reading? Learn how utility companies estimate bills, when they do it, and what to do if the estimate is wrong."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]

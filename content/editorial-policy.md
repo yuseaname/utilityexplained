@@ -2,6 +2,7 @@
 title: "Editorial Policy"
 description: "How Utility Explained researches, writes, and reviews its utility-bill guides."
 date: 2024-12-01
+updated: 2026-08-12
 type: "page"
 layout: "single"
 url: "/editorial-policy"

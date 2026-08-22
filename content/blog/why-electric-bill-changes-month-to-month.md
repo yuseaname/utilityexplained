@@ -3,6 +3,7 @@ title: "Why Your Electric Bill Changes Month to Month (Even With Similar Usage)"
 slug: "why-electric-bill-changes-month-to-month"
 description: "Electricity bills shift for reasons beyond usage: time-of-use windows, tiered rates, demand charges, and supply adjustments."
 date: 2026-01-15
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

@@ -3,6 +3,7 @@ title: "How to Budget for Utilities in Your First Apartment"
 slug: "how-to-budget-for-utilities-in-your-first-apartment"
 description: "A simple budgeting guide for electricity, gas, water, and internet in your first place."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]

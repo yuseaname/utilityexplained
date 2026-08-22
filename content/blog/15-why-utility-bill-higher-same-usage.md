@@ -3,6 +3,7 @@ title: "Why Is My Utility Bill Higher With the Same Usage?"
 slug: "15-why-utility-bill-higher-same-usage"
 description: "Same kWh usage but a bigger bill? Rate changes, fees, seasonal rate tiers, and billing adjustments can all raise your costs. Here's what's actually going on."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]

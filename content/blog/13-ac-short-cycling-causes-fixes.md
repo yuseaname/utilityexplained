@@ -3,6 +3,7 @@ title: "AC Short Cycling \u2014 Causes and Fixes"
 slug: "13-ac-short-cycling-causes-fixes"
 description: "AC short cycling wastes energy and damages your compressor. Learn the common causes\u2014dirty filters, refrigerant leaks, oversized units\u2014and how to fix each one."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "HVAC"
 categories: ["HVAC"]

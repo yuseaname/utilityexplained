@@ -3,6 +3,7 @@ title: "Marcia Washington — Affordability & Assistance Editor"
 slug: "marcia-washington"
 description: "Marcia Washington is an editor on the Utility Explained team, focusing on utility budgeting, assistance programs, and keeping service on."
 date: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Marcia Washington

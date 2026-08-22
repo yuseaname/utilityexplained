@@ -3,6 +3,7 @@ title: "Tanya Patterson — Consumer Rights Editor"
 slug: "tanya-patterson"
 description: "Tanya Patterson is an editor on the Utility Explained team, focusing on utility fees, billing disputes, and consumer rights."
 date: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Tanya Patterson

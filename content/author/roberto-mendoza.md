@@ -3,6 +3,7 @@ title: "Roberto Mendoza — HVAC & Systems Editor"
 slug: "roberto-mendoza"
 description: "Roberto Mendoza is an editor on the Utility Explained team, focusing on heating and cooling systems and how they affect utility bills."
 date: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Roberto Mendoza

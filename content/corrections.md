@@ -2,6 +2,7 @@
 title: "Corrections Policy"
 description: "How Utility Explained handles errors and updates to its guides."
 date: 2024-12-01
+updated: 2026-08-10
 type: "page"
 layout: "single"
 url: "/corrections"

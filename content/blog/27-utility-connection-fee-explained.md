@@ -3,6 +3,7 @@ title: "Utility Connection Fee Explained: What It Costs to Set Up New Service"
 slug: "27-utility-connection-fee-explained"
 description: "Residential utility connection fees run $25–$150 for most electric, gas, and water accounts. Higher charges apply for same-day service, after-hours activation, and new construction. See typical 2026 costs and how to set up service without overpaying."
 date: 2026-05-28
+updated: 2026-08-12
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

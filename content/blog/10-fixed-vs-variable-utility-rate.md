@@ -3,6 +3,7 @@ title: "Fixed vs Variable Utility Rates: Which One Saves You More Money?"
 slug: "10-fixed-vs-variable-utility-rate"
 description: "Compare fixed and variable utility rate plans. Learn when to lock in a rate, when to float with the market, and how to choose the right plan for your usage pattern."
 date: 2026-03-07
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Rates & Plans"
 categories: ["Rates & Plans"]

@@ -3,8 +3,11 @@ title: "Heating & Cooling: HVAC Systems and Costs Explained"
 description: "Learn how heating and cooling systems work, what they cost to run, and how to keep your home comfortable without breaking the bank."
 image: "/images/articles/heating-cooling-explained/custom_hero.webp"
 date: 2024-12-01
+updated: 2026-08-21
 type: "page"
-layout: "single"
+layout: "hub"
+hub_short: "Heating & Cooling"
+hub_categories: ["Heating & Cooling", "Heating", "HVAC"]
 url: "/heating-cooling-explained"
 ---
 

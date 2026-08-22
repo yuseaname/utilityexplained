@@ -3,6 +3,7 @@ title: "Ductless Mini-Split vs Central Air: Cost, Efficiency, and Which One Fits
 slug: "ductless-mini-split-vs-central-air"
 description: "Trying to choose between ductless mini-splits and central air? This guide compares upfront cost, efficiency, comfort, and real-world use cases in plain English."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]

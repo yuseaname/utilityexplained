@@ -3,6 +3,7 @@ title: "7 Gadgets That Lower Your Utility Bills (2026): What Actually Pays Back"
 slug: "gadgets-that-lower-utility-bills"
 description: "Seven devices that genuinely cut electric, gas, and water bills — energy monitors, leak detectors, smart thermostats, and smart plugs — with real payback math, not marketing claims."
 date: 2026-08-15
+updated: 2026-08-21
 author: "David Chen"
 category: "Savings"
 categories: ["Savings"]

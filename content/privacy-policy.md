@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 description: "How Utility Explained collects, uses, and protects data, including advertising and analytics cookies and your choices."
 date: 2026-08-12
+updated: 2026-08-12
 type: "page"
 layout: "single"
 ---

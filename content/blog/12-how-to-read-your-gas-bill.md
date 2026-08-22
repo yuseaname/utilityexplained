@@ -4,6 +4,7 @@ slug: "12-how-to-read-your-gas-bill"
 aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/"]
 description: "Confused by your natural gas bill? This guide explains every charge on your gas bill in plain English \u2014 from therms to distribution fees \u2014 so you know exactly what you're paying for."
 date: 2026-03-16
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]

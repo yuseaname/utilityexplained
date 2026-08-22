@@ -2,6 +2,7 @@
 title: "About"
 description: "Why Utility Explained exists, who it's for, and how it's different."
 date: 2024-12-01
+updated: 2026-08-12
 type: "page"
 layout: "single"
 ---

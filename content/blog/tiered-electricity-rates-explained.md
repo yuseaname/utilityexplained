@@ -3,6 +3,7 @@ title: "Tiered Electricity Rates Explained (Tier 1 vs Tier 2 on Your Bill)"
 slug: "tiered-electricity-rates-explained"
 description: "Tiered electricity rates charge a lower price per kWh up to a baseline allowance (often 400–500 kWh), then a higher price above it. Learn how tiers work, where they show up on your bill, and why a small usage increase can spike the total."
 date: 2025-12-26
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

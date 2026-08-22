@@ -1,0 +1,102 @@
+{{ define "main" }}
+<article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+  {{ partial "breadcrumbs.html" . }}
+
+  {{/* Hub header — the desk, not an article */}}
+  <header class="mb-6">
+    <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="text-lg text-gray-600 leading-relaxed">{{ . }}</p>
+    {{ end }}
+    {{ with .Params.hub_note }}
+    <p class="ue-register mt-4" aria-label="What this desk covers">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  {{/* Hero (hubs keep theirs above the fold — brand moment on nav pages) */}}
+  {{ partial "hero-image.html" . }}
+
+  {{/* Long-form pillar content (the explainer itself) */}}
+  {{ if and (gt .WordCount 800) .TableOfContents }}
+    {{ partial "toc.html" . }}
+  {{ end }}
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+  {{ partial "faq-schema-render.html" . }}
+
+  {{/* ============================================================
+       SQ-016 Phase A — THE HUB DIRECTORY (auto-generated)
+       Articles resolve via front-matter `hub_categories` on this page,
+       grouped by their category. Replaces "hubs as prose with HTML link
+       lists" with a real hub page: every guide, described, organized.
+       ============================================================ */}}
+  {{ $cats := .Params.hub_categories | default slice }}
+  {{ $hubPages := where site.RegularPages "Section" "blog" }}
+  {{ $matched := slice }}
+  {{ range $hubPages }}
+    {{ if in $cats .Params.category }}
+      {{ $matched = $matched | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $matched) 0 }}
+  <nav class="hub-directory" aria-label="Browse {{ .Title }} guides">
+    <div class="section-heading">
+      <h2 id="hub-guides">Every {{ with .Params.hub_short }}{{ . }}{{ else }}{{ .Title }}{{ end }} Guide</h2>
+      <span class="section-heading-link">{{ len $matched }} guides · updated regularly</span>
+    </div>
+
+    {{/* Group by category so the directory reads as an audit register */}}
+    {{ range $cat := $cats }}
+      {{ $group := where $matched "Params.category" $cat }}
+      {{ if gt (len $group) 0 }}
+        {{ $pages := $group.ByDate.Reverse }}
+        <section class="hub-group">
+          <h3 class="hub-group-title">{{ $cat }}</h3>
+          <ul class="hub-group-list">
+            {{ range $pages }}
+            <li>
+              <a href="{{ .RelPermalink }}" class="hub-guide-link">{{ .Title }}</a>
+              {{ with .Params.description }}<p class="hub-guide-desc">{{ . | truncate 110 }}</p>{{ end }}
+            </li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  {{/* Cross-desk navigation: the other hubs + glossary */}}
+  {{ $hubs := slice
+    (dict "url" "/electricity-explained/" "label" "Electricity")
+    (dict "url" "/gas-explained/" "label" "Gas")
+    (dict "url" "/water-explained/" "label" "Water")
+    (dict "url" "/heating-cooling-explained/" "label" "Heating & Cooling")
+    (dict "url" "/utility-bills-costs-explained/" "label" "Bill Basics")
+    (dict "url" "/utilities-glossary/" "label" "Glossary")
+  }}
+  <nav class="hub-cross" aria-label="Other utility desks">
+    <span class="hub-cross-label">Other desks</span>
+    {{ range $hubs }}
+      {{ if ne $.RelPermalink .url }}
+        <a href="{{ .url | relURL }}" class="hub-cross-link">{{ .label }}</a>
+      {{ end }}
+    {{ end }}
+  </nav>
+
+  {{/* One ad per hub (zone map: hubs = 1, below-title-equivalent depth here
+        keeps it clear of the directory interactions) */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
+
+  {{/* Sources strip — hubs make claims too */}}
+  <div class="sources-strip">
+    <div class="sources-strip-title">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+      How we got these numbers
+    </div>
+    <p>Cost ranges reflect typical U.S. utility bills and are labeled as estimates, not guarantees. Rates, climates, and providers vary by region. Read our <a href="{{ "/methodology/" | relURL }}">methodology</a> to see how we calculate and review these figures.</p>
+  </div>
+</article>
+{{ end }}

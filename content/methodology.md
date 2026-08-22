@@ -2,6 +2,7 @@
 title: "Methodology"
 description: "How Utility Explained sources and calculates the cost ranges and figures in its guides."
 date: 2024-12-01
+updated: 2026-08-10
 type: "page"
 layout: "single"
 url: "/methodology"

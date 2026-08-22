@@ -3,6 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
 slug: "how-to-read-electric-meter"
 description: "Confused by the dials? Learn how to read any electric meter (analog or digital) to verify your bill and spot errors instantly."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Suggest a topic, ask a question, or report an error on Utility Explained."
 date: 2024-12-01
+updated: 2026-08-10
 type: "page"
 layout: "single"
 url: "/contact"

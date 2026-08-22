@@ -3,6 +3,7 @@ title: "Delivery Charge vs Supply Charge on Your Utility Bill: What's the Differ
 slug: "24-delivery-charge-vs-supply-charge-utility-bill"
 description: "Delivery charge and supply charge make up your total utility cost. Learn what each covers, how to read them on your bill, and how deregulated markets split these charges."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Marcia Washington"
 category: "Costs"
 categories: ["Costs"]

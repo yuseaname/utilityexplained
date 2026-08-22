@@ -3,6 +3,7 @@ title: "Fuel Adjustment Charge on Utility Bill Explained"
 slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
 description: "Your electricity bill has a fuel adjustment charge that changes every month. Here's how this volatile fee works, what drives it, and why your bill can spike even when your usage doesn't change."
 date: 2026-05-28
+updated: 2026-08-15
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

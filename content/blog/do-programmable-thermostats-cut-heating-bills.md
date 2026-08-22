@@ -4,6 +4,7 @@ slug: "do-programmable-thermostats-cut-heating-bills"
 description: "Programmable thermostats can cut heating bills, but only with a real setback schedule. Here is what the DOE guidance and field data actually show."
 image: "/images/articles/do-programmable-thermostats-cut-heating-bills/custom_hero.webp"
 date: 2026-08-14
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]

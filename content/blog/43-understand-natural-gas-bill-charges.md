@@ -3,6 +3,7 @@ title: "Understanding Natural Gas Bill Charges: What Are You Paying For?"
 slug: "43-understand-natural-gas-bill-charges"
 description: "Decode your natural gas bill and understand every charge. Learn about supply charges, delivery fees, taxes and how to lower your monthly gas costs."
 date: 2026-05-30
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]

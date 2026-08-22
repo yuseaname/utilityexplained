@@ -3,6 +3,7 @@ title: "The Moving Utilities Checklist: When to Turn Off, Turn On, and Transfer"
 slug: "moving-utilities-checklist"
 description: "Moving soon? Here's the exact timeline for turning off utilities at your old home and turning them on at the new one — plus a printable one-page checklist so you don't pay for two homes or sit in the dark."
 date: 2026-08-19
+updated: 2026-08-19
 author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]

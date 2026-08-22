@@ -3,6 +3,7 @@ title: "How Utility Rates, Fees, and Usage Work Together on Your Bill"
 slug: "how-utility-rates-fees-usage-work-together"
 description: "A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
 date: 2026-01-15
+updated: 2026-08-21
 author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]

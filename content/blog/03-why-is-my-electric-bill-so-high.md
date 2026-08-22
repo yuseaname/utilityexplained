@@ -4,6 +4,7 @@ slug: "03-why-is-my-electric-bill-so-high"
 aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter"]
 description: "Your electric bill spiked and you don't know why. Here are the 12 most common causes, how to diagnose each one, and what to do about it."
 date: 2026-03-07
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]

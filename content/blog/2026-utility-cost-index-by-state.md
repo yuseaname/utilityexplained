@@ -3,6 +3,7 @@ title: "2026 Utility Cost Index: Average Electric, Gas & Water Bills by State"
 slug: "2026-utility-cost-index-by-state"
 description: "Original research: Average monthly electric, gas, and water bills for all 50 states, ranked by total utility cost."
 date: 2026-08-10
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Costs"
 categories: ["Costs"]

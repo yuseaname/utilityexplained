@@ -3,6 +3,7 @@ title: "Phantom Power Draw: How to Find and Stop Silent Electricity Thieves"
 slug: "phantom-power-draw-explained"
 description: "Phantom power costs the average household $100-200 per year. Here is exactly what draws power when off, how to measure it, and how to eliminate it."
 date: 2026-08-10
+updated: 2026-08-15
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

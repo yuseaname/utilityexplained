@@ -3,6 +3,7 @@ title: "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer U
 slug: "sewer-averaging-water-bill-explained"
 description: "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

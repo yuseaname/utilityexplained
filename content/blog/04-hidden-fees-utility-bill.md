@@ -3,6 +3,7 @@ title: "Hidden Fees on Your Utility Bill: What They Are and How to Avoid Them"
 slug: "04-hidden-fees-utility-bill"
 description: "Your quoted rate isn't what you actually pay. Here are the 15+ hidden fees buried in utility bills and which ones you can fight or avoid."
 date: 2026-03-07
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

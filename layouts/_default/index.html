@@ -1,0 +1,247 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+
+  <!-- Hero: "meter reader" — the thesis of the site -->
+  <section class="hero-meter">
+    <div class="relative z-10 max-w-2xl">
+      <span class="hero-meter-eyebrow">
+        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+        </svg>
+        Plain-English utility guides
+      </span>
+
+      <h1>Understand Every Line on Your Utility Bill</h1>
+
+      <p class="hero-meter-lede">
+        We translate electricity, gas, and water bills into decisions you can actually make — line by line, charge by charge, so you stop overpaying.
+      </p>
+
+      {{/* SQ-016 — the register readout: the bill's own device, honest numbers only */}}
+      <p class="ue-register" role="img" aria-label="{{ len (where .Site.RegularPages "Section" "blog") }} plain-English guides covering electricity, gas, water and heating, decoded line by line">
+        ELECTRICITY · GAS · WATER · HEATING — <strong>{{ len (where .Site.RegularPages "Section" "blog") }} GUIDES</strong> · DECODED LINE BY LINE
+      </p>
+
+      <div class="flex flex-wrap items-center gap-3 mt-8">
+        <a href="#decode" class="hero-meter-cta">
+          Start with your bill
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="{{ "/utilities-glossary/" | relURL }}" class="hero-meter-link">
+          Search the glossary
+        </a>
+      </div>
+
+      <!-- Quick links: top 4 high-intent articles -->
+      <div class="quick-links" aria-label="Popular quick answers">
+        <span class="quick-links-label">Searchers want:</span>
+        {{ $quick := slice "/blog/how-sewer-charges-work-on-your-water-bill/" "/blog/water-meter-running-when-no-water-used/" "/blog/what-is-ccf-on-a-water-bill/" "/blog/30-sudden-spike-in-electricity-bill-no-usage/" }}
+        {{ range $quick }}
+          {{ range where $.Site.RegularPages ".RelPermalink" . }}
+            <a href="{{ .RelPermalink }}" class="quick-link">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Signature: analog meter-dial motif -->
+    <svg class="hero-dial" viewBox="0 0 400 400" aria-hidden="true">
+      <circle class="hero-dial-ring" cx="200" cy="200" r="195"/>
+      <circle class="hero-dial-ring" cx="200" cy="200" r="170"/>
+      <circle class="hero-dial-ring" cx="200" cy="200" r="150"/>
+      <g>
+        {{ range $i := seq 0 60 }}
+          {{ $angle := mul $i 6 }}
+          {{ $major := eq (mod $i 5) 0 }}
+          {{ $y1 := cond $major 50 42 }}
+          <line class="{{ if $major }}hero-dial-tick-major{{ else }}hero-dial-tick{{ end }}"
+            x1="200" y1="{{ $y1 }}"
+            x2="200" y2="30"
+            transform="rotate({{ $angle }} 200 200)" />
+        {{ end }}
+      </g>
+      <path class="hero-dial-arc" d="M 64 264 A 150 150 0 0 1 280 86" />
+      <line class="hero-dial-needle" x1="200" y1="200" x2="262" y2="120" />
+      <circle class="hero-dial-hub" cx="200" cy="200" r="7" />
+      <text class="hero-dial-readout" x="200" y="240" text-anchor="middle">kWh USED</text>
+    </svg>
+  </section>
+
+  <!-- Guided entry: "What can we help you decode?" -->
+  <section id="decode" class="mb-12" aria-label="Choose a utility type">
+    <div class="section-heading">
+      <h2>What can we help you decode?</h2>
+    </div>
+    <div class="guided-entry">
+      {{/* Electricity */}}
+      <a href="{{ "/electricity-explained/" | relURL }}" class="guided-card">
+        <div class="guided-card-icon">
+          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+        </div>
+        <div class="guided-card-title">Electricity Bills</div>
+        <p class="guided-card-desc">Decode kWh, supply vs. delivery charges, demand fees, and find out why your bill jumped.</p>
+        <span class="guided-card-link">Explore electricity <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+      {{/* Gas */}}
+      <a href="{{ "/gas-explained/" | relURL }}" class="guided-card">
+        <div class="guided-card-icon">
+          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.24 17 7.343 18.5 8 19 9 19 10c0 .5 0 1-.5 2 .83.83 1.414 1.414 1.157 2.657z"/></svg>
+        </div>
+        <div class="guided-card-title">Gas Bills</div>
+        <p class="guided-card-desc">Understand therms, CCF, customer charges, and why your gas bill spikes in winter.</p>
+        <span class="guided-card-link">Explore gas <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+      {{/* Water */}}
+      <a href="{{ "/water-explained/" | relURL }}" class="guided-card">
+        <div class="guided-card-icon">
+          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M12 2.5S5 10 5 15a7 7 0 0014 0c0-5-7-12.5-7-12.5z"/></svg>
+        </div>
+        <div class="guided-card-title">Water Bills</div>
+        <p class="guided-card-desc">Learn CCF, sewer charges, stormwater fees, and how to read your water meter.</p>
+        <span class="guided-card-link">Explore water <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></span>
+      </a>
+    </div>
+  </section>
+
+  <!-- More topics (pillars + glossary as topic tiles) -->
+  <section class="mb-12" aria-label="More topics">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <a href="{{ "/heating-cooling-explained/" | relURL }}" class="topic-tile">
+        <div class="topic-tile-icon"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"/></svg></div>
+        <div class="topic-tile-body"><div class="topic-tile-title">Heating &amp; Cooling</div><div class="topic-tile-count">HVAC costs &amp; efficiency</div></div>
+      </a>
+      <a href="{{ "/utility-bills-costs-explained/" | relURL }}" class="topic-tile">
+        <div class="topic-tile-icon"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg></div>
+        <div class="topic-tile-body"><div class="topic-tile-title">Bill Basics</div><div class="topic-tile-count">Start here if you're new</div></div>
+      </a>
+      <a href="{{ "/utilities-glossary/" | relURL }}" class="topic-tile">
+        <div class="topic-tile-icon"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg></div>
+        <div class="topic-tile-body"><div class="topic-tile-title">Glossary</div><div class="topic-tile-count">Every term defined</div></div>
+      </a>
+    </div>
+  </section>
+
+  {{/* Essential Guides — curated high-intent starters */}}
+  {{ $essential := slice "/blog/how-to-read-your-utility-bill/" "/blog/03-why-is-my-electric-bill-so-high/" "/blog/what-is-a-kilowatt-hour/" "/blog/electric-bill-breakdown-understanding-line-items/" "/blog/05-how-to-lower-utility-bills/" "/blog/average-utility-bills-by-state-2026/" }}
+  {{ $essentialPages := slice }}
+  {{ range $url := $essential }}
+    {{ range where $.Site.RegularPages ".RelPermalink" $url }}
+      {{ $essentialPages = $essentialPages | append . }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $essentialPages) 0 }}
+  <section class="mb-12" aria-label="Essential guides">
+    <div class="section-heading">
+      <h2>Start Here</h2>
+      <a href="{{ "/blog/" | relURL }}" class="section-heading-link">View all guides →</a>
+    </div>
+    <div class="essential-list">
+      {{ range $i, $page := $essentialPages }}
+        <a href="{{ $page.RelPermalink }}" class="essential-item">
+          <span class="essential-item-num">{{ printf "%02d" (add $i 1) }}</span>
+          <span class="essential-item-title">{{ $page.Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Popular Guides (top traffic from Rybbit) -->
+  {{ $popularOrder := slice
+    "/blog/how-sewer-charges-work-on-your-water-bill/"
+    "/blog/water-meter-running-when-no-water-used/"
+    "/blog/what-is-ccf-on-a-water-bill/"
+    "/blog/water-meter-leak-indicator-explained/"
+    "/blog/28-utility-reconnection-fee-explained/"
+    "/blog/30-sudden-spike-in-electricity-bill-no-usage/"
+  }}
+  {{ $popularPages := slice }}
+  {{ range $url := $popularOrder }}
+    {{ range where $.Site.RegularPages ".RelPermalink" $url }}
+      {{ $popularPages = $popularPages | append . }}
+    {{ end }}
+  {{ end }}
+  {{/* SQ-016 — Most Read rebuilt on theme tokens: the off-palette Tailwind
+       blue/gray chips (#dbeafe/#1e40af, text-gray-*, group-hover:text-blue-600)
+       are gone; register styling lives in site-overrides.css */}}
+  <section class="mb-12" aria-label="Most read guides">
+    <div class="section-heading">
+      <h2>Most Read Guides</h2>
+      <span class="section-heading-link">The articles our visitors come back to most</span>
+    </div>
+    <div class="popular-list">
+      {{ range $popularPages }}
+      <a href="{{ .RelPermalink }}" class="popular-item">
+        <span class="popular-item-num" aria-hidden="true">{{ with .Params.category }}{{ substr . 0 1 }}{{ else }}★{{ end }}</span>
+        <span class="popular-item-body">
+          <span class="popular-item-title">{{ .Title }}</span>
+          {{ with .Params.description }}<span class="popular-item-desc">{{ . | truncate 84 }}</span>{{ end }}
+        </span>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- AdSense slot after Most Read Guides -->
+  {{ partial "adsense.html" (dict "position" "end_article" "ctx" $) }}
+
+  <!-- Latest Articles -->
+  <section aria-label="Latest guides">
+    <div class="section-heading">
+      <h2>Latest Guides</h2>
+      <a href="{{ "/blog/" | relURL }}" class="section-heading-link">View all →</a>
+    </div>
+    <div class="section-grid">
+      {{ range first 6 (where $.Site.RegularPages "Section" "blog").ByDate.Reverse }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                <img src="{{ . }}" alt="{{ $.Title | default "Utility Explained" }}" class="card-image" loading="lazy" decoding="async">
+              </div>
+            {{ end }}
+            <div class="card-body">
+              {{ with .CurrentSection }}
+                {{ if and (not .IsHome) (ne .Title "Blog") }}
+                  <span class="badge badge-accent mb-2 inline-block">{{ .Title }}</span>
+                {{ end }}
+              {{ end }}
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 110 .Plain) }}</p>
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- Trust strip (SQ-016: every claim live or dropped — no more "Updated 2026"
+       without updated: dates; independence replaces the freshness fib) -->
+  <div class="trust-strip">
+    <a href="{{ "/editorial-policy/" | relURL }}" class="trust-strip-item">
+      <svg class="w-7 h-7 trust-strip-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+      <span class="trust-strip-label">Plain-English</span>
+      <span class="trust-strip-sub">No jargon, ever</span>
+    </a>
+    <a href="{{ "/editorial-team/" | relURL }}" class="trust-strip-item">
+      <svg class="w-7 h-7 trust-strip-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+      <span class="trust-strip-label">{{ len (where $.Site.RegularPages "Section" "blog") }} Guides</span>
+      <span class="trust-strip-sub">Every charge explained</span>
+    </a>
+    <a href="{{ "/methodology/" | relURL }}" class="trust-strip-item">
+      <svg class="w-7 h-7 trust-strip-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+      <span class="trust-strip-label">Actionable</span>
+      <span class="trust-strip-sub">Find the fix, lower the bill</span>
+    </a>
+    <a href="{{ "/affiliate-disclosure/" | relURL }}" class="trust-strip-item">
+      <svg class="w-7 h-7 trust-strip-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+      <span class="trust-strip-label">Independent</span>
+      <span class="trust-strip-sub">No provider or switch-site ties</span>
+    </a>
+  </div>
+
+</div>
+{{ end }}

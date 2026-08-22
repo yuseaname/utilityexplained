@@ -3,6 +3,7 @@ title: "Why Is My Water Bill So High? 11 Fast Checks That Find the Problem"
 slug: "06-water-bill-too-high"
 description: "Step-by-step troubleshooting guide for high water bills. Learn how to read your meter, find hidden leaks, understand rate structures, and lower your next bill."
 date: 2026-03-07
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]

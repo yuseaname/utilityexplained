@@ -3,6 +3,7 @@ title: "Budget Billing and Level Pay Explained"
 slug: "16-budget-billing-level-pay-explained"
 description: "Tired of utility bills that swing from $80 in spring to $350 in summer? Budget billing smooths your payments into a predictable monthly amount. Here's how it works and whether it's right for you."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Rates & Plans"
 categories: ["Rates & Plans"]

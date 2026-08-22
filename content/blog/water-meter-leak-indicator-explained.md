@@ -3,6 +3,7 @@ title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running Wh
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

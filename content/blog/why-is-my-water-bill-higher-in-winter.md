@@ -3,6 +3,7 @@ title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
 slug: "why-is-my-water-bill-higher-in-winter"
 description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

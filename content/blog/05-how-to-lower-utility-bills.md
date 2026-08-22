@@ -3,6 +3,7 @@ title: "How to Lower Your Utility Bills: 25 Proven Ways That Actually Work"
 slug: "05-how-to-lower-utility-bills"
 description: "Cut your utility bills by 20-40% with these proven strategies. From free quick fixes to long-term investments, ranked by savings potential."
 date: 2026-03-07
+updated: 2026-08-16
 author: "David Chen"
 category: "Savings"
 categories: ["Savings"]

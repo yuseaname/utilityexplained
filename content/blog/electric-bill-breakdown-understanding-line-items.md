@@ -3,6 +3,7 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

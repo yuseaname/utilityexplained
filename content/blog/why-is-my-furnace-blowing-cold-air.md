@@ -3,6 +3,7 @@ title: "Why Is My Furnace Blowing Cold Air? 9 Common Causes"
 slug: "why-is-my-furnace-blowing-cold-air"
 description: "Heat is on but the air feels cold? Learn the most common causes, what is normal, and what to check before you worry."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]

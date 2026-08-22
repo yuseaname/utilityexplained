@@ -1,0 +1,258 @@
+/* ============================================================================
+   utilityexplained — site-overrides.css (SQ-016 Phase A, 2026-08-21)
+   Loads AFTER the canonical adsense-base design-system.css via the site
+   head.html override. Canonical theme is untouched (Atlas R3): every rule
+   here is a utilityexplained-local decision.
+   Doctrine: "The Independent Bill Auditor" — flat ledger surfaces, mono as
+   the voice of numbers, amber reserved for the one line that matters.
+   ========================================================================== */
+
+/* ----------------------------------------------------------------------------
+   1. DE-SLOP — remove borrowed generic aesthetics (blueprint §6 demolition list)
+   Plain flat surfaces replace glassmorphism, 135° gradients, and SaaS hover
+   lifts. Specificity matches design-system.css; load order decides.
+   ---------------------------------------------------------------------------- */
+
+/* Kill nav glassmorphism — solid ink nav, no blur repaint cost on mobile */
+.nav-container {
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+/* Quick Answer: from gradient wash to a ledger entry — raised paper,
+   amber audit rule on the left edge. This is the answer block; it should
+   read as a finding, not a promo card. */
+.quick-answer {
+  background: #fffcfa !important;              /* paper-raised */
+  border: 1px solid rgba(14, 32, 28, 0.08);
+  border-left: 4px solid var(--color-accent-500, #e8a33d);
+  box-shadow: none;
+}
+
+/* Flatten dark 135° gradients to solid ink surfaces */
+.card-fallback,
+.category-hero,
+.category-band {
+  background: var(--color-primary-800, #16302b) !important;
+}
+
+/* Newsletter box: solid ink, no teal gradient */
+.newsletter-box {
+  background: #0e201c !important;
+}
+
+/* No SaaS hover physics: cards do not lift, images do not zoom */
+.card:hover,
+.popular-card:hover,
+.journey-step:hover,
+.essential-item:hover {
+  transform: none !important;
+}
+.card:hover .card-image {
+  transform: none !important;
+}
+
+/* Kill the fixed-attachment backdrop repaint cost on mobile (Challenger W12) */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll !important;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   2. SIGNATURE — the register readout (mono voice of numbers)
+   ---------------------------------------------------------------------------- */
+.ue-register {
+  font-family: var(--font-mono, ui-monospace, "SF Mono", Menlo, Consolas, monospace);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-primary-900, #0e201c);
+  background: var(--color-accent-50, #fdf8ed);
+  border: 1px solid var(--color-accent-200, #f5d98e);
+  border-radius: 4px;
+  padding: 0.6rem 0.9rem;
+  margin-top: 1.25rem;
+  font-variant-numeric: tabular-nums;
+  display: inline-block;
+}
+.ue-register strong {
+  color: var(--color-accent-700, #ab6220);
+  font-weight: 700;
+}
+
+/* Thermal tear-off — perforation rule for section seams ("detach here") */
+.ue-tear-off {
+  border: 0;
+  border-top: 2px dashed rgba(14, 32, 28, 0.25);
+  margin: 2.5rem 0;
+  position: relative;
+}
+.ue-tear-off::after {
+  content: "· · ·";
+  position: absolute;
+  right: 0;
+  top: -0.7em;
+  font-size: 0.7rem;
+  letter-spacing: 0.4em;
+  color: rgba(14, 32, 28, 0.35);
+  background: inherit;
+}
+
+/* ----------------------------------------------------------------------------
+   3. HOMEPAGE — Most Read as an audit register (replaces blue/gray cards)
+   ---------------------------------------------------------------------------- */
+.popular-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+}
+.popular-item {
+  display: flex;
+  gap: 0.85rem;
+  align-items: flex-start;
+  padding: 1rem 1.1rem;
+  background: #fffcfa;
+  border: 1px solid rgba(14, 32, 28, 0.1);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+.popular-item:hover {
+  border-color: var(--color-accent-500, #e8a33d);
+  background: var(--color-accent-50, #fdf8ed);
+}
+.popular-item-num {
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background: var(--color-primary-900, #0e201c);
+  color: var(--color-accent-400, #ebb23a);
+  font-family: var(--font-mono, ui-monospace, Menlo, monospace);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+.popular-item-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.popular-item-title {
+  font-weight: 600;
+  color: var(--color-primary-900, #0e201c);
+  line-height: 1.35;
+}
+.popular-item-desc {
+  font-size: 0.85rem;
+  color: rgba(14, 32, 28, 0.65);
+  line-height: 1.45;
+}
+
+/* ----------------------------------------------------------------------------
+   4. HUB DIRECTORY — the audit register of guides (hub.html)
+   ---------------------------------------------------------------------------- */
+.hub-directory {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px dashed rgba(14, 32, 28, 0.25);
+}
+.hub-group {
+  margin-bottom: 2rem;
+}
+.hub-group-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-accent-700, #ab6220);
+  border-bottom: 1px solid rgba(14, 32, 28, 0.12);
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.9rem;
+}
+.hub-group-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.hub-group-list li {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid rgba(14, 32, 28, 0.07);
+}
+.hub-guide-link {
+  font-weight: 600;
+  color: var(--color-primary-900, #0e201c);
+  text-decoration: none;
+}
+.hub-guide-link:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent-500, #e8a33d);
+  text-decoration-thickness: 2px;
+}
+.hub-guide-desc {
+  margin: 0.25rem 0 0;
+  font-size: 0.875rem;
+  color: rgba(14, 32, 28, 0.62);
+  line-height: 1.45;
+}
+
+/* Cross-desk strip */
+.hub-cross {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 2.5rem;
+  padding: 1rem 1.1rem;
+  background: var(--color-primary-50, #f2f6f5);
+  border-radius: 6px;
+}
+.hub-cross-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(14, 32, 28, 0.55);
+  margin-right: 0.25rem;
+}
+.hub-cross-link {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-primary-900, #0e201c);
+  text-decoration: none;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid rgba(14, 32, 28, 0.15);
+  border-radius: 999px;
+  background: #fffcfa;
+}
+.hub-cross-link:hover {
+  border-color: var(--color-accent-500, #e8a33d);
+}
+
+/* ----------------------------------------------------------------------------
+   5. AD ZONES — demarcated, reserved, never cramped (blueprint §11)
+   The mid-article partial inherits .my-6; give every in-article ad a hairline
+   frame + reserved breathing room so unfilled slots never shift layout.
+   ---------------------------------------------------------------------------- */
+.article-content .adsbygoogle,
+.article-content + .my-6 .adsbygoogle {
+  min-height: 90px; /* reserved space — CLS guard (Operator gap finding) */
+}
+.article-content .my-6:has(> .adsbygoogle) {
+  padding: 0.5rem 0;
+  border-top: 1px solid rgba(14, 32, 28, 0.08);
+  border-bottom: 1px solid rgba(14, 32, 28, 0.08);
+}
+
+/* ----------------------------------------------------------------------------
+   6. REDUCED MOTION — the register never rolls for those who opted out
+   ---------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .popular-item,
+  .hub-cross-link {
+    transition: none !important;
+  }
+}

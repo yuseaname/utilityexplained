@@ -3,6 +3,7 @@ title: "How to Dispute a Utility Bill: A Step-by-Step Guide That Actually Works"
 slug: "how-to-dispute-utility-bill"
 description: "Your utility bill looks wrong. Here's how to dispute it the right way: build a 10-minute evidence file, open a formal dispute with a case number, keep paying the undisputed part, and escalate to your state PUC if needed."
 date: 2026-08-19
+updated: 2026-08-19
 author: "Tanya Patterson"
 category: "Billing"
 categories: ["Billing"]

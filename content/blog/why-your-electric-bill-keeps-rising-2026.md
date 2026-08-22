@@ -3,6 +3,7 @@ title: "Why your electric bill keeps rising: Complete Guide (2026)"
 slug: "why-your-electric-bill-keeps-rising-2026"
 description: "Learn everything about why your electric bill keeps rising in 2026. Costs, comparisons, expert tips for US homeowners."
 date: 2026-05-29
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]

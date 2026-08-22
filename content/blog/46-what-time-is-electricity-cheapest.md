@@ -3,6 +3,7 @@ title: "What Time Is Electricity Cheapest? Guide to Off-Peak Energy Rates"
 slug: "46-what-time-is-electricity-cheapest"
 description: "Save on your electricity bill by using appliances during off-peak hours. Learn about time-of-use rates and when electricity costs the least."
 date: 2026-05-30
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

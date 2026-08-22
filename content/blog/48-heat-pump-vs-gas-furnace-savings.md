@@ -3,6 +3,7 @@ title: "Heat Pump vs. Gas Furnace Savings: Which Heating System Wins?"
 slug: "48-heat-pump-vs-gas-furnace-savings"
 description: "Compare heat pump and gas furnace costs over time. Discover which heating system offers better long-term savings for your home and climate."
 date: 2026-05-30
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]

@@ -3,6 +3,7 @@ title: "David Chen — Energy Efficiency Editor"
 slug: "david-chen"
 description: "David Chen is an editor on the Utility Explained team, focusing on home energy efficiency, HVAC ratings, and practical ways to cut utility bills."
 date: 2026-08-10
+updated: 2026-08-12
 ---
 
 # David Chen

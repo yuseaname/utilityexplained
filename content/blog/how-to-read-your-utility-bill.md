@@ -3,6 +3,7 @@ title: "How to Read Your Utility Bill: A Plain-English Guide to Every Section"
 slug: "how-to-read-your-utility-bill"
 description: "Learn what every line on your utility bill means, from delivery charges to taxes, so you can spot errors, verify meter readings, and cut costs."
 date: 2026-05-29
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]

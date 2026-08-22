@@ -4,6 +4,7 @@ slug: "08-time-of-use-electricity"
 aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Learn how time-of-use (TOU) electricity rates work, when peak and off-peak hours are, and how to shift your usage to save 15–40% on your electric bill."
 date: 2026-03-07
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Rates & Plans"
 categories: ["Rates & Plans"]

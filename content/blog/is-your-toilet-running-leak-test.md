@@ -3,6 +3,7 @@ title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your 
 slug: "is-your-toilet-running-leak-test"
 description: "A running toilet can waste 200–400 gallons a day and add $50–$100+ a month to your water bill. Test it in 10 minutes with the food-coloring dye test."
 date: 2025-12-25
+updated: 2026-08-15
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

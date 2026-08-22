@@ -3,6 +3,7 @@ title: "How Much Does EV Charging Add to Your Electric Bill?"
 slug: "ev-charging-impact-electric-bill"
 description: "EV charging adds roughly 320 kWh a month for a typical US driver. The real cost math, plus how off-peak rates cut the price of every charge."
 date: 2026-08-10
+updated: 2026-08-21
 lastmod: 2026-08-14
 author: "David Chen"
 category: "Electricity"

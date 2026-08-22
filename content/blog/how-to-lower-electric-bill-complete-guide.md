@@ -3,6 +3,7 @@ title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
 slug: "how-to-lower-electric-bill-complete-guide"
 description: "20+ proven ways to lower your electric bill, organized by cost, with exact dollar savings and payback periods."
 date: 2026-08-10
+updated: 2026-08-21
 author: "David Chen"
 category: "Energy Efficiency"
 categories: ["Energy Efficiency"]

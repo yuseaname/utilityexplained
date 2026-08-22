@@ -2,6 +2,7 @@
 title: "Editorial Team"
 description: "The Utility Explained editorial team — how our utility-bill guides are researched, drafted, and reviewed."
 date: 2024-12-01
+updated: 2026-08-12
 ---
 
 Utility Explained is researched, drafted, and reviewed by a small editorial team focused on one thing: translating utility bills into plain English. Our guides are drafted with AI assistance and reviewed by our editors for accuracy against primary sources (U.S. EIA data, state public utility commission filings, and published provider tariffs).

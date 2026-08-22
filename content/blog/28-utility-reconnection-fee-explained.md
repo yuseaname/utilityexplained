@@ -3,6 +3,7 @@ title: "Utility Reconnection Fee Explained: Cost to Restore Service After Shutof
 slug: "28-utility-reconnection-fee-explained"
 description: "Your utility service was disconnected for non-payment. Here is exactly how much the reconnection fee costs, how long restoration takes, and how to get your service turned back on fast."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]

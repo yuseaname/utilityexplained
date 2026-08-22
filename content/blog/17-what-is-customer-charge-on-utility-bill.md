@@ -3,6 +3,7 @@ title: "What Is the Customer Charge on My Utility Bill?"
 slug: "17-what-is-customer-charge-on-utility-bill"
 description: "That $10 to $25 'customer charge' on your utility bill shows up every month even if you used zero energy. Here's what it covers, why it exists, and why it keeps going up."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

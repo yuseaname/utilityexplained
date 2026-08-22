@@ -3,6 +3,7 @@ title: "Utility Billing Cycle Explained: How Often Bills Come and What the Dates
 slug: "23-utility-billing-cycle-explained"
 description: "Learn how often utility bills arrive (usually monthly, sometimes bimonthly), why billing dates don't match the calendar month, and what the service period on your statement actually means."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]

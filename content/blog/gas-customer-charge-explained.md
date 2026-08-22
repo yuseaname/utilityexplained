@@ -3,6 +3,7 @@ title: "Gas Customer Charge Explained (Why You Pay Even With Low Usage)"
 slug: "gas-customer-charge-explained"
 description: "The gas customer charge is a fixed $8-$25 monthly fee you pay no matter how little gas you use. What it covers, state ranges, and how to reduce it."
 date: 2025-12-26
+updated: 2026-08-21
 lastmod: 2026-08-14
 author: "Margaret Harrington"
 category: "Gas"

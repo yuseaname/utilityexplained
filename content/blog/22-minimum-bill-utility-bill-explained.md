@@ -3,6 +3,7 @@ title: "Minimum Bill on Utility Bill Explained: Why You Pay Even When You Use No
 slug: "22-minimum-bill-utility-bill-explained"
 description: "Understand why your utility bill shows a minimum charge even when usage is near zero. Learn what minimum bills are, how much they cost, and whether you can avoid them."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

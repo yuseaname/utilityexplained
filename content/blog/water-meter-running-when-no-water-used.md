@@ -3,6 +3,7 @@ title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
 slug: "water-meter-running-when-no-water-used"
 description: "If your water meter is still spinning with no water running, you have a leak. Find the cause — usually a running toilet or irrigation line — and stop wasting up to 36,000 gallons a month."
 date: 2026-05-27
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

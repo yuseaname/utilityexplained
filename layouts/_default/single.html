@@ -1,0 +1,146 @@
+{{ define "main" }}
+<article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+  {{ partial "breadcrumbs.html" . }}
+
+  <!-- Article Header -->
+  <header class="mb-6">
+    <!-- Category badge -->
+    {{ with .CurrentSection }}
+      {{ if and (not .IsHome) (ne .Title "Blog") }}
+        <a href="{{ .RelPermalink }}" class="badge badge-primary mb-3 inline-block">{{ .Title }}</a>
+      {{ end }}
+    {{ end }}
+
+    <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">{{ .Title }}</h1>
+
+    <!-- Article meta (blog posts only; suppressed on static pages) -->
+    {{ if eq .Section "blog" }}
+    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-gray-500">
+      {{ with .Params.author }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+        </svg>
+        <span class="font-medium text-gray-700">{{ . }}</span>
+      </span>
+      {{ end }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+        </svg>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </span>
+      {{ with .Params.updated }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+        </svg>
+        Reviewed: <time datetime="{{ . }}">{{ dateFormat "January 2, 2006" . }}</time>
+      </span>
+      {{ end }}
+      <span class="flex items-center gap-1.5">
+        <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>
+        </svg>
+        {{ .ReadingTime }} min read
+      </span>
+    </div>
+    {{ end }}
+
+    {{ with .Params.description }}
+    <p class="text-lg text-gray-600 mt-4 leading-relaxed">{{ . }}</p>
+    {{ end }}
+
+    {{/* SQ-016 Phase A — answer-first default: the hero renders BELOW the TOC
+           unless `hero_above: true` opts back in. `hero_below_answer: true`
+           (legacy flag) keeps its old meaning: suppress the front-matter hero
+           entirely because the body carries its own inline figure. */}}
+    {{ if .Params.hero_above }}
+      {{ partial "hero-image.html" . }}
+    {{ end }}
+  </header>
+
+  {{/* Table of Contents (collapsible — reclaims above-the-fold space) */}}
+  {{ if and (gt .WordCount 800) .TableOfContents }}
+    {{ partial "toc.html" . }}
+  {{ end }}
+
+  {{/* Hero in default position: after the TOC, immediately before the body —
+        the Quick Answer is the first substantial screen element. */}}
+  {{ if and (not .Params.hero_above) (not .Params.hero_below_answer) }}
+    {{ partial "hero-image.html" . }}
+  {{ end }}
+
+  {{/* Article Content with SQ-016 mid-article ad zone.
+        Gates (Operator architecture): blog articles only · ≥1,200 words ·
+        ≥3 H2 sections (4 split parts) · no product-box affiliate pages
+        (2-ads-max rule) · ad slot configured. Insert lands after the 2nd
+        H2 section — deep enough for viewability, clear of the answer. */}}
+  {{ $parts := split .Content "<h2" }}
+  {{ $midOk := and (eq .Section "blog")
+                  (ge .WordCount 1200)
+                  (gt (len $parts) 3)
+                  (not (.HasShortcode "product-box"))
+                  .Site.Params.adsense.client_id }}
+  <div class="article-content">
+  {{ if $midOk }}
+    {{/* Reassemble with the ad zone injected after the 2nd H2 section.
+          All string building happens in actions; ONE safeHTML emission —
+          html/template rejects chained literal tags after in-tag actions. */}}
+    {{ $out := index $parts 0 }}
+    {{ $out = printf "%s<h2%s" $out (index $parts 1) }}
+    {{ $out = printf "%s<h2%s" $out (index $parts 2) }}
+    {{ $out = printf "%s%s" $out (partial "adsense.html" (dict "position" "mid_article" "ctx" .)) }}
+    {{ $out = printf "%s<h2%s" $out (delimit (after 3 $parts) "<h2") }}
+    {{ $out | safeHTML }}
+  {{ else }}
+    {{ .Content }}
+  {{ end }}
+  </div>
+  {{/* FAQPage JSON-LD emitted here (same render pass, after content = deterministic;
+         the old head.schema Store read raced content rendering — Atlas R8) */}}
+  {{ partial "faq-schema-render.html" . }}
+
+  {{/* Tags */}}
+  {{ with .Params.tags }}
+  <div class="mt-8 flex flex-wrap gap-2">
+    {{ range . }}
+      <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="badge badge-neutral">{{ . }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* SQ-016 Phase A — RELATED GUIDES promoted: the satisfied reader meets the
+        next page BEFORE any conversion module (was: last, behind ad/sources/
+        author/email — the structural 1.52 pages/session driver). */}}
+  {{ if eq .Section "blog" }}
+  {{ partial "related-posts.html" . }}
+  {{ end }}
+
+  {{/* Bottom ad */}}
+  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
+
+  {{/* Sources / methodology strip */}}
+  <div class="sources-strip">
+    <div class="sources-strip-title">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+      How we got these numbers
+    </div>
+    <p>Cost ranges reflect typical U.S. utility bills and are labeled as estimates, not guarantees. Rates, climates, and providers vary by region. Read our <a href="{{ "/methodology/" | relURL }}">methodology</a> to see how we calculate and review these figures.</p>
+  </div>
+
+  {{/* Author bio — default links to the editorial team */}}
+  {{ $authorName := .Params.author | default "Utility Explained" }}
+  {{ $authorSlug := $authorName | urlize }}
+  {{ $authorPage := site.GetPage (printf "/author/%s" $authorSlug) }}
+  <div class="author-bio">
+    <div class="author-bio-avatar">{{ substr $authorName 0 1 }}</div>
+      <p class="author-bio-name">By {{ with $authorPage }}<a href="{{ .RelPermalink }}">{{ $authorName }}</a>{{ else }}{{ $authorName }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
+      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>{{ with $authorPage }} or <a href="{{ .RelPermalink }}">learn more about {{ $authorName }}</a>{{ end }}.</p>
+  </div>
+
+  {{/* Email capture — SQ-016: demoted to LAST (earned, not begged);
+        content/users/sources/related all come first. */}}
+  {{ partial "email-capture.html" . }}
+</article>
+{{ end }}

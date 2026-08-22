@@ -3,6 +3,7 @@ title: "7 states with worst utility spikes: Complete Guide (2026)"
 slug: "7-states-with-worst-utility-spikes-2026"
 description: "The 7 U.S. states hit hardest by 2026 utility rate spikes — California (+14.2%), Texas (+12.8%), Florida (+12.1%) — with average bill increases, the causes behind each spike, and what to do if you live there."
 date: 2026-05-29
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Utility Bills"
 categories: ["Utility Bills"]

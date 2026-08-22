@@ -3,6 +3,7 @@ title: "Best Smart Plugs to Eliminate Standby Power Drain"
 slug: "50-best-smart-plugs-standby-power"
 description: "Smart plugs kill phantom loads that cost US homes $100-200 a year. The features that matter, the brands to consider, and the honest payback math."
 date: 2026-05-30
+updated: 2026-08-15
 lastmod: 2026-08-14
 author: "David Chen"
 category: "Energy Efficiency"

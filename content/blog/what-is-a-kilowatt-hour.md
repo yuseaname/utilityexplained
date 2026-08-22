@@ -3,6 +3,7 @@ title: "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
 slug: "what-is-a-kilowatt-hour"
 description: "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

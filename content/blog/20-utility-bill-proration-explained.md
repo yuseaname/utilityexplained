@@ -3,6 +3,7 @@ title: "Utility Bill Proration Explained"
 slug: "20-utility-bill-proration-explained"
 description: "Moving in or out mid-month? Your utility bill will be prorated. Learn how proration works for electric, gas, and water bills, and what to watch for to avoid overpaying."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]

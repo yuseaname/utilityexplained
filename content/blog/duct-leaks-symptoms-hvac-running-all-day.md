@@ -3,6 +3,7 @@ title: "Duct Leaks Explained: Why Some Rooms Never Feel Right (and Bills Climb)"
 slug: "duct-leaks-symptoms-hvac-running-all-day"
 description: "Duct leaks waste 20-30% of heated and cooled air in a typical house. How to spot the signs, check your own ducts, and what sealing costs and saves."
 date: 2025-12-25
+updated: 2026-08-21
 lastmod: 2026-08-14
 author: "Roberto Mendoza"
 category: "Heating & Cooling"

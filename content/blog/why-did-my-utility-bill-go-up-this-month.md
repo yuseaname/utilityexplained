@@ -3,6 +3,7 @@ title: "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
 slug: "why-did-my-utility-bill-go-up-this-month"
 description: "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections."
 date: 2026-01-15
+updated: 2026-08-21
 author: "Marcia Washington"
 category: "Budgeting"
 categories: ["Budgeting"]

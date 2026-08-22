@@ -3,6 +3,7 @@ title: "Gas vs. Electric Heating: Cost Comparison for Real Homes"
 slug: "gas-vs-electric-heating-cost-comparison"
 description: "Compare gas and electric heating costs, efficiency, and what matters on your bill."
 date: 2025-12-26
+updated: 2026-08-21
 author: "David Chen"
 category: "Comparisons"
 categories: ["Comparisons"]

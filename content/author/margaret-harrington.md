@@ -3,6 +3,7 @@ title: "Margaret Harrington — Bills & Rates Editor"
 slug: "margaret-harrington"
 description: "Margaret Harrington is an editor on the Utility Explained team, focusing on electricity, gas, and water bill structure and rate plans."
 date: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Margaret Harrington

@@ -2,6 +2,7 @@
 title: "Affiliate Disclosure"
 description: "How Utility Explained earns money from affiliate links, and our commitment to honest, independent recommendations."
 date: 2026-08-15
+updated: 2026-08-15
 lastmod: 2026-08-15
 draft: false
 no_ads: true

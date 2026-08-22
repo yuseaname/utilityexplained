@@ -3,6 +3,7 @@ title: "Utility Deposit Explained: How Much and How to Get It Back"
 slug: "26-utility-deposit-explained"
 description: "Find out how much utility deposits cost, why utilities require them, how credit checks factor in, and the exact steps to get your deposit refunded."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

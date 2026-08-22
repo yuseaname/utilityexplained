@@ -3,6 +3,7 @@ title: "Utility Bill Surcharges and Riders Explained"
 slug: "19-utility-bill-surcharges-and-riders-explained"
 description: "Surcharges and riders add $5 to $30 or more to your monthly utility bill for everything from energy efficiency programs to nuclear plant costs. Here's a plain-English breakdown of what each one means."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

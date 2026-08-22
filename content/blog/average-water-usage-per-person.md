@@ -3,6 +3,7 @@ title: "Average Water Usage Per Person: A Practical Range"
 slug: "average-water-usage-per-person"
 description: "The average American uses 80–100 gallons of water per day. See what drives your number, how household size changes it, and when usage signals a leak."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

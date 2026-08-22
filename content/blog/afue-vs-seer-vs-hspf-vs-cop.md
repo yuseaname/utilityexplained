@@ -3,6 +3,7 @@ title: "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
 slug: "afue-vs-seer-vs-hspf-vs-cop"
 description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]

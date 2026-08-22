@@ -3,6 +3,7 @@ title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
 slug: "net-metering-explained"
 description: "How net metering works, how it appears on your electric bill, and whether it's worth it for your home."
 date: 2026-08-10
+updated: 2026-08-21
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]

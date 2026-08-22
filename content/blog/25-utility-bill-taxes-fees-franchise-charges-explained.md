@@ -3,6 +3,7 @@ title: "Utility Bill Taxes, Fees, and Franchise Charges Explained"
 slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
 description: "Your utility bill includes more than just energy charges. Learn what taxes, regulatory fees, franchise fees, and surcharges appear on your bill and what they fund."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Fees"
 categories: ["Fees"]

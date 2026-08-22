@@ -3,6 +3,7 @@ title: "How Sewer Charges Work on Your Water Bill (and Why They Can Be Higher Th
 slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Sewer charges pay to collect and treat wastewater, and most bills base them on your water usage, a winter average, or a flat monthly fee. They can cost more than water because treatment is expensive — here's how yours is calculated and how to lower the usage-based part."
 date: 2025-12-25
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]

@@ -2,6 +2,7 @@
 title: "Terms of Service"
 description: "Terms for using Utility Explained."
 date: 2024-12-01
+updated: 2026-08-03
 type: "page"
 layout: "single"
 ---

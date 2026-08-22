@@ -3,8 +3,11 @@ title: "Electricity Explained: Rates, kWh, and Your Bill"
 description: "Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system works in plain English."
 image: "/images/articles/electricity-explained/custom_hero.webp"
 date: 2024-12-01
+updated: 2026-08-21
 type: "page"
-layout: "single"
+layout: "hub"
+hub_short: "Electricity"
+hub_categories: ["Electricity", "Rates & Plans"]
 url: "/electricity-explained"
 ---
 

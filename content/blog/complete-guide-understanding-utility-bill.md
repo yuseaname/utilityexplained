@@ -3,6 +3,7 @@ title: "Understanding Your Utility Bill: The Complete Guide for 2026"
 slug: "complete-guide-understanding-utility-bill"
 description: "The comprehensive guide to electricity, gas, and water bills: every charge explained, rate structures decoded, and how to spot billing errors."
 date: 2026-08-10
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Billing"
 categories: ["Billing"]

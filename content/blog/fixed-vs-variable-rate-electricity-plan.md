@@ -4,6 +4,7 @@ slug: "fixed-vs-variable-rate-electricity-plan"
 canonical: "https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/"
 description: "Confused by electricity plans? We compare Fixed vs. Variable rates to help you avoid price spikes and choose the cheapest option for your home."
 date: 2025-12-27
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]

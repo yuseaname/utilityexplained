@@ -2,6 +2,7 @@
 title: "Disclaimer"
 description: "Important information about the limits of our content."
 date: 2024-12-01
+updated: 2026-08-03
 type: "page"
 layout: "single"
 ---

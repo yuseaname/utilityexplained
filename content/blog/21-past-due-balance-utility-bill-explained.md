@@ -3,6 +3,7 @@ title: "Past Due Balance on Utility Bill Explained"
 slug: "21-past-due-balance-utility-bill-explained"
 description: "A past due balance on your utility bill can lead to late fees, service disconnection, and credit damage. Here's exactly what happens, what your rights are, and how to resolve it."
 date: 2026-05-28
+updated: 2026-08-21
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]

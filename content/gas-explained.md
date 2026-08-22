@@ -3,8 +3,11 @@ title: "Natural Gas Explained: Therms, Rates, and Your Bill"
 description: "Learn how natural gas is measured, billed, and delivered to your home. Understand your gas bill, therms, and how to cut costs."
 image: "/images/articles/gas-explained/custom_hero.webp"
 date: 2024-12-01
+updated: 2026-08-21
 type: "page"
-layout: "single"
+layout: "hub"
+hub_short: "Gas"
+hub_categories: ["Gas"]
 url: "/gas-explained"
 ---
 

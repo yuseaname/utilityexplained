@@ -3,6 +3,7 @@ title: "AC Running but Not Cooling? 13 Causes and Safe Fixes"
 slug: "ac-running-but-not-cooling"
 description: "If your air conditioner is running but the house is still warm, this guide walks you through the most common causes, safe checks, and when to call for service."
 date: 2025-12-26
+updated: 2026-08-21
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]

@@ -3,6 +3,7 @@ title: "Understanding kWh Usage: What Uses the Most Electricity in Your Home"
 slug: "11-understanding-kwh-usage"
 description: "Learn what a kWh actually is, which appliances use the most electricity, and how to calculate your exact cost per appliance to lower your electric bill."
 date: 2026-03-15
+updated: 2026-08-21
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
