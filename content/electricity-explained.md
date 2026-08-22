@@ -56,6 +56,10 @@ Many bills include a customer charge or basic service fee. This is a flat monthl
 <p>
 Understanding these parts helps you see where your money goes. The energy charge is based on usage, so reducing kWh lowers that part of the bill. The delivery and fixed charges usually do not change with usage.
 </p>
+<figure class="bill-figure">
+<img src="/images/articles/electricity-explained/bill-anatomy.webp" alt="Annotated example electric bill: basic service charge $12.50, energy charge of 862 kWh at $0.1421 per kWh equaling $122.48, delivery charge $34.10, taxes and fees $9.87, total due $178.95, with each line labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical electric bill. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
 <h2>Common rate structures: flat, tiered, and time-of-use</h2>
 <h3>Flat rate</h3>
 <p>

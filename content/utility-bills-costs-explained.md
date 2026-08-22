@@ -44,6 +44,10 @@ Most bills include a monthly fixed fee that you pay regardless of usage. This co
 State and local taxes, franchise fees, and regulatory charges appear as separate line items. These are usually small but add to the total. Some utilities also include renewable energy surcharges or environmental fees.
 </p>
 <h2 id="how-to-read">How to read your utility bills</h2>
+<figure class="bill-figure">
+<img src="/images/articles/utility-bills-costs-explained/bill-anatomy.webp" alt="Overview of the three main household utility bills — electric $178.95, gas $107.22, water and sewer $92.10, monthly total $378.27 — plus conditional charges like a $5.00 late fee and $75.00 reconnection fee" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>The big three bills at a glance, plus the one-time fees that catch households off guard. Illustrative example — amounts vary by utility.</figcaption>
+</figure>
 <h3>Billing period and usage summary</h3>
 <p>
 The bill lists the start and end dates of the billing period and the total days. Compare the number of days to previous bills--a longer period will cost more even if daily usage stays the same.

@@ -54,6 +54,10 @@ Most bills include a base charge or meter fee that you pay even if you use very 
 <p>
 Some utilities charge for stormwater management based on property size or impervious surface area. These charges help fund drainage systems and flood prevention.
 </p>
+<figure class="bill-figure">
+<img src="/images/articles/water-explained/bill-anatomy.webp" alt="Annotated example water bill: base charge $18.00, water usage of 8 CCF at $3.85 per CCF equaling $30.80, sewer charge of 8 CCF at $4.60 equaling $36.80, stormwater fee $6.50, total due $92.10, with a note that 1 CCF equals 748 gallons" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical water and sewer bill, with CCF explained. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
 <h2>Tiered water pricing and conservation rates</h2>
 <p>
 Many utilities use tiered pricing to encourage conservation. Lower usage is billed at a lower rate per unit, and higher usage is billed at progressively higher rates.

@@ -53,6 +53,10 @@ Most bills include a fixed monthly customer charge that you pay even if you use 
 <p>
 Because of the fixed customer charge, even low-usage households receive a monthly bill. If you use gas only for cooking, your bill may be $20 to $30 per month with minimal therm usage.
 </p>
+<figure class="bill-figure">
+<img src="/images/articles/gas-explained/bill-anatomy.webp" alt="Annotated example gas bill: customer charge $11.00, gas supply of 64 therms at $1.12 per therm equaling $71.68, delivery charge $18.30, taxes and fees $6.24, total due $107.22, with each charge labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical gas bill, with therms explained. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
 <h2>What uses the most gas in a typical home?</h2>
 <p>
 Space heating is by far the largest gas user in most homes, often accounting for 60% to 80% of annual gas consumption. Gas furnaces and boilers run frequently in winter, which drives sharp seasonal increases.

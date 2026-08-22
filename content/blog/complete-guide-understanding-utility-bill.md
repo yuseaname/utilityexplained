@@ -50,6 +50,11 @@ The average US household spends **$215–$380/month** on utilities, or **$2,580�
 
 Every utility bill has the same basic structure:
 
+<figure class="bill-figure">
+<img src="/images/articles/utility-bills-costs-explained/bill-anatomy.webp" alt="Overview of the three main household utility bills — electric $178.95, gas $107.22, water and sewer $92.10, monthly total $378.27 — plus conditional charges like a $5.00 late fee and $75.00 reconnection fee" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>The big three bills at a glance, plus the one-time fees that catch households off guard. Illustrative example — amounts vary by utility.</figcaption>
+</figure>
+
 ### 1. Account Summary (Page 1)
 
 This shows your payment history:
@@ -90,6 +95,11 @@ This is where it gets confusing. You'll see 5–15 different charges, each with 
 ## Electricity Bills: Every Charge Explained
 
 Your electric bill typically includes 7–12 line items. Here are the most common:
+
+<figure class="bill-figure">
+<img src="/images/articles/electricity-explained/bill-anatomy.webp" alt="Annotated example electric bill: basic service charge $12.50, energy charge of 862 kWh at $0.1421 per kWh equaling $122.48, delivery charge $34.10, taxes and fees $9.87, total due $178.95, with each line labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical electric bill. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
 
 ### The Big Three Charges
 
@@ -181,6 +191,11 @@ This is a fixed monthly fee just for being connected to the grid. It covers:
 
 Your gas bill typically includes 5–8 line items.
 
+<figure class="bill-figure">
+<img src="/images/articles/gas-explained/bill-anatomy.webp" alt="Annotated example gas bill: customer charge $11.00, gas supply of 64 therms at $1.12 per therm equaling $71.68, delivery charge $18.30, taxes and fees $6.24, total due $107.22, with each charge labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical gas bill, with therms explained. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
+
 ### The Main Gas Charges
 
 | Charge | What It Is | Typical Cost | Measurement |
@@ -208,6 +223,11 @@ Your gas bill typically includes 5–8 line items.
 ## Water Bills: Every Charge Explained
 
 Your water bill typically includes 3–6 line items.
+
+<figure class="bill-figure">
+<img src="/images/articles/water-explained/bill-anatomy.webp" alt="Annotated example water bill: base charge $18.00, water usage of 8 CCF at $3.85 per CCF equaling $30.80, sewer charge of 8 CCF at $4.60 equaling $36.80, stormwater fee $6.50, total due $92.10, with a note that 1 CCF equals 748 gallons" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>Anatomy of a typical water and sewer bill, with CCF explained. Illustrative example — rates and fees vary by utility.</figcaption>
+</figure>
 
 ### The Main Water Charges
 

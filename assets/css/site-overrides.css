@@ -248,7 +248,33 @@
 }
 
 /* ----------------------------------------------------------------------------
-   6. REDUCED MOTION — the register never rolls for those who opted out
+   6. BILL ANATOMY FIGURES — the site's signature illustration (SQ-016 media)
+   Portrait annotated-bill diagrams. Intrinsic size in width/height attrs
+   reserves the aspect ratio before load (CLS-safe, mirrors hero-figure
+   doctrine). Capped width keeps annotations legible without dominating.
+   ---------------------------------------------------------------------------- */
+.bill-figure {
+  margin: 2.25rem auto;
+  max-width: 540px;
+}
+.bill-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(14, 32, 28, 0.12);
+  border-radius: 6px;
+  background: #fff;
+}
+.bill-figure figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: #5c6b62;
+  text-align: center;
+}
+
+/* ----------------------------------------------------------------------------
+   7. REDUCED MOTION — the register never rolls for those who opted out
    ---------------------------------------------------------------------------- */
 @media (prefers-reduced-motion: reduce) {
   .popular-item,

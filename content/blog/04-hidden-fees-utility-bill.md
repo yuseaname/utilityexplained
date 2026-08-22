@@ -45,6 +45,11 @@ You were quoted 12¢ per [kWh](/blog/what-is-a-kilowatt-hour/). Your effective r
 | Taxes | 5-8% |
 | Surcharges/riders | 5-10% |
 
+<figure class="bill-figure">
+<img src="/images/articles/utility-bills-costs-explained/bill-anatomy.webp" alt="Overview of the three main household utility bills — electric $178.95, gas $107.22, water and sewer $92.10, monthly total $378.27 — plus conditional charges like a $5.00 late fee and $75.00 reconnection fee" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>The big three bills at a glance, plus the one-time fees that catch households off guard. Illustrative example — amounts vary by utility.</figcaption>
+</figure>
+
 ---
 
 ## Types of Hidden Fees
