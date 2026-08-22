@@ -301,3 +301,32 @@ URL set stable except intended −/search/ · 0 hahahugo artifacts · footer ide
 
 ### Rollback
 Git: `git revert <commit>` or reset to 36ca5a18 (pre-session). Tar snapshot: logs/backups/utilityexplained-prework-20260821-120504.tar.gz (source tree).
+
+---
+
+## Entry 7 — 2026-08-22: SQ-016 Phase A — Transformation batches 1+2 (Commander ZCode + squad)
+
+### Baseline
+Same Aug-21 Rybbit pull as Entry 6 (1,337 sessions/7d, 84.7% bounce, 1.52 p/s, 80s). Measurement window for THIS entry opens now.
+
+### Changes (commit 352a3a36 + b22bd82c, both deployed & live-verified)
+1. **Article funnel reorder** (site single.html override): hero below TOC by default (answer-first on 96/97; `hero_above: true` opt-out), "Reviewed:" date in byline, **related-posts promoted before** ad/sources/author/email (was last — the structural 1.52 p/s driver), email demoted to final slot.
+2. **mid_article ad reinstated** (slot 7429084400, lost in Aug-19 theme-v3 convergence — 5-source confirmed): injected after 2nd H2 on articles with ≥1,200 words, ≥3 H2s, no product-box (59/96 eligible). Article density now 2 (mid + end); affiliate articles stay 1.
+3. **Real hub layout** (hub.html): all 5 pillars render answer-first + auto-generated grouped directory + cross-desk nav (was prose `layout: single`). Counts: electricity 21, gas 7, water 16, heating 12, bills 29.
+4. **Homepage**: register readout strip; Most Read rebuilt on theme tokens (Tailwind blue/gray chips eliminated); trust strip honesty fixes (live guide count; "Independent — no provider or switch-site ties" replaces the "Updated 2026" fib).
+5. **Freshness system**: 118 files git-derived `updated:` → rendered "Reviewed:" dates + JSON-LD dateModified + OG article:modified_time (scalar-date fix).
+6. **De-slop** (site-overrides.css, loads after canonical design-system): nav backdrop-filter, six 135° gradients, SaaS hover lifts, newsletter gradient flattened; mobile fixed-attachment repaint killed. Canonical theme untouched (Twin Q2 50-step review: APPROVE).
+7. **Categories consolidated 17 → 7** (Electricity 21 · Gas 7 · Water 16 · H&C 12 · Bills & Fees 29 · Savings & Efficiency 4 · Troubleshooting 7) with **12 server 301s** for retired term URLs. Article URLs unchanged.
+8. **Trust**: author/_index.md claims fixed ("decades of experience"/"Licensed HVAC Technician" → honest team framing; AI-assistance disclosure retained). blog/_index.md inline cyan/gray styles tokenized.
+
+### Verification (both batches)
+3× deterministic builds (659 pages, URL sets identical, FAQPage=96 stable — R8 held); 0 broken internal links sitewide; funnel order position-verified in built HTML; Twin Q2 independent diff review APPROVE (50 steps, hub counts measured, ad-split edge cases clean, 0 collateral in 118 stamped files). Live: 301s correct, new term pages 200, funnel/hub/register/mid-ad confirmed on production (electricity hub served stale at edge for ~minutes — cache-bypass verified 21/21 correct).
+
+### Squad credits (SQ-016)
+Analyst+Challenger: Phase-1 audit + independent creative DUAL (converged on "Independent Bill Auditor" direction). Twin Q: template/blast-radius map. Twin Q2: docs-vs-reality verdicts + pre-commit review (APPROVE). Researcher: editorial sample (8/8 pass). Operator: monetization architecture (94 steps). Executor: 2× transport-fail → Commander takeover. Council: creative+seo integrated (Bill Decoder flagship, de-slop expansion, self-host fonts, DefinedTermSet); monetization seat transport-failed (redundancy covered).
+
+### Deferred (blueprint §15-17)
+Magica media (Annotated Bill Anatomy first — credits gated), Phase B canonical-theme token refresh (6-site, after this proves), interactive Bill Decoder build, Plex type swap, category-footer polish.
+
+### Rollback
+`git revert 352a3a36 b22bd82c` or tar snapshot logs/backups/utilityexplained-pre-phaseA-20260821-200009.tar.gz. .htaccess category 301s revert with the commit.

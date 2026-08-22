@@ -14,6 +14,8 @@ Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem index
 
 **Watch (post 2026-08-21 batch):** bounce + time-on-page on the 4 defect-exit pages (taxes-fees, complete-guide, water-meter, spike-electric); hub-page entrances after title shortening; IndexNow-submitted URL pickup in Bing.
 
+**Watch (post 2026-08-22 SQ-016 Phase A — measurement window open):** bounce on long articles after funnel reorder + answer-first hero (target <70%); pages/session after related-posts promotion (target >1.9); hub entrance → article CTR on the 5 new hub directories; AdSense mid-article slot (7429084400) viewability + RPM vs 1-ad baseline at +14 days; retired-category 301 traffic loss (should be ~0 via /blog/category/bills-fees/ etc.).
+
 ## Milestones (from original plan)
 1. **100 visitors/day sustained** for 14+ days
 2. **150-200 pageviews/day**
