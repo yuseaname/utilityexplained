@@ -5,8 +5,8 @@ description: "Learn how often utility bills arrive (usually monthly, sometimes b
 date: 2026-05-28
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["billing cycle", "utility bill dates", "monthly billing", "bimonthly billing"]
 keywords: ["utility billing cycle", "how often do utility bills come", "utility bill period", "monthly vs bimonthly utility billing", "understanding utility billing dates"]
 image: "/images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp"

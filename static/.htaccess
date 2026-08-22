@@ -25,6 +25,21 @@ RewriteRule ^blog/time-of-use-electricity-rates-explained/?$ /blog/08-time-of-us
 RewriteRule ^blog/demand-charge-electric-bill-explained/?$ /blog/49-demand-charges-electricity-bill-explained/ [R=301,L]
 RewriteRule ^blog/how-to-read-your-gas-bill-therms-explained/?$ /blog/12-how-to-read-your-gas-bill/ [R=301,L]
 
+
+# --- Category consolidation 301s (SQ-016 Phase A batch 2: 17 categories -> 7) ---
+RewriteRule ^blog/category/rates-plans/?$ /blog/category/electricity/ [R=301,L]
+RewriteRule ^blog/category/backup-power/?$ /blog/category/electricity/ [R=301,L]
+RewriteRule ^blog/category/heating/?$ /blog/category/heating-cooling/ [R=301,L]
+RewriteRule ^blog/category/hvac/?$ /blog/category/heating-cooling/ [R=301,L]
+RewriteRule ^blog/category/billing/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/fees/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/utility-bills/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/budgeting/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/costs/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/comparisons/?$ /blog/category/bills-fees/ [R=301,L]
+RewriteRule ^blog/category/savings/?$ /blog/category/savings-efficiency/ [R=301,L]
+RewriteRule ^blog/category/energy-efficiency/?$ /blog/category/savings-efficiency/ [R=301,L]
+
 # --- Force trailing slash (301 redirect) ---
 # Only for paths WITHOUT a file extension and WITHOUT a trailing slash
 # This consolidates duplicate URLs that were splitting search equity

@@ -5,8 +5,8 @@ description: "Compare gas and electric heating costs, efficiency, and what matte
 date: 2025-12-26
 updated: 2026-08-21
 author: "David Chen"
-category: "Comparisons"
-categories: ["Comparisons"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
 keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac efficiency ratings"]
 image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_v2.webp"

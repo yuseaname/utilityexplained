@@ -5,8 +5,8 @@ description: "If your total jumped but your habits did not, this guide breaks do
 date: 2026-01-15
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Budgeting"
-categories: ["Budgeting"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["estimated bill", "surcharge", "budget"]
 keywords: ["estimated utility bill", "utility surcharge", "utility budget"]
 image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-utility-bill-go-up-this-month_hero_v2.webp"

@@ -5,8 +5,8 @@ description: "Why does your utility bill say 'estimated' instead of showing an a
 date: 2026-05-28
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["billing", "utility bills", "meter reading", "electricity"]
 keywords: ["estimated utility bill", "how are utility bills estimated", "estimated vs actual bill", "why is my bill estimated"]
 image: "/images/articles/14-estimated-utility-bill-explained/14-estimated-utility-bill-explained_hero_v2.webp"

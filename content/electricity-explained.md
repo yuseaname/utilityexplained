@@ -7,7 +7,7 @@ updated: 2026-08-21
 type: "page"
 layout: "hub"
 hub_short: "Electricity"
-hub_categories: ["Electricity", "Rates & Plans"]
+hub_categories: ["Electricity"]
 url: "/electricity-explained"
 ---
 

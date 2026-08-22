@@ -6,8 +6,8 @@ description: "If your usage looks similar but your total jumped, this guide walk
 date: 2025-12-25
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Budgeting"
-categories: ["Budgeting"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
 keywords: ["estimated utility bill", "kwh usage", "utility budget", "customer charge utility", "utility surcharge"]
 image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-utility-bill-is-higher-with-same-usage_hero_v2.webp"

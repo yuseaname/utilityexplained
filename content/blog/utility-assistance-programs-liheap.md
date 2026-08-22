@@ -5,8 +5,8 @@ description: "Can't pay your utility bills? Here's everything you need to know a
 date: 2026-08-10
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["LIHEAP", "utility assistance", "payment plans", "shut-off prevention", "hardship programs"]
 keywords: ["utility bill help", "LIHEAP application", "utility payment plans", "avoid utility shut-off", "utility hardship programs"]
 image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"

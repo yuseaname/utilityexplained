@@ -5,8 +5,8 @@ description: "Find the best energy efficient space heater to lower your heating 
 date: 2026-05-30
 updated: 2026-08-21
 author: "Roberto Mendoza"
-category: "Heating"
-categories: ["Heating"]
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
 tags: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use"]
 keywords: ["best energy efficient space heater", "energy efficient heater", "space heater", "low energy use", "cheap heating"]
 image: "/images/articles/42-best-energy-efficient-space-heater/custom_hero.webp"

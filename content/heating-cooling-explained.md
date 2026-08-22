@@ -7,7 +7,7 @@ updated: 2026-08-21
 type: "page"
 layout: "hub"
 hub_short: "Heating & Cooling"
-hub_categories: ["Heating & Cooling", "Heating", "HVAC"]
+hub_categories: ["Heating & Cooling"]
 url: "/heating-cooling-explained"
 ---
 

@@ -5,8 +5,8 @@ description: "That $10 to $25 'customer charge' on your utility bill shows up ev
 date: 2026-05-28
 updated: 2026-08-21
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["fees", "utility bills", "electricity", "gas"]
 keywords: ["customer charge utility bill", "what is customer charge", "fixed charge on electric bill", "utility customer service charge"]
 image: "/images/articles/17-what-is-customer-charge-on-utility-bill/17-what-is-customer-charge-on-utility-bill_hero_v2.webp"

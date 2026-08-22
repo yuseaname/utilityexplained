@@ -5,8 +5,8 @@ description: "Moving in or out mid-month? Your utility bill will be prorated. Le
 date: 2026-05-28
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["billing", "moving", "utility bills", "electricity"]
 keywords: ["prorated utility bill", "what is bill proration", "prorated charges utility", "partial month utility bill"]
 image: "/images/articles/utility-bill-proration-explained/image.webp"

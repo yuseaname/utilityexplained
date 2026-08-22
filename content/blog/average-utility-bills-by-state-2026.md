@@ -5,8 +5,8 @@ description: "Learn everything about average utility bills by state in 2026. Cos
 date: 2026-05-29
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Utility Bills"
-categories: ["Utility Bills"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["therms", "savings", "gas bill", "kwh", "budget"]
 keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utility budget"]
 image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v2.webp"

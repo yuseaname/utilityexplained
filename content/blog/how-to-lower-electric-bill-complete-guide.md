@@ -5,8 +5,8 @@ description: "20+ proven ways to lower your electric bill, organized by cost, wi
 date: 2026-08-10
 updated: 2026-08-21
 author: "David Chen"
-category: "Energy Efficiency"
-categories: ["Energy Efficiency"]
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
 tags: ["lower electric bill", "save electricity", "energy efficiency", "reduce electric bill", "energy savings"]
 keywords: ["lower electric bill", "reduce electricity usage", "energy saving tips", "electric bill hacks", "cut electricity costs"]
 image: "/images/articles/how-to-lower-electric-bill-complete-guide/energy-hogs-hero.webp"

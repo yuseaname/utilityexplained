@@ -5,8 +5,8 @@ description: "Tired of utility bills that swing from $80 in spring to $350 in su
 date: 2026-05-28
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Rates & Plans"
-categories: ["Rates & Plans"]
+category: "Electricity"
+categories: ["Electricity"]
 tags: ["rates and plans", "budgeting", "utility bills", "savings"]
 keywords: ["budget billing", "level pay plan", "average monthly billing", "utility budget plan", "equal payment plan"]
 image: "/images/articles/budget-billing-level-pay-explained/image.webp"

@@ -5,8 +5,8 @@ description: "Your utility bill includes more than just energy charges. Learn wh
 date: 2026-05-28
 updated: 2026-08-21
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility taxes", "franchise fee", "regulatory fees", "municipal charges"]
 keywords: ["utility bill taxes", "franchise charge utility bill", "utility taxes and fees", "what is franchise fee on electric bill", "local utility taxes explained"]
 image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"

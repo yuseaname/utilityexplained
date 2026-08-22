@@ -5,8 +5,8 @@ description: "Cut your utility bills by 20-40% with these proven strategies. Fro
 date: 2026-03-07
 updated: 2026-08-16
 author: "David Chen"
-category: "Savings"
-categories: ["Savings"]
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
 tags: ["lower utility bills", "save electricity", "reduce energy costs", "energy saving", "utility savings"]
 keywords: ["how to lower utility bills", "reduce electric bill", "save on utilities", "energy saving tips", "cut utility costs"]
 image: "/images/articles/05-how-to-lower-utility-bills/05-how-to-lower-utility-bills_hero_v2.webp"

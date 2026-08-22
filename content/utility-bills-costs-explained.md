@@ -7,7 +7,7 @@ updated: 2026-08-21
 type: "page"
 layout: "hub"
 hub_short: "Bill Basics"
-hub_categories: ["Billing", "Fees", "Utility Bills", "Budgeting", "Costs", "Comparisons"]
+hub_categories: ["Bills & Fees"]
 url: "/utility-bills-costs-explained"
 ---
 

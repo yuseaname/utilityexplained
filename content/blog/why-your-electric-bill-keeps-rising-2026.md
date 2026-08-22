@@ -5,8 +5,8 @@ description: "Learn everything about why your electric bill keeps rising in 2026
 date: 2026-05-29
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Utility Bills"
-categories: ["Utility Bills"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["solar", "kwh", "electric bill", "savings", "air conditioner"]
 keywords: ["solar payback", "kwh usage", "high electric bill", "lower utility bill", "ac not cooling"]
 image: "/images/articles/why-your-electric-bill-keeps-rising-2026/why-your-electric-bill-keeps-rising-2026_hero_v2.webp"

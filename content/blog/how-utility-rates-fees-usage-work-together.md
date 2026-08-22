@@ -5,8 +5,8 @@ description: "A plain-English model of how usage, price per unit, and fixed char
 date: 2026-01-15
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Budgeting"
-categories: ["Budgeting"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["budget"]
 keywords: ["utility budget"]
 image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"

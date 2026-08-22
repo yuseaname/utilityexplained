@@ -5,8 +5,8 @@ description: "Yes, utilities can disconnect service for nonpayment — but not i
 date: 2026-08-19
 updated: 2026-08-19
 author: "Tanya Patterson"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility shutoff", "disconnection", "past due bill", "payment arrangement", "winter protections"]
 keywords: ["can utility shut off service", "utility disconnection notice", "how to stop utility shutoff", "winter shutoff protections", "utility payment arrangement"]
 image: "/images/articles/can-utility-shut-off-service/img-1.webp"

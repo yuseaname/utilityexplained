@@ -5,8 +5,8 @@ description: "Seven devices that genuinely cut electric, gas, and water bills â€
 date: 2026-08-15
 updated: 2026-08-21
 author: "David Chen"
-category: "Savings"
-categories: ["Savings"]
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
 tags: ["energy monitoring", "water leak detection", "smart thermostat", "smart plugs", "utility savings", "save on utilities"]
 keywords: ["gadgets to lower utility bills", "energy saving devices", "smart water monitor", "kill a watt meter", "reduce electric bill", "lower water bill"]
 draft: false

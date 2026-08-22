@@ -5,8 +5,8 @@ description: "Complete guide to apartment utility costs in 2026. Average costs b
 date: 2026-03-07
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Budgeting"
-categories: ["Budgeting"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ['apartment utilities', 'average utility costs', 'renter utilities', 'first apartment', 'utility budget']
 keywords: ['average apartment utilities cost', 'what utilities do renters pay', 'apartment electric bill average', 'first apartment utility budget', 'utilities included apartment']
 image: "/images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost_hero_v2.webp"

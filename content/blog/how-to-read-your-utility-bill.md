@@ -5,8 +5,8 @@ description: "Learn what every line on your utility bill means, from delivery ch
 date: 2026-05-29
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Utility Bills"
-categories: ["Utility Bills"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility bill", "read your bill", "billing charges", "meter reading", "bill breakdown"]
 keywords: ["how to read your utility bill", "utility bill explained", "understand utility bill charges", "what do utility bill charges mean"]
 image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_v2.webp"

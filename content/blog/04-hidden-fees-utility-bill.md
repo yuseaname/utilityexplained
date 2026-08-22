@@ -5,8 +5,8 @@ description: "Your quoted rate isn't what you actually pay. Here are the 15+ hid
 date: 2026-03-07
 updated: 2026-08-21
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility fees", "hidden charges", "electric bill fees", "utility bill charges", "reduce bills"]
 keywords: ["hidden fees utility bill", "utility bill charges explained", "electric bill fees", "reduce utility fees", "utility surcharges"]
 image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"

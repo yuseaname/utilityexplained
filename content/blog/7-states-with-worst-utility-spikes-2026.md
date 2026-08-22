@@ -5,8 +5,8 @@ description: "The 7 U.S. states hit hardest by 2026 utility rate spikes — Cali
 date: 2026-05-29
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Utility Bills"
-categories: ["Utility Bills"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility rate spikes", "electricity prices", "state comparison", "2026", "utility bills"]
 keywords: ["2026 utility rate spikes", "worst states utility bills", "electricity rate increase by state", "state utility comparison 2026", "why is my electric bill so high 2026"]
 image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_v2.webp"

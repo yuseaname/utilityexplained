@@ -5,8 +5,8 @@ description: "A simple budgeting guide for electricity, gas, water, and internet
 date: 2025-12-27
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Budgeting"
-categories: ["Budgeting"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
 keywords: ["utility budget", "apartment utility costs", "utility deposit", "hidden costs", "budget billing plan"]
 image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_v2.webp"

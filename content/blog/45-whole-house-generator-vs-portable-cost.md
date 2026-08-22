@@ -5,8 +5,8 @@ description: "Compare the true costs of whole house generators vs portable gener
 date: 2026-05-30
 updated: 2026-08-21
 author: "Roberto Mendoza"
-category: "Backup Power"
-categories: ["Backup Power"]
+category: "Electricity"
+categories: ["Electricity"]
 tags: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison"]
 keywords: ["whole house generator vs portable cost", "whole house generator cost", "portable generator cost", "generator comparison", "backup power cost"]
 image: "/images/articles/45-whole-house-generator-vs-portable-cost/45-whole-house-generator-vs-portable-cost_hero_v2.webp"

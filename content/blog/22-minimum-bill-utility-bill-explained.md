@@ -5,8 +5,8 @@ description: "Understand why your utility bill shows a minimum charge even when 
 date: 2026-05-28
 updated: 2026-08-21
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["minimum bill", "utility fees", "base charge", "fixed charges"]
 keywords: ["minimum bill utility", "minimum charge on utility bill", "why do I have a minimum utility charge", "minimum service charge", "utility minimum bill even with low usage"]
 image: "/images/articles/22-minimum-bill-utility-bill-explained/22-minimum-bill-utility-bill-explained_hero_v2.webp"

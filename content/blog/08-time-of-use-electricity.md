@@ -6,8 +6,8 @@ description: "Learn how time-of-use (TOU) electricity rates work, when peak and 
 date: 2026-03-07
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Rates & Plans"
-categories: ["Rates & Plans"]
+category: "Electricity"
+categories: ["Electricity"]
 tags: ['time of use electricity', 'TOU rates', 'peak hours', 'off-peak electricity', 'save on electric bill', 'smart meter']
 keywords: ['time of use electricity rates', 'peak vs off-peak hours', 'when is electricity cheapest', 'TOU rate savings', 'best time to run appliances']
 image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.webp"

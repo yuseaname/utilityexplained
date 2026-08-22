@@ -5,8 +5,8 @@ description: "Original research: Average monthly electric, gas, and water bills 
 date: 2026-08-10
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Costs"
-categories: ["Costs"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["average bills", "utility costs", "electricity cost", "gas cost", "water cost"]
 keywords: ["average utility bill by state", "electricity cost by state", "gas cost by state", "water cost by state", "utility cost comparison"]
 image: "/images/articles/2026-utility-cost-index-by-state/custom_hero.webp"

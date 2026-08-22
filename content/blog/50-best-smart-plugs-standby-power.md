@@ -6,8 +6,8 @@ date: 2026-05-30
 updated: 2026-08-15
 lastmod: 2026-08-14
 author: "David Chen"
-category: "Energy Efficiency"
-categories: ["Energy Efficiency"]
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
 tags: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
 keywords: ["best smart plugs standby power", "smart plugs energy saving", "standby power vampire energy", "eliminate phantom load"]
 image: "/images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp"

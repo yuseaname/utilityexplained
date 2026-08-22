@@ -5,8 +5,8 @@ description: "Compare fixed and variable utility rate plans. Learn when to lock 
 date: 2026-03-07
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Rates & Plans"
-categories: ["Rates & Plans"]
+category: "Electricity"
+categories: ["Electricity"]
 tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison', 'energy plan', 'budget billing']
 keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
 image: "/images/articles/10-fixed-vs-variable-utility-rate/10-fixed-vs-variable-utility-rate_hero_v2.webp"

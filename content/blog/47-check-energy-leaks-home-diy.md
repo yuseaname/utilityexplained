@@ -5,8 +5,8 @@ description: "Stop wasting money on heating and cooling. Learn how to find and s
 date: 2026-05-30
 updated: 2026-08-21
 author: "Roberto Mendoza"
-category: "Heating"
-categories: ["Heating"]
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
 tags: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation"]
 keywords: ["check energy leaks home DIY", "home energy audit DIY", "find energy leaks", "home insulation", "air sealing"]
 image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"

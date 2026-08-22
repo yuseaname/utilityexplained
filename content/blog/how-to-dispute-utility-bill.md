@@ -5,8 +5,8 @@ description: "Your utility bill looks wrong. Here's how to dispute it the right 
 date: 2026-08-19
 updated: 2026-08-19
 author: "Tanya Patterson"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility dispute", "billing error", "estimated bill", "public utility commission", "meter reading"]
 keywords: ["how to dispute utility bill", "utility bill dispute", "billing error utility", "dispute electric bill", "public utility commission complaint"]
 image: "/images/articles/how-to-dispute-utility-bill/img-1.webp"

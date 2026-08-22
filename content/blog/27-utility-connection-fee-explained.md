@@ -5,8 +5,8 @@ description: "Residential utility connection fees run $25–$150 for most electr
 date: 2026-05-28
 updated: 2026-08-12
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["connection fee", "new service", "setup fee", "utility hookup"]
 keywords: ["utility connection fee", "cost to connect utilities", "new service setup fee utility", "utility hookup fee", "how much to connect electric service", "same day electric connection fee"]
 image: "/images/articles/utility-connection-fee-explained/image.webp"

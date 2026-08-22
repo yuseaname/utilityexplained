@@ -5,8 +5,8 @@ description: "Delivery charge and supply charge make up your total utility cost.
 date: 2026-05-28
 updated: 2026-08-21
 author: "Marcia Washington"
-category: "Costs"
-categories: ["Costs"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["delivery charge", "supply charge", "deregulated markets", "utility breakdown"]
 keywords: ["delivery charge vs supply charge", "what is delivery charge on utility bill", "supply charge utility", "distribution charge vs supply", "utility bill delivery vs supply breakdown"]
 image: "/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp"

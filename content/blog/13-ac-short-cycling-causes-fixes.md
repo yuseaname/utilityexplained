@@ -5,8 +5,8 @@ description: "AC short cycling wastes energy and damages your compressor. Learn 
 date: 2026-05-28
 updated: 2026-08-21
 author: "Roberto Mendoza"
-category: "HVAC"
-categories: ["HVAC"]
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
 tags: ["HVAC", "air conditioning", "troubleshooting", "energy efficiency"]
 keywords: ["ac short cycling", "ac turning on and off", "air conditioner short cycling", "ac compressor short cycle", "why does my ac keep turning off"]
 image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"

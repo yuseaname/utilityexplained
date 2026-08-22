@@ -5,8 +5,8 @@ description: "Moving soon? Here's the exact timeline for turning off utilities a
 date: 2026-08-19
 updated: 2026-08-19
 author: "Margaret Harrington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["moving checklist", "utility transfer", "turn off utilities", "turn on utilities", "final bill", "utility deposit"]
 keywords: ["moving utilities checklist", "when to turn off utilities when moving", "how to transfer utilities when moving", "utility final bill", "utility deposit transfer moving"]
 image: "/images/articles/moving-utilities-checklist/img-1.webp"

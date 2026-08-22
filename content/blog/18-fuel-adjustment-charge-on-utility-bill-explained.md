@@ -5,8 +5,8 @@ description: "Your electricity bill has a fuel adjustment charge that changes ev
 date: 2026-05-28
 updated: 2026-08-15
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["fees", "electricity", "utility bills", "rates"]
 keywords: ["fuel adjustment charge", "fuel cost recovery", "fuel charge on electric bill", "what is fuel adjustment fee"]
 image: "/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/18-fuel-adjustment-charge-on-utility-bill-explained_hero_v2.webp"

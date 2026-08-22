@@ -5,8 +5,8 @@ description: "The comprehensive guide to electricity, gas, and water bills: ever
 date: 2026-08-10
 updated: 2026-08-21
 author: "Margaret Harrington"
-category: "Billing"
-categories: ["Billing"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["utility bill", "electric bill", "gas bill", "water bill", "charges", "rate plans", "billing errors"]
 keywords: ["understand utility bill", "utility charges explained", "rate structures", "billing errors", "utility bill guide"]
 image: "/images/articles/complete-guide-understanding-utility-bill/complete-guide-understanding-utility-bill_hero_v2.webp"

@@ -5,8 +5,8 @@ description: "Surcharges and riders add $5 to $30 or more to your monthly utilit
 date: 2026-05-28
 updated: 2026-08-21
 author: "Tanya Patterson"
-category: "Fees"
-categories: ["Fees"]
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
 tags: ["fees", "utility bills", "electricity", "rates"]
 keywords: ["utility bill surcharges", "utility bill riders", "what are riders on utility bill", "extra charges on utility bill"]
 image: "/images/articles/19-utility-bill-surcharges-and-riders-explained/19-utility-bill-surcharges-and-riders-explained_hero_v2.webp"
