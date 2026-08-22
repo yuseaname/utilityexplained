@@ -330,3 +330,30 @@ Magica media (Annotated Bill Anatomy first — credits gated), Phase B canonical
 
 ### Rollback
 `git revert 352a3a36 b22bd82c` or tar snapshot logs/backups/utilityexplained-pre-phaseA-20260821-200009.tar.gz. .htaccess category 301s revert with the commit.
+
+---
+
+## Entry 8 — 2026-08-22: SQ-016 media — Annotated Bill Anatomy series (Commander ZCode)
+
+### Changes (commit 2743d604, deployed & live-verified)
+1. **4 original annotated-bill diagrams** via Magica `gpt-image-2-text` (per user directive: gpt-image-2 only for generation), quality high, 1024×1536 portrait:
+   - Electric: ledger with basic service $12.50 / 862 kWh × $0.1421 = $122.48 / delivery $34.10 / taxes $9.87 / total $178.95, audit labels
+   - Gas: $11.00 / 64 therms × $1.12 = $71.68 / $18.30 / $6.24 / total $107.22
+   - Water: base $18.00 / 8 CCF × $3.85 = $30.80 / sewer 8 CCF × $4.60 = $36.80 / stormwater $6.50 / total $92.10, "1 CCF = 748 gal"
+   - Combined: big-three totals + **v2 regen** — first render's "total" omitted the $5 late fee (reader-detectable arithmetic); regen with explicit "IF IT HAPPENS TO YOU" conditional row + honest $378.27 monthly total
+2. **Vision-QA gate** on every master: full transcription, spelling/legibility, arithmetic re-verification, palette check. 4/4 PASS (1 regen).
+3. **Install**: webp q85, 85–103 KB each, `static/images/articles/<hub>/bill-anatomy.webp`; lazy-loaded, intrinsic width/height (CLS-safe), descriptive alt per instance, honest "illustrative example" captions.
+4. **Wiring — 9 figure instances on 6 pages**: 4 hubs (1 each at their bill-anatomy sections), complete-guide (4 — one per major section; mid-article ad split verified undisturbed), hidden-fees (1 at "Where the Money Goes").
+5. `.bill-figure` styles appended to site-overrides.css §6 (site-local; canonical theme untouched).
+
+### Verification
+Clean-slate 2× deterministic builds (642 pages, URL sets identical; FAQPage=96; mid_article=59); 0 broken internal links; CI 32551954033 green for 2743d604; live: all 4 images 200 byte-identical, figure counts 1/1/1/1/4/1 across the 6 pages (hub zeros at first probe were edge cache — cache-bypass confirmed), live CSS carries `.bill-figure`.
+
+### Cost
+~0.83 Magica credits (5 generations incl. 1 regen). Balance remaining per dashboard.
+
+### Watch (extends Entry-7 window)
+Time-on-page + scroll depth on the 6 figure pages vs. pre-figure baseline; image SERP (Bing images) pickup for "electric bill explained"-class queries; CLS on hub pages.
+
+### Rollback
+`git revert 2743d604` (content+CSS+images in one commit).
