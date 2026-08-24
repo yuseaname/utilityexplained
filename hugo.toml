@@ -15,13 +15,6 @@ theme = 'adsense-base'
   google_site_verification = 'M0tDZxQjvpXgWrHqxx4sPIo2gGjWagsHQGFwxh1FJRI'
   google_analytics = 'G-SGVWNS876W'
 
-  [params.adsense]
-    client_id = 'ca-pub-5566942094411042'
-    [params.adsense.slots]
-      below_title = { id = '9770352885', format = 'auto', responsive = 'true' }
-      mid_article = { id = '7429084400', format = 'auto', responsive = 'true' }
-      end_article = { id = '3364726638', format = 'auto', responsive = 'true' }
-
   [params.rybbit]
     instance_url = 'https://app.rybbit.io'
     site_id = 'd5b63e065e9d'

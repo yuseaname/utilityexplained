@@ -233,22 +233,7 @@
 }
 
 /* ----------------------------------------------------------------------------
-   5. AD ZONES — demarcated, reserved, never cramped (blueprint §11)
-   The mid-article partial inherits .my-6; give every in-article ad a hairline
-   frame + reserved breathing room so unfilled slots never shift layout.
-   ---------------------------------------------------------------------------- */
-.article-content .adsbygoogle,
-.article-content + .my-6 .adsbygoogle {
-  min-height: 90px; /* reserved space — CLS guard (Operator gap finding) */
-}
-.article-content .my-6:has(> .adsbygoogle) {
-  padding: 0.5rem 0;
-  border-top: 1px solid rgba(14, 32, 28, 0.08);
-  border-bottom: 1px solid rgba(14, 32, 28, 0.08);
-}
-
-/* ----------------------------------------------------------------------------
-   6. BILL ANATOMY FIGURES — the site's signature illustration (SQ-016 media)
+   5. BILL ANATOMY FIGURES — the site's signature illustration (SQ-016 media)
    Portrait annotated-bill diagrams. Intrinsic size in width/height attrs
    reserves the aspect ratio before load (CLS-safe, mirrors hero-figure
    doctrine). Capped width keeps annotations legible without dominating.

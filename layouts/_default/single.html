@@ -71,31 +71,9 @@
     {{ partial "hero-image.html" . }}
   {{ end }}
 
-  {{/* Article Content with SQ-016 mid-article ad zone.
-        Gates (Operator architecture): blog articles only · ≥1,200 words ·
-        ≥3 H2 sections (4 split parts) · no product-box affiliate pages
-        (2-ads-max rule) · ad slot configured. Insert lands after the 2nd
-        H2 section — deep enough for viewability, clear of the answer. */}}
-  {{ $parts := split .Content "<h2" }}
-  {{ $midOk := and (eq .Section "blog")
-                  (ge .WordCount 1200)
-                  (gt (len $parts) 3)
-                  (not (.HasShortcode "product-box"))
-                  .Site.Params.adsense.client_id }}
+  {{/* Article Content — AdSense mid-article zone removed 2026-08-23 (ADR-006 affiliate pivot) */}}
   <div class="article-content">
-  {{ if $midOk }}
-    {{/* Reassemble with the ad zone injected after the 2nd H2 section.
-          All string building happens in actions; ONE safeHTML emission —
-          html/template rejects chained literal tags after in-tag actions. */}}
-    {{ $out := index $parts 0 }}
-    {{ $out = printf "%s<h2%s" $out (index $parts 1) }}
-    {{ $out = printf "%s<h2%s" $out (index $parts 2) }}
-    {{ $out = printf "%s%s" $out (partial "adsense.html" (dict "position" "mid_article" "ctx" .)) }}
-    {{ $out = printf "%s<h2%s" $out (delimit (after 3 $parts) "<h2") }}
-    {{ $out | safeHTML }}
-  {{ else }}
-    {{ .Content }}
-  {{ end }}
+  {{ .Content }}
   </div>
   {{/* FAQPage JSON-LD emitted here (same render pass, after content = deterministic;
          the old head.schema Store read raced content rendering — Atlas R8) */}}
@@ -116,9 +94,6 @@
   {{ if eq .Section "blog" }}
   {{ partial "related-posts.html" . }}
   {{ end }}
-
-  {{/* Bottom ad */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
 
   {{/* Sources / methodology strip */}}
   <div class="sources-strip">

@@ -86,10 +86,6 @@
     {{ end }}
   </nav>
 
-  {{/* One ad per hub (zone map: hubs = 1, below-title-equivalent depth here
-        keeps it clear of the directory interactions) */}}
-  {{ if .Site.Params.adsense.client_id }}{{ partial "adsense.html" (dict "position" "end_article" "ctx" .) }}{{ end }}
-
   {{/* Sources strip — hubs make claims too */}}
   <div class="sources-strip">
     <div class="sources-strip-title">
