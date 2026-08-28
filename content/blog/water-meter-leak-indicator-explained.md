@@ -3,7 +3,7 @@ title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running Wh
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
-updated: 2026-08-21
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -13,6 +13,8 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 sources:
   - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices
 ---
+
+{{< affiliate-disclosure >}}
 
 <!-- Manual TOC removed: single.html now auto-generates a collapsible TOC. -->
 
@@ -91,6 +93,10 @@ sources:
 
 <h3>Option B: Separate indoor vs outdoor use</h3>
 <p>In summer, irrigation is a top cause of "mystery usage." If your bill spikes seasonally, this guide helps you connect the dots: <a href="/blog/why-is-my-water-bill-higher-in-summer/">why water bills are higher in summer</a>.</p>
+
+The leak indicator is a once-a-month check at the meter. This does it every minute of every day, and closes the valve when it finds one.
+
+{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor & Shutoff" label="Every-minute monitoring" description="Monitors flow, pressure, and temperature 24/7. Detects drops-per-minute leaks and can shut the main valve automatically — the upgrade from checking a leak indicator once a month. Moen 900-001 spec." button="Check price on Amazon" >}}
 
 ## Common misconceptions {#misconceptions}
 <ul>

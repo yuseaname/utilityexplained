@@ -3,7 +3,7 @@ title: "How to Investigate a Higher-Than-Expected Water Bill"
 slug: "06-water-bill-too-high"
 description: "Investigate a high water bill using the account statement, meter information, property observations, local utility rules, and safe professional follow-up."
 date: 2026-03-07
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -15,6 +15,8 @@ sources:
   - https://www.epa.gov/watersense/start-saving
   - https://www.epa.gov/watersense/residential-toilets
 ---
+
+{{< affiliate-disclosure >}}
 
 ## Quick Answer
 
@@ -51,6 +53,14 @@ EPA WaterSense recommends tracking use and reading meters or submeters to identi
 Review toilets, faucets, irrigation equipment, appliances, and other water-using equipment only within the manufacturer’s instructions and your ability to access them safely. EPA notes that WaterSense-labeled toilets are independently certified for efficiency and performance; product selection should use the installed conditions and local program terms, not a universal bill-savings promise.[3]
 
 For rental or shared service, notify the property owner or manager in writing and ask how water use, repairs, and billing responsibilities are allocated. For suspected concealed leaks, water damage, or plumbing work outside safe scope, contact a qualified professional.
+
+Proof beats suspicion — and a $30 sensor catches what a monthly bill only hints at. Place a couple near the water heater, under sinks, and behind the toilet: they alarm on contact and tell your phone, so a slow leak becomes a same-day fix instead of a next-quarter bill surprise.
+
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch it while it's small" description="Contact sensors that alarm at 105 dB and send phone alerts when they touch water. Place under the water heater, behind the washing machine, and under sinks — the three places slow leaks hide longest." button="Check price on Amazon" >}}
+
+If the bill is repeating and you want the leak found whether or not it's near a sensor, a whole-home monitor on the main line sees every drop:
+
+{{< amazon asin="B00C03D01Q" text="See the Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} — monitors flow, pressure, and temperature 24/7, detects drops-per-minute leaks, and can shut the main itself (Moen 900-001 spec).
 
 ## 4. Ask the Utility Specific Questions
 

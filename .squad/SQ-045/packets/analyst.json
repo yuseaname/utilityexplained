@@ -1,0 +1,38 @@
+{
+ "role": "analyst",
+ "mission": "The benchmark bar (web research, cite URL + retrieved date): for the 8 core topics (high electric/gas/water bill, reading bills, lowering bills, HVAC troubleshooting, fees, rates & plans) find the BEST-ranking competitor/AUTHORITY page per topic (utility company help centers, energy.gov, authoritative publishers) and extract: section structure, depth (approx words), what data they cite, what formats they use (calculators, tables, videos), freshness signals. Deliver: per-topic 'complete treatment checklist' \u2014 the sections/data/formats a genuinely complete page carries \u2014 plus the 5 formatting standards the best pages share. This is the bar our prescriptions get measured against. NO recommendations about our site beyond mapping the gap themes \u2014 prescription work belongs to other seats.",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). Depth over breadth: 8 topics, the actual best page for each, verified by fetching it.",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "8 topic benchmark checklists with cited sources.",
+  "Shared formatting standards of top pages."
+ ]
+}

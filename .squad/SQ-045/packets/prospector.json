@@ -1,0 +1,38 @@
+{
+ "role": "prospector",
+ "mission": "Read ALL 97 blog articles IN FULL. For EVERY page deliver one row in an artifact table: path | words (from metrics) | VERDICT (retain / improve / consolidate-into:[target] / replace / remove) | quality flags (thin-incomplete: topic needs more depth; thin-but-tight: short is correct; generic: says nothing a competitor doesn't; incomplete: section promised but missing, question raised but unanswered; outdated: stats/years stale; unsourced: factual claims without sources) | THE prescription: the 1-3 highest-leverage specific improvements (exact section to add, exact table to build, exact source type to cite, exact link to wire). Envelope: the 15 highest-leverage improvement prescriptions + the 10 pages that should merge/die + distribution counts by verdict.",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). You are the backbone of this audit. The metrics table gives you words/sources/dates \u2014 spend your reading on JUDGMENT: does each page fully answer its title's promise? What would make a reader say 'this is the page I needed'?",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-045/artifacts/prospector-quality-table.md"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "All 97 pages in the artifact table with verdict + flags + specific prescription.",
+  "Envelope: top-15 prescriptions, 10 merge/die candidates, verdict distribution."
+ ]
+}

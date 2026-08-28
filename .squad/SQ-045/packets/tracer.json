@@ -1,0 +1,37 @@
+{
+ "role": "tracer",
+ "mission": "Reader-journey completeness audit, topic by topic (not page by page): for each of the 8 core topics (high electric bill / high water bill / high gas bill / reading each bill type / lowering bills / HVAC troubleshooting / fees & charges / rates & plans), walk the journey a real reader takes: entry query -> diagnosis -> understanding the bill -> action -> tools. Report: (1) journey gaps \u2014 natural follow-up questions with NO page to serve them (each: the query, the nearest existing page, whether it's a new-page need or an existing-page expansion); (2) dangling promises \u2014 any page referencing 'we cover X' / 'see our guide to X' where X doesn't exist or is thin; (3) dead ends \u2014 high-traffic pages whose topic naturally continues elsewhere on-site but link nowhere; (4) series inconsistencies \u2014 pages in the same series (numbered 01-50) with mismatched depth/format. File:line for every finding.",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). You are one thread to the bottom: the READER's path through the site, not the files.",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Per-topic journey maps with gaps, dangling promises, dead ends, series inconsistencies \u2014 all file:line cited."
+ ]
+}

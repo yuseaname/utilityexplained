@@ -1,0 +1,38 @@
+{
+ "role": "operator",
+ "mission": "SOURCING PASS on the flagship: content/blog/how-to-lower-electric-bill-complete-guide.md. It carries ~249 dollar figures with zero sources and 15.7% of site pageviews. Mission: (1) frontmatter 'sources:' with the baseline URLs; (2) inline-cite the ~12-15 LOAD-BEARING claims (thermostat savings %, HVAC share, LED savings, water-heater 120F savings, air-sealing ranges, phantom-load estimates) using baseline numbers \u2014 where the page's figure differs from the verified baseline, CORRECT the figure to the baseline, do not bend the citation; (3) add a short 'About our numbers' note near the top stating ranges are typical US figures compiled from EIA/DOE data, individual results vary; (4) leave the article structure, product boxes, and internal links untouched. CHUNK DISCIPLINE: edit section by section, save after each \u2014 do not compose one giant final turn.",
+ "parent_objective": "SQ-046 Sprint 1: sourcing pass + Tier 1 placements + measurement rig, one verified deploy.",
+ "context": "This is the trust-debt payment for the whole site. Verify any new number via web_fetch; the baseline file has the verified set.",
+ "known_facts": [
+  "CANONICAL DATA (Commander-verified 2026-08-28, citations in data baseline \u2014 use THESE numbers, never invent): avg US residential electric bill $159.14/mo mid-2026 (EIA, FY2024: $142.26); avg rate 18.3-18.4 c/kWh mid-2026, 17.30 FY2025; avg usage ~899 kWh/mo (EIA FAQ).",
+  "DOE verified: thermostat setback 7-10F for 8h/day saves up to 10% (energy.gov/save/home-upgrades). energy.gov bill-share figures: heating ~30% of utility bills, water heating ~20%, duct losses 20-30%.",
+  "Site voice: plain-English, practical, no hype. NEVER claim testing/review/firsthand use."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/how-to-lower-electric-bill-complete-guide.md"
+  ],
+  "notes": "Canonical data with source URLs: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Cite only the baseline's verified numbers/URLs, or verify a new number yourself via web_fetch (cite URL + date). Never fabricate or estimate silently.",
+  "Match each file's existing markdown style exactly; no restructures beyond the specified task.",
+  "Update the frontmatter 'updated:' field to 2026-08-28 on every file you touch."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Frontmatter sources added; 12-15 load-bearing claims inline-cited or corrected to baseline; 'About our numbers' note present; structure/boxes untouched."
+ ]
+}

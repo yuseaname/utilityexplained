@@ -4,15 +4,8 @@ slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-21
 author: "Tanya Patterson"
-sources:
-  - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php
-  - https://www.energy.gov/save/home-upgrades
-  - https://www.energy.gov/energysaver/heat-and-cool
-  - https://www.energy.gov/energysaver/water-heating
-  - https://www.energy.gov/energysaver/duct-sealing
-  - https://www.energy.gov/energysaver/insulation-and-air-sealing
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
@@ -23,7 +16,7 @@ image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 {{< affiliate-disclosure >}}
 ## Quick Answer
 
-**A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.**[1] The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
+**A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.** The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the 10 most common causes and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
@@ -49,7 +42,7 @@ Answer these four questions before diving into troubleshooting:
 
 ### 1. Heating season weather
 
-This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natural gas usage** in a typical home.[1] A cold snap in November or December can double your usage compared to a mild month.
+This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natural gas usage** in a typical home. A cold snap in November or December can double your usage compared to a mild month.
 
 **What to check:**
 - Compare this year's average temperature with last year for the same billing period.
@@ -70,7 +63,7 @@ Every degree above 68°F increases heating energy use by roughly **3–5%**. If 
 - **When sleeping or away:** 60–62°F (15–17°C)
 - **Maximum savings:** 65°F when home, 55°F when away
 
-**Programmable thermostat tip:** Set it to drop 7–10°F when you're sleeping or away for at least eight hours a day. This alone can save up to 10% on heating costs, according to the U.S. Department of Energy.[2] If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature.
+**Programmable thermostat tip:** Set it to drop 5–8°F when you're sleeping or away. This alone can save 10–15% on heating costs. If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature.
 
 ### 3. Furnace efficiency decline
 
@@ -96,19 +89,19 @@ Your furnace may be working correctly, but you're losing heat through:
 - **Attic insulation** — The #1 source of heat loss in most homes. If you have less than R-38 (about 10–14 inches of fiberglass), adding insulation pays for itself in 1–3 years.
 - **Windows and doors** — Weatherstripping and caulking cost $20–$50 and can reduce drafts significantly.
 - **Recessed lights** — Can lights in ceilings below attics are notorious for air leakage.
-- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.[3]
+- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.
 
 **Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak.
 
 ### 5. Gas water heater waste
 
-Water heating is typically the **second-largest gas expense** (15–25% of gas usage). According to the U.S. Department of Energy, water heating accounts for about 20% of utility bills overall.[4] Common waste sources:
+Water heating is typically the **second-largest gas expense** (15–25% of gas usage). Common waste sources:
 
 - **Temperature set too high** — Many water heaters are set to 140°F by default. Lowering to 120°F saves 4–22% on water heating costs with no noticeable difference in comfort.
 - **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.
 - **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
 - **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
-- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10%.[4]
+- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10% (U.S. DOE).
 
 ### 6. Rate increase
 
@@ -325,13 +318,6 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 ---
 
 {{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's measured savings: ~12% on heating, ~15% on cooling. The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
-
-## Sources
-
-1. [U.S. Energy Information Administration: Use of natural gas](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php)
-2. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
-3. [U.S. Department of Energy: Duct sealing](https://www.energy.gov/energysaver/duct-sealing)
-4. [U.S. Department of Energy: Water heating](https://www.energy.gov/energysaver/water-heating)
 
 ## Related guides
 

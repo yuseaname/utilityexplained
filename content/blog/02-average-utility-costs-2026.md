@@ -4,7 +4,7 @@ slug: "02-average-utility-costs-2026"
 canonical: "https://utilityexplained.com/blog/average-utility-bills-by-state-2026/"
 description: "The average US household spends $500-600/month on utilities. Here's exactly where that money goes, how your state compares, and what's normal."
 date: 2026-03-07
-updated: 2026-08-21
+updated: 2026-08-28
 author: "Marcia Washington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -12,6 +12,10 @@ tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas 
 keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
 image: "/images/articles/02-average-utility-costs-2026/02-average-utility-costs-2026_hero_v2.webp"
 draft: true
+sources:
+  - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
+  - https://www.eia.gov/electricity/sales_revenue_price/
 ---
 
 ## Quick Answer

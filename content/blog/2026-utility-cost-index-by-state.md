@@ -3,9 +3,14 @@ title: "2026 Utility Cost Index: Average Electric, Gas & Water Bills by State"
 slug: "2026-utility-cost-index-by-state"
 description: "Original research: Average monthly electric, gas, and water bills for all 50 states, ranked by total utility cost."
 date: 2026-08-10
-updated: 2026-08-21
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Bills & Fees"
+sources:
+  - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
+  - https://www.eia.gov/electricity/sales_revenue_price/
+  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
 categories: ["Bills & Fees"]
 tags: ["average bills", "utility costs", "electricity cost", "gas cost", "water cost"]
 keywords: ["average utility bill by state", "electricity cost by state", "gas cost by state", "water cost by state", "utility cost comparison"]
@@ -13,33 +18,37 @@ image: "/images/articles/2026-utility-cost-index-by-state/custom_hero.webp"
 draft: true
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
-**Hawaii has the highest electricity costs at $0.34/kWh (avg. $450/month), while Louisiana has the lowest at $0.09/kWh (avg. $120/month).** The national average electricity rate is $0.16/kWh, with dramatic variations based on local energy sources, infrastructure costs, and state regulations.
+**Hawaii has the highest electricity costs at ~33¢/kWh, but because its households use the least electricity in the nation (~500–550 kWh/month, no space heating), the average monthly electric bill is about $200–$240—not $450.**[1] Louisiana has among the lowest rates (~9¢/kWh) and the highest usage (~1,200 kWh/mo), so its average bill is about $120–$140. The national average residential electricity rate is **18.34¢/kWh** (EIA Electricity Monthly Update, June 2026), with dramatic variations based on local energy sources, infrastructure costs, and state regulations.
 
-- **Coastal states pay 2-3x more** - Hawaii, California, Massachusetts, and New York top the expensive list
-- **Natural gas states are cheapest** - Louisiana, Texas, Oklahoma benefit from abundant local energy
-- **Solar can offset $100-250/month** in high-cost states depending on system size
+- **Coastal states pay 2-3x more** — Hawaii, California, Massachusetts, and New York top the expensive list
+- **Natural gas states are cheapest** — Louisiana, Texas, Oklahoma benefit from abundant local energy
+- **Solar can offset $100–$250/month** in high-cost states depending on system size
 
 See [fixed vs variable rate plans](/blog/fixed-vs-variable-rate-electricity-plan/) for managing costs.
 
-Where you live determines how much you pay for utilities—sometimes dramatically. A household in Hawaii pays $360/month for electricity, while a household in Louisiana pays just $84. A family in Massachusetts spends $75/month on water, while a family in Wisconsin spends $35.
+Where you live determines how much you pay for utilities—sometimes dramatically. A household in Hawaii pays about $200–$240/month for electricity, while a household in Louisiana pays about $120–$140. A family in Massachusetts spends $75/month on water, while a family in Wisconsin spends $35.
 
 This 2026 Utility Cost Index ranks all 50 states by average monthly utility costs (electricity, gas, and water combined), using original analysis of EIA data, state utility commission reports, and census data.
 
-**Key finding:** The average US household spends **$262/month** on utilities, but state-by-state variation is enormous—from **$185/month (Utah)** to **$395/month (Hawaii)**.
+**Key finding:** The average US household spends **$262/month** on utilities (electricity + gas + water, not including internet, trash, or sewer-only charges), but state-by-state variation is enormous—from **$185/month (Utah)** to **$395/month (Hawaii)**.
 
 ## 2026 Utility Cost Rankings: All 50 States
 
-This table ranks all 50 states by **total average monthly utility cost** (electricity + gas + water), based on a typical household using:
+This table ranks all 50 states by **estimated total monthly utility cost** (electricity + gas + water), based on a typical household using:
 
 - 900 kWh/month electricity (national average)
 - 70 therms/month gas (winter-weighted average)
 - 5,000 gallons/month water (national average)
 
+> **How we calculate:** For each state, we multiply the standardized usage above by the state's average residential rate. This gives a like-for-like cost comparison. **Important:** Hawaii's actual household electricity usage is ~515 kWh/month (lowest in the nation, because no space heating is needed), so the $295 electric estimate below overstates the typical Hawaii bill. A realistic Hawaii electric bill is ~$200–$240/month (EIA FAQ, 2024 data).
+
 | Rank | State | Electric | Gas | Water | **Total Monthly Cost** | |
 |------|-------|----------|-----|-------|---------------------|---|
-| 1 | **Hawaii** | $295 | $85 | $15 | **$395** | 🏴󠁳󠁣󠁴󠁲󠁬 |
+| 1 | **Hawaii** | $295* | $85 | $15 | **$395** | 🏴󠁳󠁣󠁴󠁲󠁬 |
 | 2 | **Massachusetts** | $198 | $125 | $72 | **$395** | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 |
 | 3 | **Connecticut** | $185 | $125 | $68 | **$378** | |
 | 4 | **Rhode Island** | $180 | $118 | $65 | **$363** | |
@@ -92,7 +101,9 @@ This table ranks all 50 states by **total average monthly utility cost** (electr
 
 **National Average:** **$262/month**
 
-*Data sources: EIA State Energy Data System 2025, state utility commission rate filings 2025–2026, AWWA water rate surveys 2025, EPA WaterSense data 2025.*
+*\* Hawaii's electric estimate applies the national-average 900 kWh/month to its high rate. Hawaii's actual average household electricity usage is ~515 kWh/month (EIA FAQ, 2024 data), making a realistic Hawaii electric bill ~$200–$240/month. See the [How We Calculate](#how-we-calculate) section for methodology.*
+
+*Data sources: EIA State Energy Data System 2025, state utility commission rate filings 2025–2026, AWWA water rate surveys 2025, EPA WaterSense data 2025. Estimates are marked with an asterisk where standardized usage differs from actual state-level averages.*
 
 ---
 
@@ -462,6 +473,8 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 - Gas: 70 therms/month (weather-weighted average across climate zones)
 - Water: 5,000 gallons/month (EPA WaterSense average for 3-person household)
 
+> **Note on Hawaii:** The Hawaii electric calculation uses 900 kWh/month for consistency, but Hawaii's actual average household electricity consumption is ~515 kWh/month (6,178 kWh/year, EIA FAQ), the lowest in the nation. No space heating means Hawaii's real average electric bill is ~$200–$240/month, not the $295 shown in the standardized table. All other states are closer to the national average usage.
+
 **Step 2: Calculate state-specific rates**
 - Electricity: Weighted average of IOU, cooperative, and municipal rates
 - Gas: Weighted average of regulated utility rates
@@ -604,6 +617,12 @@ This 2026 Utility Cost Index uses original analysis combining three data sources
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Energy Information Administration: FAQ — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3)
+2. [U.S. Energy Information Administration: Electricity Monthly Update](https://www.eia.gov/electricity/monthly/update/end-use.php)
+3. [U.S. Energy Information Administration: Electric Sales, Revenue, and Average Price](https://www.eia.gov/electricity/sales_revenue_price/)
 
 ## Related Articles:
 

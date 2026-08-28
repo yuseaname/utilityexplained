@@ -1,0 +1,43 @@
+{
+ "role": "tracer",
+ "mission": "TIER 1 PLACEMENTS: insert the publish-ready copy from the placement plan into 6 files, at the exact section anchors specified there. Plan file: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/AFFILIATE-PLACEMENTS-2026-08-28.md (read it first \u2014 sections 'TIER 1' and 'EXISTING placements'). Corrections to the plan as you execute: (1) Govee ASIN is VERIFIED: B0DQLFC3Q6 (GoveeLife Upgraded Smart Water Leak Detector 1s, 5-pack with gateway, SMS/app/email alerts, 105 dB alarm \u2014 fix the plan's '100 dB' to '105 dB' in your inserted copy); (2) pages: 03-why-is-my-electric-bill-so-high (end of 'A Practical Diagnosis Sequence'), 06-water-bill-too-high (end of section 3), water-meter-running-when-no-water-used (end of 'If It's Inside: Find the Culprit'), water-meter-leak-indicator-explained (end of 'How to isolate'), ev-charging-impact-electric-bill (end of 'Home Equipment and Safety'), 30-sudden-spike (add the Kasa KP115 companion inline link right after the existing Kill A Watt product box, per the plan's 'EXISTING placements' item); (3) ensure each touched file has the affiliate-disclosure shortcode near top (30-spike already has it); (4) preserve each article's voice \u2014 read 200 words around each anchor before inserting.",
+ "parent_objective": "SQ-046 Sprint 1: sourcing pass + Tier 1 placements + measurement rig, one verified deploy.",
+ "context": "Mechanical insertion of pre-written copy at named anchors. If an anchor section reads awkwardly with the insertion, adjust the transition sentence \u2014 do not move sections.",
+ "known_facts": [
+  "CANONICAL DATA (Commander-verified 2026-08-28, citations in data baseline \u2014 use THESE numbers, never invent): avg US residential electric bill $159.14/mo mid-2026 (EIA, FY2024: $142.26); avg rate 18.3-18.4 c/kWh mid-2026, 17.30 FY2025; avg usage ~899 kWh/mo (EIA FAQ).",
+  "DOE verified: thermostat setback 7-10F for 8h/day saves up to 10% (energy.gov/save/home-upgrades). energy.gov bill-share figures: heating ~30% of utility bills, water heating ~20%, duct losses 20-30%.",
+  "Site voice: plain-English, practical, no hype. NEVER claim testing/review/firsthand use."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/03-why-is-my-electric-bill-so-high.md",
+   "content/blog/06-water-bill-too-high.md",
+   "content/blog/water-meter-running-when-no-water-used.md",
+   "content/blog/water-meter-leak-indicator-explained.md",
+   "content/blog/ev-charging-impact-electric-bill.md",
+   "content/blog/30-sudden-spike-in-electricity-bill-no-usage.md"
+  ],
+  "notes": "Canonical data with source URLs: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Cite only the baseline's verified numbers/URLs, or verify a new number yourself via web_fetch (cite URL + date). Never fabricate or estimate silently.",
+  "Match each file's existing markdown style exactly; no restructures beyond the specified task.",
+  "Update the frontmatter 'updated:' field to 2026-08-28 on every file you touch."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "All 6 placements live at correct anchors with verified ASINs; disclosures present; voice preserved."
+ ]
+}

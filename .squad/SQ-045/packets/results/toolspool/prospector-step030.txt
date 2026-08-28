@@ -1,0 +1,632 @@
+exit_code: 0
+=== content/blog/21-past-due-balance-utility-bill-explained.md ===
+---
+title: "How to Review a Past-Due Balance on a Utility Bill"
+slug: "21-past-due-balance-utility-bill-explained"
+description: "Review a past-due utility balance from the account statement, payment records, provider notice, tariff, and current assistance or payment options."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["past due", "utility bills", "billing"]
+keywords: ["past due balance utility", "utility bill past due", "overdue utility bill"]
+image: "/images/articles/21-past-due-balance-utility-bill-explained/21-past-due-balance-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A past-due balance should be reviewed against the account statement, payment records, and provider’s current written notice before assuming a late fee, shutoff, collection, payment plan, or credit outcome.** The provider’s tariff and account terms control due dates, fees, notices, assistance, payment arrangements, and service consequences.
+
+If paying utility bills is difficult, CFPB directs renters to local and state resources, including LIHEAP-related assistance information.[1]
+
+## Reconcile the Account First
+
+Compare the current statement with the prior statement and payment records. Record:
+
+| Detail | What to verify |
+|---|---|
+| Past-due balance | Exact amount and bill period it represents |
+| Current charges | Charges for the latest service period, separate from past due |
+| Payments and credits | Date, amount, confirmation, and how the provider applied them |
+| Notice | Due date, stated service consequences, and contact instructions |
+| Rate and account status | Tariff, service class, meter/read status, and open review case if any |
+
+If a payment, credit, usage charge, or account date does not reconcile, request the provider’s account-specific calculation and written review process.
+
+## Contact the Provider Promptly
+
+Use the provider’s official contact channel and ask what current account options, notice terms, payment requirements, review process, and assistance referrals apply. Do not rely on a generic grace period, late-fee percentage, disconnection timeline, medical-protection rule, or payment-plan promise.
+
+If the account includes a charge you believe is incorrect, identify the specific line and ask for the controlling tariff section and calculation. Follow the provider’s written rules while the review is open; do not assume that withholding any portion of payment is safe without provider confirmation.
+
+## Explore Assistance Before the Deadline
+
+CFPB’s utility-bill assistance resource directs renters to local and state resources, including LIHEAP information.[1] Confirm directly with the program and provider whether assistance is available, its eligibility requirements, deadlines, required documents, and which account charges it can address.
+
+For an immediate safety emergency, gas odor, electrical hazard, or medical need, use the provider’s emergency contact instructions rather than waiting for a billing response.
+
+## Keep a Written Record
+
+Keep bills, notices, payment receipts, correspondence, case references, and provider responses together. If the provider cannot resolve the issue, ask it to identify the next review level and the authority that oversees the account; oversight differs among investor-owned, municipal, cooperative, water, and other providers.
+
+## Questions for the Provider
+
+1. Which bill periods and charges make up the past-due balance?
+2. How were payments, credits, and any late charges applied?
+3. What tariff, notice, and account terms apply today?
+4. What payment, review, or assistance options are available for this account?
+5. Which authority and process apply if the account question remains unresolved?
+
+## Sources
+
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)=== content/blog/22-minimum-bill-utility-bill-explained.md ===
+---
+title: "How to Review a Minimum Charge on a Utility Bill"
+slug: "22-minimum-bill-utility-bill-explained"
+description: "Identify whether a bill includes a minimum charge, customer charge, or usage floor by reviewing the account’s tariff, service class, and itemized statement."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["minimum bill", "utility fees", "customer charge"]
+keywords: ["minimum bill utility", "minimum charge utility bill", "customer charge utility"]
+image: "/images/articles/22-minimum-bill-utility-bill-explained/22-minimum-bill-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+---
+
+## Quick Answer
+
+**A “minimum bill,” “minimum charge,” “customer charge,” or similar label must be interpreted under the tariff that applies to your account.** DOE rate-design material describes residential rates as historically including a fixed customer charge and a volumetric rate, but it does not establish one national minimum-bill amount or rule.[1]
+
+Do not assume the charge applies with zero use, includes a usage floor, can be waived, or has the same meaning for electricity, gas, water, or another provider without checking the relevant documents.
+
+## Identify the Account Rule
+
+Locate the line on the statement and then obtain the account’s rate schedule or tariff. Record:
+
+| Detail | What to verify |
+|---|---|
+| Charge label | Exact bill wording and tariff reference |
+| Service class | Account type, rate plan, and effective date |
+| Calculation | Fixed amount, total-bill floor, minimum use, or another method |
+| Included/excluded items | Usage, taxes, riders, credits, demand, and one-time charges |
+| Account conditions | Vacant, seasonal, solar, medical, contract, or other rules if stated in the tariff |
+
+The provider’s tariff controls whether the item is a standalone charge, part of a minimum total, or a different rate component.
+
+## Compare the Bill Calculation
+
+Review billing days, usage, meter-read status, rate version, charges, credits, and one-time items before deciding why the amount due did not fall with lower usage. DOE’s electricity-bill guidance explains that utility bills may include consumption, demand, riders, and other components that are calculated differently.[2]
+
+If the result does not reconcile with the tariff, request an account-specific calculation from the provider. Do not assume a general rate-design description establishes the correct amount for an individual account.
+
+## Questions for the Provider
+
+1. Which tariff section defines this charge for my account?
+2. Is it a fixed charge, a minimum total, a minimum-use rule, or another calculation?
+3. Which charges, credits, and taxes are included or excluded?
+4. What service class, account status, and effective period apply?
+5. What review process applies if the amount appears inconsistent with the tariff?
+
+## Sources
+
+1. [U.S. Department of Energy: Rate Design Primer (PDF)](https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf)
+2. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)=== content/blog/23-utility-billing-cycle-explained.md ===
+---
+title: "How to Read the Billing Period on a Utility Statement"
+slug: "23-utility-billing-cycle-explained"
+description: "Use the account’s service dates, meter-read status, usage, tariff, and provider bill guide to compare utility billing periods accurately."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["billing cycle", "utility bill dates", "utility bill"]
+keywords: ["utility billing cycle", "utility bill period", "utility service dates"]
+image: "/images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+---
+
+## Quick Answer
+
+**The billing period is the service-date range printed on your statement; it is not necessarily a calendar month.** Use the exact account dates, number of billing days, meter-read status, usage unit, and rate-plan version when comparing bills. Do not assume a universal billing frequency, due-date window, route process, or adjustment rule.
+
+Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
+
+**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide.
+
+If you need a line-by-line walkthrough of your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/). For help with a surprise spike, check [why your bill jumped](/blog/15-why-utility-bill-higher-same-usage/), see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for charge categories, or troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/). Then:
+
+## Record the Statement Details
+
+For the current bill and a comparable prior statement, record:
+
+| Detail | What to verify |
+|---|---|
+| Service period | Start date, end date, and total billing days |
+| Statement and due date | Dates printed by the provider |
+| Meter information | Prior/current reading, unit, and actual or estimated status |
+| Usage | Billed quantity and any correction or adjustment |
+| Rate plan | Tariff, service class, and effective date |
+| Charges | Usage, fixed, rider, tax, credit, and one-time items |
+
+If the billing periods differ, compare the underlying service dates and all rates before deciding why the amount due changed.
+
+## Confirm Meter-Read Status
+
+Look for the provider’s indication of an actual, estimated, customer-submitted, or otherwise adjusted reading. Con Edison explains that a customer can submit a meter reading to avoid an estimated bill when a meter reader misses a visit.[2] Your provider may use different terms and rules, so verify them from its current bill guide.
+
+Do not alter a meter or equipment. Ask the provider how it handles a question about a reading, correction, move, account transfer, or final statement.
+
+## Compare Bills Like With Like
+
+Use a prior bill with a similar season only as a starting point. Account for changed billing days, rate schedule, usage unit, meter status, credits, and one-time items. A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
+
+## Questions for the Provider
+
+1. What dates and reading status define this billing period?
+2. How was billed usage calculated from the meter information?
+3. Which current tariff and rate period apply?
+4. Does the statement include an estimate correction, credit, or one-time item?
+5. What is the provider’s process for a reading or billing-period review?
+
+## Sources
+
+1. [Con Edison: Understanding Your Bill FAQ](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq)
+2. [Con Edison: How to Read Your Electricity Meter](https://www.coned.com/en/accounts-billing/how-to-read-your-meter)=== content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md ===
+---
+title: "How to Compare Delivery and Supply Charges on a Utility Bill"
+slug: "24-delivery-charge-vs-supply-charge-utility-bill"
+description: "Read delivery and supply charges from the account's itemized bill and tariff instead of applying a generic percentage, provider-choice, or savings rule."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Marcia Washington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["delivery charge", "supply charge", "utility bill"]
+keywords: ["delivery charge versus supply charge", "utility bill charges", "supply delivery bill"]
+image: "/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge
+---
+
+## Quick Answer
+
+**“Delivery” and “supply” are bill categories whose definitions, rates, subcharges, and provider options depend on the serving utility and the account's tariff.** Do not assume one category is fixed, that a particular percentage applies, or that a customer can choose a different provider without checking the account's current terms.
+
+Con Edison describes supply and delivery charges on its bills and explains that delivery costs are based on energy use; use the equivalent guide and tariff from your own provider to interpret your account.[1]
+
+## Read the Itemized Statement
+
+Record each line as it appears on the bill:
+
+| Bill detail | What to verify |
+|---|---|
+| Supply | Rate, usage basis, provider name, and related charges |
+| Delivery | Rate, usage basis, fixed components, and related charges |
+| Taxes, riders, and credits | Whether the item is separate from supply or delivery |
+| Rate plan | Tariff name, service class, and effective date |
+| Meter information | Usage unit, billing days, and actual or estimated status |
+
+Some providers present additional supply or delivery components. Con Edison's Market Supply Charge information, for example, describes a per-kWh market supply charge along with other supply charges.[2]
+
+## Compare the Full Bill
+
+When comparing offers or prior bills, use the same scope each time. A supply-only advertised price is not the same as the total amount due. Compare billing days, usage, delivery components, supply components, taxes, credits, and one-time items before deciding that one category caused a change.
+
+## Questions for the Provider
+
+1. Which tariff sections define my supply and delivery charges?
+2. Which parts are usage-based, fixed, seasonal, or time-variable?
+3. Does this account have a supplier choice or a provider-specific offer?
+4. What current rate and contract documents apply to this account?
+5. Which charges changed from the prior bill, and why?
+
+Keep the bill, tariff version, offer terms, and provider response together when reviewing a charge.
+
+## Sources
+
+1. [Con Edison: How to Read Your Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill)
+2. [Con Edison: Market Supply Charge Calculator](https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge)=== content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md ===
+---
+title: "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
+description: "Review tax, fee, franchise, rider, credit, and other utility-bill lines using the account’s itemized statement, tariff, and local rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility taxes", "utility fees", "utility bill"]
+keywords: ["utility bill taxes", "utility bill fees", "franchise charge utility bill"]
+image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"
+hero_below_answer: true
+sources:
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+**Tax, fee, franchise, rider, credit, and other bill lines must be identified from the account’s own statement and controlling documents.** Their names, amounts, legal basis, calculation method, and ability to change vary by provider, service territory, rate plan, and local rules. Do not apply a national percentage or assume that a similarly named charge has the same meaning elsewhere.
+
+DOE electricity-bill guidance describes multiple bill charge types and rate structures, so a line-by-line review is more reliable than treating the amount due as one undifferentiated charge.[1]
+
+## Make a Bill-Line Inventory
+
+For each non-usage line, record its exact name, amount, rate basis, and document reference.
+
+| Charge type | What to verify |
+|---|---|
+| Tax or government charge | Jurisdiction, rate, tax base, effective date, and official reference |
+| Franchise or local charge | Provider description, local agreement or rule reference, and calculation |
+| Rider or surcharge | Tariff section, eligible service class, rate, and adjustment period |
+| Public-program or policy charge | Program name, administrator, authority, and account applicability |
+| Credit or adjustment | Reason, period covered, and how the amount was calculated |
+
+Separate these lines from usage, supply, delivery, demand, fixed, and one-time charges. The same bill can include several different calculation methods.
+
+## Compare the Right Documents
+
+Compare the bill with the current tariff, rate schedule, provider bill guide, and—where relevant—the local or state source cited by the provider. Check the billing period, service class, effective dates, credit status, and calculation basis before concluding a charge increased or is incorrect.
+
+DOE notes that utility rate options and bill components can be determined differently, and changes in use can affect them differently.[2]
+
+## Questions for the Provider
+
+1. What tariff, policy, or government reference defines this line item?
+2. What rate, base, and effective period produced the amount on my bill?
+3. Is the charge usage-based, fixed, percentage-based, credited, or one-time?
+4. Which service class and account conditions make it applicable?
+5. What review process applies if the bill line appears incorrect?
+
+For tax, legal, or deduction questions, use the relevant tax authority or a qualified professional rather than relying on a generic utility-bill article.
+
+## Sources
+
+1. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+2. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)=== content/blog/26-utility-deposit-explained.md ===
+---
+title: "How to Review a Utility Deposit Requirement"
+slug: "26-utility-deposit-explained"
+description: "Review a utility deposit request using the provider’s service terms, account notice, payment options, and applicable local or state rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility deposit", "security deposit", "new service"]
+keywords: ["utility deposit", "utility security deposit", "new utility service deposit"]
+image: "/images/articles/26-utility-deposit-explained/26-utility-deposit-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A utility deposit request is governed by the serving provider’s current terms and the rules that apply to the account’s service territory.** Confirm the deposit amount, reason, payment timing, alternative documentation, return or credit terms, interest if any, and final-account treatment in writing. Do not use a national deposit range or assume a credit-check, refund, waiver, installment, or transfer rule applies to your account.
+
+If paying a utility deposit or bill creates hardship, CFPB directs renters seeking help with utility bills to local and state resources, including LIHEAP-related assistance information.[1]
+
+## Get the Deposit Terms in Writing
+
+Ask the provider for the service agreement, tariff, or account notice that defines the requirement. Record:
+
+| Detail | What to verify |
+|---|---|
+| Deposit requirement | Amount, account reason, service address, and due date |
+| Decision basis | Provider explanation and any account information considered |
+| Payment options | Accepted payment methods, timing, and any stated alternatives |
+| Deposit handling | Separate holding, account credit, interest, or other treatment if stated |
+| Return or application | Conditions, timing, final-bill treatment, and forwarding-address process |
+| Service consequences | What happens if the deposit is not paid under the provider’s written terms |
+
+Do not provide sensitive information or authorize a credit inquiry until the provider explains what it is requesting and why.
+
+## Separate Deposits From Other Charges
+
+Review the first statement line by line. A deposit can appear alongside a service-start charge, usage charges, fixed charges, taxes, credits, or a prior balance. They are not necessarily the same charge and may follow different rules.
+
+Keep the request, service agreement, payment confirmation, first bill, and later credit/refund information. Before moving or closing an account, ask the provider how its current final-bill and forwarding-address process applies.
+
+## Ask About Assistance Early
+
+Contact the provider as soon as a deposit requirement is issued to ask about current payment or assistance options. CFPB’s bill-assistance resource points renters to local and state assistance, including LIHEAP information.[1] Confirm eligibility, deadlines, documentation, and whether a program can address a deposit or only another account charge.
+
+## Questions for the Provider
+
+1. Which service agreement, tariff, or rule authorizes this deposit?
+2. What account-specific information produced the requested amount?
+3. What alternative documentation or payment options are available today, if any?
+4. How and when can the deposit be credited, returned, or applied to a final bill?
+5. Which local or state authority governs a question about this requirement?
+
+## Sources
+
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)=== content/blog/27-utility-connection-fee-explained.md ===
+---
+title: "How to Review a Utility Service-Start Charge"
+slug: "27-utility-connection-fee-explained"
+description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["connection fee", "new service", "utility setup"]
+keywords: ["utility connection fee", "utility service start charge", "new utility account"]
+image: "/images/articles/utility-connection-fee-explained/image.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms.
+
+Before opening an account, ask for the written schedule of charges and confirm which items apply to the address.
+
+## Get the Details in Writing
+
+Ask the provider to identify each potential item:
+
+| Item | What to verify |
+|---|---|
+| Account or service-start charge | Amount, purpose, due date, and refund policy |
+| Deposit | Amount, conditions, and how any return or credit is handled |
+| Site visit or reconnection | Whether a visit is needed and what access or scheduling rules apply |
+| New construction or infrastructure | Whether the property owner, builder, or account holder is responsible |
+| Cancellation or move-out | What charges, credits, or balances apply when service ends |
+
+The provider's terms, property condition, service territory, and request timing control the answer. A landlord or seller can identify the serving providers, but the provider should confirm account charges directly.
+
+## Before Move-In
+
+Read the lease or purchase documents for utility responsibilities and start service early enough to understand the provider's scheduling requirements. Keep the service-start confirmation, rate schedule, and first statement.
+
+If the household cannot afford a required payment, contact the utility before the due date about current payment arrangements and assistance. CFPB directs renters seeking help paying bills to local and state resources, including LIHEAP-related assistance information.[1]
+
+## Questions for the Provider
+
+1. Is this a transfer, service start, reconnection, deposit, or installation charge?
+2. Which written policy or tariff defines it?
+3. Is a technician visit required, and what access is needed?
+4. Is the charge refundable, creditable, or final under this provider's rules?
+5. What happens if service is canceled or delayed?
+
+## Sources
+
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)=== content/blog/28-utility-reconnection-fee-explained.md ===
+---
+title: "How to Verify a Utility Reconnection Charge"
+slug: "28-utility-reconnection-fee-explained"
+description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["reconnection fee", "service shutoff", "utility bill"]
+keywords: ["utility reconnection fee", "restore utility service", "utility shutoff charge"]
+image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A reconnection charge and the conditions for restoring utility service are provider- and account-specific.** Confirm the charge, unpaid balance, deposit, payment arrangement, timing, and service-restoration requirements directly from the serving provider's current tariff, policy, and written account notice. Do not rely on a national fee range, presumed restoration time, or assumed waiver.
+
+If paying the account is difficult, CFPB directs renters seeking help with utility bills to local and state resources, including LIHEAP-related assistance information.[1]
+
+**Next step:** Before you get to reconnection, understand how your [utility billing cycle](/blog/23-utility-billing-cycle-explained/) works and how to spot a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) before it triggers a shutoff.
+
+Before calling, review the [utility billing cycle](/blog/23-utility-billing-cycle-explained/) to understand how your service dates and meter read status affect your balance, and check [LIHEAP utility assistance](/blog/utility-assistance-programs-liheap/) if you need payment help. For deposit questions, see [utility deposits explained](/blog/26-utility-deposit-explained/). Then:
+
+## Get the Restoration Terms in Writing
+
+Ask the provider to identify every item that applies to the account:
+
+| Item | What to verify |
+|---|---|
+| Service status | Whether service is pending disconnection, disconnected, or otherwise restricted |
+| Balance | Past-due amount, late charges, credits, and payment-history status |
+| Reconnection charge | Amount, tariff or policy reference, and when it is due |
+| Deposit or security requirement | Whether one applies and under what written terms |
+| Restoration | Payment confirmation, access, scheduling, equipment, and safety conditions |
+| Assistance or payment options | Current eligibility rules, contacts, deadlines, and documentation |
+
+Keep the notice, bill, account confirmation, and provider communication. A service-start fee, a deposit, and a reconnection charge may be separate items; verify their definitions in the provider's documents.
+
+## Prioritize Safety and Urgent Needs
+
+For a gas odor, suspected leak, electrical hazard, medical need, or another emergency, use the serving utility's emergency contact instructions. Do not tamper with a meter, seal, line, or service equipment to restore service.
+
+If a household member has medical equipment or another urgent need, tell the provider immediately and ask which current program, documentation, or emergency procedure applies. Availability and protections vary, so obtain the provider's written response.
+
+## Get Assistance Before the Deadline
+
+Contact the provider as soon as the notice arrives and ask about its current payment and restoration rules. CFPB’s resource directs people who need help paying bills toward local and state support, including LIHEAP information.[1] Confirm any program's application requirements and whether it can address the specific account balance or charge.
+
+## Questions for the Provider
+
+1. Which tariff or policy defines the reconnection charge on this account?
+2. What exact amount and conditions are required before service can be restored?
+3. Are a deposit, visit, access requirement, or safety check involved?
+4. What payment arrangement or assistance options are available today?
+5. What confirmation and restoration timing can the provider document for this account?
+
+## Sources
+
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)=== content/blog/30-sudden-spike-in-electricity-bill-no-usage.md ===
+---
+title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+slug: "30-sudden-spike-in-electricity-bill-no-usage"
+description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
+date: 2026-05-28
+updated: 2026-08-21
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
+keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
+image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
+---
+
+{{< affiliate-disclosure >}}
+
+## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
+
+A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:
+
+1. **A longer billing period or estimated reading.** A 28-day bill followed by a 34-day bill adds <strong>~21%</strong> more days of usage. A corrected "EST" reading can lump two months of charges into one bill.
+2. **A rate increase.** A fuel adjustment, seasonal shift, or new rate schedule can raise your per-kWh cost by 10%–25% with no usage change at all.
+3. **Weather or HVAC working harder.** A heat wave, a refrigerant leak, a clogged filter, or a heat pump stuck on emergency heat can double or triple your consumption without you changing a single habit.
+4. **A malfunctioning appliance.** A water heater element, a running well pump, an old garage fridge, or a continuously cycling pool pump can quietly add <strong>300–500 kWh</strong> per month (roughly $40–$75).
+5. **A meter error or cross-billing.** Rare, but real — and worth ruling out if nothing above fits.
+
+**Start here:** Grab your current bill and last month's bill. In about 10 minutes you can rule out causes #1, #2, and #5 without leaving your kitchen. The 12-step investigation below walks through each cause in order, with dollar amounts, examples, and the exact action to take for each.
+
+If you already know which cause is yours: a rate change points to [fuel adjustment and rider charges explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), an HVAC problem starts with [why your bill is high](/blog/03-why-is-my-electric-bill-so-high/), and a suspected heat-pump issue usually means [auxiliary heat running when it shouldn't](/blog/aux-heat-vs-emergency-heat-meaning/).
+
+**Next step:** Once you've identified the likely cause of your spike, walk through the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to understand every charge on your statement, or see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a complete line-by-line guide.
+
+---
+
+Last month's electric bill was <strong>$135</strong>. This month it is <strong>$340</strong>. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A <strong>150% increase</strong> with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
+
+## The Top 10 Causes at a Glance
+
+| # | Likely Cause | How to Check | Typical Time to Fix |
+|---|-------------|--------------|---------------------|
+| 1 | **Longer billing period** (28 vs 34 days) | Compare service dates on this bill vs. last | Instant |
+| 2 | **Estimated meter reading** corrected upward | Look for "EST" or "Estimated" on your bill | 1 phone call |
+| 3 | **Rate increase** (fuel adjustment, seasonal, or new TOU plan) | Compare per-kWh rate to last year's same month | Instant |
+| 4 | **Hidden fees or rider charges** added or increased | Line-item review of the charges section | 1 phone call |
+| 5 | **Demand charges** (some commercial and a few residential plans) | Look for a "demand" or "kW" line item | Rate plan change |
+| 6 | **HVAC malfunction** (refrigerant leak, clogged filter, emergency heat) | Check airflow, filter, and cooling performance | Service call |
+| 7 | **Water heater failure** (bad element, sediment, leak) | Check for leaks, temperature setting, recovery time | Repair or replacement |
+| 8 | **Phantom or new load** (old fridge, space heater, EV, pool pump) | Circuit-by-circuit breaker test | 1 hour |
+| 9 | **Meter error** | Read meter yourself daily for a week and compare | 1–2 weeks |
+| 10 | **Cross-billing or wrong meter** | Verify meter number on bill matches your physical meter | 1 phone call |
+
+> **Start here:** In roughly 10 minutes you can rule out causes #1–#5 with just your last two bills in hand. Detailed instructions for each follow below.
+
+## Step 1: Verify the Bill Is Correct
+
+Before investigating your usage, verify that the bill itself is accurate. Check these elements:
+
+**Your account number and service address:** Ensure the bill is actually for your account. Meter misreads can sometimes assign one customer's usage to another.
+
+**The meter number:** Compare the meter number on your bill to the number on your physical meter. If they do not match, the utility is reading the wrong meter.
+
+**Current and previous readings:** Look at the "Current Reading" and "Previous Reading" on your bill. Subtract the previous from the current to verify the billed consumption. If the math does not match the billed kWh, there is a billing error.
+
+**Rate schedule:** Verify you are on the correct rate plan. A recent rate case or system change may have moved you to a different (more expensive) rate schedule without notification.
+
+**Hidden fees and rider charges:** Scan the charges section of your bill line by line. Utilities sometimes add or increase rider charges — transmission riders, distribution riders, energy efficiency surcharges, or "customer charge" increases — that are easy to overlook because they are small per-kWh adders that compound across a month of usage. A <strong>0.5¢/kWh</strong> rider increase on 1,200 kWh is <strong>$6/month</strong> you may not have noticed in previous months.
+
+If any of these elements are wrong, call the utility's billing department immediately and request a correction. Most utilities will investigate and correct verified billing errors within one to two billing cycles, applying a credit to your next bill.
+
+## Step 2: Check the Billing Period Length
+
+Billing periods vary from <strong>28 to 34 days</strong>. A longer billing period means more days of usage and a higher bill, even if your daily consumption is unchanged.
+
+Compare the service period dates on your current bill to the previous month's bill. If last month covered 28 days and this month covers 34 days, that is a <strong>21% increase</strong> in the number of billing days — which would account for a significant portion of a bill increase.
+
+**Worked example:** If your average daily usage is 40 kWh at 15¢/kWh, your bill should be roughly $168 for a 28-day period and $204 for a 34-day period. That $36 difference is billing-period math, not behavior change.
+
+Calculate your average daily usage by dividing total kWh by the number of days in the service period. This normalizes for period length and gives you a comparable number across months. If your daily usage is the same but the total bill is higher, the spike is explained by the billing period.
+
+## Step 3: Compare the Per-KWh Rate
+
+Rate changes are one of the most overlooked causes of sudden bill increases. Utilities can and do change their rates, sometimes with minimal notification buried in the fine print of your bill.
+
+Compare the per-kWh rate on your current bill to the same month last year. If the rate has increased from 12¢ to 15¢ per kWh, that alone would cause a <strong>25% bill increase</strong> even with identical usage.
+
+Rate increases happen through several mechanisms:
+
+- **General rate case decisions:** State commission-approved rate changes that take effect on a specific date.
+- **Seasonal rate adjustments:** Some utilities charge higher rates in summer (peak demand) and lower rates in winter.
+- **Fuel adjustment clauses:** Utilities with fuel adjustment clauses pass through changes in generation fuel costs (natural gas, coal) directly to customers, sometimes monthly.
+- **Time-of-use rate enrollment:** If you were moved to a time-of-use rate plan, your effective per-kWh rate may be higher if your usage patterns do not align with the plan's off-peak windows. For help aligning your usage to cheaper hours, see [what time electricity is cheapest](/blog/46-what-time-is-electricity-cheapest/).
+- **Demand charges:** If your bill shows a line item measured in kW (not kWh), you are being charged for your peak power draw in addition to total energy used. Demand charges are standard on commercial rates and appear on some residential plans — especially homes with EV chargers, large well pumps, or electric heat. A single high-draw event (charging an EV while running the dryer and AC simultaneously) can set your demand peak for the entire billing cycle. Learn more in our [guide to demand charges on your electricity bill](/blog/49-demand-charges-electricity-bill-explained/).
+
+## Step 4: Rule Out Weather and Seasonal Factors
+
+Even if you feel like your habits have not changed, weather can dramatically affect your electricity consumption without you realizing it:
+
+**Heat waves:** A <strong>10-day stretch above 95°F</strong> can double your air conditioning usage compared to a month with temperatures in the 80s. Your thermostat setting may be the same, but the AC runs longer and harder to maintain it.
+
+**Cold snaps:** Electric heating (heat pumps, electric baseboard, space heaters) responds similarly to cold. A week of temperatures below 20°F can triple heating-related electricity consumption.
+=== content/blog/41-how-to-read-electricity-bill.md ===
+---
+title: "How to Read an Electricity Bill"
+slug: "41-how-to-read-electricity-bill"
+description: "Review an electricity bill using its billing period, meter information, rate schedule, and itemized charges instead of generic national percentage tables."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["electricity bill", "electric bill charges", "meter reading"]
+keywords: ["how to read electricity bill", "understanding electric bill", "electric bill charges"]
+image: "/images/articles/41-how-to-read-electricity-bill/custom_hero.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+---
+
+## Quick Answer
+
+**Read an electricity bill by separating account details, billing period, meter and usage information, rate schedule, and itemized charges.** The names, charge categories, meter displays, and supplier options vary by provider, so the serving utility's bill guide and tariff control the interpretation.
+
+Con Edison, for example, presents supply and delivery charges on an itemized bill, with related charges and taxes identified in its sample-bill materials.[1][2]
+
+## Start With the Billing Period
+
+Record the service address, account class, rate-plan name, billing-period dates, and number of billed days. Compare a similar period before treating a change in the total amount due as a change in household use.
+
+## Review Meter and Usage Information
+
+Check the current and prior readings, unit, and whether the statement identifies an actual, estimated, or other read status. The difference between readings must be interpreted under the provider's billing rules, including any multiplier or conversion shown on the bill.
+
+Con Edison publishes instructions for reading and submitting both digital and dial-meter readings for its customers; follow the instructions of your own serving utility and never open or alter a meter.[3]
+
+## Separate the Itemized Charges
+
+List the categories exactly as they appear on the statement. They may include usage-related charges, supply charges, delivery charges, fixed charges, taxes, credits, or other tariff-defined items. Do not assume a national supply-to-delivery percentage, a charge name, or a provider-choice rule applies to the account.
+
+If an item is unclear, request the current tariff or bill guide and ask which rate-schedule section defines it.
+
+## Compare Like With Like
+
+When the total changes, compare:
+
+1. Billing days and read status.
+2. Total kWh and any interval data.
+3. Rate-plan and tariff changes.
+4. Fixed charges, taxes, credits, and one-time items.
+5. Major changes in weather, occupancy, equipment, or charging.
+
+The total bill alone cannot show whether the change came from kWh use, price, fees, or a billing adjustment.
+
+## When to Contact the Utility
+
+Contact the provider if a reading, rate schedule, or charge does not match the statement or the current tariff. Keep the bill, any meter documentation, the tariff version, and a record of the provider's response.
+
+## Sources
+
+1. [Con Edison: How to Read Your Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill)
+2. [Con Edison: Sample Residential Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential)
+3. [Con Edison: How to Read Your Electricity Meter](https://www.coned.com/en/accounts-billing/how-to-read-your-meter)

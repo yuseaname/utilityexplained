@@ -1,60 +1,232 @@
 {
-  "generated": "2026-08-23",
-  "remaining": 6,
-  "items": [
-    {
-      "path": "content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md",
-      "title": "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean",
-      "word_count": 3228,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    },
-    {
-      "path": "content/blog/gas-delivery-charge-vs-supply-charge.md",
-      "title": "Gas Delivery Charge vs Supply Charge: What",
-      "word_count": 3307,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    },
-    {
-      "path": "content/blog/tiered-water-rates-explained.md",
-      "title": "Tiered Water Rates Explained: Why Using More Costs Dramatically More",
-      "word_count": 3421,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    },
-    {
-      "path": "content/blog/30-sudden-spike-in-electricity-bill-no-usage.md",
-      "title": "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes",
-      "word_count": 3583,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    },
-    {
-      "path": "content/blog/07-gas-bill-too-high.md",
-      "title": "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One",
-      "word_count": 3616,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    },
-    {
-      "path": "content/blog/how-to-read-gas-meter.md",
-      "title": "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions",
-      "word_count": 3643,
-      "issues": [
-        "missing_sources"
-      ],
-      "priority": "P2"
-    }
-  ]
+ "generated": "2026-08-28",
+ "source": "SQ-045 full-site content audit (CONTENT-AUDIT-2026-08-28.md)",
+ "remaining": 27,
+ "items": [
+  {
+   "path": "content/blog/average-utility-bills-by-state-2026.md",
+   "title": "Average Utility Bills by State",
+   "issues": [
+    "contradicts_national_average_262_vs_430",
+    "missing_sources"
+   ],
+   "priority": "P0"
+  },
+  {
+   "path": "content/blog/2026-utility-cost-index-by-state.md",
+   "title": "Utility Cost Index by State",
+   "issues": [
+    "math_error_hawaii",
+    "484_unsourced_figures",
+    "draft"
+   ],
+   "priority": "P0"
+  },
+  {
+   "path": "content/blog/how-to-lower-electric-bill-complete-guide.md",
+   "title": "How to Lower Electric Bill (flagship, 15.7% pageviews)",
+   "issues": [
+    "missing_sources",
+    "249_dollar_figures_unsourced"
+   ],
+   "priority": "P0"
+  },
+  {
+   "path": "content/blog/07-gas-bill-too-high.md",
+   "title": "Gas Bill Too High (monetized)",
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P0"
+  },
+  {
+   "path": "content/blog/30-sudden-spike-in-electricity-bill-no-usage.md",
+   "title": "Sudden Spike (monetized)",
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P0"
+  },
+  {
+   "path": "content/blog/44-how-to-lower-water-bill.md",
+   "title": "Investigate High Water Bill",
+   "issues": [
+    "title_slug_intent_mismatch"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "content/blog/05-how-to-lower-utility-bills.md",
+   "title": "Prioritize Improvements",
+   "issues": [
+    "title_slug_intent_mismatch"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "NEW: how-to-lower-water-bill",
+   "title": "How to Lower Your Water Bill",
+   "issues": [
+    "journey_gap_new_page"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "NEW: how-to-lower-gas-bill",
+   "title": "How to Lower Your Gas Bill",
+   "issues": [
+    "journey_gap_new_page"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "NEW: how-to-read-water-bill",
+   "title": "How to Read Your Water Bill",
+   "issues": [
+    "journey_gap_new_page"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "content/blog/04-hidden-fees-utility-bill.md",
+   "title": "Hidden Fees (fee-hub)",
+   "issues": [
+    "thin_incomplete_327w",
+    "zero_internal_links"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "content/blog/13-ac-short-cycling-causes-fixes.md",
+   "title": "AC Short Cycling",
+   "issues": [
+    "thin_incomplete_400w"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "content/blog/16-budget-billing-level-pay-explained.md",
+   "title": "Budget Billing",
+   "issues": [
+    "thin_incomplete_311w"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "content/blog/do-programmable-thermostats-cut-heating-bills.md",
+   "title": "Programmable Thermostats",
+   "issues": [
+    "thin_incomplete_262w"
+   ],
+   "priority": "P1"
+  },
+  {
+   "path": "MERGE: cluster-fees -> every-fee-explained",
+   "title": "Fee master page absorbing ~10 fee pages",
+   "issues": [
+    "consolidation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "MERGE: cluster-read-elec -> 01",
+   "title": "Electric bill reading consolidation (7->1)",
+   "issues": [
+    "consolidation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "MERGE: cluster-save -> flagship",
+   "title": "Save cluster absorption post-sourcing",
+   "issues": [
+    "consolidation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "MERGE: cluster-high-elec -> 03",
+   "title": "High-electric consolidation",
+   "issues": [
+    "consolidation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "MERGE: cluster-service -> shutoff-lifecycle",
+   "title": "Service lifecycle chapters",
+   "issues": [
+    "consolidation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "REMOVE: 18 duplicate-intent pages",
+   "title": "Alias twins + zero-traffic duplicates (see prospector table)",
+   "issues": [
+    "removal"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "STALE: 8 pages",
+   "title": "01,03,11,12,18,43,bill-breakdown,rising-2026 stale-year refresh",
+   "issues": [
+    "stale_data"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "NEW: rate-plan-hub",
+   "title": "Which rate plan is right for me",
+   "issues": [
+    "journey_gap_new_page"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "TOOL: bill-anatomy or CCF calculator",
+   "title": "First interactive element (benchmark gap)",
+   "issues": [
+    "differentiation"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md",
+   "title": "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean",
+   "word_count": 3228,
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "content/blog/gas-delivery-charge-vs-supply-charge.md",
+   "title": "Gas Delivery Charge vs Supply Charge: What",
+   "word_count": 3307,
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "content/blog/tiered-water-rates-explained.md",
+   "title": "Tiered Water Rates Explained: Why Using More Costs Dramatically More",
+   "word_count": 3421,
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P2"
+  },
+  {
+   "path": "content/blog/how-to-read-gas-meter.md",
+   "title": "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions",
+   "word_count": 3643,
+   "issues": [
+    "missing_sources"
+   ],
+   "priority": "P2"
+  }
+ ]
 }

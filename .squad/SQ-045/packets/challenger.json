@@ -1,0 +1,38 @@
+{
+ "role": "challenger",
+ "mission": "Adversarial prioritization attack (independent \u2014 work from the metrics table + your own reading; ignore other seats): the audit will produce ~100 improvement prescriptions and the site cannot do them all. Attack: (1) which 'improvements' are TRAPS \u2014 polishing pages that should merge or die instead (name candidates from the thin list: when is 300 words the right answer vs a symptom?); (2) opportunity-cost ranking \u2014 with 860 sessions/wk and 91% bounce, what does the traffic data say matters first (top 15 pages carry most traffic \u2014 but does improving them move revenue, or is the constraint discovery/indexation?); (3) the Bing-dependency angle: does content quality even move Bing rankings the way it moves Google, and what does that imply for prioritization?; (4) kill-criteria: what evidence would justify DELETING a page vs fixing it. End with your verdict on where the first 40 hours of improvement work should go (one paragraph, concrete).",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). Attack the plan before it exists: the trap list, the ranking logic, the kill-criteria.",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Trap list with named candidates.",
+  "Opportunity-cost logic tied to traffic reality + first-40-hours verdict."
+ ]
+}

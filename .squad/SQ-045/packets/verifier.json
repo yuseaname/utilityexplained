@@ -1,0 +1,37 @@
+{
+ "role": "verifier",
+ "mission": "Mechanical quality re-derivation (CONFIRMED/REFUTED/UNVERIFIED per finding): (1) empty-or-near-empty sections: every H2 followed by <40 words before the next H2 (write and run a grep/awk script over content/blog/ \u2014 quote it); (2) broken internal links: every markdown /blog/ link whose target file does not exist (script it against the slug list); (3) TOC promises: pages whose headings promise something the section doesn't deliver (check the 20 thinnest from metrics); (4) stale-data scan: pages citing 2023-or-older data with no 2025/2026 counterpoint (the metrics table names 8 \u2014 verify each, quote the stale line); (5) FAQ quality: FAQs whose answers repeat the body verbatim vs add value (sample 15); (6) image coverage: topical pages where a diagram/table is the natural format but none exists. Every finding: file:line + quoted text.",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). Mechanical re-derivation only \u2014 scripts and quoted evidence, no vibes.",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Script-backed findings for all 6 sweeps, each file:line + quote."
+ ]
+}

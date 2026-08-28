@@ -4,7 +4,7 @@ slug: "03-why-is-my-electric-bill-so-high"
 aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter"]
 description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
 date: 2026-03-07
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -57,6 +57,14 @@ If your utility provides daily or hourly usage data, compare the highest-use per
 4. **If the bill seems inconsistent with account history:** ask the utility how it calculated the bill.
 
 Do not assume that a bill increase proves a faulty meter, electricity theft, or a billing error. The utility must investigate those possibilities.
+
+The one tool that ends the guessing: a plug-in usage meter. Put it on the appliance you suspect, leave it 24 hours, and read the kWh and projected cost off the screen.
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Diagnose before you spend" description="Displays watts, kWh, and projected annual cost for anything you plug into it. 0.2% accuracy, 120V/15A, UL listed (P3 International spec sheet). This is step one of the diagnosis sequence above — it tells you whether the problem is the fridge, the space heater, or nothing electrical at all." button="Check price on Amazon" >}}
+
+Want the whole-house picture instead of one outlet at a time? A circuit-level monitor shows which of your breakers is actually eating the budget:
+
+{{< amazon asin="B0C7B1LKDW" text="See the Emporia Vue 3 whole-home energy monitor on Amazon" >}} — 16 circuit-level sensors, real-time app data.
 
 ## Common Places to Investigate
 

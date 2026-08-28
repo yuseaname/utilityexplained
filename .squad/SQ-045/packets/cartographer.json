@@ -1,0 +1,38 @@
+{
+ "role": "cartographer",
+ "mission": "Cluster-level quality design: (1) for EACH cannibalization/overlap cluster (you mapped 12 in the prior audit \u2014 READ-ELEC, FEES, HIGH-ELEC, SAVE, COST, SEWER, THERMOSTAT, etc.): name the pages, their word counts (metrics table), which is strongest, and the consolidation design: target page + what each absorbed page contributes (a table? a section? nothing?); (2) weakest-link analysis: for each of the 6 hubs, its 3 weakest linked pages (by quality, not just length); (3) CLUSTER-READ-ELEC final merge plan (7 pages -> 1): exact section outline of the merged page built from the best parts of each; (4) category quality distribution: avg words/sources per category, categories with systematic thinness. Envelope: ranked consolidation queue (which merges first, expected page-count reduction).",
+ "parent_objective": "Full-site content-quality audit of utilityexplained.com: identify thin, incomplete, or improvable content on every page; classify retain/improve/consolidate/redirect/remove/replace with specific prescriptions.",
+ "context": "Commander metrics ground truth (READ FIRST, every number pre-verified): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.md (human table) / /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json (machine). You own the SET-level judgment: which pages together form one great page.",
+ "known_facts": [
+  "Deterministic metrics (2026-08-27, scripts/content_quality_metrics.py): 97 blog articles; 56 under 800 body words; 19 with zero outbound sources; 8 with stale-year refs and no current-year counterpoint; 0 placeholder patterns; all pages updated within 30 days.",
+  "The site recently went through an AI-bloat trim (-11.5K lines): many short pages are CONCISE by design \u2014 judge whether shortness is tight or incomplete, never assume short = bad.",
+  "Existing remediation queue (data/content-remediation-queue.json): 6 P2 'missing_sources' items.",
+  "Context: affiliate pivot shipped 2026-08-28 (14 Amazon links, 7 monetized pages). Traffic 860 sess/wk, bounce 91.3%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only audit \u2014 no content edits. Writes only to your granted artifact path.",
+  "Every page-level claim cites the file; every quality judgment gives a SPECIFIC prescription (what section/table/source/link to add), not 'improve it'.",
+  "Do not propose fabricated expertise, testing, or pricing."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Per-cluster consolidation designs with contributions mapped.",
+  "Ranked merge queue + weakest-links-per-hub."
+ ]
+}

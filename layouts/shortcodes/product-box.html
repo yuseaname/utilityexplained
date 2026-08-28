@@ -8,6 +8,6 @@
   {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}
   <strong class="product-name">{{ $name }}</strong>
   {{ with $desc }}<p>{{ . }}</p>{{ end }}
-  <a class="product-cta" href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank">{{ $btn }}</a>
+  <a class="product-cta" href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-format="box">{{ $btn }}</a>
   <span class="product-note">Price &amp; availability shown on Amazon.com — we may earn a commission.</span>
 </div>

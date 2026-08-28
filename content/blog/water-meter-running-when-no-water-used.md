@@ -3,7 +3,7 @@ title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
 slug: "water-meter-running-when-no-water-used"
 description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
 date: 2026-05-27
-updated: 2026-08-21
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -14,6 +14,9 @@ sources:
   - https://www.epa.gov/watersense/home-maintenance
   - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices
 ---
+
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **If your water meter keeps moving after known water use has stopped, water is still flowing somewhere.** Confirm that with two meter readings, then isolate the source. Common possibilities include a toilet, irrigation system, appliance cycle, or a plumbing leak.
@@ -67,6 +70,10 @@ Close the main water valve where the pipe enters your house (usually in the base
 - **Refrigerator line** — dampness under or behind the fridge where the icemaker line runs
 
 For ongoing monitoring, use the instructions provided by your utility or consult EPA WaterSense guidance on leak-detection and flow-monitoring devices.
+
+The 10-minute test above tells you *that* you have a leak. These tell you *where* — continuously, including when you're not home to watch the meter.
+
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Localize the leak" description="Contact sensors with loud alarms and phone alerts. Stagger them along the suspect path — water heater, under sinks, toilet bases, washing machine box — and the first one to trip is your culprit zone." button="Check price on Amazon" >}}
 
 ## If It's Outside: Service Line and Slab Leaks
 
