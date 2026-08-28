@@ -1,0 +1,43 @@
+{
+ "role": "mason",
+ "mission": "DEPTH PASS on 4 files. (1) content/blog/05-how-to-lower-utility-bills.md: add the audit's prioritization matrix (8-10 improvements x cost-to-implement x typical monthly savings x payback \u2014 savings figures from baseline/DOE ranges already used sitewide; label estimates), then ONE Kill A Watt product-box in the baseline-measurement section + ONE inline Emporia Vue 3 link for whole-home baseline (both ASINs verified). Fix nothing else about the title. (2) content/blog/06-water-bill-too-high.md: add the 3-step quick-diagnosis list at top (bill compare -> meter test -> isolate), a typical-usage-by-household-size table (EPA WaterSense has per-person averages \u2014 web-verify and cite), and move the existing leak-guide link mention into step 2 where it belongs. Keep existing Sprint-1 product boxes as-is. (3) content/blog/16-budget-billing-level-pay-explained.md (311w): add how-utility-calculates-it mechanics, a worked 12-month example table (seasonal bills vs level-pay), pros/cons list, and 'questions to ask your utility' \u2014 cite 1-2 utility or regulator pages (web-verify). No affiliate fit (utility program) \u2014 add none. (4) content/blog/13-ac-short-cycling-causes-fixes.md (400w): expand each cause with its diagnostic tell + typical fix cost range, add a causes table with time-to-diagnose, and a 'call a tech vs DIY' decision list \u2014 cite DOE/ENERGY STAR HVAC pages where load-bearing. Thermostat-related cause may reference the smart thermostat pages via internal link only (Nest box already exists elsewhere; do not duplicate here).",
+ "parent_objective": "SQ-047 depth pass: enhance thin/weak pages per audit prescriptions, weave natural affiliate links where the prescription calls for them.",
+ "context": "Every table earns its place. Ranges consistent with sitewide figures; web-verify and cite anything not in the baseline.",
+ "known_facts": [
+  "Monetization state: 23 verified links / 8 pages live; tracking live (data-rybbit-event). Product ASINs verified: Nest B0D5BBYRJM, Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, Emporia Vue 3 B0C7B1LKDW, Emporia EV charger B09ZNN3JB7, ecobee B09XXS48P8 (compatibility claims need spec verification).",
+  "House voice: plain-English, practical, no hype, no first-person testing claims. Shortcodes: {{< product-box asin=... name=... label=... description=... button=... >}} and {{< amazon asin=... text=... >}}; disclosure {{< affiliate-disclosure >}} near top of any monetized page.",
+  "Canonical EIA/DOE numbers in the data baseline \u2014 use those; web-verify anything new (cite URL + date in frontmatter sources)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/05-how-to-lower-utility-bills.md",
+   "content/blog/06-water-bill-too-high.md",
+   "content/blog/16-budget-billing-level-pay-explained.md",
+   "content/blog/13-ac-short-cycling-causes-fixes.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Depth means USEFUL density: tables, ranges, named examples \u2014 not padded prose. Every new factual claim sourced (baseline or web-verified with URL).",
+  "Affiliate links ONLY where a product genuinely solves the section's problem; if none fits, add none and say so in findings.",
+  "Match house markdown style; update frontmatter 'updated: 2026-08-28'; add frontmatter 'sources:' for any new web-verified facts.",
+  "Chunk discipline: edit file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "4 files enhanced per prescription with tables + cited sources.",
+  "05 carries exactly one box + one inline link; 16 and 13 carry zero if no natural fit (state so)."
+ ]
+}

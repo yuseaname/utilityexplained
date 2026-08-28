@@ -14,6 +14,7 @@ sources:
   - https://www.epa.gov/watersense/getting-started
   - https://www.epa.gov/watersense/start-saving
   - https://www.epa.gov/watersense/residential-toilets
+  - https://www.epa.gov/watersense/statistics-and-facts
 ---
 
 {{< affiliate-disclosure >}}
@@ -22,11 +23,29 @@ sources:
 
 **Start a high-water-bill investigation with the statement and meter data before assuming a leak, fixture, season, rate, or product is the cause.** EPA WaterSense advises gathering information to track water use and reading meters or submeters to identify use spikes and problems.[1]
 
-**Next step:** If your water bill is higher than expected, check your [water meter for a leak indicator](/blog/water-meter-leak-indicator-explained/) first — it takes two minutes — then walk through the full [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) guide to isolate the source.
+### Quick 3-Step Diagnosis
+
+1. **Compare the bill** — Put the current statement beside a comparable earlier bill and check for rate changes, estimated reads, or billing-period shifts (see step 1 below).
+2. **Test the meter** — Turn off all water-using fixtures and appliances, then check the meter for movement. If it's still turning, you have a leak. See the [water meter leak indicator guide](/blog/water-meter-leak-indicator-explained/) and [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) for the full walkthrough.
+3. **Isolate the source** — Close the shutoff valve at each fixture one at a time and re-check the meter. When the meter stops, you've found the branch. Step 3 below covers the property inspection.
 
 The serving utility controls the bill’s units, rate structure, read status, adjustment policy, and review process. Do not rely on a national bill amount, leak-cost estimate, or generic adjustment promise.
 
 If you need to understand the units on your statement first, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) and [how sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/). Then start here:
+
+### Typical Indoor Water Use by Household Size
+
+EPA reports the average American uses about 82 gallons of water per day at home (indoor + outdoor) and roughly 70% of that is indoors.[4] The table below shows approximate ranges for typical indoor use. If your household exceeds these numbers, the next steps will help you find the cause.
+
+| Household size | Typical indoor daily use (gallons) | Typical monthly indoor use (gallons) | Notes |
+|---|---|---|---|
+| 1 person | 50–70 | 1,500–2,100 | Baseline per-person range |
+| 2 people | 100–140 | 3,000–4,200 | Multiply single-person range |
+| 3 people | 150–210 | 4,500–6,300 | Typical family of 3 |
+| 4 people | 200–280 | 6,000–8,400 | Average US family size ~2.5; 4-person household above average |
+| 5 people | 250–350 | 7,500–10,500 | Larger household variation increases |
+
+*Daily per-person estimated at 58–82 gallons (indoor portion based on EPA/USGS data). Actual use varies by fixture efficiency, climate, and habits. Source: EPA WaterSense Statistics and Facts, USGS Estimated Use of Water in the United States (2015).
 
 ## 1. Compare the Bill Before Inspecting the Property
 
@@ -42,9 +61,11 @@ Put the current statement beside a comparable earlier bill and record:
 
 Ask whether the bill contains an estimate correction, rate change, credit, or one-time item. A higher total alone does not identify the cause.
 
-## 2. Document Water Use and Property Conditions
+## 2. Test the Meter and Document Conditions
 
 Follow the meter-access and safety instructions from your local utility. During a period when water should not be used, observe the meter or account data and document unexpected movement. Do not open utility equipment or disturb a meter installation.
+
+Check your [water meter for a leak indicator](/blog/water-meter-leak-indicator-explained/) first — it takes two minutes — then walk through the full [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) guide to isolate the source further.
 
 EPA WaterSense recommends tracking use and reading meters or submeters to identify spikes and possible problems.[1] Record the date, meter observation, appliances or irrigation active at the time, and any visible moisture, damaged fixture, or property change.
 
@@ -77,3 +98,4 @@ Keep the bill, tariff, meter observations, photos, repair records, and provider 
 1. [U.S. Environmental Protection Agency WaterSense: Getting Started](https://www.epa.gov/watersense/getting-started)
 2. [U.S. Environmental Protection Agency WaterSense: Start Saving](https://www.epa.gov/watersense/start-saving)
 3. [U.S. Environmental Protection Agency WaterSense: Residential Toilets](https://www.epa.gov/watersense/residential-toilets)
+4. [U.S. Environmental Protection Agency WaterSense: Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts)

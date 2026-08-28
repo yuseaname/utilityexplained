@@ -1,0 +1,41 @@
+{
+ "role": "operator",
+ "mission": "DEEP ENHANCEMENT of 2 files. (1) content/blog/do-programmable-thermostats-cut-heating-bills.md \u2014 262 words is too thin for a monetized page: add a savings-by-thermostat-type table (manual / programmable / smart learning, DOE setback data from baseline: 7-10F 8h -> up to 10%; Nest published 12%/15%), a 'which type fits you' decision list, and tighten the existing 2 product boxes' descriptions to the new savings context (keep the ASINs). (2) content/blog/04-hidden-fees-utility-bill.md \u2014 transform from 327w generic review into the fee HUB: add a table of 6-8 actual fees (customer charge, transmission rider, franchise fee, distribution surcharge, environmental rider, late fee, reconnect fee, minimum bill) with typical ranges and how to spot each on a bill \u2014 source ranges from the site's OWN sourced fee pages (read content/blog/17-, 18-, 19-, 22-, 24-, 25-, 27-, 28- first and synthesize; cite their sources) \u2014 then add a linked directory of those fee explainer pages (this page becomes the cluster's launching pad). No affiliate links on this page (definitional intent).",
+ "parent_objective": "SQ-047 depth pass: enhance thin/weak pages per audit prescriptions, weave natural affiliate links where the prescription calls for them.",
+ "context": "Read each file's current state and the linked siblings before writing. The fees table must be consistent with the site's own fee pages \u2014 no invented ranges.",
+ "known_facts": [
+  "Monetization state: 23 verified links / 8 pages live; tracking live (data-rybbit-event). Product ASINs verified: Nest B0D5BBYRJM, Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, Emporia Vue 3 B0C7B1LKDW, Emporia EV charger B09ZNN3JB7, ecobee B09XXS48P8 (compatibility claims need spec verification).",
+  "House voice: plain-English, practical, no hype, no first-person testing claims. Shortcodes: {{< product-box asin=... name=... label=... description=... button=... >}} and {{< amazon asin=... text=... >}}; disclosure {{< affiliate-disclosure >}} near top of any monetized page.",
+  "Canonical EIA/DOE numbers in the data baseline \u2014 use those; web-verify anything new (cite URL + date in frontmatter sources)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/do-programmable-thermostats-cut-heating-bills.md",
+   "content/blog/04-hidden-fees-utility-bill.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Depth means USEFUL density: tables, ranges, named examples \u2014 not padded prose. Every new factual claim sourced (baseline or web-verified with URL).",
+  "Affiliate links ONLY where a product genuinely solves the section's problem; if none fits, add none and say so in findings.",
+  "Match house markdown style; update frontmatter 'updated: 2026-08-28'; add frontmatter 'sources:' for any new web-verified facts.",
+  "Chunk discipline: edit file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Thermostat page: savings table + decision list + boxes recontextualized (600+ words).",
+  "Fees page: 6-8 fee table with ranges + linked directory of fee pages (700+ words)."
+ ]
+}

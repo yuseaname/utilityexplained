@@ -3,7 +3,7 @@ title: "Single-Stage vs Two-Stage vs Variable-Speed HVAC: What the Terms Mean"
 slug: "single-stage-vs-two-stage-vs-variable-speed-hvac"
 description: "Learn what HVAC staging and variable-speed equipment mean, why system sizing matters, and what to ask before choosing equipment."
 date: 2025-12-25
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -13,7 +13,11 @@ image: "/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single
 sources:
   - https://www.energystar.gov/products/room_air_conditioners
   - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/strategy_guide_hvac_sizing.pdf
+  - https://www.ecobee.com/en-us/smart-thermostats/premium/ (retrieved 2026-08-28)
+  - https://www.ecobee.com/en-us/compatibility/thermostat/ (retrieved 2026-08-28)
 ---
+
+{{< affiliate-disclosure >}}
 
 ## Quick Answer
 
@@ -51,7 +55,11 @@ Ask for the load-calculation summary, matched indoor and outdoor model numbers, 
 - Will duct conditions and static pressure be inspected?
 - For a heat pump, what is the supplemental-heat plan?
 
+{{< product-box asin="B09XXS48P8" name="ecobee Smart Thermostat Premium" label="Multi-Stage & Variable-Speed Compatible" description="The ecobee Premium supports up to 2-stage heat pumps, 2-stage conventional heating, and 2-stage cooling systems — including variable-speed air handlers (ecobee.com spec page). Built-in air quality monitor, smart sensors, and remote sensor kit. Compatible with most 24V HVAC systems. Compare: the Nest Learning Thermostat (4th gen, B0D5BBYRJM) already sold on this site also supports multi-stage systems but requires the Nest Power Connector for some systems without a C-wire." button="Check Price on Amazon" >}}
+
 ## Sources
 
 1. [ENERGY STAR: Room Air Conditioners](https://www.energystar.gov/products/room_air_conditioners)
 2. [U.S. Department of Energy: Strategy Guideline—HVAC Equipment Sizing](https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/strategy_guide_hvac_sizing.pdf)
+3. [ecobee Smart Thermostat Premium product page](https://www.ecobee.com/en-us/smart-thermostats/premium/)
+4. [ecobee Thermostat Compatibility Check](https://www.ecobee.com/en-us/compatibility/thermostat/)
