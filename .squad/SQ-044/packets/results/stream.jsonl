@@ -1,0 +1,10 @@
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/01-scout.json", "agent": "scout", "status": "blocked"}
+{"packet": "challenger.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/08-challenger.json", "agent": "challenger", "status": "partial"}
+{"packet": "verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/06-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/03-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/05-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "mason.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/10-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "analyst.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/07-analyst.json", "agent": "analyst", "status": "complete"}
+{"packet": "operator.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/09-operator.json", "agent": "operator", "status": "complete"}
+{"packet": "tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/04-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "executor.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/02-executor.json", "agent": "executor", "status": "partial"}

@@ -1,0 +1,60 @@
+{
+  "generated": "2026-08-23",
+  "remaining": 6,
+  "items": [
+    {
+      "path": "content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md",
+      "title": "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean",
+      "word_count": 3228,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/gas-delivery-charge-vs-supply-charge.md",
+      "title": "Gas Delivery Charge vs Supply Charge: What",
+      "word_count": 3307,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/tiered-water-rates-explained.md",
+      "title": "Tiered Water Rates Explained: Why Using More Costs Dramatically More",
+      "word_count": 3421,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/30-sudden-spike-in-electricity-bill-no-usage.md",
+      "title": "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes",
+      "word_count": 3583,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/07-gas-bill-too-high.md",
+      "title": "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One",
+      "word_count": 3616,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/how-to-read-gas-meter.md",
+      "title": "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions",
+      "word_count": 3643,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    }
+  ]
+}

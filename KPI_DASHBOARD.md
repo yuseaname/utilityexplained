@@ -3,6 +3,9 @@
 ## Current Baseline (August 21, 2026 — 7-day window)
 Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem indexation** (DDG 42%, Bing 35%, Yahoo 12%; Google 4.8% — not yet following).
 
+## AdSense review status — BLOCKED (August 23, 2026)
+Google returned a **Low value content** finding. Do not request another review until the P0 editorial remediation in `GROWTH_LOG.md` Entry 9 is complete and independently verified. Treat AdSense RPM/slot experiments as secondary: corpus credibility, original information gain, source traceability, and truthful author/review disclosures are the current gate.
+
 | Metric | Aug 10 (90d) | **Aug 21 (7d)** | Target (30 days) | How to Measure |
 |--------|--------------|-----------------|-------------------|----------------|
 | Sessions | ~3/day | **~191/day** | sustain 150+/day | Rybbit > Overview |

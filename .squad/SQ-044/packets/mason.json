@@ -1,0 +1,32 @@
+{
+ "role": "mason",
+ "mission": "Digest the site's PRIOR PLANNING ARTIFACTS into a structured 'already-planned vs done vs owed' inventory so the audit does not re-propose known work: read BLUEPRINT.md (62K), TRANSFORMATION_BLUEPRINT.md (32K), GROWTH_LOG.md (35K), IMAGE_AUDIT_REPORT.md (15K), MISSION_REPORT_2026-08-10.md, data/content-remediation-queue.json, playbook/ (skim index-level). Extract: (1) every initiative ever planned \u2014 one row: name, source doc, status (done/partial/planned/abandoned) with evidence (commit or doc section), stated goal/KPI; (2) the P0 editorial remediation scope from GROWTH_LOG Entry 9 \u2014 exactly what it demands; (3) remediation queue: count + status breakdown per page; (4) decisions/ADRs referenced (ADR-006 affiliate pivot etc.) and what they committed to; (5) what the site's own docs say about audience/personas. WRITE the full inventory to your artifact; envelope carries the top-line: what's done, what's owed, and the 5 biggest gaps between planned and shipped.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). Bulk digestion is your craft. Do not editorialize on quality \u2014 inventory only.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json",
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/artifacts/mason-prior-art-inventory.md"
+  ]
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "Full prior-art inventory artifact written (every initiative, status, evidence).",
+  "Envelope: done/owed top-lines + 5 planned-vs-shipped gaps."
+ ]
+}

@@ -10,6 +10,8 @@ categories: ["Heating & Cooling"]
 tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
 keywords: ["hvac efficiency ratings", "heat pump savings", "ac not cooling", "gas furnace", "duct leak symptoms"]
 image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf
 ---
 
 <h2 id="quick-answer">The short answer</h2>
@@ -231,24 +233,8 @@ Sometimes, depending on local gas and electricity prices, system efficiency, and
 {{< /faq >}}
 
 
-## Efficiency Rating Comparison
-
-| Rating | Measures | Applies To | Typical Range | Good | Excellent |
-|--------|---------|-----------|:---:|:---:|:---:|
-| AFUE | Fuel efficiency | Furnaces | 80-98.5% | 90%+ | 96%+ |
-| SEER | Cooling efficiency | ACs/Heat pumps | 13-28 | 16+ | 20+ |
-| HSPF | Heating efficiency | Heat pumps | 8.2-14 | 10+ | 12+ |
-| COP | General efficiency | Heat pumps | 2.0-5.0 | 3.0+ | 4.0+ |
-
-### System Type vs Typical Ratings
-
-| System | AFUE | SEER | HSPF | COP | Annual Cost |
-|--------|:---:|:---:|:---:|:---:|:---:|
-| Basic furnace + AC | 80% | 14 | — | — | $1,500 |
-| High-eff furnace + AC | 96% | 16 | — | — | $1,100 |
-| Standard heat pump | — | 15 | 9.0 | 3.0 | $900 |
-| Premium heat pump | — | 22 | 12.0 | 4.5 | $600 |
-| Geothermal | — | — | — | 5.0 | $400 |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Department of Energy: Home Heating Systems](https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf) — definitions of AFUE, HSPF, and COP.

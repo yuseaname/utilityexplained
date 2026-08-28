@@ -1,270 +1,60 @@
 ---
-title: "Fixed vs Variable Utility Rates: Which One Saves You More Money?"
+title: "How to Compare Electricity Rate Options"
 slug: "10-fixed-vs-variable-utility-rate"
-description: "Compare fixed and variable utility rate plans. Learn when to lock in a rate, when to float with the market, and how to choose the right plan for your usage pattern."
+description: "Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic fixed-versus-variable rules."
 date: 2026-03-07
-updated: 2026-08-21
+updated: 2026-08-23
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
-tags: ['fixed utility rate', 'variable utility rate', 'utility rate comparison', 'energy plan', 'budget billing']
-keywords: ['fixed vs variable electric rate', 'should I lock in electric rate', 'budget billing plan', 'utility rate comparison', 'deregulated energy market']
+tags: ["utility rate", "electricity plan", "time-variable pricing"]
+keywords: ["fixed versus variable electricity rate", "utility rate options", "electricity plan comparison"]
 image: "/images/articles/10-fixed-vs-variable-utility-rate/10-fixed-vs-variable-utility-rate_hero_v2.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
 ---
+
 ## Quick Answer
 
-**Fixed rates lock in your price per kWh for 12-24 months (typically $0.12-0.18), protecting you from price spikes, while variable rates fluctuate monthly with the market (often $0.10-0.25).** Fixed rates offer stability but may cost more if market prices drop.
+**The right electricity offer depends on whether a plan is available at your address and on the complete tariff or contract—not a universal recommendation for “fixed” or “variable” rates.** Rate structures can vary by energy use, season, or time of day.[1][2]
 
-- **Choose fixed rates** if you want predictable monthly bills
-- **Choose variable rates** if you're willing to risk price changes for potential savings
-- **Most fixed contracts** have early termination fees of $50-150
+Before enrolling, compare the current offer with your existing rate plan using your own usage history and every charge that applies to the account.
 
-If you live in a state with energy choice (a deregulated market), you've probably seen offers to "lock in" your electricity or gas rate for 12–36 months. Is that a good deal, should you float with the market, or is there a third option?
+## Read the Entire Offer
 
-This guide breaks down fixed vs variable utility rates, explains when each makes sense, and gives you a decision framework. For help reading the charges you're comparing, see our [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
+Request the current terms and identify:
 
-## What are fixed and variable rates?
+| Item | What to verify |
+|---|---|
+| Provider and service area | Is the offer available for this account and address? |
+| Rate structure | Is the price fixed, indexed, time-variable, block-based, or another structure? |
+| Term | When does the offer begin and end? |
+| Charges | Which supply, delivery, customer, tax, rider, and one-time charges apply? |
+| Enrollment and exit | What renewal, cancellation, and notice terms apply? |
+| Price changes | What event or formula permits a change, and where is it disclosed? |
 
-### Fixed rate
-You pay the **same price per unit** (per [kWh](/blog/what-is-a-kilowatt-hour/) for electricity, per therm for gas) for the duration of your contract — typically 6, 12, 24, or 36 months. The rate doesn't change regardless of market conditions.
+Do not compare a supply-only advertised price with the full amount due on a bill. Use the same charge scope when comparing options.
 
-**What's fixed:** The [supply charge](/blog/supply-vs-delivery-charges-electricity/) (the cost of the energy itself).
-**What's NOT fixed:** Delivery charges, taxes, and fees — these are set by your utility and can change.
+## Use Your Own Billing History
 
-### Variable rate
-Your price per unit **fluctuates monthly** based on wholesale market prices. When demand is low (spring/fall), rates tend to be cheaper. When demand is high (summer/winter), rates can spike significantly.
+Gather at least several prior statements, noting kWh, billing days, rate-plan name, time-of-use periods if applicable, fixed charges, and seasonal differences. Apply each offer's written rules to that history only if the provider gives enough information to do so.
 
-### Hybrid/indexed rate
-Some suppliers offer rates tied to an index (like the NYMEX futures price) plus a small markup. This is a type of variable rate but with more transparency about how the price is determined.
+DOE explains that electricity rate structures may change with energy use, season, or time of day.[2] A plan that looks favorable for one usage pattern may not have the same result for another.
 
----
+## Questions Before Enrolling
 
-## Deregulated vs regulated markets
+Ask the provider or utility:
 
-### Can you even choose?
+1. Which parts of my bill can this offer change?
+2. What are all mandatory charges and conditions?
+3. How, when, and where will a price or term change be disclosed?
+4. What happens at the end of the term?
+5. What cancellation, renewal, dispute, and customer-service policies apply?
 
-**Deregulated states** (you can choose your supplier):
-- **Electricity:** Texas, Pennsylvania, Ohio, Illinois, New York, New Jersey, Maryland, Connecticut, Massachusetts, Delaware, Rhode Island, New Hampshire, Maine, Washington DC, and parts of other states
-- **Gas:** Ohio, Pennsylvania, Georgia, Michigan, New York, Illinois, Indiana, Kentucky, and others
+Save the offer, enrollment confirmation, and contract version. If information is missing or inconsistent, pause before enrolling and contact the regulator or consumer-protection office that oversees service in your area.
 
-**Regulated states** (your utility sets the rate):
-- California, Florida, North Carolina, Virginia, Washington, Oregon, Wisconsin, Minnesota, and most others
+## Sources
 
-If you're in a regulated state, you **can't choose** your supply rate. Your utility's rate is set by the state's public utility commission and typically adjusts quarterly or annually. Skip to the [budget billing section](#the-third-option-budget-billing) for your best savings option.
-
----
-
-## Fixed rate pros and cons
-
-### ✅ Pros
-- **Predictable bills** — You know exactly what you'll pay per unit for the contract term.
-- **Protection from spikes** — If wholesale prices surge (extreme weather, supply disruptions), your rate stays the same.
-- **Easy budgeting** — Your supply charge is consistent month to month.
-- **Peace of mind** — No surprises, no monitoring the energy market.
-
-### ❌ Cons
-- **Premium pricing** — Fixed rates include a risk premium. You're effectively paying for insurance against price spikes.
-- **Can't benefit from price drops** — If market prices fall, you're locked in at the higher rate.
-- **Early termination fees** — Most fixed-rate contracts charge $50–$200 if you cancel early.
-- **Renewal rate shock** — When your contract expires, the renewal rate may be significantly higher than what you were paying.
-
-### When fixed rates save money
-- During periods of rising energy prices
-- In volatile markets (Texas during summer, Northeast during winter)
-- If you're risk-averse and prefer predictable bills
-- For budget planning (landlords, property managers, fixed-income households)
-
----
-
-## Variable rate pros and cons
-
-### ✅ Pros
-- **No contract** — Switch suppliers anytime without penalty.
-- **Benefit from price drops** — When wholesale prices fall, your rate falls too.
-- **Often cheaper in mild months** — Spring and fall rates are typically low.
-- **No early termination fee** — Walk away whenever you want.
-
-### ❌ Cons
-- **Unpredictable bills** — Your rate can change dramatically month to month.
-- **Vulnerable to spikes** — A cold snap or heat wave can triple your rate for that month.
-- **Teaser rate trap** — Some suppliers offer a very low introductory variable rate that jumps after 1–3 months.
-- **Requires monitoring** — To get the best deal, you need to watch rates and be ready to switch.
-
-### When variable rates save money
-- During periods of falling or stable energy prices
-- If you actively monitor and switch suppliers regularly
-- For short-term situations (moving soon, temporary housing)
-- In mild climates with minimal seasonal demand spikes
-
----
-
-## The third option: budget billing
-
-Budget billing (also called "levelized billing" or "equal payment plan") is available in both regulated and deregulated markets. Your utility averages your expected annual costs into equal monthly payments.
-
-### How it works
-1. Your utility estimates your annual usage based on past consumption.
-2. They calculate the total annual cost at current rates.
-3. They divide by 12 to get your monthly payment.
-4. Every 6–12 months, they "true up" — adjusting your payment if actual usage differs from the estimate.
-
-### Pros
-- Same payment every month — great for budgeting
-- Available in regulated markets (no supplier choice needed)
-- No contract or termination fee
-- Smooths out seasonal spikes
-
-### Cons
-- Doesn't actually save money — you pay the same total over the year
-- True-up can result in a large catch-up bill if usage was underestimated
-- If rates increase mid-year, your payment will increase at the next adjustment
-- You may need 12 months of history at your address to qualify
-
-### Typical budget billing payment
-
-| Utility Type | Monthly Budget Bill | Peak Season Actual | Off-Peak Actual |
-|-------------|--------------------|--------------------|-----------------|
-| Electric (900 kWh/mo avg) | $130 | $180–$220 | $70–$100 |
-| Gas (60 therms/mo avg) | $70 | $120–$180 | $20–$40 |
-| **Combined** | **$200** | **$300–$400** | **$90–$140** |
-
----
-
-## Rate comparison calculator
-
-Use this framework to compare a fixed vs variable offer:
-
-### Step 1: Get your data
-- Your average monthly usage (in kWh or therms) — from your last 12 bills
-- The fixed rate being offered (per kWh or therm)
-- The current variable rate
-- The fixed contract term (months)
-- Any early termination fee
-
-### Step 2: Estimate annual costs
-
-**Fixed rate annual cost:**
-```
-Monthly usage × Fixed rate × 12 months = Annual supply cost
-```
-
-**Variable rate annual cost (estimate):**
-```
-(Winter usage × Winter rate × 4 months)
-+ (Summer usage × Summer rate × 4 months)
-+ (Shoulder usage × Shoulder rate × 4 months)
-= Estimated annual cost
-```
-
-### Step 3: Factor in risk
-
-Ask yourself:
-- What's the **maximum** the variable rate could go? (Check historical highs for your region.)
-- Can your budget handle a 50% spike for 2–3 months?
-- Is the fixed-rate premium less than 15% above current variable rates? (If yes, it's usually worth the insurance.)
-
-### Example comparison
-
-| Factor | Fixed Rate | Variable Rate |
-|--------|-----------|---------------|
-| Rate per kWh | $0.14 | $0.11 (current) |
-| Monthly usage | 900 kWh | 900 kWh |
-| Monthly supply cost | $126 | $99 (current) |
-| Annual cost (if variable stays flat) | $1,512 | $1,188 |
-| Annual cost (if variable spikes to $0.18 in summer) | $1,512 | $1,404 |
-| Annual cost (if variable spikes to $0.22 in summer) | $1,512 | $1,620 |
-
-**Break-even:** If the variable rate exceeds $0.14 for more than 4 months of the year, the fixed rate is cheaper.
-
----
-
-## How to choose the right plan
-
-### Decision flowchart
-
-1. **Are you in a deregulated state?**
-   - No → You don't have a choice. Look into budget billing instead.
-   - Yes → Continue.
-
-2. **Are you moving within 12 months?**
-   - Yes → Variable rate (no contract lock-in).
-   - No → Continue.
-
-3. **Is the fixed rate less than 15% above the current variable rate?**
-   - Yes → Fixed rate is likely worth it for the predictability.
-   - No → Variable rate unless you expect significant price increases.
-
-4. **Is your area prone to extreme weather events?**
-   - Yes → Fixed rate (protection against demand spikes).
-   - No → Variable rate (benefit from generally stable or falling prices).
-
-5. **Are you on a tight/fixed budget?**
-   - Yes → Fixed rate + budget billing = maximum predictability.
-   - No → Variable rate with active monitoring and switching.
-
-### Red flags to avoid
-
-🚩 **Teaser rates** — "First month at $0.05/kWh!" then jumps to $0.25/kWh. Always ask about the rate after the introductory period.
-
-🚩 **Automatic renewal at variable** — Many fixed-rate contracts automatically roll to a variable rate at expiration — often at a premium. Set a calendar reminder 30 days before your contract ends.
-
-🚩 **Hidden fees** — Monthly service charges, enrollment fees, and "pass-through" charges can make a seemingly low rate more expensive.
-
-🚩 **Door-to-door sales pressure** — Legitimate suppliers don't need to pressure you. Verify any offer independently before signing.
-
----
-
-{{< faq "What's a good rate per kWh in 2026?" >}}
-The national average is about **$0.16/kWh** (all-in, including delivery). In deregulated states, competitive supply rates range from $0.08–$0.14/kWh. Anything under $0.10/kWh is excellent; above $0.18/kWh is expensive.
-{{< /faq >}}
-
-{{< faq "Should I lock in during summer or winter?" >}}
-Lock in during **spring or fall** — the "shoulder seasons" when demand and prices are lowest. Suppliers offer their best fixed rates during these periods. Avoid locking in during summer peaks (July–August) or winter peaks (December–January) when prices are elevated.
-{{< /faq >}}
-
-{{< faq "How do I find the best rate in my area?" >}}
-- **Energy comparison websites:** SaveOnEnergy, EnergySage, Choose Energy, or your state's public utility commission website
-- **Direct from suppliers:** Compare offers from 3–5 suppliers before choosing
-- **Check reviews:** Look for supplier ratings and complaint histories on your state PUC website
-{{< /faq >}}
-
-{{< faq "Can I switch suppliers if I'm renting?" >}}
-Yes, as long as the utility account is in your name. Your lease can't prevent you from choosing your energy supplier. However, if utilities are included in your rent, the landlord chooses the supplier.
-{{< /faq >}}
-
-{{< faq "What happens when my fixed-rate contract expires?" >}}
-Most contracts auto-renew. You'll typically be moved to:
-1. A **variable month-to-month rate** (often higher than competitive market rates), or
-2. A **renewal fixed rate** (may be higher than new-customer rates)
-**Action:** Contact your supplier 30 days before expiration to negotiate or switch. They often offer better rates to retain you than to new customers.
-{{< /faq >}}
-
-{{< faq-schema >}}
-
----
-
-## Related guides
-
-- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) — Understand all charges on your bill
-- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/) — When power is cheapest
-- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Find charges you can dispute
-- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
-- [Average Utility Costs 2026](/blog/02-average-utility-costs-2026/) — Nationwide data and benchmarks
-
----
-
-**The takeaway:** In a deregulated market, a fixed rate is usually the smarter choice if the premium over variable is under 15% — it protects you from seasonal spikes without much downside. If you're cost-optimizing and willing to monitor rates, variable can save money during mild periods. And in regulated markets, [budget billing](/blog/16-budget-billing-level-pay-explained/) is your best tool for predictable monthly costs.
-
----
-
----
-
-*Related Articles:*
-- [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
-- [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/)
-- [What Is Customer Charge on Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/)
-- [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/)
-
-*Related Reading:*
-- [Time-of-Use Electricity Rates: When Power Is Cheapest and How to Save](/blog/08-time-of-use-electricity/)
-- [Average Utility Costs in 2026: Complete Breakdown by Type and State](/blog/02-average-utility-costs-2026/)
+1. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)
+2. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)

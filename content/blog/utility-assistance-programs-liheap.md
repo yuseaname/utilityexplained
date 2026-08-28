@@ -10,14 +10,17 @@ categories: ["Bills & Fees"]
 tags: ["LIHEAP", "utility assistance", "payment plans", "shut-off prevention", "hardship programs"]
 keywords: ["utility bill help", "LIHEAP application", "utility payment plans", "avoid utility shut-off", "utility hardship programs"]
 image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"
+sources:
+  - https://acf.hhs.gov/ocs/programs/liheap
+  - https://www.energy.gov/cmei/scep/wap/how-apply-weatherization-assistance
 ---
 
 ## Quick Answer
 
-**LIHEAP (Low Income Home Energy Assistance Program) helps eligible low-income households pay home energy bills, with an average benefit of $500-800 for heating and $300-500 for cooling costs annually.**
+**LIHEAP is a federally funded program run locally by states, territories, and tribes. It may help eligible households with home-energy bills, an energy crisis, or weatherization-related services; the benefit, income rules, documents, and application window depend on where you live.**
 
-- **Fact:** LIHEAP served approximately 5.3 million households in 2023, with benefits averaging $621 per household
-- **Action:** Apply through your local LIHEAP office - eligibility is typically 150-200% of federal poverty level
+- **Start with your local program:** use the federal LIHEAP program page to find the state, territory, or tribal administrator.
+- **If service is at risk:** call your utility today and ask which payment arrangement, shutoff-protection rule, or emergency assistance program applies to your account.
 
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
@@ -44,34 +47,24 @@ If your shut-off notice is dated within the next 7 days, take these steps NOW:
 4. **Check for LIHEAP emergency funding**
    - Some states offer "crisis assistance" for households with shut-off notices
 
-**Success rate:** 92% of shut-offs are prevented when customers call and arrange payment plans.
+Do not rely on a generic timeline or eligibility rule: the utility and the local assistance administrator control the available options and deadlines.
 
 ---
 
 ## LIHEAP: Federal Energy Assistance
 
-**LIHEAP** (Low Income Home Energy Assistance Program) is the largest federal utility assistance program. In 2025, it helped 5.7 million households pay heating and cooling bills.
+**LIHEAP** (Low Income Home Energy Assistance Program) is administered by states, territories, and tribes with federal funding. Ask your local administrator which assistance components are open and whether its funds are available.
 
 ### What LIHEAP Covers
 
 | Expense Type | Covered? | Notes |
 |--------------|----------|-------|
-| Heating bills | Yes | Electric, gas, oil, propane, wood, kerosene |
-| Cooling bills | Yes | In most states (AC/air conditioning) |
-| Crisis assistance | Yes | Emergency repairs, shut-off prevention |
-| Weatherization | Yes | Some states offer home upgrades |
+| Home-energy bills | May be available | The local program sets its benefit and application rules. |
+| Cooling assistance | May be available | Availability and season vary by local program. |
+| Energy crisis help | May be available | Ask immediately if you have a disconnect notice or a health-and-safety risk. |
+| Weatherization-related services | May be available | Local programs determine what work and households qualify. |
 
-**Benefit amounts (2026):**
-
-| Household Size | Income Limit (Monthly) | Typical Benefit |
-|----------------|------------------------|-----------------|
-| 1 person | $1,617 | $300–$500 |
-| 2 people | $2,185 | $400–$700 |
-| 3 people | $2,753 | $500–$900 |
-| 4 people | $3,321 | $600–$1,100 |
-| 5 people | $3,889 | $700–$1,300 |
-
-*Income limits are 150% of federal poverty level. Benefit amounts vary by state, climate, and fuel type.*
+**Do not use a national benefit or income table to decide whether to apply.** Ask the local administrator for its current income rules, benefit calculation, required documents, and application dates.
 
 ---
 
@@ -101,9 +94,7 @@ You'll need:
 | **Phone** | Some states allow phone applications |
 | **Mail** | Download form, mail with documents |
 
-**Processing time:**
-- Regular benefits: 30–45 days
-- Crisis assistance (shut-off notice): 5–10 days
+**Timing:** Ask the local administrator how it handles urgent cases. A disconnect notice, loss of heating or cooling, or a health-and-safety risk may change the process.
 
 ---
 
@@ -127,19 +118,9 @@ Most utilities have their own hardship programs, separate from LIHEAP. These are
 
 **WAP** (Weatherization Assistance Program) is a federal program that improves home energy efficiency for low-income households. It's not bill assistance, but it reduces future bills by making your home more efficient.
 
-### What WAP Covers
+### How WAP works
 
-| Improvement | Typical Savings | Priority Level |
-|-------------|-----------------|----------------|
-| Attic insulation | 15–25% on heating/cooling | High |
-| Wall insulation | 10–20% on heating/cooling | High |
-| Air sealing | 10–15% on heating/cooling | High |
-| Window replacement | 5–10% on heating/cooling | Medium |
-| HVAC repair/replacement | 20–40% on heating/cooling | High |
-
-**Average benefit:** $350–$500 per year in reduced energy bills
-
-**Who qualifies:** Households at 200% of federal poverty level or below
+WAP starts with your state weatherization administrator. The Department of Energy directs applicants to locate that administrator and ask about the local application process. Measures, waiting lists, home eligibility, and income rules are set through the local program, so do not assume a particular upgrade or savings amount.
 
 ---
 
@@ -155,21 +136,19 @@ Yes, but options are more limited. You can still:
 ---{{< faq "How fast can I get help if I'm being shut off this week?" >}}
 **Fastest options:**
 1. **Call your utility** — Payment plans can be set up same-day
-2. **Call 211** — Can refer to charities that pay within 48–72 hours
-3. **Apply for LIHEAP crisis assistance** — 5–10 days if shut-off notice
-4. **Contact Salvation Army or St. Vincent de Paul** — 3–7 days
+2. **Call 211** — Ask for local emergency-utility-assistance referrals.
+3. **Apply for LIHEAP crisis assistance** — Ask the local administrator whether crisis assistance is available and what evidence it needs.
+4. **Contact local charities** — Ask each organization about its eligibility, funding, and response time.
 
 **Do ALL of the above simultaneously.**
 {{< /faq >}}
 
 ---{{< faq "Can I use LIHEAP more than once per year?" >}}
-**Regular LIHEAP:** Once per heating season (and once per cooling season in some states)
-
-**Crisis LIHEAP:** Multiple times if you have multiple shut-off notices, but total annual benefit is capped
+The answer is local. Your state, territory, or tribal administrator sets benefit frequency, crisis assistance rules, and any annual limit.
 {{< /faq >}}
 
 ---{{< faq "Will applying for assistance affect my credit?" >}}
-**No.** LIHEAP, utility hardship programs, and charity assistance do not appear on credit reports and do not affect your credit score.
+Ask the provider or assistance organization what it reports and what it does not. The effect of an unpaid utility balance can vary by utility, collection practice, and state.
 {{< /faq >}}
 
 {{< faq-schema >}}
@@ -187,3 +166,8 @@ Yes, but options are more limited. You can still:
 - [Budget Billing and Level Pay Explained](/blog/16-budget-billing-level-pay-explained/)
 - [Past Due Balance on Your Utility Bill](/blog/21-past-due-balance-utility-bill-explained/)
 - [How to Budget for Utilities](/blog/how-to-budget-for-utilities-in-your-first-apartment/)
+
+## Sources
+
+- [U.S. Department of Health and Human Services: Low Income Home Energy Assistance Program (LIHEAP)](https://acf.hhs.gov/ocs/programs/liheap) — program overview and local-administrator information.
+- [U.S. Department of Energy: How to Apply for Weatherization Assistance](https://www.energy.gov/cmei/scep/wap/how-apply-weatherization-assistance) — state-administrator application path.

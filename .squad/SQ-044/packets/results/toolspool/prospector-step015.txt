@@ -1,0 +1,572 @@
+exit_code: 0
+exit_code: 0
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/contact.md ===
+---
+title: "Contact"
+description: "Suggest a topic, ask a question, or report an error on Utility Explained."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "single"
+url: "/contact"
+---
+
+# Contact Utility Explained
+
+Have a utility-bill question we haven't answered? Found an error? Want to suggest a topic? We read every message.
+
+## Before you reach out
+
+We may already have your answer:
+
+- **Searching for a term?** Check the [glossary](/utilities-glossary/).
+- **Looking for a specific guide?** [Search all guides](/search/).
+- **Found a wrong number?** See our [corrections policy](/corrections/).
+
+## Send us a message
+
+The quickest way to reach us is by email. Your email app will open with our address pre-filled:
+
+<a href="mailto:hello@utilityexplained.com?subject=Utility%20Explained%20%E2%80%94%20Reader%20Message" class="hero-meter-cta" style="display:inline-flex;">Email hello@utilityexplained.com</a>
+
+## What to expect
+
+This is an informational contact — it does **not** create a customer-support relationship with any utility provider, and we cannot look up your personal account or bill. We consider reader questions for future guides and correct factual errors promptly.
+
+We can't always reply individually, but every message helps us improve the site.
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/corrections.md ===
+---
+title: "Corrections Policy"
+description: "How Utility Explained handles errors and updates to its guides."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "single"
+url: "/corrections"
+---
+
+# Corrections Policy
+
+Accuracy matters when the topic is your money. If we get something wrong, we want to fix it — fast and visibly.
+
+## How to report an error
+
+If you spot an inaccuracy — a wrong figure, a misleading explanation, an outdated rate — please [contact us](/contact/) with the guide title and the specific issue. The more detail you provide, the faster we can verify and correct it.
+
+## What happens next
+
+1. We review the claim against our [sources and methodology](/methodology/).
+2. If the content is wrong, we correct it promptly.
+3. Where a figure was materially off, we update the "Updated" date so the change is visible.
+4. For significant corrections, we note what changed so readers aren't confused by a silent edit.
+
+## Updates vs. corrections
+
+- A **correction** fixes something that was inaccurate.
+- An **update** refreshes a figure or rate to keep it current (e.g., new average prices). Updates carry an "Updated" timestamp.
+
+Both are part of keeping the guides trustworthy. See our [editorial policy](/editorial-policy/) for how we maintain content over time.
+
+Thank you for helping us stay accurate.
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/disclaimer.md ===
+---
+title: "Disclaimer"
+description: "Important information about the limits of our content."
+date: 2024-12-01
+updated: 2026-08-03
+type: "page"
+layout: "single"
+---
+
+<h1>Disclaimer</h1>
+<p>
+Utility Explained is an informational resource. We do not provide
+financial, legal, or professional advice. Use the information on this site
+for educational purposes only.
+</p>
+<p>
+Utility rates and policies vary by provider and location. Always verify
+details with your local utility or service provider before making decisions.
+</p>
+<p>
+We make reasonable efforts to keep content accurate, but we cannot guarantee
+it is complete or up to date. If you notice an error, contact us so we can
+review and improve the information.
+</p>
+<p>Effective date: 2024-12-01</p>
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/editorial-policy.md ===
+---
+title: "Editorial Policy"
+description: "How Utility Explained researches, writes, and reviews its utility-bill guides."
+date: 2024-12-01
+updated: 2026-08-12
+type: "page"
+layout: "single"
+url: "/editorial-policy"
+---
+
+# Editorial Policy
+
+This page explains how Utility Explained creates and maintains its content. Our goal is simple: every guide should help a real person understand and act on a utility-bill question.
+
+## What we cover
+
+Plain-English explainers on electricity, gas, and water bills — how to read them, why they change, what every charge means, and how to lower them. We focus on the **informational and problem-solving** questions bill-payers actually have.
+
+## What we don't do
+
+- We do **not** provide financial, legal, or professional advice. Content is for educational purposes (see our [disclaimer](/disclaimer/)).
+- We do **not** sell products or services, and we do **not** accept payment to recommend providers.
+- We do **not** require user accounts or collect sensitive personal data (see our [privacy policy](/privacy-policy/)).
+
+## How we write
+
+- **Plain English.** Technical terms (kWh, CCF, therms) are defined on first use and cross-linked to our [glossary](/utilities-glossary/).
+- **Lead with the answer.** Guides open with a direct answer to the question, then add the supporting detail.
+- **Numbers over vagueness.** We use typical U.S. cost ranges and label them as estimates. See our [methodology](/methodology/).
+- **No fear or hype.** Bills cause enough anxiety; our job is to resolve it with clarity, not amplify it.
+
+## AI assistance
+
+Our guides may be drafted with AI assistance. That assistance does not establish a fact, source, credential, or recommendation. Data-heavy guides are published or refreshed only when they show direct, dated source links for their material figures and claims. We are reviewing older guides against that standard; a page without a visible Sources section should be treated as general educational context, not a current rate quote, legal determination, or personalized advice. We do not present AI-generated credentials or fabricated expert qualifications. See our [methodology](/methodology/) for how we source figures.
+
+## Advertising
+
+This site displays ads served by Google AdSense. Ad placements are automated and editorially independent — advertising never influences which topics we cover or what we say about them. See our [privacy policy](/privacy-policy/) for details.
+
+## Review and freshness
+
+Guides are revisited to keep figures and rate references current. Material updates carry a visible "Updated" date.
+
+## Accountability
+
+We stand behind a public [corrections policy](/corrections/). If you find an error, [contact us](/contact/) and we will fix it.
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/editorial-team.md ===
+---
+title: "Editorial Team"
+description: "The Utility Explained editorial team — how our utility-bill guides are researched, drafted, and reviewed."
+date: 2024-12-01
+updated: 2026-08-12
+---
+
+Utility Explained is produced by a small editorial team focused on translating utility bills into plain English. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
+
+## Our Editors
+
+### [Margaret Harrington — Bills & Rates Editor](/author/margaret-harrington/)
+Margaret focuses on our electricity, gas, water, and billing-structure guides — decoding every line item and rate plan on your bill.
+
+### [David Chen — Energy Efficiency Editor](/author/david-chen/)
+David focuses on our energy-efficiency and savings guides — showing you how to lower your bills, what each fix costs, and how long it takes to pay for itself.
+
+### [Marcia Washington — Affordability & Assistance Editor](/author/marcia-washington/)
+Marcia focuses on our budgeting, assistance-program, and cost-planning guides — helping you plan for utility expenses and access help when you need it.
+
+### [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
+Roberto focuses on our heating and cooling guides — explaining how your HVAC system drives your utility bills and what to do when something seems off.
+
+### [Tanya Patterson — Consumer Rights Editor](/author/tanya-patterson/)
+Tanya focuses on our fees, troubleshooting, and consumer-rights guides — helping you read a bill critically and challenge charges that look wrong.
+
+## Our Editorial Process
+
+Every article follows a defined process:
+
+1. **Research** — For a data-heavy guide, we collect the relevant primary sources: EIA data, published utility tariffs, state regulations, or program-owner guidance.
+2. **Draft** — Guides may use AI assistance to produce a clear first version efficiently.
+3. **Verify** — Before a data-heavy guide is published or refreshed, its material claims must be checked against the linked source material.
+4. **Publish or hold** — A guide with unverified, time-sensitive, or unsupported claims is held for revision rather than presented as a current reference.
+
+We are transparent that AI assistance is part of our workflow. Readers can inspect the source links and review date on a refreshed guide; older pages are under review. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.
+
+## Independence
+
+Utility Explained is not affiliated with, sponsored by, or compensated by any utility company, energy supplier, or government agency. Our primary revenue is display advertising, and on a few product-focused guides we may earn a small commission through affiliate links — neither ever influences what we cover or what we say. Read our [editorial policy](/editorial-policy/) for details.
+
+## Contact
+
+Have a question about our content or team? Email us at [hello@utilityexplained.com](mailto:hello@utilityexplained.com).
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/methodology.md ===
+---
+title: "Methodology"
+description: "How Utility Explained sources and calculates the cost ranges and figures in its guides."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "single"
+url: "/methodology"
+---
+
+# Methodology: How We Get Our Numbers
+
+Utility Explained uses real-world ranges — not exact figures — because utility costs vary by region, provider, climate, season, and household. This page explains how we arrive at the numbers you see across our guides.
+
+## Our sources
+
+Where possible, cost and usage figures are grounded in publicly available, authoritative references, including:
+
+- **U.S. Energy Information Administration (EIA)** — average retail electricity and gas prices by state.
+- **U.S. Department of Energy (DOE) / ENERGY STAR** — typical appliance energy consumption.
+- **Provider tariffs and rate schedules** — published customer charges, delivery fees, and rate structures.
+- **Water and sewer utility rate disclosures** — published CCF rates and fixed service charges.
+
+When a figure is a general rule of thumb rather than a sourced average, we label it clearly.
+
+## How we calculate
+
+We use straightforward, transparent math so you can reproduce it:
+
+- **Appliance cost** = wattage ÷ 1,000 × hours used × price per kWh.
+- **Bill impact** = change in kWh × your local rate.
+- **Savings** = current usage − reduced usage, multiplied by the applicable rate.
+
+We always show the formula in the guide so you can plug in your own numbers.
+
+## What "typical" means
+
+When we say a figure is "typical," we mean it represents a common U.S. household situation. **Your bill will differ** based on your local rates, home size, climate, and habits. We treat every figure as an estimate, never a guarantee.
+
+## Currency and freshness
+
+Rates and averages change. We revisit data-heavy guides regularly and show an "Updated" date where material figures have been refreshed. See our [editorial policy](/editorial-policy/) for our review process.
+
+## Limitations
+
+- We cannot cover every utility or rate plan. Where regional variation is significant, we say so.
+- Our ranges are educational. For decisions with major financial consequences, confirm the specifics on your own bill or with your provider.
+
+Found a number that looks off? [Tell us](/corrections/) — we'll check it against the source.
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/privacy-policy.md ===
+---
+title: "Privacy Policy"
+description: "How Utility Explained collects, uses, and protects data, including advertising and analytics cookies and your choices."
+date: 2026-08-12
+updated: 2026-08-12
+type: "page"
+layout: "single"
+---
+
+# Privacy Policy
+
+This policy explains what data Utility Explained ("we", "us") collects when you visit utilityexplained.com, how it is used, and the choices you have. We do not require user accounts and we do not sell your personal information.
+
+**Effective date: August 12, 2026**
+
+## Consent and cookies
+
+When you first visit, you will see a cookie consent banner. Until you choose, advertising and analytics cookies are **not** set — we use Google Consent Mode v2 to hold them back by default. You can **Accept all** (enabling personalized ads and analytics) or **Decline** (we then serve only limited, non-personalized ads and do not enable analytics storage). Your choice is remembered on this device. You can revisit the banner by clearing your browser storage for this site.
+
+## Information you give us
+
+If you contact us through our contact form or email, we receive the information you submit (such as your name and email address). We use it only to respond to your message or improve our content, and we do not share it with third parties for marketing.
+
+## Advertising (Google AdSense)
+
+We display ads served by **Google AdSense**, including ads from Google and its verified advertising partners (such as DoubleClick/Google's ad infrastructure). AdSense may use cookies (including the `__gads` / `IDE` cookie and similar) and device identifiers to serve ads based on your prior visits to this and other websites.
+
+- **If you accept advertising cookies**, ads may be **personalized** based on your interests.
+- **If you decline**, Google serves **limited (non-personalized) ads** instead — these are still served but are not based on your browsing behavior.
+- **Manage or opt out** of personalized advertising at any time via [Google Ads Settings](https://www.google.com/settings/ads), the [Digital Advertising Alliance](https://www.aboutads.info/choices/), or your browser's cookie controls. Learn more at Google's [advertising privacy page](https://policies.google.com/technologies/ads).
+
+Some ads may use cookies that remain on your device. Most browsers let you refuse or delete cookies in their settings; doing so will not prevent you from reading our content.
+
+## Analytics
+
+We measure traffic with two tools:
+
+- **Google Analytics 4** (property `G-SGVWNS876W`). When analytics storage is enabled (via your consent choice), Google sets cookies such as `_ga` to estimate sessions, page views, and engagement in aggregate. We use this to see which guides are useful. Learn more in Google's [analytics privacy information](https://policies.google.com/technologies/cookies) and the [Google Analytics "opt-out" browser add-on](https://tools.google.com/dlpage/gaoptout).
+- **Rybbit** (privacy-first analytics). Rybbit is designed to work without traditional cross-site tracking cookies.
+
+Analytics data is aggregated and used to improve the site; it is not used to identify you personally for advertising.
+
+## Your rights
+
+Depending on where you live (for example, under the EU/UK GDPR or U.S. state laws like the CCPA/CPRA), you may have rights to know what data is held about you, to request deletion, and to opt out of the "sale" or "sharing" of personal data — we do not sell personal information, and you can decline advertising/analytics cookies at any time. To exercise a right, [contact us](/contact/).
+
+## Children's privacy
+
+Our content is intended for adults managing household bills. We do not knowingly collect information from children, and we do not direct advertising at them.
+
+## Third-party links
+
+Our guides may link to external sites (such as government and utility websites). We are not responsible for the privacy practices of those sites.
+
+## Changes to this policy
+
+We may update this policy from time to time. Material changes will be posted on this page with a new effective date.
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/search.md ===
+---
+title: "Search"
+description: "Search every utility-bill guide on Utility Explained."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "search"
+url: "/search"
+noindex: true
+---
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/terms.md ===
+---
+title: "Terms of Service"
+description: "Terms for using Utility Explained."
+date: 2024-12-01
+updated: 2026-08-03
+type: "page"
+layout: "single"
+---
+
+<h1>Terms of Service</h1>
+<p>
+Utility Explained provides informational content only. By using this
+site, you agree that the content is provided "as is" without warranties of
+any kind.
+</p>
+<h2>Use of content</h2>
+<p>
+You may read and share links to our content for personal, non-commercial
+purposes. You may not republish full articles without permission.
+</p>
+<h2>No professional advice</h2>
+<p>
+Content on this site is not legal, financial, or professional advice. For
+decisions about your utilities or housing, consult qualified professionals
+or your utility provider.
+</p>
+<h2>Changes</h2>
+<p>
+We may update these terms periodically. Continued use of the site means you
+accept any updates.
+</p>
+<p>Effective date: 2024-12-01</p>
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/_index.md ===
+---
+title: "Our Authors"
+description: "Meet the editors behind Utility Explained — the team that decodes your electricity, gas, water, and heating bills line by line."
+date: 2026-08-10
+---
+
+# Our Editorial Bylines
+
+Utility Explained uses editorial bylines to identify the topic desk responsible for a guide. They are not claims of independently credentialed individuals. Guides may use AI assistance during drafting; data-heavy pages are being reviewed so material figures and regulatory claims carry visible, dated primary-source links.
+
+## Meet the Team
+
+- [Margaret Harrington — Utility Billing Analyst](/author/margaret-harrington/)
+- [David Chen — Home Energy Auditor](/author/david-chen/)
+- [Marcia Washington — Household Budget Counselor](/author/marcia-washington/)
+- [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
+- [Tanya Patterson — Consumer Advocate](/author/tanya-patterson/)
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/david-chen.md ===
+---
+title: "David Chen — Energy Efficiency Editor"
+slug: "david-chen"
+description: "David Chen is an editor on the Utility Explained team, focusing on home energy efficiency, HVAC ratings, and practical ways to cut utility bills."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# David Chen
+
+**Role:** Energy Efficiency Editor
+
+David Chen is the editorial byline for Utility Explained's Energy Efficiency desk. It identifies the desk responsible for guides about lowering household utility use — from weatherstripping and water-heater settings to HVAC efficiency ratings (SEER, AFUE, HSPF, COP), heat pumps, and air sealing.
+
+For data-heavy efficiency guides, the desk uses DOE, ENERGY STAR, and manufacturer documentation. Refreshed guides show their source links and review date.
+
+## What David Writes About
+
+David writes and reviews our energy-efficiency, savings, and comparison guides — the articles that walk through what lowers a bill, what it costs, and how long it takes to pay for itself.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/roberto-mendoza.md ===
+---
+title: "Roberto Mendoza — HVAC & Systems Editor"
+slug: "roberto-mendoza"
+description: "Roberto Mendoza is an editor on the Utility Explained team, focusing on heating and cooling systems and how they affect utility bills."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Roberto Mendoza
+
+**Role:** HVAC & Systems Editor
+
+Roberto Mendoza is the editorial byline for Utility Explained's Heating & Cooling desk. It identifies the desk responsible for guides about efficiency ratings, heat-pump operation, duct leaks, short cycling, and common HVAC problems behind unexplained bill spikes.
+
+For data-heavy HVAC guides, the desk uses manufacturer documentation and DOE material. Refreshed guides show their source links and review date.
+
+## What Roberto Writes About
+
+Roberto writes and reviews our HVAC, heating, and cooling guides — the articles that help you understand how your heating and cooling system drives your bill and what to do when something seems off.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/marcia-washington.md ===
+---
+title: "Marcia Washington — Affordability & Assistance Editor"
+slug: "marcia-washington"
+description: "Marcia Washington is an editor on the Utility Explained team, focusing on utility budgeting, assistance programs, and keeping service on."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Marcia Washington
+
+**Role:** Affordability & Assistance Editor
+
+Marcia Washington is the editorial byline for Utility Explained's Affordability & Assistance desk. It identifies the desk responsible for guides about budget billing, assistance programs such as LIHEAP and the Weatherization Assistance Program, payment plans, and service-protection options.
+
+Her aim is to make utility costs predictable, especially for households stretched by seasonal spikes, and to point readers to the real programs and protections available in their state.
+
+## What Marcia Writes About
+
+Marcia writes and reviews our budgeting, assistance-program, and cost-planning guides — the articles that help you plan for utility expenses, find help when you need it, and keep your service on.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/margaret-harrington.md ===
+---
+title: "Margaret Harrington — Bills & Rates Editor"
+slug: "margaret-harrington"
+description: "Margaret Harrington is an editor on the Utility Explained team, focusing on electricity, gas, and water bill structure and rate plans."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Margaret Harrington
+
+**Role:** Bills & Rates Editor
+
+Margaret Harrington is the editorial byline for Utility Explained's Bills & Rates desk. It identifies the desk responsible for guides that break down how electricity, gas, and water bills are put together — what each line item means, how rate structures (flat, tiered, time-of-use, demand charges) change what you pay, and where billing errors and estimated reads tend to hide.
+
+For data-heavy billing guides, the desk uses primary sources such as U.S. EIA data, state public utility commission filings, and published provider tariffs. Refreshed guides show their source links and review date.
+
+## What Margaret Writes About
+
+Margaret writes and reviews our electricity, gas, water, and billing-structure guides — the articles that explain every charge on your bill so you know what you're paying for and whether it looks right.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/author/tanya-patterson.md ===
+---
+title: "Tanya Patterson — Consumer Rights Editor"
+slug: "tanya-patterson"
+description: "Tanya Patterson is an editor on the Utility Explained team, focusing on utility fees, billing disputes, and consumer rights."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Tanya Patterson
+
+**Role:** Consumer Rights Editor
+
+Tanya Patterson is the editorial byline for Utility Explained's Consumer Rights desk. It identifies the desk responsible for guides about fees, riders, surcharges, billing disputes, and state public-utility-commission complaint processes.
+
+She breaks down the fees and line items utilities use, explains which ones are regulated, and points to the real dispute and complaint channels available to consumers.
+
+## What Tanya Writes About
+
+Tanya writes and reviews our fees, troubleshooting, and consumer-rights guides — the articles that help you read a bill critically, challenge charges that look wrong, and know your options.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+
+
+=== /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/_index.md ===
+---
+title: "Blog"
+description: "Plain-English guides to electricity, gas, water, and utility bills. Browse by topic below."
+url: "/blog/"
+aliases: ["/blog"]
+---
+
+<h2 id="browse-by-topic">Browse by Topic</h2>
+<p>97 guides to help you understand every charge on your utility bills. Pick a category:</p>
+
+<div class="popular-list">
+
+<div class="popular-item">
+<h3 class="popular-item-title">Electricity Bills</h3>
+<p class="popular-item-desc">Why your bill is high, how to read it, kWh, rates, and lowering costs.</p>
+<a href="/electricity-explained/#electricity-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 24 electricity guides</a>
+</div>
+
+<div class="popular-item">
+<h3 class="popular-item-title">Water and Sewer</h3>
+<p class="popular-item-desc">CCF, sewer charges, meter reading, leak detection, lowering your bill.</p>
+<a href="/water-explained/#water-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 16 water guides</a>
+</div>
+
+<div class="popular-item">
+<h3 class="popular-item-title">Gas Bills</h3>
+<p class="popular-item-desc">Therms, MCF, delivery charges, winter bills, reading your gas meter.</p>
+<a href="/gas-explained/#gas-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 11 gas guides</a>
+</div>
+
+<div class="popular-item">
+<h3 class="popular-item-title">Bill Charges and Fees</h3>
+<p class="popular-item-desc">Hidden fees, taxes, deposits, connection fees, billing cycles, budget billing.</p>
+<a href="/utility-bills-costs-explained/#bill-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 21 fee guides</a>
+</div>
+
+<div class="popular-item">
+<h3 class="popular-item-title">Heating and Cooling</h3>
+<p class="popular-item-desc">HVAC troubleshooting, efficiency ratings, heat pumps, furnace issues.</p>
+<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 14 HVAC guides</a>
+</div>
+
+</div>
+
+<h2 id="all-guides">All Guides</h2>
+<p>Newest first. Use the topic links above to browse by category.</p>
+
+

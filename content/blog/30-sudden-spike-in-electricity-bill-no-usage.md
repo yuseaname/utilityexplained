@@ -12,6 +12,8 @@ keywords: ["sudden spike in electricity bill", "electric bill spike no change in
 image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
 
 A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:

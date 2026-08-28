@@ -10,7 +10,7 @@ updated: 2026-08-12
 
 **Role:** Consumer Rights Editor
 
-Tanya is an editor on the Utility Explained team. She focuses on the guides that help readers spot overcharging — hidden fees, riders, and surcharges — understand what's legitimate, dispute incorrect bills, and use their state public utility commission's complaint process when something is wrong.
+Tanya Patterson is the editorial byline for Utility Explained's Consumer Rights desk. It identifies the desk responsible for guides about fees, riders, surcharges, billing disputes, and state public-utility-commission complaint processes.
 
 She breaks down the fees and line items utilities use, explains which ones are regulated, and points to the real dispute and complaint channels available to consumers.
 
@@ -20,4 +20,4 @@ Tanya writes and reviews our fees, troubleshooting, and consumer-rights guides �
 
 ---
 
-*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

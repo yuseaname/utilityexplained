@@ -10,14 +10,13 @@ categories: ["Bills & Fees"]
 tags: ["budget"]
 keywords: ["utility budget"]
 image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
+sources:
+  - https://www.eia.gov/todayinenergy/detail.php?id=65284
 ---
 
 ## Quick Answer
 
-**Your final utility bill equals: (Usage kWh × Rate) + Fixed Fees + Delivery Charges + Taxes. For example, using 800 kWh at $0.12/kWh with a $15 service fee and $30 delivery = $141 before taxes, which adds 5-15% more.**
-
-- **Fact:** Tiered rates can increase costs by 20-50% when you cross usage thresholds
-- **Action:** Track your usage patterns to avoid hitting expensive upper-rate tiers
+**A bill can combine usage-based charges with fixed charges, taxes, credits, and other tariff-defined items.** Use the rate schedule and line items on your own statement rather than a generic formula or example.
 
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
@@ -182,48 +181,6 @@ Start with the Utility Bills & Costs Explained hub, then read the article for yo
 
 {{< faq-schema >}}
 
-## Real Bill Calculation Example
+## Sources
 
-Let's walk through a complete bill calculation step by step. This example uses realistic numbers for a 1,500 sq ft home in a mid-cost state.
-
-**Starting data:**
-- Usage: 950 kWh
-- Rate: Tiered (see below)
-- Location: Texas (deregulated)
-
-### Step-by-Step Calculation
-
-| Step | Calculation | Amount |
-|------|------------|--------|
-| Tier 1 (0-500 kWh) | 500 × $0.08 | $40.00 |
-| Tier 2 (501-1000 kWh) | 450 × $0.12 | $54.00 |
-| Supply subtotal | | $94.00 |
-| Delivery charge | 950 × $0.04 | $38.00 |
-| Customer charge | Fixed | $9.50 |
-| Transmission cost | 950 × $0.01 | $9.50 |
-| Fuel adjustment | 950 × $0.005 | $4.75 |
-| Subtotal | | $155.75 |
-| Taxes (6%) | $155.75 × 0.06 | $9.35 |
-| **Total Bill** | | **$165.10** |
-| **Effective Rate** | $165.10 ÷ 950 | **$0.174/kWh** |
-
-Notice: The effective rate (17.4¢) is much higher than the advertised base rate (8¢). This gap surprises most customers.
-
-### Common Rate Combinations
-
-| Rate Type | Best For | Worst For | Bill Predictability |
-|-----------|---------|----------|---------------------|
-| Flat rate | Budget consistency | High users | High |
-| Tiered | Low-usage households | Large families | Low |
-| Time-of-Use | Flexible schedules | 9-to-5 workers | Medium |
-| Demand-based | Commercial | Residential | N/A |
-
-### How to Calculate Your Effective Rate
-
-Use this simple formula every month:
-
-```
-Effective Rate = Total Bill ÷ kWh Used
-```
-
-Compare this number month to month. If your usage stays similar but your effective rate jumps, you're paying more per unit — investigate rate changes or billing errors.
+- [U.S. Energy Information Administration: U.S. electricity prices continue steady increase](https://www.eia.gov/todayinenergy/detail.php?id=65284) — official context for differences in retail electricity prices.

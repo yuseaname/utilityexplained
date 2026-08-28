@@ -10,6 +10,7 @@ categories: ["Bills & Fees"]
 tags: ["utility rate spikes", "electricity prices", "state comparison", "2026", "utility bills"]
 keywords: ["2026 utility rate spikes", "worst states utility bills", "electricity rate increase by state", "state utility comparison 2026", "why is my electric bill so high 2026"]
 image: "/images/articles/7-states-with-worst-utility-spikes-2026/7-states-with-worst-utility-spikes-2026_hero_v2.webp"
+draft: true
 ---
 
 ## Quick Answer

@@ -1,0 +1,32 @@
+{
+ "role": "cartographer",
+ "mission": "Map the whole site architecture from content/ + public/: (1) hub-and-spoke structure of the 6 hubs vs blog posts vs category taxonomy (7 categories) \u2014 which hub owns which posts, coverage counts; (2) internal-linking GRAPH: build adjacency from markdown links, report hubs' out-degree, spokes' in-degree, orphan pages (zero inlinks), dead-end pages (zero outlinks); (3) cannibalization clusters: pages targeting the same query (e.g. numbered vs unnumbered twins like 15-why-utility-bill-higher-same-usage vs why-my-utility-bill-is-higher-with-same-usage); (4) URL taxonomy inconsistency: numbered prefixes, trailing-slash duality, category URL changes from the 17->7 consolidation (find any stale internal links pointing at retired category URLs); (5) depth distribution from homepage. Deliver the architecture map + a ranked list of the 10 highest-leverage structural fixes (each: affected pages, rationale).",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). You draw the map others navigate by. Include a compact link-graph summary (nodes/edges counts, top hub vs top authority pages by inlinks).",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Architecture map with hub coverage, link graph stats, orphans, clusters, URL issues.",
+  "Ranked top-10 structural fixes with affected pages + rationale."
+ ]
+}

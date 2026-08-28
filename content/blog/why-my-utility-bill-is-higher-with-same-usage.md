@@ -11,12 +11,14 @@ categories: ["Bills & Fees"]
 tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
 keywords: ["estimated utility bill", "kwh usage", "utility budget", "customer charge utility", "utility surcharge"]
 image: "/images/articles/why-my-utility-bill-is-higher-with-same-usage/why-my-utility-bill-is-higher-with-same-usage_hero_v2.webp"
+sources:
+  - https://www.eia.gov/electricity/data.php
 ---
 
 <h2 id="quick-answer">The short answer</h2>
 <p>
               A utility bill can be higher even when your "usage" looks similar because
-              the total is not just usage x price. Most bills include a mix of:
+              the total is not just usage times a price. Bills can include a mix of:
               <strong> billing days</strong>, <strong>rate changes</strong>,
               <strong> fixed customer charges</strong>, and sometimes
               <strong> tiers</strong> or <strong>time-of-use pricing</strong>.
@@ -170,16 +172,8 @@ They can. If more of your usage occurs during peak hours one month, the total co
 {{< /faq >}}
 
 
-## Hidden Cost Increases on Utility Bills
-
-| Fee Type | Typical Increase | How It Appears | How to Spot |
-|----------|-----------------|----------------|-------------|
-| Fuel adjustment | 0.5-2¢/kWh | "Fuel adj." or "PICA" | Compare to last year |
-| Delivery surcharge | 5-15% | "Delivery rider" | Check rate per kWh |
-| Regulatory fee | $1-3/mo | "Regulatory cost recovery" | Line item comparison |
-| Environmental charge | 0.25-1¢/kWh | "Env. compliance" | Year-over-year diff |
-| Infrastructure charge | $2-5/mo | "Grid modernization" | New line items |
-| Storm recovery | 1-3% | "Storm cost recovery" | Temporary surcharge |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Energy Information Administration: Electricity Data](https://www.eia.gov/electricity/data.php) — official electricity sales, price, and bill data resources.

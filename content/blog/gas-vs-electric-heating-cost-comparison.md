@@ -10,14 +10,13 @@ categories: ["Bills & Fees"]
 tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
 keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac efficiency ratings"]
 image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_v2.webp"
+sources:
+  - https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now
 ---
 
 ## Quick Answer
 
-**Electric heating costs 2-3 times more than gas heating in most areas, with average monthly costs of $150-250 for electric vs. $80-150 for gas.** However, electric heat pumps can match or beat gas efficiency in moderate climates.
-
-- **Cost per million BTU: Gas ($12-18) vs Electric resistance ($30-45)**
-- **Heat pumps: $15-25 per million BTU (300% efficiency)**
+**Gas and electric heating costs depend on local fuel prices, fixed charges, system efficiency, climate, installation quality, and the home's heating load.** A heat-pump decision should use a home-specific load calculation and utility-rate comparison rather than a national cost table.
 
 [For more detail, see our guide to [heat pump savings](/blog/48-heat-pump-vs-gas-furnace-savings/).]
 
@@ -231,19 +230,11 @@ It depends on local rates, your climate, and your home. Comparing fuel costs, fi
 {{< /faq >}}
 
 
-## Heating Cost Comparison by System Type
-
-| System | Efficiency | Fuel Cost | Annual Cost (1,500sf) | Best For |
-|--------|:---:|:---:|:---:|---------|
-| Gas furnace (80% AFUE) | 80% | $1.20/therm | $900-1,200 | Cold climates |
-| Gas furnace (96% AFUE) | 96% | $1.20/therm | $750-1,000 | Cold climates |
-| Electric resistance | 100% | $0.14/kWh | $1,500-2,200 | Mild climates |
-| Air-source heat pump | 250% | $0.14/kWh | $600-1,000 | Moderate climates |
-| Geothermal heat pump | 400% | $0.14/kWh | $400-700 | Any climate |
-| Mini-split heat pump | 300% | $0.14/kWh | $500-900 | Zoned heating |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Department of Energy: For Most Americans, a Heat Pump Can Lower Bills Right Now](https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now) — policy overview and factors affecting heat-pump bill savings.
 
 ---
 

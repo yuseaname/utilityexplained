@@ -4,9 +4,9 @@ description: "Meet the editors behind Utility Explained — the team that decode
 date: 2026-08-10
 ---
 
-# Our Expert Authors
+# Our Editorial Bylines
 
-Utility Explained is written by a dedicated editorial team with deep focus on utility billing, energy efficiency, and consumer advocacy. Every article is researched, drafted with AI assistance, and reviewed by our editors for accuracy against primary sources — utilities' own tariffs, U.S. EIA and DOE data, and regulator publications.
+Utility Explained uses editorial bylines to identify the topic desk responsible for a guide. They are not claims of independently credentialed individuals. Guides may use AI assistance during drafting; data-heavy pages are being reviewed so material figures and regulatory claims carry visible, dated primary-source links.
 
 ## Meet the Team
 

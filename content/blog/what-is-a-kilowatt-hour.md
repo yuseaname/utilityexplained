@@ -10,6 +10,8 @@ categories: ["Electricity"]
 tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
 keywords: ["kwh usage", "high electric bill", "ac not cooling", "energy efficient space heater", "delivery charge"]
 image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2.webp"
+sources:
+  - https://www.eia.gov/tools/glossary/index.php?id=K
 ---
 
 <h2 id="quick-answer">The short answer (what a kWh really means)</h2>
@@ -107,14 +109,14 @@ image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2
 
 <h2 id="bill">Where kWh shows up on your electric bill</h2>
 <p>
-              Most bills include (1) total kWh for the billing period and (2) a
-              price per kWh for the energy portion. Many bills also include separate
-              delivery charges and fixed fees.
+              Your bill should identify the usage and charges that apply to your
+              account. Charge labels, rate structures, and fixed fees vary by utility
+              and rate plan.
             </p>
             <p>
               If you have ever wondered why your total does not drop as much as you
-              expected after using less electricity, fixed charges are usually the
-              reason.
+              expected after using less electricity, review every listed charge and
+              the applicable rate plan before drawing a conclusion.
             </p>
             <p>
               For a line-by-line explanation, see
@@ -187,29 +189,15 @@ Rate changes, time-of-use pricing, longer billing periods, or higher fixed/deliv
 
 {{< faq "Is lowering kWh the only way to lower my bill?" >}}
 
-Reducing kWh helps, but your total bill may also include fixed charges. Understanding both usage-based a---
+Reducing kWh can reduce usage-based charges, but your total may also include fixed charges and other items listed on the statement. Read the bill and rate plan together.
 {{< /faq >}}
 
 
-## Appliance kWh Usage Table
-
-| Appliance | Wattage | Hours/Day | kWh/Month | Monthly Cost |
-|-----------|---------|-----------|-----------|-------------|
-| Central AC | 3,500W | 8 | 840 | $118 |
-| Refrigerator | 150W | 24 | 108 | $15 |
-| Water heater | 4,000W | 3 | 360 | $51 |
-| Clothes dryer | 3,000W | 1 | 90 | $13 |
-| Oven/stove | 2,000W | 1.5 | 90 | $13 |
-| Dishwasher | 1,800W | 1 | 54 | $8 |
-| Washing machine | 500W | 1 | 15 | $2 |
-| TV (55" LED) | 100W | 5 | 15 | $2 |
-| LED light bulb | 10W | 6 | 2 | $0.28 |
-| Space heater | 1,500W | 4 | 180 | $25 |
-
-*Based on $0.14/kWh national average. Costs vary by state and usage.*
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Energy Information Administration: Kilowatthour glossary entry](https://www.eia.gov/tools/glossary/index.php?id=K) — definition of a kilowatthour as one kilowatt of power used for one hour.
 
 *Related Articles:*
 - [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)

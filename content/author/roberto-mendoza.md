@@ -10,9 +10,9 @@ updated: 2026-08-12
 
 **Role:** HVAC & Systems Editor
 
-Roberto is an editor on the Utility Explained team. He focuses on the guides that explain how heating and cooling systems affect a utility bill — efficiency ratings, heat-pump operation, duct leaks, short cycling, and the common HVAC problems behind unexplained bill spikes.
+Roberto Mendoza is the editorial byline for Utility Explained's Heating & Cooling desk. It identifies the desk responsible for guides about efficiency ratings, heat-pump operation, duct leaks, short cycling, and common HVAC problems behind unexplained bill spikes.
 
-He translates how these systems work (and fail) into clear, practical guidance a homeowner can act on before deciding whether to call a professional, with cost and efficiency figures grounded in manufacturer specifications and DOE data.
+For data-heavy HVAC guides, the desk uses manufacturer documentation and DOE material. Refreshed guides show their source links and review date.
 
 ## What Roberto Writes About
 
@@ -20,4 +20,4 @@ Roberto writes and reviews our HVAC, heating, and cooling guides — the article
 
 ---
 
-*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

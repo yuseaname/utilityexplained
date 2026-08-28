@@ -10,6 +10,7 @@ categories: ["Bills & Fees"]
 tags: ["therms", "savings", "gas bill", "kwh", "budget"]
 keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utility budget"]
 image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v2.webp"
+draft: true
 ---
 
 <h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026</h2>

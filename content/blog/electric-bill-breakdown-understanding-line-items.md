@@ -1,246 +1,176 @@
 ---
 title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
-description: "Confused by your bill? We decode every line item--from supply and delivery to hidden fees--so you know exactly what you're paying for."
+description: "Confused by your bill? We decode the charge categories you will find on a U.S. electric bill--supply, delivery, customer charges, and taxes--and show you how to check each one against your own rate plan."
 date: 2025-12-25
-updated: 2026-08-21
+updated: 2026-08-23
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
 keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charge utility", "utility surcharge"]
 image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp"
+sources:
+  - https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs
 ---
 
 ## Quick Answer
 
-Your electric bill comes down to four numbers: kWh used × the supply rate (8–15¢/kWh), delivery/distribution charges, the fixed customer charge ($5–$25/month), and taxes/surcharges — supply plus delivery together typically account for **70–80% of your total bill**, with the customer charge paid even on zero-usage months.
+Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reports that in 2025 the average U.S. retail price of electricity was about 13.63¢ per kilowatthour (kWh), and residential customers paid an annual average of about 17.30¢ per kWh — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
 
-**Tip:** Compare your "Energy Charge" month-over-month — that tells you whether a jump came from more usage or a rate change.
-
-
+**Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
 
 <blockquote>
 <p><strong>One line look wrong? Here's where to dig in:</strong></p>
 <ul>
 <li><strong><a href="/blog/03-why-is-my-electric-bill-so-high/">Whole bill too high?</a></strong> — start with the diagnostic on what actually drives the total.</li>
 <li><strong><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery vs. supply charge</a></strong> — the two big pieces, and why delivery can cost as much as the power itself.</li>
-<li><strong><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand charge</a></strong> — a single line that can surprise business and time-of-use customers.</li>
-<li><strong><a href="/blog/04-hidden-fees-utility-bill/">Hidden fees</a></strong> — the small recurring charges that quietly add up.</li>
+<li><strong><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand charge</a></strong> — a line that can surprise business and time-of-use customers.</li>
+<li><strong><a href="/blog/04-hidden-fees-utility-bill/">Charges to review</a></strong> — how to question any line item you do not recognize.</li>
 </ul>
 </blockquote>
 
-## Start here: the four numbers that explain most bills {#start-here}
+## Start here: the four things that explain most bills {#start-here}
 
-{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp" alt="The four numbers that explain your electric bill" caption="Most of your bill comes down to four numbers: the kWh you used, your price per kWh, the days billed, and the fixed fees." >}}
-<p>
-              Electric bills look complicated because they combine usage-based
-              charges with infrastructure charges. But most of the story is usually
-              explained by four things:
-            </p>
-            <ul>
-              <li>Total <a href="/blog/what-is-a-kilowatt-hour/">kWh</a> used</li>
-              <li>Price per kWh (your energy rate)</li>
-              <li>Billing period length (days)</li>
-              <li>Fixed fees and delivery charges</li>
-            </ul>
-            <p>
-              If you want the unit basics first, read
-              <a href="/blog/what-is-a-kilowatt-hour/">what a kWh is</a>.
-            </p>
+{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp" alt="The four numbers that explain your electric bill" caption="Most of your bill comes down to four things: the kWh you used, your price per kWh, the days billed, and the charges and fees in your rate plan." >}}
+
+Electric bills look complicated because they combine usage-based charges with infrastructure charges. But most of the story is usually explained by four things:
+
+- Total <a href="/blog/what-is-a-kilowatt-hour/">kWh</a> used
+- Price per kWh (your energy rate)
+- Billing period length (days)
+- Fixed charges and delivery charges in your rate plan
+
+For context on typical usage, EIA reports that in 2022 the average annual electricity purchased by a U.S. residential electric-utility customer was 10,791 kWh, or about 899 kWh per month. Average purchases varied widely by state that year, from 6,178 kWh in Hawaii to 14,774 kWh in Louisiana.[2] Your own prior bills are more useful than any national average.
+
+If you want the unit basics first, read <a href="/blog/what-is-a-kilowatt-hour/">what a kWh is</a>.
 
 ## Energy (supply) charges: what you actually used {#supply}
-<p>
-              The supply (or energy) charge is the part most people recognize: it is
-              the electricity itself. It is usually calculated as:
-              <strong> kWh × supply rate</strong> — and it is normally the single
-              largest line on the bill.
-            </p>
-<p>
-              <strong>Worked example:</strong> 900 kWh × 12¢/kWh =
-              <strong>$108</strong> for the supply portion of the bill.
-            </p>
-            <p>
-              Some utilities call this an "energy charge." Some regions allow a
-              separate supplier for this part. Either way, the math is the same.
-            </p>
-            <p>
-              If your bill uses time-of-use rates, your kWh may be split into peak
-              and off-peak buckets with different prices.
-            </p>
+
+The supply (or energy) charge is the part most people recognize: it is the electricity itself. EIA explains that electricity prices reflect the cost to build, finance, maintain, and operate power plants and the grid, and that the cost of generating electricity is the largest component of the price of electricity.[1] The supply portion is normally calculated as:
+
+**kWh used × your supply rate**
+
+How the rate itself is set depends on where you live. EIA notes that in some states public service commissions fully regulate prices, while other states use a combination of unregulated prices for generators and regulated prices for transmission and distribution.[1] Some regions also let you choose a separate energy supplier for this part of the bill; Con Edison, for example, tells its customers that whether supply is bought from the utility or from an energy service company, it appears on the bill as a supply charge, and that supply costs can vary with weather, demand, and market prices.[3]
+
+To see the arithmetic, you can apply EIA's reported figures: at the 2025 residential annual average of 17.30¢ per kWh,[1] a month of usage at the 2022 national average of 899 kWh[2] would come to roughly $155 for the supply portion alone. Your actual rate comes from your bill and rate plan, not from a national average.
+
+If your bill uses time-of-use rates, your kWh may be split into peak and off-peak buckets with different prices.
 
 ## Delivery (distribution) charges: the grid that brings it to you {#delivery}
-<p>
-              Delivery charges pay for the poles, wires, transformers, meter
-              maintenance, and local system operations that bring power to your
-              home. Even if you can choose an energy supplier, delivery charges are
-              typically paid to the local utility.
-            </p>
-            <p>
-              Delivery can include both a fixed portion and a usage-based portion.
-              That is why two households with the same kWh can still see different
-              totals depending on their rate plan. In most regions, delivery plus
-              transmission add another <strong>30–50% on top of the supply
-              cost</strong>.
-            </p>
-            <p>
-              <strong>Worked example:</strong> on that same 900 kWh, a
-              <strong>4¢/kWh</strong> delivery + transmission line adds about
-              <strong>$36</strong> to the bill.
-            </p>
+
+Delivery charges pay for the poles, wires, transformers, substations, meter maintenance, and local system operations that bring power to your home. Con Edison describes delivery as the cost to build, maintain, and operate that infrastructure, plus the people who maintain the system and respond to service issues, and explains that delivery costs are based on the amount of energy used — customers who use more pay more of these shared costs.[3]
+
+EIA identifies the transmission and distribution system as one of the key factors influencing electricity prices, alongside fuel costs, power plant costs, weather, and regulation. It also notes that retail prices are usually highest for residential and commercial consumers precisely because it costs more to distribute electricity to them.[1]
+
+Even if you can choose an energy supplier, delivery is typically billed by the local utility that operates the distribution system where you live.[3] Whether your delivery charges include a fixed component in addition to the usage-based component is defined by your utility's rate schedule.
 
 ## Fixed customer charges: why you get a bill even with low usage {#fixed-fees}
-<p>
-              Many bills include a monthly customer charge (sometimes called a basic
-              service fee). This is a flat amount — typically
-              <strong>$5–$25/month</strong> — that does not depend on kWh.
-            </p>
-            <p>
-              This fee helps cover account setup, billing, customer service, and
-              maintaining service availability.
-            </p>
-            <p>
-              This is also why reducing usage might lower your bill, but not all the
-              way to zero. On a low-usage month, the customer charge can easily be
-              <strong>20–40% of the total</strong>.
-            </p>
 
-## Taxes and surcharges: small lines that add up {#taxes-surcharges}
-<p>
-              You may see extra lines for taxes, local franchise fees, regulatory
-              charges, or public benefit programs. Individually they can look minor,
-              but together they typically add <strong>5–10%</strong> to the total.
-            </p>
-            <p>
-              If you are budgeting, it helps to think of these as part of the "real
-              rate" you pay, even if they are not called a kWh charge.
-            </p>
+Many rate plans include a monthly customer charge (sometimes called a basic service charge). This is a flat amount that does not depend on kWh, and it helps cover account, billing, and service-availability costs.
+
+The amount, if any, is set by your utility's tariff or rate schedule — not by a universal rule. That is also why reducing usage lowers the usage-based parts of your bill but cannot take the total to zero on a plan with a fixed charge: the fixed portion is owed regardless of consumption.
+
+To find yours, look for a flat monthly line on your bill, or ask your utility which tariff provision sets it.
+
+## Taxes and other charges: small lines that add up {#taxes-surcharges}
+
+Bills commonly include lines for taxes and, depending on your location and rate plan, items such as local franchise fees or charges funding public programs. Con Edison describes bills as made up of three kinds of charges — supply, delivery, and taxes — with local, state, and federal taxes listed on the bill; it also notes that some taxes on energy infrastructure are embedded within the delivery charge rather than broken out separately.[3]
+
+If you are budgeting, it helps to think of these lines as part of the total you actually pay, even when they are not priced per kWh. Which ones appear on your bill depends on your state and locality.
 
 ## Time-of-use and tiered rates: when you use power can matter {#tou-tiered}
 
-{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-tou.webp" alt="Time-of-use peak vs off-peak pricing" caption="On a time-of-use plan, power costs more during peak hours — shifting a few big loads to off-peak can trim your bill noticeably." >}}
-<p>
-              Under time-of-use (TOU) pricing, kWh costs more during peak hours and
-              less during off-peak. That can make bills feel unpredictable if your
-              biggest loads (AC, cooking, laundry) happen during peak.
-            </p>
-            <p>
-              If you are not sure what plan you are on, the bill usually lists it.
-              Our
-              <a href="/blog/fixed-vs-variable-rate-electricity-plan/">fixed vs. variable plan guide</a>
-              can help you spot the tradeoffs.
-            </p>
+{{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-tou.webp" alt="Time-of-use peak vs off-peak pricing" caption="On a time-of-use plan, power costs more during peak hours — shifting a few big loads to off-peak can trim your bill." >}}
+
+Under time-of-use (TOU) pricing, a kWh costs more during peak hours and less during off-peak hours. EIA explains that demand for electricity is usually highest in the afternoon and early evening, that costs to provide electricity are usually higher at those times, and that some utilities offer time-of-day pricing to encourage conservation and reduce peak demand — while most consumers pay prices based on the seasonal average cost instead.[1]
+
+If you are not sure what plan you are on, the bill usually names it. Our <a href="/blog/fixed-vs-variable-rate-electricity-plan/">fixed vs. variable plan guide</a> can help you spot the tradeoffs.
 
 ## Estimated readings and true-ups: a common source of surprises {#estimated}
-<p>
-              A sudden "out of nowhere" bill can happen when one bill was estimated
-              low and the next bill corrects it after an actual meter reading. A
-              single true-up can shift a bill by <strong>10–20%</strong> in either
-              direction.
-            </p>
-            <p>
-              If you want to verify readings yourself, see
-              <a href="/blog/how-to-read-electric-meter/">how to read your meter</a>.
-            </p>
 
-## Why bills jump: the most common (boring) explanations {#spikes}
-<p>
-              Most spikes are not mysterious. They are usually one of these:
-            </p>
-            <ul>
-              <li>More kWh (weather-driven heating/cooling is the biggest one)</li>
-              <li>More days in the billing cycle</li>
-              <li>Higher rate per kWh</li>
-              <li>An estimate correction</li>
-            </ul>
-            <p>
-              For a troubleshooting checklist, read
-              <a href="/blog/03-why-is-my-electric-bill-so-high/">why your bill jumped this month</a>.
-            </p>
+A surprising bill can happen when one bill was based on an estimated read and a later bill corrects it after an actual meter reading. The California Public Utilities Commission explains that when a utility cannot read a meter — for reasons such as severe weather, a locked gate, or a blocked access — it may estimate usage based on consumption for the same period the previous year, with adjustments, and that the estimated bill is corrected when the utility is able to read the meter. If bills are estimated for more than three months in a row, the utility will let you know it needs access.[4]
+
+If you want to verify readings yourself, see <a href="/blog/how-to-read-electric-meter/">how to read your meter</a>.
+
+## Why bills jump: the most common explanations {#spikes}
+
+Most spikes are not mysterious. They are usually one of these:
+
+- More kWh (weather-driven heating and cooling is a common driver)[1]
+- More days in the billing cycle
+- A change in the rate per kWh or in your rate plan
+- An estimate correction after an actual read[4]
+
+EIA also notes that weather extremes can increase demand for heating and cooling, which can push fuel and electricity prices up.[1] For a troubleshooting checklist, read <a href="/blog/03-why-is-my-electric-bill-so-high/">why your bill jumped this month</a>.
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
 
-Supply is the electricity itself (energy). Delivery pays for the grid infrastructure and operations that bring electricity to your home.
+Supply is the electricity itself (energy). Delivery pays for the grid infrastructure and operations that bring electricity to your home. One utility describes its bills as three kinds of charges — supply, delivery, and taxes.[3]
 
 {{< /faq >}}
 
 {{< faq "Why do I pay delivery charges if I chose a different supplier?" >}}
 
-Because the local utility still delivers the electricity through the local distribution system. The supplier typically changes only the supply portion.
+Because the local utility still delivers the electricity through the local distribution system. Changing supplier typically changes only the supply portion of the bill.[3]
 
 {{< /faq >}}
 
 {{< faq "Can I remove the fixed customer charge?" >}}
 
-Usually no. Customer charges are part of the rate structure. They apply even with low usage because they cover basic service and account costs.
+Generally not on your own. The customer charge is part of the rate structure in your utility's tariff or rate schedule, and it applies regardless of usage because it covers basic account and service costs. If you want it changed, that is a question for your utility or regulator.
 
 {{< /faq >}}
 
 {{< faq "Why is my bill higher even when my kWh is similar?" >}}
 
-Rate changes, time-of-use timing, more billing days, higher delivery charges, taxes/surcharges, or an estimated-read true-up can all raise the total.
+Rate changes, time-of-use timing, more billing days, delivery or tax changes, or a correction after an estimated read can all raise the total.[1][3][4]
 
 {{< /faq >}}
 
 {{< faq "What should I check first if my bill seems wrong?" >}}
 
-Check the billing period length, whether the bill was estimated, the total kWh, and the rate per kWh. Those four items explain most surprises.
+Check the billing period length, whether the bill was based on an actual or estimated read, the total kWh, and the rate per kWh. Those four items explain most surprises.
 
 {{< /faq >}}
 
-{{< faq "What line items are most likely to be wrong on my bill?" >}}
+{{< faq "What line items are most worth questioning?" >}}
 
-The most common errors show up as an estimated-reading true-up, a duplicate customer charge, a demand charge on a residential account, or a sudden fuel adjustment. If any of those appear, call your utility and ask for an itemized review.
+Lines worth asking your utility about include a correction after several estimated reads, a duplicated customer charge, a demand charge you did not expect on a residential account, or an adjustment line that changed sharply. Ask the utility which tariff provision produced any charge you do not recognize.
 
 {{< /faq >}}
 
 {{< faq-schema >}}
 
-## Complete Line-Item Glossary
+## Charge Categories You May See
 
-Your electric bill may contain 15+ separate charges. Here's what each one means:
+Charge names are not standardized nationwide, so treat this as a category map rather than a prediction of your bill. Which items appear, and how they are priced, is set by your utility's rate schedule or tariff.
 
-| Charge | What It Covers | Typical Cost | Variable or Fixed |
-|--------|---------------|-------------|:---:|
-| Energy/Generation charge | Cost of electricity produced | 8-15¢/kWh | Variable |
-| Supply charge | Same as energy (deregulated) | 6-12¢/kWh | Variable |
-| Delivery/Distribution charge | Local wire maintenance | 2-5¢/kWh | Variable |
-| Transmission charge | High-voltage grid | 1-2¢/kWh | Variable |
-| Customer charge | Account infrastructure | $5-15/mo | Fixed |
-| Demand charge | Peak usage (commercial) | $8-20/kW | Variable |
-| Fuel adjustment | Fuel cost pass-through | 0.5-2¢/kWh | Variable |
-| Renewable energy charge | Green energy programs | $0.50-2/mo | Fixed |
-| Energy efficiency charge | State efficiency programs | $1-3/mo | Fixed |
-| Nuclear decommissioning | Cleanup fund | $0.50-1/mo | Fixed |
-| Franchise fee | Municipal right-of-way | 1-5% of bill | Variable |
-| Taxes | State/local utility tax | 3-8% | Variable |
-| Late fee | Past due penalty | 1-5% | Conditional |
-| Minimum bill charge | Minimum revenue guarantee | $10-25/mo | Conditional |
+| Charge category | What it generally covers | How it is priced |
+|--------|---------------|-------------|
+| Energy or supply charge | The electricity you used | Per kWh |
+| Delivery or distribution charge | Local wires, substations, system operations | Commonly usage-based; plan-dependent |
+| Transmission charge | The high-voltage bulk system | Set by your rate plan |
+| Customer or basic service charge | Account, billing, and service availability | Flat monthly amount, if your plan has one |
+| Fuel or purchased-power adjustment | Pass-through of changing generation costs | Defined in the tariff |
+| Renewable or public-program charges | State or utility programs | Defined in the tariff |
+| Franchise fee or taxes | Local, state, and federal amounts | Where applicable |
 
-### Typical Bill Breakdown by Percentage
+### Questions to Ask About a Line Item
 
-| Category | % of Total Bill | Amount (on $150 bill) |
-|----------|:---:|:---:|
-| Generation/Supply | 45% | $67.50 |
-| Delivery/Distribution | 25% | $37.50 |
-| Transmission | 8% | $12.00 |
-| Customer charge | 7% | $10.50 |
-| Fuel adjustment | 5% | $7.50 |
-| Taxes & fees | 10% | $15.00 |
+When a line looks unfamiliar, these questions usually get you a real answer:
 
-### Red Flag Charges to Watch For
+- Is this charge based on usage, a flat amount, or both?
+- Which tariff or rate-schedule provision produced it?
+- Is it new this billing period, and was it on last period's bill?
+- Was this bill based on an actual or an estimated meter read?
 
-Watch for these charges that may indicate billing errors or questionable fees:
-- **Negative usage** — Meter error
-- **Same kWh every month** — Estimated billing
-- **New charges not on previous bills** — Utility added fees
-- **Demand charge on residential bill** — Usually shouldn't exist (yet)
-- **Multiple customer charges** — Should only appear once
-- **Unusually high fuel adjustment** — May indicate billing error
+## Sources
 
-
-
----
-
-*Related Reading:*
-- <a href="/blog/41-how-to-read-electricity-bill/">How to Read an Electricity Bill: Complete Guide to Understanding Charges</a>
+1. [U.S. Energy Information Administration: Factors affecting electricity prices](https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php) — price components and 2025 average retail prices by customer class.
+2. [U.S. Energy Information Administration: How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7) — 2022 average residential purchases, national and by state.
+3. [Con Edison: How to Read Your Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill) — utility's description of supply, delivery, and tax charges.
+4. [California Public Utilities Commission: Consumer Assistance Booklet FAQs](https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs) — when and how utilities estimate bills and correct them.

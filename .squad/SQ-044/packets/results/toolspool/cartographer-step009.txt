@@ -1,0 +1,781 @@
+exit_code: 0
+=== 01-how-to-read-your-electric-bill.md ===
+---
+title: "How to Read Your Electric Bill (Line by Line Guide)"
+slug: "01-how-to-read-your-electric-bill"
+date: 2026-03-07
+categories: ["Electricity"]
+tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
+---
+=== 02-average-utility-costs-2026.md ===
+---
+title: "Average Utility Costs in 2026: Complete Breakdown by Type and State"
+slug: "02-average-utility-costs-2026"
+date: 2026-03-07
+categories: ["Bills & Fees"]
+tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
+---
+=== 03-why-is-my-electric-bill-so-high.md ===
+---
+title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
+slug: "03-why-is-my-electric-bill-so-high"
+aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter"]
+date: 2026-03-07
+categories: ["Troubleshooting"]
+tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
+---
+=== 04-hidden-fees-utility-bill.md ===
+---
+title: "How to Review Charges on Your Utility Bill"
+slug: "04-hidden-fees-utility-bill"
+date: 2026-03-07
+categories: ["Bills & Fees"]
+tags: ["utility fees", "utility bill charges", "electric bill fees"]
+---
+=== 05-how-to-lower-utility-bills.md ===
+---
+title: "How to Prioritize Utility-Bill Improvements"
+slug: "05-how-to-lower-utility-bills"
+date: 2026-03-07
+categories: ["Savings & Efficiency"]
+tags: ["utility bills", "energy assessment", "energy efficiency"]
+---
+=== 06-water-bill-too-high.md ===
+---
+title: "How to Investigate a Higher-Than-Expected Water Bill"
+slug: "06-water-bill-too-high"
+date: 2026-03-07
+categories: ["Troubleshooting"]
+tags: ["high water bill", "water bill spike", "water meter", "water use"]
+---
+=== 07-gas-bill-too-high.md ===
+---
+title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+slug: "07-gas-bill-too-high"
+aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
+date: 2026-03-07
+categories: ["Troubleshooting"]
+tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
+---
+=== 08-time-of-use-electricity.md ===
+---
+title: "How to Review a Time-of-Use Electricity Plan"
+slug: "08-time-of-use-electricity"
+aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
+date: 2026-03-07
+categories: ["Electricity"]
+tags: ["time of use electricity", "TOU rates", "electricity plan"]
+---
+=== 09-apartment-utilities-cost.md ===
+---
+title: "How to Budget for Apartment Utilities"
+slug: "09-apartment-utilities-cost"
+date: 2026-03-07
+categories: ["Bills & Fees"]
+tags: ["apartment utilities", "renter utilities", "first apartment", "utility budget"]
+---
+=== 10-fixed-vs-variable-utility-rate.md ===
+---
+title: "How to Compare Electricity Rate Options"
+slug: "10-fixed-vs-variable-utility-rate"
+date: 2026-03-07
+categories: ["Electricity"]
+tags: ["utility rate", "electricity plan", "time-variable pricing"]
+---
+=== 11-understanding-kwh-usage.md ===
+---
+title: "Understanding kWh Usage on Your Electric Bill"
+slug: "11-understanding-kwh-usage"
+date: 2026-03-15
+categories: ["Electricity"]
+tags: ["kWh", "electricity usage", "electric bill"]
+---
+=== 12-how-to-read-your-gas-bill.md ===
+---
+title: "How to Read Your Gas Bill"
+slug: "12-how-to-read-your-gas-bill"
+aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/"]
+date: 2026-03-16
+categories: ["Gas"]
+tags: ["gas bill", "natural gas", "utility bill", "therms"]
+---
+=== 13-ac-short-cycling-causes-fixes.md ===
+---
+title: "What to Do When an AC Starts and Stops Frequently"
+slug: "13-ac-short-cycling-causes-fixes"
+date: 2026-05-28
+categories: ["Heating & Cooling"]
+tags: ["HVAC", "air conditioning", "maintenance"]
+---
+=== 14-estimated-utility-bill-explained.md ===
+---
+title: "How to Review an Estimated Utility Bill"
+slug: "14-estimated-utility-bill-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["billing", "utility bills", "meter reading"]
+---
+=== 15-why-utility-bill-higher-same-usage.md ===
+---
+title: "Why a Utility Bill Can Rise When Usage Looks Similar"
+slug: "15-why-utility-bill-higher-same-usage"
+date: 2026-05-28
+categories: ["Troubleshooting"]
+tags: ["utility bills", "rates", "bill comparison"]
+---
+=== 16-budget-billing-level-pay-explained.md ===
+---
+title: "How to Review a Utility Budget-Billing Plan"
+slug: "16-budget-billing-level-pay-explained"
+date: 2026-05-28
+categories: ["Electricity"]
+tags: ["budget billing", "level pay", "utility bills"]
+---
+=== 17-what-is-customer-charge-on-utility-bill.md ===
+---
+title: "How to Review a Customer Charge on a Utility Bill"
+slug: "17-what-is-customer-charge-on-utility-bill"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["customer charge", "utility bills", "electricity", "gas"]
+---
+=== 18-fuel-adjustment-charge-on-utility-bill-explained.md ===
+---
+title: "How to Review a Fuel Adjustment Charge on a Utility Bill"
+slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["fuel adjustment", "electricity", "utility bills"]
+---
+=== 19-utility-bill-surcharges-and-riders-explained.md ===
+---
+title: "How to Review Surcharges and Riders on a Utility Bill"
+slug: "19-utility-bill-surcharges-and-riders-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["surcharges", "riders", "utility bills"]
+---
+=== 20-utility-bill-proration-explained.md ===
+---
+title: "How to Review a Partial-Period Utility Bill"
+slug: "20-utility-bill-proration-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["billing", "moving", "utility bills"]
+---
+=== 2026-utility-cost-index-by-state.md ===
+---
+title: "2026 Utility Cost Index: Average Electric, Gas & Water Bills by State"
+slug: "2026-utility-cost-index-by-state"
+date: 2026-08-10
+categories: ["Bills & Fees"]
+tags: ["average bills", "utility costs", "electricity cost", "gas cost", "water cost"]
+---
+=== 21-past-due-balance-utility-bill-explained.md ===
+---
+title: "How to Review a Past-Due Balance on a Utility Bill"
+slug: "21-past-due-balance-utility-bill-explained"
+date: 2026-05-28
+categories: ["Troubleshooting"]
+tags: ["past due", "utility bills", "billing"]
+---
+=== 22-minimum-bill-utility-bill-explained.md ===
+---
+title: "How to Review a Minimum Charge on a Utility Bill"
+slug: "22-minimum-bill-utility-bill-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["minimum bill", "utility fees", "customer charge"]
+---
+=== 23-utility-billing-cycle-explained.md ===
+---
+title: "How to Read the Billing Period on a Utility Statement"
+slug: "23-utility-billing-cycle-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["billing cycle", "utility bill dates", "utility bill"]
+---
+=== 24-delivery-charge-vs-supply-charge-utility-bill.md ===
+---
+title: "How to Compare Delivery and Supply Charges on a Utility Bill"
+slug: "24-delivery-charge-vs-supply-charge-utility-bill"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["delivery charge", "supply charge", "utility bill"]
+---
+=== 25-utility-bill-taxes-fees-franchise-charges-explained.md ===
+---
+title: "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["utility taxes", "utility fees", "utility bill"]
+---
+=== 26-utility-deposit-explained.md ===
+---
+title: "How to Review a Utility Deposit Requirement"
+slug: "26-utility-deposit-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["utility deposit", "security deposit", "new service"]
+---
+=== 27-utility-connection-fee-explained.md ===
+---
+title: "How to Review a Utility Service-Start Charge"
+slug: "27-utility-connection-fee-explained"
+date: 2026-05-28
+categories: ["Bills & Fees"]
+tags: ["connection fee", "new service", "utility setup"]
+---
+=== 28-utility-reconnection-fee-explained.md ===
+---
+title: "How to Verify a Utility Reconnection Charge"
+slug: "28-utility-reconnection-fee-explained"
+date: 2026-05-28
+categories: ["Troubleshooting"]
+tags: ["reconnection fee", "service shutoff", "utility bill"]
+---
+=== 30-sudden-spike-in-electricity-bill-no-usage.md ===
+---
+title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+slug: "30-sudden-spike-in-electricity-bill-no-usage"
+date: 2026-05-28
+categories: ["Troubleshooting"]
+tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
+---
+---
+=== 41-how-to-read-electricity-bill.md ===
+---
+title: "How to Read an Electricity Bill"
+slug: "41-how-to-read-electricity-bill"
+date: 2026-05-30
+categories: ["Electricity"]
+tags: ["electricity bill", "electric bill charges", "meter reading"]
+---
+=== 42-best-energy-efficient-space-heater.md ===
+---
+title: "Portable Space Heater Safety and Energy-Use Planning"
+slug: "42-best-energy-efficient-space-heater"
+date: 2026-05-30
+categories: ["Heating & Cooling"]
+tags: ["space heater", "heater safety", "electricity use"]
+---
+=== 43-understand-natural-gas-bill-charges.md ===
+---
+title: "How to Review Natural Gas Charges on Your Bill"
+slug: "43-understand-natural-gas-bill-charges"
+date: 2026-05-30
+categories: ["Gas"]
+tags: ["natural gas bill", "gas charges", "utility bill"]
+---
+=== 44-how-to-lower-water-bill.md ===
+---
+title: "How to Investigate a High Water Bill"
+slug: "44-how-to-lower-water-bill"
+date: 2026-05-30
+categories: ["Water"]
+tags: ["water bill", "water usage", "leak detection"]
+---
+=== 45-whole-house-generator-vs-portable-cost.md ===
+---
+title: "Portable and Standby Generator Planning: Safety and Scope"
+slug: "45-whole-house-generator-vs-portable-cost"
+date: 2026-05-30
+categories: ["Electricity"]
+tags: ["generator", "backup power", "generator safety"]
+---
+=== 46-what-time-is-electricity-cheapest.md ===
+---
+title: "How to Find the Lowest-Priced Hours on Your Electricity Plan"
+slug: "46-what-time-is-electricity-cheapest"
+date: 2026-05-30
+categories: ["Electricity"]
+tags: ["electricity rates", "time of use", "utility bill"]
+---
+=== 47-check-energy-leaks-home-diy.md ===
+---
+title: "How to Start a Do-It-Yourself Home Energy Assessment"
+slug: "47-check-energy-leaks-home-diy"
+date: 2026-05-30
+categories: ["Heating & Cooling"]
+tags: ["home energy assessment", "air leaks", "weatherization"]
+---
+=== 48-heat-pump-vs-gas-furnace-savings.md ===
+---
+title: "How to Compare a Heat Pump and a Gas Furnace for Your Home"
+slug: "48-heat-pump-vs-gas-furnace-savings"
+date: 2026-05-30
+categories: ["Gas"]
+tags: ["heat pump", "gas furnace", "heating system"]
+---
+=== 49-demand-charges-electricity-bill-explained.md ===
+---
+title: "How to Review a Demand Charge on an Electricity Bill"
+slug: "49-demand-charges-electricity-bill-explained"
+date: 2026-05-30
+aliases: ["/blog/demand-charge-electric-bill-explained/"]
+categories: ["Electricity"]
+tags: ["demand charge", "electricity bill", "utility rate"]
+---
+=== 50-best-smart-plugs-standby-power.md ===
+---
+title: "How to Measure and Reduce Standby Power"
+slug: "50-best-smart-plugs-standby-power"
+date: 2026-05-30
+categories: ["Savings & Efficiency"]
+tags: ["standby power", "smart plugs", "advanced power strips", "energy monitoring"]
+---
+=== 7-states-with-worst-utility-spikes-2026.md ===
+---
+title: "7 states with worst utility spikes: Complete Guide (2026)"
+slug: "7-states-with-worst-utility-spikes-2026"
+date: 2026-05-29
+categories: ["Bills & Fees"]
+tags: ["utility rate spikes", "electricity prices", "state comparison", "2026", "utility bills"]
+---
+=== _index.md ===
+---
+title: "Blog"
+url: "/blog/"
+aliases: ["/blog"]
+---
+=== ac-running-but-not-cooling.md ===
+---
+title: "AC Running but Not Cooling? 13 Causes and Safe Fixes"
+slug: "ac-running-but-not-cooling"
+date: 2025-12-26
+categories: ["Heating & Cooling"]
+tags: ["air conditioner", "leak", "duct", "therms", "thermostat"]
+---
+=== afue-vs-seer-vs-hspf-vs-cop.md ===
+---
+title: "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
+slug: "afue-vs-seer-vs-hspf-vs-cop"
+date: 2025-12-25
+categories: ["Heating & Cooling"]
+tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
+---
+=== aux-heat-vs-emergency-heat-meaning.md ===
+---
+title: "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)"
+slug: "aux-heat-vs-emergency-heat-meaning"
+date: 2025-12-25
+categories: ["Heating & Cooling"]
+tags: ["aux heat", "heat pump", "therms", "thermostat", "afue"]
+---
+=== average-utility-bills-by-state-2026.md ===
+---
+title: "Average utility bills by state: Full Comparison (2026)"
+slug: "average-utility-bills-by-state-2026"
+date: 2026-05-29
+categories: ["Bills & Fees"]
+tags: ["therms", "savings", "gas bill", "kwh", "budget"]
+---
+=== average-water-usage-per-person.md ===
+---
+title: "How to Calculate Water Use Per Person From Your Bill"
+slug: "average-water-usage-per-person"
+date: 2025-12-27
+categories: ["Water"]
+tags: ["water bill", "water usage", "leak detection"]
+---
+=== can-utility-shut-off-service.md ===
+---
+title: "Can the Utility Shut Off Your Service? What to Know Before the Notice Arrives"
+slug: "can-utility-shut-off-service"
+date: 2026-08-19
+categories: ["Bills & Fees"]
+tags: ["utility shutoff", "disconnection", "past due bill", "payment arrangement", "winter protections"]
+---
+=== complete-guide-understanding-utility-bill.md ===
+---
+title: "A Practical Workflow for Understanding Your Utility Bill"
+slug: "complete-guide-understanding-utility-bill"
+date: 2026-08-10
+categories: ["Bills & Fees"]
+tags: ["utility bill", "electric bill", "gas bill", "water bill", "rate plans"]
+---
+=== do-programmable-thermostats-cut-heating-bills.md ===
+---
+title: "Do Programmable Thermostats Cut Heating Bills?"
+slug: "do-programmable-thermostats-cut-heating-bills"
+date: 2026-08-14
+categories: ["Heating & Cooling"]
+tags: ["programmable thermostat", "thermostat setback", "heating bill"]
+---
+=== drought-surcharge-on-water-bill-explained.md ===
+---
+title: "How to Review a Drought-Related Charge on a Water Bill"
+slug: "drought-surcharge-on-water-bill-explained"
+date: 2026-05-27
+categories: ["Water"]
+tags: ["drought surcharge", "water bill", "water rates"]
+---
+=== duct-leaks-symptoms-hvac-running-all-day.md ===
+---
+title: "Duct Leaks: What to Check When Rooms Are Uneven"
+slug: "duct-leaks-symptoms-hvac-running-all-day"
+date: 2025-12-25
+categories: ["Heating & Cooling"]
+tags: ["duct leaks", "uneven heating", "duct sealing", "hvac"]
+---
+=== ductless-mini-split-vs-central-air.md ===
+---
+title: "Ductless Mini-Split vs Central Air: How to Compare Systems"
+slug: "ductless-mini-split-vs-central-air"
+date: 2025-12-25
+categories: ["Heating & Cooling"]
+tags: ["ductless", "mini-split", "central air", "hvac sizing"]
+---
+=== electric-bill-breakdown-understanding-line-items.md ===
+---
+title: "Electric Bill Breakdown: Every Charge Explained"
+slug: "electric-bill-breakdown-understanding-line-items"
+date: 2025-12-25
+categories: ["Electricity"]
+tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
+---
+=== ev-charging-impact-electric-bill.md ===
+---
+title: "How EV Charging Can Affect Your Electric Bill"
+slug: "ev-charging-impact-electric-bill"
+date: 2026-08-10
+categories: ["Electricity"]
+tags: ["EV charging", "electric vehicle", "electric bill", "time-of-use rates"]
+---
+=== fixed-vs-variable-rate-electricity-plan.md ===
+---
+title: "How to Compare a Fixed or Variable Electricity Offer"
+slug: "fixed-vs-variable-rate-electricity-plan"
+date: 2025-12-27
+categories: ["Electricity"]
+tags: ["electric bill", "utility rate", "electricity plan"]
+---
+=== gadgets-that-lower-utility-bills.md ===
+---
+title: "Tools That Can Help You Understand Utility Use"
+slug: "gadgets-that-lower-utility-bills"
+date: 2026-08-15
+categories: ["Savings & Efficiency"]
+tags: ["energy monitoring", "water leak detection", "smart thermostat", "utility savings"]
+---
+=== gas-customer-charge-explained.md ===
+---
+title: "How to Review a Gas Customer Charge"
+slug: "gas-customer-charge-explained"
+date: 2025-12-26
+categories: ["Gas"]
+tags: ["customer charge", "gas bill", "delivery charge"]
+---
+=== gas-delivery-charge-vs-supply-charge.md ===
+---
+title: "Gas Delivery Charge vs Supply Charge: What"
+slug: "gas-delivery-charge-vs-supply-charge"
+date: 2026-05-27
+categories: ["Gas"]
+tags: ["gas bill", "delivery charge", "supply charge", "therms", "ccf"]
+---
+=== gas-vs-electric-heating-cost-comparison.md ===
+---
+title: "Gas vs. Electric Heating: Cost Comparison for Real Homes"
+slug: "gas-vs-electric-heating-cost-comparison"
+date: 2025-12-26
+categories: ["Bills & Fees"]
+tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
+---
+=== heat-pump-running-all-day-in-winter.md ===
+---
+title: "Heat Pump Running All Day in Winter? What Is Normal vs a Problem"
+slug: "heat-pump-running-all-day-in-winter"
+date: 2025-12-27
+categories: ["Heating & Cooling"]
+tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]
+---
+=== how-do-smart-meters-work.md ===
+---
+title: "How Do Smart Meters Work? (And Should You Trust Them?)"
+slug: "how-do-smart-meters-work"
+date: 2025-12-25
+categories: ["Electricity"]
+tags: ["electric bill", "smart meter", "kwh", "estimated bill"]
+---
+=== how-sewer-charges-work-on-your-water-bill.md ===
+---
+title: "How to Understand Sewer Charges on Your Water Bill"
+slug: "how-sewer-charges-work-on-your-water-bill"
+date: 2025-12-25
+categories: ["Water"]
+tags: ["sewer", "water bill", "water rates"]
+---
+=== how-to-budget-for-utilities-in-your-first-apartment.md ===
+---
+title: "How to Budget for Utilities in Your First Apartment"
+slug: "how-to-budget-for-utilities-in-your-first-apartment"
+date: 2025-12-27
+categories: ["Bills & Fees"]
+tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
+---
+=== how-to-dispute-utility-bill.md ===
+---
+title: "How to Request a Utility-Bill Review"
+slug: "how-to-dispute-utility-bill"
+date: 2026-08-19
+categories: ["Bills & Fees"]
+tags: ["utility dispute", "billing review", "meter reading"]
+---
+=== how-to-lower-electric-bill-complete-guide.md ===
+---
+title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
+slug: "how-to-lower-electric-bill-complete-guide"
+date: 2026-08-10
+categories: ["Savings & Efficiency"]
+tags: ["lower electric bill", "save electricity", "energy efficiency", "reduce electric bill", "energy savings"]
+---
+=== how-to-lower-electric-bill-without-solar.md ===
+---
+title: "How to Plan Electric-Bill Improvements Before Adding Solar"
+slug: "how-to-lower-electric-bill-without-solar"
+date: 2025-12-25
+categories: ["Electricity"]
+tags: ["electric bill", "home energy assessment", "energy efficiency"]
+---
+=== how-to-read-a-water-meter.md ===
+---
+title: "How to Read a Water Meter (and Know If Its Accurate)"
+slug: "how-to-read-a-water-meter"
+date: 2025-12-25
+categories: ["Water"]
+tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
+---
+=== how-to-read-electric-meter.md ===
+---
+title: "How to Read an Electric Meter (Dial & Digital Guide)"
+slug: "how-to-read-electric-meter"
+date: 2025-12-25
+categories: ["Electricity"]
+tags: ["electric bill", "kwh", "electric meter", "smart meter"]
+---
+=== how-to-read-gas-meter.md ===
+---
+title: "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions"
+slug: "how-to-read-gas-meter"
+date: 2026-05-27
+categories: ["Gas"]
+tags: ["gas bill", "therms", "ccf", "smart meter", "leak"]
+---
+=== how-to-read-your-utility-bill.md ===
+---
+title: "How to Read Your Own Utility Bill"
+slug: "how-to-read-your-utility-bill"
+date: 2026-05-29
+categories: ["Bills & Fees"]
+tags: ["utility bill", "read your bill", "meter reading"]
+---
+=== how-utility-rates-fees-usage-work-together.md ===
+---
+title: "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+slug: "how-utility-rates-fees-usage-work-together"
+date: 2026-01-15
+categories: ["Bills & Fees"]
+tags: ["budget"]
+---
+=== is-your-toilet-running-leak-test.md ===
+---
+title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+slug: "is-your-toilet-running-leak-test"
+date: 2025-12-25
+categories: ["Water"]
+tags: ["leak", "water bill", "water meter", "sewer", "ccf", "toilet flapper", "dye test"]
+---
+=== mcf-vs-ccf-vs-therms-on-gas-bill.md ===
+---
+title: "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean"
+slug: "mcf-vs-ccf-vs-therms-on-gas-bill"
+date: 2026-05-27
+categories: ["Gas"]
+tags: ["therms", "ccf", "gas bill", "budget", "savings"]
+---
+=== moving-utilities-checklist.md ===
+---
+title: "The Moving Utilities Checklist: When to Turn Off, Turn On, and Transfer"
+slug: "moving-utilities-checklist"
+date: 2026-08-19
+categories: ["Bills & Fees"]
+tags: ["moving checklist", "utility transfer", "turn off utilities", "turn on utilities", "final bill", "utility deposit"]
+---
+=== net-metering-explained.md ===
+---
+title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+slug: "net-metering-explained"
+date: 2026-08-10
+categories: ["Electricity"]
+tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]
+---
+=== phantom-power-draw-explained.md ===
+---
+title: "Phantom Power Draw: How to Find and Reduce Standby Use"
+slug: "phantom-power-draw-explained"
+date: 2026-08-10
+categories: ["Electricity"]
+tags: ["phantom power", "standby power", "energy efficiency", "electric bill"]
+---
+=== sewer-averaging-water-bill-explained.md ===
+---
+title: "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use"
+slug: "sewer-averaging-water-bill-explained"
+date: 2025-12-27
+categories: ["Water"]
+tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
+---
+=== single-stage-vs-two-stage-vs-variable-speed-hvac.md ===
+---
+title: "Single-Stage vs Two-Stage vs Variable-Speed HVAC: What the Terms Mean"
+slug: "single-stage-vs-two-stage-vs-variable-speed-hvac"
+date: 2025-12-25
+categories: ["Heating & Cooling"]
+tags: ["duct", "hvac sizing", "thermostat", "heating", "cooling"]
+---
+=== stormwater-fee-on-water-bill-explained.md ===
+---
+title: "Stormwater Fee on Your Water Bill: What You"
+slug: "stormwater-fee-on-water-bill-explained"
+date: 2026-05-27
+categories: ["Water"]
+tags: ["stormwater", "water bill", "savings", "smart meter", "sewer"]
+---
+=== supply-vs-delivery-charges-electricity.md ===
+---
+title: "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)"
+slug: "supply-vs-delivery-charges-electricity"
+date: 2025-12-26
+categories: ["Electricity"]
+tags: ["delivery charge", "kwh", "supply charge", "electric bill", "demand charge"]
+---
+=== tiered-electricity-rates-explained.md ===
+---
+title: "How to Review Tiered Electricity Rates on Your Bill"
+slug: "tiered-electricity-rates-explained"
+date: 2025-12-26
+categories: ["Electricity"]
+tags: ["kwh", "tiered rate", "electric bill"]
+---
+=== tiered-water-rates-explained.md ===
+---
+title: "Tiered Water Rates Explained: Why Using More Costs Dramatically More"
+slug: "tiered-water-rates-explained"
+date: 2026-05-27
+categories: ["Water"]
+tags: ["gallons", "budget", "tiered rate", "water bill", "savings"]
+---
+=== utility-assistance-programs-liheap.md ===
+---
+title: "Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help"
+slug: "utility-assistance-programs-liheap"
+date: 2026-08-10
+categories: ["Bills & Fees"]
+tags: ["LIHEAP", "utility assistance", "payment plans", "shut-off prevention", "hardship programs"]
+---
+=== water-meter-leak-indicator-explained.md ===
+---
+title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
+slug: "water-meter-leak-indicator-explained"
+date: 2025-12-26
+categories: ["Water"]
+tags: ["leak", "water meter", "water bill"]
+---
+=== water-meter-running-when-no-water-used.md ===
+---
+title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
+slug: "water-meter-running-when-no-water-used"
+date: 2026-05-27
+categories: ["Water"]
+tags: ["water bill", "leak", "gallons", "water meter", "therms"]
+---
+=== water-service-charge-explained.md ===
+---
+title: "Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)"
+slug: "water-service-charge-explained"
+date: 2025-12-26
+categories: ["Water"]
+tags: ["ccf", "water bill", "leak", "gallons", "surcharge"]
+---
+=== what-is-a-kilowatt-hour.md ===
+---
+title: "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
+slug: "what-is-a-kilowatt-hour"
+date: 2025-12-25
+categories: ["Electricity"]
+tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
+---
+=== what-is-ccf-on-a-water-bill.md ===
+---
+title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
+slug: "what-is-ccf-on-a-water-bill"
+date: 2025-12-25
+categories: ["Water"]
+tags: ["ccf", "gallons", "water bill", "leak", "water meter"]
+---
+=== why-did-my-utility-bill-go-up-this-month.md ===
+---
+title: "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
+slug: "why-did-my-utility-bill-go-up-this-month"
+date: 2026-01-15
+categories: ["Bills & Fees"]
+tags: ["estimated bill", "surcharge", "budget"]
+---
+=== why-did-my-water-bill-suddenly-increase.md ===
+---
+title: "Why Did My Water Bill Suddenly Increase?"
+slug: "why-did-my-water-bill-suddenly-increase"
+date: 2025-12-26
+categories: ["Water"]
+tags: ["leak", "gallons", "water bill"]
+---
+=== why-electric-bill-changes-month-to-month.md ===
+---
+title: "Why Your Electric Bill Changes Month to Month (Even With Similar Usage)"
+slug: "why-electric-bill-changes-month-to-month"
+date: 2026-01-15
+categories: ["Electricity"]
+tags: ["electric bill", "demand charge", "kwh", "estimated bill"]
+---
+=== why-is-my-furnace-blowing-cold-air.md ===
+---
+title: "Why Is My Furnace Blowing Cold Air?"
+slug: "why-is-my-furnace-blowing-cold-air"
+date: 2025-12-27
+categories: ["Heating & Cooling"]
+tags: ["furnace", "heating safety", "ducts", "carbon monoxide"]
+---
+=== why-is-my-water-bill-higher-in-summer.md ===
+---
+title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+slug: "why-is-my-water-bill-higher-in-summer"
+date: 2025-12-26
+categories: ["Water"]
+tags: ["leak", "water bill", "ccf", "savings", "gallons"]
+---
+=== why-is-my-water-bill-higher-in-winter.md ===
+---
+title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+slug: "why-is-my-water-bill-higher-in-winter"
+date: 2025-12-27
+categories: ["Water"]
+tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf"]
+---
+=== why-my-utility-bill-is-higher-with-same-usage.md ===
+---
+title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn"
+slug: "why-my-utility-bill-is-higher-with-same-usage"
+date: 2025-12-25
+categories: ["Bills & Fees"]
+tags: ["estimated bill", "kwh", "budget", "customer charge", "surcharge"]
+---
+=== why-your-electric-bill-keeps-rising-2026.md ===
+---
+title: "Why your electric bill keeps rising: Complete Guide (2026)"
+slug: "why-your-electric-bill-keeps-rising-2026"
+date: 2026-05-29
+categories: ["Bills & Fees"]
+tags: ["solar", "kwh", "electric bill", "savings", "air conditioner"]
+---

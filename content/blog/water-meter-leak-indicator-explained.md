@@ -10,15 +10,15 @@ categories: ["Water"]
 tags: ["leak", "water meter", "water bill"]
 keywords: ["water leak detection", "water meter reading", "high water bill"]
 image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp"
+sources:
+  - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices
 ---
-
-{{< product-box asin="B07QP153GT" name="Govee Water Leak Detectors" label="Confirm it fast" description="Your meter's leak indicator tells you something is leaking — these tell you where. Put one under each fixture; the one that alarms is your culprit. 100dB alarm, app alerts, under $25." button="Check price on Amazon" >}}
 
 <!-- Manual TOC removed: single.html now auto-generates a collapsible TOC. -->
 
 ## Quick Answer {#quick-answer}
-<p>The leak indicator on a water meter is a <strong>small dial, triangle, or star that moves whenever any water flows through the meter</strong> — even a trickle too small to register on the main number display.</p>
-<p><strong>The simple rule:</strong> If the leak indicator is moving when every faucet and appliance is off, <strong>water is flowing somewhere and you almost certainly have a leak</strong>. The most common culprits are a silent toilet flapper, a stuck irrigation valve, or a small pipe leak.</p>
+<p>Many water meters include a <strong>small dial, triangle, star, or digital flow indicator that moves when water flows through the meter</strong>. Designs differ by meter and utility.</p>
+<p><strong>The practical rule:</strong> if an indicator keeps moving after you have stopped known water use, water is still flowing. Confirm that result with two meter readings before deciding the cause; a toilet, irrigation system, appliance cycle, or a leak can all create flow.</p>
 <p><strong>Where to find it:</strong> Lift the lid on your meter box (usually near the street or sidewalk in a concrete or plastic cover). Look on the meter face for a small red triangle, star, or dial — often labeled "leak" or "low flow." On digital smart meters, look for a flashing flow icon or a "leak" alert on the display.</p>
 <p>For a full meter-reading walkthrough covering different dial styles and digital meters, see: <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 
@@ -37,7 +37,7 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <p>Toilets refill quietly after a flush. Waiting helps you avoid mistaking a normal refill for a leak.</p>
 
 <h3>Step 3: Watch the indicator for 60–120 seconds</h3>
-<p><strong>If it is truly still, you do not have a continuous leak right now.</strong> If it creeps, spins, or pulses steadily, water is moving through the meter and you need to find the source.</p>
+<p>If it is truly still, the meter is not showing continuous flow at that moment. If it creeps, spins, or pulses steadily, water is moving through the meter and you need to identify the source.</p>
 
 <h3>Step 4: Confirm with a numbers check</h3>
 <p>Take a photo of the meter reading, wait 10–15 minutes with everything still off, then take another photo. <strong>Any increase means water moved through the meter</strong> — even if the indicator looked still at first glance.</p>
@@ -60,28 +60,7 @@ image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-i
 <p>On many digital "smart" meters, you may not see a physical indicator. Instead, the display may show a flow icon, a leak alert, or a real-time flow rate in gallons per minute.</p>
 
 ## Leak indicator types by meter {#meter-types}
-<p>Different meter brands use different indicators. Here is what to look for on common residential meters:</p>
-
-| Meter Brand | Indicator Type | Location | What It Does |
-|-------------|---------------|----------|-------------|
-| Sensus (analog) | Small triangle | Below dials | Spins when water flows |
-| Neptune (analog) | Red star/triangle | Center of dial | Rotates with any flow |
-| Badger (digital) | Flow icon | LCD screen | Flashes "+" when flowing |
-| Aclara (smart) | Leak alert | Online portal | Sends notification |
-| Itron (smart) | Continuous flow | App/dashboard | Flags 24+ hr usage |
-
-<h3>Leak indicator status guide</h3>
-
-| Indicator State | Meaning | Action Needed | Urgency |
-|----------------|---------|--------------|:---:|
-| Not moving | No flow | All clear | ✅ None |
-| Spinning slowly | Small flow | Check faucets | 🟡 Low |
-| Spinning fast | Heavy flow | Check all fixtures | 🟡 Medium |
-| Spinning, all off | Hidden leak | Call plumber | 🔴 High |
-| Flashing + icon | Recent usage | Check for running toilets | 🟡 Medium |
-| Continuous flow alert | 24+ hr constant | Major leak | 🔴 Critical |
-
-<p><em>Indicator styles vary by region and meter age. If yours looks different, your water utility's website usually has a labeled diagram for the model they install.</em></p>
+<p>Indicator styles vary by region and meter age. If yours looks different, use the diagram or instructions from the utility that installed it. EPA WaterSense also provides consumer guidance on leak-detection and flow-monitoring devices.</p>
 
 ## Common false alarms (things that sip water) {#false-alarms}
 <p>Sometimes the meter is telling the truth, but it is not a "leak" in the scary sense. It is a device using a little water in the background.</p>
@@ -147,10 +126,14 @@ Most residential water meters are in a concrete or plastic box near the street, 
 {{< /faq >}}
 
 {{< faq "Can a slow leak indicator be serious?" >}}
-Yes. A slow, continuous leak can waste hundreds of gallons a month and add <strong>roughly $25–$100+</strong> to a typical water bill, depending on local rates. Catching it early usually means a cheap fix (a flapper or valve); ignoring it can mean a bigger repair later.
+Yes. A slow, continuous flow can add up over a billing period. Confirm the source and contact your utility or a qualified plumber when you cannot isolate it safely.
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Environmental Protection Agency WaterSense: Leak Detection and Flow Monitoring Devices](https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices) — consumer guidance on monitoring water flow and leaks.
 
 ---
 

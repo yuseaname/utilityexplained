@@ -1,7 +1,7 @@
 ---
 title: "How Do Smart Meters Work? (And Should You Trust Them?)"
 slug: "how-do-smart-meters-work"
-description: "Smart meters are replacing analog dials everywhere. Learn how they measure usage, if they are accurate, and the truth about privacy concerns."
+description: "Learn what a smart meter can report, how to compare its reading with your bill, and which questions should go to your utility."
 date: 2025-12-25
 updated: 2026-08-21
 author: "Margaret Harrington"
@@ -10,17 +10,20 @@ categories: ["Electricity"]
 tags: ["electric bill", "smart meter", "kwh", "estimated bill"]
 keywords: ["high electric bill", "smart meter accuracy", "kwh usage", "estimated utility bill"]
 image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_v2.webp"
+sources:
+  - https://www.energy.gov/oe/grid-modernization-and-smart-grid
+  - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>
-<p><strong>A smart meter is a digital electricity meter that records your usage in short intervals (usually 15–60 minutes) and sends that data automatically to your utility.</strong> Unlike old analog meters with spinning dials, smart meters:</p>
+<p><strong>A smart meter is a digital electricity meter that can provide utilities and customers with more detailed electricity-use data than a basic monthly total.</strong> Meter capabilities, reporting intervals, privacy terms, and customer access differ by utility and program.</p>
 <ul>
-<li><strong>Track exactly when</strong> you use power, not just how much</li>
-<li><strong>Report remotely</strong> — no meter reader visits your property</li>
-<li><strong>Enable time-of-use rates</strong> — different prices at different hours</li>
-<li><strong>Eliminate estimated bills</strong> — the utility gets actual usage data</li>
+<li><strong>Can provide more detailed use data</strong> when the utility makes it available</li>
+<li><strong>May report remotely</strong> depending on the utility's meter system</li>
+<li><strong>Can support time-varying programs</strong> where a utility offers them</li>
+<li><strong>Can help you compare usage patterns</strong> with the information in your account portal</li>
 </ul>
-<p>Are they accurate? <strong>Yes — smart meters are generally more accurate than aging analog meters</strong>, which tend to slow down and under-report usage over time. If your bill jumped after a smart meter installation, it is likely because the new meter is catching usage the old one missed. For help diagnosing a sudden increase, see our guide on <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden electricity bill spikes</a>.</p>
+<p>If your bill changes after a meter installation, do not assume the cause. Compare the billing period, kWh, rate plan, and itemized charges, then ask the utility how it calculated the bill and what meter-testing process applies to your account.</p>
 
 <h2 id="short-answer">The short answer (what a smart meter actually does)</h2>
 <p>
@@ -201,22 +204,12 @@ Often the old analog meter was undercounting. A new digital meter can reveal you
 {{< /faq >}}
 
 
-## Smart Meter vs Analog Meter Comparison
-
-| Feature | Analog Meter | Digital Meter | Smart Meter |
-|---------|-------------|---------------|-------------|
-| Reading method | Manual (dials) | LCD display | Auto-transmit |
-| Reading frequency | Monthly | Monthly | 15-min intervals |
-| Accuracy | ±2% | ±0.5% | ±0.2% |
-| Estimated bills | Common | Sometimes | Eliminated |
-| Outage detection | None | None | Automatic |
-| TOU tracking | No | Limited | Full |
-| Remote disconnect | No | No | Yes |
-| Cost to utility | Low | Medium | Higher |
-| Consumer data access | None | None | Online portal |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Department of Energy: Grid Modernization and the Smart Grid](https://www.energy.gov/oe/grid-modernization-and-smart-grid) — consumer access to energy-use data and smart-grid overview.
+- [U.S. Energy Information Administration: Measuring electricity](https://www.eia.gov/energyexplained/electricity/measuring-electricity.php) — electricity measurement and meter context.
 
 ---
 

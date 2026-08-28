@@ -1,0 +1,55 @@
+[squad] results stream: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/ (per-packet as they land)
+[squad] dispatching scout -> gemma4:e2b
+[squad] dispatching executor -> ornith-1.5:9b
+[squad] dispatching prospector -> deepseek/deepseek-v4-flash
+[squad] dispatching tracer -> deepseek/deepseek-v4-flash
+[squad] dispatching analyst -> deepseek-v4-flash:cloud
+[squad] dispatching mason -> deepseek/deepseek-v4-flash
+[squad] dispatching cartographer -> deepseek/deepseek-v4-flash
+[squad] dispatching operator -> minimax-m3:cloud
+[squad] dispatching verifier -> deepseek/deepseek-v4-flash
+[squad] dispatching challenger -> deepseek-v4-flash:cloud
+[squad] scout: blocked (3.6s, 1 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/01-scout.json
+[squad] ⏳ 0m | analyst: 19 steps, tool: web_fetch (0m ago) | cartographer: 5 steps, generating (0m ago) | challenger: 24 steps, generating (0m ago) | executor: 4 steps, generating (0m ago) | mason: 7 steps, generating (0m ago) | operator: 5 steps, generating (0m ago) | prospector: 4 steps, generating (0m ago) | tracer: 5 steps, generating (0m ago) | verifier: 7 steps, generating (0m ago)
+[squad]   1m | analyst: 29 steps, generating (0m ago) | cartographer: 11 steps, generating (0m ago) | challenger: 41 steps, skeleton repair (0m ago) | executor: 7 steps, generating (0m ago) | mason: 12 steps, generating (0m ago) | operator: 16 steps, generating (0m ago) | prospector: 12 steps, generating (0m ago) | tracer: 10 steps, generating (0m ago) | verifier: 11 steps, generating (0m ago)
+[squad] challenger: partial (62.8s, 41 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/08-challenger.json
+[squad] ⏳ 1m | analyst: 42 steps, generating (0m ago) | cartographer: 12 steps, generating (0m ago) | executor: 7 steps, generating (0m ago) | mason: 18 steps, generating (0m ago) | operator: 25 steps, generating (0m ago) | prospector: 18 steps, generating (0m ago) | tracer: 14 steps, generating (0m ago) | verifier: 15 steps, generating (0m ago)
+[squad]   2m | analyst: 43 steps, parsing reply (0m ago) | cartographer: 15 steps, generating (0m ago) | executor: 12 steps, generating (0m ago) | mason: 19 steps, generating (0m ago) | operator: 34 steps, generating (0m ago) | prospector: 22 steps, generating (0m ago) | tracer: 20 steps, generating (0m ago) | verifier: 21 steps, generating (0m ago)
+[squad] ⏳ 2m | analyst: 43 steps, parsing reply (0m ago) | cartographer: 21 steps, generating (0m ago) | executor: 15 steps, generating (0m ago) | mason: 20 steps, generating (0m ago) | operator: 41 steps, generating (0m ago) | prospector: 25 steps, generating (0m ago) | tracer: 20 steps, generating (0m ago) | verifier: 25 steps, generating (0m ago)
+[squad]   3m | analyst: 43 steps, parsing reply (1m ago) | cartographer: 27 steps, generating (0m ago) | executor: 15 steps, generating (0m ago) | mason: 20 steps, generating (0m ago) | operator: 51 steps, generating (0m ago) | prospector: 25 steps, generating (0m ago) | tracer: 20 steps, generating (1m ago) | verifier: 27 steps, generating (0m ago)
+[squad] ⏳ 3m | analyst: 43 steps, parsing reply (1m ago) | cartographer: 34 steps, generating (0m ago) | executor: 19 steps, generating (0m ago) | mason: 20 steps, generating (1m ago) | operator: 58 steps, generating (0m ago) | prospector: 25 steps, generating (1m ago) | tracer: 20 steps, generating (1m ago) | verifier: 29 steps, generating (0m ago)
+[squad] verifier: complete (224.4s, 29 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/06-verifier.json
+[squad]   4m | analyst: 43 steps, parsing reply (2m ago) | cartographer: 37 steps, generating (0m ago) | executor: 22 steps, generating (0m ago) | mason: 20 steps, generating (1m ago) | operator: 67 steps, generating (0m ago) | prospector: 25 steps, generating (1m ago) | tracer: 20 steps, generating (2m ago)
+[squad] ⏳ 4m | analyst: 43 steps, parsing reply (2m ago) | cartographer: 39 steps, generating (0m ago) | executor: 26 steps, generating (0m ago) | mason: 20 steps, generating (2m ago) | operator: 74 steps, generating (0m ago) | prospector: 26 steps, generating (0m ago) | tracer: 20 steps, generating (2m ago)
+[squad] prospector: complete (275.7s, 26 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/03-prospector.json
+[squad]   5m | analyst: 43 steps, parsing reply (3m ago) | cartographer: 39 steps, parsing reply (0m ago) | executor: 31 steps, generating (0m ago) | mason: 20 steps, generating (2m ago) | operator: 79 steps, generating (0m ago) | tracer: 25 steps, generating (0m ago)
+[squad] cartographer: complete (316.5s, 39 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/05-cartographer.json
+[squad] mason: complete (327.4s, 21 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/10-mason.json
+[squad] ⏳ 5m | analyst: 44 steps, generating (0m ago) | executor: 36 steps, generating (0m ago) | operator: 81 steps, generating (0m ago) | tracer: 28 steps, generating (0m ago)
+[squad] analyst: complete (333.2s, 44 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/07-analyst.json
+[squad]   6m | executor: 40 steps, generating (0m ago) | operator: 81 steps, generating (0m ago) | tracer: 31 steps, generating (0m ago)
+[squad] ⏳ 6m | executor: 43 steps, generating (0m ago) | operator: 81 steps, generating (1m ago) | tracer: 33 steps, generating (0m ago)
+[squad]   7m | executor: 45 steps, generating (0m ago) | operator: 81 steps, generating (1m ago) | tracer: 36 steps, generating (0m ago)
+[squad] ⏳ 7m | executor: 47 steps, generating (0m ago) | operator: 81 steps, generating (2m ago) | tracer: 40 steps, generating (0m ago)
+[squad]   8m | executor: 49 steps, generating (0m ago) | operator: 82 steps, generating (0m ago) | tracer: 42 steps, generating (0m ago)
+[squad] ⏳ 8m | executor: 52 steps, generating (0m ago) | operator: 82 steps, generating (0m ago) | tracer: 46 steps, generating (0m ago)
+[squad] operator: complete (531.6s, 82 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/09-operator.json
+[squad]   9m | executor: 56 steps, generating (0m ago) | tracer: 48 steps, generating (0m ago)
+[squad] ⏳ 9m | executor: 56 steps, generating (0m ago) | tracer: 51 steps, generating (0m ago)
+[squad]   10m | executor: 59 steps, generating (0m ago) | tracer: 51 steps, generating (0m ago)
+[squad] ⏳ 10m | executor: 62 steps, generating (0m ago) | tracer: 51 steps, generating (1m ago)
+[squad] tracer: complete (634.2s, 51 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/04-tracer.json
+[squad]   11m | executor: 63 steps, parsing reply (0m ago)
+[squad] ⏳ 11m | executor: 63 steps, parsing reply (0m ago)
+[squad]   12m | executor: 63 steps, skeleton repair (0m ago)
+[squad] executor: partial (734.8s, 63 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/packets/results/02-executor.json

@@ -10,14 +10,17 @@ categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "ccf"]
 image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_v2.webp"
+sources:
+  - https://water.usgs.gov/water-basics_glossary.html
+  - https://www.epa.gov/watersense/getting-started
 ---
 
 ## Quick Answer
 
-**Water meters measure in cubic feet or gallons: Read the first 4-5 numbers (black on white) to get your usage, then subtract the previous reading. Most residential usage is 80-150 gallons per person daily ($40-80/month typical).**
+**Water meters commonly measure gallons or cubic feet. Record the complete reading, then subtract the earlier reading from the later one to calculate use for that period. Always confirm the unit and dial-reading rules with the utility that installed your meter.**
 
-- **Fact:** A running toilet can waste 200-400 gallons daily, adding $50-100 to monthly bills
-- **Action:** Check your meter while all water is off - if it's still moving, you have a leak
+- **Check the unit:** one cubic foot is about 7.48 gallons; one CCF is 100 cubic feet, or about 748 gallons.
+- **Check unexplained flow:** compare two readings with known water use stopped, then use your utility's instructions or a qualified plumber to identify the source.
 
 For more detail, see [Understanding Utility Bills](/blog/complete-guide-understanding-utility-bill/).
 
@@ -58,9 +61,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               reading was taken on a different day.
             </p>
             <p>
-              Some dial meters have a small triangle or star that moves with very
-              small flows. If it moves when all water is off, that is a sign of a
-              slow leak.
+              Some dial meters have a small triangle or star that moves with water
+              flow. If it moves after you have stopped known water use, compare two
+              readings and follow your utility's leak-check guidance.
             </p>
 
 <h2 id="read-digital">Reading a digital meter</h2>
@@ -72,10 +75,8 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               that suggests a leak.
             </p>
             <p>
-              Many digital meters also show flow rate in real time. This is helpful
-              if you want to see which fixtures use the most water. For example, you
-              can turn on a shower and note the flow rate to estimate gallons per
-              minute.
+              If a digital meter displays a flow rate, follow the utility's meter
+              documentation before using it to compare fixtures or diagnose a leak.
             </p>
 
 <h2 id="leak-test">Do a simple leak test</h2>
@@ -145,10 +146,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
 
 <h2 id="accuracy">What to do if you suspect a problem</h2>
 <p>
-              If the meter appears to run when all water is off, call the utility and
-              ask about a meter accuracy test. Some utilities charge a fee if the
-              meter is found to be accurate, so ask about the policy before
-              scheduling.
+              If the meter appears to run when known water use is off, call the
+              utility and ask how it handles meter questions and accuracy tests. Ask
+              about its policy before scheduling a test.
             </p>
             <p>
               Also check for seasonal irrigation or hose usage. Outdoor leaks are
@@ -201,13 +201,13 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
 
 {{< faq "How often are water meters read?" >}}
 
-Most utilities read monthly or bi-monthly. Some use automated readings daily and bill monthly based on that data.
+Reading and billing schedules vary by utility. Check your bill or contact the utility for the schedule that applies to your account.
 
 {{< /faq >}}
 
 {{< faq "Why does my bill say estimated?" >}}
 
-The utility may have used a usage average when a reader could not access the meter. The next actual read usually corrects the estimate.
+Ask the utility why the reading is estimated and when it expects to obtain an actual reading. Its correction process is specific to the local utility.
 
 {{< /faq >}}
 
@@ -218,28 +218,24 @@ Many meters are outside, but some homes have an indoor or remote display. Check 
 {{< /faq >}}
 
 
-## Water Meter Types Comparison
-
-| Feature | Analog (Dial) | Digital | Smart Meter |
-|---------|:---:|:---:|:---:|
-| Display | Rotating dials | LCD number | Auto-read |
-| Reading method | Left to right | Direct read | Utility reads remotely |
-| Leak indicator | Small triangle/dial | Flashing icon | App alert |
-| Accuracy | ±2% | ±0.5% | ±0.2% |
-| Units | Gallons or CCF | Gallons or CCF | Configurable |
-
 ### Meter Reading Calculation Example
 
-| Reading | Value | Calculation |
-|---------|-------|-------------|
-| Previous reading | 4,523 CCF | From last bill |
-| Current reading | 4,531 CCF | Read today |
-| Usage | 8 CCF | 4,531 - 4,523 |
-| × 748 | 5,984 gallons | 8 × 748 |
-| × $4.25/CCF | $34.00 | 8 × $4.25 |
+| Reading | Example | Calculation |
+|---------|---------|-------------|
+| Earlier reading | 4,523 CCF | From the prior reading |
+| Later reading | 4,531 CCF | Read today |
+| Usage | 8 CCF | 4,531 − 4,523 |
+| Approximate gallons | 5,984 gallons | 8 × 748 |
+
+Use the unit and rate on your own bill to calculate charges; rate structures and fixed fees vary by utility.
 
 
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Geological Survey: Water Resources Glossaries](https://water.usgs.gov/water-basics_glossary.html) — conversion reference for cubic feet and gallons.
+- [U.S. Environmental Protection Agency WaterSense: Getting Started](https://www.epa.gov/watersense/getting-started) — meter use for monitoring water use and identifying leaks.
 
 ---
 

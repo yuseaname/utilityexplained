@@ -1,0 +1,32 @@
+{
+ "role": "challenger",
+ "mission": "INDEPENDENT adversarial audit of this affiliate pivot's riskiest assumptions (work from the evidence brief facts + your own web research; do NOT assume any other worker's conclusions): (1) 68% of search traffic is Bing-ecosystem with Google at 2.6% \u2014 is Bing-only affiliate traffic durable, and what does Google's absence signal given the AdSense 'low value content' rejection?; (2) 91.3% bounce / 1.10 pages/session \u2014 does adding affiliate links to content failing intent produce anything but policy risk and zero CTR? What must be fixed FIRST for links to earn?; (3) the corpus has known AI-content remediation debt (site's own P0) \u2014 what is the realistic Google-policy and Amazon-brand risk of monetizing partially-remediated AI content?; (4) store-ID mismatch (litwd-20 vs utexplained-20) \u2014 blast radius if links ship before the fix; (5) single-affiliate-program dependency vs this niche's alternatives. For each: what would falsify the concern, earliest observable signal, and a mitigation. End with your verdict on the CURRENT trajectory: APPROVE / FIX / REJECT + the 3 conditions that would change it.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). You are the professional skeptic. Attack assumptions, not people. Every concern needs a falsifiable test.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Each of the 5 risks analyzed with falsification test + early signal + mitigation.",
+  "Final verdict APPROVE/FIX/REJECT with 3 change-conditions."
+ ]
+}

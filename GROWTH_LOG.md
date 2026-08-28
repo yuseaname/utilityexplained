@@ -357,3 +357,80 @@ Time-on-page + scroll depth on the 6 figure pages vs. pre-figure baseline; image
 
 ### Rollback
 `git revert 2743d604` (content+CSS+images in one commit).
+
+---
+
+## Entry 9 — 2026-08-23: AdSense review returned “Low value content” — remediation handoff
+
+### Status
+**BLOCKED — do not request another AdSense review yet.** Google returned a low-value-content policy finding. The technical foundation is intact; the required work is editorial verification and corpus remediation, not another theme or ad-layout pass.
+
+### Completed audit evidence
+- Live checks: homepage, `ads.txt`, `robots.txt`, and `sitemap.xml` each returned HTTP 200. The homepage contains AdSense, canonical, JSON-LD, and Rybbit markup.
+- Local build: `hugo --minify --gc` completed successfully (590 pages).
+- Asset gate: `python3 scripts/check_image_paths.py public` passed.
+- Corpus: 96 published blog guides; 7 are under 1,000 words, 32 under 1,500, and 52 under 2,000.
+- Evidence gap: 92/96 blog guides have no outbound source URL, despite many containing exact rates, state rankings, savings figures, or regulatory claims.
+- Editorial-quality flags: generic AI phrasing remains in several articles, and 16 guides lack a contextual internal link in the source body.
+
+### P0: remove or fully re-research before the next review
+1. `content/blog/7-states-with-worst-utility-spikes-2026.md` contains an impossible-at-publication citation to “BLS, December 2026” and other precise 2026 state claims without auditable sources. It must be unpublished/redirected or rebuilt from primary sources.
+2. `content/blog/2026-utility-cost-index-by-state.md` claims “original analysis” and provides 50-state rankings, but the underlying data file, source URLs, collection date, and reproducible calculations are not present in the repo. It must be unpublished/redirected or rebuilt with a transparent dataset and methodology.
+3. `content/blog/02-average-utility-costs-2026.md` contains conflicting total-cost ranges and numerous precise figures without linked source material. Re-research before retaining it as an indexed guide.
+4. Independently verify every author/editor identity and every statement that articles are reviewed against primary sources. Do not imply credentials, editorial review, or source verification that cannot be substantiated.
+
+### Required remediation gate for the next agent
+For every retained or republished data-heavy guide:
+1. Verify each material factual claim against a primary source; include a visible, dated Sources section with direct URLs.
+2. Replace generic tables/ranges with either cited, reproducible calculations or clearly labeled illustrative examples.
+3. Rewrite for a distinct reader task: bill-reading steps, a decision rule, a worked example, or a jurisdiction-specific path — not a generic definition plus stock advice.
+4. Add only useful contextual internal links; remove templated “Related Reading” lists where they do not advance the task.
+5. Keep title, canonical URL, and redirect plan explicit for every unpublished/consolidated page.
+6. Rebuild, run the image and internal-link gates, sample rendered pages on mobile, and only then request review.
+
+### Handoff boundary
+This entry records the finding only. No articles were unpublished, redirected, rewritten, deployed, committed, or submitted for re-review in this audit session. Another agent owns the remediation decision and implementation.
+
+---
+
+## Entry 10 — 2026-08-23: AdSense remediation implementation started
+
+### Status
+**BLOCKED — remediation in progress.** Do not request another AdSense review. The P0 quarantine, disclosure corrections, and first source-led repair below are local/uncommitted and have not been deployed.
+
+### Shipped locally
+1. **P0 quarantine + URL preservation:** marked these unsupported high-risk posts as `draft: true` and added Apache 301s in `static/.htaccess`:
+   - `/blog/7-states-with-worst-utility-spikes-2026/` → `/blog/why-did-my-utility-bill-go-up-this-month/`
+   - `/blog/2026-utility-cost-index-by-state/` → `/blog/complete-guide-understanding-utility-bill/`
+   - `/blog/02-average-utility-costs-2026/` → `/blog/complete-guide-understanding-utility-bill/`
+2. **Quality gate:** added `scripts/content_quality_audit.py`, tests, `npm test`, and `npm run audit:content`. It inventories published guides and flags future-dated claims plus material quantitative guides missing source metadata. Baseline after quarantine: 93 published guides, 85 still flagged for source remediation.
+3. **Trust corrections:** rewrote editorial-policy, editorial-team, and author-bio claims so they no longer imply every guide has already been verified against primary sources or that bylines are independently credentialed people. The public standard is now visible source links and review dates for data-heavy guides; older pages are explicitly under review.
+4. **Source-led repairs:**
+   - Rewrote `utility-assistance-programs-liheap.md` to remove unsupported national benefit, income, timing, savings, and credit-impact claims. It now uses direct HHS LIHEAP and DOE Weatherization links in front matter and a visible Sources section.
+   - Rewrote `what-is-ccf-on-a-water-bill.md` to remove unsupported household-usage and cost ranges; it now uses a direct USGS conversion source and tells readers to compare their own billing history.
+   - Rewrote `water-meter-leak-indicator-explained.md` to remove unsupported product claims, brand-specific feature assertions, and universal cost estimates; it now uses EPA WaterSense guidance and a visible Sources section.
+   - Rewrote `is-your-toilet-running-leak-test.md` to use EPA WaterSense's documented dye-test protocol and removed unsupported national waste, repair-cost, and bill-impact estimates.
+
+### Verification
+- Unit tests: 2/2 pass.
+- Clean Hugo artifact: 569 pages built successfully to `/tmp/utilityexplained-adsense-audit`.
+- The three withdrawn P0 article routes are absent from that clean artifact; their 301 rules are present in generated `.htaccess`.
+- Asset checker passed before this remediation; re-run it as part of final pre-deploy verification.
+
+### Next remediation batch
+1. Replace every internal link to withdrawn P0 URLs with its final destination rather than relying on a redirect.
+2. Work through the remaining source-flagged guides one source-led batch at a time. Do not bulk-add generic citations or source metadata without matching claims to the underlying page.
+
+### Continuation — future-claim quarantine (same session)
+The quality gate identified four additional published pages with future-dated factual claims. They are now also drafts with permanent 301s:
+- `/blog/average-utility-bills-by-state-2026/` → `/blog/complete-guide-understanding-utility-bill/`
+- `/blog/how-to-lower-electric-bill-complete-guide/` → `/blog/05-how-to-lower-utility-bills/`
+- `/blog/stormwater-fee-on-water-bill-explained/` → `/blog/44-how-to-lower-water-bill/`
+- `/blog/why-your-electric-bill-keeps-rising-2026/` → `/blog/why-did-my-utility-bill-go-up-this-month/`
+
+Post-quarantine verification: 89 published guides, 81 source-remediation flags, and zero remaining `future_claim` findings. Hugo built 559 pages; the image gate and unit tests passed. These changes remain local/uncommitted and must not trigger an AdSense review yet.
+
+### Continuation — source-led repair batches
+Source-led repairs subsequently covered the primary electric-bill guide, high-bill diagnosis, water-meter and leak guides, smart-meter and standby-power guides, net-metering guidance, HVAC staging/ratings/thermostat pages, heating-cost comparison, first-apartment budgeting, and the fee/billing explainers. Each was stripped of unsupported national figures, product claims, or fabricated comparisons; given direct primary-source links; and rebuilt/tested locally.
+
+Current verified baseline: **89 published guides, 52 remaining source-remediation flags, zero future-claim findings.** The automated remediation worker (`utilityexplained-adsense-source-remediation`, every 5 minutes) continues the queue without deploying, committing, or requesting review. Do not submit to AdSense until the queue is empty and a final content, generated-artifact, and live-production audit passes.

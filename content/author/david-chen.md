@@ -10,9 +10,9 @@ updated: 2026-08-12
 
 **Role:** Energy Efficiency Editor
 
-David is an editor on the Utility Explained team. He focuses on the guides that show households how to actually lower their bills — from quick, low-cost fixes like weatherstripping and water-heater temperature changes to bigger decisions around HVAC efficiency ratings (SEER, AFUE, HSPF, COP), heat pumps, and air sealing.
+David Chen is the editorial byline for Utility Explained's Energy Efficiency desk. It identifies the desk responsible for guides about lowering household utility use — from weatherstripping and water-heater settings to HVAC efficiency ratings (SEER, AFUE, HSPF, COP), heat pumps, and air sealing.
 
-He translates technical efficiency specifications into practical, affordable steps, grounding cost and savings figures in DOE and ENERGY STAR data and current equipment specifications.
+For data-heavy efficiency guides, the desk uses DOE, ENERGY STAR, and manufacturer documentation. Refreshed guides show their source links and review date.
 
 ## What David Writes About
 
@@ -20,4 +20,4 @@ David writes and reviews our energy-efficiency, savings, and comparison guides �
 
 ---
 
-*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

@@ -31,7 +31,7 @@ Plain-English explainers on electricity, gas, and water bills — how to read th
 
 ## AI assistance
 
-Our guides are drafted with the help of AI tools. This lets us research and produce clear explanations efficiently across a wide range of utility-bill topics. AI assistance does not replace human judgment: every guide is reviewed by an editor who fact-checks the numbers, rate structures, and claims against primary sources (U.S. EIA data, state utility commission filings, and published provider tariffs) before it is published. We do not present AI-generated credentials or fabricated expert qualifications. See our [methodology](/methodology/) for how we source figures.
+Our guides may be drafted with AI assistance. That assistance does not establish a fact, source, credential, or recommendation. Data-heavy guides are published or refreshed only when they show direct, dated source links for their material figures and claims. We are reviewing older guides against that standard; a page without a visible Sources section should be treated as general educational context, not a current rate quote, legal determination, or personalized advice. We do not present AI-generated credentials or fabricated expert qualifications. See our [methodology](/methodology/) for how we source figures.
 
 ## Advertising
 

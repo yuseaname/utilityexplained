@@ -5,7 +5,7 @@ date: 2024-12-01
 updated: 2026-08-12
 ---
 
-Utility Explained is researched, drafted, and reviewed by a small editorial team focused on one thing: translating utility bills into plain English. Our guides are drafted with AI assistance and reviewed by our editors for accuracy against primary sources (U.S. EIA data, state public utility commission filings, and published provider tariffs).
+Utility Explained is produced by a small editorial team focused on translating utility bills into plain English. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
 
 ## Our Editors
 
@@ -28,12 +28,12 @@ Tanya focuses on our fees, troubleshooting, and consumer-rights guides — helpi
 
 Every article follows a defined process:
 
-1. **Research** — We start from primary sources (EIA data, published utility tariffs, state regulations).
-2. **Draft** — Guides are drafted with AI assistance to produce a clear first version efficiently.
-3. **Review** — An editor fact-checks the numbers, rates, and claims against the source material.
-4. **Publish** — The guide goes live only after that review.
+1. **Research** — For a data-heavy guide, we collect the relevant primary sources: EIA data, published utility tariffs, state regulations, or program-owner guidance.
+2. **Draft** — Guides may use AI assistance to produce a clear first version efficiently.
+3. **Verify** — Before a data-heavy guide is published or refreshed, its material claims must be checked against the linked source material.
+4. **Publish or hold** — A guide with unverified, time-sensitive, or unsupported claims is held for revision rather than presented as a current reference.
 
-We are transparent that AI assistance is part of our workflow. It lets us cover more ground; the accuracy work is done by our editors against real sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.
+We are transparent that AI assistance is part of our workflow. Readers can inspect the source links and review date on a refreshed guide; older pages are under review. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.
 
 ## Independence
 

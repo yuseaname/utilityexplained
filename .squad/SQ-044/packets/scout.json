@@ -1,0 +1,32 @@
+{
+ "role": "scout",
+ "mission": "Recon the utilityexplained repo infrastructure: inventory content/ by section and type; map layouts/ (every baseof/single/list/partial \u2014 note anything product-box, CTA, ad-slot, disclosure, author-box related); summarize data/content-remediation-queue.json (how many pages queued, status values); list scripts/ and static/assets; note any monetization plumbing (add_product_boxes.py purpose). Deliver LEADS as a structured inventory \u2014 fast, broad, no deep reading.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). You are the pathfinder. Structure: inventory tables + one-line notes. Flag anything that looks like monetization infrastructure ready to activate.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Structured inventory covering content/, layouts/, data/, scripts/, static/ with file counts and notable files.",
+  "Monetization-relevant infrastructure identified with paths."
+ ]
+}

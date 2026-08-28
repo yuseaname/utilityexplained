@@ -1,0 +1,32 @@
+{
+ "role": "operator",
+ "mission": "UX/CRO + template audit from layouts/ and rendered public/ HTML (read the actual templates and 5-6 representative rendered pages incl. the top-traffic article and a hub page): (1) article-page anatomy as rendered \u2014 hero/quick-answer position, TOC, heading hierarchy, scanability, table usage, images, related-posts; (2) trust-signal placement \u2014 author byline, editorial-policy/methodology links, dates, disclosure position; (3) CTA inventory \u2014 what clickable actions exist per article today and their visual weight; (4) email capture \u2014 existence, placement, offer; (5) mobile UX signals from the HTML/CSS (nav pattern, font sizes, tap targets, layout shifts, page weight: count/size of images and scripts per page); (6) homepage + hub-page hierarchy. Then spec the affiliate-ready article template: where product boxes, comparison tables, CTA buttons, and per-link disclosures belong for ethical CRO (above-the-fold disclosure, first product mention above fold for high-intent pages, etc). Deliver: findings + a concrete template spec (sections, order, components) the implementation phase can build against.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). You own the expedition deliverable: a UX findings doc + template spec. Judge as rendered experience, not code style.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Rendered-experience findings for article/hub/home templates with example pages.",
+  "Affiliate-ready article template spec: component order, CTA + disclosure placement rules."
+ ]
+}

@@ -1,0 +1,576 @@
+exit_code: 0
+=== affiliate ===
+---
+title: "Why a Utility Bill Can Rise When Usage Looks Similar"
+slug: "15-why-utility-bill-higher-same-usage"
+description: "Compare billing days, rate-plan details, itemized charges, and meter-read status to identify why a utility bill changed when total usage appears similar."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["utility bills", "rates", "bill comparison"]
+keywords: ["utility bill higher same usage", "same usage higher bill", "utility bill comparison"]
+image: "/images/articles/15-why-utility-bill-higher-same-usage/15-why-utility-bill-higher-same-usage_hero_v2.webp"
+sources:
+  - https://www.eia.gov/electricity/data.php
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+---
+
+## Quick Answer
+
+**A similar total kWh or therm figure does not guarantee the same total bill.** Billing days, meter-read status, rate-plan rules, time or tier distribution, fixed charges, taxes, credits, and one-time items can change the amount due. Compare the itemized statement and current tariff instead of assuming one universal cause.
+
+
+=== affiliate ===
+---
+title: "How to Review a Utility Budget-Billing Plan"
+slug: "16-budget-billing-level-pay-explained"
+description: "Review a utility budget-billing or level-pay offer using the provider's written terms, actual charges, settlement rules, and payment options."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["budget billing", "level pay", "utility bills"]
+keywords: ["budget billing", "level pay plan", "utility payment plan"]
+image: "/images/articles/budget-billing-level-pay-explained/image.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**“Budget billing,” “level pay,” and similar names are utility-specific payment programs.** The calculation, adjustment schedule, credit or debit treatment, cancellation terms, and eligibility must be confirmed in the serving utility's written plan terms.
+
+
+
+=== affiliate ===
+---
+title: "How to Review a Customer Charge on a Utility Bill"
+slug: "17-what-is-customer-charge-on-utility-bill"
+description: "Identify a customer charge from the account's tariff and itemized statement, then compare it with other rate components without using generic fee ranges."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["customer charge", "utility bills", "electricity", "gas"]
+keywords: ["customer charge utility bill", "fixed charge utility bill", "utility bill rate components"]
+image: "/images/articles/17-what-is-customer-charge-on-utility-bill/17-what-is-customer-charge-on-utility-bill_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+**A customer charge is a rate component that must be interpreted from the serving utility's tariff, rate schedule, and bill.** DOE rate-design material describes residential rates as historically including a fixed customer charge and a volumetric rate, but the amount, label, purpose, and applicability are utility-specific.[1]
+
+
+=== affiliate ===
+---
+title: "How to Review a Fuel Adjustment Charge on a Utility Bill"
+slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
+description: "Identify a fuel-adjustment or similar charge from the account’s tariff, bill, rate period, and provider-specific calculation."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["fuel adjustment", "electricity", "utility bills"]
+keywords: ["fuel adjustment charge", "fuel cost recovery", "utility bill charge"]
+image: "/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/18-fuel-adjustment-charge-on-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+---
+
+## Quick Answer
+
+**A “fuel adjustment,” “fuel cost recovery,” or similarly named line must be interpreted from your provider’s current tariff and bill.** Its name, calculation, effective dates, relationship to energy charges, and whether it applies to an account vary by provider and rate plan. Do not apply a national price range, assume it is a universal pass-through, or attribute a bill increase to the charge without comparing the statement.
+
+
+=== affiliate ===
+---
+title: "How to Review Surcharges and Riders on a Utility Bill"
+slug: "19-utility-bill-surcharges-and-riders-explained"
+description: "Identify a utility-bill rider or surcharge from the account’s tariff, effective dates, calculation basis, and provider documentation."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["surcharges", "riders", "utility bills"]
+keywords: ["utility bill surcharges", "utility bill riders", "utility rate rider"]
+image: "/images/articles/19-utility-bill-surcharges-and-riders-explained/19-utility-bill-surcharges-and-riders-explained_hero_v2.webp"
+sources:
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+**A surcharge or rider is an account-specific bill component whose meaning, amount, purpose, and effective dates must be confirmed in the current tariff and bill.** DOE electricity-bill guidance explains that bills can be reproduced using the applicable rate structure and measured energy use and demand.[1]
+
+
+=== affiliate ===
+---
+title: "How to Review a Partial-Period Utility Bill"
+slug: "20-utility-bill-proration-explained"
+description: "Review a partial-period utility statement using actual service dates, meter/read status, tariff rules, account records, and provider documentation."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["billing", "moving", "utility bills"]
+keywords: ["prorated utility bill", "partial month utility bill", "utility bill service dates"]
+image: "/images/articles/utility-bill-proration-explained/image.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+---
+
+## Quick Answer
+
+**A bill covering less or more than a usual period must be reviewed using its stated service dates, meter/read status, tariff, and account records.** Do not assume every provider prorates fixed charges by day, uses the same move-in/out rule, treats real-estate closings alike, or calculates usage from a generic monthly formula.
+
+
+=== affiliate ===
+---
+title: "How to Review a Past-Due Balance on a Utility Bill"
+slug: "21-past-due-balance-utility-bill-explained"
+description: "Review a past-due utility balance from the account statement, payment records, provider notice, tariff, and current assistance or payment options."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["past due", "utility bills", "billing"]
+keywords: ["past due balance utility", "utility bill past due", "overdue utility bill"]
+image: "/images/articles/21-past-due-balance-utility-bill-explained/21-past-due-balance-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A past-due balance should be reviewed against the account statement, payment records, and provider’s current written notice before assuming a late fee, shutoff, collection, payment plan, or credit outcome.** The provider’s tariff and account terms control due dates, fees, notices, assistance, payment arrangements, and service consequences.
+
+
+
+=== affiliate ===
+---
+title: "How to Review a Minimum Charge on a Utility Bill"
+slug: "22-minimum-bill-utility-bill-explained"
+description: "Identify whether a bill includes a minimum charge, customer charge, or usage floor by reviewing the account’s tariff, service class, and itemized statement."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["minimum bill", "utility fees", "customer charge"]
+keywords: ["minimum bill utility", "minimum charge utility bill", "customer charge utility"]
+image: "/images/articles/22-minimum-bill-utility-bill-explained/22-minimum-bill-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+---
+
+## Quick Answer
+
+**A “minimum bill,” “minimum charge,” “customer charge,” or similar label must be interpreted under the tariff that applies to your account.** DOE rate-design material describes residential rates as historically including a fixed customer charge and a volumetric rate, but it does not establish one national minimum-bill amount or rule.[1]
+
+
+=== affiliate ===
+---
+title: "How to Read the Billing Period on a Utility Statement"
+slug: "23-utility-billing-cycle-explained"
+description: "Use the account’s service dates, meter-read status, usage, tariff, and provider bill guide to compare utility billing periods accurately."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["billing cycle", "utility bill dates", "utility bill"]
+keywords: ["utility billing cycle", "utility bill period", "utility service dates"]
+image: "/images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+---
+
+## Quick Answer
+
+**The billing period is the service-date range printed on your statement; it is not necessarily a calendar month.** Use the exact account dates, number of billing days, meter-read status, usage unit, and rate-plan version when comparing bills. Do not assume a universal billing frequency, due-date window, route process, or adjustment rule.
+
+
+=== affiliate ===
+---
+title: "How to Compare Delivery and Supply Charges on a Utility Bill"
+slug: "24-delivery-charge-vs-supply-charge-utility-bill"
+description: "Read delivery and supply charges from the account's itemized bill and tariff instead of applying a generic percentage, provider-choice, or savings rule."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Marcia Washington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["delivery charge", "supply charge", "utility bill"]
+keywords: ["delivery charge versus supply charge", "utility bill charges", "supply delivery bill"]
+image: "/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge
+---
+
+## Quick Answer
+
+**“Delivery” and “supply” are bill categories whose definitions, rates, subcharges, and provider options depend on the serving utility and the account's tariff.** Do not assume one category is fixed, that a particular percentage applies, or that a customer can choose a different provider without checking the account's current terms.
+
+
+=== affiliate ===
+---
+title: "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
+description: "Review tax, fee, franchise, rider, credit, and other utility-bill lines using the account’s itemized statement, tariff, and local rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility taxes", "utility fees", "utility bill"]
+keywords: ["utility bill taxes", "utility bill fees", "franchise charge utility bill"]
+image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"
+hero_below_answer: true
+sources:
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "How to Review a Utility Deposit Requirement"
+slug: "26-utility-deposit-explained"
+description: "Review a utility deposit request using the provider’s service terms, account notice, payment options, and applicable local or state rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility deposit", "security deposit", "new service"]
+keywords: ["utility deposit", "utility security deposit", "new utility service deposit"]
+image: "/images/articles/26-utility-deposit-explained/26-utility-deposit-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A utility deposit request is governed by the serving provider’s current terms and the rules that apply to the account’s service territory.** Confirm the deposit amount, reason, payment timing, alternative documentation, return or credit terms, interest if any, and final-account treatment in writing. Do not use a national deposit range or assume a credit-check, refund, waiver, installment, or transfer rule applies to your account.
+
+
+
+=== affiliate ===
+---
+title: "How to Review a Utility Service-Start Charge"
+slug: "27-utility-connection-fee-explained"
+description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["connection fee", "new service", "utility setup"]
+keywords: ["utility connection fee", "utility service start charge", "new utility account"]
+image: "/images/articles/utility-connection-fee-explained/image.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms.
+
+
+
+=== affiliate ===
+---
+title: "How to Verify a Utility Reconnection Charge"
+slug: "28-utility-reconnection-fee-explained"
+description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["reconnection fee", "service shutoff", "utility bill"]
+keywords: ["utility reconnection fee", "restore utility service", "utility shutoff charge"]
+image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A reconnection charge and the conditions for restoring utility service are provider- and account-specific.** Confirm the charge, unpaid balance, deposit, payment arrangement, timing, and service-restoration requirements directly from the serving provider's current tariff, policy, and written account notice. Do not rely on a national fee range, presumed restoration time, or assumed waiver.
+
+
+
+=== affiliate ===
+---
+title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+slug: "30-sudden-spike-in-electricity-bill-no-usage"
+description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
+date: 2026-05-28
+updated: 2026-08-21
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
+keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
+image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
+---
+
+## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
+
+A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:
+
+1. **A longer billing period or estimated reading.** A 28-day bill followed by a 34-day bill adds <strong>~21%</strong> more days of usage. A corrected "EST" reading can lump two months of charges into one bill.
+2. **A rate increase.** A fuel adjustment, seasonal shift, or new rate schedule can raise your per-kWh cost by 10%–25% with no usage change at all.
+
+
+=== affiliate ===
+---
+title: "How to Read an Electricity Bill"
+slug: "41-how-to-read-electricity-bill"
+description: "Review an electricity bill using its billing period, meter information, rate schedule, and itemized charges instead of generic national percentage tables."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["electricity bill", "electric bill charges", "meter reading"]
+keywords: ["how to read electricity bill", "understanding electric bill", "electric bill charges"]
+image: "/images/articles/41-how-to-read-electricity-bill/custom_hero.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "Portable Space Heater Safety and Energy-Use Planning"
+slug: "42-best-energy-efficient-space-heater"
+description: "Assess whether a portable space heater is appropriate using the manufacturer instructions, electrical safety requirements, room conditions, and your actual utility rate."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["space heater", "heater safety", "electricity use"]
+keywords: ["space heater safety", "portable electric heater", "space heater energy use"]
+image: "/images/articles/42-best-energy-efficient-space-heater/custom_hero.webp"
+sources:
+  - https://www.energy.gov/energysaver/small-space-heaters
+  - https://www.cpsc.gov/Safety-Education/Safety-Alerts
+  - https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "How to Review Natural Gas Charges on Your Bill"
+slug: "43-understand-natural-gas-bill-charges"
+description: "Use the account’s itemized bill, meter information, unit conversion, tariff, and provider explanation to review natural-gas charges."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Gas"
+categories: ["Gas"]
+tags: ["natural gas bill", "gas charges", "utility bill"]
+keywords: ["natural gas bill charges", "gas bill review", "gas bill tariff"]
+image: "/images/articles/43-understand-natural-gas-bill-charges/custom_hero.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2021-11/Understanding+Your+Natural+Gas+Bills.pdf
+  - https://betterbuildingssolutioncenter.energy.gov/resources/understanding-your-utility-bills-natural-gas
+---
+
+## Quick Answer
+
+**Natural-gas bill categories and calculations vary by provider, tariff, contract, and account.** Review the statement’s own meter information, billing days, usage units, rates, credits, taxes, and additional line items rather than applying a generic supply/delivery split or a national fee range.
+
+
+=== affiliate ===
+---
+title: "How to Investigate a High Water Bill"
+slug: "44-how-to-lower-water-bill"
+description: "Use your bill, meter, property conditions, and local utility rules to identify water-use changes before choosing repairs or upgrades."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Water"
+categories: ["Water"]
+tags: ["water bill", "water usage", "leak detection"]
+keywords: ["high water bill", "water use investigation", "water bill review"]
+image: "/images/articles/44-how-to-lower-water-bill/44-how-to-lower-water-bill_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/start-saving
+  - https://www.epa.gov/watersense/understanding-your-water-bill
+---
+
+## Quick Answer
+
+**A high water bill should be investigated from the statement, meter, property conditions, and local utility rules before assuming a particular fixture, product, or habit will lower the cost.** EPA WaterSense provides home-maintenance and leak-detection resources, while the serving utility controls the billing unit, rate structure, and any adjustment policy.[1][2]
+
+
+=== affiliate ===
+---
+title: "Portable and Standby Generator Planning: Safety and Scope"
+slug: "45-whole-house-generator-vs-portable-cost"
+description: "Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote review."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["generator", "backup power", "generator safety"]
+keywords: ["portable generator safety", "standby generator planning", "backup power"]
+image: "/images/articles/45-whole-house-generator-vs-portable-cost/45-whole-house-generator-vs-portable-cost_hero_v2.webp"
+sources:
+  - https://www.cpsc.gov/Safety-Education/Safety-Guides/Carbon-Monoxide-Home/Generators-and-Engine-Driven-Tools
+  - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+---
+
+## Quick Answer
+
+**A portable generator and a permanently installed standby system have different safety, installation, fuel, load, maintenance, and cost requirements.** Choose only after defining critical loads, obtaining a qualified site assessment and written scope, and reviewing local requirements—not from a generic price, fuel-cost, or home-value comparison.
+
+
+=== affiliate ===
+---
+title: "How to Find the Lowest-Priced Hours on Your Electricity Plan"
+slug: "46-what-time-is-electricity-cheapest"
+description: "Find the hours and price rules that apply to your own electricity account by reviewing the current tariff, rate plan, bill, and interval-use data."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["electricity rates", "time of use", "utility bill"]
+keywords: ["lowest priced electricity hours", "time of use electricity", "electricity rate plan"]
+image: "/images/articles/46-what-time-is-electricity-cheapest/custom_hero.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/demand-response-and-time-variable-pricing-programs
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+**There is no nationwide cheapest hour for electricity.** The applicable hours, prices, seasons, holidays, enrollment rules, and charges come from your account's current utility tariff and rate plan. DOE describes time-variable rates that can change by set amounts at set times and other rates that can reflect hour-to-hour market movements.[1][2]
+
+
+=== affiliate ===
+---
+title: "How to Start a Do-It-Yourself Home Energy Assessment"
+slug: "47-check-energy-leaks-home-diy"
+description: "Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up work."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["home energy assessment", "air leaks", "weatherization"]
+keywords: ["do it yourself home energy assessment", "air leaks home", "home weatherization"]
+image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"
+sources:
+  - https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments?nrg_redirect=370169
+  - https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459
+  - https://www.energy.gov/energysaver/do-it-yourself-savings-project-weatherstrip-double-hung-or-sash-windows?nrg_redirect=321683
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "How to Compare a Heat Pump and a Gas Furnace for Your Home"
+slug: "48-heat-pump-vs-gas-furnace-savings"
+description: "Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program terms."
+date: 2026-05-30
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Gas"
+categories: ["Gas"]
+tags: ["heat pump", "gas furnace", "heating system"]
+keywords: ["heat pump versus gas furnace", "heating system comparison", "heat pump planning"]
+image: "/images/articles/48-heat-pump-vs-gas-furnace-savings/custom_hero.webp"
+sources:
+  - https://www.energy.gov/heat-pumps
+  - https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems
+  - https://www.energystar.gov/about/federal_tax_credits_consumer_energy_efficiency_definitions
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "How to Review a Demand Charge on an Electricity Bill"
+slug: "49-demand-charges-electricity-bill-explained"
+description: "Identify a demand charge from the applicable tariff, distinguish billed demand from energy use, and obtain the account-specific calculation from the provider."
+date: 2026-05-30
+updated: 2026-08-23
+aliases: ["/blog/demand-charge-electric-bill-explained/"]
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["demand charge", "electricity bill", "utility rate"]
+keywords: ["demand charges electricity bill", "billed demand", "electricity rate components"]
+image: "/images/articles/49-demand-charges-electricity-bill-explained/49-demand-charges-electricity-bill-explained_hero_v2.webp"
+sources:
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+---
+
+## Quick Answer
+
+
+
+=== affiliate ===
+---
+title: "How to Measure and Reduce Standby Power"
+slug: "50-best-smart-plugs-standby-power"
+description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
+date: 2026-05-30
+updated: 2026-08-23
+author: "David Chen"
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
+tags: ["standby power", "smart plugs", "advanced power strips", "energy monitoring"]
+keywords: ["standby power", "smart plug energy monitoring", "advanced power strip", "phantom load"]
+image: "/images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/measuring-standby-power
+  - https://betterbuildingssolutioncenter.energy.gov/resources/saving-energy-through-advanced-power-strips
+---
+
+## Quick Answer
+
+**Measure first.** DOE defines standby power as the lowest power consumption while a product remains plugged into mains power.[1] An advanced power strip or a smart plug can reduce idle use for suitable devices, but the device, schedule, rating, and potential savings depend on the equipment and your electricity price.
+
+

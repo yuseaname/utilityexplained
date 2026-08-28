@@ -1,0 +1,32 @@
+{
+ "role": "verifier",
+ "mission": "Re-derive every compliance-relevant claim against the repo, verdict per item CONFIRMED / REFUTED / UNVERIFIED + evidence: (1) hugo.toml amazon_tag == 'litwd-20' while owner store ID is utexplained-20; (2) zero amazon.com links in content/; (3) affiliate-disclosure.md exists \u2014 quote its operative language; where does it render site-wide (header? footer? per-article near links?) \u2014 is placement FTC-clear ('clear and conspicuous, before the link') and does it contain Amazon's required 'As an Amazon Associate I earn from qualifying purchases' sentiment; (4) author pages: do any claim credentials, testing, or firsthand experience the repo cannot substantiate (quote exact claims \u2014 these are E-E-A-T fabrication risks); (5) methodology/editorial-policy pages: do they promise things the content does not do (e.g. 'we test products')?; (6) hardcoded prices/$-figures in content that will go stale or mislead (sample the worst 10); (7) claims of expertise/reviews/testing in blog content (grep 'we tested', 'our review', 'hands-on'); (8) robots/noindex/sitemap hygiene; (9) any AdSense residue after the removal commit. Also fetch Amazon Associates Operating Agreement current requirements (cite URL + date) and diff against the site's disclosure language.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). You are the checking seat: mechanical re-derivation, no judgment beyond the verdicts.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Per-claim verdict table (CONFIRMED/REFUTED/UNVERIFIED) with quoted evidence.",
+  "Amazon OA requirements fetched and diffed against site disclosure, cited."
+ ]
+}

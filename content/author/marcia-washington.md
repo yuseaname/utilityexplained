@@ -10,7 +10,7 @@ updated: 2026-08-12
 
 **Role:** Affordability & Assistance Editor
 
-Marcia is an editor on the Utility Explained team. She focuses on the guides that help households plan for and manage utility costs — budget billing and level-pay plans, assistance programs like LIHEAP and the Weatherization Assistance Program, payment-plan options, and the rights that protect consumers against shut-offs.
+Marcia Washington is the editorial byline for Utility Explained's Affordability & Assistance desk. It identifies the desk responsible for guides about budget billing, assistance programs such as LIHEAP and the Weatherization Assistance Program, payment plans, and service-protection options.
 
 Her aim is to make utility costs predictable, especially for households stretched by seasonal spikes, and to point readers to the real programs and protections available in their state.
 
@@ -20,4 +20,4 @@ Marcia writes and reviews our budgeting, assistance-program, and cost-planning g
 
 ---
 
-*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

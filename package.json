@@ -4,7 +4,9 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "python3 -m unittest tests.test_content_quality_audit -v",
+    "audit:content": "python3 scripts/content_quality_audit.py",
+    "verify": "hugo --minify --gc && python3 scripts/check_image_paths.py public && python3 scripts/content_quality_audit.py"
   },
   "repository": {
     "type": "git",

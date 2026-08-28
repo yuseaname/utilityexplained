@@ -1,0 +1,437 @@
+exit_code: 0
+exit_code: 0
+{
+  "generated": "2026-08-23",
+  "remaining": 6,
+  "items": [
+    {
+      "path": "content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md",
+      "title": "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean",
+      "word_count": 3228,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/gas-delivery-charge-vs-supply-charge.md",
+      "title": "Gas Delivery Charge vs Supply Charge: What",
+      "word_count": 3307,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/tiered-water-rates-explained.md",
+      "title": "Tiered Water Rates Explained: Why Using More Costs Dramatically More",
+      "word_count": 3421,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/30-sudden-spike-in-electricity-bill-no-usage.md",
+      "title": "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes",
+      "word_count": 3583,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/07-gas-bill-too-high.md",
+      "title": "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One",
+      "word_count": 3616,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    },
+    {
+      "path": "content/blog/how-to-read-gas-meter.md",
+      "title": "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions",
+      "word_count": 3643,
+      "issues": [
+        "missing_sources"
+      ],
+      "priority": "P2"
+    }
+  ]
+}
+===MISSION===
+# UtilityExplained Growth Mission — Comprehensive Report
+**Date:** August 10, 2026  
+**Analyst:** Goose Prime (Executive Orchestrator)  
+**Sub-agents:** 15 parallel tasks using GLM-4.5 model  
+
+---
+
+## Executive Summary
+
+Executed a comprehensive growth optimization of UtilityExplained.com across technical SEO, content quality, internal linking, and user experience. **6 commits pushed and deployed** to production via GitHub Actions. All changes are now LIVE on Hostinger.
+
+---
+
+## Analytics Baseline (Pre-Changes)
+
+| Metric | Value |
+|--------|-------|
+| Sessions (90 days) | 263 (~3/day) |
+| Bounce Rate | **79.8%** |
+| Pages/Session | **1.76** |
+| Avg Session Duration | 112s |
+| Organic Search | 150 sessions |
+| Google Traffic | **Only 2 sessions** ⚠️ |
+| DuckDuckGo | 68 sessions |
+| Bing | 46 sessions |
+| Yahoo | 23 sessions |
+| US Traffic | 203 (77%) |
+| Mobile | 149 (57%) |
+
+### Top Problem Pages (Before)
+
+| Page | Sessions | Bounce | Duration |
+|------|----------|--------|----------|
+| Sewer charges | 32 | 90.5% | 11s |
+| Water meter leak indicator | 22 | 61.1% | 210s |
+| Water meter running | 12 | 91.7% | 52s |
+| Past due balance | 12 | 100% | 0s |
+| CCF on water bill | 16 | 88.9% | 8s |
+| Reconnection fee | 8 | 62.5% | 18s |
+| Electric bill rising | 4 | 100% | 0s |
+| Smart meters | 3 | 100% | 0s |
+| Avg bills by state | 3 | 100% | 0s |
+| Electric bill high | 3 | 100% | 0s |
+
+### Critical Discovery: Trailing Slash Duplicate URLs
+
+The **same pages** were being served at both `/blog/page` and `/blog/page/` — splitting link equity and confusing search engines. This was likely the #1 reason Google was not indexing the site properly (only 2 Google sessions in 90 days).
+
+---
+
+## Changes Made (6 Commits)
+
+### Commit 1: `832f361` — Technical Fixes + Hub Pages + Page Rescue
+
+**Technical Fixes:**
+- Created `.htaccess` with:
+  - 301 trailing slash redirects (consolidates duplicate URLs)
+  - HTTPS enforcement
+  - Non-www redirect
+  - Security headers (X-Content-Type-Options, X-Frame-Options, Referrer-Policy)
+  - Gzip compression
+  - Browser caching (1 year for WebP images)
+- Fixed 5 broken internal links across 4 files
+- Verified canonical tags (present, correctly pointing to trailing-slash versions)
+
+**Hub Pages Rebuilt (5 pages, 138 new links):**
+- electricity-explained.md — 24 article links organized by subtopic
+- water-explained.md — 16 article links
+- gas-explained.md — 11 article links
+- utility-bills-costs-explained.md — 21 article links
+- heating-cooling-explained.md — 14 article links
+
+**6 High-Bounce Articles Rescued:**
+1. Sewer charges (90% bounce) → Added 4 internal links + bold formatting
+2. Past-due balance (100% bounce) → Added Quick Answer + 5 internal links
+3. Water meter running (91.7% bounce) → Removed AI patterns + 3 links
+4. CCF on water bill (88.9% bounce) → Added 5 links + bold conversions
+5. Stormwater fee (75% bounce) → Added Quick Answer + 5 links + removed AI patterns
+6. Electric bill rising (100% bounce) → Added Quick Answer + 4 links
+
+### Commit 2: `04fa5ba` — Internal Linking Wave + 4 More Rescues
+
+**Internal Linking (22 articles enhanced via 3 parallel agents):**
+- Electricity batch: 34 new contextual links across 7 articles
+- Water/Gas batch: 28 new contextual links across 7 articles
+- Bills/Fees batch: ~40 new contextual links across 8 articles
+
+**4 More 100% Bounce Articles Fixed:**
+1. average-utility-bills-by-state → Added Quick Answer with national averages
+2. how-do-smart-meters-work → Replaced "Introduction" with answer-first Quick Answer
+3. is-your-toilet-running-leak-test → Added Quick Answer with dye test steps
+4. 03-why-is-my-electric-bill-so-high → Fixed broken table formatting + cleaned link placement
+
+### Commits 3-6: `f0034da` → `ea1bbbf` → `69c331e` → `7f9ec01`
+
+**Content Quality Improvements:**
+- AI writing patterns removed from 20+ articles ("Furthermore", "Additionally", "To summarize", "It's important to note", etc.)
+- Key numbers bolded across 30+ articles
+- Quick Answer sections added to 79/96 articles (82%) via multiple parallel agent waves
+
+---
+
+## Final Site Metrics (Post-Changes)
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Articles with Quick Answer | ~4 | **79/96 (82%)** |
+| Total internal links | ~200 | **775+** |
+| Broken internal links | 5 | **0** |
+| Hub page article links | ~0 | **138** |
+| Trailing slash duplicates | Both served | **301 redirect (LIVE)** |
+| AI writing patterns | 20+ articles | **Removed** |
+| Security headers | None | **Deployed** |
+
+---
+
+## What's Live on Production
+
+Verified on utilityexplained.com:
+
+1. ✅ **Trailing slash 301 redirect** — `curl -I` confirms HTTP 301 from `/blog/page` → `/blog/page/`
+2. ✅ **Quick Answers rendering** — Verified in live HTML on sewer charges, electric rising, smart meters, toilet leak test, water bills, and more
+3. ✅ **Hub page guide sections** — 35 blog article links on electricity hub, 26 on water hub
+4. ✅ **Sitemap valid** — 328 URLs, valid XML
+5. ✅ **Robots.txt** — Correct, allowing all crawlers, pointing to sitemap
+6. ✅ **Google site verification** — Meta tag present in rendered HTML
+7. ✅ **Page load times** — 0.81s homepage, 0.87s article pages
+
+---
+
+## Commits (All Deployed)
+
+```
+7f9ec01 Quick Answer wave 5: 8 more articles (79/96 total)
+69c331e Phase 4 Complete: Quick Answers added to 24 more articles
+ea1bbbf Phase 4: Content quality improvements on 10 articles
+f0034da Update growth log with Phase 2 results
+04fa5ba Growth Phase 2: Internal linking + 4 more page rescues
+832f361 Growth Phase 1: Technical fixes + content rescue + hub rebuild
+```
+
+---
+
+## Remaining Work (Lower Priority)
+
+### Phase 5: New Content
+- **Missing cluster articles:** Phantom/standby power consumption, appliance electricity usage breakdown
+- **Blog listing page:** Currently just a title + description, could be enhanced with categorized content
+- **Remaining Quick Answers:** 17 articles without (mostly comparison/reference articles where different formats are appropriate)
+
+### Monitoring Schedule
+1. **7 days:** Check Rybbit — has bounce rate dropped? Has pages/session increased?
+2. **14 days:** Full comparison to baseline. Identify which pages improved most.
+3. **Google Search Console:** Check if trailing slash fix improved indexing. Submit sitemap if needed.
+4. **30 days:** Assess progress toward milestones (100 visitors/day, bounce <60%, pages/session >2.0)
+
+### Expected Impact Timeline
+- **Immediate (1-3 days):** Bounce rate should decrease on rescued pages as Quick Answers keep users engaged
+- **Short-term (1-2 weeks):** Pages/session should increase as internal links guide users to related content
+- **Medium-term (2-4 weeks):** Google should begin indexing more pages correctly now that trailing slash duplicates are resolved
+- **Long-term (1-3 months):** Organic traffic should grow as content quality signals improve and more pages rank
+
+---
+
+## Risk Assessment
+
+✅ **No risky changes made.** All changes were additive (Quick Answers, internal links, formatting) — no existing content was deleted or rewritten wholesale.
+
+✅ **Existing rankings protected.** No title tags, meta descriptions, or URL slugs were changed.
+
+✅ **Deployed safely.** All changes go through GitHub Actions → Hugo build → rsync to Hostinger.
+
+⚠️ **Monitor for regressions.** If any rescued page sees traffic drop after changes, revert to original and investigate.
+===TRANSFORM=== 
+`backdrop-filter: blur(8px)` (design-system.css:756) · six `linear-gradient(135deg,…)` (:274, :417, :660, :1449, :1872, :1969) · hover `translateY(-2px)`/`scale(1.03)` (:255, :264, :1548, :2005) · hardcoded `#dbeafe`/`#1e40af` chips (index.html:172) · **+ council finds (verified):** `text-gray-500`/`text-gray-900`/`group-hover:text-blue-600` Most-Read markup (index.html:165–177) · inline `#e5e7eb` borders + `#0891b2` cyan links in `content/blog/_index.md` · residual gray/blue audit across 404 + howto templates. End-to-end palette consistency is the goal: the meter system must reach every template.
+
+---
+
+## 7. Information Architecture
+
+**Taxonomy consolidation: 17 → 7.** Electricity · Gas · Water · Heating & Cooling · Bills & Fees (merge Billing+Fees+Taxes) · Savings & Efficiency (merge energy-efficiency+savings) · Troubleshooting (merge Meters+Troubleshooting). Legacy categories 301 to their parents via `.htaccess` (protects existing URLs; tag taxonomy stays noindexed).
+
+**New/changed templates (all site-level overrides — zero canonical-theme edits in Phase A):**
+- `layouts/_default/hub.html` — real hub layout; hubs switch from `layout: single`
+- `layouts/_default/index.html` — homepage override (copy-then-diverge from theme)
+- `layouts/_default/single.html` — article funnel reorder + mid-article zone
+- `layouts/partials/related.html` (or scoring override) — see §11–12
+- Delete dead `data/navigation.yaml` (or wire it; recommend delete — hugo.toml menus are the live truth)
+
+**Journey system ("Bill Triage"):** a four-step entry flow — *Which utility? → Which line looks wrong? → Findings → Remedy* — connecting homepage, hubs, and articles; the "Start with your bill" CTA becomes literal.
+
+**Author redistribution:** cap primary author at ~40% of new/refreshed articles; redistribute across the five personas by domain (Mendoza→water/meters, Patterson→rates/fees, Washington→assistance programs, Chen→heating/cooling, Harrington→electricity + editorial lead). Add per-author credential lines that are TRUE (see §13).
+
+**URL discipline:** all existing URLs preserved; consolidation only through 301s (pattern already proven in commit 36ca5a18).
+
+---
+
+## 8. Homepage Blueprint
+
+**Purpose:** convert a vague arrival into a triaged bill question in one screen.
+**Sections (top→bottom):**
+1. **Register hero** — mono register readout cycling real numbers ("A typical US bill: $184/mo · 899 kWh · 3 CCF/day"), the amber needle marking "the line that matters," two CTAs: **Start with your bill** (triage flow) and **Search your bill line** (existing glossary search).
+2. **Triage panel** — the 4 utilities as instrument tiles (dial per utility) + Bill Basics + Glossary; each tile states its top question ("Why is my electric bill high?").
+3. **Start Here** — six numbered essentials (keep — already strong), restyled as audit-docket entries.
+4. **Most Read** — keep, fix palette (kill blue chips), add per-card "finding" line (the answer in 8 words).
+5. **Latest** — keep dated cards; add review-date stamp.
+6. **Trust strip → live trust ledger:** replace static badges with real counters: "96 guides · last reviewed [real date] · corrections policy · methodology" — no claim without a live source.
+**Mobile:** triage panel becomes a 2×2 grid; register hero scales via clamp(); zero layout shift (readout reserves height).
+**Ads:** one `end_article` placement after Most Read (unchanged position, restyled frame).
+**SEO:** homepage schema unchanged (WebSite/Organization/SearchAction); H1 carries the promise verbatim.
+
+---
+
+## 9. Article Experience Blueprint (the economic heart)
+
+**Funnel reorder (the single highest-leverage template change):**
+1. H1 + byline + review date + read time
+2. **Register Readout** (Quick Answer as Line-Field Exploder) — THE answer, above everything, no hero above it
+3. Hero image (demoted below the answer — flips current 96/97 inversion) OR inline at first relevant section
+4. Body (Findings → Basis → Remedy structure; existing content already fits)
+5. **Mid-article next-step card** (contextual, after the section that raises the question)
+6. FAQ
+7. **You Owe / You Save total line**
+8. **Related guides (3, re-scored)** — promoted from the grave to first-class
+9. `end_article` ad (framed as a demarcated zone, never adjacent to CTAs)
+10. Sources strip · Author box · Email capture (last — earned, not begged)
+
+**Scoring upgrade for related:** same-category +2 → same-utility-pillar +3 · shared tag +1 · complementary-intent flag (article front matter `pairs_with:`) +4 · fallback: editor-curated per hub.
+
+**Affiliate rule:** product boxes only on commercial-intent articles (best-of/tool classes), always BELOW the diagnosis/remedy, labeled, with vendor claims attributed — never inside a money-stress diagnosis.
+
+**Trust per article:** review date (real `updated:` frontmatter → rendered "Last reviewed"), named author with true credential line, sources strip (already present — upgrade to linked citations on refresh).
+
+---
+
+## 10. Page-by-Page Plan (condensed)
+
+| Template | Treatment |
+|---|---|
+| Hub (new `hub.html`) | Answer-first intro (60–90 words) · jump-nav · utility stat strip · curated topic groups with one-line descriptions · featured decision paths · FAQ · end ad |
+| List/category | Keep below_title ad; add group headers matching the 7-category model |
+| Search | Instrument-panel styling; mono results with charge-code chips |
+| Author | True credential line, focus areas, article list; ProfilePage+Person schema (already fixed in SQ-013) |
+| About | The auditor's charter: independence statement, no-switch-agenda, how reviews work |
+| Contact | Keep mailto; add "report an error" path feeding corrections policy |
+| 404 | "No reading found" — dead meter at 0 kWh (motif already exists) + tear-off + triage links |
+| Trust/legal | Consistent paper-muted audit zone styling; no ads on trust pages |
+
+---
+
+## 11. AdSense Monetization Architecture
+
+*(Operator zone map — 94 tool steps, every placement grounded in verified template truth.)*
+
+### Zone map
+| Page class | Zones | Slots | Rules |
+|---|---|---|---|
+| Article (≥1,200 words — 53% of corpus) | mid-content + end | `mid_article` (reinstated) + `end_article` | Mid after H2#2–3 / ~45% depth; reserved min-height (the adslot partial currently reserves none — the one CLS gap; unfilled-slot collapse already exists at design-system.css:584); never within 2 viewports of the Register Readout |
+| Article (≥1,800 words, desktop) | + sidebar rail (conditional) | existing `below_title` repurposed | Only if viewability proves out in measurement; mobile never |
+| Article (<1,200 words — ~30%) | end only | `end_article` | Too short for a second ad without crowding |
+| Affiliate articles (14) | end only, 2-ads-max | `end_article` | AdSense density lowered where product boxes exist — trust first |
+| List/hub | above-grid | `below_title` (unchanged) | The one healthy in-feed placement — keep |
+| Homepage | one content-boundary | `end_article` after Most Read (unchanged) | Restyled frame only |
+| Trust/legal/search | none | — | Hard rule |
+
+### Density doctrine
+Article cap **3 desktop / 2 mobile** · list/hub 1 · homepage 1. With 84.7% bounce and 80s sessions, max-impression density is counterproductive: sustainable revenue per session = fewer, better-placed ads. Ads never adjacent to CTAs or affiliate boxes; framed "advertisement" hairline zones consistent with the ledger aesthetic; YMYL money-stress gate on every future placement idea.
+
+### Structural revenue notes
+- **Consent Mode v2 (default denied)** means non-consented first sessions serve non-personalized ads at lower CPM — a structural cap on exactly the sessions that dominate the 84.7% bounce. Policy-safe; the remedy is more second-pages (engagement), not more ads.
+- **The reinstated `mid_article` slot (7429084400)** recovers the config-vs-render gap left by theme convergence — implemented via site-level single.html override, zero canonical-theme edits.
+
+### Email capture (repositioned, not relocated)
+Keep the late position (asking before helping converts poorly); rewrite the promise (replace "Get Free Tips" gradient-box with an audit-flavored offer: "One bill decoded per month"), and trigger on engagement signals (50% read · 60s dwell · scrolled past sources) instead of showing to every passerby.
+
+### Session-depth systems
+In-article **triage band** (the in-content "your next step" path — closes the loop Operator verified is missing: triage currently requires leaving the article for the hub) · re-scored related (pillar +3, `pairs_with:` +4, recency/popularity tiebreaks) · topic journeys across the 7-category model.
+
+### Measurement plan
+| Change | Metric | Target |
+|---|---|---|
+| Funnel reorder + answer-first | bounce (Rybbit) | 84.7% → <70% |
+| Related re-scoring + triage band | pages/session | 1.52 → >1.9 |
+| Register Readout / Findings hooks | avg duration | 80s → >120s |
+| mid_article reinstatement | AdSense viewable impressions / session RPM | +20–40% vs 1-ad baseline (measure 14 days) |
+| Email triggers | signups/1,000 sessions | 2× baseline |
+| Hub layout | hub entrance → article CTR | +30% |
+
+---
+
+## 12. SEO & Content Discovery Strategy
+
+- **Freshness made real:** `updated:` frontmatter discipline + rendered "Last reviewed" dates; review cadence published on methodology page. (Kills the F7 lie, feeds Google freshness signals.)
+- **HowTo schema:** enable existing howto/step shortcodes on the ~15 strongest instructional articles (meter tests, dispute process) — zero new code, pure content templating.
+- **Topic clusters:** 7-category model strengthens hub-and-spoke; hubs get FAQ schema (already) + itemized `ItemList` of guides. **Glossary upgrade (council add, Phase B):** the 233-line glossary is a natural `DefinedTermSet`/`DefinedTerm` schema target — currently absent; a phased add while refreshing glossary entries.
+- **Google ramp:** continue IndexNow (Bing-side), request indexing via GSC on refreshed URLs; the review-date system + author substance are the E-E-A-T levers Google side specifically.
+- **Discovery:** Unit-Converter Bands + Register Readouts are snippet-shaped blocks — each article's 40–50 word Finding doubles as the featured-snippet candidate (extending the proven Aug-12 pattern).
+- **Internal linking:** target 8–10 contextual links/article via `pairs_with:` complements; hub → article descriptions become the anchor-text layer.
+
+---
+
+## 13. Trust, Mobile & Performance Plan
+
+- **Author substance — DECISION REQUIRED (council escalation):** the council flagged the current state honestly: 5 named personas (52/96 articles concentrated in one), thin credential lines, explicit AI-assistance disclosure. Two defensible paths — **(A) Keep personas, harden them:** true credential lines only, redistribute authorship ≤40% each, retain the AI disclosure (honesty as moat); **(B) Consolidate to a truthful editorial-team identity:** retire individual personas, publish as "The Utility Explained editorial team" with a real methodology page. Fabricated credentials are forbidden either way. This is an owner-level call — see approval checklist.
+- **Review workflow:** corrections policy gains a visible "report an error" loop; every KPI-claim in site docs gets a disk-verifiable source (this mission found 5 stale claims — the docs themselves need the freshness system).
+- **Mobile as first-class:** register readouts scale via clamp(); triage grid 2×2; all new components touch-target ≥44px; test on mid-tier Android.
+- **Performance budget (design-enforced):** new CSS ≤ +12KB gzipped total; no new webfont families beyond Plex pair (drop Space Grotesk + Inter = net-neutral); **self-host the font files** (council add: Google Fonts preload remains a render-blocking third-party request — self-hosting removes it); SVG-first imagery; keep eager-hero discipline (now below the answer — LCP candidate becomes the H1/readout text, faster); kill `background-attachment: fixed` jank (Challenger W12); reserved space on every ad zone.
+
+---
+
+## 14. AI Media Art Direction (PLAN ONLY — no generation before approval)
+
+Pipeline: existing Magica `gpt-image-2-text` (High, 1536×1024 → webp q85) + gpt-5.5 vision-QA, palette-locked. Priorities:
+
+1. **THE missing killer asset — Annotated Bill Anatomy series (4 masters):** one annotated statement redraw per utility (electric/gas/water/combined), amber audit circles on each charge zone, mono labels. Used in: the 4 relevant hubs + the complete-guide + hidden-fees article. This is the single highest-value visual investment (my rendered-site review: "a guide about visual documents with zero visuals").
+2. **Hub hero instrument panels (5):** dial/register close-ups per utility.
+3. **Unit-converter band graphics (6):** CCF↔gallons, kWh↔cost, therms↔kWh, etc.
+4. **Rebuild 4 off-palette inline graphics** (already-queued debt: reconnect_fees, reconnect_avoid, ccf-convert, ccf-normal).
+5. **OG system:** statement-frame OG template with mono readout of the article's answer.
+6. **Optional single video** (only if motion proves value): "Read your meter in 60 seconds" — dial close-up, register roll — reused across water/electric articles.
+
+All assets follow one visual language: ink/amber/paper, mono labels, no people, no lifestyle, no fake-bill text gibberish (vision-QA gate checks legibility — the Cycle-4 lesson).
+
+---
+
+## 15. Risks & Tradeoffs
+
+| Risk | Severity | Mitigation |
+|---|---|---|
+| Canonical-theme edits ripple to 6 sites | High | Phase A = site-level overrides ONLY; theme-level token refresh (Phase B) only after Phase A proves, propagated per Atlas R3 flow |
+| Ad changes trip policy/YMYL trust loss | Med | Conservative density, framed zones, never-adjacent rules, monitor Rybbit + AdSense |
+| Editorial voice drift during restructuring | Med | Findings/Basis/Remedy maps onto existing content; no rewrites in Phase A |
+| Byline redistribution confuses returning readers | Low | Gradual, new-content-first |
+| Funnel reorder suppresses email/ad CTR short-term | Med | Measure per-zone; email moves last (earned), ad viewability should RISE with mid-article reinstatement |
+| Blueprint doc staleness (this mission found 5 stale doc claims) | Med | This blueprint stamps verified-on date; every claim carries evidence reference |
+
+---
+
+## 16. Highest-Leverage Improvements (ranked)
+
+1. **Article funnel reorder + answer-above-hero** (F5, F6) — directly attacks bounce/pages-session on 97 pages.
+2. **Real hub layout for the 5 pillars** (F1) — unlocks nav-level engagement + cluster SEO.
+3. **Reinstate mid_article + zone redesign** (F4) — recovers lost revenue while improving trust-framing.
+4. **Register Readout / Line-Field Exploder on Quick Answers** — the brand signature + snippet engine on 80 pages.
+5. **Freshness system (`updated:` + rendered review dates)** (F7) — kills the lie, feeds Google.
+6. **Annotated Bill Anatomy series** — the missing visual core of a visual subject.
+7. **Author substance + redistribution** (F8).
+8. **De-slop demolition** (F12) — cheap, visible, portfolio-safe via overrides.
+
+---
+
+## 17. Approval Before Production — Checklist
+
+> **Scope framing (council-sharpened):** this blueprint transforms an ALREADY-OPERATIONAL site. Nothing here has been implemented; every "Proposed" item describes a change to verified current state (§2). Approving this document approves direction, not deployment — production follows in bounded, site-local-first phases with rollback points.
+
+- [ ] Creative direction ("The Independent Bill Auditor" fusion)
+- [ ] Color system (audit-ledger palette, tariff-blue links)
+- [ ] Typography (Plex Sans / Source Serif 4 / Plex Mono — self-hosted)
+- [ ] Signature elements — incl. **flagship interactive Bill Decoder**
+- [ ] Navigation & IA (17→7 categories, hub layout, Bill Triage)
+- [ ] Homepage blueprint
+- [ ] Article experience blueprint (funnel order, answer-above-hero)
+- [ ] Hub/list/author/404 treatments
+- [ ] AdSense architecture (mid_article reinstatement, word-count gates, measurement-first sidebar)
+- [ ] **DECISION: author personas (A: hardened personas / B: editorial-team identity)**
+- [ ] Trust plan (review dates, credentials, corrections loop)
+- [ ] AI media plan (Annotated Bill Anatomy first)
+- [ ] Phase A/B sequencing (site-local overrides first; canonical theme changes only after proof, propagated per Atlas R3)
+
+**⏹ STOP. No production (code, templates, images, deploys) until the above is approved.**
+
+---
+
+*Evidence appendix: mission blackboard SQ-016; result packets /tmp/ue-transform/results{,-r2,-retry}/; every F-claim above is traceable to a named seat + disk check. Verified 2026-08-21.*

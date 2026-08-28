@@ -10,6 +10,8 @@ categories: ["Water"]
 tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
 keywords: ["sewer charge water bill", "sewer averaging", "water leak detection", "ccf", "high water bill"]
 image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/understanding-your-water-bill
 ---
 
 <h2 id="problem">The problem: your sewer charge stays high even when your summer use drops</h2>
@@ -19,10 +21,9 @@ image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-wa
               is wrong.
             </p>
             <p>
-              In most cities, the sewer line is not metered directly. Instead, the
-              utility estimates your wastewater based on a winter average or a fixed
-              seasonal formula. Once you understand that system, the charge makes more
-              sense.
+              Sewer billing methods are set locally. Some utilities may use water-use
+              information, an average, a seasonal formula, or other billing rules.
+              Read your own bill and utility tariff before assuming how the charge is set.
             </p>
             <p>
               If you want the big picture first, start with
@@ -166,24 +167,8 @@ No. Some utilities use winter averages, others use annual averages or fixed form
 {{< /faq >}}
 
 
-## Sewer Averaging Periods by Region
-
-| Region | Typical Averaging Period | Calculation Method |
-|--------|------------------------|-------------------|
-| Southeast | Nov-Feb | Average winter usage |
-| Midwest | Dec-Mar | Lowest 3 consecutive months |
-| Southwest | Dec-Mar | Average winter usage |
-| Northeast | Jan-Mar | Coldest months |
-| West Coast | Nov-Apr | Varies by utility |
-
-### Winter Usage vs Summer Sewer Charges
-
-| Month | Actual Usage (CCF) | Sewer Charge Based On | Difference |
-|-------|-------------------|----------------------|-----------|
-| January | 4 CCF | Actual (4 CCF) | Baseline |
-| June | 12 CCF | Averaged (4 CCF) | Save 8 CCF |
-| July | 14 CCF | Averaged (4 CCF) | Save 10 CCF |
-| August | 11 CCF | Averaged (4 CCF) | Save 7 CCF |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [U.S. Environmental Protection Agency WaterSense: Understanding Your Water Bill](https://www.epa.gov/watersense/understanding-your-water-bill) — guidance for reading water-use information on a bill.

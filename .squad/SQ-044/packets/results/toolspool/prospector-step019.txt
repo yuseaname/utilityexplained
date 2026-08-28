@@ -1,0 +1,1618 @@
+exit_code: 0
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md ===
+---
+title: "How to Read Your Electric Bill (Line by Line Guide)"
+slug: "01-how-to-read-your-electric-bill"
+description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
+keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
+image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
+sources:
+  - https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/contacting-your-utility-provider
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use
+  - https://www.puc.texas.gov/consumer-help/electricity/electric-plan/
+---
+
+## Quick Answer
+
+**Start with five items on your own statement: the billing period, electricity use in kilowatt-hours (kWh), meter-read status, rate-plan or tariff name, and itemized charges.** The labels and prices on an electric bill are set by the serving utility and the applicable rate plan, so this guide helps you ask the right questions rather than assume every customer has the same charges.
+
+- **kWh measures electricity use.** One kilowatt used for one hour equals one kilowatthour.[1]
+- **Actual and estimated reads are different.** A utility can estimate use when it cannot read a meter and later correct the bill when it obtains a read.[3]
+- **Rate plans matter.** A time-of-use plan can price electricity differently at different times, but the utility's current plan details control the schedule and price.[6]
+
+## Find These Items First
+
+Before interpreting individual charges, locate these items on the current bill or online account:
+
+1. **Billing period** — the dates covered by the statement.
+2. **Amount due and due date** — the balance requested and the payment deadline.
+3. **Electricity use** — normally shown in kWh for that billing period.
+4. **Rate plan or tariff** — the plan that determines how charges are calculated.
+5. **Meter-read status** — whether the bill identifies an actual or estimated read.
+6. **Itemized charges and credits** — the descriptions and amounts used to reach the total.
+
+Keep a copy of the bill while reviewing it. When a charge is unclear, ask the utility: “Which rate or tariff provision produced this charge?”
+
+## What a kWh Means
+
+A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equals one kWh.[1] A device's energy use therefore depends on both its power draw and how long it runs.
+
+For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2] Your own prior bills are more useful than a national average when reviewing your account.
+
+## Read Meter Information Carefully
+
+If your statement shows meter information, look for:
+
+| Item | What to check |
+|---|---|
+| Previous read | The earlier reading or prior billing-period value |
+| Current read | The later reading or current billing-period value |
+| Read type | Whether the utility identifies the read as actual or estimated |
+| Multiplier, if shown | A factor the utility applies to the recorded read |
+| Meter number, if shown | Whether it matches the meter serving your account |
+
+Do not assume every meter or bill uses the same presentation. Smart meters, manual reads, interval data, multipliers, and net-metering arrangements can change what appears on a statement.
+
+### Estimated bills
+
+A utility may estimate usage when it cannot obtain a meter read. The California Public Utilities Commission explains that an estimated bill can be corrected when the utility later obtains a meter reading.[3] An estimated bill is a reason to review the statement, not proof that the bill is wrong. Compare the billing period, read type, and later actual bill before deciding whether there is a discrepancy.
+
+## Understand the Charges on Your Statement
+
+Charge names are not standardized nationwide. Con Edison, for example, describes supply, delivery, and tax charges on its bills.[5] Your utility may use different labels or combine categories.
+
+Use the description on your statement and the linked tariff or rate schedule to classify each line item:
+
+| Charge type to look for | Question to ask |
+|---|---|
+| Electricity or supply charge | Is it based on kWh, a fixed amount, or both? |
+| Delivery-related charge | Does the bill describe it as distribution, transmission, or another delivery service? |
+| Customer or service charge | Is it a recurring fixed charge for the billing period? |
+| Tax, fee, rider, credit, or adjustment | What does the statement or tariff say this item funds or adjusts? |
+| Program-specific charge or credit | Does it relate to a selected program, local rule, or bill adjustment? |
+
+Do not rely on a generic “typical cost” range. The amount and calculation method for a line item depend on the utility, local rules, and your account.
+
+### Plain-English terms
+
+| Term | General meaning |
+|---|---|
+| Generation or supply | The electricity commodity or the charge associated with obtaining it |
+| Transmission | Moving electricity over high-voltage lines |
+| Distribution | Delivering electricity through the local utility system |
+| Delivery | A utility label for charges associated with getting electricity to the customer |
+| Rider or adjustment | A tariff-defined charge or credit added to an underlying rate |
+
+Use the definition printed by your own utility whenever one is available.
+
+## Calculate a Bill-Wide Effective Rate
+
+One useful comparison figure is:
+
+```text
+Total electric charges ÷ kWh billed = effective cost per kWh
+```
+
+Use it only to compare similar service and similar billing periods. If a statement includes non-electric services, deposits, late fees, past-due balances, or one-time adjustments, identify those items before treating the result as an electricity price.
+
+The effective rate is not necessarily the same as an energy or supply rate. It can reflect fixed charges, delivery-related charges, taxes, credits, and other items listed on that statement.
+
+## Check for Tiers or Time-of-Use Pricing
+
+Some rate plans use more than one price. The statement or tariff should show whether the plan has:
+
+- **Tiered or block pricing** — different usage ranges can be priced differently.
+- **Time-of-use pricing** — electricity can have different prices at different times.
+- **Seasonal pricing** — the price or time period can change by season.
+- **Demand-related charges** — more common on commercial accounts, but the bill and tariff control.
+
+Do not use a generic peak-hour schedule. Con Edison, for example, publishes time-of-use details for eligible customers, but its plan documentation—not a national rule—sets those periods and prices.[6] If you have a time-of-use plan, compare its current schedule with flexible loads such as laundry, dishwashing, or EV charging.
+
+## Review a Higher-Than-Expected Bill
+
+A larger bill can result from more kWh used, a longer billing period, a different read type, a rate-plan change, seasonal conditions, or an itemized charge or credit. Review the statement before assigning a cause.
+
+1. **Compare billing periods.** Check whether the current bill covers more days than the prior one.
+2. **Compare kWh.** Review the usage total and any usage-history chart provided by the utility.
+3. **Check the read type.** Determine whether the use is based on an actual or estimated read.
+4. **Review the rate plan.** Look for a plan name, tariff reference, time-of-use period, tier, or seasonal change.
+5. **Compare charge descriptions.** Identify new or changed line items, credits, taxes, or adjustments.
+6. **Keep records.** Save the bill, relevant meter information, and notes from conversations with the utility.
+
+## What to Do if You Think the Bill Is Wrong
+
+Start with the utility. The California Public Utilities Commission recommends giving the utility provider a chance to resolve a complaint through customer service before contacting the commission.[4]
+
+Have the account number, billing period, disputed line item, relevant meter information, and prior statements ready. Ask the utility to explain the calculation and identify the applicable rate schedule or tariff. If the issue is not resolved, check the complaint process for the regulator with jurisdiction over your service.
+
+## Frequently Asked Questions
+
+{{< faq "Why is my bill higher than another household's?" >}}
+Two households can have different bills because their billing periods, kWh use, rate plans, services, credits, and applicable charges differ. Compare the billing period, total kWh, rate-plan name, and itemized charges before comparing totals.
+{{< /faq >}}
+
+{{< faq "What is an estimated meter reading?" >}}
+An estimated bill is used when the utility cannot obtain a meter read. It may later be corrected when the utility obtains a read. Check your statement and ask the utility how it handles estimates for your account.[3]
+{{< /faq >}}
+
+{{< faq "Can I choose an electricity provider?" >}}
+Provider choice depends on location and service type. For example, the Public Utility Commission of Texas provides Power to Choose information for customers in Texas areas with retail electric competition.[7] Check your state regulator and utility before assuming supplier choice is available at your address.
+{{< /faq >}}
+
+{{< faq "What should I compare from month to month?" >}}
+Compare billing-period dates, total kWh, meter-read status, rate-plan name, itemized charges, credits, and total amount due. A comparison is most useful when the periods are similar in length.
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Energy Information Administration: Electricity generation, capacity, and sales in the United States](https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php)
+2. [U.S. Energy Information Administration: How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7)
+3. [California Public Utilities Commission: Utility complaint FAQs](https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs)
+4. [California Public Utilities Commission: Contacting your utility provider](https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/contacting-your-utility-provider)
+5. [Con Edison: How to read your bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill)
+6. [Con Edison: Time-of-use rates](https://www.coned.com/en/accounts-billing/your-bill/time-of-use)
+7. [Public Utility Commission of Texas: Choosing an electric plan](https://www.puc.texas.gov/consumer-help/electricity/electric-plan/)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/02-average-utility-costs-2026.md ===
+---
+title: "Average Utility Costs in 2026: Complete Breakdown by Type and State"
+slug: "02-average-utility-costs-2026"
+canonical: "https://utilityexplained.com/blog/average-utility-bills-by-state-2026/"
+description: "The average US household spends $500-600/month on utilities. Here's exactly where that money goes, how your state compares, and what's normal."
+date: 2026-03-07
+updated: 2026-08-21
+author: "Marcia Washington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility costs", "average bills", "electricity cost", "water bill", "gas bill"]
+keywords: ["average utility costs 2026", "average electric bill", "average water bill", "utility costs by state", "monthly utility costs"]
+image: "/images/articles/02-average-utility-costs-2026/02-average-utility-costs-2026_hero_v2.webp"
+draft: true
+---
+
+## Quick Answer
+
+**The average American household spends $300-500/month on total utilities, with electricity ($120-180), gas ($80-120), and water ($40-80) making up the bulk of expenses.** Costs vary significantly by region, home size, and efficiency.
+
+- **Electricity is typically the largest expense** at 40-50% of total utility costs
+- **Energy-efficient upgrades** can reduce monthly utility bills by 20-30% over time
+
+For more detail, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+
+Housing costs are more than rent or mortgage. Utilities add $500-600+ to monthly expenses. Here's the complete breakdown so you know if you're paying too much. See [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/).
+
+## The Big Picture
+
+### Average Monthly Utility Costs (2026)
+
+| Utility | Average Cost | % of Total |
+|---------|-------------|------------|
+| Electricity | $137 | 27% |
+| Natural Gas | $69 | 14% |
+| Water & Sewer | $47 | 9% |
+| Trash/Recycling | $63 | 12% |
+| Internet | $77 | 15% |
+| Phone (mobile) | $85 | 17% |
+| Streaming/Cable | $59 | 12% |
+| **Total** | **$500-600** | **100%** |
+
+### Annual Impact
+
+| Timeframe | Cost |
+|-----------|------|
+| Monthly | $500-600 |
+| Annually | $6,000-7,200 |
+| 10 years | $60,000-72,000 |
+| 30 years (mortgage life) | $180,000-216,000 |
+
+**Utilities are a major lifetime expense.** Understanding them matters.
+
+---
+
+## Electricity Costs
+
+### National Average
+
+| Metric | Value |
+|--------|-------|
+| Average monthly bill | $137 |
+| Average [kWh](/blog/what-is-a-kilowatt-hour/) used | 886-908 kWh |
+| Average rate | 14.12¢/kWh |
+| Annual cost | $1,644 |
+
+### What Drives Electric Bills
+
+| Factor | Impact |
+|--------|--------|
+| **HVAC** | 40-50% of bill |
+| **Water heating** | 12-18% |
+| **Appliances** | 15-20% |
+| **Lighting** | 5-10% |
+| **Electronics** | 5-10% |
+
+### By Home Size
+
+| Square Feet | Avg kWh/Month | Avg Bill |
+|-------------|---------------|----------|
+| 1,000 sq ft | 600-700 kWh | $85-100 |
+| 1,500 sq ft | 750-900 kWh | $105-130 |
+| 2,000 sq ft | 900-1,100 kWh | $130-155 |
+| 2,500 sq ft | 1,100-1,300 kWh | $155-185 |
+| 3,000+ sq ft | 1,300-1,600 kWh | $185-225 |
+
+### By Region
+
+| Region | Avg Monthly Bill | Why |
+|--------|-----------------|-----|
+| South | $145 | AC usage |
+| West | $135 | Mixed climate |
+| Midwest | $120 | Moderate temps |
+| Northeast | $115 | Less AC, more gas heat |
+
+---
+
+## Natural Gas Costs
+
+### National Average
+
+| Metric | Value |
+|--------|-------|
+| Average monthly bill | $69 |
+| Average annual bill | $828 |
+| Primary uses | Heating, water heating, cooking |
+
+### Seasonal Variation
+
+| Season | Monthly Cost | Usage |
+|--------|-------------|-------|
+| Summer | $15-25 | Water heating, cooking only |
+| Winter | $100-200+ | Heating dominates |
+| Spring/Fall | $30-50 | Transition periods |
+
+### States with Highest Gas Costs
+
+| State | Avg Winter Bill |
+|-------|-----------------|
+| Alaska | $200-250 |
+| Michigan | $150-180 |
+| New York | $140-170 |
+| Illinois | $130-160 |
+| Pennsylvania | $120-150 |
+
+### States with Lowest Gas Costs
+
+| State | Avg Winter Bill |
+|-------|-----------------|
+| Florida | $20-30 |
+| Hawaii | $15-25 |
+| Texas | $40-60 |
+| Arizona | $35-55 |
+
+---
+
+## Water and Sewer Costs
+
+### National Average
+
+| Utility | Avg Monthly | Avg Annual |
+|---------|-------------|------------|
+| Water | $40-47 | $480-564 |
+| Sewer | $35-45 | $420-540 |
+| **Combined** | **$75-92** | **$900-1,104** |
+
+### What Affects [water bill](/blog/what-is-ccf-on-a-water-bill/)s
+
+| Factor | Impact |
+|--------|--------|
+| Household size | +$10-15 per person |
+| Lawn irrigation | +$30-100/month |
+| Pool | +$20-50/month |
+| Leaks | +$10-100+/month |
+| Location | 3x variation by city |
+
+### Highest Water Cost States
+
+| State | Avg Monthly |
+|-------|-------------|
+| West Virginia | $91 |
+| California | $77 |
+| Oregon | $76 |
+| Washington | $75 |
+
+### Lowest Water Cost States
+
+| State | Avg Monthly |
+|-------|-------------|
+| Wisconsin | $18 |
+| Vermont | $25 |
+| Maine | $27 |
+| North Carolina | $28 |
+
+---
+
+## Internet and Phone
+
+### Internet
+
+| Speed | Avg Monthly |
+|-------|-------------|
+| Basic (25-50 Mbps) | $45-55 |
+| Standard (100-200 Mbps) | $60-75 |
+| Fast (300-500 Mbps) | $75-90 |
+| Gigabit | $80-100 |
+
+**Hidden costs:**
+- Router rental: $10-15/month
+- Taxes and fees: $5-10/month
+- Installation: $0-100 (often waived with promo)
+
+### Mobile Phone
+
+| Type | Avg Monthly |
+|------|-------------|
+| Single line (major carrier) | $70-90 |
+| Single line (budget carrier) | $25-45 |
+| Family plan (4 lines) | $120-180 |
+| Family plan (budget) | $80-120 |
+
+---
+
+## Costs by State
+
+### Highest Utility Cost States
+
+| Rank | State | Monthly Total | Why |
+|------|-------|---------------|-----|
+| 1 | Hawaii | $730 | Island energy costs |
+| 2 | Connecticut | $635 | High electricity, heating |
+| 3 | Alaska | $620 | Remote, harsh climate |
+| 4 | Massachusetts | $595 | High electricity, heating |
+| 5 | New York | $585 | High electricity, taxes |
+
+### Lowest Utility Cost States
+
+| Rank | State | Monthly Total | Why |
+|------|-------|---------------|-----|
+| 1 | Idaho | $345 | Low electricity, hydro power |
+| 2 | Utah | $355 | Moderate climate, low rates |
+| 3 | Montana | $365 | Low population, low rates |
+| 4 | Washington | $370 | Cheap hydroelectric |
+| 5 | Oregon | $380 | Hydro power, mild climate |
+
+### Complete State Ranking
+
+| State | Electric | Gas | Water | Total |
+|-------|----------|-----|-------|-------|
+| Alabama | $156 | $60 | $38 | $444 |
+| Alaska | $135 | $150 | $55 | $620 |
+| Arizona | $132 | $40 | $45 | $407 |
+| Arkansas | $126 | $55 | $32 | $393 |
+| California | $158 | $45 | $77 | $520 |
+| Colorado | $95 | $70 | $35 | $390 |
+| Connecticut | $175 | $95 | $55 | $635 |
+| Delaware | $125 | $70 | $42 | $417 |
+| Florida | $145 | $25 | $40 | $395 |
+| Georgia | $142 | $50 | $38 | $408 |
+| Hawaii | $205 | $35 | $65 | $730 |
+| Idaho | $90 | $55 | $30 | $345 |
+| Illinois | $110 | $85 | $42 | $417 |
+| Indiana | $118 | $70 | $38 | $396 |
+| Iowa | $115 | $75 | $35 | $395 |
+| Kansas | $125 | $65 | $38 | $398 |
+| Kentucky | $130 | $60 | $35 | $395 |
+| Louisiana | $140 | $50 | $35 | $395 |
+| Maine | $120 | $95 | $40 | $435 |
+| Maryland | $140 | $75 | $50 | $435 |
+| Massachusetts | $165 | $100 | $55 | $595 |
+| Michigan | $118 | $110 | $42 | $450 |
+| Minnesota | $108 | $95 | $35 | $418 |
+| Mississippi | $150 | $55 | $32 | $417 |
+| Missouri | $125 | $65 | $38 | $398 |
+| Montana | $100 | $75 | $32 | $365 |
+| Nebraska | $115 | $70 | $35 | $390 |
+| Nevada | $138 | $40 | $42 | $400 |
+| New Hampshire | $145 | $100 | $45 | $467 |
+| New Jersey | $115 | $90 | $52 | $424 |
+| New Mexico | $100 | $50 | $35 | $365 |
+| New York | $145 | $95 | $58 | $585 |
+| North Carolina | $130 | $55 | $28 | $383 |
+| North Dakota | $110 | $80 | $32 | $392 |
+| Ohio | $115 | $80 | $40 | $410 |
+| Oklahoma | $135 | $55 | $35 | $395 |
+| Oregon | $105 | $50 | $76 | $380 |
+| Pennsylvania | $120 | $85 | $45 | $420 |
+| Rhode Island | $155 | $90 | $50 | $475 |
+| South Carolina | $152 | $55 | $35 | $412 |
+| South Dakota | $115 | $75 | $32 | $392 |
+| Tennessee | $138 | $55 | $35 | $398 |
+| Texas | $142 | $45 | $42 | $399 |
+| Utah | $90 | $55 | $30 | $355 |
+| Vermont | $125 | $100 | $25 | $425 |
+| Virginia | $135 | $65 | $42 | $412 |
+| Washington | $100 | $45 | $75 | $370 |
+| West Virginia | $125 | $75 | $91 | $516 |
+| Wisconsin | $108 | $90 | $18 | $386 |
+| Wyoming | $95 | $70 | $35 | $370 |
+
+---
+
+{{< faq "How much should I budget for utilities?" >}}
+**Rule of thumb:** $0.50-1.00 per square foot per month.
+| Home Size | Budget Range |
+|-----------|--------------|
+| 1,000 sq ft | $500-1,000/month |
+| 2,000 sq ft | $1,000-2,000/month |
+| 3,000 sq ft | $1,500-3,000/month |
+{{< /faq >}}
+
+{{< faq "Are utilities included in rent?" >}}
+Sometimes. If included:
+- Verify what's included
+- Expect higher rent (landlord isn't losing money)
+- You lose control over usage
+{{< /faq >}}
+
+{{< faq "What if my utilities are much higher than average?" >}}
+Check for:
+- Rate plan (are you on default?)
+- Energy leaks (insulation, windows)
+- Old appliances
+- Phantom loads
+- Incorrect meter readings
+{{< /faq >}}
+
+{{< faq "Do utilities affect home value?" >}}
+Yes. High utility costs reduce affordability. In areas with high utilities:
+- Buyers have less budget for mortgage
+- Homes may sit longer on market
+- Energy-efficient homes command premium
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+---
+
+## Quick Reference
+
+**National averages (2026):**
+
+| Utility | Monthly | Annual |
+|---------|---------|--------|
+| Electricity | $137 | $1,644 |
+| Natural gas | $69 | $828 |
+| Water/sewer | $92 | $1,104 |
+| Internet | $77 | $924 |
+| Phone | $85 | $1,020 |
+| **Total** | **$460** | **$5,520** |
+
+**Plus trash, streaming, etc. = $500-600/month total**
+
+---
+
+Knowing the averages helps you benchmark your costs. If you're significantly above average for your state and home size, it's time to investigate why.
+
+---
+
+*Related Articles:*
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
+- [How to Lower Your Utility Bills](/blog/05-how-to-lower-utility-bills/)
+- [Budget Billing Explained](/blog/16-budget-billing-level-pay-explained/)
+- [Billing Cycle Explained](/blog/23-utility-billing-cycle-explained/)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md ===
+---
+title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
+slug: "03-why-is-my-electric-bill-so-high"
+aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter"]
+description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
+keywords: ["why is my electric bill so high", "high electricity bill causes", "electric bill spike", "reduce electric bill", "energy usage spike"]
+image: "/images/articles/03-why-is-my-electric-bill-so-high/03-why-is-my-electric-bill-so-high_hero_v2.webp"
+sources:
+  - https://www.eia.gov/todayinenergy/detail.php?id=65244
+  - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php
+  - https://www.energy.gov/energysaver/heat-and-cool
+  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
+  - https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf
+  - https://bsesc.energy.gov/energy-basics/hvac-heat-pump-water-heaters
+  - https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting
+---
+
+{{< affiliate-disclosure >}}
+
+## Quick Answer
+
+A higher electric bill can result from higher electricity use, a higher electricity price, or both. Start with the bill—not a guess—and compare the current statement with a comparable earlier one:
+
+1. **kWh used**
+2. **Billing dates and number of days**
+3. **Price per kWh and other charges**
+4. **Whether the meter read was actual or estimated, if identified**
+5. **Changes in weather, heating or cooling, occupants, and major equipment**
+
+EIA explains that residential electric bills reflect both grid-delivered electricity use and the retail electricity price.[1] There is no single normal kWh amount or dollar bill for every home.
+
+## Start With the Bill, Not a Guess
+
+| Check | What to compare | What it can tell you |
+|---|---|---|
+| Electricity use | Current kWh versus a prior bill | Whether the change is primarily usage |
+| Billing period | Start date, end date, and number of billing days | Whether the bills cover different time spans |
+| Price and charges | Price per kWh, fixed charges, riders, taxes, and credits | Whether the dollar change is larger than the kWh change |
+| Meter-read status | Actual or estimated, if shown | Whether to ask how the utility calculated the bill |
+| Account changes | Rate plan, service address, or account notices | Whether a tariff or account change may be involved |
+
+If your utility provides daily or hourly usage data, compare the highest-use periods with what was happening at home then. Smart meters can provide utilities with electricity-use data, but the account portal and bill remain the best source for your own account.[2]
+
+## A Practical Diagnosis Sequence
+
+1. **If kWh increased:** investigate what used more electricity during the billing period.
+2. **If kWh is similar but the bill increased:** review the price and listed charges, then contact the utility if the change is unclear.
+3. **If both increased:** investigate usage while also checking whether the price or billing period changed.
+4. **If the bill seems inconsistent with account history:** ask the utility how it calculated the bill.
+
+Do not assume that a bill increase proves a faulty meter, electricity theft, or a billing error. The utility must investigate those possibilities.
+
+## Common Places to Investigate
+
+### Heating, cooling, and water heating
+
+Space heating, air conditioning, and water heating are among the largest energy expenses in a home.[3] EIA publishes residential electricity-consumption data by end use, including space heating, cooling, water heating, refrigeration, appliances, electronics, and lighting.[4]
+
+Compare the bill period with weather changes and thermostat schedules. Check maintenance items in your equipment manuals, such as filters and required service. DOE states that a thermostat setback of 7°F to 10°F for eight hours a day can save as much as 10% annually on heating and cooling, but results vary by climate and system.[5] If you use a heat pump, follow manufacturer guidance before using large setbacks.
+
+More hot-water use can raise electricity use. Compare the period with changes in occupants, laundry, bathing, or dishwashing. If replacing equipment, use the EnergyGuide label, installation requirements, and your household demand—not a generic payback estimate. Heat-pump water heaters move heat rather than generate it directly, but suitability depends on location and operating conditions.[6]
+
+### Lighting, appliances, and electronics
+
+Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions.
+
+DOE says residential LEDs use at least 75% less energy and can last up to 25 times longer than incandescent lighting.[7] Their bill impact depends on the number of bulbs and hours of use.
+
+### New high-use equipment
+
+An EV, pool pump, pool heater, hot tub, portable heater, or other high-use device can change household kWh. Use the device's rated power and actual runtime:
+
+```text
+electricity used (kWh) = power (kW) × time (hours)
+```
+
+One kWh is one kilowatt used for one hour.[2] Multiply the resulting kWh by the applicable price on your bill, while recognizing that fixed charges and time-varying rates can make the final bill more complex.
+
+## When to Contact the Utility
+
+Contact the utility if you do not understand the billing period, usage, rate, or charges; the bill identifies an estimated read; or the meter information and bill do not appear to align. Ask whether the read was actual or estimated, how charges were calculated, and which tariff provision applies.
+
+Contact a qualified electrician for repeated breaker trips, hot outlets or cords, burning smells, damaged wiring, flickering lights, or another electrical-safety concern. Contact qualified HVAC or water-heating help when equipment runs unusually often, does not maintain the set temperature, or has performance or leak concerns.
+
+## Action Checklist
+
+**Today**
+
+- [ ] Compare current kWh, billing days, rate, and charges with a prior bill.
+- [ ] Check notices and the current rate plan.
+- [ ] Note weather, thermostat changes, occupants, and new high-use equipment.
+- [ ] Review daily or hourly utility usage data if available.
+
+**This month**
+
+- [ ] Compare the bill with the same season last year.
+- [ ] Follow manufacturer maintenance guidance for equipment.
+- [ ] Replace suitable remaining incandescent bulbs with LEDs.
+- [ ] Contact the utility if billing or meter information is unclear.
+
+## Frequently Asked Questions
+
+{{< faq "Why is my bill high if I used similar kWh?" >}}
+Review the billing dates, price, fixed charges, credits, rate-plan name, and any changed itemized charges. If the statement does not explain the change, ask the utility for the applicable rate or tariff provision.
+{{< /faq >}}
+
+{{< faq "Can I use a meter to find the cause?" >}}
+Utilities use meters to measure electricity consumption. If your account provides daily or hourly data, compare high-use periods with household activity; ask the utility for help interpreting meter or billing information you do not understand.[2]
+{{< /faq >}}
+
+{{< faq "What should I compare with last year's bill?" >}}
+Compare kWh, billing days, rate plan, price and charges, meter-read status, and major household or equipment changes. The same season is usually a more useful comparison than the previous month.
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Energy Information Administration: Residential electric bills reflect consumption and retail prices](https://www.eia.gov/todayinenergy/detail.php?id=65244)
+2. [U.S. Energy Information Administration: Measuring electricity](https://www.eia.gov/energyexplained/electricity/measuring-electricity.php)
+3. [U.S. Department of Energy: Heating and cooling](https://www.energy.gov/energysaver/heat-and-cool)
+4. [U.S. Energy Information Administration: 2020 Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption)
+5. [U.S. Department of Energy: Energy Saver guide](https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf)
+6. [U.S. Department of Energy: Heat-pump water heaters](https://bsesc.energy.gov/energy-basics/hvac-heat-pump-water-heaters)
+7. [U.S. Department of Energy: LED lighting](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/04-hidden-fees-utility-bill.md ===
+---
+title: "How to Review Charges on Your Utility Bill"
+slug: "04-hidden-fees-utility-bill"
+description: "Use your statement, tariff, and utility customer service to understand charges rather than relying on a quoted energy rate alone."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility fees", "utility bill charges", "electric bill fees"]
+keywords: ["utility bill charges explained", "electric bill fees", "utility surcharges"]
+image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
+sources:
+  - https://www.eia.gov/electricity/data.php
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**A quoted energy price is not necessarily the same as the final amount due.** A utility statement can include usage-based charges, customer or service charges, delivery-related charges, taxes, credits, and other tariff-defined items. The only reliable way to understand a charge is to read the description on your bill and the current tariff or rate schedule that applies to your account.
+
+Do not assume a line item is improper because it is unfamiliar, or that a generic online fee range applies to your utility. Ask the utility which tariff provision produced the charge and keep a copy of the answer.
+
+## A Bill Review Process
+
+1. Identify the billing period and total usage.
+2. Separate usage-based charges from fixed charges, taxes, credits, and one-time items.
+3. Compare the same categories with a similar prior billing period.
+4. Read notices, footnotes, and the rate-plan name on the statement.
+5. Ask the utility for the tariff, rate schedule, or customer-service explanation for an item you do not understand.
+
+## Questions to Ask About a Charge
+
+| Charge on statement | Useful question |
+|---|---|
+| Supply or energy | Is this charge based on usage, a fixed amount, or both? |
+| Delivery or distribution | Which service and tariff provision does this charge cover? |
+| Customer or service charge | Is it recurring, and how is it defined in the tariff? |
+| Tax, rider, credit, or adjustment | What rule or program applies to this account? |
+| Late fee, deposit, or reconnection item | What policy, deadline, or dispute path applies? |
+
+## If You Cannot Pay a Bill
+
+Contact the utility promptly and ask about payment arrangements, assistance programs, and any available protections. The Consumer Financial Protection Bureau directs consumers seeking year-round utility-bill help to their local LIHEAP office or the National Energy Assistance Referral Hotline.[2]
+
+## Sources
+
+1. [U.S. Energy Information Administration: Electricity Data](https://www.eia.gov/electricity/data.php)
+2. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md ===
+---
+title: "How to Prioritize Utility-Bill Improvements"
+slug: "05-how-to-lower-utility-bills"
+description: "Use bill records, a home energy assessment, equipment information, and local program terms to prioritize electricity, gas, water, and weatherization improvements."
+date: 2026-03-07
+updated: 2026-08-23
+author: "David Chen"
+category: "Savings & Efficiency"
+categories: ["Savings & Efficiency"]
+tags: ["utility bills", "energy assessment", "energy efficiency"]
+keywords: ["lower utility bills", "home energy assessment", "utility bill planning"]
+image: "/images/articles/05-how-to-lower-utility-bills/05-how-to-lower-utility-bills_hero_v2.webp"
+sources:
+  - https://www.energy.gov/public-services/homes/home-weatherization/home-energy-audits
+  - https://www.energy.gov/sites/prod/files/guide_to_home_energy_assessments.pdf
+  - https://www.energy.gov/cmei/femp/home-energy-checklist
+---
+
+## Quick Answer
+
+**Do not start with a generic list of gadgets, thermostat settings, or promised savings.** Start with your own bills, rate plans, property conditions, equipment records, and a home energy assessment. DOE says an assessment can identify where a home is inefficient and which problems and fixes to prioritize for energy savings and comfort.[1]
+
+The right improvement sequence is specific to the home, account, equipment, and local program rules. It is not proven by a national cost or payoff table.
+
+## Establish a Baseline
+
+Gather comparable electricity, gas, water, and sewer bills; current tariffs or rate plans; property observations; maintenance records; and equipment documentation. Record the service period, billing days, billed units, meter/read status, rate version, itemized charges, credits, and material changes in occupancy or use.
+
+| Evidence | What it can clarify |
+|---|---|
+| Comparable bills | Usage change versus rate, credit, or billing-period change |
+| Tariff/rate plan | Fixed, tiered, time-based, demand, and other account rules |
+| Home observations | Visible drafts, moisture, comfort, equipment, or plumbing concerns |
+| Equipment records | Model, capacity, maintenance, installation, and safety requirements |
+| Local-program terms | Incentive eligibility, timing, installer, and documentation rules |
+
+## Use an Assessment Before Major Work
+
+DOE describes a home energy assessment as a way to determine how much energy a home uses and which cost-effective efficiency measures to take.[2] Use a qualified professional where conditions are complex, inaccessible, structural, electrical, combustion-related, damp, or otherwise beyond safe scope.
+
+For a DIY assessment, DOE provides a home-energy checklist and guidance on reviewing potential air-leak locations.[3] Document the observation and the safe next step instead of assuming a particular repair will reduce a bill by a stated percentage.
+
+## Prioritize the Actual Problem
+
+Separate problems into categories before choosing a solution:
+
+| Category | First question |
+|---|---|
+| Billing or rate issue | Does the bill reconcile with the tariff, meter/read status, and service period? |
+| Water-use issue | Does meter data or property observation show a verifiable change? |
+| Building-envelope issue | Does the assessment identify a specific air-leak, insulation, moisture, or comfort condition? |
+| Equipment issue | Does a qualified scope identify the installed model, condition, capacity, and repair/replace basis? |
+| Program decision | Are the local eligibility, timing, and documentation terms confirmed in writing? |
+
+Avoid applying one measure across a home without a documented reason. Never change electrical, gas, plumbing, ventilation, or HVAC components outside manufacturer instructions and qualified scope.
+
+## Compare Complete Proposals and Program Terms
+
+For equipment or building work, request a written scope that identifies the condition addressed, model/capacity, installation work, permits, commissioning, maintenance, warranty, and exclusions. Compare the complete proposal against the actual tariff and bills—not an advertised energy-only price or estimated national payback.
+
+Before authorizing a purchase, confirm current local or utility-program terms directly with the administrator. Eligibility can depend on address, income, equipment, installer, timing, and documentation.
+
+## Review Results With Bill Data
+
+After an improvement, compare the same fields over an appropriate period: service dates, billing days, usage, meter/read status, rate plan, charges, and credits. A lower or higher dollar total alone does not prove the effect of an action if the tariff or billing period changed.
+
+## Sources
+
+1. [U.S. Department of Energy: Home Energy Assessments](https://www.energy.gov/public-services/homes/home-weatherization/home-energy-audits)
+2. [U.S. Department of Energy: Guide to Home Energy Assessments (PDF)](https://www.energy.gov/sites/prod/files/guide_to_home_energy_assessments.pdf)
+3. [U.S. Department of Energy: Home Energy Checklist](https://www.energy.gov/cmei/femp/home-energy-checklist)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md ===
+---
+title: "How to Investigate a Higher-Than-Expected Water Bill"
+slug: "06-water-bill-too-high"
+description: "Investigate a high water bill using the account statement, meter information, property observations, local utility rules, and safe professional follow-up."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["high water bill", "water bill spike", "water meter", "water use"]
+keywords: ["why is my water bill so high", "high water bill", "water bill investigation"]
+image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/getting-started
+  - https://www.epa.gov/watersense/start-saving
+  - https://www.epa.gov/watersense/residential-toilets
+---
+
+## Quick Answer
+
+**Start a high-water-bill investigation with the statement and meter data before assuming a leak, fixture, season, rate, or product is the cause.** EPA WaterSense advises gathering information to track water use and reading meters or submeters to identify use spikes and problems.[1]
+
+The serving utility controls the bill’s units, rate structure, read status, adjustment policy, and review process. Do not rely on a national bill amount, leak-cost estimate, or generic adjustment promise.
+
+## 1. Compare the Bill Before Inspecting the Property
+
+Put the current statement beside a comparable earlier bill and record:
+
+| Bill detail | What to verify |
+|---|---|
+| Service period | Start/end dates and total billing days |
+| Meter/read status | Actual, estimated, customer-submitted, corrected, or another label |
+| Usage | Billed quantity, unit, and any provider conversion |
+| Charges | Usage, fixed, sewer, tax, credit, and one-time lines |
+| Rate plan | Tariff, tier, season, and effective date |
+
+Ask whether the bill contains an estimate correction, rate change, credit, or one-time item. A higher total alone does not identify the cause.
+
+## 2. Document Water Use and Property Conditions
+
+Follow the meter-access and safety instructions from your local utility. During a period when water should not be used, observe the meter or account data and document unexpected movement. Do not open utility equipment or disturb a meter installation.
+
+EPA WaterSense recommends tracking use and reading meters or submeters to identify spikes and possible problems.[1] Record the date, meter observation, appliances or irrigation active at the time, and any visible moisture, damaged fixture, or property change.
+
+## 3. Look for a Safe, Verifiable Explanation
+
+Review toilets, faucets, irrigation equipment, appliances, and other water-using equipment only within the manufacturer’s instructions and your ability to access them safely. EPA notes that WaterSense-labeled toilets are independently certified for efficiency and performance; product selection should use the installed conditions and local program terms, not a universal bill-savings promise.[3]
+
+For rental or shared service, notify the property owner or manager in writing and ask how water use, repairs, and billing responsibilities are allocated. For suspected concealed leaks, water damage, or plumbing work outside safe scope, contact a qualified professional.
+
+## 4. Ask the Utility Specific Questions
+
+1. What usage unit, service period, and meter/read status produced this bill?
+2. Did the tariff, tier, sewer method, or any rate component change?
+3. Does the account contain an estimate correction, credit, or one-time charge?
+4. What documentation does the provider require for a bill or meter review?
+5. What current leak-adjustment or payment rules, if any, apply to this account?
+
+Keep the bill, tariff, meter observations, photos, repair records, and provider response together. Those records support a precise review request and are more useful than an unsupported claim about average water use.
+
+## Sources
+
+1. [U.S. Environmental Protection Agency WaterSense: Getting Started](https://www.epa.gov/watersense/getting-started)
+2. [U.S. Environmental Protection Agency WaterSense: Start Saving](https://www.epa.gov/watersense/start-saving)
+3. [U.S. Environmental Protection Agency WaterSense: Residential Toilets](https://www.epa.gov/watersense/residential-toilets)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md ===
+---
+title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+slug: "07-gas-bill-too-high"
+aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
+description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
+date: 2026-03-07
+updated: 2026-08-21
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
+keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency AFUE', 'gas water heater waste']
+image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
+---
+
+{{< affiliate-disclosure >}}
+## Quick Answer
+
+**A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.** The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
+
+A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the 10 most common causes and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
+
+Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. The fixed monthly fee on top of usage is covered in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/).
+
+## Quick diagnosis: Start here
+
+Answer these four questions before diving into troubleshooting:
+
+1. **Did your therm usage actually increase?** Compare the "usage" line (in therms or CCF) with the same month last year. If therms are flat but your bill went up, the issue is rate or fee changes — not your equipment. For a line-by-line breakdown, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
+
+2. **How cold was this month compared to last year?** Gas usage is dominated by heating. A month that's 5°F colder on average can increase your gas usage by 15–25%. Check heating degree days (HDD) data from Weather Underground for your zip code.
+
+3. **Is your meter read actual or estimated?** Estimated reads can be inaccurate. An overestimate this month will be corrected next month, but it can cause a confusing spike.
+
+4. **Did anything change?** New thermostat, new furnace, someone working from home, a guest staying over, thermostat set higher than usual, or a renovation can all increase usage.
+
+---
+
+## 10 common causes, ranked by likelihood
+
+### 1. Heating season weather
+
+This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natural gas usage** in a typical home. A cold snap in November or December can double your usage compared to a mild month.
+
+**What to check:**
+- Compare this year's average temperature with last year for the same billing period.
+- Check if your billing period included an unusually cold week.
+- Look at "heating degree days" (HDD) — a standard measure of heating demand. Your utility may include this on your bill.
+
+**HDD worked example:** Heating Degree Days are calculated as `65°F − average daily temperature`. If the day's average temperature is 40°F, that day counts as 25 HDDs. During a cold snap where the average is 15°F, that jumps to 50 HDDs — meaning your home needs roughly **double the energy** to stay warm. If last January averaged 35°F (1,000 HDDs over the month) and this January averages 20°F (1,450 HDDs), your gas consumption rises proportionally even with identical thermostat settings and habits. Check your zip code's HDD history on Weather Underground or NOAA to compare year-over-year.
+
+**What to do:**
+- If weather is the cause, focus on efficiency improvements (insulation, thermostat settings) rather than looking for a "problem."
+
+### 2. Thermostat settings too high
+
+Every degree above 68°F increases heating energy use by roughly **3–5%**. If you keep your home at 74°F instead of 68°F, you're using about 18–30% more gas for heating.
+
+**Recommended settings:**
+- **When home:** 68°F (20°C)
+- **When sleeping or away:** 60–62°F (15–17°C)
+- **Maximum savings:** 65°F when home, 55°F when away
+
+**Programmable thermostat tip:** Set it to drop 5–8°F when you're sleeping or away. This alone can save 10–15% on heating costs. If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature.
+
+### 3. Furnace efficiency decline
+
+Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance. Pre-2000 furnaces commonly sit at **70–80% AFUE**, meaning **20–30% of the fuel you pay for escapes through the exhaust flue** as wasted heat rather than warming your home. A new high-efficiency condensing furnace reaches **95% AFUE** — that gap is the single biggest efficiency upgrade available to most gas-heated households.
+
+Short cycling (the burner turning on and off every few minutes without reaching set temperature) is another symptom of an aging or struggling furnace. It wastes fuel during startup cycles and stresses the heat exchanger. Annual professional tune-up — cleaning burners, checking the heat exchanger, verifying airflow — keeps the system near its rated AFUE.
+
+**Signs your furnace is wasting gas:**
+- Runs longer to reach the target temperature
+- Uneven heating (some rooms cold, others hot)
+- Yellow flame instead of blue (incomplete combustion — also a safety concern)
+- Soot around the furnace or vents
+- Increasing gas usage year over year despite same habits
+
+**What to do:**
+- **Annual maintenance** ($80–$200) — A professional tune-up can restore 2–5% efficiency and catch problems early.
+- **Filter replacement** — A dirty filter forces the furnace to work harder. Replace every 1–3 months during heating season.
+- **Consider replacement** — If your furnace is 15+ years old, a new 95–98% AFUE model can cut gas usage by 20–30%. Typical cost: $3,000–$6,000 installed, with payback in 5–8 years through gas savings.
+
+### 4. Poor insulation and air leaks
+
+Your furnace may be working correctly, but you're losing heat through:
+- **Attic insulation** — The #1 source of heat loss in most homes. If you have less than R-38 (about 10–14 inches of fiberglass), adding insulation pays for itself in 1–3 years.
+- **Windows and doors** — Weatherstripping and caulking cost $20–$50 and can reduce drafts significantly.
+- **Recessed lights** — Can lights in ceilings below attics are notorious for air leakage.
+- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.
+
+**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak.
+
+### 5. Gas water heater waste
+
+Water heating is typically the **second-largest gas expense** (15–25% of gas usage). Common waste sources:
+
+- **Temperature set too high** — Many water heaters are set to 140°F by default. Lowering to 120°F saves 4–22% on water heating costs with no noticeable difference in comfort.
+- **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.
+- **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
+- **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
+- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10% (U.S. DOE).
+
+### 6. Rate increase
+
+Natural gas prices are volatile. Your utility's "gas cost recovery" rate can change monthly or quarterly. In late 2025 and into 2026, many U.S. utilities have increased rates 15–30% year-over-year (U.S. EIA, 2026).
+
+**What to check on your bill:**
+- **Cost per therm** — Compare with the same month last year.
+- **[delivery charges](/blog/gas-delivery-charge-vs-supply-charge/)** — Your utility may have raised the fixed delivery charge.
+- **[Fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)** — A line item that passes wholesale gas cost changes through to your bill.
+- **Pipeline or infrastructure surcharges** — Becoming more common.
+- **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
+
+**WNA (Winter Non-Winter Adjustment) explained:** Some utilities — Virginia Natural Gas is one example — apply a **Winter Non-Winter Adjustment** on six bills during the heating season, typically November through April. The WNA recovers the fixed cost of maintaining gas delivery infrastructure during peak winter demand, spread across winter bills rather than charged flat year-round. The utility does not profit from it, but it does show up as a separate line item and contributes to winter totals being higher than summer totals even at identical usage. Check your bill for "WNA" or "winter adjustment" line items; they're normal and regulated, not a billing error.
+
+**What to do:** If rates increased significantly, check if you're in a deregulated state where you can choose a gas supplier. You may be able to lock in a lower rate through a third-party supplier.
+
+### 7. Gas leak (safety concern)
+
+A gas leak is both a safety emergency and a source of wasted gas. Signs include:
+- **Rotten egg smell** — Mercaptan, the odorant added to natural gas.
+- **Hissing sound** — Near gas lines, valves, or appliances.
+- **Dead vegetation** — Plants dying near an underground gas line.
+- **Higher-than-expected usage** — Even a small leak adds up over a billing period.
+
+**⚠️ If you smell gas:** Leave the house immediately. Don't use light switches, phones, or anything that could create a spark. Call your gas utility's emergency line (or 911) from outside.
+
+**Soapy-water leak test (non-emergency):** If you don't smell gas but suspect a small leak on an accessible fitting, mix dish soap and water in a spray bottle, then spray the mixture on gas connections behind appliances, at the meter, and at shut-off valves. If bubbles form and grow, gas is escaping at that joint. **Do not attempt to repair the fitting yourself** — call a licensed plumber or your utility. Higher summer gas pressure can also worsen slow leaks, which is why unexplained summer spikes deserve a meter-and-fitting audit before you assume rate increases are to blame.
+
+### 8. Gas fireplace or logs left on
+
+Gas fireplaces and decorative gas logs use **25,000–60,000 BTU/hour**. Leaving a gas fireplace on overnight (8 hours) at 40,000 BTU uses about 3.2 therms — roughly $3–$5/night depending on your rate. Over a month, that's $90–$150.
+
+**Check:** Make sure your gas fireplace is completely off (pilot lights on older models also consume gas continuously — about 600–900 BTU/hour, which adds up to $10–$20/month).
+
+### 9. Drafty or inefficient windows
+
+Single-pane windows or old double-pane windows with failed seals let significant heat escape. Replacing windows is expensive ($300–$1,000/window), but low-cost alternatives help:
+
+- **Window film insulation kits** — $15–$30 per window, reduces heat loss by 40–70%.
+- **Thermal curtains** — $20–$60 per window, blocks drafts and radiant heat loss.
+- **Weatherstripping** — $5–$15 per window, seals gaps around the frame.
+
+### 10. Billing cycle length or estimated readings
+
+A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed.
+
+**What to check:**
+- **Days of service** on your bill
+- Whether the read was actual or estimated
+- If estimated, the next actual read will correct any overcharge
+
+### 11. Outdoor gas appliances (pool, spa, grill, fire pit)
+
+Many homeowners forget that outdoor gas appliances tie back to the same meter that serves the furnace. In warm months when heating is off, these can quietly carry the bill:
+
+- **Gas pool heater** — Maintaining a pool temperature during summer requires constant gas input to offset evaporation and heat loss. A typical gas pool heater adds **$50–$150/month** to your bill during active swim season — one of the most expensive gas appliances to run per hour of use.
+- **Gas spa / hot tub** — Smaller than a pool but operates at higher temperatures (100–104°F) year-round in many homes. Expect steady monthly gas use whenever the tub is heated.
+- **Outdoor gas grill** — Frequent summer cookouts add up. A high-BTU grill running on natural gas (not propane tanks) consumes real volume over a barbecue-heavy month.
+- **Gas fire pit / outdoor fireplace** — Natural gas fire pits running on summer evenings register on the meter too.
+
+**What to do:** If your summer bill surprises you, walk your property and count gas-tied outdoor appliances. A pool heater alone can push a "should be tiny" summer bill into the $150+ range.
+
+---
+
+## Seasonal comparison: Winter vs summer gas usage
+
+To visualize how the same home's gas demand shifts across the year, the table below compares a typical US single-family residence. Winter heating dominates; summer is water-heating and outdoor appliances.
+
+| Usage Category | Winter share | Summer share | Notes |
+|-----|-----|-----|-----|
+| Space heating | 60–70% | 0% | Furnace off or rarely used in summer |
+| Water heating | 20–25% | 40–50% | Colder inlet water in winter; more showers/laundry in summer |
+| Cooking | 10–15% | 10–15% | Consistent year-round |
+| Clothes drying | 5–10% | 10–15% | Humidity extends summer dry times |
+| Outdoor / pool / grill | 0% | 5–10% | Pool heaters, grills, fire pits |
+
+**Month-by-month example (illustrative, based on typical US home):**
+
+| Metric | July (summer) | January (winter) | Difference |
+|-----|-----|-----|-----|
+| Avg outdoor temp | ~85°F | ~30°F | 55°F colder |
+| Heating usage | 0 therms | 120 therms | +120 therms |
+| Water heating | 30 therms | 45 therms | +15 therms (colder inlet water) |
+| Cooking / dryer | 15 therms | 25 therms | +10 therms |
+| Total usage | 45 therms | 200 therms | ~344% increase |
+| Avg cost / therm | ~$1.10 | ~$1.35 | ~22% rate increase |
+| Total bill | ~$49.50 | ~$270.00 | ~445% increase |
+
+A 344% jump in usage combined with a 22% rate hike produces a bill that is nearly six times higher than the summer equivalent. Knowing the split makes it easier to tell whether a spike is weather, rate, or appliance-driven.
+
+---
+
+## How to read your gas meter
+
+Gas meters measure usage in **cubic feet**. The display has 4–5 dials or a digital readout. For the full bill breakdown after you read the meter, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
+
+### Analog meter
+- Read the dials left to right
+- If a pointer is between two numbers, use the lower number
+- If a pointer is directly on a number, check the dial to its right — if that dial hasn't passed 0, use the number before
+
+### Digital meter
+- Simply read the numbers displayed
+- Some smart meters cycle through multiple displays — look for the consumption reading (usually labeled "usage" or showing a gas flame icon)
+
+### Tracking usage between bills
+1. Read your meter on the same day each month.
+2. Subtract last month's reading from this month's.
+3. Multiply by the conversion factor (if billed in therms, multiply cubic feet by 1.037).
+
+---
+
+## Understanding gas rate structures
+
+### Fixed rate
+You pay a set price per therm for the duration of your contract. Predictable but may be higher than market rate when prices drop.
+
+### Variable rate
+Your rate changes monthly based on market prices. Can be cheaper during low-demand periods but risky during cold winters or supply disruptions.
+
+### Budget billing
+Your utility averages your annual costs into equal monthly payments. You pay the same amount each month, with a "true-up" at the end of the year. This doesn't save money, but it prevents winter shock bills.
+
+### Delivery vs. supply
+Your gas bill has two main components:
+- **Supply charges** — The cost of the gas itself. In deregulated states, you can shop for this.
+- **Delivery charges** — The cost of transporting gas to your home. This is set by your utility and regulated by your state's public utility commission.
+
+### Fuel adjustment and riders
+Utilities often pass through volatile wholesale gas costs and infrastructure project costs as separate line items. The [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) is the most common; surcharges and riders are covered in [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) (state public utility commission).
+
+---
+
+## Cost and savings math
+
+| Fix | Monthly Savings | Upfront Cost | Payback Period |
+|-----|----------------|--------------|----------------|
+| Lower thermostat to 68°F from 72°F | $15–$40 | $0 | Immediate |
+| Programmable thermostat schedule | $20–$50 | $25–$250 | 1–6 months |
+| Annual furnace maintenance | $10–$25 | $80–$200 | 4–12 months |
+| Water heater temp: 140°F → 120°F | $5–$20 | $0 | Immediate |
+| Water heater insulation blanket | $5–$15 | $20–$40 | 1–3 months |
+| Weatherstripping doors/windows | $10–$30 | $20–$50 | 1–3 months |
+| Attic insulation (R-11 → R-38) | $30–$80 | $1,000–$2,500 | 1–3 years |
+| New 96% AFUE furnace (replacing 70% AFUE) | $40–$100 | $3,000–$6,000 | 3–8 years |
+
+**Example scenario:**
+- Old furnace: 70% AFUE, using 120 therms/month in winter at $1.20/therm = $144/month
+- New furnace: 96% AFUE, using 87.5 therms/month = $105/month
+- Monthly savings: $39
+- Annual savings (5-month heating season): $195
+- At a $4,500 installation cost, payback: ~23 years (gas-only savings)
+- With electric savings from the blower motor and potential rebates: 8–12 years
+
+---
+
+## When to call your gas utility
+
+Contact your gas utility when:
+
+1. **You suspect a gas leak** — Call the emergency line immediately. Don't wait.
+2. **Your meter appears damaged or reading incorrectly** — Request a meter inspection.
+3. **You want a billing review** — They can explain rate changes and check for errors.
+4. **You need help with payment** — Most utilities offer payment plans and assistance programs. Income-qualified households can apply through [LIHEAP utility assistance](/blog/utility-assistance-programs-liheap/) (state public utility commission).
+5. **You want to switch rate plans** — Ask about fixed-rate options or budget billing.
+6. **You suspect an estimated reading was wrong** — Request an actual read.
+
+---
+
+**Next step:** Pull up your last 12 months of gas bills and compare this month's therms to the same month last year. If therms are flat, the issue is rate or fee changes — call your utility for a billing review. If therms are up, work through the causes above in order, starting with thermostat settings and furnace maintenance.
+
+{{< faq "What's a normal gas bill?" >}}
+The average US household gas bill ranges from **$40–$80/month** in summer (mostly water heating and cooking) to **$100–$250/month** in winter (heating-dominated). Bills in cold climates (Minnesota, Michigan, New York) can exceed $300/month in peak winter.
+{{< /faq >}}
+
+{{< faq "Why is my gas bill high in summer?" >}}
+If your gas bill stays high in summer, the most likely culprits are your **gas water heater** (check temperature settings) or a **gas fireplace pilot light** left on. Other possibilities: gas dryer used frequently, gas stove/oven used heavily, or a small gas leak.
+{{< /faq >}}
+
+{{< faq "Should I switch to electric heat?" >}}
+It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/gas-vs-electric-heating-cost-comparison/).
+{{< /faq >}}
+
+{{< faq "How do I know if my furnace needs replacing?" >}}
+Consider replacement if:
+- It's more than 15–20 years old
+- Your gas bills have been steadily increasing despite same usage habits
+- Repair estimates exceed $500–$1,000
+- The heat exchanger is cracked (carbon monoxide risk — replace immediately)
+{{< /faq >}}
+
+{{< faq "Can I negotiate my gas rate?" >}}
+In **deregulated states** (Ohio, Pennsylvania, Georgia, Michigan, New York, Illinois, and others), you can choose your gas supplier. Compare offers at your state's public utility commission website. In regulated states, rates are set by the commission — you can attend public hearings or file comments during rate cases.
+{{< /faq >}}
+
+{{< faq "What is a Winter Non-Winter Adjustment (WNA)?" >}}
+A WNA is a billing adjustment some utilities apply during the heating season (typically November through April) to recover the fixed cost of maintaining gas delivery infrastructure during peak winter demand. It appears as a line item on six winter bills and contributes to higher winter totals even when usage is identical to summer. It is a regulated pass-through — not a billing error and not profit for the utility.
+{{< /faq >}}
+
+{{< faq "Why does my water heater use more gas in winter?" >}}
+Incoming groundwater is colder in winter, so your water heater must burn more gas to raise that cold water to your set temperature (usually 120°F). The same number of showers and laundry loads will therefore consume more therms in January than in July.
+{{< /faq >}}
+
+{{< faq "How much does a gas pool heater add to my bill?" >}}
+A typical residential gas pool heater adds **$50–$150 per month** to your bill during active swim season, depending on pool size, target temperature, and local rates. It is one of the most expensive gas appliances to run per month of use.
+{{< /faq >}}
+
+{{< faq "Can I do a leak test myself?" >}}
+Yes — for accessible fittings, mix dish soap and water in a spray bottle and apply to gas connections behind appliances, at the meter, and at shut-off valves. Bubbles that form and grow indicate a leak. Do not attempt to repair it yourself; call a licensed plumber or your utility. If you smell gas, leave the home and call your utility's emergency line from outside.
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+---
+
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's measured savings: ~12% on heating, ~15% on cooling. The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
+
+## Related guides
+
+- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — Detailed line-by-line breakdown
+- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) — Troubleshoot electricity costs
+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
+- [Fixed vs Variable Utility Rates](/blog/10-fixed-vs-variable-utility-rate/) — Choose the right rate plan
+- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Spot charges you can dispute
+- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/) — Full charge-by-charge guide
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — Decode the units on your bill
+- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/) — That fixed monthly fee
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — What you're paying for
+- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — How utilities pass through gas cost changes
+- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — Line items beyond supply and delivery
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — Track usage between bills
+- [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — Help paying your gas bill
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md ===
+---
+title: "How to Review a Time-of-Use Electricity Plan"
+slug: "08-time-of-use-electricity"
+aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
+description: "Compare a time-of-use electricity plan using the utility's current schedule, tariff, and your own interval or bill history."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["time of use electricity", "TOU rates", "electricity plan"]
+keywords: ["time of use electricity rates", "TOU rate plan", "electricity rate schedule"]
+image: "/images/articles/time-of-use-electricity-rates/time-of-use-electricity-rates_hero_00001_.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+  - https://www.energy.gov/cmei/femp/demand-response-and-time-variable-pricing-programs
+  - https://www.energy.gov/cmei/femp/femp-utility-program-navigator
+---
+
+## Quick Answer
+
+**A time-of-use plan changes the electricity price at defined times, but the periods, seasons, eligibility, and total bill effect are set by the specific utility tariff.** DOE distinguishes time-of-use rates, which change by set amounts at set times, from dynamic rates tied to wholesale-market movement.[1]
+
+Do not use a generic peak-hour table or savings estimate to decide whether to enroll. Compare the current utility schedule with your own interval data or bill history.
+
+## Get the Current Rate Schedule
+
+Ask the utility for the tariff and confirm:
+
+| Item | What to verify |
+|---|---|
+| Plan availability | Is the plan offered for your account and address? |
+| Time periods | What hours, weekdays, holidays, and seasons apply? |
+| Prices | Which supply, delivery, rider, and fixed charges change under the plan? |
+| Metering | Is interval data or additional equipment required? |
+| Enrollment rules | What start date, term, switching, and notice rules apply? |
+| Program events | Does the plan include demand-response or other event rules? |
+
+DOE's program resources describe time-variable pricing programs and load-shifting opportunities, but actual program terms must come from the local utility.[2][3]
+
+## Compare With Your Own Usage
+
+Use several comparable billing periods. If the utility provides interval data, group your kWh by the time periods listed in the proposed tariff. If interval data is unavailable, ask the utility whether it can provide a plan-comparison tool or a usage report.
+
+Compare the complete bill, not only the advertised energy price. Include fixed charges, delivery components, taxes, riders, and any changes in billing days or seasons.
+
+## Before You Change When You Use Electricity
+
+Only shift loads when it is safe, convenient, and consistent with equipment instructions. Do not alter medical, safety, heating, cooling, electrical-panel, or charging-equipment settings solely because of a generic schedule. Confirm your actual peak periods and program rules first.
+
+## Questions Before Enrolling
+
+1. Can you calculate the proposed plan against my historical usage?
+2. Which charges can change, and which remain the same?
+3. What exact peak, off-peak, holiday, and seasonal periods apply?
+4. What happens if I later want to leave the plan?
+5. How will future tariff changes be announced?
+
+Save the tariff version and enrollment confirmation with your bill records.
+
+## Sources
+
+1. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)
+2. [U.S. Department of Energy: Demand Response and Time-Variable Pricing Programs](https://www.energy.gov/cmei/femp/demand-response-and-time-variable-pricing-programs)
+3. [U.S. Department of Energy: FEMP Utility Program Navigator](https://www.energy.gov/cmei/femp/femp-utility-program-navigator)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md ===
+---
+title: "How to Budget for Apartment Utilities"
+slug: "09-apartment-utilities-cost"
+description: "Build an apartment utility budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Marcia Washington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["apartment utilities", "renter utilities", "first apartment", "utility budget"]
+keywords: ["apartment utility budget", "what utilities do renters pay", "first apartment utilities"]
+image: "/images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+---
+
+## Quick Answer
+
+**Build an apartment utility budget from the lease, the account-holder rules, current provider terms, and the unit's own billing history when it is available.** National cost tables cannot tell you what a specific apartment, rate plan, season, or shared-service arrangement will cost.
+
+Before signing, request a written explanation of what the rent includes and which services must be opened, transferred, or paid separately.
+
+## Confirm What the Lease Covers
+
+Read the lease and ask the property manager to identify each recurring responsibility:
+
+| Item | Questions to get in writing |
+|---|---|
+| Electricity and gas | Which provider serves the unit, and whose name must be on the account? |
+| Water, sewer, and trash | Included in rent, separately metered, allocated, or billed by a third party? |
+| Internet | Is a provider required, included, or chosen by the tenant? |
+| Shared building services | How are common-area or shared-meter costs handled? |
+| Deposits and setup | What provider policies, deadlines, or documents apply? |
+
+Keep the lease, move-in statement, provider confirmations, and first bills together. A verbal description is not a substitute for the written terms.
+
+## Make a Unit-Specific Estimate
+
+If available, ask for the prior occupant's utility history or the property's unit-specific usage information. Then compare it with the current utility tariff and any known changes to occupancy, heating and cooling equipment, work-from-home use, or charging equipment.
+
+Use a range based on actual months rather than one quoted number. Record the billing days and the services included in each bill, because a short or long initial period can make a total look misleading.
+
+## Review the First Bills
+
+For the first several bills, record:
+
+1. Service period and number of billed days.
+2. Usage unit and total consumption.
+3. Fixed charges, usage charges, taxes, credits, and one-time items.
+4. Whether the reading was estimated or actual.
+5. Any provider notice about rate, plan, or service changes.
+
+Compare similar months before assuming a usage pattern. If a charge is unclear, ask the provider for the relevant tariff or billing-policy explanation.
+
+## If Paying a Bill Becomes Difficult
+
+Contact the utility before the due date and ask about payment arrangements and local assistance. The Consumer Financial Protection Bureau directs renters seeking help with bills to local and state resources, including LIHEAP-related assistance information.[1]
+
+## Sources
+
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) — renter assistance and utility-bill resource guidance.
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/10-fixed-vs-variable-utility-rate.md ===
+---
+title: "How to Compare Electricity Rate Options"
+slug: "10-fixed-vs-variable-utility-rate"
+description: "Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic fixed-versus-variable rules."
+date: 2026-03-07
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["utility rate", "electricity plan", "time-variable pricing"]
+keywords: ["fixed versus variable electricity rate", "utility rate options", "electricity plan comparison"]
+image: "/images/articles/10-fixed-vs-variable-utility-rate/10-fixed-vs-variable-utility-rate_hero_v2.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+---
+
+## Quick Answer
+
+**The right electricity offer depends on whether a plan is available at your address and on the complete tariff or contract—not a universal recommendation for “fixed” or “variable” rates.** Rate structures can vary by energy use, season, or time of day.[1][2]
+
+Before enrolling, compare the current offer with your existing rate plan using your own usage history and every charge that applies to the account.
+
+## Read the Entire Offer
+
+Request the current terms and identify:
+
+| Item | What to verify |
+|---|---|
+| Provider and service area | Is the offer available for this account and address? |
+| Rate structure | Is the price fixed, indexed, time-variable, block-based, or another structure? |
+| Term | When does the offer begin and end? |
+| Charges | Which supply, delivery, customer, tax, rider, and one-time charges apply? |
+| Enrollment and exit | What renewal, cancellation, and notice terms apply? |
+| Price changes | What event or formula permits a change, and where is it disclosed? |
+
+Do not compare a supply-only advertised price with the full amount due on a bill. Use the same charge scope when comparing options.
+
+## Use Your Own Billing History
+
+Gather at least several prior statements, noting kWh, billing days, rate-plan name, time-of-use periods if applicable, fixed charges, and seasonal differences. Apply each offer's written rules to that history only if the provider gives enough information to do so.
+
+DOE explains that electricity rate structures may change with energy use, season, or time of day.[2] A plan that looks favorable for one usage pattern may not have the same result for another.
+
+## Questions Before Enrolling
+
+Ask the provider or utility:
+
+1. Which parts of my bill can this offer change?
+2. What are all mandatory charges and conditions?
+3. How, when, and where will a price or term change be disclosed?
+4. What happens at the end of the term?
+5. What cancellation, renewal, dispute, and customer-service policies apply?
+
+Save the offer, enrollment confirmation, and contract version. If information is missing or inconsistent, pause before enrolling and contact the regulator or consumer-protection office that oversees service in your area.
+
+## Sources
+
+1. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)
+2. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/11-understanding-kwh-usage.md ===
+---
+title: "Understanding kWh Usage on Your Electric Bill"
+slug: "11-understanding-kwh-usage"
+description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
+date: 2026-03-15
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["kWh", "electricity usage", "electric bill"]
+keywords: ["understanding kWh usage", "kWh on electric bill", "electricity usage"]
+image: "/images/articles/11-understanding-kwh-usage/custom_hero.webp"
+sources:
+  - https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
+---
+
+## Quick Answer
+
+**A kilowatt-hour (kWh) is a measure of electrical energy: one kilowatt used for one hour equals one kWh.** The useful question for a bill is not whether a household matches a national average, but whether its kWh changed after accounting for billing days, weather, equipment, occupancy, and rate-plan changes.
+
+EIA reports that electricity use varies widely across regions and housing types, so a national benchmark should not be treated as a personal target.[1]
+
+## Read kWh in Context
+
+For each bill, record:
+
+1. Total kWh and the number of billed days.
+2. Whether the meter reading was actual or estimated.
+3. The rate-plan name and each usage-related charge.
+4. Major changes in heating, cooling, occupancy, or equipment.
+5. The same information from a similar earlier period.
+
+Compare daily kWh when billing periods differ. Then compare the price and non-usage charges separately; the dollar total alone cannot show whether usage changed.
+
+## Use Appliance Information Carefully
+
+An appliance label, manufacturer specification, plug-in meter, or utility usage portal can help identify a device's energy use. A nameplate wattage alone is not an exact monthly-use estimate because actual run time, operating mode, controls, and load vary.
+
+If you measure a plug-in device, record the measurement period and the mode used. For hard-wired HVAC, water-heating, or major appliances, use the utility's usage data and qualified service guidance rather than attempting electrical work.
+
+## National Data Is Context, Not a Bill Calculator
+
+EIA's published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about 899 kWh per month; it also emphasizes that household use varies by region and housing type.[1][2]
+
+That figure does not determine whether an individual bill is correct. Your own tariff, dwelling, equipment, climate, and billing period control the account result.
+
+## When kWh Changes Suddenly
+
+Start by checking billing days and read status. Then review changes in weather, heating or cooling, new equipment, charging, occupancy, or continuous water and HVAC operation. If the usage or bill still does not make sense, ask the utility for interval data or an explanation of the meter-read and rate-plan details.
+
+## Sources
+
+1. [U.S. Energy Information Administration: Electricity Use in Homes](https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php) — household-use context and regional/housing variation.
+2. [U.S. Energy Information Administration FAQ: How Much Electricity Does an American Home Use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7) — 2022 residential-customer kWh context.
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/12-how-to-read-your-gas-bill.md ===
+---
+title: "How to Read Your Gas Bill"
+slug: "12-how-to-read-your-gas-bill"
+aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/"]
+description: "Read a gas bill by comparing its meter information, rate schedule, usage units, and itemized charges with the serving utility's current tariff."
+date: 2026-03-16
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Gas"
+categories: ["Gas"]
+tags: ["gas bill", "natural gas", "utility bill", "therms"]
+keywords: ["how to read gas bill", "gas bill explained", "natural gas bill charges"]
+image: "/images/articles/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2021-11/Understanding+Your+Natural+Gas+Bills.pdf
+---
+
+## Quick Answer
+
+**A gas bill must be interpreted from the account's meter information, billing period, usage unit, rate schedule, and itemized charges—not from a generic national price, therm conversion, or seasonal bill table.** DOE materials describe regulated and deregulated gas-market structures, but the controlling terms for a household are the serving utility's current tariff and bill.[1]
+
+Keep the statement and tariff together when reviewing a charge or comparing periods.
+
+## Start With the Account Details
+
+Record these items before comparing a bill:
+
+1. Service address, account class, and rate-schedule name.
+2. Billing-period start and end dates and total billed days.
+3. Current and prior meter readings, read status, and unit shown.
+4. Total billed usage and any conversion factor shown by the utility.
+5. Each itemized charge, credit, tax, rider, or one-time item.
+
+Utilities can bill gas use in different units and may apply account-specific conversion or rate rules. Use the unit and calculation shown in the provider's own materials rather than assuming CCF, MCF, and therms are interchangeable in every circumstance.
+
+## Separate Usage From Other Charges
+
+Group the bill into the categories actually shown on the statement. These may include usage-related charges, fixed charges, delivery-related charges, taxes, credits, or other tariff-defined items. Do not assume the label, amount, or purpose matches another utility's bill.
+
+Ask the utility for the exact tariff section that defines an unfamiliar charge. DOE's utility-bill guidance is useful context for understanding market structures, but it does not replace the local tariff.[1]
+
+## Compare Like With Like
+
+When a total changes, compare a similar billing period and record:
+
+- the number of billing days;
+- billed gas use and read status;
+- weather and occupancy changes;
+- rate-schedule or tariff changes; and
+- credits, past-due amounts, or one-time items.
+
+The total amount due alone cannot identify whether a change came from usage, a rate, or a non-usage charge.
+
+## When to Contact the Utility
+
+Contact the provider if a meter reading, usage unit, rate schedule, or line item does not match the statement or current tariff. Ask for the account-specific explanation, the tariff version, and the provider's review or dispute process. Keep copies of the bill and your contact record.
+
+## Sources
+
+1. [U.S. Department of Energy: Understanding Your Natural Gas Bills (PDF)](https://www.energy.gov/sites/default/files/2021-11/Understanding+Your+Natural+Gas+Bills.pdf)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/13-ac-short-cycling-causes-fixes.md ===
+---
+title: "What to Do When an AC Starts and Stops Frequently"
+slug: "13-ac-short-cycling-causes-fixes"
+description: "Document frequent AC cycling, complete safe owner checks, and know when to arrange qualified HVAC service instead of relying on a generic diagnosis."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["HVAC", "air conditioning", "maintenance"]
+keywords: ["AC short cycling", "AC turning on and off", "air conditioner service"]
+image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
+sources:
+  - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance
+  - https://bsesc.energy.gov/sites/default/files/HVAC+Systems+-+System+Sizing+-+Understand.docx
+---
+
+## Quick Answer
+
+**Frequent AC starts and stops can have several causes, and cycle length alone does not establish a diagnosis.** Equipment sizing, airflow, controls, maintenance, weather, and system faults can affect operation. DOE educational material notes that short cycling can reduce air-conditioner efficiency and dehumidification, so recurring behavior warrants qualified evaluation.[1][2]
+
+Avoid generic repair-cost, runtime, or bill-impact claims. Record the behavior and complete only safe owner checks before requesting service.
+
+## Record the Pattern
+
+For several cycles, note:
+
+1. Outdoor conditions and thermostat setting.
+2. Approximate start and stop times.
+3. Whether cooling reaches the set temperature.
+4. Airflow and comfort changes in occupied rooms.
+5. Any visible display message, unusual sound, odor, water, or ice.
+6. Recent filter changes and maintenance history.
+
+This information helps a technician distinguish cycling behavior from a rate, thermostat, duct, sizing, airflow, or equipment problem.
+
+## Safe Owner Checks
+
+DOE Building Science Education material identifies filters as an important part of ducted HVAC systems, helping protect the HVAC motor and improve indoor air quality.[1]
+
+Follow the equipment manual and only perform checks that do not involve opening electrical equipment or refrigerant systems:
+
+- Confirm the thermostat mode and setpoint match your intended operation.
+- Check whether the return filter is installed as specified and needs replacement under the manufacturer's guidance.
+- Make sure accessible supply and return openings are not blocked by furnishings.
+- Look for visible water, ice, damage, or obstructions without touching internal components.
+
+Do not add refrigerant, work on wiring or capacitors, defeat a safety device, or make sizing decisions without qualified service.
+
+## When to Arrange Service
+
+Stop using the system and seek qualified assistance if you notice a burning smell, electrical damage, repeated breaker trips, refrigerant concerns, substantial water leakage, ice, or a safety concern. Otherwise, arrange an HVAC evaluation when frequent cycling persists after basic, manual-approved maintenance.
+
+Ask the technician to explain the evidence for the diagnosis, whether airflow and sizing are being evaluated, what work is included, and how operation will be checked after service. DOE material on system sizing identifies proper sizing as a key consideration for HVAC performance.[2]
+
+## Sources
+
+1. [U.S. Department of Energy Building Science Education: HVAC Preventative Maintenance](https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance)
+2. [U.S. Department of Energy Building Science Education: HVAC System Sizing](https://bsesc.energy.gov/sites/default/files/HVAC+Systems+-+System+Sizing+-+Understand.docx)
+
+
+=== FILE: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/14-estimated-utility-bill-explained.md ===
+---
+title: "How to Review an Estimated Utility Bill"
+slug: "14-estimated-utility-bill-explained"
+description: "Identify an estimated meter reading, compare it with your statement and meter, and ask the serving utility for its account-specific billing policy."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["billing", "utility bills", "meter reading"]
+keywords: ["estimated utility bill", "estimated versus actual meter reading", "utility bill review"]
+image: "/images/articles/14-estimated-utility-bill-explained/14-estimated-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+---
+
+## Quick Answer
+
+**An estimated bill uses an estimate instead of a meter reading for that billing period, but the reason, calculation method, correction process, and self-read option vary by utility.** Confirm the reading type and policy on your own statement and with the serving utility rather than assuming a national true-up rule.
+
+Con Edison, for example, provides procedures for customers to read and submit digital or dial-meter readings, but other utilities may use different systems and submission methods.[1]
+
+## What to Check on the Statement
+
+Review the account-specific bill for:
+
+1. The billing period and number of days.
+2. The prior and current reading, unit, and reading-type notation.
+3. Whether the bill says actual, estimated, or another status.
+4. The rate plan, total usage, and line-item charges.
+5. Notices about access, meter communication, or future readings.
+
+Utility bill formats vary. Con Edison's sample residential bill, for instance, identifies billing period, rate, meter readings, usage, and taxes; use your own provider's statement and explanation as the controlling source.[2]
+
+## If You Think an Estimate Is Wrong
+
+Document the bill and, if it is safe and allowed, the current meter display or dial reading. Do not open equipment, bypass access controls, or attempt to alter a meter.
+
+Contact the utility and ask:
+
+- Why was this period estimated?
+- What reading or usage information was used for the estimate?
+- Can I submit a reading, request a review, or confirm the next actual read?
+- How will a later actual reading be handled under this utility's policy?
+- What dispute and payment options apply while the account is reviewed?
+
+Keep the case number, the representative's explanation, and copies of the bill and any submitted reading.
+
+## Prevent Repeat Access Problems
+
+If the utility identifies an access issue, follow its instructions for safe meter access and future reading arrangements. If the meter is remote-read, ask whether the account has a communication issue and what the provider needs to investigate it.
+
+## Sources
+
+1. [Con Edison: How to Read Your Electricity Meter](https://www.coned.com/en/accounts-billing/how-to-read-your-meter) — meter-reading and customer-submission guidance for Con Edison customers.
+2. [Con Edison: Sample Residential Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential) — example of billing period, rate, readings, usage, and taxes shown on a residential bill.
+

@@ -10,15 +10,13 @@ categories: ["Bills & Fees"]
 tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
 keywords: ["utility budget", "apartment utility costs", "utility deposit", "hidden costs", "budget billing plan"]
 image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
 ---
 
 ## Quick Answer
 
-**Budget $250-400/month for utilities in your first apartment: electricity ($120-180), water/gas ($40-80), internet ($60-100), and trash/recycling ($20-40).** Actual costs vary by location, apartment size, and usage patterns, with climate being the biggest factor in heating/cooling expenses.
-
-- **Get exact numbers from the seller** - Request 12 months of utility history before signing
-- **Plan for seasonal spikes** - Summer AC can add $50-100/month; winter heating may double gas bills
-- **Start with 20% buffer** - First apartments often have inefficient appliances or poor insulation
+**Build your first utility budget from the actual lease terms, the utilities included, the account setup rules, and the unit's own bill history when available.** Costs vary by location, building, season, rate plan, and use; do not rely on a national apartment-cost table.
 
 See [average water usage per person](/blog/average-water-usage-per-person/) for calculating water costs.
 
@@ -48,32 +46,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               Keep in mind that older buildings may be less efficient, which can push
               electricity or gas costs higher than averages for newer buildings.
             </p>
-            <table>
-              <thead>
-                <tr>
-                  <th>Utility</th>
-                  <th>Common monthly range</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Electricity</td>
-                  <td>$40 to $120</td>
-                </tr>
-                <tr>
-                  <td>Gas</td>
-                  <td>$20 to $80</td>
-                </tr>
-                <tr>
-                  <td>Water/sewer</td>
-                  <td>$15 to $60</td>
-                </tr>
-                <tr>
-                  <td>Internet</td>
-                  <td>$40 to $80</td>
-                </tr>
-              </tbody>
-            </table>
+            <p>Use the prior tenant's available bill history, the property's utility disclosure, and current provider rates to make a unit-specific estimate.</p>
 
 <h2 id="seasonality">Plan for seasonal swings</h2>
 <p>
@@ -232,29 +205,11 @@ Some utilities waive deposits with a credit check or a letter of good standing f
 {{< /faq >}}
 
 
-## Typical Apartment Utility Costs
-
-| Utility | Studio | 1 Bedroom | 2 Bedroom | Notes |
-|---------|:---:|:---:|:---:|-------|
-| Electricity | $40-80 | $50-100 | $70-150 | AC/heat drives cost |
-| Gas (if applicable) | $15-30 | $20-40 | $25-50 | Heating/cooking |
-| Water/sewer | $20-35 | $25-40 | $30-50 | Often included |
-| Internet | $40-60 | $40-60 | $40-60 | Same regardless |
-| Trash | $10-20 | $10-20 | $10-25 | Often included |
-| **Monthly Total** | **$125-225** | **$145-260** | **$175-335** | Varies by region |
-
-### First-Year Utility Budget by Season
-
-| Season | Months | Est. Monthly Cost | Why |
-|--------|--------|:---:|-----|
-| Fall | Sep-Nov | $120-180 | Mild weather, baseline |
-| Winter | Dec-Feb | $180-300 | Heating costs peak |
-| Spring | Mar-May | $120-180 | Mild weather returns |
-| Summer | Jun-Aug | $150-280 | AC drives costs |
-| **Annual Average** | | **$145-235/mo** | Budget for peaks |
-
-
 {{< faq-schema >}}
+
+## Sources
+
+- [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) — renter assistance resources.
 
 ---
 

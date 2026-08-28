@@ -11,6 +11,8 @@ categories: ["Electricity"]
 tags: ["delivery charge", "kwh", "supply charge", "electric bill", "demand charge"]
 keywords: ["delivery charge", "kwh usage", "supply charge", "high electric bill", "demand charge electric"]
 image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_v2.webp"
+sources:
+  - https://afdc.energy.gov/fuels/electricity-production
 ---
 
 <h2 id="problem">The problem: two big charges that sound the same</h2>
@@ -37,9 +39,10 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
 
 <h2 id="quick-answer">The short answer (two charges, two jobs)</h2>
 <p>
-              <strong>Supply charges</strong> pay for the electricity itself, measured
-              in kWh. <strong>Delivery charges</strong> pay for the grid that brings
-              that electricity to your home, plus service and maintenance.
+              Utilities may use separate supply and delivery labels. Supply generally
+              concerns electricity procurement; delivery concerns the network and
+              services that move electricity to customers. Your tariff defines the
+              labels and calculation for your account.
             </p>
             <p>
               Your bill splits them because they are different costs with different
@@ -48,7 +51,7 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
 
 <h2 id="supply">Supply charges (what you are paying for)</h2>
 <p>
-              Supply is the energy you used. It is usually priced per kWh.
+              Supply is the electricity commodity or the charge associated with obtaining it.
               If the supply rate changes, the total can change even if your usage
               stays steady.
             </p>
@@ -66,8 +69,7 @@ image: "/images/articles/supply-vs-delivery-charges-electricity/supply-vs-delive
 
 <h2 id="delivery">Delivery charges (the grid and service cost)</h2>
 <p>
-              Delivery covers the system that gets electricity to you:
-              transmission lines, local distribution, meters, and service crews.
+              Delivery can cover the system and services that get electricity to you.
             </p>
             <h3>Transmission vs distribution</h3>
             <p>
@@ -149,41 +151,10 @@ They are usually listed as separate sections or line items labeled Supply and De
 
 {{< faq-schema >}}
 
-## Deregulated vs Regulated States
+## Provider Choice and Rate Options
 
-Whether you can shop for your electricity supplier depends on your state. In deregulated states, you choose who generates your power (supply), while the utility still delivers it.
+Whether an account can choose a supplier, a rate option, or a time-varying plan depends on the utility, service territory, and local rules. Confirm eligibility with the utility or the regulator for your address rather than relying on a state list.
 
-| State | Deregulated? | Can Shop Supply? | Notes |
-|-------|:---:|:---:|-------|
-| Texas | ✅ | Yes | Most competitive market |
-| Pennsylvania | ✅ | Yes | Strong consumer protections |
-| Ohio | ✅ | Yes | Compare offers at EnergyChoiceOhio.gov |
-| New York | ✅ | Yes | ConEd, National Grid territories |
-| Illinois | ✅ | Yes | ComEd territory |
-| Maryland | ✅ | Yes | BGE, Pepco territories |
-| New Jersey | ✅ | Yes | PSE&G, JCP&L territories |
-| Connecticut | ✅ | Yes | Eversource, UI territories |
-| Massachusetts | ✅ | Yes | Limited suppliers |
-| California | ❌ | No | Regulated (CPUC sets rates) |
-| Florida | ❌ | No | Regulated |
-| Georgia | ❌ | No | Regulated |
+## Sources
 
-### How to Reduce Each Charge
-
-| Charge Type | Reduction Strategy | Potential Savings |
-|-------------|-------------------|-------------------|
-| Supply charge | Switch to cheaper supplier (deregulated states) | 5-15% |
-| Supply charge | Use less electricity | Direct |
-| Delivery charge | Reduce peak demand (TOU plans) | 10-20% |
-| Delivery charge | Energy efficiency upgrades | 5-15% |
-| Customer charge | Cannot reduce (fixed) | $0 |
-
-### Supply vs Delivery Cost Breakdown by Region
-
-| Region | Supply % | Delivery % | Average Total |
-|--------|---------|-----------|---------------|
-| Northeast | 45% | 55% | $0.22/kWh |
-| Midwest | 55% | 45% | $0.14/kWh |
-| South | 50% | 50% | $0.12/kWh |
-| West | 45% | 55% | $0.19/kWh |
-
+- [U.S. Department of Energy Alternative Fuels Data Center: Electricity Production and Distribution](https://afdc.energy.gov/fuels/electricity-production) — overview of electricity transmission and distribution.

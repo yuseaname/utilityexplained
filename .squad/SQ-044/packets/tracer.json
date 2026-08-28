@@ -1,0 +1,32 @@
+{
+ "role": "tracer",
+ "mission": "Trace the MONEY PATH end-to-end, entry to termination, with file:line evidence at every hop: (1) visitor lands on a top article (use /blog/how-to-lower-electric-bill-complete-guide/) \u2014 which layout renders, what partials fire in what order; (2) where a purchase-intent reader would meet a product recommendation TODAY (trace layouts/ for product boxes, the add_product_boxes.py script, data files it reads/writes) and why they currently meet ZERO affiliate links; (3) the affiliate config thread: hugo.toml amazon_tag -> which partials consume it -> what would emit amazon URLs; (4) disclosure visibility on the article path (where affiliate-disclosure surfaces relative to where links would appear); (5) email capture: does any form/endpoint exist anywhere in layouts or static; (6) exit paths: related-posts, hub links, search. Deliver a hop-by-hop gap map of the conversion funnel + the exact files a link-insertion implementation would touch.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). One thread, to the bottom. Every claim: file:line.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Hop-by-hop funnel trace with file:line evidence.",
+  "Exact file list an affiliate integration must touch, derived from the trace."
+ ]
+}

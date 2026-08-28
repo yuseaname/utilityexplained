@@ -1,0 +1,4868 @@
+{
+ "date": "2026-08-27",
+ "site_id": "d5b63e065e9d",
+ "windows": {
+  "last7": {
+   "start": "2026-08-20",
+   "end": "2026-08-27",
+   "overview": {
+    "data": {
+     "sessions": 860,
+     "pages_per_session": 1.0965116279069766,
+     "bounce_rate": 91.27906976744185,
+     "session_duration": 62.424418604651166,
+     "pageviews": 943,
+     "users": 744
+    }
+   },
+   "pages": {
+    "data": {
+     "data": [
+      {
+       "value": "/blog/how-to-lower-electric-bill-complete-guide/",
+       "hostname": "utilityexplained.com",
+       "count": 123,
+       "percentage": 13.7,
+       "pageviews": 301,
+       "pageviews_percentage": 15.71,
+       "time_on_page_seconds": 40.53156146179402,
+       "bounce_rate": 92.68
+      },
+      {
+       "value": "/blog/30-sudden-spike-in-electricity-bill-no-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 52,
+       "percentage": 5.79,
+       "pageviews": 114,
+       "pageviews_percentage": 5.95,
+       "time_on_page_seconds": 29,
+       "bounce_rate": 92.31
+      },
+      {
+       "value": "/blog/06-water-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 45,
+       "percentage": 5.01,
+       "pageviews": 92,
+       "pageviews_percentage": 4.8,
+       "time_on_page_seconds": 24.25,
+       "bounce_rate": 95.56
+      },
+      {
+       "value": "/blog/28-utility-reconnection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 34,
+       "percentage": 3.79,
+       "pageviews": 76,
+       "pageviews_percentage": 3.97,
+       "time_on_page_seconds": 30.973684210526315,
+       "bounce_rate": 91.18
+      },
+      {
+       "value": "/blog/water-meter-running-when-no-water-used/",
+       "hostname": "utilityexplained.com",
+       "count": 33,
+       "percentage": 3.67,
+       "pageviews": 73,
+       "pageviews_percentage": 3.81,
+       "time_on_page_seconds": 18.506849315068493,
+       "bounce_rate": 90.91
+      },
+      {
+       "value": "/blog/07-gas-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 29,
+       "percentage": 3.23,
+       "pageviews": 66,
+       "pageviews_percentage": 3.44,
+       "time_on_page_seconds": 34.15151515151515,
+       "bounce_rate": 86.21
+      },
+      {
+       "value": "/blog/23-utility-billing-cycle-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 28,
+       "percentage": 3.12,
+       "pageviews": 64,
+       "pageviews_percentage": 3.34,
+       "time_on_page_seconds": 38.328125,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/how-sewer-charges-work-on-your-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 28,
+       "percentage": 3.12,
+       "pageviews": 61,
+       "pageviews_percentage": 3.18,
+       "time_on_page_seconds": 40.049180327868854,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/03-why-is-my-electric-bill-so-high/",
+       "hostname": "utilityexplained.com",
+       "count": 27,
+       "percentage": 3.01,
+       "pageviews": 59,
+       "pageviews_percentage": 3.08,
+       "time_on_page_seconds": 15.135593220338983,
+       "bounce_rate": 85.19
+      },
+      {
+       "value": "/blog/what-is-ccf-on-a-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 25,
+       "percentage": 2.78,
+       "pageviews": 64,
+       "pageviews_percentage": 3.34,
+       "time_on_page_seconds": 26.671875,
+       "bounce_rate": 92
+      },
+      {
+       "value": "/blog/water-meter-leak-indicator-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 24,
+       "percentage": 2.67,
+       "pageviews": 50,
+       "pageviews_percentage": 2.61,
+       "time_on_page_seconds": 38.26,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/05-how-to-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 22,
+       "percentage": 2.45,
+       "pageviews": 53,
+       "pageviews_percentage": 2.77,
+       "time_on_page_seconds": 59.094339622641506,
+       "bounce_rate": 95.45
+      },
+      {
+       "value": "/blog/average-water-usage-per-person/",
+       "hostname": "utilityexplained.com",
+       "count": 21,
+       "percentage": 2.34,
+       "pageviews": 46,
+       "pageviews_percentage": 2.4,
+       "time_on_page_seconds": 12.891304347826088,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/electric-bill-breakdown-understanding-line-items/",
+       "hostname": "utilityexplained.com",
+       "count": 18,
+       "percentage": 2,
+       "pageviews": 41,
+       "pageviews_percentage": 2.14,
+       "time_on_page_seconds": 18.4390243902439,
+       "bounce_rate": 77.78
+      },
+      {
+       "value": "/blog/01-how-to-read-your-electric-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 17,
+       "percentage": 1.89,
+       "pageviews": 22,
+       "pageviews_percentage": 1.15,
+       "time_on_page_seconds": 46.5,
+       "bounce_rate": 76.47
+      },
+      {
+       "value": "/blog/how-do-smart-meters-work/",
+       "hostname": "utilityexplained.com",
+       "count": 17,
+       "percentage": 1.89,
+       "pageviews": 44,
+       "pageviews_percentage": 2.3,
+       "time_on_page_seconds": 18.681818181818183,
+       "bounce_rate": 88.24
+      },
+      {
+       "value": "/blog/how-to-read-electric-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 16,
+       "percentage": 1.78,
+       "pageviews": 37,
+       "pageviews_percentage": 1.93,
+       "time_on_page_seconds": 19.027027027027028,
+       "bounce_rate": 81.25
+      },
+      {
+       "value": "/blog/stormwater-fee-on-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 1.56,
+       "pageviews": 22,
+       "pageviews_percentage": 1.15,
+       "time_on_page_seconds": 5.5,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/why-your-electric-bill-keeps-rising-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 13,
+       "percentage": 1.45,
+       "pageviews": 29,
+       "pageviews_percentage": 1.51,
+       "time_on_page_seconds": 76.65517241379311,
+       "bounce_rate": 92.31
+      },
+      {
+       "value": "/blog/08-time-of-use-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 12,
+       "percentage": 1.34,
+       "pageviews": 33,
+       "pageviews_percentage": 1.72,
+       "time_on_page_seconds": 18.303030303030305,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 12,
+       "percentage": 1.34,
+       "pageviews": 23,
+       "pageviews_percentage": 1.2,
+       "time_on_page_seconds": 12.130434782608695,
+       "bounce_rate": 91.67
+      },
+      {
+       "value": "/blog/43-understand-natural-gas-bill-charges/",
+       "hostname": "utilityexplained.com",
+       "count": 12,
+       "percentage": 1.34,
+       "pageviews": 27,
+       "pageviews_percentage": 1.41,
+       "time_on_page_seconds": 17.77777777777778,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/mcf-vs-ccf-vs-therms-on-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 12,
+       "percentage": 1.34,
+       "pageviews": 18,
+       "pageviews_percentage": 0.94,
+       "time_on_page_seconds": 5.555555555555555,
+       "bounce_rate": 91.67
+      },
+      {
+       "value": "/blog/18-fuel-adjustment-charge-on-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 11,
+       "percentage": 1.22,
+       "pageviews": 27,
+       "pageviews_percentage": 1.41,
+       "time_on_page_seconds": 30.25925925925926,
+       "bounce_rate": 90.91
+      },
+      {
+       "value": "/blog/average-utility-bills-by-state-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 10,
+       "percentage": 1.11,
+       "pageviews": 18,
+       "pageviews_percentage": 0.94,
+       "time_on_page_seconds": 7.166666666666667,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/11-understanding-kwh-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 1,
+       "pageviews": 10,
+       "pageviews_percentage": 0.52,
+       "time_on_page_seconds": 21,
+       "bounce_rate": 88.89
+      },
+      {
+       "value": "/blog/49-demand-charges-electricity-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 1,
+       "pageviews": 21,
+       "pageviews_percentage": 1.1,
+       "time_on_page_seconds": 7.476190476190476,
+       "bounce_rate": 77.78
+      },
+      {
+       "value": "/blog/tiered-electricity-rates-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 1,
+       "pageviews": 20,
+       "pageviews_percentage": 1.04,
+       "time_on_page_seconds": 9.9,
+       "bounce_rate": 88.89
+      },
+      {
+       "value": "/blog/14-estimated-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.89,
+       "pageviews": 16,
+       "pageviews_percentage": 0.84,
+       "time_on_page_seconds": 12,
+       "bounce_rate": 62.5
+      },
+      {
+       "value": "/blog/19-utility-bill-surcharges-and-riders-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.89,
+       "pageviews": 16,
+       "pageviews_percentage": 0.84,
+       "time_on_page_seconds": 6.1875,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/27-utility-connection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.89,
+       "pageviews": 19,
+       "pageviews_percentage": 0.99,
+       "time_on_page_seconds": 32.31578947368421,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/41-how-to-read-electricity-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.89,
+       "pageviews": 17,
+       "pageviews_percentage": 0.89,
+       "time_on_page_seconds": 26.764705882352942,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/why-did-my-water-bill-suddenly-increase/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.89,
+       "pageviews": 17,
+       "pageviews_percentage": 0.89,
+       "time_on_page_seconds": 8.823529411764707,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.78,
+       "pageviews": 11,
+       "pageviews_percentage": 0.57,
+       "time_on_page_seconds": 6.7272727272727275,
+       "bounce_rate": 57.14
+      },
+      {
+       "value": "/blog/21-past-due-balance-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.78,
+       "pageviews": 18,
+       "pageviews_percentage": 0.94,
+       "time_on_page_seconds": 36.94444444444444,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/moving-utilities-checklist/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.78,
+       "pageviews": 13,
+       "pageviews_percentage": 0.68,
+       "time_on_page_seconds": 17.46153846153846,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/why-is-my-gas-bill-so-high-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.78,
+       "pageviews": 14,
+       "pageviews_percentage": 0.73,
+       "time_on_page_seconds": 5.714285714285714,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/17-what-is-customer-charge-on-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.67,
+       "pageviews": 14,
+       "pageviews_percentage": 0.73,
+       "time_on_page_seconds": 18.928571428571427,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "/blog/26-utility-deposit-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.67,
+       "pageviews": 13,
+       "pageviews_percentage": 0.68,
+       "time_on_page_seconds": 6.230769230769231,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/how-to-read-gas-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.67,
+       "pageviews": 8,
+       "pageviews_percentage": 0.42,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/utility-bills-costs-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.67,
+       "pageviews": 10,
+       "pageviews_percentage": 0.52,
+       "time_on_page_seconds": 6.2,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/sewer-averaging-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.56,
+       "pageviews": 14,
+       "pageviews_percentage": 0.73,
+       "time_on_page_seconds": 118.28571428571429,
+       "bounce_rate": 60
+      },
+      {
+       "value": "/blog/09-apartment-utilities-cost/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 5,
+       "pageviews_percentage": 0.26,
+       "time_on_page_seconds": 3,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/7-states-with-worst-utility-spikes-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 9,
+       "pageviews_percentage": 0.47,
+       "time_on_page_seconds": 12.777777777777779,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/how-to-dispute-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 10,
+       "pageviews_percentage": 0.52,
+       "time_on_page_seconds": 31.3,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/how-to-read-a-water-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 8,
+       "pageviews_percentage": 0.42,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/how-to-read-your-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/supply-vs-delivery-charges-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 11,
+       "pageviews_percentage": 0.57,
+       "time_on_page_seconds": 14.636363636363637,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.45,
+       "pageviews": 10,
+       "pageviews_percentage": 0.52,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/02-average-utility-costs-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/2026-utility-cost-index-by-state/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 0.25,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/24-delivery-charge-vs-supply-charge-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 6,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 8.666666666666666,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/45-whole-house-generator-vs-portable-cost/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/50-best-smart-plugs-standby-power/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 6,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 86.5,
+       "bounce_rate": 33.33
+      },
+      {
+       "value": "/blog/is-your-toilet-running-leak-test/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 6,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/water-service-charge-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.33,
+       "pageviews": 8,
+       "pageviews_percentage": 0.42,
+       "time_on_page_seconds": 29.625,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/04-hidden-fees-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/10-fixed-vs-variable-utility-rate/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 5,
+       "pageviews_percentage": 0.26,
+       "time_on_page_seconds": 8.2,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/15-why-utility-bill-higher-same-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/16-budget-billing-level-pay-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 5,
+       "pageviews_percentage": 0.26,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/20-utility-bill-proration-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/22-minimum-bill-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/46-what-time-is-electricity-cheapest/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-winter/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 4,
+       "pageviews_percentage": 0.21,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/search/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/tags/page/7/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.22,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/about/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/04-hidden-fees-utility-bill.md",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/05-how-to-/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/09-apartment-utilities-cost/10-fixed-vs-variable-utility-rate.md",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/12-how-to-read-your-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/13-ac-short-cycling-causes-fixes/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/44-how-to-lower-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/can-utility-shut-off-service/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/category/electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/category/fees/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/category/heating-cooling/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 61.333333333333336,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/complete-guide-understanding-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/do-programmable-thermostats-cut-heating-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 9,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/duct-leaks-symptoms-hvac-running-all-day/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/ductless-mini-split-vs-central-air/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/fixed-vs-variable-rate-electricity-plan/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gadgets-that-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gas-customer-charge-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/gas-delivery-charge-vs-supply-charge/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 388,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/how-utility-rates-fees-usage-work-together/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/phantom-power-draw-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 12,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/corrections/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/gas-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 6,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/heating-cooling-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 1,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/privacy-policy/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/billing-charges/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/demand-charge/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/deposit/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/energy-costs/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/heating-costs/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/heating-system-comparison/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/leak/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/leak/page/2/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/lower-electric-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.16,
+       "time_on_page_seconds": 20.333333333333332,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/net-metering/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/11/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/13/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/17/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/2/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/23/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/4/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/9/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/reduce-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/save-on-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/standby-power/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/unexpected-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 1,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/water-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 15.5,
+       "bounce_rate": 0
+      }
+     ],
+     "totalCount": 116
+    }
+   },
+   "referrers": {
+    "data": {
+     "data": [
+      {
+       "value": "duckduckgo.com",
+       "count": 277,
+       "percentage": 44.68,
+       "pageviews": 277,
+       "pageviews_percentage": 44.68,
+       "bounce_rate": 92.06
+      },
+      {
+       "value": "bing.com",
+       "count": 192,
+       "percentage": 30.97,
+       "pageviews": 192,
+       "pageviews_percentage": 30.97,
+       "bounce_rate": 90.1
+      },
+      {
+       "value": "search.yahoo.com",
+       "count": 84,
+       "percentage": 13.55,
+       "pageviews": 84,
+       "pageviews_percentage": 13.55,
+       "bounce_rate": 90.48
+      },
+      {
+       "value": "ecosia.org",
+       "count": 26,
+       "percentage": 4.19,
+       "pageviews": 26,
+       "pageviews_percentage": 4.19,
+       "bounce_rate": 92.31
+      },
+      {
+       "value": "google.com",
+       "count": 22,
+       "percentage": 3.55,
+       "pageviews": 22,
+       "pageviews_percentage": 3.55,
+       "bounce_rate": 90.91
+      },
+      {
+       "value": "noai.duckduckgo.com",
+       "count": 4,
+       "percentage": 0.65,
+       "pageviews": 4,
+       "pageviews_percentage": 0.65,
+       "bounce_rate": 75
+      },
+      {
+       "value": "us.search.yahoo.com",
+       "count": 4,
+       "percentage": 0.65,
+       "pageviews": 4,
+       "pageviews_percentage": 0.65,
+       "bounce_rate": 100
+      },
+      {
+       "value": "copilot.microsoft.com",
+       "count": 2,
+       "percentage": 0.32,
+       "pageviews": 2,
+       "pageviews_percentage": 0.32,
+       "bounce_rate": 100
+      },
+      {
+       "value": "search.brave.com",
+       "count": 2,
+       "percentage": 0.32,
+       "pageviews": 2,
+       "pageviews_percentage": 0.32,
+       "bounce_rate": 100
+      },
+      {
+       "value": "au.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ca.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "cac-word-edit.officeapps.live.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "com.google.android.gm",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "kagi.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "m.facebook.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      },
+      {
+       "value": "qwant.com",
+       "count": 1,
+       "percentage": 0.16,
+       "pageviews": 1,
+       "pageviews_percentage": 0.16,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 16
+    }
+   },
+   "channels": {
+    "data": {
+     "data": [
+      {
+       "value": "Organic Search",
+       "count": 616,
+       "percentage": 71.63,
+       "pageviews": 616,
+       "pageviews_percentage": 71.63,
+       "bounce_rate": 91.23
+      },
+      {
+       "value": "Direct",
+       "count": 237,
+       "percentage": 27.56,
+       "pageviews": 237,
+       "pageviews_percentage": 27.56,
+       "bounce_rate": 91.14
+      },
+      {
+       "value": "Organic Social",
+       "count": 5,
+       "percentage": 0.58,
+       "pageviews": 5,
+       "pageviews_percentage": 0.58,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AI",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "Referral",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 5
+    }
+   },
+   "countries": {
+    "data": {
+     "data": [
+      {
+       "value": "US",
+       "count": 700,
+       "percentage": 81.4,
+       "pageviews": 700,
+       "pageviews_percentage": 81.4,
+       "bounce_rate": 90.71
+      },
+      {
+       "value": "CN",
+       "count": 88,
+       "percentage": 10.23,
+       "pageviews": 88,
+       "pageviews_percentage": 10.23,
+       "bounce_rate": 95.45
+      },
+      {
+       "value": "CA",
+       "count": 19,
+       "percentage": 2.21,
+       "pageviews": 19,
+       "pageviews_percentage": 2.21,
+       "bounce_rate": 94.74
+      },
+      {
+       "value": "GB",
+       "count": 7,
+       "percentage": 0.81,
+       "pageviews": 7,
+       "pageviews_percentage": 0.81,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "DE",
+       "count": 6,
+       "percentage": 0.7,
+       "pageviews": 6,
+       "pageviews_percentage": 0.7,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "AU",
+       "count": 4,
+       "percentage": 0.47,
+       "pageviews": 4,
+       "pageviews_percentage": 0.47,
+       "bounce_rate": 75
+      },
+      {
+       "value": "FR",
+       "count": 3,
+       "percentage": 0.35,
+       "pageviews": 3,
+       "pageviews_percentage": 0.35,
+       "bounce_rate": 100
+      },
+      {
+       "value": "MX",
+       "count": 3,
+       "percentage": 0.35,
+       "pageviews": 3,
+       "pageviews_percentage": 0.35,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "BE",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "EG",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ES",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "IN",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "LT",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ZA",
+       "count": 2,
+       "percentage": 0.23,
+       "pageviews": 2,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AT",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "CH",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "FI",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "FJ",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "GU",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "IT",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "JM",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "JP",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "KR",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "NG",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "NL",
+       "count": 1,
+       "percentage": 0.12,
+       "pageviews": 1,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 32
+    }
+   }
+  },
+  "prior7": {
+   "start": "2026-08-13",
+   "end": "2026-08-20",
+   "overview": {
+    "data": {
+     "sessions": 650,
+     "pages_per_session": 1.1446153846153846,
+     "bounce_rate": 90.92307692307692,
+     "session_duration": 63.987692307692306,
+     "pageviews": 744,
+     "users": 543
+    }
+   },
+   "pages": {
+    "data": {
+     "data": [
+      {
+       "value": "/blog/how-to-lower-electric-bill-complete-guide/",
+       "hostname": "utilityexplained.com",
+       "count": 61,
+       "percentage": 8.24,
+       "pageviews": 161,
+       "pageviews_percentage": 10.03,
+       "time_on_page_seconds": 23.006211180124225,
+       "bounce_rate": 88.52
+      },
+      {
+       "value": "/blog/30-sudden-spike-in-electricity-bill-no-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 41,
+       "percentage": 5.54,
+       "pageviews": 97,
+       "pageviews_percentage": 6.04,
+       "time_on_page_seconds": 26.391752577319586,
+       "bounce_rate": 85.37
+      },
+      {
+       "value": "/blog/water-meter-running-when-no-water-used/",
+       "hostname": "utilityexplained.com",
+       "count": 40,
+       "percentage": 5.41,
+       "pageviews": 94,
+       "pageviews_percentage": 5.86,
+       "time_on_page_seconds": 17.904255319148938,
+       "bounce_rate": 85
+      },
+      {
+       "value": "/blog/what-is-ccf-on-a-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 39,
+       "percentage": 5.27,
+       "pageviews": 90,
+       "pageviews_percentage": 5.61,
+       "time_on_page_seconds": 28.566666666666666,
+       "bounce_rate": 84.62
+      },
+      {
+       "value": "/blog/06-water-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 35,
+       "percentage": 4.73,
+       "pageviews": 78,
+       "pageviews_percentage": 4.86,
+       "time_on_page_seconds": 31.46153846153846,
+       "bounce_rate": 88.57
+      },
+      {
+       "value": "/blog/05-how-to-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 32,
+       "percentage": 4.32,
+       "pageviews": 82,
+       "pageviews_percentage": 5.11,
+       "time_on_page_seconds": 68.73170731707317,
+       "bounce_rate": 71.88
+      },
+      {
+       "value": "/blog/how-sewer-charges-work-on-your-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 28,
+       "percentage": 3.78,
+       "pageviews": 66,
+       "pageviews_percentage": 4.11,
+       "time_on_page_seconds": 28.742424242424242,
+       "bounce_rate": 71.43
+      },
+      {
+       "value": "/blog/28-utility-reconnection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 25,
+       "percentage": 3.38,
+       "pageviews": 50,
+       "pageviews_percentage": 3.12,
+       "time_on_page_seconds": 27.14,
+       "bounce_rate": 88
+      },
+      {
+       "value": "/blog/water-meter-leak-indicator-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 22,
+       "percentage": 2.97,
+       "pageviews": 50,
+       "pageviews_percentage": 3.12,
+       "time_on_page_seconds": 32.46,
+       "bounce_rate": 77.27
+      },
+      {
+       "value": "/blog/03-why-is-my-electric-bill-so-high/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 2.57,
+       "pageviews": 43,
+       "pageviews_percentage": 2.68,
+       "time_on_page_seconds": 8.162790697674419,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/07-gas-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 2.57,
+       "pageviews": 44,
+       "pageviews_percentage": 2.74,
+       "time_on_page_seconds": 62.43181818181818,
+       "bounce_rate": 78.95
+      },
+      {
+       "value": "/blog/23-utility-billing-cycle-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 2.57,
+       "pageviews": 41,
+       "pageviews_percentage": 2.55,
+       "time_on_page_seconds": 10.463414634146341,
+       "bounce_rate": 89.47
+      },
+      {
+       "value": "/blog/49-demand-charges-electricity-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 16,
+       "percentage": 2.16,
+       "pageviews": 32,
+       "pageviews_percentage": 1.99,
+       "time_on_page_seconds": 35.5,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/19-utility-bill-surcharges-and-riders-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 15,
+       "percentage": 2.03,
+       "pageviews": 31,
+       "pageviews_percentage": 1.93,
+       "time_on_page_seconds": 8.096774193548388,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 1.89,
+       "pageviews": 32,
+       "pageviews_percentage": 1.99,
+       "time_on_page_seconds": 7.21875,
+       "bounce_rate": 92.86
+      },
+      {
+       "value": "/blog/average-utility-bills-by-state-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 1.89,
+       "pageviews": 30,
+       "pageviews_percentage": 1.87,
+       "time_on_page_seconds": 21.6,
+       "bounce_rate": 78.57
+      },
+      {
+       "value": "/blog/electric-bill-breakdown-understanding-line-items/",
+       "hostname": "utilityexplained.com",
+       "count": 13,
+       "percentage": 1.76,
+       "pageviews": 32,
+       "pageviews_percentage": 1.99,
+       "time_on_page_seconds": 16.21875,
+       "bounce_rate": 76.92
+      },
+      {
+       "value": "/",
+       "hostname": "utilityexplained.com",
+       "count": 12,
+       "percentage": 1.62,
+       "pageviews": 25,
+       "pageviews_percentage": 1.56,
+       "time_on_page_seconds": 8.8,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/why-is-my-gas-bill-so-high-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 11,
+       "percentage": 1.49,
+       "pageviews": 23,
+       "pageviews_percentage": 1.43,
+       "time_on_page_seconds": 6.956521739130435,
+       "bounce_rate": 90.91
+      },
+      {
+       "value": "/blog/mcf-vs-ccf-vs-therms-on-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 10,
+       "percentage": 1.35,
+       "pageviews": 19,
+       "pageviews_percentage": 1.18,
+       "time_on_page_seconds": 59.89473684210526,
+       "bounce_rate": 80
+      },
+      {
+       "value": "/blog/27-utility-connection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 1.22,
+       "pageviews": 22,
+       "pageviews_percentage": 1.37,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 88.89
+      },
+      {
+       "value": "/blog/how-to-read-gas-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 1.22,
+       "pageviews": 12,
+       "pageviews_percentage": 0.75,
+       "time_on_page_seconds": 95.41666666666667,
+       "bounce_rate": 77.78
+      },
+      {
+       "value": "/blog/08-time-of-use-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 16,
+       "pageviews_percentage": 1,
+       "time_on_page_seconds": 36.3125,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/18-fuel-adjustment-charge-on-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 19,
+       "pageviews_percentage": 1.18,
+       "time_on_page_seconds": 8.421052631578947,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/21-past-due-balance-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 15,
+       "pageviews_percentage": 0.93,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/26-utility-deposit-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 22,
+       "pageviews_percentage": 1.37,
+       "time_on_page_seconds": 82,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/41-how-to-read-electricity-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 18,
+       "pageviews_percentage": 1.12,
+       "time_on_page_seconds": 5.722222222222222,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/how-do-smart-meters-work/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 19,
+       "pageviews_percentage": 1.18,
+       "time_on_page_seconds": 8.473684210526315,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/stormwater-fee-on-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 14,
+       "pageviews_percentage": 0.87,
+       "time_on_page_seconds": 5.785714285714286,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/why-did-my-water-bill-suddenly-increase/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 17,
+       "pageviews_percentage": 1.06,
+       "time_on_page_seconds": 9.411764705882353,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-your-electric-bill-keeps-rising-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 1.08,
+       "pageviews": 12,
+       "pageviews_percentage": 0.75,
+       "time_on_page_seconds": 4.833333333333333,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/02-average-utility-costs-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.95,
+       "pageviews": 10,
+       "pageviews_percentage": 0.62,
+       "time_on_page_seconds": 4,
+       "bounce_rate": 71.43
+      },
+      {
+       "value": "/blog/14-estimated-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.95,
+       "pageviews": 12,
+       "pageviews_percentage": 0.75,
+       "time_on_page_seconds": 6.416666666666667,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/utility-bills-costs-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.95,
+       "pageviews": 12,
+       "pageviews_percentage": 0.75,
+       "time_on_page_seconds": 3.8333333333333335,
+       "bounce_rate": 57.14
+      },
+      {
+       "value": "/blog/16-budget-billing-level-pay-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.81,
+       "pageviews": 11,
+       "pageviews_percentage": 0.69,
+       "time_on_page_seconds": 6,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/17-what-is-customer-charge-on-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.81,
+       "pageviews": 13,
+       "pageviews_percentage": 0.81,
+       "time_on_page_seconds": 9.153846153846153,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/how-to-read-electric-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.81,
+       "pageviews": 14,
+       "pageviews_percentage": 0.87,
+       "time_on_page_seconds": 28.285714285714285,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "/blog/tiered-electricity-rates-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.81,
+       "pageviews": 8,
+       "pageviews_percentage": 0.5,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/50-best-smart-plugs-standby-power/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.68,
+       "pageviews": 11,
+       "pageviews_percentage": 0.69,
+       "time_on_page_seconds": 9.272727272727273,
+       "bounce_rate": 40
+      },
+      {
+       "value": "/blog/20-utility-bill-proration-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.54,
+       "pageviews": 9,
+       "pageviews_percentage": 0.56,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/45-whole-house-generator-vs-portable-cost/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.54,
+       "pageviews": 6,
+       "pageviews_percentage": 0.37,
+       "time_on_page_seconds": 3.5,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/how-to-read-a-water-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.54,
+       "pageviews": 9,
+       "pageviews_percentage": 0.56,
+       "time_on_page_seconds": 9,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/heating-cooling-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.54,
+       "pageviews": 7,
+       "pageviews_percentage": 0.44,
+       "time_on_page_seconds": 0.7142857142857143,
+       "bounce_rate": 25
+      },
+      {
+       "value": "/blog/12-how-to-read-your-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 8,
+       "pageviews_percentage": 0.5,
+       "time_on_page_seconds": 212.625,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/15-why-utility-bill-higher-same-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/24-delivery-charge-vs-supply-charge-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 9,
+       "pageviews_percentage": 0.56,
+       "time_on_page_seconds": 30.88888888888889,
+       "bounce_rate": 33.33
+      },
+      {
+       "value": "/blog/43-understand-natural-gas-bill-charges/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 5,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 29.6,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/47-check-energy-leaks-home-diy/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/7-states-with-worst-utility-spikes-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/average-water-usage-per-person/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 5,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/complete-guide-understanding-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 6,
+       "pageviews_percentage": 0.37,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/do-programmable-thermostats-cut-heating-bills/",
+       "hostname": "",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 198.75,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gas-customer-charge-explained/",
+       "hostname": "",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0.3333333333333333,
+       "bounce_rate": 33.33
+      },
+      {
+       "value": "/blog/how-to-read-your-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-electricity-bill-so-high-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 7,
+       "pageviews_percentage": 0.44,
+       "time_on_page_seconds": 6.142857142857143,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-gas-bill-so-high-in-winter/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 5,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 4,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/electricity-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.41,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 1.5,
+       "bounce_rate": 33.33
+      },
+      {
+       "value": "/blog/22-minimum-bill-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 5.25,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/44-how-to-lower-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/46-what-time-is-electricity-cheapest/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/demand-charge-electric-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/duct-leaks-symptoms-hvac-running-all-day/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/ev-charging-impact-electric-bill/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gas-delivery-charge-vs-supply-charge/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/is-your-toilet-running-leak-test/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/sewer-averaging-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 5,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 5,
+       "pageviews_percentage": 0.31,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/tiered-water-rates-explained/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/water-service-charge-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-winter/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 8.75,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/editorial-team/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/utilities-glossary/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 0.6666666666666666,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/water-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.27,
+       "pageviews": 12,
+       "pageviews_percentage": 0.75,
+       "time_on_page_seconds": 6.333333333333333,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/about/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/author//",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/01-how-to-read-your-electric-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 226.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/04-hidden-fees-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 17,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/05-how-to-/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/13-ac-short-cycling-causes-fixes/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 4,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 115,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/2026-utility-cost-index-by-state/",
+       "hostname": "",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 1,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/30-sudden-spike-in-electricity-bill-no-usage-change/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 16.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/42-best-energy-efficient-space-heater/",
+       "hostname": "",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 1,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/category/fees/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/drought-surcharge-on-water-bill-explained/",
+       "hostname": "",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 1,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gadgets-that-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gas-vs-electric-heating-cost-comparison/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/how-to-lower-electric-bill-without-solar/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/supply-vs-delivery-charges-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/utility-assistance-programs-liheap/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 3,
+       "pageviews_percentage": 0.19,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-electric-bill-changes-month-to-month/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-my-utility-bill-is-higher-with-same-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/contact/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 3,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/gas-explained/",
+       "hostname": "",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/privacy-policy/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/search/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/therms/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "time_on_page_seconds": 17,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/terms/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.14,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 0
+      }
+     ],
+     "totalCount": 98
+    }
+   },
+   "referrers": {
+    "data": {
+     "data": [
+      {
+       "value": "duckduckgo.com",
+       "count": 202,
+       "percentage": 42.26,
+       "pageviews": 202,
+       "pageviews_percentage": 42.26,
+       "bounce_rate": 92.57
+      },
+      {
+       "value": "bing.com",
+       "count": 174,
+       "percentage": 36.4,
+       "pageviews": 174,
+       "pageviews_percentage": 36.4,
+       "bounce_rate": 86.78
+      },
+      {
+       "value": "search.yahoo.com",
+       "count": 58,
+       "percentage": 12.13,
+       "pageviews": 58,
+       "pageviews_percentage": 12.13,
+       "bounce_rate": 93.1
+      },
+      {
+       "value": "google.com",
+       "count": 21,
+       "percentage": 4.39,
+       "pageviews": 21,
+       "pageviews_percentage": 4.39,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ecosia.org",
+       "count": 13,
+       "percentage": 2.72,
+       "pageviews": 13,
+       "pageviews_percentage": 2.72,
+       "bounce_rate": 92.31
+      },
+      {
+       "value": "ca.search.yahoo.com",
+       "count": 4,
+       "percentage": 0.84,
+       "pageviews": 4,
+       "pageviews_percentage": 0.84,
+       "bounce_rate": 75
+      },
+      {
+       "value": "au.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      },
+      {
+       "value": "com.google.android.gm",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      },
+      {
+       "value": "copilot.microsoft.com",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      },
+      {
+       "value": "noai.duckduckgo.com",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      },
+      {
+       "value": "search.brave.com",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      },
+      {
+       "value": "startpage.com",
+       "count": 1,
+       "percentage": 0.21,
+       "pageviews": 1,
+       "pageviews_percentage": 0.21,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 12
+    }
+   },
+   "channels": {
+    "data": {
+     "data": [
+      {
+       "value": "Organic Search",
+       "count": 477,
+       "percentage": 73.38,
+       "pageviews": 477,
+       "pageviews_percentage": 73.38,
+       "bounce_rate": 90.78
+      },
+      {
+       "value": "Direct",
+       "count": 172,
+       "percentage": 26.46,
+       "pageviews": 172,
+       "pageviews_percentage": 26.46,
+       "bounce_rate": 91.28
+      },
+      {
+       "value": "Organic Social",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 3
+    }
+   },
+   "countries": {
+    "data": {
+     "data": [
+      {
+       "value": "US",
+       "count": 503,
+       "percentage": 77.38,
+       "pageviews": 503,
+       "pageviews_percentage": 77.38,
+       "bounce_rate": 90.46
+      },
+      {
+       "value": "CN",
+       "count": 88,
+       "percentage": 13.54,
+       "pageviews": 88,
+       "pageviews_percentage": 13.54,
+       "bounce_rate": 98.86
+      },
+      {
+       "value": "CA",
+       "count": 10,
+       "percentage": 1.54,
+       "pageviews": 10,
+       "pageviews_percentage": 1.54,
+       "bounce_rate": 90
+      },
+      {
+       "value": "GB",
+       "count": 8,
+       "percentage": 1.23,
+       "pageviews": 8,
+       "pageviews_percentage": 1.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "NL",
+       "count": 4,
+       "percentage": 0.62,
+       "pageviews": 4,
+       "pageviews_percentage": 0.62,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AU",
+       "count": 3,
+       "percentage": 0.46,
+       "pageviews": 3,
+       "pageviews_percentage": 0.46,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AR",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 100
+      },
+      {
+       "value": "DE",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 0
+      },
+      {
+       "value": "DO",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 100
+      },
+      {
+       "value": "IN",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 100
+      },
+      {
+       "value": "JP",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 100
+      },
+      {
+       "value": "RS",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 100
+      },
+      {
+       "value": "SG",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 50
+      },
+      {
+       "value": "UA",
+       "count": 2,
+       "percentage": 0.31,
+       "pageviews": 2,
+       "pageviews_percentage": 0.31,
+       "bounce_rate": 50
+      },
+      {
+       "value": "AL",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 0
+      },
+      {
+       "value": "BE",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "CZ",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ES",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "FJ",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "GR",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "GY",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "IE",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      },
+      {
+       "value": "LV",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 0
+      },
+      {
+       "value": "MX",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 0
+      },
+      {
+       "value": "MY",
+       "count": 1,
+       "percentage": 0.15,
+       "pageviews": 1,
+       "pageviews_percentage": 0.15,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 32
+    }
+   }
+  },
+  "last30": {
+   "start": "2026-07-28",
+   "end": "2026-08-27",
+   "overview": {
+    "data": {
+     "sessions": 1717,
+     "pages_per_session": 1.2277227722772277,
+     "bounce_rate": 89.10891089108911,
+     "session_duration": 77.93302271403611,
+     "pageviews": 2108,
+     "users": 1423
+    }
+   },
+   "pages": {
+    "data": {
+     "data": [
+      {
+       "value": "/blog/how-to-lower-electric-bill-complete-guide/",
+       "hostname": "utilityexplained.com",
+       "count": 170,
+       "percentage": 8.94,
+       "pageviews": 423,
+       "pageviews_percentage": 10.71,
+       "time_on_page_seconds": 35.77068557919622,
+       "bounce_rate": 91.18
+      },
+      {
+       "value": "/blog/30-sudden-spike-in-electricity-bill-no-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 100,
+       "percentage": 5.26,
+       "pageviews": 225,
+       "pageviews_percentage": 5.69,
+       "time_on_page_seconds": 32.324444444444445,
+       "bounce_rate": 85
+      },
+      {
+       "value": "/blog/water-meter-running-when-no-water-used/",
+       "hostname": "utilityexplained.com",
+       "count": 93,
+       "percentage": 4.89,
+       "pageviews": 207,
+       "pageviews_percentage": 5.24,
+       "time_on_page_seconds": 38.65700483091788,
+       "bounce_rate": 84.95
+      },
+      {
+       "value": "/blog/28-utility-reconnection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 81,
+       "percentage": 4.26,
+       "pageviews": 170,
+       "pageviews_percentage": 4.3,
+       "time_on_page_seconds": 48.82941176470588,
+       "bounce_rate": 80.25
+      },
+      {
+       "value": "/blog/what-is-ccf-on-a-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 78,
+       "percentage": 4.1,
+       "pageviews": 167,
+       "pageviews_percentage": 4.23,
+       "time_on_page_seconds": 39.946107784431135,
+       "bounce_rate": 84.62
+      },
+      {
+       "value": "/blog/how-sewer-charges-work-on-your-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 76,
+       "percentage": 4,
+       "pageviews": 160,
+       "pageviews_percentage": 4.05,
+       "time_on_page_seconds": 64.5625,
+       "bounce_rate": 78.95
+      },
+      {
+       "value": "/blog/06-water-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 73,
+       "percentage": 3.84,
+       "pageviews": 155,
+       "pageviews_percentage": 3.92,
+       "time_on_page_seconds": 29.303225806451614,
+       "bounce_rate": 93.15
+      },
+      {
+       "value": "/blog/05-how-to-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 62,
+       "percentage": 3.26,
+       "pageviews": 149,
+       "pageviews_percentage": 3.77,
+       "time_on_page_seconds": 64.00671140939598,
+       "bounce_rate": 72.58
+      },
+      {
+       "value": "/blog/water-meter-leak-indicator-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 62,
+       "percentage": 3.26,
+       "pageviews": 122,
+       "pageviews_percentage": 3.09,
+       "time_on_page_seconds": 38.82786885245902,
+       "bounce_rate": 72.58
+      },
+      {
+       "value": "/blog/23-utility-billing-cycle-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 57,
+       "percentage": 3,
+       "pageviews": 118,
+       "pageviews_percentage": 2.99,
+       "time_on_page_seconds": 36.97457627118644,
+       "bounce_rate": 82.46
+      },
+      {
+       "value": "/blog/03-why-is-my-electric-bill-so-high/",
+       "hostname": "utilityexplained.com",
+       "count": 51,
+       "percentage": 2.68,
+       "pageviews": 107,
+       "pageviews_percentage": 2.71,
+       "time_on_page_seconds": 22.925233644859812,
+       "bounce_rate": 84.31
+      },
+      {
+       "value": "/blog/07-gas-bill-too-high/",
+       "hostname": "utilityexplained.com",
+       "count": 48,
+       "percentage": 2.52,
+       "pageviews": 106,
+       "pageviews_percentage": 2.68,
+       "time_on_page_seconds": 46.77358490566038,
+       "bounce_rate": 85.42
+      },
+      {
+       "value": "/blog/electric-bill-breakdown-understanding-line-items/",
+       "hostname": "utilityexplained.com",
+       "count": 48,
+       "percentage": 2.52,
+       "pageviews": 119,
+       "pageviews_percentage": 3.01,
+       "time_on_page_seconds": 37.596638655462186,
+       "bounce_rate": 70.83
+      },
+      {
+       "value": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 35,
+       "percentage": 1.84,
+       "pageviews": 69,
+       "pageviews_percentage": 1.75,
+       "time_on_page_seconds": 8.753623188405797,
+       "bounce_rate": 82.86
+      },
+      {
+       "value": "/",
+       "hostname": "utilityexplained.com",
+       "count": 33,
+       "percentage": 1.74,
+       "pageviews": 118,
+       "pageviews_percentage": 2.99,
+       "time_on_page_seconds": 36.61864406779661,
+       "bounce_rate": 48.48
+      },
+      {
+       "value": "/blog/average-utility-bills-by-state-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 30,
+       "percentage": 1.58,
+       "pageviews": 54,
+       "pageviews_percentage": 1.37,
+       "time_on_page_seconds": 14.62962962962963,
+       "bounce_rate": 86.67
+      },
+      {
+       "value": "/blog/stormwater-fee-on-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 28,
+       "percentage": 1.47,
+       "pageviews": 42,
+       "pageviews_percentage": 1.06,
+       "time_on_page_seconds": 4.642857142857143,
+       "bounce_rate": 82.14
+      },
+      {
+       "value": "/blog/mcf-vs-ccf-vs-therms-on-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 27,
+       "percentage": 1.42,
+       "pageviews": 44,
+       "pageviews_percentage": 1.11,
+       "time_on_page_seconds": 29.045454545454547,
+       "bounce_rate": 88.89
+      },
+      {
+       "value": "/blog/why-your-electric-bill-keeps-rising-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 27,
+       "percentage": 1.42,
+       "pageviews": 46,
+       "pageviews_percentage": 1.16,
+       "time_on_page_seconds": 49.23913043478261,
+       "bounce_rate": 96.3
+      },
+      {
+       "value": "/blog/19-utility-bill-surcharges-and-riders-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 25,
+       "percentage": 1.32,
+       "pageviews": 49,
+       "pageviews_percentage": 1.24,
+       "time_on_page_seconds": 9.10204081632653,
+       "bounce_rate": 96
+      },
+      {
+       "value": "/blog/average-water-usage-per-person/",
+       "hostname": "utilityexplained.com",
+       "count": 24,
+       "percentage": 1.26,
+       "pageviews": 51,
+       "pageviews_percentage": 1.29,
+       "time_on_page_seconds": 12.411764705882353,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/how-do-smart-meters-work/",
+       "hostname": "utilityexplained.com",
+       "count": 24,
+       "percentage": 1.26,
+       "pageviews": 59,
+       "pageviews_percentage": 1.49,
+       "time_on_page_seconds": 15.915254237288135,
+       "bounce_rate": 91.67
+      },
+      {
+       "value": "/blog/18-fuel-adjustment-charge-on-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 22,
+       "percentage": 1.16,
+       "pageviews": 50,
+       "pageviews_percentage": 1.27,
+       "time_on_page_seconds": 19.94,
+       "bounce_rate": 95.45
+      },
+      {
+       "value": "/blog/27-utility-connection-fee-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 21,
+       "percentage": 1.1,
+       "pageviews": 46,
+       "pageviews_percentage": 1.16,
+       "time_on_page_seconds": 21.5,
+       "bounce_rate": 80.95
+      },
+      {
+       "value": "/blog/49-demand-charges-electricity-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 21,
+       "percentage": 1.1,
+       "pageviews": 45,
+       "pageviews_percentage": 1.14,
+       "time_on_page_seconds": 31.155555555555555,
+       "bounce_rate": 80.95
+      },
+      {
+       "value": "/blog/how-to-read-electric-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 21,
+       "percentage": 1.1,
+       "pageviews": 45,
+       "pageviews_percentage": 1.14,
+       "time_on_page_seconds": 16.244444444444444,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/08-time-of-use-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 1,
+       "pageviews": 48,
+       "pageviews_percentage": 1.21,
+       "time_on_page_seconds": 24.6875,
+       "bounce_rate": 84.21
+      },
+      {
+       "value": "/blog/26-utility-deposit-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 1,
+       "pageviews": 42,
+       "pageviews_percentage": 1.06,
+       "time_on_page_seconds": 49.23809523809524,
+       "bounce_rate": 94.74
+      },
+      {
+       "value": "/blog/why-did-my-water-bill-suddenly-increase/",
+       "hostname": "utilityexplained.com",
+       "count": 19,
+       "percentage": 1,
+       "pageviews": 35,
+       "pageviews_percentage": 0.89,
+       "time_on_page_seconds": 7.714285714285714,
+       "bounce_rate": 89.47
+      },
+      {
+       "value": "/blog/01-how-to-read-your-electric-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 18,
+       "percentage": 0.95,
+       "pageviews": 24,
+       "pageviews_percentage": 0.61,
+       "time_on_page_seconds": 61.5,
+       "bounce_rate": 72.22
+      },
+      {
+       "value": "/blog/41-how-to-read-electricity-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 18,
+       "percentage": 0.95,
+       "pageviews": 37,
+       "pageviews_percentage": 0.94,
+       "time_on_page_seconds": 15.054054054054054,
+       "bounce_rate": 77.78
+      },
+      {
+       "value": "/utility-bills-costs-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 18,
+       "percentage": 0.95,
+       "pageviews": 26,
+       "pageviews_percentage": 0.66,
+       "time_on_page_seconds": 3.3461538461538463,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/14-estimated-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 17,
+       "percentage": 0.89,
+       "pageviews": 31,
+       "pageviews_percentage": 0.78,
+       "time_on_page_seconds": 15.451612903225806,
+       "bounce_rate": 70.59
+      },
+      {
+       "value": "/blog/21-past-due-balance-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 17,
+       "percentage": 0.89,
+       "pageviews": 36,
+       "pageviews_percentage": 0.91,
+       "time_on_page_seconds": 22.86111111111111,
+       "bounce_rate": 82.35
+      },
+      {
+       "value": "/blog/tiered-electricity-rates-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 15,
+       "percentage": 0.79,
+       "pageviews": 33,
+       "pageviews_percentage": 0.84,
+       "time_on_page_seconds": 15.393939393939394,
+       "bounce_rate": 86.67
+      },
+      {
+       "value": "/blog/43-understand-natural-gas-bill-charges/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 0.74,
+       "pageviews": 30,
+       "pageviews_percentage": 0.76,
+       "time_on_page_seconds": 20.966666666666665,
+       "bounce_rate": 92.86
+      },
+      {
+       "value": "/blog/how-to-read-a-water-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 0.74,
+       "pageviews": 24,
+       "pageviews_percentage": 0.61,
+       "time_on_page_seconds": 6.75,
+       "bounce_rate": 71.43
+      },
+      {
+       "value": "/blog/how-to-read-gas-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 0.74,
+       "pageviews": 18,
+       "pageviews_percentage": 0.46,
+       "time_on_page_seconds": 64.72222222222223,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/why-is-my-gas-bill-so-high-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 14,
+       "percentage": 0.74,
+       "pageviews": 27,
+       "pageviews_percentage": 0.68,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 92.86
+      },
+      {
+       "value": "/blog/02-average-utility-costs-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 13,
+       "percentage": 0.68,
+       "pageviews": 17,
+       "pageviews_percentage": 0.43,
+       "time_on_page_seconds": 3.5294117647058822,
+       "bounce_rate": 84.62
+      },
+      {
+       "value": "/blog/17-what-is-customer-charge-on-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 11,
+       "percentage": 0.58,
+       "pageviews": 24,
+       "pageviews_percentage": 0.61,
+       "time_on_page_seconds": 15.166666666666666,
+       "bounce_rate": 90.91
+      },
+      {
+       "value": "/blog/how-to-read-your-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 11,
+       "percentage": 0.58,
+       "pageviews": 15,
+       "pageviews_percentage": 0.38,
+       "time_on_page_seconds": 5.466666666666667,
+       "bounce_rate": 81.82
+      },
+      {
+       "value": "/blog/11-understanding-kwh-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 10,
+       "percentage": 0.53,
+       "pageviews": 11,
+       "pageviews_percentage": 0.28,
+       "time_on_page_seconds": 19.09090909090909,
+       "bounce_rate": 90
+      },
+      {
+       "value": "/blog/16-budget-billing-level-pay-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 10,
+       "percentage": 0.53,
+       "pageviews": 18,
+       "pageviews_percentage": 0.46,
+       "time_on_page_seconds": 5.888888888888889,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/is-your-toilet-running-leak-test/",
+       "hostname": "utilityexplained.com",
+       "count": 10,
+       "percentage": 0.53,
+       "pageviews": 16,
+       "pageviews_percentage": 0.4,
+       "time_on_page_seconds": 6.8125,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/20-utility-bill-proration-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 0.47,
+       "pageviews": 17,
+       "pageviews_percentage": 0.43,
+       "time_on_page_seconds": 5.882352941176471,
+       "bounce_rate": 77.78
+      },
+      {
+       "value": "/blog/7-states-with-worst-utility-spikes-2026/",
+       "hostname": "utilityexplained.com",
+       "count": 9,
+       "percentage": 0.47,
+       "pageviews": 14,
+       "pageviews_percentage": 0.35,
+       "time_on_page_seconds": 8.214285714285714,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/15-why-utility-bill-higher-same-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.42,
+       "pageviews": 9,
+       "pageviews_percentage": 0.23,
+       "time_on_page_seconds": 149.22222222222223,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "/blog/50-best-smart-plugs-standby-power/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.42,
+       "pageviews": 17,
+       "pageviews_percentage": 0.43,
+       "time_on_page_seconds": 36.470588235294116,
+       "bounce_rate": 37.5
+      },
+      {
+       "value": "/blog/sewer-averaging-water-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.42,
+       "pageviews": 19,
+       "pageviews_percentage": 0.48,
+       "time_on_page_seconds": 89.26315789473684,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/water-service-charge-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 8,
+       "percentage": 0.42,
+       "pageviews": 16,
+       "pageviews_percentage": 0.4,
+       "time_on_page_seconds": 17.3125,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/moving-utilities-checklist/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.37,
+       "pageviews": 13,
+       "pageviews_percentage": 0.33,
+       "time_on_page_seconds": 17.46153846153846,
+       "bounce_rate": 85.71
+      },
+      {
+       "value": "/blog/supply-vs-delivery-charges-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 7,
+       "percentage": 0.37,
+       "pageviews": 15,
+       "pageviews_percentage": 0.38,
+       "time_on_page_seconds": 12.133333333333333,
+       "bounce_rate": 71.43
+      },
+      {
+       "value": "/blog/12-how-to-read-your-gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 12,
+       "pageviews_percentage": 0.3,
+       "time_on_page_seconds": 143.41666666666666,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "/blog/24-delivery-charge-vs-supply-charge-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 13,
+       "pageviews_percentage": 0.33,
+       "time_on_page_seconds": 23,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/46-what-time-is-electricity-cheapest/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 11,
+       "pageviews_percentage": 0.28,
+       "time_on_page_seconds": 7.2727272727272725,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/demand-charge-electric-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 2.857142857142857,
+       "bounce_rate": 83.33
+      },
+      {
+       "value": "/blog/gas-customer-charge-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 9,
+       "pageviews_percentage": 0.23,
+       "time_on_page_seconds": 4.555555555555555,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 6,
+       "percentage": 0.32,
+       "pageviews": 13,
+       "pageviews_percentage": 0.33,
+       "time_on_page_seconds": 7.6923076923076925,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/22-minimum-bill-utility-bill-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.26,
+       "pageviews": 9,
+       "pageviews_percentage": 0.23,
+       "time_on_page_seconds": 2.6666666666666665,
+       "bounce_rate": 80
+      },
+      {
+       "value": "/blog/45-whole-house-generator-vs-portable-cost/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.26,
+       "pageviews": 8,
+       "pageviews_percentage": 0.2,
+       "time_on_page_seconds": 5.125,
+       "bounce_rate": 80
+      },
+      {
+       "value": "/blog/why-is-my-gas-bill-so-high-in-winter/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.26,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 3,
+       "bounce_rate": 60
+      },
+      {
+       "value": "/electricity-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.26,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 77.71428571428571,
+       "bounce_rate": 20
+      },
+      {
+       "value": "/heating-cooling-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 5,
+       "percentage": 0.26,
+       "pageviews": 9,
+       "pageviews_percentage": 0.23,
+       "time_on_page_seconds": 0.6666666666666666,
+       "bounce_rate": 20
+      },
+      {
+       "value": "/about/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 319.7142857142857,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 11,
+       "pageviews_percentage": 0.28,
+       "time_on_page_seconds": 137.8181818181818,
+       "bounce_rate": 25
+      },
+      {
+       "value": "/blog/09-apartment-utilities-cost/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 5,
+       "pageviews_percentage": 0.13,
+       "time_on_page_seconds": 3,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/10-fixed-vs-variable-utility-rate/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 8,
+       "pageviews_percentage": 0.2,
+       "time_on_page_seconds": 8.875,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/2026-utility-cost-index-by-state/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 5,
+       "pageviews_percentage": 0.13,
+       "time_on_page_seconds": 0.4,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/44-how-to-lower-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 207.57142857142858,
+       "bounce_rate": 25
+      },
+      {
+       "value": "/blog/complete-guide-understanding-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 8,
+       "pageviews_percentage": 0.2,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/gas-delivery-charge-vs-supply-charge/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 6,
+       "pageviews_percentage": 0.15,
+       "time_on_page_seconds": 194.16666666666666,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/how-to-dispute-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 10,
+       "pageviews_percentage": 0.25,
+       "time_on_page_seconds": 31.3,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/how-to-lower-electric-bill-without-solar/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 8,
+       "pageviews_percentage": 0.2,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/how-to-read-your-gas-bill-therms-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 5,
+       "pageviews_percentage": 0.13,
+       "time_on_page_seconds": 0.2,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/why-is-my-electricity-bill-so-high-in-summer/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 9,
+       "pageviews_percentage": 0.23,
+       "time_on_page_seconds": 19.666666666666668,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/blog/why-is-my-water-bill-higher-in-winter/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 7.857142857142857,
+       "bounce_rate": 75
+      },
+      {
+       "value": "/utilities-glossary/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 6,
+       "pageviews_percentage": 0.15,
+       "time_on_page_seconds": 0.3333333333333333,
+       "bounce_rate": 25
+      },
+      {
+       "value": "/water-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 4,
+       "percentage": 0.21,
+       "pageviews": 17,
+       "pageviews_percentage": 0.43,
+       "time_on_page_seconds": 6.352941176470588,
+       "bounce_rate": 25
+      },
+      {
+       "value": "/blog/04-hidden-fees-utility-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 6,
+       "pageviews_percentage": 0.15,
+       "time_on_page_seconds": 9,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/47-check-energy-leaks-home-diy/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/blog/do-programmable-thermostats-cut-heating-bills/",
+       "hostname": "",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 4,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 198.75,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/duct-leaks-symptoms-hvac-running-all-day/",
+       "hostname": "",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 0.3333333333333333,
+       "bounce_rate": 33.33
+      },
+      {
+       "value": "/blog/phantom-power-draw-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 6,
+       "pageviews_percentage": 0.15,
+       "time_on_page_seconds": 6,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/tiered-water-rates-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 0.3333333333333333,
+       "bounce_rate": 66.67
+      },
+      {
+       "value": "/gas-explained/",
+       "hostname": "utilityexplained.com",
+       "count": 3,
+       "percentage": 0.16,
+       "pageviews": 5,
+       "pageviews_percentage": 0.13,
+       "time_on_page_seconds": 0.4,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/author/tanya-patterson/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 4,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 4.25,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/13-ac-short-cycling-causes-fixes/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 7,
+       "pageviews_percentage": 0.18,
+       "time_on_page_seconds": 68.57142857142857,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/drought-surcharge-on-water-bill-explained/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/ev-charging-impact-electric-bill/",
+       "hostname": "",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gadgets-that-lower-utility-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/how-utility-rates-fees-usage-work-together/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 5,
+       "pageviews_percentage": 0.13,
+       "time_on_page_seconds": 8,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/what-is-ccf-on-a-water-bill",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/contact/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 4,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 22.25,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/editorial-team/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 4,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/search/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 50
+      },
+      {
+       "value": "/tags/page/7/",
+       "hostname": "utilityexplained.com",
+       "count": 2,
+       "percentage": 0.11,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/author//",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/author/margaret-harrington/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/author/roberto-mendoza/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 4,
+       "pageviews_percentage": 0.1,
+       "time_on_page_seconds": 3,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/04-hidden-fees-utility-bill.md",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/05-how-to-/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/09-apartment-utilities-cost/10-fixed-vs-variable-utility-rate.md",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/22-minimum-bill-utility-bill-explained",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/30-sudden-spike-in-electricity-bill-no-usage-change/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 16.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/42-best-energy-efficient-space-heater/",
+       "hostname": "",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/afue-vs-seer-vs-hspf-vs-cop/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/can-utility-shut-off-service/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/category/electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/category/fees/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/category/heating-cooling/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 61.333333333333336,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/category/water/",
+       "hostname": "localhost",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 18,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/ductless-mini-split-vs-central-air/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/fixed-vs-variable-rate-electricity-plan/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/gas-vs-electric-heating-cost-comparison/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/utility-assistance-programs-liheap/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 6.666666666666667,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/water-meter-running-when-no-water-used",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/what-is-a-kilowatt-hour/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 2,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/blog/why-electric-bill-changes-month-to-month/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 9.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-is-my-electric-bill-so-high-this-month/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/blog/why-my-utility-bill-is-higher-with-same-usage/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10.5,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/corrections/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/privacy-policy/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 0.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/billing-charges/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/demand-charge/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/deposit/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/energy-costs/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/gas-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/heating-costs/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/heating-system-comparison/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/leak/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/leak/page/2/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/lower-electric-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 3,
+       "pageviews_percentage": 0.08,
+       "time_on_page_seconds": 20.333333333333332,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/net-metering/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/11/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/13/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/17/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/2/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/23/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/4/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/page/9/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/reduce-bills/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/save-electricity/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 10.5,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/save-on-water-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/standby-power/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/therms/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 17,
+       "bounce_rate": 0
+      },
+      {
+       "value": "/tags/unexpected-bill/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 1,
+       "pageviews_percentage": 0.03,
+       "time_on_page_seconds": 0,
+       "bounce_rate": 100
+      },
+      {
+       "value": "/tags/water-meter/",
+       "hostname": "utilityexplained.com",
+       "count": 1,
+       "percentage": 0.05,
+       "pageviews": 2,
+       "pageviews_percentage": 0.05,
+       "time_on_page_seconds": 15.5,
+       "bounce_rate": 0
+      }
+     ],
+     "totalCount": 151
+    }
+   },
+   "referrers": {
+    "data": {
+     "data": [
+      {
+       "value": "duckduckgo.com",
+       "count": 512,
+       "percentage": 42.42,
+       "pageviews": 512,
+       "pageviews_percentage": 42.42,
+       "bounce_rate": 90.23
+      },
+      {
+       "value": "bing.com",
+       "count": 413,
+       "percentage": 34.22,
+       "pageviews": 413,
+       "pageviews_percentage": 34.22,
+       "bounce_rate": 86.92
+      },
+      {
+       "value": "search.yahoo.com",
+       "count": 157,
+       "percentage": 13.01,
+       "pageviews": 157,
+       "pageviews_percentage": 13.01,
+       "bounce_rate": 88.54
+      },
+      {
+       "value": "ecosia.org",
+       "count": 47,
+       "percentage": 3.89,
+       "pageviews": 47,
+       "pageviews_percentage": 3.89,
+       "bounce_rate": 91.49
+      },
+      {
+       "value": "google.com",
+       "count": 47,
+       "percentage": 3.89,
+       "pageviews": 47,
+       "pageviews_percentage": 3.89,
+       "bounce_rate": 93.62
+      },
+      {
+       "value": "noai.duckduckgo.com",
+       "count": 5,
+       "percentage": 0.41,
+       "pageviews": 5,
+       "pageviews_percentage": 0.41,
+       "bounce_rate": 80
+      },
+      {
+       "value": "ca.search.yahoo.com",
+       "count": 4,
+       "percentage": 0.33,
+       "pageviews": 4,
+       "pageviews_percentage": 0.33,
+       "bounce_rate": 75
+      },
+      {
+       "value": "us.search.yahoo.com",
+       "count": 4,
+       "percentage": 0.33,
+       "pageviews": 4,
+       "pageviews_percentage": 0.33,
+       "bounce_rate": 100
+      },
+      {
+       "value": "copilot.microsoft.com",
+       "count": 3,
+       "percentage": 0.25,
+       "pageviews": 3,
+       "pageviews_percentage": 0.25,
+       "bounce_rate": 100
+      },
+      {
+       "value": "uk.search.yahoo.com",
+       "count": 3,
+       "percentage": 0.25,
+       "pageviews": 3,
+       "pageviews_percentage": 0.25,
+       "bounce_rate": 100
+      },
+      {
+       "value": "search.brave.com",
+       "count": 2,
+       "percentage": 0.17,
+       "pageviews": 2,
+       "pageviews_percentage": 0.17,
+       "bounce_rate": 100
+      },
+      {
+       "value": "au.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "cac-word-edit.officeapps.live.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "com.google.android.gm",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "kagi.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "m.facebook.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "ph.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "qwant.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "r.search.yahoo.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "search.nortonsafesearch.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      },
+      {
+       "value": "startpage.com",
+       "count": 1,
+       "percentage": 0.08,
+       "pageviews": 1,
+       "pageviews_percentage": 0.08,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 21
+    }
+   },
+   "channels": {
+    "data": {
+     "data": [
+      {
+       "value": "Organic Search",
+       "count": 1202,
+       "percentage": 70.01,
+       "pageviews": 1202,
+       "pageviews_percentage": 70.01,
+       "bounce_rate": 89.1
+      },
+      {
+       "value": "Direct",
+       "count": 507,
+       "percentage": 29.53,
+       "pageviews": 507,
+       "pageviews_percentage": 29.53,
+       "bounce_rate": 88.95
+      },
+      {
+       "value": "Organic Social",
+       "count": 6,
+       "percentage": 0.35,
+       "pageviews": 6,
+       "pageviews_percentage": 0.35,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AI",
+       "count": 1,
+       "percentage": 0.06,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "bounce_rate": 100
+      },
+      {
+       "value": "Referral",
+       "count": 1,
+       "percentage": 0.06,
+       "pageviews": 1,
+       "pageviews_percentage": 0.06,
+       "bounce_rate": 100
+      }
+     ],
+     "totalCount": 5
+    }
+   },
+   "countries": {
+    "data": {
+     "data": [
+      {
+       "value": "US",
+       "count": 1338,
+       "percentage": 77.93,
+       "pageviews": 1338,
+       "pageviews_percentage": 77.93,
+       "bounce_rate": 88.42
+      },
+      {
+       "value": "CN",
+       "count": 214,
+       "percentage": 12.46,
+       "pageviews": 214,
+       "pageviews_percentage": 12.46,
+       "bounce_rate": 95.33
+      },
+      {
+       "value": "CA",
+       "count": 32,
+       "percentage": 1.86,
+       "pageviews": 32,
+       "pageviews_percentage": 1.86,
+       "bounce_rate": 90.62
+      },
+      {
+       "value": "GB",
+       "count": 21,
+       "percentage": 1.22,
+       "pageviews": 21,
+       "pageviews_percentage": 1.22,
+       "bounce_rate": 90.48
+      },
+      {
+       "value": "AU",
+       "count": 8,
+       "percentage": 0.47,
+       "pageviews": 8,
+       "pageviews_percentage": 0.47,
+       "bounce_rate": 87.5
+      },
+      {
+       "value": "DE",
+       "count": 8,
+       "percentage": 0.47,
+       "pageviews": 8,
+       "pageviews_percentage": 0.47,
+       "bounce_rate": 62.5
+      },
+      {
+       "value": "BE",
+       "count": 5,
+       "percentage": 0.29,
+       "pageviews": 5,
+       "pageviews_percentage": 0.29,
+       "bounce_rate": 80
+      },
+      {
+       "value": "IN",
+       "count": 5,
+       "percentage": 0.29,
+       "pageviews": 5,
+       "pageviews_percentage": 0.29,
+       "bounce_rate": 80
+      },
+      {
+       "value": "NL",
+       "count": 5,
+       "percentage": 0.29,
+       "pageviews": 5,
+       "pageviews_percentage": 0.29,
+       "bounce_rate": 100
+      },
+      {
+       "value": "FR",
+       "count": 4,
+       "percentage": 0.23,
+       "pageviews": 4,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "MX",
+       "count": 4,
+       "percentage": 0.23,
+       "pageviews": 4,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 50
+      },
+      {
+       "value": "RS",
+       "count": 4,
+       "percentage": 0.23,
+       "pageviews": 4,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 100
+      },
+      {
+       "value": "SG",
+       "count": 4,
+       "percentage": 0.23,
+       "pageviews": 4,
+       "pageviews_percentage": 0.23,
+       "bounce_rate": 75
+      },
+      {
+       "value": "ES",
+       "count": 3,
+       "percentage": 0.17,
+       "pageviews": 3,
+       "pageviews_percentage": 0.17,
+       "bounce_rate": 100
+      },
+      {
+       "value": "JP",
+       "count": 3,
+       "percentage": 0.17,
+       "pageviews": 3,
+       "pageviews_percentage": 0.17,
+       "bounce_rate": 100
+      },
+      {
+       "value": "LT",
+       "count": 3,
+       "percentage": 0.17,
+       "pageviews": 3,
+       "pageviews_percentage": 0.17,
+       "bounce_rate": 100
+      },
+      {
+       "value": "PH",
+       "count": 3,
+       "percentage": 0.17,
+       "pageviews": 3,
+       "pageviews_percentage": 0.17,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AE",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "AR",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "BR",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "DO",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "EG",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "FI",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "GU",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 100
+      },
+      {
+       "value": "HU",
+       "count": 2,
+       "percentage": 0.12,
+       "pageviews": 2,
+       "pageviews_percentage": 0.12,
+       "bounce_rate": 50
+      }
+     ],
+     "totalCount": 55
+    }
+   }
+  }
+ }
+}

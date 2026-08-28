@@ -1,303 +1,63 @@
 ---
-title: "Past Due Balance on Utility Bill Explained"
+title: "How to Review a Past-Due Balance on a Utility Bill"
 slug: "21-past-due-balance-utility-bill-explained"
-description: "A past due balance on your utility bill can lead to late fees, service disconnection, and credit damage. Here's exactly what happens, what your rights are, and how to resolve it."
+description: "Review a past-due utility balance from the account statement, payment records, provider notice, tariff, and current assistance or payment options."
 date: 2026-05-28
-updated: 2026-08-21
+updated: 2026-08-23
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
-tags: ["troubleshooting", "utility bills", "billing", "disconnection"]
-keywords: ["past due balance utility", "utility bill past due", "what happens if utility bill is late", "overdue utility bill"]
+tags: ["past due", "utility bills", "billing"]
+keywords: ["past due balance utility", "utility bill past due", "overdue utility bill"]
 image: "/images/articles/21-past-due-balance-utility-bill-explained/21-past-due-balance-utility-bill-explained_hero_v2.webp"
+sources:
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
 ---
+
 ## Quick Answer
 
-**A past due balance is unpaid charges from a previous billing cycle that carry forward to your current bill.** If you don't pay it within the grace period (typically 10-20 days), you'll face late fees, then a disconnection notice, and eventually service shutoff. Here's what to do right now:
+**A past-due balance should be reviewed against the account statement, payment records, and provider’s current written notice before assuming a late fee, shutoff, collection, payment plan, or credit outcome.** The provider’s tariff and account terms control due dates, fees, notices, assistance, payment arrangements, and service consequences.
 
-- **Can't pay the full amount?** Call your utility and ask for a payment arrangement — most offer these before disconnection.
-- **Need emergency help?** Ask about LIHEAP, hardship programs, or [[utility assistance programs](/blog/utility-assistance-programs-liheap/)](/blog/utility-assistance-programs-liheap/).
-- **Facing disconnection?** Most states require utilities to give you written notice 10-15 days before shutting off service.
-- **Worried about your credit?** Utility debts can be sent to collections and reported to credit bureaus.
+If paying utility bills is difficult, CFPB directs renters to local and state resources, including LIHEAP-related assistance information.[1]
 
-You open your utility bill and see "Past Due Balance: $185.00" printed in bold. Maybe you forgot to pay, maybe you couldn't afford it, or maybe there's a billing error you're still disputing. Regardless of the reason, that past due balance puts you on a clock. Utilities have specific procedures—and you have specific rights—when it comes to overdue bills. Understanding what happens next, how long you have, and what assistance is available can mean the difference between a minor inconvenience and a disconnection notice on your front door.
+## Reconcile the Account First
 
-If your balance is past due, understand [when the utility can shut off service](/blog/can-utility-shut-off-service/) before you lose power.
+Compare the current statement with the prior statement and payment records. Record:
 
-## What Is a Past Due Balance?
-
-A past due balance is the amount from a previous billing period that was not paid by the due date. It typically appears as a separate line item on your current bill, in addition to the current month's charges. For example:
-
-- Current charges (this month): $145.00
-- Past due balance: $185.00
-- Late fee: $8.50
-- Total amount due: $338.50
-
-{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-bill-anatomy.webp" alt="Labeled utility bill diagram showing current charges, past due balance, late fee, and total amount due, with a past due stamp and due dates" caption="Where the past due balance sits on your bill — and how it grows the total you owe." >}}
-
-The past due balance carries forward from month to month until it's paid. It does not "reset" or expire—utilities have the right to collect overdue balances for as long as the account is active. In many states, utility debts can even be sent to collection agencies, reported to credit bureaus, or deducted from future [security deposits](/blog/26-utility-deposit-explained/).
-
-## How Utility Billing Grace Periods Work
-
-Most utilities offer a grace period between the due date and the date late fees are assessed. This is not the same as an extension—it's a built-in buffer in the billing cycle.
-
-**Typical grace periods:**
-
-- **Electric utilities:** 10 to 15 days after the due date before late fees apply
-- **Gas utilities:** 10 to 15 days after the due date
-- **Water utilities:** 10 to 20 days after the due date (varies widely by municipality)
-
-**Important:** The due date and the "late fee date" are often different. Your bill might show:
-
-- **Due Date:** May 15
-- **Late after:** May 25
-- **Past Due / Disconnect Notice:** Sent after June 5
-- **Disconnection Date:** June 20
-
-You have until May 25 to pay without incurring a late fee. After May 25, a late fee is added. If you still haven't paid by early June, you'll receive a disconnection notice. The actual disconnection doesn't happen until mid-to-late June (minimum 14 days after the notice, per federal regulations for gas and electric utilities).
-
-## What Happens When You Don't Pay on Time
-
-The progression from a past due balance to service disconnection follows a well-defined timeline that's regulated by state law and federal policy:
-
-### Day 1-15 Past Due (Grace Period)
-
-Your account is past due but no penalties have been assessed yet. The utility may send a reminder (email, text, or automated call), but no formal action is taken. This is the best time to pay or make payment arrangements.
-
-### Day 15-30 Past Due (Late Fee Assessment)
-
-A late fee is added to your balance. The fee amount varies:
-
-- **Typical late fee:** 1% to 1.5% of the past due balance
-- **Flat fee alternative:** $5 to $15 per late payment
-- **Caps:** Many states limit late fees to a maximum amount or percentage
-
-At this point, your past due balance is growing. The $185 past due from the earlier example now becomes $193.50 with a typical 1.5% late fee ($2.78) or a flat $8.50 fee, depending on your utility's policy.
-
-### Day 30-45 Past Due (Disconnection Warning)
-
-The utility sends a formal written notice (mail, and in many cases, email or text) stating that service will be disconnected if the balance is not paid within a specified period. This notice is legally required and must include:
-
-- The specific amount owed
-- The date by which payment must be received
-- Information about available payment arrangements
-- Information about financial assistance programs
-- Contact information for customer service
-
-**Federal law** (for gas and electric utilities regulated under the Natural Gas Policy Act and Public Utility Regulatory Policies Act) requires at least 14 days' written notice before disconnection. Many states require 15 to 30 days.
-
-### Day 45-60 Past Due (Disconnection)
-
-If the balance remains unpaid after the notice period, the utility can physically disconnect your service. The disconnection is typically performed by a field technician who either cuts a physical lock on the meter, removes the meter, or remotely disconnects smart meter service.
-
-**Reconnection costs are significant:**
-
-- [Reconnection fee](/blog/28-utility-reconnection-fee-explained/): $30 to $150
-- Outstanding balance: Full past due amount
-- Deposit: New security deposit may be required ($100 to $300+)
-- Total to restore service: Often $300 to $600+ in a single payment
-
-## Late Fees and Penalties
-
-Late fees are the most immediate financial consequence of a past due balance. Here's what you might encounter:
-
-**Percentage-based late fees.** Most common for electric and gas utilities. Calculated as 1% to 1.5% of the past due amount per month. On a $200 balance, that's $2 to $3 per month—not catastrophic, but it compounds if you carry the balance for multiple months.
-
-**Flat late fees.** Common for water utilities and some electric cooperatives. A fixed $5 to $15 fee assessed once per billing cycle that the balance remains past due.
-
-**Returned payment fees.** If your payment bounces (insufficient funds, closed account), expect a $25 to $40 returned payment fee on top of the late fee.
-
-**Reconnection fees.** If service is disconnected and you want it restored, reconnection fees range from $30 to $150 depending on whether a field visit is required and whether after-hours or weekend service is needed.
-
-**Collection fees.** If your past due balance is sent to a collection agency, you may be responsible for additional collection costs (typically 15% to 30% of the outstanding balance, though this varies by state).
-
-**Important:** Many states cap the total late fees and penalties a utility can assess. In California, for example, late fees cannot exceed $10 or 1.5% of the unpaid balance, whichever is less. In New York, late fees are capped at 1.5% per month. Check your state's specific limits.
-
-## The Disconnection Timeline
-
-Here's a typical disconnection timeline for a regulated electric or gas utility:
-
-{{< image src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-disconnection-timeline.webp" alt="Timeline showing what happens as a utility bill stays unpaid: grace period days 1-15, late fee days 15-30, disconnect notice days 30-45, disconnection days 45-60, and collections after day 60" caption="The escalation from missed payment to collections usually takes about two months — and every stage has a way out." >}}
-
-| Day Past Due | Action |
+| Detail | What to verify |
 |---|---|
-| 1-15 | Grace period. No late fee yet. Reminder notifications sent. |
-| 15-30 | Late fee assessed. Past due balance appears on next bill. |
-| 30-45 | Disconnection warning notice mailed (must include 14+ days notice). |
-| 45-60 | Service disconnected if balance unpaid. |
-| 60+ | Account sent to collections. Credit impact. Reconnection requires full payment plus fees. |
+| Past-due balance | Exact amount and bill period it represents |
+| Current charges | Charges for the latest service period, separate from past due |
+| Payments and credits | Date, amount, confirmation, and how the provider applied them |
+| Notice | Due date, stated service consequences, and contact instructions |
+| Rate and account status | Tariff, service class, meter/read status, and open review case if any |
 
-**Water utility disconnection timelines vary significantly.** Some municipal water utilities disconnect much faster—sometimes within 30 days of the due date—while others are more lenient, especially in areas with extreme heat where water access is critical.
+If a payment, credit, usage charge, or account date does not reconcile, request the provider’s account-specific calculation and written review process.
 
-**State-specific protections:** Some states restrict disconnections during extreme weather. Texas prohibits electric disconnection when the temperature is forecast to be above 100°F or below 32°F within the next 24 hours. Many northern states prohibit winter gas disconnections from November through March.
+## Contact the Provider Promptly
 
-## Your Rights as a Utility Customer
+Use the provider’s official contact channel and ask what current account options, notice terms, payment requirements, review process, and assistance referrals apply. Do not rely on a generic grace period, late-fee percentage, disconnection timeline, medical-protection rule, or payment-plan promise.
 
-If you have a past due balance, you have legal protections that vary by state but generally include:
+If the account includes a charge you believe is incorrect, identify the specific line and ask for the controlling tariff section and calculation. Follow the provider’s written rules while the review is open; do not assume that withholding any portion of payment is safe without provider confirmation.
 
-**The right to written notice.** Your utility must notify you in writing before disconnecting service. The notice must include the amount owed, the deadline for payment, and information about assistance programs. Phone calls and emails are not sufficient—the notice must be in writing (paper mail is standard).
+## Explore Assistance Before the Deadline
 
-**The right to dispute the balance.** If you believe the past due amount is incorrect (billing error, estimated reading that was too high, charges for service you didn't receive), you have the right to formally dispute it. If you believe the past due balance is wrong, follow our guide on [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) before paying it. During the dispute, the utility typically cannot disconnect your service, provided you pay the undisputed portion of the bill.
+CFPB’s utility-bill assistance resource directs renters to local and state resources, including LIHEAP information.[1] Confirm directly with the program and provider whether assistance is available, its eligibility requirements, deadlines, required documents, and which account charges it can address.
 
-**The right to a payment arrangement.** Most utilities offer payment plans for past due balances. These typically spread the balance over 3 to 6 months with your current bills. You must contact the utility to set up a plan—they won't offer it automatically.
+For an immediate safety emergency, gas odor, electrical hazard, or medical need, use the provider’s emergency contact instructions rather than waiting for a billing response.
 
-**Protection from disconnection during disputes.** As long as you're actively disputing a charge and paying undisputed charges, most state regulations prohibit disconnection. However, you must initiate the dispute formally, not just mention it in a phone call. Submit disputes in writing with supporting documentation.
+## Keep a Written Record
 
-**Protection for vulnerable customers.** Many states offer enhanced protections for seniors, customers with disabilities, customers with serious illnesses, and households with infants or young children. These protections may include extended payment deadlines, reduced deposits, and prohibition of disconnection during certain conditions.
+Keep bills, notices, payment receipts, correspondence, case references, and provider responses together. If the provider cannot resolve the issue, ask it to identify the next review level and the authority that oversees the account; oversight differs among investor-owned, municipal, cooperative, water, and other providers.
 
-## Emergency and Medical Protections
+## Questions for the Provider
 
-If anyone in your household relies on electrically powered medical equipment—oxygen concentrators, dialysis machines, CPAP machines, ventilators, or other life-sustaining devices—you may qualify for medical protection status.
+1. Which bill periods and charges make up the past-due balance?
+2. How were payments, credits, and any late charges applied?
+3. What tariff, notice, and account terms apply today?
+4. What payment, review, or assistance options are available for this account?
+5. Which authority and process apply if the account question remains unresolved?
 
-**How medical protection works:**
+## Sources
 
-1. Your doctor completes a medical certification form (available from your utility)
-2. Submit the form to your utility with a note from your physician
-3. Your account is flagged with medical protection status
-4. Disconnection is prohibited or significantly delayed (varies by state from 30 to 90 additional days beyond normal procedures)
-
-**Important limitations:**
-
-- Medical protection is not indefinite. It typically provides a temporary reprieve while you arrange payment or assistance.
-- You must re-certify periodically (usually every 60 to 90 days)
-- Medical protection does not eliminate the debt—you still owe the past due balance
-- If you already have a past due balance, notify the utility of the medical situation before disconnection occurs
-
-## How to Resolve a Past Due Balance
-
-Ignoring a past due balance is the worst strategy. The balance grows with late fees, your credit suffers, and eventually you face disconnection with significant reconnection costs. Here's what to do:
-
-### Option 1: Pay in Full
-
-If you can afford it, pay the entire balance immediately. This stops late fees from accumulating, prevents disconnection, and protects your credit. Most utilities accept payments online, by phone, by mail, and at authorized payment locations.
-
-### Option 2: Request a Payment Plan
-
-Most utilities will set up a payment arrangement that spreads your past due balance over 3 to 6 monthly installments, added to your regular bill. Typical requirements:
-
-- You must pay the current month's bill in full plus a portion of the past due balance
-- You must not have defaulted on a previous payment plan within the past 12 months
-- You must contact customer service to initiate—most utilities won't set up a plan automatically
-
-**Example:** You owe $400 past due. The utility sets up a 4-month payment plan. Your regular monthly bill is $150. For the next 4 months, you pay $150 (current) + $100 (past due) = $250/month.
-
-### Option 3: Dispute Incorrect Charges
-
-If you believe the past due balance is wrong, dispute it in writing. Include:
-
-- Your account number and service address
-- A clear explanation of what you're disputing and why
-- Supporting documentation (meter photos, previous bills, correspondence)
-- A request for investigation and correction
-
-Send via certified mail and keep copies. The utility must investigate and respond—typically within 10 to 30 business days depending on your state. Continue paying undisputed charges during the investigation.
-
-### Option 4: Seek Financial Assistance
-
-Multiple programs exist to help with utility bill arrears (see the next section). Apply as early as possible—these programs often have limited funding and long processing times.
-
-### Option 5: Negotiate
-
-If you're facing a large balance that you genuinely cannot pay, contact the utility's hardship department. Some utilities offer:
-
-- Balance forgiveness programs for low-income customers (typically up to $300-$500)
-- Extended payment terms (up to 12 months)
-- Waived late fees or reconnection fees
-- Referral to community assistance programs
-
-## Financial Assistance Programs
-
-Several programs can help with past due utility balances:
-
-### LIHEAP (Low Income Home Energy Assistance Program)
-
-**Federal program** administered by states that helps low-income households pay heating and cooling bills. Benefits vary by state, income, household size, and energy costs, but can range from $200 to $1,500+ per season.
-
-- **Eligibility:** Typically 150-200% of federal poverty level (about $46,000-$62,000 annual income for a family of 4)
-- **Application:** Through your state's LIHEAP office or community action agency
-- **Timing:** Apply early—funding is limited and many states exhaust allocations by mid-season
-
-### Utility-Specific Assistance Programs
-
-Most major utilities operate their own assistance programs funded by shareholder contributions, customer donations, or ratepayer-funded surcharges:
-
-- **Duke Energy:** Neighbor Fund (up to $300 for past due balances)
-- **PG&E:** REACH (Relief for Energy Assistance through Community Help) — up to $300 for gas/electric arrears
-- **Con Edison:** One-Time Assistance grant of up to $200 for income-eligible customers
-- **Florida Power & Light:** Care to Share program (funded by customer donations)
-- **Xcel Energy:** Energy Assistance Program (up to $500 for income-qualified customers)
-
-### State and Local Programs
-
-Many states and cities offer additional assistance:
-
-- **Weatherization Assistance Program (WAP):** Free energy efficiency upgrades for low-income households (insulation, sealing, efficient appliances) that reduce future bills
-- **211 Hotline:** Dial 2-1-1 to connect with local utility assistance resources
-- **Community action agencies:** Local nonprofits that administer LIHEAP and provide emergency utility assistance
-- **Salvation Army and United Way:** Often provide emergency utility bill assistance
-
-### Nonprofit and Faith-Based Assistance
-
-- **Catholic Charities, St. Vincent de Paul, and other faith-based organizations** frequently provide emergency utility assistance
-- **Modest Needs Foundation** provides self-sufficiency grants for utility arrears
-- **Operation Round Up** (offered by many rural electric cooperatives) rounds up customer bills to the nearest dollar, with the difference funding local assistance
-
-## Impact on Your Credit
-
-Utility bills can affect your credit in several ways:
-
-**Utility credit checks.** Most utilities check your credit when you open a new account. A poor credit score may result in a required security deposit ($100 to $500+).
-
-**Late reporting.** Many utilities report to credit bureaus, but typically only after the account is 30 to 60 days past due. A single 30-day late payment can drop your credit score by 60 to 110 points.
-
-**Collections.** If your past due balance is sent to a collection agency, it appears as a collection account on your credit report—remaining for 7 years from the date of delinquency.
-
-**Positive reporting.** Some utilities report on-time payments to credit bureaus, which can help build credit. Programs like Experian Boost include utility payment data in credit scoring.
-
-**Mitigation:** Set up autopay or calendar reminders to avoid late payments. If you're struggling financially, contact your utility before the due date—most would rather set up a payment plan than send you to collections.
-
-## Frequently Asked Questions
-
-{{< faq "How long do I have before my utility is disconnected?" >}}
-
-Typically 45 to 60 days past the due date for electric and gas utilities. Federal regulations require at least 14 days' written notice before disconnection. Water utilities may disconnect faster—some within 30 days. Exact timelines vary by state and utility.
-
-{{< /faq >}}
-
-{{< faq "Can I set up a payment plan for a past due balance?" >}}
-
-Yes. Most utilities offer payment arrangements that spread past due amounts over 3 to 6 months. Contact customer service to request a plan. You'll need to pay current charges plus a portion of the arrears each month. You must initiate the arrangement—the utility won't offer it automatically.
-
-{{< /faq >}}
-
-{{< faq "Will a past due utility bill affect my credit score?" >}}
-
-It can. Many utilities report to credit bureaus after 30 to 60 days of non-payment. A collection account from an unpaid utility bill stays on your credit report for 7 years. Paying on time and setting up payment plans before the account reaches collections can prevent credit damage.
-
-{{< /faq >}}
-
-{{< faq "Can my utility disconnect me in winter?" >}}
-
-Many states have cold-weather protections that prohibit or restrict gas and electric disconnections during winter months. Protections vary by state—some prohibit disconnection below 32°F, others have full winter moratoriums (November through March). These protections typically require you to be enrolled in a payment plan.
-
-{{< /faq >}}
-
-{{< faq "What if I have a medical device that needs electricity?" >}}
-
-Most utilities offer medical protection programs that delay or prevent disconnection for households with life-sustaining medical equipment. Your doctor must complete a medical certification form. This provides temporary protection (typically 30 to 90 days) while you arrange payment or assistance. It does not eliminate the debt.
-
-{{< /faq >}}
-
-{{< faq "How much does it cost to reconnect service after disconnection?" >}}
-
-Reconnection fees typically range from $30 to $150, plus you must pay the full past due balance and may need to pay a new security deposit ($100 to $300+). Total restoration costs often reach $300 to $600. Some utilities charge more for after-hours or weekend reconnections.
-
----
-
-*Related Reading:*
-- [Utility Reconnection Fee Explained: Cost to Restore Service After Shutoff](/blog/28-utility-reconnection-fee-explained/)
-- [Utility Deposit Explained: How Much and How to Get It Back](/blog/26-utility-deposit-explained/)
-
-{{< /faq >}}
-
-{{< faq-schema >}}
+1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)

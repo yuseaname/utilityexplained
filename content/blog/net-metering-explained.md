@@ -1,178 +1,84 @@
 ---
 title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
 slug: "net-metering-explained"
-description: "How net metering works, how it appears on your electric bill, and whether it's worth it for your home."
+description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
 date: 2026-08-10
-updated: 2026-08-21
+updated: 2026-08-23
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]
-keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering 2.0", "solar ROI"]
+keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering", "solar ROI"]
 image: "/images/articles/net-metering-explained/custom_hero.webp"
+sources:
+  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf
+  - https://www.energy.gov/cmei/systems/homeowners-guide-solar
 ---
+
 ## Quick Answer
 
-**Net metering credits you for excess solar energy your panels produce and send back to the grid — essentially running your meter backward.** Most utilities credit you at the full retail rate (typically $0.12-0.20 per kWh), though some states now use lower rates.
+**Net metering is a billing arrangement between a solar-system owner and a utility.** When a qualifying system exports electricity to the grid, the utility may apply a credit under its current tariff. The credit rate, rollover rules, settlement date, fees, eligibility, and whether net metering is available all depend on the serving utility and local rules.[1][2]
 
-- **You get credits** for solar power you don't use immediately
-- **Credits roll over month-to-month** (in most states) to cover nighttime/cloudy day usage
-- **Annual "true-up"** settles any remaining credits or charges
+Do not use a national payback table or another state's policy to predict your bill. Ask your utility for the current interconnection agreement and tariff that apply to your address.
 
-For more detail, see [Time-of-Use Electricity](/blog/08-time-of-use-electricity/).
+## How the Arrangement Works
 
-You're considering solar panels. You've heard about "net metering" and "solar credits," but what does that actually mean for your electric bill? Will you still get a bill? Will the utility pay you?
+DOE describes net metering as electricity flowing both to and from a customer, typically through a bidirectional meter.[1] When solar generation is greater than use at a given time, electricity can be exported. When on-site generation is lower than use, electricity is imported from the grid.
 
-Net metering is the billing mechanism that makes rooftop solar financially viable for most homeowners. It's the difference between solar panels taking 12 years to pay for themselves versus taking 20+ years.
+The bill then applies the utility's own rules to imports, exports, credits, fixed charges, taxes, and any minimum bill. A bill may show some combination of imported kWh, exported kWh, generation, usage, credits, and a remaining balance, but labels vary by utility.
 
-Here's how net metering works, how it appears on your bill, how it's evolved, and whether it's worth it in your state.
+## What to Check Before You Sign or Install
 
-## What Is Net Metering?
+1. **Eligibility:** Does the utility offer an export-credit or net-metering arrangement for your system type and location?
+2. **Credit calculation:** Is the export credit based on retail price, another published rate, or a program-specific calculation?
+3. **Credit timing:** When do credits apply, expire, settle, or carry forward?
+4. **Fixed charges:** Which customer, delivery, interconnection, or minimum charges still apply?
+5. **Rate plan:** Does your current plan affect the value of imports or exports?
+6. **Interconnection:** What application, inspection, meter, insurance, and operating requirements apply?
 
-**Net metering** is a billing mechanism that credits solar homeowners for the electricity they add to the grid.
+Keep copies of the tariff, interconnection agreement, and first several solar bills. They are more useful than a generic online example when a credit or charge looks unfamiliar.
 
-### How It Works
+## How to Read a Solar Bill
 
-When your solar panels produce more electricity than you're using:
-1. Excess electricity flows back into the grid
-2. Your utility meter runs backward (or tracks net export)
-3. You receive a "credit" for that electricity
+Compare the current bill with the utility's tariff and look for:
 
-When your solar panels produce less than you're using:
-1. You pull electricity from the grid
-2. Your meter runs forward (or tracks net import)
-3. You consume your accrued credits first
+| Item | Question to ask |
+|---|---|
+| Grid import | How much electricity did the account receive from the grid? |
+| Grid export | How much eligible electricity did the account send to the grid? |
+| Credit | What tariff rule determined its value? |
+| Fixed charges | Which charges apply regardless of solar generation? |
+| Billing period | Do the dates match the utility's solar settlement rules? |
+| Rate plan | Does the account use a time-varying or other special rate? |
 
-**At the end of the billing cycle:**
-- You pay the "net" difference (what you used minus what you produced)
-- Or you roll over credits to next month
-- Or (in some states) the utility pays you for excess credits
+DOE's homeowner solar guide explains that compensation for exported solar power is an arrangement between the system owner and the utility.[2] That is why the utility's current documents—not a national “Net Metering 1.0/2.0/3.0” label—should control your decision.
 
----
+## Questions to Ask the Utility
 
-## How Net Metering Appears on Your Bill
-
-If you have solar panels, your electric bill will look different. Here's what you'll see:
-
-### Solar Bill Sections
-
-| Section | What It Shows |
-|---------|--------------|
-| **Generation** | How much electricity your solar panels produced (kWh) |
-| **Consumption** | How much electricity your home used (kWh) |
-| **Net Export/Import** | The difference (what you sent to or pulled from the grid) |
-| **Solar Credits** | Credits rolled over from previous months |
-| **Net Bill** | What you owe after credits (if anything) |
-
----
-
-## Net Metering 1.0 vs 2.0 vs 3.0
-
-Net metering has evolved. Older systems got better deals than newer systems.
-
-### Net Metering 1.0 (The Golden Era)
-
-**When:** 1990s–2016 (varies by state)
-
-**How it worked:**
-- 1-for-1 credit for every kWh exported
-- Full retail rate credited (often 15–25¢/kWh)
-- Credits rolled over indefinitely
-- Annual true-up at full retail rate (utility paid you for excess)
-
-**Example:** Export 100 kWh → Get credited for 100 kWh at full retail rate
-
----
-
-### Net Metering 2.0 (The Current Standard)
-
-**When:** 2016–present (varies by state)
-
-**How it works:**
-- 1-for-1 credit for exports (still fair)
-- Credits roll over month-to-month
-- Annual true-up at "avoided cost" rate (2–4¢/kWh, not retail)
-- Monthly minimum bills ($5–$15/month)
-- Some states cap system size (10–25 kW)
-
----
-
-## State-by-State Net Metering Policies
-
-Net metering is NOT available in all states. Even where it exists, the rules vary wildly.
-
-### States with Strong Net Metering (1.0 or 2.0)
-
-| State | Net Metering Available? | Credit Type | System Size Cap | Notes |
-|-------|------------------------|-------------|-----------------|-------|
-| **California** | Yes (2.0 as of 2023) | Full retail, annual true-up at avoided cost | 1,000 kW | Former 1.0 systems grandfathered |
-| **New York** | Yes | Full retail, rollover indefinitely | 1 MW | 25 kW typical for homes |
-| **Massachusetts** | Yes | Full retail, SMART program | 10 kW | Strong incentives |
-| **Texas** | Yes (varies by utility) | Full retail | Varies | Oncor, AEP, TXU have programs |
-
----
-
-## The ROI Math: Is Net Metering Worth It?
-
-The payback period for solar depends heavily on net metering rules.
-
-### Solar Payback by Net Metering Type
-
-**Scenario:** 6 kW solar system, 8,000 kWh/year production, $25,000 installed cost
-
-| Net Metering Type | Annual Bill Savings | Payback Period | 25-Year Savings |
-|-------------------|---------------------|----------------|------------------|
-| **1.0 (Golden Era)** | $2,200 | 9–10 years | $55,000 |
-| **2.0 (Current Standard)** | $1,800 | 11–12 years | $45,000 |
-| **Weak / No Net Metering** | $800–$1,200 | 18–25 years | $20,000–$30,000 |
-
-**Update: the 30% federal solar tax credit expired December 31, 2025.** Systems installed in 2025 keep the credit ($7,500 on a $25,000 system) on that year's return; 2026 buyers pay full price, which stretches the payback ranges above by roughly 3–4 years. For a state-by-state breakdown of export compensation, see <a href="https://solarpoweredproject.com/pages/net-metering-by-state-2026.html">net metering by state (2026)</a>.
-
----
+- Which tariff applies to my proposed or existing system?
+- How are exports measured and credited?
+- Which charges remain when production exceeds use?
+- What happens to unused credits at the end of a billing period or program year?
+- Can a rate-plan change alter the value of exported electricity?
+- Where can I read the current interconnection and consumer-disclosure documents?
 
 ## Frequently Asked Questions
 
-{{< faq "Will I still get an electric bill with solar panels?" >}}
-**Yes.** Almost all solar homeowners still get a monthly bill from their utility, but it's much smaller.
-
-**Typical solar bill:** $10–$50/month (vs. $100–$200+ before solar)
+{{< faq "Will I still receive an electric bill with solar?" >}}
+Usually, a grid-connected solar customer continues to receive a utility statement. The amount due and the charges shown depend on the local tariff, imports, exports, credits, and fixed charges.
 {{< /faq >}}
 
----{{< faq "Do utilities pay me for excess solar credits?" >}}
-**It depends on the state and timing.**
-
-| Situation | What Happens |
-|-----------|--------------|
-| **Monthly rollover** | Credits carry forward month-to-month (most states) |
-| **Annual true-up** | Once/year, utility pays you for excess credits (but often at reduced "avoided cost" rate) |
-| **Use it or lose it** | Some states expire credits after 12 months |
+{{< faq "Does every utility credit exports the same way?" >}}
+No. Credit calculation and eligibility are set by the utility and applicable local rules. Obtain the current tariff for your service address before relying on an estimate.
 {{< /faq >}}
 
----{{< faq "Can I go off-grid with solar panels?" >}}
-**Technically yes, but it's expensive and complicated.**
-
-To go off-grid, you need:
-1. **Over-sized solar array** (to cover winter, cloudy days)
-2. **Large battery bank** ($15,000–$30,000)
-3. **Backup generator** (for extended cloudy periods)
-
-**Cost:** $40,000–$70,000+ for a typical off-grid home
-
-**For most people:** Grid-tied solar with net metering is more practical and has faster payback.
+{{< faq "Is net metering the same as going off-grid?" >}}
+No. Net metering concerns a grid-connected customer's billing arrangement for electricity that moves between the customer and grid. An off-grid system is a separate design and reliability decision.
 {{< /faq >}}
 
 {{< faq-schema >}}
 
----
+## Sources
 
-## Related Articles:
-
-- [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)
-- [Understanding Your Utility Bill: The Complete Guide for 2026](/blog/complete-guide-understanding-utility-bill/)
-- [Electric Bill Breakdown: Understanding Every Line Item](/blog/electric-bill-breakdown-understanding-line-items/)
-
-*Related Articles:*
-- [How to Lower Your Electric Bill Without Solar](/blog/how-to-lower-electric-bill-without-solar/)
-- [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)
-- [What Is a Kilowatt-Hour?](/blog/what-is-a-kilowatt-hour/)
-- [How Do Smart Meters Work?](/blog/how-do-smart-meters-work/)
+1. [U.S. Department of Energy: Net Metering](https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf)
+2. [U.S. Department of Energy: Homeowner's Guide to Solar](https://www.energy.gov/cmei/systems/homeowners-guide-solar)

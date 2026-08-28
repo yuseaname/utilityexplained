@@ -1,0 +1,32 @@
+{
+ "role": "analyst",
+ "mission": "External research (web_search/web_fetch, cite URL + retrieved date on every claim): (1) leading utility/energy-savings affiliate publishers \u2014 find 5-8 real ones (energy comparison sites, utility-bill-help content sites, HVAC/efficiency affiliates) and extract their content architecture, how they monetize utility-intent traffic (which programs beyond Amazon: energy-provider marketplaces, lead-gen, display), comparison-table patterns, trust signals; (2) Amazon Associates realistic economics for this niche's product families (smart thermostats ~commission rate, leak detectors, smart plugs, energy monitors \u2014 current rates, typical EPC if published); (3) keyword demand: the utility-bill question space \u2014 what high-volume queries does this corpus NOT cover (state-level average-bill pages, time-of-use, heat-pump/IRA rebates, EV charging, water-lease/infrastructure fees); (4) search-intent monetizability: which utility intents actually convert to product purchases vs pure information; (5) E-E-A-T patterns for YMYL-adjacent money-content publishers (author/bio/review-policy conventions). Deliver a research brief with a realistic revenue model skeleton (assumptions labeled).",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). Depth over breadth on competitors; numbers with sources; no invented stats.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Research brief with 5-8 competitor analyses, all claims URL+cited.",
+  "Realistic monetization map of the utility-intent space + labeled revenue assumptions."
+ ]
+}

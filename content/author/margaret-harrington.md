@@ -10,9 +10,9 @@ updated: 2026-08-12
 
 **Role:** Bills & Rates Editor
 
-Margaret is an editor on the Utility Explained team. She focuses on the guides that break down how electricity, gas, and water bills are put together — what each line item means, how rate structures (flat, tiered, time-of-use, demand charges) change what you pay, and where billing errors and estimated reads tend to hide.
+Margaret Harrington is the editorial byline for Utility Explained's Bills & Rates desk. It identifies the desk responsible for guides that break down how electricity, gas, and water bills are put together — what each line item means, how rate structures (flat, tiered, time-of-use, demand charges) change what you pay, and where billing errors and estimated reads tend to hide.
 
-She works from primary sources — U.S. EIA data, state public utility commission filings, and published provider tariffs — to make sure the dollar figures and charge explanations in our billing guides reflect how utilities actually calculate a bill.
+For data-heavy billing guides, the desk uses primary sources such as U.S. EIA data, state public utility commission filings, and published provider tariffs. Refreshed guides show their source links and review date.
 
 ## What Margaret Writes About
 
@@ -20,4 +20,4 @@ Margaret writes and reviews our electricity, gas, water, and billing-structure g
 
 ---
 
-*Utility Explained guides are researched and drafted with AI assistance and reviewed by our editorial team for accuracy against primary sources. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*

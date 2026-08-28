@@ -1,0 +1,32 @@
+{
+ "role": "executor",
+ "mission": "Mechanical ground-truth sweep of the repo with grep/wc/awk ONLY (quote every command + output): (1) per-page word counts across content/blog \u2014 distribution buckets (<600, 600-1200, >1200) and the 15 shortest pages; (2) slug-style split: numbered-prefix slugs vs clean slugs (exact counts); (3) internal-link counts: pages containing links to other /blog/ pages, top-10 most-linked-to pages, count of zero-inlink (orphan) pages; (4) frontmatter audit: % pages with date, lastmod, description, keywords; (5) disclosure/CTA presence per page (grep counts); (6) hardcoded price patterns ($XX.XX) in content \u2014 count + worst offenders; (7) sitemap.xml URL count vs public HTML count; (8) image count per page + missing-image references if cheaply checkable.",
+ "parent_objective": "Agency-grade audit + growth blueprint for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). Enhancement-only, no rebuild.",
+ "context": "Read the Commander evidence brief FIRST: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-044/evidence-brief.md \u2014 it contains disk- and API-verified ground truth for this mission (analytics tables, monetization state, constraints). Numbers must come from commands, never estimation. Deliver a facts table. gemma-style in-head counting is forbidden for every seat: counts arrive via quoted commands only.",
+ "known_facts": [
+  "Live Rybbit (2026-08-27): last7 860 sessions, bounce 91.3%, pages/session 1.10, duration 62s; Google referrer share only ~2.6%, Bing ecosystem ~68%.",
+  "Zero amazon.com links in content/; hugo.toml amazon_tag is 'litwd-20' but the owner's real store ID is 'utexplained-20' (mismatch).",
+  "AdSense was BLOCKED by Google ('Low value content', 2026-08-23) and has since been removed (git 6d4390c8, ADR-006) \u2014 the site is pivoting to Amazon Associates.",
+  "Site: Hugo static, 121 content md files, 509 public HTML pages, 6 hub pages, 7 consolidated categories."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Analytics snapshot JSON (three windows): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.rybbit-snapshot-2026-08-27/snapshot.json"
+ },
+ "constraints": [
+  "Enhancement-only: no rebuild, no destructive changes.",
+  "Never fabricate expertise, reviews, testing, prices, or firsthand experience.",
+  "Label assumptions as assumptions; verified facts must carry file:line or command evidence."
+ ],
+ "authorized_actions": [],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Facts table with every number traceable to a quoted command.",
+  "Covers all 8 sweeps above."
+ ]
+}

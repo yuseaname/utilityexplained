@@ -10,6 +10,9 @@ categories: ["Water"]
 tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf"]
 keywords: ["water leak detection", "high water bill", "estimated utility bill", "sewer averaging", "ccf"]
 image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/watersense-current
+  - https://www.epa.gov/watersense/watersense-current-winter-2024
 ---
 
 <h2 id="problem">The problem: winter should be cheaper, but your bill went up</h2>
@@ -58,9 +61,9 @@ image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-b
 
 <h2 id="indoor-leaks">Indoor leaks and running toilets</h2>
 <p>
-              A running toilet can add hundreds of gallons per day and be hard to
-              notice. Faucet drips add less, but they still show up over a full
-              billing period.
+              Toilets, faucets, irrigation components, and water-line connections can
+              leak without an obvious sound. Compare meter readings with known water
+              use stopped before deciding the cause.
             </p>
             <p>
               Start with the quick dye test in
@@ -149,39 +152,14 @@ Compare usage per day and check for notes about estimated reads. That separates 
 
 {{< faq-schema >}}
 
-## Winter vs Summer Water Usage Comparison
+## A Winter Bill Check
 
-| Activity | Summer (gallons/day) | Winter (gallons/day) | Difference |
-|----------|:---:|:---:|:---:|
-| Showering | 17 | 25 | +47% |
-| Laundry | 15 | 22 | +47% |
-| Dishwashing | 4 | 5 | +25% |
-| Toilet flushing | 18 | 20 | +11% |
-| Faucet use | 11 | 12 | +9% |
-| Outdoor (hose) | 30 | 0 | -100% |
-| Pipe leaks | 0 | 5-50 | New! |
-| **Total** | **95** | **89-139** | **Variable** |
+Compare the same billing period from the prior year, confirm the number of billing days, and look for an estimated-read note. EPA WaterSense advises reviewing winter use for leaks and checking the meter during a period when water is not being used.[1][2] Your utility's billing and sewer rules control the amounts on your statement.
 
-### Pipe Insulation Cost vs Savings
+## Sources
 
-| Pipe Type | Insulation Cost | Annual Savings | Payback Period |
-|-----------|:---:|:---:|:---:|
-| Hot water pipes (DIY) | $15-30 | $30-60 | 6-12 months |
-| Exterior pipes (pro) | $200-500 | $100-200 | 1-3 years |
-| Full home (pro) | $500-1,500 | $150-400 | 2-5 years |
-
-### Winter Plumbing Checklist
-
-- [ ] Insulate exposed pipes in unheated areas (crawl spaces, garages, attics)
-- [ ] Disconnect and drain outdoor hoses and sprinkler systems
-- [ ] Seal gaps where pipes enter your home with foam sealant
-- [ ] Set thermostat no lower than 55°F when away
-- [ ] Open cabinet doors under sinks to let warm air circulate
-- [ ] Check water meter for hidden leaks (read before bed and after waking)
-- [ ] Consider a smart water leak detector ($30-80)
-- [ ] Service water heater (flush sediment to maintain efficiency)
-- [ ] Check for running toilets (add food coloring to tank, wait 15 minutes)
-- [ ] Wrap water heater with insulation blanket if older than 10 years
+1. [U.S. Environmental Protection Agency WaterSense Current](https://www.epa.gov/watersense/watersense-current)
+2. [U.S. Environmental Protection Agency WaterSense Current: Winter 2024](https://www.epa.gov/watersense/watersense-current-winter-2024)
 
 
 ---
