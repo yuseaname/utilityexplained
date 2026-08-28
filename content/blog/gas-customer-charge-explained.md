@@ -1,6 +1,7 @@
 ---
 title: "How to Review a Gas Customer Charge"
 slug: "gas-customer-charge-explained"
+draft: true
 description: "Use the bill, gas tariff, and serving utility to identify whether a customer charge is fixed, usage-based, or part of another rate component."
 date: 2025-12-26
 updated: 2026-08-23

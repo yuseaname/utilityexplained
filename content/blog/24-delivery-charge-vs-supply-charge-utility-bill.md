@@ -1,6 +1,7 @@
 ---
 title: "How to Compare Delivery and Supply Charges on a Utility Bill"
 slug: "24-delivery-charge-vs-supply-charge-utility-bill"
+aliases: ["/blog/supply-vs-delivery-charges-electricity/"]
 description: "Read delivery and supply charges from the account's itemized bill and tariff instead of applying a generic percentage, provider-choice, or savings rule."
 date: 2026-05-28
 updated: 2026-08-23

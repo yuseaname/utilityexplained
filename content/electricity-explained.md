@@ -245,9 +245,9 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <ul>
 <li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill (Line by Line)</a></li>
 <li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown: Every Charge Explained</a></li>
-<li><a href="/blog/41-how-to-read-electricity-bill/">How to Read an Electricity Bill: Complete Guide</a></li>
+<li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a></li>
 <li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs Supply Charge</a></li>
-<li><a href="/blog/supply-vs-delivery-charges-electricity/">Supply vs Delivery Charges Explained</a></li>
+<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Compare Delivery and Supply Charges</a></li>
 </ul>
 
 <h3>Why Your Bill Is High</h3>
@@ -266,7 +266,7 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <li><a href="/blog/46-what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
 <li><a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a></li>
 <li><a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
-<li><a href="/blog/fixed-vs-variable-rate-electricity-plan/">Fixed vs Variable Electricity Plans</a></li>
+<li><a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Rates</a></li>
 <li><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
 </ul>
 

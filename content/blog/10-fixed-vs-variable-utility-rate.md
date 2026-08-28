@@ -1,6 +1,7 @@
 ---
 title: "How to Compare Electricity Rate Options"
 slug: "10-fixed-vs-variable-utility-rate"
+aliases: ["/blog/fixed-vs-variable-rate-electricity-plan/"]
 description: "Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic fixed-versus-variable rules."
 date: 2026-03-07
 updated: 2026-08-28

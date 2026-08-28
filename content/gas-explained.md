@@ -230,7 +230,7 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
 <li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
 <li><a href="/blog/gas-delivery-charge-vs-supply-charge/">Gas Delivery Charge vs Supply Charge</a></li>
-<li><a href="/blog/gas-customer-charge-explained/">Gas Customer Charge Explained</a></li>
+<li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>
 <li><a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
 </ul>
 

@@ -3,7 +3,7 @@ title: "Understanding kWh Usage on Your Electric Bill"
 slug: "11-understanding-kwh-usage"
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -41,7 +41,7 @@ If you measure a plug-in device, record the measurement period and the mode used
 
 ## National Data Is Context, Not a Bill Calculator
 
-EIA's published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about 899 kWh per month; it also emphasizes that household use varies by region and housing type.[1][2]
+EIA's published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA also emphasizes that household use varies by region and housing type.[1][2]
 
 That figure does not determine whether an individual bill is correct. Your own tariff, dwelling, equipment, climate, and billing period control the account result.
 

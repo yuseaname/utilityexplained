@@ -1,6 +1,7 @@
 ---
 title: "How to Read Your Own Utility Bill"
 slug: "how-to-read-your-utility-bill"
+draft: true
 description: "Read an electricity, gas, or water bill from the account summary through service dates, meter data, rate plan, itemized charges, and provider documentation."
 date: 2026-05-29
 updated: 2026-08-23

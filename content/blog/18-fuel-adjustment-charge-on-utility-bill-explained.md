@@ -3,7 +3,7 @@ title: "How to Review a Fuel Adjustment Charge on a Utility Bill"
 slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
 description: "Identify a fuel-adjustment or similar charge from the account’s tariff, bill, rate period, and provider-specific calculation."
 date: 2026-05-28
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Tanya Patterson"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]

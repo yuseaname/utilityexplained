@@ -1,6 +1,7 @@
 ---
 title: "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)"
 slug: "supply-vs-delivery-charges-electricity"
+draft: true
 canonical: "https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/"
 description: "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up."
 date: 2025-12-26
@@ -64,7 +65,7 @@ sources:
             <p>
               If you see fixed vs variable pricing on the supply line, this overview
               helps explain it:
-              <a href="/blog/fixed-vs-variable-rate-electricity-plan/"> fixed vs variable rates</a>.
+              <a href="/blog/10-fixed-vs-variable-utility-rate/"> fixed vs variable rates</a>.
             </p>
 
 <h2 id="delivery">Delivery charges (the grid and service cost)</h2>

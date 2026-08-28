@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
 slug: "03-why-is-my-electric-bill-so-high"
-aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter"]
+aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
 description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
 date: 2026-03-07
 updated: 2026-08-28
@@ -14,11 +14,11 @@ image: "/images/articles/03-why-is-my-electric-bill-so-high/03-why-is-my-electri
 sources:
   - https://www.eia.gov/todayinenergy/detail.php?id=65244
   - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php
-  - https://www.energy.gov/energysaver/heat-and-cool
-  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
-  - https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-28)
+  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption (2020 RECS; still the latest published survey as of 2026-08-28)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-28)
   - https://bsesc.energy.gov/energy-basics/hvac-heat-pump-water-heaters
-  - https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting
+  - https://www.energystar.gov/products/learn-about-led-lighting (retrieved 2026-08-28)
 ---
 
 {{< affiliate-disclosure >}}
@@ -80,7 +80,7 @@ More hot-water use can raise electricity use. Compare the period with changes in
 
 Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions.
 
-DOE says residential LEDs use at least 75% less energy and can last up to 25 times longer than incandescent lighting.[7] Their bill impact depends on the number of bulbs and hours of use.
+ENERGY STAR reports that LED lighting products produce light up to 90% more efficiently than incandescent light bulbs.[7] Their bill impact depends on the number of bulbs and hours of use.
 
 ### New high-use equipment
 
@@ -134,8 +134,8 @@ Compare kWh, billing days, rate plan, price and charges, meter-read status, and 
 
 1. [U.S. Energy Information Administration: Residential electric bills reflect consumption and retail prices](https://www.eia.gov/todayinenergy/detail.php?id=65244)
 2. [U.S. Energy Information Administration: Measuring electricity](https://www.eia.gov/energyexplained/electricity/measuring-electricity.php)
-3. [U.S. Department of Energy: Heating and cooling](https://www.energy.gov/energysaver/heat-and-cool)
-4. [U.S. Energy Information Administration: 2020 Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption)
-5. [U.S. Department of Energy: Energy Saver guide](https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf)
+3. [U.S. Department of Energy: Home Upgrades (heating/cooling savings)](https://www.energy.gov/save/home-upgrades) (retrieved 2026-08-28)
+4. [U.S. Energy Information Administration: Residential Energy Consumption Survey 2020](https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption) (latest published RECS as of 2026-08-28)
+5. [U.S. Department of Energy: Home Upgrades (thermostat setback savings)](https://www.energy.gov/save/home-upgrades) (retrieved 2026-08-28)
 6. [U.S. Department of Energy: Heat-pump water heaters](https://bsesc.energy.gov/energy-basics/hvac-heat-pump-water-heaters)
-7. [U.S. Department of Energy: LED lighting](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting)
+7. [U.S. Environmental Protection Agency ENERGY STAR: Learn About LED Lighting](https://www.energystar.gov/products/learn-about-led-lighting) (retrieved 2026-08-28)

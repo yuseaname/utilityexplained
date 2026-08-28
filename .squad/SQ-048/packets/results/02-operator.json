@@ -1,0 +1,36 @@
+{
+  "agent": "operator",
+  "model": "minimax-m3:cloud",
+  "status": "partial",
+  "summary": "worker exceeded max tool steps",
+  "findings": [
+    "none"
+  ],
+  "evidence": [
+    "none"
+  ],
+  "actions_taken": [
+    "none"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "none",
+  "risks": [
+    "none"
+  ],
+  "unknowns": [
+    "none"
+  ],
+  "recommendation": "",
+  "confidence": "low",
+  "confidence_basis": "",
+  "tool_steps": 600,
+  "duration_seconds": 1722.8,
+  "side_effects": false,
+  "warnings": [
+    "stopped at max_tool_steps=600",
+    "slowest generation turn 188s exceeds seat threshold 180s \u2014 stall pattern (SQ-012: gemma 5-6min single-generation stalls)"
+  ],
+  "context_est_tokens": 131145
+}

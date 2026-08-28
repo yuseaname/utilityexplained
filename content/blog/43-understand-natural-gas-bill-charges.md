@@ -3,7 +3,7 @@ title: "How to Review Natural Gas Charges on Your Bill"
 slug: "43-understand-natural-gas-bill-charges"
 description: "Use the account’s itemized bill, meter information, unit conversion, tariff, and provider explanation to review natural-gas charges."
 date: 2026-05-30
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]

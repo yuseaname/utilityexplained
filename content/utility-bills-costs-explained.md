@@ -223,7 +223,7 @@ Now that you understand utility billing basics, explore specific topics to manag
 <li><a href="/blog/19-utility-bill-surcharges-and-riders-explained/">Utility bill surcharges and riders explained</a> -- Common add-ons and what they fund.</li>
 <li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">Fuel adjustment charge on a utility bill</a> -- Why fuel costs fluctuate month to month.</li>
 <li><a href="/blog/16-budget-billing-level-pay-explained/">Budget billing and level pay explained</a> -- How flat monthly payments work.</li>
-<li><a href="/blog/why-electric-bill-changes-month-to-month/">Why my utility bill is higher with the same usage</a> -- Rates, days, and fees that change totals.</li>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why my electric bill is higher with the same usage</a> -- Rates, days, and fees that change totals.</li>
 <li><a href="/blog/22-minimum-bill-utility-bill-explained/">Minimum bill on a utility bill explained</a> -- Why totals cannot drop below a floor.</li>
 <li><a href="/blog/21-past-due-balance-utility-bill-explained/">Past-due balance on a utility bill explained</a> -- Avoid compounding charges.</li>
 </ul>
@@ -272,11 +272,11 @@ For specific advice on each utility, explore our detailed guides on <a href="/el
 
 <h3>Reading and Understanding Bills</h3>
 <ul>
-<li><a href="/blog/how-to-read-your-utility-bill/">How to Read Your Utility Bill</a></li>
 <li><a href="/blog/complete-guide-understanding-utility-bill/">Complete Guide to Understanding Your Utility Bill</a></li>
+<li><a href="/blog/complete-guide-understanding-utility-bill/">How to Read Your Utility Bill</a></li>
 <li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown</a></li>
 <li><a href="/blog/how-utility-rates-fees-usage-work-together/">How Rates, Fees, and Usage Work Together</a></li>
-<li><a href="/blog/why-electric-bill-changes-month-to-month/">Why Your Electric Bill Changes Month to Month</a></li>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Your Electric Bill Changes Month to Month</a></li>
 </ul>
 
 <h3>Fees and Charges Explained</h3>

@@ -1,9 +1,10 @@
 ---
 title: "How to Read Your Electric Bill (Line by Line Guide)"
 slug: "01-how-to-read-your-electric-bill"
+aliases: ["/blog/41-how-to-read-electricity-bill/"]
 description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
 date: 2026-03-07
-updated: 2026-08-23
+updated: 2026-08-28
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -49,7 +50,7 @@ Keep a copy of the bill while reviewing it. When a charge is unclear, ask the ut
 
 A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equals one kWh.[1] A device's energy use therefore depends on both its power draw and how long it runs.
 
-For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2] Your own prior bills are more useful than a national average when reviewing your account.
+For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2] Your own prior bills are more useful than a national average when reviewing your account.
 
 ## Read Meter Information Carefully
 

@@ -1,7 +1,7 @@
 ---
 title: "A Practical Workflow for Understanding Your Utility Bill"
 slug: "complete-guide-understanding-utility-bill"
-aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/", "/blog/average-utility-bills-by-state-2026/"]
+aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/", "/blog/average-utility-bills-by-state-2026/", "/blog/how-to-read-your-utility-bill/"]
 description: "Review an electricity, gas, or water statement using the account’s service dates, meter data, tariff, rate plan, itemized charges, and provider documentation."
 date: 2026-08-10
 updated: 2026-08-23

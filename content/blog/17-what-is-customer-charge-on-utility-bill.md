@@ -1,6 +1,7 @@
 ---
 title: "How to Review a Customer Charge on a Utility Bill"
 slug: "17-what-is-customer-charge-on-utility-bill"
+aliases: ["/blog/gas-customer-charge-explained/"]
 description: "Identify a customer charge from the account's tariff and itemized statement, then compare it with other rate components without using generic fee ranges."
 date: 2026-05-28
 updated: 2026-08-23

@@ -1,6 +1,7 @@
 ---
 title: "How to Read an Electricity Bill"
 slug: "41-how-to-read-electricity-bill"
+draft: true
 description: "Review an electricity bill using its billing period, meter information, rate schedule, and itemized charges instead of generic national percentage tables."
 date: 2026-05-30
 updated: 2026-08-23

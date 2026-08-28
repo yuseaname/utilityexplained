@@ -27,7 +27,7 @@ image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the 10 most common causes and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
-Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. The fixed monthly fee on top of usage is covered in [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/).
+Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/).
 
 **Next step:** If your gas bill is still high after checking the causes above, learn how to [read your gas bill line by line](/blog/12-how-to-read-your-gas-bill/) and see the full [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for comparison.
 
@@ -342,7 +342,7 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 - [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Spot charges you can dispute
 - [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/) — Full charge-by-charge guide
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — Decode the units on your bill
-- [Gas Customer Charge Explained](/blog/gas-customer-charge-explained/) — That fixed monthly fee
+- [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — That fixed monthly fee
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — What you're paying for
 - [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — How utilities pass through gas cost changes
 - [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — Line items beyond supply and delivery

@@ -1,6 +1,7 @@
 ---
 title: "How to Compare a Fixed or Variable Electricity Offer"
 slug: "fixed-vs-variable-rate-electricity-plan"
+draft: true
 canonical: "https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/"
 description: "Use the complete electricity offer, your tariff, and your own usage history to compare plan terms without relying on generic rate predictions."
 date: 2025-12-27

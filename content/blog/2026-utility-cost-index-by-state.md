@@ -28,7 +28,7 @@ draft: true
 - **Natural gas states are cheapest** — Louisiana, Texas, Oklahoma benefit from abundant local energy
 - **Solar can offset $100–$250/month** in high-cost states depending on system size
 
-See [fixed vs variable rate plans](/blog/fixed-vs-variable-rate-electricity-plan/) for managing costs.
+See [fixed vs variable rate plans](/blog/10-fixed-vs-variable-utility-rate/) for managing costs.
 
 Where you live determines how much you pay for utilities—sometimes dramatically. A household in Hawaii pays about $200–$240/month for electricity, while a household in Louisiana pays about $120–$140. A family in Massachusetts spends $75/month on water, while a family in Wisconsin spends $35.
 

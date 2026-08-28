@@ -1,0 +1,59 @@
+{
+ "role": "mason",
+ "mission": "TWO JOBS. (A) STALE-YEAR REFRESH on 6 live pages: content/blog/03-why-is-my-electric-bill-so-high.md, 01-how-to-read-your-electric-bill.md, 11-understanding-kwh-usage.md, mcf-vs-ccf-vs-therms-on-gas-bill.md, 43-understand-natural-gas-bill-charges.md, 18-fuel-adjustment-charge-on-utility-bill-explained.md \u2014 find every year-dated stat (2020-2023 refs), refresh with current EIA/DOE figures (baseline first; web-verify anything else, cite URL+date in frontmatter sources). Do NOT restructure; refresh numbers only. (B) ADJUDICATED REMOVAL SWEEP \u2014 for each of these EXACT pages: set draft:true in frontmatter AND add its URL path to the aliases list of its named target: 41-how-to-read-electricity-bill.md -> target 01-how-to-read-your-electric-bill.md (add '/blog/41-how-to-read-electricity-bill/'); how-to-read-your-utility-bill.md -> target complete-guide-understanding-utility-bill.md (add '/blog/how-to-read-your-utility-bill/'); why-electric-bill-changes-month-to-month.md -> target 03-why-is-my-electric-bill-so-high.md; supply-vs-delivery-charges-electricity.md -> 24-delivery-charge-vs-supply-charge-utility-bill.md; gas-customer-charge-explained.md -> 17-what-is-customer-charge-on-utility-bill.md; fixed-vs-variable-rate-electricity-plan.md -> 10-fixed-vs-variable-utility-rate.md. THEN sweep the whole content/ tree for markdown links pointing at those six removed URLs and rewire each to its target (report every rewired file:line). DO NOT touch any page not named here.",
+ "parent_objective": "SQ-048 P2: stale-year refresh, adjudicated removals (alias-based), rate-plan hub, CCF calculator.",
+ "context": "Removal = draft + alias + inbound-link rewiring. Nothing else dies. If a target lacks an aliases: frontmatter key, create it preserving existing entries.",
+ "known_facts": [
+  "Commander adjudication (traffic 2026-08-27): NO merges into monetized or >5 pv/wk pages. Removals use draft:true + alias-on-target (the host ignores .htaccess; Hugo aliases are the working redirect).",
+  "Verified products: Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, Emporia Vue 3 B0C7B1LKDW, Nest B0D5BBYRJM, ecobee B09XXS48P8, Emporia charger B09ZNN3JB7, plus site-standard shortcodes.",
+  "House voice: plain-English, no hype, no fabricated testing. Sources cited with URL + date."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/03-why-is-my-electric-bill-so-high.md",
+   "content/blog/01-how-to-read-your-electric-bill.md",
+   "content/blog/11-understanding-kwh-usage.md",
+   "content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md",
+   "content/blog/43-understand-natural-gas-bill-charges.md",
+   "content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md",
+   "content/blog/41-how-to-read-electricity-bill.md",
+   "content/blog/how-to-read-your-utility-bill.md",
+   "content/blog/why-electric-bill-changes-month-to-month.md",
+   "content/blog/supply-vs-delivery-charges-electricity.md",
+   "content/blog/gas-customer-charge-explained.md",
+   "content/blog/fixed-vs-variable-rate-electricity-plan.md",
+   "content/blog/complete-guide-understanding-utility-bill.md",
+   "content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md",
+   "content/blog/17-what-is-customer-charge-on-utility-bill.md",
+   "content/blog/10-fixed-vs-variable-utility-rate.md",
+   "content/_index.md",
+   "content/electricity-explained.md",
+   "content/gas-explained.md",
+   "content/water-explained.md",
+   "content/heating-cooling-explained.md",
+   "content/utility-bills-costs-explained.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Every factual claim sourced (baseline or web_fetch with URL+date). House markdown style. updated: 2026-08-28 on touched files.",
+  "Chunk discipline: file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "6 pages refreshed with current cited figures.",
+  "6 removals drafted + aliased + every inbound link rewired (file:line list)."
+ ]
+}
