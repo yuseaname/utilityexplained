@@ -23,6 +23,8 @@ Most residential electric bills in the United States are built from a usage-base
 
 **Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
 
+**Next step:** If your bill jumped, start troubleshooting with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) or learn how to [read your electric bill](/blog/01-how-to-read-your-electric-bill/) line by line.
+
 <blockquote>
 <p><strong>One line look wrong? Here's where to dig in:</strong></p>
 <ul>

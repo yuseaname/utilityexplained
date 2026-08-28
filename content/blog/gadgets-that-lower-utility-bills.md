@@ -14,6 +14,8 @@ sources:
   - https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **Measure and assess before buying.** A device does not automatically lower a bill; its result depends on what it measures, how it is used, the home, and the utility rate. DOE recommends using a home energy assessment to identify cost-effective improvements and lists efficient technologies such as smart thermostats, LEDs, smart power strips, efficient appliances, and EV chargers as potential improvements.[2]
@@ -29,6 +31,10 @@ Do not rely on a generic product ranking, payback promise, or national dollar es
 | Thermostat control | Does the current schedule match occupancy and the equipment manufacturer's guidance? |
 | Smart or advanced power strip | Which connected devices can safely power down when unused? |
 | Efficient replacement product | Is an existing appliance or fixture due for replacement, and what does its EnergyGuide or ENERGY STAR information show? |
+
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="Smart thermostat control" description="DOE lists smart thermostats as an efficient technology that can lower utility use when schedules match occupancy.[2] The Nest Learning Thermostat programs itself within a week and is ENERGY STAR certified. Google reports typical savings of 10–12% on heating and 15% on cooling." button="Check price on Amazon" >}}
+
+{{< product-box asin="B0CLVV7X7Y" name="Emporia Energy Monitoring Smart Plug" label="Electricity-use monitor" description="A per-outlet power meter that shows real-time consumption in its app — answering the question 'Which device or circuit is using more electricity than expected?' from the table above. DOE advises measuring before buying hardware to prioritize cost-effective changes.[2]" button="Check price on Amazon" >}}
 
 ## A Safe Decision Process
 

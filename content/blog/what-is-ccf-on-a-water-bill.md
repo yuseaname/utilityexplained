@@ -17,6 +17,8 @@ sources:
 ## Quick Answer {#quick-answer}
 <p><strong>CCF means "hundred cubic feet" — 1 CCF equals 748 gallons of water.</strong> CCF is the volume unit your bill uses; the fee comes from the rate your utility charges per CCF. Compare your own bill history and the billing-period length before treating any usage jump as a leak.</p>
 
+**Next step:** Now that you know what CCF means, check your [water meter's leak indicator](/blog/water-meter-leak-indicator-explained/) to see if a hidden leak is driving up your usage, or see [how sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/) to understand how your CCF number affects your total bill.
+
 <blockquote>
 <p><strong>Got the definition? Good — now the part most people miss: what your CCF number reveals about your bill.</strong> Once you know your CCF, you can tell in about 30 seconds whether your usage is normal or whether water (and money) is quietly leaking. Two things to know up front:</p>
 <ul>

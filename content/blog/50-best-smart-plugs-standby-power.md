@@ -15,6 +15,8 @@ sources:
   - https://betterbuildingssolutioncenter.energy.gov/resources/saving-energy-through-advanced-power-strips
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **Measure first.** DOE defines standby power as the lowest power consumption while a product remains plugged into mains power.[1] An advanced power strip or a smart plug can reduce idle use for suitable devices, but the device, schedule, rating, and potential savings depend on the equipment and your electricity price.
@@ -46,6 +48,10 @@ Do not use a plug beyond its manufacturer rating. For portable heaters, air cond
 ## Where to Start
 
 Start with equipment that is easy to observe and safe to switch off, such as selected entertainment or office peripherals. Review the result against your actual bill and rate plan. If a device needs to remain on, do not automate it off merely to pursue an estimated saving.
+
+{{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring, KP115" label="See standby consumption outlet by outlet" description="Plug any device into this Wi-Fi outlet and the Kasa app reports its real-time power use — no extra meter needed. DOE defines standby power as a product's lowest plugged-in consumption; this plug shows you exactly what each device draws in that state." button="Check price on Amazon" >}}
+
+{{< product-box asin="B0BYGRLRS1" name="Kasa Matter Smart Plug with Energy Monitoring, KP125MP2 (2-Pack)" label="Two outlets, one app" description="Kasa's Matter-compatible smart plug with energy monitoring, sold in a 2-pack for covering multiple devices. The DOE recommends measuring standby power before reducing it — this plug gives you per-outlet data to decide which devices can safely power down." button="Check price on Amazon" >}}
 
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 

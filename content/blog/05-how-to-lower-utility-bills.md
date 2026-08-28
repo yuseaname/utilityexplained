@@ -22,6 +22,10 @@ sources:
 
 The right improvement sequence is specific to the home, account, equipment, and local program rules. It is not proven by a national cost or payoff table.
 
+**Next step:** Before you invest in any improvement, understand your current bills: read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) and [how to investigate a high water bill](/blog/06-water-bill-too-high/) to establish your baseline usage and costs.
+
+For a complete view of your baseline, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) if electricity costs dominate, or [how to investigate a high water bill](/blog/06-water-bill-too-high/) if water is your concern. For gas, see [why is my gas bill so high](/blog/07-gas-bill-too-high/) and the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
+
 ## Establish a Baseline
 
 Gather comparable electricity, gas, water, and sewer bills; current tariffs or rate plans; property observations; maintenance records; and equipment documentation. Record the service period, billing days, billed units, meter/read status, rate version, itemized charges, credits, and material changes in occupancy or use.

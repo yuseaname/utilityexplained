@@ -22,6 +22,8 @@ sources:
 2. **An irrigation system or appliance cycle** — make sure each known water user is off before you test.
 3. **A service-line or plumbing leak** — use the main-valve test below, then contact your utility or a qualified plumber if you cannot isolate it safely.
 
+**Next step:** If your water bill is higher than expected, start with the [water bill investigation guide](/blog/06-water-bill-too-high/) to compare your statement and meter data before diving into the leak tests below.
+
 The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how water meters work and how accurate they are](/blog/how-do-smart-meters-work/).
 
 ## The 10-Minute Test: Find Where the Leak Is

@@ -16,6 +16,8 @@ sources:
   - https://betterbuildingssolutioncenter.energy.gov/beat-blog/a-tale-two-tiers-advanced-power-strips-commercial-buildings
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **Standby power is electricity a device uses while connected to mains power in its lowest-power state—often when it appears off or is not performing its primary function.** DOE says it can be a significant part of a product's energy use.[1][2]
@@ -42,7 +44,12 @@ A plug-in power meter can measure a device's use in standby or other low-power m
 
 A device's cost depends on its measured power use, the time it stays in that mode, and the electricity price on your utility bill.[1] Calculate your household result from the meter reading and your own rate rather than using a universal dollar estimate.
 
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Measure before you reduce" description="The electricity usage monitor the article describes. Plug any device into it and read real-time watts, volts, amps, and cumulative kWh — the DOE-recommended method for finding standby loads.[1]" button="Check price on Amazon" >}}
+
+{{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring, KP115" label="Reduce what you measured" description="After the Kill A Watt identifies which devices waste standby power, replace the regular plug with this Wi-Fi outlet. Its Kasa app reports ongoing consumption and can schedule shut-off for devices that don't need 24/7 power — the same approach DOE recommends for reducing avoidable standby use.[1]" button="Check price on Amazon" >}}
+
 ## Sources
+
 
 1. [U.S. Department of Energy: Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power)
 2. [U.S. Department of Energy: Low Standby Power Products](https://www.energy.gov/cmei/femp/low-standby-power-products)

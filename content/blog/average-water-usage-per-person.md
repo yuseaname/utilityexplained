@@ -21,6 +21,10 @@ sources:
 
 EPA WaterSense explains that utilities use different units and rate structures, so start with the information shown on the local bill.[1]
 
+**Next step:** Once you have your household baseline, compare it against [what CCF means on your water bill](/blog/what-is-ccf-on-a-water-bill/) to understand your usage unit, then use the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) to check for hidden leaks when usage spikes.
+
+Before calculating, understand the unit your bill uses by reading [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/). For a full leak diagnosis, see [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) and [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/). Then:
+
 ## Calculate Your Household Baseline
 
 1. Find the total water use and the unit shown on the bill.

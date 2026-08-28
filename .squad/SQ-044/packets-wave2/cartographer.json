@@ -1,0 +1,54 @@
+{
+ "role": "cartographer",
+ "mission": "Engagement wiring on the top-traffic pages (bounce 91.3%, pages/session 1.10 \u2014 your job is the internal-link graph that fixes both). You own EXACTLY these 14 files: 30-sudden-spike-in-electricity-bill-no-usage, 06-water-bill-too-high, 28-utility-reconnection-fee-explained, water-meter-running-when-no-water-used, 07-gas-bill-too-high, 23-utility-billing-cycle-explained, how-sewer-charges-work-on-your-water-bill, 03-why-is-my-electric-bill-so-high, what-is-ccf-on-a-water-bill, water-meter-leak-indicator-explained, 05-how-to-lower-utility-bills, average-water-usage-per-person, electric-bill-breakdown-understanding-line-items, 01-how-to-read-your-electric-bill (all under content/blog/). For EACH: (1) add a short 'Next step' line at the END of the Quick Answer section pointing to the single most-logical next guide (diagnosis page -> action page, fee page -> bill-anatomy page \u2014 you built the graph, use it); (2) ensure at least 2 contextual in-body links to related guides where the text naturally mentions their topic (do not force); (3) add ONE 'Related guides' short list (2-3 links) after the FAQ/sources area if the template does not already render related posts reliably \u2014 check public rendering first via the built HTML. Match existing link markdown style exactly. Do NOT touch the complete-guide (another seat owns it) or restructure any content.",
+ "parent_objective": "P1 revenue implementation for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). P0 compliance already shipped + verified in production.",
+ "context": "You mapped this graph in wave 1 \u2014 now wire it. Links must feel editorial, not mechanical. Read each file's Quick Answer before choosing the next-step target.",
+ "known_facts": [
+  "Production verified clean: tag=utexplained-20 on both live product pages; 'As an Amazon Associate, we earn from qualifying purchases' renders sitewide (shortcode + footer).",
+  "Site: Hugo, product-box + affiliate-disclosure shortcodes ready; hugo.toml amazon_tag=utexplained-20.",
+  "Amazon commission context (verified 2026-08-27): Home Improvement/Home/Tools ~3%, Kitchen ~4.5%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/30-sudden-spike-in-electricity-bill-no-usage.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-sewer-charges-work-on-your-water-bill.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-leak-indicator-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-water-usage-per-person.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/electric-bill-breakdown-understanding-line-items.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md"
+  ]
+ },
+ "constraints": [
+  "PRODUCT-BOX DOCTRINE: use the existing {{< product-box asin=... name=... label=... description=... button=... >}} shortcode pattern exactly as in content/blog/07-gas-bill-too-high.md:318.",
+  "Only products whose ASIN you verified on amazon.com via web_search/web_fetch THIS run (cite the Amazon URL in your findings). Reuse already-verified ASINs where they fit: B0D5BBYRJM (Nest Learning Thermostat 4th gen), B00009MDBU (P3 Kill A Watt P4400).",
+  "Descriptions state what the product does + manufacturer/DOE/ENERGY STAR published facts ONLY. NO testing claims, NO 'we found', NO first-person experience, NO invented specs or prices.",
+  "Every page you add a product box to must have {{< affiliate-disclosure >}} near the top (after frontmatter) if not already present.",
+  "amazon_tag comes from hugo.toml (utexplained-20, already fixed) \u2014 NEVER hardcode tag or price in URLs or text.",
+  "Match each page's existing markdown style, heading voice, and Quick Answer structure. Do not restructure the article \u2014 enhance it."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "All 14 pages carry a Quick Answer next-step link + >=2 contextual internal links.",
+  "No content restructuring; markdown style matches each file's conventions."
+ ]
+}

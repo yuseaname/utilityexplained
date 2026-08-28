@@ -20,6 +20,10 @@ sources:
 
 If paying the account is difficult, CFPB directs renters seeking help with utility bills to local and state resources, including LIHEAP-related assistance information.[1]
 
+**Next step:** Before you get to reconnection, understand how your [utility billing cycle](/blog/23-utility-billing-cycle-explained/) works and how to spot a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) before it triggers a shutoff.
+
+Before calling, review the [utility billing cycle](/blog/23-utility-billing-cycle-explained/) to understand how your service dates and meter read status affect your balance, and check [LIHEAP utility assistance](/blog/utility-assistance-programs-liheap/) if you need payment help. For deposit questions, see [utility deposits explained](/blog/26-utility-deposit-explained/). Then:
+
 ## Get the Restoration Terms in Writing
 
 Ask the provider to identify every item that applies to the account:

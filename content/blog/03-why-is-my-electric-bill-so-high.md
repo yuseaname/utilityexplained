@@ -35,6 +35,8 @@ A higher electric bill can result from higher electricity use, a higher electric
 
 EIA explains that residential electric bills reflect both grid-delivered electricity use and the retail electricity price.[1] There is no single normal kWh amount or dollar bill for every home.
 
+**Next step:** If your bill jumped, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a line-by-line walkthrough, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to decode every charge category.
+
 ## Start With the Bill, Not a Guess
 
 | Check | What to compare | What it can tell you |

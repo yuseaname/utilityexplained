@@ -21,6 +21,10 @@ sources:
 
 Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
 
+**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide.
+
+If you need a line-by-line walkthrough of your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/). For help with a surprise spike, check [why your bill jumped](/blog/15-why-utility-bill-higher-same-usage/), see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for charge categories, or troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/). Then:
+
 ## Record the Statement Details
 
 For the current bill and a comparable prior statement, record:

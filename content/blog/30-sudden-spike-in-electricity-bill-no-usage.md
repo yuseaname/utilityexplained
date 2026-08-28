@@ -28,6 +28,8 @@ A sudden bill spike with no behavior change almost always traces to one of five 
 
 If you already know which cause is yours: a rate change points to [fuel adjustment and rider charges explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), an HVAC problem starts with [why your bill is high](/blog/03-why-is-my-electric-bill-so-high/), and a suspected heat-pump issue usually means [auxiliary heat running when it shouldn't](/blog/aux-heat-vs-emergency-heat-meaning/).
 
+**Next step:** Once you've identified the likely cause of your spike, walk through the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to understand every charge on your statement, or see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a complete line-by-line guide.
+
 ---
 
 Last month's electric bill was <strong>$135</strong>. This month it is <strong>$340</strong>. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A <strong>150% increase</strong> with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.

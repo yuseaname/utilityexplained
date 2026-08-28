@@ -20,7 +20,11 @@ sources:
 
 **Start a high-water-bill investigation with the statement and meter data before assuming a leak, fixture, season, rate, or product is the cause.** EPA WaterSense advises gathering information to track water use and reading meters or submeters to identify use spikes and problems.[1]
 
+**Next step:** If your water bill is higher than expected, check your [water meter for a leak indicator](/blog/water-meter-leak-indicator-explained/) first — it takes two minutes — then walk through the full [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) guide to isolate the source.
+
 The serving utility controls the bill’s units, rate structure, read status, adjustment policy, and review process. Do not rely on a national bill amount, leak-cost estimate, or generic adjustment promise.
+
+If you need to understand the units on your statement first, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) and [how sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/). Then start here:
 
 ## 1. Compare the Bill Before Inspecting the Property
 

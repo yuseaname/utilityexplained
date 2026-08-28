@@ -28,6 +28,10 @@ sources:
 - **Actual and estimated reads are different.** A utility can estimate use when it cannot read a meter and later correct the bill when it obtains a read.[3]
 - **Rate plans matter.** A time-of-use plan can price electricity differently at different times, but the utility's current plan details control the schedule and price.[6]
 
+**Next step:** For a deeper breakdown of every charge on your statement, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/). If your bill is higher than expected, walk through [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) to diagnose the cause.
+
+Start with [the electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide, or check [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) for troubleshooting. For gas bills, see [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/) and [why is my gas bill so high](/blog/07-gas-bill-too-high/). Then:
+
 ## Find These Items First
 
 Before interpreting individual charges, locate these items on the current bill or online account:

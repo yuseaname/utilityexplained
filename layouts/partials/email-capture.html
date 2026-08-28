@@ -1,5 +1,5 @@
 {{/* email-capture.html */}}
-{{ if eq .Section "blog" }}
+{{ if or (eq .Section "blog") .IsHome }}
 <div class="newsletter-box">
   <div class="newsletter-inner">
     <div class="newsletter-icon">

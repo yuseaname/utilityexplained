@@ -1,0 +1,41 @@
+{
+ "role": "operator",
+ "mission": "Upgrade the #1 traffic + money page: content/blog/how-to-lower-electric-bill-complete-guide.md (123 sessions/wk, just un-drafted, ~2000w, '20+ ways' format). You own exactly this file. Mission: (1) monetization: add a compact 'Tools that pay for themselves' comparison section after the Quick Answer area with 2-3 product boxes \u2014 Nest Learning Thermostat (B0D5BBYRJM, already verified: manufacturer-claimed ~12% heating/~15% cooling savings), Kill A Watt (B00009MDBU), and one verified smart-plug-with-monitoring ASIN \u2014 each with an honest 'best for' framing tied to numbered steps in the guide; (2) engagement: convert the flat 20+-item list into scannable cost-tiered H3 groupings (free behaviors / under-$50 / big-ticket) WITHOUT rewriting the substance \u2014 reorder only where logic demands; add a 'Start here' decision line under Quick Answer; (3) add 3-5 contextual internal links to related guides (phantom-power-draw, 50-best-smart-plugs, do-programmable-thermostats, heat-pump-vs-gas-furnace-savings) inside relevant steps; (4) ensure {{< affiliate-disclosure >}} sits atop the article; (5) update the 'updated:' frontmatter date to 2026-08-28.",
+ "parent_objective": "P1 revenue implementation for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). P0 compliance already shipped + verified in production.",
+ "context": "Read content/blog/07-gas-bill-too-high.md FIRST as the compliant reference (disclosure at line 16, product box at 318). Read layouts/shortcodes/product-box.html to know the exact parameters. This is the revenue flagship \u2014 the page must read BETTER, not just carry links. Chunk your edits (write in sections, not one giant composition).",
+ "known_facts": [
+  "Production verified clean: tag=utexplained-20 on both live product pages; 'As an Amazon Associate, we earn from qualifying purchases' renders sitewide (shortcode + footer).",
+  "Site: Hugo, product-box + affiliate-disclosure shortcodes ready; hugo.toml amazon_tag=utexplained-20.",
+  "Amazon commission context (verified 2026-08-27): Home Improvement/Home/Tools ~3%, Kitchen ~4.5%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md"
+  ]
+ },
+ "constraints": [
+  "PRODUCT-BOX DOCTRINE: use the existing {{< product-box asin=... name=... label=... description=... button=... >}} shortcode pattern exactly as in content/blog/07-gas-bill-too-high.md:318.",
+  "Only products whose ASIN you verified on amazon.com via web_search/web_fetch THIS run (cite the Amazon URL in your findings). Reuse already-verified ASINs where they fit: B0D5BBYRJM (Nest Learning Thermostat 4th gen), B00009MDBU (P3 Kill A Watt P4400).",
+  "Descriptions state what the product does + manufacturer/DOE/ENERGY STAR published facts ONLY. NO testing claims, NO 'we found', NO first-person experience, NO invented specs or prices.",
+  "Every page you add a product box to must have {{< affiliate-disclosure >}} near the top (after frontmatter) if not already present.",
+  "amazon_tag comes from hugo.toml (utexplained-20, already fixed) \u2014 NEVER hardcode tag or price in URLs or text.",
+  "Match each page's existing markdown style, heading voice, and Quick Answer structure. Do not restructure the article \u2014 enhance it."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Page upgraded: comparison section + verified boxes + cost-tier structure + internal links + disclosure + fresh date.",
+  "No fabricated claims; every product fact attributable to manufacturer/DOE or the article's own sourced numbers."
+ ]
+}

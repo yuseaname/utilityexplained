@@ -15,6 +15,8 @@ sources:
   - https://bsesc.energy.gov/training-modules/hvac-thermostats-heat-pumps-and-dual-fuel-heat-pumps
 ---
 
+{{< affiliate-disclosure >}}
+
 ## Quick Answer
 
 **A programmable thermostat can reduce heating and cooling energy use when its schedule lowers or raises the temperature while the home is asleep or unoccupied.** DOE recommends resetting a thermostat while asleep or away and notes that an automatic setback can do this without sacrificing comfort.[1]
@@ -36,6 +38,10 @@ For heat pumps and dual-fuel systems, use a thermostat and settings appropriate 
 - Does the equipment manufacturer provide guidance for setbacks or recovery?
 - Which settings will remain active during an outage or internet loss?
 - How will I compare results using my own billing periods and rate plan?
+
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="Smart thermostat with auto-scheduling" description="DOE recommends resetting a thermostat while asleep or away to save energy.[1] Nest builds this schedule automatically within a week — no manual programming required. ENERGY STAR certified; Google reports typical savings of 10–12% on heating and 15% on cooling." button="Check price on Amazon" >}}
+
+{{< product-box asin="B0DSGGDCR8" name="Honeywell Home X2P Programmable Thermostat RTH20B" label="Basic programmable alternative" description="A straightforward 5-2 day programmable thermostat — set separate weekday and weekend schedules to match occupancy, exactly as DOE describes.[1] Single-stage, 1 heat/1 cool, no Wi-Fi required. The budget-friendly way to apply the setback advice in this article." button="Check price on Amazon" >}}
 
 ## Sources
 

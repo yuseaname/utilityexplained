@@ -20,6 +20,10 @@ sources:
 
 Do not assume a winter-average method, irrigation exception, or universal sewer-to-water price relationship applies to your account. Read the line-item description, billing period, units, and tariff before drawing a conclusion.
 
+**Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill.
+
+To understand how your water usage and sewer charges connect, first read [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/). If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes, or check [stormwater fees](/blog/stormwater-fee-on-water-bill-explained/) for related charges. Then:
+
 ## Start With the Statement
 
 EPA WaterSense notes that utilities use different units and rate structures, and that many water bills combine fixed and volume-based charges.[1] Sewer service may be shown on the same statement as water service or issued separately, depending on the provider.

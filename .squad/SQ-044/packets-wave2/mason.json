@@ -1,0 +1,44 @@
+{
+ "role": "mason",
+ "mission": "Monetize 4 high-intent articles with honest product boxes: (1) content/blog/50-best-smart-plugs-standby-power.md \u2014 it is ALREADY the smart-plug product page but has zero links: add 2-3 product boxes for smart plugs WITH energy-monitoring capability (verify ASINs on amazon.com; e.g. Kasa/Tp-Link and a runner-up \u2014 confirm current models yourself), placed in/next to the existing product discussion; (2) content/blog/phantom-power-draw-explained.md \u2014 1-2 boxes: smart plug with monitoring + the Kill A Watt meter (B00009MDBU) as the measurement tool; (3) content/blog/gadgets-that-lower-utility-bills.md \u2014 2-3 boxes matching the gadgets the article already discusses (Nest thermostat B0D5BBYRJM fits; verify 1-2 more the article names); (4) content/blog/do-programmable-thermostats-cut-heating-bills.md \u2014 1-2 boxes: Nest Learning (B0D5BBYRJM) + one basic programmable alternative (verify ASIN). Each description: honest 'what it does' + cited manufacturer/DOE fact from the article. Add the disclosure shortcode atop any file missing it.",
+ "parent_objective": "P1 revenue implementation for utilityexplained.com Amazon Associates pivot (store ID utexplained-20). P0 compliance already shipped + verified in production.",
+ "context": "Read content/blog/07-gas-bill-too-high.md FIRST as the compliant reference (disclosure at line 16, product box at 318). Read layouts/shortcodes/product-box.html to know the exact parameters. You own EXACTLY these 4 files \u2014 no other writes. Your 1M window: read all 4 articles fully so boxes land in the right sections.",
+ "known_facts": [
+  "Production verified clean: tag=utexplained-20 on both live product pages; 'As an Amazon Associate, we earn from qualifying purchases' renders sitewide (shortcode + footer).",
+  "Site: Hugo, product-box + affiliate-disclosure shortcodes ready; hugo.toml amazon_tag=utexplained-20.",
+  "Amazon commission context (verified 2026-08-27): Home Improvement/Home/Tools ~3%, Kitchen ~4.5%."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/50-best-smart-plugs-standby-power.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/phantom-power-draw-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/gadgets-that-lower-utility-bills.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/do-programmable-thermostats-cut-heating-bills.md"
+  ]
+ },
+ "constraints": [
+  "PRODUCT-BOX DOCTRINE: use the existing {{< product-box asin=... name=... label=... description=... button=... >}} shortcode pattern exactly as in content/blog/07-gas-bill-too-high.md:318.",
+  "Only products whose ASIN you verified on amazon.com via web_search/web_fetch THIS run (cite the Amazon URL in your findings). Reuse already-verified ASINs where they fit: B0D5BBYRJM (Nest Learning Thermostat 4th gen), B00009MDBU (P3 Kill A Watt P4400).",
+  "Descriptions state what the product does + manufacturer/DOE/ENERGY STAR published facts ONLY. NO testing claims, NO 'we found', NO first-person experience, NO invented specs or prices.",
+  "Every page you add a product box to must have {{< affiliate-disclosure >}} near the top (after frontmatter) if not already present.",
+  "amazon_tag comes from hugo.toml (utexplained-20, already fixed) \u2014 NEVER hardcode tag or price in URLs or text.",
+  "Match each page's existing markdown style, heading voice, and Quick Answer structure. Do not restructure the article \u2014 enhance it."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "4 files monetized with verified-ASIN product boxes in contextually correct sections.",
+  "Per-box Amazon source URL cited in findings; no testing/fabricated claims; disclosures present."
+ ]
+}
