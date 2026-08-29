@@ -10,6 +10,7 @@ categories: ["Troubleshooting"]
 tags: ["high water bill", "water bill spike", "water meter", "water use"]
 keywords: ["why is my water bill so high", "high water bill", "water bill investigation"]
 image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.webp"
+og_image: "/images/social/og-water-bill-too-high.webp"
 sources:
   - https://www.epa.gov/watersense/getting-started
   - https://www.epa.gov/watersense/start-saving
@@ -25,6 +26,8 @@ sources:
 
 ### Quick 3-Step Diagnosis
 
+{{< visual src="/images/articles/06-water-bill-too-high/water-diagnosis-strip.webp" alt="Three-step process to investigate a high water bill: compare bills, test the meter, and isolate a valve." wide="true" >}}
+
 1. **Compare the bill** — Put the current statement beside a comparable earlier bill and check for rate changes, estimated reads, or billing-period shifts (see step 1 below).
 2. **Test the meter** — Turn off all water-using fixtures and appliances, then check the meter for movement. If it's still turning, you have a leak. See the [water meter leak indicator guide](/blog/water-meter-leak-indicator-explained/) and [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) for the full walkthrough.
 3. **Isolate the source** — Close the shutoff valve at each fixture one at a time and re-check the meter. When the meter stops, you've found the branch. Step 3 below covers the property inspection.
@@ -34,6 +37,8 @@ The serving utility controls the bill’s units, rate structure, read status, ad
 If you need to understand the units on your statement first, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) and [how sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/). Then start here:
 
 ### Typical Indoor Water Use by Household Size
+
+{{< visual src="/images/articles/06-water-bill-too-high/household-usage-bars.webp" alt="Household-size water-use chart for one through five people, with a national median band and a reminder to use the bill as the audit." wide="true" >}}
 
 EPA reports the average American uses about 82 gallons of water per day at home (indoor + outdoor) and roughly 70% of that is indoors.[4] The table below shows approximate ranges for typical indoor use. If your household exceeds these numbers, the next steps will help you find the cause.
 
@@ -70,6 +75,8 @@ Check your [water meter for a leak indicator](/blog/water-meter-leak-indicator-e
 EPA WaterSense recommends tracking use and reading meters or submeters to identify spikes and possible problems.[1] Record the date, meter observation, appliances or irrigation active at the time, and any visible moisture, damaged fixture, or property change.
 
 ## 3. Look for a Safe, Verifiable Explanation
+
+{{< visual src="/images/articles/06-water-bill-too-high/toilet-leak-cost.webp" alt="Toilet tank cross-section showing a leaking flapper and a monthly water-cost counter." >}}
 
 Review toilets, faucets, irrigation equipment, appliances, and other water-using equipment only within the manufacturer’s instructions and your ability to access them safely. EPA notes that WaterSense-labeled toilets are independently certified for efficiency and performance; product selection should use the installed conditions and local program terms, not a universal bill-savings promise.[3]
 

@@ -1,0 +1,36 @@
+{
+  "agent": "operator",
+  "model": "deepseek-v4-flash:cloud",
+  "status": "failed",
+  "summary": "Ollama Cloud error: HTTP 429: {\"error\":\"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: a33d31ce-ada8-43ae-8190-9937204f40b6)\"}",
+  "findings": [
+    "none"
+  ],
+  "evidence": [
+    "none"
+  ],
+  "actions_taken": [
+    "none"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "none",
+  "risks": [
+    "none"
+  ],
+  "unknowns": [
+    "none"
+  ],
+  "recommendation": "",
+  "confidence": "low",
+  "confidence_basis": "",
+  "tool_steps": 0,
+  "duration_seconds": 7.1,
+  "side_effects": false,
+  "warnings": [
+    "none",
+    "replayed on fallback deepseek-v4-flash:cloud after minimax-m3:cloud hard failure"
+  ],
+  "context_est_tokens": 2918
+}

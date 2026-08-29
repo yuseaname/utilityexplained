@@ -11,6 +11,7 @@ categories: ["Troubleshooting"]
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]
 keywords: ["why is my electric bill so high", "high electricity bill causes", "electric bill spike", "reduce electric bill", "energy usage spike"]
 image: "/images/articles/03-why-is-my-electric-bill-so-high/03-why-is-my-electric-bill-so-high_hero_v2.webp"
+og_image: "/images/social/og-electric-bill-high.webp"
 sources:
   - https://www.eia.gov/todayinenergy/detail.php?id=65244
   - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php
@@ -39,6 +40,8 @@ EIA explains that residential electric bills reflect both grid-delivered electri
 
 ## Start With the Bill, Not a Guess
 
+{{< visual src="/images/articles/03-why-is-my-electric-bill-so-high/rate-vs-usage-seesaw.webp" alt="Mechanical seesaw comparing the two main levers on an electric bill: the rate and electricity usage." wide="true" >}}
+
 | Check | What to compare | What it can tell you |
 |---|---|---|
 | Electricity use | Current kWh versus a prior bill | Whether the change is primarily usage |
@@ -50,6 +53,8 @@ EIA explains that residential electric bills reflect both grid-delivered electri
 If your utility provides daily or hourly usage data, compare the highest-use periods with what was happening at home then. Smart meters can provide utilities with electricity-use data, but the account portal and bill remain the best source for your own account.[2]
 
 ## A Practical Diagnosis Sequence
+
+{{< visual src="/images/articles/03-why-is-my-electric-bill-so-high/diagnosis-sequence-flowchart.webp" alt="Electric-bill diagnosis sequence that checks the bill, rate, usage, and equipment in order." wide="true" >}}
 
 1. **If kWh increased:** investigate what used more electricity during the billing period.
 2. **If kWh is similar but the bill increased:** review the price and listed charges, then contact the utility if the change is unclear.
@@ -69,6 +74,8 @@ Want the whole-house picture instead of one outlet at a time? A circuit-level mo
 ## Common Places to Investigate
 
 ### Heating, cooling, and water heating
+
+{{< visual src="/images/articles/03-why-is-my-electric-bill-so-high/seasonal-usage-ribbon.webp" alt="Twelve-month seasonal electricity-use ribbon showing higher summer and winter demand." wide="true" >}}
 
 Space heating, air conditioning, and water heating are among the largest energy expenses in a home.[3] EIA publishes residential electricity-consumption data by end use, including space heating, cooling, water heating, refrigeration, appliances, electronics, and lighting.[4]
 

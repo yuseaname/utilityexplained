@@ -38,6 +38,8 @@ Utilities can bill gas use in different units and may apply account-specific con
 
 ## Line-Item Walkthrough: What Each Charge on Your Gas Bill Means
 
+{{< visual src="/images/articles/12-how-to-read-your-gas-bill/gas-bill-anatomy.webp" alt="Annotated natural gas bill showing gas usage, supply charge, delivery charge, and total due." >}}
+
 A typical regulated gas bill includes several distinct charge categories. The table below summarizes what each line covers and how it is calculated. Your utility’s exact labels and amounts will differ — check your actual statement.
 
 | Charge | What It Pays For | Typical Calculation | Notes |

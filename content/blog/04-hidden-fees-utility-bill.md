@@ -10,6 +10,7 @@ categories: ["Bills & Fees"]
 tags: ["utility fees", "utility bill charges", "electric bill fees"]
 keywords: ["utility bill charges explained", "electric bill fees", "utility surcharges"]
 image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
+og_image: "/images/social/og-hidden-utility-fees.webp"
 sources:
   - https://www.eia.gov/electricity/data.php
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
@@ -25,6 +26,8 @@ sources:
 
 This page is the launching pad for the site's fee-explainers. Use the table below to identify what a charge is, then follow the linked explainer for the full review process, the questions to ask your provider, and the documents to keep.
 
+{{< visual src="/images/articles/04-hidden-fees-utility-bill/annotated-bill-fees-circled.webp" alt="Generic utility bill with customer charge, rider, and franchise fee marked by auditor callouts." >}}
+
 ## A Bill Review Process
 
 1. Identify the billing period and total usage.
@@ -34,6 +37,8 @@ This page is the launching pad for the site's fee-explainers. Use the table belo
 5. Ask the utility for the tariff, rate schedule, or customer-service explanation for an item you do not understand.
 
 ## The Charges You May See
+
+{{< visual src="/images/articles/04-hidden-fees-utility-bill/fee-taxonomy-tree.webp" alt="Utility fee taxonomy tree separating usage-based, fixed, and event-driven charges." wide="true" >}}
 
 The table below lists seven categories of charges that appear across U.S. residential electricity, gas, and water bills. Each row links to the site's full explainer for that charge. Amounts and structures vary by provider, state, service class, and rate plan — the table summarizes what published utility sources describe (DOE rate-design material, Con Edison's bill guide, and CFPB consumer guidance) and tells you what to look for on your own statement.
 

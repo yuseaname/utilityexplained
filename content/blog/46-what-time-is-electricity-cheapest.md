@@ -26,6 +26,8 @@ This page provides the quick-reference answer. For a full explanation of how TOU
 
 ## Cheapest Hours by Plan Type (Real 2026 Examples)
 
+{{< visual src="/images/articles/46-what-time-is-electricity-cheapest/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
+
 Every utility sets its own peak and off-peak windows. The table below shows the cheapest hours for three common plan types, drawn from current tariffs. These are examples — look up *your* utility’s schedule using the rate-plan hub or 08’s detailed comparison table.[1][2][3]
 
 | Utility / Plan Type | Cheapest Hours | Off-Peak Price (per kWh) | Best For |

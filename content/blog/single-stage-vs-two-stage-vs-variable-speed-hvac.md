@@ -29,6 +29,8 @@ For a central HVAC replacement, stage count is only one part of the decision. DO
 
 ## What the Terms Mean
 
+{{< visual src="/images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/capacity-waveforms.webp" alt="Capacity waveforms comparing single-stage on-off cycling, two-stage cycling, and variable-speed modulation." wide="true" >}}
+
 ### Single-stage
 
 A single-stage system has one operating capacity when it runs. ENERGY STAR describes a conventional air-conditioner compressor as operating like an on/off switch: it is on at maximum capacity when cooling is called for or off after the desired temperature is reached.[1] This means the system always runs at 100% output, then cycles off completely.

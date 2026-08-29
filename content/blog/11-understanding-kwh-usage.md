@@ -39,6 +39,8 @@ Compare daily kWh when billing periods differ. Then compare the price and non-us
 
 ## Top Household Loads: Typical Annual kWh
 
+{{< visual src="/images/articles/11-understanding-kwh-usage/appliance-kwh-ladder.webp" alt="Annual electricity-use ladder comparing an LED bulb, laptop, refrigerator, dryer, and central air conditioning." wide="true" >}}
+
 The table below lists the most common electric loads in a U.S. home. The figures are drawn from the EIA’s 2020 Residential Energy Consumption Survey (RECS) and DOE’s appliance-estimating resources. Actual usage for your specific unit depends on model, age, settings, and how often it runs.[3][4]
 
 | Appliance | Typical Annual kWh | Daily Equivalent (approx.) |

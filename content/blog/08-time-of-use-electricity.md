@@ -30,6 +30,8 @@ Do not use a generic peak-hour table or savings estimate to decide whether to en
 
 ## Real-World TOU Rate Schedules (2026)
 
+{{< visual src="/images/articles/08-time-of-use-electricity/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
+
 Every utility sets its own peak and off-peak windows. The table below shows three current examples. Your rate will differ — look up your utility's tariff, not this table.
 
 | Utility / Plan | Peak Window | Off-Peak Window | Peak Price (per kWh) | Off-Peak Price (per kWh) | Notes |

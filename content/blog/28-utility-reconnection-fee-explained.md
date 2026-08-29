@@ -10,6 +10,7 @@ categories: ["Troubleshooting"]
 tags: ["reconnection fee", "service shutoff", "utility bill"]
 keywords: ["utility reconnection fee", "restore utility service", "utility shutoff charge"]
 image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp"
+og_image: "/images/social/og-reconnection-fee.webp"
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
   - https://www.acf.hhs.gov/ocs/programs/liheap
@@ -46,6 +47,8 @@ In states with winter shutoff moratoriums (e.g., New York, Michigan, Illinois, M
 
 ## Typical Reconnection Fee Table by State and Utility
 
+{{< visual src="/images/articles/28-utility-reconnection-fee-explained/reconnect_fees.webp" alt="Comparison chart of typical electric, gas, and water reconnection fees." wide="true" >}}
+
 The table below shows representative reconnection charges at selected large utilities. **Always confirm the current fee with your provider before paying.** Fees are per the utility's tariff on file with the state public utility commission.
 
 | Utility | State | Utility Type | Typical Reconnection Fee | Notes |
@@ -65,6 +68,8 @@ The table below shows representative reconnection charges at selected large util
 
 ## Get the Restoration Terms in Writing
 
+{{< visual src="/images/articles/28-utility-reconnection-fee-explained/custom_inline.webp" alt="A utility bill on a desk, representing the written account details to verify before reconnection." >}}
+
 Ask the provider to identify every item that applies to the account:
 
 | Item | What to verify |
@@ -81,6 +86,8 @@ Keep the notice, bill, account confirmation, and provider communication. A servi
 ---
 
 ## The Restoration Process Step by Step
+
+{{< visual src="/images/articles/28-utility-reconnection-fee-explained/reconnect-process.webp" alt="Four-step process for restoring utility service, from the past-due balance through service restoration." wide="true" >}}
 
 Once you have the written terms, follow these steps to restore service:
 
@@ -110,6 +117,10 @@ Save the payment receipt, the appointment confirmation number, and the technicia
 ---
 
 ## How to Avoid the Reconnection Fee
+
+{{< visual src="/images/articles/28-utility-reconnection-fee-explained/reconnect_avoid.webp" alt="Three ways to avoid a reconnection fee: budget billing, a payment plan, and an assistance program." wide="true" >}}
+
+{{< visual src="/images/articles/28-utility-reconnection-fee-explained/shutoff-avoidance-timeline.webp" alt="Timeline from a 10 to 15 day shutoff notice through a payment arrangement and protection program, with the last safe exit marked." wide="true" >}}
 
 The best way to avoid the fee is to never reach the disconnection point. Every utility offers options before the final shutoff notice is issued.
 

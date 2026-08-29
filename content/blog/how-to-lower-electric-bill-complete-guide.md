@@ -10,6 +10,7 @@ categories: ["Savings & Efficiency"]
 tags: ["lower electric bill", "save electricity", "energy efficiency", "reduce electric bill", "energy savings"]
 keywords: ["lower electric bill", "reduce electricity usage", "energy saving tips", "electric bill hacks", "cut electricity costs"]
 image: "/images/articles/how-to-lower-electric-bill-complete-guide/energy-hogs-hero.webp"
+og_image: "/images/social/og-lower-electric-bill.webp"
 image_alt: "Horizontal bar chart: where the average U.S. home energy bill goes — heating and cooling 40–50% (gold bar), water heating 12–18%, refrigeration 6–12%, lighting 6–10%, electronics and standby power 4–8% (teal bars). Source: U.S. EIA."
 sources:
   - "U.S. Energy Information Administration, Electricity Monthly Update — https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-28)"
@@ -31,6 +32,8 @@ You can cut your electric bill **20–40%** with the highest-ROI moves: raise su
 - Most utilities run a free home energy audit; call before you spend a dollar.
 
 **Start here:** If your bill is the priority *right now*, do steps **1 (thermostat) and 3 (phantom loads)** today — together they typically save $10–$30/month with no equipment. If you have one weekend to spend, add steps **9 (LEDs) and 11 (air sealing)**. Save the bigger investments (steps **13 thermostat, 14 insulation, 16 heat pump**) for when old equipment fails or for a planned upgrade window. Not sure your usage is even the problem? Walk through [Why Your Electric Bill Is So High](/blog/03-why-is-my-electric-bill-so-high/) first to rule out billing errors, estimated reads, and rate changes.
+
+{{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/cost-tier-ladder.webp" alt="Three cost tiers for lowering an electric bill, from free behavior changes to big-ticket upgrades." caption="Start with the lowest-cost change that addresses the largest source of use in your home." wide="true" >}}
 
 {{< jump-row "Free today|#free-changes-start-today-save-1025" "Under $50|#under-50-this-week-save-1530" "HVAC|#hvac-optimization-save-2035" "Rate plans|#rate-plan-optimization-save-1025" "Checklist|#quick-reference-checklist" >}}
 
@@ -100,6 +103,8 @@ These cost nothing and start saving immediately.
 
 **How:** Manual thermostat, or programmable if you have one
 
+{{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/thermostat-setback-dial.webp" alt="A thermostat dial at 78 degrees Fahrenheit showing a 7 to 10 degree setback range and potential heating and cooling savings." >}}
+
 ---
 
 ### 2. Turn Off Lights in Empty Rooms
@@ -127,6 +132,8 @@ Old incandescent bulbs cost roughly 1¢/hour to run; LEDs cost a fraction of a c
 **Total phantom load:** 50–150 W continuous = **$75–$220/year** (at ~17¢/kWh)
 
 **Solution:** Use smart power strips ($15–$30) or simply unplug.
+
+{{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/phantom-load-wall.webp" alt="A nighttime home wall audit showing common plugged-in devices drawing standby power and a plug-in meter reading 43 watts." wide="true" >}}
 
 ---
 
@@ -358,6 +365,8 @@ Solar generates your own electricity. With net metering, you can eliminate most 
 
 ## HVAC Optimization (Save 20–35%)
 
+{{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/payback-timeline.webp" alt="A timeline comparing the typical payback period for LEDs, a thermostat, and a heat pump." wide="true" >}}
+
 Your HVAC is your biggest energy user. Optimize it first.
 
 ### Programmable Thermostat Schedule
@@ -556,4 +565,3 @@ Before spending on upgrades, confirm nothing on the utility side is inflating yo
 {{< /faq >}}
 
 {{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Whole-Home Energy Monitor" label="See every circuit" description="Smart plugs cover one outlet at a time — the Vue covers the whole house. Sixteen circuit-level sensors show exactly which appliances eat your kWh, in real time, in one app." button="Check price on Amazon" >}}
-

@@ -15,6 +15,7 @@ categories: ["Troubleshooting"]
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
 keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
 image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
+og_image: "/images/social/og-sudden-electricity-spike.webp"
 ---
 
 {{< affiliate-disclosure >}}
@@ -34,6 +35,8 @@ A sudden bill spike with no behavior change almost always traces to one of five 
 If you already know which cause is yours: a rate change points to [fuel adjustment and rider charges explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), an HVAC problem starts with [why your bill is high](/blog/03-why-is-my-electric-bill-so-high/), and a suspected heat-pump issue usually means [auxiliary heat running when it shouldn't](/blog/aux-heat-vs-emergency-heat-meaning/).
 
 **Next step:** Once you've identified the likely cause of your spike, walk through the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to understand every charge on your statement, or see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a complete line-by-line guide.
+
+{{< visual src="/images/articles/30-sudden-spike-in-electricity-bill-no-usage/spike-diagnosis-flowchart.webp" alt="Decision flowchart for investigating a sudden electricity bill spike, beginning with billing days and an estimated meter reading." wide="true" >}}
 
 ---
 
@@ -81,6 +84,8 @@ Compare the service period dates on your current bill to the previous month's bi
 **Worked example:** If your average daily usage is 40 kWh at 15¢/kWh, your bill should be roughly $168 for a 28-day period and $204 for a 34-day period. That $36 difference is billing-period math, not behavior change.
 
 Calculate your average daily usage by dividing total kWh by the number of days in the service period. This normalizes for period length and gives you a comparable number across months. If your daily usage is the same but the total bill is higher, the spike is explained by the billing period.
+
+{{< visual src="/images/articles/30-sudden-spike-in-electricity-bill-no-usage/estimated-read-bars.webp" alt="Comparison of a 34-day estimated electricity bill with a 28-day actual reading, highlighting the effect of a longer billing period." wide="true" >}}
 
 ## Step 3: Compare the Per-KWh Rate
 
@@ -173,6 +178,8 @@ Electric water heaters are the second-largest energy consumer in most homes (aft
 
 ## Step 9: Investigate Possible Meter Malfunctions
 
+{{< visual src="/images/articles/30-sudden-spike-in-electricity-bill-no-usage/meter-dial-test.webp" alt="Close-up of an electric meter with the small usage indicator highlighted for a meter test." >}}
+
 Meter malfunctions are rare but do happen. Smart meters (AMI meters) can occasionally fail in ways that cause them to report inflated readings:
 
 **Meter running fast:** The meter may register more consumption than actually occurs. This can be caused by a calibration error, a firmware bug, or a hardware malfunction.
@@ -262,4 +269,3 @@ Call the billing department and ask for a formal meter test — most utilities d
 1. [U.S. Department of Energy: Heating and cooling](https://www.energy.gov/energysaver/heat-and-cool)
 2. [U.S. Department of Energy: Duct sealing](https://www.energy.gov/energysaver/duct-sealing)
 3. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
-

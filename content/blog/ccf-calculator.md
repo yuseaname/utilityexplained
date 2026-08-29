@@ -9,6 +9,9 @@ category: "Water"
 categories: ["Water"]
 tags: ["water bill", "CCF", "calculator", "water rates"]
 keywords: ["ccf calculator", "water bill calculator", "ccf to gallons", "water usage calculation"]
+image: "/images/articles/ccf-calculator/ccf-conversion-chain.webp"
+image_alt: "A CCF conversion chain showing one CCF becoming 748 gallons and then a water-use cost calculation."
+og_image: "/images/social/og-ccf-calculator.webp"
 sources:
   - https://www.epa.gov/watersense/understanding-your-water-bill
   - https://www.epa.gov/watersense/how-watersense-calculator-works
@@ -80,6 +83,8 @@ sources:
   calc();
 })();
 </script>
+
+{{< visual src="/images/articles/ccf-calculator/tier-math-staircase.webp" alt="Two-tier water-rate staircase showing a lower first tier, a higher second tier, and the usage threshold between them." wide="true" >}}
 
 ## The Conversion, By Hand
 

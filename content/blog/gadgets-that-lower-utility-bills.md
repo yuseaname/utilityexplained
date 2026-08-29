@@ -9,6 +9,9 @@ category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
 tags: ["energy monitoring", "water leak detection", "smart thermostat", "utility savings"]
 keywords: ["energy monitoring", "home energy assessment", "utility use"]
+image: "/images/articles/gadgets-that-lower-utility-bills/gadget-workbench.webp"
+image_alt: "An organized workbench with a smart thermostat, power meter, energy monitor, smart plug, and water leak sensor."
+og_image: "/images/social/og-utility-gadgets.webp"
 sources:
   - https://www.energy.gov/energysaver/shopping-appliances-and-electronics?nrg_redirect=367177
   - https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459
@@ -79,6 +82,8 @@ Do not rely on a generic product ranking, payback promise, or national dollar es
 
 ## Gadget Comparison Table
 
+{{< visual src="/images/articles/gadgets-that-lower-utility-bills/savings-per-gadget-bars.webp" alt="Comparison graphic for smart thermostats, leak sensors, smart power strips, energy monitors, and efficient replacement products." wide="true" >}}
+
 | Gadget Type | What It Measures/Controls | Typical Price | Typical Yearly Savings | Payback Range | Best For |
 |---|---|---|---|---|---|
 | Plug-in power meter | Watts, kWh per device | $20–$40 | $0 (diagnostic only) — savings from actions taken | Immediate (if finds a culprit) | Finding what drives the bill |
@@ -90,6 +95,8 @@ Do not rely on a generic product ranking, payback promise, or national dollar es
 | ENERGY STAR appliance replacement | Energy use per cycle/year | Varies by appliance | $35–$500/year depending on appliance | 2–8 years | When old appliance fails naturally |
 
 ## When These Devices Do NOT Pay
+
+{{< visual src="/images/articles/gadgets-that-lower-utility-bills/when-it-does-not-pay.webp" alt="Caution card explaining when a utility-saving device does not pay for itself." wide="true" >}}
 
 A gadget that pays for itself in one home may waste money in another. Here are the cases where each category typically fails to earn back its purchase price:
 

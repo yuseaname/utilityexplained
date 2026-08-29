@@ -1,0 +1,9 @@
+{{- /* Reusable responsive editorial visual with honest alt text and optional caption. */ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $wide := .Get "wide" | default "" -}}
+<figure class="visual-figure{{ with $wide }} visual-figure--wide{{ end }}">
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>

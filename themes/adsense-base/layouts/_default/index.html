@@ -192,9 +192,9 @@
       {{ range first 6 (where $.Site.RegularPages "Section" "blog").ByDate.Reverse }}
         <article class="card">
           <a href="{{ .RelPermalink }}" class="block">
-            {{ with .Params.image }}
+            {{ $cardTitle := .Title }}{{ with .Params.image }}
               <div class="overflow-hidden">
-                <img src="{{ . }}" alt="{{ $.Title | default "Utility Explained" }}" class="card-image" loading="lazy" decoding="async">
+                <img src="{{ . }}" alt="{{ $cardTitle }}" class="card-image" loading="lazy" decoding="async">
               </div>
             {{ end }}
             <div class="card-body">

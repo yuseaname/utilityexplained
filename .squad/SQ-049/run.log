@@ -138,3 +138,17 @@
 [squad] ⏳ 63m | operator: 560 steps, generating (0m ago)
 [squad]   64m | operator: 565 steps, generating (0m ago)
 [squad] ⏳ 64m | operator: 571 steps, generating (0m ago)
+[squad]   65m | operator: 575 steps, generating (0m ago)
+[squad] ⏳ 65m | operator: 581 steps, generating (0m ago)
+[squad]   66m | operator: 586 steps, generating (0m ago)
+[squad] ⏳ 66m | operator: 591 steps, generating (0m ago)
+    retry 1/2 in 2s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: f70f6179-6403-4de3-adea-df3a670bee81)"})
+    retry 2/2 in 4s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: cba3f533-38fd-41d6-bc1c-e0a2659bd136)"})
+[squad] operator: hard fail, zero side effects -> safe-replay on fallback deepseek-v4-flash:cloud
+    retry 1/2 in 2s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: a53e1638-9bb8-4dc9-93e8-58f28c80f62c)"})
+    retry 2/2 in 4s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 3b38f0fb-7861-4996-939c-5a58c20a49dd)"})
+[squad]   67m | operator: 594 steps, generating (0m ago)
+[squad] operator: failed (7.1s, 0 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-049/packets/results/03-operator.json
+Exception ignored while flushing sys.stdout:
+BrokenPipeError: [Errno 32] Broken pipe

@@ -10,6 +10,7 @@ categories: ["Water"]
 tags: ["sewer", "water bill", "water rates"]
 keywords: ["sewer charge water bill", "sewer bill explained", "water bill charges"]
 image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-explained.svg"
+og_image: "/images/social/og-sewer-charges.webp"
 sources:
   - https://www.epa.gov/watersense/understanding-your-water-bill
   - https://www.seattle.gov/utilities/your-services/rates-and-charges/sewer-rates
@@ -23,6 +24,8 @@ sources:
 
 Do not assume a winter-average method, irrigation exception, or universal sewer-to-water price relationship applies to your account. Read the line-item description, billing period, units, and tariff before drawing a conclusion.
 
+{{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp" alt="Diagram showing water service flowing into a home and sewer service carrying wastewater away for treatment." wide="true" >}}
+
 **Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill.
 
 To understand how your water usage and sewer charges connect, first read [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/). If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes, or check [stormwater fees](/blog/stormwater-fee-on-water-bill-explained/) for related charges. Then:
@@ -30,6 +33,8 @@ To understand how your water usage and sewer charges connect, first read [what i
 ---
 
 ## The Three Sewer Billing Models
+
+{{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-3-ways.webp" alt="Three sewer billing methods: usage-based, winter average, and flat fee." wide="true" >}}
 
 Utilities use three primary methods to calculate residential sewer charges. Check your bill to see which one applies.
 
@@ -76,6 +81,8 @@ A duplex might be billed at 2 ERUs ($120.00), while a large home with high winte
 
 ## Winter Averaging Explained
 
+{{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/winter-averaging-example.webp" alt="Winter averaging example with four monthly CCF readings that calculate to a 7.75 CCF average." wide="true" >}}
+
 **Winter averaging** is a method utilities use to separate indoor and outdoor water use for sewer billing. Because outdoor watering (lawns, gardens, pools) is minimal in winter months, winter water consumption is assumed to represent your true indoor usage — and therefore your true wastewater flow.
 
 ### How It Works
@@ -100,6 +107,8 @@ Winter averaging is most common in regions with distinct summer irrigation seaso
 ---
 
 ## Real Utility Examples
+
+{{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-why-higher.webp" alt="Chart explaining why sewer service can cost more than water service because it includes treatment, collection, and fixed-base costs." wide="true" >}}
 
 Each of the following utilities uses a different sewer billing model. Compare your bill to see which pattern matches.
 

@@ -47,6 +47,8 @@ Answer these four questions before diving into troubleshooting:
 
 ## 10 common causes, ranked by likelihood
 
+{{< visual src="/images/articles/07-gas-bill-too-high/gas-bill-ranked-causes.webp" alt="Horizontal comparison of common high-gas-bill drivers: weather, thermostat, insulation, equipment, and billing period." wide="true" >}}
+
 ### 1. Heating season weather
 
 This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natural gas usage** in a typical home.[1] A cold snap in November or December can double your usage compared to a mild month.
@@ -174,6 +176,8 @@ Many homeowners forget that outdoor gas appliances tie back to the same meter th
 ---
 
 ## Seasonal comparison: Winter vs summer gas usage
+
+{{< visual src="/images/articles/07-gas-bill-too-high/heating-degree-day-example.webp" alt="Heating-degree-day chart showing how colder days create more heating demand." wide="true" >}}
 
 To visualize how the same home's gas demand shifts across the year, the table below compares a typical US single-family residence. Winter heating dominates; summer is water-heating and outdoor appliances.
 

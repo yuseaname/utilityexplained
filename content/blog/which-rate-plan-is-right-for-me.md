@@ -9,6 +9,9 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["rate plans", "time of use", "fixed rate", "variable rate"]
 keywords: ["which rate plan should i choose", "fixed vs variable vs time of use", "best electricity rate plan"]
+image: "/images/articles/which-rate-plan-is-right-for-me/rate-plan-decision-doors.webp"
+image_alt: "Three labeled decision doors for fixed, variable, and time-of-use electricity plans."
+og_image: "/images/social/og-rate-plan-decision.webp"
 sources:
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf
@@ -27,6 +30,8 @@ Answer these in order:
 2. **Is your usage seasonal-heavy?** (Summer AC, winter heat.) Fixed rates smooth the per-unit price; ToU adds a second seasonal layer — check both summer and winter peak windows before switching.
 3. **Do you live in a deregulated state?** (TX, PA, OH, and a dozen others.) Then you can shop retail plans — compare real offers on your state's official marketplace, not marketer sites, and read the [fixed vs variable comparison with real offers](/blog/10-fixed-vs-variable-utility-rate/).
 4. **Does your utility bill a demand charge or tiered water/energy rate?** Those change the math differently — see [how demand charges work](/blog/49-demand-charges-electricity-bill-explained/) and [how tiered rates work](/blog/tiered-water-rates-explained/).
+
+{{< visual src="/images/articles/which-rate-plan-is-right-for-me/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
 
 ## How the Plan Types Compare
 

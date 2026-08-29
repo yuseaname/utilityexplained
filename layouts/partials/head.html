@@ -59,7 +59,7 @@
 {{- end -}}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-{{- $shareImg := .Params.image | default .Site.Params.og_image -}}
+{{- $shareImg := .Params.og_image | default .Params.image | default .Site.Params.og_image -}}
 {{- if and $shareImg (strings.HasSuffix $shareImg ".svg") -}}{{- $shareImg = replace $shareImg ".svg" ".png" -}}{{- end -}}
 {{- with $shareImg -}}
 <meta property="og:image" content="{{ . | absURL }}">

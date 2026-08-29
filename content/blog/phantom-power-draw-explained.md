@@ -28,6 +28,8 @@ Identify devices that use power in low-power modes, then decide which can safely
 
 ## Standby Power by Device Class
 
+{{< visual src="/images/articles/phantom-power-draw-explained/standby-watts-bars.webp" alt="Standby-power comparison chart for common home devices including a router, television, cable box, and smart speaker." wide="true" >}}
+
 The following table shows typical standby power ranges for common household device classes. Figures are based on manufacturer specifications, DOE standby-power testing guidance, and measurements compiled by the California Energy Commission and referenced in international standby-power standards. Per the IEA One Watt Initiative (launched 1999), most devices sold after 2010 are designed to draw 1 W or less in standby, though older equipment and devices that maintain network connections (cable boxes, game consoles) may draw significantly more.
 
 | Device Class | Typical Standby Power | Approx. Yearly Cost (18.4¢/kWh) | Notes |
