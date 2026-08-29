@@ -4,10 +4,19 @@
 {{- $desc := .Get "description" -}}
 {{- $btn := .Get "button" | default "Check price on Amazon" -}}
 {{- $tag := .Site.Params.amazon_tag | default "litwd-20" -}}
-<div class="product-box">
-  {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}
-  <strong class="product-name">{{ $name }}</strong>
-  {{ with $desc }}<p>{{ . }}</p>{{ end }}
-  <a class="product-cta" href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-format="box">{{ $btn }}</a>
-  <span class="product-note">Price &amp; availability shown on Amazon.com — we may earn a commission.</span>
+{{- $visual := index .Site.Data.product_images $asin -}}
+<div class="product-box{{ with $visual }} has-product-visual{{ end }}">
+  <div class="product-copy">
+    {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}
+    <strong class="product-name">{{ $name }}</strong>
+    {{ with $desc }}<p>{{ . }}</p>{{ end }}
+    <a class="product-cta" href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-format="box">{{ $btn }}</a>
+    <span class="product-note">Price &amp; availability shown on Amazon.com — we may earn a commission.</span>
+  </div>
+  {{ with $visual }}
+    <a class="product-visual" href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" aria-label="View {{ $name }} on Amazon" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-format="box_image">
+      <img src="{{ .image }}" alt="{{ .alt }}" width="{{ .width }}" height="{{ .height }}" loading="lazy" decoding="async">
+      <span class="product-visual-caption" aria-hidden="true">Illustrative product image</span>
+    </a>
+  {{ end }}
 </div>

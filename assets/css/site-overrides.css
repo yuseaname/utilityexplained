@@ -69,6 +69,72 @@
   object-fit: contain;
 }
 
+/* Affiliate product cards: the image is a compact, clearly marked
+   category illustration—not an imitation of the manufacturer's listing. */
+.product-box.has-product-visual {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(10.5rem, 24vw, 13.5rem);
+  gap: 1.25rem;
+  align-items: center;
+}
+.product-box .product-copy {
+  min-width: 0;
+}
+.product-box .product-visual {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  min-height: 11.5rem;
+  padding: 0.7rem;
+  overflow: hidden;
+  border: 1px solid rgba(92, 74, 30, 0.14);
+  border-radius: 0.8rem;
+  background:
+    radial-gradient(circle at 50% 38%, rgba(255, 255, 255, 0.95) 0, rgba(247, 238, 216, 0.72) 50%, rgba(232, 163, 61, 0.16) 100%);
+  text-decoration: none;
+}
+.product-box .product-visual img {
+  display: block;
+  width: 100%;
+  height: 10rem;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+.product-box .product-visual:hover img,
+.product-box .product-visual:focus-visible img {
+  transform: scale(1.035);
+}
+.product-box .product-visual:focus-visible {
+  outline: 3px solid var(--color-primary-500, #3c655c);
+  outline-offset: 3px;
+}
+.product-box .product-visual-caption {
+  position: absolute;
+  right: 0.45rem;
+  bottom: 0.38rem;
+  color: #695e46;
+  font-family: var(--font-body);
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+@media (max-width: 640px) {
+  .product-box.has-product-visual {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+  .product-box .product-visual {
+    order: -1;
+    min-height: 9.5rem;
+  }
+  .product-box .product-visual img {
+    height: 8rem;
+  }
+}
+
 /* Kill the fixed-attachment backdrop repaint cost on mobile (Challenger W12) */
 @media (max-width: 768px) {
   body {
