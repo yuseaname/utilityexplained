@@ -1,0 +1,50 @@
+[squad] results stream: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/ (per-packet as they land)
+[squad] dispatching prospector -> deepseek/deepseek-v4-flash
+[squad] dispatching cartographer -> deepseek/deepseek-v4-flash
+[squad] dispatching tracer -> deepseek/deepseek-v4-flash
+[squad] dispatching verifier -> deepseek/deepseek-v4-flash
+[squad] dispatching mason -> deepseek/deepseek-v4-flash
+[squad] dispatching executor -> ornith-1.5:9b
+[squad] dispatching scout -> gemma4:e2b
+[squad] scout: hard fail -> role-replay on operator
+    retry 1/2 in 2s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 452e9c9a-5df4-4d43-b7a6-cd52ef022927)"})
+    retry 2/2 in 4s (HTTP 429: {"error":"you (yuseaname) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 77ab88eb-0a6c-4bf1-8595-4be3fba68de5)"})
+[squad] scout: hard fail, zero side effects -> safe-replay on fallback deepseek-v4-flash:cloud
+[squad] scout: failed (0.3s, 0 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/07-scout.json
+[squad] ⏳ 0m | cartographer: 5 steps, generating (0m ago) | executor: 6 steps, generating (0m ago) | mason: 10 steps, generating (0m ago) | operator: 0 steps, generating (0m ago) | prospector: 5 steps, generating (0m ago) | tracer: 5 steps, generating (0m ago) | verifier: 6 steps, generating (0m ago)
+[squad]   1m | cartographer: 17 steps, generating (0m ago) | executor: 7 steps, generating (0m ago) | mason: 16 steps, generating (0m ago) | operator: 0 steps, generating (0m ago) | prospector: 14 steps, generating (0m ago) | tracer: 9 steps, generating (0m ago) | verifier: 7 steps, generating (0m ago)
+[squad] ⏳ 1m | cartographer: 25 steps, generating (0m ago) | executor: 8 steps, generating (0m ago) | mason: 21 steps, generating (0m ago) | operator: 0 steps, generating (1m ago) | prospector: 20 steps, generating (0m ago) | tracer: 11 steps, generating (0m ago) | verifier: 17 steps, generating (0m ago)
+[squad]   2m | cartographer: 36 steps, generating (0m ago) | executor: 12 steps, generating (0m ago) | mason: 21 steps, generating (0m ago) | operator: 0 steps, generating (1m ago) | prospector: 23 steps, generating (0m ago) | tracer: 14 steps, generating (0m ago) | verifier: 26 steps, generating (0m ago)
+[squad] ⏳ 2m | cartographer: 42 steps, generating (0m ago) | executor: 13 steps, generating (0m ago) | mason: 21 steps, parsing reply (0m ago) | operator: 0 steps, generating (2m ago) | prospector: 29 steps, generating (0m ago) | tracer: 17 steps, generating (0m ago) | verifier: 33 steps, generating (0m ago)
+[squad]   3m | cartographer: 47 steps, generating (0m ago) | executor: 15 steps, generating (0m ago) | mason: 21 steps, parsing reply (0m ago) | operator: 0 steps, generating (2m ago) | prospector: 34 steps, generating (0m ago) | tracer: 19 steps, generating (0m ago) | verifier: 39 steps, generating (0m ago)
+[squad] ⏳ 3m | cartographer: 52 steps, generating (0m ago) | executor: 21 steps, generating (0m ago) | mason: 26 steps, generating (0m ago) | operator: 0 steps, generating (3m ago) | prospector: 41 steps, generating (0m ago) | tracer: 21 steps, generating (0m ago) | verifier: 47 steps, generating (0m ago)
+[squad]   4m | cartographer: 54 steps, generating (0m ago) | executor: 26 steps, generating (0m ago) | mason: 26 steps, generating (0m ago) | operator: 0 steps, generating (3m ago) | prospector: 46 steps, generating (0m ago) | tracer: 23 steps, generating (0m ago) | verifier: 53 steps, generating (0m ago)
+[squad] cartographer: complete (253.4s, 54 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/02-cartographer.json
+[squad] ⏳ 4m | executor: 31 steps, generating (0m ago) | mason: 26 steps, generating (0m ago) | operator: 0 steps, generating (4m ago) | prospector: 50 steps, generating (0m ago) | tracer: 24 steps, generating (0m ago) | verifier: 56 steps, generating (0m ago)
+[squad] mason: complete (292.4s, 26 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/05-mason.json
+[squad]   5m | executor: 32 steps, generating (0m ago) | operator: 0 steps, generating (4m ago) | prospector: 55 steps, generating (0m ago) | tracer: 24 steps, generating (0m ago) | verifier: 61 steps, generating (0m ago)
+[squad] tracer: complete (326.6s, 24 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/03-tracer.json
+[squad] ⏳ 5m | executor: 33 steps, generating (0m ago) | operator: 0 steps, generating (5m ago) | prospector: 58 steps, generating (0m ago) | verifier: 61 steps, parsing reply (0m ago)
+[squad] verifier: complete (335.1s, 61 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/04-verifier.json
+[squad]   6m | executor: 35 steps, generating (0m ago) | operator: 0 steps, generating (5m ago) | prospector: 58 steps, generating (0m ago)
+[squad] ⏳ 6m | executor: 36 steps, generating (0m ago) | operator: 0 steps, generating (6m ago) | prospector: 58 steps, parsing reply (0m ago)
+[squad] prospector: complete (416.1s, 58 tool steps)
+[squad] result landed: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/01-prospector.json
+[squad]   7m | executor: 39 steps, generating (0m ago) | operator: 0 steps, generating (6m ago)
+[squad] ⏳ 7m | executor: 41 steps, generating (0m ago) | operator: 0 steps, generating (7m ago)
+[squad]   8m | executor: 42 steps, generating (0m ago) | operator: 0 steps, generating (7m ago)
+[squad] ⏳ 8m | executor: 44 steps, generating (0m ago) | operator: 0 steps, generating (8m ago)
+[squad]   9m | executor: 45 steps, generating (0m ago) | operator: 0 steps, generating (8m ago)
+[squad] ⏳ 9m | executor: 48 steps, generating (0m ago) | operator: 0 steps, generating (9m ago)
+[squad]   10m | executor: 56 steps, generating (0m ago) | operator: 0 steps, generating (9m ago)
+[squad] ⏳ 10m | executor: 58 steps, generating (0m ago) | operator: 0 steps, generating (10m ago)
+[squad]   11m | executor: 61 steps, generating (0m ago) | operator: 0 steps, generating (10m ago)
+[squad] ⏳ 11m | executor: 63 steps, generating (0m ago) | operator: 0 steps, generating (11m ago)
+[squad]   12m | executor: 67 steps, generating (0m ago) | operator: 0 steps, generating (11m ago)
+[squad] ⏳ 12m | executor: 76 steps, generating (0m ago) | operator: 0 steps, generating (12m ago)
+[squad]   13m | executor: 84 steps, generating (0m ago) | operator: 0 steps, generating (12m ago)

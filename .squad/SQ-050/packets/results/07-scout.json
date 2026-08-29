@@ -1,0 +1,36 @@
+{
+  "agent": "scout",
+  "model": "deepseek-v4-flash:cloud",
+  "status": "failed",
+  "summary": "Ollama Cloud error: HTTP 401: {\"error\":\"Unauthorized\"}",
+  "findings": [
+    "none"
+  ],
+  "evidence": [
+    "none"
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: write_file, edit_file"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "none",
+  "risks": [
+    "none"
+  ],
+  "unknowns": [
+    "none"
+  ],
+  "recommendation": "",
+  "confidence": "low",
+  "confidence_basis": "",
+  "tool_steps": 0,
+  "duration_seconds": 0.3,
+  "side_effects": false,
+  "warnings": [
+    "none",
+    "replayed on fallback deepseek-v4-flash:cloud after gemma4:e2b hard failure"
+  ],
+  "context_est_tokens": 2722
+}

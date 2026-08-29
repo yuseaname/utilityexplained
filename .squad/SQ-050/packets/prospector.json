@@ -1,0 +1,35 @@
+{
+ "role": "prospector",
+ "mission": "Read the ~30 Commander-priority pages IN FULL and assess each page's CURRENT imagery as rendered narrative: hero image (what does it actually depict \u2014 check the frontmatter image path and, where possible, the file's presence; describe from filename/alt/context), body visuals (HTML <img> tags: count, subject, placement relative to the page's argument), and the VISUAL STORYTELLING GAP: which critical moments of the page's narrative have no visual anchor (the diagnosis step, the fee table, the before/after, the tool in use). Write the per-page assessment table to your artifact: page | hero (subject+quality) | body imgs (n, what) | alt-quality flag | top-3 missing visual moments. Envelope: the 15 most visually under-served pages among the priority set.",
+ "parent_objective": "SQ-050 visual-content recon: highest-priority pages needing stronger imagery for storytelling, engagement, retention, accessibility, and image-search.",
+ "context": "Priority surface (Commander-set): homepage, 6 hubs, flagship how-to-lower-electric-bill-complete-guide, 30-sudden-spike, 06-water-bill-too-high, 28-reconnection, 23-billing-cycle, how-sewer-charges, 03-electric-high, what-is-ccf, water-meter-leak-indicator, water-meter-running, 05-lower-utility-bills, avg-water-usage, electric-bill-breakdown, 01-read-electric-bill, 44-lower-water-bill, ccf-calculator, which-rate-plan, 04-fees-hub, 08-ToU, money pages (gadgets, phantom-power, 50-smart-plugs, ev-charging, hvac-stages, do-programmable-thermostats, 07-gas), 11-kwh, 12-gas-bill, 46-cheapest-hours. For each, judge imagery against the page's actual narrative, not against a generic standard.",
+ "known_facts": [
+  "Prior image audit (IMAGE_AUDIT_REPORT.md, 2026-08-10): 102 files/10.2MB; 91 articles have hero images (frontmatter); body visuals = 43 generic stock + ~40 article-specific; ONE sitewide og-image (og-default.png); 9 generic utility-*.jpg shared across 45 articles.",
+  "Verifier (SQ-045): 90+ pages lack diagrams/tables-as-visuals where topical. Traffic: 860 sess/wk, bounce 91.3% (visual retention is a live hypothesis).",
+  "Known visual assets: Bill Anatomy illustration series (Magica gpt-image-2, commit 2743d604), energy-hogs hero chart, annotation-sprite.svg, topic-icons.svg."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/artifacts/prospector-image-assessment.md"
+  ]
+ },
+ "constraints": [
+  "Read-only recon \u2014 writes only to granted artifact paths. Analysis is of CURRENT state; recommendations belong to the Commander synthesis.",
+  "Claims cite file paths / rendered HTML / line numbers."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "Findings delivered with per-page/per-claim evidence."
+ ]
+}

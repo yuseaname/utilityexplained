@@ -1,0 +1,35 @@
+{
+ "role": "cartographer",
+ "mission": "Map visual NEED by page archetype across the whole corpus: (1) archetype taxonomy (diagnostic troubleshooter / fee-definer / how-to action page / product page / hub / tool-calculator / bill-anatomy explainer / comparison page); (2) for each archetype: the 3-5 visual types that archetype canonically needs (annotated-realia, flowchart, data chart, comparison matrix graphic, product-in-context, decision tree, icon set) and which the site currently provides vs lacks (evidence: sample 3-4 pages per archetype); (3) per-archetype visual inventory coverage %; (4) image-SEARCH opportunity map: which archetype queries surface image packs in SERPs (definitional 'what is CCF', 'read meter' how-tos) vs which never will (crisis pages). Envelope: ranked archetype->visual-pattern playbook the briefs will draw from.",
+ "parent_objective": "SQ-050 visual-content recon: highest-priority pages needing stronger imagery for storytelling, engagement, retention, accessibility, and image-search.",
+ "context": "You provide the PATTERN layer; prospector provides the page layer. Do not duplicate page-by-page analysis.",
+ "known_facts": [
+  "Prior image audit (IMAGE_AUDIT_REPORT.md, 2026-08-10): 102 files/10.2MB; 91 articles have hero images (frontmatter); body visuals = 43 generic stock + ~40 article-specific; ONE sitewide og-image (og-default.png); 9 generic utility-*.jpg shared across 45 articles.",
+  "Verifier (SQ-045): 90+ pages lack diagrams/tables-as-visuals where topical. Traffic: 860 sess/wk, bounce 91.3% (visual retention is a live hypothesis).",
+  "Known visual assets: Bill Anatomy illustration series (Magica gpt-image-2, commit 2743d604), energy-hogs hero chart, annotation-sprite.svg, topic-icons.svg."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only recon \u2014 writes only to granted artifact paths. Analysis is of CURRENT state; recommendations belong to the Commander synthesis.",
+  "Claims cite file paths / rendered HTML / line numbers."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Findings delivered with per-page/per-claim evidence."
+ ]
+}

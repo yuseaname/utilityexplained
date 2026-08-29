@@ -1,0 +1,296 @@
+exit_code: 0
+--- 01-how-to-read-your-electric-bill.md ---
+title: "How to Read Your Electric Bill (Line by Line Guide)"
+description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
+--- 02-average-utility-costs-2026.md ---
+title: "Average Utility Costs in 2026: Complete Breakdown by Type and State"
+description: "The average US household spends $500-600/month on utilities. Here's exactly where that money goes, how your state compares, and what's normal."
+--- 03-why-is-my-electric-bill-so-high.md ---
+title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
+description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
+--- 04-hidden-fees-utility-bill.md ---
+title: "Every Charge on Your Utility Bill, Explained"
+description: "Use this page as the launching pad for the site's fee-explainers: a 7-row table of the charges you may see, how each is calculated, how to spot it on your statement, and where to read more."
+--- 05-how-to-lower-utility-bills.md ---
+title: "How to Prioritize Utility-Bill Improvements"
+description: "Use bill records, a home energy assessment, equipment information, and local program terms to prioritize electricity, gas, water, and weatherization improvements."
+--- 06-water-bill-too-high.md ---
+title: "How to Investigate a Higher-Than-Expected Water Bill"
+description: "Investigate a high water bill using the account statement, meter information, property observations, local utility rules, and safe professional follow-up."
+--- 07-gas-bill-too-high.md ---
+title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
+--- 08-time-of-use-electricity.md ---
+title: "How to Review a Time-of-Use Electricity Plan"
+description: "Compare a time-of-use electricity plan using the utility's current schedule, tariff, and your own interval or bill history."
+--- 09-apartment-utilities-cost.md ---
+title: "How to Budget for Apartment Utilities"
+description: "Build an apartment utility budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
+--- 10-fixed-vs-variable-utility-rate.md ---
+title: "How to Compare Electricity Rate Options"
+description: "Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic fixed-versus-variable rules."
+--- 11-understanding-kwh-usage.md ---
+title: "Understanding kWh Usage on Your Electric Bill"
+description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
+--- 12-how-to-read-your-gas-bill.md ---
+title: "How to Read Your Gas Bill"
+description: "Read a gas bill by comparing its meter information, rate schedule, usage units, and itemized charges with the serving utility's current tariff."
+--- 13-ac-short-cycling-causes-fixes.md ---
+title: "What to Do When an AC Starts and Stops Frequently"
+description: "Document frequent AC cycling, complete safe owner checks, and know when to arrange qualified HVAC service instead of relying on a generic diagnosis."
+--- 14-estimated-utility-bill-explained.md ---
+title: "How to Review an Estimated Utility Bill"
+description: "Identify an estimated meter reading, compare it with your statement and meter, and ask the serving utility for its account-specific billing policy."
+--- 15-why-utility-bill-higher-same-usage.md ---
+title: "Why a Utility Bill Can Rise When Usage Looks Similar"
+description: "Compare billing days, rate-plan details, itemized charges, and meter-read status to identify why a utility bill changed when total usage appears similar."
+--- 16-budget-billing-level-pay-explained.md ---
+title: "How to Review a Utility Budget-Billing Plan"
+description: "Review a utility budget-billing or level-pay offer using the provider's written terms, actual charges, settlement rules, and payment options."
+--- 17-what-is-customer-charge-on-utility-bill.md ---
+title: "How to Review a Customer Charge on a Utility Bill"
+description: "Identify a customer charge from the account's tariff and itemized statement, then compare it with other rate components without using generic fee ranges."
+--- 18-fuel-adjustment-charge-on-utility-bill-explained.md ---
+title: "How to Review a Fuel Adjustment Charge on a Utility Bill"
+description: "Identify a fuel-adjustment or similar charge from the account’s tariff, bill, rate period, and provider-specific calculation."
+--- 19-utility-bill-surcharges-and-riders-explained.md ---
+title: "How to Review Surcharges and Riders on a Utility Bill"
+description: "Identify a utility-bill rider or surcharge from the account’s tariff, effective dates, calculation basis, and provider documentation."
+--- 20-utility-bill-proration-explained.md ---
+title: "How to Review a Partial-Period Utility Bill"
+description: "Review a partial-period utility statement using actual service dates, meter/read status, tariff rules, account records, and provider documentation."
+--- 2026-utility-cost-index-by-state.md ---
+title: "2026 Utility Cost Index: Average Electric, Gas & Water Bills by State"
+description: "Original research: Average monthly electric, gas, and water bills for all 50 states, ranked by total utility cost."
+--- 21-past-due-balance-utility-bill-explained.md ---
+title: "How to Review a Past-Due Balance on a Utility Bill"
+description: "Review a past-due utility balance from the account statement, payment records, provider notice, tariff, and current assistance or payment options."
+--- 22-minimum-bill-utility-bill-explained.md ---
+title: "How to Review a Minimum Charge on a Utility Bill"
+description: "Identify whether a bill includes a minimum charge, customer charge, or usage floor by reviewing the account’s tariff, service class, and itemized statement."
+--- 23-utility-billing-cycle-explained.md ---
+title: "How to Read the Billing Period on a Utility Statement"
+description: "Use the account’s service dates, meter-read status, usage, tariff, and provider bill guide to compare utility billing periods accurately."
+--- 24-delivery-charge-vs-supply-charge-utility-bill.md ---
+title: "How to Compare Delivery and Supply Charges on a Utility Bill"
+description: "Read delivery and supply charges from the account's itemized bill and tariff instead of applying a generic percentage, provider-choice, or savings rule."
+--- 25-utility-bill-taxes-fees-franchise-charges-explained.md ---
+title: "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+description: "Review tax, fee, franchise, rider, credit, and other utility-bill lines using the account’s itemized statement, tariff, and local rules."
+--- 26-utility-deposit-explained.md ---
+title: "How to Review a Utility Deposit Requirement"
+description: "Review a utility deposit request using the provider’s service terms, account notice, payment options, and applicable local or state rules."
+--- 27-utility-connection-fee-explained.md ---
+title: "How to Review a Utility Service-Start Charge"
+description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
+--- 28-utility-reconnection-fee-explained.md ---
+title: "How to Verify a Utility Reconnection Charge"
+description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
+--- 30-sudden-spike-in-electricity-bill-no-usage.md ---
+title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
+--- 41-how-to-read-electricity-bill.md ---
+title: "How to Read an Electricity Bill"
+description: "Review an electricity bill using its billing period, meter information, rate schedule, and itemized charges instead of generic national percentage tables."
+--- 42-best-energy-efficient-space-heater.md ---
+title: "Portable Space Heater Safety and Energy-Use Planning"
+description: "Assess whether a portable space heater is appropriate using the manufacturer instructions, electrical safety requirements, room conditions, and your actual utility rate."
+--- 43-understand-natural-gas-bill-charges.md ---
+title: "How to Review Natural Gas Charges on Your Bill"
+description: "Use the account’s itemized bill, meter information, unit conversion, tariff, and provider explanation to review natural-gas charges."
+--- 44-how-to-lower-water-bill.md ---
+title: "How to Lower Your Water Bill"
+description: "Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified savings ranges from EPA WaterSense, plus leak-detection tools."
+--- 45-whole-house-generator-vs-portable-cost.md ---
+title: "Portable and Standby Generator Planning: Safety and Scope"
+description: "Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote review."
+--- 46-what-time-is-electricity-cheapest.md ---
+title: "What Time Is Electricity Cheapest?"
+description: "Find the cheapest electricity hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
+--- 47-check-energy-leaks-home-diy.md ---
+title: "How to Start a Do-It-Yourself Home Energy Assessment"
+description: "Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up work."
+--- 48-heat-pump-vs-gas-furnace-savings.md ---
+title: "How to Compare a Heat Pump and a Gas Furnace for Your Home"
+description: "Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program terms."
+--- 49-demand-charges-electricity-bill-explained.md ---
+title: "How to Review a Demand Charge on an Electricity Bill"
+description: "Identify a demand charge from the applicable tariff, distinguish billed demand from energy use, and obtain the account-specific calculation from the provider."
+--- 50-best-smart-plugs-standby-power.md ---
+title: "How to Measure and Reduce Standby Power"
+description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
+--- 7-states-with-worst-utility-spikes-2026.md ---
+title: "7 states with worst utility spikes: Complete Guide (2026)"
+description: "The 7 U.S. states hit hardest by 2026 utility rate spikes — California (+14.2%), Texas (+12.8%), Florida (+12.1%) — with average bill increases, the causes behind each spike, and what to do if you live there."
+--- _index.md ---
+title: "Blog"
+description: "Plain-English guides to electricity, gas, water, and utility bills. Browse by topic below."
+--- ac-running-but-not-cooling.md ---
+title: "AC Running but Not Cooling? 13 Causes and Safe Fixes"
+description: "If your air conditioner is running but the house is still warm, this guide walks you through the most common causes, safe checks, and when to call for service."
+--- afue-vs-seer-vs-hspf-vs-cop.md ---
+title: "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
+description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
+--- aux-heat-vs-emergency-heat-meaning.md ---
+title: "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)"
+description: "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode."
+--- average-utility-bills-by-state-2026.md ---
+title: "Average utility bills by state: Full Comparison (2026)"
+description: "Learn everything about average utility bills by state in 2026. Costs, comparisons, expert tips for US homeowners."
+--- average-water-usage-per-person.md ---
+title: "How to Calculate Water Use Per Person From Your Bill"
+description: "Calculate a household water-use baseline from your own bill, billing days, household count, and local rate structure instead of using a generic daily target."
+--- can-utility-shut-off-service.md ---
+title: "Can the Utility Shut Off Your Service? What to Know Before the Notice Arrives"
+description: "Yes, utilities can disconnect service for nonpayment — but not instantly and not without notice. Learn the shutoff process, your protections, and how to stop it today."
+--- ccf-calculator.md ---
+title: "CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars"
+description: "Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's gallons-per-person-day baseline."
+--- complete-guide-understanding-utility-bill.md ---
+title: "A Practical Workflow for Understanding Your Utility Bill"
+description: "Review an electricity, gas, or water statement using the account’s service dates, meter data, tariff, rate plan, itemized charges, and provider documentation."
+--- do-programmable-thermostats-cut-heating-bills.md ---
+title: "Do Programmable Thermostats Cut Heating Bills?"
+description: "Use thermostat schedules that match when a home is occupied, and follow equipment guidance before applying setbacks."
+--- drought-surcharge-on-water-bill-explained.md ---
+title: "How to Review a Drought-Related Charge on a Water Bill"
+description: "Review a drought-related water-bill charge using the local utility’s current rate schedule, drought notice, account usage, and meter data."
+--- duct-leaks-symptoms-hvac-running-all-day.md ---
+title: "Duct Leaks: What to Check When Rooms Are Uneven"
+description: "Learn what duct leakage testing evaluates and how to document uneven-room or HVAC-runtime concerns for a qualified professional."
+--- ductless-mini-split-vs-central-air.md ---
+title: "Ductless Mini-Split vs Central Air: How to Compare Systems"
+description: "Compare ductless and ducted HVAC proposals using the home's load calculation, duct condition, equipment match, and installation scope."
+--- electric-bill-breakdown-understanding-line-items.md ---
+title: "Electric Bill Breakdown: Every Charge Explained"
+description: "Confused by your bill? We decode the charge categories you will find on a U.S. electric bill--supply, delivery, customer charges, and taxes--and show you how to check each one against your own rate plan."
+--- ev-charging-impact-electric-bill.md ---
+title: "How EV Charging Can Affect Your Electric Bill"
+description: "Estimate EV charging electricity from your vehicle, driving, and utility rate plan instead of relying on a national cost average."
+--- fixed-vs-variable-rate-electricity-plan.md ---
+title: "How to Compare a Fixed or Variable Electricity Offer"
+--- gadgets-that-lower-utility-bills.md ---
+title: "Tools That Can Help You Understand Utility Use"
+description: "Use measurement and an assessment before buying an energy-saving device; choose products that fit the home, electrical load, and utility plan."
+--- gas-customer-charge-explained.md ---
+title: "How to Review a Gas Customer Charge"
+description: "Use the bill, gas tariff, and serving utility to identify whether a customer charge is fixed, usage-based, or part of another rate component."
+--- gas-delivery-charge-vs-supply-charge.md ---
+title: "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For"
+description: "Your gas bill splits costs into delivery charges and supply charges \u2014 but most people don't know what they're paying for. Here's the complete breakdown."
+--- gas-vs-electric-heating-cost-comparison.md ---
+title: "Gas vs. Electric Heating: Cost Comparison for Real Homes"
+description: "Compare gas and electric heating costs, efficiency, and what matters on your bill."
+--- heat-pump-running-all-day-in-winter.md ---
+title: "Heat Pump Running All Day in Winter? What Is Normal vs a Problem"
+description: "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check."
+--- how-do-smart-meters-work.md ---
+title: "How Do Smart Meters Work? (And Should You Trust Them?)"
+description: "Learn what a smart meter can report, how to compare its reading with your bill, and which questions should go to your utility."
+--- how-sewer-charges-work-on-your-water-bill.md ---
+title: "How to Understand Sewer Charges on Your Water Bill"
+description: "Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account."
+--- how-to-budget-for-utilities-in-your-first-apartment.md ---
+title: "How to Budget for Utilities in Your First Apartment"
+description: "A simple budgeting guide for electricity, gas, water, and internet in your first place."
+--- how-to-dispute-utility-bill.md ---
+title: "How to Request a Utility-Bill Review"
+description: "Prepare an account-specific request for a utility-bill review using the statement, tariff, meter information, payment records, and the provider’s written process."
+--- how-to-lower-electric-bill-complete-guide.md ---
+title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
+description: "20+ proven ways to lower your electric bill, organized by cost, with exact dollar savings and payback periods."
+--- how-to-lower-electric-bill-without-solar.md ---
+title: "How to Plan Electric-Bill Improvements Before Adding Solar"
+description: "Use a home energy assessment, bill data, rate-plan terms, and local program documentation to prioritize electric-bill improvements before adding solar."
+--- how-to-read-a-water-meter.md ---
+title: "How to Read a Water Meter (and Know If Its Accurate)"
+description: "A step-by-step guide to reading your home water meter and checking for leaks."
+--- how-to-read-electric-meter.md ---
+title: "How to Read an Electric Meter (Dial & Digital Guide)"
+description: "Learn how to record an electric-meter reading, compare it with a bill, and ask your utility about meter-specific details."
+--- how-to-read-gas-meter.md ---
+title: "How to Read Your Gas Meter: Every Meter Type With Step-by-Step Instructions"
+description: "Dial meters, digital meters, smart meters \u2014 reading your gas meter doesn't have to be confusing. Here's exactly how to read every type and track your usage."
+--- how-to-read-your-utility-bill.md ---
+title: "How to Read Your Own Utility Bill"
+description: "Read an electricity, gas, or water bill from the account summary through service dates, meter data, rate plan, itemized charges, and provider documentation."
+--- how-utility-rates-fees-usage-work-together.md ---
+title: "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+description: "A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
+--- is-your-toilet-running-leak-test.md ---
+title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+description: "Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your meter and bill."
+--- mcf-vs-ccf-vs-therms-on-gas-bill.md ---
+title: "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean"
+description: "MCF, CCF, therms \u2014 your gas bill uses confusing units. Here's exactly what each one means, how they compare, and how to calculate your actual gas cost."
+--- moving-utilities-checklist.md ---
+title: "The Moving Utilities Checklist: When to Turn Off, Turn On, and Transfer"
+description: "Moving soon? Here's the exact timeline for turning off utilities at your old home and turning them on at the new one — plus a printable one-page checklist so you don't pay for two homes or sit in the dark."
+--- net-metering-explained.md ---
+title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
+--- phantom-power-draw-explained.md ---
+title: "Phantom Power Draw: How to Find and Reduce Standby Use"
+description: "Learn what standby power is, how it is measured, and how to reduce avoidable plug-load energy use."
+--- sewer-averaging-water-bill-explained.md ---
+title: "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use"
+description: "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works and how to read it on your bill."
+--- single-stage-vs-two-stage-vs-variable-speed-hvac.md ---
+title: "Single-Stage vs Two-Stage vs Variable-Speed HVAC: What the Terms Mean"
+description: "Learn what HVAC staging and variable-speed equipment mean, why system sizing matters, and what to ask before choosing equipment."
+--- stormwater-fee-on-water-bill-explained.md ---
+title: "Stormwater Fee on Your Water Bill: What You"
+description: "Most people don't know they're paying a stormwater fee on their water bill. Here's what this charge funds, how it's calculated, and if you can get a discount."
+--- supply-vs-delivery-charges-electricity.md ---
+title: "Supply vs Delivery Charges Explained (Generation vs Distribution on Electric Bills)"
+--- tiered-electricity-rates-explained.md ---
+title: "How to Review Tiered Electricity Rates on Your Bill"
+description: "Review block or tiered electricity rates from the tariff and itemized statement, then compare billed usage, thresholds, and all other charges."
+--- tiered-water-rates-explained.md ---
+title: "Tiered Water Rates Explained: Why Using More Costs Dramatically More"
+description: "Tiered water pricing charges you more per gallon as you use more. Learn how tiers work, how to read your bill, and how to stay in the lower tiers."
+--- utility-assistance-programs-liheap.md ---
+title: "Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help"
+description: "Can't pay your utility bills? Here's everything you need to know about LIHEAP, utility hardship programs, payment plans, and shut-off prevention."
+--- water-meter-leak-indicator-explained.md ---
+title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
+description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
+--- water-meter-running-when-no-water-used.md ---
+title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
+description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
+--- water-service-charge-explained.md ---
+title: "Water Service Charge Explained: What the Fixed Fee Covers (and Why You Still Pay It)"
+description: "Seeing a water service (or base) charge even when you barely used water? Here's what that fixed fee usually covers and how to sanity-check it."
+--- what-is-a-kilowatt-hour.md ---
+title: "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
+description: "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily."
+--- what-is-ccf-on-a-water-bill.md ---
+title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
+description: "CCF on a water bill means 'hundred cubic feet' — 1 CCF equals 748 gallons. Here's what your CCF number means, how to convert it, and how to tell if a hidden leak is driving up your bill."
+--- which-rate-plan-is-right-for-me.md ---
+title: "Which Rate Plan Is Right for Me? (Fixed vs Variable vs Time-of-Use)"
+description: "A decision framework for residential utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before you switch."
+--- why-did-my-utility-bill-go-up-this-month.md ---
+title: "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
+description: "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections."
+--- why-did-my-water-bill-suddenly-increase.md ---
+title: "Why Did My Water Bill Suddenly Increase?"
+description: "Understand the most common reasons water bills spike and how to troubleshoot them."
+--- why-electric-bill-changes-month-to-month.md ---
+title: "Why Your Electric Bill Changes Month to Month (Even With Similar Usage)"
+description: "Electricity bills shift for reasons beyond usage: time-of-use windows, tiered rates, demand charges, and supply adjustments."
+--- why-is-my-furnace-blowing-cold-air.md ---
+title: "Why Is My Furnace Blowing Cold Air?"
+description: "Safe first checks for a heating system that is moving cool air, plus signs that call for immediate action."
+--- why-is-my-water-bill-higher-in-summer.md ---
+title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
+--- why-is-my-water-bill-higher-in-winter.md ---
+title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, and how to check them."
+--- why-my-utility-bill-is-higher-with-same-usage.md ---
+title: "Why Your Utility Bill Can Be Higher Even If Your Usage Didn"
+description: "If your usage looks similar but your total jumped, this guide walks through the real reasons: billing days, rate changes, fixed fees, tiers, and estimated reads."
+--- why-your-electric-bill-keeps-rising-2026.md ---
+title: "Why your electric bill keeps rising: Complete Guide (2026)"
+description: "Learn everything about why your electric bill keeps rising in 2026. Costs, comparisons, expert tips for US homeowners."

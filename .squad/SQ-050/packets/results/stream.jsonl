@@ -1,0 +1,6 @@
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/07-scout.json", "agent": "scout", "status": "failed"}
+{"packet": "cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/02-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "mason.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/05-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/03-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/04-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-050/packets/results/01-prospector.json", "agent": "prospector", "status": "complete"}

@@ -1,0 +1,35 @@
+{
+ "role": "verifier",
+ "mission": "Mechanical image audit re-derivation (CONFIRMED/REFUTED/UNVERIFIED + data): (1) per rendered page in public/blog/: count <img> tags, hero presence, alt attribute present + length, loading/decoding attrs; (2) og:image meta per page \u2014 how many pages use og-default vs per-page images; (3) image file inventory: formats, sizes, the 9 shared utility-*.jpg usage count per file (generic-stock overuse map); (4) reconcile vs IMAGE_AUDIT_REPORT.md claims (91 heroes, 102 files); (5) accessibility: alt='' vs descriptive alt ratio, decorative vs informative; (6) list every priority page (Commander list in known context) whose ONLY imagery is a shared generic stock photo. Script-backed (write and run greps; quote them).",
+ "parent_objective": "SQ-050 visual-content recon: highest-priority pages needing stronger imagery for storytelling, engagement, retention, accessibility, and image-search.",
+ "context": "Numbers from scripts only. The generic-stock overuse map is a key deliverable.",
+ "known_facts": [
+  "Prior image audit (IMAGE_AUDIT_REPORT.md, 2026-08-10): 102 files/10.2MB; 91 articles have hero images (frontmatter); body visuals = 43 generic stock + ~40 article-specific; ONE sitewide og-image (og-default.png); 9 generic utility-*.jpg shared across 45 articles.",
+  "Verifier (SQ-045): 90+ pages lack diagrams/tables-as-visuals where topical. Traffic: 860 sess/wk, bounce 91.3% (visual retention is a live hypothesis).",
+  "Known visual assets: Bill Anatomy illustration series (Magica gpt-image-2, commit 2743d604), energy-hogs hero chart, annotation-sprite.svg, topic-icons.svg."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "constraints": [
+  "Read-only recon \u2014 writes only to granted artifact paths. Analysis is of CURRENT state; recommendations belong to the Commander synthesis.",
+  "Claims cite file paths / rendered HTML / line numbers."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Findings delivered with per-page/per-claim evidence."
+ ]
+}
