@@ -1,0 +1,40 @@
+{
+ "role": "tracer",
+ "mission": "THREE DEFINITIONAL PAGES. (1) content/blog/11-understanding-kwh-usage.md (425w): add the appliance consumption table (top 10 household loads, typical kWh/yr \u2014 EIA RECS or DOE figures, verify + cite), the cost equation worked on the current national rate (baseline: 18.34 c/kWh mid-2026), what moves a bill more (rate vs usage), and a short reading-your-meter-to-kWh bridge (link how-to-read-electric-meter). One natural link: Kill A Watt inline (B00009MDBU) in a 'measure your own appliances' section. (2) content/blog/12-how-to-read-your-gas-bill.md (391w, 1 source): add a full line-item walkthrough table (customer charge, delivery, supply/therms, riders, taxes \u2014 synthesize from the site's own gas pages, cite their sources), the therm/CCF conversion worked example, and seasonal-usage context with a real EIA natural-gas price figure (verify + cite). No affiliate fit (definitional) \u2014 none. (3) content/blog/46-what-time-is-electricity-cheapest.md (352w): anchor it to real ToU windows (PG&E/ConEd/TXU schedules already fetched and cited on 08-time-of-use \u2014 reuse those cited figures, read that page first), add the cheapest-hours table by plan type, off-peak habit list, and ONE Kasa KP115 inline link (B08LN3C7WK) for automating the shift. Cross-link 08 and the rate-plan hub.",
+ "parent_objective": "SQ-049 depth wave: top traffic-weak pages + thin money pages to full strength.",
+ "context": "46 must not duplicate 08's deep dive \u2014 46 is the quick answer + hours table, 08 is the explainer. Link them, don't copy.",
+ "known_facts": [
+  "Verified products/ASINs: Nest B0D5BBYRJM, Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Kasa KP125MP2 B0BYGRLRS1, Tapo P110M B0DKGBP38V, Emporia plug B0CLVV7X7Y, Vue 3 B0C7B1LKDW, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, ecobee B09XXS48P8, Emporia charger B09ZNN3JB7.",
+  "These pages already carry product boxes where noted \u2014 deepen the CONTENT around them; do not add more links unless a section genuinely begs for one. Disclosure shortcodes already in place.",
+  "House voice: plain-English, tables over prose, no hype, no fabricated testing. Sources: baseline first, else web_fetch with URL+date."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/11-understanding-kwh-usage.md",
+   "content/blog/12-how-to-read-your-gas-bill.md",
+   "content/blog/46-what-time-is-electricity-cheapest.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Depth = tables, worked examples, ranges, named utilities/programs \u2014 not padded prose. 800+ body words per page when done.",
+  "Every new factual claim sourced; frontmatter 'updated: 2026-08-28'; house markdown style.",
+  "Chunk discipline: file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "3 pages at 800+ words, cited; exactly one inline link each on 11 and 46; 12 stays link-free."
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "role": "mason",
+ "mission": "FOUR FILES. (1) content/blog/28-utility-reconnection-fee-explained.md (483w, 34 pv/wk, #4 traffic \u2014 the site's most underweight high-traffic page): add what triggers disconnection by utility type, a typical-fee table with state/range examples (web-verify a few real utilities' fee schedules, cite), the restoration process step-by-step, and how to avoid the fee (payment arrangements, protection programs, LIHEAP mention). NO affiliate links (crisis intent). (2) content/blog/23-utility-billing-cycle-explained.md (512w): add why cycle lengths vary (meter-read schedules, weekend/holiday shifts), the long-vs-short-month bill math with a worked example, estimated-vs-actual read interaction, and how to check your cycle dates. (3) content/blog/how-sewer-charges-work-on-your-water-bill.md (523w, 1 source): add the three billing models (metered water-based / flat / ERU), a worked example each, winter averaging explained, and 2-3 cited utility examples (web_fetch real utility sewer-rate pages). (4) content/blog/44-how-to-lower-water-bill.md \u2014 TRANSFORMATION: today it is investigation content under a 'lower water bill' slug. Rebuild it as the genuine 'How to Lower Your Water Bill' ACTION page the site lacks: ranked actions by cost (free behaviors -> cheap fixes -> upgrades: leak repairs, Toilet flapper, low-flow fixtures WaterSense, efficient irrigation, full-load habits), savings ranges per action cited from EPA WaterSense pages (web_fetch, cite), a payback table, and ONE Govee sensor product-box (B0DQLFC3Q6, verified) in the catch-silent-leaks section. Diagnose-first readers: link to 06-water-bill-too-high and the CCF calculator at top. This page fills the audit's #1 journey gap \u2014 make it the definitive answer to 'how to lower your water bill'.",
+ "parent_objective": "SQ-049 depth wave: top traffic-weak pages + thin money pages to full strength.",
+ "context": "28 is crisis-intent: help the reader avoid/resolve the fee; sell nothing. 44 is the opposite: pure action page, one product max.",
+ "known_facts": [
+  "Verified products/ASINs: Nest B0D5BBYRJM, Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Kasa KP125MP2 B0BYGRLRS1, Tapo P110M B0DKGBP38V, Emporia plug B0CLVV7X7Y, Vue 3 B0C7B1LKDW, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, ecobee B09XXS48P8, Emporia charger B09ZNN3JB7.",
+  "These pages already carry product boxes where noted \u2014 deepen the CONTENT around them; do not add more links unless a section genuinely begs for one. Disclosure shortcodes already in place.",
+  "House voice: plain-English, tables over prose, no hype, no fabricated testing. Sources: baseline first, else web_fetch with URL+date."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/28-utility-reconnection-fee-explained.md",
+   "content/blog/23-utility-billing-cycle-explained.md",
+   "content/blog/how-sewer-charges-work-on-your-water-bill.md",
+   "content/blog/44-how-to-lower-water-bill.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Depth = tables, worked examples, ranges, named utilities/programs \u2014 not padded prose. 800+ body words per page when done.",
+  "Every new factual claim sourced; frontmatter 'updated: 2026-08-28'; house markdown style.",
+  "Chunk discipline: file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "4 pages at 800+ words with cited tables/examples; 28 stays link-free; 44 delivers true lower-water-bill intent with one Govee box."
+ ]
+}

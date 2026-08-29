@@ -1,0 +1,42 @@
+{
+ "role": "operator",
+ "mission": "FIVE THIN MONEY PAGES \u2014 deepen the content AROUND the existing product boxes; add NO new boxes unless explicitly specified. (1) content/blog/gadgets-that-lower-utility-bills.md (342w, weakest money page): expand each gadget category with what-it-does / typical-cost-range / who-it's-for / realistic savings basis (manufacturer/DOE published only), a gadgets comparison table, and honest 'when it does NOT pay' notes \u2014 the boxes stay where they are. Target 900+. (2) content/blog/phantom-power-draw-explained.md (360w): add the standby-load table by device class (DOE/IEA standby-power figures \u2014 verify + cite), the measurement walkthrough, total-typical-home math, and the automate-it section around the existing boxes. (3) content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md (414w): add comfort/humidity/dehumidification differences, a runtime-behavior comparison, compatibility-with-thermostats section (the ecobee box already there), and a 'which stage for which climate/home' decision table. (4) content/blog/50-best-smart-plugs-standby-power.md (444w): add the measurement-first workflow (meter -> plug -> automation), a smart-plug-features comparison table (monitoring, Matter, hub-free \u2014 spec-based, cite product pages), safety notes (15A limits for high-draw appliances), and 'what a plug can't fix'. Keep both existing boxes. (5) content/blog/ev-charging-impact-electric-bill.md (496w): add the level-1-vs-level-2 comparison table, real cost-per-mile math on current rates (baseline + one real ToU off-peak price from 08's cited schedules), battery-size-to-bill examples (3 common EV sizes), and the plan-check list around the existing charger box.",
+ "parent_objective": "SQ-049 depth wave: top traffic-weak pages + thin money pages to full strength.",
+ "context": "Every table spec-cited. Savings claims only from manufacturer/DOE/ENERGY STAR published figures. The boxes anchor the pages \u2014 content earns them.",
+ "known_facts": [
+  "Verified products/ASINs: Nest B0D5BBYRJM, Kill A Watt B00009MDBU, Kasa KP115 B08LN3C7WK, Kasa KP125MP2 B0BYGRLRS1, Tapo P110M B0DKGBP38V, Emporia plug B0CLVV7X7Y, Vue 3 B0C7B1LKDW, Govee B0DQLFC3Q6, Moen Flo B00C03D01Q, ecobee B09XXS48P8, Emporia charger B09ZNN3JB7.",
+  "These pages already carry product boxes where noted \u2014 deepen the CONTENT around them; do not add more links unless a section genuinely begs for one. Disclosure shortcodes already in place.",
+  "House voice: plain-English, tables over prose, no hype, no fabricated testing. Sources: baseline first, else web_fetch with URL+date."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "content/blog/gadgets-that-lower-utility-bills.md",
+   "content/blog/phantom-power-draw-explained.md",
+   "content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md",
+   "content/blog/50-best-smart-plugs-standby-power.md",
+   "content/blog/ev-charging-impact-electric-bill.md"
+  ],
+  "notes": "Data baseline: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-046/data-baseline.md"
+ },
+ "constraints": [
+  "Depth = tables, worked examples, ranges, named utilities/programs \u2014 not padded prose. 800+ body words per page when done.",
+  "Every new factual claim sourced; frontmatter 'updated: 2026-08-28'; house markdown style.",
+  "Chunk discipline: file by file, save after each."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch",
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "5 money pages at 800+ (gadgets 900+) with cited comparison tables; no new boxes; every spec claim attributable."
+ ]
+}
