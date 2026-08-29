@@ -20,17 +20,19 @@ sources:
 
 **The billing period is the service-date range printed on your statement; it is not necessarily a calendar month.** Use the exact account dates, number of billing days, meter-read status, usage unit, and rate-plan version when comparing bills. Do not assume a universal billing frequency, due-date window, route process, or adjustment rule.
 
+Seeing a period that runs 27–35 days, or a start or end date shifted a day or three from last month, is routine — the sections below explain why, and how to check whether anything actually changed.
+
 Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
 
-**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide.
-
-If you need a line-by-line walkthrough of your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/). For help with a surprise spike, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for charge categories, or troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 ---
 
 ## Why Cycle Lengths Vary
 
 Your billing cycle’s length depends on several factors that have nothing to do with the calendar month.
+
+{{< visual src="/images/articles/23-utility-billing-cycle-explained/read-to-read-timeline.webp" alt="Comparison of a 28-day calendar month with a 33-day meter-read billing period." wide="true" >}}
 
 ### Meter-Read Schedules
 Your utility reads meters on a route schedule, not on the first or last day of each month. Routes are organized by geography; an entire neighborhood may be read on the same weekday. The billing period runs from the previous read date to the current read date, which can be 27–35 days.
@@ -52,6 +54,8 @@ When one billing period has more days than another, the total bill will differ e
 
 ### Worked Example
 
+{{< visual src="/images/articles/23-utility-billing-cycle-explained/daily-average-comparison.webp" alt="Two bills with 28 and 33 days that have the same 30.0 kWh daily use." wide="true" >}}
+
 | Bill | Service Period | Days | kWh Used | Raw Total | Avg kWh/Day |
 |---|---|---|---|---|---|
 | January | Jan 10 – Feb 7 | 28 | 840 | $130.20 | 30.0 |
@@ -63,7 +67,15 @@ Though the February bill shows $23.25 more, the daily usage is identical. The in
 2. Compare that daily average across two or three consecutive bills.
 3. If the daily average is flat, the bill difference is just a period-length artifact.
 
+One variant of this that catches many households: the first or last bill of a lease or ownership, which often covers a partial period. See [how partial periods on first or final bills are prorated](/blog/20-utility-bill-proration-explained/).
+
 **Formula:** Average daily usage = Total billed usage ÷ Number of billing days.
+
+Plug in your own numbers when checking a pair of bills:
+
+> your kWh ÷ your billing days = your daily average
+>
+> repeat for the second bill, then compare the two daily averages
 
 ---
 
@@ -82,7 +94,11 @@ Utilities may estimate a reading when the meter cannot be accessed (locked gate,
 
 If your Jan–Feb bill was estimated at 28 days and your Feb–Mar bill is actual at 33 days, both the usage and the rate-tier placement may catch up at once. This can produce a lumpy bill that looks like a usage spike but is really a correction.
 
+{{< visual src="/images/articles/23-utility-billing-cycle-explained/estimated-vs-actual-tru-up.webp" alt="Timeline showing an estimated meter read followed by an actual read and correction." >}}
+
 **Action:** Look for the words “estimated,” “actual,” or a small asterisk next to the meter reading on your statement. Con Edison explains that a customer can submit a meter reading to avoid an estimated bill when a meter reader misses a visit.[2] Your provider may use different terms and rules, so verify them from its current bill guide.
+
+Two follow-ups worth reading: [how estimated reads and true-ups work](/blog/14-estimated-utility-bill-explained/), and — if an estimate correction has just landed on your bill — [why your bill changed when usage looks the same](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
 
 ---
 
@@ -114,15 +130,37 @@ For the current bill and a comparable prior statement, record:
 | Rate plan | Tariff, service class, and effective date |
 | Charges | Usage, fixed, rider, tax, credit, and one-time items |
 
-If the billing periods differ, compare the underlying service dates and all rates before deciding why the amount due changed.
+If the billing periods differ, compare the underlying service dates and all rates before deciding why the amount due changed. To map those charges once you have the dates straight, keep the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) charge categories handy while you record them.
 
 ---
 
 ## Compare Bills Like With Like
 
-Use a prior bill with a similar season only as a starting point. Account for changed billing days, rate schedule, usage unit, meter status, credits, and one-time items. A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
+Use a prior bill with a similar season only as a starting point. When you compare two statements:
 
-**EIA data shows the average US residential customer uses roughly 899 kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total.
+- Match the billing-day counts first — a 33-day period against a 28-day period is not an apples-to-apples comparison.
+- Confirm both bills use the same rate schedule, usage unit, and meter status (actual vs. estimated).
+- Include credits and one-time items in the comparison, since neither shows up in the daily-average math.
+- A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
+
+**EIA data shows the average US residential customer uses roughly 899 kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/22-minimum-bill-utility-bill-explained/) as low as the raw math suggests.
+
+---
+
+## Is this normal, or worth a second look?
+
+Billing periods rarely match calendar months, and most differences between two bills are routine. Use this gate before worrying:
+
+| What you see | Verdict | Why |
+|---|---|---|
+| Period runs 27–35 days | Normal | Route-based meter reads set period length. |
+| Start or end date shifted 1–3 days vs. last month | Normal | Weekend and holiday read-date shifts. |
+| Period length drifts 3–6 days across seasons | Normal | Seasonal route scheduling. |
+| One bill jumps, then the next corrects it | Normal | An estimate corrected by the next actual read. |
+| Two bills differ in total while the daily average is flat | Second look | The difference is rate, fees, or read status — not usage. |
+| A charge line appears twice, or a promised credit never lands | Second look | Duplication and corrections that never land are dispute territory. |
+
+If a second-look row matches what you see, the next section gives you the questions that get a real answer.
 
 ---
 
@@ -132,9 +170,37 @@ Use a prior bill with a similar season only as a starting point. Account for cha
 2. How was billed usage calculated from the meter information?
 3. Which current tariff and rate period apply?
 4. Does the statement include an estimate correction, credit, or one-time item?
-5. What is the provider’s process for a reading or billing-period review?
+5. What is the provider's process for a reading or billing-period review?
+
+If the answers leave money still unexplained, the next move is [how to request a billing review](/blog/how-to-dispute-utility-bill/), which walks the formal dispute path step by step.
 
 ---
+
+{{< faq "Can my billing date change?" >}}
+
+Yes. If your scheduled read date falls on a weekend or holiday, the read shifts to the preceding or following business day, which moves your billing period start or end by 1–3 days. Route staffing changes across peak summer or winter seasons can also stretch or compress periods by a few days.
+
+{{< /faq >}}
+
+{{< faq "Why do two consecutive bills have different day counts?" >}}
+
+The billing period runs from one meter read to the next, and reads follow route schedules — not calendar dates. A 28-day period followed by a 33-day period just means one read happened sooner after the last one; the daily-average math above is the fair comparison.
+
+{{< /faq >}}
+
+{{< faq "How do I know if my bill was estimated?" >}}
+
+Look for the words “estimated,” “actual,” or a small asterisk next to the meter reading on the statement. Con Edison also lets customers submit their own reading to avoid an estimate when a meter reader can't access the meter.[2]
+
+{{< /faq >}}
+
+{{< faq "What if the math still looks wrong after checking everything above?" >}}
+
+Take your two statements, the daily-average comparison, and the questions in the previous section to your provider, then follow the formal escalation route: see [how to request a billing review](/blog/how-to-dispute-utility-bill/).
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ## Sources
 

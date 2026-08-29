@@ -2,7 +2,7 @@
 title: "Average Utility Bills by State (2026): National Averages + 17-State Sample"
 slug: "average-utility-bills-by-state-2026"
 aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
-description: "What US households pay for utilities in 2026: national averages for electricity, gas, and water/sewer, plus a 17-state sample table computed from published rates at standard usage."
+description: "What US households pay for utilities in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table computed from published rates at standard usage."
 date: 2026-05-29
 updated: 2026-08-29
 author: "Margaret Harrington"
@@ -10,7 +10,8 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["therms", "savings", "gas bill", "kwh", "budget"]
 keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utility budget"]
-image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v2.webp"
+image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v3.webp"
+hero_below_answer: true
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
@@ -19,27 +20,28 @@ sources:
 ---
 
 <h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026</h2>
-<p><strong>How we calculate:</strong> This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table below and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and sewer charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket — adding internet, trash, and the sewer charges energy agencies do not track — is roughly $470/month ($390–$540).</p>
 <p>Here is the national breakdown for the <strong>narrow basket</strong>:</p>
 <ul>
 <li><strong>Electricity:</strong> $165/month (900 kWh at 18.34¢/kWh — EIA national residential average, June 2026)</li>
 <li><strong>Natural gas:</strong> $80–$170/month for a gas-heated home at 75 therms (EIA state residential prices run ~$1.04–$2.29/therm; ~$1.91/therm national average, May 2026) — winter high, summer low</li>
 <li><strong>Water & sewer:</strong> roughly $70–$90/month combined ($47 water plus $25–$40 sewer, per the water section below)</li>
 </ul>
+<p><strong>How we calculate:</strong> This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table below and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and sewer charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket — adding internet, trash, and the sewer charges energy agencies do not track — is roughly $470/month ($390–$540).</p>
 <p><strong>Broad basket</strong> adds:</p>
 <ul>
 <li><strong>Internet:</strong> $60–$80/month</li>
 <li><strong>Trash/recycling:</strong> $15–$35/month (often bundled with water)</li>
 </ul>
-<p>The cheapest states for utilities are <strong>Idaho, Utah, and Washington</strong> (abundant hydropower). The most expensive are <strong>Hawaii, Alaska, and Connecticut</strong>. The tables below cover 17 states sampled across every region and price tier, plus national averages that apply anywhere. To understand what drives these costs, see our guide on <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a>.</p>
+<p>The cheapest states for utilities are <strong>Idaho, Utah, and Washington</strong> (abundant hydropower). The most expensive are <strong>Hawaii, Alaska, and Connecticut</strong>. The tables below cover 17 states sampled across every region and price tier, plus national averages that apply anywhere.</p>
+
+{{< jump-row "Total table|#total-utility-cost-comparison-2026-state" "Electricity|#electricity-rates-by-state-2026-breakdow" "Gas|#gas-bills-by-state-heating-drives-the-di" "Water & sewer|#water-and-sewer-bills-the-overlooked-uti" "How to use it|#how-to-use-this-data-for-smart-decisions" >}}
 
 <h2 id="understanding-the-average-utility-bills">Understanding the Average Utility Bills by State in 2026</h2>
 <p>Utility costs vary widely across the U.S. in 2026—not just due to regional differences in energy sources, but also because of state regulations, climate, and infrastructure age. Whether you're moving, budgeting for a new home, or just curious how your bill compares, knowing the <strong>average utility bills by state 2026</strong> gives you real leverage in financial planning.</p>
           <p>In this article, we break down electricity, natural gas, and water/sewer costs for a 17-state sample chosen to span every region and price tier — and give the national math you can apply to any state. We use the most recent data from the U.S. Energy Information Administration (EIA), the American Water Works Association (AWWA), and state public utility commissions—all adjusted for inflation and projected trends through 2026.</p>
           <p>All figures below reflect typical monthly usage for an average household: ~900 kWh of electricity, ~75 therms of natural gas, and ~7,500 gallons of water. <strong>Read the table as a standardized estimate, not a survey median:</strong> each electric cell is the state’s average residential rate multiplied by 900 kWh, so states match on usage and differ only on price — your own bill depends on your usage, rate plan, and season. Verify your current rate on your utility’s tariff page. We’ll also highlight where costs are rising fastest—and where they’re surprisingly affordable.</p>
-          <figure>
-          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-1_00003_.webp" alt="average utility bills by state 2026 comparison" width="800" height="450" loading="lazy" />
-          </figure>
+
+{{< visual src="/images/articles/average-utility-bills-by-state-2026/national-vs-state-electric-bars.webp" alt="Standardized 900 kWh monthly electricity cost: Idaho 125 dollars, national 165 dollars, and Massachusetts 190 dollars." wide="true" >}}
 
 <h2 id="electricity-rates-by-state-2026-breakdow">Electricity Rates by State: 2026 Breakdown</h2>
 <p>Electricity remains the most visible part of your utility bill—and the most variable. In mid-2026, the national average residential electricity rate is <strong>18.34¢ per kWh</strong> (EIA Electricity Monthly Update, June 2026), up from 17.30¢ in FY2025 due to rising fuel costs and grid modernization investments. But this average hides dramatic regional splits.</p>
@@ -71,6 +73,9 @@ sources:
           <li><strong> Maryland</strong>: 21.7¢</li>
           </ul>
           <p>Those high rates in the Northeast and Hawaii reflect a mix of high fuel imports, strict environmental standards, and aging transmission systems. In fact, Hawaii continues to pay nearly <strong>3.4× more per kWh</strong> than Idaho—not just because of geography, but also because of state policies pushing toward 100% renewable energy by 2045, which have raised short-term costs.</p>
+
+{{< visual src="/images/articles/average-utility-bills-by-state-2026/idaho-vs-hawaii-rate-gap.webp" alt="Electricity-rate comparison: Idaho 9.8 cents per kWh and Hawaii 33.7 cents per kWh." >}}
+
           <p>Importantly, electricity isn’t just about the rate—your <em>bill</em> depends on usage. Cold winters in the Upper Midwest mean more heating (and higher gas use), while hot summers in the South drive up AC demand. So while Alaska’s rate is high, the average monthly electric bill there is only $142—still above the national average of $165—because usage is lower than in sunbelt states.</p>
           <h3>How 2026 Electricity Rates Compare to 2025</h3>
           <p>Compared to 2025, most states saw electricity rates increase by 2–6%, driven primarily by natural gas price spikes and grid reliability upgrades following the 2025 winter storms. The biggest jumps occurred in:</p>
@@ -81,9 +86,6 @@ sources:
           </ul>
           <p>Meanwhile, Idaho and North Dakota saw slight decreases (−0.9% and −1.2%, respectively), thanks to new transmission lines and stable hydropower output.</p>
           <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/10-fixed-vs-variable-utility-rate/">how utility rates are set</a>.</p>
-          <figure>
-          <img src="/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_section-2_00003_.webp" alt="average utility bills by state 2026 technology detail" width="800" height="450" loading="lazy" />
-          </figure>
 
 <h2 id="gas-bills-by-state-heating-drives-the-di">Gas Bills by State: Heating Drives the Difference</h2>
 <p>Natural gas prices fluctuated less than electricity in 2026, but regional differences remain stark. The national average natural gas rate is <strong>$1.12 per therm</strong>, down slightly from $1.18 in 2025 due to increased domestic production and milder winter forecasts.</p>
@@ -96,6 +98,9 @@ sources:
           <li><strong>Northeast</strong> (e.g., New York, Massachusetts, Maine): $110–$180/month</li>
           <li><strong>West</strong> (e.g., California, Oregon, Colorado): $75–$130/month</li>
           </ul>
+
+{{< visual src="/images/articles/average-utility-bills-by-state-2026/gas-range-by-region.webp" alt="Monthly gas bill ranges at 75 therms for the South, Midwest, Northeast, and West." wide="true" >}}
+
           <p>California stands out: despite moderate gas prices ($1.42/therm), high home insulation standards and smaller homes keep gas bills lower than the Northeast. Meanwhile, Maine’s average gas bill is $168/month—despite a rate of $1.76/therm—because homes are older, less efficient, and winters are harsher.</p>
           <p>Also note: many households use both gas and electricity for heating. In 2026, <strong>hybrid heating systems</strong> (e.g., heat pumps paired with gas backup) are growing rapidly in cold states like Minnesota and Vermont, leading to more balanced electric/gas usage—and sometimes <em>lower</em> total utility bills.</p>
 
@@ -111,6 +116,7 @@ sources:
           <li><strong>North Dakota</strong>: $43/month</li>
           </ul>
           <p>States with the <strong>highest combined water & sewer bills</strong>:</p>
+          <ul>
           <li><strong>Hawaii</strong>: $88/month</li>
           <li><strong>California</strong>: $79/month (including drought surcharges in many areas)</li>
           <li><strong>Massachusetts</strong>: $76/month</li>
@@ -123,6 +129,9 @@ sources:
 
 <h2 id="total-utility-cost-comparison-2026-state">Total Utility Cost Comparison: 2026 State-by-State Summary</h2>
 <p>Putting it all together, here’s how the average <strong>total monthly utility bill</strong> (electricity + natural gas + water + sewer) breaks down by region in 2026:</p>
+
+{{< visual src="/images/articles/average-utility-bills-by-state-2026/narrow-vs-broad-basket.webp" alt="Narrow 375 dollar and broad 470 dollar utility-cost baskets." >}}
+
           <ul>
           <li><strong>Lowest cost region</strong> (South Central): $170–$200/month</li>
           <li><strong>Moderate cost region</strong> (Midwest, Southwest, Rocky Mountains): $190–$230/month</li>
@@ -263,7 +272,8 @@ sources:
           </tr>
           </tbody>
           </table>
-          <p><em>Note: Data sources include EIA, AWWA, and state PUC reports (2025–2026 projections). Rates reflect average residential customers with standard tiered pricing. \* Hawaii's electric estimate uses standardized 900 kWh/month; Hawaii's actual average household usage is ~515 kWh/month (EIA FAQ); at the 33.7¢ rate that is a realistic electric bill of about $174/month.</em></p>
+          <p><em>Note: Data sources include EIA, AWWA, and state PUC reports (2025–2026 projections). Rates reflect average residential customers with standard tiered pricing — see <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a> for what's inside those figures. \* Hawaii's electric estimate uses standardized 900 kWh/month; Hawaii's actual average household usage is ~515 kWh/month (EIA FAQ); at the 33.7¢ rate that is a realistic electric bill of about $174/month.</em></p>
+<p><strong>Reading the table against your own bill:</strong> each electric figure is your state's average residential rate multiplied by the same 900 kWh, so differences from your own statement usually trace to usage, your rate plan, or the season. To put your numbers alongside these, see <a href="/blog/how-to-read-your-utility-bill/">how to read your utility bill, line by line</a> — and plan for seasonal swings, not just averages.</p>
 
 <h2 id="what-s-driving-these-differences-key-fac">What’s Driving These Differences? Key Factors Explained</h2>
 <p>Why do utility costs vary so much? It’s never just one factor. Here are the top five drivers behind the 2026 state-level differences:</p>
@@ -278,29 +288,22 @@ sources:
           <p>Also, remember: <strong>utility bills include more than just energy</strong>. Water/sewer is often overlooked, yet it accounted for 12–20% of total utility spending in 2026 for most households—especially in drought-prone areas where conservation fees kick in.</p>
 
 <h2 id="how-to-use-this-data-for-smart-decisions">How to Use This Data for Smart Decisions</h2>
-<p>If you’re moving, budgeting, or evaluating a job offer, knowing where utility costs stand helps you avoid nasty surprises. Here’s how to apply this data:</p>
+<p>If you're moving, budgeting, or evaluating a job offer, knowing where utility costs stand helps you avoid nasty surprises. If a move itself is the trigger, start with our <a href="/blog/moving-utilities-checklist/">guide to moving utilities to a new address</a>. Here's how to apply this data:</p>
           <ul>
           <li><strong>Compare total housing cost</strong>: A lower rent in a high-utility state (e.g., Massachusetts) can be offset by a higher rent in a low-utility state (e.g., Texas). Use the state-by-state averages above to model your real monthly costs.</li>
           <li><strong>Factor in seasonality</strong>: In Minnesota, summer electric bills may be 40% lower than winter gas bills. Plan for seasonal swings—not just averages.</li>
-          <li><strong>Check your local utility’s plan</strong> Even within a state, rates vary by provider. In Texas, for example, rate variations between providers can exceed 20%.</li>
+          <li><strong>Check your local utility’s plan</strong> Even within a state, rates vary by provider. In Texas, for example, rate variations between providers can exceed 20%. Not sure which plan fits? See <a href="/blog/which-rate-plan-is-right-for-me/">which electricity rate plan fits your household</a>.</li>
           <li><strong>Ask about rebates</strong> Many states (e.g., Colorado, Oregon) offer income-qualified energy assistance or efficiency upgrades that reduce bills long-term.</li>
           </ul>
           <p>And if you’re already a homeowner: small upgrades (LED lighting, programmable thermostats, water-efficient fixtures) often pay for themselves in under two years—even in high-cost states.</p>
 
-<h3>How much more expensive are utilities in high-cost states like Hawaii versus low-cost states like Idaho?</h3>
-          <p>In 2026, Hawaii’s standardized total (900 kWh) is $453/month while Idaho’s is $225/month — roughly double, primarily because of electricity costs (3.4× more per kWh) and water/sewer (2.3× higher due to desalination and import logistics). Using Hawaii’s actual lower electricity usage (~515 kWh/month, $174 at 33.7¢), the realistic total is about $324/month.</p>
-          <h3>Which states saw the biggest increases in utility costs from 2025 to 2026?</h3>
-          <p>Pennsylvania (+8.2% total utility cost), Florida (+7.6%), and Texas (+6.9%) had the largest year-over-year increases, driven by grid upgrades, coal retirements, and extreme-weather infrastructure investments.</p>
-          <h3>Are utility bills higher in urban or rural areas?</h3>
-          <p>It depends on the state and utility. In some cases—like New York and California—urban areas have <strong>lower</strong> per-unit rates due to economies of scale. But rural customers often pay more for pipeline/water line extensions and meter reading logistics.</p>
-          <h3>Do utility costs include taxes and fees?</h3>
-          <p>Yes, the figures above include all state and local taxes, regulatory fees (e.g., solar integration fees), and public benefits charges. They do <em>not</em> include demand charges (rare for residential) or late fees.</p>
-          <h3>How accurate are these 2026 projections?</h3>
-          <p>We used conservative estimates based on the EIA’s Annual Energy Outlook 2025, state utility commission filings, and trend analysis. Minor revisions (±3%) are possible as final 2026 data is released in Q1 2027.</p>
-          <h3>Can I reduce my utility bill even in high-cost states?</h3>
-          <p>Absolutely. In high-cost states like Massachusetts, households that adopted efficiency measures (heat pump installation, attic insulation, smart thermostats) reduced their gas bill by 22% and electric by 15% in 2026—savings of $105/month on average.</p>
-          <h3>Where can I find my state’s exact utility rates?</h3>
-          <p>State public utility commissions publish updated rate schedules. You can also compare average utility costs by state in the <a href="/blog/average-utility-bills-by-state-2026/">state-by-state table above</a>.</p>
+## Related Reading
+
+- [What the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/) — every line item above the table figures, explained.
+- [How to read your utility bill, line by line](/blog/how-to-read-your-utility-bill/) — decode your own statement against these averages.
+- [Which electricity rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) — what to do when rates vary by provider.
+- [How to lower your water bill](/blog/44-how-to-lower-water-bill/) — action steps for the fastest-rising line on the bill.
+- [Moving utilities to a new address](/blog/moving-utilities-checklist/) — the planner's checklist for the switch itself.
 
 {{< faq "How much more expensive are utilities in high-cost states like Hawaii versus low-cost states like Idaho?" >}}
 
@@ -340,7 +343,7 @@ Absolutely. In high-cost states like Massachusetts, households that adopted effi
 
 {{< faq "Where can I find my state’s exact utility rates?" >}}
 
-State public utility commissions publish updated rate schedules. You can also use our  interactive rate lookup tool  to search by provider and plan type.
+State public utility commissions publish updated rate schedules. To decode what sits above the table figures, see [what the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/).
 
 {{< /faq >}}
 

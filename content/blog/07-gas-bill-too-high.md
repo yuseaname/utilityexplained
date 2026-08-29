@@ -25,9 +25,9 @@ image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 
 **A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.**[1] The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
 
-A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the 10 most common causes and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
+A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the most common causes, ranked by likelihood, and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
-Natural gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). One CCF ≈ 1.037 therms. For most households, the difference is negligible — but knowing your units helps when comparing bills. The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/).
+Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/).
 
 **Next step:** If your gas bill is still high after checking the causes above, learn how to [read your gas bill line by line](/blog/12-how-to-read-your-gas-bill/) and see the full [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for comparison.
 
@@ -45,9 +45,11 @@ Answer these four questions before diving into troubleshooting:
 
 ---
 
-## 10 common causes, ranked by likelihood
+## Common causes, ranked by likelihood
 
 {{< visual src="/images/articles/07-gas-bill-too-high/gas-bill-ranked-causes.webp" alt="Horizontal comparison of common high-gas-bill drivers: weather, thermostat, insulation, equipment, and billing period." wide="true" >}}
+
+*Short on time? Check #1 (weather), #2 (thermostat), and #10 (period length) first — the three most common explanations.*
 
 ### 1. Heating season weather
 
@@ -72,11 +74,13 @@ A useful rule of thumb, consistent with DOE's setback figures: each degree warme
 - **When sleeping or away:** 60–62°F (15–17°C)
 - **Maximum savings:** 65°F when home, 55°F when away
 
-**Programmable thermostat tip:** Set it to drop 7–10°F when you're sleeping or away for at least eight hours a day. This alone can save up to 10% on heating costs, according to the U.S. Department of Energy.[2] If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature.
+**Programmable thermostat tip:** Set it to drop 7–10°F when you're sleeping or away for at least eight hours a day. This alone can save up to 10% on heating costs, according to the U.S. Department of Energy.[2] If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature. Before buying anything for that schedule, it's fair to ask [do programmable thermostats really cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/) — the evidence page breaks down what the setback studies actually show.
+
+{{< visual src="/images/articles/07-gas-bill-too-high/thermostat-setback-schedule.webp" alt="24-hour thermostat schedule with a 60 degree eight-hour setback." >}}
 
 ### 3. Furnace efficiency decline
 
-Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance. Pre-2000 furnaces commonly sit at **70–80% AFUE**, meaning **20–30% of the fuel you pay for escapes through the exhaust flue** as wasted heat rather than warming your home. A new high-efficiency condensing furnace reaches **95% AFUE** — that gap is the single biggest efficiency upgrade available to most gas-heated households.
+Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance. (New to efficiency ratings? See [what AFUE ratings actually mean](/blog/afue-vs-seer-vs-hspf-vs-cop/), along with the SEER, HSPF, and COP numbers used for the other equipment types.) Pre-2000 furnaces commonly sit at **70–80% AFUE**, meaning **20–30% of the fuel you pay for escapes through the exhaust flue** as wasted heat rather than warming your home. A new high-efficiency condensing furnace reaches **95% AFUE** — that gap is the single biggest efficiency upgrade available to most gas-heated households.
 
 Short cycling (the burner turning on and off every few minutes without reaching set temperature) is another symptom of an aging or struggling furnace. It wastes fuel during startup cycles and stresses the heat exchanger. Annual professional tune-up — cleaning burners, checking the heat exchanger, verifying airflow — keeps the system near its rated AFUE.
 
@@ -98,9 +102,9 @@ Your furnace may be working correctly, but you're losing heat through:
 - **Attic insulation** — The #1 source of heat loss in most homes. If you have less than R-38 (about 10–14 inches of fiberglass), adding insulation pays for itself in 1–3 years.
 - **Windows and doors** — Weatherstripping and caulking cost $20–$50 and can reduce drafts significantly.
 - **Recessed lights** — Can lights in ceilings below attics are notorious for air leakage.
-- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.[3]
+- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.[3] If some rooms heat fine while others stay cold, that uneven-room pattern is the classic symptom — see [what duct leaks feel like from room to room](/blog/duct-leaks-symptoms-hvac-running-all-day/).
 
-**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak.
+**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak. This is the same method the pros use — [run a full DIY energy assessment](/blog/47-check-energy-leaks-home-diy/) to make it a room-by-room checklist.
 
 ### 5. Gas water heater waste
 
@@ -111,6 +115,8 @@ Water heating is typically the **second-largest gas expense** (15–25% of gas u
 - **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
 - **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
 - **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10%.[4]
+
+{{< visual src="/images/articles/07-gas-bill-too-high/water-heater-standby-loss.webp" alt="Gas water heater cross-section showing burner, sediment, and standby heat loss." >}}
 
 ### 6. Rate increase
 
@@ -155,7 +161,7 @@ Single-pane windows or old double-pane windows with failed seals let significant
 
 ### 10. Billing cycle length or estimated readings
 
-A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed.
+A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed. To see why — and how to check it — see [why the billing period makes the bill look bigger](/blog/23-utility-billing-cycle-explained/), with the worked daily-average comparison.
 
 **What to check:**
 - **Days of service** on your bill
@@ -207,21 +213,14 @@ A 344% jump in usage combined with a 22% rate hike produces a bill that is nearl
 
 ## How to read your gas meter
 
-Gas meters measure usage in **cubic feet**. The display has 4–5 dials or a digital readout. For the full bill breakdown after you read the meter, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
-
-### Analog meter
-- Read the dials left to right
-- If a pointer is between two numbers, use the lower number
-- If a pointer is directly on a number, check the dial to its right — if that dial hasn't passed 0, use the number before
-
-### Digital meter
-- Simply read the numbers displayed
-- Some smart meters cycle through multiple displays — look for the consumption reading (usually labeled "usage" or showing a gas flame icon)
+Gas meters measure usage in **cubic feet**. The display shows 4–5 dials (analog) or a digital readout — for the full bill breakdown after you read it, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
 
 ### Tracking usage between bills
 1. Read your meter on the same day each month.
 2. Subtract last month's reading from this month's.
 3. Multiply by the conversion factor (if billed in therms, multiply cubic feet by 1.037).
+
+For the full [dial-by-dial meter walkthrough](/blog/how-to-read-gas-meter/) — analog pointer rules, digital display cycling, and what each register means — the dedicated guide covers it in detail.
 
 ---
 
@@ -286,6 +285,19 @@ Contact your gas utility when:
 
 **Next step:** Pull up your last 12 months of gas bills and compare this month's therms to the same month last year. If therms are flat, the issue is rate or fee changes — call your utility for a billing review. If therms are up, work through the causes above in order, starting with thermostat settings and furnace maintenance.
 
+## Related Reading
+
+- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — the line-by-line breakdown of every charge.
+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — the full dial-by-dial walkthrough and between-bills tracking.
+- [Why the Billing Period Makes the Bill Look Bigger](/blog/23-utility-billing-cycle-explained/) — period length and estimated reads, decoded.
+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — decode the units on your bill.
+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — what you're paying for in each half.
+- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — how utilities pass through gas cost changes.
+- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — line items beyond supply and delivery.
+- [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — that fixed monthly fee.
+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — comprehensive savings strategies.
+- [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — help paying your gas bill.
+
 {{< faq "What's a normal gas bill?" >}}
 The average US household gas bill ranges from **$40–$80/month** in summer (mostly water heating and cooking) to **$100–$250/month** in winter (heating-dominated). Bills in cold climates (Minnesota, Michigan, New York) can exceed $300/month in peak winter.
 {{< /faq >}}
@@ -338,19 +350,3 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 2. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
 3. [U.S. Department of Energy: Duct sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
 4. [U.S. Department of Energy: Water heating](https://www.energy.gov/save/home-upgrades)
-
-## Related guides
-
-- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — Detailed line-by-line breakdown
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) — Troubleshoot electricity costs
-- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
-- [Fixed vs Variable Utility Rates](/blog/10-fixed-vs-variable-utility-rate/) — Choose the right rate plan
-- [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Spot charges you can dispute
-- [Understanding Natural Gas Bill Charges](/blog/12-how-to-read-your-gas-bill/) — Full charge-by-charge guide
-- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — Decode the units on your bill
-- [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — That fixed monthly fee
-- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — What you're paying for
-- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — How utilities pass through gas cost changes
-- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — Line items beyond supply and delivery
-- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — Track usage between bills
-- [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — Help paying your gas bill

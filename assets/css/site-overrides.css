@@ -380,6 +380,19 @@
   text-align: center;
 }
 
+/* Long data tables remain readable at phone widths without widening the
+   document. The table itself becomes the horizontal scroller, preserving the
+   column relationships instead of forcing dense cells to wrap into noise. */
+@media (max-width: 640px) {
+  .article-content table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 /* ----------------------------------------------------------------------------
    7. REDUCED MOTION — the register never rolls for those who opted out
    ---------------------------------------------------------------------------- */
