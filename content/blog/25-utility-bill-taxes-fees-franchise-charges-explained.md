@@ -10,7 +10,7 @@ categories: ["Bills & Fees"]
 tags: ["utility taxes", "utility fees", "utility bill"]
 keywords: ["utility bill taxes", "utility bill fees", "franchise charge utility bill"]
 image: "/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp"
-hero_below_answer: true
+hero_above: true
 sources:
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
