@@ -3,7 +3,7 @@ title: "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
 slug: "what-is-ccf-on-a-water-bill"
 description: "CCF on a water bill means 'hundred cubic feet' — 1 CCF equals 748 gallons. Here's what your CCF number means, how to convert it, and how to tell if a hidden leak is driving up your bill."
 date: 2025-12-25
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -11,7 +11,7 @@ tags: ["ccf", "gallons", "water bill", "leak", "water meter"]
 keywords: ["ccf", "gallons of water", "high water bill", "water leak detection", "water meter reading"]
 image: "/images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.webp"
 sources:
-  - https://water.usgs.gov/water-basics_glossary.html
+  - https://www.epa.gov/watersense/understanding-your-water-bill
 ---
 
 ## Quick Answer {#quick-answer}
@@ -38,7 +38,7 @@ sources:
 <p>Utilities measure water in volume. The most common units you'll see are gallons, cubic feet (ft³), and CCF.</p>
 <ul>
 <li><strong>1 cubic foot</strong> = <strong>7.48 gallons</strong></li>
-<li><strong>1 CCF</strong> = <strong>100 cubic feet</strong> = <strong>748 gallons</strong></li>
+<li><strong>1 CCF</strong> = <strong>100 cubic feet</strong> ≈ <strong>748 gallons</strong> (100 × 7.48 gallons per cubic foot; EPA states "One CCF is equal to 748 gallons"[1])</li>
 </ul>
 <p>So if your bill says you used 6 CCF, that is about <strong>4,488 gallons</strong> (6 × 748).</p>
 <p>Some cities use <strong>kgal</strong> (thousand gallons) instead. The important thing is that the unit is just a way to count volume — it does not change the actual amount of water you used. However, some utilities apply <a href="/blog/tiered-water-rates-explained/">tiered water rates</a>, where the price per CCF increases as your usage goes up.</p>
@@ -159,4 +159,4 @@ In many cities, yes. Sewer charges are often calculated from your water usage (i
 
 ## Sources
 
-- [U.S. Geological Survey: Water Resources Glossaries](https://water.usgs.gov/water-basics_glossary.html) — conversion reference for cubic feet and gallons.
+- [EPA WaterSense: Understanding Your Water Bill](https://www.epa.gov/watersense/understanding-your-water-bill) — unit definitions; states "One CCF is equal to 748 gallons" (retrieved 2026-08-29).

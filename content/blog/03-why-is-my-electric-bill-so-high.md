@@ -1,10 +1,10 @@
 ---
-title: "Why Is My Electric Bill So High? 12 Common Causes and How to Fix Them"
+title: "Why Is My Electric Bill So High? Find the Real Cause"
 slug: "03-why-is-my-electric-bill-so-high"
-aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
+aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/15-why-utility-bill-higher-same-usage/", "/blog/why-my-utility-bill-is-higher-with-same-usage/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
 description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -100,6 +100,8 @@ electricity used (kWh) = power (kW) × time (hours)
 One kWh is one kilowatt used for one hour.[2] Multiply the resulting kWh by the applicable price on your bill, while recognizing that fixed charges and time-varying rates can make the final bill more complex.
 
 ## When to Contact the Utility
+
+Do not withhold payment or assume a charge is incorrect before confirming the utility's review and dispute process — late fees and disconnection rules run on their own clock while a dispute is pending.
 
 Contact the utility if you do not understand the billing period, usage, rate, or charges; the bill identifies an estimated read; or the meter information and bill do not appear to align. Ask whether the read was actual or estimated, how charges were calculated, and which tariff provision applies.
 

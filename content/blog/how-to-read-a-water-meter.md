@@ -3,7 +3,7 @@ title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
 description: "A step-by-step guide to reading your home water meter and checking for leaks."
 date: 2025-12-25
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -222,9 +222,9 @@ Many meters are outside, but some homes have an indoor or remote display. Check 
 
 | Reading | Example | Calculation |
 |---------|---------|-------------|
-| Earlier reading | 4,523 CCF | From the prior reading |
-| Later reading | 4,531 CCF | Read today |
-| Usage | 8 CCF | 4,531 − 4,523 |
+| Earlier reading | 1,247 CCF | From the prior reading |
+| Later reading | 1,255 CCF | Read today |
+| Usage | 8 CCF | 1,255 − 1,247 |
 | Approximate gallons | 5,984 gallons | 8 × 748 |
 
 Use the unit and rate on your own bill to calculate charges; rate structures and fixed fees vary by utility.

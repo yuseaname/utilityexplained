@@ -3,7 +3,7 @@ title: "How to Understand Sewer Charges on Your Water Bill"
 slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account."
 date: 2025-12-25
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -13,9 +13,10 @@ image: "/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-ex
 og_image: "/images/social/og-sewer-charges.webp"
 sources:
   - https://www.epa.gov/watersense/understanding-your-water-bill
-  - https://www.seattle.gov/utilities/your-services/rates-and-charges/sewer-rates
-  - https://www.phila.gov/water/rates-and-fees/
-  - https://www.sfpuc.org/about-us/rates-reports/financial-activity-and-reports/rates-fees-charges
+  - https://www.seattle.gov/utilities/your-services/accounts-and-payments/rates/sewer
+  - https://water.phila.gov/wp-content/uploads/files/rates-and-charges-2025-09-01.pdf
+  - https://www.sfpuc.gov/accounts-services/water-power-sewer-rates/proposed-water-sewer-rates-2026/proposition-218-notice
+  - https://www.sfpuc.gov/sites/default/files/accounts-and-services/Rates_Schedule_Water_Sewer_2026-7.pdf
 ---
 
 ## Quick Answer
@@ -26,9 +27,7 @@ Do not assume a winter-average method, irrigation exception, or universal sewer-
 
 {{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp" alt="Diagram showing water service flowing into a home and sewer service carrying wastewater away for treatment." wide="true" >}}
 
-**Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill.
-
-To understand how your water usage and sewer charges connect, first read [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/). If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes, or check [stormwater fees](/blog/stormwater-fee-on-water-bill-explained/) for related charges. Then:
+**Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill. If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes.
 
 ---
 
@@ -114,15 +113,15 @@ Each of the following utilities uses a different sewer billing model. Compare yo
 
 ### Seattle Public Utilities (Washington)
 
-**Model:** Metered water-based, with winter averaging. The sewer rate in 2026 is $8.44 per CCF applied to 100% of winter-averaged water consumption. A typical single-family home using 7 CCF indoors during winter pays about **$59.08 per month** for sewer service during the billing year. The utility publishes its full rate schedule at seattle.gov/utilities.[2]
+**Model:** Metered water-based, with winter averaging — summer sewer bills are based on average winter water consumption. The 2026 sewer rate is **$20.18 per CCF**, and the utility's published typical monthly residential sewer bill is **$86.77** (2026; $19.21/CCF in 2025). Rates as of 2026, verified against SPU's rate page.[2]
 
 ### Philadelphia Water Department (Pennsylvania)
 
-**Model:** Metered water-based, applying sewer to the full water consumption. The combined stormwater and wastewater rate in 2026 is approximately $10.22 per CCF for the first 15 CCF (tier 1). A household using 8 CCF would pay about **$81.76 for sewer**. Philadelphia also charges a separately itemized stormwater fee based on impervious surface area. Rates are published at phila.gov/water/rates-and-fees.[3]
+**Model:** Metered water-based, applying sewer to water consumption at a flat volumetric rate — sewer is not tiered. Under the rate schedule effective September 1, 2025, the sewer quantity charge is **$51.62 per Mcf — about $5.16 per CCF**. A household using 8 CCF of water would pay about **$41.30 for sewer** (8 × $5.16). Philadelphia also charges a separately itemized stormwater fee based on impervious surface area. Rates as of the 2025–26 schedule.[3]
 
 ### San Francisco Public Utilities Commission (California)
 
-**Model:** Metered water-based, with tiered sewer rates. In 2026, the wastewater rate is approximately $6.48 per CCF for the first 10.4 CCF (all-electric homes) or the first 14.4 CCF (gas-heated homes). A typical household using 10 CCF of gas-heated home would pay about **$64.80** for sewer. SFPUC applies all sewer charges to total water consumption. The rate is published at sfpuc.org.[4]
+**Model:** Usage-based with a discount factor — single-family sewer is billed on **90% of water consumption**, at a volumetric rate per unit (1 unit = 1 CCF = 748 gallons), plus a fixed service charge and a parcel-size-based stormwater charge. Effective July 1, 2026, the residential wastewater rate is **$20.74 per unit** (up from $18.72). A household using 4 CCF of water is billed on 3.6 units — about **$74.70** for the volumetric wastewater charge before fixed charges. Rates as of the FY2026–27 schedule.[4]
 
 ---
 
@@ -172,6 +171,6 @@ Document the bill, current meter reading if relevant, and the date you contacted
 ## Sources
 
 1. [U.S. Environmental Protection Agency WaterSense: Understanding Your Water Bill](https://www.epa.gov/watersense/understanding-your-water-bill) — explains bill units, fixed and variable rate structures, and finding charge information through a local utility.
-2. [Seattle Public Utilities: Sewer Rates](https://www.seattle.gov/utilities/your-services/rates-and-charges/sewer-rates) — sewer charge using winter-averaged metered water consumption.
-3. [Philadelphia Water Department: Rates and Fees](https://www.phila.gov/water/rates-and-fees/) — combined stormwater/wastewater rate per CCF with tiered pricing.
-4. San Francisco Public Utilities Commission: Rates, Fees & Charges (https://www.sfpuc.org/about-us/rates-reports/financial-activity-and-reports/rates-fees-charges) — tiered wastewater rates by customer class.
+2. [Seattle Public Utilities: Sewer Rates](https://www.seattle.gov/utilities/your-services/accounts-and-payments/rates/sewer) — 2026 rate per CCF, typical monthly residential bill, and winter-averaging method (retrieved 2026-08-29).
+3. [Philadelphia Water Department: Rates and Charges (effective September 1, 2025)](https://water.phila.gov/wp-content/uploads/files/rates-and-charges-2025-09-01.pdf) — official rate schedule; flat sewer quantity charge of $51.62 per Mcf (retrieved 2026-08-29).
+4. [SFPUC: Water and Sewer Rates](https://www.sfpuc.gov/accounts-services/water-power-sewer-rates/proposed-water-sewer-rates-2026/proposition-218-notice) and [FY2026–27 Rate Schedule (PDF)](https://www.sfpuc.gov/sites/default/files/accounts-and-services/Rates_Schedule_Water_Sewer_2026-7.pdf) — single-family sewer billed on 90% of water consumption at $20.74 per unit effective July 1, 2026 (retrieved 2026-08-29).

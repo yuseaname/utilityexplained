@@ -1,111 +1,143 @@
 ---
 title: "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For"
 slug: "gas-delivery-charge-vs-supply-charge"
-description: "Your gas bill splits costs into delivery charges and supply charges \u2014 but most people don't know what they're paying for. Here's the complete breakdown."
+description: "Check your gas bill the right way: what the supply charge pays for, what the delivery charge pays for, which one you can shop for, and a verified utility example."
 date: 2026-05-27
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "delivery charge", "supply charge", "therms", "ccf"]
 keywords: ["high gas bill", "delivery charge", "supply charge", "therms", "ccf"]
 image: "/images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_v2.webp"
+hero_below_answer: true
+sources:
+  - https://www.columbiagasohio.com/bills-and-payments/billing-programs/standard-choice-offer (Columbia Gas of Ohio, retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (Con Edison, retrieved 2026-08-29)
+  - https://www.nationalgridus.com/MA-Gas-Home/Supply-Costs/ (National Grid, retrieved 2026-08-29)
+  - https://www.nipsco.com/bills-and-payments/understanding-your-bill/understanding-your-gas-bill (NIPSCO, retrieved 2026-08-29)
+  - https://www.eia.gov/dnav/ng/hist/n3010us3a.htm (EIA U.S. residential natural gas price, annual, retrieved 2026-08-29)
+  - https://www.eia.gov/dnav/ng/hist/n3010us2m.htm (EIA U.S. residential natural gas consumption, monthly, retrieved 2026-08-29)
+  - https://www.eia.gov/consumption/residential/data/2020/ (EIA RECS 2020 CE5.4, retrieved 2026-08-29)
 ---
 
-<h2 id="quick-answer">Quick Answer</h2>
-<p># Gas Delivery Charge vs Supply Charge: What's the Difference?</p>
-<p>The gas supply charge pays for the actual natural gas molecule you consume, while the gas delivery charge covers the cost of the infrastructure, pipes, and service required to transport that fuel safely to your home. This split is known as "unbundling," and understanding it is the first step to controlling your energy budget. While the supply charge fluctuates based on global market prices, the delivery charge is typically regulated by state public utility commissions and remains more stable, though it can still rise due to infrastructure maintenance or taxes. Most homeowners see both combined on a single line item or separated into two distinct sections, but knowing which part of the bill you can control is essential for saving money.</p>
-<p>When you receive your monthly natural gas statement, the total amount due often feels like a single, monolithic cost. However, for decades, energy regulators have required utilities to separate the cost of the fuel from the cost of the service. This separation was designed to give consumers the ability to shop for competitive rates on the fuel portion while ensuring the reliability of the local grid through regulated delivery rates.</p>
-<p>For many US homeowners, the distinction is academic until winter arrives and bills spike. During peak heating seasons, the supply charge can skyrocket due to cold weather demand or geopolitical issues affecting global energy markets. Meanwhile, the delivery charge might increase due to planned rate hikes approved by local regulators for pipe upgrades or safety programs. By breaking down these two components, you can identify whether your bill is high because prices for gas are up, or because your utility is charging more for the transport network. This guide provides a complete breakdown of how these charges work, how they are calculated, and what actions you can take to manage them effectively.</p>
+{{< affiliate-disclosure >}}
 
-<h2 id="what-is-the-gas-supply-charge">What Is the Gas Supply Charge?</h2>
-<p>The gas supply charge, often referred to as the commodity charge or energy charge, represents the cost of the actual natural gas you burn to heat your home, cook your meals, or run your water heater. Think of this as the price of the product itself, similar to the cost of gasoline at a pump. This charge covers the expenses of extracting, processing, and selling the gas molecule before it enters your local utility's distribution network.</p>
-<p>Unlike the delivery charge, the supply charge is subject to market forces. The price is often tied to benchmarks like the NYMEX (New York Mercantile Exchange) settlement price. This means that when there is high demand for heating fuel during a polar vortex, or when supply chains are disrupted by international events, the supply charge on your bill will reflect that volatility immediately. According to Natural Gas Advisors, the supply portion of your bill is typically not regulated and is subject to competitive shopping, meaning you are not locked into your utility's default price for this portion of your energy.</p>
-<p>In many deregulated states, you have the option to choose a competitive supplier for this charge. If you do not choose one, your local utility will act as the "default service provider" and pass through the cost of purchasing gas to you. It is important to note that utilities are generally not allowed to profit off the supply rate. As noted by the Citizens Utility Board, supply rates cover the costs of the actual gas, and unlike delivery charges, the utilities are not permitted to make a profit margin on the commodity itself. They simply purchase the gas and pass the cost directly to the customer, often with a small administrative fee.</p>
-<p>However, the "supply" portion of your bill can look different depending on where you live. In some regions, this is listed as a "Cost of Gas Adjustment" or a "Gas Adjustment Factor." For example, in Massachusetts, the gas supply rate is managed through the Cost of Gas Adjustment factor (GAF), which is reviewed and set semiannually by the regulated gas companies. This ensures that the price you pay for the fuel remains aligned with the actual wholesale market prices, preventing the utility from holding onto gas bought at a low price while selling it at a high price during a shortage.</p>
+## Quick Answer
 
-<h2 id="what-is-the-gas-delivery-charge">What Is the Gas Delivery Charge?</h2>
-<p>If the supply charge is the cost of the fuel, the delivery charge is the cost of the delivery truck and the road it drives on. The gas delivery charge covers the work it takes to operate and maintain the entire system that brings gas safely and reliably to the customer's home. This includes the underground pipes, the meters on your exterior wall, the customer service call centers, and the emergency response crews that fix leaks.</p>
-<p>As explained by National Grid, the Gas Delivery Charge is the charge to bring gas from the production site to your premise, regardless of supplier. This means whether you buy your gas from the local utility or a third-party competitive supplier, you must still pay the local utility to use their pipes to get that gas into your house. This portion of the bill is heavily regulated by state Public Utility Commissions (PUCs). Utilities must apply for rate increases and justify the costs based on infrastructure needs, safety upgrades, and operational expenses.</p>
-<p>One of the most critical aspects of the delivery charge is that it is often variable based on usage, though it also includes fixed fees. According to NIPSCO, similar to the Gas Supply Charge, the delivery charge changes based on how much gas a customer uses. However, it also contains fixed monthly service fees that you pay regardless of whether you use any gas at all. This fixed component covers the cost of keeping your meter active and your connection to the main line ready for use.</p>
-<p>A significant and often overlooked component of the delivery charge is the taxes and fees embedded within it. Con Edison highlights that local, state, and federal governments tax almost all goods and services, including energy. While you see some taxes listed separately, there are also local taxes on energy infrastructure embedded within the delivery charge. These embedded taxes are not listed separately on the bill and make up nearly a quarter of the delivery charge you pay. Understanding this is crucial when trying to identify <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a>, as a portion of what you think is a "transport fee" is actually a tax on infrastructure usage.</p>
-<p>Because the delivery charge is regulated, it tends to be more predictable than the supply charge. However, it is not immune to increases. Utilities often undergo multi-year rate cases where they request approval to raise rates to fund pipe replacement programs or safety initiatives. For instance, Columbia Gas of Ohio reported that for the 2025–2026 delivery year, the rate jumped significantly to approximately $3.25 per Mcf (or $0.325 per Ccf). This specific increase was added to the monthly NYMEX settlement price to create the total default service rate, showing how delivery rates can impact the bottom line even when supply prices stabilize.</p>
+**Check the two parts of your gas bill separately, and verify each one against your utility's current rate page instead of assuming a percentage or a rule of thumb.** The **supply charge** covers the gas itself — the fuel you burn [1][3][4]. The **delivery charge** covers the pipes, meters, and maintenance that move that gas to your home, plus a basic customer fee [1][4]. You may be able to shop for supply; you cannot shop for delivery [3].
 
-<h2 id="key-differences-between-delivery-and-supply-charges">Key Differences Between Delivery and Supply Charges</h2>
-<p>To visualize the distinction between these two costs, it helps to compare them side-by-side. The following table breaks down the core differences in ownership, regulation, and consumer control.</p>
-<table><thead><tr><th>Feature</th><th>Gas Supply Charge</th><th>Gas Delivery Charge</th></tr></thead><tbody><tr><td><strong>What it pays for</strong></td><td>The actual natural gas molecule (fuel).</td><td>Pipes, meters, safety, and transportation infrastructure.</td></tr><tr><td><strong>Who sets the price</strong></td><td>Market forces (Wholesale prices, NYMEX).</td><td>Regulated by State Public Utility Commission.</td></tr><tr><td><strong>Can you shop?</strong></td><td>Yes, in deregulated states.</td><td>No, you must use the local utility's network.</td></tr><tr><td><strong>Volatility</strong></td><td>High (Changes with weather, global events).</td><td>Low to Moderate (Changes with rate cases).</td></tr><tr><td><strong>Utility Profit</strong></td><td>Utilities cannot profit on supply (pass-through).</td><td>Utilities earn a regulated return on delivery.</td></tr><tr><td><strong>Billing Units</strong></td><td>Per Therm, Ccf, or Mcf.</td><td>Per Therm, Ccf, or Mcf + Fixed Monthly Fee.</td></tr><tr><td><strong>Taxes/Fees</strong></td><td>Usually taxed separately or minimal.</td><td>Often includes embedded infrastructure taxes.</td></tr></tbody></table>
-<p>This table highlights the primary leverage point for consumers. If you live in a state that allows competition, you can shop for the supply charge to potentially lower that portion of the bill. However, you cannot shop for the delivery charge; it is a monopoly service provided by the local utility that owns the pipes in your neighborhood.</p>
+Then confirm the numbers on your own bill. Utilities publish their current rates, and the published rates change. The worked example below uses Columbia Gas of Ohio's Standard Choice Offer as it appears on the utility's page today — including a correction to how this article previously categorized that example [1].
 
-<h2 id="how-utilities-calculate-these-charges-on-your-bill">How Utilities Calculate These Charges on Your Bill</h2>
-<p>Understanding the math behind your bill is essential for spotting errors and forecasting costs. The charges are calculated based on the volume of gas consumed, measured in specific units. The most common units are Therms, Ccf (hundred cubic feet), or Mcf (thousand cubic feet).</p>
-<p><strong>1. The Volume Measurement</strong> Your gas meter measures the volume of gas flowing into your home. However, the billing charge is based on the energy content, not just the raw volume. A Therm is a unit of heat energy equal to 100,000 British Thermal Units (BTUs). In many parts of the country, utilities measure gas in Ccf. Roughly speaking, 1 Therm is approximately equal to 1 Ccf, though this varies slightly based on the heating value of the gas.</p>
-<p><strong>2. The Rate Application</strong> Once the utility knows how many Therms or Ccf you used, they multiply that number by the current rates.</p>
-<ul><li><strong>Supply Rate:</strong> (Therms Used) x (Supply Price per Therm)</li><li><strong>Delivery Rate:</strong> (Therms Used) x (Delivery Price per Therm) + (Fixed Monthly Charge)</li></ul>
-<p><strong>3. Real-World Example</strong> Let's look at a scenario using data from the Columbia Gas of Ohio research. If a customer uses 100 Ccf of gas in a month:</p>
-<ul><li><strong>Supply Component:</strong> If the NYMEX settlement price is $2.00 per Mcf, the supply cost might be roughly $20.00.</li><li><strong>Delivery Component:</strong> If the delivery rate is $3.25 per Mcf (as projected for 2025-2026), the delivery cost would be $32.50.</li><li><strong>Total:</strong> $52.50 plus any fixed fees.</li></ul>
-<p>This example illustrates why the delivery charge can sometimes exceed the supply charge during periods of low gas prices or high infrastructure costs. It also shows why tracking your usage is vital. Since both charges are often usage-based, reducing your consumption lowers both line items simultaneously.</p>
+## Read the Two Categories on Your Bill
 
-<h2 id="why-are-my-charges-spiking">Why Are My Charges Spiking?</h2>
-<p>Homeowners often panic when they see a sudden jump in their total bill, but distinguishing between a supply spike and a delivery spike reveals the root cause.</p>
-<p><strong>1. Weather and Seasonal Demand</strong> The most common cause of a supply charge spike is weather. During a cold snap, everyone turns up the thermostat. As Localsyr noted, "Right now, about 50-60% of Upstate New York electricity is being made at natural gas plants. So, when gas supply goes up, it affects the electricity too." This interconnected demand drives up the wholesale price of the gas molecule. If your bill jumps in January or February, it is likely due to the supply charge reacting to market scarcity.</p>
-<p><strong>2. Infrastructure and Rate Cases</strong> If your bill increases gradually over time, or if you see a specific line item increase that doesn't correlate with the weather, it is likely the delivery charge. Utilities file rate cases with state regulators to recover costs for aging infrastructure. For example, if a utility company needs to replace miles of old iron pipes with steel or plastic to prevent leaks, they will apply for a rate hike to cover these capital investments. These costs are typically amortized over time and appear as a steady increase in the delivery rate.</p>
-<p><strong>3. Geopolitical and Economic Factors</strong> Global events impact the supply charge. Conflicts in energy-producing regions can restrict the flow of natural gas, driving up the commodity price. This is outside the control of your local utility. However, the delivery charge is insulated from these global shocks because it is based on local operational costs. If you notice your supply charge doubling while your delivery charge stays flat, the issue is global market volatility, not your local utility's pricing.</p>
-<p><strong>4. Embedded Taxes and Fees</strong> As mentioned earlier, taxes embedded in the delivery charge can shift. If your state or local government raises taxes on energy infrastructure, this will appear as a rise in the delivery portion of your bill. For context, when analyzing <a href="/blog/02-average-utility-costs-2026/">average utility costs 2026</a>, it is important to account for these regulatory changes, as they can add a significant percentage to the base rate over a year.</p>
+Open your most recent statement and flag every line under each category. The table below is how utilities themselves describe the split:
 
-<h2 id="can-you-shop-around-to-lower-these-charges">Can You Shop Around to Lower These Charges?</h2>
-<p>The ability to shop for your gas rates depends entirely on your state's deregulation status. This is the most critical actionable step you can take regarding the supply charge.</p>
-<p><strong>Shopping for Supply</strong> In deregulated states (such as parts of New York, Massachusetts, Ohio, and Pennsylvania), you can choose a competitive supplier for the supply charge. These suppliers often offer fixed rates (e.g., $1.50 per Therm for 12 months) which can protect you from market spikes. However, be wary of teaser rates. Some suppliers offer a low rate for the first month that jumps significantly afterward. Always compare the variable rate of your default utility service against the fixed rate of a competitor. If the utility's default supply rate is lower than the competitor's fixed rate, staying with the default service is usually the safer financial choice.</p>
-<p><strong>Shopping for Delivery</strong> You cannot shop for the delivery charge. The utility that owns the pipes in your neighborhood has a franchise monopoly. You can switch providers who sell the gas, but that gas still has to travel through the local utility's pipes. Therefore, your delivery charge will remain the same regardless of which supplier you choose for the fuel.</p>
-<p><strong>Impact on the Bill</strong> When you switch to a competitive supplier, your bill may look different. Some utilities continue to bill you for everything, while others split the bill so the supplier sends you a charge for the gas and the utility sends a charge for the delivery. This can be confusing. It is often better to stay with the default service unless a competitive supplier offers a significantly better fixed rate that you can lock in for a long term. Always calculate the total cost per Therm, including any administrative fees, before switching.</p>
+| Feature | Gas Supply Charge | Gas Delivery Charge |
+|---|---|---|
+| **What it pays for** | The natural gas itself, including buying it, moving it across states, and storing it [4] | Operating and maintaining the pipelines, meters, and system that deliver gas to your home, plus a basic customer fee [4] |
+| **Who sets it** | Market prices; Columbia Gas of Ohio's default rate comes from a PUCO-supervised auction [1] | Regulated by your state public utility commission |
+| **Can you shop?** | Yes, in choice markets — National Grid calls supply "the portion of your service for which you can shop" [3] | No — "National Grid is a delivery company, which means we will deliver gas to you regardless of your choice of supplier" [3] |
+| **Utility profit** | "NIPSCO does not control or increase these prices and does not make money on this part of your bill" [4]; Con Edison passes supply through "without making a profit" [2] | The regulated return sits here — Con Edison: "Delivery is the only part of the bill that Con Edison uses to maintain our infrastructure and run our business" [2] |
+| **Taxes inside it** | Minimal | Con Edison: local taxes on energy infrastructure are embedded in delivery and "make up nearly a quarter of the delivery charge you pay" [2] |
 
-<h2 id="actionable-steps-to-manage-your-gas-bill">Actionable Steps to Manage Your Gas Bill</h2>
-<p>Now that you understand the difference between delivery and supply charges, here is what you can do to manage your costs.</p>
-<p><strong>1. Track Your Usage, Not Just the Price</strong> Since both charges are usage-based in most cases, the most effective way to lower your bill is to use less gas. A 10% reduction in usage lowers both the supply and delivery portions. Seal drafts, lower your thermostat by a few degrees, and maintain your furnace. For more detailed strategies on conservation and bill reduction, check out our guide on <a href="/blog/05-how-to-lower-utility-bills/">how to lower utility bills</a>.</p>
-<p><strong>2. Understand Your Rate Structure</strong> Check your bill for "tiered" pricing. Some utilities offer a lower rate for the first few Therms you use and a higher rate for everything above that. If you are consistently using more than the lower tier, consider a budget plan that averages your payments over 12 months. This smooths out the high winter delivery and supply charges.</p>
-<p><strong>3. Monitor Rate Hikes</strong> Keep an eye on public utility commission meetings in your area. If your local utility proposes a rate case for delivery charges, there is often a public comment period. Participating in these processes can sometimes slow down or reduce proposed hikes.</p>
-<p><strong>4. Review Taxes and Fees</strong> Scrutinize the line items labeled "franchise fees," "green energy fees," or "taxes." As discussed, some taxes are embedded in the delivery charge. If you notice a sudden spike in the delivery charge that doesn't match usage, check if a new local tax was implemented.</p>
-<p><strong>5. Consider Renewable Options</strong> If you are concerned about the supply charge volatility, consider switching to an electric heat pump if your climate allows. While this involves an upfront investment, it decouples your heating from the natural gas market entirely. However, be aware that this shifts your cost to the electricity bill, which has its own delivery and supply dynamics.</p>
+## Verify Each Example Against Its Actual Category
 
-<h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
+The most common mistake in gas-bill explainers is filing a supply mechanism under delivery. Check what each named rate actually is before you use it:
+
+| Example | What it actually is | Category |
+|---|---|---|
+| Columbia Gas of Ohio's Standard Choice Offer (SCO) | The default **supply** price — NYMEX market price plus a retail price adjustment [1] | **Supply** |
+| National Grid's Gas Adjustment Factor (GAF) | "The Gas Adjustment Factor, or Gas Supply Charge" — recovery for gas purchased and transport to the distribution system [3] | **Supply** |
+| Con Edison's embedded local taxes | Local taxes on energy infrastructure folded into the delivery charge [2] | **Delivery** |
+| NIPSCO's basic customer fee | Part of the delivery charge on every bill [4] | **Delivery** |
+
+A correction from earlier versions of this page: this guide previously used Columbia Gas of Ohio's "$3.25 per Mcf added to NYMEX" figure as a **delivery** example. That mechanism is Ohio's Standard Choice Offer — the state's default **supply** rate, set by auction [1]. It was miscategorized, and the $3.25 figure no longer appears on the utility's current rate page, so both the category and the number have been corrected below. The lesson stands: an SCO is not an infrastructure charge; do not cite default-service rates as delivery costs.
+
+## Example: Reading Columbia Gas of Ohio's Standard Choice Offer
+
+Most of Columbia Gas of Ohio's customers receive gas through the SCO by default [1]. The utility publishes the calculation openly, so you can rebuild your supply charge line by line:
+
+1. **Start with the market price.** "The Market Price is the month-end natural gas settlement price on the New York Mercantile Exchange (NYMEX)" [1]. In the calculation posted for August 2026, that was **$2.7250 per Mcf** [1].
+2. **Add the retail price adjustment.** This is the supplier's non-gas cost of doing business, set by an annual PUCO auction — **$2.25 per Mcf** from the January 2026 auction [1].
+3. **Total, then convert.** $2.7250 + $2.25 = **$4.975 per Mcf**, which the utility bills as **$0.4975 per Ccf** for August 2026 [1]. Per therm, that works out to roughly $0.48 (1 Mcf ≈ 10.37 therms).
+4. **Check it against your bill.** Multiply your therms by the per-therm equivalent. Columbia's estimated August 2026 bill for an average residential customer is **$69.06** — an estimate that includes sales tax at an assumed 7.5% county rate and a gross receipts tax of 4.987% on the non-gas portion of the bill [1].
+5. **Re-price monthly.** "The SCO price is set by a competitive auction, overseen by the Public Utilities Commission of Ohio (PUCO), and is adjusted monthly based on natural gas market prices" [1]. Your supply number moves with the market even though the formula stays the same.
+
+Columbia still delivers the gas and issues the monthly bill; the SCO suppliers named through March 2027 all charge the same SCO price [1].
+
+## Why Winter Bills Spike
+
+Expect both categories to rise in cold months, for different reasons:
+
+- **Supply moves with demand.** Con Edison: "In winter... your gas bill may go up both because you are using more gas to stay warm and because the increase in demand from everyone wanting to stay warm causes the market price of gas supply to rise" [2].
+- **Usage scales both charges.** NIPSCO: "Both the Gas Supply Charge and parts of the Delivery Charge change depending on how much gas you use. When it's cold outside and you use more gas to heat your home, these charges are usually higher" [4].
+- **The seasonality is measurable.** EIA's monthly residential consumption series (2020–2024) shows January alone averaging about **19%** of annual residential gas use, versus about **2.4%** in July — a roughly 8:1 winter-to-summer swing in volume [6].
+- **A share of delivery is tax.** Con Edison expects its customers to pay **more than $3.2 billion in 2026** in local taxes on energy infrastructure embedded in bills [2]. That portion of delivery rises only when usage does — or when tax rates change.
+
+The practical takeaway: if your bill doubled last January, first compare your therms against last January. If usage tracked the weather, the spike is seasonal supply economics plus volume — not a billing error. Compare same month to same month, not winter to summer.
+
+## Can You Shop Around to Lower These Charges?
+
+**Supply — often, yes.** In choice markets you can buy gas from a competitive supplier, and the utility keeps delivering it. National Grid frames it directly: supply is the portion "for which you can shop for your gas supply from a supplier other than National Grid," and the utility will deliver "regardless of your choice of supplier" [3]. Utilities pass through what they pay for gas — "National Grid does not mark up the price of natural gas sold to our customers; you pay what we pay" [3]. Compare any supplier offer against your utility's posted default rate (in Ohio, the monthly SCO price [1]) on a total-cost-per-therm basis before switching.
+
+**Delivery — no.** The pipes serving your street are a monopoly, and delivery charges stay with the local utility regardless of who sells you the gas [3]. The only lever is regulatory: rate cases are filed with your state public utility commission, which posts them for public review.
+
+A supplier offer is supply-only. Before switching, put the offer's per-therm price next to your full current bill — delivery, riders, and taxes included — not just next to your supply line. Compare the same usage, same billing-days scope. [For more on comparing line items, see [How to Compare Delivery and Supply Charges on a Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).]
+
+## Manage Your Gas Bill
+
+1. **Separate the two categories before diagnosing a high bill.** Flat usage with a rising rate is a supply or rate-case story; rising usage is weather or behavior.
+2. **Pull your utility's current published rate** — Ohio customers, use the posted SCO calculation [1] — and rebuild your supply charge before assuming the utility mis-rated the bill.
+3. **Compare same month to same month.** January versus July is a seasonal comparison, not a trend [6].
+4. **Read the taxes.** Ask which local taxes are itemized versus embedded in delivery [2].
+5. **Cut usage to cut both charges at once.** Weatherization and thermostat discipline reduce supply and usage-based delivery together.
+6. **Consider budget billing** to level the winter peak across twelve months once you know which lines are driving it.
+
+## Frequently Asked Questions (FAQ)
 
 {{< faq "Can I refuse the delivery charge?" >}}
 
-No. The delivery charge is mandatory because it pays for the physical infrastructure required to bring energy to your property. Even if you switch to a competitive supplier for the gas itself, that gas must travel through the utility's pipes, so you must pay the delivery fee.
+No. The delivery charge pays for the pipes, meters, and crews that bring gas to your home [4]. Even if you buy the gas from a competitive supplier, the utility delivers it and charges you for that delivery [3].
 
 {{< /faq >}}
 
-{{< faq "Who sets the price for the supply charge?" >}}
+{{< faq "Who sets the supply charge price?" >}}
 
-The supply charge is tied to wholesale natural gas prices. In regulated default service, the utility usually passes that cost through without markup. In deregulated markets, a competitive supplier can set its own offer, including fixed-rate or variable-rate plans.
+Market prices do, with structure added by your state. In Ohio, the default Standard Choice Offer equals the NYMEX month-end settlement price plus a retail price adjustment set by an annual PUCO auction [1]. Where you can choose a supplier, competitive suppliers set their own offers.
 
 {{< /faq >}}
 
 {{< faq "Why is my delivery charge higher than my supply charge?" >}}
 
-This is common when wholesale gas prices are low or when your utility has major infrastructure costs. Delivery charges pay for pipes, meters, maintenance, safety inspections, billing systems, and regulated utility operations.
+Delivery carries the full cost of running the system — pipes, meters, crews, and customer service — and, in Con Edison's case, embedded local taxes that "make up nearly a quarter of the delivery charge" [2]. When market gas prices fall, the supply line shrinks while delivery stays put.
 
 {{< /faq >}}
 
 {{< faq "Can switching gas suppliers remove my delivery charge?" >}}
 
-No. Switching suppliers only changes who sells you the gas. Your local utility still delivers that gas through its pipe network, so the delivery charge remains on the bill.
+No. "You pay what we pay" applies to the gas itself; delivery is separate and owed to the local utility no matter who supplies the molecule [3].
 
 {{< /faq >}}
 
 {{< faq "Which charge should I focus on to save money?" >}}
 
-Focus on usage first because lower consumption reduces both supply and delivery charges. After that, compare supply rates if your state allows gas supplier choice. Delivery rates usually require public utility commission action, not individual shopping.
-
-{{< /faq >}}
-
-{{< faq "Are delivery charges the same as fixed monthly fees?" >}}
-
-Not always. Some delivery charges vary with usage, while customer charges are fixed monthly fees. Your bill may include both. Review the rate table so you know which charges change when you use less gas.
+Usage first — it drives both categories [4]. Then, if your state allows supplier choice, compare offers against your utility's current default supply rate [1][3].
 
 {{< /faq >}}
 
 {{< faq-schema >}}
 
-<h2 id="bottom-line">Bottom Line</h2>
-<p>The supply charge pays for the natural gas itself. The delivery charge pays to move that gas safely through the local utility network and maintain the infrastructure behind it. You may be able to shop for supply in a deregulated state, but delivery is tied to your local utility.</p>
-<p>To manage your bill, compare total cost per therm, watch for fixed fees, and reduce usage where possible. That gives you a clearer target than reacting to the total bill after a cold month or a rate increase.</p>
+## Bottom Line
+
+The supply charge is the molecule; the delivery charge is the pipes — plus a slice of local government tax. Verify both against your utility's current published rates: rebuild your supply line from the posted formula (SCO in Ohio: NYMEX + retail adjustment, repriced monthly [1]) and hold delivery against your state commission's approved rates. Shop the supply side only in choice markets; cut usage to move both numbers [3][4].
+
+## Sources
+
+1. [Columbia Gas of Ohio — Standard Choice Offer](https://www.columbiagasohio.com/bills-and-payments/billing-programs/standard-choice-offer) (retrieved 2026-08-29)
+2. [Con Edison — About Your Bill & Rates: Learn What Your Energy Bill Powers](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill) (retrieved 2026-08-29)
+3. [National Grid — Gas Supply Costs](https://www.nationalgridus.com/MA-Gas-Home/Supply-Costs/) (retrieved 2026-08-29)
+4. [NIPSCO — Understanding Your Gas Bill](https://www.nipsco.com/bills-and-payments/understanding-your-bill/understanding-your-gas-bill) (retrieved 2026-08-29)
+5. [EIA — Price of Natural Gas Delivered to Residential Consumers](https://www.eia.gov/dnav/ng/hist/n3010us3a.htm) (retrieved 2026-08-29)
+6. [EIA — U.S. Natural Gas Residential Consumption, monthly](https://www.eia.gov/dnav/ng/hist/n3010us2m.htm) (retrieved 2026-08-29)
+7. [EIA — RECS 2020, Table CE5.4: Natural gas end-use consumption averages](https://www.eia.gov/consumption/residential/data/2020/) (retrieved 2026-08-29)

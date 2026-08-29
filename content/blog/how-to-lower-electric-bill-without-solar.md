@@ -1,9 +1,10 @@
 ---
-title: "How to Plan Electric-Bill Improvements Before Adding Solar"
+title: "How to Lower Your Electric Bill Without Solar"
 slug: "how-to-lower-electric-bill-without-solar"
-description: "Use a home energy assessment, bill data, rate-plan terms, and local program documentation to prioritize electric-bill improvements before adding solar."
+description: "Lower your electric bill without solar using verified measures ranked by leverage: thermostat setbacks, water heating, ducts and filters, standby loads, and your rate plan."
 date: 2025-12-25
-updated: 2026-08-23
+updated: 2026-08-29
+hero_below_answer: true
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -11,51 +12,77 @@ tags: ["electric bill", "home energy assessment", "energy efficiency"]
 keywords: ["lower electric bill", "home energy assessment", "electricity use"]
 image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_v2.webp"
 sources:
-  - https://www.energy.gov/energysaver/home-energy-assessments?nrg_redirect=367023
-  - https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments?nrg_redirect=370169
+  - https://www.energy.gov/save/home-upgrades
   - https://www.energy.gov/save
+  - https://www.energystar.gov/saveathome/heating-cooling
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
+  - https://www.eia.gov/energyexplained/use-of-energy/homes.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97
+  - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.epa.gov/watersense/showerheads
+  - https://www.energystar.gov/products/dishwashers
 ---
 
 ## Quick Answer
 
-**Start with a home energy assessment and the account’s actual bill data before choosing products, changing equipment, or adding solar.** DOE says a home energy assessment should be the first step before energy-saving home improvements and before adding a renewable-energy system.[1]
+**Work down the biggest verified levers in order: heating and cooling, water heating, then small always-on loads — before considering solar.** The average U.S. home used 899 kWh per month in 2023 at an average bill of about $144 per month in 2024.[1][2] DOE says a home energy assessment should be the first step before any energy-saving improvement, and its highest-documented single measure is a thermostat setback of 7–10°F for 8 hours a day — up to 10% off heating and cooling costs per year.[3]
 
-Do not rely on a universal savings percentage, payback period, appliance ranking, thermostat setting, rate schedule, or product recommendation. The useful next action depends on the home, equipment, usage pattern, tariff, and local program terms.
+Solar is a generation decision. The measures below cut consumption and cost, need no equipment on your roof, and most cost little or nothing.
 
-## Build a Baseline From Your Account
+## Target the Big Uses First
 
-Gather several comparable bills, the current tariff or rate plan, and interval-use data if the provider offers it. Record the service period, billed kWh, meter/read status, rate-plan version, itemized charges, credits, and major changes in occupancy, equipment, or weather exposure.
+Energy use concentrates in a few places, so savings should too. In U.S. homes, **space heating and air conditioning account for about 52% of energy use**, and water heating takes nearly 20% — DOE's figure.[3][4] Averaged across the country, that's the 899 kWh/month households consume at an average residential price of 18.34¢ per kWh (June 2026), roughly $144/month.[1][2][5]
 
-| Evidence | Why it matters |
-|---|---|
-| Comparable bills | Separates a usage change from a rate or billing-period change |
-| Tariff/rate plan | Establishes fixed, tiered, time-based, and other account-specific rules |
-| Home observations | Identifies visible comfort, moisture, equipment, and air-leak concerns |
-| Equipment records | Shows model, maintenance, installation, and manufacturer requirements |
-| Program terms | Confirms incentive eligibility and documentation before purchase |
+| Use | Share of home energy | Highest-leverage move |
+|---|---|---|
+| Heating + cooling | ~52%[4] | Thermostat setbacks, filter upkeep, duct sealing |
+| Water heating | Nearly 20%[3] | Temperature, load type, fixture swaps |
+| Other devices (electronics, lights, appliances) | ~23%[4] | Standby-load control, efficient appliances, rate plan |
 
-## Start With an Assessment
+## Step 1: Run a Home Energy Assessment (Free, DIY First)
 
-DOE describes a home energy assessment as the first step in evaluating how much energy a home consumes and deciding on measures to improve efficiency and comfort.[1] A DIY assessment can document visible issues, while a professional assessment may be appropriate for inaccessible, complex, structural, electrical, combustion, moisture, or HVAC concerns.
+DOE's guidance treats the assessment as the first step before improvements — and before adding any renewable-energy system.[3] A DIY pass documents the obvious: air leaks at windows, doors, outlets, and pipe penetrations; dirty filters; blocked vents; water-heater temperature; and old incandescent bulbs still in use. Bring in a professional for insulation, combustion, electrical-panel, or moisture concerns you can't safely assess.
 
-DOE’s DIY guidance identifies locations such as windows, doors, faucets, pipes, electric outlets, and wiring penetrations as places to inspect for air leaks and appropriate sealing work.[2] Do not undertake work that conflicts with manufacturer instructions, building requirements, lease conditions, or safe scope.
+Pair the walkthrough with your bill data: the last 12 months of kWh, your rate plan, and interval data if your utility offers it (see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) and [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)).
 
-## Prioritize Improvements From Evidence
+## The Measures With the Best-Documented Savings
 
-Use the assessment and bill baseline to create a written scope. Each potential measure should have a specific home condition, expected operating assumption, installation requirement, safety constraint, and local program rule. Avoid buying a device because of a generic “top savings” list.
+Ranked by evidence strength and leverage:
 
-For equipment or larger building work, obtain qualified proposals that identify the model, capacity, installation scope, permits, duct/electrical work, commissioning, maintenance, warranty terms, and all exclusions. Compare the full scope against the actual tariff rather than an advertised energy-only price.
+1. **Thermostat setbacks — up to 10% per year.** Setting the thermostat back 7–10°F for 8 hours a day (asleep or away) can cut heating and cooling costs up to 10% annually, per DOE.[3] A programmable thermostat makes the schedule automatic.
+2. **Duct sealing — 20–30% of ducted air is lost.** ENERGY STAR states that "about 20 to 30 percent of the air that moves through the duct system is lost" to leaks, holes, and poorly connected ducts — typically in attics, crawlspaces, and garages. Sealing those leaks is priority-one when ducts run through unconditioned space.[6]
+3. **Water-heating steps — it's ~20% of your energy.** DOE pegs water heating at nearly 20% of home energy use.[3] Actions: set the tank to 120°F (check the manufacturer's guidance first), fix drips on the hot side, and wash laundry cold. A WaterSense showerhead saves about 330 kWh per year in water heating alone in the average home — roughly a month of typical household electricity.[7]
+4. **HVAC filter and coil upkeep.** ENERGY STAR's guidance: check the furnace filter monthly, change it at least every 3 months, and have a yearly professional tune-up of heating and cooling systems.[8] A clogged filter makes the blower work harder for the same heat delivered.
+5. **Efficient appliances at replacement time.** An ENERGY STAR certified dishwasher costs about $50 per year to run; replacing a 1990s model is one of the few appliance swaps with a documented running-cost gap that large.[9]
+6. **Standby loads — measure, then switch.** Electronics and small appliances draw power off-hours; the fix is to measure first (an energy-monitoring smart plug shows daily kWh) and then put the proven offenders on schedules. Our [smart-plug comparison](/blog/50-best-smart-plugs-standby-power/) rates the current models for exactly this. One option: the **{{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Smart Plug + Energy Monitor" description="15A / 1800W, no hub required. See the kWh a device draws overnight, then schedule it off automatically." button="Check Price on Amazon" >}}**
 
-## Check Current Local Programs Before Committing
+For the full ranked walkthrough (with bill math), see the site's flagship guide: [How to Lower Your Electric Bill: The Complete Guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
-DOE's Energy Savings Hub notes that Home Energy Rebates may be available for certain appliances and improvements, with programs managed by states, territories, or Tribes.[3] Confirm directly with the responsible program whether the home, equipment, timing, installer, and documentation qualify before signing a contract or making a purchase.
+## Check the Plan, Not Just the Usage
 
-## Review Results Responsibly
+The same kWh can cost different amounts on different rate designs. Before or while cutting usage, confirm what you're on:
 
-After a change, compare the same bill fields over an appropriate period: billing days, kWh, meter status, rate plan, charges, and credits. Do not interpret a lower or higher dollar total as proof of a measure’s effect without accounting for rate changes and billing-period differences.
+- **Time-of-use plans** reward shifting laundry, dishwashing, and EV charging to off-peak hours — the cheapest windows and real 2026 tariff examples are in [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/) and [How to Review a Time-of-Use Electricity Plan](/blog/08-time-of-use-electricity/).
+- **Tiered rates** charge more per kWh above a baseline — trimming the top tier has outsized value ([Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained/)).
+- **Fees and riders** are on every bill and worth auditing line-by-line ([Understanding Your Utility Bill's Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/)).
+
+## Before Adding Solar
+
+If consumption and rate design are handled and the bill is still high, solar becomes a rational next evaluation. DOE's Energy Savings Hub notes Home Energy Rebates may be available for appliances and efficiency improvements, with programs run by states, territories, and Tribes — confirm eligibility, installer, and documentation rules with the responsible program before signing anything.[10]
+
+## Verify the Result
+
+Compare full bills across the same season: billing days, kWh, rate plan, and credits — not just the dollar total. A proper before/after holds rate changes and weather constant, or it proves nothing.
 
 ## Sources
 
-1. [U.S. Department of Energy: Home Energy Assessments](https://www.energy.gov/energysaver/home-energy-assessments?nrg_redirect=367023)
-2. [U.S. Department of Energy: Do-It-Yourself Home Energy Assessments](https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments?nrg_redirect=370169)
-3. [U.S. Department of Energy: Energy Savings Hub](https://www.energy.gov/save)
+1. [EIA FAQ: What is the average electricity consumption of U.S. homes?](https://www.eia.gov/tools/faqs/faq.php?id=97) — 899 kWh/month average (2023), retrieved 2026-08-29
+2. [EIA Today in Energy: Average U.S. household electric bills in 2024](https://www.eia.gov/todayinenergy/detail.php?id=65244) — ~$144/month (2024), retrieved 2026-08-29
+3. [U.S. Department of Energy: Save on Home Upgrades](https://www.energy.gov/save/home-upgrades) — assessment-first guidance; 7–10°F setback for 8h/day up to 10%/yr; water heating nearly 20% of home energy, retrieved 2026-08-29
+4. [EIA Energy Explained: Use of Energy in Homes](https://www.eia.gov/energyexplained/use-of-energy/homes.php) — heating + cooling ~52% of home energy use (RECS 2020), retrieved 2026-08-29
+5. [EIA Electricity Monthly Update](https://www.eia.gov/electricity/monthly/update/end-use.php) — 18.34¢/kWh average residential price (June 2026), retrieved 2026-08-29
+6. [ENERGY STAR: Duct Sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing) — "about 20 to 30 percent of the air that moves through the duct system is lost," retrieved 2026-08-29
+7. [EPA WaterSense: Showerheads](https://www.epa.gov/watersense/showerheads) — ~330 kWh/yr average water-heating savings, retrieved 2026-08-29
+8. [ENERGY STAR: Heat & Cool Efficiently](https://www.energystar.gov/saveathome/heating-cooling) — filter maintenance and yearly tune-up guidance, retrieved 2026-08-29
+9. [ENERGY STAR: Dishwashers](https://www.energystar.gov/products/dishwashers) — certified standard-size models "cost about $50 per year to run," retrieved 2026-08-29
+10. [U.S. Department of Energy: Energy Savings Hub](https://www.energy.gov/save) — Home Energy Rebates administered by states/territories/Tribes, retrieved 2026-08-29

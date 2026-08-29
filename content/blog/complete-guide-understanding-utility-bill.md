@@ -1,10 +1,10 @@
 ---
 title: "A Practical Workflow for Understanding Your Utility Bill"
 slug: "complete-guide-understanding-utility-bill"
-aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/", "/blog/average-utility-bills-by-state-2026/", "/blog/how-to-read-your-utility-bill/"]
+aliases: ["/blog/how-to-read-your-utility-bill/"]
 description: "Review an electricity, gas, or water statement using the account’s service dates, meter data, tariff, rate plan, itemized charges, and provider documentation."
 date: 2026-08-10
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -61,6 +61,27 @@ Make a separate list of each charge rather than grouping everything into “the 
 | One-time items | Description, date, and provider explanation |
 
 DOE's electricity guide identifies consumption, demand, and riders as distinct bill components, and its natural-gas guide discusses common charges and rate structures.[1][2]
+
+## Where Each Charge Is Explained
+
+This site has a dedicated walkthrough for nearly every line you will inventory. As you list charges, map them:
+
+| Charge you see | Read next |
+|---|---|
+| Customer / monthly service charge | [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) |
+| Supply vs. delivery charges | [Delivery Charge vs. Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) · gas: [Gas Delivery vs. Supply](/blog/gas-delivery-charge-vs-supply-charge/) |
+| kWh (electric usage) | [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) |
+| Therms or Ccf (gas/water usage) | [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) · [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/) |
+| Surcharges and riders | [Utility Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) |
+| Taxes and franchise fees | [Taxes and Franchise Fees on Your Bill](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/) |
+| Fuel/purchased-power adjustment | [Fuel Adjustment Charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) |
+| Demand charge (business meters) | [Demand Charges on Your Electric Bill](/blog/49-demand-charges-electricity-bill-explained/) |
+| Time-of-use or tiered pricing | [How to Review a Time-of-Use Plan](/blog/08-time-of-use-electricity/) · [Tiered Electricity Rates](/blog/tiered-electricity-rates-explained/) |
+| Estimated reading | [Estimated Utility Bills Explained](/blog/14-estimated-utility-bill-explained/) |
+| Partial-month charges | [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/) |
+| Minimum bill or past-due balance | [Minimum Bills](/blog/22-minimum-bill-utility-bill-explained/) · [Past-Due Balances](/blog/21-past-due-balance-utility-bill-explained/) |
+
+For service-specific deep reads, start from [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/), [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/), and [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/).
 
 ## Step 4: Compare the Current Bill With a Prior One
 

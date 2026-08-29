@@ -3,7 +3,7 @@ title: "How to Prioritize Utility-Bill Improvements"
 slug: "05-how-to-lower-utility-bills"
 description: "Use bill records, a home energy assessment, equipment information, and local program terms to prioritize electricity, gas, water, and weatherization improvements."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-29
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -11,11 +11,11 @@ tags: ["utility bills", "energy assessment", "energy efficiency"]
 keywords: ["lower utility bills", "home energy assessment", "utility bill planning"]
 image: "/images/articles/05-how-to-lower-utility-bills/05-how-to-lower-utility-bills_hero_v2.webp"
 sources:
-  - https://www.energy.gov/public-services/homes/home-weatherization/home-energy-audits
+  - https://www.energy.gov/save/home-upgrades
   - https://www.energy.gov/sites/prod/files/guide_to_home_energy_assessments.pdf
   - https://www.energy.gov/cmei/femp/home-energy-checklist
   - https://www.energy.gov/save/home-upgrades
-  - https://www.epa.gov/watersense/start-saving
+  - https://www.epa.gov/watersense/showerheads
 ---
 
 {{< affiliate-disclosure >}}
@@ -78,12 +78,12 @@ Not every improvement fits every home — the table below shows typical ranges b
 |---|---|---|---|---|
 | Programmable/smart thermostat setback | $25–$250 | $10–$30/mo (heating/cooling season) | 1–2 years | DOE: 7–10°F setback for 8h/day saves up to 10% on heating/cooling[4] |
 | LED bulb replacement (whole home) | $2–$5 per bulb | $5–$15/mo | <1 year | ~$75/yr average at national electricity rates |
-| Air sealing (caulk, weatherstrip, foam) | $50–$400 (DIY) | $10–$30/mo | 1–2 years | DOE: can reduce heating/cooling cost 10–20%[1] |
+| Air sealing (caulk, weatherstrip, foam) | $50–$400 (DIY) | $10–$30/mo | 1–2 years | DOE: thermostat setbacks save up to 10%/yr on heating & cooling[1] |
 | Attic insulation (add R-value) | $1,000–$2,500 | $15–$40/mo | 3–7 years | Largest single building-envelope improvement per DOE |
 | Duct sealing (accessible) | $200–$500 (professional) | $10–$20/mo | 1–3 years | Duct losses 20–30% of heating/cooling energy[4] |
 | Water heater temperature setback (120°F) | $0 | $5–$10/mo | Immediate | 3–5% savings per 10°F reduction |
 | Water heater insulation wrap (electric) | $20–$40 | $3–$7/mo | <1 year | Reduces standby heat loss 25–45% per DOE |
-| Low-flow showerheads (WaterSense) | $15–$40 each | $5–$15/mo (water + heating) | 3–6 months | EPA: average family saves $70/yr in water + energy[5] |
+| Low-flow showerheads (WaterSense) | $15–$40 each | $5–$15/mo (water + heating) | 3–6 months | EPA: saves ~2,700 gallons + 330 kWh/yr[5] |
 | Whole-home energy monitor | $40–$200 | $5–$15/mo (behavior-driven) | 1–2 years | Enables data-driven reduction; savings vary by household |
 | ENERGY STAR appliance replacement | $400–$1,500+ | $10–$30/mo | 3–8 years | Best timed at end-of-life, not before |
 
@@ -101,8 +101,8 @@ After an improvement, compare the same fields over an appropriate period: servic
 
 ## Sources
 
-1. [U.S. Department of Energy: Home Energy Assessments](https://www.energy.gov/public-services/homes/home-weatherization/home-energy-audits)
+1. [U.S. Department of Energy: Save Energy and Money with Home Upgrades](https://www.energy.gov/save/home-upgrades)
 2. [U.S. Department of Energy: Guide to Home Energy Assessments (PDF)](https://www.energy.gov/sites/prod/files/guide_to_home_energy_assessments.pdf)
 3. [U.S. Department of Energy: Home Energy Checklist](https://www.energy.gov/cmei/femp/home-energy-checklist)
 4. [U.S. Department of Energy: Home Upgrades — Thermostats](https://www.energy.gov/save/home-upgrades)
-5. [EPA WaterSense: Start Saving](https://www.epa.gov/watersense/start-saving)
+5. [EPA WaterSense: Showerheads](https://www.epa.gov/watersense/showerheads) — average family saves 2,700 gallons and 330 kWh annually (retrieved 2026-08-29).

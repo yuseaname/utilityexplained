@@ -12,7 +12,7 @@ tags: ["demand charge", "electricity bill", "utility rate"]
 keywords: ["demand charges electricity bill", "billed demand", "electricity rate components"]
 image: "/images/articles/49-demand-charges-electricity-bill-explained/49-demand-charges-electricity-bill-explained_hero_v2.webp"
 sources:
-  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
 ---
 
@@ -52,5 +52,5 @@ If the provider offers interval data or an account-specific analysis, use it to 
 
 ## Sources
 
-1. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+1. [U.S. Department of Energy: Evaluating Your Utility Rate Options — rate components incl. demand charges](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options) (retrieved 2026-08-29)
 2. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)

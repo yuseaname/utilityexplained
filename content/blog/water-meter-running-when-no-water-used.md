@@ -3,11 +3,11 @@ title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
 slug: "water-meter-running-when-no-water-used"
 description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
 date: 2026-05-27
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
-tags: ["water bill", "leak", "gallons", "water meter", "therms"]
+tags: ["water bill", "leak", "gallons", "water meter"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "water meter running when no water used", "leaking toilet", "irrigation leak", "slab leak"]
 image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00002_.webp"
 sources:
@@ -27,7 +27,7 @@ sources:
 
 **Next step:** If your water bill is higher than expected, start with the [water bill investigation guide](/blog/06-water-bill-too-high/) to compare your statement and meter data before diving into the leak tests below.
 
-The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how water meters work and how accurate they are](/blog/how-do-smart-meters-work/).
+The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how smart meters work and how accurate they are](/blog/how-do-smart-meters-work/).
 
 ## The 10-Minute Test: Find Where the Leak Is
 
@@ -60,7 +60,7 @@ Close the main water valve where the pipe enters your house (usually in the base
 
 ### Test the toilets first (the usual suspect)
 
-<p>Put a few drops of food coloring in the toilet tank. Do not flush. EPA WaterSense recommends checking after 5–10 minutes; if color appears in the bowl, the flapper or flush-valve seal is leaking. Test every toilet.</p>
+<p>Put a few drops of food coloring in the toilet tank. Do not flush. EPA WaterSense recommends waiting 10 minutes; if color appears in the bowl, the flapper or flush-valve seal is leaking. Test every toilet. For a bigger-picture check, EPA notes that a family of four using more than 12,000 gallons (16 CCF) in a winter month likely has a serious leak.</p>
 
 ### Then check:
 
@@ -112,7 +112,7 @@ Billing and adjustments depend on your utility's rules. Ask your utility whether
 {{< /faq >}}
 
 {{< faq "How much does a plumber cost to find a leak?" >}}
-Pricing varies by location, access, and the type of work required. Request an estimate from a qualified plumber before authorizing investigation or repair.
+Costs vary by market and by how hard the leak is to reach, so do the free isolation work first: the meter test above tells you inside vs. yard, and the toilet dye test rules out the most common culprit. Before paying anyone, ask your water utility whether it offers a free leak investigation — many do — and when you do call a plumber, ask for a diagnostic quote separate from the repair quote so you can compare.
 {{< /faq >}}
 
 ## Related Reading

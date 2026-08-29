@@ -3,7 +3,7 @@ title: "How to Review a Utility Service-Start Charge"
 slug: "27-utility-connection-fee-explained"
 description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
 date: 2026-05-28
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Tanya Patterson"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -16,7 +16,7 @@ sources:
 
 ## Quick Answer
 
-**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms.
+**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms. If service was interrupted for non-payment rather than newly opened, the charge you are facing is a [reconnection fee](/blog/28-utility-reconnection-fee-explained/); if you were asked for a refundable deposit, see [how utility deposits work](/blog/26-utility-deposit-explained/); for the recurring fixed charge that appears after service starts, see the [water service charge](/blog/water-service-charge-explained/) explained.
 
 Before opening an account, ask for the written schedule of charges and confirm which items apply to the address.
 

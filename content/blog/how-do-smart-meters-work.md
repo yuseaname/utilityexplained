@@ -3,7 +3,8 @@ title: "How Do Smart Meters Work? (And Should You Trust Them?)"
 slug: "how-do-smart-meters-work"
 description: "Learn what a smart meter can report, how to compare its reading with your bill, and which questions should go to your utility."
 date: 2025-12-25
-updated: 2026-08-21
+hero_below_answer: true
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -82,7 +83,7 @@ sources:
             </p>
             <p>
               A new meter can make the bill look higher even if your habits did
-              not change. That is often a correction, not an error.
+              not change. That is often a correction, not an error — meters, old and new, are calibrated devices; utilities must keep them accurate under state commission rules, so ask for a meter test (many states require one free on request) before assuming the new meter is wrong.
             </p>
             <p>
               If you think a number is wrong, compare the meter display to your
@@ -102,7 +103,7 @@ sources:
                 blocks, including spikes from large appliances.
               </li>
               <li>
-                <strong>They cannot see:</strong> Which exact device you used, or
+                <strong>Most residential meters do not report:</strong> Which exact device you used (advanced analytics can sometimes infer appliance types from usage patterns, but the meter itself reports whole-home data), or
                 what you were doing in the house.
               </li>
             </ul>
@@ -187,7 +188,7 @@ Yes. Smart meters report outages and voltage irregularities quickly, so tamperin
 
 {{< faq "Do smart meters emit harmful radiation?" >}}
 
-They emit low-power radio signals for short bursts each day. Exposure is much lower than a typical cell phone.
+They emit low-power radio signals in short bursts. Their frequencies are in the same range as other common household wireless devices; if you want exposure specifics for your meter model, ask your utility for the FCC ID on the device and look it up in the FCC's database.
 
 {{< /faq >}}
 

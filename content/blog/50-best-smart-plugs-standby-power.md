@@ -3,7 +3,7 @@ title: "How to Measure and Reduce Standby Power"
 slug: "50-best-smart-plugs-standby-power"
 description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
 date: 2026-05-30
-updated: 2026-08-28
+updated: 2026-08-29
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -12,11 +12,10 @@ keywords: ["standby power", "smart plug energy monitoring", "advanced power stri
 image: "/images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp"
 sources:
   - https://www.energy.gov/cmei/femp/measuring-standby-power
-  - https://betterbuildingssolutioncenter.energy.gov/resources/saving-energy-through-advanced-power-strips
-  - https://www.energystar.gov/products/electronics
-  - https://en.wikipedia.org/wiki/Standby_power
-  - https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-plug-mini-energy-monitoring-kp115
+  - https://www.tp-link.com/us/home-networking/smart-plug/kp115/
+  - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/
   - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/
+  - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide
 ---
 
 {{< affiliate-disclosure >}}
@@ -39,7 +38,7 @@ For each device:
 - Plug the device into the meter, the meter into the wall.
 - Put the device in its lowest power state (off but still connected to mains).
 - Wait for the reading to stabilize — usually 2–5 minutes.
-- Log the wattage. Devices drawing more than 2 W in standby are strong candidates.
+- Log the wattage. Devices drawing more than roughly 2 W in standby are strong candidates — that's a common industry rule of thumb.
 
 ### Step 2: Assess
 
@@ -59,30 +58,30 @@ Determine whether the device can safely lose power when not in active use:
 
 Select the right device based on what you measured:
 
-- **Devices drawing 1–5 W standby where you only need to cut power when away or asleep** → A **smart plug with scheduling** works best. Set it to turn off at a certain time and back on before you need the device.
-- **Devices in a work cluster where one master device signals when the group is idle** → An **advanced power strip** with master/controlled outlets (per DOE's Better Buildings program[2]) automatically cuts peripherals when the computer or TV goes to sleep.
+- **Devices drawing roughly 1–5 W standby where you only need to cut power when away or asleep** — a common industry rule of thumb says this range warrants action. A **smart plug with scheduling** works best. Set it to turn off at a certain time and back on before you need the device.
+- **Devices in a work cluster where one master device signals when the group is idle** → An **advanced power strip** with master/controlled outlets automatically cuts peripherals when the computer or TV goes to sleep.
 - **Devices where you want ongoing energy data** → An **energy-monitoring smart plug** (like the Kasa KP115 or Tapo P110M in the table below) reports consumption to an app, helping you track whether the change reduced usage.
 
 ## Smart Plug Features Comparison
 
 The table below compares key specs for popular smart plugs with energy monitoring. All figures from manufacturer product pages and spec sheets retrieved August 2026.
 
-| Feature | Kasa KP115 | Kasa KP125MP2 (2-pack) | Tapo P110M | Emporia Smart Plug |
+| Feature | Kasa KP115 | Kasa KP125M (2-Pack) | Tapo P110M | Emporia Smart Plug |
 |---|---|---|---|---|
 | ASIN | B08LN3C7WK | B0BYGRLRS1 | B0DKGBP38V | B0CLVV7X7Y |
 | Energy monitoring | Yes (Kasa app) | Yes (Kasa app) | Yes (Tapo app) | Yes (Emporia app, integrates with Vue system) |
-| Matter compatible | No | Yes | No | No |
+| Matter compatible | No | Yes | Yes | No |
 | Max load rating | 15A / 1,800W (resistive) | 15A / 1,800W (resistive) | 15A / 1,800W | 15A / 1,800W |
 | Hub required | No (Wi-Fi direct) | No (Wi-Fi direct, Matter over Wi-Fi) | No (Wi-Fi direct) | No (Wi-Fi direct) |
 | Scheduling | Yes (app-based) | Yes (app-based) | Yes (app-based) | Yes (app-based) |
 | Away mode / randomization | Yes | Yes | Yes | Yes |
 | Voice assistants | Alexa, Google Home | Alexa, Google Home, Apple Home (via Matter) | Alexa, Google Home | Alexa, Google Home |
-| Outdoor rated | No (indoor only) | No (indoor only) | No (indoor only) | Yes (weather-resistant) |
+| Outdoor rated | No (indoor only) | No (indoor only) | No (indoor only) | No — Emporia states its smart plugs are indoor use only and "not rated for outdoor use" (help.emporiaenergy.com compatibility guide, retrieved 2026-08-29) |
 | Size | Compact (plugs into outlet, leaves second receptacle free) | Compact | Compact | Slightly larger, leaves second receptacle free |
-| Warranty | 2 years | 2 years | 2 years | 1 year |
+| Warranty | 2 years | — | — | — |
 | App features | Real-time power, historical kWh, device groups | Same + Matter cross-platform | Real-time power, monthly reports | Real-time power, integrates with Vue 3 for whole-home view |
 
-*All rated 120V AC, 60Hz. For 240V appliances (EV chargers, large window AC), do not use a standard smart plug — these are designed for standard US 120V outlets only. See manufacturer spec sheets for exact details.*
+*All rated 120V AC, 60Hz. For 240V appliances (EV chargers, large window AC), do not use a standard smart plug — these are designed for standard US 120V outlets only. See manufacturer spec sheets for exact details. Warranty: Kasa KP115 confirms 2 years on product page; KP125M, Tapo, and Emporia durations not confirmed on manufacturer pages.*
 
 ## Safety Notes: 15A Limits for High-Draw Appliances
 
@@ -113,7 +112,7 @@ A smart plug or power strip is a tool for reducing standby waste after you have 
 4. Choose a power strip or plug rated for the connected load and intended environment.
 5. Recheck usage after a schedule or control rule is in place.
 
-Advanced power strips have built-in features intended to reduce energy used by consumer electronics when they are not in use.[2] They are a better fit than a generic recommendation when several related devices can safely power down together.
+Advanced power strips have built-in features intended to reduce energy used by consumer electronics when they are not in use. They are a better fit than a generic recommendation when several related devices can safely power down together.
 
 ## What to Check Before Using a Smart Plug
 
@@ -133,15 +132,14 @@ Start with equipment that is easy to observe and safe to switch off, such as sel
 
 {{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring, KP115" label="See standby consumption outlet by outlet" description="Plug any device into this Wi-Fi outlet and the Kasa app reports its real-time power use — no extra meter needed. DOE defines standby power as a product's lowest plugged-in consumption; this plug shows you exactly what each device draws in that state." button="Check price on Amazon" >}}
 
-{{< product-box asin="B0BYGRLRS1" name="Kasa Matter Smart Plug with Energy Monitoring, KP125MP2 (2-Pack)" label="Two outlets, one app" description="Kasa's Matter-compatible smart plug with energy monitoring, sold in a 2-pack for covering multiple devices. The DOE recommends measuring standby power before reducing it — this plug gives you per-outlet data to decide which devices can safely power down." button="Check price on Amazon" >}}
+{{< product-box asin="B0BYGRLRS1" name="Kasa Matter Smart Plug with Energy Monitoring, KP125M (2-Pack)" label="Two outlets, one app" description="Kasa's Matter-compatible smart plug with energy monitoring, sold in a 2-pack for covering multiple devices. The DOE recommends measuring standby power before reducing it — this plug gives you per-outlet data to decide which devices can safely power down." button="Check price on Amazon" >}}
 
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
 ## Sources
 
 1. [U.S. Department of Energy: Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power)
-2. [U.S. Department of Energy Better Buildings: Saving Energy Through Advanced Power Strips](https://betterbuildingssolutioncenter.energy.gov/resources/saving-energy-through-advanced-power-strips)
-3. [ENERGY STAR: Electronics](https://www.energystar.gov/products/electronics)
-4. [Wikipedia: Standby Power](https://en.wikipedia.org/wiki/Standby_power)
-5. [Kasa KP115 Product Page](https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-plug-mini-energy-monitoring-kp115)
-6. [TP-Link Tapo P110M Product Page](https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/)
+2. [Kasa KP115 Product Page (TP-Link)](https://www.tp-link.com/us/home-networking/smart-plug/kp115/)
+3. [Kasa KP125M Product Page (TP-Link)](https://www.tp-link.com/us/home-networking/smart-plug/kp125m/)
+4. [Tapo P110M Product Page (TP-Link)](https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/)
+5. [Emporia Smart Plug Compatibility & Buying Guide](https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide)

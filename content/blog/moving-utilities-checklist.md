@@ -3,13 +3,16 @@ title: "The Moving Utilities Checklist: When to Turn Off, Turn On, and Transfer"
 slug: "moving-utilities-checklist"
 description: "Moving soon? Here's the exact timeline for turning off utilities at your old home and turning them on at the new one — plus a printable one-page checklist so you don't pay for two homes or sit in the dark."
 date: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["moving checklist", "utility transfer", "turn off utilities", "turn on utilities", "final bill", "utility deposit"]
 keywords: ["moving utilities checklist", "when to turn off utilities when moving", "how to transfer utilities when moving", "utility final bill", "utility deposit transfer moving"]
 image: "/images/articles/moving-utilities-checklist/img-1.webp"
+sources:
+  - "https://www.usps.com/manage/forward.htm"
+  - "https://www.dominionenergy.com/"
 ---
 
 ## Quick Answer
@@ -31,12 +34,12 @@ Start early, and the move gets dramatically easier. Here's the week-by-week plan
 | 4 weeks out | List every service at both addresses: electric, gas, water, trash, internet, and any city-billed utilities | You can't schedule what you haven't inventoried |
 | 3 weeks out | Call each provider. Ask: transfer or close? What's the deposit? What's the notice window? | Locks in dates before the busy season fills up |
 | 2 weeks out | Confirm the turn-off and turn-on dates in writing. Note the account numbers and reference numbers | Written confirmation is your protection if a date slips |
-| 1 week out | Set up mail forwarding for the final bill. Photograph both meters | Forwarding stops collections surprises; photos settle disputes |
+| 1 week out | Set up mail forwarding for the final bill [1]. Photograph both meters | Forwarding stops collections surprises; photos settle disputes |
 | 2 days before | Confirm the new-home turn-on is still scheduled. Ask about the connection window | Avoids arriving to a dark, cold, or dry house |
 | Moving day | Turn off at old home (after you're done loading). Turn on at new home (if not already live) | The two dates you planned for |
 | Day after | Walk the old home, photograph the empty rooms and the meter one last time | Proof of condition and final reading |
 
-Two things to note. First, the 2-week mark is the real deadline for most providers — many need 3–10 business days' notice for a scheduled disconnect or connect. Second, if you're moving into a new provider's territory, start at 3 weeks, not 2 — a new account can require a credit check and a deposit, and that takes time.
+Two things to note. First, the 2-week mark is the real deadline for most providers — each utility sets its own lead time, so confirm the notice window when you schedule [2]. Second, if you're moving into a new provider's territory, start at 3 weeks, not 2 — a new account can require a credit check and a deposit, and that takes time.
 
 ## Turn-Off vs. Transfer: Which Applies to You
 
@@ -75,7 +78,7 @@ The final bill is where mistakes happen — and where a little documentation sav
 These are the quiet ways a move turns into a collections call or a double bill.
 
 - **Auto-pay left on the old account.** If you had autopay, cancel it the day you schedule the disconnect — or the old account keeps pulling money after you're gone. Cancel it, then confirm the cancellation in writing.
-- **No mail forwarding for the final bill.** If the final bill goes to the old address and you've moved, you may never see it — and an unpaid final bill can go to collections. Set up forwarding at least a week before you leave.
+- **No mail forwarding for the final bill.** If the final bill goes to the old address and you've moved, you may never see it — and an unpaid final bill can go to collections. Set up forwarding at least a week before you leave [1].
 - **Forgetting trash and sewer.** City-billed utilities are often tied to the property, not the person. If you don't close the account, the new owners may inherit the bill — or you may be billed for a house you no longer own. Ask your city which services follow the property and which follow you.
 - **Not photographing the meters at BOTH ends.** The old meter photo settles the final bill; the new meter photo proves your starting reading so the new provider doesn't bill you for the previous tenant's usage. Take both.
 - **Pool or irrigation water at the old home.** If you had a pool or an irrigation system, that water bill can be large — and it's easy to forget to close it. Add it to your inventory list.
@@ -107,7 +110,7 @@ Print this, tape it to the fridge, and check it off as you go. It's designed for
 - [ ] Cancel autopay on the old account
 
 **1 week out**
-- [ ] Set up mail forwarding for the final bill
+- [ ] Set up mail forwarding for the final bill [1]
 - [ ] Photograph the old meter with the date visible
 - [ ] Notify the landlord if you're a renter
 
@@ -129,7 +132,7 @@ Print this, tape it to the fridge, and check it off as you go. It's designed for
 ## FAQ
 
 {{< faq "How far in advance should I schedule utility turn-off and turn-on?" >}}
-Call at least 2 weeks ahead, and 3 weeks if you're moving into a new provider's territory. Most providers need 3–10 business days' notice for a scheduled disconnect or connect, and a new account with a credit check and possible deposit takes longer.
+Call at least 2 weeks ahead, and 3 weeks if you're moving into a new provider's territory. Each utility sets its own lead time, so confirm the notice window when you schedule [2]. A new account with a credit check and possible deposit takes longer.
 {{< /faq >}}
 
 {{< faq "Can I transfer my utilities on the same day I move?" >}}
@@ -153,3 +156,9 @@ It depends on the service and the provider. Electric and gas connections sometim
 2. **Placement: after H2-6 (Special Cases).** Concept: a side-by-side cost comparison — on the left, two homes' overlapping utility bills; on the right, one dark night with a spoiled fridge and a hotel key. Style: flat vector illustration, muted blue and teal with warm amber accents, simple icons for a house, a bill, a fridge, and a hotel. Composition: two balanced panels with a clear visual verdict, calm and reassuring rather than alarmist.
 
 3. **Placement: after H2-4 (The Final Bill: Catching Old-Home Charges).** Concept: a close-up of a hand photographing a utility meter with a phone, the date stamp visible on the screen. Style: flat vector illustration, warm and approachable, soft green and blue palette to signal documentation and control. Composition: a single focused scene, the meter and phone as the clear subjects, clean background, emphasizing the act of capturing evidence.
+
+## Sources
+
+[1] USPS Standard Forward Mail & Change of Address — online verification fee $1.25; forwarding may begin within 3 business days, best to allow up to 2 weeks; standard forwarding lasts 12 months with paid extensions available (6, 12, or 18 additional months). https://www.usps.com/manage/forward.htm (accessed 2026-08-29)
+
+[2] Each utility sets its own notice period for service start/stop requests. Confirm the required notice window when you schedule your move — lead times vary by provider and region. For example, Dominion Energy offers "Start, Stop or Move Service" online scheduling; check your specific provider's page for their stated lead times. https://www.dominionenergy.com/ (accessed 2026-08-29)

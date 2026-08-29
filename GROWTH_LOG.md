@@ -434,3 +434,70 @@ Post-quarantine verification: 89 published guides, 81 source-remediation flags, 
 Source-led repairs subsequently covered the primary electric-bill guide, high-bill diagnosis, water-meter and leak guides, smart-meter and standby-power guides, net-metering guidance, HVAC staging/ratings/thermostat pages, heating-cost comparison, first-apartment budgeting, and the fee/billing explainers. Each was stripped of unsupported national figures, product claims, or fabricated comparisons; given direct primary-source links; and rebuilt/tested locally.
 
 Current verified baseline: **89 published guides, 52 remaining source-remediation flags, zero future-claim findings.** The automated remediation worker (`utilityexplained-adsense-source-remediation`, every 5 minutes) continues the queue without deploying, committing, or requesting review. Do not submit to AdSense until the queue is empty and a final content, generated-artifact, and live-production audit passes.
+
+## Entry 10 — 2026-08-29: SQ-051 remediation executed (full plan)
+
+**Method:** Commander + 3 concurrent lieutenant seats (GLM) for the big rewrites; every factual change verified against a fetched primary source the same day. Build validated (`hugo --minify --gc`, 471 pages, asset gate OK). All changes staged in git, uncommitted.
+
+### Quick wins shipped
+- **Dead draft-stubs resolved** (the 96.3%/0s-TOP page was a 418-byte redirect): deleted drafts for `why-your-electric-bill-keeps-rising-2026` (→ alias to `why-did-my-utility-bill-go-up-this-month`), `stormwater-fee-on-water-bill-explained` (→ alias to `44-how-to-lower-water-bill`), `41-how-to-read-electricity-bill` (alias already on 01). No redirect loops; alias directions verified.
+- **`hero_below_answer: true`** set on the instant-exit set: 06-water, 18-fuel-adjustment, how-do-smart-meters, 25-taxes (via rewrite), 19-surcharges (via rewrite).
+- **#16 state-average arithmetic fixed & PUBLISHED** — see correction below. $262 headline → component-derived ~$375; electric $159→$165; Hawaii $275→$303 (own-rate 33.7¢×900) + total $425→$453; realistic-Hawaii $332→$324; footnote $200–240→$174; "every U.S. state"→"17-state sample"; title + description now honest; standardized-estimate methodology note added.
+- **#24 toilet-test:** two markdown links inside raw HTML → `<a>` tags (first-screen rendering defect).
+- **#5 CCF:** false USGS citation (glossary contains no CCF conversion; wave-2 verified 0 hits in 138KB) → EPA "One CCF is equal to 748 gallons" + inline derivation.
+- **#9:** phantom "$70/yr (EPA)" → verified 2,700 gal + 330 kWh/yr (EPA showerheads page); dead home-energy-audits URL → live home-upgrades; air-sealing "10–20% (DOE)" → verified thermostat claim.
+- **Dead .gov URLs (4 files, 6 URLs):** energysaver family + BBSC PDF → live ENERGY STAR saveathome pages + DOE FEMP (duct 20–30% claim verified VERBATIM on ENERGY STAR live page).
+- **#12 retitled** ("12 Common Causes" promise removed — body never enumerated 12).
+- **#13 thermostat:** unsourced "3–5%/degree above 68°F" → DOE-anchored ~1%/degree rule + 74vs68 math (~6%).
+- **#20:** EIA sources added to frontmatter; $0.96–1.06/therm examples labeled (national avg ≈$1.91/therm, EIA N3010US3 May 2026, wave-2 re-derived).
+- **#4:** EPA 10-minute dye-test alignment, EPA 12,000-gal winter threshold added, 'therms' tag removed, plumber FAQ de-hedged (utility leak-check first), smart-meter anchor text fixed.
+- **BLS "December 2026" impossible citation** removed from 7-states draft (line 38).
+- **#22 + #30 + #28 + #26 + #29:** dead BBSC URL swap; worked tier example (clearly labeled illustrative) + 4 internal links; 4,523-CCF commercial-scale meter example → residential 1,247→1,255; connection-fee internal links; PG&E dateline + TXU 2,000-kWh cap note + smart-plug hardwired-dishwasher qualifier.
+- **#2 spike:** ENERGY STAR URL swaps (filter "15–30% harder" → verified qualitative quote; ducts kept, now correctly cited), 5/10/12 structure bridged, FAQ wall reformatted.
+- **#1 flagship:** QA dollar contradictions reconciled to body (LED $150–200, water-heater $60–120, phantom $120–190); "3–6%-per-degree" phantom cross-ref deleted; RECS standby misattribution rebased on EIA's verified 23% "other devices"; HVAC 40–50%→52% (EIA RECS 2020); water heating →~20% (DOE); $159/$142→$144 2024 verified; FAQ 3–6% vs 6–9% contradiction fixed; Nest claims labeled manufacturer-reported; Tools block moved below the Why-High section; duplicate CTA paragraph deleted.
+- **#3 sewer — three municipal rates corrected from official sources:** Seattle $8.44→**$20.18/CCF** + $86.77 typical bill (live SPU page; the old figure was 2.4× low); Philadelphia "$10.22/CCF tiered"→**flat $5.16/CCF** ($51.62/Mcf, official PWD schedule; old figure was tiered AND double); SFPUC "tiered $6.48/CCF first 10.4/14.4"→**90% of water × $20.74/unit** (Prop 218 notice + FY26-27 schedule). All with "rates as of" datelines + retrieved-date sources.
+
+### High-impact rewrites (lieutenant seats, Commander-verified claim-by-claim)
+- **#8 water-bill-too-high (93.8% bounce):** restructured to causes-ranked-by-likelihood (toilet #1, irrigation #2, rate/tier #3…), Quick Answer IS the dye test, product boxes moved after diagnostics, EPA benchmark table computed from 82 gal/day, 12,000-gal winter line. Every EPA figure verified verbatim.
+- **#25 taxes-fees (6s TOP):** 467 procedural words → 984-word reference with 5 VERIFIED jurisdiction examples (Pasadena UUT 7.67%/7.9%, WA 6% statutory cap, Cheney 14.75% voter-approved, FL 10% municipal cap, MN 216B.36 franchise basis) + the $11.11 gross-receipts math. Pasadena + Cheney re-verified by Commander post-hoc.
+- **#19 surcharges (8s TOP):** definitions lead (PUCO's own words, verified from the fetched artifact), 5 real riders table (Duke fuel/DSM/storm, ORC 4929.161, PUCO $10M vegetation cap), workflow preserved.
+
+### Consolidations
+- **#15 family absorbed into #12:** both live duplicates deleted (15-… 394w + why-my-… 963w) + draft why-electric-bill-changes-month-to-month (784w, URL already aliased). All three URLs alias to #12; inbound links retargeted (10-billing-cycle, 7-states). Payment caveat ported to #12.
+- **#23 narrowed** to the sudden-spike angle: action-first QA (dye test), rate-vs-leak decision rule, explicit handoffs to #8 (persistent high) and #4 (meter test).
+- **#9** keeps its slug; both intents now served (title=methodology, QA row=verified savings).
+- **#11** rate provenance labeled; **#17** baseline→snapshot; **#18** RF claim softened to FCC-ID lookup path + NILM qualified + meter-test path added.
+
+### CORRECTION to the SQ-051 audit (important)
+`average-utility-bills-by-state-2026` was **draft:true** (retired by SQ-048 during the credibility stopgap) — the audit graded its content while the live URL served a 421-byte redirect to `complete-guide-understanding-utility-bill` (923w generic). Post-fix, the corrected page is **published** (draft removed, complete-guide's alias claim dropped, both decisions one-line reversible in git). The audit table's #16 row should be read as "fixed-and-published," and its engagement numbers (33pv/86.7%br/14s) were measured on the stub, not the content. Mason's "sources don't render as hyperlinks" template finding (#22) was also disproven — footer links render; frontmatter `sources:` is metadata-only by design. No template change made.
+
+### Known remainders (honest list)
+- #16's 17-row table: rows are now internally consistent + methodology-labeled, but per-state rates were NOT individually re-sourced against EIA state tables (the 50-state rebuild remains open; Hawaii's 33.7¢ itself unverified vs current EIA).
+- Human-review register items still open: EIA Table 5.4.a direct fetch, Nest/P3 spec verification, PG&E tariff currency, #6 tariff references, #28 example intent, author-identity substantiation (Entry-9 P0 #4).
+- The flagship's energy-breakdown chart IMAGE still shows the retired 4–8% standby bar (alt text matches image; prose fixed) — regenerate the chart asset.
+- #2/#12 shared-cause prose dedup (cross-link ownership done; full text dedup deferred).
+
+**Watch in Rybbit (14-day):** bounce on 06-water (93.8%→~77%?), TOP on 25-taxes/19-surcharges (6s/8s→30s+), entrances on the published state-average URL, stub-URL pv retention, Google referral share.
+
+## Entry 11 — 2026-08-29: SQ-053 tier-2 audit + remediation (ranks 31-60)
+9 pages rebuilt with verified jurisdiction evidence (17/20/22 fees, 21/26/14 lifecycle, 12+gas-delivery gas pair, 16-budget surgical); 43→12 consolidation executed; REFUTED claims fixed: Emporia outdoor rating (manufacturer says indoor-only — safety), 44's "30-40%/$200" EPA misattributions (replaced with EPA's real 10%/~20%/$1,300/$500), 12's "80-150 therms" (RECS-annual reframing), Columbia Gas SCO miscategorization. why-did-my 0s-TOP root cause (143KB hero above QA) fixed. complete-guide data-aliases moved to state-average page; 02 draft deleted. Hero flags ×10; dead URLs ×4. Incidents: lieutenant channel contamination (stale SQ-045 artifacts) — makeup run on wing + anti-contamination constraint added to all packets; scout seat (gemma4:e2b) dead both dispatches — work absorbed by Commander; one Commander shell-sweep bug caught by workers (unquoted $SLUGS.md loop). Open queue in SEO-CONTENT-AUDIT-FACTCHECK-TIER2-2026-08-29.md. Watch: 16-budget/20-proration/17/22/21/26 bounce+TOP vs tier baselines (100%/0s, 1s, 15s), 43-redirect traffic retention on 12.
+
+## Entry 12 — 2026-08-29 (SQ-054): Tier-2 open queue cleared — same-day full close
+
+**Scope:** every item logged open in the tier-2 report (Entry 11): 8 sourcing passes, 3 rebuilds, 2 verifications, 3 decisions, 3 triage-lite full treatments. 15 pages touched, 1 draft deleted.
+
+**Refuted-at-source (the day's highest-value catches):**
+- CO "HB 1090" tenant-water-billing law **does not exist**; the real HB25-1090 is a deceptive-pricing statute that *exempts* landlords from disclosing actual utility amounts — opposite framing. Deleted + correctly re-cited.
+- "KP125MP2" **is not a TP-Link SKU** (URL redirects to KP125M; it's an Amazon bundle ID) — product renamed across table/prose/affiliate box.
+- EIA price on 10-fixed was 18.44¢; actual Table 5.6.A = 18.34¢. Fixed.
+- 46's "off-peak typically 40–60% cheaper" contradicted by its own cited table (7.5%–100% spread); "typical 8¢ off-peak" was invented. Replaced with tariff-anchored math + ENERGY STAR $50/yr.
+- Six provider rates on 10-fixed unverifiable (TXU row likely wrong per aggregator) → replaced with mechanics table + official shopping portals.
+- Tiered-water QA contained a math error ("66% less water" — actually 40%) + lifted Corona/CIMIS city text + a leaked HTML comment ledger. All excised in commander rewrite.
+
+**New verified anchors added to the site's evidence base (all fetched/re-derived 2026-08-29):** Austin Water 5-tier table ($3.27–$20.40/1,000 gal) + wastewater ($11.26 base, $13.40 tier-2, "whichever is lower"); SAWS winter-averaging window ("after November 15... on or about March 15"); MN Statutes 216B.096/.097/.098 (Oct 1–Apr 30, 50% median income, 10% payment cap, 5-business-day medical certification, 6/12-month limits — cross-family-verified 5/5); Louisville 2026 tariff + Philadelphia PWD + Cleveland Water fixed charges; USPS forwarding ($1.25/12 mo/3 business days); EIA "single-family detached ≈ 3× the energy of 5+-unit apartments"; CPUC/PUCT complaint procedures (TX: no disconnection of disputed charges until accuracy determined + notification); KP115/KP125M/Tapo P110M spec sheets; ENERGY STAR dishwasher $50/yr.
+
+**Process notes:** packet-generator bug shipped wave A read-only (write_paths never passed) — recovered by re-issuing as a write wave with audit intel embedded (verification-first-then-write actually improved quality); two worker scratch files leaked into repo root (removed); python replace traps reconfirmed (curly-vs-straight apostrophes, quote-collision heredocs — Edit tool is the safe path on read files).
+
+**Build:** 470 pages, 205 aliases, asset gate OK. Staged, uncommitted (HEAD b624a464).
+
+**Watch (14d, Rybbit):** gas-meter (87.5% br baseline), apartment (100% br), tiered-water (33.3% br hold), dispute/shut-off engagement depth, 10-fixed impressions on new title.

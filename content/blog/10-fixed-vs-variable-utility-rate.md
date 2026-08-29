@@ -1,10 +1,10 @@
 ---
-title: "How to Compare Electricity Rate Options"
+title: "Fixed vs. Variable Utility Rates: Which to Pick"
 slug: "10-fixed-vs-variable-utility-rate"
 aliases: ["/blog/fixed-vs-variable-rate-electricity-plan/"]
 description: "Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic fixed-versus-variable rules."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -17,27 +17,34 @@ sources:
   - https://www.powertochoose.org (retrieved 2026-08-28)
   - https://www.papowerswitch.com (retrieved 2026-08-28)
   - https://www.energychoice.ohio.gov (retrieved 2026-08-28)
-  - https://www.eia.gov/electricity/sales_revenue_price/ (retrieved 2026-08-28)
+  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_5_06_a (retrieved 2026-08-29)
 ---
 
 ## Quick Answer
 
-**The right electricity offer depends on whether a plan is available at your address and on the complete tariff or contract—not a universal recommendation for “fixed” or “variable” rates.** Rate structures can vary by energy use, season, or time of day.[1][2]
+**A fixed rate locks the supply price for the term; a variable rate follows the market and can change — sometimes monthly.** Fixed buys predictability (often at a small premium); variable is usually cheaper in flat markets but exposes you to spikes. Neither wins universally — the answer depends on the plans available at your address, their complete terms, and your own usage history.[1][2]
 
-Before enrolling, compare the current offer with your existing rate plan using your own usage history and every charge that applies to the account.
+In deregulated states you shop competing offers on your state's official portal (linked below); everywhere else, your utility's own rate designs — tiered, time-of-use, or flat — are the menu, and the question becomes which of them fits your usage.
 
-## Real Fixed vs. Variable Offers: Three Deregulated States (2026)
+## How the Two Structures Compare
 
-In deregulated states, you can choose between fixed-rate and variable-rate plans from competing retail electric providers. The table below shows examples from Texas, Pennsylvania, and Ohio as of August 2026.
+| Feature | Fixed rate | Variable rate |
+|---|---|---|
+| What changes | Supply price locked for the term | Supply price follows the market — often changes monthly |
+| Predictability | High — budgetable all term | Low — a spike month raises the bill immediately |
+| Typical cost | Small premium over the market average | Often cheaper when markets stay flat |
+| Term | Usually 6–24 months; early-termination fees are common | Usually month-to-month; exit any time |
+| Best fit | Tight budgets, spike-averse households | Households who watch prices and will switch |
 
-| State | Provider & Plan | Rate Type | Term | Price (per kWh) | Key Terms |
-|---|---|---|---|---|---|
-| Texas (Dallas area)[3] | TXU Energy Free Nights & Solar Days | Fixed | 12 months | $0.149/kWh (days), $0.00/kWh (nights up to 2,000 kWh) | Early termination fee ~$150; $9.99/mo base charge |
-| Texas (Dallas area)[3] | Reliant Energy Truly Free Weekends | Variable | Month-to-month | $0.159/kWh (usage), $0.00/kWh weekends | Base charge $9.95/mo; price can change with 30 days notice |
-| Pennsylvania (PECO area)[4] | PECO Price to Compare (Default) | Variable | Monthly | ~$0.096/kWh (supply only) | Utility-set rate, changes quarterly; no term |
-| Pennsylvania (PECO area)[4] | Constellation 12-Month Fixed | Fixed | 12 months | ~$0.092/kWh (supply only) | $9.99/mo base (if applicable); early termination fee |
-| Ohio (AEP Ohio area)[5] | AEP Ohio Standard Service Offer | Variable | Month-to-month | ~$0.079/kWh (supply only) | Utility default; updated twice per year |
-| Ohio (AEP Ohio area)[5] | Energy Harbor Fixed 12 | Fixed | 12 months | ~$0.085/kWh (supply only) | No early termination fee; $4.95/mo base |
+Advertised rates in choice states are supply-only — delivery, fixed charges, and taxes ride on top, so always compare total-bill scope.
+
+**Where to shop (official, state-run):**
+
+- **Texas:** [PowerToChoose.org](https://www.powertochoose.org) — the PUCT comparison site; every plan's Electricity Facts Label shows price, fees, and term side by side[3]
+- **Pennsylvania:** [PAPowerSwitch.com](https://www.papowerswitch.com) — the PA PUC shopping site, with each utility's Price to Compare as the baseline[4]
+- **Ohio:** [EnergyChoice.Ohio.gov](https://www.energychoice.ohio.gov) — the PUCO's apples-to-apples supplier comparison[5]
+
+Rates change weekly. Check the live portal for your zip code rather than any published snapshot — including one on this site.
 
 ### Break-Even Explanation
 
@@ -45,12 +52,10 @@ A fixed-rate plan locks in the supply price for the term. A variable-rate plan c
 
 **What would the variable rate need to average over the next 12 months for the fixed plan to have been worth it?**
 
-- If the fixed rate is $0.092/kWh and the variable rate average over the term ends up at $0.110/kWh, the fixed plan saved you $0.018/kWh × your annual kWh.
-- If the variable rate averages $0.080/kWh, you overpaid by $0.012/kWh.
+- If a fixed offer is 9.2¢/kWh and the variable rate averages 11.0¢/kWh over the term, the fixed plan saved 1.8¢ × your annual kWh — $216 a year at 12,000 kWh.
+- If the variable rate averages 8.0¢/kWh instead, you overpaid 1.2¢ — $144 a year.
 
-No one can predict wholesale markets. The fixed-rate premium is essentially an insurance premium against price spikes. The EIA's average U.S. residential price was about 18.44¢/kWh in mid-2026 (including delivery) — supply-only prices in deregulated states are typically 4–9¢/kWh lower because delivery is a separate charge.[6] Compare the **total bill**, not just the supply rate.
-
-No affiliate products fit here — rate plans are utility-side, not a product purchase.
+No one can predict wholesale markets. The fixed-rate premium is essentially an insurance premium against price spikes. For scale: EIA's average U.S. residential price was 18.34¢/kWh in June 2026, all-in (supply plus delivery)[6] — supply-only offers in choice states sit well below that because delivery is billed separately. Compare the **total bill**, not just the supply rate.
 
 ## Read the Entire Offer
 

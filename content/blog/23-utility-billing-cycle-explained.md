@@ -3,7 +3,7 @@ title: "How to Read the Billing Period on a Utility Statement"
 slug: "23-utility-billing-cycle-explained"
 description: "Use the account’s service dates, meter-read status, usage, tariff, and provider bill guide to compare utility billing periods accurately."
 date: 2026-05-28
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -24,7 +24,7 @@ Con Edison’s bill FAQ notes that account holders can review an energy-bill bre
 
 **Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide.
 
-If you need a line-by-line walkthrough of your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/). For help with a surprise spike, check [why your bill jumped](/blog/15-why-utility-bill-higher-same-usage/), see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for charge categories, or troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/). Then:
+If you need a line-by-line walkthrough of your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/). For help with a surprise spike, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for charge categories, or troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 ---
 

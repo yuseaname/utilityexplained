@@ -3,13 +3,17 @@ title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check 
 slug: "why-is-my-water-bill-higher-in-summer"
 description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
 date: 2025-12-26
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "ccf", "savings", "gallons"]
 keywords: ["water leak detection", "high water bill", "ccf", "lower utility bill", "gallons of water"]
 image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/how-we-use-water
+  - https://www.epa.gov/watersense/statistics-and-facts
+  - https://www.epa.gov/watersense/fixaleak
 ---
 
 <h2 id="problem">The problem: summer arrives and your bill suddenly feels out of control</h2>
@@ -43,9 +47,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
 
 <h2 id="quick-answer">The quick answer</h2>
 <p>
-              Water bills are often higher in summer because households use more water
-              outdoors (lawns, gardens, pools), and some utilities charge higher rates
-              at higher usage levels (tiered pricing).
+              Water bills are often higher in summer because outdoor watering jumps—outdoor water use accounts for more than 30 percent of total household water use on average nationwide, and up to 60 percent in arid regions [1][2]—while household leaks can silently waste 9,400 gallons per year even before summer irrigation starts [2]. If your utility uses tiered pricing, the extra summer usage is billed at a higher per-unit rate, making the increase feel larger.
             </p>
             <p>
               The fastest way to tell what is happening is to compare:
@@ -87,13 +89,13 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </p>
             <h3>1) Lawn and landscape watering</h3>
             <p>
-              Outdoor watering can easily become the largest water use in a home. Small timing
+              Outdoor watering can easily become the largest water use in a home. Nationally, outdoor water use accounts for more than 30 percent of total household water use on average, but in arid regions it can reach 60 percent [1][2]. Small timing
               changes (more days per week, longer run time) add up quickly.
             </p>
             <h3>2) Sprinkler or irrigation leaks</h3>
             <p>
               Broken heads, cracked lines, and stuck valves can waste water quietly--especially
-              early morning when you are not outside.
+              early morning when you are not outside. As much as 50 percent of water used outdoors is lost to wind, evaporation, and runoff from inefficient irrigation [2]. A household with an automatic system that is not properly maintained can waste up to 25,000 gallons annually [2].
             </p>
             <h3>3) Pools, hot tubs, and water features</h3>
             <p>
@@ -101,7 +103,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             </p>
             <h3>4) Guests, kids at home, and more showers</h3>
             <p>
-              Summer routine changes can shift indoor water use too.
+              Summer routine changes can shift indoor water use too. The average American family uses more than 300 gallons of water per day at home, with roughly 70 percent used indoors [1].
             </p>
             <h3>5) Car washing and outdoor cleaning</h3>
             <p>
@@ -115,7 +117,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
             <h3>7) A hidden leak you only notice in summer</h3>
             <p>
               Some leaks show up as a steady background flow that becomes noticeable when
-              outdoor use rises too.
+              outdoor use rises too. The average household's leaks can waste 9,400 gallons annually, and fixing easily corrected household water leaks can save about 10 percent on water bills [2][3]. Nine percent of homes have leaks that waste 50 gallons or more per day [3]. If your usage is up and you can't explain it, do a leak check.
             </p>
 
 <h2 id="tiered">How tiered pricing can make the increase feel bigger</h2>
@@ -175,12 +177,16 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
               If you want a baseline for "what is normal," this is a helpful reference:
               <a href="/blog/average-water-usage-per-person/"> average water usage per person</a>.
             </p>
+            <p>
+              For the full savings playbook once you have identified the cause, see
+              <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
+            </p>
 
 <h2 id="misconceptions">Common misconceptions</h2>
 <ul>
               <li>
                 <strong>"Summer bills are always higher, so nothing is wrong."</strong> Often true,
-                but big, sudden jumps can still signal a leak.
+                but big, sudden jumps can still signal a leak. Nationally, 9 percent of homes have leaks that waste 50 gallons or more per day [3].
               </li>
               <li>
                 <strong>"My rate did not change, so the bill should not change."</strong> Even with
@@ -194,7 +200,7 @@ image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-b
 
 {{< faq "Why is my water bill higher in summer even if I am careful?" >}}
 
-Summer often increases outdoor water use, and hotter, drier weather raises irrigation needs and evaporation. If your utility uses tiered pricing, the extra summer usage can also be billed at a higher per-unit rate.
+Summer often increases outdoor water use—outdoor water use accounts for more than 30 percent of household use on average and up to 60 percent in arid regions [1][2]—and hotter, drier weather raises irrigation needs and evaporation. If your utility uses tiered pricing, the extra summer usage can also be billed at a higher per-unit rate.
 
 {{< /faq >}}
 
@@ -206,7 +212,7 @@ Compare usage units (gallons/CCF) and billing days to the prior bill. If usage i
 
 {{< faq "Can a small leak really raise a summer water bill?" >}}
 
-Yes. A small continuous leak can add up over a 30-day period, and it is easy to miss when outdoor watering is also happening.
+Yes. The average household wastes 9,400 gallons annually from leaks [2][3]. A small continuous leak can add up over a 30-day period, and it is easy to miss when outdoor watering is also happening.
 
 {{< /faq >}}
 
@@ -216,17 +222,29 @@ Often, yes. With tiered pricing, higher usage blocks cost more per gallon/CCF. S
 
 {{< /faq >}}
 
+## Summer water use, by the numbers
 
-## Summer Water Usage Breakdown
+Seasonal patterns vary by region and household, but EPA data gives a national picture:
 
-| Activity | Summer (gal/day) | Winter (gal/day) | Difference |
-|----------|:---:|:---:|:---:|
-| Lawn/garden watering | 50-200 | 0 | +200 |
-| Pool filling/makeup | 10-30 | 0 | +30 |
-| Car washing | 5-15 | 0 | +15 |
-| Extra showers | 15-25 | 10-15 | +10 |
-| Sprinkler/spray toys | 10-30 | 0 | +30 |
-| **Total difference** | | | **+85-115 gal/day** |
+- Outdoor water use accounts for <strong>more than 30 percent</strong> of total household water use on average, and <strong>up to 60 percent</strong> in arid regions [1][2].
+- The average family wastes <strong>9,400 gallons</strong> per year from household leaks [2][3].
+- Fixing easily corrected leaks saves <strong>about 10 percent</strong> on water bills [3].
+- A leaky faucet at one drip per second wastes <strong>more than 3,000 gallons</strong> per year [3].
+- An inefficient automatic irrigation system can waste <strong>up to 25,000 gallons</strong> annually [2].
 
+<p>For the winter side of the seasonal pattern, see <a href="/blog/why-is-my-water-bill-higher-in-winter/">Why Is My Water Bill Higher in Winter?</a>.</p>
 
 {{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Environmental Protection Agency, How We Use Water](https://www.epa.gov/watersense/how-we-use-water). Retrieved 2026-08-29.
+2. [U.S. Environmental Protection Agency WaterSense, Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts). Retrieved 2026-08-29.
+3. [U.S. Environmental Protection Agency, Fix a Leak Week](https://www.epa.gov/watersense/fixaleak). Retrieved 2026-08-29.
+
+---
+
+*Related Reading:*
+- [Why Is My Water Bill Higher in Winter?](/blog/why-is-my-water-bill-higher-in-winter/)
+- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/)
+- [Why Did My Water Bill Suddenly Increase?](/blog/why-did-my-water-bill-suddenly-increase/)

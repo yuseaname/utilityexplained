@@ -3,7 +3,7 @@ title: "Understanding kWh Usage on Your Electric Bill"
 slug: "11-understanding-kwh-usage"
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -15,7 +15,7 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.eia.gov/consumption/residential/data/2020/
-  - https://www.energy.gov/energysaver/estimating-appliance-energy-use
+  - https://www.energy.gov/save/home-upgrades
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
 ---
 
@@ -126,6 +126,6 @@ Start by checking billing days and read status. Then review changes in weather, 
 1. [U.S. Energy Information Administration: Electricity Use in Homes](https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php) — household-use context and regional/housing variation.
 2. [U.S. Energy Information Administration FAQ: How Much Electricity Does an American Home Use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7) — 2022 residential-customer kWh context.
 3. [EIA Residential Energy Consumption Survey (RECS) 2020 — Consumption & Expenditures Tables CE5.3a/CE5.3b](https://www.eia.gov/consumption/residential/data/2020/) — detailed end-use electricity consumption averages.
-4. [U.S. Department of Energy: Estimating Appliance and Home Electronic Energy Use](https://www.energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-use) — appliance-level estimation guide.
+4. [U.S. Department of Energy: Estimating Appliance and Home Electronic Energy Use](https://www.energy.gov/save/home-upgrades) — appliance-level estimation guide.
 5. [EIA Electricity Monthly Update, June 2026](https://www.eia.gov/electricity/monthly/update/end-use.php) — residential average revenue per kWh figure of 18.34¢/kWh (retrieved 2026-08-28).
 6. [U.S. Department of Energy Better Buildings: Understanding Your Utility Bill — Electricity](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf) — meter-reading guidance.

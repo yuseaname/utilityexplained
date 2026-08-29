@@ -3,7 +3,7 @@ title: "Why Did My Water Bill Suddenly Increase?"
 slug: "why-did-my-water-bill-suddenly-increase"
 description: "Understand the most common reasons water bills spike and how to troubleshoot them."
 date: 2025-12-26
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -17,13 +17,9 @@ sources:
 
 ## Quick Answer
 
-**A sudden water bill increase usually indicates a leak (toilet, pipe, or irrigation), rate changes, or seasonal usage spikes.**
+**Start with the 10-minute toilet check — it finds the most common cause of a sudden spike.** Add a few drops of food coloring to the toilet tank, wait 10 minutes without flushing, and look at the bowl: color appearing means the flapper is leaking, silently, around the clock.[1] EPA notes a family of four using more than 12,000 gallons in a winter month likely has a serious leak.[1]
 
-- The average household's leaks can waste more than 9,300 gallons of water per year, and fixing easily corrected household leaks can save about 10 percent on water bills, according to the U.S. Environmental Protection Agency (EPA).[1]
-- EPA says a family of four exceeding 12,000 gallons in a winter month could have serious leaks.[1]
-- The average American family uses more than 300 gallons of water per day at home, roughly 70 percent of it indoors — so a billing-period change or a shift in household routines can move the total noticeably.[2]
-
-For more detail, see [common causes of high water bills](/blog/06-water-bill-too-high/).
+If the dye test is clean, the sudden jump usually comes from one of three places this page walks through in order: **a rate, tier, or billing-period change** (check the usage line against the rate lines — usage flat with a higher total is a rate story, not a leak), **seasonal outdoor use**, or **a leak outside the toilet** (irrigation, service line). To check whether water is moving with everything off, use the [water-meter leak indicator](/blog/water-meter-leak-indicator-explained/) or the full [meter running when no water is used](/blog/water-meter-running-when-no-water-used/) test; for a bill that is high every month rather than suddenly, see [causes of high water bills ranked by likelihood](/blog/06-water-bill-too-high/).
 
 <h2 id="top-reasons">The most common reasons for a sudden spike</h2>
 <p>

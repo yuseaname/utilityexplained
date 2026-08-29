@@ -4,15 +4,15 @@ slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php
   - https://www.energy.gov/save/home-upgrades
-  - https://www.energy.gov/energysaver/heat-and-cool
-  - https://www.energy.gov/energysaver/water-heating
-  - https://www.energy.gov/energysaver/duct-sealing
-  - https://www.energy.gov/energysaver/insulation-and-air-sealing
+  - https://www.energystar.gov/saveathome/heating-cooling
+  - https://www.energy.gov/save/home-upgrades
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
+  - https://www.energystar.gov/campaign/home_sealing
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']
@@ -65,7 +65,7 @@ This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natu
 
 ### 2. Thermostat settings too high
 
-Every degree above 68°F increases heating energy use by roughly **3–5%**. If you keep your home at 74°F instead of 68°F, you're using about 18–30% more gas for heating.
+A useful rule of thumb, consistent with DOE's setback figures: each degree warmer adds roughly **1% to heating energy use**. Keeping your home at 74°F instead of 68°F therefore adds about **6% more gas for heating** — modest on its own, which is why the bigger win is the 8-hour setback below, not a colder house all day.
 
 **Recommended settings:**
 - **When home:** 68°F (20°C)
@@ -248,6 +248,8 @@ Utilities often pass through volatile wholesale gas costs and infrastructure pro
 
 ## Cost and savings math
 
+The table below shows **estimate ranges, not guarantees** — computed against the scenario rates in this article (gas at roughly $1.00–$1.90 per therm across states, per EIA) and typical usage; your rates, climate, and house set the real number. Where a figure comes from a named program (ENERGY STAR, DOE), the source list at the bottom names it; treat unlabeled rows as planning estimates and re-derive them against your own bill.
+
 | Fix | Monthly Savings | Upfront Cost | Payback Period |
 |-----|----------------|--------------|----------------|
 | Lower thermostat to 68°F from 72°F | $15–$40 | $0 | Immediate |
@@ -328,14 +330,14 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 
 ---
 
-{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's measured savings: ~12% on heating, ~15% on cooling. The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's manufacturer-reported savings: ~12% on heating, ~15% on cooling (vendor figures; independent results vary). The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
 
 ## Sources
 
 1. [U.S. Energy Information Administration: Use of natural gas](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php)
 2. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
-3. [U.S. Department of Energy: Duct sealing](https://www.energy.gov/energysaver/duct-sealing)
-4. [U.S. Department of Energy: Water heating](https://www.energy.gov/energysaver/water-heating)
+3. [U.S. Department of Energy: Duct sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
+4. [U.S. Department of Energy: Water heating](https://www.energy.gov/save/home-upgrades)
 
 ## Related guides
 
@@ -344,7 +346,7 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 - [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — Comprehensive savings strategies
 - [Fixed vs Variable Utility Rates](/blog/10-fixed-vs-variable-utility-rate/) — Choose the right rate plan
 - [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) — Spot charges you can dispute
-- [Understanding Natural Gas Bill Charges](/blog/43-understand-natural-gas-bill-charges/) — Full charge-by-charge guide
+- [Understanding Natural Gas Bill Charges](/blog/12-how-to-read-your-gas-bill/) — Full charge-by-charge guide
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — Decode the units on your bill
 - [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — That fixed monthly fee
 - [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — What you're paying for

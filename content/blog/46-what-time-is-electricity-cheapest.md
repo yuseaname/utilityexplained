@@ -3,7 +3,7 @@ title: "What Time Is Electricity Cheapest?"
 slug: "46-what-time-is-electricity-cheapest"
 description: "Find the cheapest electricity hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
 date: 2026-08-28
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -16,11 +16,12 @@ sources:
   - https://www.powertochoose.org (retrieved 2026-08-28)
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.energystar.gov/products/dishwashers
 ---
 
 ## Quick Answer
 
-**For most residential time-of-use (TOU) plans, electricity is cheapest after 9:00 PM and before 4:00 PM on weekdays, plus all weekend.** Exact hours depend on your utility's specific tariff. If your utility offers a TOU plan, the off-peak rate is typically 40–60% cheaper than peak — shifting laundry, dishwashing, and EV charging to those hours can meaningfully lower your bill.
+**For most residential time-of-use (TOU) plans, electricity is cheapest after 9:00 PM and before 4:00 PM on weekdays, plus all weekend.** Exact hours depend on your utility's specific tariff. The off-peak discount ranges from under 10% (PG&E's winter spread) to about half (Con Edison) to entirely free overnight hours (TXU) — so confirm the gap in your utility's tariff before shifting laundry, dishwashing, and EV charging.
 
 This page provides the quick-reference answer. For a full explanation of how TOU plans work, how to read a tariff, and how to compare your usage to your utility's specific schedule, see [Time-of-Use Electricity Rates Explained](/blog/08-time-of-use-electricity/).
 
@@ -42,7 +43,7 @@ For detailed hourly breakdowns, seasonal differences, and a dishwasher-cost comp
 
 Shift these common loads to the cheapest hours on your plan:
 
-- **Dishwasher.** Run it once a day after 9 PM (or before 4 PM). At the national average rate of 18.34¢/kWh, one load costs about $0.46. At a typical off-peak rate of 8¢/kWh, it costs $0.20 — saving $0.26 per load, or ~$95/year.[5]
+- **Dishwasher.** Run it once a day after 9 PM (or before 4 PM). ENERGY STAR certifies standard-size dishwashers that cost about **$50 per year to run** — the off-peak share of that depends on your plan's gap.[6] On Con Edison's TOU plan, the all-in off-peak rate (about 22.33¢/kWh) is roughly half the peak rate (about 44.97¢/kWh), so timing alone can cut the energy portion of dishwashing by about half on that plan.[2]
 - **Clothes washer and dryer.** Cold-water washing and overnight drying. A dryer load at off-peak rates can save $0.40–$0.70 per cycle versus peak.
 - **EV charging.** Set your car to charge starting at 9 PM. A full 40-kWh charge at the national average peak-equivalent rate (~20¢/kWh) costs $8.00; at an off-peak rate of 5–10¢/kWh, it is $2.00–$4.00.
 - **Pool pump.** Use a timer to run during off-peak morning or late-night hours. A typical 1.5-HP pump running 6 hours/day costs about $1.00–$1.50 at peak and $0.40–$0.75 off-peak.
@@ -52,7 +53,7 @@ Automating these shifts is straightforward with a timer or smart plug. One optio
 
 ## Why Shifting Pays Off
 
-The national average residential electricity rate hit **18.34¢/kWh** in June 2026 (EIA). On many TOU plans, off-peak rates are 40–60% lower. For an average household using 899 kWh/month, shifting just 200 kWh/month (about 22% of usage) from peak to off-peak at a 50% discount saves about $18/month, or ~$220/year.[5]
+The national average residential electricity rate hit **18.34¢/kWh** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU is about 50%, and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using 899 kWh/month, shifting just 200 kWh/month (about 22% of usage) from peak to off-peak across a 50%-type gap saves about $18/month, or ~$220/year — simple arithmetic on the 18.34¢ average (200 × $0.1834 × 0.5 ≈ $18).[5]
 
 The exact savings depend on your utility’s peak-to-off-peak price gap and how much you can shift. The rate-plan hub has a quick comparison tool; for a full cost-benefit check, work through the steps in [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#compare-with-your-own-usage).
 
@@ -74,3 +75,4 @@ Your utility’s rate-plan hub has links to each utility’s tariff. If you are 
 3. TXU Energy Free Nights & Solar Days plan, EFL retrieved via Power to Choose 2026-08-28. Rates by zip code; example shown for Dallas-area residential account.
 4. U.S. Department of Energy, FEMP: Evaluating Your Utility Rate Options (energy.gov/cmei/femp/evaluating-your-utility-rate-options).
 5. EIA Electricity Monthly Update, June 2026 — residential average revenue per kWh of 18.34¢/kWh (retrieved 2026-08-28).
+6. ENERGY STAR: Dishwashers — "a new ENERGY STAR certified dishwasher costs about $50 per year to run" (energystar.gov/products/dishwashers, retrieved 2026-08-29).

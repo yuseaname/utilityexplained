@@ -3,7 +3,7 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Confused by your bill? We decode the charge categories you will find on a U.S. electric bill--supply, delivery, customer charges, and taxes--and show you how to check each one against your own rate plan."
 date: 2025-12-25
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -19,7 +19,7 @@ sources:
 
 ## Quick Answer
 
-Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reports that in 2025 the average U.S. retail price of electricity was about 13.63¢ per kilowatthour (kWh), and residential customers paid an annual average of about 17.30¢ per kWh — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh) for 2025, with residential customers paying an annual average of about 17.30¢ per kWh (EIA Electric Power Monthly data; verify the current release at eia.gov, and note the June 2026 residential average was higher at 18.34¢) — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
 
 **Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
 

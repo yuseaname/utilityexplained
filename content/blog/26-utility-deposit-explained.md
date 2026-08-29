@@ -1,58 +1,91 @@
 ---
 title: "How to Review a Utility Deposit Requirement"
 slug: "26-utility-deposit-explained"
-description: "Review a utility deposit request using the provider’s service terms, account notice, payment options, and applicable local or state rules."
+description: "Verify a utility deposit against your state's cap, waiver, and refund rules — with the verified Texas and California frameworks — and confirm the terms in writing before paying."
 date: 2026-05-28
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Tanya Patterson"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility deposit", "security deposit", "new service"]
 keywords: ["utility deposit", "utility security deposit", "new utility service deposit"]
 image: "/images/articles/26-utility-deposit-explained/26-utility-deposit-explained_hero_v2.webp"
+hero_below_answer: true
 sources:
-  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+  - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
+  - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/how-deposit-amount-is-determined (Southern California Edison Help Center, retrieved 2026-08-29)
+  - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service (Southern California Edison Help Center, retrieved 2026-08-29)
+  - https://www.revisor.mn.gov/statutes/cite/216B.098/ (Minnesota Statutes 216B.098, Residential Customer Protections, retrieved 2026-08-29)
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (Consumer Financial Protection Bureau, retrieved 2026-08-29)
+  - https://liheap.org/ (LIHEAP / NEUAC, retrieved 2026-08-29)
 ---
+
+{{< affiliate-disclosure >}}
 
 ## Quick Answer
 
-**A utility deposit request is governed by the serving provider’s current terms and the rules that apply to the account’s service territory.** Confirm the deposit amount, reason, payment timing, alternative documentation, return or credit terms, interest if any, and final-account treatment in writing. Do not use a national deposit range or assume a credit-check, refund, waiver, installment, or transfer rule applies to your account.
+**A utility deposit is money the utility holds as security against non-payment, and most states cap how large it can be — in Texas the limit is one-fifth of your estimated annual bill, or the sum of your estimated next two monthly bills [1].** Deposit amounts, waiver alternatives, and refund timing are all set by state rules and utility tariffs, so verify all three against your own state's framework before paying.
 
-If paying a utility deposit or bill creates hardship, CFPB directs renters seeking help with utility bills to local and state resources, including LIHEAP-related assistance information.[1]
+## Verified State Deposit Rules
+
+Different states draw the lines differently — compare your utility's demand against the framework that governs it:
+
+| Framework | Verified rule |
+|---|---|
+| Texas (electric REPs) | A REP may require satisfactory credit as a condition of service; the deposit may be up to 1/5 of estimated annual billing — or the sum of estimated billings for the next two months [1] |
+| California (SCE) | SCE is currently not billing deposits for residential customers; if residential deposits resume, the amount is two times the average monthly billing over the last 12 months, per its tariffs [2] |
+| California (SCE) | Deposits are reviewed after 12 consecutive on-time monthly bills and established credit [3] |
+| Minnesota (all residential utilities) | No additional service deposit may be charged as a condition to continue service to a customer who entered — and stays reasonably on time under — an accepted payment agreement [4] |
 
 ## Get the Deposit Terms in Writing
 
-Ask the provider for the service agreement, tariff, or account notice that defines the requirement. Record:
+Before paying, ask the provider to confirm the specific rule that authorizes the amount:
 
 | Detail | What to verify |
 |---|---|
-| Deposit requirement | Amount, account reason, service address, and due date |
-| Decision basis | Provider explanation and any account information considered |
-| Payment options | Accepted payment methods, timing, and any stated alternatives |
-| Deposit handling | Separate holding, account credit, interest, or other treatment if stated |
-| Return or application | Conditions, timing, final-bill treatment, and forwarding-address process |
-| Service consequences | What happens if the deposit is not paid under the provider’s written terms |
+| Deposit requirement | Exact amount, account reason, service address, and due date |
+| Authorized basis | The statute, commission rule, or tariff section behind it |
+| Alternatives | Waivers, certificate or guarantor options, or document-based credit paths your state provides |
+| Payment timing | Whether installments are allowed, and accepted methods |
+| Refund handling | When it's reviewed, credited, or returned — see the refund rules below |
 
-Do not provide sensitive information or authorize a credit inquiry until the provider explains what it is requesting and why.
+If the utility cannot name the rule behind the amount, ask for it in writing — that request alone sorts a required deposit from an overreach.
 
-## Separate Deposits From Other Charges
+## How and When Deposits Come Back
 
-Review the first statement line by line. A deposit can appear alongside a service-start charge, usage charges, fixed charges, taxes, credits, or a prior balance. They are not necessarily the same charge and may follow different rules.
+Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3].
 
-Keep the request, service agreement, payment confirmation, first bill, and later credit/refund information. Before moving or closing an account, ask the provider how its current final-bill and forwarding-address process applies.
+Texas connects the deposit to service too: a REP may disconnect service for failure to pay a deposit [1], which makes the deposit as deadline-sensitive as the bill itself — [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) covers what has to happen before disconnection. If a deposit demand arrives while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), the payment-agreement route matters: under Minnesota's residential protections, an accepted payment agreement blocks any new deposit demand [4], and Texas customers who haven't received more than two termination notices in the past year are eligible for a deferred payment plan [1].
 
-## Ask About Assistance Early
+## If the Deposit Creates Hardship
 
-Contact the provider as soon as a deposit requirement is issued to ask about current payment or assistance options. CFPB’s bill-assistance resource points renters to local and state assistance, including LIHEAP information.[1] Confirm eligibility, deadlines, documentation, and whether a program can address a deposit or only another account charge.
+Paying the deposit and the first bill at once strains any budget. CFPB points customers to year-round utility-bill help through the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; 211 can help you identify local options [5]. LIHEAP assists roughly 6.7 million households with heating and cooling costs through local agencies [6] — and programs vary on whether they can cover a deposit, so confirm before assuming it.
 
-## Questions for the Provider
+Texas caps deposits tightly — 1/5 of estimated annual billing [1] — so an amount above that cap is itself grounds for a question or a complaint to the PUCT. A [reconnection fee](/blog/28-utility-reconnection-fee-explained/) is a different one-time charge that applies after shutoff, not at sign-up.
 
-1. Which service agreement, tariff, or rule authorizes this deposit?
-2. What account-specific information produced the requested amount?
-3. What alternative documentation or payment options are available today, if any?
-4. How and when can the deposit be credited, returned, or applied to a final bill?
-5. Which local or state authority governs a question about this requirement?
+{{< faq "What is the most a utility can charge as a deposit?" >}}
+
+It depends on your state's cap. Texas limits residential electric deposits to 1/5 of estimated annual billing, or the sum of the next two months' estimated bills [1]. California's SCE currently bills no residential deposits at all; when residential deposits resume, they equal two times average monthly billing over the prior 12 months [2]. Ask your utility which rule authorizes the amount it quoted.
+
+{{< /faq >}}
+
+{{< faq "Can I avoid paying a utility deposit?" >}}
+
+Ask what your state's rules and your utility's tariff already allow. In Texas, a deposit question turns on satisfactory credit — a REP may require you to establish and maintain it as a condition of service [1] — so ask the utility what documentation establishes credit and whether any income-qualified or senior deposit alternative applies to your account. On an existing account, Minnesota bars new deposits for customers current on an accepted payment agreement [4].
+
+{{< /faq >}}
+
+{{< faq "When do I get my utility deposit back?" >}}
+
+Under Southern California Edison's published terms: after 12 consecutive on-time bills and established credit for a mid-account review [3], or within 30 days of account closing — mailed with the closing bill, and auto-applied to the account 10 days after final shutoff [3]. Your utility's tariff and state rules set the exact clock; ask for it in writing when you pay.
+
+{{< /faq >}}
 
 ## Sources
 
-1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)
+1. [Public Utility Commission of Texas — Electricity FAQs](https://puc.texas.gov/consumer-help/faq/electricity/) (retrieved 2026-08-29)
+2. [Southern California Edison — How Is Deposit Amount Determined?](https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/how-deposit-amount-is-determined) (retrieved 2026-08-29)
+3. [Southern California Edison — Deposit Refund Timeline](https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service) (retrieved 2026-08-29)
+4. [Minnesota Statutes 216B.098 — Residential Customer Protections](https://www.revisor.mn.gov/statutes/cite/216B.098/) (retrieved 2026-08-29)
+5. [Consumer Financial Protection Bureau — Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) (retrieved 2026-08-29)
+6. [LIHEAP — Low Income Home Energy Assistance Program](https://liheap.org/) (retrieved 2026-08-29)

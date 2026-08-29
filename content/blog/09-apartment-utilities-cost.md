@@ -3,7 +3,8 @@ title: "How to Budget for Apartment Utilities"
 slug: "09-apartment-utilities-cost"
 description: "Build an apartment utility budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
 date: 2026-03-07
-updated: 2026-08-28
+hero_below_answer: true
+updated: 2026-08-29
 author: "Marcia Washington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -13,17 +14,18 @@ image: "/images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
   - https://www.eia.gov/electricity/sales_revenue_price/ (Table 5a, retrieved 2026-08-28)
+  - https://www.eia.gov/energyexplained/use-of-energy/homes.php (retrieved 2026-08-29)
 ---
 
 ## Quick Answer
 
-**Build an apartment utility budget from the lease, the account-holder rules, current provider terms, and the unit's own billing history when it is available.** National cost tables cannot tell you what a specific apartment, rate plan, season, or shared-service arrangement will cost.
+**Apartments are the cheapest housing type to run: EIA's 2020 household survey found that a single-family detached home consumes nearly three times more energy than an apartment in a 5+ unit building, and heating and cooling — the biggest energy use in houses — is a much smaller share in apartments.[2]** So statewide all-home averages overstate what a typical apartment pays.
 
-Before signing, request a written explanation of what the rent includes and which services must be opened, transferred, or paid separately.
+Budget by service, not by one total: electricity is usually the only utility most renters must open in their own name; water/sewer/trash are often (not always) bundled into rent; internet is a separate contract. The lease, the account-holder rules, and the unit's own bill history tell you your actual numbers — national tables can't.
 
 ## State-by-State Average Electricity Cost (10 Most Populous States)
 
-The table below uses EIA Table 5a data (the most recent available) for the ten most populous U.S. states. These are **statewide averages** — your apartment's actual cost depends on local utility rates, apartment size, heating/cooling system, and your usage habits.
+The table below uses EIA Table 5a data (the most recent available) for the ten most populous U.S. states. These are **statewide averages for all homes** — EIA does not publish apartment-specific state averages, and apartments typically run below these figures (see the energy comparison above).[2] Your actual cost depends on local utility rates, apartment size, heating/cooling system, and your usage habits.
 
 | State | Avg. Residential Price (¢/kWh) | Avg. Monthly Usage (kWh) | Avg. Monthly Bill |
 |---|---|---|---|
@@ -38,7 +40,7 @@ The table below uses EIA Table 5a data (the most recent available) for the ten m
 | North Carolina | 13.05¢ | 1,076 | $140 |
 | Michigan | 18.07¢ | 662 | $120 |
 
-*Source: EIA Electric Sales, Revenue & Average Price, Table 5a (latest 12-month period). Monthly bill = rate × average usage. These are statewide averages; your apartment's actual bill will differ based on local utility rates, apartment size, and season.*
+*Source: EIA Electric Sales, Revenue & Average Price, Table 5a (latest 12-month period). Monthly bill = rate × average usage. These are statewide all-home averages; an apartment usually lands below them.[2] For the full 50-state picture, see [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/); for what drives the kWh number, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).*
 
 ### First-Apartment Utility Checklist
 
@@ -46,12 +48,12 @@ Before move-in, confirm each of these with the landlord and utility providers:
 
 - [ ] **Electricity**: Which utility serves the apartment? Call to set up the account in your name. Ask about required deposits, credit checks, and roommate-account rules.
 - [ ] **Gas**: Separate from electricity? Some apartments are all-electric. Confirm whether gas is included in rent or separately billed.
-- [ ] **Water, sewer, trash**: Most apartments include these in rent. If not, ask how they are billed (flat fee, sub-metered, RUBS).
+- [ ] **Water, sewer, trash**: Often included in rent — confirm in the lease. If not, ask how they are billed (flat fee, sub-metered, RUBS).
 - [ ] **Internet**: Required by the lease or optional? Some buildings have bulk agreements.
 - [ ] **Deposits**: What deposit does each utility require? Some waive deposits with a credit check or a letter from a prior utility.
 - [ ] **First-bill timing**: Ask when the first bill arrives. A short initial billing period (e.g., 20 days instead of 30) can make the first total look deceptively low.
-- [ ] **Budget billing**: Does the utility offer levelized billing to smooth seasonal spikes?
-- [ ] **Leak check**: Read the water meter on move-in day. Take a photo. Report any irregularities to the landlord immediately.
+- [ ] **Budget billing**: Does the utility offer levelized billing to smooth seasonal spikes? ([How budget billing works](/blog/16-budget-billing-level-pay-explained/))
+- [ ] **Leak check**: Read the water meter on move-in day. Take a photo. Report any irregularities to the landlord immediately. ([How to read a water meter](/blog/how-to-read-a-water-meter/))
 
 Keep your lease, utility account numbers, and first bills in one folder. If a charge is unclear, ask the utility for the tariff page.
 
@@ -94,3 +96,4 @@ Contact the utility before the due date and ask about payment arrangements and l
 ## Sources
 
 1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) — renter assistance and utility-bill resource guidance.
+2. [EIA Energy Explained: Use of Energy in Homes](https://www.eia.gov/energyexplained/use-of-energy/homes.php) — single-family detached homes consume nearly 3× the energy of apartments in 5+ unit buildings (RECS 2020); heating/cooling a much smaller share in apartments (retrieved 2026-08-29).

@@ -1,57 +1,79 @@
 ---
 title: "How to Review an Estimated Utility Bill"
 slug: "14-estimated-utility-bill-explained"
-description: "Identify an estimated meter reading, compare it with your statement and meter, and ask the serving utility for its account-specific billing policy."
+description: "Why utilities estimate bills, how to spot an estimated read on your statement, and the verified workflow to force an actual meter read — ConEd and Texas rules."
 date: 2026-05-28
-updated: 2026-08-23
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["billing", "utility bills", "meter reading"]
 keywords: ["estimated utility bill", "estimated versus actual meter reading", "utility bill review"]
 image: "/images/articles/14-estimated-utility-bill-explained/14-estimated-utility-bill-explained_hero_v2.webp"
+hero_below_answer: true
 sources:
-  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
-  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq (Con Edison, Frequently Asked Questions: About Bills, retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (Con Edison, How to Read Your Electricity Meter, retrieved 2026-08-29)
+  - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
+  - https://puc.texas.gov/consumer-help/complaints/rights/ (Public Utility Commission of Texas, Know Your Rights, retrieved 2026-08-29)
 ---
+
+{{< affiliate-disclosure >}}
 
 ## Quick Answer
 
-**An estimated bill uses an estimate instead of a meter reading for that billing period, but the reason, calculation method, correction process, and self-read option vary by utility.** Confirm the reading type and policy on your own statement and with the serving utility rather than assuming a national true-up rule.
+**An estimated bill is a bill built from predicted usage instead of an actual meter read — utilities estimate when the meter reading can't be obtained, and in Texas estimated reads cannot be used for more than three consecutive billing cycles [3].** Check the reading-type notation on your statement, compare the estimate against your meter, and submit a reading to trigger the correction. An estimate is a placeholder, not a final number — the next actual read trues the account up.
 
-Con Edison, for example, provides procedures for customers to read and submit digital or dial-meter readings, but other utilities may use different systems and submission methods.[1]
+## Why Utilities Estimate Instead of Reading Your Meter
 
-## What to Check on the Statement
+A utility bills from a meter read; when it can't get one, it estimates. Texas's commission states the trigger plainly: a company may estimate bills "if actual meter readings cannot be obtained or if your REP does not receive meter readings from the Transmission and Distribution Utility" — and generally, estimated readings cannot happen more than three consecutive billing cycles [3].
 
-Review the account-specific bill for:
+Con Edison lists estimated bills among the reasons a bill can run higher than expected — a high bill may reflect that "the current or previous bills were estimated" rather than a real usage jump [1]. An estimate can overshoot or undershoot the month you actually had, so an estimate arriving with a surprising total is a reason to check the math, not panic.
 
-1. The billing period and number of days.
-2. The prior and current reading, unit, and reading-type notation.
-3. Whether the bill says actual, estimated, or another status.
-4. The rate plan, total usage, and line-item charges.
-5. Notices about access, meter communication, or future readings.
+## How to Spot an Estimate on Your Statement
 
-Utility bill formats vary. Con Edison's sample residential bill, for instance, identifies billing period, rate, meter readings, usage, and taxes; use your own provider's statement and explanation as the controlling source.[2]
+Work down the bill:
 
-## If You Think an Estimate Is Wrong
+1. **Find the reading-type notation.** Bills mark the current reading as actual, estimated (sometimes "E" or "EST"), or customer-read. If the notation is missing, ask the utility what it was for this period.
+2. **Check the billing period and days.** Con Edison points customers to the bill's period length — "more days in the billing period" is one of its listed reasons a bill jumps [1].
+3. **Compare usage across months.** Con Edison's bar chart on the paper bill shows the past 13 months of usage [1]; an estimated bar that breaks the pattern deserves a question.
 
-Document the bill and, if it is safe and allowed, the current meter display or dial reading. Do not open equipment, bypass access controls, or attempt to alter a meter.
+## Force an Actual Read: The Verification Workflow
 
-Contact the utility and ask:
+1. **Read your own meter.** Con Edison publishes instructions for reading your electricity meter [2]. Your current read will sit a little above the bill's figure because you've used more since the last read — that's expected [1].
+2. **Photograph the meter.** Con Edison asks customers who question usage to take a photo of the meter and upload it through its site [1]. A dated photo is also your evidence if a review opens.
+3. **Submit the reading and ask for a rebill.** Submit the read through your utility's channel and ask what correction, credit, or actual-read re-bill applies. Con Edison's published practice: if you were billed for more energy than you used, the utility credits the account right away [1].
+4. **Ask what broke the read chain.** Meter access, a communication fault on a smart meter, or an internal error all have different fixes — ask which applies so the next bill is actual, not estimated again.
 
-- Why was this period estimated?
-- What reading or usage information was used for the estimate?
-- Can I submit a reading, request a review, or confirm the next actual read?
-- How will a later actual reading be handled under this utility's policy?
-- What dispute and payment options apply while the account is reviewed?
+Texas protects this request: a REP may not disconnect service for non-payment of an estimated bill unless it's part of a pre-approved meter-reading program or the utility couldn't read the meter due to circumstances beyond its control [4]. So a disputed estimate is not a shutoff trigger while the reading itself is in question.
 
-Keep the case number, the representative's explanation, and copies of the bill and any submitted reading.
+## If the Estimate Is Wrong
 
-## Prevent Repeat Access Problems
+Open a review with the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/), armed with your meter photo and read. Keep the case number and the representative's explanation in writing. If the corrected amount lands while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), dispute the estimate and set up a payment agreement on the undisputed part in the same conversation.
 
-If the utility identifies an access issue, follow its instructions for safe meter access and future reading arrangements. If the meter is remote-read, ask whether the account has a communication issue and what the provider needs to investigate it.
+Estimates compound other bill puzzles: an estimated read followed by a catch-up actual read can look like a [fuel or supply spike](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), and [budget billing](/blog/16-budget-billing-level-pay-explained/) smooths the true-up over months instead of one bill. If a review ends with a service threat, [the shutoff lifecycle guide](/blog/can-utility-shut-off-service/) covers your notice protections, and [deposit demands](/blog/26-utility-deposit-explained/) can follow billing disputes on new accounts.
+
+{{< faq "Why did my utility send an estimated bill?" >}}
+
+Because it couldn't get an actual reading — in Texas's rule, either the company couldn't obtain the read or the utility that reads meters didn't deliver it [3]. Con Edison also flags estimated bills as a common reason a bill looks higher than expected, alongside a longer billing period and supply-price swings [1].
+
+{{< /faq >}}
+
+{{< faq "How do I know if my bill is estimated or actual?" >}}
+
+Check the reading-type notation next to the meter readings on the statement — actual, estimated, or customer-read. If it isn't labeled, ask your utility which it was. Con Edison also tells customers to compare the bill against the 13-month usage bar chart printed on the statement, where an estimated month often stands out [1].
+
+{{< /faq >}}
+
+{{< faq "How do I get an actual meter reading instead of an estimate?" >}}
+
+Read your meter yourself using your utility's guide — Con Edison publishes one [2] — take a photo, and upload or submit the reading through your account; Con Edison explicitly asks customers questioning their usage to upload a meter photo [1]. Ask the utility to rebill from an actual read; in Texas, estimates can't run more than three consecutive billing cycles [3], so a real read is due — and an estimated bill generally can't be the basis for disconnection [4].
+
+{{< /faq >}}
 
 ## Sources
 
-1. [Con Edison: How to Read Your Electricity Meter](https://www.coned.com/en/accounts-billing/how-to-read-your-meter) — meter-reading and customer-submission guidance for Con Edison customers.
-2. [Con Edison: Sample Residential Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential) — example of billing period, rate, readings, usage, and taxes shown on a residential bill.
+1. [Con Edison — Frequently Asked Questions: About Bills](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq) (retrieved 2026-08-29)
+2. [Con Edison — How to Read Your Electricity Meter](https://www.coned.com/en/accounts-billing/how-to-read-your-meter) (retrieved 2026-08-29)
+3. [Public Utility Commission of Texas — Electricity FAQs](https://puc.texas.gov/consumer-help/faq/electricity/) (retrieved 2026-08-29)
+4. [Public Utility Commission of Texas — Know Your Rights](https://puc.texas.gov/consumer-help/complaints/rights/) (retrieved 2026-08-29)

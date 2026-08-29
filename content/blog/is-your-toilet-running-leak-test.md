@@ -3,7 +3,7 @@ title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your 
 slug: "is-your-toilet-running-leak-test"
 description: "Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your meter and bill."
 date: 2025-12-25
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -29,7 +29,7 @@ sources:
   <li><strong>Check the bowl.</strong> If any color shows up in the bowl water, water is leaking from the tank into the bowl — the flapper is the prime suspect.</li>
   <li><strong>Repair or replace the failed seal.</strong> Use the toilet manufacturer's instructions or ask a qualified plumber if you are not comfortable making the repair.</li>
 </ol>
-<p>Want a second confirmation? Turn off every faucet and appliance, then watch the [leak indicator dial](/blog/water-meter-leak-indicator-explained/) on your water meter. If it spins, water is moving somewhere. If the dye test was clean but the meter is still moving, you likely have a [hidden leak elsewhere](/blog/water-meter-running-when-no-water-used/).</p>
+<p>Want a second confirmation? Turn off every faucet and appliance, then watch the <a href="/blog/water-meter-leak-indicator-explained/">leak indicator dial</a> on your water meter. If it spins, water is moving somewhere. If the dye test was clean but the meter is still moving, you likely have a <a href="/blog/water-meter-running-when-no-water-used/">hidden leak elsewhere</a>.</p>
 
 {{< product-box asin="B0DQLFC3Q6" name="GoveeLife Smart Water Leak Detector 5-Pack" label="Catches Next Year's Leak" description="The dye test finds today's leak. A sensor like this Govee 5-pack catches the one that starts next year — place one behind the toilet, under the sink, and near the water heater. Alerts via SMS/app/email at 105 dB with IP67-rated sensors. 5-year battery life." button="Check Price on Amazon" >}}
 

@@ -4,7 +4,7 @@ slug: "44-how-to-lower-water-bill"
 aliases: ["/blog/stormwater-fee-on-water-bill-explained/"]
 description: "Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified savings ranges from EPA WaterSense, plus leak-detection tools."
 date: 2026-05-30
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -48,7 +48,7 @@ These actions require no purchase, no tools, and no contractor. Start here.
 
 *​Savings ranges assume household of 4, average US water rate of ~$0.0045/gal (based on $1,300/290,000 gal/yr benchmark from EPA WaterSense). Your actual savings depend on local rates and usage patterns.*
 
-**Source:** EPA WaterSense “Start Saving” guide (2026) reports that simple indoor habits can reduce household water use by 30–40% (retrieved 2026-08-28 from epa.gov/watersense/start-saving).[1]
+**Source:** EPA WaterSense reports the average family spends $1,300 per year on water but can save $500 by retrofitting with WaterSense-labeled fixtures and ENERGY STAR appliances, and that we can all use at least 20 percent less water indoors by installing efficient fixtures (epa.gov/watersense/start-saving, retrieved 2026-08-29).[1]
 
 ---
 
@@ -72,7 +72,7 @@ Leaks are the most common driver of unexpectedly high water bills. A family of f
 |---|
 | **Total low-cost fix range** | **$5–$50** | **$30–$200/yr** | |
 
-**Source:** EPA WaterSense “Fix a Leak Week” and “Identifying Household Leaks” (drop-test method, dye tablet guidance, and leak-cost calculator available at epa.gov/watersense/fix-leak).[1]
+**Source:** EPA WaterSense “Fix a Leak Week” and “Identifying Household Leaks” (drop-test method, dye tablet guidance, and leak-cost calculator available at epa.gov/watersense/fixaleak).[1]
 
 ---
 

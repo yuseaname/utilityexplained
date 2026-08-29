@@ -4,7 +4,7 @@ slug: "08-time-of-use-electricity"
 aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Compare a time-of-use electricity plan using the utility's current schedule, tariff, and your own interval or bill history."
 date: 2026-03-07
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -50,7 +50,9 @@ A standard dishwasher cycle uses about 1.5 kWh per load. Running it once daily a
 | Con Edison (summer, supply + delivery) | $0.67 | $0.33 | ~$124 |
 | TXU Free Nights (nights at $0) | $0.22 | $0.00 | ~$80 |
 
-You can automate the shift with a {{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Energy Monitor + Timer" description="15A / 1800W rating handles dishwashers and major appliances. Schedule the outlet to turn on after peak hours end and track daily kWh in the app." button="Check Price on Amazon" >}} — set it once and the shift runs itself.
+Rate notes, as of the effective dates shown above: PG&E figures reflect the E-TOU-C schedule effective March 2026 — confirm current rates on the utility's tariff page before planning around them, and note that TXU-style "free nights" plans typically cap the free energy (around 2,000 kWh/month on TXU's plan); a single daily dishwasher load stays far below it, but shifting your whole home onto a free-nights plan depends on your total usage.
+
+You can automate the shift with a {{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Energy Monitor + Timer" description="15A / 1800W rating handles plug-in appliances (many US dishwashers are hardwired — check yours before buying; this suits washers, dryers with NEMA 14-30 smart plugs, and plug-in dishwashers). Schedule the outlet to turn on after peak hours end and track daily kWh in the app." button="Check Price on Amazon" >}} — set it once and the shift runs itself.
 
 ## Get the Current Rate Schedule
 
