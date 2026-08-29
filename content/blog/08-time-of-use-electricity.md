@@ -50,9 +50,11 @@ A standard dishwasher cycle uses about 1.5 kWh per load. Running it once daily a
 | Con Edison (summer, supply + delivery) | $0.67 | $0.33 | ~$124 |
 | TXU Free Nights (nights at $0) | $0.22 | $0.00 | ~$80 |
 
-Rate notes, as of the effective dates shown above: PG&E figures reflect the E-TOU-C schedule effective March 2026 — confirm current rates on the utility's tariff page before planning around them, and note that TXU-style "free nights" plans typically cap the free energy (around 2,000 kWh/month on TXU's plan); a single daily dishwasher load stays far below it, but shifting your whole home onto a free-nights plan depends on your total usage.
+Rate notes, as of the effective dates shown above: PG&E figures reflect the E-TOU-C schedule effective March 2026 — confirm current rates on the utility's tariff page before planning around them, and note that TXU-style "free nights" plans typically cap the free energy (around 2,000 kWh/month on TXU's plan); a single daily dishwasher load stays far below it, but shifting your whole home onto a free-nights plan depends on your total usage. And if your statement also carries a separate demand line alongside the time-based energy prices, that is a different mechanism — see [demand charges on electricity bills: what they are and when they apply](/blog/49-demand-charges-electricity-bill-explained/).
 
 You can automate the shift with a {{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Energy Monitor + Timer" description="15A / 1800W rating handles plug-in appliances (many US dishwashers are hardwired — check yours before buying; this suits washers, dryers with NEMA 14-30 smart plugs, and plug-in dishwashers). Schedule the outlet to turn on after peak hours end and track daily kWh in the app." button="Check Price on Amazon" >}} — set it once and the shift runs itself.
+
+If you are building out this kind of automation, the wider shopping shortlist is here: [best smart plugs to eliminate standby power drain](/blog/50-best-smart-plugs-standby-power/).
 
 ## Get the Current Rate Schedule
 
@@ -67,17 +69,17 @@ Ask the utility for the tariff and confirm:
 | Enrollment rules | What start date, term, switching, and notice rules apply? |
 | Program events | Does the plan include demand-response or other event rules? |
 
-DOE's program resources describe time-variable pricing programs and load-shifting opportunities, but actual program terms must come from the local utility.[2][3]
+DOE's program resources describe time-variable pricing programs and load-shifting opportunities, but actual program terms must come from the local utility.[2][3] Once you have the schedule in hand, the broader question is whether this plan type fits your household at all — [which rate plan is right for you](/blog/which-rate-plan-is-right-for-me/) compares flat, TOU, and tiered side by side.
 
 ## Compare With Your Own Usage
 
-Use several comparable billing periods. If the utility provides interval data, group your kWh by the time periods listed in the proposed tariff. If interval data is unavailable, ask the utility whether it can provide a plan-comparison tool or a usage report.
+Use several comparable billing periods. If the utility provides interval data, group your kWh by the time periods listed in the proposed tariff — [how smart meters work](/blog/how-do-smart-meters-work/) explains where that interval data comes from and how it is recorded. If interval data is unavailable, ask the utility whether it can provide a plan-comparison tool or a usage report.
 
 Compare the complete bill, not only the advertised energy price. Include fixed charges, delivery components, taxes, riders, and any changes in billing days or seasons.
 
 ## Before You Change When You Use Electricity
 
-Only shift loads when it is safe, convenient, and consistent with equipment instructions. Do not alter medical, safety, heating, cooling, electrical-panel, or charging-equipment settings solely because of a generic schedule. Confirm your actual peak periods and program rules first.
+Only shift loads when it is safe, convenient, and consistent with equipment instructions. Do not alter medical, safety, heating, cooling, electrical-panel, or charging-equipment settings solely because of a generic schedule. Confirm your actual peak periods and program rules first — and before you lock in new habits, check [what time is electricity cheapest in your area](/blog/46-what-time-is-electricity-cheapest/), since off-peak windows are set by your utility's tariff, not by a national clock.
 
 ## Questions Before Enrolling
 
@@ -88,6 +90,51 @@ Only shift loads when it is safe, convenient, and consistent with equipment inst
 5. How will future tariff changes be announced?
 
 Save the tariff version and enrollment confirmation with your bill records.
+
+The questions above work best against a bill you can already read with confidence: [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) shows what each charge on your current statement means, so the comparison the utility runs against your historical usage is one you can check yourself.
+
+That is the whole review in one pass: get the tariff's real schedule, match it against your own interval data or bill history, move the loads that are safe to move, and keep the confirmation with your records — do that, and the plan either proves itself on your numbers or you walk away before enrolling.
+
+## Related Reading
+
+- [Which Rate Plan Is Right for You? Comparing Flat, TOU, and Tiered](/blog/which-rate-plan-is-right-for-me/) — the plan-decision guide this page's schedule review feeds into.
+- [Demand Charges on Electric Bills: How They Differ From TOU Pricing](/blog/49-demand-charges-electricity-bill-explained/) — the other rate mechanism that can sit on a TOU statement.
+- [Electric Bill Breakdown: How TOU Charges Appear on Your Statement](/blog/electric-bill-breakdown-understanding-line-items/) — where the time-based charges land among the line items.
+- [What Time Is Electricity Cheapest? A Practical Guide](/blog/46-what-time-is-electricity-cheapest/) — the when-to-run-it companion to this page.
+- [How Smart Meters Work: Enabling TOU Pricing With Interval Data](/blog/how-do-smart-meters-work/) — the metering behind the pricing.
+- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/03-why-is-my-electric-bill-so-high/) — if you came here chasing a bill jump.
+
+{{< faq "Do time-of-use plans actually save money?" >}}
+
+They can, but only against your own numbers. The page's worked example shifts a single dishwasher load from peak to off-peak and saves roughly $66–$124 a year depending on the utility; whether that scales for your household depends on your interval data or bill history compared against the utility's actual schedule — which is exactly the comparison to run before enrolling.
+
+{{< /faq >}}
+
+{{< faq "What happens to my bill if I can't shift my usage to off-peak hours?" >}}
+
+If your usage stays in peak windows, you pay the peak prices shown in the schedule table, and fixed charges, delivery components, taxes, and riders still apply exactly as they would on any other plan — which is why the bill comparison, not the advertised energy price, is the check that matters.
+
+{{< /faq >}}
+
+{{< faq "Do I need a special meter for a time-of-use plan?" >}}
+
+Possibly — the rate-schedule checklist includes metering, because a TOU plan may require interval data or additional equipment. Ask the utility whether interval data or equipment is required for your account, and see how smart meters supply that data.
+
+{{< /faq >}}
+
+{{< faq "Can I leave a time-of-use plan after I enroll?" >}}
+
+That depends on the enrollment rules in the tariff: start date, term, switching, and notice rules all apply, which is why they are on the verification checklist and why "what happens if I later want to leave the plan?" is a question to ask before enrolling, not after.
+
+{{< /faq >}}
+
+{{< faq "Is free nights really free?" >}}
+
+Mostly no — on the TXU-style plan shown above, overnight energy is $0.00/kWh only up to a monthly cap (around 2,000 kWh), the daytime hours are priced, and a $9.99/mo base charge applies regardless; the cap and the base charge are exactly why the checklist says to verify enrollment rules and total-bill effect rather than the headline.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
 
 ## Sources
 

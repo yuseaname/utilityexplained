@@ -1,0 +1,74 @@
+{
+  "agent": "cartographer",
+  "model": "deepseek/deepseek-v4-flash",
+  "status": "complete",
+  "summary": "Breadth survey of all 84 blog pages, intent-cluster map, cannibalization audit for 4 overlap pairs, and per-page link topology (Related Reading + body-link targets) for all 10 targets in the SQ-057 tier. Written to .squad/SQ-057/analysis-input/cartographer-lattice.md (52,740 chars).",
+  "findings": [
+    "Corpus = 84 .md files across 8 categories; 7 intent families identified (bill-reading, meter-reading, high-bill-diagnosis-water, high-bill-diagnosis-electric, rate-structures, fees-deposits-reconnection, taxes-surcharges) plus state/comparison, water/sewer, HVAC, and savings clusters",
+    "Cannibalization Pair 1 (01 vs deleted-41 vs electric-bill-breakdown): 41 was an alias on 01, no separate page; 01 vs electric-bill-breakdown are DISTINCT INTENTS (entry level vs deep dive) \u2014 link both ways, no consolidation",
+    "Cannibalization Pair 2 (how-to-read-electric-meter vs how-do-smart-meters-work): DISTINCT INTENTS (manual skill vs technology explainer) \u2014 already well-linked, no consolidation",
+    "Cannibalization Pair 3 (why-did-my-water-bill-suddenly-increase vs 06-water-bill-too-high vs water-meter-running-when-no-water-used): DISTINCT INTENTS (sudden spike vs ranked diagnostic vs specific symptom) \u2014 form a well-linked water-diagnosis triad, no consolidation",
+    "Cannibalization Pair 4 (27-connection-fee vs 28-reconnection-fee): DISTINCT INTENTS (service-start vs post-shutoff restoration) \u2014 already linked, no consolidation",
+    "08-time-of-use-electricity and 49-demand-charges have ZERO unique internal links \u2014 highest priority for link-building",
+    "08-time-of-use-electricity ranks as highest hub candidate (6 new body links proposed) followed by 49-demand-charges and why-did-my-water-bill-suddenly-increase (5 each)",
+    "Two top_s anomalies flagged: why-did-my-water-bill-suddenly-increase (0.0s) and how-to-read-a-water-meter (0.5s) \u2014 likely analytics artifacts, recommend verification",
+    "Per-page link-count deltas: +1 to +6 new internal links per target, total 32 new cross-links across the tier"
+  ],
+  "evidence": [
+    "Full page reads of all 10 target pages: why-did-my-water-bill-suddenly-increase.md, 49-demand-charges-electricity-bill-explained.md, 27-utility-connection-fee-explained.md, 08-time-of-use-electricity.md, 26-utility-deposit-explained.md, how-to-read-electric-meter.md, 01-how-to-read-your-electric-bill.md, how-to-read-a-water-meter.md, 21-past-due-balance-utility-bill-explained.md, tiered-electricity-rates-explained.md",
+    "Cannibalization audit reads: 03-why-is-my-electric-bill-so-high.md, 06-water-bill-too-high.md, water-meter-running-when-no-water-used.md, how-do-smart-meters-work.md, electric-bill-breakdown-understanding-line-items.md, 28-utility-reconnection-fee-explained.md, tiered-water-rates-explained.md",
+    "File survey: wc -l of all content/blog/*.md, grep of category frontmatter, grep of alias references",
+    "Output file: .squad/SQ-057/analysis-input/cartographer-lattice.md"
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: edit_file",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate sites/utilityexplained && wc -l content/blog/*.md | sort -t/ -k3' -> exit 2",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained' && wc -l content/blog/*.md | sort -t/ -k3' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-did-my-water-bill-suddenly-increase.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/49-demand-charges-electricity-bill-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-read-electric-meter.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-read-a-water-meter.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/21-past-due-balance-utility-bill-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-electricity-rates-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/electric-bill-breakdown-understanding-line-items.md",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained' && grep -rn '41-how-to-read-electricity-bill' content/ --include='*.md' | head -50' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-do-smart-meters-work.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-water-rates-explained.md",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained' && grep -h '^category: ' content/blog/*.md | sort | uniq -c | sort -rn' -> exit 0",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/analysis-input/cartographer-lattice.md (52740 chars)"
+  ],
+  "files_touched": [
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/analysis-input/cartographer-lattice.md"
+  ],
+  "test_results": "none (read-only recon mission; no implementation to test)",
+  "risks": [
+    "Body-link proposals targeting non-target pages are based on slug/intent inference, not full-text verification of those target pages \u2014 verify content before implementation",
+    "Two top_s anomalies (0.0s, 0.5s) may be analytics artifacts \u2014 implementer should verify with session-level data before treating as engagement problems",
+    "08-time-of-use-electricity and 49-demand-charges currently have 0 internal links; adding 5-6 links each creates a large structural change \u2014 implementer should verify link targets are accurate and the pages are ready to be discovery points"
+  ],
+  "unknowns": [
+    "Content of 60+ non-target pages was inferred from filename/slug only, not read in full \u2014 link proposals to non-target pages may need adjustment after content verification",
+    "Heating & Cooling cluster (12 pages) and Savings & Efficiency cluster (4 pages) were not surveyed in detail",
+    "/layouts/, /assets/, /config/, /themes/ were not surveyed \u2014 no structural dependencies verified",
+    "top_s anomalies (0.0s, 0.5s) could not be resolved from available data"
+  ],
+  "recommendation": "The map is ready for wave 2 implementation. Priority order: (1) link-isolated pages: 08-time-of-use-electricity and 49-demand-charges (0 links each, highest need); (2) water-diagnosis triad additions (leak indicator, toilet test, tiered water rates); (3) past-due/reconnection/deposit/connection quad cross-linking; (4) remaining per-page body-link additions. Verify top_s anomalies before treating as engagement data.",
+  "confidence": "high",
+  "confidence_basis": "All 10 target pages read in full; all 7 cannibalization-audit pages read in full; file-level survey of all 84 blog pages; category distribution verified; alias references confirmed. Non-target page content is inferred from filename/slug, which reduces confidence for those specific link proposals but does not affect the core deliverables.",
+  "tool_steps": 23,
+  "duration_seconds": 212.0,
+  "side_effects": true,
+  "warnings": [
+    "none"
+  ],
+  "context_est_tokens": 64767
+}

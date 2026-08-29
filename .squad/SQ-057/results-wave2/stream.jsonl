@@ -1,0 +1,4 @@
+{"packet": "w2-lt-b.json", "result_file": ".squad/SQ-057/results-wave2/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}
+{"packet": "w2-lt-a.json", "result_file": ".squad/SQ-057/results-wave2/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "w2-lt-c.json", "result_file": ".squad/SQ-057/results-wave2/03-lieutenant-3.json", "agent": "lieutenant#3", "status": "complete"}
+{"packet": "w2-mason.json", "result_file": ".squad/SQ-057/results-wave2/04-mason.json", "agent": "mason", "status": "complete"}

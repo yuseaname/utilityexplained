@@ -1,0 +1,5 @@
+{"packet": "w1-scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/packets/results/01-scout.json", "agent": "scout", "status": "partial"}
+{"packet": "w1-cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/packets/results/04-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "w1-tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/packets/results/03-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "w1-prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/packets/results/02-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "w1-verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/packets/results/05-verifier.json", "agent": "verifier", "status": "complete"}

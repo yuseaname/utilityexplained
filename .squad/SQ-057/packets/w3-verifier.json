@@ -1,0 +1,37 @@
+{
+ "role": "verifier",
+ "mission": "Claim-by-claim re-derivation of wave-2's execution logs against disk + diff for the 10 edited pages. Verdict per page: CONFIRMED / REFUTED / UNVERIFIED with file:line evidence. Read-only.",
+ "parent_objective": "SQ-057: APEX engagement pass ranks 21-30 (wave 3: verification)",
+ "context": "Wave-2 seats claim (execution logs in .squad/SQ-057/results-wave2/0*.json \u2014 read their findings): all lattice links placed at moment-of-need positions; FAQ+schema added where missing; Related Reading added; endings guided; dead zones broken; Kasa box byte-preserved; skip-lists logged.\nTargets (same 10 as wave 2):\n- content/blog/why-did-my-water-bill-suddenly-increase.md\n- content/blog/49-demand-charges-electricity-bill-explained.md\n- content/blog/27-utility-connection-fee-explained.md\n- content/blog/08-time-of-use-electricity.md\n- content/blog/26-utility-deposit-explained.md\n- content/blog/how-to-read-electric-meter.md\n- content/blog/01-how-to-read-your-electric-bill.md\n- content/blog/how-to-read-a-water-meter.md\n- content/blog/21-past-due-balance-utility-bill-explained.md\n- content/blog/tiered-electricity-rates-explained.md\n\nRE-DERIVE (pre-image = `git show HEAD:content/blog/<slug>.md`):\n1. PER-PAGE CLAIM TABLE \u2014 for each page: (a) claimed new links: present in post-image at the claimed section? (b) Related Reading: present? (c) FAQ: shortcode pairs balanced, content derived from pre-image facts (see 2)? (d) ending: last content before ## Sources is a guided block (RR/FAQ/next-step), not bare prose? (e) dead-zone break claimed: does the named stretch now carry a link/list?\n2. FACTS-FROZEN AUDIT (the load-bearing check): diff pre vs post (`git diff HEAD -- <file>`); every ADDED line must contain NO new numeric facts \u2014 no dollar figures, percentages, kWh/CCF/gallon quantities, dates, or named programs absent from the pre-image. Link anchors and section labels are fine. Any new number = REFUTED (quote it).\n3. 08-TOU Kasa box: product-box block identical pre/post.\n4. Frontmatter: only `updated:` changed per file.\n5. Skip-claims: spot-check 3 logged skips \u2014 is the stated reason consistent with the file state?",
+ "known_facts": [
+  "Commander rulings (binding): no new product boxes; no new facts/sources; images out of scope; frontmatter only updated:.",
+  "21-past-due and 26-deposit had FAQ blocks WITHOUT schema pre-wave \u2014 schema gaps were the real fix there.",
+  "Correlation note: mason shares your model family \u2014 treat its two pages with extra mechanical rigor (quote evidence, no judgment calls)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Evidence brief: .squad/SQ-057/evidence-brief.md. Wave-2 logs: .squad/SQ-057/results-wave2/."
+ },
+ "constraints": [
+  "Read-only: no file modifications anywhere.",
+  "No git mutations \u2014 show/diff/log only."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "10-row verdict table with evidence",
+  "Facts-frozen audit result per page (new-number scan of all added lines)",
+  "Kasa byte-compare verdict",
+  "Any REFUTED item quoted verbatim with file:line"
+ ]
+}

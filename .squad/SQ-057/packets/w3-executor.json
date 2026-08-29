@@ -1,0 +1,37 @@
+{
+ "role": "executor",
+ "mission": "Authoritative SQ-057 wave-3 verification sweep: hugo build + rendered-tree integrity + diff-scope audit for the 10 edited pages. Produce a per-page verdict table. You verify \u2014 you do NOT edit content.",
+ "parent_objective": "SQ-057: APEX engagement pass ranks 21-30 (wave 3: verification)",
+ "context": "Wave 2 edited exactly these 10 files (git diff vs HEAD 8628d171 shows them):\n- content/blog/why-did-my-water-bill-suddenly-increase.md\n- content/blog/49-demand-charges-electricity-bill-explained.md\n- content/blog/27-utility-connection-fee-explained.md\n- content/blog/08-time-of-use-electricity.md\n- content/blog/26-utility-deposit-explained.md\n- content/blog/how-to-read-electric-meter.md\n- content/blog/01-how-to-read-your-electric-bill.md\n- content/blog/how-to-read-a-water-meter.md\n- content/blog/21-past-due-balance-utility-bill-explained.md\n- content/blog/tiered-electricity-rates-explained.md\n\nSWEEP (mechanical, quote every command + count):\n1. BUILD: run the site's hugo build from repo root (inspect package.json / hugo.toml for the canonical command; plain `hugo` if none). Record exit code. On failure: capture the error verbatim and STOP content investigation (report blocked).\n2. RENDERED LINK INTEGRITY: for each of the 10 pages, extract every internal href from public/blog/<slug>/index.html and verify each resolves to an existing rendered path in public/ (page dir with index.html, or known alias behavior). Report per page: N/M resolve + any dead href verbatim.\n3. SCHEMA: grep the rendered HTML of the 10 for FAQ JSON-LD (application/ld+json containing FAQPage). Expected PRESENT on all 10 now (6 gained schema this wave; 4 had it). Per page y/n.\n4. RELATED READING: rendered 'Related Reading' section present on all 10. Per page y/n.\n5. JSX/TEMPLATE ARTIFACTS: grep the 10 rendered pages for '{', 'className', '=>', '</div>' leakage into prose \u2014 count must be 0 unexpected.\n6. SHORTCODE BALANCE: in the 10 SOURCE files, count {{< faq vs {{< /faq >}} (equal per file) and exactly one {{< faq-schema >}} per file.\n7. DIFF SCOPE: `git diff --stat` \u2014 confirm exactly the 10 files; frontmatter hunks touch ONLY the `updated:` field (git diff -U0 | grep frontmatter context).\n8. 27-connection watch item: confirm the routing self-check line renders in the first screen (grep rendered HTML for 'Which fee situation').",
+ "known_facts": [
+  "Pristine base: git HEAD (commit 8628d171...). Working-tree changes = wave-2 output only.",
+  "08-TOU must still contain exactly ONE product box (Kasa KP115) \u2014 byte-preserved.",
+  "HQ exemplars: content/blog/23-utility-billing-cycle-explained.md (SQ-055 treatment)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Build outputs to public/ \u2014 that is expected write surface for run_command only."
+ },
+ "constraints": [
+  "No edits to content/, layouts/, assets/, config \u2014 build artifacts in public/ and resources/ only.",
+  "No git mutations (no add/commit/checkout) \u2014 diff/log/show only."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Build exit code recorded",
+  "Per-page table: links M/M, schema y/n, RR y/n, shortcode balance",
+  "Diff-scope verdict (10 files / frontmatter-only)",
+  "All quoted commands in the log"
+ ]
+}

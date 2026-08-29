@@ -1,0 +1,78 @@
+{
+  "agent": "mason",
+  "model": "deepseek/deepseek-v4-flash",
+  "status": "complete",
+  "summary": "SQ-057 wave-2 fees-cluster implementation done for both 26-utility-deposit-explained and 27-utility-connection-fee-explained: all lattice body links placed at moment-of-need, Related Reading + FAQ sections added (26-deposit got its missing faq-schema + guided ending on top of its pre-existing FAQ blocks; 27-connection got full FAQ+schema from existing content), routing self-check on 27 in first screen, guided Next-steps endings on both. Frontmatter untouched except updated: 2026-08-29 (already correct; no change needed). No hugo build, no git, no writes outside write_paths.",
+  "findings": [
+    "EXECUTION LOG \u2014 26-utility-deposit-explained.md: (1) added lattice T5 link #1 'how to read your electric bill line by line' \u2192 /blog/01-how-to-read-your-electric-bill/ after the 12-consecutive-bills deposit-review sentence; (2) added T5 #2 'utility assistance programs: LIHEAP and other help' \u2192 /blog/utility-assistance-programs-liheap/ at start of the hardship section (lattice anchor preserved; reworded surrounding sentence so it reads grammatically and no new facts added); (3) added T5 #3 'utility reconnection fee: what it costs after shutoff' \u2192 /blog/28-utility-reconnection-fee-explained/ immediately after the refund-terms table paragraph; (4) added T5 #4 'can a utility shut off your service?' \u2192 /blog/can-utility-shut-off-service/ after the Texas cap sentence in the hardship section (lattice said 'after the Minnesota/framework discussion'; the overreach/cap framework discussion is what lands in the hardship section, so this is the correct moment-of-need; the Minnesota discussion in 'How and When Deposits Come Back' is also covered by the pre-existing past-due/payment-agreement link); (5) added T5 #5 'moving utilities checklist' \u2192 /blog/moving-utilities-checklist/ at the move-out/close-account sentence (lattice said 'after Cancellation or move-out'; that table row exists only on the 27 page \u2014 the deposit page's move-out moment is the refund-close language, so placed there); (6) added '## Related Reading' with 6 lattice candidates (27-connection, 21-past-due, 28-reconnection, liheap, can-utility-shut-off, moving-checklist) after main content and BEFORE the FAQ block; (7) added '## FAQ' heading above the 3 pre-existing FAQ blocks (packet said 'NO FAQ yet' but ground truth shows 3 blocks already present \u2014 did NOT duplicate; added only the missing heading); (8) added '## Next steps' guided ending (4 bullets with links, not a bare list) and single {{< faq-schema >}} after content, before Sources.",
+    "EXECUTION LOG \u2014 27-utility-connection-fee-explained.md: (1) added first-screen routing self-check '**Which fee situation are you in?**' with 3 branches (new service \u2192 keep reading; reconnection \u2192 /blog/28-utility-reconnection-fee-explained/; deposit only \u2192 /blog/26-utility-deposit-explained/) immediately after the Quick Answer and before the 'Before opening an account' line \u2014 satisfies the 9.4s watch-target fix; (2) added lattice T3 #1 'moving utilities checklist: what to do before moving day' \u2192 /blog/moving-utilities-checklist/ after the lease/purchase-documents sentence; (3) added lattice T3 #2 'utility assistance programs: LIHEAP and other help' \u2192 /blog/utility-assistance-programs-liheap/ in the cannot-afford paragraph; (4) added '## Related Reading' with 6 lattice candidates before FAQ; (5) added '## FAQ' with 5 questions answered strictly from existing page content: deposit-vs-connection (QA wording), refundability (Get-the-Details table 'refund policy' + provider-rules language), what it covers (the 5 table items), transfer (Questions for the Provider #1), help paying (Before Move-In LIHEAP sentence) \u2014 no new facts/numbers/sources; (6) added '## Next steps' guided ending + {{< faq-schema >}} before Sources.",
+    "SKIPPED items with reasons: lattice T3 #3 (deposit deep-dive after the Get-the-Details table) \u2014 target /blog/26-utility-deposit-explained/ is already linked twice in the Quick Answer with the same 'how utility deposits work' anchor, plus once in the new routing line; a third duplicate in the same screen was judged link-spam, and the packet scopes 27 to '2 new links from lattice T3'. Lattice T3 #5 (budget guide after Cancellation/move-out) \u2014 same packet scope; included /blog/how-to-budget-for-utilities-in-your-first-apartment/ in Related Reading instead. Lattice T3 #4 was a 'keep existing' no-op. For 26-deposit, no FAQ questions were added (blocks already existed and all viable Q&A was already present); only the missing schema + heading were supplied.",
+    "Ground-truth correction logged for the packet: 26-utility-deposit-explained ALREADY had 3 {{< faq >}} blocks (the packet's inventory said FAQ MISSING for it). Evidence brief table and per-page plan both said 'NO FAQ yet'. I did not duplicate; the page now has the missing Related Reading, FAQ heading, faq-schema, and guided ending, which were what it actually lacked.",
+    "Verification pass: both files re-read fully; shortcode counts balanced (26: 3 open/3 close + 1 schema; 27: 5 open/5 close + 1 schema); all inner /blog/ slugs resolved on disk (26: 7 unique links all OK; 27: 7 unique links all OK); no duplicate '## Related Reading'/'## FAQ'/'## Next steps' sections; frontmatter untouched (updated: already 2026-08-29).",
+    "No new facts, numbers, sources, or product boxes introduced; arithmetic untouched; existing boxes (none on these two pages) untouched."
+  ],
+  "evidence": [
+    "read-back of /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (full file)",
+    "read-back of /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md (full file)",
+    "run_command sha/balance check: 26 \u2192 faq open 3 / close 3 / schema 1; 27 \u2192 faq open 5 / close 5 / schema 1; each of Related Reading/FAQ/Next steps appears exactly once per file",
+    "run_command slug check: all internal /blog/ links on both files returned OK against content/blog/*.md",
+    "Up-front slug presence check: all 11 lattice target files OK before any insertion"
+  ],
+  "actions_taken": [
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/evidence-brief.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/analysis-input/cartographer-lattice.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/analysis-input/cartographer-lattice.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md",
+    "search '## Related Reading' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog (9 hits)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-read-electric-meter.md",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog' && for f in 01-how-to-read-your-electric-bill.md utility-assistance-programs-liheap.md 28-utility-reconnection-fee-explained.md can-utility-shut-off-service.md moving-utilities-checklist.md 27-utility-connection-fee-explained.md 26-utility-deposit-explained.md water-service-charge-explained.md how-to-budget-for-utilities-in-your-first-apartment.md 21-past-due-balance-utility-bill-explained.md; do if [ -f \"$f\" ]; then echo \"OK $f\"; else echo \"MISSING $f\"; fi; done' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (126->338 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (503->696 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (696->598 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (598->638 chars)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (141->334 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (298->503 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (311->492 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (413->1112 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md (161->842 chars)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md (858->1195 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md (223->347 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md (270->416 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md (194->2967 chars)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog' && echo '=== 26-deposit faq balance ===' && grep -c '{{< faq ' 26-utility-deposit-explained.md && grep -c '{{< /faq >}}' 26-utility-deposit-explained.md && grep -c '{{< faq-schema >}}' 26-utility-deposit-explained.md && echo '=== 27-connection faq balance ===' && grep -c '{{< faq ' 27-utility-connection-fee-explained.md && grep -c '{{< /faq >}}' 27-utility-connection-fee-explained.md && grep -c '{{< faq-schema >}}' 27-utility-connection-fee-explained.md && echo '=== dup sections check ===' && grep -n '^## Related Reading' 26-utility-deposit-explained.md 27-utility-connection-fee-explained.md && grep -n '^## FAQ' 26-utility-deposit-explained.md 27-utility-connection-fee-explained.md && grep -n '^## Next steps' 26-utility-deposit-explained.md 27-utility-connection-fee-explained.md' -> exit 0",
+    "run_command 'cd '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog' && for f in 26-utility-deposit-explained.md 27-utility-connection-fee-explained.md; do echo \"=== $f ===\"; grep -o '/blog/[a-z0-9-]*' \"$f\" | sort -u | while read slug; do base=$(basename \"$slug\").md; if [ -f \"$base\" ]; then echo \"OK $slug\"; else echo \"MISSING $slug\"; fi; done; done' -> exit 0"
+  ],
+  "files_touched": [
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md"
+  ],
+  "test_results": "No unit tests exist for these content files. Manual/command verification: (1) shortcode balance \u2014 26-deposit: 3 {{< faq >}} + 3 {{< /faq >}} + 1 {{< faq-schema >}} (exit 0); 27-connection: 5 + 5 + 1 (exit 0); (2) internal-slug resolution \u2014 all 14 unique /blog/ links across the two files resolve on disk (exit 0); (3) full-file read-backs completed with no truncation or structural errors.",
+  "risks": [
+    "26-deposit already contained 3 FAQ blocks that the packet inventory expected to be missing \u2014 if a later seat diffs against the packet's expectation they may think the FAQ section was duplicated; the ground-truth note above documents it, and no duplication exists.",
+    "The 26-deposit hardship link inserted at the start of the paragraph colors the first sentence; factual content order otherwise unchanged \u2014 re-read confirms no facts altered.",
+    "No hugo build was run (packet-required); shortcode rendering correctness is therefore verified only syntactically until wave 3 builds."
+  ],
+  "unknowns": [
+    "Whether the 27-connection routing line renders as intended under hugo (no build run per packet rule 7).",
+    "Pageview/engagement effect of the changes is measurable only after wave 3 build + subsequent traffic data."
+  ],
+  "recommendation": "Wave 3 should build and, for the 27-connection watch target, confirm the routing line appears in the first rendered screen; the cartographer hub-receiving links (lattice \u00a74) remain queued for the follow-up wave per ruling 8.",
+  "confidence": "high",
+  "confidence_basis": "Both files re-read in full after editing; every inserted slug verified on disk before and after insertion; shortcode counts balanced; section ordering matches the house pattern (Related Reading before FAQ; faq-schema after content before Sources); frontmatter confirmed untouched; all edits were targeted edit_file operations with exact-match strings, one logical change per edit.",
+  "tool_steps": 32,
+  "duration_seconds": 468.5,
+  "side_effects": true,
+  "warnings": [
+    "1 success_criteria unaddressed by the result \u2014 one deliverable nudge sent"
+  ],
+  "context_est_tokens": 37754
+}

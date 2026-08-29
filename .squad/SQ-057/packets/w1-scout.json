@@ -1,0 +1,39 @@
+{
+ "role": "scout",
+ "mission": "Fast structured inventory of the 10 target pages + their inbound-link graph. For EACH target: (1) frontmatter summary (title, description present/absent + first 8 words, aliases list, sources count via grep); (2) heading outline (## headings only, in order); (3) does a Quick Answer / answer-first block appear ABOVE the first ## (quote its first line); (4) presence of 'Next step:' journey line (grep, quote command); (5) internal links list with anchor text (grep pattern, quote each command per gemma4 counting law \u2014 NEVER count in your head); (6) what the page's final section is before EOF. THEN inbound graph: for each target, grep -rl across content/blog/ for pages linking to it, list slugs. Leads, not facts \u2014 mark anything uncertain.",
+ "parent_objective": "SQ-057: APEX engagement pass on traffic ranks 21-30 (intent matching, journey lattice, watch-list TOP fixes, FAQ+schema, trust repairs)",
+ "context": "MISSION CONTEXT \u2014 SQ-057 APEX engagement pass, ranks 21-30 tier (wave 1 of 3: read-only recon).\nSite: utilityexplained.com \u2014 Hugo static site, US consumers explaining utility bills. 89% organic search (Bing/DDG/Yahoo ecosystem), 56% mobile. Last-30d: 1,925 sessions, 89.2% bounce, 1.235 pages/session, 78s avg session. The disease this mission treats: answer-and-bounce readers \u2014 the site answers, then strands the reader.\nThe 10 target pages (content/blog/<slug>.md each, single md files) with pre-change baseline (Rybbit last30; top_s = avg time on page seconds):\n| rank | slug | visits | top_s | bounce | words | FAQ+schema | RelatedRead | uniqIntLinks |\n| 23 | why-did-my-water-bill-suddenly-increase | 24 | 0.0 | 91.7 | 1941 | y | y | 3 |\n| 24 | 49-demand-charges-electricity-bill-explained | 23 | 21.2 | 82.6 | 441 | n | n | 0 |\n| 25 | 27-utility-connection-fee-explained | 22 | 9.4 | 81.8 | 460 | n | n | 3 |\n| 26 | 08-time-of-use-electricity | 20 | 40.6 | 85.0 | 959 | n | n | 0 |\n| 27 | 26-utility-deposit-explained | 20 | 78.0 | 95.0 | 1114 | n | n | 3 |\n| 28 | how-to-read-electric-meter | 20 | 21.1 | 90.0 | 1071 | y | n | 1 |\n| 29 | 01-how-to-read-your-electric-bill | 19 | 69.2 | 79.0 | 1709 | y | n | 4 |\n| 30 | how-to-read-a-water-meter | 19 | 0.5 | 79.0 | 1487 | y | y | 3 |\n| 31 | 21-past-due-balance-utility-bill-explained | 18 | 29.6 | 88.9 | 1175 | n | n | 4 |\n| 32 | tiered-electricity-rates-explained | 17 | 17.4 | 88.2 | 698 | n | n | 3 |\nSELECTION RULING: raw ranks 21-22 (how-do-smart-meters-work, 18-fuel-adjustment-charge...) were already APEXed by SQ-055 and are EXCLUDED; replaced by ranks 31-32. Do NOT propose work on the SQ-055 cohort except as link targets.\nPRECEDENT: SQ-055 (ranks 11-20, complete + verified) applied: answer-first Quick Answer reorder, hero_below_answer, \"Next step:\" journey line after QA, routing self-check lines, jump-rows, named-label matching tables, FAQ via {{< faq \"Q\" >}}...{{< /faq >}} + one {{< faq-schema >}}, \"## Related Reading\" curated 4-6 links, moment-of-need body links (never end-of-page dumps), disclosure chips, trust repairs (verified math, verbatim quotes), JSX-artifact stripping. Reference exemplars on disk: content/blog/what-is-ccf-on-a-water-bill.md (Next step pattern), content/blog/how-utility-rates-fees-usage-work-together.md (FAQ pattern), content/blog/23-utility-billing-cycle-explained.md (full SQ-055 treatment).\nHARD RULES (site doctrine): facts were evidence-audited by SQ-051..054 \u2014 this mission changes reader EXPERIENCE, not facts. No new facts, no new sources, no numbers not already on the page. Frontmatter is untouchable except `updated:`. No wholesale format conversions (markdown-## files stay markdown; raw-HTML files stay HTML). Every internal link proposed must resolve to a real slug or alias under /blog/. Product boxes: existing shortcodes with REAL ASINs only; most pages get NONE.\nBASELINE FILE: .rybbit-t11320-2026-08-29/baseline_21-30.json (persisted). Fresh pull: .rybbit-t11320-2026-08-29/snapshot.json + ranking_top45.json.\n\nYOUR ANGLE:\nYou are the pathfinder: fastest seat, structured output, no interpretation. Output a compact markdown inventory table + per-page blocks. gemma4 law: every count comes from a quoted grep/wc command.",
+ "known_facts": [
+  "Wave 1 is READ-ONLY recon; waves 2 (implementation by 3 lieutenants + mason) and 3 (verification) follow.",
+  "All 10 targets have zero images (img=0); SQ-056 visual plans covered only the ranks 11-20 cohort \u2014 image placement is OUT OF SCOPE for this mission.",
+  "08-time-of-use-electricity and 49-demand-charges currently have ZERO unique internal links in body.",
+  "top_s anomalies to adjudicate: why-did-my-water-bill-suddenly-increase (0.0s), how-to-read-a-water-meter (0.5s)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Hugo content at content/blog/*.md. Site exemplars listed in context. .squad/SQ-055/ holds the precedent mission's analysis files (10 pages) for format reference."
+ },
+ "constraints": [
+  "Read-only mission: do not modify any file under content/, layouts/, assets/, or config.",
+  "Never propose adding facts/sources/numbers; engagement-only changes."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "web_search",
+  "web_fetch"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "All 10 pages inventoried with quoted count commands",
+  "Inbound-link graph for all 10 targets",
+  "Zero file modifications"
+ ]
+}

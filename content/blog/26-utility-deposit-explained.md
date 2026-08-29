@@ -49,19 +49,30 @@ Before paying, ask the provider to confirm the specific rule that authorizes the
 | Payment timing | Whether installments are allowed, and accepted methods |
 | Refund handling | When it's reviewed, credited, or returned — see the refund rules below |
 
-If the utility cannot name the rule behind the amount, ask for it in writing — that request alone sorts a required deposit from an overreach.
+If the utility cannot name the rule behind the amount, ask for it in writing — that request alone sorts a required deposit from an overreach. Should a deposit ever lead to a shutoff, the [utility reconnection fee: what it costs after shutoff](/blog/28-utility-reconnection-fee-explained/) is the separate charge for restoring service.
 
 ## How and When Deposits Come Back
 
-Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3].
+Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Moving in or out is when most deposit questions surface — the [moving utilities checklist](/blog/moving-utilities-checklist/) covers start, transfer, and stop service in one place. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3]. If you're at the review stage, knowing what the bill says helps you confirm the review is fair — [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks through each charge.
 
 Texas connects the deposit to service too: a REP may disconnect service for failure to pay a deposit [1], which makes the deposit as deadline-sensitive as the bill itself — [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) covers what has to happen before disconnection. If a deposit demand arrives while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), the payment-agreement route matters: under Minnesota's residential protections, an accepted payment agreement blocks any new deposit demand [4], and Texas customers who haven't received more than two termination notices in the past year are eligible for a deferred payment plan [1].
 
 ## If the Deposit Creates Hardship
 
-Paying the deposit and the first bill at once strains any budget. CFPB points customers to year-round utility-bill help through the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; 211 can help you identify local options [5]. LIHEAP assists roughly 6.7 million households with heating and cooling costs through local agencies [6] — and programs vary on whether they can cover a deposit, so confirm before assuming it.
+Paying the deposit and the first bill at once strains any budget. If the deposit creates a hardship, [utility assistance programs: LIHEAP and other help](/blog/utility-assistance-programs-liheap/) list the year-round income-tied options. CFPB points customers to the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; 211 can help you identify local options [5]. LIHEAP assists roughly 6.7 million households with heating and cooling costs through local agencies [6] — and programs vary on whether they can cover a deposit, so confirm before assuming it.
 
-Texas caps deposits tightly — 1/5 of estimated annual billing [1] — so an amount above that cap is itself grounds for a question or a complaint to the PUCT. A [reconnection fee](/blog/28-utility-reconnection-fee-explained/) is a different one-time charge that applies after shutoff, not at sign-up.
+Texas caps deposits tightly — 1/5 of estimated annual billing [1] — so an amount above that cap is itself grounds for a question or a complaint to the PUCT. And if a deposit demand ever escalates to disconnection, [can a utility shut off your service?](/blog/can-utility-shut-off-service/) covers the full notice and disconnection lifecycle before that happens. A [reconnection fee](/blog/28-utility-reconnection-fee-explained/) is a different one-time charge that applies after shutoff, not at sign-up.
+
+## Related Reading
+
+- [Utility connection fee: what it costs to start service](/blog/27-utility-connection-fee-explained/)
+- [Past-due balance on a utility bill: what to do before shutoff](/blog/21-past-due-balance-utility-bill-explained/)
+- [Utility reconnection fee: how to restore service after shutoff](/blog/28-utility-reconnection-fee-explained/)
+- [Utility assistance programs: LIHEAP and other help for bill payments](/blog/utility-assistance-programs-liheap/)
+- [Can a utility shut off your service? The full notice and disconnection process](/blog/can-utility-shut-off-service/)
+- [Moving utilities checklist: start, transfer, and stop service](/blog/moving-utilities-checklist/)
+
+## FAQ
 
 {{< faq "What is the most a utility can charge as a deposit?" >}}
 
@@ -80,6 +91,15 @@ Ask what your state's rules and your utility's tariff already allow. In Texas, a
 Under Southern California Edison's published terms: after 12 consecutive on-time bills and established credit for a mid-account review [3], or within 30 days of account closing — mailed with the closing bill, and auto-applied to the account 10 days after final shutoff [3]. Your utility's tariff and state rules set the exact clock; ask for it in writing when you pay.
 
 {{< /faq >}}
+
+## Next steps
+
+- Have a deposit demand in hand? Confirm the [terms in writing](#get-the-deposit-terms-in-writing) before paying, and compare the amount against your state's cap.
+- Can't pay the deposit and the first bill at once? Check [utility assistance programs: LIHEAP and other help](/blog/utility-assistance-programs-liheap/) before the due date.
+- Moving? Use the [moving utilities checklist](/blog/moving-utilities-checklist/) to start, transfer, or stop service without losing track of your deposit.
+- Facing a shutoff notice? Review the [full disconnection process](/blog/can-utility-shut-off-service/) so you know your options before service stops.
+
+{{< faq-schema >}}
 
 ## Sources
 

@@ -1,0 +1,2 @@
+{"packet": "w3-verifier.json", "result_file": ".squad/SQ-057/results-wave3/02-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "w3-executor.json", "result_file": ".squad/SQ-057/results-wave3/01-executor.json", "agent": "executor", "status": "partial"}

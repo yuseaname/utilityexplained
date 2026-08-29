@@ -3,7 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
 slug: "how-to-read-electric-meter"
 description: "Learn how to record an electric-meter reading, compare it with a bill, and ask your utility about meter-specific details."
 date: 2025-12-25
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -33,7 +33,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               It also helps you spot unusual usage early. If you catch a spike mid-
-              month, you can troubleshoot before the bill arrives.
+              month, you can troubleshoot before the bill arrives. For the
+              baffling version — a big bill with no change in habits — work
+              through <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden spike in electricity bill with no usage change</a>.
             </p>
             <p>
               Not sure what the meter is measuring? Read
@@ -89,14 +91,13 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               Digital meters show a number directly, usually labeled kWh.
             </p>
             <p>
-              Some digital meters cycle through multiple screens. Wait until you see
-              the total kWh reading (not voltage or test codes), then write down the
-              full number.
+              Some digital meters cycle through multiple screens. When you read one:
             </p>
-            <p>
-              A practical habit: take the reading at the same time of day once per
-              week. That gives you a simple "usage trend" without any special tools.
-            </p>
+            <ul>
+              <li>Wait until you see the total kWh reading (not voltage or test codes).</li>
+              <li>Write down the full number.</li>
+              <li>Take the reading at the same time of day once per week — a simple "usage trend" without any special tools.</li>
+            </ul>
 
 <h2 id="smart-meter">How to use smart meter data (without getting overwhelmed)</h2>
 <p>
@@ -117,7 +118,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             <p>
               If your bill varies a lot month to month, our
               <a href="/utility-bills-costs-explained/"> utility bills guide</a>
-              explains how rate structures can change the total.
+              explains how rate structures can change the total. And if the total
+              keeps climbing, start from
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">why is my electric bill so high</a>
+              and rule out causes one by one.
             </p>
 
 <h2 id="calculate-usage">How to calculate your usage from two readings</h2>
@@ -151,6 +155,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               to the kWh shown on the statement. Small differences can happen if you
               read the meter on a different day than the utility.
             </p>
+            <p>
+              To judge whether 420 kWh — or whatever your two readings gave you — is
+              typical, see <a href="/blog/11-understanding-kwh-usage/">understanding kWh usage: what a normal month looks like</a>.
+            </p>
 
 <h2 id="verify-bill">How to verify your bill using the meter</h2>
 <p>
@@ -161,7 +169,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               <li>Confirm the bill says "actual" (not estimated) if possible.</li>
               <li>Compare your own reading around the same date.</li>
               <li>
-                If something seems off, confirm the billing period length first.
+                If something seems off, confirm the billing period length first —
+                <a href="/blog/23-utility-billing-cycle-explained/">how utility billing cycles work</a>
+                explains why two bills can cover different day counts.
               </li>
             </ul>
             <p>
@@ -173,6 +183,20 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               </a>
               .
             </p>
+            <p>
+              For the reading side of that statement — period, read type, charges —
+              use <a href="/blog/01-how-to-read-your-electric-bill/">how to read your electric bill line by line</a>
+              alongside your own bill.
+            </p>
+
+## Related Reading
+
+- [How smart meters work: technology, accuracy, and privacy](/blog/how-do-smart-meters-work/) — what the meter sends your utility, and when.
+- [How to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) — where the meter reading goes on the statement.
+- [Understanding kWh usage: what a normal month of electricity use looks like](/blog/11-understanding-kwh-usage/) — judge whether your numbers are typical.
+- [Why is my electric bill so high? The full diagnosis checklist](/blog/03-why-is-my-electric-bill-so-high/) — when the reading looks right but the total doesn't.
+- [Electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/) — from raw kWh to line items.
+- [What is a kilowatt hour?](/blog/what-is-a-kilowatt-hour/) — the unit on the display, in plain English.
 
 {{< faq "How often should I read my electric meter?" >}}
 
@@ -211,6 +235,8 @@ Yes. Take a baseline reading, run one major load (like a dryer cycle), then read
 Take a photo or written reading at a consistent time, then compare it with a later reading and the matching utility billing period. The U.S. Department of Energy notes that electric meters come in several varieties, including analog dial, analog mechanical, and digital meters; use the guidance from the utility that installed yours before interpreting a display.[1]
 
 If the number, billing date, or meter identifier does not make sense, contact the utility and ask how it read the meter and calculated the bill.
+
+**Where to go next:** Pick one meter reading to check this week — five minutes is enough. If your numbers match the bill, you are done; if they do not, take the reading history to [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) and check the meter lines there against the charges on [electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/).
 
 ## Sources
 

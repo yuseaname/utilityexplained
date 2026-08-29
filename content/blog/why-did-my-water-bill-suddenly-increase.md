@@ -43,7 +43,8 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               Start with toilets. EPA's method: place a few drops of food coloring
               in the toilet tank, and if any color shows up in the bowl after
               10 minutes, you have a leak. Flush immediately after the test to
-              avoid staining the tank.[1]
+              avoid staining the tank.[1] For the complete walkthrough, see
+              <a href="/blog/is-your-toilet-running-leak-test/">full toilet leak test instructions</a>.
             </p>
             <p>
               Next, examine faucet gaskets and pipe fittings for any water on the
@@ -63,6 +64,18 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               If you have a sprinkler timer, confirm it has not been reset or
               extended. Accidental programming changes are a frequent cause of summer
               spikes.
+            </p>
+            <p><strong>Leak-check quick list:</strong></p>
+            <ul>
+              <li>Toilet dye test: food coloring in the tank; color in the bowl after 10 minutes means a flapper leak.[1]</li>
+              <li>Feel faucets and exposed pipe fittings for moisture — a one-drip-per-second faucet can waste more than 3,000 gallons a year.[1]</li>
+              <li>Walk the irrigation line: a leak the thickness of a dime can waste about 6,300 gallons a month.[1]</li>
+              <li>Confirm the sprinkler timer schedule hasn't been reset or extended.</li>
+            </ul>
+            <p>
+              Work the list top to bottom. Once the toilet and fixtures check out,
+              move to the <a href="#meter-check">two-hour meter test</a> below to
+              confirm whether water is moving when everything is off.
             </p>
 
 <h2 id="usage-changes">Look for normal usage changes</h2>
@@ -105,7 +118,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               Look for a tier table on your bill. It will show different prices for
               different usage tiers. Knowing where you are in the tiers helps you
               judge whether a small usage change is affecting the price. The specific
-              thresholds and prices are set by your local utility's rate schedule.
+              thresholds and prices are set by your local utility's rate schedule. For
+              a deeper example of how blocks price the same gallon differently, see
+              <a href="/blog/tiered-water-rates-explained/">how tiered water rates work</a>.
             </p>
             <p>
               If you are close to a tier threshold, small conservation steps can
@@ -122,7 +137,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
             <p>
               If you use a smart irrigation controller, review the settings after
               heavy rain or a seasonal shift. Many systems adjust automatically, but
-              a manual review can prevent unnecessary watering.
+              a manual review can prevent unnecessary watering. For a fuller breakdown
+              of the seasonal pattern, see
+              <a href="/blog/why-is-my-water-bill-higher-in-summer/">why water bills climb in summer</a>.
             </p>
 
 <h2 id="billing-details">Check the billing details</h2>
@@ -141,7 +158,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
 <p>
               EPA's leak-check method: check your water meter before and after a
               two-hour period when no water is being used. If the meter changes at
-              all, you probably have a leak.[1]
+              all, you probably have a leak.[1] Not sure how to read the numbers?
+              Our guide to <a href="/blog/how-to-read-a-water-meter/">how to read your water meter</a>
+              covers dial and digital displays, including which unit you're looking at.
             </p>
             <p>
               You can also compare your meter reading to the bill. If it is close, the
@@ -189,7 +208,8 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               Billing errors are less common than leaks, but they can happen. If you
               believe the bill is incorrect, document your meter reading and contact
               the utility. Ask whether the bill was estimated and whether a re-read is
-              possible.
+              possible. If you need the formal process, see
+              <a href="/blog/how-to-dispute-utility-bill/">how to dispute a utility bill</a>.
             </p>
             <p>
               Some utilities will adjust a bill if a leak is fixed quickly or if a
@@ -216,6 +236,14 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               adjustment or leak-forgiveness policy. EPA notes that fixing easily
               corrected household water leaks can save homeowners about 10 percent on
               their water bills.[1]
+            </p>
+            <p><strong>Next step:</strong> after the two checks above, follow the
+              result: water moved with everything off means a leak — start with the
+              <a href="#leak-check">toilet dye test and the leak checks</a>; water
+              did not move means the meter test cleared the leaks, so compare your
+              reading against the <a href="#billing-details">billing details</a>;
+              and if the numbers still don't line up, take them through the
+              <a href="#billing-errors">billing-error and dispute steps</a>.
             </p>
 
 {{< faq "How much water does a running toilet waste?" >}}

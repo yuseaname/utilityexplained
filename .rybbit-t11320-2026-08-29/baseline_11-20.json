@@ -1,0 +1,105 @@
+{
+ "generated": "2026-08-29",
+ "window": "last30 (2026-07-30..2026-08-29)",
+ "purpose": "pre-change baseline for ranks 11-20 APEX optimization (SQ-055)",
+ "site_overview_last30": {
+  "sessions": 1925,
+  "pages_per_session": 1.24,
+  "bounce_rate": 89.19,
+  "session_duration": 78.09,
+  "pageviews": 2379,
+  "users": 1584
+ },
+ "selected_pages": [
+  {
+   "path": "/blog/23-utility-billing-cycle-explained/",
+   "visits": 59,
+   "pageviews": 65,
+   "top_s": 55.7,
+   "bounce": 83.05,
+   "visits_p30": 0,
+   "visits_l7": 22
+  },
+  {
+   "path": "/blog/07-gas-bill-too-high/",
+   "visits": 56,
+   "pageviews": 63,
+   "top_s": 92.3,
+   "bounce": 83.93,
+   "visits_p30": 0,
+   "visits_l7": 25
+  },
+  {
+   "path": "/blog/electric-bill-breakdown-understanding-line-items/",
+   "visits": 52,
+   "pageviews": 64,
+   "top_s": 57.7,
+   "bounce": 73.08,
+   "visits_p30": 0,
+   "visits_l7": 19
+  },
+  {
+   "path": "/blog/25-utility-bill-taxes-fees-franchise-charges-explained/",
+   "visits": 39,
+   "pageviews": 45,
+   "top_s": 5.6,
+   "bounce": 82.05,
+   "visits_p30": 0,
+   "visits_l7": 12
+  },
+  {
+   "path": "/blog/average-utility-bills-by-state-2026/",
+   "visits": 30,
+   "pageviews": 33,
+   "top_s": 14.2,
+   "bounce": 86.67,
+   "visits_p30": 0,
+   "visits_l7": 9
+  },
+  {
+   "path": "/blog/19-utility-bill-surcharges-and-riders-explained/",
+   "visits": 28,
+   "pageviews": 29,
+   "top_s": 4.2,
+   "bounce": 92.86,
+   "visits_p30": 0,
+   "visits_l7": 8
+  },
+  {
+   "path": "/blog/mcf-vs-ccf-vs-therms-on-gas-bill/",
+   "visits": 27,
+   "pageviews": 28,
+   "top_s": 37.1,
+   "bounce": 88.89,
+   "visits_p30": 0,
+   "visits_l7": 11
+  },
+  {
+   "path": "/blog/why-your-electric-bill-keeps-rising-2026/",
+   "visits": 27,
+   "pageviews": 28,
+   "top_s": 0.1,
+   "bounce": 96.3,
+   "visits_p30": 0,
+   "visits_l7": 12
+  },
+  {
+   "path": "/blog/stormwater-fee-on-water-bill-explained/",
+   "visits": 26,
+   "pageviews": 27,
+   "top_s": 0.3,
+   "bounce": 88.46,
+   "visits_p30": 0,
+   "visits_l7": 10
+  },
+  {
+   "path": "/blog/average-water-usage-per-person/",
+   "visits": 25,
+   "pageviews": 27,
+   "top_s": 13.4,
+   "bounce": 88,
+   "visits_p30": 0,
+   "visits_l7": 22
+  }
+ ]
+}

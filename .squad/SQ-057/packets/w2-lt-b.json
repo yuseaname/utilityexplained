@@ -1,0 +1,44 @@
+{
+ "role": "lieutenant",
+ "mission": "Implement the approved SQ-057 APEX plans for 3 pages (49-demand-charges-electricity-bill-explained, 08-time-of-use-electricity, tiered-electricity-rates-explained). For each: read the evidence brief, read your lattice section, read the target article, execute per the implementation rules, self-critique, fix, and log. Goal: a reader who thinks 'that answered what I came for, and gave me something useful I didn't know I needed.'",
+ "parent_objective": "SQ-057: APEX engagement pass on traffic ranks 21-30 (wave 2: implementation)",
+ "context": "MISSION CONTEXT\nutilityexplained.com \u2014 Hugo utility-bill explainer site, US consumers, 89% organic search (Bing/DDG), 56% mobile. Wave 2 of 3: wave-1 recon is synthesized in the evidence brief (READ IT FIRST); wave 3 verifies. The tier's disease: every page answers on the first screen, then strands the reader \u2014 all existing body links sit in the top quarter, 6 endings are stranded, 8 pages lack Related Reading, 6 lack FAQ.\nYOUR PAGES:\nThe rate-structure trio \u2014 you own all three so their bidirectional cross-links (Commander-approved, cartographer rec #1) stay consistent: 49<->08, 49<->tiered, 08<->tiered.\n1. 49-demand-charges (rank 24, v=23, 441w THINNEST): ZERO body links, no FAQ, no RR, stranded ending. Full APEX: 5 body links from lattice T2, routing self-check line early (watch: 21.2s TOP), FAQ+schema from existing content, Related Reading, guided ending.\n2. 08-time-of-use-electricity (rank 26, v=20, top 40.6s): ZERO body links, no FAQ, no RR. 6 links from lattice T4 (keep the existing Kasa KP115 box untouched). FAQ+schema, Related Reading, guided ending.\n3. tiered-electricity-rates-explained (rank 32, v=17): no FAQ, no RR. 2 new links from lattice T10. FAQ+schema, Related Reading, guided ending.\nLATTICE SECTIONS: TARGET 2 (lines ~300-328), TARGET 4 (lines ~358-387), TARGET 10 (lines ~535-562).\n\nIMPLEMENTATION RULES (binding; from SQ-055 precedent, amended by SQ-057 rulings in the evidence brief)\n1. Read the evidence brief FIRST: .squad/SQ-057/evidence-brief.md \u2014 its 9 Commander rulings override anything else. Your per-page link tables are in .squad/SQ-057/analysis-input/cartographer-lattice.md section 3 (your packet names your targets + line ranges).\n2. You own EXACTLY the files in resources.write_paths. Write nothing else. Do not run hugo (wave 3 owns the build).\n3. Execute the approved plan: moment-of-need body links (exact anchor text in the lattice tables), FAQ via {{< faq \"Question?\" >}} answer {{< /faq >}} per Q + one {{< faq-schema >}} AFTER content BEFORE ## Sources, \"## Related Reading\" section after main content BEFORE FAQ, ending converted to guided (never end on a bare list or prose wall), dead-zone breaks (bullets/checklist/table/link every ~80-100w), self-check or routing line on the watch-list pages named in the brief.\n4. FAQ answers derive ONLY from the page's existing content \u2014 no new facts, numbers, or sources. If a planned FAQ cannot be answered from existing content, skip it and log the skip.\n5. Preserve markup idiom (markdown-## stays markdown; raw-HTML stays HTML). Targeted edit_file edits, chunked, one logical change per edit \u2014 never one giant write_file of the whole article.\n6. Frontmatter: change ONLY updated: -> 2026-08-29. Never touch title/slug/draft/aliases/sources.\n7. Every link you insert: verify the slug exists (ls content/blog/<slug>.md) before inserting; skip+log if not.\n8. No new product boxes. Keep any existing box exactly as-is.\n9. Self-critique pass after edits: re-read each changed file; check links resolve, shortcodes balanced, no duplicated sections, ending guided. Fix, then write a short Execution Log (per file: what changed, what skipped+why) into your result envelope.",
+ "known_facts": [
+  "Evidence brief (rulings + plans): /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/evidence-brief.md",
+  "Link topology tables: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/analysis-input/cartographer-lattice.md",
+  "All arithmetic on these pages was verifier-CONFIRMED \u2014 change none of it.",
+  "The 21 new link targets are Commander-verified on disk; still verify each slug at insertion (typo guard)."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/49-demand-charges-electricity-bill-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-electricity-rates-explained.md"
+  ],
+  "notes": "House-pattern exemplars named in the brief. Baseline: .rybbit-t11320-2026-08-29/baseline_21-30.json"
+ },
+ "constraints": [
+  "Own exactly your write_paths files; nothing else.",
+  "No new facts/sources/numbers; FAQ from existing content only.",
+  "No hugo build; no git commands; wave 3 owns both."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "write_file",
+  "edit_file"
+ ],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "Every page: approved body links inserted at moment-of-need positions (lattice tables)",
+  "Every page: ending guided; Related Reading present (add if missing); FAQ+schema present (add if missing, from existing content)",
+  "Dead zones on your pages broken per brief",
+  "Frontmatter untouched except updated: 2026-08-29",
+  "Execution Log in envelope: per-file changes + skipped items with reasons"
+ ]
+}

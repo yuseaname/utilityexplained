@@ -1,0 +1,495 @@
+exit_code: 0
+=== content/blog/26-utility-deposit-explained.md ===
+diff --git a/content/blog/26-utility-deposit-explained.md b/content/blog/26-utility-deposit-explained.md
+index 9adfc001..45b28bf6 100644
+--- a/content/blog/26-utility-deposit-explained.md
++++ b/content/blog/26-utility-deposit-explained.md
+@@ -49,19 +49,30 @@ Before paying, ask the provider to confirm the specific rule that authorizes the
+ | Payment timing | Whether installments are allowed, and accepted methods |
+ | Refund handling | When it's reviewed, credited, or returned — see the refund rules below |
+ 
+-If the utility cannot name the rule behind the amount, ask for it in writing — that request alone sorts a required deposit from an overreach.
++If the utility cannot name the rule behind the amount, ask for it in writing — that request alone sorts a required deposit from an overreach. Should a deposit ever lead to a shutoff, the [utility reconnection fee: what it costs after shutoff](/blog/28-utility-reconnection-fee-explained/) is the separate charge for restoring service.
+ 
+ ## How and When Deposits Come Back
+ 
+-Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3].
++Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Moving in or out is when most deposit questions surface — the [moving utilities checklist](/blog/moving-utilities-checklist/) covers start, transfer, and stop service in one place. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3]. If you're at the review stage, knowing what the bill says helps you confirm the review is fair — [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks through each charge.
+ 
+ Texas connects the deposit to service too: a REP may disconnect service for failure to pay a deposit [1], which makes the deposit as deadline-sensitive as the bill itself — [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) covers what has to happen before disconnection. If a deposit demand arrives while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), the payment-agreement route matters: under Minnesota's residential protections, an accepted payment agreement blocks any new deposit demand [4], and Texas customers who haven't received more than two termination notices in the past year are eligible for a deferred payment plan [1].
+ 
+ ## If the Deposit Creates Hardship
+ 
+-Paying the deposit and the first bill at once strains any budget. CFPB points customers to year-round utility-bill help through the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; 211 can help you identify local options [5]. LIHEAP assists roughly 6.7 million households with heating and cooling costs through local agencies [6] — and programs vary on whether they can cover a deposit, so confirm before assuming it.
++Paying the deposit and the first bill at once strains any budget. If the deposit creates a hardship, [utility assistance programs: LIHEAP and other help](/blog/utility-assistance-programs-liheap/) list the year-round income-tied options. CFPB points customers to the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; 211 can help you identify local options [5]. LIHEAP assists roughly 6.7 million households with heating and cooling costs through local agencies [6] — and programs vary on whether they can cover a deposit, so confirm before assuming it.
+ 
+-Texas caps deposits tightly — 1/5 of estimated annual billing [1] — so an amount above that cap is itself grounds for a question or a complaint to the PUCT. A [reconnection fee](/blog/28-utility-reconnection-fee-explained/) is a different one-time charge that applies after shutoff, not at sign-up.
++Texas caps deposits tightly — 1/5 of estimated annual billing [1] — so an amount above that cap is itself grounds for a question or a complaint to the PUCT. And if a deposit demand ever escalates to disconnection, [can a utility shut off your service?](/blog/can-utility-shut-off-service/) covers the full notice and disconnection lifecycle before that happens. A [reconnection fee](/blog/28-utility-reconnection-fee-explained/) is a different one-time charge that applies after shutoff, not at sign-up.
++
++## Related Reading
++
++- [Utility connection fee: what it costs to start service](/blog/27-utility-connection-fee-explained/)
++- [Past-due balance on a utility bill: what to do before shutoff](/blog/21-past-due-balance-utility-bill-explained/)
++- [Utility reconnection fee: how to restore service after shutoff](/blog/28-utility-reconnection-fee-explained/)
++- [Utility assistance programs: LIHEAP and other help for bill payments](/blog/utility-assistance-programs-liheap/)
++- [Can a utility shut off your service? The full notice and disconnection process](/blog/can-utility-shut-off-service/)
++- [Moving utilities checklist: start, transfer, and stop service](/blog/moving-utilities-checklist/)
++
++## FAQ
+ 
+ {{< faq "What is the most a utility can charge as a deposit?" >}}
+ 
+@@ -81,6 +92,15 @@ Under Southern California Edison's published terms: after 12 consecutive on-time
+ 
+ {{< /faq >}}
+ 
++## Next steps
++
++- Have a deposit demand in hand? Confirm the [terms in writing](#get-the-deposit-terms-in-writing) before paying, and compare the amount against your state's cap.
++- Can't pay the deposit and the first bill at once? Check [utility assistance programs: LIHEAP and other help](/blog/utility-assistance-programs-liheap/) before the due date.
++- Moving? Use the [moving utilities checklist](/blog/moving-utilities-checklist/) to start, transfer, or stop service without losing track of your deposit.
++- Facing a shutoff notice? Review the [full disconnection process](/blog/can-utility-shut-off-service/) so you know your options before service stops.
++
++{{< faq-schema >}}
++
+ ## Sources
+ 
+ 1. [Public Utility Commission of Texas — Electricity FAQs](https://puc.texas.gov/consumer-help/faq/electricity/) (retrieved 2026-08-29)
+---
+=== content/blog/how-to-read-electric-meter.md ===
+diff --git a/content/blog/how-to-read-electric-meter.md b/content/blog/how-to-read-electric-meter.md
+index 8d3bbb87..71b9de34 100644
+--- a/content/blog/how-to-read-electric-meter.md
++++ b/content/blog/how-to-read-electric-meter.md
+@@ -3,7 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
+ slug: "how-to-read-electric-meter"
+ description: "Learn how to record an electric-meter reading, compare it with a bill, and ask your utility about meter-specific details."
+ date: 2025-12-25
+-updated: 2026-08-21
++updated: 2026-08-29
+ author: "Margaret Harrington"
+ category: "Electricity"
+ categories: ["Electricity"]
+@@ -33,7 +33,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+             </p>
+             <p>
+               It also helps you spot unusual usage early. If you catch a spike mid-
+-              month, you can troubleshoot before the bill arrives.
++              month, you can troubleshoot before the bill arrives. For the
++              baffling version — a big bill with no change in habits — work
++              through <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden spike in electricity bill with no usage change</a>.
+             </p>
+             <p>
+               Not sure what the meter is measuring? Read
+@@ -89,14 +91,13 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+               Digital meters show a number directly, usually labeled kWh.
+             </p>
+             <p>
+-              Some digital meters cycle through multiple screens. Wait until you see
+-              the total kWh reading (not voltage or test codes), then write down the
+-              full number.
+-            </p>
+-            <p>
+-              A practical habit: take the reading at the same time of day once per
+-              week. That gives you a simple "usage trend" without any special tools.
++              Some digital meters cycle through multiple screens. When you read one:
+             </p>
++            <ul>
++              <li>Wait until you see the total kWh reading (not voltage or test codes).</li>
++              <li>Write down the full number.</li>
++              <li>Take the reading at the same time of day once per week — a simple "usage trend" without any special tools.</li>
++            </ul>
+ 
+ <h2 id="smart-meter">How to use smart meter data (without getting overwhelmed)</h2>
+ <p>
+@@ -117,7 +118,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+             <p>
+               If your bill varies a lot month to month, our
+               <a href="/utility-bills-costs-explained/"> utility bills guide</a>
+-              explains how rate structures can change the total.
++              explains how rate structures can change the total. And if the total
++              keeps climbing, start from
++              <a href="/blog/03-why-is-my-electric-bill-so-high/">why is my electric bill so high</a>
++              and rule out causes one by one.
+             </p>
+ 
+ <h2 id="calculate-usage">How to calculate your usage from two readings</h2>
+@@ -151,6 +155,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+               to the kWh shown on the statement. Small differences can happen if you
+               read the meter on a different day than the utility.
+             </p>
++            <p>
++              To judge whether 420 kWh — or whatever your two readings gave you — is
++              typical, see <a href="/blog/11-understanding-kwh-usage/">understanding kWh usage: what a normal month looks like</a>.
++            </p>
+ 
+ <h2 id="verify-bill">How to verify your bill using the meter</h2>
+ <p>
+@@ -161,7 +169,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+               <li>Confirm the bill says "actual" (not estimated) if possible.</li>
+               <li>Compare your own reading around the same date.</li>
+               <li>
+-                If something seems off, confirm the billing period length first.
++                If something seems off, confirm the billing period length first —
++                <a href="/blog/23-utility-billing-cycle-explained/">how utility billing cycles work</a>
++                explains why two bills can cover different day counts.
+               </li>
+             </ul>
+             <p>
+@@ -173,6 +183,20 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
+               </a>
+               .
+             </p>
++            <p>
++              For the reading side of that statement — period, read type, charges —
++              use <a href="/blog/01-how-to-read-your-electric-bill/">how to read your electric bill line by line</a>
++              alongside your own bill.
++            </p>
++
++## Related Reading
++
++- [How smart meters work: technology, accuracy, and privacy](/blog/how-do-smart-meters-work/) — what the meter sends your utility, and when.
++- [How to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) — where the meter reading goes on the statement.
++- [Understanding kWh usage: what a normal month of electricity use looks like](/blog/11-understanding-kwh-usage/) — judge whether your numbers are typical.
++- [Why is my electric bill so high? The full diagnosis checklist](/blog/03-why-is-my-electric-bill-so-high/) — when the reading looks right but the total doesn't.
++- [Electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/) — from raw kWh to line items.
++- [What is a kilowatt hour?](/blog/what-is-a-kilowatt-hour/) — the unit on the display, in plain English.
+ 
+ {{< faq "How often should I read my electric meter?" >}}
+ 
+@@ -212,6 +236,8 @@ Take a photo or written reading at a consistent time, then compare it with a lat
+ 
+ If the number, billing date, or meter identifier does not make sense, contact the utility and ask how it read the meter and calculated the bill.
+ 
++**Where to go next:** Pick one meter reading to check this week — five minutes is enough. If your numbers match the bill, you are done; if they do not, take the reading history to [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) and check the meter lines there against the charges on [electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/).
++
+ ## Sources
+ 
+ 1. [U.S. Department of Energy Better Buildings: Understanding Your Utility Bill — Electricity](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+---
+=== content/blog/01-how-to-read-your-electric-bill.md ===
+diff --git a/content/blog/01-how-to-read-your-electric-bill.md b/content/blog/01-how-to-read-your-electric-bill.md
+index a639a4d1..d2161870 100644
+--- a/content/blog/01-how-to-read-your-electric-bill.md
++++ b/content/blog/01-how-to-read-your-electric-bill.md
+@@ -4,7 +4,7 @@ slug: "01-how-to-read-your-electric-bill"
+ aliases: ["/blog/41-how-to-read-electricity-bill/"]
+ description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
+ date: 2026-03-07
+-updated: 2026-08-28
++updated: 2026-08-29
+ author: "Margaret Harrington"
+ category: "Electricity"
+ categories: ["Electricity"]
+@@ -50,7 +50,11 @@ Keep a copy of the bill while reviewing it. When a charge is unclear, ask the ut
+ 
+ A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equals one kWh.[1] A device's energy use therefore depends on both its power draw and how long it runs.
+ 
+-For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2] Your own prior bills are more useful than a national average when reviewing your account.
++For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
++
++For how much electricity a typical household actually uses, see [understanding kWh usage](/blog/11-understanding-kwh-usage/) — it walks through what a normal month looks like and why yours may not match the average.
++
++Your own prior bills are more useful than a national average when reviewing your account.
+ 
+ ## Read Meter Information Carefully
+ 
+@@ -98,6 +102,8 @@ Do not rely on a generic “typical cost” range. The amount and calculation me
+ 
+ Use the definition printed by your own utility whenever one is available.
+ 
++The line most bills split in half is delivery versus supply — one for the wires and reading, one for the electricity itself. [Delivery charge vs supply charge, side by side](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) shows where each on your statement goes.
++
+ ## Calculate a Bill-Wide Effective Rate
+ 
+ One useful comparison figure is:
+@@ -114,12 +120,12 @@ The effective rate is not necessarily the same as an energy or supply rate. It c
+ 
+ Some rate plans use more than one price. The statement or tariff should show whether the plan has:
+ 
+-- **Tiered or block pricing** — different usage ranges can be priced differently.
++- **Tiered or block pricing** — different usage ranges can be priced differently. To see how one month can tip you into a higher-priced block, read [tiered electricity rates: how blocks work](/blog/tiered-electricity-rates-explained/).
+ - **Time-of-use pricing** — electricity can have different prices at different times.
+ - **Seasonal pricing** — the price or time period can change by season.
+ - **Demand-related charges** — more common on commercial accounts, but the bill and tariff control.
+ 
+-Do not use a generic peak-hour schedule. Con Edison, for example, publishes time-of-use details for eligible customers, but its plan documentation—not a national rule—sets those periods and prices.[6] If you have a time-of-use plan, compare its current schedule with flexible loads such as laundry, dishwashing, or EV charging.
++Do not use a generic peak-hour schedule. Con Edison, for example, publishes time-of-use details for eligible customers, but its plan documentation—not a national rule—sets those periods and prices.[6] If you have a time-of-use plan, compare its current schedule with flexible loads such as laundry, dishwashing, or EV charging. For how to pull the periods and prices out of your own plan documents, see [time-of-use electricity plans: how to review a TOU schedule](/blog/08-time-of-use-electricity/).
+ 
+ ## Review a Higher-Than-Expected Bill
+ 
+@@ -132,12 +138,25 @@ A larger bill can result from more kWh used, a longer billing period, a differen
+ 5. **Compare charge descriptions.** Identify new or changed line items, credits, taxes, or adjustments.
+ 6. **Keep records.** Save the bill, relevant meter information, and notes from conversations with the utility.
+ 
++If the kWh total looks right but the dollar total still doesn't add up, work through [sudden spike in electricity bill with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/) — it covers the charges and conditions that raise a bill without raising usage.
++
+ ## What to Do if You Think the Bill Is Wrong
+ 
+ Start with the utility. The California Public Utilities Commission recommends giving the utility provider a chance to resolve a complaint through customer service before contacting the commission.[4]
+ 
+ Have the account number, billing period, disputed line item, relevant meter information, and prior statements ready. Ask the utility to explain the calculation and identify the applicable rate schedule or tariff. If the issue is not resolved, check the complaint process for the regulator with jurisdiction over your service.
+ 
++**Where to go next:** Keep this page open beside your statement and work top to bottom — items first, then charges, then the higher-bill review. When you can name every line, the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) is the reference that keeps you fluent charge by charge; if the meter numbers themselves are the open question, [how to read an electric meter](/blog/how-to-read-electric-meter/) shows you how to verify the raw readings behind the bill.
++
++## Related Reading
++
++- [Electric bill breakdown: every charge explained](/blog/electric-bill-breakdown-understanding-line-items/) — the line-item decoder for everything on the statement.
++- [Why is my electric bill so high?](/blog/03-why-is-my-electric-bill-so-high/) — the full diagnosis when the total jumps.
++- [How to read your gas bill](/blog/12-how-to-read-your-gas-bill/) — the same line-by-line method for gas statements.
++- [Delivery charge vs supply charge: the two big halves of your bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — the split behind most charge confusion.
++- [Utility billing cycle: why a 35-day period costs more than 28 days](/blog/23-utility-billing-cycle-explained/) — when the period, not usage, moves the total.
++- [Understanding kWh usage: what a normal month of electricity looks like](/blog/11-understanding-kwh-usage/) — the baseline for judging your own usage.
++
+ ## Frequently Asked Questions
+ 
+ {{< faq "Why is my bill higher than another household's?" >}}
+---
+=== content/blog/how-to-read-a-water-meter.md ===
+diff --git a/content/blog/how-to-read-a-water-meter.md b/content/blog/how-to-read-a-water-meter.md
+index 46a10bcc..5476fec3 100644
+--- a/content/blog/how-to-read-a-water-meter.md
++++ b/content/blog/how-to-read-a-water-meter.md
+@@ -49,16 +49,16 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+ {{< image src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits" caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
+ 
+ <p>
+-              Dial meters usually have four or five dials. Read them from left to
+-              right. If a hand is between two numbers, record the lower number. This
+-              avoids over-reading the dial. The sweep hand is often used to track
+-              small usage or leaks.
+-            </p>
++              Dial meters usually have four or five dials. Taking a reading is a
++              four-step routine:</p>
++            <ol>
++              <li>Read the dials from left to right.</li>
++              <li>If a hand is between two numbers, record the lower number. This avoids over-reading the dial.</li>
++              <li>Write down the reading, then compare it with the reading on your bill. The difference is your usage for the period.</li>
++              <li>If your utility uses a remote meter, the number on the bill may not match exactly because the reading was taken on a different day.</li>
++            </ol>
+             <p>
+-              Write down the reading, then compare it with the reading on your bill.
+-              The difference is your usage for the period. If your utility uses a
+-              remote meter, the number on the bill may not match exactly because the
+-              reading was taken on a different day.
++              The sweep hand is often used to track small usage or leaks.
+             </p>
+             <p>
+               Some dial meters have a small triangle or star that moves with water
+@@ -89,7 +89,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+             <p>
+               A second test is to take two meter readings a few hours apart with no
+               water use. If the number changes, you likely have a leak. This method is
+-              especially useful if the meter is inside a box and hard to watch.
++              especially useful if the meter is inside a box and hard to watch. For
++              the full walkthrough, see
++              <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used: the 10-minute test</a>.
+             </p>
+ 
+ <h2 id="bill-compare">Compare the meter with your bill</h2>
+@@ -123,8 +125,10 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+             </table>
+             <p>
+               If your bill shows estimated usage, ask the utility how they calculate
+-              estimates and when a true read will occur. Estimated reads can cause a
+-              sudden correction on the next bill.
++              estimates and when
++              a true read will occur. Estimated reads can cause a sudden correction on
++              the next bill; for the full mechanics, see
++              <a href="/blog/14-estimated-utility-bill-explained/">estimated utility bills explained</a>.
+             </p>
+ 
+ <h2 id="meter-location">Finding and accessing the meter</h2>
+@@ -152,7 +156,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+             </p>
+             <p>
+               Also check for seasonal irrigation or hose usage. Outdoor leaks are
+-              harder to see but can be a major source of usage.
++              harder to see but can be a major source of usage. If the meter and bill
++              both look right but the total still bothers you, walk
++              <a href="/blog/06-water-bill-too-high/">why is my water bill so high? Causes ranked by likelihood</a>.
+             </p>
+ 
+ <h2 id="tracking">Use the meter to track habits</h2>
+@@ -170,7 +176,8 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+             <p>
+               If you track usage weekly for a month, you will have enough data to
+               see whether your bill aligns with your habits or if something unusual
+-              is happening.
++              is happening. To turn what you find into actual savings, see
++              <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
+             </p>
+ 
+ <h2 id="unit-math">Convert meter units to bill units</h2>
+@@ -196,7 +203,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
+             </p>
+             <p>
+               This can also help you spot outdoor leaks earlier. A sudden jump on a
+-              dry week with no irrigation suggests a leak or a stuck valve.
++              dry week with no irrigation suggests a leak or a stuck valve. For what
++              a normal seasonal swing looks like, compare
++              <a href="/blog/why-is-my-water-bill-higher-in-summer/">why is my water bill higher in summer?</a>.
+             </p>
+ 
+ {{< faq "How often are water meters read?" >}}
+---
+=== content/blog/21-past-due-balance-utility-bill-explained.md ===
+diff --git a/content/blog/21-past-due-balance-utility-bill-explained.md b/content/blog/21-past-due-balance-utility-bill-explained.md
+index 0457b8b2..e9d36e33 100644
+--- a/content/blog/21-past-due-balance-utility-bill-explained.md
++++ b/content/blog/21-past-due-balance-utility-bill-explained.md
+@@ -30,7 +30,7 @@ Help exists year-round: LIHEAP assists roughly 6.7 million households with heati
+ 
+ ## Step 1: Reconcile the Account First
+ 
+-Compare the current statement with the prior statement and your payment records. Record:
++Compare the current statement with the prior statement and your payment records — [how utility billing cycles work](/blog/23-utility-billing-cycle-explained/) explains why the two statements can cover different day counts. Record:
+ 
+ | Detail | What to verify |
+ |---|---|
+@@ -40,7 +40,7 @@ Compare the current statement with the prior statement and your payment records.
+ | Fees | Late charges or reconnection items — ask which term authorizes each |
+ | Notice | The stated due date, disconnection date, and contact instructions |
+ 
+-If a payment or charge does not reconcile, ask the utility for its account-specific calculation before paying anything you cannot verify. In Texas, a utility cannot disconnect you for disputed charges until the dispute is resolved and you are notified of the outcome [5].
++If a payment doesn't match your own records, the next move is [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) — open the review before you pay anything you can't verify. In Texas, a utility cannot disconnect you for disputed charges until the dispute is resolved and you are notified of the outcome [5].
+ 
+ ## Step 2: Verify the Notice and the Deadline
+ 
+@@ -52,26 +52,46 @@ Every state sets its own notice framework — the pattern is notice, then a wait
+ | Minnesota Cold Weather Rule (municipal and cooperative utilities) | Same October 1–April 30 window; disconnection is barred until at least 30 days after a mailed notice or 15 days after personal delivery [4] |
+ | Texas (electric) | Disconnection requires a 10-day notice period after a written disconnection notice is issued; the date cannot fall on a weekend or holiday [5] |
+ 
+-Your state's public utility commission publishes the equivalent consumer rules; read them against your notice rather than assuming any other state's timeline.
++Your state's public utility commission publishes the equivalent consumer rules; read them against your notice rather than assuming any other state's timeline. For the whole arc — notice types, waiting periods, and what utilities may and may not disconnect for — see [can a utility shut off your service?](/blog/can-utility-shut-off-service/).
+ 
+ ## Step 3: Line Up Assistance Before the Deadline
+ 
+-CFPB directs customers to year-round utility-bill help through the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; for help finding options, contact 211 [1]. LIHEAP runs through state block grants paid to local agencies, and the funds are targeted specifically to prevent shutoffs and assist with heating and cooling bills [2].
++CFPB directs customers to year-round utility-bill help through the local Low Income Home Energy Assistance Program (LIHEAP) office, or the National Energy Assistance Referral Hotline at (866) 674-6327; for help finding options, contact 211 [1]. LIHEAP runs through state block grants paid to local agencies, and the funds are targeted specifically to prevent shutoffs and assist with heating and cooling bills [2]. For the full landscape of programs — LIHEAP and beyond — see [utility assistance programs: LIHEAP and other help for bill payments](/blog/utility-assistance-programs-liheap/).
+ 
+-Confirm with the program: eligibility, deadlines, required documents, and whether payment goes to you or directly to the utility. In Texas, if your REP receives notice by the final due date on the disconnection notice that an energy assistance provider is forwarding sufficient payment — and you've handled any balance the assistance doesn't cover — your service cannot be disconnected for non-payment [5].
++Confirm with the program:
++
++- **Eligibility** — what income or household rules apply to you.
++- **Deadlines** — whether the program can act before your disconnection date.
++- **Required documents** — what to gather before applying.
++- **Payment routing** — whether payment goes to you or directly to the utility.
++
++In Texas, if your REP receives notice by the final due date on the disconnection notice that an energy assistance provider is forwarding sufficient payment — and you've handled any balance the assistance doesn't cover — your service cannot be disconnected for non-payment [5].
+ 
+ ## Step 4: Dispute and Protect Service at the Same Time
+ 
+ Ask for a payment agreement before the disconnection date, not after. Texas customers who have received no more than two termination notices in the past year are eligible for a deferred payment plan [6]. Under Minnesota's Cold Weather Rule, a utility also may not charge a new deposit or delinquency charge to keep service when you've entered a payment agreement (or appealed a payment-agreement dispute to the commission) [3].
+ 
+-If a specific line is wrong, open a review using the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/) while keeping the payment agreement — disputing a charge does not put the rest of the bill on hold.
++If a specific line is wrong, open a review using the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/) while keeping the payment agreement — disputing a charge does not put the rest of the bill on hold. Know the downside before you decide: [utility reconnection fee: what to expect after shutoff](/blog/28-utility-reconnection-fee-explained/) covers the cost side if a shutoff does happen.
+ 
+ ## Keep a Written Record
+ 
+-Keep bills, notices, payment confirmations, and case numbers together. Ask for the next review level and the oversight authority if the utility can't resolve the question — investor-owned, municipal, and cooperative utilities answer to different regulators, and Minnesota customers can appeal a payment-agreement dispute directly to the state commission, which must decide within 20 working days [3].
++Keep bills, notices, payment confirmations, and case numbers together. Ask for the next review level and the oversight authority if the utility can't resolve the question — investor-owned, municipal, and cooperative utilities answer to different regulators, and Minnesota customers can appeal a payment-agreement dispute directly to the state commission, which must decide within 20 working days [3]. As you build the file, [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) is the reference for decoding the statement behind the balance.
+ 
+ A disconnection notice is recoverable: [reconnection after shutoff](/blog/28-utility-reconnection-fee-explained/) explains the fee side, and [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) explains when utilities can disconnect at all. Deposit demands often arrive with a new past-due situation — how to [review a utility deposit](/blog/26-utility-deposit-explained/).
+ 
++**Where to go next:** Work the four steps above against your own notice today — reconcile the account, verify the deadline, call LIHEAP or your utility for a payment agreement before that date, and keep every confirmation in one file. If the balance itself doesn't match your records, hand the statement to [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) and keep the payment agreement running while the review is open.
++
++## Related Reading
++
++- [Utility reconnection fee: how to restore service after shutoff](/blog/28-utility-reconnection-fee-explained/) — the cost side of getting service back.
++- [How utility deposits work: when you need one and how to get it back](/blog/26-utility-deposit-explained/) — deposit demands that often arrive with a past-due situation.
++- [Can a utility shut off your service? The full process explained](/blog/can-utility-shut-off-service/) — the complete notice-and-disconnection lifecycle.
++- [How to dispute a utility bill: step by step](/blog/how-to-dispute-utility-bill/) — the formal review process, without losing service.
++- [Utility assistance programs: LIHEAP and other help for bill payments](/blog/utility-assistance-programs-liheap/) — the deep dive on payment help.
++- [How utility billing cycles work: why your due date isn't always 30 days](/blog/23-utility-billing-cycle-explained/) — why statement periods, and deadlines, shift.
++
++## Frequently Asked Questions
++
+ {{< faq "How long before the utility shuts off service after a past-due balance?" >}}
+ 
+ Long enough for a written notice with a 10-day clock — that's the verified pattern in Texas [5] and under Minnesota's Cold Weather Rule framework, where mailed notices require 10 working days (30 calendar days for Minnesota municipal and cooperative utilities) [3][4]. Read the dates on your own notice; they control your deadline.
+@@ -90,6 +110,8 @@ In Texas, no disconnection for disputed charges until the dispute is decided [5]
+ 
+ {{< /faq >}}
+ 
++{{< faq-schema >}}
++
+ ## Sources
+ 
+ 1. [Consumer Financial Protection Bureau — Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) (retrieved 2026-08-29)
+---
+=== content/blog/tiered-electricity-rates-explained.md ===
+diff --git a/content/blog/tiered-electricity-rates-explained.md b/content/blog/tiered-electricity-rates-explained.md
+index 83ec2482..a17b48c1 100644
+--- a/content/blog/tiered-electricity-rates-explained.md
++++ b/content/blog/tiered-electricity-rates-explained.md
+@@ -50,13 +50,13 @@ A reader using 550 kWh pays $169 in usage charges — not 550 × $0.38 = $209. C
+ 
+ ## Check the Statement Line by Line
+ 
+-Compare each tier or block line with the tariff. Confirm the quantity assigned to the block, the rate, and the displayed amount. If the calculation does not reconcile, ask the provider for the account-specific billing calculation rather than inferring an error from the total due.
++Compare each tier or block line with the tariff — if the block lines themselves are hard to find on the statement, [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks the statement top to bottom first. Confirm the quantity assigned to the block, the rate, and the displayed amount. If the calculation does not reconcile, ask the provider for the account-specific billing calculation rather than inferring an error from the total due.
+ 
+ When comparing months, first account for a changed billing period, rate version, read status, season, or credit. A higher total does not by itself prove a tier threshold caused the increase.
+ 
+ ## Keep Tiered and Time-Based Pricing Separate
+ 
+-Block pricing concerns the amount of electricity consumed. Time-variable pricing concerns when electricity is consumed under the schedule specified by a rate plan. A bill may use one, neither, or both. Review the actual tariff before changing appliance use or enrolling in another plan.
++Block pricing concerns the amount of electricity consumed. Time-variable pricing concerns when electricity is consumed under the schedule specified by a rate plan, as covered on the time-of-use page above. And there is a third structure that sounds similar but bills on power drawn rather than energy used: see [demand charges on electricity bills: how they differ from tiered rates](/blog/49-demand-charges-electricity-bill-explained/). A bill may use one, neither, or both. Review the actual tariff before changing appliance use or enrolling in another plan.
+ 
+ ## Questions for the Provider
+ 
+@@ -66,6 +66,51 @@ Block pricing concerns the amount of electricity consumed. Time-variable pricing
+ 4. Which line items are outside the block-rate calculation?
+ 5. Can you provide the full account-specific billing calculation and tariff version?
+ 
++Those five questions settle how your account's tiers work; which plan should be on your account in the first place is a different decision — [which rate plan is right for you](/blog/which-rate-plan-is-right-for-me/) weighs flat, tiered, and TOU side by side.
++
++The habit to take away from this page is small and repeatable: reproduce the tier table from your tariff, check the math against the statement line by line, and confirm which line items the block calculation does and does not cover — once the tiers reconcile, the rest of the bill either follows or identifies itself as the thing to question.
++
++## Related Reading
++
++- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/03-why-is-my-electric-bill-so-high/) — the tiered-rate mechanism in the context of a rising bill.
++- [Time-of-Use Electricity: How TOU Differs From Tiered Pricing](/blog/08-time-of-use-electricity/) — the when-you-use-it counterpart to how-much.
++- [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/) — where tiers sit among delivery, supply, and fixed charges.
++- [Demand Charges on Electricity Bills: How They Differ From Tiered Rates](/blog/49-demand-charges-electricity-bill-explained/) — the third rate structure, and how it differs.
++- [Which Rate Plan Is Right for You? Flat, Tiered, or TOU](/blog/which-rate-plan-is-right-for-me/) — the plan-choice guide for after the tariff review.
++- [How to Read Your Electric Bill Line by Line](/blog/01-how-to-read-your-electric-bill/) — the statement-reading prerequisite to all of this.
++
++{{< faq "Why did my bill go up when my usage stayed the same?" >}}
++
++On a tiered rate, usage that crosses into a higher block is billed at the higher price from the threshold up. Also rule out a changed billing period, read status, season, rate version, or credit before concluding the tiers moved — a higher total does not by itself prove a tier threshold caused the increase.
++
++{{< /faq >}}
++
++{{< faq "Does the higher tier rate apply to all my usage, or just part of it?" >}}
++
++Only the part above the threshold — but verify which style your tariff uses, because the rate schedule defines the block range and unit for each tier, and the worked example above shows the higher price landing on the 150 kWh above 400, never on the whole 550.
++
++{{< /faq >}}
++
++{{< faq "How do I find my utility's tier thresholds?" >}}
++
++From the tariff assigned to your account: identify the rate-plan or service-class name on the bill, obtain the current tariff, and record the block definition — the usage range and unit for each tier — along with each rate, its effective date, and any seasonal or time-period conditions.
++
++{{< /faq >}}
++
++{{< faq "What is the difference between tiered rates and time-of-use rates?" >}}
++
++Tiered pricing changes with how much electricity you consume; time-variable pricing changes with when you consume it under the plan's schedule. A bill may use one, neither, or both, so reviewing the actual tariff is the only way to know which applies.
++
++{{< /faq >}}
++
++{{< faq "What is the difference between tiered rates and demand charges?" >}}
++
++Tiered rates price the amount of electricity consumed; a demand charge prices how much power you draw at once. The comparison page walks through the distinction — but verify both against your own tariff's service class before assuming either applies.
++
++{{< /faq >}}
++
++{{< faq-schema >}}
++
+ ## Sources
+ 
+ 1. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options) — rate-structure components and how each responds differently to changes in use (retrieved 2026-08-29).
+\ No newline at end of file
+---

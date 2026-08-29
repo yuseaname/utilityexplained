@@ -49,16 +49,16 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
 {{< image src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits" caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
 
 <p>
-              Dial meters usually have four or five dials. Read them from left to
-              right. If a hand is between two numbers, record the lower number. This
-              avoids over-reading the dial. The sweep hand is often used to track
-              small usage or leaks.
-            </p>
+              Dial meters usually have four or five dials. Taking a reading is a
+              four-step routine:</p>
+            <ol>
+              <li>Read the dials from left to right.</li>
+              <li>If a hand is between two numbers, record the lower number. This avoids over-reading the dial.</li>
+              <li>Write down the reading, then compare it with the reading on your bill. The difference is your usage for the period.</li>
+              <li>If your utility uses a remote meter, the number on the bill may not match exactly because the reading was taken on a different day.</li>
+            </ol>
             <p>
-              Write down the reading, then compare it with the reading on your bill.
-              The difference is your usage for the period. If your utility uses a
-              remote meter, the number on the bill may not match exactly because the
-              reading was taken on a different day.
+              The sweep hand is often used to track small usage or leaks.
             </p>
             <p>
               Some dial meters have a small triangle or star that moves with water
@@ -89,7 +89,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             <p>
               A second test is to take two meter readings a few hours apart with no
               water use. If the number changes, you likely have a leak. This method is
-              especially useful if the meter is inside a box and hard to watch.
+              especially useful if the meter is inside a box and hard to watch. For
+              the full walkthrough, see
+              <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used: the 10-minute test</a>.
             </p>
 
 <h2 id="bill-compare">Compare the meter with your bill</h2>
@@ -123,8 +125,10 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </table>
             <p>
               If your bill shows estimated usage, ask the utility how they calculate
-              estimates and when a true read will occur. Estimated reads can cause a
-              sudden correction on the next bill.
+              estimates and when
+              a true read will occur. Estimated reads can cause a sudden correction on
+              the next bill; for the full mechanics, see
+              <a href="/blog/14-estimated-utility-bill-explained/">estimated utility bills explained</a>.
             </p>
 
 <h2 id="meter-location">Finding and accessing the meter</h2>
@@ -152,7 +156,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </p>
             <p>
               Also check for seasonal irrigation or hose usage. Outdoor leaks are
-              harder to see but can be a major source of usage.
+              harder to see but can be a major source of usage. If the meter and bill
+              both look right but the total still bothers you, walk
+              <a href="/blog/06-water-bill-too-high/">why is my water bill so high? Causes ranked by likelihood</a>.
             </p>
 
 <h2 id="tracking">Use the meter to track habits</h2>
@@ -170,7 +176,8 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             <p>
               If you track usage weekly for a month, you will have enough data to
               see whether your bill aligns with your habits or if something unusual
-              is happening.
+              is happening. To turn what you find into actual savings, see
+              <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
             </p>
 
 <h2 id="unit-math">Convert meter units to bill units</h2>
@@ -196,7 +203,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </p>
             <p>
               This can also help you spot outdoor leaks earlier. A sudden jump on a
-              dry week with no irrigation suggests a leak or a stuck valve.
+              dry week with no irrigation suggests a leak or a stuck valve. For what
+              a normal seasonal swing looks like, compare
+              <a href="/blog/why-is-my-water-bill-higher-in-summer/">why is my water bill higher in summer?</a>.
             </p>
 
 {{< faq "How often are water meters read?" >}}

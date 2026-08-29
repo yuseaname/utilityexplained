@@ -1,0 +1,41 @@
+{
+ "role": "mason",
+ "mission": "Implement the approved SQ-057 APEX blocks for 2 fees-cluster pages (26-utility-deposit-explained, 27-utility-connection-fee-explained): moment-of-need body links, FAQ+schema sections, Related Reading sections, guided endings. Templated construction per the house patterns \u2014 exact placements in the lattice tables.",
+ "parent_objective": "SQ-057: APEX engagement pass on traffic ranks 21-30 (wave 2: implementation)",
+ "context": "MISSION CONTEXT\nutilityexplained.com \u2014 Hugo utility-bill explainer site. Wave 2 of 3. Your two pages are the fees cluster \u2014 the most templated work of the tier.\n1. 26-utility-deposit-explained (rank 27, v=20, top 78.0s, bounce 95.0 \u2014 readers finish the page then exit dead): 3 links exist (all top-quarter). Add 2-5 from lattice T5 (LIHEAP assistance at hardship section; shutoff lifecycle; reconnection at refund-terms; moving checklist). NO FAQ yet \u2014 add FAQ+schema from existing content. Related Reading missing \u2014 add. Guided ending.\n2. 27-utility-connection-fee-explained (rank 25, v=22, top 9.4s WATCH TARGET -> 30s+): add a routing self-check line early (which fee situation are you in: new service / reconnect / deposit), 2 new links from lattice T3, FAQ+schema from existing content, Related Reading, guided ending.\nREAD FIRST: .squad/SQ-057/evidence-brief.md (9 rulings \u2014 binding). Link tables: .squad/SQ-057/analysis-input/cartographer-lattice.md TARGET 5 (lines ~388-416) and TARGET 3 (lines ~329-357).\nIMPLEMENTATION RULES (binding; from SQ-055 precedent, amended by SQ-057 rulings in the evidence brief)\n1. Read the evidence brief FIRST: .squad/SQ-057/evidence-brief.md \u2014 its 9 Commander rulings override anything else. Your per-page link tables are in .squad/SQ-057/analysis-input/cartographer-lattice.md section 3 (your packet names your targets + line ranges).\n2. You own EXACTLY the files in resources.write_paths. Write nothing else. Do not run hugo (wave 3 owns the build).\n3. Execute the approved plan: moment-of-need body links (exact anchor text in the lattice tables), FAQ via {{< faq \"Question?\" >}} answer {{< /faq >}} per Q + one {{< faq-schema >}} AFTER content BEFORE ## Sources, \"## Related Reading\" section after main content BEFORE FAQ, ending converted to guided (never end on a bare list or prose wall), dead-zone breaks (bullets/checklist/table/link every ~80-100w), self-check or routing line on the watch-list pages named in the brief.\n4. FAQ answers derive ONLY from the page's existing content \u2014 no new facts, numbers, or sources. If a planned FAQ cannot be answered from existing content, skip it and log the skip.\n5. Preserve markup idiom (markdown-## stays markdown; raw-HTML stays HTML). Targeted edit_file edits, chunked, one logical change per edit \u2014 never one giant write_file of the whole article.\n6. Frontmatter: change ONLY updated: -> 2026-08-29. Never touch title/slug/draft/aliases/sources.\n7. Every link you insert: verify the slug exists (ls content/blog/<slug>.md) before inserting; skip+log if not.\n8. No new product boxes. Keep any existing box exactly as-is.\n9. Self-critique pass after edits: re-read each changed file; check links resolve, shortcodes balanced, no duplicated sections, ending guided. Fix, then write a short Execution Log (per file: what changed, what skipped+why) into your result envelope.",
+ "known_facts": [
+  "Evidence brief: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-057/evidence-brief.md",
+  "All arithmetic verifier-CONFIRMED \u2014 change none of it.",
+  "The new link targets are Commander-verified on disk; verify each slug at insertion anyway."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md"
+  ],
+  "notes": "House-pattern exemplars named in the brief."
+ },
+ "constraints": [
+  "Own exactly your write_paths files; nothing else.",
+  "No new facts/sources/numbers; FAQ from existing content only.",
+  "No hugo build; no git commands; wave 3 owns both."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "write_file",
+  "edit_file"
+ ],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "Both pages: approved body links at moment-of-need positions, FAQ+schema, Related Reading, guided endings",
+  "27-connection-fee: routing self-check line in first screen",
+  "Frontmatter untouched except updated: 2026-08-29",
+  "Execution Log in envelope: per-file changes + skipped items with reasons"
+ ]
+}

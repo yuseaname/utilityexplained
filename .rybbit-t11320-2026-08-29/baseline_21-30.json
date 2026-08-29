@@ -1,0 +1,99 @@
+{
+ "generated": "2026-08-29",
+ "window": "last30 (2026-07-30..2026-08-29)",
+ "purpose": "pre-change baseline for ranks 21-30 APEX optimization (SQ-057)",
+ "selection_ruling": "Raw ranks 21-22 (how-do-smart-meters-work, 18-fuel-adjustment) were already APEXed in SQ-055 (alias-replacement ruling pulled them into the 11-20 cohort) -> excluded; replaced with next real articles, ranks 31-32 (21-past-due, tiered-electricity-rates). No alias redirects remain in this tier (all 10 are live content files).",
+ "site_overview_last30": "see snapshot.json",
+ "selected_pages": [
+  {
+   "path": "/blog/why-did-my-water-bill-suddenly-increase/",
+   "visits": 24,
+   "pageviews": 24,
+   "top_s": 0,
+   "bounce": 91.67,
+   "visits_p30": 0,
+   "visits_l7": 11
+  },
+  {
+   "path": "/blog/49-demand-charges-electricity-bill-explained/",
+   "visits": 23,
+   "pageviews": 28,
+   "top_s": 21.2,
+   "bounce": 82.61,
+   "visits_p30": 0,
+   "visits_l7": 6
+  },
+  {
+   "path": "/blog/27-utility-connection-fee-explained/",
+   "visits": 22,
+   "pageviews": 25,
+   "top_s": 9.4,
+   "bounce": 81.82,
+   "visits_p30": 0,
+   "visits_l7": 8
+  },
+  {
+   "path": "/blog/08-time-of-use-electricity/",
+   "visits": 20,
+   "pageviews": 23,
+   "top_s": 40.6,
+   "bounce": 85,
+   "visits_p30": 0,
+   "visits_l7": 10
+  },
+  {
+   "path": "/blog/26-utility-deposit-explained/",
+   "visits": 20,
+   "pageviews": 21,
+   "top_s": 78,
+   "bounce": 95,
+   "visits_p30": 0,
+   "visits_l7": 5
+  },
+  {
+   "path": "/blog/how-to-read-electric-meter/",
+   "visits": 20,
+   "pageviews": 21,
+   "top_s": 21.1,
+   "bounce": 90,
+   "visits_p30": 0,
+   "visits_l7": 9
+  },
+  {
+   "path": "/blog/01-how-to-read-your-electric-bill/",
+   "visits": 19,
+   "pageviews": 21,
+   "top_s": 69.2,
+   "bounce": 78.95,
+   "visits_p30": 0,
+   "visits_l7": 18
+  },
+  {
+   "path": "/blog/how-to-read-a-water-meter/",
+   "visits": 19,
+   "pageviews": 19,
+   "top_s": 0.5,
+   "bounce": 78.95,
+   "visits_p30": 0,
+   "visits_l7": 8
+  },
+  {
+   "path": "/blog/21-past-due-balance-utility-bill-explained/",
+   "visits": 18,
+   "pageviews": 21,
+   "top_s": 29.6,
+   "bounce": 88.89,
+   "visits_p30": 0,
+   "visits_l7": 6
+  },
+  {
+   "path": "/blog/tiered-electricity-rates-explained/",
+   "visits": 17,
+   "pageviews": 20,
+   "top_s": 17.4,
+   "bounce": 88.24,
+   "visits_p30": 0,
+   "visits_l7": 7
+  }
+ ]
+}
