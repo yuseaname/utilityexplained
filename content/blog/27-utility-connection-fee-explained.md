@@ -24,6 +24,8 @@ sources:
 
 Before opening an account, ask for the written schedule of charges and confirm which items apply to the address.
 
+The three branches in the figure above are different charge types, not one fee at three prices. A **same-provider move** is usually a stop-and-start or transfer on an existing account — whether it triggers a fresh charge depends on the provider's terms.[5] **New service** opens a brand-new account, where an establishment fee and a [refundable deposit](/blog/26-utility-deposit-explained/) can both land on the first statement. **Reconnection** after a non-payment shutoff is a separate fee — see the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/) before paying anything.
+
 ## Get the Details in Writing
 
 Ask the provider to identify each potential item:
@@ -40,6 +42,24 @@ Ask the provider to identify each potential item:
 
 The provider's terms, property condition, service territory, and request timing control the answer. A landlord or seller can identify the serving providers, but the provider should confirm account charges directly.
 
+## What the Fee Pays For
+
+Providers that explain the charge describe administrative and field work, not the energy itself. TCEC states its $20 connection fee "covers the processing of your application and activation of new service."[5] Middle Tennessee Electric charges a different connect fee for a structure "that previously had an MTE meter" than for new construction.[6] SRP prices its establishment fee by scheduling speed — **$30 next day, $45 same day** — and lists a separate **$35 field visit charge**.[4]
+
+**Guardrail:** none of these descriptions transfers to your provider — what the charge covers is defined only by its written schedule.
+
+## Published Fee Examples
+
+Three providers' own fee pages, quoted exactly as posted:
+
+| Provider | Published start-of-service charge | Source |
+|---|---|---|
+| Georgia Power | **$30** New Account Establishment Fee (account activation) | [2] |
+| Alabama Power | **$40.00** Account Establishment Charge on the first month's bill | [3] |
+| Salt River Project (AZ) | **$30** service establishment fee (next day); **$45** same day | [4] |
+
+These are point examples from named providers, **not a national range** — each utility sets its own schedule, so get yours in writing instead of benchmarking.
+
 ## Before Move-In
 
 Read the lease or purchase documents for utility responsibilities and start service early enough to understand the provider's scheduling requirements; the [moving utilities checklist: what to do before moving day](/blog/moving-utilities-checklist/) walks through every step. Keep the service-start confirmation, rate schedule, and first statement.
@@ -53,6 +73,10 @@ If the household cannot afford a required payment, contact the utility before th
 3. Is a technician visit required, and what access is needed?
 4. Is the charge refundable, creditable, or final under this provider's rules?
 5. What happens if service is canceled or delayed?
+
+## If the Charge Differs from the Schedule
+
+The written schedule is the standard: get it in writing **before** the appointment, then check every start-of-service line on the first statement against it. If a charge is higher than the schedule or absent from it, dispute it in writing and ask which tariff or policy defines the line item. SRP routes bills a customer believes are in error to its Consumer Affairs Ombudsman Office if unresolved.[4] Every state also has a regulator — in Texas, the PUC directs unresolved billing complaints to its Consumer Protection Division[7] — and filing with your state public utility commission is free.
 
 ## Related Reading
 
@@ -107,3 +131,9 @@ Contact the utility before the due date about payment arrangements and assistanc
 ## Sources
 
 1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)
+2. [Georgia Power: Residential Service rate plans](https://www.georgiapower.com/residential/rate-plans/residential-service.html) (retrieved 2026-08-29)
+3. [Alabama Power: Residential FAQs](https://www.alabamapower.com/residential/residential-faqs.html) (retrieved 2026-08-29)
+4. [Salt River Project: Residential credit policy](https://www.srpnet.com/account/electric/residential/residential-credit-policy) (retrieved 2026-08-29)
+5. [TCEC Texas: Fees & Charges](https://www.tcectexas.com/fees-charges) (retrieved 2026-08-29)
+6. [Middle Tennessee Electric: Understanding fees on your electric bill](https://mte.com/Understanding-fees-on-your-electric-bill) (retrieved 2026-08-29)
+7. [Public Utility Commission of Texas: Understanding your electric bill](https://www.puc.texas.gov/consumer-help/electricity/understanding-bill/Default.aspx) (retrieved 2026-08-29)

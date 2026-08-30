@@ -26,6 +26,8 @@ Do not assume every residential or commercial account has a demand charge, that 
 
 {{< visual src="/images/articles/49-demand-charges-electricity-bill-explained/kw-vs-kwh-demand-strip.webp" alt="Two-panel comparison showing 3.0 kWh as energy used over three hours and 1.0 kW as the rate of use in a 15-minute demand interval." wide="true" >}}
 
+The strip above fixes the unit distinction underneath every demand line: **kW** is the rate of use in a single interval, **kWh** is energy accumulated over time — a demand charge prices the first, an energy charge the second.
+
 ## Find the Demand Calculation
 
 Record the exact bill line and then ask the provider for the controlling tariff section. Confirm:
@@ -40,9 +42,19 @@ Record the exact bill line and then ask the provider for the controlling tariff 
 
 {{< visual src="/images/articles/49-demand-charges-electricity-bill-explained/demand-line-verify-anatomy.webp" alt="Demand-charge worksheet showing blanks for demand kW, dollar-per-kW rate, billed amount, actual or billed status, and interval length." >}}
 
+The anatomy card above turns the table into a worksheet, read in order: confirm the service class against the rate schedule, record the demand measure exactly as billed (actual or billed, in kW), note the tariff's window, capture the per-kW price including riders, then set the demand line beside the other charges — so a rising demand charge is not mistaken for a rising total.
+
 The service-class row is where tiered confusion usually starts. If your rate schedule prices blocks of usage instead of a single demand figure, that is a block rate — see [tiered electricity rates: how blocks work](/blog/tiered-electricity-rates-explained/).
 
 DOE notes that bill components can be determined differently and that changes in use can affect them differently — and [every charge on the bill](/blog/electric-bill-breakdown-understanding-line-items/) responds to those changes in its own way.[2]
+
+Demand charges live mainly in commercial and industrial rate schedules; the U.S. Forest Service's facility guide puts them at **30 to 70 percent** of most commercial customers' electric bills.[3] A few residential rates carry them too — Salt River Project in Arizona offers a residential price plan whose demand charge "is based on 60-minute intervals during on-peak hours" (weekdays, 5–10 p.m.).[4] A demand line on a bill you believe is residential is a reason to verify the service class first, not to assume a misprint.
+
+Where the charge applies, the meter records use in fixed windows — intervals "usually 15 or 30 minutes" in the Forest Service guide, and "15 consecutive minutes" in Stillwater, Oklahoma's tariff, which bills the single highest such interval of the month.[3][5] Illustration only, not any utility's rate: **12 kW** × **$8.50/kW** = **$102.00**, before riders and taxes. Interval data starts at the meter — [how to read your electric meter](/blog/how-to-read-electric-meter/) is the companion skill.
+
+That one interval can follow you forward. Stillwater's tariff sets billing demand at no less than **65%** of the highest power-factor-corrected summer on-peak demand from the **previous 12 months**[5] — the actual-versus-billed-demand gap DOE describes, written into a tariff. When you ask for the calculation, ask specifically whether a ratchet applied.[1]
+
+Some commercial tariffs also correct demand for power factor before billing it: Stillwater raises billed demand when average power factor falls below **80%**, and Hamilton, Ohio's industrial schedule derives billing demand from kVA rather than kW.[5][6] A demand line that resists your own interval math may simply be power-factor corrected.
 
 ## Compare Like With Like
 
@@ -101,3 +113,7 @@ Ask where the demand charge is defined in your current tariff, what the account'
 
 1. [U.S. Department of Energy: Evaluating Your Utility Rate Options — rate components incl. demand charges](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options) (retrieved 2026-08-29)
 2. [U.S. Department of Energy: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)
+3. [U.S. Forest Service: Saving Money by Understanding Demand Charges on Your Utility Bill](https://www.fs.usda.gov/t-d/pubs/htmlpubs/htm00712373/index.htm) (retrieved 2026-08-29)
+4. [Salt River Project: Manage Demand 5–10 p.m. and Save — residential price plan](https://www.srpnet.com/price-plans/residential-electric/manage-demand-5-10-pm-and-save) (retrieved 2026-08-29)
+5. [Stillwater Utilities: Power and Light — Primary, Time of Day Rate (PL-P/TOD)](https://stillwaterok.gov/DocumentCenter/View/5129/Electric---Power-and-Light-Time-of-Day---Primary-Rate-PDF) (retrieved 2026-08-29)
+6. [City of Hamilton, Ohio, Municipal Code: Industrial Service Rate Schedule "IS"](https://codelibrary.amlegal.com/codes/hamilton/latest/hamilton_oh/0-0-0-49397) (retrieved 2026-08-29)

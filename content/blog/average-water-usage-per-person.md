@@ -41,11 +41,21 @@ For a rough per-person range to compare against, [our CCF explainer](/blog/what-
 
 Keep the calculation with the bill and compare it with a similar season — [why water bills run higher in summer](/blog/why-is-my-water-bill-higher-in-summer/) is the most common innocent reason a baseline jumps. A short billing period, visitors, irrigation, a shared meter, or a change in occupancy can also make a single period misleading.
 
+### Place Your Number on EPA's Map
+
+EPA WaterSense's anchors: the average American family uses **more than 300 gallons per day at home**,[3] and each person averages **82 gallons per day at home**.[4] Convert yours — **1 CCF = 748 gallons**[1] — then divide by billing days and people. The worked example above (illustration, round numbers): 12 CCF × 748 = 8,976 gallons, or **299 gallons per day**; ÷ 3 = **about 100 gallons per person per day**. That clears the 82-gallon average — but do not treat 82 as a target: the band chart above and your metered history are the defensible comparisons.
+
+| Benchmark | Figure | Source |
+| --- | --- | --- |
+| Average family, daily home use | **>300 gal/day** | EPA [3] |
+| Average person, daily home use | **82 gal/day** | EPA [4] |
+| Example above (12 CCF, 30 days, 3 people) | **~100 gal/person/day** | Illustration |
+
 ## Separate Indoor, Outdoor, and Shared Use
 
 Do not assume all consumption is attributable to one person or fixture. Ask the utility or property manager whether the account includes irrigation, common areas, shared laundry, a shared meter, or another allocation method.
 
-EPA notes that outdoor water use can form a substantial share of average household use and can rise in hotter, drier parts of the country.[2] Use the account's actual meter or provider records to identify the local pattern rather than applying a nationwide split.
+EPA notes that outdoor water use can form a substantial share of average household use and can rise in hotter, drier parts of the country.[2] Nationally, home use splits **roughly 70/30, indoors to outdoors**, with a higher outdoor share in the arid West.[3] Use the account's actual meter or provider records to identify the local pattern rather than applying a nationwide split.
 
 ## When the Baseline Changes
 
@@ -60,6 +70,10 @@ Compare the same statement fields from a similar earlier period:
 If use changes unexpectedly, conduct a safe no-use meter observation ([your meter's leak indicator](/blog/water-meter-leak-indicator-explained/) may confirm it instantly — a visible [running toilet](/blog/is-your-toilet-running-leak-test/) is the classic hidden cause), and contact the utility or a qualified professional for account- or plumbing-specific guidance. Do not infer a leak from a national daily-use number alone.
 
 If the number really is high after those checks, the fix-it playbook starts with [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+
+### EPA's 12,000-Gallon Leak Screen
+
+EPA's Fix a Leak Week guidance is blunt: **"If a family of four exceeds 12,000 gallons per month, there could be serious leaks."**[5] That is about **16 CCF per month** (12,000 ÷ 748 ≈ 16). The screen is cleanest in a winter month, when outdoor watering is minimal; summer irrigation can push a bill past the same number. Confirm any hit with the no-use meter check above ([how to read your water meter](/blog/how-to-read-a-water-meter/)) and the non-leak causes in [why your water bill suddenly increased](/blog/why-did-my-water-bill-suddenly-increase/).
 
 ## Related Reading
 
@@ -95,3 +109,6 @@ When it stays well above your household's own baseline for a similar season with
 
 1. [U.S. Environmental Protection Agency WaterSense: Understanding Your Water Bill](https://www.epa.gov/watersense/understanding-your-water-bill)
 2. [U.S. Environmental Protection Agency WaterSense: How the WaterSense Calculator Works](https://www.epa.gov/watersense/how-watersense-calculator-works)
+3. [U.S. Environmental Protection Agency WaterSense: How We Use Water](https://www.epa.gov/watersense/how-we-use-water) (retrieved 2026-08-29)
+4. [U.S. Environmental Protection Agency WaterSense: Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts) (retrieved 2026-08-29)
+5. [U.S. Environmental Protection Agency WaterSense: Fix a Leak Week](https://www.epa.gov/watersense/fix-leak-week) (retrieved 2026-08-29)

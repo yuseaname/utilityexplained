@@ -41,9 +41,17 @@ The same word can be used differently by different providers. The tariff and acc
 
 As a symbolic check of the line's math: *(the tariff's fuel rate for the period) × (the bill's usage basis for the same period) = the fuel-adjustment line* — the tariff supplies the rate and its effective dates, never the label alone.
 
+You can also reverse the check: divide the fuel-adjustment dollar amount by the bill's usage basis (kWh or therms) to get the **effective per-unit rate**, then compare it with the tariff's rate for the same period. Illustration with round numbers, not a real tariff: a **600 kWh** month under a **$0.004/kWh** fuel rider gives 600 × $0.004 = **$2.40**, and $2.40 ÷ 600 kWh returns **$0.004/kWh**. A material gap usually means the wrong rate version or a different usage basis — a provider question, not a conclusion. The tariff fields below supply both inputs.
+
 {{< visual src="/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/fuel-line-tariff-excerpt.webp" alt="Generic tariff fields for charge label, rate basis, and effective date aligned to a bill line." wide="true" >}}
 
 Where this line sits in the bill's larger structure — and the rider mechanism behind it — see [surcharges and riders: the mechanism behind metered add-on lines](/blog/19-utility-bill-surcharges-and-riders-explained/).
+
+## How the Clause Works
+
+Where it exists, the fuel clause is a cost tracker. The Kentucky Public Service Commission describes its version as a mechanism for reflecting fuel and purchased-power costs "on a dollar-for-dollar basis," measured against a baseline fuel cost built into the per-kWh base rates: costs above the baseline produce a per-kWh surcharge, below it a credit, and the utility earns no profit on either.[3] Kentucky's factor changes monthly to track fuel costs incurred two months earlier, with commission reviews every six months and a final review every two years;[3] Indiana's, by contrast, resets quarterly.[4] Cadence and review schedule are set per state — confirm yours in the tariff.
+
+The direction can flip. On **April 30, 2025**, the Indiana Utility Regulatory Commission approved a NIPSCO fuel adjustment changing from a **credit of $0.001759/kWh** (February–April 2025 billing cycles) to a **charge of $0.001157/kWh** (May–July 2025 billing cycles), on an interim basis subject to refund.[4]
 
 ## Compare Bills Before Drawing a Conclusion
 
@@ -61,6 +69,10 @@ Compare the current bill with a similar prior bill. A higher total amount due ca
 
 DOE's electricity-bill material explains that bills can include multiple types of charges and rate structures; reviewing those components separately is more reliable than focusing only on the total.[2] If the comparison doesn't reconcile the increase, see [why did my utility bill go up this month?](/blog/why-did-my-utility-bill-go-up-this-month/) for the wider diagnostic.
 
+## What a Fuel Adjustment Is Not
+
+It is **not a rate increase**: base rates change only through a commission proceeding, while this line moves under an already-approved, regulator-reviewed mechanism — so it can shift between bills with no "new rates" case behind it.[3] It is **not shoppable on the delivery side**: the delivery utility is fixed by service territory, so the rider applies regardless of supplier. And in competitive-supply markets there is generally no separate delivery-side fuel line at all — fuel cost is absorbed into the price quoted by your chosen retail supplier, so compare [supply vs. delivery](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) components instead of hunting for a fuel line.[2] Contrast the fixed monthly [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/), which does not move with usage or fuel prices.
+
 ## Questions for the Provider
 
 1. Which tariff section defines this charge for my account?
@@ -68,6 +80,7 @@ DOE's electricity-bill material explains that bills can include multiple types o
 3. How does the provider calculate this specific line item?
 4. Which other bill components changed from the prior period?
 5. Can you provide the account-specific calculation and the current tariff version?
+6. When was this rider last adjusted, and on what schedule?
 
 Keep the bill, tariff version, and provider response together. If an error is suspected, follow the provider's stated billing-review process rather than assuming a charge is invalid.
 
@@ -102,3 +115,5 @@ Ask the provider the five questions above — the tariff section, the rate and e
 
 1. [U.S. Department of Energy: Understanding Your Electricity Bills (PDF)](https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf)
 2. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+3. [Kentucky Public Service Commission: Fuel Adjustment Clause FAQs](https://psc.ky.gov/Home/FuelAdjustmentClause) (retrieved 2026-08-29)
+4. [Indiana Utility Regulatory Commission: Order in Cause No. 38706 (FAC 146), NIPSCO fuel cost adjustment, approved April 30, 2025 (PDF)](https://www.in.gov/iurc/files/ord_38706FAC146_043025.pdf) (retrieved 2026-08-29)
