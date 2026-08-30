@@ -1,7 +1,7 @@
 ---
-title: "How to Find and Seal Drafts in Your Home (Room-by-Room)"
+title: "How to Find and Seal Drafts in Your Home"
 slug: "how-to-find-and-seal-drafts-in-your-home"
-description: "Find drafts with your hand, a smoke pen, and a flashlight, then seal the ten standard leak spots with sweeps, caulk, gaskets, and weatherstripping — plus what never to seal."
+description: "Find drafts with your hand, a smoke pen, and a flashlight, then seal the ten standard leak spots with sweeps, caulk, gaskets, and weatherstripping."
 date: 2026-08-30
 updated: 2026-08-30
 author: "Roberto Mendoza"
@@ -31,13 +31,13 @@ Your hand and a twelve-dollar smoke pen find every gap — no thermal camera req
 
 **Three instruments, one of them strapped to your wrist.** The hand test runs on a windy day, indoors: back of the hand, slow sweep along door frames, window trim, outlet plates, baseboards, hatch edges. Slow beats fast — a quick palm reports its own motion, not the draft. The smoke pencil (or a stick of incense) turns a hunch into an observation: fans off, watch the smoke stream bend or jerk near a suspect edge. The night flashlight trick needs a helper and darkness — they walk a flashlight along the outside of a closed exterior door while you watch from the dark inside; any stripe of light that reaches you used the same path winter air takes. The kit prices out at $0–15: the incense is already in the pantry, and the smoke pen is the only purchase these methods can justify.[4]
 
-{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/detection-methods-trio.webp" alt="The three draft-detection instruments: a slow palm sweep along a frame, a smoke pencil stream bending at a leak, and the night flashlight test through a door edge." wide="true" >}
+{{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/detection-methods-trio.webp" alt="The three draft-detection instruments: a slow palm sweep along a frame, a smoke pencil stream bending at a leak, and the night flashlight test through a door edge." wide="true" >}}
 
 ## The 10-Spot Tour
 
 **Ten stops cover the leak list federal guidance walks through — the DOE- and FTC-standard locations, dressed for a Saturday.**[2] Cold air arrives low and warm air leaves high, so the order runs basement to attic, exterior walls first. Detect as you go, and write down what you find.
 
-{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/ten-spot-house-map.webp" alt="Two-story house cross-section with ten numbered leak points from the attic hatch down to the rim joist, outlets, windows, doors, fireplace, and vents." wide="true" >}
+{{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/ten-spot-house-map.webp" alt="Two-story house cross-section with ten numbered leak points from the attic hatch down to the rim joist, outlets, windows, doors, fireplace, and vents." wide="true" >}}
 
 ### 1. The attic hatch
 
@@ -93,7 +93,7 @@ Your hand and a twelve-dollar smoke pen find every gap — no thermal camera req
 | An attic hatch | Insulated hatch cover | $25–60 | No | A cover over a hatch that no longer latches just rattles |
 | The flue of an unused chimney | Flue plug | $12–60 | Only with sign-off | A plug left in a chimney you still use is a hazard — **remove before any fire** |
 
-{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/gap-to-seal-matching.webp" alt="Three gap types matched to their sealing products: thin sash gaps to rope caulk, door bottoms to adhesive sweeps, and outlets to foam gaskets." wide="true" >}
+{{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/gap-to-seal-matching.webp" alt="Three gap types matched to their sealing products: thin sash gaps to rope caulk, door bottoms to adhesive sweeps, and outlets to foam gaskets." wide="true" >}}
 
 ## The Renter's Toolkit
 
@@ -117,7 +117,7 @@ The skip list is firmer: anything permanent — expanding foam, committed caulk 
 
 **Anything the appliance manual says feeds combustion air never goes on the sealing list — not with foam, not with a rag, not "just for the winter."**
 
-{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/never-seal-these-map.webp" alt="House outline marking the four openings that must never be sealed: siding weep holes, furnace combustion air, the dryer vent, and attic ventilation." wide="true" >}
+{{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/never-seal-these-map.webp" alt="House outline marking the four openings that must never be sealed: siding weep holes, furnace combustion air, the dryer vent, and attic ventilation." wide="true" >}}
 
 ## The Free 80% (before any purchase)
 
@@ -137,7 +137,7 @@ None of it costs a dollar, and it retires a fair share of "drafty house" verdict
 
 **The one-weekend starter** is a sweep for the worst door, one run of adhesive weatherstripping for the worst window, and a fifty-pack of outlet gaskets. The door that opened your tour takes the sweep first — the box below, an under-door sweep in the $8–15 band.[4] The outlet stop finishes with the gasket multipack at $5–15 — breaker off, screws kept.[4]
 
-{< product-box asin="B07MSM6G9R" name="Holikme Under-Door Draft Stopper" label="The starter basket's first item" description="Adhesive under-door sweep for gaps up to about an inch — the eight-to-fifteen-dollar fix for the door that opened your tour. Clean the door bottom before sticking." button="Check price on Amazon" >}
+{{< product-box asin="B07MSM6G9R" name="Holikme Under-Door Draft Stopper" label="The starter basket's first item" description="Adhesive under-door sweep for gaps up to about an inch — the eight-to-fifteen-dollar fix for the door that opened your tour. Clean the door bottom before sticking." button="Check price on Amazon" >}}
 
 **The full-tour basket** adds classes only as named stops demand them: rope caulk for fixed hairlines, a weighted stopper for a zero-install door, and — where the tour actually found them — the attic-hatch cover at $25–60 and the flue plug at $12–60. That last pair is where spending stops being pocket change; those purchases follow the detection, never lead it.[4]
 
@@ -168,4 +168,4 @@ The timing logic holds: the detection evening is weather-agnostic, but a sealed 
 1. [ENERGY STAR — Seal and Insulate](https://www.energystar.gov/saveathome/seal_insulate) — program-stated estimate: air sealing plus insulation can save up to 10% on total annual energy costs. Retrieved August 30, 2026.
 2. [FTC — How to Save Money on Heating and Cooling Your Home](https://consumer.ftc.gov/articles/how-save-money-heating-and-cooling-your-home) — the caulk-and-weatherstripping fix list; standard leak locations around windows, doors, and pipe-and-wire penetrations. Retrieved August 30, 2026.
 3. [U.S. Department of Energy — Energy Efficient Home Improvement Credit: Insulation and Air Sealing](https://www.energy.gov/cmei/buildings/articles/energy-efficient-home-improvement-credit-insulation-and-air-sealing) — the 25C credit covers insulation and air sealing. Retrieved August 30, 2026.
-4. SQ-063 product dossier — tracer-confirmed live price bands, August 30, 2026: rope caulk $8–15 (press-in), V-strip/D-profile $5–15, Holikme under-door sweep B07MSM6G9R $8–15, weighted fabric stoppers $15–25, outlet-gasket 50-packs $5–15, attic-hatch insulation covers $25–60, chimney flue plugs $12–60 (remove before any fire).
+4. Retailer-checked price bands, August 30, 2026: rope caulk $8–15 (press-in), V-strip/D-profile $5–15, under-door sweeps $8–15 (Holikme B07MSM6G9R), weighted fabric stoppers $15–25, outlet-gasket 50-packs $5–15, smoke pencils ~$12, attic-hatch insulation covers $25–60, chimney flue plugs $12–60 (remove before any fire).

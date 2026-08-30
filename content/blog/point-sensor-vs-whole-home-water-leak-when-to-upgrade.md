@@ -1,7 +1,7 @@
 ---
-title: "Point Sensor or Whole-Home Shutoff? When to Upgrade Your Leak Protection"
+title: "Point Sensor or Whole-Home Shutoff? When to Upgrade"
 slug: "point-sensor-vs-whole-home-water-leak-when-to-upgrade"
-description: "Point sensors guard spots, meter monitors watch every gallon, and an inline valve acts when you can't — the five signals that say when to move up the leak-protection ladder."
+description: "Point sensors guard spots, meter monitors watch every gallon, and an inline valve acts when you can't — the five signals that say when to move up."
 date: 2026-08-30
 updated: 2026-08-30
 author: "David Chen"
@@ -41,9 +41,8 @@ The tier-1 purchase, then, is about the right spots rather than more spots: a 5-
 
 {{< product-box asin="B0DQLFC3Q6" name="GoveeLife Water Leak Detector 5-Pack" label="Tier 1: the right spots" description="Five stick-on sensors with app and SMS alerts through the gateway — water heater pan, under sinks, behind toilets, at the sump. Fifty-nine ninety-eight at writing." button="Check price on Amazon" >}}
 
-{< product-box asin="B0DQLFC3Q6" name="GoveeLife Water Leak Detector 5-Pack" label="Tier 1: the right spots" description="Five stick-on sensors with app and SMS alerts through the gateway — water heater pan, under sinks, behind toilets, at the sump. Fifty-nine ninety-eight at writing." button="Check price on Amazon" >}
 
-{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/point-coverage-spot-map.webp" alt="Two-story house cutaway with five point sensors placed at the water heater, kitchen sink, toilet, washer, and sump pit." wide="true" >}
+{{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/point-coverage-spot-map.webp" alt="Two-story house cutaway with five point sensors placed at the water heater, kitchen sink, toilet, washer, and sump pit." wide="true" >}}
 
 ## What a Meter-Mounted Monitor Sees
 
@@ -77,7 +76,7 @@ The counterweights are price, install, and scope: about $560 before the plumber'
 
 Every signal points up for the same underlying reason: the failure it describes is either invisible to a disc or happens when no alert can be answered. If none of the five is yours, that isn't a pending upgrade — it's a permission slip to stay at tier 1.
 
-{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/upgrade-decision-flowchart.webp" alt="Upgrade path from spot sensors through a meter monitor to automatic shutoff, gated by questions about travel, heater age, slab construction, and burst risk." wide="true" >}
+{{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/upgrade-decision-flowchart.webp" alt="Upgrade path from spot sensors through a meter monitor to automatic shutoff, gated by questions about travel, heater age, slab construction, and burst risk." wide="true" >}}
 
 ## Flume vs. Moen Flo
 
@@ -99,9 +98,7 @@ Two answers to two different final questions: do you want to see what the pipes 
 {{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Tier 2: watch every gallon" description="Straps onto your existing water meter — no pipe cutting, no plumber. Whole-home flow, micro-leak alerts, and a usage lens. Verify your meter model is compatible first." button="Check price on Amazon" >}}
 {{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="Tier 3: the house that acts" description="Inline monitor and automatic shutoff on the main line — plumber install. Watches flow, pressure, and temperature and closes the valve itself on an anomaly. Ask your carrier about a shutoff discount." button="Check price on Amazon" >}}
 
-{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="Tier 3: the house that acts" description="Inline monitor and automatic shutoff on the main line — plumber install. Watches flow, pressure, and temperature and closes the valve itself on an anomaly. Ask your carrier about a shutoff discount." button="Check price on Amazon" >}
 
-{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Tier 2: watch every gallon" description="Straps onto your existing water meter — no pipe cutting, no plumber. Whole-home flow, micro-leak alerts, and a usage lens. Verify your meter model is compatible first." button="Check price on Amazon" >}
 
 ## The Coverage Ladder, Priced
 
@@ -117,7 +114,7 @@ The honest sequence for most homes: tier 1, placed deliberately in the right spo
 
 And the standing counterweight: if none of the five signals is yours, a $60 kit in the right corners is not a compromise — it is the correct final answer for a lot of houses. The non-gadget half of leak defense stays free either way: the meter's indicator, the dye test, and the habits in [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
 
-{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/coverage-ladder-tiers.webp" alt="Three ascending coverage tiers priced in risk terms: sixty dollars of sensors, about two hundred for whole-home monitoring, about five hundred sixty for automatic shutoff." wide="true" >}
+{{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/coverage-ladder-tiers.webp" alt="Three ascending coverage tiers priced in risk terms: sixty dollars of sensors, about two hundred for whole-home monitoring, about five hundred sixty for automatic shutoff." wide="true" >}}
 
 ## The Renter's Question
 

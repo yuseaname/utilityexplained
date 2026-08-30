@@ -1,7 +1,7 @@
 ---
-title: "What MERV Rating Do I Need? (And Does a Dirty Filter Raise My Bill?)"
+title: "What MERV Rating Do I Need?"
 slug: "what-merv-rating-do-i-need"
-description: "MERV 8 fits most homes, 11 for allergies, 13 only when the system is rated for it — the capture-versus-airflow trade, the size mistake that beats every rating debate, and honest filter economics."
+description: "MERV 8 for most homes, 11 for allergies, 13 only if rated — the capture-vs-airflow trade, the size mistake, and does a dirty filter raise your bill?"
 date: 2026-08-30
 updated: 2026-08-30
 author: "Roberto Mendoza"
@@ -39,7 +39,7 @@ The ladder, from the floor up:
 - **MERV 11** — Finer allergens. One more grade of density, aimed at particles the standard tier passes.
 - **MERV 13** — Fine-particle capture. This is the tier CDC and EPA guidance discusses where fine particles are the concern — and the framing matters: it describes capture of particles in a size range, not a health promise [2]. It also travels with the airflow caveat this article keeps returning to.
 
-{< visual src="/images/articles/what-merv-rating-do-i-need/merv-particle-ladder.webp" alt="MERV 8, MERV 11, and MERV 13 shown as ascending steps with captured particle dots getting finer at each tier." wide="true" >}
+{{< visual src="/images/articles/what-merv-rating-do-i-need/merv-particle-ladder.webp" alt="MERV 8, MERV 11, and MERV 13 shown as ascending steps with captured particle dots getting finer at each tier." wide="true" >}}
 
 ## The Trade Nobody Explains: Capture vs. Airflow
 
@@ -51,7 +51,7 @@ When the mismatch is real, the symptoms are mechanical rather than mysterious: a
 
 **So treat the manual as the ceiling, not a suggestion [3].** If the documentation doesn't confirm your system handles a tier, that tier is unavailable to you — no matter what the box promises or the allergies vote for. Your system breathes first; the rating argues second.
 
-{< visual src="/images/articles/what-merv-rating-do-i-need/capture-vs-airflow-balance.webp" alt="Equal-arm scale weighing filter capture against blower airflow — the trade every MERV step up makes." wide="true" >}
+{{< visual src="/images/articles/what-merv-rating-do-i-need/capture-vs-airflow-balance.webp" alt="Equal-arm scale weighing filter capture against blower airflow — the trade every MERV step up makes." wide="true" >}}
 
 ## Does a Dirty Filter Raise Your Bill?
 
@@ -87,7 +87,7 @@ Get it wrong by even an inch and air takes the easier path — around the media,
 
 If the old filter is gone, measure the slot itself: length, width, depth, in that order.
 
-{< visual src="/images/articles/what-merv-rating-do-i-need/filter-size-measure.webp" alt="Pleated filter with ruler arrows marking its length, width, and the often-forgotten depth." wide="true" >}
+{{< visual src="/images/articles/what-merv-rating-do-i-need/filter-size-measure.webp" alt="Pleated filter with ruler arrows marking its length, width, and the often-forgotten depth." wide="true" >}}
 
 ## The Honest Economics
 
@@ -100,9 +100,7 @@ Filters are a commodity — buy on size and tier, not brand poetry. The two prod
 {{< product-box asin="B00CK025GK" name="FilterBuy 20x20x1 MERV 8 Pleated Filters" label="The default tier, in multipacks" description="The tier most homes run, in a pleated multipack. Shown in the 20x20x1 example size (actual 19.5 x 19.5 x 0.75) — match the printed size to the slot you measured." button="Check price on Amazon" >}}
 {{< product-box asin="B00TUDHCEA" name="Filtrete 20x20x1 MERV 13 (MPR 1900) Filters" label="The ceiling tier — if your system allows it" description="Finer-particle capture at the top of the residential range. Confirm your system is rated for MERV 13 before buying; the manual is the ceiling, not the box." button="Check price on Amazon" >}}
 
-{< product-box asin="B00TUDHCEA" name="Filtrete 20x20x1 MERV 13 (MPR 1900) Filters" label="The ceiling tier — if your system allows it" description="Finer-particle capture at the top of the residential range. Confirm your system is rated for MERV 13 before buying; the manual is the ceiling, not the box." button="Check price on Amazon" >}
 
-{< product-box asin="B00CK025GK" name="FilterBuy 20x20x1 MERV 8 Pleated Filters" label="The default tier, in multipacks" description="The tier most homes run, in a pleated multipack. Shown in the 20x20x1 example size (actual 19.5 x 19.5 x 0.75) — match the printed size to the slot you measured." button="Check price on Amazon" >}
 
 ## When NOT to Upgrade to MERV 13
 

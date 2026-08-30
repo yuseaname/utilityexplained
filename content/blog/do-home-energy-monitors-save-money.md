@@ -1,7 +1,7 @@
 ---
 title: "Do Home Energy Monitors Save Money?"
 slug: "do-home-energy-monitors-save-money"
-description: "A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors actually see, what they miss, and when the free utility app is enough."
+description: "A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors see, what they miss, and when the free app is enough."
 date: 2026-08-30
 updated: 2026-08-30
 author: "David Chen"
@@ -43,7 +43,7 @@ What it cannot see is the honest half of the spec sheet:
 
 On accuracy: manufacturers publish circuit-level accuracy specs, and in practice circuit readings generally reconcile close to the utility meter's total. But those figures are manufacturer-reported — the party selling the device is grading its own homework. The working rule: use the monitor for comparisons over time and circuit against circuit, and treat the utility meter as the only number your bill obeys.
 
-{< visual src="/images/articles/do-home-energy-monitors-save-money/ct-clamp-anatomy.webp" alt="Split-ring current transformer clamp around a main conductor, with its signal wire running to a phone app reading of 125.4 amps." wide="true" >}
+{{< visual src="/images/articles/do-home-energy-monitors-save-money/ct-clamp-anatomy.webp" alt="Split-ring current transformer clamp around a main conductor, with its signal wire running to a phone app reading of 125.4 amps." wide="true" >}}
 
 ## The Three Bills a Monitor Helps Decode
 
@@ -55,7 +55,7 @@ On accuracy: manufacturers publish circuit-level accuracy specs, and in practice
 
 **The appliance on its way out.** This is one users look for, and it's a concept, not a data claim. An aging refrigerator tends to leave a signature: runtime creeping longer, rest periods shrinking, the kitchen circuit's daily total drifting upward with no change in habits. The monitor doesn't diagnose compressors — a rising line has innocent explanations too. But set against last spring's curve, that drift is the evidence you weigh against a repair quote before replacing anything.
 
-{< visual src="/images/articles/do-home-energy-monitors-save-money/bill-anomaly-flowchart.webp" alt="Four-step diagnosis flow from a bill spike through checking usage and comparing circuits to finding the culprit load." wide="true" >}
+{{< visual src="/images/articles/do-home-energy-monitors-save-money/bill-anomaly-flowchart.webp" alt="Four-step diagnosis flow from a bill spike through checking usage and comparing circuits to finding the culprit load." wide="true" >}}
 
 ## Monitor vs. Your Utility's App (the free competitor)
 
@@ -74,7 +74,7 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 3. **Kill the circuits that run for nobody.** The data shows an overnight floor that never reaches zero, and per-circuit history shows which breakers hold it up. What you change: switchable power strips and a lights-out habit for loads that genuinely belong off at night. The fence stays fixed: medical equipment, sump pumps, security cameras, and refrigeration are never on the kill list.
 4. **Catch the long runtimes you never see.** The data shows high-duty loads operating outside their intended schedules — a pool pump running past its timer setting, a dehumidifier cycling around the clock in a damp basement. What you change: the timer, the humidistat setpoint, or the drain routing — corrections you would never have guessed at without the log.
 
-{< visual src="/images/articles/do-home-energy-monitors-save-money/behavior-bridge-loop.webp" alt="Circular loop connecting seeing energy data, finding the change, fixing the habit, and watching the bill." >}
+{{< visual src="/images/articles/do-home-energy-monitors-save-money/behavior-bridge-loop.webp" alt="Circular loop connecting seeing energy data, finding the change, fixing the habit, and watching the bill." >}}
 
 ## Comparing the Monitors
 
@@ -91,7 +91,7 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 
 **The install is the safety story: CT clamps attach around conductors inside an electrical panel.** If you have never worked in a panel with the main off and still treated every conductor as energized, put an electrician on the install — the labor is cheap against the mistake. If panel-level data fits your situation, the Vue 3 is where most households start.
 
-{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The panel-data standard" description="Clamps onto your mains plus up to 16 circuits for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." button="Check price on Amazon" >}
+{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The panel-data standard" description="Clamps onto your mains plus up to 16 circuits for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." button="Check price on Amazon" >}}
 
 ## The Renter's Path
 
@@ -99,9 +99,9 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 
 For ongoing visibility rather than one-off checks, energy-monitoring smart plugs carry the job into the app era — [this site's smart-plug guide](/blog/50-best-smart-plugs-standby-power/) covers which plugs meter energy and how to use them safely. When you want the simplest instrument of all, nothing to pair and nothing to configure, the classic plug-in meter is still the standard.
 
-{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Measure before you budget" description="Plug-in meter for any 120V outlet load up to 1875 W — live watts and cumulative kWh for the one appliance you suspect most. No app, no panel, no electrician." button="Check price on Amazon" >}
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Measure before you budget" description="Plug-in meter for any 120V outlet load up to 1875 W — live watts and cumulative kWh for the one appliance you suspect most. No app, no panel, no electrician." button="Check price on Amazon" >}}
 
-{< visual src="/images/articles/do-home-energy-monitors-save-money/renter-vs-owner-paths.webp" alt="Two upgrade lanes compared: panel-installed monitors for owners and plug-in meters or monitoring smart plugs for renters." wide="true" >}
+{{< visual src="/images/articles/do-home-energy-monitors-save-money/renter-vs-owner-paths.webp" alt="Two upgrade lanes compared: panel-installed monitors for owners and plug-in meters or monitoring smart plugs for renters." wide="true" >}}
 
 ## When a Monitor Is a Waste of Money
 
@@ -140,5 +140,5 @@ Many do — verify before buying rather than after. The Emporia Vue 3 supports s
 4. [Sense Energy Monitor — sense.com](https://sense.com) — machine-learning device detection; sold direct, not confirmed on Amazon. Retrieved August 30, 2026.
 5. [U.S. Department of Energy — Energy Savings Hub](https://www.energy.gov/save) — rebates, incentives, and why bills rise. Retrieved August 30, 2026.
 6. [Emporia Vue 3 — Amazon listing](https://www.amazon.com/dp/B0C7B1LKDW) — Amazon-tracked price band ~$142–164. Retrieved August 30, 2026.
-7. Amazon search-page verification of Refoss EM16P (~$100–150) and Eyedro (~$100–200) price bands — SQ-063 product dossier, section E1. Retrieved August 30, 2026.
+7. Refoss EM16P and Eyedro price bands (~$100–150 and ~$100–200) confirmed on Amazon search pages at retrieval. Retrieved August 30, 2026.
 8. [U.S. Department of Energy FEMP — Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power) — measurement method behind this site's standby-power figures. Retrieved August 30, 2026.

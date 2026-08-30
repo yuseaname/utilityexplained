@@ -17,6 +17,8 @@ jobs:
       - run: hugo --minify --gc
       - name: Verify image references (fail deploy on missing assets)
         run: python3 scripts/check_image_paths.py .
+      - name: Verify rendered output (fail deploy on leaked shortcodes)
+        run: python3 scripts/check_rendered_output.py public
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh

@@ -1,7 +1,7 @@
 ---
 title: "Do Thermal Curtains Really Work?"
 slug: "do-thermal-curtains-really-work"
-description: "Thermal curtains work through still air and fit, not fabric — what the DOE and AERC numbers actually measured, the hang rules that decide performance, and when curtains won't help."
+description: "Thermal curtains work through still air and fit, not fabric — what the DOE and AERC numbers measured, the hang rules that decide performance."
 date: 2026-08-30
 updated: 2026-08-30
 author: "Margaret Harrington"
@@ -33,7 +33,7 @@ A window loses heat by conduction to whatever air touches it, and a cold pane ru
 
 A curtain beats it with stillness. In the folds between fabric and glass sits a cushion of slow-moving air, and still air is one of the poorest heat conductors in your house. The curtain's job is to hold that cushion in place and put the loop's cold leg behind fabric, where the room can no longer feed it. Any tight-weave, full-coverage, floor-length panel runs the same physics; what the "thermal" label adds is layered construction that holds more still air in more pockets. The physics never asks what the packaging says.
 
-{< visual src="/images/articles/do-thermal-curtains-really-work/dead-air-cross-section.webp" alt="Window cross-section showing the glass, the trapped cushion of still air, and the curtain that holds it in place." wide="true" >}
+{{< visual src="/images/articles/do-thermal-curtains-really-work/dead-air-cross-section.webp" alt="Window cross-section showing the glass, the trapped cushion of still air, and the curtain that holds it in place." wide="true" >}}
 
 ## What the Savings Numbers Actually Measured
 
@@ -69,7 +69,7 @@ The takeaway is not a demolition. The measured number is smaller than the taglin
 
 Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expensive curtain hung short and proud of the wall. Spend the money on the tape measure, not the tag.
 
-{< visual src="/images/articles/do-thermal-curtains-really-work/fit-overlap-right-wrong.webp" alt="Wrong and right curtain hangs compared: a too-small panel leaking at the edges against a wide overlap hung close to the wall." wide="true" >}
+{{< visual src="/images/articles/do-thermal-curtains-really-work/fit-overlap-right-wrong.webp" alt="Wrong and right curtain hangs compared: a too-small panel leaking at the edges against a wide overlap hung close to the wall." wide="true" >}}
 
 ## Winter Nights, Summer Days
 
@@ -84,7 +84,7 @@ Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expen
 
 The winter discipline is two-position — closed at night, open on sunny days. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives.
 
-{< visual src="/images/articles/do-thermal-curtains-really-work/seasonal-operation-clock.webp" alt="Four seasonal operating positions for window coverings: closed winter nights, open winter sunny days, closed against summer sun, open on mild summer nights." wide="true" >}
+{{< visual src="/images/articles/do-thermal-curtains-really-work/seasonal-operation-clock.webp" alt="Four seasonal operating positions for window coverings: closed winter nights, open winter sunny days, closed against summer sun, open on mild summer nights." wide="true" >}}
 
 ## Curtains vs. Window Film Kits vs. Cellular Shades
 
@@ -110,7 +110,7 @@ Cellular shades lead the independent ratings [2], but they price like it and com
 
 Nothing on this list requires a designer label. The category's best sellers are plain, wide panels in the $20–50 band [4], and once the hang is right, the physics does not grade the brand. The best-selling panel below is the sensible default — check its size chart against your rod before the price sways you.
 
-{< product-box asin="B077RPXSF3" name="NICETOWN Thermal Insulated Blackout Curtains" label="The hang matters more than the brand" description="Thermal-insulated blackout panels in the twenty-to-fifty-dollar band. Order wide enough to overlap the frame on every side and hang close to the wall — fit decides the performance." button="Check price on Amazon" >}
+{{< product-box asin="B077RPXSF3" name="NICETOWN Thermal Insulated Blackout Curtains" label="The hang matters more than the brand" description="Thermal-insulated blackout panels in the twenty-to-fifty-dollar band. Order wide enough to overlap the frame on every side and hang close to the wall — fit decides the performance." button="Check price on Amazon" >}}
 
 ## When Curtains Won't Help
 
