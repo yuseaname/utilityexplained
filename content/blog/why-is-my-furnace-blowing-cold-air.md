@@ -13,6 +13,7 @@ image: "/images/articles/why-is-my-furnace-blowing-cold-air/thermostat-auto-vs-f
 sources:
   - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
   - https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires
+  - https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit (retrieved 2026-08-29)
 ---
 
 ## Quick Answer
@@ -89,7 +90,7 @@ The best approach is to ask for itemized quotes and compare at least three. Avoi
 
 If your furnace is more than **15–20 years old**, you may be entering repair-versus-replace territory. Modern condensing furnaces are significantly more efficient than older units, and the U.S. Department of Energy's Energy Saver site notes that furnace efficiency is measured by AFUE (Annual Fuel Utilization Efficiency). Typical furnace lifespans run **15–20 years** with proper maintenance.[^energy]
 
-**Important:** The federal 25C tax credit for high-efficiency furnaces expired on **12/31/2025** and has not been renewed as of this writing (2026-08-30). Do not let anyone tell you a federal rebate is still available for a new furnace — it is not. Your state or utility may offer separate incentives, so check the DSIRE database if you are considering a replacement.
+**Important:** The federal 25C tax credit for high-efficiency furnaces expired for property **placed in service after 12/31/2025** — the 2025 reconciliation law (OBBBA) ended it early; the IRS confirms the credit applies only through December 31, 2025 [3]. It has not been renewed as of 2026-08-30. Do not let anyone tell you a federal rebate is still available for a new furnace — it is not. Your state or utility may offer separate incentives, so check the DSIRE database if you are considering a replacement.
 
 A properly sized, well-maintained furnace can last **15–20 years**; after that, a major repair may cost more than a partial replacement over the same period. Get three quotes for both repair and replacement before deciding.
 
@@ -127,6 +128,7 @@ Use the maintenance schedule in the equipment manual, keep required vents clear,
 
 1. [U.S. Consumer Product Safety Commission: Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center)
 2. [U.S. Consumer Product Safety Commission: Winter storm carbon-monoxide and fire safety tips](https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires)
+3. [IRS: Energy Efficient Home Improvement Credit (25C) — applies through December 31, 2025](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit) (retrieved 2026-08-29)
 
 [^energy]: U.S. Department of Energy, Energy Saver, furnaces and boilers (retrieved 2026-08-30). We attempted to confirm the exact AFUE figures from the live page but it was unavailable during writing; the figures above reflect typical industry ranges.
 

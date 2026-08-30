@@ -126,7 +126,7 @@ To make the three components concrete, here is a realistic month assembled from 
 | Component | Calculation | Amount | Status |
 |---|---|---|---|
 | Electric usage | 899 kWh × $0.1834/kWh (U.S. residential average, June 2026) [1] | **$164.88** | Verified (EIA) |
-| Gas usage | 80 therms × ≈$1.91/therm — from $19.83 per thousand cubic feet, the latest residential value in the EIA series [2]; Mcf-to-therm conversion and usage are illustrative | **≈$152.98** | Price verified (EIA); volume illustrative |
+| Gas usage | 80 therms × $1.9123/therm — $19.83 per thousand cubic feet (latest residential value in the EIA series [2]) ÷ 10.37 therms per Mcf; usage illustrative | **≈$152.98** | Price verified (EIA); volume illustrative |
 | Water usage + base | 6 CCF (4,488 gallons): first 3 CCF at $2.50, next 3 at $3.75, plus a $10.00 base charge [3] | **$28.75** | Illustrative (structure per EPA WaterSense) |
 | **Three statements combined** | $164.88 + $152.98 + $28.75 | **≈$346.61** | Illustrative total |
 
