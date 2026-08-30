@@ -76,6 +76,8 @@ A useful rule of thumb, consistent with DOE's setback figures: each degree warme
 
 **Programmable thermostat tip:** Set it to drop 7–10°F when you're sleeping or away for at least eight hours a day. This alone can save up to 10% on heating costs, according to the U.S. Department of Energy.[2] If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature. Before buying anything for that schedule, it's fair to ask [do programmable thermostats really cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/) — the evidence page breaks down what the setback studies actually show.
 
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Learns your schedule in about a week and applies the 7–10°F setback automatically — the habit the section above says saves up to 10% on heating (DOE). Google's manufacturer-reported figures are ~12% on heating and ~15% on cooling; vendor numbers, independent results vary." button="Check price on Amazon" >}}
+
 {{< visual src="/images/articles/07-gas-bill-too-high/thermostat-setback-schedule.webp" alt="24-hour thermostat schedule with a 60 degree eight-hour setback." >}}
 
 ### 3. Furnace efficiency decline
@@ -341,8 +343,6 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 {{< faq-schema >}}
 
 ---
-
-{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen)" label="The heating-bill autopilot" description="Programs itself in a week — no schedule-building, which is where most programmable thermostats fail. Google's manufacturer-reported savings: ~12% on heating, ~15% on cooling (vendor figures; independent results vary). The single highest-impact device for gas heating bills." button="Check price on Amazon" >}}
 
 ## Sources
 
