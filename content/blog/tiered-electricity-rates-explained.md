@@ -9,7 +9,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "tiered rate", "electric bill"]
 keywords: ["tiered electricity rates", "block rate electricity", "electricity bill tiers"]
-image: "/images/articles/tiered-electricity-rates-explained/tiered-electricity-rates-explained_hero_00001_.webp"
+image: "/images/articles/tiered-electricity-rates-explained/tier-usage-bins-hero.webp"
 sources:
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
 ---
@@ -19,6 +19,8 @@ sources:
 **A tiered or block rate changes the electricity price according to the amount consumed under the serving utility's tariff.** DOE describes a block rate as a pricing structure where the electricity cost varies with the amount consumed.[1] The thresholds, prices, seasons, service classes, and calculation method are provider-specific.
 
 Do not apply a generic baseline, assume the entire bill moves to a higher price, or use a state/utility comparison table instead of the tariff currently assigned to your account.
+
+{{< visual src="/images/articles/tiered-electricity-rates-explained/tier-boundary-step-line.webp" alt="Tiered-rate step line showing $0.28 per kWh through 400 kWh and $0.38 after it, with $110.60, $112.00, and $113.90 totals around the threshold." wide="true" >}}
 
 ## Find the Applicable Rate Schedule
 
@@ -46,11 +48,15 @@ Suppose a tariff prices Tier 1 at $0.28/kWh for the first 400 kWh of a billing p
 | Tier 2: next 150 kWh (550 total) | 150 × $0.38 | $57.00 |
 | Usage-related subtotal | $112.00 + $57.00 | $169.00 |
 
+{{< visual src="/images/articles/tiered-electricity-rates-explained/tier-worked-example-split.webp" alt="Worked tiered-rate bar splitting 550 kWh into 400 kWh at $0.28 and 150 kWh at $0.38 for a $169.00 total." wide="true" >}}
+
 A reader using 550 kWh pays $169 in usage charges — not 550 × $0.38 = $209. Crossing the threshold raises the price only on the units beyond it. When you check your own bill, reproduce exactly this table from your tariff's thresholds and rates, then compare it against the statement line by line. The same pattern drives [why an electric bill climbs without a rate change](/blog/03-why-is-my-electric-bill-so-high/), and it is separate from [when you use power under time-of-use pricing](/blog/08-time-of-use-electricity/). For how tiers sit among all the other line items, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 ## Check the Statement Line by Line
 
 Compare each tier or block line with the tariff — if the block lines themselves are hard to find on the statement, [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks the statement top to bottom first. Confirm the quantity assigned to the block, the rate, and the displayed amount. If the calculation does not reconcile, ask the provider for the account-specific billing calculation rather than inferring an error from the total due.
+
+{{< visual src="/images/articles/tiered-electricity-rates-explained/tier-line-anatomy.webp" alt="Statement worksheet with Tier 1 and Tier 2 kWh, rate, and amount blanks, highlighting the Tier 2 quantity to verify." >}}
 
 When comparing months, first account for a changed billing period, rate version, read status, season, or credit. A higher total does not by itself prove a tier threshold caused the increase.
 

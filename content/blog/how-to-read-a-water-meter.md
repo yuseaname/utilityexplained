@@ -46,7 +46,7 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
 
 <h2 id="read-dial">Reading a dial meter</h2>
 
-{{< image src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits" caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
+{{< visual src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits." caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
 
 <p>
               Dial meters usually have four or five dials. Taking a reading is a
@@ -181,6 +181,7 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </p>
 
 <h2 id="unit-math">Convert meter units to bill units</h2>
+{{< visual src="/images/articles/how-to-read-a-water-meter/meter-to-bill-units.webp" alt="Meter-to-bill unit diagram showing 1,255 CCF converted through 100 cubic feet and 7.48 gallons per cubic foot to the bill’s CCF unit." wide="true" >}}
 <p>
               If your meter shows cubic feet but the bill lists gallons, use the
               conversion on the bill. One cubic foot equals 7.48 gallons, and one CCF
@@ -228,6 +229,8 @@ Many meters are outside, but some homes have an indoor or remote display. Check 
 
 
 ### Meter Reading Calculation Example
+
+{{< visual src="/images/articles/how-to-read-a-water-meter/ccf-usage-bracket.webp" alt="Meter-reading span from 1,247 to 1,255 CCF, showing a difference of 8 CCF or 5,984 gallons." wide="true" >}}
 
 | Reading | Example | Calculation |
 |---------|---------|-------------|

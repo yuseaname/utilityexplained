@@ -37,6 +37,8 @@ Different states draw the lines differently — compare your utility's demand ag
 | California (SCE) | Deposits are reviewed after 12 consecutive on-time monthly bills and established credit [3] |
 | Minnesota (all residential utilities) | No additional service deposit may be charged as a condition to continue service to a customer who entered — and stays reasonably on time under — an accepted payment agreement [4] |
 
+{{< visual src="/images/articles/26-utility-deposit-explained/state-deposit-cap-ruler.webp" alt="Three state-rule ruler rows for Texas, California SCE, and Minnesota deposit frameworks, each marking the applicable cap or protection." wide="true" >}}
+
 ## Get the Deposit Terms in Writing
 
 Before paying, ask the provider to confirm the specific rule that authorizes the amount:
@@ -54,6 +56,8 @@ If the utility cannot name the rule behind the amount, ask for it in writing —
 ## How and When Deposits Come Back
 
 Refund timing is rules-driven, not discretionary. Southern California Edison's published practice: deposits are automatically applied to the account 10 days after the last service address is turned off and closed, and an entitled refund is mailed with the closing bill within 30 days of closing the account [3]. Moving in or out is when most deposit questions surface — the [moving utilities checklist](/blog/moving-utilities-checklist/) covers start, transfer, and stop service in one place. Mid-account, a deposit review kicks in once 12 consecutive monthly bills have been paid on time and credit is established [3]. If you're at the review stage, knowing what the bill says helps you confirm the review is fair — [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks through each charge.
+
+{{< visual src="/images/articles/26-utility-deposit-explained/deposit-refund-timeline.webp" alt="Deposit lifecycle timeline from a documented payment through a 12-bill review to final-account application and a refund mailed within 30 days under SCE practice." wide="true" >}}
 
 Texas connects the deposit to service too: a REP may disconnect service for failure to pay a deposit [1], which makes the deposit as deadline-sensitive as the bill itself — [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) covers what has to happen before disconnection. If a deposit demand arrives while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), the payment-agreement route matters: under Minnesota's residential protections, an accepted payment agreement blocks any new deposit demand [4], and Texas customers who haven't received more than two termination notices in the past year are eligible for a deferred payment plan [1].
 

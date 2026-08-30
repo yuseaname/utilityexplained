@@ -72,11 +72,14 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               <li>Walk the irrigation line: a leak the thickness of a dime can waste about 6,300 gallons a month.[1]</li>
               <li>Confirm the sprinkler timer schedule hasn't been reset or extended.</li>
             </ul>
+{{< visual src="/images/articles/why-did-my-water-bill-suddenly-increase/leak-check-checklist.webp" alt="Four-step household leak checklist covering a toilet dye test, pipe-fitting moisture check, irrigation-line walk, and sprinkler-timer reset." >}}
             <p>
               Work the list top to bottom. Once the toilet and fixtures check out,
               move to the <a href="#meter-check">two-hour meter test</a> below to
               confirm whether water is moving when everything is off.
             </p>
+
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch the next leak automatically" description="The checks above find a leak that's running today. Contact sensors alarm at 105 dB and phone-alert you the minute water appears — place them under the water heater, behind the washing machine, and under sinks, where slow leaks start. 5-pack covers the usual suspects (Govee spec)." button="Check price on Amazon" >}}
 
 <h2 id="usage-changes">Look for normal usage changes</h2>
 <p>
@@ -162,6 +165,7 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               Our guide to <a href="/blog/how-to-read-a-water-meter/">how to read your water meter</a>
               covers dial and digital displays, including which unit you're looking at.
             </p>
+{{< visual src="/images/articles/why-did-my-water-bill-suddenly-increase/two-hour-meter-test.webp" alt="Two water-meter faces at the start and end of a two-hour all-water-off test, showing that a positive reading change signals a leak." wide="true" >}}
             <p>
               You can also compare your meter reading to the bill. If it is close, the
               bill is likely accurate. If it is much lower, the bill may reflect an
@@ -231,6 +235,7 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               <li>Compare gallons per day across billing periods.</li>
               <li>Call the utility if the bill looks inconsistent with the meter.</li>
             </ul>
+{{< visual src="/images/articles/why-did-my-water-bill-suddenly-increase/next-step-router.webp" alt="Three-way water-bill routing diagram for a moved meter, a clean meter, or numbers that do not line up." wide="true" >}}
             <p>
               If you find a leak, save receipts and ask your utility about its
               adjustment or leak-forgiveness policy. EPA notes that fixing easily

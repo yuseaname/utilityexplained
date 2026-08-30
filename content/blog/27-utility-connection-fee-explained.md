@@ -9,7 +9,7 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["connection fee", "new service", "utility setup"]
 keywords: ["utility connection fee", "utility service start charge", "new utility account"]
-image: "/images/articles/utility-connection-fee-explained/image.webp"
+image: "/images/articles/27-utility-connection-fee-explained/27-utility-connection-fee-explained_hero_v2.webp"
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
 ---
@@ -19,6 +19,8 @@ sources:
 **A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms. If service was interrupted for non-payment rather than newly opened, the charge you are facing is a [reconnection fee](/blog/28-utility-reconnection-fee-explained/); if you were asked for a refundable deposit, see [how utility deposits work](/blog/26-utility-deposit-explained/); for the recurring fixed charge that appears after service starts, see the [water service charge](/blog/water-service-charge-explained/) explained.
 
 **Which fee situation are you in?** New service at a new address — keep reading for the service-start and deposit items. Reconnecting after a non-payment shutoff — start with the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/). Deposit only — see [how utility deposits work](/blog/26-utility-deposit-explained/).
+
+{{< visual src="/images/articles/27-utility-connection-fee-explained/fee-situation-router.webp" alt="Three-branch fee router separating new service, reconnection after non-payment shutoff, and a refundable deposit-only situation." wide="true" >}}
 
 Before opening an account, ask for the written schedule of charges and confirm which items apply to the address.
 
@@ -33,6 +35,8 @@ Ask the provider to identify each potential item:
 | Site visit or reconnection | Whether a visit is needed and what access or scheduling rules apply |
 | New construction or infrastructure | Whether the property owner, builder, or account holder is responsible |
 | Cancellation or move-out | What charges, credits, or balances apply when service ends |
+
+{{< visual src="/images/articles/27-utility-connection-fee-explained/service-start-fee-anatomy.webp" alt="First-statement fee anatomy listing service-start, deposit, site visit, construction, and move-out items with the question to verify for each." wide="true" >}}
 
 The provider's terms, property condition, service territory, and request timing control the answer. A landlord or seller can identify the serving providers, but the provider should confirm account charges directly.
 

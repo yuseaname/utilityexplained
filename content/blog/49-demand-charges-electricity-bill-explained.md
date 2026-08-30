@@ -24,6 +24,8 @@ Do not assume every residential or commercial account has a demand charge, that 
 
 **Self-check before you go further:** if your bill shows a demand line but this page hasn't answered your question yet, jump to [Questions for the Provider](#questions-for-the-provider); if the number looks wrong, the [Compare Like With Like](#compare-like-with-like) checks are the fastest route to an answer.
 
+{{< visual src="/images/articles/49-demand-charges-electricity-bill-explained/kw-vs-kwh-demand-strip.webp" alt="Two-panel comparison showing 3.0 kWh as energy used over three hours and 1.0 kW as the rate of use in a 15-minute demand interval." wide="true" >}}
+
 ## Find the Demand Calculation
 
 Record the exact bill line and then ask the provider for the controlling tariff section. Confirm:
@@ -35,6 +37,8 @@ Record the exact bill line and then ask the provider for the controlling tariff 
 | Demand window | Billing-period, seasonal, time-period, or contract conditions |
 | Price | Current demand rate and associated riders or adjustments |
 | Other charges | Energy use, fixed charges, taxes, credits, and one-time items |
+
+{{< visual src="/images/articles/49-demand-charges-electricity-bill-explained/demand-line-verify-anatomy.webp" alt="Demand-charge worksheet showing blanks for demand kW, dollar-per-kW rate, billed amount, actual or billed status, and interval length." >}}
 
 The service-class row is where tiered confusion usually starts. If your rate schedule prices blocks of usage instead of a single demand figure, that is a block rate — see [tiered electricity rates: how blocks work](/blog/tiered-electricity-rates-explained/).
 

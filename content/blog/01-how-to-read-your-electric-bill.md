@@ -10,7 +10,7 @@ category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
-image: "/images/articles/01-how-to-read-your-electric-bill/custom_hero.webp"
+image: "/images/articles/01-how-to-read-your-electric-bill/statement-ledger-hero.webp"
 sources:
   - https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
@@ -44,11 +44,15 @@ Before interpreting individual charges, locate these items on the current bill o
 5. **Meter-read status** — whether the bill identifies an actual or estimated read.
 6. **Itemized charges and credits** — the descriptions and amounts used to reach the total.
 
+{{< visual src="/images/articles/01-how-to-read-your-electric-bill/statement-anatomy-labeled.webp" alt="Annotated utility statement identifying the billing period, amount due, kWh used, meter-read status, and rate plan or tariff." >}}
+
 Keep a copy of the bill while reviewing it. When a charge is unclear, ask the utility: “Which rate or tariff provision produced this charge?”
 
 ## What a kWh Means
 
 A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equals one kWh.[1] A device's energy use therefore depends on both its power draw and how long it runs.
+
+{{< visual src="/images/articles/01-how-to-read-your-electric-bill/one-kwh-explained.webp" alt="Diagram showing a 1,000-watt space heater running for one hour to equal one kilowatt-hour, with an 899 kWh monthly EIA reference." wide="true" >}}
 
 For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
 
@@ -71,6 +75,8 @@ If your statement shows meter information, look for:
 Do not assume every meter or bill uses the same presentation. Smart meters, manual reads, interval data, multipliers, and net-metering arrangements can change what appears on a statement.
 
 ### Estimated bills
+
+{{< visual src="/images/articles/01-how-to-read-your-electric-bill/actual-vs-estimated-read.webp" alt="Comparison of actual and estimated meter-read types, noting that an estimated bill may true-up after a later actual reading." >}}
 
 A utility may estimate usage when it cannot obtain a meter read. The California Public Utilities Commission explains that an estimated bill can be corrected when the utility later obtains a meter reading.[3] An estimated bill is a reason to review the statement, not proof that the bill is wrong. Compare the billing period, read type, and later actual bill before deciding whether there is a discrepancy.
 
@@ -111,6 +117,8 @@ One useful comparison figure is:
 ```text
 Total electric charges ÷ kWh billed = effective cost per kWh
 ```
+
+{{< visual src="/images/articles/01-how-to-read-your-electric-bill/effective-rate-worked-example.webp" alt="Worked ledger calculating an effective electric rate of $0.1705 per kWh from $152.30 in electric charges divided by 893 kWh." >}}
 
 Use it only to compare similar service and similar billing periods. If a statement includes non-electric services, deposits, late fees, past-due balances, or one-time adjustments, identify those items before treating the result as an electricity price.
 

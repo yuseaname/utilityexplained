@@ -40,6 +40,8 @@ Compare the current statement with the prior statement and your payment records 
 | Fees | Late charges or reconnection items — ask which term authorizes each |
 | Notice | The stated due date, disconnection date, and contact instructions |
 
+{{< visual src="/images/articles/21-past-due-balance-utility-bill-explained/past-due-bill-anatomy.webp" alt="Annotated utility bill showing current charges, past-due balance, late fee, and total amount due with the due date and late-payment date." >}}
+
 If a payment doesn't match your own records, the next move is [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) — open the review before you pay anything you can't verify. In Texas, a utility cannot disconnect you for disputed charges until the dispute is resolved and you are notified of the outcome [5].
 
 ## Step 2: Verify the Notice and the Deadline
@@ -51,6 +53,8 @@ Every state sets its own notice framework — the pattern is notice, then a wait
 | Minnesota Cold Weather Rule (public utilities) | No disconnection of primary heat October 1–April 30 for households at or below 50% of state median income who pay on a payment agreement; disconnection needs 10 working days' notice by mail (7 if personally served), and never on a Friday, weekend, holiday, or day before a holiday [3] |
 | Minnesota Cold Weather Rule (municipal and cooperative utilities) | Same October 1–April 30 window; disconnection is barred until at least 30 days after a mailed notice or 15 days after personal delivery [4] |
 | Texas (electric) | Disconnection requires a 10-day notice period after a written disconnection notice is issued; the date cannot fall on a weekend or holiday [5] |
+
+{{< visual src="/images/articles/21-past-due-balance-utility-bill-explained/disconnection-notice-to-deadline.webp" alt="Disconnection-notice board highlighting the notice-issued and disconnection-date fields alongside Minnesota and Texas notice-rule reminders." wide="true" >}}
 
 Your state's public utility commission publishes the equivalent consumer rules; read them against your notice rather than assuming any other state's timeline. For the whole arc — notice types, waiting periods, and what utilities may and may not disconnect for — see [can a utility shut off your service?](/blog/can-utility-shut-off-service/).
 

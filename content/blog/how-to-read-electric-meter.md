@@ -81,6 +81,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
                 If the right dial has not passed zero, use the lower number.
               </li>
             </ol>
+{{< visual src="/images/articles/how-to-read-electric-meter/electric-dial-meter-sequence.webp" alt="Four alternating-direction electric-meter dials showing how to record the lower number when a pointer sits between five and six." wide="true" >}}
             <p>
               Take a clear photo when you read it. That makes it easier to compare
               with the bill later.
@@ -150,6 +151,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
                 </tr>
               </tbody>
             </table>
+{{< visual src="/images/articles/how-to-read-electric-meter/two-readings-subtraction.webp" alt="Two electric-meter readings, 48,120 and 48,540, feeding a subtraction ledger with 420 kWh highlighted." >}}
             <p>
               If your utility bills monthly, you can compare this calculated usage
               to the kWh shown on the statement. Small differences can happen if you
@@ -174,6 +176,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
                 explains why two bills can cover different day counts.
               </li>
             </ul>
+{{< visual src="/images/articles/how-to-read-electric-meter/meter-vs-bill-check.webp" alt="Two-column meter-versus-statement check comparing an August 28 reading of 48,510 with an actual August 31 bill reading of 48,540." >}}
             <p>
               If you want to understand how the meter reading turns into line items
               and fees, read
