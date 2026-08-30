@@ -104,7 +104,7 @@ The monthly shape comes from EIA's consumption series: averaged over 2020–2024
 
 **What that means for your own bill:** gas-heated homes in cold climates typically peak near **100–200 therms in the deepest winter months** and fall to roughly **10–40 therms in summer** — consistent with EIA's January and July consumption shares[1] and with cold-climate annual use around 860 therms[5]. Compare your own bill to the **same month last year**, not to last summer. A January-to-January comparison across similar weather isolates rate changes from usage changes.
 
-### National Residential Gas Prices (2024–2025)
+### National Residential Gas Prices (2024–2026)
 
 According to EIA data, the average U.S. residential natural gas price was:
 
@@ -112,8 +112,12 @@ According to EIA data, the average U.S. residential natural gas price was:
 |---|---|
 | 2024 | $14.50 |
 | 2025 | $15.34 |
+| Jan 2026 | $13.96 |
+| Feb 2026 | $15.06 |
 
-*Source: EIA Natural Gas Residential Price (retrieved 2026-08-29).[2] Prices vary widely by state — California ($22.01/Mcf in 2025), Florida ($25.48), and Hawaii ($52.38) sit well above the national average, while Colorado ($11.17), Idaho ($7.69), and Michigan ($10.92) sit below; New York ran $17.58 in 2025.[3]*
+Early 2026 prices sit near or below 2025's average — but note the seasonal trap: residential $/Mcf runs **higher in the off-season** (May 2026 averaged $19.83/Mcf) because fixed costs spread over low summer volumes, so always compare like months.[4]
+
+*Source: EIA Natural Gas Residential Price (retrieved 2026-08-29).[2][9] Prices vary widely by state — California ($22.01/Mcf in 2025), Florida ($25.48), and Hawaii ($52.38) sit well above the national average, while Colorado ($11.17), Idaho ($7.69), and Michigan ($10.92) sit below; New York ran $17.58 in 2025.[3]*
 
 ## Compare Like With Like
 
@@ -145,3 +149,4 @@ Comparing guides on this site: [Why Is My Gas Bill So High?](/blog/07-gas-bill-t
 6. [Columbia Gas of Ohio — Standard Choice Offer](https://www.columbiagasohio.com/bills-and-payments/billing-programs/standard-choice-offer) — posted SCO calculation (retrieved 2026-08-29).
 7. [National Grid — Gas Supply Costs](https://www.nationalgridus.com/MA-Gas-Home/Supply-Costs/) — supply vs. delivery structure and Gas Adjustment Factor (retrieved 2026-08-29).
 8. [NIPSCO — Understanding Your Gas Bill](https://www.nipsco.com/bills-and-payments/understanding-your-bill/understanding-your-gas-bill) — supply/delivery breakdown and fee structure (retrieved 2026-08-29).
+9. [EIA — Natural Gas Residential Price, monthly series](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm) — Jan 2026 $13.96/Mcf, Feb 2026 $15.06, May 2026 $19.83 (retrieved 2026-08-29).
