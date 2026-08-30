@@ -11,8 +11,9 @@ tags: ["space heater", "heater safety", "electricity use"]
 keywords: ["space heater safety", "portable electric heater", "space heater energy use"]
 image: "/images/articles/42-best-energy-efficient-space-heater/custom_hero.webp"
 sources:
-  - https://www.energy.gov/energysaver/electric-resistance-heating
+  - https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating
   - https://www.energy.gov/energysaver/small-space-heaters
+  - https://www.energy.gov/save/home-upgrades
   - https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters
   - https://www.nfpa.org/education-and-research/home-fire-safety/heating
   - https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/
@@ -36,7 +37,7 @@ Virtually all plug-in 120-volt space heaters top out at 1,500 watts—about 12.5
 - **Controls:** a thermostat or timer changes how many hours the element actually runs—the one genuine energy lever.
 - **Placement:** heating the occupied room instead of the whole house is where DOE says the savings live—"zone heating can produce energy savings of more than 20% compared to heating the whole area of your house."[1]
 
-The larger lever sits one step up: DOE also notes heat pumps "easily cut electricity use by 50% when compared with electric resistance heating"—if you are heating with resistance year-round, that comparison is worth more than any heater choice.[1] (Already sensing your system runs constantly? See [heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/).)
+The larger lever sits one step up: DOE currently states that today's heat pumps can reduce electricity use for heating by **approximately 65%** compared with electric resistance heating such as furnaces and baseboard heaters—if you are heating with resistance year-round, that comparison is worth more than any heater choice.[9] (Already sensing your system runs constantly? See [heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/).)
 
 ## The Safety Numbers That Should Shape the Purchase
 
@@ -125,7 +126,7 @@ No. CPSC's guidance is to turn portable heaters off when you sleep and never con
 
 ## Sources
 
-1. [U.S. Department of Energy: Electric Resistance Heating ("100% energy efficient"; heat pumps ~50% savings; zone heating >20%)](https://www.energy.gov/energysaver/electric-resistance-heating)
+1. [U.S. Department of Energy, Energy Saver: Electric Resistance Heating ("100% energy efficient"; zone heating >20%; thermostat guidance) — original URL removed by DOE; archived 2026-05-05](https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating)
 2. [U.S. Department of Energy: Small Space Heaters (certification, tip-over switch, wall-outlet guidance; convection vs. radiant)](https://www.energy.gov/energysaver/small-space-heaters)
 3. [U.S. Consumer Product Safety Commission, Release 26-217 (Jan 2026): Keep Warm and Safe This Winter (~1,600 fires, ~70 deaths, ~150 injuries/yr, 2020–2022)](https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters)
 4. [NFPA: Home Heating Safety (2020–2024 averages: 37,365 fires, 417 deaths; space heaters ~30% of fires, 73% of deaths)](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
@@ -133,3 +134,4 @@ No. CPSC's guidance is to turn portable heaters off when you sleep and never con
 6. [EIA: Electric Power Monthly Table 5.3 (June 2026 residential average 18.34 ¢/kWh)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
 7. [ENERGY STAR FAQ: EPA does not label space heaters and has no plans to](https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578)
 8. [Lasko 754200 manufacturer spec sheet ("No Auto Shut Off")](https://lasko.com/products/lasko-1500w-electric-ceramic-space-heater-with-adjustable-thermostat-754200-silver)
+9. [U.S. Department of Energy: Home Upgrades — heat pumps cut heating electricity ~65% vs electric resistance (live figure, retrieved 2026-08-29)](https://www.energy.gov/save/home-upgrades)
