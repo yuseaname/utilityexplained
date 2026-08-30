@@ -40,6 +40,8 @@ This information helps a technician distinguish cycling behavior from a rate, th
 | Cause | How to spot it (diagnostic tell) | Typical fix cost range | Time to diagnose |
 |---|---|---|---|
 | **Dirty air filter** | Airflow feels weak at registers; filter visibly clogged; system runs briefly then shuts off on high-limit | $5–$20 (filter replacement) | 2 minutes |
+
+Choosing the replacement is its own decision — the capture-versus-airflow trade is walked in [what MERV rating do I need](/blog/what-merv-rating-do-i-need/).
 | **Oversized AC** | Cools the house in under 10 minutes on a hot day but never runs long enough to dehumidify; short cycle pattern repeats even after filter change | $3,000–$8,000 (replacement) — diagnosis requires Manual J | 30–60 min (prof. diagnostic) |
 | **Refrigerant leak / low charge** | Suction line frosts; longer run times with inadequate cooling; hissing from lines; compressor short-cycles on low-pressure cutoff | $200–$600 (leak search + recharge) | 30–60 min (with gauges) |
 | **Faulty thermostat** | Display shows erratic readings; system starts/stops without reaching setpoint; temperature swings >2–3°F from setpoint | $25–$250 (replacement) | 5–10 minutes (swap test) |

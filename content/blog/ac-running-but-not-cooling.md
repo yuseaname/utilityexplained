@@ -94,7 +94,9 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             <p>
               A clogged filter restricts air, reduces cooling, and can cause the
               coil to ice over. If you cannot remember the last replacement, change
-              it now.
+              it now. For choosing the replacement itself, the capture-versus-airflow
+              trade is walked in <a href="/blog/what-merv-rating-do-i-need/">what
+              MERV rating do I need</a>.
             </p>
             <h3>2) Open supply vents and unblock returns</h3>
             <p>

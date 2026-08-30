@@ -139,6 +139,8 @@ These are behavioral adjustments that cost nothing but require consistency.
 
 ## Catch Silent Leaks with a Smart Detector
 
+Spot sensors are the first rung of a three-rung ladder — the upgrade logic (meter monitor, automatic shutoff) is in [point sensor or whole-home shutoff: when to upgrade](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/).
+
 Some leaks are invisible — a toilet flapper that occasionally sticks, a pipe fitting that weeps inside a wall, a slab leak under concrete. These can waste thousands of gallons and cause property damage before they’re noticed.
 
 A smart water leak detector can catch these early. Place one under each sink, behind the toilet, near the water heater, and beside the washing machine — the gateway bridges to your Wi-Fi so you get an instant phone alert if water is detected anywhere in the house.

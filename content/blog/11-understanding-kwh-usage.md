@@ -92,7 +92,7 @@ A 10% usage reduction saves the same dollar amount whether your rate is 12¢/kWh
 
 ## Measure Your Own Appliances
 
-Generic tables are a starting point, but your actual appliances may differ. A plugin energy monitor like the **{{< product-box asin="B00009MDBU" name="Kill A Watt P4400" label="Plug-in Usage Monitor" description="Measures voltage, current, watts, and cumulative kWh for any 120V appliance. Plug it between the wall and your device, then read the display after a typical cycle or 24 hours. 0.2% accuracy." button="Check Price on Amazon" >}}** gives you real data for your actual device, in your actual usage pattern.
+Generic tables are a starting point, but your actual appliances may differ. A plugin energy monitor like the **{{< product-box asin="B00009MDBU" name="Kill A Watt P4400" label="Plug-in Usage Monitor" description="Measures voltage, current, watts, and cumulative kWh for any 120V appliance. Plug it between the wall and your device, then read the display after a typical cycle or 24 hours. 0.2% accuracy." button="Check Price on Amazon" >}}** gives you real data for your actual device, in your actual usage pattern. For the whole-house version of the same idea, see [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/).
 
 Run a load or let it log a week, then record the kWh. Divide by the number of days or cycles to estimate monthly or annual cost using the formula above.
 

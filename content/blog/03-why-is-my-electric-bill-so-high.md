@@ -71,6 +71,8 @@ Want the whole-house picture instead of one outlet at a time? A circuit-level mo
 
 {{< amazon asin="B0C7B1LKDW" text="See the Emporia Vue 3 whole-home energy monitor on Amazon" >}} — 16 circuit-level sensors, real-time app data.
 
+Before spending on hardware, read [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/) — what CT-clamp systems actually see, what they miss, and when the utility's free app is enough.
+
 ## Common Places to Investigate
 
 ### Heating, cooling, and water heating

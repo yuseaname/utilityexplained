@@ -52,6 +52,8 @@ For whole-home baseline data, a circuit-level monitor reveals which circuits dri
 
 {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 Whole-Home Energy Monitor — 16-circuit monitoring on Amazon" >}}
 
+The honest upgrade logic — what monitors measure, what behavior saves — is in [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/); for the sealing half of the ledger, [how to find and seal drafts in your home](/blog/how-to-find-and-seal-drafts-in-your-home/) runs the room-by-room tour.
+
 ## Use an Assessment Before Major Work
 
 DOE describes a home energy assessment as a way to determine how much energy a home uses and which cost-effective efficiency measures to take.[2] Use a qualified professional where conditions are complex, inaccessible, structural, electrical, combustion-related, damp, or otherwise beyond safe scope.

@@ -158,7 +158,7 @@ Gas fireplaces and decorative gas logs use **25,000–60,000 BTU/hour**. Leaving
 Single-pane windows or old double-pane windows with failed seals let significant heat escape. Replacing windows is expensive ($300–$1,000/window), but low-cost alternatives help:
 
 - **Window film insulation kits** — $15–$30 per window, reduces heat loss through the glass.
-- **Thermal curtains** — $20–$60 per window, blocks drafts and radiant heat loss (qualitative benefit).
+- **Thermal curtains** — $20–$60 per window, blocks drafts and radiant heat loss (qualitative benefit). The measured numbers and the hang rules that decide performance are covered in [do thermal curtains really work](/blog/do-thermal-curtains-really-work/).
 - **Weatherstripping** — $5–$15 per window, seals gaps around the frame.
 
 ### 10. Billing cycle length or estimated readings

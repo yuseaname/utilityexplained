@@ -25,6 +25,8 @@ sources:
 
 The test is free, the leak hides inside a closed tank where nothing looks broken, and EPA tells homeowners to test toilets for silent leaks this way at least once a year because flappers wear out.[2]
 
+Beyond spot checks, the full protection ladder — point sensors, meter monitors, automatic shutoff — is walked in [when to upgrade your leak protection](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/).
+
 Then run the 3-step meter check to confirm water is (or isn't) moving somewhere else:
 
 1. **Shut off every faucet, ice maker, dishwasher, washing machine, and irrigation zone.**

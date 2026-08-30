@@ -32,7 +32,7 @@ Do not rely on a generic product ranking, payback promise, or national dollar es
 
 ### Electricity-Use Monitors
 
-**What it does:** An electricity monitor measures real-time power draw (watts) and cumulative energy use (kWh) of whatever is plugged into it or wired into a circuit. The Kill A Watt P4400 (the tool in the product box below) reads watts, volts, amps, and cumulative kWh with 0.2% accuracy per the manufacturer spec. Whole-home monitors like the Emporia Vue 3 track individual circuits from the breaker panel via wireless sensors.
+**What it does:** An electricity monitor measures real-time power draw (watts) and cumulative energy use (kWh) of whatever is plugged into it or wired into a circuit. The Kill A Watt P4400 (the tool in the product box below) reads watts, volts, amps, and cumulative kWh with 0.2% accuracy per the manufacturer spec. Whole-home monitors like the Emporia Vue 3 track individual circuits from the breaker panel via wireless sensors. The full upgrade logic — what monitors see, what they miss, and when the free utility app suffices — is in [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/).
 
 **Typical cost range:** Plug-in meters: $20–$40. Whole-home circuit monitors: $50–$200 (depending on number of sensor channels). Installation for panel-mounted units typically requires a homeowner comfortable at the breaker panel or an electrician.
 
