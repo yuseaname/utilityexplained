@@ -252,9 +252,7 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <h3>Why Your Bill Is High</h3>
 <ul>
 <li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
-
 <li><a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
-
 <li><a href="/blog/why-your-electric-bill-keeps-rising-2026/">Why Your Electric Bill Keeps Rising</a></li>
 <li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>
 </ul>
@@ -265,7 +263,6 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <li><a href="/blog/46-what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
 <li><a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a></li>
 <li><a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
-
 <li><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
 </ul>
 

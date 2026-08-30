@@ -12,6 +12,7 @@ url: "/water-explained"
 ---
 
 <h2>How water service works</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
 Your local water utility treats water from wells, rivers, or reservoirs to make it safe for drinking and household use. The water flows through underground pipes to your neighborhood, then through a service line to your home.
 </p>

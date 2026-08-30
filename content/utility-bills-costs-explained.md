@@ -12,6 +12,7 @@ url: "/utility-bills-costs-explained"
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
 <strong>A utility bill is a monthly charge from your provider for essential home services</strong>—usually <a href="/electricity-explained/">electricity</a>, <a href="/gas-explained/">natural gas</a>, <a href="/water-explained/">water</a>, and sewer, sometimes trash, recycling, or internet. Your total is built from four parts: <strong>usage charges</strong> (what you actually consumed, billed in kWh, therms, or gallons), <strong>delivery charges</strong> (the cost of power lines, pipes, and treatment plants), <strong>fixed customer charges</strong> (typically <strong>$10–$30</strong> per utility, paid even if you use almost nothing), and <strong>taxes, surcharges, and franchise fees</strong> added by state and local governments.
 </p>

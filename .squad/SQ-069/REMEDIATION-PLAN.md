@@ -46,12 +46,12 @@ Cost discipline: ~13 images × ~0.042 cr ≈ 0.55 cr total. Balance checked firs
 - [x] P4.3 **Author pages ×5**: one concrete example guide + one real cited source per desk — *(mason)*
 - [x] P4.4 **terms.md modernization** (disputes, jurisdiction, commercial terms, date sync) — *(lieutenant)*
 - [x] P4.5 **Corrections log**: first two entries (SQ-067 DOE-link fix; page-46 Con Ed correction) on corrections.md — *(lieutenant)*
-- [ ] P4.6 **Hub byline/updated template line** + electricity-hub duplicate-anchor dedupe — *(executor)*
+- [x] P4.6 **Hub byline/updated template line** + electricity-hub duplicate-anchor dedupe — *(executor)*
 - [x] P4.7 **Nits**: Hawaii FAQ $453/$324; flagship $144/$165; 07-gas duplicate source entries; glossary linkification; ccf-calculator links — *(mason)*
 - [x] P4.8 **Retrieval-date backfill** batch 1 (top 15: YMYL + flagship pages) — *(mason + web)*
 - [x] P4.9 **Retrieval-date backfill** batch 2 (next 15) — *(mason + web)*
 - [x] P4.10 **Retrieval-date backfill** batch 3 (remaining ~14) + sources for 4 sourceless posts — *(mason + web)*
-- [ ] P4.V Commander verification + build + **commit**
+- [x] P4.V Commander verification + build + **commit**
 
 ## PHASE 5 — Verification & close — *squad wave 4 (uncorrelated)*
 - [ ] P5.1 twin_q verdict on the 5 rebuilt pages (fresh-eyes quality bar)

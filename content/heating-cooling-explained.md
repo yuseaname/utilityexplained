@@ -12,6 +12,7 @@ url: "/heating-cooling-explained"
 ---
 
 <h2>How heating and cooling systems work</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
 Heating systems burn fuel (gas, oil) or use electricity to create warmth. Furnaces heat air and blow it through ducts. Boilers heat water and send it through radiators or radiant floors. Electric resistance heaters convert electricity directly into heat.
 </p>

@@ -12,6 +12,7 @@ url: "/gas-explained"
 ---
 
 <h2>What is natural gas and how does it reach your home?</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
 Natural gas is a fossil fuel extracted from underground deposits. It is primarily methane and burns cleanly compared to coal or oil. Gas is transported through pipelines from production areas to distribution networks in your region, then through smaller pipes to your neighborhood and into your home.
 </p>
