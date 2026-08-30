@@ -29,6 +29,8 @@ Do not bypass safety controls, open combustion equipment, relight a pilot, clean
 4. Confirm exterior vents and air intakes are not blocked, but do not alter gas, electrical, or combustion components.
 5. Check carbon-monoxide alarms according to their manufacturer instructions.
 
+One note if your system is a heat pump rather than a furnace: its supply air runs cooler than a furnace's, and running nearly all day in cold weather can be normal — our [guide to a heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/) explains where normal ends and a problem begins.
+
 ## When to Stop and Get Help
 
 Leave the home and call emergency services or the appropriate emergency contact if a carbon-monoxide alarm sounds or a person may have carbon-monoxide poisoning. The CPSC advises moving to fresh air and seeking immediate medical attention in that situation.[1]
@@ -37,7 +39,7 @@ Contact a qualified heating professional if the system continues to move cool ai
 
 ## Preventing Avoidable Problems
 
-Use the maintenance schedule in the equipment manual, keep required vents clear, and use carbon-monoxide alarms as recommended by CPSC. CPSC also warns consumers not to use fuel-burning equipment intended for outdoor use indoors because it can create a carbon-monoxide hazard.[2]
+Use the maintenance schedule in the equipment manual, keep required vents clear, and use carbon-monoxide alarms as recommended by CPSC. CPSC also warns consumers not to use fuel-burning equipment intended for outdoor use indoors because it can create a carbon-monoxide hazard.[2] That warning is why generator placement and sizing should be settled before an outage, not during one — our [whole-house generator vs. portable cost comparison](/blog/45-whole-house-generator-vs-portable-cost/) covers the installation, fuel, and running-cost tradeoffs of each option.
 
 ## Sources
 

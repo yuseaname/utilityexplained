@@ -144,6 +144,12 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               of the seasonal pattern, see
               <a href="/blog/why-is-my-water-bill-higher-in-summer/">why water bills climb in summer</a>.
             </p>
+            <p>
+              And when dry weather turns into a declared drought, many utilities
+              add a temporary surcharge on top of the normal rate — our
+              <a href="/blog/drought-surcharge-on-water-bill-explained/">drought surcharge on water bills</a>
+              explainer shows how the charge is calculated and when it ends.
+            </p>
 
 <h2 id="billing-details">Check the billing details</h2>
 <p>

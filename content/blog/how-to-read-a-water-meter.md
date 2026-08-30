@@ -194,6 +194,12 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               cost of a specific activity like filling a small pool or running a
               sprinkler for an hour.
             </p>
+            <p>
+              To skip the arithmetic, plug your meter's CCF figure and local rate
+              into the
+              <a href="/blog/ccf-calculator/">CCF-to-gallons and cost calculator</a>
+              and read the gallons and dollars directly.
+            </p>
 
 <h2 id="seasonal-checks">Seasonal checks for outdoor usage</h2>
 <p>

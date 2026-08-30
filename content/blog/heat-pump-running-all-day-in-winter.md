@@ -107,6 +107,12 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
               This guide helps you spot duct issues:
               <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks symptoms</a>.
             </p>
+            <p>
+              Duct losses are also why some homes skip ductwork at replacement
+              time — see
+              <a href="/blog/ductless-mini-split-vs-central-air/"> ductless mini-split vs. central air</a>
+              for how a zoned system changes the runtime equation.
+            </p>
 
 <h2 id="signs">Signs it is not normal</h2>
 <ul>

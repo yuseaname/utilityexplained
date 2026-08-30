@@ -51,7 +51,7 @@ EPA puts outdoor use above 30 percent of household water use on average and as m
 
 ### 3. A rate, tier, or billing change
 
-Your bill can climb with zero change in gallons. Utilities raise rates, restructure tiers, add surcharges, adjust sewer formulas — and under tiered rates, modest extra usage can land your household in a much more expensive block.
+Your bill can climb with zero change in gallons. Utilities raise rates, restructure tiers, add surcharges, adjust sewer formulas — and under tiered rates, modest extra usage can land your household in a much more expensive block. In a declared drought, many utilities also add a temporary drought surcharge — see [how a drought surcharge on your water bill is calculated](/blog/drought-surcharge-on-water-bill-explained/) before assuming a rate change is permanent.
 
 **How to confirm:** put the current statement beside last year's same-month statement and compare the usage line and the rate lines separately — usage up is a leak-or-behavior problem; usage flat with a higher total is a rate problem. Check the tariff, tier breakpoints, and any one-time charges. Full method: [tiered water rates explained](/blog/tiered-water-rates-explained/).
 

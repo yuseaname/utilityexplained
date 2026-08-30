@@ -48,7 +48,7 @@ This information helps a technician distinguish cycling behavior from a rate, th
 | **Faulty contactor or capacitor** | Compressor or fan motor clicks but doesn't start; system tries, trips, tries again; humming followed by shutdown | $150–$400 (part + labor) | 15–20 min (technician with meter) |
 | **Safety control cycling** | System runs exactly same short duration each time; shuts off regardless of thermostat; technician reads fault codes from control board | $100–$300 (diagnosis + sensor/control replacement) | 30 min (fault code read + verification) |
 
-All cost ranges are national estimates for parts and labor in a typical single-family home. Actual costs vary by local labor rates, accessibility, and specific diagnosis. Source: DOE Building Science Education HVAC Preventative Maintenance.[1]
+All cost ranges are national estimates for parts and labor in a typical single-family home. Actual costs vary by local labor rates, accessibility, and specific diagnosis. Source: DOE Building Science Education HVAC Preventative Maintenance.[1] When the diagnosis lands on an oversized system, the fix often arrives at replacement time — our [ductless mini-split vs. central air comparison](/blog/ductless-mini-split-vs-central-air/) shows how right-sized indoor units and zoning break the short-cycle pattern instead of repeating it.
 
 ### Thermostat-Related Cause
 
@@ -77,7 +77,7 @@ Do not add refrigerant, work on wiring or capacitors, defeat a safety device, or
 | Open fully closed supply vents | Ductwork modification or sealing |
 | Check accessible ducts for visible damage | Safety controls and fault-code troubleshooting |
 
-Do not attempt repairs involving refrigerant, high-voltage electrical components, gas lines, or structural modifications. DOE recommends a qualified HVAC evaluation when short cycling persists after basic maintenance.[2]
+Do not attempt repairs involving refrigerant, high-voltage electrical components, gas lines, or structural modifications. DOE recommends a qualified HVAC evaluation when short cycling persists after basic maintenance.[2] The heating-season counterpart to short cycling is a furnace blowing cold air, and the same record-first, safe-checks-first approach applies — see our [guide to why a furnace blows cold air](/blog/why-is-my-furnace-blowing-cold-air/) before calling for service.
 
 ### When to Act Immediately
 

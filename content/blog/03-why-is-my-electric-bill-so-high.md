@@ -85,7 +85,7 @@ More hot-water use can raise electricity use. Compare the period with changes in
 
 ### Lighting, appliances, and electronics
 
-Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions.
+Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions. If a portable space heater is a regular part of that list, the model matters — our [best energy-efficient space heater roundup](/blog/42-best-energy-efficient-space-heater/) compares units that deliver the same heat for fewer kWh.
 
 ENERGY STAR reports that LED lighting products produce light up to 90% more efficiently than incandescent light bulbs.[7] Their bill impact depends on the number of bulbs and hours of use.
 
@@ -97,7 +97,7 @@ An EV, pool pump, pool heater, hot tub, portable heater, or other high-use devic
 electricity used (kWh) = power (kW) × time (hours)
 ```
 
-One kWh is one kilowatt used for one hour.[2] Multiply the resulting kWh by the applicable price on your bill, while recognizing that fixed charges and time-varying rates can make the final bill more complex.
+One kWh is one kilowatt used for one hour.[2] Multiply the resulting kWh by the applicable price on your bill, while recognizing that fixed charges and time-varying rates can make the final bill more complex. If the new device is an electric car, see [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/) for a realistic monthly figure before blaming the charger.
 
 ## When to Contact the Utility
 

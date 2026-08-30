@@ -109,7 +109,7 @@ Once you have measured which devices waste standby power, automation removes the
 
 ## Put Savings in Context
 
-A device's cost depends on its measured power use, the time it stays in that mode, and the electricity price on your utility bill.[1] Calculate your household result from the meter reading and your own rate rather than using a universal dollar estimate.
+A device's cost depends on its measured power use, the time it stays in that mode, and the electricity price on your utility bill.[1] Calculate your household result from the meter reading and your own rate rather than using a universal dollar estimate. Standby power is also one of the levers that works with no solar panels and no big equipment swaps — our [guide to lowering your electric bill without solar](/blog/how-to-lower-electric-bill-without-solar/) collects the full no-panels playbook.
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Measure before you reduce" description="The electricity usage monitor the article describes. Plug any device into it and read real-time watts, volts, amps, and cumulative kWh — the DOE-recommended method for finding standby loads.[1]" button="Check price on Amazon" >}}
 

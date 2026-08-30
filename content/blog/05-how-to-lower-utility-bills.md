@@ -42,7 +42,7 @@ Gather comparable electricity, gas, water, and sewer bills; current tariffs or r
 | Equipment records | Model, capacity, maintenance, installation, and safety requirements |
 | Local-program terms | Incentive eligibility, timing, installer, and documentation rules |
 
-To measure actual consumption of individual devices — the first step in any baseline — plug the appliance into a watt-meter that logs cumulative kWh. A single reading can reveal whether an old refrigerator or always-on electronics is worth replacing.
+To measure actual consumption of individual devices — the first step in any baseline — plug the appliance into a watt-meter that logs cumulative kWh. A single reading can reveal whether an old refrigerator or always-on electronics is worth replacing. Once the meter shows which devices drive the bill, our [guide to gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) sorts the purchases that pay for themselves from the ones that only promise to.
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="The baseline tool" description="Plug any 120V appliance into this meter and read real-time watts, volts, amps, and cumulative kWh with 0.2% accuracy. Leave it in place for a week to get a true average — one reading often changes the math on a $300 replacement." button="Check price on Amazon" >}}
 
@@ -72,7 +72,7 @@ Avoid applying one measure across a home without a documented reason. Never chan
 
 ## Prioritize Improvements by Cost, Savings, and Payback
 
-Not every improvement fits every home — the table below shows typical ranges based on DOE data and national averages. Use it to compare candidates, not to pick a single winner. Your actual savings depend on local rates, home condition, and the specific problem.
+Not every improvement fits every home — the table below shows typical ranges based on DOE data and national averages. Use it to compare candidates, not to pick a single winner. Your actual savings depend on local rates, home condition, and the specific problem. One purchase the table deliberately leaves out is backup power, since a generator lowers no bill — if you are weighing one for outages, our [whole-house generator vs. portable cost comparison](/blog/45-whole-house-generator-vs-portable-cost/) breaks down installed cost, fuel, and maintenance on both options.
 
 | Improvement | Typical cost to implement (installed) | Typical monthly savings (estimate) | Typical payback range | Notes |
 |---|---|---|---|---|

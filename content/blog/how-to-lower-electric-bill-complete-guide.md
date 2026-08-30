@@ -80,7 +80,7 @@ Three devices earn their keep by making the changes in the steps below actually 
 
 {{< product-box asin="B0DKGBP38V" name="TP-Link Tapo P110M Smart Plug with Energy Monitoring (2-Pack)" label="Per-outlet monitoring, on a schedule" description="Wi-Fi smart plug with built-in energy monitoring that logs watts, kWh, and runtime in the Tapo app. TP-Link spec sheet: Matter-compatible, 15A max, 1800W, 120V, 2.4 GHz Wi-Fi, ETL listed (2-pack). Best for step 3 (phantom loads) and step 10 (smart strips) when you want per-outlet data, schedules, and away-mode randomization without buying a whole-home monitor." button="Check price on Amazon" >}}
 
-**How to use them in this guide:** Nest = step 13 and the HVAC optimization block. Kill A Watt = step 3 (one weekend, hunt the biggest phantom loads in your house) and the [phantom-power-draw guide](/blog/phantom-power-draw-explained/). Tapo P110M (2-pack) = step 3 and step 10, especially for entertainment centers and home offices where you want set-and-forget automation.
+**How to use them in this guide:** Nest = step 13 and the HVAC optimization block. Kill A Watt = step 3 (one weekend, hunt the biggest phantom loads in your house) and the [phantom-power-draw guide](/blog/phantom-power-draw-explained/). Tapo P110M (2-pack) = step 3 and step 10, especially for entertainment centers and home offices where you want set-and-forget automation. For the full category-by-category rundown — leak sensors, whole-home monitors, smart strips, and what each realistically saves — see our [guide to gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/).
 
 ---
 
@@ -324,7 +324,7 @@ If your fridge is 15+ years old, it's costing you.
 
 ### 16. Install a Heat Pump
 
-A heat pump replaces both your furnace and AC. It's 2–3× more efficient than conventional heating. For the full fuel-cost math and a side-by-side with a new gas furnace, see [Heat Pump vs Gas Furnace Savings](/blog/heat-pump-vs-gas-furnace-savings/).
+A heat pump replaces both your furnace and AC. It's 2–3× more efficient than conventional heating. For the full fuel-cost math and a side-by-side with a new gas furnace, see [Heat Pump vs Gas Furnace Savings](/blog/48-heat-pump-vs-gas-furnace-savings/).
 
 | System | Efficiency (HSPF/SEER) | Annual Heating Cost | Annual Cooling Cost | Total Annual Cost |
 |---------|----------------------|---------------------|---------------------|------------------|
@@ -344,7 +344,7 @@ A heat pump replaces both your furnace and AC. It's 2–3× more efficient than 
 
 ### 17. Install Solar Panels
 
-Solar generates your own electricity. With net metering, you can eliminate most of your electric bill.
+Solar generates your own electricity. With net metering, you can eliminate most of your electric bill. If panels are out of reach — cost, roof orientation, or renting — the same bill-cutting playbook works without them: see [how to lower your electric bill without solar](/blog/how-to-lower-electric-bill-without-solar/) for the no-panels route through every step on this page.
 
 **Typical 6 kW system:**
 - Annual production: 8,000 kWh

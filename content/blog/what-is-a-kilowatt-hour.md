@@ -98,6 +98,12 @@ sources:
               (1,500 / 1,000) x 3 = 4.5 kWh
             </p>
             <p>
+              Space heaters are the classic worked example, and they do not all
+              cost the same to run — our
+              <a href="/blog/42-best-energy-efficient-space-heater/">best energy-efficient space heater guide</a>
+              compares models that deliver the same heat on fewer kWh.
+            </p>
+            <p>
               If you want to estimate cost, multiply by your rate (shown on your
               bill): <strong>kWh x price per kWh</strong>.
             </p>

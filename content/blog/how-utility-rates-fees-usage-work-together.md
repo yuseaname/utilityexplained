@@ -29,7 +29,10 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               The total is built from three layers: how much you used, what each
-              unit cost, and the charges that show up no matter what.
+              unit cost, and the charges that show up no matter what. Some rate
+              structures add a fourth wrinkle — credits — most visibly when solar
+              owners export power through
+              <a href="/blog/net-metering-explained/">net metering</a>.
             </p>
             <figure>
               <ContentImage

@@ -49,6 +49,8 @@ The table below compares the three thermostat families you're most likely to be 
 - **Local energy price.** Savings in dollars depend on the rate per therm or per kWh on your actual bill — not a national average.
 - **Schedule fit.** A setback only saves what it covers — an "away" period you never trigger isn't saving anything.
 
+On the heat-pump side specifically, if your system seems to run all day in winter, that long runtime is often normal cold-weather behavior — our [guide to a heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/) covers the line between normal and inefficient.
+
 ## Which Type Fits You?
 
 Pick a **manual thermostat** if:
@@ -77,7 +79,7 @@ Pick a **smart learning thermostat** if:
 3. Observe comfort and system operation for several billing periods.
 4. Compare a similar period before and after the change using your own bill.
 
-For heat pumps and dual-fuel systems, use a thermostat and settings appropriate to the equipment. DOE training material notes that programmable and smart thermostats can adjust temperatures based on a schedule or occupancy, but the chosen control must fit the HVAC system.[5]
+For heat pumps and dual-fuel systems, use a thermostat and settings appropriate to the equipment. DOE training material notes that programmable and smart thermostats can adjust temperatures based on a schedule or occupancy, but the chosen control must fit the HVAC system.[5] If the bigger question is which equipment to install in the first place, our [heat pump vs. gas furnace savings comparison](/blog/48-heat-pump-vs-gas-furnace-savings/) runs the operating-cost math on both systems before you buy a thermostat to control either.
 
 ## Questions to Ask Before Buying
 
