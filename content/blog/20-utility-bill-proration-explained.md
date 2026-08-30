@@ -16,6 +16,9 @@ sources:
   - https://www.smud.org/-/media/Documents/Rate-Information/Rates/Rule-2-06.ashx (SMUD Rule and Regulation 6 — Billing, Payment of Bills, and Credit, retrieved 2026-08-29)
   - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential (Con Edison Sample Residential Bill, retrieved 2026-08-29)
   - https://www.pge.com/assets/rates/tariffs/res-inclu-tou-current.xlsx (PG&E Current Residential Electric Tariff Rates workbook, retrieved 2026-08-29)
+  - https://www.idahopower.com/accounts-service/understand-your-bill/bill-glossary/ (Idaho Power Bill Glossary, Prorated entry, retrieved 2026-08-29)
+  - https://www.lbwl.com/FAQs/why-my-bill-being-prorated (Lansing Board of Water & Light FAQ, why bills are prorated, retrieved 2026-08-29)
+  - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service (Southern California Edison deposit refund timeline, retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -42,6 +45,25 @@ Usage in those 20 days bills at full kWh prices — no proration, even if the pe
 
 Other utilities quote the fixed charge **per day** instead, which makes proration automatic: PG&E's current residential sheet lists its income-tiered Base Services Charge per day — $0.19713/day at income tier 1, about $5.91 over a 30-day cycle (0.19713 × 30) [4]. Same mechanics, different presentation: *monthly ÷ 30* vs *quoted per day*.
 
+## The three triggers that prorate a bill
+
+Three triggers account for nearly every prorated bill — Lansing Board of Water & Light covers them with one rule: "any time a change is made to the rate or billing period, the bill is prorated to correspond with the change" [6].
+
+| Trigger | What happens | Named example |
+|---|---|---|
+| Mid-cycle start or stop | Service starts or stops inside the [billing cycle](/blog/23-utility-billing-cycle-explained/) — move-ins, move-outs | Idaho Power: a mid-month start bills "only for that portion" [5] |
+| Rate change mid-cycle | A new rate takes effect inside the period | Lansing BWL: usage is "charged with its corresponding rate" from the rate's effective date [6] |
+| Meter-read shift | The read date moves, shortening or lengthening the period | Lansing BWL: "depending on when your meter is read," the bill is prorated to match [6] |
+
+## Verify the math yourself
+
+Illustration with round numbers (not a real tariff): **$60.00 ÷ 30 days × 18 days = $36.00**. Then reconcile the day count to the calendar — the 10th through the 28th inclusive is **19 days**, so a bill printing 18 carries an off-by-one error worth raising. To locate the day-count field, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
+
+## What proration is not
+
+- **Not an estimated read.** Proration resizes the *days*, not the meter data — an "estimated" read flag is an [estimated-bill](/blog/14-estimated-utility-bill-explained/) issue [3].
+- **Not a partial-month discount.** SMUD's $27.00 becoming $18.00 is fewer days at the same rate [1].
+
 ## What to check on your statement
 
 Con Edison's sample residential bill shows the fields every partial-period review needs: the billing summary's **number of days in your billing period**, and service charge details with **billing period, rate, meter readings, and total used** [3]. Each line type may follow a different tariff calculation.
@@ -58,6 +80,8 @@ Con Edison's sample residential bill shows the fields every partial-period revie
 ## Move-in, move-out, and closings
 
 Get service start/end dates from the provider in writing and keep them with the statement. Closing or lease documents support your records but do **not** set the utility's billing date — the provider's account record does. If dates or math don't reconcile, ask for the account-specific calculation; see [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/).
+
+Final bills follow a sequence: closing read, account closure, then a bill for the days from the last regular read to the stop date — fixed lines prorated per the tariff [1]. Deposits close the loop: Southern California Edison states "we will mail it to you along with your closing bill within **30 days** of closing your account" [7] — a [utility deposit](/blog/26-utility-deposit-explained/) credit lands on or with the final statement, not before. Guardrail: SCE's 30-day window is its own published practice, not a national standard.
 
 Questions for the provider:
 
@@ -101,3 +125,6 @@ Check the statement's day count [3], whether the meter read was estimated, and w
 2. [SMUD — Rule and Regulation 6, Billing, Payment of Bills, and Credit (PDF)](https://www.smud.org/-/media/Documents/Rate-Information/Rates/Rule-2-06.ashx)
 3. [Con Edison — Sample Residential Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential)
 4. [PG&E — Current Residential Electric Tariff Rates (XLSX, daily Base Services Charge by income tier)](https://www.pge.com/assets/rates/tariffs/res-inclu-tou-current.xlsx)
+5. [Idaho Power — Bill Glossary ("Prorated")](https://www.idahopower.com/accounts-service/understand-your-bill/bill-glossary/) (retrieved 2026-08-29)
+6. [Lansing Board of Water & Light — Why Is My Bill Being Prorated? (FAQ)](https://www.lbwl.com/FAQs/why-my-bill-being-prorated) (retrieved 2026-08-29)
+7. [Southern California Edison — Deposit Refund Timeline (closing bill within 30 days)](https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service) (retrieved 2026-08-29)

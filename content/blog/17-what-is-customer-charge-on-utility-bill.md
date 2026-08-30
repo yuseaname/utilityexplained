@@ -19,6 +19,9 @@ sources:
   - https://www.coned.com/en/accounts-billing/your-bill/your-guide-to-rates (Con Edison Your Guide to Rates, retrieved 2026-08-29)
   - https://www.consumersenergy.com/residential/account-and-billing/rates/electric-rates-and-programs/electric-charges-explained (Consumers Energy Electric Charges Explained, retrieved 2026-08-29)
   - https://www.consumersenergy.com/residential/account-and-billing/rates/gas-rates/gas-charges-explained (Consumers Energy Gas Charges Explained, retrieved 2026-08-29)
+  - https://mn.gov/puc/consumers/yourbill/ (Minnesota PUC Understanding Your Bill, retrieved 2026-08-29)
+  - https://www.puc.pa.gov/press-release/2026/puc-issues-decision-in-ppl-electric-rate-proceeding-06042026 (PA PUC decision in PPL Electric rate proceeding, retrieved 2026-08-29)
+  - https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/ (Utility Dive on PPL Electric rate settlement, retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -40,15 +43,34 @@ Decision rule: if the amount changes with your kWh or therms, it is not the cust
 
 SMUD describes its fixed charge as paying for "poles, wires, transformers, meter equipment, billing and customer service" [1]. Con Edison defines its Basic Service Charge (or Customer Charge) as "a flat, monthly fee" covering meter readings, billing, and customer support [4]. Consumers Energy's gas Customer Charge is "a fixed monthly fee" for the same cost family [6]. Same structure, different name and number — which is why the tariff, not the label, is the authority.
 
+Regulators draw the same line. Minnesota's PUC defines the fixed charge as "a set amount billed to each meter each month" [7] — per meter, not per kWh. Strip away the labels and the same cost stack repeats: **metering, billing, customer support, and the poles, wires, and transformers kept ready whether or not you draw power that month** [1][4]. That cost stack is the official reason the charge does not shrink with usage.
+
 On Austin Energy's sample 860-kWh residential bill, the $16.50 customer charge is one line among tiered energy charges, a regulatory charge, community benefit and power supply adjustments, and city tax — itemized lines totaling $116.45 [2]. Keep that context: the customer charge is real, named, and small next to the usage-driven lines.
+
+## Why it dominates low-usage bills
+
+The charge is flat in both directions: it does not rise when you use more, and it does not fall when you use less. The illustration below uses round numbers — **a $15.00 fixed charge and a 12¢/kWh energy rate** — so treat it as labeled arithmetic, not any utility's tariff:
+
+| Monthly usage | Energy charge (12¢/kWh) | Fixed charge | Total bill | Fixed share |
+|---|---|---|---|---|
+| 600 kWh | $72.00 | $15.00 | $87.00 | **17%** |
+| 200 kWh | $24.00 | $15.00 | $39.00 | **38%** |
+| 50 kWh | $6.00 | $15.00 | $21.00 | **71%** |
+
+Cut usage 92% (600 → 50 kWh) and the bill falls only 76% — the fixed floor holds. Two related rules follow. If a computed total dips below the tariff's floor, the [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) sets what you owe instead. And [budget billing](/blog/16-budget-billing-level-pay-explained/) only averages the total you pay — the customer charge still accrues underneath it every month.
+
+## Why the amount rises over time
+
+Customer charges move through rate cases — the proceedings in which a utility asks its regulator to reset rates to recover infrastructure and service costs. A verified example: on **June 4, 2026**, the Pennsylvania PUC voted 5-0 to approve a settlement in PPL Electric's base-rate case, effective **July 1, 2026** [8]. The settlement set PPL's residential monthly customer charge at **$15.00, up from $14.09** — below the $17.00 PPL had requested [9]. Guardrail: that is one approved increase in one jurisdiction, not a trend — rate cases can shift costs out of the fixed charge too, and SMUD's Low Use rate holds it at $17.00 versus $27.00 on the standard rate [1].
 
 ## How to check yours
 
 1. **Record the exact label, amount, and service class** from your statement — customer-charge names differ by utility [1][3][5].
 2. **Find the utility's published rate for it.** Most utilities post customer-charge amounts on their rates pages [2][3][5].
-3. **Read what the utility says it covers.** SMUD, Con Edison, and Consumers Energy all state the covered costs in plain terms [1][4][6].
-4. **Separate it from everything else**: usage charges, [riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/), [taxes and franchise fees](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/), and one-time fees.
-5. **Watch for scheduled changes.** SMUD publishes its increases in advance ($26.20 → $27.00 → $27.80 across effective dates) [1], and PG&E's March 2026 restructure folded its old minimum electric charge into the Base Services Charge [3].
+3. **Ask which rate schedule applies to your account.** One utility can run several residential schedules with different fixed charges — SMUD's standard rate carries $27.00/month, its Low Use rate $17.00 [1]. Compare against the schedule you are actually on, not the utility's headline rate.
+4. **Read what the utility says it covers.** SMUD, Con Edison, and Consumers Energy all state the covered costs in plain terms [1][4][6].
+5. **Separate it from everything else**: usage charges, [riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/), [taxes and franchise fees](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/), and one-time fees.
+6. **Watch for scheduled changes.** SMUD publishes its increases in advance ($26.20 → $27.00 → $27.80 across effective dates) [1], and PG&E's March 2026 restructure folded its old minimum electric charge into the Base Services Charge [3].
 
 ## It is not these other charges
 
@@ -96,3 +118,6 @@ The base amount is set in a published schedule, not negotiated case by case. Wha
 4. [Con Edison — Your Guide to Rates](https://www.coned.com/en/accounts-billing/your-bill/your-guide-to-rates)
 5. [Consumers Energy — Electric Charges Explained](https://www.consumersenergy.com/residential/account-and-billing/rates/electric-rates-and-programs/electric-charges-explained)
 6. [Consumers Energy — Gas Charges Explained](https://www.consumersenergy.com/residential/account-and-billing/rates/gas-rates/gas-charges-explained)
+7. [Minnesota PUC — Understanding Your Bill](https://mn.gov/puc/consumers/yourbill/) (retrieved 2026-08-29)
+8. [Pennsylvania PUC — PUC Issues Decision in PPL Electric Rate Proceeding (June 4, 2026)](https://www.puc.pa.gov/press-release/2026/puc-issues-decision-in-ppl-electric-rate-proceeding-06042026) (retrieved 2026-08-29)
+9. [Utility Dive — PPL Electric rate case settlement](https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/) (retrieved 2026-08-29)
