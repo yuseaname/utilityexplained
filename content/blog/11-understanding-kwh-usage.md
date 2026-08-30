@@ -27,7 +27,7 @@ EIA reports that electricity use varies widely across regions and housing types,
 
 ## Read kWh in Context
 
-For each bill, record:
+For each bill, record — and if you need help finding these on your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/):
 
 1. Total kWh and the number of billed days.
 2. Whether the meter reading was actual or estimated.

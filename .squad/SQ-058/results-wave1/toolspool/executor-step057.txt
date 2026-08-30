@@ -1,0 +1,215 @@
+exit_code: 0
+================= why-did-my-water-bill-suddenly-increase =================
+Aug-10 baseline (1-day entry count): 1
+08-27 snapshot last30: see below
+  last7 08-20..08-27: count=8 top_s=8.823529411764707 bounce=75
+  prior7 08-13..08-20: count=8 top_s=9.411764705882353 bounce=100
+  last30 07-28..08-27: count=19 top_s=7.714285714285714 bounce=89.47
+  LIVE last30: count=24 top_s=0 bounce=91.67 pv=24
+
+================= how-to-read-a-water-meter =================
+Aug-10 baseline (1-day entry count): 2
+  last7 08-20..08-27: count=4 top_s=10 bounce=100
+  prior7 08-13..08-20: count=4 top_s=9 bounce=75
+  last30 07-28..08-27: count=14 top_s=6.75 bounce=71.43
+  LIVE last30: count=19 top_s=0.5263157894736842 bounce=78.95 pv=19
+
+================= CONTROL PAGES (count band 18-24, same windows) =================
+--- L ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- I ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- V ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- E ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+---   ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- l ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- a ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- s ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- t ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- 3 ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/
+--- 0 ---
+  count=26 top_s=0.2962962962962963 bounce=88.46 | /blog/stormwater-fee-on-water-bill-explained/
+  count=25 top_s=13.407407407407407 bounce=   88 | /blog/average-water-usage-per-person/
+  count=25 top_s=19.925925925925927 bounce=   92 | /blog/how-do-smart-meters-work/
+  count=24 top_s= 25.72 bounce=95.83 | /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+  count=24 top_s=     0 bounce=91.67 | /blog/why-did-my-water-bill-suddenly-increase/
+  count=23 top_s=21.214285714285715 bounce=82.61 | /blog/49-demand-charges-electricity-bill-explained/
+  count=22 top_s=   9.4 bounce=81.82 | /blog/27-utility-connection-fee-explained/
+  count=21 top_s=0.19047619047619047 bounce=71.43 | /utility-bills-costs-explained/
+  count=20 top_s=40.56521739130435 bounce=   85 | /blog/08-time-of-use-electricity/
+  count=20 top_s=    78 bounce=   95 | /blog/26-utility-deposit-explained/
+  count=20 top_s=21.095238095238095 bounce=   90 | /blog/how-to-read-electric-meter/
+  count=19 top_s=69.19047619047619 bounce=78.95 | /blog/01-how-to-read-your-electric-bill/
+  count=19 top_s=0.5263157894736842 bounce=78.95 | /blog/how-to-read-a-water-meter/
+  count=18 top_s=29.61904761904762 bounce=88.89 | /blog/21-past-due-balance-utility-bill-explained/
+  count=17 top_s=18.736842105263158 bounce=76.47 | /blog/14-estimated-utility-bill-explained/
+  count=17 top_s=20.764705882352942 bounce=82.35 | /blog/41-how-to-read-electricity-bill/
+  count=17 top_s=  17.4 bounce=88.24 | /blog/tiered-electricity-rates-explained/

@@ -5,7 +5,7 @@ draft: true
 canonical: "https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/"
 description: "Your electric bill usually has two main buckets: supply and delivery. This guide explains what each one covers and why both show up."
 date: 2025-12-26
-updated: 2026-08-21
+updated: 2026-08-29
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -80,7 +80,11 @@ sources:
             <h3>Why delivery does not drop to zero</h3>
             <p>
               Even if usage is low, the grid still has to be available. That is why
-              delivery charges often include fixed and variable parts.
+              delivery charges often include fixed and variable parts. Some
+              commercial-style bills include a
+              <a href="/blog/49-demand-charges-electricity-bill-explained/">demand charge</a>
+              as a delivery-side variant — priced on your peak draw rather than
+              your total kWh.
             </p>
 
 <h2 id="compare">How to compare bills month to month</h2>

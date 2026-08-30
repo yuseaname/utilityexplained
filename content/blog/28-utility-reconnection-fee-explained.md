@@ -3,7 +3,7 @@ title: "How to Verify a Utility Reconnection Charge"
 slug: "28-utility-reconnection-fee-explained"
 description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
 date: 2026-05-28
-updated: 2026-08-28
+updated: 2026-08-29
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -77,7 +77,7 @@ Ask the provider to identify every item that applies to the account:
 | Service status | Whether service is pending disconnection, disconnected, or otherwise restricted |
 | Balance | Past-due amount, late charges, credits, and payment-history status |
 | Reconnection charge | Amount, tariff or policy reference, and when it is due |
-| Deposit or security requirement | Whether one applies and under what written terms |
+| [Deposit or security requirement](/blog/26-utility-deposit-explained/) | Whether one applies and under what written terms — a deposit may be required after a shutoff before service is restored |
 | Restoration | Payment confirmation, access, scheduling, equipment, and safety conditions |
 | Assistance or payment options | Current eligibility rules, contacts, deadlines, and documentation |
 

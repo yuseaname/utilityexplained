@@ -1,0 +1,37 @@
+{
+ "role": "verifier",
+ "mission": "Author the Codex WIRING CONTRACT: .squad/SQ-058/wiring-rules.md \u2014 the exact mechanical rules the Codex agent must follow when generating + wiring ~40 images. Verify every rule against the actual codebase (re-derive, don't assume).",
+ "parent_objective": "SQ-058: visual makeover -> Codex handoff",
+ "context": "The handoff report tells Codex WHAT to make; your contract tells it HOW to wire. Derive from the live codebase:\n1. SHORTCODE CHOICE: {{< visual >}} vs legacy {{< image >}} \u2014 which is canonical now (count usage across content/), exact param order/optional params (src/alt/caption/wide), when wide= applies.\n2. FILE CONVENTIONS: dir static/images/articles/<slug>/, kebab-case names, .webp, hero naming (_hero_v2), og-image handling (frontmatter image: doubles as og?), sizing guidance (width/height attrs \u2014 what do existing wirings pass?).\n3. ALT-TEXT RULES: mine 20+ existing {{< visual >}} wirings for the alt-text voice (honest descriptive, 'Illustrative...' prefix for product images?) \u2014 codify the pattern with 5 examples.\n4. FRONTMATTER: when may a plan change image:/hero_below_answer:? (only REPLACE-verdict heroes).\n5. AFFILIATE IMAGES: product-box auto-renders from data/product_images.yaml \u2014 Codex must NOT touch that yaml unless adding a NEW ASIN (not in scope); product-figure rule (any recommended-product image must be affiliate-wired).\n6. VERIFICATION STEPS Codex must run after wiring: hugo build, rendered-img grep (every src resolves, count per page 3-7), alt presence, lazy-loading, no CLS (width/height present), file sizes (<150KB guideline \u2014 check what current assets weigh, quote the real distribution).\n7. RECONCILE: yaml 12 ASINs vs 9 distinct files (shared smart-plug reuse) \u2014 CONFIRM/REFUTE the coverage claim.\n8. WIRING PRECEDENT: quote 3 exemplary existing wirings verbatim (one standard, one wide, one captioned).",
+ "known_facts": [
+  "Commander pre-verified: 12/12 yaml entries have on-disk files.",
+  "The 10 target pages' content was edited today (SQ-057) \u2014 plans will reference its section headings; Codex must place after the exact heading, before the named following block."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/wiring-rules.md"
+  ]
+ },
+ "constraints": [
+  "Write ONLY wiring-rules.md.",
+  "Every rule carries evidence (counts, quoted lines, file paths)."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "write_file"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "wiring-rules.md written with all 8 sections evidence-backed",
+  "Shortcode canonical verdict + 3 verbatim exemplars",
+  "Codex post-wire verification checklist"
+ ]
+}

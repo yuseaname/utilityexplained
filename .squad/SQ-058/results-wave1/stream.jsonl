@@ -1,0 +1,7 @@
+{"packet": "w1-verifier.json", "result_file": ".squad/SQ-058/results-wave1/06-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "w1-lt-c.json", "result_file": ".squad/SQ-058/results-wave1/03-lieutenant-3.json", "agent": "lieutenant#3", "status": "complete"}
+{"packet": "w1-lt-b.json", "result_file": ".squad/SQ-058/results-wave1/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}
+{"packet": "w1-lt-a.json", "result_file": ".squad/SQ-058/results-wave1/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "w1-mason.json", "result_file": ".squad/SQ-058/results-wave1/04-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "w1-cartographer.json", "result_file": ".squad/SQ-058/results-wave1/07-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "w1-executor.json", "result_file": ".squad/SQ-058/results-wave1/05-executor.json", "agent": "executor", "status": "complete"}

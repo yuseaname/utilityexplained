@@ -1,0 +1,45 @@
+{
+ "role": "lieutenant",
+ "mission": "Author the SQ-058 visual plan for 4 pages, in the exact SQ-056 format (exemplar: .squad/SQ-056/visual-plans/23-utility-billing-cycle-explained.md \u2014 read it first). Vision-verified: VIEW the hero and every existing on-disk asset for your pages with read_image before judging them. One .md per page written to .squad/SQ-058/visual-plans/<slug>.md.",
+ "parent_objective": "SQ-058: visual makeover plan for the SQ-057 tier -> Codex handoff report",
+ "context": "STYLE BIBLE (mandatory for every image concept) \u2014 \"The Independent Bill Auditor\"\nFlat ledger surfaces, engineering-blueprint feel. NO gradients, no glassmorphism, no 3D renders, no stock-photo people smiling at bills. Monospaced type is the voice of numbers. Palette: ink #0e201c, cream paper #fffcfa, faint grid-teal #3c655c scaffolding, amber #e8a33d reserved for THE ONE LINE THAT MATTERS (a highlighted figure, the key step, the flagged charge). Charts render data honestly; annotations look hand-entered by an auditor. Human figures, when used, are distant/schematic, never decorative.\n\nIMAGE MECHANICS ON THIS SITE\n- Hero: frontmatter `image:` field; file under static/images/articles/<slug>/; full intrinsic aspect ratio (16:9 or 3:2). Some pages support `hero_below_answer: true`.\n- In-body editorial figures: {{< visual src=\"/images/articles/<slug>/<name>.webp\" alt=\"honest descriptive alt\" caption=\"optional\" wide=\"16:9-or-wide\" >}} \u2014 honest alt mandatory.\n- Product visuals: product-box shortcode auto-renders from data/product_images.yaml keyed by ASIN (all 12 wired ASINs have entries + on-disk files \u2014 verified). Inline: {{< amazon asin=\"...\" text=\"...\" >}}.\n- AFFILIATE RULE (binding): any image whose subject is a product we recommend must be affiliate-wired \u2014 inside/near a {{< product-box >}} or wrapped in a {{< amazon > }} link. NEVER a bare un-monetized figure of a recommended product. AI product images must be visually accurate to the REAL product's form factor.\n- VERIFIED ASIN INVENTORY (the only ASINs allowed): Kill A Watt P4400 B00009MDBU \u00b7 Kasa KP115 B08LN3C7WK \u00b7 Kasa KP125MP2 B0BYGRLRS1 \u00b7 Tapo P110M B0DKGBP38V \u00b7 Emporia plug B0CLVV7X7Y \u00b7 Emporia Vue 3 B0C7B1LKDW \u00b7 Nest Learning B0D5BBYRJM \u00b7 ecobee Premium B09XXS48P8 \u00b7 Moen Flo B00C03D01Q \u00b7 Emporia L2 EV B09ZNN3JB7 \u00b7 Govee leak detectors B0DQLFC3Q6 \u00b7 Honeywell X2P B0DSGGDCR8. NEVER invent an ASIN.\n- CRISIS-PAGE PROHIBITION: NO product placement on past-due/shutoff/reconnection crisis pages (21-past-due-balance in this set = NO box ever).\n\nSQ-057 CONTEXT (this tier's journey lattice, already live in the markdown)\nAll 10 pages: FAQ+schema present, Related Reading present, guided endings, moment-of-need body links (30->85 unique). Dead zones broken. The 14-day Rybbit watch is pending deploy. Heroes exist on 9/10 (frontmatter image:); body visuals only on 08-TOU (time-of-use-clock.webp) and how-to-read-a-water-meter (dial-meter-reading.webp). Existing non-hero assets unwired on disk: 21-past-due (past-due-bill-anatomy.webp, past-due-disconnection-timeline.webp).\n\nYOUR PAGES (write one plan each):\n1. why-did-my-water-bill-suddenly-increase (1941w; water-detection hub; hero exists; 189w leak-check zone now a 4-item checklist \u2014 an action-demo image earns its place there; toilet dye test / meter test / leak indicator are the show-me moments; possible Govee leak-detector B0DQLFC3Q6 box \u2014 it is already used on sibling water pages 06/44/toilet-test, verify fit honestly)\n2. how-to-read-a-water-meter (1487w; hero + dial-meter-reading.webp exist \u2014 VIEW both; the dial-decoding steps are THE action moment; conversion example 1255->1247 CCF is a figure candidate)\n3. 26-utility-deposit-explained (1114w; hero exists; deposit lifecycle (pay->review->refund) is a timeline figure; NO product box fit \u2014 do not force one)\n4. 27-utility-connection-fee-explained (460w THINNEST; NO hero dir; 3 images max band-low; routing self-check + fee table are the visual moments; no box)\n\nPLAN FORMAT per page (mirror the exemplar): Hero (file, VIEWED description, verdict SUITABLE/WITH-NOTES/REPLACE) \u00b7 Current state (body-visual count, orphan assets on disk) \u00b7 Recommended plan (total in the 3-7 band, justified by word count + density; numbered placements table: exact section heading, concept, purpose, format/orientation, type, affiliate-wired y/n, proposed filename) \u00b7 Not-planned (earn-their-place rejects) \u00b7 Cohesion note (how the set reads as one visual grammar, cross-page consistency with siblings).\nENGAGEMENT STRATEGY (the point of this mission): every planned image must serve retention or conversion \u2014 place at (a) the answer moment (make the first-screen answer glanceable), (b) action moments (show the reader the thing they're about to DO \u2014 a meter dial, a dye test, a bill line), (c) residual dense spots (tables/math that a figure clarifies), (d) the pre-exit moment (last figure earns the scroll to Related Reading). Name the retention mechanism per image. Images must CLARIFY or DEMONSTRATE, never decorate.\nAFFILIATE STRATEGY: pages with an existing product box (or a defensible new one from the verified inventory + AFFILIATE-PLACEMENTS rules \u2014 no crisis pages) get an affiliate-wired row: the product image must be accurate to the real product. Propose at most ONE new box per page; where you propose one, include the exact product-box shortcode + placement + rationale. When in doubt, NONE \u2014 a wrong box costs trust.",
+ "known_facts": [
+  "Exemplar plan: .squad/SQ-056/visual-plans/23-utility-billing-cycle-explained.md",
+  "SQ-057 link lattice + per-page structure: .squad/SQ-057/evidence-brief.md and FINAL-REPORT.md",
+  "Cartographer runs in parallel on concept-dedup across pages \u2014 if two of YOUR pages want the same concept, still write both; the Commander reconciles reuse.",
+  "Filenames: kebab-case descriptive .webp under static/images/articles/<slug>/; heroes stay as-is unless REPLACE verdict."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/visual-plans/why-did-my-water-bill-suddenly-increase.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/visual-plans/how-to-read-a-water-meter.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/visual-plans/26-utility-deposit-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/visual-plans/27-utility-connection-fee-explained.md"
+  ],
+  "notes": "Assets live under static/images/articles/<slug>/. View before you judge \u2014 do not describe images you did not read."
+ },
+ "constraints": [
+  "Write ONLY your visual-plan .md files. No content/, no assets, no frontmatter edits.",
+  "No hugo, no git."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "read_image",
+  "write_file"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "4 plan files written, one per page, SQ-056 format",
+  "Every existing hero/asset VIEWED with read_image (ground the verdicts)",
+  "Every planned image has: placement, concept, retention mechanism, filename",
+  "Affiliate-wired rows only from the verified ASIN inventory; crisis pages get none"
+ ]
+}

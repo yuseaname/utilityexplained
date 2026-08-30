@@ -1,0 +1,63 @@
+exit_code: 0
+windows: ['last7', 'prior7', 'last30']
+
+--- window last7 --- type=<class 'list'>
+    {"value": "/blog/06-water-bill-too-high/", "hostname": "utilityexplained.com", "count": 45, "percentage": 5.01, "pageviews": 92, "pageviews_percentage": 4.8, "time_on_page_seconds": 24.25, "bounce_rate": 95.56}
+    {"value": "/blog/water-meter-running-when-no-water-used/", "hostname": "utilityexplained.com", "count": 33, "percentage": 3.67, "pageviews": 73, "pageviews_percentage": 3.81, "time_on_page_seconds": 18.506849315068493, "bounce_rate": 90.91}
+    {"value": "/blog/how-sewer-charges-work-on-your-water-bill/", "hostname": "utilityexplained.com", "count": 28, "percentage": 3.12, "pageviews": 61, "pageviews_percentage": 3.18, "time_on_page_seconds": 40.049180327868854, "bounce_rate": 85.71}
+    {"value": "/blog/what-is-ccf-on-a-water-bill/", "hostname": "utilityexplained.com", "count": 25, "percentage": 2.78, "pageviews": 64, "pageviews_percentage": 3.34, "time_on_page_seconds": 26.671875, "bounce_rate": 92}
+    {"value": "/blog/water-meter-leak-indicator-explained/", "hostname": "utilityexplained.com", "count": 24, "percentage": 2.67, "pageviews": 50, "pageviews_percentage": 2.61, "time_on_page_seconds": 38.26, "bounce_rate": 75}
+    {"value": "/blog/average-water-usage-per-person/", "hostname": "utilityexplained.com", "count": 21, "percentage": 2.34, "pageviews": 46, "pageviews_percentage": 2.4, "time_on_page_seconds": 12.891304347826088, "bounce_rate": 85.71}
+    {"value": "/blog/stormwater-fee-on-water-bill-explained/", "hostname": "utilityexplained.com", "count": 14, "percentage": 1.56, "pageviews": 22, "pageviews_percentage": 1.15, "time_on_page_seconds": 5.5, "bounce_rate": 85.71}
+    {"value": "/blog/why-did-my-water-bill-suddenly-increase/", "hostname": "utilityexplained.com", "count": 8, "percentage": 0.89, "pageviews": 17, "pageviews_percentage": 0.89, "time_on_page_seconds": 8.823529411764707, "bounce_rate": 75}
+    {"value": "/blog/sewer-averaging-water-bill-explained/", "hostname": "utilityexplained.com", "count": 5, "percentage": 0.56, "pageviews": 14, "pageviews_percentage": 0.73, "time_on_page_seconds": 118.28571428571429, "bounce_rate": 60}
+    {"value": "/blog/how-to-read-a-water-meter/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.45, "pageviews": 8, "pageviews_percentage": 0.42, "time_on_page_seconds": 10, "bounce_rate": 100}
+    {"value": "/blog/why-is-my-water-bill-higher-in-summer/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.45, "pageviews": 10, "pageviews_percentage": 0.52, "time_on_page_seconds": 8, "bounce_rate": 100}
+    {"value": "/blog/water-service-charge-explained/", "hostname": "utilityexplained.com", "count": 3, "percentage": 0.33, "pageviews": 8, "pageviews_percentage": 0.42, "time_on_page_seconds": 29.625, "bounce_rate": 66.67}
+    {"value": "/blog/why-is-my-water-bill-higher-in-winter/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.22, "pageviews": 4, "pageviews_percentage": 0.21, "time_on_page_seconds": 10, "bounce_rate": 50}
+    {"value": "/blog/44-how-to-lower-water-bill/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.11, "pageviews": 1, "pageviews_percentage": 0.05, "time_on_page_seconds": 0, "bounce_rate": 100}
+    {"value": "/tags/save-on-water-bill/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.11, "pageviews": 1, "pageviews_percentage": 0.05, "time_on_page_seconds": 0, "bounce_rate": 100}
+    {"value": "/tags/water-meter/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.11, "pageviews": 2, "pageviews_percentage": 0.1, "time_on_page_seconds": 15.5, "bounce_rate": 0}
+
+--- window prior7 --- type=<class 'list'>
+    {"value": "/blog/water-meter-running-when-no-water-used/", "hostname": "utilityexplained.com", "count": 40, "percentage": 5.41, "pageviews": 94, "pageviews_percentage": 5.86, "time_on_page_seconds": 17.904255319148938, "bounce_rate": 85}
+    {"value": "/blog/what-is-ccf-on-a-water-bill/", "hostname": "utilityexplained.com", "count": 39, "percentage": 5.27, "pageviews": 90, "pageviews_percentage": 5.61, "time_on_page_seconds": 28.566666666666666, "bounce_rate": 84.62}
+    {"value": "/blog/06-water-bill-too-high/", "hostname": "utilityexplained.com", "count": 35, "percentage": 4.73, "pageviews": 78, "pageviews_percentage": 4.86, "time_on_page_seconds": 31.46153846153846, "bounce_rate": 88.57}
+    {"value": "/blog/how-sewer-charges-work-on-your-water-bill/", "hostname": "utilityexplained.com", "count": 28, "percentage": 3.78, "pageviews": 66, "pageviews_percentage": 4.11, "time_on_page_seconds": 28.742424242424242, "bounce_rate": 71.43}
+    {"value": "/blog/water-meter-leak-indicator-explained/", "hostname": "utilityexplained.com", "count": 22, "percentage": 2.97, "pageviews": 50, "pageviews_percentage": 3.12, "time_on_page_seconds": 32.46, "bounce_rate": 77.27}
+    {"value": "/blog/stormwater-fee-on-water-bill-explained/", "hostname": "utilityexplained.com", "count": 8, "percentage": 1.08, "pageviews": 14, "pageviews_percentage": 0.87, "time_on_page_seconds": 5.785714285714286, "bounce_rate": 75}
+    {"value": "/blog/why-did-my-water-bill-suddenly-increase/", "hostname": "utilityexplained.com", "count": 8, "percentage": 1.08, "pageviews": 17, "pageviews_percentage": 1.06, "time_on_page_seconds": 9.411764705882353, "bounce_rate": 100}
+    {"value": "/blog/how-to-read-a-water-meter/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.54, "pageviews": 9, "pageviews_percentage": 0.56, "time_on_page_seconds": 9, "bounce_rate": 75}
+    {"value": "/blog/average-water-usage-per-person/", "hostname": "utilityexplained.com", "count": 3, "percentage": 0.41, "pageviews": 5, "pageviews_percentage": 0.31, "time_on_page_seconds": 8, "bounce_rate": 100}
+    {"value": "/blog/44-how-to-lower-water-bill/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.27, "pageviews": 3, "pageviews_percentage": 0.19, "time_on_page_seconds": 6.666666666666667, "bounce_rate": 0}
+    {"value": "/blog/sewer-averaging-water-bill-explained/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.27, "pageviews": 5, "pageviews_percentage": 0.31, "time_on_page_seconds": 8, "bounce_rate": 100}
+    {"value": "/blog/tiered-water-rates-explained/", "hostname": "", "count": 2, "percentage": 0.27, "pageviews": 2, "pageviews_percentage": 0.12, "time_on_page_seconds": 0, "bounce_rate": 50}
+    {"value": "/blog/water-service-charge-explained/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.27, "pageviews": 4, "pageviews_percentage": 0.25, "time_on_page_seconds": 5, "bounce_rate": 100}
+    {"value": "/blog/why-is-my-water-bill-higher-in-winter/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.27, "pageviews": 4, "pageviews_percentage": 0.25, "time_on_page_seconds": 8.75, "bounce_rate": 50}
+    {"value": "/water-explained/", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.27, "pageviews": 12, "pageviews_percentage": 0.75, "time_on_page_seconds": 6.333333333333333, "bounce_rate": 0}
+    {"value": "/blog/drought-surcharge-on-water-bill-explained/", "hostname": "", "count": 1, "percentage": 0.14, "pageviews": 1, "pageviews_percentage": 0.06, "time_on_page_seconds": 1, "bounce_rate": 0}
+    {"value": "/blog/why-is-my-water-bill-higher-in-summer/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.14, "pageviews": 2, "pageviews_percentage": 0.12, "time_on_page_seconds": 10, "bounce_rate": 100}
+
+--- window last30 --- type=<class 'list'>
+    {"value": "/blog/water-meter-running-when-no-water-used/", "hostname": "utilityexplained.com", "count": 93, "percentage": 4.89, "pageviews": 207, "pageviews_percentage": 5.24, "time_on_page_seconds": 38.65700483091788, "bounce_rate": 84.95}
+    {"value": "/blog/what-is-ccf-on-a-water-bill/", "hostname": "utilityexplained.com", "count": 78, "percentage": 4.1, "pageviews": 167, "pageviews_percentage": 4.23, "time_on_page_seconds": 39.946107784431135, "bounce_rate": 84.62}
+    {"value": "/blog/how-sewer-charges-work-on-your-water-bill/", "hostname": "utilityexplained.com", "count": 76, "percentage": 4, "pageviews": 160, "pageviews_percentage": 4.05, "time_on_page_seconds": 64.5625, "bounce_rate": 78.95}
+    {"value": "/blog/06-water-bill-too-high/", "hostname": "utilityexplained.com", "count": 73, "percentage": 3.84, "pageviews": 155, "pageviews_percentage": 3.92, "time_on_page_seconds": 29.303225806451614, "bounce_rate": 93.15}
+    {"value": "/blog/water-meter-leak-indicator-explained/", "hostname": "utilityexplained.com", "count": 62, "percentage": 3.26, "pageviews": 122, "pageviews_percentage": 3.09, "time_on_page_seconds": 38.82786885245902, "bounce_rate": 72.58}
+    {"value": "/blog/stormwater-fee-on-water-bill-explained/", "hostname": "utilityexplained.com", "count": 28, "percentage": 1.47, "pageviews": 42, "pageviews_percentage": 1.06, "time_on_page_seconds": 4.642857142857143, "bounce_rate": 82.14}
+    {"value": "/blog/average-water-usage-per-person/", "hostname": "utilityexplained.com", "count": 24, "percentage": 1.26, "pageviews": 51, "pageviews_percentage": 1.29, "time_on_page_seconds": 12.411764705882353, "bounce_rate": 87.5}
+    {"value": "/blog/why-did-my-water-bill-suddenly-increase/", "hostname": "utilityexplained.com", "count": 19, "percentage": 1, "pageviews": 35, "pageviews_percentage": 0.89, "time_on_page_seconds": 7.714285714285714, "bounce_rate": 89.47}
+    {"value": "/blog/how-to-read-a-water-meter/", "hostname": "utilityexplained.com", "count": 14, "percentage": 0.74, "pageviews": 24, "pageviews_percentage": 0.61, "time_on_page_seconds": 6.75, "bounce_rate": 71.43}
+    {"value": "/blog/sewer-averaging-water-bill-explained/", "hostname": "utilityexplained.com", "count": 8, "percentage": 0.42, "pageviews": 19, "pageviews_percentage": 0.48, "time_on_page_seconds": 89.26315789473684, "bounce_rate": 75}
+    {"value": "/blog/water-service-charge-explained/", "hostname": "utilityexplained.com", "count": 8, "percentage": 0.42, "pageviews": 16, "pageviews_percentage": 0.4, "time_on_page_seconds": 17.3125, "bounce_rate": 75}
+    {"value": "/blog/why-is-my-water-bill-higher-in-summer/", "hostname": "utilityexplained.com", "count": 6, "percentage": 0.32, "pageviews": 13, "pageviews_percentage": 0.33, "time_on_page_seconds": 7.6923076923076925, "bounce_rate": 100}
+    {"value": "/blog/44-how-to-lower-water-bill/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.21, "pageviews": 7, "pageviews_percentage": 0.18, "time_on_page_seconds": 207.57142857142858, "bounce_rate": 25}
+    {"value": "/blog/why-is-my-water-bill-higher-in-winter/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.21, "pageviews": 7, "pageviews_percentage": 0.18, "time_on_page_seconds": 7.857142857142857, "bounce_rate": 75}
+    {"value": "/water-explained/", "hostname": "utilityexplained.com", "count": 4, "percentage": 0.21, "pageviews": 17, "pageviews_percentage": 0.43, "time_on_page_seconds": 6.352941176470588, "bounce_rate": 25}
+    {"value": "/blog/tiered-water-rates-explained/", "hostname": "utilityexplained.com", "count": 3, "percentage": 0.16, "pageviews": 3, "pageviews_percentage": 0.08, "time_on_page_seconds": 0.3333333333333333, "bounce_rate": 66.67}
+    {"value": "/blog/drought-surcharge-on-water-bill-explained/", "hostname": "", "count": 2, "percentage": 0.11, "pageviews": 2, "pageviews_percentage": 0.05, "time_on_page_seconds": 0, "bounce_rate": 50}
+    {"value": "/blog/what-is-ccf-on-a-water-bill", "hostname": "utilityexplained.com", "count": 2, "percentage": 0.11, "pageviews": 2, "pageviews_percentage": 0.05, "time_on_page_seconds": 0, "bounce_rate": 100}
+    {"value": "/blog/category/water/", "hostname": "localhost", "count": 1, "percentage": 0.05, "pageviews": 1, "pageviews_percentage": 0.03, "time_on_page_seconds": 18, "bounce_rate": 0}
+    {"value": "/blog/water-meter-running-when-no-water-used", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.05, "pageviews": 1, "pageviews_percentage": 0.03, "time_on_page_seconds": 0, "bounce_rate": 100}
+    {"value": "/tags/save-on-water-bill/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.05, "pageviews": 1, "pageviews_percentage": 0.03, "time_on_page_seconds": 0, "bounce_rate": 100}
+    {"value": "/tags/water-meter/", "hostname": "utilityexplained.com", "count": 1, "percentage": 0.05, "pageviews": 2, "pageviews_percentage": 0.05, "time_on_page_seconds": 15.5, "bounce_rate": 0}

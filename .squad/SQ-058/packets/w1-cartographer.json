@@ -1,0 +1,38 @@
+{
+ "role": "cartographer",
+ "mission": "Cross-page visual concept map: .squad/SQ-058/concept-dedup.md \u2014 which of the ~10 pages' planned concepts overlap, which existing site assets (115 files under static/images/articles/) are reusable for this tier, and the shared-vs-distinct ruling per concept.",
+ "parent_objective": "SQ-058: visual makeover -> Codex handoff",
+ "context": "Three lieutenants author per-page plans in parallel; you map the OVERLAPS so the Commander can dedup before Codex generates.\n1. CONCEPT MATRIX: list the ~15-20 likely figure concepts across the 10 pages (meter dial reading, bill anatomy, TOU clock, tier ladder, deposit lifecycle, leak-check flow, disconnection timeline, demand-vs-energy, dye test, CCF conversion...). For each: which pages want it, is ONE shared asset right (same file referenced from multiple pages) or must each page get its own (context differs)? Ruling + reason. Rule of thumb: share when the figure is context-identical; split when labels/numbers must match that page's worked example.\n2. EXISTING-ASSET REUSE: inventory static/images/articles/ (ls -R, 115 files, ~35 slug dirs). For concepts in the matrix, check whether a sibling page already has a suitable asset (e.g. meter dials on how-to-read-electric-meter vs water-meter's dial-meter-reading.webp; bill anatomy variants on 01/electric-bill-breakdown/21-past-due's unwired past-due-bill-anatomy.webp; TOU clock on 08-TOU). Do NOT read_image (text-only seat) \u2014 judge by filename + the source page's wiring context (grep the src + alt of existing wirings).\n3. NAMING: propose the canonical filename for each NEW shared asset (avoid per-slug duplication when shared).\n4. GENERATION COUNT: estimate the distinct NEW images Codex must generate after reuse (target the smallest honest set).",
+ "known_facts": [
+  "Unwired-on-disk assets in this tier: 21-past-due's past-due-bill-anatomy.webp + past-due-disconnection-timeline.webp.",
+  "08-TOU time-of-use-clock.webp and water-meter dial-meter-reading.webp are already wired in body.",
+  "Product images live separately under static/images/products/ (12 ASIN -> 9 files, complete) \u2014 out of your scope."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/concept-dedup.md"
+  ]
+ },
+ "constraints": [
+  "Write ONLY concept-dedup.md.",
+  "Rulings must state the reason; no bare lists."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "write_file"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Concept matrix with shared/split ruling per concept",
+  "Reuse table (existing asset -> pages that can wire it)",
+  "Distinct-new-image count with filenames"
+ ]
+}

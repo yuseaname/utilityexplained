@@ -63,7 +63,7 @@ Using Austin's block rates:[1]
 - All of the above, plus 5 × $20.40 (above 20,000) and 5 more units at $16.52
 - **Volume total: $330.80**
 
-Two-and-a-quarter times the cost for two-thirds more water. That acceleration is the entire point of the structure: the marginal cost of water rises as you consume more.
+Two-and-a-quarter times the cost for two-thirds more water. That acceleration is the entire point of the structure: the marginal cost of water rises as you consume more. If your bill jumped more than your usage changed, the tier structure may be the hidden cause — see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/).
 
 ## Flat Rate vs. Tiered Rate
 

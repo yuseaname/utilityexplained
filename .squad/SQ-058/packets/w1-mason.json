@@ -1,0 +1,51 @@
+{
+ "role": "mason",
+ "mission": "Implement the SQ-057 follow-up hub inbound-links: add 1-2 contextual moment-of-need internal links to each of 13 source pages, pointing at their named hub pages (table below). Skip-and-log any link that already exists on the source page.",
+ "parent_objective": "SQ-058: queue clearance \u2014 hub inbound lattice wiring",
+ "context": "The SQ-057 tier pages are now hubs but nothing links IN to them yet (lattice section 4). You wire the INBOUND side. Rules: contextual inline markdown/HTML links matching each source page's markup idiom, descriptive reader-purpose anchor text, placed at the moment the hub becomes relevant (not end-of-page dumps). Facts frozen \u2014 no new facts/numbers. Frontmatter: only updated: -> 2026-08-29. Verify every target slug exists before inserting. No boxes, no hugo, no git.\n\n| Source page (you edit) | Link TO (hub) | Suggested anchor context |\n|---|---|---|\n| 06-water-bill-too-high | why-did-my-water-bill-suddenly-increase | sudden-jump scenario escalation |\n| 06-water-bill-too-high | how-to-read-a-water-meter | when the diagnostic says 'read your meter' |\n| water-meter-running-when-no-water-used | why-did-my-water-bill-suddenly-increase | bill jumped after the meter test |\n| water-meter-running-when-no-water-used | how-to-read-a-water-meter | how to read the numbers you just watched |\n| tiered-water-rates-explained | why-did-my-water-bill-suddenly-increase | small usage increase doubled the bill |\n| electric-bill-breakdown-understanding-line-items | 49-demand-charges-electricity-bill-explained | demand line on commercial-style bills |\n| electric-bill-breakdown-understanding-line-items | 01-how-to-read-your-electric-bill | entry-level companion |\n| supply-vs-delivery-charges-electricity | 49-demand-charges-electricity-bill-explained | demand as a delivery-side variant |\n| which-rate-plan-is-right-for-me | 08-time-of-use-electricity | TOU plan deep dive |\n| 46-what-time-is-electricity-cheapest | 08-time-of-use-electricity | how TOU schedules work |\n| how-do-smart-meters-work | 08-time-of-use-electricity | interval data enables TOU |\n| how-do-smart-meters-work | how-to-read-electric-meter | reading your own meter |\n| moving-utilities-checklist | 27-utility-connection-fee-explained | connection fee at start-service step |\n| moving-utilities-checklist | 26-utility-deposit-explained | deposit at start-service step |\n| 28-utility-reconnection-fee-explained | 26-utility-deposit-explained | deposit after shutoff |\n| 28-utility-reconnection-fee-explained | 21-past-due-balance-utility-bill-explained | how the past-due balance built up |\n| can-utility-shut-off-service | 21-past-due-balance-utility-bill-explained | reconciling before disconnection |\n| can-utility-shut-off-service | 26-utility-deposit-explained | deposits + disconnection rules |\n| 03-why-is-my-electric-bill-so-high | 01-how-to-read-your-electric-bill | decode the bill first |\n| 11-understanding-kwh-usage | 01-how-to-read-your-electric-bill | finding kWh on the statement |\n| 11-understanding-kwh-usage | how-to-read-electric-meter | meter vs bill readings |",
+ "known_facts": [
+  "All hub target slugs are live content files (Commander-verified).",
+  "Source pages are a mix of markdown-## and raw-HTML idiom \u2014 match each file's idiom.",
+  "Some sources may already link a hub (e.g. 03 already links 01?) \u2014 grep first, skip-and-log duplicates."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/11-understanding-kwh-usage.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/46-what-time-is-electricity-cheapest.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/can-utility-shut-off-service.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/electric-bill-breakdown-understanding-line-items.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-do-smart-meters-work.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/moving-utilities-checklist.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/supply-vs-delivery-charges-electricity.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-water-rates-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/which-rate-plan-is-right-for-me.md"
+  ]
+ },
+ "constraints": [
+  "Write ONLY the listed source files.",
+  "Max 3 new links per source; 1-2 is the norm.",
+  "No content rewrites \u2014 insert links into existing sentences/sections at the relevant moment."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "edit_file",
+  "write_file"
+ ],
+ "prohibited_actions": [],
+ "success_criteria": [
+  "Every source page: named links present or skip-logged with reason",
+  "Anchor text descriptive; placement contextual",
+  "Frontmatter untouched except updated:",
+  "Execution log: per-file links added + skips"
+ ]
+}

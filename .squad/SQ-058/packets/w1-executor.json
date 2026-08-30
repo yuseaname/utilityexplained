@@ -1,0 +1,41 @@
+{
+ "role": "executor",
+ "mission": "Two data jobs: (1) Rybbit session-level adjudication of the two SUSPECT metrics; (2) visual QA of the 9 distinct product images. Read-only except your two result files.",
+ "parent_objective": "SQ-058: queue clearance \u2014 suspect-metric adjudication + affiliate-image QA",
+ "context": "JOB 1 \u2014 SUSPECT METRICS: why-did-my-water-bill-suddenly-increase shows top_s=0.0 (24 visits) and how-to-read-a-water-meter top_s=0.5 (19 visits) in last-30d aggregates; static analysis says likely tracking artifact (both pages are link-dense with FAQ schema). Adjudicate with DATA: adapt scripts/rybbit_snapshot.py (read it first; auth via ~/.config/rybbit/api_key, never print it; API base https://app.rybbit.io/api/sites/d5b63e065e9d/). Pull per-path data for the two slugs: daily timeseries (visits, bounce, avg time) across last 30-90 days, and any session/event-level endpoints the API offers. Questions: (a) was top_s EVER nonzero for these paths in earlier windows? (b) do the daily numbers show visits with 0 time consistently (tracking gap) or a recent change to 0 (regression)? (c) do sibling pages show healthy top_s in the same pulls (control)? Verdict per page: TRACKING ARTIFACT / REAL BEHAVIOR / INCONCLUSIVE, with the data table.\nJOB 2 \u2014 PRODUCT-IMAGE QA: the 9 distinct files under static/images/products/ (plug-in-energy-meter, smart-water-shutoff, smart-plug, premium-smart-thermostat, level-2-ev-charger, whole-home-energy-monitor, learning-thermostat, water-leak-detectors, programmable-thermostat \u2014 all .webp). VIEW each with read_image. Verdict per file: does it plausibly match the real product's form factor (plug-in meter, smart plug, thermostat, EV charger, whole-home monitor, leak detector)? Any file too generic/wrong-shaped for its ASIN mapping (3 ASINs share smart-plug.webp)? Flag any that misrepresent the product (trust risk).",
+ "known_facts": [
+  "All 12 wired ASINs have yaml entries AND on-disk files (Commander-verified) \u2014 coverage is complete; your job is QUALITY, not coverage.",
+  "Rybbit script sets a custom User-Agent (WAF blocks default) \u2014 keep that pattern.",
+  "Never print or copy the API key."
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/rybbit-suspect-check.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-058/product-image-qa.md"
+  ],
+  "notes": "Write the two report files; raw JSON may go beside them (rybbit-suspect-data.json)."
+ },
+ "constraints": [
+  "Write ONLY the named result files.",
+  "No content/ or data/ edits. No hugo, no git."
+ ],
+ "authorized_actions": [
+  "read_file",
+  "list_dir",
+  "search",
+  "run_command",
+  "read_image",
+  "write_file"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Data-backed verdict per suspect page (ARTIFACT/REAL/INCONCLUSIVE) with tables",
+  "9 product images viewed + form-factor verdicts",
+  "Both .md files written"
+ ]
+}
