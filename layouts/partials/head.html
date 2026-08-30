@@ -31,7 +31,7 @@
 {{ end }}
 
 {{/* Primary meta tags */}}
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}{{ end }}</title>
+<title>{{ if .IsHome }}Utility Explained: Read and Lower Your Utility Bills{{ else }}{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}{{ end }}</title>
 {{- $pageDesc := .Params.description | default .Site.Params.description -}}
 {{- with $pageDesc -}}
 <meta name="description" content="{{ truncate 155 . }}">
