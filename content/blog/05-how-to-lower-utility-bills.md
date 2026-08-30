@@ -82,7 +82,7 @@ Not every improvement fits every home — the table below shows typical ranges b
 | Attic insulation (add R-value) | $1,000–$2,500 | $15–$40/mo | 3–7 years | Largest single building-envelope improvement per DOE |
 | Duct sealing (accessible) | $200–$500 (professional) | $10–$20/mo | 1–3 years | Duct losses 20–30% of heating/cooling energy[4] |
 | Water heater temperature setback (120°F) | $0 | $5–$10/mo | Immediate | 3–5% savings per 10°F reduction |
-| Water heater insulation wrap (electric) | $20–$40 | $3–$7/mo | <1 year | Reduces standby heat loss 25–45% per DOE |
+| Water heater insulation wrap (electric) | $20–$40 | $3–$7/mo | <1 year | Reduces standby heat loss ~25% per DOE |
 | Low-flow showerheads (WaterSense) | $15–$40 each | $5–$15/mo (water + heating) | 3–6 months | EPA: saves ~2,700 gallons + 330 kWh/yr[5] |
 | Whole-home energy monitor | $40–$200 | $5–$15/mo (behavior-driven) | 1–2 years | Enables data-driven reduction; savings vary by household |
 | ENERGY STAR appliance replacement | $400–$1,500+ | $10–$30/mo | 3–8 years | Best timed at end-of-life, not before |

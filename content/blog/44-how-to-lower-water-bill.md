@@ -102,9 +102,9 @@ Outdoor water use accounts for nearly 30% of total household water use, rising t
 | Improvement | How | Water Saved | Annual Savings | Cost |
 |---|---|---|---|---|
 | WaterSmart irrigation controller | Replaces manual timer; adjusts for weather and soil moisture | 20–50% reduction in outdoor use | $50–$200 | $100–$300 |
-| Rain barrel for garden watering | Captures roof runoff; reduces municipal water use | 1,000–5,000 gal/yr | $10–$50 | $50–$150 |
-| Drip irrigation for beds | Replaces sprinklers; delivers water to roots | 30–50% reduction | $30–$100 | $50–$200 |
-| Mulch 2–3 inches | Reduces evaporation; retains soil moisture | 20–30% reduction in watering frequency | $10–$30 | $5–$20 |
+| Rain barrel for garden watering | Captures roof runoff; reduces municipal water use | hundreds to thousands of gal/yr (climate-dependent) | $10–$50 | $50–$150 |
+| Drip irrigation for beds | Replaces sprinklers; delivers water to roots | significant reduction (varies) | $30–$100 | $50–$200 |
+| Mulch 2–3 inches | Reduces evaporation; retains soil moisture | reduces watering frequency (varies) | $10–$30 | $5–$20 |
 | Early-morning watering | Reduces evaporation loss vs. midday | 10–15% reduction | $5–$30 | $0 |
 
 **Source:** EPA WaterSense “Save Outdoors” (retrieved 2026-08-28) estimates that upgrading to a WaterSense-labeled irrigation controller can cut outdoor water use by 20–50%.[1]

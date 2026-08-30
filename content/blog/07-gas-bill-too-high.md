@@ -1,15 +1,16 @@
 ---
-title: "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+title: "Why Is My Gas Bill So High? 10 Causes and Fixes"
 slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php
   - https://www.energy.gov/save/home-upgrades
   - https://www.energystar.gov/saveathome/heating-cooling
+  - https://www.energy.gov/energysaver/window-coverings (DOE Energy Saver: Window Coverings, retrieved 2026-08-30)
   - https://www.energy.gov/save/home-upgrades
   - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
   - https://www.energystar.gov/campaign/home_sealing
@@ -157,8 +158,8 @@ Gas fireplaces and decorative gas logs use **25,000–60,000 BTU/hour**. Leaving
 
 Single-pane windows or old double-pane windows with failed seals let significant heat escape. Replacing windows is expensive ($300–$1,000/window), but low-cost alternatives help:
 
-- **Window film insulation kits** — $15–$30 per window, reduces heat loss by 40–70%.
-- **Thermal curtains** — $20–$60 per window, blocks drafts and radiant heat loss.
+- **Window film insulation kits** — $15–$30 per window, reduces heat loss through the glass.
+- **Thermal curtains** — $20–$60 per window, blocks drafts and radiant heat loss (qualitative benefit).
 - **Weatherstripping** — $5–$15 per window, seals gaps around the frame.
 
 ### 10. Billing cycle length or estimated readings

@@ -1,5 +1,5 @@
 ---
-title: "Average Utility Bills by State (2026): National Averages + 17-State Sample"
+title: "Average Utility Bills by State (2026)"
 slug: "average-utility-bills-by-state-2026"
 aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
 description: "What US households pay for utilities in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table computed from published rates at standard usage."
@@ -10,6 +10,7 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
   - https://www.eia.gov/electricity/sales_revenue_price/
   - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
+  - https://www.epa.gov/watersense/water-sense-program (EPA WaterSense, retrieved 2026-08-30)
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
