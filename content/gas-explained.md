@@ -41,7 +41,7 @@ Gas bills typically have three main components: supply charges, delivery charges
 </p>
 <h3>Supply charge (commodity charge)</h3>
 <p>
-This is the cost of the natural gas itself. It is usually listed as a price per therm. If your rate is $1.50 per therm and you used 60 therms, the supply charge is $90. Some regions allow you to choose a gas supplier, which affects this rate.
+This is the cost of the natural gas itself. It is usually listed as a price per therm. If your rate is $1.50 per therm (near the 2026 U.S. residential average of roughly $1.91 per therm-equivalent in the EIA residential series, though rates vary widely by state and season) and you used 60 therms, the supply charge is $90. Some regions allow you to choose a gas supplier, which affects this rate.
 </p>
 <h3>Delivery charge (distribution charge)</h3>
 <p>

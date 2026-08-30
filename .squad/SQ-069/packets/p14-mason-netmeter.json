@@ -1,0 +1,42 @@
+{
+  "role": "mason",
+  "mission": "GAP-FIX A \u2014 expand content/blog/net-metering-explained.md (752w, ZERO dollar figures on a YMYL solar-money page). Audit verdict: 'expand: zero dollar figures on a YMYL solar topic; add one state credit example'.",
+  "parent_objective": "SQ-069 phase 6 gap-closure (post-review)",
+  "context": "Keep the existing mechanics explanation. ADD a new section 'What exports actually pay: a real-state example' with:\n1. California's shift: NEM 2.0 credited exports near full retail (~30c/kWh reported); the successor Net Billing Tariff ('NEM 3.0') pays hourly avoided-cost value instead \u2014 Southern California Edison states export credits 'reflect the electricity's value to the electric grid during each hour of the day', set from the CPUC Avoided Cost Calculator.\n2. The number: reported average export credits now run roughly 5-8c/kWh \u2014 about 75% below NEM 2.0 levels (secondary-source figure; label as reported, not tariff).\n3. The 9-year lock: SCE confirms NBT vintages 2023-2026 'have fixed prices for 9 years' from interconnection \u2014 the one planning certainty in the structure.\n4. Worked illustrative math, labeled: a home exporting 400 kWh/month at an average 6c/kWh credits about $24/month; the same export under a TOU battery strategy shifted to evening hours is worth multiples of that \u2014 which is why NBT pushes storage.\n5. Keep the national picture: policies vary by state; many states still credit near retail (keep existing content).\n6. FAQ: add 2 short faq shortcodes ({{< faq \"Q\" >}}...{{< /faq >}}) on 'is net metering going away' and 'do I need a battery'.\nUpdate updated: 2026-08-30. Add SCE + CPUC URLs to sources with (retrieved 2026-08-29).",
+  "known_facts": [
+    "VERIFIED (Commander-fetched 2026-08-29, https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing): hourly export credits reflect grid value; prices from CPUC Avoided Cost Calculator as of Jan 1 of calculation year; NBT23-NBT26 vintages have fixed prices for 9 years; NBT00 has no fixed prices; all NBT customers on TOU rates",
+    "Reported (secondary sources incl. palmetto.com/policy/nem-3-0-california and korapower.com, 2026-08-29 search): average export credits ~5-8c/kWh, roughly 75% below NEM 2.0; early-adopter adders up to 4c/kWh through ~2028 \u2014 LABEL as reported, not tariff-verified",
+    "CPUC net-metering page: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing",
+    "Existing sources on the page (DOE FUPWG 2014 PDF, DOE homeowners-guide-solar) stay"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/net-metering-explained.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY this file; NO hugo; NO web; no numbers outside known_facts (400 kWh x 6c illustrative math is authorized); keep existing sections"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "page has real dollar/cent figures with CA example",
+    "9-year lock mentioned",
+    "illustrative math labeled",
+    "2 new faq shortcodes",
+    "updated: 2026-08-30",
+    "SCE+CPUC in sources dated",
+    "word count 1,100-1,500"
+  ]
+}

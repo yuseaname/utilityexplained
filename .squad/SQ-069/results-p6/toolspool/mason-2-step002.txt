@@ -1,0 +1,200 @@
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:10:   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:21:   - "U.S. Energy Information Administration, FAQs: How much electricity does an American home use? — https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-28)"
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:561: {{< faq "What's the fastest way to lower my electric bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:563: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:565: {{< faq "Do smart plugs really save money?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-lower-electric-bill-complete-guide.md:567: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:154: {{< faq "Will a running toilet really raise my bill that much?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:158: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:160: {{< faq "How do I tell a leak from a rate change?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:164: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:166: {{< faq "The dye test is clean but the meter still moves. Now what?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:170: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:172: {{< faq "Can I get a high bill adjusted after a leak?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:176: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md:178: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:64:                 <a href="#faqs">FAQs</a>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:249: <h2 id="faqs">FAQs</h2>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:254: {{< faq "What does aux heat mean on my thermostat?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:258: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:260: {{< faq "What does emergency heat mean?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:264: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:266: {{< faq "Is it bad if aux heat runs all the time?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:270: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:272: {{< faq "Why did my electric bill spike when aux heat turned on?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:276: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:278: {{< faq "Should I switch to emergency heat in cold weather?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:282: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md:284: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:99: {{< faq "Why does cold air blast out when the fan runs?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:101: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:103: {{< faq "How often should I change the filter in winter?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:105: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:107: {{< faq "Is a little cold air at startup normal?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:109: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:111: {{< faq "When should I stop troubleshooting and call someone?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md:113: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:100: {{< faq "Why is my sewer charge the same every month?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:104: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:106: {{< faq "Does sewer averaging mean I am paying for summer watering?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:110: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:112: {{< faq "How do I find my winter average?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:116: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:118: {{< faq "What if I had a leak during the averaging period?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:122: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:124: {{< faq "Is sewer averaging the same everywhere?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:128: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md:130: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:102: {{< faq "Can a water meter run without a leak?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:104: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:106: {{< faq "How do I know if it's the utility's side or mine?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:108: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:110: {{< faq "Will my water utility charge me for a leak on my side?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:112: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:114: {{< faq "How much does a plumber cost to find a leak?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/water-meter-running-when-no-water-used.md:116: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:155: {{< faq "How do rates and fees work together on a utility bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:159: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:161: {{< faq "Why do fees show up even when I used little?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:165: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:167: {{< faq "Do rate changes apply to all utilities?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:171: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:173: {{< faq "What is the fastest way to make sense of a bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:177: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:179: {{< faq "Where should I start if my bill feels confusing?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:183: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-utility-rates-fees-usage-work-together.md:185: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:52:               <li><a href="#faqs">FAQs</a></li>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:372: <h2 id="faqs">FAQs</h2>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:375: {{< faq "Why is my AC running but not cooling the house?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:379: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:381: {{< faq "Should I turn the AC off if I see ice?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:385: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:387: {{< faq "The outdoor fan is not spinning. Can I still run the AC?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:391: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:393: {{< faq "Is low refrigerant a common cause of no cooling?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:397: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:399: {{< faq "Why does the air feel cool at the vent but the house stays warm?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:403: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md:405: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:92: {{< faq "Is a connection fee the same as a deposit?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:96: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:98: {{< faq "Is a connection fee refundable?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:102: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:104: {{< faq "What does a utility connection fee cover?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:108: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:110: {{< faq "Do I pay a connection fee when I transfer service?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:114: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:116: {{< faq "Can I get help paying a connection fee?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:120: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:129: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md:135: 3. [Alabama Power: Residential FAQs](https://www.alabamapower.com/residential/residential-faqs.html) (retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:113: {{< faq "Do time-of-use plans actually save money?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:117: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:119: {{< faq "What happens to my bill if I can't shift my usage to off-peak hours?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:123: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:125: {{< faq "Do I need a special meter for a time-of-use plan?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:129: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:131: {{< faq "Can I leave a time-of-use plan after I enroll?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:135: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:137: {{< faq "Is free nights really free?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:141: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md:143: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:51:               <li><a href="#faqs">FAQs</a></li>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:200: <h2 id="faqs">FAQs</h2>
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:205: {{< faq "What does AFUE mean?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:209: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:211: {{< faq "What SEER rating is considered efficient?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:215: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:217: {{< faq "What is a good HSPF rating for a heat pump?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:221: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:223: {{< faq "What is COP and why does it change?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:227: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:229: {{< faq "Can a heat pump be cheaper than a gas furnace?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:233: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md:236: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:15:   - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:16:   - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/how-deposit-amount-is-determined (Southern California Edison Help Center, retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:17:   - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service (Southern California Edison Help Center, retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:81: {{< faq "What is the most a utility can charge as a deposit?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:85: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:87: {{< faq "Can I avoid paying a utility deposit?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:91: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:93: {{< faq "When do I get my utility deposit back?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:97: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:106: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:110: 1. [Public Utility Commission of Texas — Electricity FAQs](https://puc.texas.gov/consumer-help/faq/electricity/) (retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:111: 2. [Southern California Edison — How Is Deposit Amount Determined?](https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/how-deposit-amount-is-determined) (retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md:112: 3. [Southern California Edison — Deposit Refund Timeline](https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service) (retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:22:   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (899 kWh average monthly residential usage, retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:86: {{< faq "Can I lower my delivery charges?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:90: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:92: {{< faq "Can I shop for supply?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:96: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:98: {{< faq "Why did only my supply charge change since last month?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:102: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:104: {{< faq "Is delivery the same thing as distribution?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:108: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:110: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md:120: 7. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) (899 kWh/month; 18.34¢/kWh national average residential price, retrieved 2026-08-29)
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:189: {{< faq "How do I set up utilities in a new apartment?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:193: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:195: {{< faq "Should I choose budget billing?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:199: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:201: {{< faq "What if I cannot afford the deposits?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:205: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-budget-for-utilities-in-your-first-apartment.md:208: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:77: {{< faq "Can I seal ducts myself?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:79: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:81: {{< faq "How much does a duct test cost?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:83: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:85: {{< faq "Will sealing lower my bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:87: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md:89: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:201: {{< faq "Why is my water bill higher in summer even if I am careful?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:205: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:207: {{< faq "What is the first thing I should check when my summer water bill jumps?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:211: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:213: {{< faq "Can a small leak really raise a summer water bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:217: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:219: {{< faq "Does tiered pricing affect summer water bills?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:223: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md:237: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:116: {{< faq "How many gallons are in 1 CCF?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:120: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:122: {{< faq "What does CCF stand for on a water bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:126: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:128: {{< faq "Is CCF the same as a cubic foot?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:132: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:134: {{< faq "Why does my bill use CCF instead of gallons?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:138: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:140: {{< faq "Is a high CCF number a sign of a leak?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:144: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:146: {{< faq "Does CCF affect my sewer bill too?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:150: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md:159: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:149: {{< faq "Is a heat pump or a gas furnace cheaper to run?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:151: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:153: {{< faq "Is the federal heat pump tax credit still available?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:155: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:157: {{< faq "Do heat pumps work in cold climates?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:159: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md:161: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:172: {{< faq "What is the difference between kW and kWh?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:176: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:178: {{< faq "How much does 1 kWh cost?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:182: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:184: {{< faq "How do I calculate kWh from watts?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:188: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:190: {{< faq "Why did my bill go up if my kWh stayed similar?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:194: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:196: {{< faq "Is lowering kWh the only way to lower my bill?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:199: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md:202: {{< faq-schema >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:92: {{< faq "Are riders permanent?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:96: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:98: {{< faq "Is a rider the same as a tax or fee?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:102: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:104: {{< faq "How is this different from the fuel charge I already have?" >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:108: {{< /faq >}}
+/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md:110: {{< faq "Where do riders fit in the rest of my bill?" >}}

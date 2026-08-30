@@ -28,7 +28,7 @@ Water is measured by volume. The most common units on residential bills are <str
 </p>
 <p>
 Some utilities use <strong>CCF (hundred cubic feet)</strong> as the billing unit. One CCF equals 100 cubic feet, or 748 gallons. A few utilities use <strong>thousand gallons (kgal)</strong> instead.
-</p>
+ To convert your own bill units, use the <a href="/blog/ccf-calculator/">CCF calculator</a>, or read <a href="/blog/what-is-ccf-on-a-water-bill/">what CCF on a water bill means</a>.</p>
 <p>
 Your bill should state which unit is used. If you see a number like "6 CCF," that means you used 600 cubic feet, or about 4,488 gallons. If the bill lists gallons directly, the conversion is simpler.
 </p>

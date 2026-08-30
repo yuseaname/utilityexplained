@@ -2,7 +2,7 @@
 title: "Disclaimer"
 description: "Important information about the limits of our content."
 date: 2024-12-01
-updated: 2026-08-03
+updated: 2026-08-30
 type: "page"
 layout: "single"
 ---
@@ -22,4 +22,4 @@ We make reasonable efforts to keep content accurate, but we cannot guarantee
 it is complete or up to date. If you notice an error, contact us so we can
 review and improve the information.
 </p>
-<p>Effective date: 2024-12-01</p>
+<p>Effective date: 2024-12-01 · Last reviewed: 2026-08-30</p>

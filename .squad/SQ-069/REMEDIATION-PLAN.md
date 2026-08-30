@@ -63,3 +63,19 @@ Cost discipline: ~13 images × ~0.042 cr ≈ 0.55 cr total. Balance checked firs
 
 ---
 **Budget log:** (fill as spent) · **Blockers:** (fill if any)
+
+## PHASE 6 — Gap-closure (post-completion review vs audit §2–§9) — *added 2026-08-30*
+Review found 11 items the P1-P5 plan missed. Closing them.
+- [x] P6.1 how-to-lower-electric-complete: $144/$165 → canonical 18.34¢ × 899 = $164.88 anchor *(Commander)*
+- [x] P6.2 water hub → ccf-calculator + what-is-ccf links from units section *(Commander)*
+- [x] P6.3 13-ac ⇄ furnace cross-link *(Commander)*
+- [x] P6.4 in-links to how-to-lower-electric-complete from 03, 30-spike, phantom-power, smart-plugs *(Commander)*
+- [x] P6.5 electricity hub Quick Answer block (audit §3.3) *(Commander)*
+- [x] P6.6 disclaimer effective-date reconciliation *(Commander)*
+- [x] P6.7 gas hub $1.50/therm anchored to EIA ~$1.91 *(Commander)*
+- [x] P6.8 net-metering expand: dollar figures + CA NBT example *(mason, running)*
+- [x] P6.9 10-fixed-vs-variable expand: worked comparison *(mason, running)*
+- [x] P6.10 dispute-page FAQ schema + 30-spike steps 11-12 compress *(lieutenant, running)*
+- [x] P6.V verify + build + commit
+**Refuted on review:** homepage 84/85 count drift (no such text in rendered HTML); aria-label duplicates (none); audit's "112 titles >60" (actual: 30 found, 29 trimmed, 1 intentional); Hawaii $453/$324 (intentionally dual-labeled in 3 places); ItemList/calculators/high-bill-block were 'Build Over Time' by design — deferred, listed below.
+**Deferred (Build-Over-Time tier, by design):** heat-pump calculator (48), LIHEAP eligibility checker, 'diagnose your high bill' hub block, ItemList schema on hub cards, title-length template enforcement, KPI re-baseline.

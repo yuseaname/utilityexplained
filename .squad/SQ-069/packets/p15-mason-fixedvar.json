@@ -1,0 +1,39 @@
+{
+  "role": "mason",
+  "mission": "GAP-FIX B \u2014 expand content/blog/10-fixed-vs-variable-utility-rate.md (868w, audit verdict: 'expand: real comparisons thin').",
+  "parent_objective": "SQ-069 phase 6 gap-closure",
+  "context": "The page has a good TX/PA portal skeleton. ADD a 'worked 12-month comparison' section:\n1. A small table: two plans, same 900 kWh/month usage \u2014 Plan A fixed 12mo at 14.0c/kWh all-in vs Plan B variable tracking the market (illustrative, labeled): Jan 9c / Apr 11c / Jul 19c / Oct 12c \u2014 annual totals A $1,512 vs B $1,485 with a note that B's advantage evaporates with one hot August; the point is variance, not which wins.\n2. 'When fixed wins' vs 'when variable wins' decision rules (2-4 bullets each, from the existing body's logic \u2014 tighten, don't invent).\n3. Early-termination fee honesty: fixed plans typically carry ETFs ($150-295 common range, label as typical industry range) \u2014 factor into the switch decision.\n4. Add 2 faq shortcodes: 'can I switch mid-contract' and 'are variable rates a scam' (answer: no, but they transfer market risk to you).\nKeep OH portal mention if present. Update updated: 2026-08-30. No new sources needed if table is labeled illustrative; if you cite ETF ranges, keep the 'typical industry range' label.",
+  "known_facts": [
+    "All illustrative math above is authorized and labeled; do not add other unverified numbers",
+    "Existing sources stay (powertochoose, papowerswitch, DOE, betterbuildings)"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/10-fixed-vs-variable-utility-rate.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY this file; NO hugo; NO web; illustrative tables must be labeled",
+    "authorized_actions note: read/write only"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "worked comparison table present and labeled",
+    "decision rules section",
+    "2 faq shortcodes",
+    "updated: 2026-08-30",
+    "1,300-1,700 words"
+  ]
+}

@@ -137,6 +137,8 @@ Utilities use meters to measure electricity consumption. If your account provide
 Compare kWh, billing days, rate plan, price and charges, meter-read status, and major household or equipment changes. The same season is usually a more useful comparison than the previous month.
 {{< /faq >}}
 
+For the full savings workflow after you find the cause, see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+
 {{< faq-schema >}}
 
 ## Sources

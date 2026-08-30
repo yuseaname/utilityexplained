@@ -1,0 +1,37 @@
+{
+  "role": "lieutenant",
+  "mission": "GAP-FIX C \u2014 two surgical edits: (1) add FAQ schema section to how-to-dispute-utility-bill.md (audit: 'most question-shaped page has none'); (2) compress steps 11-12 of 30-sudden-spike page into a handoff to the dispute page (audit: 'steps 11-12 duplicate dispute page \u2014 compress + handoff link').",
+  "parent_objective": "SQ-069 phase 6 gap-closure",
+  "context": "FILE 1 content/blog/how-to-dispute-utility-bill.md: after the existing body (before Sources or faq-schema area), add a '## FAQ' section with 4-5 {{< faq \"Q\" >}}...{{< /faq >}} shortcodes drawn ONLY from the page's existing content: how long utilities have to respond, what evidence to gather, when to escalate to the state PUC, does disputing stop shutoff/collections (use the page's own answer), can I dispute an estimated bill. Do NOT invent new claims.\nFILE 2 content/blog/30-sudden-spike-in-electricity-bill-no-usage.md: replace the full text of '## Step 11: Neighbor or Cross-Billing Issues' and '## Step 12: File a Formal Dispute' with ONE combined short step (~60-90 words total): '## Steps 11-12: Rare Causes and the Formal-Dispute Path' summarizing both in two sentences and linking 'the formal-dispute walkthrough (notice letter, evidence, PUC escalation) lives in [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/)' \u2014 note the page currently does NOT link the dispute page at all; the link is required. Keep every other step untouched. Set updated: 2026-08-30 on BOTH files.",
+  "known_facts": [
+    "Dispute page slug: how-to-dispute-utility-bill (exists)",
+    "FAQ shortcodes render FAQPage schema via the site's faq.html + faq-schema shortcodes"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-dispute-utility-bill.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/30-sudden-spike-in-electricity-bill-no-usage.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY these two files; NO hugo; NO web; FAQ answers must trace to existing body content",
+    "steps 1-10 of the spike page must remain byte-identical"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "dispute page: 4-5 faq shortcodes, no new factual claims, updated: 2026-08-30",
+    "spike page: steps 11+12 replaced by one ~60-90-word combined step with dispute-page link, steps 1-10 unchanged, updated: 2026-08-30"
+  ]
+}

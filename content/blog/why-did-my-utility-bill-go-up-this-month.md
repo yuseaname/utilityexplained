@@ -191,5 +191,5 @@ Check the billing period length, look for estimated reads, and scan line items f
 ---
 
 *Related Reading:*
-- [Why Your Utility Bill Can Be Higher Even If Your Usage Didn't Change](/blog/why-my-utility-bill-is-higher-with-same-usage/)
+- [Sudden spike in your electricity bill with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/)
 - [Tiered Water Rates Explained: Why Using More Costs Dramatically More](/blog/tiered-water-rates-explained/)

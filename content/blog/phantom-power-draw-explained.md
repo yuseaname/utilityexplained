@@ -117,6 +117,8 @@ A device's cost depends on its measured power use, the time it stays in that mod
 
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
+Phantom load is one line of the full savings workflow — see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+
 ## Sources
 
 1. [U.S. Department of Energy: Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power)

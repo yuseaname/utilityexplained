@@ -3,7 +3,7 @@ title: "How to Dispute a Utility Bill"
 slug: "how-to-dispute-utility-bill"
 description: "Dispute a utility bill step by step: call the utility, submit a written complaint, file with your state public utility commission, and escalate if needed. With a template letter and evidence checklist."
 date: 2026-08-19
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Tanya Patterson"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -205,6 +205,28 @@ For more on managing past-due balances while a dispute is open, see [how to revi
 5. What current payment, safety, review, and escalation terms does the provider document?
 6. Have you kept a dated log of every call, letter, and response?
 7. Have you filed a complaint with your state's PUC if the utility didn't resolve the issue?
+
+## FAQ
+
+{{< faq "How long does the utility have to respond to a dispute?" >}}
+**Set your own written deadline — 10 to 15 business days is a reasonable suggestion — and follow up with your case number if it passes.** After that, response timelines on a formal complaint to your state public utility commission vary by state.
+{{< /faq >}}
+
+{{< faq "What evidence should I gather before disputing a utility bill?" >}}
+**Copies of the disputed bill and a comparable prior bill, the tariff or rate schedule, payment confirmations, and any provider correspondence — plus a dated photo of your meter only if it is safely obtained and allowed by the provider.** Keep a dated log of every call, letter, and response.
+{{< /faq >}}
+
+{{< faq "When should I escalate to my state's public utility commission?" >}}
+**When the utility's written response does not resolve the issue — or it doesn't respond at all.** Every state has a commission or similar agency that regulates utilities and can order corrections such as a corrected bill or a refund of overcharges; find yours at naruc.org.
+{{< /faq >}}
+
+{{< faq "Does disputing a bill stop shutoff or collections?" >}}
+**Not automatically — keep paying the undisputed portion of your bill unless you know your state's rules.** In Texas, a utility cannot disconnect you for disputed charges until the dispute is resolved and you are notified of the outcome, but that protection is state-specific; ask your utility in writing what rules apply to your account.
+{{< /faq >}}
+
+{{< faq "Can I dispute an estimated bill?" >}}
+**Yes — a rebill from an actual meter read is one of the resolutions you can request.** Some providers, like Con Edison, let customers submit a meter reading in certain circumstances to avoid an estimated bill, so follow your own provider's instructions.
+{{< /faq >}}
 
 ## Sources
 

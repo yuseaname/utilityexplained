@@ -3,7 +3,7 @@ title: "Net Metering: How Solar Affects Your Electric Bill"
 slug: "net-metering-explained"
 description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
 date: 2026-08-10
-updated: 2026-08-23
+updated: 2026-08-30
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
@@ -13,6 +13,8 @@ image: "/images/articles/net-metering-explained/custom_hero.webp"
 sources:
   - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf (retrieved 2026-08-29)
   - https://www.energy.gov/cmei/systems/homeowners-guide-solar (retrieved 2026-08-29)
+  - https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing (retrieved 2026-08-29)
+  - https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing (retrieved 2026-08-29)
 ---
 
 ## Quick Answer
@@ -62,6 +64,27 @@ DOE's homeowner solar guide explains that compensation for exported solar power 
 - Can a rate-plan change alter the value of exported electricity?
 - Where can I read the current interconnection and consumer-disclosure documents?
 
+## What Exports Actually Pay: A Real-State Example
+
+California shows how far export compensation can move. Under the state's older NEM 2.0 rules, exported solar energy was credited near the full retail electricity rate—roughly 30 cents per kWh at reported averages. That made a solar array's spare daytime generation relatively valuable.
+
+In 2023, California moved most new customers to the Net Billing Tariff (often called “NEM 3.0”). Unlike NEM 2.0, the Net Billing Tariff does not credit exports at the retail rate. Instead, Southern California Edison (SCE) explains that export credits “reflect the electricity's value to the electric grid during each hour of the day,” with prices set from the CPUC Avoided Cost Calculator as of January 1 of the calculation year.[3]
+
+The practical result, as reported by secondary sources, is that average export credits now run roughly 5–8 cents per kWh—about 75% below NEM 2.0 levels. That figure is reported by industry commentators and is not a tariff-verified number; always check the current tariff for your own utility and interconnection vintage.[4]
+
+One piece of structure does give California customers a degree of certainty: SCE confirms that Net Billing Tariff vintages 2023 through 2026 “have fixed prices for 9 years” from interconnection. After that period, export prices may reset.[3] That 9-year lock is the one planning certainty in the structure, though it does not fix imported-energy rates, fixed charges, or other bill items.
+
+### What That Means in Dollars
+
+To make the impact concrete, here is labeled illustrative math—not a quote, a tariff, or a promise:
+
+- A home exports 400 kWh in a month.
+- At an average export credit of 6 cents per kWh, that export is worth about 400 × $0.06 = $24 per month.
+
+Now consider the same export shifted to evening hours under a time-of-use battery strategy. Because NBT export prices vary by hour and typically pay more in the evening, the same 400 kWh moved to a higher-value window is worth multiples of $24. That gap is a large part of why the Net Billing Tariff pushes customers toward battery storage: storage lets a customer keep daytime solar and export it when grid value is higher.[4]
+
+The national picture still varies. Policies remain state-by-state: many states still credit exported solar near the retail rate, and California's shift does not mean net metering is disappearing everywhere. Before relying on any estimate, get the current tariff and interconnection agreement for your own service address.
+
 ## Frequently Asked Questions
 
 {{< faq "Will I still receive an electric bill with solar?" >}}
@@ -76,9 +99,19 @@ No. Credit calculation and eligibility are set by the utility and applicable loc
 No. Net metering concerns a grid-connected customer's billing arrangement for electricity that moves between the customer and grid. An off-grid system is a separate design and reliability decision.
 {{< /faq >}}
 
+{{< faq "Is net metering going away?" >}}
+Not everywhere. Net metering and export-credit rules change state by state and utility by utility. California, for example, moved most new customers from NEM 2.0 retail-rate credits to the Net Billing Tariff, but many other states still credit exports near the retail rate. Check your utility's current tariff for your service address.
+{{< /faq >}}
+
+{{< faq "Do I need a battery for solar?" >}}
+It depends on your tariff and goals. In California's Net Billing Tariff, export credits vary by hour, so a battery that shifts daytime solar to higher-value evening hours can meaningfully increase the value of exported energy. In states that still credit exports at the retail rate, storage may be less financially necessary but can still provide backup value.
+{{< /faq >}}
+
 {{< faq-schema >}}
 
 ## Sources
 
 1. [U.S. Department of Energy: Net Metering](https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf)
 2. [U.S. Department of Energy: Homeowner's Guide to Solar](https://www.energy.gov/cmei/systems/homeowners-guide-solar)
+3. [Southern California Edison: Understanding Export Pricing](https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing)
+4. [California Public Utilities Commission: Net Energy Metering and Net Billing](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing)

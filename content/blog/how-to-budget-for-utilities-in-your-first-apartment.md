@@ -103,7 +103,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               months, you will see a clear pattern and can adjust your budget range.
             </p>
             <p>
-              Tracking usage helps you separate rate changes from behavior changes. [Understanding why utility bills vary](/blog/why-my-utility-bill-is-higher-with-same-usage/) can help you identify patterns.
+              Tracking usage helps you separate rate changes from behavior changes. [Why your utility bill went up this month](/blog/why-did-my-utility-bill-go-up-this-month/) can help you identify patterns.
               If the kWh or gallons stay steady but the cost rises, the rate likely
               changed rather than your habits.
             </p>

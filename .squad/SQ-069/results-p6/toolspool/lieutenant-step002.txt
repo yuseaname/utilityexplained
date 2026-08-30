@@ -3,7 +3,7 @@ title: "Sudden Spike in Electricity Bill, No Usage Change"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
-updated: 2026-08-30
+updated: 2026-08-29
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
@@ -208,9 +208,29 @@ Internal electrical problems in your home can cause significant energy waste:
 
 If you suspect an electrical problem, have a licensed electrician perform an inspection. An electrical inspection typically costs <strong>$100–$300</strong> and can identify problems that save far more in energy costs and prevent potential fires.
 
-## Steps 11-12: Rare Causes and the Formal-Dispute Path
+## Step 11: Neighbor or Cross-Billing Issues
 
-Two rare causes remain: cross-billing — a shared meter, a meter misassigned during a replacement or account transfer, or a tandem-meter error that bills another customer's usage to your account — suspect it if the usage profile doesn't match your daily routine. If you have ruled out every usage-related cause and believe the bill is in error, the utility's meter test, account audit, and complaint process are the first moves — the formal-dispute walkthrough (notice letter, evidence, PUC escalation) lives in [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/).
+In rare cases, a billing spike is caused by the utility assigning another customer's usage to your account:
+
+**Shared meters:** In multi-unit buildings, apartments, or condominiums, a shared meter that serves common areas may be billed to your account by mistake.
+
+**Meter misassignment:** During a meter replacement, software update, or account transfer, your meter reading may be cross-referenced with the wrong account number.
+
+**Tandem meter readings:** In some older installations, two meters share a single communication channel. A software error can assign one meter's data to the wrong account.
+
+If you suspect cross-billing, compare your usage pattern to your actual daily routine. If your bill shows 50 kWh per day but you are single, work outside the home, and have no major appliances running during the day, the usage profile does not match your lifestyle — a strong indicator of a billing error.
+
+## Step 12: File a Formal Dispute
+
+If you have ruled out all usage-related causes and believe the bill is in error, file a formal dispute:
+
+1. **Contact the utility's billing department in writing:** Send an email or letter (not just a phone call) describing the issue, the evidence you have gathered, and the resolution you are requesting. Keep a copy for your records.
+
+2. **Request a meter test and account audit:** Ask the utility to verify your meter number, test the meter, and audit your account for errors.
+
+3. **Escalate to the public utility commission:** If the utility does not resolve the issue within <strong>30 days</strong> (or sooner in emergency situations), file a complaint with your state PUC. PUC complaints are taken seriously, and utilities are required to respond within specified timelines.
+
+4. **Document everything:** Keep copies of all bills, correspondence, meter readings, and technician reports. This documentation is essential if the dispute escalates.
 
 ## How to Audit Your Electricity Usage
 

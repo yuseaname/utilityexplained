@@ -136,6 +136,8 @@ Start with equipment that is easy to observe and safe to switch off, such as sel
 
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
+For the full savings workflow beyond standby power, see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+
 ## Sources
 
 1. [U.S. Department of Energy: Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power)

@@ -63,7 +63,7 @@ Before you can lower your bill, you need to know what's driving it. For most U.S
 | **Lighting** | 50–80 | 6–10% | $70–$120 |
 | **Electronics/phantom loads** | 30–60 | part of EIA's 23% "other devices" category | $50–$100 |
 
-**The average US household:** roughly 899 kWh/month (EIA FAQ) with an average bill of $144/month in 2024 (U.S. EIA, Today in Energy). At mid-2026 national rates of roughly 17–18¢/kWh, the same usage typically lands in the **$150–$165/month** range.
+**The average US household:** roughly 899 kWh/month (EIA FAQ) with an average bill of $144/month in 2024 (U.S. EIA, Today in Energy). At the June 2026 national average of **18.34¢/kWh** (EIA), the same usage lands at **$164.88/month** — 899 × $0.1834. Our [average utility bills by state](/blog/average-utility-bills-by-state-2026/) page breaks this down state by state.
 
 **Your actual bill depends on:**
 - Climate (heating/cooling degree days)
