@@ -11,7 +11,7 @@ tags: ["heat pump", "furnace", "therms", "kwh", "afue"]
 keywords: ["heat pump savings", "gas furnace", "therms", "kwh usage", "hvac efficiency ratings"]
 image: "/images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_v2.webp"
 sources:
-  - https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now
+  - https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

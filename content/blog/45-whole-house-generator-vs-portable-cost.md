@@ -1,5 +1,5 @@
 ---
-title: "Whole House Generator vs Portable: True Cost, Safety, and Scope"
+title: "Whole House Generator vs Portable: True Cost"
 slug: "45-whole-house-generator-vs-portable-cost"
 description: "Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote review."
 date: 2026-05-30
@@ -14,12 +14,12 @@ sources:
   - https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-of-Generator-Carbon-Monoxide-and-Fire-Hazards-Ahead-of-Hurricane-Season
   - https://www.cpsc.gov/Newsroom/News-Releases/2024/As-Winter-Storms-Continue-CPSC-Urges-Families-to-Take-Steps-to-Prevent-Carbon-Monoxide-Poisoning-and-Fires
   - https://www.cpsc.gov/Safety-Education/Safety-Guides/Carbon-Monoxide-Home/Generators-and-Engine-Driven-Tools
-  - https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators
-  - https://azdcelectric.com/generator-interlock-kit-vs-transfer-switch/
-  - https://www.consumerreports.org/home-garden/generators/portable-vs-standby-generator-which-is-right-for-your-home-a1183970467/
-  - https://www.generac.com/resources/home-management/backup-generator-installation/
-  - https://norwall.com/categories/standby-generators/generac-guardian-generators/
-  - https://www.bobvila.com/exterior/portable-vs-standby-generators-for-home/
+  - https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators (retrieved 2026-08-29)
+  - https://azdcelectric.com/generator-interlock-kit-vs-transfer-switch/ (retrieved 2026-08-29)
+  - https://www.consumerreports.org/home-garden/generators/portable-vs-standby-generator-which-is-right-for-your-home-a1183970467/ (retrieved 2026-08-29)
+  - https://www.generac.com/resources/home-management/backup-generator-installation/ (retrieved 2026-08-29)
+  - https://norwall.com/categories/standby-generators/generac-guardian-generators/ (retrieved 2026-08-29)
+  - https://www.bobvila.com/exterior/portable-vs-standby-generators-for-home/ (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

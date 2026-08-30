@@ -12,9 +12,9 @@ keywords: ["utility reconnection fee", "restore utility service", "utility shuto
 image: "/images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp"
 og_image: "/images/social/og-reconnection-fee.webp"
 sources:
-  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
-  - https://www.acf.hhs.gov/ocs/programs/liheap
-  - https://www.energy.gov/save/home-upgrades
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
+  - https://www.acf.hhs.gov/ocs/programs/liheap (retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

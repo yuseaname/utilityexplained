@@ -13,8 +13,8 @@ image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.w
 og_image: "/images/social/og-water-bill-too-high.webp"
 hero_below_answer: true
 sources:
-  - https://www.epa.gov/watersense/statistics-and-facts
-  - https://www.epa.gov/watersense/home-maintenance
+  - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

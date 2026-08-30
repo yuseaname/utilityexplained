@@ -11,8 +11,8 @@ tags: ["duct leaks", "uneven heating", "duct sealing", "duct blaster", "hvac"]
 keywords: ["duct leak symptoms", "uneven heating rooms", "hvac runs all day", "duct leakage testing", "duct sealing"]
 image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_v2.webp"
 sources:
-  - https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
+  - https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

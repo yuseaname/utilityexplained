@@ -11,7 +11,7 @@ tags: ["budget", "apartment", "deposit", "leak", "budget billing"]
 keywords: ["utility budget", "apartment utility costs", "utility deposit", "hidden costs", "budget billing plan"]
 image: "/images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_v2.webp"
 sources:
-  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

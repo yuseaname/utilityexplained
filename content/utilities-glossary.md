@@ -12,7 +12,7 @@ url: "/utilities-glossary"
 <h2>Electricity Terms</h2>
 <h3 id="afue">AFUE (Annual Fuel Utilization Efficiency)</h3>
 <p>
-A percentage that measures how efficiently a furnace or boiler converts fuel into heat. A 95% AFUE furnace converts 95% of fuel into usable heat, with only 5% lost through the exhaust. Higher AFUE means lower fuel costs. See more in our heating and cooling guide.
+A percentage that measures how efficiently a furnace or boiler converts fuel into heat. A 95% AFUE furnace converts 95% of fuel into usable heat, with only 5% lost through the exhaust. Higher AFUE means lower fuel costs. See more in our heating and cooling guide. Read the full guide: <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">the afue explainer</a>.
 </p>
 <h3 id="amps">Amps (Amperes)</h3>
 <p>
@@ -24,15 +24,15 @@ The minimum amount of electricity your home uses continuously, even when major a
 </p>
 <h3 id="demand-charge">Demand charge</h3>
 <p>
-A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking.
+A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking. Read the full guide: <a href="/blog/49-demand-charges-electricity-bill-explained/">the demand charge explainer</a>.
 </p>
 <h3 id="delivery-charge">Delivery charge (Distribution charge)</h3>
 <p>
-The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Learn more in our electricity guide.
+The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Learn more in our electricity guide. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
 </p>
 <h3 id="energy-charge">Energy charge (Supply charge)</h3>
 <p>
-The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill.
+The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
 </p>
 <h3 id="kilowatt">Kilowatt (kW)</h3>
 <p>
@@ -60,7 +60,7 @@ A measure of how efficiently electrical power is used. Mostly relevant for indus
 </p>
 <h3 id="seer">SEER (Seasonal Energy Efficiency Ratio)</h3>
 <p>
-A rating for air conditioners and heat pumps in cooling mode. Higher SEER means better efficiency and lower operating costs. Modern units range from 13 to 25 SEER. Learn more in our HVAC guide.
+A rating for air conditioners and heat pumps in cooling mode. Higher SEER means better efficiency and lower operating costs. Modern units range from 13 to 25 SEER. Learn more in our HVAC guide. Read the full guide: <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">afue vs seer vs hspf vs cop</a>.
 </p>
 <h3 id="time-of-use">Time-of-use (TOU) pricing</h3>
 <p>
@@ -77,11 +77,11 @@ A unit of heat energy. One BTU is the energy needed to raise one pound of water 
 </p>
 <h3 id="ccf">CCF (Hundred Cubic Feet)</h3>
 <p>
-A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and convert to therms using a factor based on the gas's energy content.
+A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and convert to therms using a factor based on the gas's energy content. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">CCF on a water bill</a>.
 </p>
 <h3 id="commodity-charge">Commodity charge</h3>
 <p>
-Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees.
+Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
 </p>
 <h3 id="conversion-factor">Conversion factor</h3>
 <p>
@@ -93,28 +93,28 @@ A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, 
 </p>
 <h3 id="mcf">MCF (Thousand Cubic Feet)</h3>
 <p>
-A volume unit equal to 1,000 cubic feet of gas. Less common for residential billing but used in some regions.
+A volume unit equal to 1,000 cubic feet of gas. Less common for residential billing but used in some regions. Read the full guide: <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">the mcf explainer</a>.
 </p>
 <h3 id="therm">Therm</h3>
 <p>
-A unit of heat energy equal to 100,000 BTUs. Natural gas bills usually charge per therm. See detailed examples in our gas bill guide.
+A unit of heat energy equal to 100,000 BTUs. Natural gas bills usually charge per therm. See detailed examples in our gas bill guide. Read the full guide: <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">the therm explainer</a>.
 </p>
 <h2>Water & Sewer Terms</h2>
 <h3 id="ccf-water">CCF (Hundred Cubic Feet)</h3>
 <p>
-A volume unit used for water billing. One CCF equals 100 cubic feet, or about 748 gallons.
+A volume unit used for water billing. One CCF equals 100 cubic feet, or about 748 gallons. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what is ccf on a water bill</a>.
 </p>
 <h3 id="cubic-foot">Cubic foot</h3>
 <p>
-A volume unit. One cubic foot of water equals 7.48 gallons. Some water meters measure in cubic feet.
+A volume unit. One cubic foot of water equals 7.48 gallons. Some water meters measure in cubic feet. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what is ccf on a water bill</a>.
 </p>
 <h3 id="gallon">Gallon</h3>
 <p>
-A volume unit. Most water usage is measured in gallons or converted from cubic feet. One gallon equals 0.1337 cubic feet.
+A volume unit. Most water usage is measured in gallons or converted from cubic feet. One gallon equals 0.1337 cubic feet. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what is ccf on a water bill</a>.
 </p>
 <h3 id="kgal">kgal (Thousand Gallons)</h3>
 <p>
-A volume unit equal to 1,000 gallons. Some water utilities use kgal as the billing unit.
+A volume unit equal to 1,000 gallons. Some water utilities use kgal as the billing unit. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what is ccf on a water bill</a>.
 </p>
 <h3 id="meter-reading">Meter reading</h3>
 <p>
@@ -143,7 +143,7 @@ A system that cools air at a central unit and distributes it through ducts. Serv
 </p>
 <h3 id="cop">COP (Coefficient of Performance)</h3>
 <p>
-A ratio measuring heat pump efficiency. COP is heat delivered divided by electricity used. A COP of 3 means the system delivers 3 units of heat for every 1 unit of electricity.
+A ratio measuring heat pump efficiency. COP is heat delivered divided by electricity used. A COP of 3 means the system delivers 3 units of heat for every 1 unit of electricity. Read the full guide: <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">afue vs seer vs hspf vs cop</a>.
 </p>
 <h3 id="ductless">Ductless mini-split</h3>
 <p>
@@ -151,15 +151,15 @@ A heating and cooling system with an outdoor compressor and one or more indoor a
 </p>
 <h3 id="furnace">Furnace</h3>
 <p>
-A heating system that burns fuel (gas, oil) or uses electricity to heat air, which is then distributed through ducts.
+A heating system that burns fuel (gas, oil) or uses electricity to heat air, which is then distributed through ducts. Read the full guide: <a href="/blog/why-is-my-furnace-blowing-cold-air/">why is my furnace blowing cold air</a>.
 </p>
 <h3 id="heat-pump">Heat pump</h3>
 <p>
-A system that moves heat rather than creates it. In summer, it cools like an air conditioner. In winter, it extracts heat from outdoor air and moves it indoors. More efficient than electric resistance heat. See our heating and cooling comparison.
+A system that moves heat rather than creates it. In summer, it cools like an air conditioner. In winter, it extracts heat from outdoor air and moves it indoors. More efficient than electric resistance heat. See our heating and cooling comparison. Read the full guide: <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">48 heat pump vs gas furnace savings</a>.
 </p>
 <h3 id="hspf">HSPF (Heating Seasonal Performance Factor)</h3>
 <p>
-A rating for heat pumps in heating mode. Higher HSPF means better efficiency and lower electricity costs.
+A rating for heat pumps in heating mode. Higher HSPF means better efficiency and lower electricity costs. Read the full guide: <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">afue vs seer vs hspf vs cop</a>.
 </p>
 <h3 id="hvac">HVAC</h3>
 <p>
@@ -192,7 +192,7 @@ A program that averages your annual usage and charges the same amount each month
 </p>
 <h3 id="billing-cycle">Billing cycle (Billing period)</h3>
 <p>
-The time span covered by a utility bill, usually 28 to 35 days. Compare bills by usage per day to account for varying cycle lengths.
+The time span covered by a utility bill, usually 28 to 35 days. Compare bills by usage per day to account for varying cycle lengths. Read the full guide: <a href="/blog/23-utility-billing-cycle-explained/">23 utility billing cycle explained</a>.
 </p>
 <h3 id="deregulated-market">Deregulated market</h3>
 <p>
@@ -200,7 +200,7 @@ A region where you can choose your energy supplier for the commodity portion of 
 </p>
 <h3 id="fixed-rate">Fixed rate</h3>
 <p>
-A rate plan that locks in the price per unit for a set term, usually 6 to 24 months. Provides price stability. See our rate comparison guide.
+A rate plan that locks in the price per unit for a set term, usually 6 to 24 months. Provides price stability. See our rate comparison guide. Read the full guide: <a href="/blog/which-rate-plan-is-right-for-me/">which rate plan is right for me</a>.
 </p>
 <h3 id="variable-rate">Variable rate</h3>
 <p>

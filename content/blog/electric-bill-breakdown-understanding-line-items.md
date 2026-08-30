@@ -11,10 +11,10 @@ tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"
 keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charge utility", "utility surcharge"]
 image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp"
 sources:
-  - https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php
-  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
-  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
-  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs
+  - https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php (retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

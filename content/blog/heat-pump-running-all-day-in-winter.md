@@ -1,10 +1,13 @@
 ---
-title: "Heat Pump Running All Day in Winter? What Is Normal vs a Problem"
+title: "Heat Pump Running All Day in Winter: Normal or Not?"
 slug: "heat-pump-running-all-day-in-winter"
 description: "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check."
 date: 2025-12-27
 updated: 2026-08-21
 author: "Roberto Mendoza"
+sources:
+  - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]

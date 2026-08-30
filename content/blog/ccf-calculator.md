@@ -1,5 +1,5 @@
 ---
-title: "CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars"
+title: "CCF Calculator: Water Bill Units to Gallons + Dollars"
 slug: "ccf-calculator"
 description: "Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's gallons-per-person-day baseline."
 date: 2026-08-28
@@ -13,8 +13,8 @@ image: "/images/articles/ccf-calculator/ccf-conversion-chain.webp"
 image_alt: "A CCF conversion chain showing one CCF becoming 748 gallons and then a water-use cost calculation."
 og_image: "/images/social/og-ccf-calculator.webp"
 sources:
-  - https://www.epa.gov/watersense/understanding-your-water-bill
-  - https://www.epa.gov/watersense/how-watersense-calculator-works
+  - https://www.epa.gov/watersense/understanding-your-water-bill (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/how-watersense-calculator-works (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

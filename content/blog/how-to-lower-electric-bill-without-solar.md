@@ -12,15 +12,15 @@ tags: ["electric bill", "home energy assessment", "energy efficiency"]
 keywords: ["lower electric bill", "home energy assessment", "electricity use"]
 image: "/images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_v2.webp"
 sources:
-  - https://www.energy.gov/save/home-upgrades
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
   - https://www.energy.gov/save
-  - https://www.energystar.gov/saveathome/heating-cooling
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
-  - https://www.eia.gov/energyexplained/use-of-energy/homes.php
-  - https://www.eia.gov/tools/faqs/faq.php?id=97
-  - https://www.eia.gov/electricity/monthly/update/end-use.php
-  - https://www.epa.gov/watersense/showerheads
-  - https://www.energystar.gov/products/dishwashers
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+  - https://www.eia.gov/energyexplained/use-of-energy/homes.php (retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97 (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/showerheads (retrieved 2026-08-29)
+  - https://www.energystar.gov/products/dishwashers (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

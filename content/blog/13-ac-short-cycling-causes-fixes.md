@@ -11,9 +11,9 @@ tags: ["HVAC", "air conditioning", "maintenance"]
 keywords: ["AC short cycling", "AC turning on and off", "air conditioner service"]
 image: "/images/articles/ac-short-cycling-causes-fixes/image.webp"
 sources:
-  - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance
-  - https://bsesc.energy.gov/sites/default/files/HVAC+Systems+-+System+Sizing+-+Understand.docx
-  - https://www.energy.gov/save/home-upgrades
+  - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance (retrieved 2026-08-29)
+  - https://web.archive.org/web/20250614182054/https://bsesc.energy.gov/sites/default/files/HVAC%20Systems%20-%20System%20Sizing%20-%20Understand.docx (DOE Building Science; archived 2025-06-14, retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
 ---
 
 ## Quick Answer
@@ -98,4 +98,4 @@ Stop using the system and call a professional if you observe:
 ## Sources
 
 1. [U.S. Department of Energy Building Science Education: HVAC Preventative Maintenance](https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance)
-2. [U.S. Department of Energy Building Science Education: HVAC System Sizing](https://bsesc.energy.gov/sites/default/files/HVAC+Systems+-+System+Sizing+-+Understand.docx)
+2. [U.S. Department of Energy Building Science Education: HVAC System Sizing](https://web.archive.org/web/20250614182054/https://bsesc.energy.gov/sites/default/files/HVAC%20Systems%20-%20System%20Sizing%20-%20Understand.docx)

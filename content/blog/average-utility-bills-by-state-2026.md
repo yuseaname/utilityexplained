@@ -6,11 +6,11 @@ description: "What US households pay for utilities in 2026: the narrow basket (e
 date: 2026-05-29
 updated: 2026-08-30
 sources:
-  - https://www.eia.gov/electricity/monthly/update/end-use.php
-  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
-  - https://www.eia.gov/electricity/sales_revenue_price/
-  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
-  - https://www.epa.gov/watersense/water-sense-program (EPA WaterSense, retrieved 2026-08-30)
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/sales_revenue_price/ (retrieved 2026-08-29)
+  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense (EPA WaterSense program home; retrieved 2026-08-29)
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]

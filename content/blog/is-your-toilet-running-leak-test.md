@@ -1,5 +1,5 @@
 ---
-title: "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+title: "Is Your Toilet Running? A Simple Leak Test"
 slug: "is-your-toilet-running-leak-test"
 description: "Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your meter and bill."
 date: 2025-12-25
@@ -11,8 +11,8 @@ tags: ["leak", "water bill", "water meter", "sewer", "ccf", "toilet flapper", "d
 keywords: ["running toilet leak test", "toilet dye test food coloring", "toilet flapper leak", "how much water does a running toilet waste", "running toilet water bill cost", "high water bill cause", "water meter leak indicator"]
 image: "/images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_v2.webp"
 sources:
-  - https://www.epa.gov/watersense/home-maintenance
-  - https://www.epa.gov/system/files/documents/2023-08/ws-homes-TRM-1-FreeofLeaksTechSheet.pdf
+  - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
+  - https://www.epa.gov/system/files/documents/2023-08/ws-homes-TRM-1-FreeofLeaksTechSheet.pdf (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

@@ -1,5 +1,5 @@
 ---
-title: "Water Meter Running When No Water Is Being Used: Causes and Fixes"
+title: "Water Meter Running When No Water Is Used"
 slug: "water-meter-running-when-no-water-used"
 description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
 date: 2026-05-27
@@ -11,8 +11,8 @@ tags: ["water bill", "leak", "gallons", "water meter"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "water meter running when no water used", "leaking toilet", "irrigation leak", "slab leak"]
 image: "/images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00002_.webp"
 sources:
-  - https://www.epa.gov/watersense/home-maintenance
-  - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices
+  - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

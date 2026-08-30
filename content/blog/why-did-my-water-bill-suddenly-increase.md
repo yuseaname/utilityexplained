@@ -11,8 +11,8 @@ tags: ["leak", "gallons", "water bill"]
 keywords: ["water leak detection", "gallons of water", "high water bill"]
 image: "/images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_v2.webp"
 sources:
-  - https://www.epa.gov/watersense/fix-leak-week
-  - https://www.epa.gov/watersense/how-we-use-water
+  - https://www.epa.gov/watersense/fix-leak-week (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/how-we-use-water (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

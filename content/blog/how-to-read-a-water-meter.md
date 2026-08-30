@@ -11,8 +11,8 @@ tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "ccf"]
 image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_v2.webp"
 sources:
-  - https://water.usgs.gov/water-basics_glossary.html
-  - https://www.epa.gov/watersense/getting-started
+  - https://water.usgs.gov/water-basics_glossary.html (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/getting-started (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

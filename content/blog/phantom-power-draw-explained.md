@@ -14,8 +14,8 @@ sources:
   - https://www.energy.gov/cmei/femp/measuring-standby-power
   - https://www.energy.gov/cmei/femp/low-standby-power-products
   - https://betterbuildingssolutioncenter.energy.gov/beat-blog/a-tale-two-tiers-advanced-power-strips-commercial-buildings
-  - https://en.wikipedia.org/wiki/Standby_power
-  - https://www.energystar.gov/products/electronics
+  - https://en.wikipedia.org/wiki/Standby_power (retrieved 2026-08-29)
+  - https://web.archive.org/web/20220104172640/https://www.energystar.gov/products/electronics (ENERGY STAR; archived 2022-01-04, retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -123,4 +123,4 @@ For a broader household review, see [how to lower utility bills](/blog/05-how-to
 2. [U.S. Department of Energy: Low Standby Power Products](https://www.energy.gov/cmei/femp/low-standby-power-products)
 3. [U.S. Department of Energy Better Buildings: Advanced Power Strips](https://betterbuildingssolutioncenter.energy.gov/beat-blog/a-tale-two-tiers-advanced-power-strips-commercial-buildings)
 4. [Wikipedia: Standby Power — Magnitude](https://en.wikipedia.org/wiki/Standby_power#Magnitude) (cites 32–87 W/home, 3–10% of residential consumption, studies from California Energy Commission, IEA, and national energy agencies)
-5. [ENERGY STAR: Electronics](https://www.energystar.gov/products/electronics)
+5. [ENERGY STAR: Electronics](https://web.archive.org/web/20220104172640/https://www.energystar.gov/products/electronics)

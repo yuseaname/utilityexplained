@@ -13,11 +13,11 @@ image: "/images/articles/gadgets-that-lower-utility-bills/gadget-workbench.webp"
 image_alt: "An organized workbench with a smart thermostat, power meter, energy monitor, smart plug, and water leak sensor."
 og_image: "/images/social/og-utility-gadgets.webp"
 sources:
-  - https://www.energy.gov/energysaver/shopping-appliances-and-electronics?nrg_redirect=367177
-  - https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459
-  - https://www.energy.gov/save/home-upgrades
-  - https://www.energystar.gov/products/electronics
-  - https://www.eia.gov/consumption/residential/
+  - https://web.archive.org/web/20260610215510/https://www.energy.gov/energysaver/shopping-appliances-and-electronics (DOE Energy Saver; archived 2026-06-10, retrieved 2026-08-29)
+  - https://www.energy.gov/energysaver (DOE Energy Saver hub — assessments page retired; retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+  - https://web.archive.org/web/20220104172640/https://www.energystar.gov/products/electronics (ENERGY STAR; archived 2022-01-04, retrieved 2026-08-29)
+  - https://www.eia.gov/consumption/residential/ (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -130,8 +130,8 @@ For a broader starting point, see [how to read your electric bill](/blog/01-how-
 
 ## Sources
 
-1. [U.S. Department of Energy: Shopping for Appliances and Electronics](https://www.energy.gov/energysaver/shopping-appliances-and-electronics?nrg_redirect=367177)
-2. [U.S. Department of Energy: Professional Home Energy Assessments](https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459)
+1. [U.S. Department of Energy: Shopping for Appliances and Electronics](https://web.archive.org/web/20260610215510/https://www.energy.gov/energysaver/shopping-appliances-and-electronics)
+2. [U.S. Department of Energy: Professional Home Energy Assessments](https://www.energy.gov/energysaver)
 3. [U.S. Department of Energy: Home Upgrades](https://www.energy.gov/save/home-upgrades)
-4. [ENERGY STAR: Products](https://www.energystar.gov/products/electronics)
+4. [ENERGY STAR: Products](https://web.archive.org/web/20220104172640/https://www.energystar.gov/products/electronics)
 5. [U.S. Energy Information Administration: Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/)

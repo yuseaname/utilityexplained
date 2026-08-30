@@ -11,11 +11,11 @@ tags: ["programmable thermostat", "thermostat setback", "heating bill"]
 keywords: ["programmable thermostat savings", "thermostat setback", "heating bills"]
 image: "/images/articles/do-programmable-thermostats-cut-heating-bills/custom_hero.webp"
 sources:
-  - https://www.energy.gov/energysaver/thermostats/
-  - https://www.energy.gov/save/home-upgrades
-  - https://store.google.com/us/product/nest_learning_thermostat_4th_gen
-  - https://www.energystar.gov/products/thermostats
-  - https://bsesc.energy.gov/training-modules/hvac-thermostats-heat-pumps-and-dual-fuel-heat-pumps
+  - https://www.energystar.gov/products/smart_thermostats (ENERGY STAR smart thermostats; retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+  - https://store.google.com/us/product/nest_learning_thermostat_4th_gen (retrieved 2026-08-29)
+  - https://www.energystar.gov/products/smart_thermostats (ENERGY STAR smart thermostats; retrieved 2026-08-29)
+  - https://bsesc.energy.gov/training-modules/hvac-thermostats-heat-pumps-and-dual-fuel-heat-pumps (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -94,8 +94,8 @@ For heat pumps and dual-fuel systems, use a thermostat and settings appropriate 
 
 ## Sources
 
-1. [U.S. Department of Energy: Programmable Thermostats](https://www.energy.gov/energysaver/thermostats/)
+1. [U.S. Department of Energy: Programmable Thermostats](https://www.energystar.gov/products/smart_thermostats)
 2. [U.S. Department of Energy: Home Upgrades — Thermostat Savings](https://www.energy.gov/save/home-upgrades)
 3. [Google Store: Nest Learning Thermostat (4th gen) — savings figures published by Google for this product](https://store.google.com/us/product/nest_learning_thermostat_4th_gen)
-4. [ENERGY STAR: Smart Thermostats](https://www.energystar.gov/products/thermostats)
+4. [ENERGY STAR: Smart Thermostats](https://www.energystar.gov/products/smart_thermostats)
 5. [U.S. Department of Energy: Thermostats for Heat Pumps and Dual-Fuel Heat Pumps](https://bsesc.energy.gov/training-modules/hvac-thermostats-heat-pumps-and-dual-fuel-heat-pumps)

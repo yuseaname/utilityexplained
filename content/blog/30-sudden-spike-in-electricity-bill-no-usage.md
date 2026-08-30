@@ -1,15 +1,15 @@
 ---
-title: "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+title: "Sudden Spike in Electricity Bill, No Usage Change"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
 updated: 2026-08-29
 author: "Tanya Patterson"
 sources:
-  - https://www.eia.gov/electricity/monthly/update/end-use.php
-  - https://www.energy.gov/save/home-upgrades
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
-  - https://www.energystar.gov/saveathome/heating-cooling
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]

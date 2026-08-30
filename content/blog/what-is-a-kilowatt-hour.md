@@ -11,7 +11,7 @@ tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery char
 keywords: ["kwh usage", "high electric bill", "ac not cooling", "energy efficient space heater", "delivery charge"]
 image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2.webp"
 sources:
-  - https://www.eia.gov/tools/glossary/index.php?id=K
+  - https://www.eia.gov/tools/glossary/index.php?id=K (retrieved 2026-08-29)
 ---
 
 <h2 id="quick-answer">The short answer (what a kWh really means)</h2>

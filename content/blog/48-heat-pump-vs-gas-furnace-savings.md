@@ -11,19 +11,19 @@ tags: ["heat pump", "gas furnace", "heating system"]
 keywords: ["heat pump versus gas furnace", "heating system comparison", "heat pump planning"]
 image: "/images/articles/48-heat-pump-vs-gas-furnace-savings/custom_hero.webp"
 sources:
-  - https://www.ahrinet.org/2023-energy-efficiency-standards
+  - https://www.ahrinet.org/2023-energy-efficiency-standards (retrieved 2026-08-29)
   - https://www.energy.gov/heat-pumps
-  - https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-furnaces
-  - https://www.energystar.gov/products/furnaces/key_product_criteria
-  - https://neep.org/heating-electrification/ccashp-specification-product-list
-  - https://www.mitsubishicomfort.com/articles/introducing-deluxe-wall-mounted-h2i-plus-system
-  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03
-  - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm
-  - https://www.eia.gov/outlooks/steo/report/winterfuels.php
-  - https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit
-  - https://www.trane.com/residential/en/pricing/pricing-guide/
-  - https://www.carrier.com/us/en/residential/hvac-resources/heat-pumps/how-much-does-a-heat-pump-cost/
-  - https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems
+  - https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-furnaces (retrieved 2026-08-29)
+  - https://www.energystar.gov/products/furnaces/key_product_criteria (retrieved 2026-08-29)
+  - https://neep.org/heating-electrification/ccashp-specification-product-list (retrieved 2026-08-29)
+  - https://www.mitsubishicomfort.com/articles/introducing-deluxe-wall-mounted-h2i-plus-system (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03 (retrieved 2026-08-29)
+  - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm (retrieved 2026-08-29)
+  - https://www.eia.gov/outlooks/steo/report/winterfuels.php (retrieved 2026-08-29)
+  - https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit (retrieved 2026-08-29)
+  - https://www.trane.com/residential/en/pricing/pricing-guide/ (retrieved 2026-08-29)
+  - https://www.carrier.com/us/en/residential/hvac-resources/heat-pumps/how-much-does-a-heat-pump-cost/ (retrieved 2026-08-29)
+  - https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

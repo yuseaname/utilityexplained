@@ -12,12 +12,12 @@ tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]
 keywords: ["how to read electric bill", "understand electricity bill", "kWh charges", "electric bill explained", "utility bill breakdown"]
 image: "/images/articles/01-how-to-read-your-electric-bill/statement-ledger-hero.webp"
 sources:
-  - https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php
-  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7
-  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs
-  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/contacting-your-utility-provider
-  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
-  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use
+  - https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php (retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs (retrieved 2026-08-29)
+  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/contacting-your-utility-provider (retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use (retrieved 2026-08-29)
   - https://www.puc.texas.gov/consumer-help/electricity/electric-plan/
 ---
 

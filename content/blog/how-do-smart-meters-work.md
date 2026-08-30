@@ -12,8 +12,8 @@ tags: ["electric bill", "smart meter", "kwh", "estimated bill"]
 keywords: ["high electric bill", "smart meter accuracy", "kwh usage", "estimated utility bill"]
 image: "/images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_v2.webp"
 sources:
-  - https://www.energy.gov/oe/grid-modernization-and-smart-grid
-  - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php
+  - https://www.energy.gov/oe/grid-modernization-and-smart-grid (retrieved 2026-08-29)
+  - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php (retrieved 2026-08-29)
 ---
 
 <h2 id="quick-answer">Quick Answer</h2>

@@ -5,6 +5,10 @@ description: "20+ proven ways to lower your electric bill, organized by cost, wi
 date: 2026-08-10
 updated: 2026-08-29
 author: "David Chen"
+sources:
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (EIA Electric Power Monthly residential prices, retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
 tags: ["lower electric bill", "save electricity", "energy efficiency", "reduce electric bill", "energy savings"]

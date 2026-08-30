@@ -11,9 +11,9 @@ tags: ["billing cycle", "utility bill dates", "utility bill"]
 keywords: ["utility billing cycle", "utility bill period", "utility service dates"]
 image: "/images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp"
 sources:
-  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq
-  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter
-  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq (retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (retrieved 2026-08-29)
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

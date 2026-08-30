@@ -11,17 +11,17 @@ tags: ["ductless", "mini-split", "central air", "hvac sizing"]
 keywords: ["ductless mini split vs central air", "mini split", "central air", "hvac sizing"]
 image: "/images/articles/ductless-mini-split-vs-central-air/image.webp"
 sources:
-  - https://www.ecfr.gov/current/title-10/chapter-II/subchapter-D/part-430/subpart-C/section-430.32
-  - https://www.energystar.gov/products/air_source_heat_pumps/key-product-criteria
-  - https://data.energystar.gov/resource/w7cv-9xjt.json
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
-  - https://www.energystar.gov/products/ductless_heating_cooling
-  - https://neep.org/heating-electrification/ccashp-specification-product-list
-  - https://www.masssave.com/residential/rebates-offers-services/heating-and-cooling/heat-pumps/air-source-heat-pumps
-  - https://www.energystar.gov/about/federal-tax-credits/air-source-heat-pumps
-  - https://www.nbpower.com/en/save-energy/tips/heating-and-cooling/heat-pump-maintenance/
-  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/ductless_minisplit_hp.pdf
-  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/strategy_guide_hvac_sizing.pdf
+  - https://www.ecfr.gov/current/title-10/chapter-II/subchapter-D/part-430/subpart-C/section-430.32 (retrieved 2026-08-29)
+  - https://www.energystar.gov/products/air_source_heat_pumps/key-product-criteria (retrieved 2026-08-29)
+  - https://data.energystar.gov/resource/w7cv-9xjt.json (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+  - https://www.energystar.gov/products/ductless_heating_cooling (retrieved 2026-08-29)
+  - https://neep.org/heating-electrification/ccashp-specification-product-list (retrieved 2026-08-29)
+  - https://www.masssave.com/residential/rebates-offers-services/heating-and-cooling/heat-pumps/air-source-heat-pumps (retrieved 2026-08-29)
+  - https://www.energystar.gov/about/federal-tax-credits/air-source-heat-pumps (retrieved 2026-08-29)
+  - https://www.nbpower.com/en/save-energy/tips/heating-and-cooling/heat-pump-maintenance/ (retrieved 2026-08-29)
+  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/ductless_minisplit_hp.pdf (retrieved 2026-08-29)
+  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/strategy_guide_hvac_sizing.pdf (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

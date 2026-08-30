@@ -12,12 +12,12 @@ keywords: ["utility bill charges explained", "electric bill fees", "utility surc
 image: "/images/articles/04-hidden-fees-utility-bill/custom_hero.webp"
 og_image: "/images/social/og-hidden-utility-fees.webp"
 sources:
-  - https://www.eia.gov/electricity/data.php
-  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
-  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf
+  - https://www.eia.gov/electricity/data.php (retrieved 2026-08-29)
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
+  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf (retrieved 2026-08-29)
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
-  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
-  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

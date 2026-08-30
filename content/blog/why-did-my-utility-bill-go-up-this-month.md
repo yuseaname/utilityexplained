@@ -1,5 +1,5 @@
 ---
-title: "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
+title: "Why Did My Utility Bill Go Up This Month?"
 slug: "why-did-my-utility-bill-go-up-this-month"
 aliases: ["/blog/7-states-with-worst-utility-spikes-2026/", "/blog/why-your-electric-bill-keeps-rising-2026/"]
 description: "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections."
@@ -13,7 +13,7 @@ tags: ["estimated bill", "surcharge", "budget"]
 keywords: ["estimated utility bill", "utility surcharge", "utility budget"]
 image: "/images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-utility-bill-go-up-this-month_hero_v2.webp"
 sources:
-  - https://www.eia.gov/TODAYINENERGY/detail.php?id=62303
+  - https://www.eia.gov/TODAYINENERGY/detail.php?id=62303 (retrieved 2026-08-29)
 ---
 
 <h2 id="quick-answer">The short answer most people need</h2>

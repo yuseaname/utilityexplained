@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+title: "Net Metering: How Solar Affects Your Electric Bill"
 slug: "net-metering-explained"
 description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
 date: 2026-08-10
@@ -11,8 +11,8 @@ tags: ["net metering", "solar panels", "solar credits", "electric bill", "roofto
 keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering", "solar ROI"]
 image: "/images/articles/net-metering-explained/custom_hero.webp"
 sources:
-  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf
-  - https://www.energy.gov/cmei/systems/homeowners-guide-solar
+  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf (retrieved 2026-08-29)
+  - https://www.energy.gov/cmei/systems/homeowners-guide-solar (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

@@ -1,5 +1,5 @@
 ---
-title: "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
+title: "AFUE vs SEER vs HSPF vs COP, in Plain English"
 slug: "afue-vs-seer-vs-hspf-vs-cop"
 description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
 date: 2025-12-25
@@ -11,7 +11,7 @@ tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
 keywords: ["hvac efficiency ratings", "heat pump savings", "ac not cooling", "gas furnace", "duct leak symptoms"]
 image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_v2.webp"
 sources:
-  - https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf
+  - https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf (retrieved 2026-08-29)
 ---
 
 <h2 id="quick-answer">The short answer</h2>

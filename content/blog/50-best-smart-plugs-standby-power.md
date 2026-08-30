@@ -12,10 +12,10 @@ keywords: ["standby power", "smart plug energy monitoring", "advanced power stri
 image: "/images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp"
 sources:
   - https://www.energy.gov/cmei/femp/measuring-standby-power
-  - https://www.tp-link.com/us/home-networking/smart-plug/kp115/
-  - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/
-  - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/
-  - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide
+  - https://www.tp-link.com/us/home-networking/smart-plug/kp115/ (retrieved 2026-08-29)
+  - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/ (retrieved 2026-08-29)
+  - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/ (retrieved 2026-08-29)
+  - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

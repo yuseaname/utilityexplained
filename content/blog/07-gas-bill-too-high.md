@@ -7,13 +7,12 @@ date: 2026-03-07
 updated: 2026-08-30
 author: "Tanya Patterson"
 sources:
-  - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php
-  - https://www.energy.gov/save/home-upgrades
-  - https://www.energystar.gov/saveathome/heating-cooling
-  - https://www.energy.gov/energysaver/window-coverings (DOE Energy Saver: Window Coverings, retrieved 2026-08-30)
-  - https://www.energy.gov/save/home-upgrades
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
-  - https://www.energystar.gov/campaign/home_sealing
+  - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php (retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
+  - https://www.energy.gov/energysaver (DOE Energy Saver hub — window-coverings page retired; retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+  - https://www.energystar.gov/campaign/home_sealing (retrieved 2026-08-29)
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 'furnace efficiency', 'reduce gas bill']

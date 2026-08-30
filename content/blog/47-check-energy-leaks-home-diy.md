@@ -1,5 +1,5 @@
 ---
-title: "DIY Home Energy Audit: How to Start a Do-It-Yourself Assessment"
+title: "DIY Home Energy Audit: Start Your Own Assessment"
 slug: "47-check-energy-leaks-home-diy"
 description: "Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up work."
 date: 2026-05-30
@@ -11,13 +11,13 @@ tags: ["home energy assessment", "air leaks", "weatherization"]
 keywords: ["do it yourself home energy assessment", "air leaks home", "home weatherization"]
 image: "/images/articles/47-check-energy-leaks-home-diy/custom_hero.webp"
 sources:
-  - https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments?nrg_redirect=370169
-  - https://www.energy.gov/energysaver/air-sealing-your-home
-  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing
-  - https://www.energystar.gov/saveathome/seal_insulate
-  - https://standby.lbl.gov/
-  - https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459
-  - https://www.energy.gov/cmei/buildings/articles/home-energy-scores-surpass-250000
+  - https://web.archive.org/web/20260607180914/https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments (DOE Energy Saver; archived 2026-06-07, retrieved 2026-08-29)
+  - https://web.archive.org/web/20260627190912/https://www.energy.gov/energysaver/air-sealing-your-home (DOE Energy Saver; archived 2026-06-27, retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/seal_insulate (retrieved 2026-08-29)
+  - https://standby.lbl.gov/ (retrieved 2026-08-29)
+  - https://www.energy.gov/energysaver (DOE Energy Saver hub — assessments page retired; retrieved 2026-08-29)
+  - https://www.energy.gov/cmei/buildings/articles/home-energy-scores-surpass-250000 (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -121,10 +121,10 @@ Quantification and safety coverage: a blower-door test measures how tight the en
 
 ## Sources
 
-1. [U.S. Department of Energy: Do-It-Yourself Home Energy Assessments (walk-through steps; 5–30% draft-reduction range; attic hatch; filter guidance; refrigerator-gasket paper test)](https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments?nrg_redirect=370169)
-2. [U.S. Department of Energy: Air Sealing Your Home (pressurization test steps; incense/smoke test; leak-location checklist; leak-before-insulate rule)](https://www.energy.gov/energysaver/air-sealing-your-home)
+1. [U.S. Department of Energy: Do-It-Yourself Home Energy Assessments (walk-through steps; 5–30% draft-reduction range; attic hatch; filter guidance; refrigerator-gasket paper test)](https://web.archive.org/web/20260607180914/https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments)
+2. [U.S. Department of Energy: Air Sealing Your Home (pressurization test steps; incense/smoke test; leak-location checklist; leak-before-insulate rule)](https://web.archive.org/web/20260627190912/https://www.energy.gov/energysaver/air-sealing-your-home)
 3. [ENERGY STAR: Duct Sealing ("about 20 to 30 percent of the air…is lost"; mastic or metal tape, never duct tape)](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
 4. [ENERGY STAR: Seal and Insulate ("up to a 10% savings on your annual energy bills"); EPA average 15% heating/cooling, 11% total](https://www.energystar.gov/saveathome/seal_insulate)
 5. [Lawrence Berkeley National Laboratory: Standby Power (most devices <0.5 W; 5–10% of residential electricity; measured whole-home average ≈67 W)](https://standby.lbl.gov/)
-6. [U.S. Department of Energy: Professional Home Energy Assessments (blower door, duct leakage, combustion checks)](https://www.energy.gov/energysaver/professional-home-energy-assessments?nrg_redirect=308459)
+6. [U.S. Department of Energy: Professional Home Energy Assessments (blower door, duct leakage, combustion checks)](https://www.energy.gov/energysaver)
 7. [DOE: Home Energy Scores Surpass 250,000 (1–10 scale, ~1-hour assessment; typical $150–$350 program pricing)](https://www.energy.gov/cmei/buildings/articles/home-energy-scores-surpass-250000)

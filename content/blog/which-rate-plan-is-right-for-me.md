@@ -1,5 +1,5 @@
 ---
-title: "Which Rate Plan Is Right for Me? (Fixed vs Variable vs Time-of-Use)"
+title: "Which Rate Plan Is Right: Fixed vs Variable vs TOU"
 slug: "which-rate-plan-is-right-for-me"
 description: "A decision framework for residential utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before you switch."
 date: 2026-08-28
@@ -13,9 +13,9 @@ image: "/images/articles/which-rate-plan-is-right-for-me/rate-plan-decision-door
 image_alt: "Three labeled decision doors for fixed, variable, and time-of-use electricity plans."
 og_image: "/images/social/og-rate-plan-decision.webp"
 sources:
-  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
-  - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf
-  - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options (retrieved 2026-08-29)
+  - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

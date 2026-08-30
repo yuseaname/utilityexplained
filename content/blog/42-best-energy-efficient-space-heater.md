@@ -11,14 +11,14 @@ tags: ["space heater", "heater safety", "electricity use"]
 keywords: ["space heater safety", "portable electric heater", "space heater energy use"]
 image: "/images/articles/42-best-energy-efficient-space-heater/custom_hero.webp"
 sources:
-  - https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating
-  - https://www.energy.gov/energysaver/small-space-heaters
-  - https://www.energy.gov/save/home-upgrades
+  - https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating (retrieved 2026-08-29)
+  - https://web.archive.org/web/20260629195545/https://www.energy.gov/energysaver/small-space-heaters (DOE Energy Saver; archived 2026-06-29, retrieved 2026-08-29)
+  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
   - https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters
-  - https://www.nfpa.org/education-and-research/home-fire-safety/heating
-  - https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/
-  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03
-  - https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578
+  - https://www.nfpa.org/education-and-research/home-fire-safety/heating (retrieved 2026-08-29)
+  - https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/ (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03 (retrieved 2026-08-29)
+  - https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578 (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}
@@ -127,7 +127,7 @@ No. CPSC's guidance is to turn portable heaters off when you sleep and never con
 ## Sources
 
 1. [U.S. Department of Energy, Energy Saver: Electric Resistance Heating ("100% energy efficient"; zone heating >20%; thermostat guidance) — original URL removed by DOE; archived 2026-05-05](https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating)
-2. [U.S. Department of Energy: Small Space Heaters (certification, tip-over switch, wall-outlet guidance; convection vs. radiant)](https://www.energy.gov/energysaver/small-space-heaters)
+2. [U.S. Department of Energy: Small Space Heaters (certification, tip-over switch, wall-outlet guidance; convection vs. radiant)](https://web.archive.org/web/20260629195545/https://www.energy.gov/energysaver/small-space-heaters)
 3. [U.S. Consumer Product Safety Commission, Release 26-217 (Jan 2026): Keep Warm and Safe This Winter (~1,600 fires, ~70 deaths, ~150 injuries/yr, 2020–2022)](https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters)
 4. [NFPA: Home Heating Safety (2020–2024 averages: 37,365 fires, 417 deaths; space heaters ~30% of fires, 73% of deaths)](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
 5. [U.S. Fire Administration: Home Heating Fire Prevention (portable heaters 41% of fatal heating fires, 2017–2019)](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/)

@@ -1,5 +1,5 @@
 ---
-title: "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+title: "How Utility Rates, Fees, and Usage Work Together"
 slug: "how-utility-rates-fees-usage-work-together"
 description: "A plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
 date: 2026-01-15
@@ -11,7 +11,7 @@ tags: ["budget"]
 keywords: ["utility budget"]
 image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
 sources:
-  - https://www.eia.gov/todayinenergy/detail.php?id=65284
+  - https://www.eia.gov/todayinenergy/detail.php?id=65284 (retrieved 2026-08-29)
 ---
 
 ## Quick Answer

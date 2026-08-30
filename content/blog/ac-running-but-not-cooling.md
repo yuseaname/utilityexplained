@@ -5,6 +5,9 @@ description: "If your air conditioner is running but the house is still warm, th
 date: 2025-12-26
 updated: 2026-08-21
 author: "Roberto Mendoza"
+sources:
+  - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance (retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["air conditioner", "leak", "duct", "therms", "thermostat"]

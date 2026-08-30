@@ -1,5 +1,5 @@
 ---
-title: "Gas Delivery Charge vs Supply Charge: What You're Actually Paying For"
+title: "Gas Delivery Charge vs Supply Charge Explained"
 slug: "gas-delivery-charge-vs-supply-charge"
 description: "Check your gas bill the right way: what the supply charge pays for, what the delivery charge pays for, which one you can shop for, and a verified utility example."
 date: 2026-05-27

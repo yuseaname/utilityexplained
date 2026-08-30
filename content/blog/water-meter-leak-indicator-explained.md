@@ -1,5 +1,5 @@
 ---
-title: "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
+title: "Water Meter Leak Indicator: How to Spot a Hidden Leak"
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
@@ -11,7 +11,7 @@ tags: ["leak", "water meter", "water bill"]
 keywords: ["water leak detection", "water meter reading", "high water bill"]
 image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp"
 sources:
-  - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices
+  - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices (retrieved 2026-08-29)
 ---
 
 {{< affiliate-disclosure >}}

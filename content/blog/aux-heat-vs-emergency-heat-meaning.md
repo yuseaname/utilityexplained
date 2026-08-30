@@ -1,10 +1,13 @@
 ---
-title: "Aux Heat vs Emergency Heat: What They Mean on Your Thermostat (Plain English)"
+title: "Aux Heat vs Emergency Heat, in Plain English"
 slug: "aux-heat-vs-emergency-heat-meaning"
 description: "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode."
 date: 2025-12-25
 updated: 2026-08-21
 author: "Roberto Mendoza"
+sources:
+  - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["aux heat", "heat pump", "therms", "thermostat", "afue"]

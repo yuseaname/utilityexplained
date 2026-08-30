@@ -11,11 +11,11 @@ tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf", "frozen
 keywords: ["water leak detection", "high water bill", "estimated utility bill", "sewer averaging", "ccf", "frozen pipes winter"]
 image: "/images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_v2.webp"
 sources:
-  - https://www.epa.gov/watersense/how-we-use-water
-  - https://www.epa.gov/watersense/statistics-and-facts
-  - https://www.epa.gov/watersense/fixaleak
-  - https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html
-  - https://www.epa.gov/watersense/watersense-current-winter-2024
+  - https://www.epa.gov/watersense/how-we-use-water (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/fixaleak (retrieved 2026-08-29)
+  - https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/watersense-current-winter-2024 (retrieved 2026-08-29)
 ---
 
 <h2 id="problem">The problem: winter should be cheaper, but your bill went up</h2>

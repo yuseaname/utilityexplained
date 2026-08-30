@@ -1,5 +1,5 @@
 ---
-title: "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+title: "Taxes, Fees, and Charges on Your Utility Bill"
 slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
 description: "Review tax, fee, franchise, rider, credit, and other utility-bill lines — which authority sets each, how to verify the math, and what you can and can't dispute."
 date: 2026-05-28

@@ -1,5 +1,5 @@
 ---
-title: "Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use"
+title: "Sewer Averaging: Why Your Sewer Charge Ignores Summer"
 slug: "sewer-averaging-water-bill-explained"
 description: "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works with real city examples from Austin and San Antonio."
 date: 2025-12-27
@@ -11,7 +11,7 @@ tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]
 keywords: ["sewer charge water bill", "sewer averaging", "water leak detection", "ccf", "high water bill"]
 image: "/images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_v2.webp"
 sources:
-  - https://www.austintexas.gov/department/water/ (Austin Water 2025-2026 Residential Rates, retrieved 2026-08-29)
+  - https://web.archive.org/web/20200301101832/http://www.austintexas.gov:80/department/water (Austin Water; archived 2020-03-01, retrieved 2026-08-29)
   - https://www.saws.org/service/winter-averaging/ (San Antonio Water System Winter Averaging, retrieved 2026-08-29)
   - https://www.saws.org/service/water-sewer-rates/residential-water-service/ (SAWS Residential Water & Sewer Rates, retrieved 2026-08-29)
   - https://www.epa.gov/watersense/fixaleak (EPA WaterSense Fix a Leak Week, retrieved 2026-08-29)
@@ -131,7 +131,7 @@ No. Utilities use different windows, different rate structures, and different me
 
 ## Sources
 
-1. [Austin Water 2025–2026 Water & Wastewater Rates, Residential Wastewater Customers](https://www.austintexas.gov/department/water/) — wastewater averaging basis, tier rates ($6.30/$13.40 per 1,000 gal), monthly base charge ($11.26).
+1. [Austin Water 2025–2026 Water & Wastewater Rates, Residential Wastewater Customers](https://web.archive.org/web/20200301101832/http://www.austintexas.gov:80/department/water) — wastewater averaging basis, tier rates ($6.30/$13.40 per 1,000 gal), monthly base charge ($11.26).
 2. [San Antonio Water System — Winter Averaging](https://www.saws.org/service/winter-averaging/) — explains how winter averaging works, mid-November to mid-March window, tips to lower average.
 3. [SAWS Residential Water & Sewer Rates](https://www.saws.org/service/water-sewer-rates/residential-water-service/) — sewer availability charge ($10.00), volume charge ($2.539/1,000 gal), averaging window dates.
 4. [U.S. Environmental Protection Agency WaterSense — Fix a Leak Week](https://www.epa.gov/watersense/fixaleak) — household leaks waste 9,300+ gallons per year, fixable leaks save ~10% on water bills.

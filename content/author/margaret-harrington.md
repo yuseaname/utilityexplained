@@ -3,7 +3,7 @@ title: "Margaret Harrington — Bills & Rates Editor"
 slug: "margaret-harrington"
 description: "Margaret Harrington is an editor on the Utility Explained team, focusing on electricity, gas, and water bill structure and rate plans."
 date: 2026-08-10
-updated: 2026-08-12
+updated: 2026-08-30
 ---
 
 # Margaret Harrington
@@ -21,3 +21,5 @@ Margaret writes and reviews our electricity, gas, water, and billing-structure g
 ---
 
 *Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+Read the full guide: [The complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) is the desk's flagship piece. Its rate and usage figures come from the U.S. Energy Information Administration's Electric Power Monthly (eia.gov), cited with retrieval dates.

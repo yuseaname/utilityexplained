@@ -1,5 +1,5 @@
 ---
-title: "Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help"
+title: "Utility Assistance Programs: LIHEAP and Hardship Help"
 slug: "utility-assistance-programs-liheap"
 description: "Can't pay your utility bills? Here's everything you need to know about LIHEAP, utility hardship programs, payment plans, and shut-off prevention."
 date: 2026-08-10

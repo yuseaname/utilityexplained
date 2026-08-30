@@ -1,5 +1,5 @@
 ---
-title: "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+title: "Why Is My Water Bill Higher in Summer? 7 Causes"
 slug: "why-is-my-water-bill-higher-in-summer"
 description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
 date: 2025-12-26
@@ -11,9 +11,9 @@ tags: ["leak", "water bill", "ccf", "savings", "gallons"]
 keywords: ["water leak detection", "high water bill", "ccf", "lower utility bill", "gallons of water"]
 image: "/images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_v2.webp"
 sources:
-  - https://www.epa.gov/watersense/how-we-use-water
-  - https://www.epa.gov/watersense/statistics-and-facts
-  - https://www.epa.gov/watersense/fixaleak
+  - https://www.epa.gov/watersense/how-we-use-water (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/fixaleak (retrieved 2026-08-29)
 ---
 
 <h2 id="problem">The problem: summer arrives and your bill suddenly feels out of control</h2>

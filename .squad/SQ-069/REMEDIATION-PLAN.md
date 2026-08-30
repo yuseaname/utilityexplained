@@ -36,20 +36,20 @@ Cost discipline: ~13 images × ~0.042 cr ≈ 0.55 cr total. Balance checked firs
 - [x] P3.1 **Brief 5** `complete-guide-understanding-utility-bill` flagship rebuild (title realign, annotated bill, worked $164.84 example, FAQ schema; fold in `how-to-read-your-utility-bill` draft bones then `git rm` draft) — *(lieutenant)*
 - [x] P3.2 **Brief 1** `24-delivery-charge-vs-supply-charge` rebuild (3+-utility verified table, worked split, FAQ) — *(lieutenant #2)*
 - [x] P3.3 **Brief 2** `duct-leaks-symptoms` rebuild (symptom list, DIY checklist, runtime math table) — *(mason)*
-- [ ] P3.4 **Brief 3** `drought-surcharge` rebuild (named-utility drought-rate table, before/after delta) — *(mason)*
+- [x] P3.4 **Brief 3** `drought-surcharge` rebuild (named-utility drought-rate table, before/after delta) — *(mason)*
 - [x] P3.5 **Brief 4** `furnace-cold-air` spine-preserving rebuild (15-min check table, cost bands, 25C-ended note) — *(mason)*
-- [ ] P3.V Commander verification + build + **commit `feat: SQ-069 phase 3 — five brief-driven rebuilds`**
+- [x] P3.V Commander verification + build + **commit `feat: SQ-069 phase 3 — five brief-driven rebuilds`**
 
 ## PHASE 4 — Bulk & trust layer — *squad wave 3*
 - [x] P4.1 **Alt-text template fix**: card-image alt = guide title in layouts (kills all 252) — *(executor)*
 - [x] P4.2 **Title trims**: worst ~30 front-matter titles >60 chars — *(mason)*
-- [ ] P4.3 **Author pages ×5**: one concrete example guide + one real cited source per desk — *(mason)*
-- [ ] P4.4 **terms.md modernization** (disputes, jurisdiction, commercial terms, date sync) — *(lieutenant)*
+- [x] P4.3 **Author pages ×5**: one concrete example guide + one real cited source per desk — *(mason)*
+- [x] P4.4 **terms.md modernization** (disputes, jurisdiction, commercial terms, date sync) — *(lieutenant)*
 - [x] P4.5 **Corrections log**: first two entries (SQ-067 DOE-link fix; page-46 Con Ed correction) on corrections.md — *(lieutenant)*
 - [ ] P4.6 **Hub byline/updated template line** + electricity-hub duplicate-anchor dedupe — *(executor)*
-- [ ] P4.7 **Nits**: Hawaii FAQ $453/$324; flagship $144/$165; 07-gas duplicate source entries; glossary linkification; ccf-calculator links — *(mason)*
-- [ ] P4.8 **Retrieval-date backfill** batch 1 (top 15: YMYL + flagship pages) — *(mason + web)*
-- [ ] P4.9 **Retrieval-date backfill** batch 2 (next 15) — *(mason + web)*
+- [x] P4.7 **Nits**: Hawaii FAQ $453/$324; flagship $144/$165; 07-gas duplicate source entries; glossary linkification; ccf-calculator links — *(mason)*
+- [x] P4.8 **Retrieval-date backfill** batch 1 (top 15: YMYL + flagship pages) — *(mason + web)*
+- [x] P4.9 **Retrieval-date backfill** batch 2 (next 15) — *(mason + web)*
 - [x] P4.10 **Retrieval-date backfill** batch 3 (remaining ~14) + sources for 4 sourceless posts — *(mason + web)*
 - [ ] P4.V Commander verification + build + **commit**
 
