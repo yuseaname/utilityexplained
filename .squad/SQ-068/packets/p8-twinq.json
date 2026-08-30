@@ -1,0 +1,23 @@
+{
+  "role": "twin_q",
+  "mission": "Independent judgment pass: (1) derive the keyword-cannibalization map from front matter alone (titles + keywords + description first sentences across all 110 pages); (2) verdict the top-5 search-visibility blockers for this site; (3) adjudicate which pages are NET-NEGATIVE (worse than nothing: wrong intent, outdated data, or duplicative weight).",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). You derive INDEPENDENTLY — no other worker's output exists for you yet. Method: extract title+keywords+description from every page's front matter (grep across content/), cluster by target query, and judge overlap. Known suspects to adjudicate with evidence: delivery-vs-supply pairs (24-delivery-charge-vs-supply-charge-utility-bill vs supply-vs-delivery-charges-electricity vs gas-delivery-charge-vs-supply-charge vs how-utility-rates-fees-usage-work-together), customer-charge pair (17-what-is-customer-charge vs gas-customer-charge-explained), water-bill-higher summer/winter pair + why-did-my-water-bill-suddenly-increase + 06-water-bill-too-high + 44-how-to-lower-water-bill, read-your-bill set (01-how-to-read-your-electric-bill vs how-to-read-your-utility-bill vs complete-guide-understanding-utility-bill vs electric-bill-breakdown), state-data pair (2026-utility-cost-index-by-state vs average-utility-bills-by-state-2026), meter-reading trio, kWh pair (11-understanding-kwh-usage vs what-is-a-kilowatt-hour), bill-too-high set (03-why-is-my-electric-bill-so-high vs 30-sudden-spike vs why-did-my-utility-bill-go-up-this-month). For each: same-intent collision or genuinely distinct queries? Which page should WIN each contested query and what happens to the loser (consolidate/redirect/differentiate)? Tag everything [OBSERVED]/[INFERENCE]/[GAP].",
+  "known_facts": [
+    "aliases in front matter (e.g., 17- carries alias /blog/gas-customer-charge-explained/) indicate past consolidations — detect and respect these",
+    "Site goal: organic search traffic -> affiliate revenue (utility plan/monitoring products)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only; [OBSERVED]/[INFERENCE]/[GAP] tags mandatory",
+    "Every cannibalization verdict names the winner, the loser's disposition, and the deciding evidence"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "Cannibalization adjudication table for at least the 9 suspect sets + any you discover",
+    "Top-5 search-visibility blockers, ranked, each with evidence + confidence",
+    "Net-negative page list (or explicit finding that none qualify)"
+  ]
+}

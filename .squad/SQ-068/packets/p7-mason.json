@@ -1,0 +1,28 @@
+{
+  "role": "mason",
+  "mission": "Build the two bulk DATA ARTIFACTS of the audit, covering ALL 110 content pages: (A) Thin & Generic Content Register and (B) Visual Content Plan candidates. Write both as markdown to .squad/SQ-068/artifacts/.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). You are the bulk builder — coverage beats prose. Method per page (batch with shell loops, quote paths): word count (wc -w), front-matter title/description/date/updated/sources presence, heading structure (grep '^#'), Quick Answer block presence (grep 'Quick Answer'), tables (grep -c '^|'), calculator/interactive presence, cluster assignment. Read FULLY only pages your heuristics flag as borderline or weak; skim the rest structurally. Judge action by intent satisfaction, never length alone.\nARTIFACT A — .squad/SQ-068/artifacts/register-thin-generic.md: one row per page (all 110): page path | words | cluster | action (EXACT vocabulary: improve-and-retain | rewrite | expand | consolidate | redirect | remove-or-noindex | retain) | one-line reason. Below the table: a consolidated list per action label. Flag near-duplicate/templated page GROUPS for consolidation candidates (e.g., overlapping fee explainers, summer/winter water pairs, delivery-vs-supply pairs).\nARTIFACT B — .squad/SQ-068/artifacts/visual-plan-candidates.md: top ~20 pages where a specific visual would materially improve comprehension, credibility, or decisions. Per entry: page | asset type (chart/diagram/annotated example/calculator/comparison table/video) | what it shows | placement (after which section) | confusion it resolves | original/sourced/designed | alt-text direction. Only decision-relevant visuals — no decorative stock.",
+  "known_facts": [
+    "Prior visual audits exist (VISUAL-CONTENT-AUDIT-2026-08-29.md, VISUAL-MAKEOVER-2026-08-29.md, IMAGE_AUDIT_REPORT.md) — you may read for orientation; your plan must be freshly derived from the current corpus",
+    "Some posts already have hero images (front-matter image:) and existing product boxes — don't recommend what exists"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-068/artifacts/register-thin-generic.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-068/artifacts/visual-plan-candidates.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY the two artifact files; nothing else on disk",
+    "Every action label from the exact vocabulary; reasons one line, evidence-backed",
+    "If the envelope would clip the tables, the files on disk are the deliverable — envelope carries counts + notable rows only"
+  ],
+  "prohibited_actions": ["web_search", "web_fetch"],
+  "success_criteria": [
+    "register-thin-generic.md exists with 110 rows + per-action consolidation lists",
+    "visual-plan-candidates.md exists with ~20 fully-specified entries",
+    "Envelope reports: row count per action label (grep -c on your own file), top-3 consolidation groups, top-5 visual priorities"
+  ]
+}

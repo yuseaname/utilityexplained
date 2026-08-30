@@ -1,0 +1,37 @@
+{
+ "parent_objective": "SQ-052: execute SQ-051 audit remediation plan",
+ "context": "Site: utilityexplained.com (Hugo). AdSense blocked ('Low value content') \u2014 accuracy and evidence are the gate. Reader: US resident with a utility bill in hand. Voice: plain, direct, verb-led; the site's model page is content/blog/is-your-toilet-running-leak-test.md (Quick Answer IS the instruction, numbered executable steps, monetization after free actions). ANTI-SLOP RULES: no 'may vary' without a decision rule; no filler intros ('In today's world\u2026'); every number either carries a fetched source URL + retrieved date 2026-08-29 or is removed; no claims about Google's ranking systems. You HAVE web_search/web_fetch \u2014 verify before you write.",
+ "known_facts": [
+  "Existing page: 3-step procedure (compare bill, test meter, isolate valve), usage table, Govee/Moen Flo product boxes, 1,176 total words, author Tanya Patterson, updated 2026-08-28",
+  "The dye-test instruction pattern to replicate is in content/blog/is-your-toilet-running-leak-test.md",
+  "Do NOT touch why-did-my-water-bill-suddenly-increase.md \u2014 the Commander is editing it (narrowing it to the sudden month-over-month spike angle); just link it"
+ ],
+ "constraints": [
+  "You own EXACTLY ONE file (write_paths); touch nothing else",
+  "Every dollar figure / percentage / definition must be verified by a page YOU fetched this run (URL + retrieved date 2026-08-29 in the sources frontmatter)",
+  "If you cannot verify a number, you do not include it \u2014 no guessing, no 'typical' inventions",
+  "Preserve frontmatter: title (unless mission says change), slug, date; set updated: 2026-08-29; keep/add author as existing",
+  "Keep the page's existing good content \u2014 this is a rebuild of structure and evidence, not a from-scratch reset",
+  "Set hero_below_answer: true in frontmatter",
+  "Match site style: ## Quick Answer first (if the page has one or needs one), H2 sections, tables where data, FAQ section kept"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "File rewritten within your write_path only",
+  "Zero unsourced numbers remain in the new body",
+  "sources frontmatter lists every cited URL",
+  "Mission-specific structure delivered"
+ ],
+ "role": "lieutenant",
+ "mission": "RESTRUCTURE content/blog/06-water-bill-too-high.md (85pv/mo, 93.8% bounce \u2014 the site's worst engagement defect). Diagnosis (verified): title promises ranked causes, body delivers a 3-step investigation procedure; 1,094 body words; Govee + Moen Flo product boxes are the most prominent mid-page elements. TARGET STRUCTURE: (1) Quick Answer = the #1 action first: 'Most often it's a running toilet \u2014 do the 10-minute dye test now' + the 3-step meter check; (2) 'The causes, ranked by likelihood' \u2014 toilet leak #1, irrigation/Outdoor #2, rate or tier change #3, then meter error, billing-period length, seasonal use, softener/well pump etc., each with how-to-confirm; (3) the existing 3-step investigation becomes the 'work the checks in order' section; (4) product boxes AFTER the diagnostics (readers must hit free actions first); (5) keep/expand the usage table; (6) FAQ kept. VERIFY VIA WEB before using: EPA 82 gal/day/person; EPA dye test (10-minute); EPA 'family of four > 12,000 gallons/month in winter = serious leak'; EPA ~9,300 gal/yr average household leaks (epa.gov/watersense pages). These were wave-1-verified \u2014 re-confirm with one fetch each if budget allows, else mark as previously verified 2026-08-29 in your result. Title: keep slug 06-water-bill-too-high; retitle honestly, e.g. 'Why Is My Water Bill So High? Causes Ranked by Likelihood' (title may change, URL must not). Target 1,500-1,900 words. Link siblings: /blog/why-did-my-water-bill-suddenly-increase/ (sudden-spike angle), /blog/water-meter-running-when-no-water-used/ (meter test), /blog/is-your-toilet-running-leak-test/ (dye test), /blog/tiered-water-rates-explained/ if it exists (check first).",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md"
+  ]
+ }
+}

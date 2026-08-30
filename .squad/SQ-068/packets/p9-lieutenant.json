@@ -1,0 +1,25 @@
+{
+  "role": "lieutenant",
+  "mission": "Own the audit's deepest editorial slice: full readability/UX/E-E-A-T review of the homepage + 5 hub pages + 8 flagship posts, then draft the 5 REWRITE BRIEFS for the site's weakest content pages.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). Your 14 deep-review pages: content/_index.md (homepage), hubs content/electricity-explained.md, gas-explained.md, water-explained.md, heating-cooling-explained.md, utility-bills-costs-explained.md, flagships content/blog/complete-guide-understanding-utility-bill.md, 2026-utility-cost-index-by-state.md, average-utility-bills-by-state-2026.md, how-to-lower-electric-bill-complete-guide.md, 07-gas-bill-too-high.md, 30-sudden-spike-in-electricity-bill-no-usage.md, how-to-dispute-utility-bill.md, moving-utilities-checklist.md. Per page: intro quality (does it answer fast?), heading hierarchy, paragraph/sentence discipline, buried answers, tables/lists effectiveness, CTA presence + tone fit, trust/credential integration, one thing that would most improve decision-making for the reader. Also read the rendered homepage HTML public/index.html to judge actual first-impression UX (hero, nav, above-fold).\nTHEN the 5 rewrite briefs. Weakest-page shortlist (pick 5, you may substitute one if you find worse): gas-customer-charge-explained, 24-delivery-charge-vs-supply-charge-utility-bill, why-is-my-furnace-blowing-cold-air, duct-leaks-symptoms-hvac-running-all-day, drought-surcharge-on-water-bill-explained, how-to-read-your-utility-bill, net-metering-explained, which-rate-plan-is-right-for-me. Each brief: audience | target query + intent | what's missing vs user need | recommended structure (section outline) | evidence/sources to include | concrete examples or calculations to add | visuals | internal links in/out | desired outcome (the measurable bar for 'done').",
+  "known_facts": [
+    "Recent deepening work already hit several fee pages (commits SQ-064 waves) — check git-less file freshness via front-matter updated stamps so you don't brief work that's already done",
+    "Site monetizes via affiliate placements — CTAs should be judged for fit, not just presence",
+    "Externalized checklists: maintain a running per-page checklist as you go; verify each page against your own list before moving on"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only; quote evidence verbatim with paths",
+    "Briefs must be specific enough to hand to a writer with zero additional context"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "14 per-page editorial reviews, each with quality/10 + search-readiness/10 + top-3 fixes",
+    "Homepage rendered-UX assessment (from public/index.html)",
+    "5 complete rewrite briefs in the 8-part structure",
+    "Your verdict: is any flagship actively underperforming its potential, and why"
+  ]
+}

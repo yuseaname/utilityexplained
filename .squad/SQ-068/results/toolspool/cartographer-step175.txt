@@ -1,0 +1,1067 @@
+exit_code: 0
+=== BROKEN / UNRESOLVED INTERNAL LINK TARGETS ===
+content/_index.md -> images/og-default.png
+content/author/_index.md -> author/david-chen
+content/author/_index.md -> author/marcia-washington
+content/author/_index.md -> author/margaret-harrington
+content/author/_index.md -> author/roberto-mendoza
+content/author/_index.md -> author/tanya-patterson
+content/blog/01-how-to-read-your-electric-bill.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/01-how-to-read-your-electric-bill.md -> blog/07-gas-bill-too-high
+content/blog/01-how-to-read-your-electric-bill.md -> blog/08-time-of-use-electricity
+content/blog/01-how-to-read-your-electric-bill.md -> blog/11-understanding-kwh-usage
+content/blog/01-how-to-read-your-electric-bill.md -> blog/12-how-to-read-your-gas-bill
+content/blog/01-how-to-read-your-electric-bill.md -> blog/23-utility-billing-cycle-explained
+content/blog/01-how-to-read-your-electric-bill.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/01-how-to-read-your-electric-bill.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/01-how-to-read-your-electric-bill.md -> blog/41-how-to-read-electricity-bill
+content/blog/01-how-to-read-your-electric-bill.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/01-how-to-read-your-electric-bill.md -> blog/how-to-read-electric-meter
+content/blog/01-how-to-read-your-electric-bill.md -> blog/tiered-electricity-rates-explained
+content/blog/01-how-to-read-your-electric-bill.md -> images/articles/01-how-to-read-your-electric-bill/actual-vs-estimated-read.webp
+content/blog/01-how-to-read-your-electric-bill.md -> images/articles/01-how-to-read-your-electric-bill/effective-rate-worked-example.webp
+content/blog/01-how-to-read-your-electric-bill.md -> images/articles/01-how-to-read-your-electric-bill/one-kwh-explained.webp
+content/blog/01-how-to-read-your-electric-bill.md -> images/articles/01-how-to-read-your-electric-bill/statement-anatomy-labeled.webp
+content/blog/01-how-to-read-your-electric-bill.md -> images/articles/01-how-to-read-your-electric-bill/statement-ledger-hero.webp
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/01-how-to-read-your-electric-bill
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/15-why-utility-bill-higher-same-usage
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/29-why-is-my-electric-bill-so-high-2026
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/42-best-energy-efficient-space-heater
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/ev-charging-impact-electric-bill
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/why-electric-bill-changes-month-to-month
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/why-is-my-electric-bill-so-high-this-month
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/why-is-my-electricity-bill-so-high-in-summer
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/why-is-my-electricity-bill-so-high-in-winter
+content/blog/03-why-is-my-electric-bill-so-high.md -> blog/why-my-utility-bill-is-higher-with-same-usage
+content/blog/03-why-is-my-electric-bill-so-high.md -> images/articles/03-why-is-my-electric-bill-so-high/03-why-is-my-electric-bill-so-high_hero_v2.webp
+content/blog/03-why-is-my-electric-bill-so-high.md -> images/articles/03-why-is-my-electric-bill-so-high/diagnosis-sequence-flowchart.webp
+content/blog/03-why-is-my-electric-bill-so-high.md -> images/articles/03-why-is-my-electric-bill-so-high/rate-vs-usage-seesaw.webp
+content/blog/03-why-is-my-electric-bill-so-high.md -> images/articles/03-why-is-my-electric-bill-so-high/seasonal-usage-ribbon.webp
+content/blog/03-why-is-my-electric-bill-so-high.md -> images/social/og-electric-bill-high.webp
+content/blog/04-hidden-fees-utility-bill.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/04-hidden-fees-utility-bill.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/23-utility-billing-cycle-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/04-hidden-fees-utility-bill.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/26-utility-deposit-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/27-utility-connection-fee-explained
+content/blog/04-hidden-fees-utility-bill.md -> blog/28-utility-reconnection-fee-explained
+content/blog/04-hidden-fees-utility-bill.md -> images/articles/04-hidden-fees-utility-bill/annotated-bill-fees-circled.webp
+content/blog/04-hidden-fees-utility-bill.md -> images/articles/04-hidden-fees-utility-bill/custom_hero.webp
+content/blog/04-hidden-fees-utility-bill.md -> images/articles/04-hidden-fees-utility-bill/fee-taxonomy-tree.webp
+content/blog/04-hidden-fees-utility-bill.md -> images/social/og-hidden-utility-fees.webp
+content/blog/05-how-to-lower-utility-bills.md -> blog/01-how-to-read-your-electric-bill
+content/blog/05-how-to-lower-utility-bills.md -> blog/06-water-bill-too-high
+content/blog/05-how-to-lower-utility-bills.md -> blog/07-gas-bill-too-high
+content/blog/05-how-to-lower-utility-bills.md -> blog/45-whole-house-generator-vs-portable-cost
+content/blog/05-how-to-lower-utility-bills.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/05-how-to-lower-utility-bills.md -> blog/gadgets-that-lower-utility-bills
+content/blog/05-how-to-lower-utility-bills.md -> images/articles/05-how-to-lower-utility-bills/05-how-to-lower-utility-bills_hero_v2.webp
+content/blog/06-water-bill-too-high.md -> blog/44-how-to-lower-water-bill
+content/blog/06-water-bill-too-high.md -> blog/drought-surcharge-on-water-bill-explained
+content/blog/06-water-bill-too-high.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/blog/06-water-bill-too-high.md -> blog/how-to-read-a-water-meter
+content/blog/06-water-bill-too-high.md -> blog/is-your-toilet-running-leak-test
+content/blog/06-water-bill-too-high.md -> blog/tiered-water-rates-explained
+content/blog/06-water-bill-too-high.md -> blog/water-meter-leak-indicator-explained
+content/blog/06-water-bill-too-high.md -> blog/water-meter-running-when-no-water-used
+content/blog/06-water-bill-too-high.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/06-water-bill-too-high.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/06-water-bill-too-high.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/06-water-bill-too-high.md -> images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.webp
+content/blog/06-water-bill-too-high.md -> images/articles/06-water-bill-too-high/household-usage-bars.webp
+content/blog/06-water-bill-too-high.md -> images/articles/06-water-bill-too-high/toilet-leak-cost.webp
+content/blog/06-water-bill-too-high.md -> images/articles/06-water-bill-too-high/water-diagnosis-strip.webp
+content/blog/06-water-bill-too-high.md -> images/social/og-water-bill-too-high.webp
+content/blog/07-gas-bill-too-high.md -> blog/05-how-to-lower-utility-bills
+content/blog/07-gas-bill-too-high.md -> blog/12-how-to-read-your-gas-bill
+content/blog/07-gas-bill-too-high.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/07-gas-bill-too-high.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/07-gas-bill-too-high.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/07-gas-bill-too-high.md -> blog/23-utility-billing-cycle-explained
+content/blog/07-gas-bill-too-high.md -> blog/47-check-energy-leaks-home-diy
+content/blog/07-gas-bill-too-high.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/07-gas-bill-too-high.md -> blog/do-programmable-thermostats-cut-heating-bills
+content/blog/07-gas-bill-too-high.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/blog/07-gas-bill-too-high.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/07-gas-bill-too-high.md -> blog/gas-delivery-charge-vs-supply-charge
+content/blog/07-gas-bill-too-high.md -> blog/gas-vs-electric-heating-cost-comparison
+content/blog/07-gas-bill-too-high.md -> blog/how-to-read-gas-meter
+content/blog/07-gas-bill-too-high.md -> blog/mcf-vs-ccf-vs-therms-on-gas-bill
+content/blog/07-gas-bill-too-high.md -> blog/utility-assistance-programs-liheap
+content/blog/07-gas-bill-too-high.md -> blog/why-is-my-gas-bill-so-high-in-summer
+content/blog/07-gas-bill-too-high.md -> blog/why-is-my-gas-bill-so-high-in-winter
+content/blog/07-gas-bill-too-high.md -> images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp
+content/blog/07-gas-bill-too-high.md -> images/articles/07-gas-bill-too-high/gas-bill-ranked-causes.webp
+content/blog/07-gas-bill-too-high.md -> images/articles/07-gas-bill-too-high/heating-degree-day-example.webp
+content/blog/07-gas-bill-too-high.md -> images/articles/07-gas-bill-too-high/thermostat-setback-schedule.webp
+content/blog/07-gas-bill-too-high.md -> images/articles/07-gas-bill-too-high/water-heater-standby-loss.webp
+content/blog/08-time-of-use-electricity.md -> blog/01-how-to-read-your-electric-bill
+content/blog/08-time-of-use-electricity.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/08-time-of-use-electricity.md -> blog/46-what-time-is-electricity-cheapest
+content/blog/08-time-of-use-electricity.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/08-time-of-use-electricity.md -> blog/50-best-smart-plugs-standby-power
+content/blog/08-time-of-use-electricity.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/08-time-of-use-electricity.md -> blog/ev-charging-impact-electric-bill
+content/blog/08-time-of-use-electricity.md -> blog/how-do-smart-meters-work
+content/blog/08-time-of-use-electricity.md -> blog/time-of-use-electricity-rates
+content/blog/08-time-of-use-electricity.md -> blog/time-of-use-electricity-rates-explained
+content/blog/08-time-of-use-electricity.md -> blog/which-rate-plan-is-right-for-me
+content/blog/08-time-of-use-electricity.md -> images/articles/08-time-of-use-electricity/dishwasher-load-shift-savings.webp
+content/blog/08-time-of-use-electricity.md -> images/articles/08-time-of-use-electricity/time-of-use-clock.webp
+content/blog/08-time-of-use-electricity.md -> images/articles/08-time-of-use-electricity/tou-house-dusk-hero.webp
+content/blog/08-time-of-use-electricity.md -> images/articles/08-time-of-use-electricity/tou-interval-worksheet.webp
+content/blog/08-time-of-use-electricity.md -> images/articles/08-time-of-use-electricity/tou-safety-gate-checklist.webp
+content/blog/09-apartment-utilities-cost.md -> blog/11-understanding-kwh-usage
+content/blog/09-apartment-utilities-cost.md -> blog/16-budget-billing-level-pay-explained
+content/blog/09-apartment-utilities-cost.md -> blog/average-utility-bills-by-state-2026
+content/blog/09-apartment-utilities-cost.md -> blog/how-to-read-a-water-meter
+content/blog/09-apartment-utilities-cost.md -> images/articles/09-apartment-utilities-cost/09-apartment-utilities-cost_hero_v2.webp
+content/blog/10-fixed-vs-variable-utility-rate.md -> blog/fixed-vs-variable-rate-electricity-plan
+content/blog/10-fixed-vs-variable-utility-rate.md -> images/articles/10-fixed-vs-variable-utility-rate/10-fixed-vs-variable-utility-rate_hero_v2.webp
+content/blog/11-understanding-kwh-usage.md -> blog/01-how-to-read-your-electric-bill
+content/blog/11-understanding-kwh-usage.md -> blog/08-time-of-use-electricity
+content/blog/11-understanding-kwh-usage.md -> blog/how-to-read-electric-meter
+content/blog/11-understanding-kwh-usage.md -> images/articles/11-understanding-kwh-usage/appliance-kwh-ladder.webp
+content/blog/11-understanding-kwh-usage.md -> images/articles/11-understanding-kwh-usage/custom_hero.webp
+content/blog/12-how-to-read-your-gas-bill.md -> blog/07-gas-bill-too-high
+content/blog/12-how-to-read-your-gas-bill.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/12-how-to-read-your-gas-bill.md -> blog/43-understand-natural-gas-bill-charges
+content/blog/12-how-to-read-your-gas-bill.md -> blog/gas-delivery-charge-vs-supply-charge
+content/blog/12-how-to-read-your-gas-bill.md -> blog/how-to-read-your-gas-bill-therms-explained
+content/blog/12-how-to-read-your-gas-bill.md -> blog/mcf-vs-ccf-vs-therms-on-gas-bill
+content/blog/12-how-to-read-your-gas-bill.md -> images/articles/12-how-to-read-your-gas-bill/12-how-to-read-your-gas-bill_hero_v2.webp
+content/blog/12-how-to-read-your-gas-bill.md -> images/articles/12-how-to-read-your-gas-bill/gas-bill-anatomy.webp
+content/blog/13-ac-short-cycling-causes-fixes.md -> blog/do-programmable-thermostats-cut-heating-bills
+content/blog/13-ac-short-cycling-causes-fixes.md -> blog/ductless-mini-split-vs-central-air
+content/blog/13-ac-short-cycling-causes-fixes.md -> blog/why-is-my-furnace-blowing-cold-air
+content/blog/13-ac-short-cycling-causes-fixes.md -> images/articles/ac-short-cycling-causes-fixes/image.webp
+content/blog/14-estimated-utility-bill-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/14-estimated-utility-bill-explained.md -> blog/16-budget-billing-level-pay-explained
+content/blog/14-estimated-utility-bill-explained.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/14-estimated-utility-bill-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/14-estimated-utility-bill-explained.md -> blog/26-utility-deposit-explained
+content/blog/14-estimated-utility-bill-explained.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/14-estimated-utility-bill-explained.md -> blog/can-utility-shut-off-service
+content/blog/14-estimated-utility-bill-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/14-estimated-utility-bill-explained.md -> blog/how-to-read-electric-meter
+content/blog/14-estimated-utility-bill-explained.md -> images/articles/14-estimated-utility-bill-explained/14-estimated-utility-bill-explained_hero_v2.webp
+content/blog/16-budget-billing-level-pay-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/16-budget-billing-level-pay-explained.md -> blog/23-utility-billing-cycle-explained
+content/blog/16-budget-billing-level-pay-explained.md -> blog/26-utility-deposit-explained
+content/blog/16-budget-billing-level-pay-explained.md -> images/articles/budget-billing-level-pay-explained/image.webp
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/16-budget-billing-level-pay-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/20-utility-bill-proration-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/27-utility-connection-fee-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/28-utility-reconnection-fee-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> blog/gas-customer-charge-explained
+content/blog/17-what-is-customer-charge-on-utility-bill.md -> images/articles/17-what-is-customer-charge-on-utility-bill/17-what-is-customer-charge-on-utility-bill_hero_v2.webp
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/11-understanding-kwh-usage
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/12-how-to-read-your-gas-bill
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> blog/why-did-my-utility-bill-go-up-this-month
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/18-fuel-adjustment-charge-on-utility-bill-explained_hero_v3.webp
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/fuel-line-tariff-excerpt.webp
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md -> images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/two-bill-compare-spread.webp
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/04-hidden-fees-utility-bill
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> blog/how-utility-rates-fees-usage-work-together
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> images/articles/19-utility-bill-surcharges-and-riders-explained/19-utility-bill-surcharges-and-riders-explained_hero_v2.webp
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> images/articles/19-utility-bill-surcharges-and-riders-explained/base-rate-vs-rider-anatomy.webp
+content/blog/19-utility-bill-surcharges-and-riders-explained.md -> images/articles/19-utility-bill-surcharges-and-riders-explained/verify-rider-four-steps.webp
+content/blog/20-utility-bill-proration-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/20-utility-bill-proration-explained.md -> blog/14-estimated-utility-bill-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/20-utility-bill-proration-explained.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/23-utility-billing-cycle-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/26-utility-deposit-explained
+content/blog/20-utility-bill-proration-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/20-utility-bill-proration-explained.md -> images/articles/utility-bill-proration-explained/image.webp
+content/blog/2026-utility-cost-index-by-state.md -> blog/01-how-to-read-your-electric-bill
+content/blog/2026-utility-cost-index-by-state.md -> blog/02-average-utility-costs-2026
+content/blog/2026-utility-cost-index-by-state.md -> blog/09-apartment-utilities-cost
+content/blog/2026-utility-cost-index-by-state.md -> blog/10-fixed-vs-variable-utility-rate
+content/blog/2026-utility-cost-index-by-state.md -> blog/average-utility-bills-by-state-2026
+content/blog/2026-utility-cost-index-by-state.md -> blog/complete-guide-understanding-utility-bill
+content/blog/2026-utility-cost-index-by-state.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/2026-utility-cost-index-by-state.md -> blog/how-to-budget-for-utilities-in-your-first-apartment
+content/blog/2026-utility-cost-index-by-state.md -> blog/how-utility-rates-fees-usage-work-together
+content/blog/2026-utility-cost-index-by-state.md -> images/articles/2026-utility-cost-index-by-state/custom_hero.webp
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/23-utility-billing-cycle-explained
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/26-utility-deposit-explained
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/28-utility-reconnection-fee-explained
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/can-utility-shut-off-service
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/21-past-due-balance-utility-bill-explained.md -> blog/utility-assistance-programs-liheap
+content/blog/21-past-due-balance-utility-bill-explained.md -> images/articles/21-past-due-balance-utility-bill-explained/21-past-due-balance-utility-bill-explained_hero_v2.webp
+content/blog/21-past-due-balance-utility-bill-explained.md -> images/articles/21-past-due-balance-utility-bill-explained/disconnection-notice-to-deadline.webp
+content/blog/21-past-due-balance-utility-bill-explained.md -> images/articles/21-past-due-balance-utility-bill-explained/past-due-bill-anatomy.webp
+content/blog/22-minimum-bill-utility-bill-explained.md -> blog/14-estimated-utility-bill-explained
+content/blog/22-minimum-bill-utility-bill-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/22-minimum-bill-utility-bill-explained.md -> blog/20-utility-bill-proration-explained
+content/blog/22-minimum-bill-utility-bill-explained.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/22-minimum-bill-utility-bill-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/22-minimum-bill-utility-bill-explained.md -> images/articles/22-minimum-bill-utility-bill-explained/22-minimum-bill-utility-bill-explained_hero_v2.webp
+content/blog/23-utility-billing-cycle-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/23-utility-billing-cycle-explained.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/23-utility-billing-cycle-explained.md -> blog/12-how-to-read-your-gas-bill
+content/blog/23-utility-billing-cycle-explained.md -> blog/14-estimated-utility-bill-explained
+content/blog/23-utility-billing-cycle-explained.md -> blog/20-utility-bill-proration-explained
+content/blog/23-utility-billing-cycle-explained.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/23-utility-billing-cycle-explained.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/23-utility-billing-cycle-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/23-utility-billing-cycle-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/23-utility-billing-cycle-explained.md -> images/articles/23-utility-billing-cycle-explained/23-utility-billing-cycle-explained_hero_v2.webp
+content/blog/23-utility-billing-cycle-explained.md -> images/articles/23-utility-billing-cycle-explained/daily-average-comparison.webp
+content/blog/23-utility-billing-cycle-explained.md -> images/articles/23-utility-billing-cycle-explained/estimated-vs-actual-tru-up.webp
+content/blog/23-utility-billing-cycle-explained.md -> images/articles/23-utility-billing-cycle-explained/read-to-read-timeline.webp
+content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md -> blog/supply-vs-delivery-charges-electricity
+content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md -> images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/04-hidden-fees-utility-bill
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/26-utility-deposit-explained
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/27-utility-connection-fee-explained
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/28-utility-reconnection-fee-explained
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/25-utility-bill-taxes-fees-franchise-charges-explained_hero_v2.webp
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/annotated-three-family-lines.webp
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/gross-receipts-tax-example.webp
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md -> images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/verify-line-four-steps.webp
+content/blog/26-utility-deposit-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/26-utility-deposit-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/26-utility-deposit-explained.md -> blog/27-utility-connection-fee-explained
+content/blog/26-utility-deposit-explained.md -> blog/28-utility-reconnection-fee-explained
+content/blog/26-utility-deposit-explained.md -> blog/can-utility-shut-off-service
+content/blog/26-utility-deposit-explained.md -> blog/moving-utilities-checklist
+content/blog/26-utility-deposit-explained.md -> blog/utility-assistance-programs-liheap
+content/blog/26-utility-deposit-explained.md -> images/articles/26-utility-deposit-explained/26-utility-deposit-explained_hero_v2.webp
+content/blog/26-utility-deposit-explained.md -> images/articles/26-utility-deposit-explained/deposit-refund-timeline.webp
+content/blog/26-utility-deposit-explained.md -> images/articles/26-utility-deposit-explained/state-deposit-cap-ruler.webp
+content/blog/27-utility-connection-fee-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/27-utility-connection-fee-explained.md -> blog/26-utility-deposit-explained
+content/blog/27-utility-connection-fee-explained.md -> blog/28-utility-reconnection-fee-explained
+content/blog/27-utility-connection-fee-explained.md -> blog/how-to-budget-for-utilities-in-your-first-apartment
+content/blog/27-utility-connection-fee-explained.md -> blog/moving-utilities-checklist
+content/blog/27-utility-connection-fee-explained.md -> blog/utility-assistance-programs-liheap
+content/blog/27-utility-connection-fee-explained.md -> blog/water-service-charge-explained
+content/blog/27-utility-connection-fee-explained.md -> images/articles/27-utility-connection-fee-explained/27-utility-connection-fee-explained_hero_v2.webp
+content/blog/27-utility-connection-fee-explained.md -> images/articles/27-utility-connection-fee-explained/fee-situation-router.webp
+content/blog/27-utility-connection-fee-explained.md -> images/articles/27-utility-connection-fee-explained/service-start-fee-anatomy.webp
+content/blog/28-utility-reconnection-fee-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/28-utility-reconnection-fee-explained.md -> blog/23-utility-billing-cycle-explained
+content/blog/28-utility-reconnection-fee-explained.md -> blog/26-utility-deposit-explained
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/28-utility-reconnection-fee-explained_hero_v2.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/custom_inline.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/reconnect-process.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/reconnect_avoid.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/reconnect_fees.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/articles/28-utility-reconnection-fee-explained/shutoff-avoidance-timeline.webp
+content/blog/28-utility-reconnection-fee-explained.md -> images/social/og-reconnection-fee.webp
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/01-how-to-read-your-electric-bill
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/14-estimated-utility-bill-explained
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/46-what-time-is-electricity-cheapest
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/50-best-smart-plugs-standby-power
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/aux-heat-vs-emergency-heat-meaning
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> images/articles/30-sudden-spike-in-electricity-bill-no-usage/estimated-read-bars.webp
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> images/articles/30-sudden-spike-in-electricity-bill-no-usage/meter-dial-test.webp
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> images/articles/30-sudden-spike-in-electricity-bill-no-usage/spike-diagnosis-flowchart.webp
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md -> images/social/og-sudden-electricity-spike.webp
+content/blog/42-best-energy-efficient-space-heater.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/42-best-energy-efficient-space-heater.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/42-best-energy-efficient-space-heater.md -> blog/heat-pump-running-all-day-in-winter
+content/blog/42-best-energy-efficient-space-heater.md -> blog/why-is-my-furnace-blowing-cold-air
+content/blog/42-best-energy-efficient-space-heater.md -> images/articles/42-best-energy-efficient-space-heater/custom_hero.webp
+content/blog/44-how-to-lower-water-bill.md -> blog/06-water-bill-too-high
+content/blog/44-how-to-lower-water-bill.md -> blog/23-utility-billing-cycle-explained
+content/blog/44-how-to-lower-water-bill.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/blog/44-how-to-lower-water-bill.md -> blog/stormwater-fee-on-water-bill-explained
+content/blog/44-how-to-lower-water-bill.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/44-how-to-lower-water-bill.md -> images/articles/44-how-to-lower-water-bill/44-how-to-lower-water-bill_hero_v2.webp
+content/blog/45-whole-house-generator-vs-portable-cost.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/45-whole-house-generator-vs-portable-cost.md -> blog/why-is-my-furnace-blowing-cold-air
+content/blog/45-whole-house-generator-vs-portable-cost.md -> images/articles/45-whole-house-generator-vs-portable-cost/45-whole-house-generator-vs-portable-cost_hero_v2.webp
+content/blog/46-what-time-is-electricity-cheapest.md -> blog/08-time-of-use-electricity
+content/blog/46-what-time-is-electricity-cheapest.md -> images/articles/46-what-time-is-electricity-cheapest/custom_hero.webp
+content/blog/46-what-time-is-electricity-cheapest.md -> images/articles/46-what-time-is-electricity-cheapest/time-of-use-clock.webp
+content/blog/47-check-energy-leaks-home-diy.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/47-check-energy-leaks-home-diy.md -> blog/phantom-power-draw-explained
+content/blog/47-check-energy-leaks-home-diy.md -> images/articles/47-check-energy-leaks-home-diy/custom_hero.webp
+content/blog/48-heat-pump-vs-gas-furnace-savings.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/48-heat-pump-vs-gas-furnace-savings.md -> blog/heat-pump-running-all-day-in-winter
+content/blog/48-heat-pump-vs-gas-furnace-savings.md -> images/articles/48-heat-pump-vs-gas-furnace-savings/custom_hero.webp
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/08-time-of-use-electricity
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/demand-charge-electric-bill-explained
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/how-to-dispute-utility-bill
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/how-to-read-electric-meter
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/tiered-electricity-rates-explained
+content/blog/49-demand-charges-electricity-bill-explained.md -> blog/which-rate-plan-is-right-for-me
+content/blog/49-demand-charges-electricity-bill-explained.md -> images/articles/49-demand-charges-electricity-bill-explained/49-demand-charges-electricity-bill-explained_hero_v2.webp
+content/blog/49-demand-charges-electricity-bill-explained.md -> images/articles/49-demand-charges-electricity-bill-explained/demand-line-verify-anatomy.webp
+content/blog/49-demand-charges-electricity-bill-explained.md -> images/articles/49-demand-charges-electricity-bill-explained/kw-vs-kwh-demand-strip.webp
+content/blog/50-best-smart-plugs-standby-power.md -> blog/01-how-to-read-your-electric-bill
+content/blog/50-best-smart-plugs-standby-power.md -> blog/05-how-to-lower-utility-bills
+content/blog/50-best-smart-plugs-standby-power.md -> blog/phantom-power-draw-explained
+content/blog/50-best-smart-plugs-standby-power.md -> images/articles/50-best-smart-plugs-standby-power/50-best-smart-plugs-standby-power_hero_v2.webp
+content/blog/ac-running-but-not-cooling.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/ac-running-but-not-cooling.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/ac-running-but-not-cooling.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/blog/ac-running-but-not-cooling.md -> blog/ductless-mini-split-vs-central-air
+content/blog/ac-running-but-not-cooling.md -> blog/single-stage-vs-two-stage-vs-variable-speed-hvac
+content/blog/ac-running-but-not-cooling.md -> images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_v2.webp
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> blog/aux-heat-vs-emergency-heat-meaning
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> blog/gas-vs-electric-heating-cost-comparison
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> blog/why-is-my-electricity-bill-so-high-in-winter
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md -> images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_v2.webp
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> blog/gas-vs-electric-heating-cost-comparison
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> blog/why-is-my-electricity-bill-so-high-in-winter
+content/blog/aux-heat-vs-emergency-heat-meaning.md -> images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_v2.webp
+content/blog/average-utility-bills-by-state-2026.md -> blog/02-average-utility-costs-2026
+content/blog/average-utility-bills-by-state-2026.md -> blog/10-fixed-vs-variable-utility-rate
+content/blog/average-utility-bills-by-state-2026.md -> blog/2026-utility-cost-index-by-state
+content/blog/average-utility-bills-by-state-2026.md -> blog/44-how-to-lower-water-bill
+content/blog/average-utility-bills-by-state-2026.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/average-utility-bills-by-state-2026.md -> blog/how-to-read-your-utility-bill
+content/blog/average-utility-bills-by-state-2026.md -> blog/how-utility-rates-fees-usage-work-together
+content/blog/average-utility-bills-by-state-2026.md -> blog/moving-utilities-checklist
+content/blog/average-utility-bills-by-state-2026.md -> blog/which-rate-plan-is-right-for-me
+content/blog/average-utility-bills-by-state-2026.md -> images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v3.webp
+content/blog/average-utility-bills-by-state-2026.md -> images/articles/average-utility-bills-by-state-2026/gas-range-by-region.webp
+content/blog/average-utility-bills-by-state-2026.md -> images/articles/average-utility-bills-by-state-2026/idaho-vs-hawaii-rate-gap.webp
+content/blog/average-utility-bills-by-state-2026.md -> images/articles/average-utility-bills-by-state-2026/narrow-vs-broad-basket.webp
+content/blog/average-utility-bills-by-state-2026.md -> images/articles/average-utility-bills-by-state-2026/national-vs-state-electric-bars.webp
+content/blog/average-water-usage-per-person.md -> blog/44-how-to-lower-water-bill
+content/blog/average-water-usage-per-person.md -> blog/ccf-calculator
+content/blog/average-water-usage-per-person.md -> blog/how-to-read-a-water-meter
+content/blog/average-water-usage-per-person.md -> blog/is-your-toilet-running-leak-test
+content/blog/average-water-usage-per-person.md -> blog/water-meter-leak-indicator-explained
+content/blog/average-water-usage-per-person.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/average-water-usage-per-person.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/average-water-usage-per-person.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/average-water-usage-per-person.md -> images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_v3.png
+content/blog/average-water-usage-per-person.md -> images/articles/average-water-usage-per-person/ccf-per-person-band.webp
+content/blog/average-water-usage-per-person.md -> images/articles/average-water-usage-per-person/per-person-calculation-ledger.webp
+content/blog/can-utility-shut-off-service.md -> blog/14-estimated-utility-bill-explained
+content/blog/can-utility-shut-off-service.md -> blog/26-utility-deposit-explained
+content/blog/can-utility-shut-off-service.md -> blog/28-utility-reconnection-fee-explained
+content/blog/can-utility-shut-off-service.md -> blog/how-to-dispute-utility-bill
+content/blog/can-utility-shut-off-service.md -> blog/utility-assistance-programs-liheap
+content/blog/can-utility-shut-off-service.md -> images/articles/can-utility-shut-off-service/img-1.webp
+content/blog/ccf-calculator.md -> blog/average-water-usage-per-person
+content/blog/ccf-calculator.md -> blog/tiered-water-rates-explained
+content/blog/ccf-calculator.md -> blog/water-meter-leak-indicator-explained
+content/blog/ccf-calculator.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/ccf-calculator.md -> images/articles/ccf-calculator/ccf-conversion-chain.webp
+content/blog/ccf-calculator.md -> images/articles/ccf-calculator/tier-math-staircase.webp
+content/blog/ccf-calculator.md -> images/social/og-ccf-calculator.webp
+content/blog/complete-guide-understanding-utility-bill.md -> blog/01-how-to-read-your-electric-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/08-time-of-use-electricity
+content/blog/complete-guide-understanding-utility-bill.md -> blog/11-understanding-kwh-usage
+content/blog/complete-guide-understanding-utility-bill.md -> blog/12-how-to-read-your-gas-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/14-estimated-utility-bill-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/20-utility-bill-proration-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/gas-delivery-charge-vs-supply-charge
+content/blog/complete-guide-understanding-utility-bill.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/how-to-read-your-utility-bill
+content/blog/complete-guide-understanding-utility-bill.md -> blog/tiered-electricity-rates-explained
+content/blog/complete-guide-understanding-utility-bill.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/complete-guide-understanding-utility-bill.md -> images/articles/complete-guide-understanding-utility-bill/complete-guide-understanding-utility-bill_hero_v2.webp
+content/blog/do-programmable-thermostats-cut-heating-bills.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/blog/do-programmable-thermostats-cut-heating-bills.md -> blog/heat-pump-running-all-day-in-winter
+content/blog/do-programmable-thermostats-cut-heating-bills.md -> images/articles/do-programmable-thermostats-cut-heating-bills/custom_hero.webp
+content/blog/drought-surcharge-on-water-bill-explained.md -> images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_v2.webp
+content/blog/duct-leaks-symptoms-hvac-running-all-day.md -> images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_v2.webp
+content/blog/ductless-mini-split-vs-central-air.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/blog/ductless-mini-split-vs-central-air.md -> images/articles/ductless-mini-split-vs-central-air/image.webp
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/01-how-to-read-your-electric-bill
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/04-hidden-fees-utility-bill
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/10-fixed-vs-variable-utility-rate
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/23-utility-billing-cycle-explained
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/how-to-dispute-utility-bill
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/how-to-read-electric-meter
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/what-is-a-kilowatt-hour
+content/blog/electric-bill-breakdown-understanding-line-items.md -> blog/which-rate-plan-is-right-for-me
+content/blog/electric-bill-breakdown-understanding-line-items.md -> images/articles/electric-bill-breakdown-understanding-line-items/bill-anatomy-category-map.webp
+content/blog/electric-bill-breakdown-understanding-line-items.md -> images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp
+content/blog/electric-bill-breakdown-understanding-line-items.md -> images/articles/electric-bill-breakdown-understanding-line-items/ebill-tou.webp
+content/blog/electric-bill-breakdown-understanding-line-items.md -> images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp
+content/blog/ev-charging-impact-electric-bill.md -> images/articles/ev-charging-impact-electric-bill/custom_hero.webp
+content/blog/gadgets-that-lower-utility-bills.md -> blog/01-how-to-read-your-electric-bill
+content/blog/gadgets-that-lower-utility-bills.md -> blog/05-how-to-lower-utility-bills
+content/blog/gadgets-that-lower-utility-bills.md -> blog/47-check-energy-leaks-home-diy
+content/blog/gadgets-that-lower-utility-bills.md -> images/articles/gadgets-that-lower-utility-bills/gadget-workbench.webp
+content/blog/gadgets-that-lower-utility-bills.md -> images/articles/gadgets-that-lower-utility-bills/savings-per-gadget-bars.webp
+content/blog/gadgets-that-lower-utility-bills.md -> images/articles/gadgets-that-lower-utility-bills/when-it-does-not-pay.webp
+content/blog/gadgets-that-lower-utility-bills.md -> images/social/og-utility-gadgets.webp
+content/blog/gas-customer-charge-explained.md -> images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_v2.webp
+content/blog/gas-delivery-charge-vs-supply-charge.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/gas-delivery-charge-vs-supply-charge.md -> images/articles/gas-delivery-charge-vs-supply-charge/gas-delivery-charge-vs-supply-charge_hero_v2.webp
+content/blog/gas-vs-electric-heating-cost-comparison.md -> blog/45-whole-house-generator-vs-portable-cost
+content/blog/gas-vs-electric-heating-cost-comparison.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/blog/gas-vs-electric-heating-cost-comparison.md -> blog/why-is-my-electricity-bill-so-high-in-winter
+content/blog/gas-vs-electric-heating-cost-comparison.md -> images/articles/gas-vs-electric-heating-cost-comparison/gas-vs-electric-heating-cost-comparison_hero_v2.webp
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/13-ac-short-cycling-causes-fixes
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/ac-running-but-not-cooling
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/aux-heat-vs-emergency-heat-meaning
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/ductless-mini-split-vs-central-air
+content/blog/heat-pump-running-all-day-in-winter.md -> blog/why-is-my-furnace-blowing-cold-air
+content/blog/heat-pump-running-all-day-in-winter.md -> images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_v2.webp
+content/blog/how-do-smart-meters-work.md -> blog/04-hidden-fees-utility-bill
+content/blog/how-do-smart-meters-work.md -> blog/08-time-of-use-electricity
+content/blog/how-do-smart-meters-work.md -> blog/11-understanding-kwh-usage
+content/blog/how-do-smart-meters-work.md -> blog/14-estimated-utility-bill-explained
+content/blog/how-do-smart-meters-work.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/how-do-smart-meters-work.md -> blog/50-best-smart-plugs-standby-power
+content/blog/how-do-smart-meters-work.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-do-smart-meters-work.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/how-do-smart-meters-work.md -> blog/how-to-read-electric-meter
+content/blog/how-do-smart-meters-work.md -> blog/phantom-power-draw-explained
+content/blog/how-do-smart-meters-work.md -> blog/what-is-a-kilowatt-hour
+content/blog/how-do-smart-meters-work.md -> blog/why-did-my-utility-bill-go-up-this-month
+content/blog/how-do-smart-meters-work.md -> images/articles/how-do-smart-meters-work/24h-meter-check.webp
+content/blog/how-do-smart-meters-work.md -> images/articles/how-do-smart-meters-work/how-do-smart-meters-work_hero_v2.webp
+content/blog/how-do-smart-meters-work.md -> images/articles/how-do-smart-meters-work/meter-evolution-strip.webp
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> blog/water-service-charge-explained
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/articles/how-sewer-charges-work-on-your-water-bill/sewer-3-ways.webp
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/articles/how-sewer-charges-work-on-your-water-bill/sewer-hero-explained.svg
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/articles/how-sewer-charges-work-on-your-water-bill/sewer-why-higher.webp
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/articles/how-sewer-charges-work-on-your-water-bill/winter-averaging-example.webp
+content/blog/how-sewer-charges-work-on-your-water-bill.md -> images/social/og-sewer-charges.webp
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/09-apartment-utilities-cost
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/26-utility-deposit-explained
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/47-check-energy-leaks-home-diy
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/average-water-usage-per-person
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/moving-utilities-checklist
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> blog/why-my-utility-bill-is-higher-with-same-usage
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md -> images/articles/how-to-budget-for-utilities-in-your-first-apartment/how-to-budget-for-utilities-in-your-first-apartment_hero_v2.webp
+content/blog/how-to-dispute-utility-bill.md -> blog/14-estimated-utility-bill-explained
+content/blog/how-to-dispute-utility-bill.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/how-to-dispute-utility-bill.md -> blog/26-utility-deposit-explained
+content/blog/how-to-dispute-utility-bill.md -> blog/can-utility-shut-off-service
+content/blog/how-to-dispute-utility-bill.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-to-dispute-utility-bill.md -> images/articles/how-to-dispute-utility-bill/img-1.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/01-how-to-read-your-electric-bill
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/08-time-of-use-electricity
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/47-check-energy-leaks-home-diy
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/50-best-smart-plugs-standby-power
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/do-programmable-thermostats-cut-heating-bills
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/gadgets-that-lower-utility-bills
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/how-to-lower-electric-bill-without-solar
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/phantom-power-draw-explained
+content/blog/how-to-lower-electric-bill-complete-guide.md -> blog/tiered-electricity-rates-explained
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/articles/how-to-lower-electric-bill-complete-guide/cost-tier-ladder.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/articles/how-to-lower-electric-bill-complete-guide/energy-hogs-hero.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/articles/how-to-lower-electric-bill-complete-guide/payback-timeline.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/articles/how-to-lower-electric-bill-complete-guide/phantom-load-wall.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/articles/how-to-lower-electric-bill-complete-guide/thermostat-setback-dial.webp
+content/blog/how-to-lower-electric-bill-complete-guide.md -> images/social/og-lower-electric-bill.webp
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/01-how-to-read-your-electric-bill
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/08-time-of-use-electricity
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/11-understanding-kwh-usage
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/46-what-time-is-electricity-cheapest
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/50-best-smart-plugs-standby-power
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/how-to-lower-electric-bill-complete-guide
+content/blog/how-to-lower-electric-bill-without-solar.md -> blog/tiered-electricity-rates-explained
+content/blog/how-to-lower-electric-bill-without-solar.md -> images/articles/how-to-lower-electric-bill-without-solar/how-to-lower-electric-bill-without-solar_hero_v2.webp
+content/blog/how-to-read-a-water-meter.md -> blog/06-water-bill-too-high
+content/blog/how-to-read-a-water-meter.md -> blog/14-estimated-utility-bill-explained
+content/blog/how-to-read-a-water-meter.md -> blog/44-how-to-lower-water-bill
+content/blog/how-to-read-a-water-meter.md -> blog/ccf-calculator
+content/blog/how-to-read-a-water-meter.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-to-read-a-water-meter.md -> blog/water-meter-leak-indicator-explained
+content/blog/how-to-read-a-water-meter.md -> blog/water-meter-running-when-no-water-used
+content/blog/how-to-read-a-water-meter.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/how-to-read-a-water-meter.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/how-to-read-a-water-meter.md -> images/articles/how-to-read-a-water-meter/ccf-usage-bracket.webp
+content/blog/how-to-read-a-water-meter.md -> images/articles/how-to-read-a-water-meter/dial-meter-reading.webp
+content/blog/how-to-read-a-water-meter.md -> images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_v2.webp
+content/blog/how-to-read-a-water-meter.md -> images/articles/how-to-read-a-water-meter/meter-to-bill-units.webp
+content/blog/how-to-read-electric-meter.md -> blog/01-how-to-read-your-electric-bill
+content/blog/how-to-read-electric-meter.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/how-to-read-electric-meter.md -> blog/11-understanding-kwh-usage
+content/blog/how-to-read-electric-meter.md -> blog/23-utility-billing-cycle-explained
+content/blog/how-to-read-electric-meter.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/blog/how-to-read-electric-meter.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-to-read-electric-meter.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/how-to-read-electric-meter.md -> blog/how-do-smart-meters-work
+content/blog/how-to-read-electric-meter.md -> blog/what-is-a-kilowatt-hour
+content/blog/how-to-read-electric-meter.md -> images/articles/how-to-read-electric-meter/electric-dial-meter-sequence.webp
+content/blog/how-to-read-electric-meter.md -> images/articles/how-to-read-electric-meter/how-to-read-electric-meter_hero_v2.webp
+content/blog/how-to-read-electric-meter.md -> images/articles/how-to-read-electric-meter/meter-vs-bill-check.webp
+content/blog/how-to-read-electric-meter.md -> images/articles/how-to-read-electric-meter/two-readings-subtraction.webp
+content/blog/how-to-read-gas-meter.md -> blog/07-gas-bill-too-high
+content/blog/how-to-read-gas-meter.md -> blog/12-how-to-read-your-gas-bill
+content/blog/how-to-read-gas-meter.md -> blog/mcf-vs-ccf-vs-therms-on-gas-bill
+content/blog/how-to-read-gas-meter.md -> images/articles/how-to-read-gas-meter/image.webp
+content/blog/how-to-read-your-utility-bill.md -> images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_v2.webp
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/08-time-of-use-electricity
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/complete-guide-understanding-utility-bill
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/net-metering-explained
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/tiered-electricity-rates-explained
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/water-service-charge-explained
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/why-did-my-utility-bill-go-up-this-month
+content/blog/how-utility-rates-fees-usage-work-together.md -> blog/why-electric-bill-changes-month-to-month
+content/blog/how-utility-rates-fees-usage-work-together.md -> images/articles/how-utility-rates-fees-usage-work-together/image.webp
+content/blog/how-utility-rates-fees-usage-work-together.md -> images/articles/how-utility-rates-fees-usage-work-together/inline/fixed-vs-variable-diagram/image.webp
+content/blog/how-utility-rates-fees-usage-work-together.md -> images/articles/how-utility-rates-fees-usage-work-together/inline/layered-model-diagram/image.webp
+content/blog/how-utility-rates-fees-usage-work-together.md -> images/articles/how-utility-rates-fees-usage-work-together/inline/rate-shapes-chart/image.webp
+content/blog/how-utility-rates-fees-usage-work-together.md -> images/articles/how-utility-rates-fees-usage-work-together/inline/ripple-total-illustration/image.webp
+content/blog/is-your-toilet-running-leak-test.md -> blog/44-how-to-lower-water-bill
+content/blog/is-your-toilet-running-leak-test.md -> blog/average-water-usage-per-person
+content/blog/is-your-toilet-running-leak-test.md -> blog/complete-guide-understanding-utility-bill
+content/blog/is-your-toilet-running-leak-test.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/blog/is-your-toilet-running-leak-test.md -> blog/how-to-read-a-water-meter
+content/blog/is-your-toilet-running-leak-test.md -> blog/water-meter-leak-indicator-explained
+content/blog/is-your-toilet-running-leak-test.md -> blog/water-meter-running-when-no-water-used
+content/blog/is-your-toilet-running-leak-test.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/is-your-toilet-running-leak-test.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/is-your-toilet-running-leak-test.md -> images/articles/is-your-toilet-running-leak-test/is-your-toilet-running-leak-test_hero_v2.webp
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/04-hidden-fees-utility-bill
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/05-how-to-lower-utility-bills
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/07-gas-bill-too-high
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/12-how-to-read-your-gas-bill
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/average-utility-bills-by-state-2026
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> blog/how-to-read-gas-meter
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/cost-per-therm-steps.webp
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_v3.webp
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/three-scenario-stubs.webp
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/unit-comparison-card.webp
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md -> images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/volume-vs-energy-bridge.webp
+content/blog/moving-utilities-checklist.md -> blog/20-utility-bill-proration-explained
+content/blog/moving-utilities-checklist.md -> blog/26-utility-deposit-explained
+content/blog/moving-utilities-checklist.md -> blog/27-utility-connection-fee-explained
+content/blog/moving-utilities-checklist.md -> blog/can-utility-shut-off-service
+content/blog/moving-utilities-checklist.md -> blog/how-to-budget-for-utilities-in-your-first-apartment
+content/blog/moving-utilities-checklist.md -> blog/how-to-read-a-water-meter
+content/blog/moving-utilities-checklist.md -> blog/how-to-read-electric-meter
+content/blog/moving-utilities-checklist.md -> blog/how-to-read-gas-meter
+content/blog/moving-utilities-checklist.md -> images/articles/moving-utilities-checklist/img-1.webp
+content/blog/net-metering-explained.md -> images/articles/net-metering-explained/custom_hero.webp
+content/blog/phantom-power-draw-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/phantom-power-draw-explained.md -> blog/05-how-to-lower-utility-bills
+content/blog/phantom-power-draw-explained.md -> blog/how-to-lower-electric-bill-without-solar
+content/blog/phantom-power-draw-explained.md -> images/articles/phantom-power-draw-explained/phantom-power-draw-explained_hero_v2.webp
+content/blog/phantom-power-draw-explained.md -> images/articles/phantom-power-draw-explained/standby-watts-bars.webp
+content/blog/sewer-averaging-water-bill-explained.md -> images/articles/sewer-averaging-water-bill-explained/sewer-averaging-water-bill-explained_hero_v2.webp
+content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md -> images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/capacity-waveforms.webp
+content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md -> images/articles/single-stage-vs-two-stage-vs-variable-speed-hvac/single-stage-vs-two-stage-vs-variable-speed-hvac_hero_v2.webp
+content/blog/supply-vs-delivery-charges-electricity.md -> blog/10-fixed-vs-variable-utility-rate
+content/blog/supply-vs-delivery-charges-electricity.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/supply-vs-delivery-charges-electricity.md -> blog/demand-charge-electric-bill-explained
+content/blog/supply-vs-delivery-charges-electricity.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/supply-vs-delivery-charges-electricity.md -> blog/tiered-electricity-rates-explained
+content/blog/supply-vs-delivery-charges-electricity.md -> images/articles/supply-vs-delivery-charges-electricity/supply-vs-delivery-charges-electricity_hero_v2.webp
+content/blog/tiered-electricity-rates-explained.md -> blog/01-how-to-read-your-electric-bill
+content/blog/tiered-electricity-rates-explained.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/tiered-electricity-rates-explained.md -> blog/08-time-of-use-electricity
+content/blog/tiered-electricity-rates-explained.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/tiered-electricity-rates-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/tiered-electricity-rates-explained.md -> blog/which-rate-plan-is-right-for-me
+content/blog/tiered-electricity-rates-explained.md -> images/articles/tiered-electricity-rates-explained/tier-boundary-step-line.webp
+content/blog/tiered-electricity-rates-explained.md -> images/articles/tiered-electricity-rates-explained/tier-line-anatomy.webp
+content/blog/tiered-electricity-rates-explained.md -> images/articles/tiered-electricity-rates-explained/tier-usage-bins-hero.webp
+content/blog/tiered-electricity-rates-explained.md -> images/articles/tiered-electricity-rates-explained/tier-worked-example-split.webp
+content/blog/tiered-water-rates-explained.md -> blog/04-hidden-fees-utility-bill
+content/blog/tiered-water-rates-explained.md -> blog/44-how-to-lower-water-bill
+content/blog/tiered-water-rates-explained.md -> blog/sewer-averaging-water-bill-explained
+content/blog/tiered-water-rates-explained.md -> blog/water-meter-running-when-no-water-used
+content/blog/tiered-water-rates-explained.md -> blog/water-service-charge-explained
+content/blog/tiered-water-rates-explained.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/tiered-water-rates-explained.md -> images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_v2.webp
+content/blog/utility-assistance-programs-liheap.md -> blog/01-how-to-read-your-electric-bill
+content/blog/utility-assistance-programs-liheap.md -> blog/05-how-to-lower-utility-bills
+content/blog/utility-assistance-programs-liheap.md -> blog/16-budget-billing-level-pay-explained
+content/blog/utility-assistance-programs-liheap.md -> blog/21-past-due-balance-utility-bill-explained
+content/blog/utility-assistance-programs-liheap.md -> blog/complete-guide-understanding-utility-bill
+content/blog/utility-assistance-programs-liheap.md -> blog/how-to-budget-for-utilities-in-your-first-apartment
+content/blog/utility-assistance-programs-liheap.md -> blog/how-utility-rates-fees-usage-work-together
+content/blog/utility-assistance-programs-liheap.md -> images/articles/utility-assistance-programs-liheap/custom_hero.webp
+content/blog/water-meter-leak-indicator-explained.md -> blog/06-water-bill-too-high
+content/blog/water-meter-leak-indicator-explained.md -> blog/44-how-to-lower-water-bill
+content/blog/water-meter-leak-indicator-explained.md -> blog/average-water-usage-per-person
+content/blog/water-meter-leak-indicator-explained.md -> blog/how-to-read-a-water-meter
+content/blog/water-meter-leak-indicator-explained.md -> blog/is-your-toilet-running-leak-test
+content/blog/water-meter-leak-indicator-explained.md -> blog/water-meter-running-when-no-water-used
+content/blog/water-meter-leak-indicator-explained.md -> blog/water-service-charge-explained
+content/blog/water-meter-leak-indicator-explained.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/water-meter-leak-indicator-explained.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/water-meter-leak-indicator-explained.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/water-meter-leak-indicator-explained.md -> images/articles/water-meter-leak-indicator-explained/leak-indicator-dial.webp
+content/blog/water-meter-leak-indicator-explained.md -> images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp
+content/blog/water-meter-running-when-no-water-used.md -> blog/06-water-bill-too-high
+content/blog/water-meter-running-when-no-water-used.md -> blog/how-do-smart-meters-work
+content/blog/water-meter-running-when-no-water-used.md -> blog/how-to-read-a-water-meter
+content/blog/water-meter-running-when-no-water-used.md -> blog/is-your-toilet-running-leak-test
+content/blog/water-meter-running-when-no-water-used.md -> blog/water-meter-leak-indicator-explained
+content/blog/water-meter-running-when-no-water-used.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/water-meter-running-when-no-water-used.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/water-meter-running-when-no-water-used.md -> images/articles/water-meter-running-when-no-water-used/decision-tree.webp
+content/blog/water-meter-running-when-no-water-used.md -> images/articles/water-meter-running-when-no-water-used/water-meter-running-when-no-water-used_hero_00002_.webp
+content/blog/water-service-charge-explained.md -> images/articles/water-service-charge-explained/water-service-charge-explained_hero_v2.webp
+content/blog/what-is-a-kilowatt-hour.md -> blog/01-how-to-read-your-electric-bill
+content/blog/what-is-a-kilowatt-hour.md -> blog/03-why-is-my-electric-bill-so-high
+content/blog/what-is-a-kilowatt-hour.md -> blog/08-time-of-use-electricity
+content/blog/what-is-a-kilowatt-hour.md -> blog/11-understanding-kwh-usage
+content/blog/what-is-a-kilowatt-hour.md -> blog/42-best-energy-efficient-space-heater
+content/blog/what-is-a-kilowatt-hour.md -> blog/electric-bill-breakdown-understanding-line-items
+content/blog/what-is-a-kilowatt-hour.md -> blog/how-do-smart-meters-work
+content/blog/what-is-a-kilowatt-hour.md -> images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2.webp
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/06-water-bill-too-high
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/average-water-usage-per-person
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/how-to-read-a-water-meter
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/is-your-toilet-running-leak-test
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/stormwater-fee-on-water-bill-explained
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/tiered-water-rates-explained
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/water-meter-leak-indicator-explained
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/water-meter-running-when-no-water-used
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/water-service-charge-explained
+content/blog/what-is-ccf-on-a-water-bill.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/what-is-ccf-on-a-water-bill.md -> images/articles/what-is-ccf-on-a-water-bill/ccf-convert.webp
+content/blog/what-is-ccf-on-a-water-bill.md -> images/articles/what-is-ccf-on-a-water-bill/ccf-normal.webp
+content/blog/what-is-ccf-on-a-water-bill.md -> images/articles/what-is-ccf-on-a-water-bill/what-is-ccf-on-a-water-bill_hero_00001_.webp
+content/blog/which-rate-plan-is-right-for-me.md -> blog/05-how-to-lower-utility-bills
+content/blog/which-rate-plan-is-right-for-me.md -> blog/08-time-of-use-electricity
+content/blog/which-rate-plan-is-right-for-me.md -> blog/10-fixed-vs-variable-utility-rate
+content/blog/which-rate-plan-is-right-for-me.md -> blog/11-understanding-kwh-usage
+content/blog/which-rate-plan-is-right-for-me.md -> blog/22-minimum-bill-utility-bill-explained
+content/blog/which-rate-plan-is-right-for-me.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/which-rate-plan-is-right-for-me.md -> blog/46-what-time-is-electricity-cheapest
+content/blog/which-rate-plan-is-right-for-me.md -> blog/49-demand-charges-electricity-bill-explained
+content/blog/which-rate-plan-is-right-for-me.md -> blog/net-metering-explained
+content/blog/which-rate-plan-is-right-for-me.md -> blog/tiered-water-rates-explained
+content/blog/which-rate-plan-is-right-for-me.md -> images/articles/which-rate-plan-is-right-for-me/rate-plan-decision-doors.webp
+content/blog/which-rate-plan-is-right-for-me.md -> images/articles/which-rate-plan-is-right-for-me/time-of-use-clock.webp
+content/blog/which-rate-plan-is-right-for-me.md -> images/social/og-rate-plan-decision.webp
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/14-estimated-utility-bill-explained
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/23-utility-billing-cycle-explained
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/7-states-with-worst-utility-spikes-2026
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/how-utility-rates-fees-usage-work-together
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/tiered-water-rates-explained
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/why-electric-bill-changes-month-to-month
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/why-my-utility-bill-is-higher-with-same-usage
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> blog/why-your-electric-bill-keeps-rising-2026
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> images/articles/why-did-my-utility-bill-go-up-this-month/inline/billing-days-chart/image.webp
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> images/articles/why-did-my-utility-bill-go-up-this-month/inline/estimated-correction-diagram/image.webp
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> images/articles/why-did-my-utility-bill-go-up-this-month/inline/self-check-photo/image.webp
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> images/articles/why-did-my-utility-bill-go-up-this-month/inline/three-buckets-diagram/image.webp
+content/blog/why-did-my-utility-bill-go-up-this-month.md -> images/articles/why-did-my-utility-bill-go-up-this-month/why-did-my-utility-bill-go-up-this-month_hero_v2.webp
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/06-water-bill-too-high
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/drought-surcharge-on-water-bill-explained
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/how-to-dispute-utility-bill
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/how-to-read-a-water-meter
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/is-your-toilet-running-leak-test
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/tiered-water-rates-explained
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/water-meter-leak-indicator-explained
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/water-meter-running-when-no-water-used
+content/blog/why-did-my-water-bill-suddenly-increase.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/why-did-my-water-bill-suddenly-increase.md -> images/articles/why-did-my-water-bill-suddenly-increase/leak-check-checklist.webp
+content/blog/why-did-my-water-bill-suddenly-increase.md -> images/articles/why-did-my-water-bill-suddenly-increase/next-step-router.webp
+content/blog/why-did-my-water-bill-suddenly-increase.md -> images/articles/why-did-my-water-bill-suddenly-increase/two-hour-meter-test.webp
+content/blog/why-did-my-water-bill-suddenly-increase.md -> images/articles/why-did-my-water-bill-suddenly-increase/why-did-my-water-bill-suddenly-increase_hero_v2.webp
+content/blog/why-is-my-furnace-blowing-cold-air.md -> blog/45-whole-house-generator-vs-portable-cost
+content/blog/why-is-my-furnace-blowing-cold-air.md -> blog/heat-pump-running-all-day-in-winter
+content/blog/why-is-my-furnace-blowing-cold-air.md -> images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_v2.webp
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/44-how-to-lower-water-bill
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/average-water-usage-per-person
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/is-your-toilet-running-leak-test
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/water-meter-leak-indicator-explained
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/water-service-charge-explained
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/why-is-my-water-bill-higher-in-summer.md -> blog/why-is-my-water-bill-higher-in-winter
+content/blog/why-is-my-water-bill-higher-in-summer.md -> images/articles/why-is-my-water-bill-higher-in-summer/why-is-my-water-bill-higher-in-summer_hero_v2.webp
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/14-estimated-utility-bill-explained
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/23-utility-billing-cycle-explained
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/44-how-to-lower-water-bill
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/is-your-toilet-running-leak-test
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/sewer-averaging-water-bill-explained
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/water-meter-leak-indicator-explained
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/what-is-ccf-on-a-water-bill
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/why-did-my-water-bill-suddenly-increase
+content/blog/why-is-my-water-bill-higher-in-winter.md -> blog/why-is-my-water-bill-higher-in-summer
+content/blog/why-is-my-water-bill-higher-in-winter.md -> images/articles/why-is-my-water-bill-higher-in-winter/why-is-my-water-bill-higher-in-winter_hero_v2.webp
+content/editorial-team.md -> author/david-chen
+content/editorial-team.md -> author/marcia-washington
+content/editorial-team.md -> author/margaret-harrington
+content/editorial-team.md -> author/roberto-mendoza
+content/editorial-team.md -> author/tanya-patterson
+content/electricity-explained.md -> blog/01-how-to-read-your-electric-bill
+content/electricity-explained.md -> blog/03-why-is-my-electric-bill-so-high
+content/electricity-explained.md -> blog/08-time-of-use-electricity
+content/electricity-explained.md -> blog/10-fixed-vs-variable-utility-rate
+content/electricity-explained.md -> blog/11-understanding-kwh-usage
+content/electricity-explained.md -> blog/15-why-utility-bill-higher-same-usage
+content/electricity-explained.md -> blog/24-delivery-charge-vs-supply-charge-utility-bill
+content/electricity-explained.md -> blog/30-sudden-spike-in-electricity-bill-no-usage
+content/electricity-explained.md -> blog/46-what-time-is-electricity-cheapest
+content/electricity-explained.md -> blog/47-check-energy-leaks-home-diy
+content/electricity-explained.md -> blog/49-demand-charges-electricity-bill-explained
+content/electricity-explained.md -> blog/50-best-smart-plugs-standby-power
+content/electricity-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/electricity-explained.md -> blog/how-do-smart-meters-work
+content/electricity-explained.md -> blog/how-to-lower-electric-bill-complete-guide
+content/electricity-explained.md -> blog/how-to-lower-electric-bill-without-solar
+content/electricity-explained.md -> blog/how-to-read-electric-meter
+content/electricity-explained.md -> blog/phantom-power-draw-explained
+content/electricity-explained.md -> blog/tiered-electricity-rates-explained
+content/electricity-explained.md -> blog/what-is-a-kilowatt-hour
+content/electricity-explained.md -> blog/why-your-electric-bill-keeps-rising-2026
+content/electricity-explained.md -> images/articles/electricity-explained/bill-anatomy.webp
+content/electricity-explained.md -> images/articles/electricity-explained/custom_hero.webp
+content/gas-explained.md -> blog/07-gas-bill-too-high
+content/gas-explained.md -> blog/12-how-to-read-your-gas-bill
+content/gas-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/gas-explained.md -> blog/43-understand-natural-gas-bill-charges
+content/gas-explained.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/gas-explained.md -> blog/gas-delivery-charge-vs-supply-charge
+content/gas-explained.md -> blog/gas-vs-electric-heating-cost-comparison
+content/gas-explained.md -> blog/how-to-read-gas-meter
+content/gas-explained.md -> blog/mcf-vs-ccf-vs-therms-on-gas-bill
+content/gas-explained.md -> images/articles/gas-explained/bill-anatomy.webp
+content/gas-explained.md -> images/articles/gas-explained/custom_hero.webp
+content/heating-cooling-explained.md -> blog/13-ac-short-cycling-causes-fixes
+content/heating-cooling-explained.md -> blog/42-best-energy-efficient-space-heater
+content/heating-cooling-explained.md -> blog/47-check-energy-leaks-home-diy
+content/heating-cooling-explained.md -> blog/48-heat-pump-vs-gas-furnace-savings
+content/heating-cooling-explained.md -> blog/50-best-smart-plugs-standby-power
+content/heating-cooling-explained.md -> blog/ac-running-but-not-cooling
+content/heating-cooling-explained.md -> blog/afue-vs-seer-vs-hspf-vs-cop
+content/heating-cooling-explained.md -> blog/aux-heat-vs-emergency-heat-meaning
+content/heating-cooling-explained.md -> blog/duct-leaks-symptoms-hvac-running-all-day
+content/heating-cooling-explained.md -> blog/ductless-mini-split-vs-central-air
+content/heating-cooling-explained.md -> blog/gas-vs-electric-heating-cost-comparison
+content/heating-cooling-explained.md -> blog/heat-pump-running-all-day-in-winter
+content/heating-cooling-explained.md -> blog/single-stage-vs-two-stage-vs-variable-speed-hvac
+content/heating-cooling-explained.md -> blog/why-is-my-furnace-blowing-cold-air
+content/heating-cooling-explained.md -> images/articles/heating-cooling-explained/custom_hero.webp
+content/utilities-glossary.md -> images/articles/utilities-glossary/custom_hero.webp
+content/utility-bills-costs-explained.md -> blog/02-average-utility-costs-2026
+content/utility-bills-costs-explained.md -> blog/03-why-is-my-electric-bill-so-high
+content/utility-bills-costs-explained.md -> blog/04-hidden-fees-utility-bill
+content/utility-bills-costs-explained.md -> blog/05-how-to-lower-utility-bills
+content/utility-bills-costs-explained.md -> blog/09-apartment-utilities-cost
+content/utility-bills-costs-explained.md -> blog/14-estimated-utility-bill-explained
+content/utility-bills-costs-explained.md -> blog/16-budget-billing-level-pay-explained
+content/utility-bills-costs-explained.md -> blog/17-what-is-customer-charge-on-utility-bill
+content/utility-bills-costs-explained.md -> blog/18-fuel-adjustment-charge-on-utility-bill-explained
+content/utility-bills-costs-explained.md -> blog/19-utility-bill-surcharges-and-riders-explained
+content/utility-bills-costs-explained.md -> blog/20-utility-bill-proration-explained
+content/utility-bills-costs-explained.md -> blog/21-past-due-balance-utility-bill-explained
+content/utility-bills-costs-explained.md -> blog/22-minimum-bill-utility-bill-explained
+content/utility-bills-costs-explained.md -> blog/23-utility-billing-cycle-explained
+content/utility-bills-costs-explained.md -> blog/25-utility-bill-taxes-fees-franchise-charges-explained
+content/utility-bills-costs-explained.md -> blog/26-utility-deposit-explained
+content/utility-bills-costs-explained.md -> blog/27-utility-connection-fee-explained
+content/utility-bills-costs-explained.md -> blog/28-utility-reconnection-fee-explained
+content/utility-bills-costs-explained.md -> blog/average-utility-bills-by-state-2026
+content/utility-bills-costs-explained.md -> blog/complete-guide-understanding-utility-bill
+content/utility-bills-costs-explained.md -> blog/electric-bill-breakdown-understanding-line-items
+content/utility-bills-costs-explained.md -> blog/how-to-budget-for-utilities-in-your-first-apartment
+content/utility-bills-costs-explained.md -> blog/how-utility-rates-fees-usage-work-together
+content/utility-bills-costs-explained.md -> blog/utility-assistance-programs-liheap
+content/utility-bills-costs-explained.md -> images/articles/utility-bills-costs-explained/bill-anatomy.webp
+content/utility-bills-costs-explained.md -> images/articles/utility-bills-costs-explained/custom_hero.webp
+content/water-explained.md -> blog/06-water-bill-too-high
+content/water-explained.md -> blog/44-how-to-lower-water-bill
+content/water-explained.md -> blog/average-water-usage-per-person
+content/water-explained.md -> blog/drought-surcharge-on-water-bill-explained
+content/water-explained.md -> blog/how-sewer-charges-work-on-your-water-bill
+content/water-explained.md -> blog/how-to-read-a-water-meter
+content/water-explained.md -> blog/is-your-toilet-running-leak-test
+content/water-explained.md -> blog/sewer-averaging-water-bill-explained
+content/water-explained.md -> blog/stormwater-fee-on-water-bill-explained
+content/water-explained.md -> blog/tiered-water-rates-explained
+content/water-explained.md -> blog/water-meter-leak-indicator-explained
+content/water-explained.md -> blog/water-meter-running-when-no-water-used
+content/water-explained.md -> blog/water-service-charge-explained
+content/water-explained.md -> blog/what-is-ccf-on-a-water-bill
+content/water-explained.md -> blog/why-did-my-water-bill-suddenly-increase
+content/water-explained.md -> blog/why-is-my-water-bill-higher-in-summer
+content/water-explained.md -> blog/why-is-my-water-bill-higher-in-winter
+content/water-explained.md -> images/articles/water-explained/bill-anatomy.webp
+content/water-explained.md -> images/articles/water-explained/custom_hero.webp
+
+=== PAGES WITH ZERO INLINKS (all) ===
+content/blog/01-how-to-read-your-electric-bill.md
+content/blog/03-why-is-my-electric-bill-so-high.md
+content/blog/04-hidden-fees-utility-bill.md
+content/blog/05-how-to-lower-utility-bills.md
+content/blog/06-water-bill-too-high.md
+content/blog/07-gas-bill-too-high.md
+content/blog/08-time-of-use-electricity.md
+content/blog/09-apartment-utilities-cost.md
+content/blog/10-fixed-vs-variable-utility-rate.md
+content/blog/11-understanding-kwh-usage.md
+content/blog/12-how-to-read-your-gas-bill.md
+content/blog/13-ac-short-cycling-causes-fixes.md
+content/blog/14-estimated-utility-bill-explained.md
+content/blog/16-budget-billing-level-pay-explained.md
+content/blog/17-what-is-customer-charge-on-utility-bill.md
+content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md
+content/blog/19-utility-bill-surcharges-and-riders-explained.md
+content/blog/20-utility-bill-proration-explained.md
+content/blog/2026-utility-cost-index-by-state.md
+content/blog/21-past-due-balance-utility-bill-explained.md
+content/blog/22-minimum-bill-utility-bill-explained.md
+content/blog/23-utility-billing-cycle-explained.md
+content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md
+content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md
+content/blog/26-utility-deposit-explained.md
+content/blog/27-utility-connection-fee-explained.md
+content/blog/28-utility-reconnection-fee-explained.md
+content/blog/30-sudden-spike-in-electricity-bill-no-usage.md
+content/blog/42-best-energy-efficient-space-heater.md
+content/blog/44-how-to-lower-water-bill.md
+content/blog/45-whole-house-generator-vs-portable-cost.md
+content/blog/46-what-time-is-electricity-cheapest.md
+content/blog/47-check-energy-leaks-home-diy.md
+content/blog/48-heat-pump-vs-gas-furnace-savings.md
+content/blog/49-demand-charges-electricity-bill-explained.md
+content/blog/50-best-smart-plugs-standby-power.md
+content/_index.md
+content/about.md
+content/blog/ac-running-but-not-cooling.md
+content/affiliate-disclosure.md
+content/blog/afue-vs-seer-vs-hspf-vs-cop.md
+content/author/_index.md
+content/blog/aux-heat-vs-emergency-heat-meaning.md
+content/blog/average-utility-bills-by-state-2026.md
+content/blog/average-water-usage-per-person.md
+content/blog/can-utility-shut-off-service.md
+content/blog/ccf-calculator.md
+content/blog/complete-guide-understanding-utility-bill.md
+content/author/david-chen.md
+content/blog/do-programmable-thermostats-cut-heating-bills.md
+content/blog/drought-surcharge-on-water-bill-explained.md
+content/blog/duct-leaks-symptoms-hvac-running-all-day.md
+content/blog/ductless-mini-split-vs-central-air.md
+content/blog/electric-bill-breakdown-understanding-line-items.md
+content/blog/ev-charging-impact-electric-bill.md
+content/blog/gadgets-that-lower-utility-bills.md
+content/blog/gas-customer-charge-explained.md
+content/blog/gas-delivery-charge-vs-supply-charge.md
+content/blog/gas-vs-electric-heating-cost-comparison.md
+content/blog/heat-pump-running-all-day-in-winter.md
+content/blog/how-do-smart-meters-work.md
+content/blog/how-sewer-charges-work-on-your-water-bill.md
+content/blog/how-to-budget-for-utilities-in-your-first-apartment.md
+content/blog/how-to-dispute-utility-bill.md
+content/blog/how-to-lower-electric-bill-complete-guide.md
+content/blog/how-to-lower-electric-bill-without-solar.md
+content/blog/how-to-read-a-water-meter.md
+content/blog/how-to-read-electric-meter.md
+content/blog/how-to-read-gas-meter.md
+content/blog/how-to-read-your-utility-bill.md
+content/blog/how-utility-rates-fees-usage-work-together.md
+content/blog/is-your-toilet-running-leak-test.md
+content/author/marcia-washington.md
+content/author/margaret-harrington.md
+content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md
+content/blog/moving-utilities-checklist.md
+content/blog/net-metering-explained.md
+content/blog/phantom-power-draw-explained.md
+content/author/roberto-mendoza.md
+content/blog/sewer-averaging-water-bill-explained.md
+content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md
+content/blog/supply-vs-delivery-charges-electricity.md
+content/author/tanya-patterson.md
+content/terms.md
+content/blog/tiered-electricity-rates-explained.md
+content/blog/tiered-water-rates-explained.md
+content/blog/utility-assistance-programs-liheap.md
+content/blog/water-meter-leak-indicator-explained.md
+content/blog/water-meter-running-when-no-water-used.md
+content/blog/water-service-charge-explained.md
+content/blog/what-is-a-kilowatt-hour.md
+content/blog/what-is-ccf-on-a-water-bill.md
+content/blog/which-rate-plan-is-right-for-me.md
+content/blog/why-did-my-utility-bill-go-up-this-month.md
+content/blog/why-did-my-water-bill-suddenly-increase.md
+content/blog/why-is-my-furnace-blowing-cold-air.md
+content/blog/why-is-my-water-bill-higher-in-summer.md
+content/blog/why-is-my-water-bill-higher-in-winter.md
+TOTAL ZEROS: 98 / 113
+
+=== HUB IN-LINK COUNTS ===
+electricity-explained: 4
+gas-explained: 2
+water-explained: 5
+heating-cooling-explained: 7
+utility-bills-costs-explained: 4
+
+=== INTERNAL OUTLINKS PER PAGE (desc) ===
+7 | content/editorial-policy.md
+5 | content/utility-bills-costs-explained.md
+4 | content/corrections.md
+4 | content/contact.md
+3 | content/methodology.md
+2 | content/editorial-team.md
+2 | content/blog/what-is-a-kilowatt-hour.md
+2 | content/author/tanya-patterson.md
+2 | content/author/roberto-mendoza.md
+2 | content/author/margaret-harrington.md
+2 | content/author/marcia-washington.md
+2 | content/author/david-chen.md
+2 | content/affiliate-disclosure.md
+2 | content/about.md
+1 | content/water-explained.md
+1 | content/utilities-glossary.md
+1 | content/search.md
+1 | content/privacy-policy.md
+1 | content/heating-cooling-explained.md
+1 | content/gas-explained.md
+1 | content/electricity-explained.md
+1 | content/blog/why-is-my-water-bill-higher-in-winter.md
+1 | content/blog/why-is-my-water-bill-higher-in-summer.md
+1 | content/blog/why-did-my-utility-bill-go-up-this-month.md
+1 | content/blog/what-is-ccf-on-a-water-bill.md
+1 | content/blog/supply-vs-delivery-charges-electricity.md
+1 | content/blog/how-utility-rates-fees-usage-work-together.md
+1 | content/blog/how-to-read-electric-meter.md
+1 | content/blog/heat-pump-running-all-day-in-winter.md
+1 | content/blog/aux-heat-vs-emergency-heat-meaning.md
+1 | content/blog/afue-vs-seer-vs-hspf-vs-cop.md
+1 | content/blog/ac-running-but-not-cooling.md
+1 | content/blog/_index.md
+0 | content/terms.md
+0 | content/disclaimer.md
+0 | content/blog/why-is-my-furnace-blowing-cold-air.md
+0 | content/blog/why-did-my-water-bill-suddenly-increase.md
+0 | content/blog/which-rate-plan-is-right-for-me.md
+0 | content/blog/water-service-charge-explained.md
+0 | content/blog/water-meter-running-when-no-water-used.md
+0 | content/blog/water-meter-leak-indicator-explained.md
+0 | content/blog/utility-assistance-programs-liheap.md
+0 | content/blog/tiered-water-rates-explained.md
+0 | content/blog/tiered-electricity-rates-explained.md
+0 | content/blog/single-stage-vs-two-stage-vs-variable-speed-hvac.md
+0 | content/blog/sewer-averaging-water-bill-explained.md
+0 | content/blog/phantom-power-draw-explained.md
+0 | content/blog/net-metering-explained.md
+0 | content/blog/moving-utilities-checklist.md
+0 | content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md
+0 | content/blog/is-your-toilet-running-leak-test.md
+0 | content/blog/how-to-read-your-utility-bill.md
+0 | content/blog/how-to-read-gas-meter.md
+0 | content/blog/how-to-read-a-water-meter.md
+0 | content/blog/how-to-lower-electric-bill-without-solar.md
+0 | content/blog/how-to-lower-electric-bill-complete-guide.md
+0 | content/blog/how-to-dispute-utility-bill.md
+0 | content/blog/how-to-budget-for-utilities-in-your-first-apartment.md
+0 | content/blog/how-sewer-charges-work-on-your-water-bill.md
+0 | content/blog/how-do-smart-meters-work.md
+0 | content/blog/gas-vs-electric-heating-cost-comparison.md
+0 | content/blog/gas-delivery-charge-vs-supply-charge.md
+0 | content/blog/gas-customer-charge-explained.md
+0 | content/blog/gadgets-that-lower-utility-bills.md
+0 | content/blog/ev-charging-impact-electric-bill.md
+0 | content/blog/electric-bill-breakdown-understanding-line-items.md
+0 | content/blog/ductless-mini-split-vs-central-air.md
+0 | content/blog/duct-leaks-symptoms-hvac-running-all-day.md
+0 | content/blog/drought-surcharge-on-water-bill-explained.md
+0 | content/blog/do-programmable-thermostats-cut-heating-bills.md
+0 | content/blog/complete-guide-understanding-utility-bill.md
+0 | content/blog/ccf-calculator.md
+0 | content/blog/can-utility-shut-off-service.md
+0 | content/blog/average-water-usage-per-person.md
+0 | content/blog/average-utility-bills-by-state-2026.md
+0 | content/blog/50-best-smart-plugs-standby-power.md
+0 | content/blog/49-demand-charges-electricity-bill-explained.md
+0 | content/blog/48-heat-pump-vs-gas-furnace-savings.md
+0 | content/blog/47-check-energy-leaks-home-diy.md
+0 | content/blog/46-what-time-is-electricity-cheapest.md
+0 | content/blog/45-whole-house-generator-vs-portable-cost.md
+0 | content/blog/44-how-to-lower-water-bill.md
+0 | content/blog/42-best-energy-efficient-space-heater.md
+0 | content/blog/30-sudden-spike-in-electricity-bill-no-usage.md
+0 | content/blog/28-utility-reconnection-fee-explained.md
+0 | content/blog/27-utility-connection-fee-explained.md
+0 | content/blog/26-utility-deposit-explained.md
+0 | content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md
+0 | content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md
+0 | content/blog/23-utility-billing-cycle-explained.md
+0 | content/blog/22-minimum-bill-utility-bill-explained.md
+0 | content/blog/21-past-due-balance-utility-bill-explained.md
+0 | content/blog/2026-utility-cost-index-by-state.md
+0 | content/blog/20-utility-bill-proration-explained.md
+0 | content/blog/19-utility-bill-surcharges-and-riders-explained.md
+0 | content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md
+0 | content/blog/17-what-is-customer-charge-on-utility-bill.md
+0 | content/blog/16-budget-billing-level-pay-explained.md
+0 | content/blog/14-estimated-utility-bill-explained.md
+0 | content/blog/13-ac-short-cycling-causes-fixes.md
+0 | content/blog/12-how-to-read-your-gas-bill.md
+0 | content/blog/11-understanding-kwh-usage.md
+0 | content/blog/10-fixed-vs-variable-utility-rate.md
+0 | content/blog/09-apartment-utilities-cost.md
+0 | content/blog/08-time-of-use-electricity.md
+0 | content/blog/07-gas-bill-too-high.md
+0 | content/blog/06-water-bill-too-high.md
+0 | content/blog/05-how-to-lower-utility-bills.md
+0 | content/blog/04-hidden-fees-utility-bill.md
+0 | content/blog/03-why-is-my-electric-bill-so-high.md
+0 | content/blog/01-how-to-read-your-electric-bill.md
+0 | content/author/_index.md
+0 | content/_index.md

@@ -1,0 +1,30 @@
+{
+  "role": "mason",
+  "mission": "Source-or-soften the 8 uncited savings claims in buying-decision tables. For each: find an authoritative source (DOE Energy Saver, ENERGY STAR, EPA WaterSense, EIA, university extension); if the source supports the claim, rewrite the line with the sourced range + add the source to front matter with retrieval date; if it contradicts or you cannot verify, replace the number with the sourced figure or remove the numeric claim entirely. NEVER leave an uncited specific number.",
+  "parent_objective": "SQ-069 audit remediation, phase 1",
+  "context": "The 8 claims (file : line, verbatim topic):\n1. content/blog/average-utility-bills-by-state-2026.md:~126 — 'In 2026, 12 states implemented new conservation-tier pricing' (specific count, needs a source or must go)\n2. same line — 'drought surcharges of up to 30%' (needs source or reframe without the number)\n3. content/blog/07-gas-bill-too-high.md:~160 — window film insulation kits 'reduces heat loss by 40–70%'\n4. content/blog/07-gas-bill-too-high.md:~161 — thermal curtains block drafts/radiant heat loss (qualitative — either source or keep qualitative, no invented numbers)\n5. content/blog/44-how-to-lower-water-bill.md:~104 — drip irrigation '30–50% reduction'\n6. content/blog/44-how-to-lower-water-bill.md:~106 — rain barrel '1,000–5,000 gal/yr'\n7. content/blog/44-how-to-lower-water-bill.md:~107 — mulch 2–3 inches '20–30% reduction in watering frequency'\n8. content/blog/05-how-to-lower-utility-bills.md:~85 — water heater wrap 'Reduces standby heat loss 25–45% per DOE' (DOE cites ~25% for electric wraps; the 45% bound needs a source or the range must narrow)\nLikely sources: EPA WaterSense (drip/mulch/rain barrel), energystar.gov, energy.gov/energysaver (window film, water heater wrap). Fetch, verify the number actually appears, cite with '(retrieved 2026-08-30)'. Update each file's front-matter sources list + 'updated: 2026-08-30'. Keep edits surgical — table rows and citations only, no rewrites of surrounding prose.",
+  "known_facts": [
+    "House convention: front-matter sources 'URL (Label, retrieved YYYY-MM-DD)'; in-body [n] markers where the page already uses them",
+    "These sit in decision tables — accuracy beats optimism: when in doubt, narrow the range or drop the number"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/44-how-to-lower-water-bill.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md"
+    ]
+  },
+  "constraints": [
+    "Only the 4 listed files; only the claim lines + front matter",
+    "Every verdict in your report: claim → SOURCED (URL) / SOFTENED (why) / REMOVED (why), one line each",
+    "Final grep check: no '40–70%', '30–50%', '25–45%', '12 states', 'up to 30%' left uncited in those files"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "8 verdict lines in the result envelope",
+    "4 files updated with citations/softened numbers + dated front-matter sources + updated stamps",
+    "hugo build passes"
+  ]
+}

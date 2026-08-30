@@ -1,0 +1,30 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 audits + cross-family verification",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052, .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every finding must quote the exact sentence(s) from the file",
+  "Every factual verdict must cite the source URL you fetched this run (retrieved 2026-08-29); if you could not check, say UNVERIFIED \u2014 never guess",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every finding quoted and evidenced",
+  "Grade + ranked fix list delivered",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "cartographer",
+ "mission": "FULL audit of content/blog/09-apartment-utilities-cost.md (908 words, tier-2 rank 60, Rybbit: 100% bounce / 0s \u2014 hero flag was already shipped 2026-08-28, so the residual engagement defect is likely content/answer quality). (1) Search-intent match for 'apartment utilities cost': searchers want NUMBERS (what do utilities cost for an apartment, by service, average total). Does the Quick Answer deliver a number in <=3 sentences? Inventory every cost figure in the page and check its sourcing. (2) Fact-check: any $/mo totals, electricity/gas/water averages for apartments \u2014 verify against EIA (899 kWh/mo national single-family-ish average; apartments use less \u2014 is there a fetched source for what apartments specifically use?), EPA water figures, or reframe. Give KEPT/REFUTED/UNVERIFIED verdicts with quotes. (3) Structural: is the answer above the fold now; H2 logic; renters-specific angles missing (RUBS / ratio-utility-billing, average-billing setups, what leases cover) \u2014 are those claims verifiable?; internal links (11-kwh, 44-water, budget-billing 16, state-average page); title/meta. Deliver: FINDINGS table (issue | exact quote | evidence URL | severity | proposed exact fix), grade, top-3 actions, human-review items.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Verified anchors available: EIA 899 kWh/mo national average (faq id=97, homes \u2014 note it is ALL homes, not apartments), $144/mo 2024 average bill, 18.34\u00a2/kWh June 2026; EPA 1 CCF = 748 gal, 82 gal/day/person",
+  "If the page claims apartment-specific numbers with no source, that is the core finding \u2014 the fix is either a fetched apartment-specific source or a clearly-labeled derivation"
+ ]
+}

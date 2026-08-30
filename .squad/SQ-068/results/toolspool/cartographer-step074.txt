@@ -1,0 +1,1297 @@
+exit_code: 0
+=== CANNIBALIZATION CANDIDATES: keywords shared by 2+ pages ===
+KEYWORD: "high water bill" (11 pages)
+   /blog/06-water-bill-too-high/
+   /blog/how-to-read-a-water-meter/
+   /blog/sewer-averaging-water-bill-explained/
+   /blog/tiered-water-rates-explained/
+   /blog/water-meter-leak-indicator-explained/
+   /blog/water-meter-running-when-no-water-used/
+   /blog/water-service-charge-explained/
+   /blog/what-is-ccf-on-a-water-bill/
+   /blog/why-did-my-water-bill-suddenly-increase/
+   /blog/why-is-my-water-bill-higher-in-summer/
+   /blog/why-is-my-water-bill-higher-in-winter/
+KEYWORD: "water leak detection" (9 pages)
+   /blog/how-to-read-a-water-meter/
+   /blog/sewer-averaging-water-bill-explained/
+   /blog/water-meter-leak-indicator-explained/
+   /blog/water-meter-running-when-no-water-used/
+   /blog/water-service-charge-explained/
+   /blog/what-is-ccf-on-a-water-bill/
+   /blog/why-did-my-water-bill-suddenly-increase/
+   /blog/why-is-my-water-bill-higher-in-summer/
+   /blog/why-is-my-water-bill-higher-in-winter/
+KEYWORD: "gallons of water" (7 pages)
+   /blog/how-to-read-a-water-meter/
+   /blog/tiered-water-rates-explained/
+   /blog/water-meter-running-when-no-water-used/
+   /blog/water-service-charge-explained/
+   /blog/what-is-ccf-on-a-water-bill/
+   /blog/why-did-my-water-bill-suddenly-increase/
+   /blog/why-is-my-water-bill-higher-in-summer/
+KEYWORD: "kwh usage" (7 pages)
+   /blog/average-utility-bills-by-state-2026/
+   /blog/electric-bill-breakdown-understanding-line-items/
+   /blog/gas-vs-electric-heating-cost-comparison/
+   /blog/how-do-smart-meters-work/
+   /blog/how-to-read-electric-meter/
+   /blog/supply-vs-delivery-charges-electricity/
+   /blog/what-is-a-kilowatt-hour/
+KEYWORD: "therms" (6 pages)
+   /blog/ac-running-but-not-cooling/
+   /blog/aux-heat-vs-emergency-heat-meaning/
+   /blog/average-utility-bills-by-state-2026/
+   /blog/gas-delivery-charge-vs-supply-charge/
+   /blog/gas-vs-electric-heating-cost-comparison/
+   /blog/mcf-vs-ccf-vs-therms-on-gas-bill/
+KEYWORD: "utility budget" (6 pages)
+   /blog/average-utility-bills-by-state-2026/
+   /blog/how-to-budget-for-utilities-in-your-first-apartment/
+   /blog/how-utility-rates-fees-usage-work-together/
+   /blog/mcf-vs-ccf-vs-therms-on-gas-bill/
+   /blog/tiered-water-rates-explained/
+   /blog/why-did-my-utility-bill-go-up-this-month/
+KEYWORD: "high electric bill" (5 pages)
+   /blog/electric-bill-breakdown-understanding-line-items/
+   /blog/how-do-smart-meters-work/
+   /blog/how-to-read-electric-meter/
+   /blog/supply-vs-delivery-charges-electricity/
+   /blog/what-is-a-kilowatt-hour/
+KEYWORD: "ac not cooling" (4 pages)
+   /blog/ac-running-but-not-cooling/
+   /blog/afue-vs-seer-vs-hspf-vs-cop/
+   /blog/heat-pump-running-all-day-in-winter/
+   /blog/what-is-a-kilowatt-hour/
+KEYWORD: "delivery charge" (4 pages)
+   /blog/electric-bill-breakdown-understanding-line-items/
+   /blog/gas-delivery-charge-vs-supply-charge/
+   /blog/supply-vs-delivery-charges-electricity/
+   /blog/what-is-a-kilowatt-hour/
+KEYWORD: "duct leak symptoms" (4 pages)
+   /blog/ac-running-but-not-cooling/
+   /blog/afue-vs-seer-vs-hspf-vs-cop/
+   /blog/duct-leaks-symptoms-hvac-running-all-day/
+   /blog/heat-pump-running-all-day-in-winter/
+KEYWORD: "estimated utility bill" (4 pages)
+   /blog/14-estimated-utility-bill-explained/
+   /blog/how-do-smart-meters-work/
+   /blog/why-did-my-utility-bill-go-up-this-month/
+   /blog/why-is-my-water-bill-higher-in-winter/
+KEYWORD: "heat pump savings" (4 pages)
+   /blog/afue-vs-seer-vs-hspf-vs-cop/
+   /blog/aux-heat-vs-emergency-heat-meaning/
+   /blog/gas-vs-electric-heating-cost-comparison/
+   /blog/heat-pump-running-all-day-in-winter/
+KEYWORD: "lower utility bill" (4 pages)
+   /blog/average-utility-bills-by-state-2026/
+   /blog/mcf-vs-ccf-vs-therms-on-gas-bill/
+   /blog/tiered-water-rates-explained/
+   /blog/why-is-my-water-bill-higher-in-summer/
+KEYWORD: "water meter reading" (4 pages)
+   /blog/how-to-read-a-water-meter/
+   /blog/water-meter-leak-indicator-explained/
+   /blog/water-meter-running-when-no-water-used/
+   /blog/what-is-ccf-on-a-water-bill/
+KEYWORD: "high gas bill" (3 pages)
+   /blog/average-utility-bills-by-state-2026/
+   /blog/gas-delivery-charge-vs-supply-charge/
+   /blog/mcf-vs-ccf-vs-therms-on-gas-bill/
+KEYWORD: "home energy assessment" (3 pages)
+   /blog/05-how-to-lower-utility-bills/
+   /blog/gadgets-that-lower-utility-bills/
+   /blog/how-to-lower-electric-bill-without-solar/
+KEYWORD: "hvac efficiency ratings" (3 pages)
+   /blog/afue-vs-seer-vs-hspf-vs-cop/
+   /blog/aux-heat-vs-emergency-heat-meaning/
+   /blog/gas-vs-electric-heating-cost-comparison/
+KEYWORD: "utility bill review" (3 pages)
+   /blog/14-estimated-utility-bill-explained/
+   /blog/complete-guide-understanding-utility-bill/
+   /blog/how-to-dispute-utility-bill/
+KEYWORD: "utility surcharge" (3 pages)
+   /blog/electric-bill-breakdown-understanding-line-items/
+   /blog/water-service-charge-explained/
+   /blog/why-did-my-utility-bill-go-up-this-month/
+KEYWORD: "aux heat vs emergency heat" (2 pages)
+   /blog/aux-heat-vs-emergency-heat-meaning/
+   /blog/heat-pump-running-all-day-in-winter/
+KEYWORD: "customer charge utility" (2 pages)
+   /blog/22-minimum-bill-utility-bill-explained/
+   /blog/electric-bill-breakdown-understanding-line-items/
+KEYWORD: "gas furnace" (2 pages)
+   /blog/afue-vs-seer-vs-hspf-vs-cop/
+   /blog/gas-vs-electric-heating-cost-comparison/
+KEYWORD: "hvac sizing" (2 pages)
+   /blog/ductless-mini-split-vs-central-air/
+   /blog/single-stage-vs-two-stage-vs-variable-speed-hvac/
+KEYWORD: "lower electric bill" (2 pages)
+   /blog/how-to-lower-electric-bill-complete-guide/
+   /blog/how-to-lower-electric-bill-without-solar/
+KEYWORD: "reduce electric bill" (2 pages)
+   /blog/03-why-is-my-electric-bill-so-high/
+   /blog/phantom-power-draw-explained/
+KEYWORD: "sewer averaging" (2 pages)
+   /blog/sewer-averaging-water-bill-explained/
+   /blog/why-is-my-water-bill-higher-in-winter/
+KEYWORD: "sewer charge water bill" (2 pages)
+   /blog/how-sewer-charges-work-on-your-water-bill/
+   /blog/sewer-averaging-water-bill-explained/
+KEYWORD: "smart meter accuracy" (2 pages)
+   /blog/how-do-smart-meters-work/
+   /blog/how-to-read-electric-meter/
+KEYWORD: "supply charge" (2 pages)
+   /blog/gas-delivery-charge-vs-supply-charge/
+   /blog/supply-vs-delivery-charges-electricity/
+KEYWORD: "thermostat settings" (2 pages)
+   /blog/ac-running-but-not-cooling/
+   /blog/aux-heat-vs-emergency-heat-meaning/
+KEYWORD: "tiered electricity rates" (2 pages)
+   /blog/tiered-electricity-rates-explained/
+   /blog/tiered-water-rates-explained/
+KEYWORD: "utility bill charges" (2 pages)
+   /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+   /blog/how-to-read-your-utility-bill/
+KEYWORD: "utility deposit" (2 pages)
+   /blog/26-utility-deposit-explained/
+   /blog/how-to-budget-for-utilities-in-your-first-apartment/
+
+=== TITLE-based near-duplicate candidates ===
+7 bigrams shared: /blog/why-is-my-water-bill-higher-in-summer/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'bill higher', 'is my', 'my water', 'why is', 'higher in', 'common causes', 'water bill'}
+7 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'charge on', 'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+7 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'charge on', 'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+7 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'charge on', 'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+6 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+6 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+6 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'to review', 'a utility', 'review a', 'how to', 'utility bill', 'on a'}
+5 bigrams shared: /blog/how-to-lower-electric-bill-complete-guide/ <-> /blog/how-to-lower-electric-bill-without-solar/
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    "How to Lower Your Electric Bill Without Solar"
+    shared: {'to lower', 'lower your', 'your electric', 'electric bill', 'how to'}
+5 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'charges on', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'charge on', 'to review', 'review a', 'how to', 'on a'}
+5 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'charge on', 'to review', 'review a', 'how to', 'on a'}
+5 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'charge on', 'to review', 'review a', 'how to', 'on a'}
+5 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+5 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'to review', 'a utility', 'on a', 'utility bill', 'how to'}
+4 bigrams shared: /blog/how-to-read-electric-meter/ <-> /blog/how-to-read-gas-meter/
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    shared: {'dial digital', 'meter dial', 'how to', 'to read'}
+4 bigrams shared: /blog/49-demand-charges-electricity-bill-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Demand Charge on an Electricity Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'charge on', 'review a', 'how to', 'to review'}
+4 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'charge on', 'review a', 'how to', 'to review'}
+4 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'utility bill', 'on a'}
+4 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'review a', 'on a', 'to review'}
+4 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'utility bill', 'on a'}
+4 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'review a', 'utility bill', 'how to', 'to review'}
+4 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'review a', 'utility bill', 'how to', 'to review'}
+4 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'utility bill', 'on a'}
+4 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'charge on', 'review a', 'how to', 'to review'}
+4 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'utility bill', 'on a'}
+4 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'review a', 'utility bill', 'how to', 'to review'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'how to', 'customer charge', 'review a', 'to review'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'charge on', 'review a', 'how to', 'to review'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'utility bill', 'on a'}
+4 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'review a', 'utility bill', 'how to', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/17-what-is-customer-charge-on-utility-bill/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Customer Charge on a Utility Bill"
+    shared: {'how to', 'a utility', 'review a', 'to review'}
+4 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/how-to-read-gas-meter/
+    "How to Read Your Gas Bill"
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    shared: {'read your', 'how to', 'your gas', 'to read'}
+4 bigrams shared: /blog/06-water-bill-too-high/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'water bill', 'is my', 'why is', 'my water'}
+4 bigrams shared: /blog/06-water-bill-too-high/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'water bill', 'is my', 'why is', 'my water'}
+4 bigrams shared: /blog/06-water-bill-too-high/ <-> /blog/07-gas-bill-too-high/
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    shared: {'is my', 'so high', 'bill so', 'why is'}
+4 bigrams shared: /blog/03-why-is-my-electric-bill-so-high/ <-> /blog/07-gas-bill-too-high/
+    "Why Is My Electric Bill So High? Find the Real Cause"
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    shared: {'is my', 'so high', 'bill so', 'why is'}
+4 bigrams shared: /blog/03-why-is-my-electric-bill-so-high/ <-> /blog/06-water-bill-too-high/
+    "Why Is My Electric Bill So High? Find the Real Cause"
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    shared: {'is my', 'so high', 'bill so', 'why is'}
+3 bigrams shared: /electricity-explained/ <-> /water-explained/
+    "Electricity Explained: Rates, kWh, and Your Bill"
+    "Water Explained: Rates, CCF, and Your Bill"
+    shared: {'explained rates', 'and your', 'your bill'}
+3 bigrams shared: /blog/water-meter-leak-indicator-explained/ <-> /blog/water-meter-running-when-no-water-used/
+    "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
+    "Water Meter Running When No Water Is Being Used: Causes and Fixes"
+    shared: {'running when', 'water is', 'water meter'}
+3 bigrams shared: /blog/how-to-read-gas-meter/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    "How to Read Your Own Utility Bill"
+    shared: {'read your', 'how to', 'to read'}
+3 bigrams shared: /blog/how-sewer-charges-work-on-your-water-bill/ <-> /blog/is-your-toilet-running-leak-test/
+    "How to Understand Sewer Charges on Your Water Bill"
+    "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+    shared: {'water bill', 'on your', 'your water'}
+3 bigrams shared: /blog/ev-charging-impact-electric-bill/ <-> /blog/net-metering-explained/
+    "How EV Charging Can Affect Your Electric Bill"
+    "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+    shared: {'affect your', 'your electric', 'electric bill'}
+3 bigrams shared: /blog/drought-surcharge-on-water-bill-explained/ <-> /blog/what-is-ccf-on-a-water-bill/
+    "How to Review a Drought-Related Charge on a Water Bill"
+    "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
+    shared: {'a water', 'water bill', 'on a'}
+3 bigrams shared: /blog/drought-surcharge-on-water-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Drought-Related Charge on a Water Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/50-best-smart-plugs-standby-power/ <-> /blog/phantom-power-draw-explained/
+    "How to Measure and Reduce Standby Power"
+    "Phantom Power Draw: How to Find and Reduce Standby Use"
+    shared: {'reduce standby', 'how to', 'and reduce'}
+3 bigrams shared: /blog/49-demand-charges-electricity-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Demand Charge on an Electricity Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/how-to-lower-electric-bill-without-solar/
+    "How to Lower Your Water Bill"
+    "How to Lower Your Electric Bill Without Solar"
+    shared: {'how to', 'to lower', 'lower your'}
+3 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/how-to-lower-electric-bill-complete-guide/
+    "How to Lower Your Water Bill"
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    shared: {'how to', 'to lower', 'lower your'}
+3 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/how-sewer-charges-work-on-your-water-bill/
+    "How to Lower Your Water Bill"
+    "How to Understand Sewer Charges on Your Water Bill"
+    shared: {'water bill', 'how to', 'your water'}
+3 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Utility Service-Start Charge"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Utility Service-Start Charge"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Utility Service-Start Charge"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'on a', 'to review'}
+3 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'on a', 'to review'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'utility bill', 'how to'}
+3 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'a utility', 'on a'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'a utility', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/17-what-is-customer-charge-on-utility-bill/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Customer Charge on a Utility Bill"
+    shared: {'utility bill', 'how to', 'to review'}
+3 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read Your Gas Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'read your', 'how to', 'to read'}
+3 bigrams shared: /blog/09-apartment-utilities-cost/ <-> /blog/how-to-budget-for-utilities-in-your-first-apartment/
+    "How to Budget for Apartment Utilities"
+    "How to Budget for Utilities in Your First Apartment"
+    shared: {'budget for', 'how to', 'to budget'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/gas-customer-charge-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Gas Customer Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/26-utility-deposit-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/17-what-is-customer-charge-on-utility-bill/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Customer Charge on a Utility Bill"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/16-budget-billing-level-pay-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review a Utility Budget-Billing Plan"
+    shared: {'review a', 'how to', 'to review'}
+3 bigrams shared: /blog/07-gas-bill-too-high/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'common causes', 'is my', 'why is'}
+3 bigrams shared: /blog/07-gas-bill-too-high/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'common causes', 'is my', 'why is'}
+3 bigrams shared: /blog/04-hidden-fees-utility-bill/ <-> /utility-bills-costs-explained/
+    "Every Charge on Your Utility Bill, Explained"
+    "Utility Bills Explained: Every Charge on Your Bill"
+    shared: {'every charge', 'on your', 'charge on'}
+3 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read Your Own Utility Bill"
+    shared: {'read your', 'how to', 'to read'}
+3 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-read-gas-meter/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    shared: {'read your', 'how to', 'to read'}
+3 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-lower-electric-bill-without-solar/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Lower Your Electric Bill Without Solar"
+    shared: {'how to', 'your electric', 'electric bill'}
+3 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-lower-electric-bill-complete-guide/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    shared: {'how to', 'your electric', 'electric bill'}
+3 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/12-how-to-read-your-gas-bill/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read Your Gas Bill"
+    shared: {'read your', 'how to', 'to read'}
+2 bigrams shared: /gas-explained/ <-> /water-explained/
+    "Natural Gas Explained: Therms, Rates, and Your Bill"
+    "Water Explained: Rates, CCF, and Your Bill"
+    shared: {'and your', 'your bill'}
+2 bigrams shared: /electricity-explained/ <-> /gas-explained/
+    "Electricity Explained: Rates, kWh, and Your Bill"
+    "Natural Gas Explained: Therms, Rates, and Your Bill"
+    shared: {'and your', 'your bill'}
+2 bigrams shared: /blog/why-is-my-furnace-blowing-cold-air/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Is My Furnace Blowing Cold Air?"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/why-is-my-furnace-blowing-cold-air/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Why Is My Furnace Blowing Cold Air?"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/why-did-my-water-bill-suddenly-increase/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Did My Water Bill Suddenly Increase?"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'water bill', 'my water'}
+2 bigrams shared: /blog/why-did-my-water-bill-suddenly-increase/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Why Did My Water Bill Suddenly Increase?"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'water bill', 'my water'}
+2 bigrams shared: /blog/why-did-my-utility-bill-go-up-this-month/ <-> /blog/why-did-my-water-bill-suddenly-increase/
+    "Why Did My Utility Bill Go Up This Month? (Even Without Using More)"
+    "Why Did My Water Bill Suddenly Increase?"
+    shared: {'why did', 'did my'}
+2 bigrams shared: /blog/tiered-electricity-rates-explained/ <-> /utility-bills-costs-explained/
+    "How to Review Tiered Electricity Rates on Your Bill"
+    "Utility Bills Explained: Every Charge on Your Bill"
+    shared: {'your bill', 'on your'}
+2 bigrams shared: /blog/how-utility-rates-fees-usage-work-together/ <-> /utility-bills-costs-explained/
+    "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+    "Utility Bills Explained: Every Charge on Your Bill"
+    shared: {'your bill', 'on your'}
+2 bigrams shared: /blog/how-utility-rates-fees-usage-work-together/ <-> /blog/tiered-electricity-rates-explained/
+    "How Utility Rates, Fees, and Usage Work Together on Your Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'your bill', 'on your'}
+2 bigrams shared: /blog/how-to-read-electric-meter/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    "How to Read Your Own Utility Bill"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/how-to-read-a-water-meter/ <-> /blog/water-meter-leak-indicator-explained/
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    "Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is Off"
+    shared: {'how to', 'water meter'}
+2 bigrams shared: /blog/how-to-read-a-water-meter/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    "How to Read Your Own Utility Bill"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/how-to-read-a-water-meter/ <-> /blog/how-to-read-gas-meter/
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/how-to-read-a-water-meter/ <-> /blog/how-to-read-electric-meter/
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/how-to-lower-electric-bill-without-solar/ <-> /blog/net-metering-explained/
+    "How to Lower Your Electric Bill Without Solar"
+    "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/how-to-lower-electric-bill-complete-guide/ <-> /blog/net-metering-explained/
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/how-to-dispute-utility-bill/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Dispute a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/how-sewer-charges-work-on-your-water-bill/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Understand Sewer Charges on Your Water Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'on your'}
+2 bigrams shared: /blog/gas-customer-charge-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Gas Customer Charge"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/ev-charging-impact-electric-bill/ <-> /blog/how-to-lower-electric-bill-without-solar/
+    "How EV Charging Can Affect Your Electric Bill"
+    "How to Lower Your Electric Bill Without Solar"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/ev-charging-impact-electric-bill/ <-> /blog/how-to-lower-electric-bill-complete-guide/
+    "How EV Charging Can Affect Your Electric Bill"
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/duct-leaks-symptoms-hvac-running-all-day/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Duct Leaks: What to Check When Rooms Are Uneven"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'what to', 'to check'}
+2 bigrams shared: /blog/drought-surcharge-on-water-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Drought-Related Charge on a Water Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/drought-surcharge-on-water-bill-explained/ <-> /blog/how-to-read-a-water-meter/
+    "How to Review a Drought-Related Charge on a Water Bill"
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    shared: {'how to', 'a water'}
+2 bigrams shared: /blog/drought-surcharge-on-water-bill-explained/ <-> /blog/how-sewer-charges-work-on-your-water-bill/
+    "How to Review a Drought-Related Charge on a Water Bill"
+    "How to Understand Sewer Charges on Your Water Bill"
+    shared: {'how to', 'water bill'}
+2 bigrams shared: /blog/ccf-calculator/ <-> /blog/is-your-toilet-running-leak-test/
+    "CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars"
+    "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+    shared: {'water bill', 'your water'}
+2 bigrams shared: /blog/ccf-calculator/ <-> /blog/how-sewer-charges-work-on-your-water-bill/
+    "CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars"
+    "How to Understand Sewer Charges on Your Water Bill"
+    shared: {'water bill', 'your water'}
+2 bigrams shared: /blog/average-water-usage-per-person/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Calculate Water Use Per Person From Your Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'your bill'}
+2 bigrams shared: /blog/afue-vs-seer-vs-hspf-vs-cop/ <-> /blog/what-is-ccf-on-a-water-bill/
+    "AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English"
+    "What Is CCF on a Water Bill? (Cubic Feet Explained in Plain English)"
+    shared: {'plain english', 'in plain'}
+2 bigrams shared: /blog/49-demand-charges-electricity-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Demand Charge on an Electricity Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/is-your-toilet-running-leak-test/
+    "How to Lower Your Water Bill"
+    "Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)"
+    shared: {'water bill', 'your water'}
+2 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Lower Your Water Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'water bill', 'how to'}
+2 bigrams shared: /blog/44-how-to-lower-water-bill/ <-> /blog/ccf-calculator/
+    "How to Lower Your Water Bill"
+    "CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars"
+    shared: {'water bill', 'your water'}
+2 bigrams shared: /blog/30-sudden-spike-in-electricity-bill-no-usage/ <-> /blog/water-meter-running-when-no-water-used/
+    "Sudden Spike in Electricity Bill With No Usage Change: Causes and Fixes"
+    "Water Meter Running When No Water Is Being Used: Causes and Fixes"
+    shared: {'and fixes', 'causes and'}
+2 bigrams shared: /blog/28-utility-reconnection-fee-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Verify a Utility Reconnection Charge"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Utility Service-Start Charge"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Utility Service-Start Charge"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/27-utility-connection-fee-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Utility Service-Start Charge"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Utility Deposit Requirement"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/26-utility-deposit-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Utility Deposit Requirement"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/how-sewer-charges-work-on-your-water-bill/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Understand Sewer Charges on Your Water Bill"
+    shared: {'how to', 'charges on'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/25-utility-bill-taxes-fees-franchise-charges-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/how-sewer-charges-work-on-your-water-bill/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Understand Sewer Charges on Your Water Bill"
+    shared: {'how to', 'charges on'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/ductless-mini-split-vs-central-air/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "Ductless Mini-Split vs Central Air: How to Compare Systems"
+    shared: {'how to', 'to compare'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'on a'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/24-delivery-charge-vs-supply-charge-utility-bill/ <-> /blog/26-utility-deposit-explained/
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Read Your Own Utility Bill"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/how-to-read-gas-meter/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/how-to-read-electric-meter/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/how-to-read-a-water-meter/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'on a'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/23-utility-billing-cycle-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Read the Billing Period on a Utility Statement"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/22-minimum-bill-utility-bill-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Minimum Charge on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/21-past-due-balance-utility-bill-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Past-Due Balance on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/2026-utility-cost-index-by-state/ <-> /blog/average-utility-bills-by-state-2026/
+    "2026 Utility Cost Index: Average Electric, Gas & Water Bills by State"
+    "Average Utility Bills by State (2026): National Averages + 17-State Sample"
+    shared: {'bills by', 'by state'}
+2 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/20-utility-bill-proration-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Partial-Period Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/19-utility-bill-surcharges-and-riders-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review Surcharges and Riders on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/17-what-is-customer-charge-on-utility-bill/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Customer Charge on a Utility Bill"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Dispute a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/28-utility-reconnection-fee-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Verify a Utility Reconnection Charge"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/16-budget-billing-level-pay-explained/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Review a Utility Budget-Billing Plan"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'a utility', 'how to'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Review an Estimated Utility Bill"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Review an Estimated Utility Bill"
+    "How to Dispute a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/gas-customer-charge-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Gas Customer Charge"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/drought-surcharge-on-water-bill-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Drought-Related Charge on a Water Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/49-demand-charges-electricity-bill-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Demand Charge on an Electricity Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/27-utility-connection-fee-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Utility Service-Start Charge"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/26-utility-deposit-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Utility Deposit Requirement"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Review an Estimated Utility Bill"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/14-estimated-utility-bill-explained/ <-> /blog/16-budget-billing-level-pay-explained/
+    "How to Review an Estimated Utility Bill"
+    "How to Review a Utility Budget-Billing Plan"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/mcf-vs-ccf-vs-therms-on-gas-bill/
+    "How to Read Your Gas Bill"
+    "MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean"
+    shared: {'your gas', 'gas bill'}
+2 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/how-to-read-electric-meter/
+    "How to Read Your Gas Bill"
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/how-to-read-a-water-meter/
+    "How to Read Your Gas Bill"
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/12-how-to-read-your-gas-bill/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Read Your Gas Bill"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/11-understanding-kwh-usage/ <-> /blog/net-metering-explained/
+    "Understanding kWh Usage on Your Electric Bill"
+    "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/11-understanding-kwh-usage/ <-> /blog/how-to-lower-electric-bill-without-solar/
+    "Understanding kWh Usage on Your Electric Bill"
+    "How to Lower Your Electric Bill Without Solar"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/11-understanding-kwh-usage/ <-> /blog/how-to-lower-electric-bill-complete-guide/
+    "Understanding kWh Usage on Your Electric Bill"
+    "How to Lower Your Electric Bill: The Complete Guide (2026)"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/11-understanding-kwh-usage/ <-> /blog/ev-charging-impact-electric-bill/
+    "Understanding kWh Usage on Your Electric Bill"
+    "How EV Charging Can Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/10-fixed-vs-variable-utility-rate/ <-> /blog/which-rate-plan-is-right-for-me/
+    "Fixed vs. Variable Utility Rates: Which to Pick"
+    "Which Rate Plan Is Right for Me? (Fixed vs Variable vs Time-of-Use)"
+    shared: {'vs variable', 'fixed vs'}
+2 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/which-rate-plan-is-right-for-me/
+    "How to Review a Time-of-Use Electricity Plan"
+    "Which Rate Plan Is Right for Me? (Fixed vs Variable vs Time-of-Use)"
+    shared: {'of use', 'time of'}
+2 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/tiered-electricity-rates-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review Tiered Electricity Rates on Your Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/08-time-of-use-electricity/ <-> /blog/14-estimated-utility-bill-explained/
+    "How to Review a Time-of-Use Electricity Plan"
+    "How to Review an Estimated Utility Bill"
+    shared: {'how to', 'to review'}
+2 bigrams shared: /blog/07-gas-bill-too-high/ <-> /blog/why-is-my-furnace-blowing-cold-air/
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    "Why Is My Furnace Blowing Cold Air?"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/07-gas-bill-too-high/ <-> /blog/12-how-to-read-your-gas-bill/
+    "Why Is My Gas Bill So High? 10 Common Causes and How to Fix Each One"
+    "How to Read Your Gas Bill"
+    shared: {'how to', 'gas bill'}
+2 bigrams shared: /blog/06-water-bill-too-high/ <-> /blog/why-is-my-furnace-blowing-cold-air/
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    "Why Is My Furnace Blowing Cold Air?"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/06-water-bill-too-high/ <-> /blog/why-did-my-water-bill-suddenly-increase/
+    "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+    "Why Did My Water Bill Suddenly Increase?"
+    shared: {'water bill', 'my water'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/how-to-read-your-utility-bill/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Read Your Own Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/how-to-dispute-utility-bill/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Dispute a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/25-utility-bill-taxes-fees-franchise-charges-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review Taxes, Fees, and Other Charges on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/24-delivery-charge-vs-supply-charge-utility-bill/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Compare Delivery and Supply Charges on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/21-past-due-balance-utility-bill-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review a Past-Due Balance on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/20-utility-bill-proration-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review a Partial-Period Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/19-utility-bill-surcharges-and-riders-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review Surcharges and Riders on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/17-what-is-customer-charge-on-utility-bill/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review a Customer Charge on a Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/05-how-to-lower-utility-bills/ <-> /blog/14-estimated-utility-bill-explained/
+    "How to Prioritize Utility-Bill Improvements"
+    "How to Review an Estimated Utility Bill"
+    shared: {'utility bill', 'how to'}
+2 bigrams shared: /blog/04-hidden-fees-utility-bill/ <-> /blog/complete-guide-understanding-utility-bill/
+    "Every Charge on Your Utility Bill, Explained"
+    "A Practical Workflow for Understanding Your Utility Bill"
+    shared: {'utility bill', 'your utility'}
+2 bigrams shared: /blog/04-hidden-fees-utility-bill/ <-> /blog/22-minimum-bill-utility-bill-explained/
+    "Every Charge on Your Utility Bill, Explained"
+    "How to Review a Minimum Charge on a Utility Bill"
+    shared: {'utility bill', 'charge on'}
+2 bigrams shared: /blog/04-hidden-fees-utility-bill/ <-> /blog/18-fuel-adjustment-charge-on-utility-bill-explained/
+    "Every Charge on Your Utility Bill, Explained"
+    "How to Review a Fuel Adjustment Charge on a Utility Bill"
+    shared: {'utility bill', 'charge on'}
+2 bigrams shared: /blog/04-hidden-fees-utility-bill/ <-> /blog/17-what-is-customer-charge-on-utility-bill/
+    "Every Charge on Your Utility Bill, Explained"
+    "How to Review a Customer Charge on a Utility Bill"
+    shared: {'utility bill', 'charge on'}
+2 bigrams shared: /blog/03-why-is-my-electric-bill-so-high/ <-> /blog/why-is-my-water-bill-higher-in-winter/
+    "Why Is My Electric Bill So High? Find the Real Cause"
+    "Why Is My Water Bill Higher in Winter? 8 Common Causes"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/03-why-is-my-electric-bill-so-high/ <-> /blog/why-is-my-water-bill-higher-in-summer/
+    "Why Is My Electric Bill So High? Find the Real Cause"
+    "Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/03-why-is-my-electric-bill-so-high/ <-> /blog/why-is-my-furnace-blowing-cold-air/
+    "Why Is My Electric Bill So High? Find the Real Cause"
+    "Why Is My Furnace Blowing Cold Air?"
+    shared: {'is my', 'why is'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/net-metering-explained/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-read-electric-meter/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read an Electric Meter (Dial & Digital Guide)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/how-to-read-a-water-meter/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read a Water Meter (and Know If Its Accurate)"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/ev-charging-impact-electric-bill/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How EV Charging Can Affect Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/23-utility-billing-cycle-explained/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "How to Read the Billing Period on a Utility Statement"
+    shared: {'how to', 'to read'}
+2 bigrams shared: /blog/01-how-to-read-your-electric-bill/ <-> /blog/11-understanding-kwh-usage/
+    "How to Read Your Electric Bill (Line by Line Guide)"
+    "Understanding kWh Usage on Your Electric Bill"
+    shared: {'your electric', 'electric bill'}
+
+[harness: this command modified 1 file(s) on disk — recorded in your ground-truth log]

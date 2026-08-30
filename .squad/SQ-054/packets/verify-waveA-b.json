@@ -1,0 +1,30 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 audits + cross-family verification",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052, .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every finding must quote the exact sentence(s) from the file",
+  "Every factual verdict must cite the source URL you fetched this run (retrieved 2026-08-29); if you could not check, say UNVERIFIED \u2014 never guess",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every finding quoted and evidenced",
+  "Grade + ranked fix list delivered",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "lieutenant",
+ "mission": "WAVE-2 CROSS-FAMILY VERIFICATION (fresh derivation \u2014 zero reliance on the wave-1 workers' conclusions; do NOT open .squad/SQ-054/results). Three files were just rebuilt by wing seats (different model family than yours \u2014 that is why YOU verify them). Re-derive the riskiest claims YOURSELF from sources and flag any mismatch with what the files now say: (A) content/blog/tiered-water-rates-explained.md \u2014 the Colorado tenant-billing citation (was 'HB1090'): does the bill number AND its description now match an official Colorado source you fetch (leg.colorado.gov / denverwater / a .gov page)? Also verify 2-3 of the municipal tier tables ($ per unit per tier) against official 2026 rate pages you fetch. (B) content/blog/50-best-smart-plugs-standby-power.md \u2014 verify the comparison-table spec cells for Kasa KP115, Kasa KP125MP2 (2-pack), Tapo P110M at tp-link.com/kasasmart.com product pages you fetch: does each SKU exist as named, and do energy-monitoring/hub/outdoor cells match the manufacturer page? (Emporia row is pre-verified \u2014 skip it.) Also spot-check 2 body standby-watt claims. (C) content/blog/why-is-my-water-bill-higher-in-summer.md and content/blog/why-is-my-water-bill-higher-in-winter.md \u2014 verify the EPA figures cited (outdoor ~30% / ~60% arid, 9,400 gal/yr leaks, ~10% leak savings, $1,300/$500) against epa.gov/watersense pages you fetch. OUTPUT CONTRACT: per file \u2014 VERDICT (SOUND / DEFECTS FOUND), then each checked claim: file quote -> your fetched source URL + quote -> MATCH/MISMATCH/UNSOURCED. End with the single most serious defect found (or 'none').",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Your job is adversarial: assume the worker erred; try to break the claims",
+  "You are the LAST gate before production \u2014 a false 'SOUND' is worse than a false alarm"
+ ]
+}

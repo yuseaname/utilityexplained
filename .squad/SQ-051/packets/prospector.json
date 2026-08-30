@@ -1,0 +1,34 @@
+{
+ "role": "prospector",
+ "mission": "Audit + fact-check pages #9-#12 (68/65/65/64pv). Full-ingestion extraction per page: complete rubric + claims. #9 has a KNOWN intent-slug mismatch (title promises 'lower utility bills' broadly \u2014 verify what the body actually delivers and whether the title over-promises). #12 overlaps #2 (sudden-spike) \u2014 map exactly which sections duplicate and which page should own them.",
+ "parent_objective": "SQ-051: per-page SEO content + fact-check audit of top 30 pages by Rybbit 30d traffic; feed Commander synthesis into a remediation plan",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education (water/sewer/electric/gas), monetized via affiliate product boxes + AdSense. AdSense is currently BLOCKED (\"Low value content\", 2026-08-23) \u2014 re-earning trust is the mission context; accuracy and evidence are the gate. Source of truth: markdown at content/blog/<slug>.md (frontmatter + body). Live URL: https://utilityexplained.com/blog/<slug>/. Reader: US resident holding a utility bill, wants to understand/act. Site-wide known facts: 92/96 guides have zero outbound source URLs; author/editor identity claims are under review for substantiation; site sells \"exact savings\" so unsourced dollar figures are the #1 credibility risk. Engagement data for your pages is in .squad/SQ-051/evidence.md (Rybbit 30d).",
+ "known_facts": [
+  "S4 (SQ-045): #9 05-how-to-lower-utility-bills confirmed title/slug/intent mismatch",
+  "#12 03-why-is-my-electric-bill-so-high is the designated absorber of 15-why-utility-bill-higher-same-usage (334w duplicate) in cluster plan CLUSTER-HIGH-ELEC",
+  "#11 electric-bill-breakdown: check for overlap with 01-how-to-read-your-electric-bill + 41- duplicate"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Evidence brief (engagement data + selection method): .squad/SQ-051/evidence.md \u2014 read it first. Your pages: content/blog/05-how-to-lower-utility-bills.md; content/blog/23-utility-billing-cycle-explained.md; content/blog/electric-bill-breakdown-understanding-line-items.md; content/blog/03-why-is-my-electric-bill-so-high.md"
+ },
+ "constraints": [
+  "Never make claims about Google's ranking systems/algorithms beyond citing public documentation \u2014 frame SEO advice as best practice, not causal ranking claims",
+  "No vague recommendations \u2014 every fix names its target section, heading, quote, or claim",
+  "Every factual verdict carries a URL + retrieved date 2026-08-29, or is labeled NEEDS HUMAN REVIEW",
+  "Stay read-only on the repo \u2014 analysis only",
+  "If web_search/web_fetch cannot confirm a claim, say UNVERIFIED \u2014 do not fabricate evidence"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every assigned page has its full OUTPUT CONTRACT block",
+  "3-6 factual claims per page verified with URL + date, or labeled NEEDS HUMAN REVIEW",
+  "Weak-copy examples are exact quotes, not paraphrases",
+  "Fixes are specific enough to execute without re-reading the page"
+ ]
+}

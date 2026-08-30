@@ -1,0 +1,28 @@
+{
+  "role": "executor",
+  "mission": "Technical-SEO sweep of the RENDERED site in public/: titles, meta descriptions, canonicals, JSON-LD schema, H1 discipline, image alt coverage, sitemap/robots health, and broken internal links. Mechanical facts with commands as evidence.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). public/ is the fully rendered Hugo site (fresh 2026-08-29). All pages are .html files or dirs with index.html. Quote every path (repo path has a space). Do NOT invoke scripts/squad.py — write your own grep/awk loops.",
+  "known_facts": [
+    "110 content pages exist in content/; public/blog/ has ~112 rendered entries",
+    "Homepage = public/index.html; hubs = public/electricity-explained/index.html etc."
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only vs the repo — no writes anywhere",
+    "Every finding must cite the command that produced it"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "Title-tag report: count, length distribution (under 30 / 30-60 / over 60 chars), duplicate titles",
+    "Meta-description report: missing count, duplicate count, over-160-char count, 3 worst examples quoted",
+    "Canonical report: pages lacking rel=canonical (count + list)",
+    "Schema report: which JSON-LD @types appear, on how many pages (grep -c evidence); pages missing schema entirely",
+    "H1 report: pages with zero or multiple <h1>",
+    "Image alt report: rendered <img> without alt attribute (count + 5 examples with page path)",
+    "Sitemap: total URLs (grep -c <loc>), any content page missing from sitemap; robots.txt contents summarized",
+    "Internal-link integrity: extract hrefs starting / from public/**/*.html, report any target that does not resolve to an existing file/dir on disk (list up to 30, with count)"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "parent_objective": "SQ-054 write wave: apply verified ledgers to unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site \u2014 every number must trace to a fetched source. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs; inline [n] + '## Sources' footer; sources FM = body-cited set. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054/results (stale verdicts poison runs). No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY the files in write_paths; touch nothing else",
+  "PRIOR READ-ONLY VERIFICATION established the ledger below \u2014 apply it; RE-FETCH only the specific URLs backing numbers you KEEP or ADD (spot re-fetch of each cited URL is required)",
+  "Cannot verify = do not include; preserve slug/date/author/image; set updated: 2026-08-29; keep hero_below_answer: true if present",
+  "'## Quick Answer' first: <=3 sentences with a mechanism or number",
+  "Keep existing good content \u2014 add evidence and structure, do not reset"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers",
+  "sources FM = body citations",
+  "QA + H2 structure present",
+  "OUTPUT CONTRACT: claim ledger (KEPT w/ URL+date / FIXED / DELETED / ESTIMATE), edits applied, human-review items, wc before->after"
+ ],
+ "role": "prospector",
+ "mission": "content/blog/moving-utilities-checklist.md \u2014 apply the verified ledger (read-only pass 2026-08-29 found: zero $ figures in file; USPS forwarding mentioned as '1 week out' with no fee/duration claim; utility notice windows '3-10 business days'/'2-week/3-week lead' unsourced). (1) Fetch usps.com's mail-forwarding page (moversguide or pack-ship/mail-forwarding) and anchor the forwarding step with the CURRENT fee for online forwarding + the duration (12 months standard + extensions) as stated on the page; correct the '1 week out' timing only if USPS or a utility page states timing. (2) Fetch 2 utility moving/start-stop pages (one electric e.g. dominionenergy or duke-energy moving page, one water/municipal) and anchor the notice-period guidance to what THEY state, replacing the generic '3-10 business days' claims; if the utilities don't state windows, reframe as 'each utility sets its own lead time \u2014 confirm when you schedule'. (3) Add sources frontmatter + inline [n] + '## Sources' footer. Keep the checklist structure (10 H2s) and tone; this is a procedural page \u2014 precision beats additions.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/moving-utilities-checklist.md"
+  ]
+ },
+ "known_facts": [
+  "Zero $ figures exist in the file \u2014 do not invent any; if USPS publishes its forwarding fee, cite it exactly",
+  "energy.gov/energysaver URLs are DEAD (successors: energy.gov/save/*, energystar.gov/saveathome/*)"
+ ]
+}

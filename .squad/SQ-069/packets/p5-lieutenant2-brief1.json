@@ -1,0 +1,24 @@
+{
+  "role": "lieutenant",
+  "mission": "BRIEF 1 — rebuild content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md into the definitive delivery-vs-supply explainer (this page WINS the cluster — both rivals are deleted drafts).",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds",
+  "context": "Current: 424w, ConEd-only, refusal tone. House exemplar: content/blog/17-what-is-customer-charge-on-utility-bill.md (verified-rate tables, 'published rates, not ranges').\nBUILD:\n1. Quick Answer decision rule: delivery = wires/pipes + metering + billing, set by the utility, NOT shoppable; supply = the energy itself, shoppable in ~deregulated states (name them generally).\n2. Two-bucket comparison table: covers | rate basis | who sets it | shoppable? — one row DELIVERY, one row SUPPLY.\n3. EMBED after definitions: {{< image src=\"/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/delivery-vs-supply-split.webp\" alt=\"Comparison of delivery charges versus supply charges showing what each covers, who sets each price, and which is shoppable\" caption=\"Delivery vs supply: who sets what\" >}}\n4. VERIFIED PER-UTILITY SPLIT TABLE (the core upgrade): 3+ named utilities — fetch live residential rate pages (e.g., Con Edison https://www.coned.com/en/accounts-billing/your-bill/your-guide-to-rates or time-of-use page with 27.86/17.11/5.22c supply + 16.402c delivery + $21 customer charge, retrieved 2026-08-29 — ALREADY VERIFIED, reuse; PG&E base plan; National Grid MA; Austin Energy; pick ones whose pages actually load). Columns: utility | supply rate | delivery rate | fixed charge | where published (URL) | retrieved date. ONLY published numbers.\n5. Regulated vs deregulated section: which states shop supply (reference papowerswitch.com as the PA example), gas-side example (Columbia Gas Ohio SCO or similar) — one gas row keeps the page utility-bill-generic, not electric-only.\n6. WORKED MONTH: 899 kWh × $0.1834 = $164.84 (EIA verified) then split supply/delivery using one named utility's own published rates — arithmetic only, no invented percentages.\n7. FAQ (3-4 blocks): can I lower delivery charges? (no — usage-independent, but taxes/riders reviewable), can I shop supply?, why did only supply change?, is delivery the same as distribution?\n8. Front matter: updated 2026-08-30; sources list fully dated; keep existing aliases (incl. /blog/supply-vs-delivery-charges-electricity/); link out to 17-customer-charge, 18-fuel-adjustment, 49-demand-charges, gas-delivery-charge-vs-supply-charge, complete-guide. Target 900-1,200w.",
+  "known_facts": [
+    "Con Ed live TOU (retrieved 2026-08-29, verified): supply summer peak 27.86c / other-months 17.11c / off-peak 5.22c; delivery 8am-midnight 16.402c; customer charge $21.00",
+    "EIA 18.34c/kWh + 899 kWh/mo verified",
+    "Both competing drafts deleted — this page is the only live delivery-vs-supply electric page; gas-delivery page stays separate"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md"]
+  },
+  "constraints": [
+    "Write ONLY this file; NO hugo build; every rate in the table fetched live with URL + retrieved date in this run — no remembered numbers",
+    "If a utility rate page fails to load, drop that utility and use another — never approximate"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "3+-utility dated table with where-published column; worked split; comparison table; FAQ blocks; image embedded",
+    "Done bar: replaces the absorbed drafts' intent entirely; >=8/10 search-readiness structure (Quick Answer + tables + FAQ + dated sources)"
+  ]
+}

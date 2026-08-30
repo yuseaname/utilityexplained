@@ -1,0 +1,30 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 audits + cross-family verification",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052, .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every finding must quote the exact sentence(s) from the file",
+  "Every factual verdict must cite the source URL you fetched this run (retrieved 2026-08-29); if you could not check, say UNVERIFIED \u2014 never guess",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every finding quoted and evidenced",
+  "Grade + ranked fix list delivered",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "verifier",
+ "mission": "WAVE-2 CROSS-FAMILY VERIFICATION (fresh derivation \u2014 zero reliance on the wave-1 workers' conclusions; do NOT open .squad/SQ-054/results). Three files were just rebuilt by other seats. Re-derive the riskiest claims YOURSELF from the sources and flag any mismatch with what the files now say: (A) content/blog/can-utility-shut-off-service.md \u2014 verify 4-6 of the most specific legal assertions now in the file (notice periods, moratoria, medical protections, any state-specific rules): each must match an official page YOU fetch this run (state PUC / utility / .gov); flag every claim in the file that lacks such an anchor or mismatches it. (B) content/blog/how-to-read-gas-meter.md \u2014 verify the dial-reading procedure and any unit conversions (Ccf, therms, multipliers) against 2 utility meter-reading guides you fetch; flag procedural errors (these actively mislead readers if wrong). (C) content/blog/water-service-charge-explained.md \u2014 verify each municipal fixed-charge $ figure against the official rate page you fetch; flag stale or wrong amounts. OUTPUT CONTRACT: per file \u2014 VERDICT (SOUND / DEFECTS FOUND), then each checked claim: file quote -> your fetched source URL + quote -> MATCH/MISMATCH/UNSOURCED. End with the single most serious defect found (or 'none').",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Your job is adversarial: assume the worker erred; try to break the claims",
+  "You are the LAST gate before this ships to production \u2014 a false 'SOUND' is worse than a false alarm"
+ ]
+}

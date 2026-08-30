@@ -1,0 +1,30 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 audits + cross-family verification",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052, .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every finding must quote the exact sentence(s) from the file",
+  "Every factual verdict must cite the source URL you fetched this run (retrieved 2026-08-29); if you could not check, say UNVERIFIED \u2014 never guess",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every finding quoted and evidenced",
+  "Grade + ranked fix list delivered",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "tracer",
+ "mission": "FULL audit of content/blog/10-fixed-vs-variable-utility-rate.md (860 words, tier-2 rank 58, previously triage-lite only) PLUS its draft twin content/blog/fixed-vs-variable-rate-electricity-plan.md (draft:true). (1) Search-intent match: does the live page answer 'fixed vs variable utility/electricity rate \u2014 which should I pick'? Quick Answer quality (<=3 sentences, mechanism/number)? (2) Fact-check EVERY claim: index/price-cap mechanics, any plan-cost comparisons, provider examples, switching rules \u2014 fetch the sources (powertochoose.org EFL rules, a state PUC page, provider plan pages) and give KEPT/REFUTED/UNVERIFIED verdicts with quotes. (3) Twin analysis: exact overlap between live 10- and the draft; which should be canonical; does the draft carry unique content worth merging? Recommend: keep-both-differentiated / merge-direction / delete-draft. (4) Thinness, structure (H2s), title/meta, internal links, E-E-A-T. Deliver: FINDINGS table (issue | exact quote | evidence URL | severity | proposed exact fix), grade A-F for each file, top-3 actions, and anything needing human review.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Live 10- has 8 outbound sources already (frontmatter) \u2014 verify a sample of 3 links are live and say what they claim",
+  "Site convention: draft twins were either deleted (02, 43) or aliased; the decision here needs evidence of content overlap"
+ ]
+}

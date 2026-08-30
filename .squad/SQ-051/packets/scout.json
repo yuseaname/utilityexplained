@@ -1,0 +1,30 @@
+{
+ "role": "scout",
+ "mission": "Recon pass \u2014 LEADS, not verified facts. PART A: quick triage of 4 pages: content/blog/how-to-read-electric-meter.md, how-to-read-a-water-meter.md, 08-time-of-use-electricity.md, tiered-electricity-rates-explained.md \u2014 first-screen answer present? title/intent match? obvious thin sections? 2-3 terse leads each. PART B: contradiction sweep across ALL 30 slugs in .squad/SQ-051/evidence.md using grep (quote every command, counts via grep -c only): (1) every 'national average' / 'average U.S' occurrence with nearby dollar figure \u2014 page + figure + line; (2) occurrences of '$262' / '$430' / '$500' figures; (3) thermostat 'per degree' percentage claims across pages; (4) any 'BLS' or 'December 2026' citations. Output = raw lead lists with file:line + quoted fragment.",
+ "parent_objective": "SQ-051: per-page SEO content + fact-check audit of top 30 pages by Rybbit 30d traffic; feed Commander synthesis into a remediation plan",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education (water/sewer/electric/gas), monetized via affiliate product boxes + AdSense. AdSense is currently BLOCKED (\"Low value content\", 2026-08-23) \u2014 re-earning trust is the mission context; accuracy and evidence are the gate. Source of truth: markdown at content/blog/<slug>.md (frontmatter + body). Live URL: https://utilityexplained.com/blog/<slug>/. Reader: US resident holding a utility bill, wants to understand/act. Site-wide known facts: 92/96 guides have zero outbound source URLs; author/editor identity claims are under review for substantiation; site sells \"exact savings\" so unsourced dollar figures are the #1 credibility risk. Engagement data: .squad/SQ-051/evidence.md (Rybbit 30d).",
+ "known_facts": [
+  "Scout law: leads only, no verdicts; never count in-head",
+  "Every PART B lead = file:line + quoted text fragment",
+  "Known from SQ-045: national-average contradiction exists ($262 vs $430-500/mo) \u2014 your sweep confirms every location"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "All 30 slugs: .squad/SQ-051/evidence.md"
+ },
+ "constraints": [
+  "Leads only",
+  "Quote every grep command",
+  "file:line + fragment for every lead"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "PART A: 2-3 leads per page, telegraphic",
+  "PART B: complete grep-quoted lead lists for all 4 sweeps"
+ ]
+}

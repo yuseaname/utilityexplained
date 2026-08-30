@@ -1,0 +1,29 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 source-and-verify unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages rebuilt to the verified-examples standard: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). Site standards: frontmatter `sources:` = live URLs you fetched this run; body inline [n] markers + '## Sources' footer with markdown links; no leaked editorial notes in prose; frontmatter `sources:` must equal the body-cited set. NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052 or .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every verdict must quote the exact sentence(s) from the file and, for factual checks, cite the source URL you fetched (retrieved 2026-08-29)",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers in the delivered body",
+  "sources frontmatter complete and equal to body citations",
+  "RESULT must contain, under a heading 'OUTPUT CONTRACT': (1) CLAIM LEDGER \u2014 every factual claim checked, each marked KEPT (source URL + exact quote fragment + retrieved date) / FIXED (old text -> new text + source) / DELETED (why unverifiable) / ESTIMATE (labeled as site estimate + basis); (2) EDITS \u2014 structural changes applied to the file; (3) HUMAN REVIEW \u2014 anything you could not verify at source; (4) wc -w before -> after."
+ ],
+ "role": "cartographer",
+ "mission": "TWO sibling files, same treatment each: (A) content/blog/why-is-my-water-bill-higher-in-summer.md (1,280w, 1 H2, no Quick Answer, 0 sources) and (B) content/blog/why-is-my-water-bill-higher-in-winter.md (846w, 2 H2s, no Quick Answer, 4 outbound \u2014 thin for its 8-cause promise). For EACH: '## Quick Answer' (top 2-3 causes WITH numbers), H2 structure, and a real source layer. EPA anchors already verified 2026-08-29 and citable after a confirming fetch: outdoor use is ~30% of household use nationally, as high as ~60% in arid regions; household leaks waste ~9,400 gal/yr and fixing them saves ~10% on water bills; WaterSense retrofits save ~$500 of an average ~$1,300/yr. Summer file: verify any irrigation/evaporation/pool-fill claims at the EPA outdoor page (or delete). Winter file: verify freeze-leak/colder-water/seasonal-rate claims at fetched sources or soften to labeled mechanism; EITHER deepen the 8-cause promise with sourced content OR trim the promise to what the content delivers \u2014 state your choice in the ledger. sources frontmatter + inline [n] + '## Sources' footer on both files.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Fix any epa.gov/watersense/fix-leak URL \u2192 the live slug is /watersense/fixaleak (verified 2026-08-29)",
+  "Siblings for cross-links (read-only): 44-how-to-lower-water-bill.md, water-service-charge-explained.md, sewer-averaging-water-bill-explained.md"
+ ]
+}

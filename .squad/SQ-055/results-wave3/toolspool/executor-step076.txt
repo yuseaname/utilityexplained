@@ -1,0 +1,131 @@
+exit_code: 0
+EXIT=0
+3:### 23-utility-billing-cycle-explained.md  (head_fm src=ok)
+5:    BAD (/blog/01-how-to-read-your-electric-bill/) -> None (None)
+6:    BAD (/blog/12-how-to-read-your-gas-bill/) -> None (None)
+7:    BAD (/blog/electric-bill-breakdown-understanding-line-items/) -> None (None)
+8:    BAD (/blog/03-why-is-my-electric-bill-so-high/) -> None (None)
+9:    BAD (/blog/20-utility-bill-proration-explained/) -> None (None)
+10:    BAD (/blog/14-estimated-utility-bill-explained/) -> None (None)
+11:    BAD (/blog/30-sudden-spike-in-electricity-bill-no-usage/) -> None (None)
+12:    BAD (/blog/electric-bill-breakdown-understanding-line-items/) -> None (None)
+13:    BAD (/blog/22-minimum-bill-utility-bill-explained/) -> None (None)
+14:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+15:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+28:  [WC] current=1988 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md  head=None  delta=639
+31:### 07-gas-bill-too-high.md  (head_fm src=ok)
+33:    BAD (/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) -> None (None)
+34:    BAD (/blog/17-what-is-customer-charge-on-utility-bill/) -> None (None)
+35:    BAD (/blog/do-programmable-thermostats-cut-heating-bills/) -> None (None)
+36:    BAD (/blog/afue-vs-seer-vs-hspf-vs-cop/) -> None (None)
+37:    BAD (/blog/duct-leaks-symptoms-hvac-running-all-day/) -> None (None)
+38:    BAD (/blog/47-check-energy-leaks-home-diy/) -> None (None)
+39:    BAD (/blog/23-utility-billing-cycle-explained/) -> None (None)
+40:    BAD (/blog/12-how-to-read-your-gas-bill/) -> None (None)
+41:    BAD (/blog/how-to-read-gas-meter/) -> None (None)
+42:    BAD (/blog/12-how-to-read-your-gas-bill/) -> None (None)
+43:    BAD (/blog/how-to-read-gas-meter/) -> None (None)
+44:    BAD (/blog/23-utility-billing-cycle-explained/) -> None (None)
+45:    BAD (/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) -> None (None)
+46:    BAD (/blog/gas-delivery-charge-vs-supply-charge/) -> None (None)
+47:    BAD (/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) -> None (None)
+48:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+49:    BAD (/blog/17-what-is-customer-charge-on-utility-bill/) -> None (None)
+50:    BAD (/blog/05-how-to-lower-utility-bills/) -> None (None)
+51:    BAD (/blog/utility-assistance-programs-liheap/) -> None (None)
+67:  [WC] current=4184 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md  head=None  delta=50
+70:### electric-bill-breakdown-understanding-line-items.md  (head_fm src=ok)
+72:    BAD (/blog/23-utility-billing-cycle-explained/) -> None (None)
+73:    BAD (/blog/17-what-is-customer-charge-on-utility-bill/) -> None (None)
+74:    BAD (/blog/03-why-is-my-electric-bill-so-high/) -> None (None)
+75:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+76:    BAD (/blog/04-hidden-fees-utility-bill/) -> None (None)
+77:    BAD (/blog/49-demand-charges-electricity-bill-explained/) -> None (None)
+78:    BAD (/blog/which-rate-plan-is-right-for-me/) -> None (None)
+79:    BAD (/blog/23-utility-billing-cycle-explained/) -> None (None)
+80:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+81:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+82:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+83:    BAD (/blog/17-what-is-customer-charge-on-utility-bill/) -> None (None)
+84:    BAD (/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) -> None (None)
+85:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+86:    BAD (/blog/49-demand-charges-electricity-bill-explained/) -> None (None)
+87:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+103:  [WC] current=2592 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/electric-bill-breakdown-understanding-line-items.md  head=None  delta=425
+106:### 25-utility-bill-taxes-fees-franchise-charges-explained.md  (head_fm src=ok)
+108:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+109:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+110:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+111:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+112:    BAD (/blog/04-hidden-fees-utility-bill/) -> None (None)
+113:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+114:    BAD (/blog/how-to-dispute-utility-bill/) -> None (None)
+115:    BAD (/blog/26-utility-deposit-explained/) -> None (None)
+131:  [WC] current=1360 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md  head=None  delta=251
+134:### average-utility-bills-by-state-2026.md  (head_fm src=ok)
+136:    BAD (/blog/electric-bill-breakdown-understanding-line-items/) -> None (None)
+137:    BAD (/blog/how-to-read-your-utility-bill/) -> None (None)
+138:    BAD (/blog/which-rate-plan-is-right-for-me/) -> None (None)
+139:    BAD (/blog/44-how-to-lower-water-bill/) -> None (None)
+140:    BAD (/blog/moving-utilities-checklist/) -> None (None)
+141:    BAD (/blog/electric-bill-breakdown-understanding-line-items/) -> None (None)
+157:  [WC] current=2722 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md  head=None  delta=-103
+160:### 19-utility-bill-surcharges-and-riders-explained.md  (head_fm src=ok)
+162:    BAD (/blog/25-utility-bill-taxes-fees-franchise-charges-explained/) -> None (None)
+163:    BAD (/blog/04-hidden-fees-utility-bill/) -> None (None)
+164:    BAD (/blog/49-demand-charges-electricity-bill-explained/) -> None (None)
+165:    BAD (/blog/17-what-is-customer-charge-on-utility-bill/) -> None (None)
+166:    BAD (/blog/how-utility-rates-fees-usage-work-together/) -> None (None)
+182:  [WC] current=1293 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md  head=None  delta=264
+185:### 18-fuel-adjustment-charge-on-utility-bill-explained.md  (head_fm src=ok)
+187:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+188:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+189:    BAD (/blog/11-understanding-kwh-usage/) -> None (None)
+190:    BAD (/blog/why-did-my-utility-bill-go-up-this-month/) -> None (None)
+191:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+192:    BAD (/blog/24-delivery-charge-vs-supply-charge-utility-bill/) -> None (None)
+193:    BAD (/blog/11-understanding-kwh-usage/) -> None (None)
+194:    BAD (/blog/12-how-to-read-your-gas-bill/) -> None (None)
+195:    BAD (/blog/19-utility-bill-surcharges-and-riders-explained/) -> None (None)
+207:  [WC] current=804 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md  head=None  delta=350
+210:### mcf-vs-ccf-vs-therms-on-gas-bill.md  (head_fm src=ok)
+227:  [WC] current=2991 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md  head=None  delta=161
+230:### how-do-smart-meters-work.md  (head_fm src=ok)
+232:    BAD (/blog/11-understanding-kwh-usage/) -> None (None)
+233:    BAD (/blog/08-time-of-use-electricity/) -> None (None)
+234:    BAD (/blog/how-to-read-electric-meter/) -> None (None)
+235:    BAD (/blog/14-estimated-utility-bill-explained/) -> None (None)
+236:    BAD (/blog/complete-guide-understanding-utility-bill/) -> None (None)
+237:    BAD (/blog/50-best-smart-plugs-standby-power/) -> None (None)
+253:  [WC] current=1393 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-do-smart-meters-work.md  head=None  delta=248
+256:### average-water-usage-per-person.md  (head_fm src=ok)
+258:    BAD (/blog/what-is-ccf-on-a-water-bill/) -> None (None)
+259:    BAD (/blog/water-meter-leak-indicator-explained/) -> None (None)
+260:    BAD (/blog/what-is-ccf-on-a-water-bill/) -> None (None)
+261:    BAD (/blog/ccf-calculator/) -> None (None)
+262:    BAD (/blog/what-is-ccf-on-a-water-bill/) -> None (None)
+263:    BAD (/blog/why-is-my-water-bill-higher-in-summer/) -> None (None)
+264:    BAD (/blog/water-meter-leak-indicator-explained/) -> None (None)
+265:    BAD (/blog/is-your-toilet-running-leak-test/) -> None (None)
+266:    BAD (/blog/44-how-to-lower-water-bill/) -> None (None)
+267:    BAD (/blog/what-is-ccf-on-a-water-bill/) -> None (None)
+268:    BAD (/blog/ccf-calculator/) -> None (None)
+269:    BAD (/blog/is-your-toilet-running-leak-test/) -> None (None)
+270:    BAD (/blog/water-meter-leak-indicator-explained/) -> None (None)
+271:    BAD (/blog/44-how-to-lower-water-bill/) -> None (None)
+272:    BAD (/blog/ccf-calculator/) -> None (None)
+273:    BAD (/blog/is-your-toilet-running-leak-test/) -> None (None)
+284:  [WC] current=948 /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-water-usage-per-person.md  head=None  delta=421
+287:==SUMMARY PER FILE==
+288:  23-utility-billing-cycle-explained: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=639
+289:  07-gas-bill-too-high: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=50
+290:  electric-bill-breakdown-understanding-line-items: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=425
+291:  25-utility-bill-taxes-fees-franchise-charges-explained: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=251
+292:  average-utility-bills-by-state-2026: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=-103
+293:  19-utility-bill-surcharges-and-riders-explained: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=264
+294:  18-fuel-adjustment-charge-on-utility-bill-explained: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=350
+295:  mcf-vs-ccf-vs-therms-on-gas-bill: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=161
+296:  how-do-smart-meters-work: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=248
+297:  average-water-usage-per-person: LINKS=FAIL SHORTCODE=FAIL FM=FAIL WC=421
+
+[harness: this command modified 1 file(s) on disk — recorded in your ground-truth log]

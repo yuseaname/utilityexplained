@@ -1,0 +1,25 @@
+{
+  "role": "verifier",
+  "mission": "Resolve ONE contradiction to a final verdict, then complete a compact 12-claim fact-check scorecard. Work small: fetch few pages, keep the envelope well under budget, WRITE NOTHING TO DISK — all findings inline in the final reply.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Wave-1 verifier fetched Con Ed's live TOU page (coned.com/en/accounts-billing/your-bill/time-of-use) showing residential TOU 27.86/17.11/5.22 c/kWh, while content/blog/46-what-time-is-electricity-cheapest.md presents a 22.33c/44.97c split attributed to Con Ed. TASK A: read the page's front-matter sources + the exact in-body claim (grep the two figures with line numbers), re-fetch the cited source, and issue CONFIRMED / REFUTED / OUTDATED (with what the correct current figures are) + whether the attribution itself is wrong. TASK B: compact scorecard — pick the single most load-bearing numeric claim from each of these 12 pages and verify against the page's own cited source (fetch each source once): utility-assistance-programs-liheap (LIHEAP max benefit), can-utility-shut-off-service (a state protection rule), 2026-utility-cost-index-by-state (draft — check one state row math), average-utility-bills-by-state-2026 (national avg $), 48-heat-pump-vs-gas-furnace-savings (savings %), 08-time-of-use-electricity (peak window definition), net-metering-explained (credit definition), drought-surcharge-on-water-bill (a drought rate), tiered-electricity-rates (a tier boundary), ev-charging-impact-electric-bill (cost per charge), 42-best-energy-efficient-space-heater (a wattage/cost claim), 50-best-smart-plugs-standby-power (standby watts claim). One line per verdict: page | claim (short) | verdict | source URL | retrieved 2026-08-29.",
+  "known_facts": [
+    "Today 2026-08-29. Wave-1 already CONFIRMED: EIA 18.34c/kWh June 2026, 899 kWh/mo avg; MN 216B.096/.097 cold-weather rules; IRS 25C end 12/31/2025 — do not re-verify these",
+    "Final reply must be a single clean envelope: no file writes, no artifacts, findings inline",
+    "If a cited URL is dead, verdict = DEAD-LINK and note it"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "No disk writes anywhere (including /tmp) — inline only",
+    "Every verdict carries its source URL + retrieval date"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "prohibited_actions": ["write_file", "edit_file"],
+  "success_criteria": [
+    "TASK A verdict on the Con Ed TOU discrepancy with correct current figures",
+    "12 one-line claim verdicts with URLs",
+    "Dead-link list if any"
+  ]
+}

@@ -1,0 +1,11 @@
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/08-scout.json", "agent": "scout", "status": "failed"}
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/01-scout.json", "agent": "scout", "status": "complete"}
+{"packet": "tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/02-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/04-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "lieutenant.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/03-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/05-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "mason.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/06-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "executor.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/07-executor.json", "agent": "executor", "status": "complete"}
+{"packet": "verify2.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/01-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "verify3.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/results/02-lieutenant.json", "agent": "lieutenant", "status": "complete"}

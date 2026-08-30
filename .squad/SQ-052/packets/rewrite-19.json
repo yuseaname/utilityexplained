@@ -1,0 +1,36 @@
+{
+ "parent_objective": "SQ-052: execute SQ-051 audit remediation plan",
+ "context": "Site: utilityexplained.com (Hugo). AdSense blocked ('Low value content') \u2014 accuracy and evidence are the gate. Reader: US resident with a utility bill in hand. Voice: plain, direct, verb-led; the site's model page is content/blog/is-your-toilet-running-leak-test.md (Quick Answer IS the instruction, numbered executable steps, monetization after free actions). ANTI-SLOP RULES: no 'may vary' without a decision rule; no filler intros ('In today's world\u2026'); every number either carries a fetched source URL + retrieved date 2026-08-29 or is removed; no claims about Google's ranking systems. You HAVE web_search/web_fetch \u2014 verify before you write.",
+ "known_facts": [
+  "Existing page: 5 H2s, author Tanya Patterson, updated 2026-08-23; DOE citations do not define the terms (wave-1 verified)",
+  "A sibling editor is rebuilding 25-taxes-fees in parallel \u2014 define riders, don't re-explain taxes; link it"
+ ],
+ "constraints": [
+  "You own EXACTLY ONE file (write_paths); touch nothing else",
+  "Every dollar figure / percentage / definition must be verified by a page YOU fetched this run (URL + retrieved date 2026-08-29 in the sources frontmatter)",
+  "If you cannot verify a number, you do not include it \u2014 no guessing, no 'typical' inventions",
+  "Preserve frontmatter: title (unless mission says change), slug, date; set updated: 2026-08-29; keep/add author as existing",
+  "Keep the page's existing good content \u2014 this is a rebuild of structure and evidence, not a from-scratch reset",
+  "Set hero_below_answer: true in frontmatter",
+  "Match site style: ## Quick Answer first (if the page has one or needs one), H2 sections, tables where data, FAQ section kept"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "File rewritten within your write_path only",
+  "Zero unsourced numbers remain in the new body",
+  "sources frontmatter lists every cited URL",
+  "Mission-specific structure delivered"
+ ],
+ "role": "lieutenant",
+ "mission": "REBUILD content/blog/19-utility-bill-surcharges-and-riders-explained.md (29pv/mo, 92.9% bounce, 8s TOP). Diagnosis (verified): 446 words; title promises definitions, body delivers a verify-against-tariff workflow; the two cited DOE sources never define 'surcharge' or 'rider'. TARGET: (1) Quick Answer: plain definition of rider/surcharge (an add-on charge a utility collects outside its base rate, approved by the state PUC, to recover a named cost); (2) 'What surcharges and riders actually are' \u2014 find and cite a LIVE authoritative definition source (state PUC glossary, NARUC, or a utility commission consumer page \u2014 FETCH it; if NARUC's glossary is not fetchable, use 2 different state PUC consumer glossaries and cite both); (3) 2-3 NAMED example riders from real jurisdictions (e.g., an energy-efficiency rider, an environmental-cost rider, a fuel-adjustment clause) each with: jurisdiction, what it recovers, citation URL; (4) 'How to check yours' keeps the existing workflow (tariff/PUC docket); (5) 3+ internal links: /blog/18-fuel-adjustment-charge-on-utility-bill-explained/, /blog/25-utility-bill-taxes-fees-franchise-charges-explained/, /blog/electric-bill-breakdown-understanding-line-items/ (verify slugs); (6) FAQ kept. 600-900 words. Definitions and examples only from pages you fetched.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md"
+  ]
+ }
+}

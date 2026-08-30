@@ -1,0 +1,34 @@
+{
+  "role": "twin_q",
+  "mission": "P5.1 \u2014 fresh-eyes quality verdict on five rebuilt pages. You have no context from the rebuild: read each page cold, as a picky utility-bill reader who landed from Google, and grade it.",
+  "parent_objective": "SQ-069 phase 5 verification",
+  "context": "Pages (read the markdown in the repo):\n1. content/blog/complete-guide-understanding-utility-bill.md (flagship 'every line explained')\n2. content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md\n3. content/blog/duct-leaks-symptoms-hvac-running-all-day.md\n4. content/blog/drought-surcharge-on-water-bill-explained.md\n5. content/blog/why-is-my-furnace-blowing-cold-air.md\nFor EACH page report: (a) does the Quick Answer satisfy the title's promise in under 60 seconds; (b) any claim a knowledgeable reader would challenge \u2014 quote it; (c) any number internally inconsistent with another number on the same page \u2014 show the arithmetic; (d) formatting/render risks (broken tables, stray HTML, dangling footnote refs [n] with no source n); (e) verdict SHIP or FIX with the single highest-leverage fix. Then an overall ranking of the five.",
+  "known_facts": [
+    "Arithmetic checks matter most: worked bills must sum; percentages must divide back",
+    "Dangling [n] refs where n exceeds the source list are a defect"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ]
+  },
+  "constraints": [
+    "READ-ONLY except writing your verdict to .squad/SQ-069/results-p5/twin-q-verdict.md",
+    "no hugo, no git, no web"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "per-page (a)-(e) all answered",
+    "overall ranking present",
+    "file written"
+  ]
+}

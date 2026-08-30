@@ -1,0 +1,22 @@
+{
+  "agent": "verifier",
+  "status": "substituted",
+  "summary": "Seat stalled at 46 steps / 44 min (deepseek wedge pattern, third occurrence this mission). P5.2 closed by Commander longhand re-derivation of all 15 new numeric claims across the five rebuilt pages: 15/15 reproduce exactly. Only deltas are the pages' own rounded presentations (78% for 78.21, 60% for 59.79, 'about $45' for $45.28) which are correct as written. twin_q independently concurred on 24-, duct, and drought math in its fresh-eyes pass.",
+  "checks": [
+    ["flagship 899 x $0.1834 = $164.88", "OK"],
+    ["flagship gas $19.83/Mcf / 10.37 x 80 = $152.98", "OK"],
+    ["flagship 3-line sum = $346.61", "OK"],
+    ["24- 899 x 5.22c = $46.93", "OK"],
+    ["24- 899 x 16.402c = $147.45", "OK"],
+    ["24- total = $215.38", "OK"],
+    ["24- 78% (78.21 rounded)", "OK"],
+    ["24- 899 x 27.86c = $250.46", "OK"],
+    ["24- peak total = $418.92", "OK"],
+    ["24- 60% (59.79 rounded)", "OK"],
+    ["duct 100/85 = 1.18x", "OK"],
+    ["duct 100/70 = 1.43x", "OK"],
+    ["drought 5 x $10.37 = $51.85", "OK"],
+    ["drought 6 CCF = 4,488 gal", "OK"],
+    ["46- 200 x (0.2786-0.0522) = $45.28 ('about $45')", "OK"]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "role": "prospector",
+  "mission": "Page-by-page quality audit of the 31 weakest/shortest pages. Read each IN FULL and produce a structured per-page row: purpose | search intent | quality 1-10 | search-readiness 1-10 | key weaknesses | AI-slop/generic signals (with quoted passage + confidence low/med/high) | visual gaps | recommended action (exact rubric vocabulary) | highest-impact next step.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). Judge by intent satisfaction, NOT word count alone — a 400-word definitional page can be `retain` if it fully answers its query; a 1,200-word page can be thin if it pads. Your shard (31 pages, read every one fully):\nSITE PAGES: content/about.md, content/contact.md, content/corrections.md, content/disclaimer.md, content/terms.md, content/privacy-policy.md, content/affiliate-disclosure.md, content/methodology.md, content/editorial-policy.md, content/editorial-team.md, content/search.md, content/utilities-glossary.md\nAUTHORS: all 5 files in content/author/\nSHORTEST BLOG POSTS: content/blog/gas-customer-charge-explained.md, 24-delivery-charge-vs-supply-charge-utility-bill.md, why-is-my-furnace-blowing-cold-air.md, duct-leaks-symptoms-hvac-running-all-day.md, drought-surcharge-on-water-bill-explained.md, how-to-read-your-utility-bill.md, net-metering-explained.md, which-rate-plan-is-right-for-me.md, how-utility-rates-fees-usage-work-together.md, supply-vs-delivery-charges-electricity.md, 10-fixed-vs-variable-utility-rate.md, ccf-calculator.md, why-did-my-utility-bill-go-up-this-month.md, what-is-a-kilowatt-hour.md (all under content/blog/).",
+  "known_facts": [
+    "Site pages serve trust/navigation intent — judge them against E-E-A-T expectations, not length",
+    "Prior audits exist in repo root; treat as claims to re-verify, never copy"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only. Every quoted slop passage must be verbatim from the file",
+    "Do not recommend images for decoration — visual gaps only where they improve understanding/decisions"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "31 per-page rows in the exact structure above",
+    "For the 5 worst pages: 3-5 sentence deep-dive each with evidence",
+    "Closing summary: your top-5 weakest pages overall with one-line rationale each"
+  ]
+}

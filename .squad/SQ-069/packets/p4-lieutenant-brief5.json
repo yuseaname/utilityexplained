@@ -1,0 +1,25 @@
+{
+  "role": "lieutenant",
+  "mission": "BRIEF 5 — rebuild the flagship content/blog/complete-guide-understanding-utility-bill.md into the site's definitive 'Complete Guide to Understanding Your Utility Bill', then delete the absorbed draft.",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds",
+  "context": "Read .squad/SQ-069/REMEDIATION-PLAN.md only for orientation — your spec is HERE.\nWHY: page retitled 'A Practical Workflow…' but slug/keywords/homepage-slot/absorbed alias /blog/how-to-read-your-utility-bill/ all target 'complete guide understanding utility bill'. Leanest flagship (9KB), no visuals/FAQ/worked example.\nBUILD (keep the existing 5-step workflow + charge-mapping table — they're the page's best assets):\n1. TITLE: H1 + front-matter title back to the head-term family, e.g. 'The Complete Guide to Understanding Your Utility Bill (Every Line Explained)'. Keep slug unchanged.\n2. QUICK ANSWER block (## Quick Answer) high on page: what a utility bill is, the 3 components (usage x rate, fixed charges, taxes/fees), and the 5-step promise.\n3. EMBED IMAGE after the intro: {{< image src=\"/images/articles/04-hidden-fees-utility-bill/annotated-sample-bill.webp\" alt=\"Annotated sample utility bill highlighting the customer charge, delivery charges, supply charges, and taxes\" caption=\"Every line on a typical bill, mapped\" >}} (file will exist at build; do not verify it).\n4. WORKED BILL SECTION 'One bill, verified line by line': electric 899 kWh × $0.1834 (EIA June 2026) = $164.84/mo [verified]; gas ~80 therms × EIA residential price (fetch https://www.eia.gov/dnav/ng/hist/n3010us3a.htm — use current value, label '(EIA, retrieved 2026-08-30)'); water 6 CCF through a block structure anchored on EPA WaterSense (https://www.epa.gov/watersense/understanding-your-water-bill). Label each component 'verified' vs 'illustrative'.\n5. NATIONAL-AVERAGE CONTEXT BOX linking /blog/average-utility-bills-by-state-2026/ (its $375 narrow-basket figure is the site standard — do NOT introduce other national numbers).\n6. FAQ: 5+ via {{< faq \"question\" >}}answer{{< /faq >}} blocks (existing convention) — cover: two meter readings, estimated reads, why taxes differ, where the customer charge sits, supply-vs-delivery split.\n7. FRONT MATTER: update 'updated: 2026-08-30'; convert the 3 bare DOE PDF source URLs to 'URL (Label, retrieved 2026-08-30)' — re-fetch each to confirm live (if dead, substitute the live DOE equivalent and note it); add EIA + EPA WaterSense sources.\n8. Keep ALL existing charge-map internal links; add links out to 01-how-to-read-your-electric-bill (electric-specific winner) and how-utility-rates-fees-usage-work-together.\n9. FOLD THE DRAFT: read content/blog/how-to-read-your-utility-bill.md (draft:true, 700w, 2 tables, good bones) — absorb anything it does better, then rm the file (its slug already aliases to this page).\nHouse exemplar for tone/tables: content/blog/17-what-is-customer-charge-on-utility-bill.md. Target 1,400-1,800 words. hero_below_answer: true if not set.",
+  "known_facts": [
+    "EIA 18.34c/kWh June 2026 residential avg + 899 kWh/mo avg — VERIFIED wave-1/2, cite https://www.eia.gov/electricity/monthly/update/end-use.php",
+    "Site $375/mo narrow-basket national figure is canonical (average-utility-bills-by-state-2026)",
+    "No other national-average numbers anywhere on the page"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/complete-guide-understanding-utility-bill.md"]
+  },
+  "constraints": [
+    "Write ONLY the flagship file; rm of the draft authorized via run_command; NO hugo build (Commander builds); every number sourced or labeled illustrative",
+    "Externalized checklist per section; verify each against the brief before finishing"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "Title/H1 aligned to head term; Quick Answer present; image shortcode embedded; verified worked bill with dated sources; FAQ blocks; draft deleted",
+    "grep: no '$262', no conflicting national averages; front matter updated: 2026-08-30",
+    "Done bar from brief: first-time reader can map every bill line to a linked explainer within the 5 steps"
+  ]
+}

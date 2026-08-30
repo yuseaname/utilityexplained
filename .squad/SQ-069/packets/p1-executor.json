@@ -1,0 +1,30 @@
+{
+  "role": "executor",
+  "mission": "Four mechanical remediation edits: (1) delete the leaked Image Prompts section, (2) remove two dead drafts, (3) archive the state-index draft, (4) replace a dead citation on the LIHEAP page.",
+  "parent_objective": "SQ-069 audit remediation, phase 1",
+  "context": "Repo root has a space in path — quote everything. Audit findings in FULL-CONTENT-SEO-AUDIT-2026-08-29.md (§2 C1/C5).\n(1) content/blog/moving-utilities-checklist.md — delete the entire '## Image Prompts' section (starts ~line 152, runs to just before '## Sources'). Do NOT touch anything else in the file.\n(2) Delete files: content/blog/supply-vs-delivery-charges-electricity.md and content/blog/gas-customer-charge-explained.md (both draft:true; their slugs are covered by aliases on live pages 24- and 17- respectively). Use plain rm — Commander handles git.\n(3) Move content/blog/2026-utility-cost-index-by-state.md (draft:true, contradicts live page) to .squad/archive/2026-utility-cost-index-by-state.md (create dir if needed).\n(4) content/blog/utility-assistance-programs-liheap.md — its cited URL https://acf.hhs.gov/ocs/programs/liheap returned empty on 2026-08-29. web_fetch a replacement candidate (try https://www.acf.hhs.gov/ocs/programs/liheap with www, then https://liheao.acf.hhs.gov/, then benefits.gov/benefit/1538 or the official LIHEAP clearinghouse). Swap the dead URL for the first one that returns real LIHEAP content, keep the label format, add '(retrieved 2026-08-30)'. If none resolve, mark the source 'URL currently unreachable' and leave a TODO comment — do not invent.",
+  "known_facts": [
+    "All three drafts verified draft:true by Commander 2026-08-29",
+    "After edits, run: hugo --quiet (or hugo -D off) to confirm build still passes; report build result",
+    "Verify aliases still resolve post-deletion: public/blog/gas-customer-charge-explained/ and public/blog/supply-vs-delivery-charges-electricity/ should regenerate as alias stubs"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/moving-utilities-checklist.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/utility-assistance-programs-liheap.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/archive/"
+    ]
+  },
+  "constraints": [
+    "Stay inside write_paths (rm of the two drafts is authorized via run_command)",
+    "No content rewrites — mechanical edits only"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "Image Prompts section gone from source AND rebuilt public HTML",
+    "Two draft files deleted, one archived to .squad/archive/",
+    "LIHEAP citation live (verified by fetch) or explicitly flagged",
+    "hugo build passes; alias stubs for the two deleted slugs still render"
+  ]
+}

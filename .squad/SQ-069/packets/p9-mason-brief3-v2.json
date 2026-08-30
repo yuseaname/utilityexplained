@@ -1,0 +1,43 @@
+{
+  "role": "mason",
+  "mission": "BRIEF 3 v2 \u2014 rebuild content/blog/drought-surcharge-on-water-bill-explained.md using the Commander-prefetched VERIFIED rate facts below. Web hunting already failed once from your seat \u2014 do NOT spend budget on web; write from known_facts.",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds (re-dispatch after v1 seat's web failure)",
+  "context": "Current: 510w, zero named utilities, zero dollars, templated 'do not assume\u2026' negation list. Keep the tariff-first method; add evidence.\nSTRUCTURE:\n1. Quick Answer: a drought surcharge is a temporary charge utilities add during declared drought stages \u2014 it appears as its own line or inflates volumetric rates; it ends when the stage ends (usually).\n2. Three real mechanisms (the table): EBMUD % of flow charge, SAWS $/1,000-gal above stage threshold, LVVWD seasonal excessive-use charge. THREE DIFFERENT MODELS = the teaching point.\n3. Worked before/after: 6 CCF (4,488 gal) monthly baseline; show SAWS Stage 3 arithmetic (6 CCF is BELOW the 20,000-gal trigger \u2192 no surcharge; then show a 25,000-gal month \u2192 (25,000\u221220,000)/1,000 \u00d7 $10.37 = $51.85, matches SAWS's own published example) and EBMUD's own published impact (avg single-family 200 gal/day: +~$3.08/month).\n4. What to check on YOUR bill (keep existing tariff-first method, tightened).\n5. FAQ (4-5): is it permanent? (ends with stage \u2014 EBMUD's stayed until declaration lifted); why penalize high users?; does conservation stage always mean surcharge? (no \u2014 Austin Conservation Stage has none); can it be disputed?\n6. EMBED after the table: {{< image src=\"/images/articles/drought-surcharge-on-water-bill-explained/drought-stage-ladder.webp\" alt=\"Rising four-step staircase of drought stages with shrinking water drops and rising bills\" caption=\"Each stage ratchets both restrictions and price\" >}}\n7. Sources block + inline footnotes: the three URLs below with (retrieved 2026-08-29). Front matter: update updated: 2026-08-30, keep slug/aliases.\nTARGET: 900-1,300 words prose.",
+  "known_facts": [
+    "VERIFIED (Commander-fetched 2026-08-29, https://www.ebmud.com/about-us/news/press-releases/ebmud-approves-8-percent-drought-surcharge): EBMUD board approved 8% drought surcharge May 10 2022 (6-1 vote), effective July 1 2022, applies to FLOW charges (volume of water used), Stage 2 drought emergency (declared April 26 2022, mandated 10% conservation district-wide vs 2020). Average single-family at 200 gal/day: ~10 cents/day, $3.08/month, $6.16/two-month cycle. Raises ~$30.8M/yr toward $64.5M drought costs (rest from reserves). Stays until drought emergency declaration lifted. Excessive Use Penalty: threshold 66 CCF/month (~1,646 gal/day), fines $2 per 748 gallons above after one warning. Prior surcharge 25% July 1 2015\u2013June 30 2016. Stage ladder max surcharges: Stage 1 0%, Stage 2 8%, Stage 3 20%, Stage 4 25%. HISTORICAL \u2014 lifted when drought ended; label as such.",
+    "VERIFIED (Commander-fetched 2026-08-29, https://www.saws.org/service/water-sewer-rates/high-use-drought-surcharge/): San Antonio Water System high-use drought surcharge $10.37 per 1,000 gallons, effective for consumption on/after July 6 2024, residential + billed commercial irrigation. Stage 3 trigger: residential use above 20,000 gal/month; Stage 4: above 12,000 gal/month. SAWS's own worked example: Stage 3 customer using 25,000 gal owes 5 \u00d7 $10.37 = $51.85. Purpose: push biggest users to cut during advanced drought stages.",
+    "VERIFIED (Commander-fetched 2026-08-29, https://www.lvvwd.com/customer-service/pay-bill/euc-faq.html): Las Vegas Valley Water District Excessive Use Charge (EUC) $9 per 1,000 gallons above seasonal thresholds (30-day billing period): winter ~14,000 gal (Nov 1), spring ~16,000 (Mar 1), summer ~28,000 (May 1), fall ~26,000 (Sept 1); thresholds scale with billing-period length (28-day summer cycle = 26,000; 33-day = 31,000). Annual allowance 252,000 gal. Affects roughly top 10% of residential users; thresholds set at more than 2\u00d7 median seasonal use; >50% of charged customers got it only once or twice. ONGOING structure \u2014 not tied to a declared stage ending.",
+    "Context (search-verified 2026-08-29, austintexas.gov/water/austin-water-drought-response): Austin returned to Conservation Stage (no surcharge) as of Sept 2 2025 after Stage 2 \u2014 useful FAQ counter-example: not every conservation stage carries a surcharge.",
+    "EPA WaterSense 'understanding your water bill' is already a cited source on water pages \u2014 keep.",
+    "A labeled historical schedule is acceptable evidence; an uncited current-sounding number is not."
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/drought-surcharge-on-water-bill-explained.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY this file; NO hugo build; NO web tools needed \u2014 every number is in known_facts with URL + date; do not invent any number not present above",
+    "Keep front-matter shape (title/slug/aliases/description/date/updated/author/sources), set updated: 2026-08-30, add the three URLs to sources with (retrieved 2026-08-29)"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "Named-utility table with 3+ utilities, each rate labeled active or historical, each with URL + retrieved date",
+    "SAWS worked example reproduces SAWS's own $51.85; EBMUD impact quotes its own $3.08/month",
+    "6 CCF = 4,488 gal before/after framing present",
+    "drought-stage-ladder.webp embedded via {{< image >}} shortcode with alt + caption",
+    "4+ FAQ shortcodes; 900-1,300 words; negation-list hedging cut; updated: 2026-08-30"
+  ]
+}

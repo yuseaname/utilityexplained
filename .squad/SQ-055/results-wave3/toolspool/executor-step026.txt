@@ -1,0 +1,120 @@
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/01-how-to-read-your-electric-bill.md", line 22, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/03-why-is-my-electric-bill-so-high.md", line 23, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/04-hidden-fees-utility-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/04-hidden-fees-utility-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/04-hidden-fees-utility-bill.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/06-water-bill-too-high.md", line 18, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md", line 18, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/10-fixed-vs-variable-utility-rate.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/10-fixed-vs-variable-utility-rate.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/10-fixed-vs-variable-utility-rate.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/11-understanding-kwh-usage.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/11-understanding-kwh-usage.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/11-understanding-kwh-usage.md", line 20, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/12-how-to-read-your-gas-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/12-how-to-read-your-gas-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/12-how-to-read-your-gas-bill.md", line 24, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/13-ac-short-cycling-causes-fixes.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/13-ac-short-cycling-causes-fixes.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/13-ac-short-cycling-causes-fixes.md", line 17, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/14-estimated-utility-bill-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/14-estimated-utility-bill-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/14-estimated-utility-bill-explained.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/16-budget-billing-level-pay-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/16-budget-billing-level-pay-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/16-budget-billing-level-pay-explained.md", line 16, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/17-what-is-customer-charge-on-utility-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/17-what-is-customer-charge-on-utility-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/17-what-is-customer-charge-on-utility-bill.md", line 22, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md", line 17, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/20-utility-bill-proration-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/20-utility-bill-proration-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/20-utility-bill-proration-explained.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/2026-utility-cost-index-by-state.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/2026-utility-cost-index-by-state.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/2026-utility-cost-index-by-state.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/21-past-due-balance-utility-bill-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/21-past-due-balance-utility-bill-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/21-past-due-balance-utility-bill-explained.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/22-minimum-bill-utility-bill-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/22-minimum-bill-utility-bill-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/22-minimum-bill-utility-bill-explained.md", line 20, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md", line 17, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md", line 17, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md", line 21, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/27-utility-connection-fee-explained.md", line 15, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/28-utility-reconnection-fee-explained.md", line 18, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/30-sudden-spike-in-electricity-bill-no-usage.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/30-sudden-spike-in-electricity-bill-no-usage.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/30-sudden-spike-in-electricity-bill-no-usage.md", line 19, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/42-best-energy-efficient-space-heater.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/42-best-energy-efficient-space-heater.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/42-best-energy-efficient-space-heater.md", line 17, column 1
+WARN parse /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/44-how-to-lower-water-bill.md expected a single document in the stream
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/44-how-to-lower-water-bill.md", line 2, column 1
+but found another document
+  in "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/44-how-to-lower-water-bill.md", line 18, column 1

@@ -1,0 +1,30 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 audits + cross-family verification",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052, .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every finding must quote the exact sentence(s) from the file",
+  "Every factual verdict must cite the source URL you fetched this run (retrieved 2026-08-29); if you could not check, say UNVERIFIED \u2014 never guess",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every finding quoted and evidenced",
+  "Grade + ranked fix list delivered",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "prospector",
+ "mission": "FULL audit of content/blog/how-to-dispute-utility-bill.md (603 words, 7 H2s, tier-2 rank 59, graded C/thin \u2014 triage-lite only until now). (1) Search-intent match for 'how to dispute a utility bill': does it deliver a step-by-step dispute path (utility first -> written complaint -> state PUC complaint -> escalation)? What's missing that the intent demands (deadlines, evidence checklist, PUC links, LIHEAP/assistance angle, small-claims endpoint)? (2) Fact-check every claim: notice/dispute windows, 'utilities must investigate' assertions, PUC processes \u2014 fetch 2-3 official pages (a state PUC complaint page, FTC/CFPB utility complaint guidance) and give KEPT/REFUTED/UNVERIFIED verdicts with quotes. (3) Thinness vs the promise of the title; structure; title/meta; internal links (site has 21-past-due-balance, 26-utility-deposit, complete-guide workflow hub \u2014 should they link here?); E-E-A-T. Deliver: FINDINGS table (issue | exact quote | evidence URL | severity | proposed exact fix), grade, top-3 actions, human-review items.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "Sibling pages for the dispute chain already on site: 21-past-due-balance-utility-bill-explained.md, 14-estimated-utility-bill-explained.md, complete-guide-understanding-utility-bill.md (Step 5 = ask-the-provider questions)",
+  "The page's value hinges on the escalation ladder being verifiable \u2014 an unsourced 'contact your PUC' is fine as direction, but any deadline/day-count claim must be sourced"
+ ]
+}

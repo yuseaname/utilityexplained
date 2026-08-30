@@ -1,0 +1,74 @@
+{
+  "agent": "lieutenant",
+  "model": "glm-5.3-flash:cloud",
+  "status": "complete",
+  "summary": "APEX reader-experience analyses written for all 3 assigned pages (ranks 11-20 set), each with all 9 required sections, verified on disk: one dedicated P0 found per page \u2014 23: body-link vacuum (all 8 links in intro, zero in body) + stranded escalation path; 07: mid-troubleshooting dead zone across causes 1-5 (fix paragraphs carry no onward links despite 92s TOP) plus a 10-vs-11 cause-count defect; electric-bill-breakdown: a LIVE click routing to a draft:1 unpublished page (fixed-vs-variable-rate-electricity-plan) \u2014 a production break on the tier's best performer. All internal-link targets verified draft:0 under content/blog/; zero unflagged new factual claims.",
+  "findings": [
+    "23-utility-billing-cycle-explained | P0: all 8 internal links sit in the first two paragraphs and the ~1,000-word body has zero; duplicate link paragraphs inflate the first screen; answer PASSes but the page is a sentence-rich dead end (55.7s TOP / 83% bounce). Headline move: merge duplicates, seed 6 decision-point body links, add a normal-vs-second-look gate and house-pattern FAQ. 7 journey links (6 new + breakdown body re-link). CTA verdict: NONE \u2014 informational (doctrine lists 23-billing-cycle by name under NOT A FIT; quoted verbatim in file).",
+    "07-gas-bill-too-high | P0: causes 1-5 \u2014 the 1,500+ word fix streak where the reader is mid-action \u2014 carry no action-page links (meter tracking, DIY assessment, programmable-thermostat evidence, AFUE explainer, duct symptoms all missing at exact moments of need). Headline move: moment-of-need links at each cause + compress the duplicative on-page meter section to the dedicated how-to-read-gas-meter page (net \u2248 \u221280 words, satisfying the no-bloat rule), fix the 10-promised/11-delivered cause-count mismatch in the H2, and restore the post-Sources Related-guides dump to house-convention Related Reading before the FAQ with its duplicate /blog/12/ entries deduplicated. 6 journey links. CTA verdict: keep \u2014 Nest box stands per doctrine (correct-as-is); a moment-of-need reposition into cause #2 is flagged as a Commander-gated option only.",
+    "electric-bill-breakdown-understanding-line-items | P0: the TOU section links /blog/fixed-vs-variable-rate-electricity-plan/ which is draft:1 (unpublished) \u2014 the one hard production break on the tier's best page (73% bounce, best of tier); live twin 10-fixed-vs-variable-utility-rate.md verified draft:0 and is the swap target. Headline move: SHIP-FIRST one-line swap, then extend the journey at the engagement peak \u2014 a five-line category-to-explainer dispatch under the Charge Categories table (24, 17, 18, 19, 49), escalation link at Questions-to-ask, Related Reading block per house convention, two follow-up FAQs, and a placement-only de-clutter of the three-vintage EIA parenthetical crushing the first-screen answer. 8 journey links. CTA verdict: NONE \u2014 informational (definitional hub whose business job is feeding the diagnosis page 03 where the doctrine's product boxes already live).",
+    "Cross-page coordination: 07\u219223 billing-cycle link and electric-bill-breakdown\u219223 days-bullet link mean the 07 and electric-bill plans and the 23 plan should ship in one release; all three plans cross-reference this dependency.",
+    "Measurement integrity note: .squad/content-metrics.json undercounts internal links on pages using HTML anchor tags (reports 2 for electric-bill-breakdown; full read shows ~13) \u2014 the implementation wave must not use the metrics file as a before/after baseline for link work; re-count rendered anchors instead.",
+    "Envelope format per instructions \u2014 the 5-line-per-page block: 23-utility-billing-cycle-explained | body-link vacuum: 8 links all in intro, zero in body, escalation strand ends dead | merge duplicate intro links and plant 6 decision-point body links plus a normal-vs-second-look table and house FAQ | 7 | NONE \u2014 informational. 07-gas-bill-too-high | fix-streak dead zone: causes 1-5 carry zero action links | compress meter section to dedicated page; seed moment-of-need links; cure 10-vs-11 count mismatch; restore Related Reading placement | 6 | keep (Optional Commander-gated reposition of the Nest box into cause #2). electric-bill-breakdown-understanding-line-items | live link to draft:1 page = production break | swap in the live twin 10-fixed-vs-variable-utility-rate; add category-to-explainer dispatch under the Charge Categories table | 8 | NONE \u2014 informational."
+  ],
+  "evidence": [
+    "All three article files read end-to-end this run: content/blog/23-utility-billing-cycle-explained.md (ends at Sources), content/blog/07-gas-bill-too-high.md (3 chunked reads, ends at Related guides), content/blog/electric-bill-breakdown-understanding-line-items.md (single read, ends at Sources).",
+    "Every proposed link target verified via content/blog/ directory listing + .squad/content-metrics.json draft:0: 30-spike, how-to-dispute-utility-bill, 20-proration, 03-why-high, 14-estimated, 22-minimum, 01, 12, electric-bill-breakdown; afue-vs-seer-vs-hspf-vs-cop, how-to-read-gas-meter, 47-check-energy-leaks, do-programmable-thermostats, duct-leaks-symptoms, 16-budget-billing; 24-delivery-supply, 17-customer-charge, 18-fuel-adjustment, 19-surcharges, 49-demand, 23, which-rate-plan, 10-fixed-vs-variable.",
+    "Draft:1 exclusion evidence (metrics): fixed-vs-variable-rate-electricity-plan (the P0 dead link), supply-vs-delivery-charges-electricity, why-electric-bill-changes-month-to-month, how-to-read-your-utility-bill, stormwater-fee, gas-customer-charge, 02-average-utility-costs, 15, 41, 7-states, 2026-index, average-utility-bills-by-state \u2014 all excluded as journey targets.",
+    "CTA doctrine quoted verbatim from AFFILIATE-PLACEMENTS-2026-08-28.md: NOT-A-FIT table row naming 23-billing-cycle (Definitional. No product answers the question; a box here is decoration); EXISTING placements row naming 07-gas (1 box \u2014 correct as-is); verified ASIN inventory includes B0D5BBYRJM.",
+    "Exemplar pattern from content/blog/what-is-ccf-on-a-water-bill.md: Quick Answer H2, Related Reading before FAQ, faq + faq-schema close \u2014 used as the house-convention benchmark for all three Edit Plans.",
+    "On-disk verification: list_dir of .squad/SQ-055/analysis shows exactly the 3 required files; search for ^## [1-9]\\. confirms all 9 numbered sections present in each file (lines 9-102 of each file).",
+    "Rybbit figures (59/65/55.7s/83, 56/63/92.3s/84, 52/64/57.7s/73) are packet-supplied pre-change baselines, tagged [RYBBIT]; not re-derived (no Rybbit access from this seat)."
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: run_command",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/AFFILIATE-PLACEMENTS-2026-08-28.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/results-wave1/toolspool/lieutenant-step005.txt",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/results-wave1/toolspool/lieutenant-step005.txt",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/23-utility-billing-cycle-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/07-gas-bill-too-high.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/electric-bill-breakdown-understanding-line-items.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/results-wave1/toolspool/lieutenant-step005.txt",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/07-gas-bill-too-high.md (15680 chars)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/23-utility-billing-cycle-explained.md (12928 chars)",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/electric-bill-breakdown-understanding-line-items.md (15356 chars)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis",
+    "search '^## [1-9]\\\\.' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis (27 hits)"
+  ],
+  "files_touched": [
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/07-gas-bill-too-high.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/23-utility-billing-cycle-explained.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/electric-bill-breakdown-understanding-line-items.md"
+  ],
+  "test_results": "Verification run: list_dir confirms exactly 3 analysis files exist at the required paths; search '^## [1-9]\\.' returns all 9 numbered sections in each of the 3 files (27/27 sections present); write confirmations returned byte counts (12,928 / 15,680 / 15,356 chars). Link-target existence verified by directory listing + metrics draft:0 for every proposed target. No run_command available (prohibited), so no build/Hugo verification.",
+  "risks": [
+    "The P0 on electric-bill-breakdown (dead link to draft:1 page) is a live production defect beyond reader experience \u2014 it should not wait for the full implementation wave.",
+    "My Quick-Answer de-clutter edit (electric-bill-breakdown, item 2) touches a freshly fact-squared sentence; I specified a move-don't-merge fallback and a defer-to-Commander guard, but this remains the highest-diff-risk item across all three plans.",
+    "First-screen verdicts are inferred from frontmatter and house template, not visually verified \u2014 .squad repo has a HERO_IMAGE_AUDIT_2026-08-29.md I could not cross-check against rendered layout without run_command; the known site pattern (hero pushing Quick Answer below fold) applies and the implementation wave should eyeball rendered pages.",
+    "Two envelope format errors occurred during the run (one malformed write that silently truncated file 3's first attempt to sections 1-3, one unparseable attempt); the final on-disk state was verified complete via section-pattern search, but reviewers should not trust intermediate attempt states.",
+    "Word-count deltas in the Edit Plans are estimates (\u00b120%); the no-bloat rule is protected by net-negative or near-zero targets, but the implementation wave should re-measure after edits."
+  ],
+  "unknowns": [
+    "Actual rendered above-the-fold pixel layout (hero crop behavior on mobile) \u2014 not visually verifiable this run.",
+    "Whether Hugo treats aliases/draft boundaries as I inferred for the draft:1 exclusion \u2014 grounded in metrics + house conventions, not a build test (run_command prohibited).",
+    "Whether the 13.63\u00a2/17.30\u00a2/18.34\u00a2 EIA figures remain current \u2014 out of scope by mandate (SQ-051..054 squared them); my edit moves placement only.",
+    "Rybbit post-change behavior \u2014 all Traffic claims are baseline-only; the packet dates to 2026-07-30\u219208-29."
+  ],
+  "recommendation": "Ship order for the implementation wave: (1) the electric-bill-breakdown P0 link swap immediately \u2014 it is a one-line production fix; (2) release the 23 and electric-bill-breakdown extension edits together (they cross-link); (3) ship the 07 plan in the same or next release (its 23-ward link depends on 23 being live). Commander-level decisions: approve/nix the Nest box reposition (doctrine tension flagged), the two meta-description proposals, and the citation de-clutter on electric-bill-breakdown (touches a freshly squared sentence). After ship: re-measure TOP/bounce against the 2026-07-30\u219208-29 baselines at +2 and +4 weeks; treat bounce as directional only per the question-answer intent model. Numerical claims here were quote-extracted from files; an uncorrelated seat (dsv4 wing) should spot-verify the three P0 citations against the article files before edits ship.",
+  "confidence": "high",
+  "confidence_basis": "All three article files were read end-to-end this run (not sampled); all 15+ proposed link targets verified draft:0 against two independent sources (directory listing + metrics index); all three deliverables verified on disk with all 9 sections via pattern search; CTA verdicts anchored to verbatim doctrine text rather than judgment alone. Residual uncertainty is confined to rendered-layout behavior (flagged) and the un-enforceable build check (run_command prohibited).",
+  "tool_steps": 19,
+  "duration_seconds": 615.6,
+  "side_effects": true,
+  "warnings": [
+    "claimed artifacts not in ground-truth write log: ['sites/utilityexplained/.squad'] \u2014 one write-it-now nudge sent"
+  ],
+  "context_est_tokens": 81256
+}

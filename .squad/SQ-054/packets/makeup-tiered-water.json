@@ -1,0 +1,35 @@
+{
+ "parent_objective": "SQ-054: tiered-water makeup pass (prior seat verified HB1090 refuted but exhausted fetch budget before writing)",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site \u2014 every number must trace to a fetched source. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs fetched this run; inline [n] + '## Sources' footer; sources FM = body-cited set. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054 results (stale verdicts poison runs). No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY content/blog/tiered-water-rates-explained.md; touch nothing else",
+  "Every number must come from a page YOU fetched this run (URL + retrieved date 2026-08-29)",
+  "Cannot verify = do not include",
+  "Preserve slug/date/author/image; set updated: 2026-08-29",
+  "Preserve the page's voice and existing good content \u2014 it has the best engagement in its tier (33.3% bounce); add evidence and structure, do not reset",
+  "'## Quick Answer' first: <=3 sentences with the tier mechanism and a real $ figure"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers",
+  "sources FM complete = body citations",
+  "H2 structure + Quick Answer present",
+  "OUTPUT CONTRACT fulfilled"
+ ],
+ "role": "tracer",
+ "mission": "content/blog/tiered-water-rates-explained.md \u2014 3,092 words, ZERO sources, ZERO H2s, no Quick Answer. A prior seat verified the Colorado claim is REFUTED but wrote nothing. Execute the full pass now: (1) COLORADO: the file's 'Regulatory Changes in Colorado' section (~line 90) claims 'HB 1090 requires tenants cannot be charged more than the actual amount billed' eff. 2026-01-01 \u2014 this is UNVERIFIABLE (no such bill). The closest real law, Colorado HB25-1090 (deceptive pricing, eff. 2026-01-01), explicitly EXEMPTS landlords from disclosing actual utility amounts \u2014 the opposite framing. DELETE the HB1090 paragraph and any unsourceable Colorado district paragraphs; you may search leg.colorado.gov for real CO landlord/submetering law and rebuild the section ONLY if you verify the exact bill and its actual effect at a .gov source; otherwise remove the section and note it in the ledger. (2) Fetch official 2026 municipal tier tables: 2-4 cities from sfpuc.gov/rates, seattle.gov/utilities, austintexas.gov/water/rates, tucsonaz.gov/water, cityofsacramento.org/utilities \u2014 quote $/unit per tier and effective dates; re-verify Philadelphia's flat $5.16/CCF (no tiers) at water.phila.gov or phila.gov/water. (3) Structure: '## Quick Answer' (mechanism: price per Ccf rises as monthly usage crosses each tier, with one real $ example) + H2 sections carved from existing prose. (4) sources frontmatter + inline [n] + '## Sources' footer. EPA anchor usable after confirming fetch: 1 CCF = 748 gallons (epa.gov/watersense/understanding-your-water-bill).",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-water-rates-explained.md"
+  ]
+ },
+ "known_facts": [
+  "Prior seat (2026-08-29) verified: no Colorado 'HB 1090' exists on tenant water billing; HB25-1090 is deceptive-pricing law that exempts landlords from disclosing actual amounts \u2014 never cite it as tenant protection",
+  "SFPUC rates changed effective 2026-07-01; Seattle Public Utilities and Austin Water publish current rate tables on their .gov sites"
+ ]
+}

@@ -1,0 +1,8 @@
+{"packet": "src-moving.json", "result_file": ".squad/SQ-054/results/05-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "src-summer-winter-water.json", "result_file": ".squad/SQ-054/results/06-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "claim-50-plugs.json", "result_file": ".squad/SQ-054/results/08-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "src-tiered-water.json", "result_file": ".squad/SQ-054/results/04-tracer.json", "agent": "tracer", "status": "partial"}
+{"packet": "src-sewer-avg.json", "result_file": ".squad/SQ-054/results/07-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "src-shut-off.json", "result_file": ".squad/SQ-054/results/03-lieutenant-3.json", "agent": "lieutenant#3", "status": "complete"}
+{"packet": "src-water-service.json", "result_file": ".squad/SQ-054/results/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}
+{"packet": "src-gas-meter.json", "result_file": ".squad/SQ-054/results/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}

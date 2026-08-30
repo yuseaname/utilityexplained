@@ -1,0 +1,34 @@
+{
+  "role": "verifier",
+  "mission": "P5.2 \u2014 re-derive every NEW numeric claim on five rebuilt pages. Recompute each from the page's own stated inputs; mark each one.",
+  "parent_objective": "SQ-069 phase 5 verification",
+  "context": "Files: content/blog/complete-guide-understanding-utility-bill.md, 24-delivery-charge-vs-supply-charge-utility-bill.md, duct-leaks-symptoms-hvac-running-all-day.md, drought-surcharge-on-water-bill-explained.md, why-is-my-furnace-blowing-cold-air.md.\nNEW numbers to re-derive (non-exhaustive \u2014 sweep all numbers on these pages):\n- flagship: 899 kWh x $0.1834 = $164.88; % shares of worked bill; $375 context\n- 24-: 899 x 5.22c = $46.93; 899 x 16.402c = $147.45; total $215.38; 78% share; 899 x 27.86c = $250.46; $418.92 total; 60% share; Austin 30/70 sanity\n- duct: 100/85 = 1.18x; 100/70 = 1.43x; runtime-hours columns\n- drought: 5 x $10.37 = $51.85; 6 CCF = 4,488 gal; EBMUD $3.08/mo; LVVWD thresholds\n- furnace: any cost/payoff arithmetic\nMark each: YES recomputes exactly / NO off by X / NOT-DERIVABLE (list missing inputs).",
+  "known_facts": [
+    "Do arithmetic longhand; do not trust the page's own summary lines",
+    "1 CCF = 748 gallons"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ]
+  },
+  "constraints": [
+    "READ-ONLY analysis; write to .squad/SQ-069/results-p5/verifier-math.md",
+    "no hugo, no git, no web"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "every listed number marked",
+    "any NO includes the correct value",
+    "file written"
+  ]
+}

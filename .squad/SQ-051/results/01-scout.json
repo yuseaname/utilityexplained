@@ -1,0 +1,69 @@
+{
+  "agent": "scout",
+  "model": "deepseek/deepseek-v4-flash",
+  "status": "complete",
+  "summary": "PART A: 2-3 leads per page (12 total). PART B: 4 complete grep sweeps with file:line+quoted fragments \u2014 national-average dollar figures across 15+ occurrences, $262/$430/$500 figure locations, thermostat per-degree claims with cross-page inconsistency, BLS/December 2026 citation flagged.",
+  "findings": [
+    "PART A \u2014 how-to-read-electric-meter.md: Lead A1 \u2014 body is raw HTML in markdown (orphaned <p>/<ul>), code-quality flag, source:body lines 30-160. Lead A2 \u2014 only 1 source (DOE PDF), no EIA or utility manuals, source:frontmatter+end. Lead A3 \u2014 thin section: 'calculate usage' is 3-row table, no multiplier/CT-meter discussion, source:lines 85-100.",
+    "PART A \u2014 how-to-read-a-water-meter.md: Lead B1 \u2014 content is fuller than electric-meter page, CCF conversion table is strongest section, source:lines 140-148. Lead B2 \u2014 sources are USGS glossary homepage and EPA WaterSense landing page, not specific metering docs, source:frontmatter. Lead B3 \u2014 example table uses 4,523 CCF (~3.4M gal) which is commercial/industrial scale, not residential \u2014 typo-suspect, source:line 142.",
+    "PART A \u2014 08-time-of-use-electricity.md: Lead C1 \u2014 rate table is strongest asset but PG&E rates cited as 'Effective March 2026' may already be stale, source:lines 35-65. Lead C2 \u2014 dishwasher annual savings column ($66/$124/$80) doesn't factor TXU's 2,000 kWh cap, source:lines 70-80. Lead C3 \u2014 Kasa KP115 smart plug affiliate product says 'handles dishwashers' but most US dishwashers are hardwired, not plug-in, source:line 80 area.",
+    "PART A \u2014 tiered-electricity-rates-explained.md: Lead D1 \u2014 very short page (~150 lines), mostly 'go ask your utility' framework with no concrete tier example, high bounce (83.3%) + low TOP (18s) suggest reader mismatch, source:body. Lead D2 \u2014 unlike TOU page, shows no example rate table or sample calculation, source:body. Lead D3 \u2014 sources: only generic DOE PDFs, no utility-specific tariff examples, source:frontmatter.",
+    "PART B Sweep 1 \u2014 'national average'/'average U.S' with dollar figures: 15+ occurrences across 9 files. National average rate cited as 17.30\u00a2/kWh (2025), 17-18\u00a2/kWh, 18.34\u00a2/kWh, 18.4\u00a2/kWh \u2014 inconsistent year references. 899 kWh/month cited as '2022 national average' in electric-bill-breakdown.md:61 but as current in how-to-lower-electric-bill-complete-guide.md:78.",
+    "PART B Sweep 2 \u2014 '$262'/'$430'/'$500': $262 as narrow-basket national average in 2026-utility-cost-index-by-state.md:37 and average-utility-bills-by-state-2026.md:22. $500-600/month in 02-average-utility-costs-2026.md:5 (no basket caveat). $430-500 as broad-basket in average-utility-bills-by-state-2026.md:22. Contradiction: 02-average-utility-costs-2026.md says '$500-600/month on utilities' without caveat, overlapping broad basket but not narrow basket.",
+    "PART B Sweep 3 \u2014 thermostat per-degree claims: 3 distinct pages with inconsistent percentages. how-to-lower-electric-bill-complete-guide.md:95: '1% of heating/cooling cost per 1\u00b0F' (rule of thumb, unsourced). mcf-vs-ccf-vs-therms-on-gas-bill.md:94: '2 degrees can save 1-3%' = 0.5-1.5%/\u00b0F. 30-sudden-spike-in-electricity-bill-no-usage.md:177: 'Each 10\u00b0F reduction ... saves 3% to 5%' = 0.3-0.5%/\u00b0F (water heater, different domain). No cross-references or sourcing for per-degree percentage.",
+    "PART B Sweep 4 \u2014 'BLS'/'December 2026': single occurrence at 7-states-with-worst-utility-spikes-2026.md:38: 'inflation stayed elevated at 3.8% (BLS, December 2026)'. CRITICAL: Date is August 2026 \u2014 December 2026 BLS data does not exist yet. This is either a projection presented as fact or a fabricated citation. Significant credibility risk for AdSense remediation."
+  ],
+  "evidence": [
+    "All 4 PART A pages read in full: content/blog/how-to-read-electric-meter.md, how-to-read-a-water-meter.md, 08-time-of-use-electricity.md, tiered-electricity-rates-explained.md",
+    "PART B grep commands: grep -rn 'national average\\|average U.S' *.md | grep -i '\\$' (15+ results across 9 files)",
+    "grep -rn '\\$262\\|\\$430\\|\\$500' *.md (11 results across 5 files)",
+    "grep -rn 'per degree\\|per \u00b0\\|each degree\\|1%\\|2%\\|3%\\|per.*degree' *.md | grep -i 'thermostat\\|heating\\|cooling\\|save\\|saving' (thermostat-related hits across 3 files)",
+    "grep -rn 'BLS\\|December 2026' *.md (1 result: 7-states-with-worst-utility-spikes-2026.md:38)",
+    "All commands quoted in the analysis above. Evidence.md read for manifest (30 slugs + engagement data)."
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: write_file, edit_file",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/evidence.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-read-electric-meter.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-read-a-water-meter.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/08-time-of-use-electricity.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/tiered-electricity-rates-explained.md",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'national average\\|average U.S' *.md | grep -i '\\$'' -> exit 0",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn '\\$262\\|\\$430\\|\\$500' *.md' -> exit 0",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'per degree\\|per \u00b0\\|each degree\\|1%\\|2%\\|3%\\|per.*degree' *.md | grep -i 'thermostat\\|heating\\|cooling\\|save\\|saving'' -> exit 0",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'BLS\\|December 2026' *.md' -> exit 0",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'per degree\\|per \u00b0\\|per \u00b0F\\|per-degree' *.md' -> exit 0",
+    "run_command 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -n 'per degree\\|per \u00b0F\\|per \u00b0\\|setback.*save\\|save.*setback' do-programmable-thermostats-cut-heating-bills.md 30-sudden-spike-in-electricity-bill-no-usage.md how-to-lower-electric-bill-complete-guide.md' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "commands run (harness-verified): 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'national average\\|average U.S' *.md | grep -i '\\$'' -> exit 0; 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn '\\$262\\|\\$430\\|\\$500' *.md' -> exit 0; 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'per degree\\|per \u00b0\\|each degree\\|1%\\|2%\\|3%\\|per.*degree' *.md | grep -i 'thermostat\\|heating\\|cooling\\|save\\|saving'' -> exit 0; 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'BLS\\|December 2026' *.md' -> exit 0; 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -rn 'per degree\\|per \u00b0\\|per \u00b0F\\|per-degree' *.md' -> exit 0; 'cd /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog && grep -n 'per degree\\|per \u00b0F\\|per \u00b0\\|setback.*save\\|save.*setback' do-programmable-thermostats-cut-heating-bills.md 30-sudden-spike-in-electricity-bill-no-usage.md how-to-lower-electric-bill-complete-guide.md' -> exit 0",
+  "risks": [
+    "December 2026 BLS citation in 7-states-with-worst-utility-spikes-2026.md:38 is a fabricated/predicted data point \u2014 this is the single highest-risk finding for AdSense credibility",
+    "National average electricity rate floats across pages (17.30\u00a2 to 18.4\u00a2/kWh) with inconsistent year references \u2014 could be flagged as contradictory",
+    "$262 vs $500-600 utility-basket figures are contradictory across pages without consistent caveat methodology",
+    "Thermostat per-degree savings claims vary by 3x (0.5%/\u00b0F to 1.5%/\u00b0F) across pages with no cross-referencing",
+    "Water meter example uses commercial-scale CCF value (4,523 CCF) as residential example"
+  ],
+  "unknowns": [
+    "Did not verify the actual BLS inflation data for 2026 (web search would be needed) \u2014 this is a 'verify, don't chase' flag per Prospector method",
+    "Did not check whether the DOE Better Buildings PDF actually supports the national average claims made across pages",
+    "Did not check whether the 44-how-to-lower-water-bill.md $500 savings figure from EPA WaterSense matches the tool's own citation"
+  ],
+  "recommendation": "Route to Commander for synthesis. Priority flags: (1) December 2026 BLS citation \u2014 immediate credibility risk, needs correction or sourcing as projection; (2) national average rate inconsistency (17.30\u00a2 vs 18.4\u00a2/kWh) across pages \u2014 needs unified sourcing; (3) $262 vs $500-600 basket contradiction \u2014 needs consistent methodology wording; (4) thermostat per-degree claims without cross-referencing. Cross-shard leads: TOU rate table and dishwasher savings calculations belong to analyst seat for verification against actual utility tariffs.",
+  "confidence": "high",
+  "confidence_basis": "All 4 PART A pages read in full. 4 grep commands run with quoted output captured. All leads have file:line + quoted fragment. No skimmed or guessed findings. The December 2026 BLS finding is a hard date-anomaly (August 2026 context) that cannot be correct as an actual published figure.",
+  "claim_violation": true,
+  "tool_steps": 12,
+  "duration_seconds": 99.7,
+  "side_effects": true,
+  "warnings": [
+    "claimed artifacts ['0.5-1.5'] not in write log \u2014 read-only packet, write-it-now nudge suppressed (claim warning stands; Commander disk-checks)",
+    "CLAIM VIOLATION: result claims file creation the ground-truth write log contradicts (files_touched: []; prose: ['0.5-1.5']) \u2014 treat every claim in this envelope as unverified until disk-checked",
+    "role-replayed scout -> prospector after hard failure"
+  ],
+  "context_est_tokens": 18434,
+  "fallback_performed": "scout -> prospector"
+}

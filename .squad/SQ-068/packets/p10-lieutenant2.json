@@ -1,0 +1,25 @@
+{
+  "role": "lieutenant",
+  "mission": "Produce the 5 writer-ready REWRITE BRIEFS that wave 1 diagnosed but did not deliver. Each brief: audience | target query + intent | what's missing vs user need | recommended section-by-section structure | evidence/sources to include (named, fetchable) | concrete examples/calculations to add | visuals | internal links in/out | desired outcome (measurable bar).",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md first. Wave-1 diagnosis (lieutenant, verified): the weak pages updated 2026-08-23 share a 'de-hallucination overcorrection' — hedged prose, ZERO dollar figures, ZERO named utilities, ZERO worked math; the house standard is 17-what-is-customer-charge-on-utility-bill.md with its 'Verified customer charges (published rates, not ranges)' table. THE 5 BRIEFS:\n(1) content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md (424w live, ConEd-only examples; consolidate intent: this page WINS the delivery-vs-supply cluster — drafts already alias into it). Target: definitive delivery-vs-supply explainer.\n(2) content/blog/duct-leaks-symptoms-hvac-running-all-day.md (495w; title promises symptoms list but body refuses; slug says hvac-running-all-day but covers uneven rooms — realign intent).\n(3) content/blog/drought-surcharge-on-water-bill-explained.md (510w; needs one actual drought-rate example table).\n(4) content/blog/why-is-my-furnace-blowing-cold-air.md (485w; safety-first page, zero figures — brief should add thermostat-setting/filter-size concrete checks + cost bands from cited sources).\n(5) content/blog/complete-guide-understanding-utility-bill.md (flagship REBUILD brief — leanest flagship 9KB, renamed title 'A Practical Workflow...' now mismatches slug+keywords targeting 'complete guide understand utility bill'; zero visuals, no FAQ, no worked dollar example; it holds the homepage Essential-guides slot and absorbs alias /blog/how-to-read-your-utility-bill/).\nFor each brief name 3-6 specific sources (utility tariff pages, EIA tables, DOE/ENERGY STAR pages, EPA WaterSense) the writer should fetch and cite with retrieval dates, following the front-matter sources: convention.",
+  "known_facts": [
+    "17-what-is-customer-charge-on-utility-bill.md is the house exemplar — read it before writing briefs",
+    "EIA June 2026 national average residential rate 18.34 c/kWh, avg usage 899 kWh/mo (verified by wave-1 fetch) — usable in briefs",
+    "IRS 25C credits ended 12/31/2025 (verified) — relevant to heat-pump/furnace brief framing",
+    "Site front matter uses sources: list with '(retrieved YYYY-MM-DD)' convention"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only. Briefs specific enough to hand a writer with zero extra context",
+    "KEEP THE ENVELOPE COMPACT: 5 briefs, ~1,200 chars each max — no preamble, no repetition of wave-1 findings"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "5 complete briefs in the 8-part structure, one per page above",
+    "Each names 3-6 fetchable sources with retrieval-date instructions",
+    "Each defines the measurable 'done' bar"
+  ]
+}

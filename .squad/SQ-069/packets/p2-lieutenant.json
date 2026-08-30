@@ -1,0 +1,27 @@
+{
+  "role": "lieutenant",
+  "mission": "Two editorial fixes: (1) correct the refuted Con Ed TOU rates on page 46, (2) give the homepage a keyword-bearing title tag.",
+  "parent_objective": "SQ-069 audit remediation, phase 1",
+  "context": "Repo path has a space — quote it.\n(1) content/blog/46-what-time-is-electricity-cheapest.md — verified facts (wave-2 verifier, fetched 2026-08-29, CON ED LIVE PAGE coned.com/en/accounts-billing/your-bill/time-of-use): summer peak Jun 1–Sep 30, 8am–midnight $0.2786/kWh; other-months peak $0.1711/kWh; off-peak (all other hours incl. weekends) $0.0522/kWh; delivery 8am–midnight $0.16402/kWh (>250 kWh summer tier $0.18858); monthly customer charge $21.00. The article's WRONG figures: 22.33c/44.97c (lines ~37, 46) and the 'roughly 50% off-peak discount' claim (line ~56 — real discount is ~81% vs summer peak, ~70% vs winter peak). The article's hour/period definitions are CORRECT — keep them. Rewrite the affected passages so every number matches the verified set, update the front-matter sources entry for Con Ed with '(retrieved 2026-08-29)', and update front-matter 'updated: 2026-08-30'. Keep the page's existing structure/tone; do not pad. Also scan the page for any OTHER Con Ed-dependent numbers and fix consistently.\n(2) layouts/partials/head.html line 34: '{{ if .IsHome }}{{ .Site.Title }}{{ else }}...' renders bare 'Utility Explained'. Change ONLY the .IsHome branch to a keyword title, total ≤60 chars, e.g. 'Utility Explained: Read & Lower Your Utility Bills' (you may refine wording, keep the length cap and no trailing '| Utility Explained' duplication on home). Do not touch the else branch.",
+  "known_facts": [
+    "18.34c/kWh national avg (EIA June 2026) and 899 kWh/mo are verified — usable if contextually needed",
+    "The site's front-matter convention: sources list entries 'URL (Label, retrieved YYYY-MM-DD)'",
+    "Verify your page-46 edit leaves zero instances of 22.33 or 44.97 or '50%' discount claims (grep the file)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/46-what-time-is-electricity-cheapest.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/layouts/partials/head.html"
+    ]
+  },
+  "constraints": [
+    "Stay inside write_paths; externalized checklist: after each edit, grep-verify the wrong figures are gone and the build passes (hugo --quiet)",
+    "No new uncited numbers — every figure must be from the verified set above or already on the page"
+  ],
+  "success_criteria": [
+    "Page 46: zero occurrences of 22.33/44.97/50%-discount; all Con Ed figures match the verified set; sources front matter dated",
+    "Homepage title renders the new keyword title in public/index.html",
+    "hugo build passes"
+  ]
+}

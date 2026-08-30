@@ -1,0 +1,37 @@
+{
+ "parent_objective": "SQ-052: execute SQ-051 audit remediation plan",
+ "context": "Site: utilityexplained.com (Hugo). AdSense blocked ('Low value content') \u2014 accuracy and evidence are the gate. Reader: US resident with a utility bill in hand. Voice: plain, direct, verb-led; the site's model page is content/blog/is-your-toilet-running-leak-test.md (Quick Answer IS the instruction, numbered executable steps, monetization after free actions). ANTI-SLOP RULES: no 'may vary' without a decision rule; no filler intros ('In today's world\u2026'); every number either carries a fetched source URL + retrieved date 2026-08-29 or is removed; no claims about Google's ranking systems. You HAVE web_search/web_fetch \u2014 verify before you write.",
+ "known_facts": [
+  "Existing page: 5 H2s, procedural only, author Tanya Patterson, updated 2026-08-23",
+  "A sibling editor is rebuilding 19-surcharges in parallel \u2014 do not duplicate its 'riders' content; link it instead",
+  "Franchise fees in many US cities are regulated caps (often single-digit %) \u2014 but YOUR job is to find a fetchable page stating an actual rate; no rate, no example"
+ ],
+ "constraints": [
+  "You own EXACTLY ONE file (write_paths); touch nothing else",
+  "Every dollar figure / percentage / definition must be verified by a page YOU fetched this run (URL + retrieved date 2026-08-29 in the sources frontmatter)",
+  "If you cannot verify a number, you do not include it \u2014 no guessing, no 'typical' inventions",
+  "Preserve frontmatter: title (unless mission says change), slug, date; set updated: 2026-08-29; keep/add author as existing",
+  "Keep the page's existing good content \u2014 this is a rebuild of structure and evidence, not a from-scratch reset",
+  "Set hero_below_answer: true in frontmatter",
+  "Match site style: ## Quick Answer first (if the page has one or needs one), H2 sections, tables where data, FAQ section kept"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "File rewritten within your write_path only",
+  "Zero unsourced numbers remain in the new body",
+  "sources frontmatter lists every cited URL",
+  "Mission-specific structure delivered"
+ ],
+ "role": "lieutenant",
+ "mission": "REBUILD content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md (45pv/mo, 6-second time-on-page \u2014 readers see zero useful content). Diagnosis (verified): 467 words, 100% procedural ('check your bill and tariff'), zero dollar examples, zero internal links. TARGET: (1) Quick Answer defining the three charge types in one sentence each; (2) 'What each one looks like on a bill' \u2014 real named examples: find 2-4 VERIFIED jurisdiction examples via web (e.g., a city utility-users-tax rate page, a state gross-receipts/revenue tax on utilities page, a franchise-fee ordinance or PUC page with the %); every % must come from a page you fetched; (3) 'How to read yours' keeps the existing verify-against-tariff workflow; (4) add 3+ contextual internal links (verify slugs exist first): /blog/18-fuel-adjustment-charge-on-utility-bill-explained/, /blog/19-utility-bill-surcharges-and-riders-explained/, /blog/28-utility-reconnection-fee-explained/, /blog/27-utility-connection-fee-explained/; (5) FAQ kept/extended with the questions a reader holding a bill asks ('why is tax charged on delivery too?' \u2014 only if you can source the general answer, else frame as check-your-state). 700-1,000 words. If verified municipal examples prove hard to fetch, prefer FEWER examples over unsourced ones.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md"
+  ]
+ }
+}

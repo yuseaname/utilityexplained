@@ -1,0 +1,25 @@
+{
+  "role": "scout",
+  "mission": "Metadata recon of all 110 content pages in content/ (excluding content/_index.md internals): extract per-page front-matter signals and flag metadata problems. Deliver leads, not verdicts.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). Hugo site; every page is markdown with YAML front matter (title, description, date, updated, author, tags, keywords, sources, image). Use grep/awk/head for extraction — NEVER count in your head; every count must come from grep -c or wc with the command quoted in your findings.",
+  "known_facts": [
+    "110 pages total; repo path contains a space — always quote paths",
+    "Rendered site in public/ is fresh as of 2026-08-29",
+    "Today is 2026-08-29"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "notes": "Front matter example: see content/blog/17-what-is-customer-charge-on-utility-bill.md"
+  },
+  "constraints": [
+    "Read-only recon — no file writes",
+    "Counts only via grep -c / wc, command quoted in findings"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "Compact per-page metadata table covering ALL 110 pages: title | has-description | date | has-updated | author",
+    "Flag list: duplicate titles, duplicate/near-duplicate descriptions, missing descriptions, pages with date but no updated stamp since 2026-06-01, posts with no author",
+    "One-line note on robots.txt and sitemap.xml (URL count vs 110 pages, via grep -c on sitemap.xml)"
+  ]
+}

@@ -1,0 +1,14 @@
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/08-scout.json", "agent": "scout", "status": "blocked"}
+{"packet": "scout.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/01-scout.json", "agent": "scout", "status": "partial"}
+{"packet": "verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/05-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/03-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/04-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "lieutenant.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/01-lieutenant.json", "agent": "lieutenant", "status": "blocked"}
+{"packet": "mason.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/06-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/02-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "makeup.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/01-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "verify2.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/01-lieutenant-r2.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "executor.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/07-executor.json", "agent": "executor", "status": "partial"}
+{"packet": "fix-lifecycle.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/03-lieutenant-3.json", "agent": "lieutenant#3", "status": "complete"}
+{"packet": "fix-gas.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/01-lieutenant-r3.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "fix-fees.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-053/results/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}

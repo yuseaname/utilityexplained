@@ -1,0 +1,43 @@
+{
+ "role": "lieutenant",
+ "mission": "Implement the approved APEX Edit Plans for 4 pages. For each: read the analysis file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/<slug>.md, read the target article, execute the Edit Plan under the implementation rules, self-critique, fix, and write the Execution Log. Targeted improvements only \u2014 the goal is a reader who thinks 'that answered what I came for, and gave me something useful I didn't know I needed.'",
+ "parent_objective": "APEX optimization of the site's traffic ranks 11-20 (SQ-055), wave 2: implementation",
+ "context": "MISSION CONTEXT\nutilityexplained.com \u2014 Hugo utility-bill explainer site, US consumers, 89% organic search (Bing/DDG), 56% mobile. You are wave 2 of SQ-055: wave-1 analyses (in .squad/SQ-055/analysis/) were reviewed and approved by the Commander with the vetoes/notes embedded in this packet. The site's facts were evidence-audited TODAY (SQ-051..054) \u2014 you change reader experience, not facts.\nBaseline metrics per page are inside each analysis file header context and .rybbit-t11320-2026-08-29/baseline_11-20.json.\nIMPLEMENTATION RULES (binding)\n- Execute ONLY the approved Edit Plan in each analysis file. Where Commander vetoes exist in your packet, they override the brief.\n- Skip any brief item flagged NEEDS-VERIFICATION unless your packet explicitly approves it; log each skip in your result envelope (one line: page | skipped item | reason).\n- Preserve the file's existing markup idiom: markdown-## headings stay markdown; raw-HTML <h2>/<h3> files (e.g. mcf-vs-ccf-vs-therms) stay HTML. No wholesale format conversions.\n- Targeted edits via edit_file on read content; chunked writes (never one giant write_file of the whole article). One logical change per edit.\n- Frontmatter: change ONLY the `updated:` field to 2026-08-29. Never touch title/slug/draft/aliases/sources (appending a source is forbidden \u2014 you add no new facts).\n- House patterns to apply where the brief calls for them:\n  * \"Next step:\" journey line right after the Quick Answer (see content/blog/what-is-ccf-on-a-water-bill.md exemplar)\n  * Momentum bridge blockquote after QA when the brief calls for it\n  * Contextual inline links with descriptive anchor text (reader-purpose anchors, never \"click here\")\n  * FAQ section: {{< faq \"Question?\" >}} answer {{< /faq >}} per Q, then a single {{< faq-schema >}} \u2014 copy the pattern from content/blog/how-utility-rates-fees-usage-work-together.md. FAQ goes AFTER content, before ## Sources.\n  * \"## Related Reading\" bulleted section after the main content, before FAQ.\n  * Product boxes: only what the brief's CTA section approves \u2014 use existing {{< product-box asin=... >}} / {{< amazon asin=... > }} shortcodes; NEVER invent an ASIN. If the brief says NONE, add none.\n- Every internal link you add must resolve: /blog/<slug>/ exists as a content file slug or an alias.\n- Verify your own work after editing: re-read each changed section; run the self-critique questions from the brief (Section 9) and fix what fails. Then append to the TOP of each analysis file a short \"## Execution Log\" (5-10 lines: what was applied, what was skipped and why).\n- Do not touch any file outside your write_paths.",
+ "known_facts": [
+  "COMMANDER RULINGS (override briefs where they conflict):\n- 25-taxes: ALL Edit Plan items 1-6 APPROVED (\"Often appears as\" column ships with the often-never-always guardrail the brief specifies; keep the gross-receipts trim so the page stays net-negative). Item 7 description proposal APPROVED for execution.\n- average-utility-bills-by-state-2026: items 1-8 and 10 APPROVED. Item 9: ship the FULL variant \u2014 convert the H3-rendered Q&As into {{< faq >}} shortcodes so faq-schema covers everything that renders; state in your Execution Log that the full variant shipped. Item 1 (hero_below_answer: true) APPROVED as a named frontmatter exception. Item 11 description proposal APPROVED for execution (fold in the ~$375/mo + 17-state numbers).\n- 19-surcharges: items 1,2,4,5,6,7,8 APPROVED. Item 3 APPROVED WITH MANDATORY GUARDRAIL: the PUCO and Duke quotes are preserved VERBATIM (they are the sourcing spine); compress only framing sentences \u2014 if in doubt skip item 3 and log. Jump-row (item 2): ship jump-row; if it renders awkwardly in markup, fall back to the two-line routing block and log which shipped.\n- 18-fuel: items 1-6 and 8 APPROVED (item 8 disclosure chip = family consistency \u2014 ship it). Item 7 description proposal APPROVED for execution. Item 5 symbolic worked example ships with NO numbers.\n- Frontmatter policy for your pages: `updated: 2026-08-29` everywhere; `hero_below_answer: true` ONLY on average-utility-bills-by-state-2026; approved description strings on 25, 19, 18, and state-avg per the brief proposals; title/slug/aliases/draft/sources/date/author are untouchable everywhere.\n- The brief files are PLANS, not copy sources \u2014 compose your own clean prose; at least one brief contains a stray CJK character from generation (e.g. in 25's brief) that must never leak into content.",
+  "Post-edit hugo build + rendered-HTML verification runs as wave 3 by another seat \u2014 do not attempt builds"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/25-utility-bill-taxes-fees-franchise-charges-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/19-utility-bill-surcharges-and-riders-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/18-fuel-adjustment-charge-on-utility-bill-explained.md"
+  ],
+  "notes": "Exemplar QA/journey: content/blog/what-is-ccf-on-a-water-bill.md | FAQ pattern: content/blog/how-utility-rates-fees-usage-work-together.md | CTA doctrine: AFFILIATE-PLACEMENTS-2026-08-28.md"
+ },
+ "constraints": [
+  "Writes confined to your write_paths (content files + matching analysis files)",
+  "No new factual claims, numbers, prices, laws, or ASINs",
+  "No URL/slug/alias changes; frontmatter: only `updated:`",
+  "Match each file's existing markup idiom (markdown vs raw-HTML headings)",
+  "Every added internal link must resolve to an existing slug or alias under /blog/"
+ ],
+ "prohibited_actions": [
+  "run_command"
+ ],
+ "success_criteria": [
+  "Each assigned article reflects its approved Edit Plan (P0/P1 items applied, NEEDS-VERIFICATION items skipped+logged)",
+  "Each analysis file has an Execution Log at top",
+  "Zero link additions that do not resolve; zero new facts; zero ASIN inventions",
+  "`updated: 2026-08-29` set on each edited article",
+  "Result envelope: per page \u2014 3-6 lines of what changed, list of skipped items"
+ ]
+}

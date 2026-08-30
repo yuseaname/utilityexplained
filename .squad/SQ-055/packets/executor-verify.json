@@ -1,0 +1,29 @@
+{
+ "role": "executor",
+ "mission": "Mechanical verification of SQ-055 wave-2 edits on 10 blog articles. Working from the repo root: (1) run a hugo build (hugo --quiet or hugo -D is NOT wanted \u2014 production build, plain `hugo`) and report success/failure with error lines; (2) for the 10 changed files listed in known_facts, extract every /blog/... internal link added in the git diff (git diff HEAD -- <files>) and verify each target resolves to an existing content slug or an alias in frontmatter (write a small python check, quote the command output); (3) verify frontmatter invariants vs git HEAD: title/slug/draft/aliases/sources unchanged, `updated:` == 2026-08-29; (4) check shortcode balance in each changed file: every {{< faq ... >}} has {{< /faq >}}, product-box/amazon tags well-formed; (5) grep changed files for leaked artifacts: 'NEEDS-VERIFICATION', 'TODO', 'PLACEHOLDER', '{{{', unbalanced '{{<' counts; (6) report word-count delta per file. Write the full verification report to .squad/SQ-055/verification-report.md with a PASS/FAIL per check per file. Do NOT modify any content file.",
+ "parent_objective": "APEX optimization of the site's traffic ranks 11-20 (SQ-055), wave 3: verification",
+ "context": "Hugo 0.141 extended at /home/msi-command/.local/bin/hugo. Repo root is the working dir. The 10 articles were just edited by wave-2 seats; git diff vs HEAD shows all changes (uncommitted). Site builds clean at HEAD as of today.",
+ "known_facts": [
+  "Changed files: content/blog/23-utility-billing-cycle-explained.md; content/blog/07-gas-bill-too-high.md; content/blog/electric-bill-breakdown-understanding-line-items.md; content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md; content/blog/average-utility-bills-by-state-2026.md; content/blog/19-utility-bill-surcharges-and-riders-explained.md; content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md; content/blog/mcf-vs-ccf-vs-therms-on-gas-bill.md; content/blog/how-do-smart-meters-work.md; content/blog/average-water-usage-per-person.md",
+  "Alias convention: frontmatter `aliases:` lists redirect paths \u2014 a link target may resolve via alias",
+  "FAQ pattern: {{< faq \"Q\" >}} ... {{< /faq >}} pairs plus one {{< faq-schema >}}"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/verification-report.md"
+  ]
+ },
+ "constraints": [
+  "Read-only on all content files \u2014 your only write is the verification report",
+  "Quote actual command outputs as evidence; no assumed results",
+  "If the build fails, capture the exact error lines and mark FAIL \u2014 do not attempt fixes"
+ ],
+ "success_criteria": [
+  "verification-report.md exists with per-file PASS/FAIL for all 6 checks",
+  "Every claim in the report quotes the command that produced it",
+  "Build verdict stated explicitly"
+ ]
+}

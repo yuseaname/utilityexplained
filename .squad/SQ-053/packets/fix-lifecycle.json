@@ -1,0 +1,36 @@
+{
+ "parent_objective": "SQ-053 remediation: execute verified wave-2 fixes",
+ "context": "Site: utilityexplained.com (Hugo). AdSense blocked ('Low value content') \u2014 evidence is the gate. Voice: plain, verb-led; model page pattern = action-first Quick Answer (see content/blog/is-your-toilet-running-leak-test.md and today's rebuilt 25-utility-bill-taxes + 19-surcharges for the verified-examples standard). Site standards: $165/mo national electric anchor (900 kWh \u00d7 18.34\u00a2), $144 2024 actual; energy.gov/energysaver URLs DEAD (successors: energy.gov/save/home-upgrades, energystar.gov/saveathome/*); EPA anchors: 9,400 gal/yr leaks, 10% leak-savings, ~20% via efficient fixtures, $1,300/yr family spend + $500 retrofit savings (watersense/start-saving, verified 2026-08-29). NEVER open .squad/SQ-045 or .squad/SQ-051 artifacts (stale audit verdicts poison runs).",
+ "constraints": [
+  "You own EXACTLY the files in write_paths; touch nothing else",
+  "Every number/definition from a page YOU fetched this run (URL + retrieved date 2026-08-29 in sources)",
+  "Cannot verify = do not include",
+  "Preserve slug/date/author; set updated: 2026-08-29; keep hero_below_answer: true where present",
+  "Keep existing good content \u2014 rebuild structure/evidence, don't reset"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers in new body",
+  "sources frontmatter complete",
+  "Mission structure delivered"
+ ],
+ "role": "lieutenant",
+ "mission": "REBUILD three thin lifecycle pages: content/blog/21-past-due-balance-utility-bill-explained.md (536w, 88.9% br), content/blog/26-utility-deposit-explained.md (501w, 94.7% br \u2014 worst in tier), content/blog/14-estimated-utility-bill-explained.md (444w). Verified-anchors approach: (1) past-due: fetch CFPB's utility-bill assistance/protection guidance + a state PUC disconnection-notice rule page (e.g. a named state's cold-weather moratorium or notice period) \u2014 give readers the actual framework (notice periods, LIHEAP/assistance entry points, dispute-while-protecting-service); (2) deposit: fetch 2-3 states' deposit rules (e.g. Texas PUC two-month-bill deposit cap, California IOU deposit rules, a state interest-on-deposit rule) \u2014 deposit amounts, waivers (senior/low-income), refund timelines; wave-1 noted TX PUC 'two-month cap + interest + 65+/low-income waivers' as the pattern to verify and install; (3) estimated: ConEd's bill FAQ (verified live today: billing-period days, estimated reads, supply fluctuation) + one PUC estimated-reading rule \u2014 install the 'why estimates happen, how to spot EST, how to force an actual read' workflow with citations. Each: action-first QA, 600-900 words, 3+ internal links (28-reconnection, 26/21 cross-links, can-utility-shut-off-service as the lifecycle hub, how-to-dispute-utility-bill), FAQ kept.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/21-past-due-balance-utility-bill-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/26-utility-deposit-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/14-estimated-utility-bill-explained.md"
+  ]
+ },
+ "known_facts": [
+  "can-utility-shut-off-service (3,002w) is the lifecycle hub \u2014 link it, don't duplicate its disconnection-rules core",
+  "CFPB consumerfinance.gov utility guidance + LIHEAP 6.7M households (liheap.org, verified 2026-08-29) are live anchors",
+  "ConEd bill FAQ verified live today at coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq"
+ ]
+}

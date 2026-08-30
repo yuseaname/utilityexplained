@@ -1,0 +1,34 @@
+{
+ "parent_objective": "SQ-054 write wave: sewer-averaging rewrite with municipal anchors",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site \u2014 every number must trace to a fetched/read source. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs; inline [n] + '## Sources' footer. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054/results. No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY content/blog/sewer-averaging-water-bill-explained.md; touch nothing else",
+  "A prior read-only pass (2026-08-29) fetched Austin Water rate PDFs \u2014 LOCAL COPIES are in resources.roots below (.txt versions readable directly); re-derive every number FROM THOSE FILES or a fresh fetch \u2014 do not trust this packet's prose numbers",
+  "Cannot verify = do not include; preserve slug/date/author/image; set updated: 2026-08-29",
+  "'## Quick Answer' first: what sewer averaging is + why winter months + one real $ example"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers",
+  "sources FM = body citations",
+  "QA + H2 + worked example present",
+  "OUTPUT CONTRACT: claim ledger, edits, human-review items, wc before->after"
+ ],
+ "role": "verifier",
+ "mission": "content/blog/sewer-averaging-water-bill-explained.md \u2014 924 words, 1 H2, no Quick Answer, thin sourcing. Rewrite to the verified-municipal-anchor standard: (1) '## Quick Answer': sewer averaging = your sewer charge for the year is set from your water use during a winter averaging window (mechanism), with one real city example. (2) MUNICIPAL ANCHORS: Austin Water is pre-fetched for you (read austin_rates_2026.pdf/austin_rates_2027.pdf/rates_text.txt in the verifier workspace dir below): extract the wastewater averaging quote ('The amount of wastewater billed is based upon water usage during the Wastewater Averaging...' \u2014 read the full sentence), the current $/1,000-gal wastewater rate, and the averaging-window months IF the document states them (if the months are NOT in the document, do NOT state them \u2014 put them in human-review instead). Derive the worked example yourself from the rate you read (winter average gallons -> monthly sewer $). (3) Add 1-2 more cities via fresh fetches (San Antonio Water System sewersmart/saws.org, Dallas, Denver Water, or Seattle Public Utilities \u2014 whichever loads). (4) H2 structure: how averaging works; the window; how the average is applied; how to lower your average (fix winter leaks \u2014 cite EPA 9,400 gal/yr household leaks from epa.gov/watersense/fixaleak after re-fetch); cities that don't average. (5) Delete any city-specific months/figures currently in the file that you cannot verify. sources frontmatter + inline [n] + '## Sources' footer.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained",
+   "/tmp/squad-workspaces/20260829-115950-verifier"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/sewer-averaging-water-bill-explained.md"
+  ]
+ },
+ "known_facts": [
+  "Prior pass confirmed the Austin 2025-2026 Residential Rates PDF is real and states the wastewater-averaging basis; it could NOT confirm the averaging-window months from the rate sheet \u2014 flag months for human review unless your documents state them",
+  "EPA fixaleak page (live slug fixaleak, NOT fix-leak): household leaks ~9,400 gal/yr, ~10% bill savings \u2014 re-fetch before citing"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 source-and-verify unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages rebuilt to the verified-examples standard: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). Site standards: frontmatter `sources:` = live URLs you fetched this run; body inline [n] markers + '## Sources' footer with markdown links; no leaked editorial notes in prose; frontmatter `sources:` must equal the body-cited set. NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052 or .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every verdict must quote the exact sentence(s) from the file and, for factual checks, cite the source URL you fetched (retrieved 2026-08-29)",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers in the delivered body",
+  "sources frontmatter complete and equal to body citations",
+  "RESULT must contain, under a heading 'OUTPUT CONTRACT': (1) CLAIM LEDGER \u2014 every factual claim checked, each marked KEPT (source URL + exact quote fragment + retrieved date) / FIXED (old text -> new text + source) / DELETED (why unverifiable) / ESTIMATE (labeled as site estimate + basis); (2) EDITS \u2014 structural changes applied to the file; (3) HUMAN REVIEW \u2014 anything you could not verify at source; (4) wc -w before -> after."
+ ],
+ "role": "lieutenant",
+ "mission": "content/blog/water-service-charge-explained.md \u2014 1,425 words, ZERO sources, effectively no H2 structure (wall of text), answer buried (Rybbit: 4s TOP). Restructure + source it. (1) '## Quick Answer' = definition + why it is fixed + what it pays for (<=3 sentences, mechanism not disclaimers). (2) H2 sections; keep the good explanation, cut hedging walls. (3) Real municipal fixed-charge examples YOU fetch THIS RUN from official 2026 rate pages \u2014 2-4 utilities with $ amounts and retrieved dates (e.g. Seattle Public Utilities water service/commodity charges, Philadelphia Water revenue fixed charge, Austin Water, SFPUC). Include meter-size scaling if a fetched rate table shows it (bigger meter = bigger fixed charge). (4) Explain clearly: service/base charge vs usage charge vs meter-size scaling; what the charge covers (meter reading, maintenance, billing infrastructure \u2014 only if a fetched utility page says so). (5) EPA 'understanding your water bill' page is a verified live general anchor (fetched 2026-08-29). sources frontmatter + inline [n] + footer.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "EPA: 'One CCF is equal to 748 gallons' (epa.gov/watersense/understanding-your-water-bill) \u2014 verified live 2026-08-29",
+  "Do NOT conflate: Seattle's $20.18/CCF is SEWER 2026; Philadelphia's $5.16/CCF is combined-service flat (verify the water fixed component specifically before citing); SMUD's $27.00/mo is an ELECTRIC fixed charge \u2014 usable only as cross-domain analogy"
+ ]
+}

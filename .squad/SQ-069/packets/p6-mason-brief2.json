@@ -1,0 +1,19 @@
+{
+  "role": "mason",
+  "mission": "BRIEF 2 — rebuild content/blog/duct-leaks-symptoms-hvac-running-all-day.md: deliver the symptom list the title promises, realign to the runtime query, add the professional-testing section.",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds",
+  "context": "Current: 495w; title promises symptoms, body refuses; slug promises 'hvac running all day' but covers uneven rooms. Rebuild to serve BOTH: symptoms list + runtime/bill-climb framing.\nSTRUCTURE:\n1. Quick Answer: the 3 strongest signs (uneven rooms, weak flow at far registers, runtime+bill climbing at the same thermostat settings) + when to suspect ducts vs the unit.\n2. SYMPTOM LIST (the promise, 8 items, one-line cause each): uneven room temperatures; weak airflow at far registers; dust streaks at register edges/joints; runtime and bills climbing at same settings; stuffy rooms that never settle; visible kinks/torn flex in accessible attic runs; whistling at return grilles; rooms that never reach setpoint in extreme weather.\n3. EMBED: {{< image src=\"/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leak-diagram.webp\" alt=\"House cross-section showing supply ducts with leak points at joints, boots, kinked flex, and unsealed takeoffs\" caption=\"Where ducts actually leak\" >}}\n4. 15-minute DIY observation checklist (registers, filter, visible return flex, attic runs from the walkway — NO crawlspace entry, that's a pro job; safety note).\n5. What a professional measures: duct-blaster (CFM25), blower door with ducts pressurized — explain the numbers plainly. Sources: DOE/BSEC duct leakage testing pages, ENERGY STAR ducts page — fetch energy.gov/energysaver/duct-sealing and energystar.gov (verify live, date them). Quote leakage statistics ONLY as published with exact wording (ENERGY STAR's ~20-30% figure if the live page carries it; otherwise omit).\n6. Sealing options: mastic / UL-181 metal tape vs cloth duct tape (cloth fails — cite DOE/ENERGY STAR wording).\n7. RUNTIME MATH TABLE (labeled arithmetic, NOT utility data): supply loss 15% → ~1.18x runtime; 30% → ~1.43x runtime to deliver the same conditioned air. 3-row table, clearly labeled illustrative arithmetic.\n8. FAQ (3): can I seal ducts myself; how much does a duct test cost (only if a dated source found; else omit numbers); will sealing lower my bill.\n9. Front matter updated: 2026-08-30; keep slug; title may adjust to 'Duct Leak Symptoms: Why Rooms Are Uneven & the HVAC Runs All Day' (<=60 chars preferred). Links: heat-pump-running-all-day-in-winter, 47-check-energy-leaks-home-diy, why-is-my-furnace-blowing-cold-air, heating-cooling hub. Target ~900-1,100w.",
+  "known_facts": [
+    "Current page deliberately refuses generic numbers (de-hallucination policy) — the rebuild keeps that discipline: only published stats, everything else labeled illustrative arithmetic",
+    "Image file will exist at build time — do not verify it"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md"]
+  },
+  "constraints": ["Write ONLY this file; NO hugo build; published stats verbatim-cited or omitted"],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "Symptom list present and matching title/keywords; >=1 dated leakage/testing source; runtime table; FAQ blocks; image embedded; ~900-1,100w"
+  ]
+}

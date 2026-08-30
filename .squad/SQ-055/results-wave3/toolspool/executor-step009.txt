@@ -1,0 +1,297 @@
+exit_code: 0
+10:+A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the most common causes, ranked by likelihood, and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
+13:+Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/).
+22:+## Common causes, ranked by likelihood
+26:+*Short on time? Check #1 (weather), #2 (thermostat), and #10 (period length) first — the three most common explanations.*
+36:+**Programmable thermostat tip:** Set it to drop 7–10°F when you're sleeping or away for at least eight hours a day. This alone can save up to 10% on heating costs, according to the U.S. Department of Energy.[2] If you have a smart thermostat (Nest, Ecobee, Honeywell Home), enable the eco/schedule feature. Before buying anything for that schedule, it's fair to ask [do programmable thermostats really cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/) — the evidence page breaks down what the setback studies actually show.
+41:+Furnaces lose efficiency as they age. A furnace rated at 92% AFUE (Annual Fuel Utilization Efficiency) may drop to 80–85% after 10–15 years without proper maintenance. (New to efficiency ratings? See [what AFUE ratings actually mean](/blog/afue-vs-seer-vs-hspf-vs-cop/), along with the SEER, HSPF, and COP numbers used for the other equipment types.) Pre-2000 furnaces commonly sit at **70–80% AFUE**, meaning **20–30% of the fuel you pay for escapes through the exhaust flue** as wasted heat rather than warming your home. A new high-efficiency condensing furnace reaches **95% AFUE** — that gap is the single biggest efficiency upgrade available to most gas-heated households.
+50:+- **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.[3] If some rooms heat fine while others stay cold, that uneven-room pattern is the classic symptom — see [what duct leaks feel like from room to room](/blog/duct-leaks-symptoms-hvac-running-all-day/).
+53:+**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak. This is the same method the pros use — [run a full DIY energy assessment](/blog/47-check-energy-leaks-home-diy/) to make it a room-by-room checklist.
+62:+A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed. To see why — and how to check it — see [why the billing period makes the bill look bigger](/blog/23-utility-billing-cycle-explained/), with the worked daily-average comparison.
+80:+Gas meters measure usage in **cubic feet**. The display shows 4–5 dials (analog) or a digital readout — for the full bill breakdown after you read it, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
+87:+For the full [dial-by-dial meter walkthrough](/blog/how-to-read-gas-meter/) — analog pointer rules, digital display cycling, and what each register means — the dedicated guide covers it in detail.
+96:+## Related Reading
+98:+- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — the line-by-line breakdown of every charge.
+99:+- [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — the full dial-by-dial walkthrough and between-bills tracking.
+100:+- [Why the Billing Period Makes the Bill Look Bigger](/blog/23-utility-billing-cycle-explained/) — period length and estimated reads, decoded.
+101:+- [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — decode the units on your bill.
+102:+- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — what you're paying for in each half.
+103:+- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — how utilities pass through gas cost changes.
+104:+- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — line items beyond supply and delivery.
+105:+- [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — that fixed monthly fee.
+106:+- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — comprehensive savings strategies.
+107:+- [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — help paying your gas bill.
+141:+description: "Identify a fuel-adjustment or similar charge from the account’s tariff, bill, rate period, and provider-specific calculation — how to identify it, verify it against the tariff, and compare it to prior bills."
+145:+updated: 2026-08-29
+153:+{{< affiliate-disclosure >}}
+163:+| Related items | Energy, [delivery vs. supply](/blog/24-delivery-charge-vs-supply-charge-utility-bill/), fixed, rider, tax, credit, and one-time charges |
+167:+As a symbolic check of the line's math: *(the tariff's fuel rate for the period) × (the bill's usage basis for the same period) = the fuel-adjustment line* — the tariff supplies the rate and its effective dates, never the label alone.
+169:+Where this line sits in the bill's larger structure — and the rider mechanism behind it — see [surcharges and riders: the mechanism behind metered add-on lines](/blog/19-utility-bill-surcharges-and-riders-explained/).
+174:+Compare the current bill with a similar prior bill. A higher total amount due can result from more than one component, so record and compare each of these before drawing a conclusion:
+176:+- Billing days
+177:+- [Metered usage](/blog/11-understanding-kwh-usage/)
+178:+- Actual or estimated status
+179:+- Rate-plan version
+180:+- Each line-item rate
+181:+- Credits
+182:+- One-time items
+185:+DOE's electricity-bill material explains that bills can include multiple types of charges and rate structures; reviewing those components separately is more reliable than focusing only on the total.[2] If the comparison doesn't reconcile the increase, see [why did my utility bill go up this month?](/blog/why-did-my-utility-bill-go-up-this-month/) for the wider diagnostic.
+194:+Keep the bill, tariff version, and provider response together. If an error is suspected, follow the provider's stated billing-review process rather than assuming a charge is invalid.
+196:+## Related Reading
+198:+- [Surcharges and riders, explained](/blog/19-utility-bill-surcharges-and-riders-explained/) — the rider mechanism behind metered add-on lines like fuel adjustment.
+199:+- [Delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — where the fuel line fits in the bill's structure.
+200:+- [Understanding kWh usage](/blog/11-understanding-kwh-usage/) — how to read the usage your fuel line is applied to.
+201:+- [Natural gas bill charges, explained](/blog/12-how-to-read-your-gas-bill/) — if your fuel line is on a gas bill.
+203:+{{< faq "Why does my fuel adjustment change when my usage didn't?" >}}
+205:+The charge has two moving parts: a rate basis (the tariff's fuel rate and its effective dates) and a usage basis. Either can change between bills — a rate reset on the tariff's schedule changes the line even when your usage is flat.[1]
+207:+{{< /faq >}}
+209:+{{< faq "Is the fuel adjustment charge the same as a rider?" >}}
+211:+Adjacent, not identical: the rider is the commission-approved mechanism; the fuel adjustment charge is the line item it produces. See [surcharges and riders, explained](/blog/19-utility-bill-surcharges-and-riders-explained/) for the mechanism.
+213:+{{< /faq >}}
+215:+{{< faq "How do I get the exact rate for my account?" >}}
+217:+Ask the provider the five questions above — the tariff section, the rate and effective dates used, the calculation, the other changed components, and the current tariff version — and keep the response with the bill.
+219:+{{< /faq >}}
+221:+{{< faq-schema >}}
+234:+description: "What utility-bill surcharges and riders actually are, real named examples, and how to verify yours against the tariff, the PUC docket, and your bill — with named rider examples from real bills and a 4-step verification workflow."
+242:+{{< jump-row "Named examples|#real-riders-on-real-bills" "How to check yours|#how-to-check-yours" >}}
+246:+On your bill, these lines usually carry the specific cost's name — fuel, storm, vegetation, energy-efficiency — and the named examples from real bills are in the table below. If your line instead reads as a percentage of the bill, it belongs to the [taxes, fees, and franchise charges family](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/).
+255:+Riders commonly appear as **fuel cost adjustment, storm recovery, demand-side management / energy-efficiency, infrastructure development, and vegetation management** charges — the five named examples below are real, verified bill lines.
+264:+## Related Reading
+266:+- [Every charge on a utility bill, explained](/blog/04-hidden-fees-utility-bill/) — the full bill map, line by line.
+267:+- [What a demand charge is](/blog/49-demand-charges-electricity-bill-explained/) — when the way usage is billed changes what you pay.
+268:+- [What a customer charge is](/blog/17-what-is-customer-charge-on-utility-bill/) — why that line appears even when you use nothing.
+269:+- [How rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/) — the mental model behind every line on the bill.
+274:+{{< faq "Are riders permanent?" >}}
+279:+{{< /faq >}}
+281:+{{< faq "Is a rider the same as a tax or fee?" >}}
+286:+{{< /faq >}}
+288:+{{< faq "How is this different from the fuel charge I already have?" >}}
+293:+{{< /faq >}}
+295:+{{< faq "Where do riders fit in the rest of my bill?" >}}
+299:+{{< /faq >}}
+301:+{{< faq "Will my rider go away?" >}}
+303:+It can. A rider expires when its purpose or time limit ends, and the commission reviews riders periodically — usually annually — in a process that can remove it or set its rate to zero. Duke Energy's riders, for example, get commission review annually or on a set span, which is where an adjustment or retirement would appear.[1][2]
+305:+{{< /faq >}}
+307:+{{< faq-schema >}}
+321:+Seeing a period that runs 27–35 days, or a start or end date shifted a day or three from last month, is routine — the sections below explain why, and how to check whether anything actually changed.
+324:+Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
+327:+**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+335:+One variant of this that catches many households: the first or last bill of a lease or ownership, which often covers a partial period. See [how partial periods on first or final bills are prorated](/blog/20-utility-bill-proration-explained/).
+339:+Plug in your own numbers when checking a pair of bills:
+341:+> your kWh ÷ your billing days = your daily average
+342:+>
+343:+> repeat for the second bill, then compare the two daily averages
+352:+Two follow-ups worth reading: [how estimated reads and true-ups work](/blog/14-estimated-utility-bill-explained/), and — if an estimate correction has just landed on your bill — [why your bill changed when usage looks the same](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+362:+If the billing periods differ, compare the underlying service dates and all rates before deciding why the amount due changed. To map those charges once you have the dates straight, keep the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) charge categories handy while you record them.
+369:+Use a prior bill with a similar season only as a starting point. When you compare two statements:
+371:+- Match the billing-day counts first — a 33-day period against a 28-day period is not an apples-to-apples comparison.
+372:+- Confirm both bills use the same rate schedule, usage unit, and meter status (actual vs. estimated).
+373:+- Include credits and one-time items in the comparison, since neither shows up in the daily-average math.
+374:+- A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
+376:+**EIA data shows the average US residential customer uses roughly 899 kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/22-minimum-bill-utility-bill-explained/) as low as the raw math suggests.
+378:+---
+380:+## Is this normal, or worth a second look?
+382:+Billing periods rarely match calendar months, and most differences between two bills are routine. Use this gate before worrying:
+384:+| What you see | Verdict | Why |
+385:+|---|---|---|
+386:+| Period runs 27–35 days | Normal | Route-based meter reads set period length. |
+387:+| Start or end date shifted 1–3 days vs. last month | Normal | Weekend and holiday read-date shifts. |
+388:+| Period length drifts 3–6 days across seasons | Normal | Seasonal route scheduling. |
+389:+| One bill jumps, then the next corrects it | Normal | An estimate corrected by the next actual read. |
+390:+| Two bills differ in total while the daily average is flat | Second look | The difference is rate, fees, or read status — not usage. |
+391:+| A charge line appears twice, or a promised credit never lands | Second look | Duplication and corrections that never land are dispute territory. |
+394:+If a second-look row matches what you see, the next section gives you the questions that get a real answer.
+403:+5. What is the provider's process for a reading or billing-period review?
+405:+If the answers leave money still unexplained, the next move is [how to request a billing review](/blog/how-to-dispute-utility-bill/), which walks the formal dispute path step by step.
+409:+{{< faq "Can my billing date change?" >}}
+411:+Yes. If your scheduled read date falls on a weekend or holiday, the read shifts to the preceding or following business day, which moves your billing period start or end by 1–3 days. Route staffing changes across peak summer or winter seasons can also stretch or compress periods by a few days.
+413:+{{< /faq >}}
+415:+{{< faq "Why do two consecutive bills have different day counts?" >}}
+417:+The billing period runs from one meter read to the next, and reads follow route schedules — not calendar dates. A 28-day period followed by a 33-day period just means one read happened sooner after the last one; the daily-average math above is the fair comparison.
+419:+{{< /faq >}}
+421:+{{< faq "How do I know if my bill was estimated?" >}}
+423:+Look for the words “estimated,” “actual,” or a small asterisk next to the meter reading on the statement. Con Edison also lets customers submit their own reading to avoid an estimate when a meter reader can't access the meter.[2]
+425:+{{< /faq >}}
+427:+{{< faq "What if the math still looks wrong after checking everything above?" >}}
+429:+Take your two statements, the daily-average comparison, and the questions in the previous section to your provider, then follow the formal escalation route: see [how to request a billing review](/blog/how-to-dispute-utility-bill/).
+431:+{{< /faq >}}
+433:+{{< faq-schema >}}
+447:+description: "Review tax, fee, franchise, rider, credit, and other utility-bill lines — which authority sets each, how to verify the math, and what you can and can't dispute."
+455:+**Next step:** If your line is a percentage of your billed charges, match its label in the table below. If it is a one-time or program add-on instead, it belongs to the [riders and surcharges family](/blog/19-utility-bill-surcharges-and-riders-explained/) — and [delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) explains how to tell which part of the bill a line applies to.
+468:+| Line on a bill | Often appears as | Who sets it | Verified example |
+469:+|---|---|---|---|
+470:+| Utility users tax (electric, gas, water) | A line naming your city or state plus "tax," usually a percentage of your billed charges. Labels vary by utility. | City ordinance — Pasadena, CA | Electricity 7.67%, gas 7.9%, water 7.67% of charges billed at a Pasadena address [1] |
+471:+| State cap on city utility taxes | A percentage near or just above 6% on an electricity, gas, or steam line in a cap state. Labels vary. | Statute — Washington | Cities cannot tax electricity, natural gas, steam, or telephone service above 6% unless voters approve a higher rate [2] |
+472:+| Voter-approved rate above the cap | A percentage noticeably higher than your state's typical cap. Labels vary. | Local ballot measures — Cheney, WA | Cheney's total utility tax on electricity and gas reaches 14.75% after voter-approved additions [3] |
+473:+| Municipal public service tax | A percent-of-bill line on utility purchases that is not labeled a utility tax. Labels vary. | Statute — Florida | A municipal tax on electricity, metered or bottled gas, and water purchases cannot exceed 10% of payments received [4] |
+474:+| Franchise or right-of-way fee | A line naming the city, streets, franchise, or right-of-way. Labels vary by utility. | Municipal license or franchise agreement — Minnesota | The fee is based on the utility's gross operating revenues from operations inside the city [5] |
+483:+Gross-receipts math can also make a tax line look bigger than its stated rate, because the base includes the revenue that pays the tax itself [3] — the worked example is in the questions below. Cities avoid the confusion by embedding the tax in rates or showing only a footnote percentage [3].
+492:+4. **Recompute the line** with the printed percentage and the base it applies to. If the label says 10% but the math shows a markup, re-check the authority from step 2 first [3] — and if it still does not reconcile, our guide walks [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) step by step.
+496:+## Related Reading
+498:+- [Riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/) — the other recurring add-on lines and which commission approves each.
+499:+- [Every charge on a utility bill, explained](/blog/04-hidden-fees-utility-bill/) — a map of the whole bill, line by line.
+500:+- [Delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — where each line sits in the delivery and supply parts of the bill.
+501:+- [How to dispute a utility bill](/blog/how-to-dispute-utility-bill/) — the escalation path when a line will not reconcile.
+502:+- [Your utility deposit, explained](/blog/26-utility-deposit-explained/) — the other one-time line new-service households meet.
+516:+description: "What US households pay for utilities in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table computed from published rates at standard usage."
+524:+hero_below_answer: true
+539:+<p><strong>How we calculate:</strong> This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table below and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and sewer charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket — adding internet, trash, and the sewer charges energy agencies do not track — is roughly $470/month ($390–$540).</p>
+546:+<p>The cheapest states for utilities are <strong>Idaho, Utah, and Washington</strong> (abundant hydropower). The most expensive are <strong>Hawaii, Alaska, and Connecticut</strong>. The tables below cover 17 states sampled across every region and price tier, plus national averages that apply anywhere.</p>
+548:+{{< jump-row "Total table|#total-utility-cost-comparison-2026-state" "Electricity|#electricity-rates-by-state-2026-breakdow" "Gas|#gas-bills-by-state-heating-drives-the-di" "Water & sewer|#water-and-sewer-bills-the-overlooked-uti" "How to use it|#how-to-use-this-data-for-smart-decisions" >}}
+556:+          <ul>
+565:+          <p><em>Note: Data sources include EIA, AWWA, and state PUC reports (2025–2026 projections). Rates reflect average residential customers with standard tiered pricing — see <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a> for what's inside those figures. \* Hawaii's electric estimate uses standardized 900 kWh/month; Hawaii's actual average household usage is ~515 kWh/month (EIA FAQ); at the 33.7¢ rate that is a realistic electric bill of about $174/month.</em></p>
+566:+<p><strong>Reading the table against your own bill:</strong> each electric figure is your state's average residential rate multiplied by the same 900 kWh, so differences from your own statement usually trace to usage, your rate plan, or the season. To put your numbers alongside these, see <a href="/blog/how-to-read-your-utility-bill/">how to read your utility bill, line by line</a> — and plan for seasonal swings, not just averages.</p>
+575:+<p>If you're moving, budgeting, or evaluating a job offer, knowing where utility costs stand helps you avoid nasty surprises. If a move itself is the trigger, start with our <a href="/blog/moving-utilities-checklist/">guide to moving utilities to a new address</a>. Here's how to apply this data:</p>
+580:+          <li><strong>Check your local utility’s plan</strong> Even within a state, rates vary by provider. In Texas, for example, rate variations between providers can exceed 20%. Not sure which plan fits? See <a href="/blog/which-rate-plan-is-right-for-me/">which electricity rate plan fits your household</a>.</li>
+599:+## Related Reading
+601:+- [What the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/) — every line item above the table figures, explained.
+602:+- [How to read your utility bill, line by line](/blog/how-to-read-your-utility-bill/) — decode your own statement against these averages.
+603:+- [Which electricity rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) — what to do when rates vary by provider.
+604:+- [How to lower your water bill](/blog/44-how-to-lower-water-bill/) — action steps for the fastest-rising line on the bill.
+605:+- [Moving utilities to a new address](/blog/moving-utilities-checklist/) — the planner's checklist for the switch itself.
+614:+State public utility commissions publish updated rate schedules. To decode what sits above the table figures, see [what the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/).
+626:+hero_below_answer: true
+635:+**You can calculate water use per person in two divisions: bill usage ÷ billing days, then that daily figure ÷ people in the home.** Compare the result only against similar billing periods — household size, outdoor use, fixtures, and billing rules all shift the number. EPA WaterSense notes that utilities use different units and rate structures, so start with the information shown on your local bill.[1]
+642:+**Before you calculate:** the number on your bill has a unit — [what CCF means on your water bill](/blog/what-is-ccf-on-a-water-bill/) explains the one most water utilities use. If your per-person figure comes out high, the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) is the fastest hidden-cause check.
+647:+1. Find the total water use and the unit shown on the bill — if it reads "CCF," [what that means](/blog/what-is-ccf-on-a-water-bill/) is one click away.
+654:+**Worked example:** a bill shows 12 CCF over 30 days for a household of 3. 12 ÷ 30 = 0.4 CCF per day. 0.4 ÷ 3 = 0.13 CCF per person per day — about 4 CCF per person for the month. Plug your own numbers into the [CCF-to-gallons and dollars calculator](/blog/ccf-calculator/) to see the same figure in gallons and cost.
+656:+For a rough per-person range to compare against, [our CCF explainer](/blog/what-is-ccf-on-a-water-bill/) carries the site's benchmark of **2–4 CCF per person per month** for a typical household. Treat it as context, not a threshold: households vary widely with climate, home size, and habits.
+658:+Keep the calculation with the bill and compare it with a similar season — [why water bills run higher in summer](/blog/why-is-my-water-bill-higher-in-summer/) is the most common innocent reason a baseline jumps. A short billing period, visitors, irrigation, a shared meter, or a change in occupancy can also make a single period misleading.
+667:+If use changes unexpectedly, conduct a safe no-use meter observation ([your meter's leak indicator](/blog/water-meter-leak-indicator-explained/) may confirm it instantly — a visible [running toilet](/blog/is-your-toilet-running-leak-test/) is the classic hidden cause), and contact the utility or a qualified professional for account- or plumbing-specific guidance. Do not infer a leak from a national daily-use number alone.
+669:+If the number really is high after those checks, the fix-it playbook starts with [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+671:+## Related Reading
+673:+- [What CCF means on your water bill](/blog/what-is-ccf-on-a-water-bill/) — the unit behind most water-bill usage figures, and the site's per-person benchmark.
+674:+- [CCF to gallons (and dollars) calculator](/blog/ccf-calculator/) — convert your per-person figure in one step.
+675:+- [Is your toilet running? A 10-minute leak test](/blog/is-your-toilet-running-leak-test/) — the top hidden cause of a high per-person number.
+676:+- [Your water meter's leak indicator](/blog/water-meter-leak-indicator-explained/) — instant no-use check for hidden leaks.
+677:+- [How to lower your water bill](/blog/44-how-to-lower-water-bill/) — the fix-it playbook if your number is genuinely high.
+679:+## Frequently Asked Questions
+681:+{{< faq "How do I convert my CCF figure to gallons per person?" >}}
+683:+Convert the CCF-to-gallons step with our [CCF calculator](/blog/ccf-calculator/) — it maps your bill's CCF usage (and your rate) straight to gallons and dollars, so you can turn the per-person CCF figure from the worked example above into a number you can picture.
+685:+{{< /faq >}}
+687:+{{< faq "Is laundry included in normal per-person usage?" >}}
+689:+Indoor per-person figures generally include laundry, showers, dishes, and toilets — but check whether your account shares a meter. In shared-meter buildings, laundry rooms or common areas can be billed to your account, which is why the shared-use section above matters before comparing your number to anyone else's.
+691:+{{< /faq >}}
+693:+{{< faq "When does a high number mean a leak?" >}}
+695:+When it stays well above your household's own baseline for a similar season with no changes to occupancy, outdoor watering, or fixtures. Confirm it with a no-use meter observation: with everything off, watch whether the meter's leak indicator moves. Then run a [toilet leak test](/blog/is-your-toilet-running-leak-test/) — running toilets are the most common hidden cause.
+697:+{{< /faq >}}
+699:+{{< faq-schema >}}
+712:+Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at 18.34¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+716:+*Source note for the figures above: the residential averages (17.30¢ for 2025, 18.34¢ for June 2026) come from EIA Electric Power Monthly data; verify the current release at eia.gov. For the same 2025 data, EIA also reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh).*
+726:+- Billing period length (days) — [how two months with the same usage can bill differently](/blog/23-utility-billing-cycle-explained/)
+735:+To find yours, look for a flat monthly line on your bill, or ask your utility which tariff provision sets it. And if you have ever wondered [why you pay a fixed fee even in an empty house](/blog/17-what-is-customer-charge-on-utility-bill/), that guide walks through the economics.
+744:+If you are not sure what plan you are on, the bill usually names it. Our guide on <a href="/blog/10-fixed-vs-variable-utility-rate/">how to compare fixed and variable rate offers</a> can help you spot the tradeoffs.
+752:+## Related Reading
+754:+- [Why is my electric bill so high?](/blog/03-why-is-my-electric-bill-so-high/) — the troubleshooting checklist, ranked by likelihood.
+755:+- [Delivery charge vs supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — the two big halves of your bill, side by side.
+756:+- [Hidden fees on your utility bill](/blog/04-hidden-fees-utility-bill/) — the lines most worth questioning, and how to dispute them.
+757:+- [Demand charges on electric bills, explained](/blog/49-demand-charges-electricity-bill-explained/) — the surprise line for time-of-use customers.
+758:+- [Which rate plan is right for me?](/blog/which-rate-plan-is-right-for-me/) — flat, time-of-use, or tiered: matching the plan to how you use power.
+759:+- [How to read the billing period on a statement](/blog/23-utility-billing-cycle-explained/) — why a longer period means a bigger total with the same daily usage.
+768:+{{< faq "Why does my neighbor pay a different delivery rate than I do?" >}}
+770:+Delivery rates come from each utility's rate schedule or tariff. Neighboring properties can be on different rate classes (residential vs. small commercial), different rate plans, or an older tariff version if either account's plan has changed. Your delivery line is priced by your own rate schedule — [the two big halves of your bill, side by side](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) shows how the delivery half is built and priced.
+772:+{{< /faq >}}
+774:+{{< faq "How do I get a line item formally reviewed?" >}}
+776:+Start with the four questions in the list above: what the charge is based on, which tariff provision produced it, whether it is new this period, and whether the read was actual or estimated. If the answers do not resolve it, escalate with the utility's formal review process — see [how to formally question a charge](/blog/how-to-dispute-utility-bill/) for the dispute path.
+778:+{{< /faq >}}
+787:+Five of these lines — plus the demand charge that surprises time-of-use customers — have their own deep-dive:
+789:+- [Delivery vs supply, compared line by line](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+790:+- [What the fixed monthly fee covers](/blog/17-what-is-customer-charge-on-utility-bill/)
+791:+- [The pass-through line that moves with fuel costs](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)
+792:+- [Riders, surcharges, and program lines](/blog/19-utility-bill-surcharges-and-riders-explained/)
+793:+- [When a demand charge appears on a residential bill](/blog/49-demand-charges-electricity-bill-explained/)
+802:+If a line still looks wrong after those four questions, the next move is [how to formally question a charge](/blog/how-to-dispute-utility-bill/) — the dispute guide walks through the review request step by step.
+816:+<p><strong>A smart meter is a digital electricity meter that records your electricity use in short intervals — often 15 minutes to 1 hour — and sends that data to your utility over a secure network, replacing the manual meter reading with automatic reporting.</strong> Meter capabilities, reporting intervals, privacy terms, and customer access differ by utility and program.</p>
+821:+<li><strong>Can support time-varying programs</strong> where a utility offers them, such as <a href="/blog/08-time-of-use-electricity/">time-of-use rates</a></li>
+838:+<p>If your bill changes after a meter installation, do not assume the cause — <a href="/blog/why-did-my-utility-bill-go-up-this-month/">our guide covers every likely cause, ranked</a>. Compare the billing period, kWh, rate plan, and itemized charges, then ask the utility how it calculated the bill and what meter-testing process applies to your account.</p>
+857:+<table>
+858:+<thead>
+859:+<tr><th>Meter type</th><th>How it reads</th><th>Data direction</th><th>What you notice</th></tr>
+860:+</thead>
+861:+<tbody>
+862:+<tr><td><strong>Analog (electromechanical)</strong></td><td>Spinning disc and dials, running total in kWh</td><td>None — read on site</td><td>A meter reader visits your home</td></tr>
+863:+<tr><td><strong>AMR (early digital)</strong></td><td>Digital register</td><td>One-way — broadcasts a reading to a drive-by truck</td><td>No meter reader, but no customer data access</td></tr>
+864:+<tr><td><strong>AMI (smart)</strong></td><td>Digital register, short-interval usage</td><td>Two-way — sends usage data, can receive updates</td><td>Daily usage charts in your account portal</td></tr>
+865:+</tbody>
+866:+</table>
+867:+<p>
+880:+              <a href="/blog/electric-bill-breakdown-understanding-line-items/">bill line item guide</a>.
+893:+                <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">a sudden spike with no change in habits</a>,
+894:+                and real-time data shows which appliances drive your usage.
+897:+<p>
+898:+              Electric utilities show you the meter's data on their schedule —
+899:+              often a day later, summarized on their portal. A
+900:+              home energy monitor does the same job on your schedule, in real
+901:+              time and down to the circuit. If those charts are what interests
+902:+              you about this article, that is the hardware form of them.
+903:+            </p>
+904:+{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Whole-Home Energy Monitor" label="See your own usage in real time" description="16 circuit-level sensors, real-time app data." >}}
+906:+<p>
+907:+              If you are chasing specific loads, our guide to
+908:+              <a href="/blog/phantom-power-draw-explained/"> phantom power draw</a>
+909:+              covers the standby usage that interval data reveals.
+910:+            </p>
+919:+                should be close — our guide to
+920:+                <a href="/blog/11-understanding-kwh-usage/"> what a month of kWh looks like</a>
+921:+                gives you the baseline for judging the number.
+930:+              see a one-time setup charge and a monthly meter reading fee —
+931:+              the kind of add-on cataloged in our
+932:+              <a href="/blog/04-hidden-fees-utility-bill/"> hidden fees guide</a>.
+941:+## Related Reading
+944:+- [What a month of kWh looks like](/blog/11-understanding-kwh-usage/) — judge whether your meter's daily numbers are normal.
+945:+- [Time-of-use rates explained](/blog/08-time-of-use-electricity/) — what interval data makes possible on your plan.
+946:+- [How to read an electric meter](/blog/how-to-read-electric-meter/) — decode the display for the five-minute verification below.
+947:+- [Estimated utility bills explained](/blog/14-estimated-utility-bill-explained/) — why smart meters make estimates less common.
+948:+- [A practical workflow for understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) — the full bill-decode walkthrough.
+949:+- [Best smart plugs to eliminate standby power drain](/blog/50-best-smart-plugs-standby-power/) — the plug-level companion to circuit-level monitoring.
+952:+<h2 id="faq">Frequently Asked Questions</h2>
+960:+{{< faq "Why did my bill go up after installation?" >}}
+962:+Often the old analog meter was undercounting. A new digital meter can reveal your true usage, which feels like a jump.
+964:+{{< /faq >}}
+973:+{{< faq "Can smart meters catch electricity theft?" >}}
+976:+Yes. Smart meters report outages and voltage irregularities quickly, so tampering usually triggers an alert.
+980:+{{< faq "How do I see the interval data myself?" >}}
+982:+Start with your utility's account portal — most AMI systems let you view daily (sometimes hourly) usage charts there. To confirm the meter itself is reporting, use the five-minute check above: read the display, wait 24 hours, read it again, and compare the difference to the portal's total for the same window.
+984:+{{< /faq >}}
+1009:+updated: 2026-08-29
+1016:+hero_below_answer: true
+1024:+<p><strong>Therms measure the heat energy you actually used; CCF and MCF measure the volume of gas that passed your meter.</strong> To compare rates fairly, you must convert volume into therms — gas density varies by region and temperature, so the two are not the same number. On average, 1 CCF holds about 1.037 therms.</p>
+1026:+<p><strong>Next step:</strong> Now that you know what the units mean, <a href="/blog/12-how-to-read-your-gas-bill/">read your gas bill line by line</a> to find which unit your utility uses, or jump to the <a href="#conversion-table">conversion table</a> to turn your usage into therms.</p>
+1030:+<p>To decode your bill, you need three definitions: the two volume units (CCF and MCF) and the energy unit (therms). While they all describe natural gas, they measure fundamentally different properties.</p>
+1033:+<p>CCF stands for "Centum Cubic Feet." In Roman numerals, "C" represents 100. Therefore, 1 CCF equals exactly 100 cubic feet of natural gas. This is a measure of volume. When your meter spins, it counts the physical space the gas occupies as it passes through the pipe.</p>
+1038:+<p>You will often see MCF used in commercial billing or in regions where residential usage is high. For example, a large family home in a cold climate might use 30 MCF in January. This is equivalent to 30,000 cubic feet — the same volume a CCF-metered home would see written as 300 CCF. Because the numbers come out smaller, MCF is easier to read for high-volume users.</p>
+1046:+<p>The most important distinction here is the difference between volume and energy. Natural gas is a compressible fluid. Its density changes based on temperature and pressure. A cubic foot of gas in July does not contain the same amount of energy as a cubic foot of gas in January.</p>
+1047:+<p>If a utility bills you strictly by volume (CCF or MCF) without adjusting for energy content, you might be overcharged or undercharged depending on the season. However, most modern utilities use a "BTU Adjustment Factor" on volume-based bills to convert the volume into an energy equivalent before charging you. If that line item appears on your statement and looks like alphabet soup, our guide to the <a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">fuel and BTU adjustment charge</a> breaks down exactly what that line item covers.</p>
+1056:+<p>The table below also lists two commercial-only units: a <strong>decatherm (Dth)</strong> and an <strong>MMBtu</strong> both equal exactly 10 therms — you will generally only meet them on commercial quotes.</p>
+1057:+<h3 id="conversion-table">Conversion Table</h3>
+1060:+<h3>Where to Find These on Your Own Bill</h3>
+1061:+<p>Everything above gets easier once you know where the numbers live on your statement. Open your most recent bill and locate:</p>
+1062:+<ul>
+1063:+<li><strong>The usage line</strong> — the metered amount you are being billed for, shown in CCF, MCF, or therms.</li>
+1064:+<li><strong>The rate line</strong> — what your utility charges per unit. Check whether it says "per CCF," "per MCF," or "per therm"; that tells you your billing unit.</li>
+1065:+<li><strong>The BTU or adjustment factor line</strong> — if present, this is the factor your utility uses to convert your metered volume into energy before charging you.</li>
+1066:+</ul>
+1070:+<ol><li><strong>Find your Usage:</strong> Look at your bill for the "Usage" in CCF. That number originates at your meter — if you have never matched the bill to the dial, see our guide on <a href="/blog/how-to-read-gas-meter/">how to read your gas meter</a>.</li><li><strong>Find your Total Gas Charge:</strong> Look at the total amount paid for gas supply (excluding fixed fees).</li><li><strong>Convert Usage to Therms:</strong> Multiply your CCF usage by 1.037.</li><li><strong>Calculate Rate:</strong> Divide the Total Gas Charge by the Therms calculated in step 3.</li></ol>
+1074:+<p>This lets you compare your rate against <a href="/blog/average-utility-bills-by-state-2026/">average utility bills by state (2026)</a> benchmarks. If your calculated rate is significantly higher than the regional average, you may be eligible for a better rate plan or need to investigate your usage.</p>
+1084:+<p>Residential customers rarely see MCF on their bills. A typical home in a moderate climate might use 20–40 CCF in a summer month and 100–150 CCF in a winter month — the same gas that a bill in MCF units would show as roughly 2 to 15 per month. CCF is simply the display convention on volume-based residential bills.</p>
+1085:+<p>MCF is primarily a commercial unit. If you are running a business or a large apartment complex, your bill will likely be in MCF or MMBtu. Some residential utilities bill in MCF too — seeing it on a house bill does not mean anything is wrong, it just changes which divisor (10.37, instead of 1.037) you use to convert your usage to therms.</p>
+1097:+<p>Your bill usually shows a "Commodity Charge" and a "Delivery Charge." The Commodity Charge is the cost of the gas itself; the Delivery Charge is the cost to transport it to your home. When you want to know whether your rate is reasonable, focus on the Commodity Charge — delivery rates are often fixed or tiered and do not change with the unit of measurement the way supply rates do.</p>
+1098:+<p>Many utility bills also include fixed monthly customer charges. These are the kind of <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
+1099:+<p>To get an accurate picture of your fuel cost, subtract fixed customer charges (and taxes or surcharges, if itemized) from your total, then divide the remaining supply cost by your usage in therms — the three bills below work this end to end. If your resulting rate fluctuates wildly month-to-month, your utility likely uses a variable rate plan; if it stays stable, you are on a fixed-rate plan or the utility absorbs the volatility.</p>
+1105:+<ul><li><strong>Usage:</strong> 150 CCF</li><li><strong>Rate:</strong> $1.10 per CCF</li><li><strong>Total Supply Cost:</strong> $165.00</li><li><strong>Energy Equivalent:</strong> 150 × 1.037 = 155.55 Therms</li><li><strong>True Cost per Therm:</strong> $165 / 155.55 = $1.06 per Therm</li></ul>
+1111:+<h3>Scenario C: The MCF Bill (High-Usage Home)</h3>
+1112:+<ul><li><strong>Usage:</strong> 15 MCF</li><li><strong>Rate:</strong> $10.50 per MCF</li><li><strong>Total Supply Cost:</strong> 15 × $10.50 = $157.50</li><li><strong>Energy Equivalent:</strong> 15 × 10.37 = 155.55 Therms</li><li><strong>True Cost per Therm:</strong> $157.50 / 155.55 = $1.01 per Therm</li></ul>
+1113:+<p>Note that all three homes use nearly identical energy (about 155 therms). Without converting to therms, you might think Scenario A ($1.10 per CCF) is the most expensive, but the volume adjustment changes the math: Scenario B is actually the priciest per unit of heat ($1.05) and Scenario C the cheapest ($1.01).</p>
+1119:+<p>Comparing your usage to <a href="/blog/average-utility-bills-by-state-2026/">average gas bills by state</a> can also flag a home that is using more energy than it should for its size — and once you have compared your own rate, it is worth understanding the usual suspects behind a number that is still too high. Our guide on <a href="/blog/07-gas-bill-too-high/">why your gas bill is so high</a> ranks the ten most common causes.</p>
+1127:+<h2 id="related-reading">Related Reading</h2>
+1128:+<ul>
+1129:+<li><a href="/blog/12-how-to-read-your-gas-bill/">How to read your gas bill, line by line</a> — locate your usage, rate, and adjustment lines on your own statement.</li>
+1130:+<li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">What the fuel/BTU adjustment charge covers</a> — the line item that reconciles metered volume with billed energy.</li>
+1131:+<li><a href="/blog/07-gas-bill-too-high/">Why your gas bill is so high — 10 causes ranked</a> — the next step once your per-therm rate or usage looks abnormal.</li>
+1132:+<li><a href="/blog/average-utility-bills-by-state-2026/">Average utility bills by state (2026)</a> — benchmark your converted rate against regional averages.</li>
+1133:+<li><a href="/blog/how-to-read-gas-meter/">How to read your gas meter</a> — where the usage number on your bill comes from.</li>
+1134:+</ul>
+1143:+{{< faq "How do I convert therms back to CCF to match my bill?" >}}
+1145:+Divide by 1.037 instead of multiplying. If your bill shows 100 therms and you want the equivalent volume figure, 100 / 1.037 is about 96 CCF. This is handy when a rebate program, lease agreement, or comparison tool quotes usage in CCF while you have been tracking therms.
+1147:+{{< /faq >}}
+1158:+<p>If your bill feels high, convert your usage to therms first, then compare your cost per therm, fixed fees, and seasonal usage. That gives you a cleaner picture than looking at the headline dollar amount alone.</p>

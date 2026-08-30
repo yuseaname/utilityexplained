@@ -1,0 +1,26 @@
+# mcf-vs-ccf-vs-therms-on-gas-bill — Visual Audit & Image Plan
+
+## Hero
+- File: /static/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_v2.webp | Viewed: A warm painterly kitchen scene — a smiling woman in a green sweater stirs a pot on a blue-flame gas cooktop; a grey tankless furnace stands off-center left and a meter labeled "NATURAL GAS" appears small through the window at right.
+- Verdict: **REPLACE** — The article's actual primary intent is decoding three units and converting volume to therms; this hero delivers generic "cooking with gas." The meter — the one element the audit's concept calls for — is a background prop with no legible reading. Style-bible conflicts are decisive: a decorative, smiling person is the focal subject (bible: human figures distant/schematic, never decorative; no stock-photo people smiling at bills), and the rendered-painterly surface fights the flat ledger/blueprint language used by the site's other gas-bill figures. The concept itself ("household gas use with meter context") is worth keeping — execute it flat: foreground gas meter with a legible volume register, schematic house silhouette, faint grid-teal scaffolding, amber reserved for the single therm conversion.
+
+## Current state
+- Visual count now (hero + in-body): 1 | in-body visuals: none — no `{{< visual >}}` or `{{< image >}}` shortcode exists anywhere in the article.
+- No product box or `{{< amazon >}}` link exists on this page → per the binding rule, NO product imagery may be planned here.
+
+## Recommended plan
+- Recommended total (3-7): **5** — top of the 4-5 anchor for a 2.8K-word page; justified by structure: a full conversion table, a 4-step worked cost calculation, and three numeric bill scenarios are the page's load-bearing sections, each earning one dedicated figure. Hero replacement counts as row 1.
+
+| # | Placement/section (exact heading) | Concept (style-bible-aligned) | Purpose | Format/orientation | Type | Affiliate-wired | Proposed filename |
+|---|---|---|---|---|---|---|---|
+| 1 | Hero — frontmatter `image:` (keep `hero_below_answer: true`) | **REPLACE hero:** flat schematic gas meter in the foreground with a legible volume register, house silhouette behind; two ledger lines labeled CCF / MCF converge on ONE amber line labeled therms (energy) | clarify | 3:2 | illustrative | — | /images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/mcf-vs-ccf-vs-therms-on-gas-bill_hero_v3.webp |
+| 2 | "The Three Main Units Defined" (after the CCF/MCF/Therm h3 blocks) | Three-station ledger card: meter dial = CCF (100 ft³), MCF (1,000 ft³), therm (100,000 BTU); monospaced figures, one hand-entered auditor annotation | clarify | 3:2 | illustrative | — | /images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/unit-comparison-card.webp |
+| 3 | "The Critical Difference: Volume vs. Energy" | Bridge figure: left ledger column "metered volume" tallying cubic feet, right amber column "heat delivered"; the 1.037 multiplier drawn as the plank between them with the seasonal-density caveat as auditor margin note | demonstrate-concept | 3:2 | illustrative | — | /images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/volume-vs-energy-bridge.webp |
+| 4 | "Calculating Your Cost Per Therm" (after the 4-step list and the 50 CCF / $50 example) | Worked-math strip in monospace: `50 CCF × 1.037 = 51.85 therms` → `$50 ÷ 51.85 = $0.96/therm`; amber highlights only the final rate (amounts are the page's own verified example) | demonstrate-concept | 3:2 | illustrative | — | /images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/cost-per-therm-steps.webp |
+| 5 | "Real-World Bill Scenarios" (after Scenario C / the comparison note) | Three generic mock-bill stubs side by side using the page's verified numbers — A: 150 CCF @ $1.10 → $1.06/therm; B: 155 therms @ $1.05 → $1.05/therm; C: 15 MCF @ $10.50 → $1.01/therm; amber on each true per-therm line — showing three different optics, near-identical energy | demonstrate-concept (+ break-up-dense) | 16:9, rendered with `wide=` | screenshot-style (generic mock stubs; NO utility names/logos; only on-page verified amounts) | — | /images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/three-scenario-stubs.webp |
+
+- Keep-existing rows: none available — hero is REPLACE (row 1); no in-body visuals exist to KEEP.
+- Reconciliation with HERO_IMAGE_AUDIT_2026-08-29: that audit confirmed presence + "relevant" — my grounded look shows relevance is thin (meter is a tiny background prop) and style compliance fails; plan keeps the audit's concept, corrects the execution.
+
+## Cohesion note
+This page sits between two sibling pages that already speak the bible fluently — "12-how-to-read-your-gas-bill" (gas-bill-anatomy.webp) and "07-gas-bill-too-high" (gas-bill-ranked-causes.webp, heating-degree-day-example.webp) — so this set extends the same ledger language: flat cream surfaces, monospaced numerals, one amber line per figure. The units card and volume/energy bridge read as diagrams; the two arithmetic figures (steps strip, scenario stubs) keep the auditor's hand-entered annotation style so the page's math feels executed, not decorated. The wide scenario stubs give the long page its one full-width breathing moment without repeating the anatomy-bill composition of the sibling page — same family, different job.

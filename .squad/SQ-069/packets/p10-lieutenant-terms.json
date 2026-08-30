@@ -1,0 +1,39 @@
+{
+  "role": "lieutenant",
+  "mission": "P4.4 \u2014 modernize content/terms.md: it is a 2024-era stub (informational-only, no-commercial-use). Bring it to the standard of the site's other policy pages (see corrections.md/editorial-policy.md for tone).",
+  "parent_objective": "SQ-069 phase 4 trust layer",
+  "context": "Add/refresh sections: (1) informational-only / no professional advice (bills and tariffs vary \u2014 verify with your utility); (2) acceptable use \u2014 personal reading + sharing links, no republication, no scraping, no training-data bulk harvest; (3) affiliate disclosure cross-link [affiliate disclosure](/affiliate-disclosure/) \u2014 Amazon Associates phrasing must match that page; (4) user content/comments if any (none \u2014 say contact via /contact/); (5) corrections: link [corrections policy](/corrections/); (6) liability 'as is' + limitation; (7) governing law: leave a neutral 'the laws of the state of the site operator' phrasing ONLY if unsure \u2014 otherwise omit; do NOT invent a state; (8) changes-to-terms section with the updated date. Keep h1/h2 HTML style used in the file, keep front matter, set updated: 2026-08-30.",
+  "known_facts": [
+    "affiliate-disclosure.md exists at /affiliate-disclosure/ with Amazon Associates language",
+    "corrections.md was updated 2026-08-30 with a correction log",
+    "The site never names a legal state of operation \u2014 do not invent one"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/terms.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY terms.md; NO hugo; NO git; keep front-matter keys; updated: 2026-08-30"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "8 sections above present",
+    "cross-links resolve (verify paths exist by reading the repo)",
+    "no invented jurisdiction",
+    "updated: 2026-08-30",
+    "tone matches other policy pages"
+  ]
+}

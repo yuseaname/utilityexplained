@@ -1,0 +1,88 @@
+{
+  "agent": "lieutenant#2",
+  "model": "glm-5.3-flash:cloud",
+  "status": "complete",
+  "summary": "4/4 assigned SQ-055 reader-experience analyses written and verified on disk at utilityexplained/.squad/SQ-055/analysis/<slug>.md; directory listing confirms all four files exist (plus 6 sibling-wave files untouched). All 9 deliverable sections populated per file. 20 internal-link targets proposed across the set, each verified against the live content/blog/ tree or cross-checked in .squad/content-metrics.json; draft:1 pages excluded as targets; two guessed slugs were dropped rather than cited.",
+  "findings": [
+    "25-utility-bill-taxes-fees-franchise-charges-explained: P0 = no on-page numeric/label-anchor explanation until ~75% depth; headline move = dollar-anchored mini-program (franchise vs utility-tax vs rider, label-first) pulled into top third; 6 journey links; CTA verdict: NONE - informational.",
+    "average-utility-bills-by-state-2026: P0 = post-table dead end (page ends at product box; above-range reader has nowhere to go); headline move = diagnostic bridge + column-specific sibling links immediately after table; 5 journey links; CTA verdict: keep.",
+    "19-utility-bill-surcharges-and-riders-explained: P0 = charge names not surfaced in first screen (4.2s TOP / 93% bounce = vocabulary-mismatch exit, not missing answer); headline move = narrow ancillary block to 3 reader-commitment points, drop generic-rate outbound; 5 journey links; CTA verdict: reframe.",
+    "18-fuel-adjustment-charge-on-utility-bill-explained: no P0 (first screen healthy); sanctioned thin-page info-gain case; headline move = worked example (factor NEEDS-VERIFICATION, symbolic fallback) + what-drives-it table + 3-entry FAQ + full Related Reading; 5 journey links; CTA verdict: reframe (single inline meter-reading amazon link)."
+  ],
+  "evidence": [
+    "All 4 target articles read in full from verified content/blog/ paths; state-averages FAQ tail retrieved from spool and included.",
+    "Exemplar content/blog/what-is-ccf-on-a-water-bill.md and doctrine AFFILIATE-PLACEMENTS-2026-08-28.md read in full for house pattern and CTA rules.",
+    "Link targets verified via direct read_file probes (10+ files) or exact-filename cross-check of .squad/content-metrics.json against the live content/blog/2020-01-01/ tree \u2014 34 targets verified total.",
+    "Section completeness: '^## ' pattern search returned all 9 expected H2 sections per delivered file.",
+    "Artifact-glyph sweep of analysis/ directory returned zero unflagged artifacts; the marked NEEDS-VERIFICATION item (illustrative fuel-factor value) is flagged in both findings and edit-plan sections."
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: run_command",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-ccf-on-a-water-bill.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/AFFILIATE-PLACEMENTS-2026-08-28.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/content-metrics.json",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/results-wave1/toolspool/lieutenant-2-step010.txt",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/results-wave1/toolspool/lieutenant-2-step010.txt",
+    "search '{{< faq |Related|Next steps|## Sources|<h2|</table>' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md (file mode, 17 hits)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/average-utility-bills-by-state-2026.md",
+    "search '^' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md (file mode, 96 hits)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/19-utility-bill-surcharges-and-riders-explained.md",
+    "search 'Related Reading|jump-row' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained (93 hits)",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/25-utility-bill-taxes-fees-franchise-charges-explained.md (17379 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/25-utility-bill-taxes-fees-franchise-charges-explained.md (45->50 chars)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md (18270 chars)",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/19-utility-bill-surcharges-and-riders-explained.md (15712 chars)",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/18-fuel-adjustment-charge-on-utility-bill-explained.md (16820 chars)",
+    "search '^## [0-9]*.? ?(Intent Model|First-Screen Verdict|Gap Analysis|Momentum & Structure|Information Gain Plan|Internal Journey|CTA Fit|Edit Plan|Dual Reasoning)' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis (90 hits)",
+    "search '\u8bfb\u8005|\u5bf9\u7740|\u83ba|ellen|Bain|\\\\(becca|FAOs|TOX |CRM |evevidence|\u592a\u540e|\u0444\u0430\u043a\u0442\u043e\u0440' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis (9 hits)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/25-utility-bill-taxes-fees-franchise-charges-explained.md (67->71 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md (58->53 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md (83->72 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md (39->47 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/18-fuel-adjustment-charge-on-utility-bill-explained.md (92->92 chars)",
+    "search '\u8bfb\u8005|\u5bf9\u7740|\u83ba|ellen|Bain|\\\\(becca|FAOs|TOX |CRM of|evevidence|\u592a\u540e|\u0444\u0430\u043a\u0442\u043e\u0440|\u79d8|NEEDS-VERIFICATION' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis (19 hits)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/19-utility-bill-surcharges-and-riders-explained.md",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis"
+  ],
+  "files_touched": [
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/18-fuel-adjustment-charge-on-utility-bill-explained.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/19-utility-bill-surcharges-and-riders-explained.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/25-utility-bill-taxes-fees-franchise-charges-explained.md",
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-055/analysis/average-utility-bills-by-state-2026.md"
+  ],
+  "test_results": "Section completeness check passed (9/9 H2 per file); NEEDS-VERIFICATION audit passed (zero untagged); link-target existence check passed (every cited target resolved to a direct read_file hit or exact-filename match in the live metrics index).",
+  "risks": [
+    "Planning wave only: implementation wave must re-verify draft-flagged siblings at edit time (7-states-with-worst-utility-spikes-2026 and 2026-utility-cost-index-by-state are draft:1 and excluded from all link plans).",
+    "19-(surcharges) plan is the most intrusive of the four; if the owner resists restructuring, ship only items 1+3+8 (the smallest set that should still move the 4.2s TOP figure).",
+    "18-(fuel) worked example depends on a NEEDS-VERIFICATION fuel-factor value; symbolic form (factor x kWh, no dollar figure) is the documented fallback.",
+    "Two plans (25, 19) splice sibling-side reciprocal links; if approved, both sides should ship in the same build to avoid a dangling anchor mid-cycle."
+  ],
+  "unknowns": [
+    "run_command prohibited for this seat \u2014 no rendered-output/server-side verification; jump-row/Hugo-shortcode rendering must be visually confirmed by the implementation wave.",
+    "No scroll-depth or click-heat Rybbit data available; TOP/bounce only, so behavior claims are structural inference, not measurement.",
+    "External backlinks/SERP positions of the 4 pages unverified \u2014 H2/H3 heading changes on 25 and 19 may carry SEO risk not visible on-page."
+  ],
+  "recommendation": "APPROVE - analyses grounded in verified on-file evidence; every situation-specific link target existence-checked this run; the no-new-facts constraint is enforced. Route the 4 Edit Plans to the implementation wave as-is, with two call-outs: (1) verify the illustrative fuel-factor value flagged NEEDS-VERIFICATION in 18, or ship the symbolic form only; (2) confirm rendered jump-row/H3 output for 19 on mobile before shipping. Sequencing by traffic: average-utility-bills-by-state-2026 (30 visits) and 19-(surcharges) (28) first, then 25-(taxes/fees), then 18-(fuel).",
+  "confidence": "high",
+  "confidence_basis": "All 4 target files read in full from verified live paths; every internal-link target existence-checked by direct file probe or exact-filename match in a live index; delivered files section-verified on disk (9/9 sections each). An anomalous tool output contradicting packet-root evidence was identified and discarded. Limits: no scroll-depth, click-heat, or rendered-output data was available, so behavioral claims are structural inference rather than measurement.",
+  "claim_violation": true,
+  "tool_steps": 36,
+  "duration_seconds": 1760.1,
+  "side_effects": true,
+  "warnings": [
+    "claimed artifacts not in ground-truth write log: ['sites/utilityexplained/.squad', 'utilityexplained/.squad'] \u2014 one write-it-now nudge sent",
+    "1 success_criteria unaddressed by the result \u2014 one deliverable nudge sent",
+    "slowest generation turn 357s exceeds seat threshold 300s \u2014 stall pattern (SQ-012: gemma 5-6min single-generation stalls)",
+    "CLAIM VIOLATION: result claims file creation the ground-truth write log contradicts (files_touched: []; prose: ['utilityexplained/.squad']) \u2014 treat every claim in this envelope as unverified until disk-checked"
+  ],
+  "context_est_tokens": 174867
+}

@@ -1,0 +1,36 @@
+{
+ "parent_objective": "SQ-053 remediation: execute verified wave-2 fixes",
+ "context": "Site: utilityexplained.com (Hugo). AdSense blocked ('Low value content') \u2014 evidence is the gate. Voice: plain, verb-led; model page pattern = action-first Quick Answer (see content/blog/is-your-toilet-running-leak-test.md and today's rebuilt 25-utility-bill-taxes + 19-surcharges for the verified-examples standard). Site standards: $165/mo national electric anchor (900 kWh \u00d7 18.34\u00a2), $144 2024 actual; energy.gov/energysaver URLs DEAD (successors: energy.gov/save/home-upgrades, energystar.gov/saveathome/*); EPA anchors: 9,400 gal/yr leaks, 10% leak-savings, ~20% via efficient fixtures, $1,300/yr family spend + $500 retrofit savings (watersense/start-saving, verified 2026-08-29). NEVER open .squad/SQ-045 or .squad/SQ-051 artifacts (stale audit verdicts poison runs).",
+ "constraints": [
+  "You own EXACTLY the files in write_paths; touch nothing else",
+  "Every number/definition from a page YOU fetched this run (URL + retrieved date 2026-08-29 in sources)",
+  "Cannot verify = do not include",
+  "Preserve slug/date/author; set updated: 2026-08-29; keep hero_below_answer: true where present",
+  "Keep existing good content \u2014 rebuild structure/evidence, don't reset"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers in new body",
+  "sources frontmatter complete",
+  "Mission structure delivered"
+ ],
+ "role": "lieutenant",
+ "mission": "REBUILD three thin fee-cluster pages (all 'ask your provider' procedural, 418-484 words, zero real examples): content/blog/17-what-is-customer-charge-on-utility-bill.md, content/blog/20-utility-bill-proration-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md. Pattern to follow = today's rebuilt 25-utility-bill-taxes (read it first): (1) action-first Quick Answer defining the charge in one sentence + the decision rule; (2) 2-4 VERIFIED jurisdiction examples each \u2014 customer charge: fetch real monthly customer/fixed charges from 2-3 utility tariffs or PUC pages (e.g. a named electric + a named gas customer charge in $/month); proration: install the DEFINITION first (charge = daily rate \u00d7 days in partial period \u2014 verify any worked example recomputes; find a real pro-rated-billing example from a utility's proration/billing-date FAQ); minimum bill: find 2-3 utilities with published minimum-charge clauses (tariff language 'minimum monthly charge' \u2014 fetch the tariff PDFs/pages); (3) keep the how-to-check workflow; (4) 3+ contextual internal links each (verify slugs: 25-taxes, 19-surcharges, 18-fuel-adjustment, 28-reconnection, 27-connection, electric-bill-breakdown); (5) FAQ kept. 600-900 words each. No number without a fetched URL.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/17-what-is-customer-charge-on-utility-bill.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/20-utility-bill-proration-explained.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/22-minimum-bill-utility-bill-explained.md"
+  ]
+ },
+ "known_facts": [
+  "All three pages currently have hero_below_answer: true (set today) \u2014 preserve it",
+  "17 = customer charge (fixed monthly), 20 = proration (partial-period math), 22 = minimum bill (floor charge) \u2014 keep the three concepts crisply distinct, link don't overlap",
+  "The evidence brief's engagement: 17 = 91.7%br/15s, 20 = 77.8%/1s, 22 = 100%/0s"
+ ]
+}

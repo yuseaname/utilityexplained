@@ -1,0 +1,6 @@
+{"packet": "p4-lieutenant-brief5.json", "result_file": ".squad/SQ-069/results-p3/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "p5-lieutenant2-brief1.json", "result_file": ".squad/SQ-069/results-p3/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}
+{"packet": "p7-mason-brief3.json", "result_file": ".squad/SQ-069/results-p3/04-mason-2.json", "agent": "mason#2", "status": "partial"}
+{"packet": "p8-mason-brief4.json", "result_file": ".squad/SQ-069/results-p3/05-mason-3.json", "agent": "mason#3", "status": "complete"}
+{"packet": "p6-mason-brief2.json", "result_file": ".squad/SQ-069/results-p3/03-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "p9-mason-brief3-v2.json", "result_file": ".squad/SQ-069/results-p3/01-mason.json", "agent": "mason", "status": "complete"}

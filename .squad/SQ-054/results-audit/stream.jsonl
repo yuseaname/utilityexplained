@@ -1,0 +1,3 @@
+{"packet": "audit-dispute.json", "result_file": ".squad/SQ-054/results-audit/02-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "audit-10-fixed.json", "result_file": ".squad/SQ-054/results-audit/01-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "audit-apartment.json", "result_file": ".squad/SQ-054/results-audit/03-cartographer.json", "agent": "cartographer", "status": "complete"}

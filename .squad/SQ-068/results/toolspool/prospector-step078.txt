@@ -1,0 +1,459 @@
+exit_code: 0
+=====FILE: content/blog/gas-customer-charge-explained.md=====
+---
+title: "How to Review a Gas Customer Charge"
+slug: "gas-customer-charge-explained"
+draft: true
+description: "Use the bill, gas tariff, and serving utility to identify whether a customer charge is fixed, usage-based, or part of another rate component."
+date: 2025-12-26
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Gas"
+categories: ["Gas"]
+tags: ["customer charge", "gas bill", "delivery charge"]
+keywords: ["gas customer charge explained", "fixed charge gas bill", "gas bill review"]
+image: "/images/articles/gas-customer-charge-explained/gas-customer-charge-explained_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/default/files/2021-11/Understanding+Your+Natural+Gas+Bills.pdf
+  - https://www.energy.gov/cmei/femp/events/optimizing-utility-costs-1-utility-rate-and-billing-basics
+---
+
+## Quick Answer
+
+**A customer charge is a bill label whose amount, frequency, purpose, and relation to delivery or minimum-bill rules are defined by the tariff for your specific gas account.** Do not rely on a national price range or assume that every utility uses the same charge structure.
+
+DOE utility-billing guidance identifies fixed charges as a key cost component to review alongside usage and other rate elements.[1][2]
+
+## Find the Account-Specific Rule
+
+Use the bill to identify the exact label, billing period, rate schedule, and amount. Then request or locate the current tariff for that rate schedule. Look for the tariff section that defines:
+
+- whether the charge is fixed or changes with usage;
+- how often it is billed;
+- which account class it applies to;
+- whether other delivery, tax, rider, or minimum-bill items are separate; and
+- the effective date and version of the rate schedule.
+
+The line item may use a different name, so compare its tariff definition rather than matching it to an internet example.
+
+## Compare Similar Bills
+
+Compare the charge with a similar earlier bill and note any rate-schedule, service-class, billing-days, or notice changes. Separate the customer charge from therm usage, usage-based delivery charges, taxes, credits, and one-time items before deciding why the total changed.
+
+## Questions for the Serving Utility
+
+Ask customer service:
+
+1. Which tariff section defines this charge for my account?
+2. Is the charge fixed, usage-based, or part of a minimum-bill calculation?
+3. Has my account's rate class or rate schedule changed?
+4. Are any assistance, payment, or dispute programs available for this account?
+5. What records should I provide if I think the charge was applied incorrectly?
+
+Keep the answer, tariff version, and statement with your account records. Do not stop payment or assume a waiver exists without confirming the utility's written policy.
+
+## Sources
+
+1. [U.S. Department of Energy: Understanding Your Natural Gas Bills (PDF)](https://www.energy.gov/sites/default/files/2021-11/Understanding+Your+Natural+Gas+Bills.pdf)
+2. [U.S. Department of Energy: Utility Rate and Billing Basics](https://www.energy.gov/cmei/femp/events/optimizing-utility-costs-1-utility-rate-and-billing-basics)
+=====FILE: content/blog/24-delivery-charge-vs-supply-charge-utility-bill.md=====
+---
+title: "How to Compare Delivery and Supply Charges on a Utility Bill"
+slug: "24-delivery-charge-vs-supply-charge-utility-bill"
+aliases: ["/blog/supply-vs-delivery-charges-electricity/"]
+description: "Read delivery and supply charges from the account's itemized bill and tariff instead of applying a generic percentage, provider-choice, or savings rule."
+date: 2026-05-28
+updated: 2026-08-23
+author: "Marcia Washington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["delivery charge", "supply charge", "utility bill"]
+keywords: ["delivery charge versus supply charge", "utility bill charges", "supply delivery bill"]
+image: "/images/articles/24-delivery-charge-vs-supply-charge-utility-bill/24-delivery-charge-vs-supply-charge-utility-bill_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge
+---
+
+## Quick Answer
+
+**“Delivery” and “supply” are bill categories whose definitions, rates, subcharges, and provider options depend on the serving utility and the account's tariff.** Do not assume one category is fixed, that a particular percentage applies, or that a customer can choose a different provider without checking the account's current terms.
+
+Con Edison describes supply and delivery charges on its bills and explains that delivery costs are based on energy use; use the equivalent guide and tariff from your own provider to interpret your account.[1]
+
+## Read the Itemized Statement
+
+Record each line as it appears on the bill:
+
+| Bill detail | What to verify |
+|---|---|
+| Supply | Rate, usage basis, provider name, and related charges |
+| Delivery | Rate, usage basis, fixed components, and related charges |
+| Taxes, riders, and credits | Whether the item is separate from supply or delivery |
+| Rate plan | Tariff name, service class, and effective date |
+| Meter information | Usage unit, billing days, and actual or estimated status |
+
+Some providers present additional supply or delivery components. Con Edison's Market Supply Charge information, for example, describes a per-kWh market supply charge along with other supply charges.[2]
+
+## Compare the Full Bill
+
+When comparing offers or prior bills, use the same scope each time. A supply-only advertised price is not the same as the total amount due. Compare billing days, usage, delivery components, supply components, taxes, credits, and one-time items before deciding that one category caused a change.
+
+## Questions for the Provider
+
+1. Which tariff sections define my supply and delivery charges?
+2. Which parts are usage-based, fixed, seasonal, or time-variable?
+3. Does this account have a supplier choice or a provider-specific offer?
+4. What current rate and contract documents apply to this account?
+5. Which charges changed from the prior bill, and why?
+
+Keep the bill, tariff version, offer terms, and provider response together when reviewing a charge.
+
+## Sources
+
+1. [Con Edison: How to Read Your Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill)
+2. [Con Edison: Market Supply Charge Calculator](https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge)
+=====FILE: content/blog/why-is-my-furnace-blowing-cold-air.md=====
+---
+title: "Why Is My Furnace Blowing Cold Air?"
+slug: "why-is-my-furnace-blowing-cold-air"
+description: "Safe first checks for a heating system that is moving cool air, plus signs that call for immediate action."
+date: 2025-12-27
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["furnace", "heating safety", "ducts", "carbon monoxide"]
+keywords: ["furnace blowing cold air", "heating safety", "carbon monoxide alarm", "duct leaks"]
+image: "/images/articles/why-is-my-furnace-blowing-cold-air/why-is-my-furnace-blowing-cold-air_hero_v2.webp"
+sources:
+  - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+  - https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires
+---
+
+## Quick Answer
+
+**Treat unexpected cool air from a heating system as a safety question first, not a DIY repair challenge.** Check the thermostat setting, air filter, and system instructions, but stop and seek help if you smell fuel or smoke, a carbon-monoxide alarm sounds, or anyone has symptoms such as headache, dizziness, weakness, nausea, or confusion.[1]
+
+Do not bypass safety controls, open combustion equipment, relight a pilot, clean ignition parts, or diagnose a heat exchanger from an online article. Those steps require the equipment manual and, when appropriate, a qualified heating professional.
+
+## Safe First Checks
+
+1. Confirm the thermostat is set to heat and the desired temperature is above the current room temperature.
+2. Check the system manual for its normal operating sequence and any displayed error message.
+3. Check whether the filter is due for replacement, following the manufacturer instructions.
+4. Confirm exterior vents and air intakes are not blocked, but do not alter gas, electrical, or combustion components.
+5. Check carbon-monoxide alarms according to their manufacturer instructions.
+
+One note if your system is a heat pump rather than a furnace: its supply air runs cooler than a furnace's, and running nearly all day in cold weather can be normal — our [guide to a heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/) explains where normal ends and a problem begins.
+
+## When to Stop and Get Help
+
+Leave the home and call emergency services or the appropriate emergency contact if a carbon-monoxide alarm sounds or a person may have carbon-monoxide poisoning. The CPSC advises moving to fresh air and seeking immediate medical attention in that situation.[1]
+
+Contact a qualified heating professional if the system continues to move cool air, repeatedly shuts down, has an unusual odor or sound, leaks water or fuel, or displays a fault message you cannot resolve through the owner's manual.
+
+## Preventing Avoidable Problems
+
+Use the maintenance schedule in the equipment manual, keep required vents clear, and use carbon-monoxide alarms as recommended by CPSC. CPSC also warns consumers not to use fuel-burning equipment intended for outdoor use indoors because it can create a carbon-monoxide hazard.[2] That warning is why generator placement and sizing should be settled before an outage, not during one — our [whole-house generator vs. portable cost comparison](/blog/45-whole-house-generator-vs-portable-cost/) covers the installation, fuel, and running-cost tradeoffs of each option.
+
+## Sources
+
+1. [U.S. Consumer Product Safety Commission: Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center)
+2. [U.S. Consumer Product Safety Commission: Winter storm carbon-monoxide and fire safety tips](https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires)
+=====FILE: content/blog/duct-leaks-symptoms-hvac-running-all-day.md=====
+---
+title: "Duct Leaks: What to Check When Rooms Are Uneven"
+slug: "duct-leaks-symptoms-hvac-running-all-day"
+description: "Learn what duct leakage testing evaluates and how to document uneven-room or HVAC-runtime concerns for a qualified professional."
+date: 2025-12-25
+updated: 2026-08-23
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["duct leaks", "uneven heating", "duct sealing", "hvac"]
+keywords: ["duct leak symptoms", "uneven heating rooms", "duct leakage testing"]
+image: "/images/articles/duct-leaks-symptoms-hvac-running-all-day/duct-leaks-symptoms-hvac-running-all-day_hero_v2.webp"
+sources:
+  - https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing
+  - https://bsesc.energy.gov/energy-basics/hvac-high-r-duct-insulation
+---
+
+## Quick Answer
+
+**Duct leakage can contribute to heating and cooling energy loss, but uneven rooms or long HVAC runtime do not prove that ducts are the cause.** Duct leakage testing is the reliable way to measure leakage; equipment sizing, airflow, insulation, solar gain, controls, and maintenance can also affect comfort.[1]
+
+Start with safe observations and document them for a qualified HVAC professional or energy rater rather than attempting to diagnose or seal inaccessible ductwork yourself.
+
+## What Duct Leakage Testing Evaluates
+
+DOE Building Science Education material describes duct leakage testing as a way to measure leakage in HVAC duct systems.[1] A professional assessment can distinguish a duct issue from other delivery, equipment, or building-envelope issues.
+
+Ask what will be tested and documented, including the accessible duct layout, connections, airflow concerns, and any recommended corrective work.
+
+## Useful Observations to Record
+
+Record patterns that a professional can investigate:
+
+- Which rooms are consistently warmer, cooler, stuffier, or weaker in airflow.
+- The outdoor conditions, thermostat setting, and time of day when the issue occurs.
+- Whether registers are blocked or returns are obstructed.
+- Visible disconnected, crushed, damaged, or poorly supported duct sections in safely accessible areas.
+- The filter-change history and any service records.
+
+Do not enter confined spaces, disturb insulation, access electrical equipment, or modify ducts if it is not safe to do so.
+
+## Avoid Generic Fixes
+
+There is no universal repair, savings percentage, or price for duct leakage. The appropriate work depends on the material, location, accessibility, design, measured leakage, code requirements, and the rest of the HVAC system.
+
+Do not rely on ordinary cloth tape, generic vent-closing advice, or equipment upsizing as a substitute for an assessment. Ask the installer to identify the specific problem, the materials and scope of work, and the measurement that will verify the completed repair.
+
+## Questions for a Professional
+
+1. Will you perform or recommend duct leakage testing?
+2. What evidence supports a duct issue rather than equipment sizing, airflow, insulation, or controls?
+3. Which ducts are accessible, and what exact work is included?
+4. Will you verify airflow or other relevant measurements after the repair?
+5. Are ducts in unconditioned areas insulated and sealed to the applicable requirements?
+
+DOE notes that high-performance ducts should be insulated and sealed at or above levels required by code; the appropriate requirement depends on the location and project.[2]
+
+## Sources
+
+1. [U.S. Department of Energy Building Science Education: HVAC Duct Leakage Testing](https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing)
+2. [U.S. Department of Energy Building Science Education: HVAC High-R Duct Insulation](https://bsesc.energy.gov/energy-basics/hvac-high-r-duct-insulation)
+=====FILE: content/blog/drought-surcharge-on-water-bill-explained.md=====
+---
+title: "How to Review a Drought-Related Charge on a Water Bill"
+slug: "drought-surcharge-on-water-bill-explained"
+description: "Review a drought-related water-bill charge using the local utility’s current rate schedule, drought notice, account usage, and meter data."
+date: 2026-05-27
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Water"
+categories: ["Water"]
+tags: ["drought surcharge", "water bill", "water rates"]
+keywords: ["drought surcharge water bill", "drought water rate", "water bill surcharge"]
+image: "/images/articles/drought-surcharge-on-water-bill-explained/drought-surcharge-on-water-bill-explained_hero_v2.webp"
+sources:
+  - https://www.epa.gov/watersense/understanding-your-water-bill
+  - https://www.epa.gov/waterfinancecenter/water-affordability-resources-utilities
+---
+
+## Quick Answer
+
+**A drought-related water-bill charge must be read from the local utility’s current rate schedule, declared conditions, service class, and account usage.** EPA WaterSense notes that drought conditions can lead to higher water prices intended to encourage conservation, while water utilities use a variety of rate structures.[1]
+
+Do not assume a drought charge is a fine, applies only to outdoor use, uses one national tier, has a standard trigger, or can be reduced through a generic conservation action. The controlling local tariff and notices determine the account result.
+
+## Identify the Local Charge
+
+Start with the current statement and provider notice. Record:
+
+| Detail | What to verify |
+|---|---|
+| Bill label | Exact charge name and tariff reference |
+| Current condition | Any declared drought stage, effective date, and service-area notice |
+| Usage basis | Metered unit, billing period, service class, and tier or budget if applicable |
+| Calculation | Rate, threshold, fixed/usage basis, and related water or sewer charges |
+| Other items | Credits, taxes, adjustments, and one-time charges |
+
+EPA describes rate structures including block, seasonal, drought, and water-budget approaches; the local utility’s published rule identifies which one applies to the account.[1]
+
+## Compare the Bill With the Tariff
+
+Compare the current bill with a similar earlier bill only after checking billing days, meter/read status, billed usage, tariff version, and current drought notice. A higher total can reflect more than one item, such as a rate change, tier threshold, estimate correction, or another line item.
+
+EPA’s water-affordability resources identify water surcharges and seasonal rates as mechanisms utilities may use, but a generic description cannot determine the amount for an individual account.[2]
+
+## Document Actual Conditions
+
+Follow the provider’s meter-access and safety instructions. Record visible water-use changes, irrigation activity, household/occupancy changes, meter observations, and any repair records. Do not alter the meter, ignore local water-use restrictions, or assume a leak adjustment or rebate exists without the provider’s current written policy.
+
+For a rental or shared account, ask the landlord or manager in writing how the charge, water use, and repair responsibility are allocated.
+
+## Questions for the Utility
+
+1. Which tariff and drought-related notice define this charge?
+2. What usage, billing period, service class, and rate produced the amount?
+3. Is the charge separate from a restriction violation, sewer amount, or other bill item?
+4. Are there current account-specific review, payment, adjustment, or assistance rules?
+5. What documentation should I provide if I believe the calculation is incorrect?
+
+## Sources
+
+1. [U.S. Environmental Protection Agency WaterSense: Understanding Your Water Bill](https://www.epa.gov/watersense/understanding-your-water-bill)
+2. [U.S. Environmental Protection Agency: Water Affordability Resources for Utilities](https://www.epa.gov/waterfinancecenter/water-affordability-resources-utilities)
+=====FILE: content/blog/how-to-read-your-utility-bill.md=====
+---
+title: "How to Read Your Own Utility Bill"
+slug: "how-to-read-your-utility-bill"
+draft: true
+description: "Read an electricity, gas, or water bill from the account summary through service dates, meter data, rate plan, itemized charges, and provider documentation."
+date: 2026-05-29
+updated: 2026-08-23
+author: "Margaret Harrington"
+category: "Bills & Fees"
+categories: ["Bills & Fees"]
+tags: ["utility bill", "read your bill", "meter reading"]
+keywords: ["how to read your utility bill", "utility bill explained", "utility bill charges"]
+image: "/images/articles/how-to-read-your-utility-bill/how-to-read-your-utility-bill_hero_v2.webp"
+sources:
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill
+  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential
+  - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+---
+
+## Quick Answer
+
+**Read a utility bill in this order: account summary, service dates, meter/read status, billed usage, rate-plan name, itemized charges, credits, and payment terms.** The exact labels and calculation rules come from the serving provider. Do not use a national average, generic example, or another provider’s bill as the calculation for your account.
+
+Con Edison’s bill materials show that a residential statement can include billing period, rate, meter readings, usage, taxes, and supply/delivery charge information.[1][2]
+
+## 1. Start at the Account Summary
+
+Confirm the account identity, service address, statement date, due date, prior balance, payments or credits, current charges, and total amount due. If a payment or credit does not match your record, save the payment confirmation and ask the provider how it was applied.
+
+The amount due may include more than the current service period. Do not assume it represents only current usage until the summary and itemized lines support that conclusion.
+
+## 2. Establish the Billing Period
+
+Record the service-period start/end dates and number of billing days. Compare those dates with a prior similar statement before comparing totals. A changed billing period, estimated read, credit, adjustment, or rate schedule can affect the total without identifying a specific cause.
+
+## 3. Read Meter and Usage Information
+
+Locate the prior/current meter reading or other usage record, billed unit, and actual/estimated/customer-submitted status. The provider’s bill guide and tariff define how those values are converted into the billed quantity.
+
+| Field | What to verify |
+|---|---|
+| Meter/read status | Actual, estimated, customer-submitted, corrected, or other provider label |
+| Usage | Quantity, unit, and billing period |
+| Rate plan | Service class, tariff name, and effective date |
+| Account history | Similar prior period, credit, or one-time adjustment |
+
+Do not alter a meter or equipment. If the provider allows self-submitted readings, follow its official process and safety instructions.
+
+## 4. Review Itemized Charges
+
+Record each line exactly as shown and identify the source document that controls it.
+
+| Charge group | What to record |
+|---|---|
+| Usage/consumption | Quantity, unit, rate, and calculation period |
+| Supply/delivery or similar categories | Provider labels, rates, and tariff references |
+| Fixed, tiered, time-based, or demand components | Account applicability and calculation method |
+| Riders, taxes, fees, and credits | Name, rate base, effective dates, and stated basis |
+| One-time items | Description, date, and provider explanation |
+
+DOE’s electricity-bill guide identifies distinct consumption, demand, rider, and rate-structure components.[3]
+
+## 5. Compare a Prior Bill Carefully
+
+Use a table to isolate the actual change:
+
+| Field | Current | Prior comparable bill | Question |
+|---|---|---|---|
+| Billing days |  |  | Did the service period change? |
+| Meter/read status |  |  | Is one bill estimated or corrected? |
+| Billed usage |  |  | Did quantity or unit change? |
+| Rate/tariff |  |  | Did the rate schedule change? |
+| Each charge |  |  | Which exact component changed? |
+| Credits/one-time items |  |  | Is the total affected by an adjustment? |
+
+This method makes it possible to ask a provider a precise, documented question instead of disputing a total without identifying the calculation.
+
+## 6. Ask the Provider for the Calculation
+
+If a line is unclear, ask for the account-specific calculation, controlling tariff section, rate period, meter/read status, and any credit or adjustment explanation. Follow the provider’s current written billing-review and payment rules; do not assume that a generic bill guide establishes your account rights or obligations.
+
+## Sources
+
+1. [Con Edison: How to Read Your Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill)
+2. [Con Edison: Sample Residential Bill](https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential)
+3. [U.S. Department of Energy: Understanding Your Utility Bills—Electricity (PDF)](https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf)
+=====FILE: content/blog/net-metering-explained.md=====
+---
+title: "Net Metering Explained: How Solar Panels Affect Your Electric Bill"
+slug: "net-metering-explained"
+description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
+date: 2026-08-10
+updated: 2026-08-23
+author: "David Chen"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]
+keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering", "solar ROI"]
+image: "/images/articles/net-metering-explained/custom_hero.webp"
+sources:
+  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf
+  - https://www.energy.gov/cmei/systems/homeowners-guide-solar
+---
+
+## Quick Answer
+
+**Net metering is a billing arrangement between a solar-system owner and a utility.** When a qualifying system exports electricity to the grid, the utility may apply a credit under its current tariff. The credit rate, rollover rules, settlement date, fees, eligibility, and whether net metering is available all depend on the serving utility and local rules.[1][2]
+
+Do not use a national payback table or another state's policy to predict your bill. Ask your utility for the current interconnection agreement and tariff that apply to your address.
+
+## How the Arrangement Works
+
+DOE describes net metering as electricity flowing both to and from a customer, typically through a bidirectional meter.[1] When solar generation is greater than use at a given time, electricity can be exported. When on-site generation is lower than use, electricity is imported from the grid.
+
+The bill then applies the utility's own rules to imports, exports, credits, fixed charges, taxes, and any minimum bill. A bill may show some combination of imported kWh, exported kWh, generation, usage, credits, and a remaining balance, but labels vary by utility.
+
+## What to Check Before You Sign or Install
+
+1. **Eligibility:** Does the utility offer an export-credit or net-metering arrangement for your system type and location?
+2. **Credit calculation:** Is the export credit based on retail price, another published rate, or a program-specific calculation?
+3. **Credit timing:** When do credits apply, expire, settle, or carry forward?
+4. **Fixed charges:** Which customer, delivery, interconnection, or minimum charges still apply?
+5. **Rate plan:** Does your current plan affect the value of imports or exports?
+6. **Interconnection:** What application, inspection, meter, insurance, and operating requirements apply?
+
+Keep copies of the tariff, interconnection agreement, and first several solar bills. They are more useful than a generic online example when a credit or charge looks unfamiliar.
+
+## How to Read a Solar Bill
+
+Compare the current bill with the utility's tariff and look for:
+
+| Item | Question to ask |
+|---|---|
+| Grid import | How much electricity did the account receive from the grid? |
+| Grid export | How much eligible electricity did the account send to the grid? |
+| Credit | What tariff rule determined its value? |
+| Fixed charges | Which charges apply regardless of solar generation? |
+| Billing period | Do the dates match the utility's solar settlement rules? |
+| Rate plan | Does the account use a time-varying or other special rate? |
+
+DOE's homeowner solar guide explains that compensation for exported solar power is an arrangement between the system owner and the utility.[2] That is why the utility's current documents—not a national “Net Metering 1.0/2.0/3.0” label—should control your decision.
+
+## Questions to Ask the Utility
+
+- Which tariff applies to my proposed or existing system?
+- How are exports measured and credited?
+- Which charges remain when production exceeds use?
+- What happens to unused credits at the end of a billing period or program year?
+- Can a rate-plan change alter the value of exported electricity?
+- Where can I read the current interconnection and consumer-disclosure documents?
+
+## Frequently Asked Questions
+
+{{< faq "Will I still receive an electric bill with solar?" >}}
+Usually, a grid-connected solar customer continues to receive a utility statement. The amount due and the charges shown depend on the local tariff, imports, exports, credits, and fixed charges.
+{{< /faq >}}
+
+{{< faq "Does every utility credit exports the same way?" >}}
+No. Credit calculation and eligibility are set by the utility and applicable local rules. Obtain the current tariff for your service address before relying on an estimate.
+{{< /faq >}}
+
+{{< faq "Is net metering the same as going off-grid?" >}}
+No. Net metering concerns a grid-connected customer's billing arrangement for electricity that moves between the customer and grid. An off-grid system is a separate design and reliability decision.
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Department of Energy: Net Metering](https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf)
+2. [U.S. Department of Energy: Homeowner's Guide to Solar](https://www.energy.gov/cmei/systems/homeowners-guide-solar)

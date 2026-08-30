@@ -1,0 +1,20 @@
+{
+  "role": "mason",
+  "mission": "BRIEF 4 — spine-preserving rebuild of content/blog/why-is-my-furnace-blowing-cold-air.md: keep the CPSC safety block VERBATIM, add the concrete checks, causes, and cost context the page lacks.",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds",
+  "context": "Current: 485w, zero figures — but the safety spine is excellent ('the shard's best page' on safety). DO NOT touch the CPSC stop-and-get-help block word-for-word.\nADD:\n1. Quick Answer stays safety-first but adds the check order (thermostat mode → filter → breaker/switch → intake → CO alarm).\n2. 15-MINUTE CHECK TABLE (new): | check | what to look for | if it fails | — rows: thermostat set to HEAT above room temp; FAN on AUTO not ON; filter inspect (clogged = limit-switch shutdown on modern furnaces); breaker + furnace service switch; exterior intake/exhaust unblocked (snow/ice/nest); CO alarm test button.\n3. EMBED: {{< image src=\"/images/articles/why-is-my-furnace-blowing-cold-air/thermostat-auto-vs-fan.webp\" alt=\"Two thermostats compared: FAN ON blowing cold air versus FAN AUTO heating correctly\" caption=\"The number-one cause: FAN ON instead of AUTO\" >}}\n4. CAUSE LIST with DIY-vs-call-pro column: thermostat FAN ON; clogged filter → limit switch; condensate drain clog lockout (90%+ condensing furnaces); pilot/ignition fault (older vs modern); cracked heat exchanger (pro only — CO context, links to the safety block).\n5. COST BANDS TABLE — fetch ONE cost source (angi.com furnace repair cost page or homeguide.com equivalent); if it loads: rows for diagnostic visit, 1-inch filter, igniter/flame sensor repair, blower motor — each '(source, retrieved 2026-08-30)'. If neither loads: NO dollar figures, note 'costs vary by region — get three quotes' and move on.\n6. Replacement reality: AFUE + typical lifespan from energy.gov/energysaver furnaces-and-boilers (fetch + date). NO rebate promises — federal 25C credits ended 12/31/2025 (verified); if mentioning replacement, say so plainly.\n7. FAQ (3-4): why does cold air blast when the fan runs; how often to change the filter in winter; is a little cold air at startup normal (short warm-up — yes); when to stop troubleshooting (the safety block's triggers).\n8. Front matter updated: 2026-08-30; add fetched sources dated; keep CPSC cites. Links out: duct-leaks post, aux-heat-vs-emergency-heat-meaning, 13-ac-short-cycling-causes-fixes, 48-heat-pump-vs-gas-furnace-savings, heating-cooling hub. Target ~1,000-1,200w.",
+  "known_facts": [
+    "The existing CPSC safety block is preserved VERBATIM — locate it first, do not edit inside it",
+    "25C tax credits ended 12/31/2025 (IRS-verified) — never imply rebates are available",
+    "Image file will exist at build time — do not verify it"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md"]
+  },
+  "constraints": ["Write ONLY this file; NO hugo build; cost figures only from a fetched dated source; safety block untouched"],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "Safety block byte-identical (diff before/after inside that section); 15-min check table; cause list with DIY/pro column; cost table dated or explicitly omitted; FAQ blocks; >=3 concrete figures"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "parent_objective": "SQ-054 write wave: apply verified ledgers to unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site \u2014 every number must trace to a fetched source. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs; inline [n] + '## Sources' footer; sources FM = body-cited set. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054/results (stale verdicts poison runs). No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY the files in write_paths; touch nothing else",
+  "PRIOR READ-ONLY VERIFICATION established the ledger below \u2014 apply it; RE-FETCH only the specific URLs backing numbers you KEEP or ADD (spot re-fetch of each cited URL is required)",
+  "Cannot verify = do not include; preserve slug/date/author/image; set updated: 2026-08-29; keep hero_below_answer: true if present",
+  "'## Quick Answer' first: <=3 sentences with a mechanism or number",
+  "Keep existing good content \u2014 add evidence and structure, do not reset"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers",
+  "sources FM = body citations",
+  "QA + H2 structure present",
+  "OUTPUT CONTRACT: claim ledger (KEPT w/ URL+date / FIXED / DELETED / ESTIMATE), edits applied, human-review items, wc before->after"
+ ],
+ "role": "mason",
+ "mission": "content/blog/50-best-smart-plugs-standby-power.md \u2014 APPLY this verified ledger (from a read-only spec pass, 2026-08-29): (1) RENAME 'KP125MP2' -> 'KP125M' everywhere (table header line ~71, prose, product-box ~137): tp-link.com/us/home-networking/smart-plug/kp125mp2/ redirects to /kp125m/ and identifies the unit as KP125M sold as 2-pack/4-pack; keep the Amazon ASIN B0BYGRLRS1 but display name 'Kasa KP125M (2-Pack)'. (2) CONFIRMED spec cells (re-fetch the 3 tp-link pages to spot-verify): KP115 = energy monitoring YES, Matter NO, hub NO, 15A/1800W, UL certified, indoor only. KP125M = energy YES, Matter YES, hub NO, 15A/1800W, UL, indoor. Tapo P110M = energy YES, Matter YES, hub NO, 15A/1800W, indoor; its 'ETL' claim appears in marketing copy only \u2014 keep ETL ONLY if you can re-confirm it on the page, else mark 'see manufacturer page'. (3) WARRANTY cells for Tapo (2yr) and Emporia (1yr) were NOT verifiable on product pages \u2014 try one fetch of TP-Link's warranty page and Emporia's warranty page; if unverifiable, DELETE the warranty row/cells rather than keep unsourced durations. (4) Body '1-5 W standby' range and '2 W threshold' have NO direct DOE citation \u2014 soften to labeled industry heuristic ('a common industry rule of thumb') and cite energy.gov/cmei/femp/measuring-standby-power for the standby-power DEFINITION only (page verified live 2026-08-29). (5) Set frontmatter sources = exactly the cited set: the 4 manufacturer pages + Emporia help page + DOE standby page as used. Emporia outdoor row (line ~81) is pre-verified \u2014 leave as is.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/50-best-smart-plugs-standby-power.md"
+  ]
+ },
+ "known_facts": [
+  "ASINs (B08LN3C7WK, B0BYGRLRS1, B0DKGBP38V, B0CLVV7X7Y) are Amazon catalog IDs not verifiable on manufacturer pages \u2014 keep them, list in human-review as unverified link targets",
+  "Safety cells (amperage/indoor-only) confirmed for all 4 products \u2014 do not weaken them"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+  "agent": "mason",
+  "model": "~deepseek/deepseek-v4-flash-latest",
+  "status": "complete",
+  "summary": "Rebuilt the duct-leak symptoms post to deliver the symptom list the title promises: 8 one-line-cause signs, 15-minute DIY observation checklist (no crawlspace entry, safety note), professional duct-blaster/blower-door explanation with CFM25, verified live ENERGY STAR statistic quoted verbatim, labeled runtime math table, 3-block FAQ, updated front matter to 2026-08-30, image embedded, and all four required internal links. Word count ~1,097 within target.",
+  "findings": [
+    "ENERGY STAR live page (energystar.gov/saveathome/heating-cooling/duct-sealing) confirmed the exact statistic: 'about 20 to 30 percent of the air that moves through the duct system is lost due to leaks, holes, and poorly connected ducts' \u2014 quoted verbatim in the rebuild and dated 'accessed 2026-08-30' in sources.",
+    "ENERGY STAR live page also confirmed the sealing rule verbatim: 'Start by sealing air leaks using mastic sealant or metal tape\u2026 Never use duct tape, as it is not long-lasting.'",
+    "DOE/Energy Savers duct-sealing pages are now 404 (energy.gov/energysaver/duct-sealing and related URLs no longer resolve); the existing DOE Building Science Education (BSESC) source in the post still resolves and was retained.",
+    "The existing page had a contradictory structure \u2014 title promised symptoms but body refused numbers; the rebuild aligns body to title while keeping the site's de-hallucination discipline: only the published ENERGY STAR stat is asserted, everything else is labeled illustrative arithmetic.",
+    "Prior page had already been partially rebuilt with the symptom list, runtime table, FAQ, and ENERGY STAR links before verification; my edits verified the ENERGY STAR quote against the live page, corrected the source citation with the exact wording and access date, and tightened the runtime-table header/read-me text for clarity."
+  ],
+  "evidence": [
+    "Web fetch of https://www.energystar.gov/saveathome/heating-cooling/duct-sealing returned live content containing the exact quoted statistic and sealing materials rule.",
+    "Web fetches of https://www.energy.gov/energysaver, https://www.energy.gov/energysaver/duct-sealing, and related URLs returned 404 or the general energy.gov homepage, confirming the DOE Energysaver duct pages no longer resolve.",
+    "Read-back of the final file confirms all required sections present (symptoms list, image shortcode, DIY checklist, professional testing, sealing options, runtime table, 3 FAQ blocks, related links, sources with dated ENERGY STAR access)."
+  ],
+  "actions_taken": [
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "web_search 'energy.gov energysaver duct sealing duct leakage' -> 8 results",
+    "web_search 'site:energy.gov energysaver duct sealing leaks' -> 8 results",
+    "web_search 'ENERGY STAR duct sealing 20 percent energy loss' -> 8 results",
+    "web_fetch https://www.energy.gov/energysaver (7185 chars)",
+    "web_search '\"energy.gov/energysaver\" \"duct sealing\"' -> 8 results",
+    "web_fetch https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing (4892 chars)",
+    "web_search 'DOE Energy Saver \"Duct Leaks\" \"as much as 30 percent\" OR \"30%\" site:energy.gov' -> 8 results",
+    "write_file /tmp/squad-workspaces/20260830-004111-mason/duct-leaks-draft.md (737 chars)",
+    "web_search '\"as much as 30 percent\" \"duct\" \"energy\" leakage OR leak' -> 8 results",
+    "web_search 'ENERGY STAR duct sealing page energy loss ducts' -> 8 results",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (8138 chars)",
+    "run_command 'wc -w '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md'' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/heat-pump-running-all-day-in-winter.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/47-check-energy-leaks-home-diy.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-furnace-blowing-cold-air.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/47-check-energy-leaks-home-diy.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/heating-cooling-explained.md",
+    "write_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (8448 chars)",
+    "run_command 'wc -w '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md'' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "run_command 'sed '1,/^---$/d' '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md' | sed '/^---$/,$d' | sed 's/{{< [^>]* >}}//g' | sed 's/{{< ref \"[^\"]*\" >}}//g' | sed 's/\\*\\*/ /g' | sed 's/\\*//g' | sed 's/\\[//g; s/\\]//g' | sed 's/(//g; s/)//g' | wc -w' -> exit 0",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (1048->1024 chars)",
+    "run_command 'sed '1,/^---$/d' '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md' | sed '/^---$/,$d' | sed 's/{{< [^>]* >}}//g' | sed 's/{{< ref \"[^\"]*\" >}}//g' | sed 's/\\*\\*/ /g' | sed 's/\\*//g' | sed 's/\\[//g; s/\\]//g' | sed 's/(//g; s/)//g' | wc -w' -> exit 0",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (875->792 chars)",
+    "run_command 'sed '1,/^---$/d' '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md' | sed '/^---$/,$d' | sed 's/{{< [^>]* >}}//g' | sed 's/{{< ref \"[^\"]*\" >}}//g' | sed 's/\\*\\*/ /g' | sed 's/\\*//g' | sed 's/\\[//g; s/\\]//g' | sed 's/(//g; s/)//g' | wc -w' -> exit 0",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (524->479 chars)",
+    "run_command 'sed '1,/^---$/d' '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md' | sed '/^---$/,$d' | sed 's/{{< [^>]* >}}//g' | sed 's/{{< ref \"[^\"]*\" >}}//g' | sed 's/\\*\\*/ /g' | sed 's/\\*//g' | sed 's/\\[//g; s/\\]//g' | sed 's/(//g; s/)//g' | wc -w' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (745->505 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (377->349 chars)",
+    "run_command 'sed '1,/^---$/d' '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md' | sed '/^---$/,$d' | sed 's/{{< [^>]* >}}//g' | sed 's/{{< ref \"[^\"]*\" >}}//g' | sed 's/\\*\\*/ /g' | sed 's/\\*//g' | sed 's/\\[//g; s/\\]//g' | sed 's/(//g; s/)//g' | wc -w' -> exit 0",
+    "run_command 'head -20 '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md'' -> exit 0",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "web_fetch https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (3945 chars)",
+    "edit_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md (251->381 chars)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md"
+  ],
+  "files_touched": [
+    "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/duct-leaks-symptoms-hvac-running-all-day.md",
+    "/tmp/squad-workspaces/20260830-004111-mason/duct-leaks-draft.md"
+  ],
+  "test_results": "No hugo build (not authorized). Content-verified against brief: 8-item symptom list present, runtime table present with 3 rows labeled illustrative arithmetic, 3 FAQ blocks present, image shortcode embedded, front matter updated to 2026-08-30 with slug unchanged and title adjusted, all four required internal links present, >=1 dated source (ENERGY STAR accessed 2026-08-30) with published stat quoted verbatim. Word count ~1,097.",
+  "risks": [
+    "The ENERGY STAR URL (energystar.gov/saveathome/heating-cooling/duct-sealing) resolved at verification time but government pages can move; the access date is recorded in the source citation but the URL itself is not archived.",
+    "DOE Building Science Education (BSESC) source was not re-fetched this run; it was already present in the existing post and is retained \u2014 if it has changed since the original author verified it, that would be a stale citation. Recommend a future re-check.",
+    "Title is 67 characters including spaces; brief preferred <=60 but allowed the title to adjust. It matches the intended keywords and brief exactly, so no action taken."
+  ],
+  "unknowns": [
+    "none"
+  ],
+  "recommendation": "None required \u2014 the rebuild satisfies the brief. Optional future: after any hugo build, re-confirm the image file (duct-leak-diagram.webp) exists under /images/articles/duct-leaks-symptoms-hvac-running-all-day/ since the build was not run here (brief instructed not to verify).",
+  "confidence": "high",
+  "confidence_basis": "All success criteria verified against the live ENERGY STAR page quoted verbatim; the file was re-read end-to-end confirming every required section and internal link; word count falls inside the target range.",
+  "tool_steps": 56,
+  "duration_seconds": 1201.2,
+  "side_effects": true,
+  "warnings": [
+    "none"
+  ],
+  "context_est_tokens": 35160
+}

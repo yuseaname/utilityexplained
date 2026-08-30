@@ -1,0 +1,35 @@
+{
+ "role": "tracer",
+ "mission": "Audit + fact-check tier-ranks 5-8: how-to-read-gas-meter (87.5% br, 5s TOP \u2014 diagnose instant-exit), water-service-charge-explained (66.7% br, 4s TOP), 43-understand-natural-gas-bill-charges (100% br, 0s TOP \u2014 worst possible; check first-screen, hero-before-answer, title-vs-body), 17-what-is-customer-charge-on-utility-bill (91.7% br, 15s). One thread each: does the page deliver its title promise in the first screen?",
+ "parent_objective": "SQ-053: audit + fact-check + remediate tier-2 pages (ranks 31-60); feed Commander synthesis and remediation",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education, affiliate + AdSense (blocked 'Low value content'; accuracy/evidence is the gate). Source of truth: content/blog/<slug>.md. Reader: US resident with a bill in hand. This is TIER 2 (site traffic ranks 31-60) \u2014 lower traffic, longer tail: expect thinner pages, more fee-cluster overlap, and some instant-exit defects. Engagement data + tier context: .squad/SQ-053/evidence.md (read it first).\nSITE STANDARDS SET TODAY (do not contradict): national electric anchor = 900 kWh \u00d7 18.34\u00a2 = $165/mo, 2024 actual average $144 (EIA); energy.gov/energysaver/* URLs are DEAD sitewide (live successors: energystar.gov/saveathome/heating-cooling[.../duct-sealing], energy.gov/save/home-upgrades, energy.gov/cmei/femp/evaluating-your-utility-rate-options) \u2014 flag any remaining; verified municipal anchors: Seattle sewer $20.18/CCF, Philly $5.16/CCF flat, SFPUC 90% of water \u00d7 $20.74/unit; EPA: 82 gal/day/person, 9,400 gal/yr household leaks, 10-min dye test, 12,000-gal/mo winter family-of-4 threshold; RECS 2020: heating+cooling 52%, 'other devices' 23% (no standby share exists).\n\nAUDIT RUBRIC per page: (1) thin/shallow/outdated/duplicate/generic \u2014 word count vs topic demand, overlap with siblings (this tier is the fee-cluster heart); (2) false/inaccurate/unsupported claims \u2014 extract 3-6 checkable claims; verify via web_search/web_fetch vs authoritative sources (EIA, DOE, ENERGY STAR, EPA, FTC, state PUCs, statutes); verdict CONFIRMED/REFUTED/UNVERIFIED with URL + retrieved date 2026-08-29; never invent sources; (3) AI slop \u2014 exact-quote filler/repetition/vague hedging without decision rules; (4) intent alignment + completeness vs the slug's promise; (5) E-E-A-T \u2014 zero-outbound-source pages are the site's #1 credibility risk; (6) on-page SEO \u2014 title/meta/headings/internal links/schema, specific.\n\nOUTPUT CONTRACT per assigned page:\nPAGE: <slug>\nRATING: <A|B|C|D|F> \u2014 one-line justification\nINTENT: <primary intent> \u2014 <aligned|partial|mismatched> + why (<=15 words)\nISSUES: 3-6 bullets, each naming exact section/heading/quote\nFACTS: 3-6 lines: \"<claim>\" \u2014 CONFIRMED/REFUTED/UNVERIFIED \u2014 <evidence URL / what contradicts>\nWEAKCOPY: 2-4 exact quoted sentences with section names\nFIXES: specific (remove X / rewrite Y / verify Z against <source> / expand with <specific> / consolidate into <slug> / redirect) \u2014 executable without re-reading\nSEO: title/meta/headings/links/schema opportunities, specific\nEFFORT: S|M|L \u00b7 IMPACT: H|M|L \u2014 one-line rationale",
+ "known_facts": [
+  "how-to-read-gas-meter",
+  "water-service-charge-explained",
+  "43-understand-natural-gas-bill-charges",
+  "17-what-is-customer-charge-on-utility-bill"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Evidence brief: .squad/SQ-053/evidence.md. Your pages: content/blog/Theme supports hero_below_answer: true to suppress hero-before-answer \u2014 check whether these pages set it.md; content/blog/43 overlaps 12-how-to-read-your-gas-bill + mcf-vs-ccf-vs-therms \u2014 map the boundary.md; content/blog/Meter-reading benchmark: how-to-read-electric-meter + how-to-read-a-water-meter (tier-1).md"
+ },
+ "constraints": [
+  "No claims about Google's ranking systems \u2014 best practice framing only",
+  "Every fix names its target section/heading/quote/claim",
+  "Every factual verdict carries URL + retrieved date 2026-08-29 or NEEDS HUMAN REVIEW",
+  "Read-only on the repo",
+  "If web verification fails, say UNVERIFIED \u2014 never fabricate"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Full OUTPUT CONTRACT block per page",
+  "3-6 factual claims per page verified (URL+date) or labeled NEEDS HUMAN REVIEW",
+  "Weak-copy = exact quotes",
+  "Fixes executable without re-reading the page"
+ ]
+}

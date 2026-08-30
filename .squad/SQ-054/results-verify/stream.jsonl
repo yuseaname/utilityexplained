@@ -1,0 +1,2 @@
+{"packet": "verify-waveA-a.json", "result_file": ".squad/SQ-054/results-verify/01-verifier.json", "agent": "verifier", "status": "partial"}
+{"packet": "verify-waveA-b.json", "result_file": ".squad/SQ-054/results-verify/02-lieutenant.json", "agent": "lieutenant", "status": "complete"}

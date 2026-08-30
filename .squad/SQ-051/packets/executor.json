@@ -1,0 +1,33 @@
+{
+ "role": "executor",
+ "mission": "PART A (primary): produce deterministic on-page metrics for ALL 30 pages listed in .squad/SQ-051/evidence.md. Write ONE markdown table to .squad/SQ-051/artifacts/page-metrics.md, one row per page: word count, H2 count, H3 count, title length (chars, frontmatter title), meta description present + length, outbound http(s) links count (exclude utilityexplained.com and /assets images), internal contextual links in body, image count + count missing alt, Quick Answer block present y/n, dated-update signal (lastmod/date frontmatter value), author frontmatter value. Use grep/awk/python against content/blog/<slug>.md \u2014 quote each distinct command once in your result notes. PART B: brief quality notes for content/blog/18-fuel-adjustment-charge-on-utility-bill-explained.md (95.8% bounce \u2014 diagnose first-screen answer delivery) and content/blog/27-utility-connection-fee-explained.md: top 3 issues each + 2-3 factual claims flagged NEEDS VERIFICATION (no web pass needed).",
+ "parent_objective": "SQ-051: per-page SEO content + fact-check audit of top 30 pages by Rybbit 30d traffic; feed Commander synthesis into a remediation plan",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education (water/sewer/electric/gas), monetized via affiliate product boxes + AdSense. AdSense is currently BLOCKED (\"Low value content\", 2026-08-23) \u2014 re-earning trust is the mission context; accuracy and evidence are the gate. Source of truth: markdown at content/blog/<slug>.md (frontmatter + body). Live URL: https://utilityexplained.com/blog/<slug>/. Reader: US resident holding a utility bill, wants to understand/act. Site-wide known facts: 92/96 guides have zero outbound source URLs; author/editor identity claims are under review for substantiation; site sells \"exact savings\" so unsourced dollar figures are the #1 credibility risk. Engagement data: .squad/SQ-051/evidence.md (Rybbit 30d).",
+ "known_facts": [
+  "Metrics are the deliverable \u2014 envelope carries commands + summary + PART B notes only; full table goes to the artifact file",
+  "Word counts known for sanity-check: flagship how-to-lower-electric-bill-complete-guide = 4098w; 30-sudden-spike = 3895w",
+  "#25 fuel-adjustment: 95.8% bounce, 27s TOP \u2014 instant-exit suspect; check whether the answer appears above the fold"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-051/artifacts/page-metrics.md"
+  ],
+  "notes": "All 30 slugs + engagement: .squad/SQ-051/evidence.md \u2014 read first. Artifact table = PART A deliverable; PART B in envelope."
+ },
+ "constraints": [
+  "No vague recommendations \u2014 PART B notes name sections/quotes",
+  "Read-only except the single artifact file",
+  "Counts via grep -c / wc only, quote the commands"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "page-metrics.md exists with 30 rows + all columns populated",
+  "Every metric derivable from the quoted commands",
+  "PART B covers both pages with top-3 issues + flagged claims"
+ ]
+}

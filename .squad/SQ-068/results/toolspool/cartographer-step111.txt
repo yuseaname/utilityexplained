@@ -1,0 +1,336 @@
+exit_code: 0
+=== TITLE OVERLAP CANDIDATES ===
+
+[find]
+  03-why-is-my-electric-bill-so-high: Why Is My Electric Bill So High? Find the Real Cause
+  phantom-power-draw-explained: Phantom Power Draw: How to Find and Reduce Standby Use
+
+[real]
+  03-why-is-my-electric-bill-so-high: Why Is My Electric Bill So High? Find the Real Cause
+  gas-vs-electric-heating-cost-comparison: Gas vs. Electric Heating: Cost Comparison for Real Homes
+
+[every]
+  04-hidden-fees-utility-bill: Every Charge on Your Utility Bill, Explained
+  electric-bill-breakdown-understanding-line-items: Electric Bill Breakdown: Every Charge Explained
+
+[apartment]
+  09-apartment-utilities-cost: How to Budget for Apartment Utilities
+  how-to-budget-for-utilities-in-your-first-apartment: How to Budget for Utilities in Your First Apartment
+
+[understanding]
+  11-understanding-kwh-usage: Understanding kWh Usage on Your Electric Bill
+  complete-guide-understanding-utility-bill: A Practical Workflow for Understanding Your Utility Bill
+
+[billing]
+  16-budget-billing-level-pay-explained: How to Review a Utility Budget-Billing Plan
+  23-utility-billing-cycle-explained: How to Read the Billing Period on a Utility Statement
+
+[customer]
+  17-what-is-customer-charge-on-utility-bill: How to Review a Customer Charge on a Utility Bill
+  gas-customer-charge-explained: How to Review a Gas Customer Charge
+
+[period]
+  20-utility-bill-proration-explained: How to Review a Partial-Period Utility Bill
+  23-utility-billing-cycle-explained: How to Read the Billing Period on a Utility Statement
+
+[average]
+  2026-utility-cost-index-by-state: 2026 Utility Cost Index: Average Electric, Gas & Water Bills by State
+  average-utility-bills-by-state-2026: Average Utility Bills by State (2026): National Averages + 17-State Sample
+
+[compare]
+  24-delivery-charge-vs-supply-charge-utility-bill: How to Compare Delivery and Supply Charges on a Utility Bill
+  ductless-mini-split-vs-central-air: Ductless Mini-Split vs Central Air: How to Compare Systems
+
+[fees]
+  25-utility-bill-taxes-fees-franchise-charges-explained: How to Review Taxes, Fees, and Other Charges on a Utility Bill
+  how-utility-rates-fees-usage-work-together: How Utility Rates, Fees, and Usage Work Together on Your Bill
+
+[start]
+  27-utility-connection-fee-explained: How to Review a Utility Service-Start Charge
+  47-check-energy-leaks-home-diy: DIY Home Energy Audit: How to Start a Do-It-Yourself Assessment
+
+[pump]
+  48-heat-pump-vs-gas-furnace-savings: Heat Pump vs Gas Furnace: Which Is Cheaper to Run?
+  heat-pump-running-all-day-in-winter: Heat Pump Running All Day in Winter? What Is Normal vs a Problem
+
+[furnace]
+  48-heat-pump-vs-gas-furnace-savings: Heat Pump vs Gas Furnace: Which Is Cheaper to Run?
+  why-is-my-furnace-blowing-cold-air: Why Is My Furnace Blowing Cold Air?
+
+[reduce]
+  50-best-smart-plugs-standby-power: How to Measure and Reduce Standby Power
+  phantom-power-draw-explained: Phantom Power Draw: How to Find and Reduce Standby Use
+
+[hvac]
+  afue-vs-seer-vs-hspf-vs-cop: AFUE vs SEER vs HSPF vs COP: HVAC Efficiency Ratings in Plain English
+  single-stage-vs-two-stage-vs-variable-speed-hvac: Single-Stage vs Two-Stage vs Variable-Speed HVAC: What the Terms Mean
+
+[know]
+  can-utility-shut-off-service: Can the Utility Shut Off Your Service? What to Know Before the Notice Arrives
+  how-to-read-a-water-meter: How to Read a Water Meter (and Know If Its Accurate)
+
+[calculator]
+  ccf-calculator: CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars
+  what-is-a-kilowatt-hour: What Is a Kilowatt-Hour (kWh)? Definition & Calculator
+
+[units]
+  ccf-calculator: CCF Calculator: Convert Your Water Bill Units to Gallons and Dollars
+  mcf-vs-ccf-vs-therms-on-gas-bill: MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean
+
+[heating]
+  do-programmable-thermostats-cut-heating-bills: Do Programmable Thermostats Cut Heating Bills?
+  gas-vs-electric-heating-cost-comparison: Gas vs. Electric Heating: Cost Comparison for Real Homes
+
+[check]
+  duct-leaks-symptoms-hvac-running-all-day: Duct Leaks: What to Check When Rooms Are Uneven
+  why-is-my-water-bill-higher-in-summer: Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)
+
+[affect]
+  ev-charging-impact-electric-bill: How EV Charging Can Affect Your Electric Bill
+  net-metering-explained: Net Metering Explained: How Solar Panels Affect Your Electric Bill
+
+[help]
+  gadgets-that-lower-utility-bills: Tools That Can Help You Understand Utility Use
+  utility-assistance-programs-liheap: Utility Assistance Programs: LIHEAP, Payment Plans, and Hardship Help
+
+[understand]
+  gadgets-that-lower-utility-bills: Tools That Can Help You Understand Utility Use
+  how-sewer-charges-work-on-your-water-bill: How to Understand Sewer Charges on Your Water Bill
+
+[actually]
+  gas-delivery-charge-vs-supply-charge: Gas Delivery Charge vs Supply Charge: What You're Actually Paying For
+  mcf-vs-ccf-vs-therms-on-gas-bill: MCF vs CCF vs Therms on Your Gas Bill: What the Units Actually Mean
+
+[winter]
+  heat-pump-running-all-day-in-winter: Heat Pump Running All Day in Winter? What Is Normal vs a Problem
+  why-is-my-water-bill-higher-in-winter: Why Is My Water Bill Higher in Winter? 8 Common Causes
+
+[smart]
+  how-do-smart-meters-work: How Do Smart Meters Work? (And Should You Trust Them?)
+  how-to-read-gas-meter: How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step
+
+[work]
+  how-do-smart-meters-work: How Do Smart Meters Work? (And Should You Trust Them?)
+  how-utility-rates-fees-usage-work-together: How Utility Rates, Fees, and Usage Work Together on Your Bill
+
+[sewer]
+  how-sewer-charges-work-on-your-water-bill: How to Understand Sewer Charges on Your Water Bill
+  sewer-averaging-water-bill-explained: Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use
+
+[first]
+  how-to-budget-for-utilities-in-your-first-apartment: How to Budget for Utilities in Your First Apartment
+  why-is-my-water-bill-higher-in-summer: Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)
+
+[without]
+  how-to-lower-electric-bill-without-solar: How to Lower Your Electric Bill Without Solar
+  why-did-my-utility-bill-go-up-this-month: Why Did My Utility Bill Go Up This Month? (Even Without Using More)
+
+[solar]
+  how-to-lower-electric-bill-without-solar: How to Lower Your Electric Bill Without Solar
+  net-metering-explained: Net Metering Explained: How Solar Panels Affect Your Electric Bill
+
+[dial]
+  how-to-read-electric-meter: How to Read an Electric Meter (Dial & Digital Guide)
+  how-to-read-gas-meter: How to Read Your Gas Meter: Dial, Digital, and Smart Meters, Step by Step
+
+[leak]
+  is-your-toilet-running-leak-test: Is Your Toilet Running? A Simple Leak Test (and How It Shows Up on Your Water Bill)
+  water-meter-leak-indicator-explained: Water Meter Leak Indicator Explained: How to Tell If Water Is Running When Everything Is O
+
+[summer]
+  sewer-averaging-water-bill-explained: Sewer Averaging Explained: Why Your Sewer Charge Does Not Match Summer Use
+  why-is-my-water-bill-higher-in-summer: Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)
+
+[tiered]
+  tiered-electricity-rates-explained: How to Review Tiered Electricity Rates on Your Bill
+  tiered-water-rates-explained: Tiered Water Rates Explained: Why Using More Costs Dramatically More
+
+[using]
+  tiered-water-rates-explained: Tiered Water Rates Explained: Why Using More Costs Dramatically More
+  why-did-my-utility-bill-go-up-this-month: Why Did My Utility Bill Go Up This Month? (Even Without Using More)
+
+[higher]
+  why-is-my-water-bill-higher-in-summer: Why Is My Water Bill Higher in Summer? (7 Common Causes + What to Check First)
+  why-is-my-water-bill-higher-in-winter: Why Is My Water Bill Higher in Winter? 8 Common Causes
+
+
+=== EXPLICIT KEYWORD OVERLAP ===
+  afue-vs-seer-vs-hspf-vs-cop | ac-running-but-not-cooling :: "ac not cooling"
+  aux-heat-vs-emergency-heat-meaning | afue-vs-seer-vs-hspf-vs-cop :: "heat pump savings"
+  aux-heat-vs-emergency-heat-meaning | ac-running-but-not-cooling :: "therms"
+  aux-heat-vs-emergency-heat-meaning | ac-running-but-not-cooling :: "thermostat settings"
+  complete-guide-understanding-utility-bill | 14-estimated-utility-bill-explained :: "utility bill review"]
+  electric-bill-breakdown-understanding-line-items | 22-minimum-bill-utility-bill-explained :: "customer charge utility"
+  gadgets-that-lower-utility-bills | 05-how-to-lower-utility-bills :: "home energy assessment"
+  gas-delivery-charge-vs-supply-charge | electric-bill-breakdown-understanding-line-items :: "delivery charge"
+  gas-delivery-charge-vs-supply-charge | ac-running-but-not-cooling :: "therms"
+  gas-delivery-charge-vs-supply-charge | aux-heat-vs-emergency-heat-meaning :: "therms"
+  gas-delivery-charge-vs-supply-charge | average-utility-bills-by-state-2026 :: "therms"
+  gas-vs-electric-heating-cost-comparison | afue-vs-seer-vs-hspf-vs-cop :: "gas furnace"
+  gas-vs-electric-heating-cost-comparison | ac-running-but-not-cooling :: "therms"
+  gas-vs-electric-heating-cost-comparison | aux-heat-vs-emergency-heat-meaning :: "therms"
+  gas-vs-electric-heating-cost-comparison | average-utility-bills-by-state-2026 :: "therms"
+  gas-vs-electric-heating-cost-comparison | gas-delivery-charge-vs-supply-charge :: "therms"
+  gas-vs-electric-heating-cost-comparison | average-utility-bills-by-state-2026 :: "kwh usage"
+  gas-vs-electric-heating-cost-comparison | electric-bill-breakdown-understanding-line-items :: "kwh usage"
+  gas-vs-electric-heating-cost-comparison | aux-heat-vs-emergency-heat-meaning :: "hvac efficiency ratings"]
+  heat-pump-running-all-day-in-winter | gas-vs-electric-heating-cost-comparison :: ["heat pump savings"
+  heat-pump-running-all-day-in-winter | aux-heat-vs-emergency-heat-meaning :: "aux heat vs emergency heat"
+  heat-pump-running-all-day-in-winter | ac-running-but-not-cooling :: "duct leak symptoms"
+  heat-pump-running-all-day-in-winter | afue-vs-seer-vs-hspf-vs-cop :: "duct leak symptoms"
+  heat-pump-running-all-day-in-winter | duct-leaks-symptoms-hvac-running-all-day :: "duct leak symptoms"
+  how-do-smart-meters-work | average-utility-bills-by-state-2026 :: "kwh usage"
+  how-do-smart-meters-work | electric-bill-breakdown-understanding-line-items :: "kwh usage"
+  how-do-smart-meters-work | gas-vs-electric-heating-cost-comparison :: "kwh usage"
+  how-to-budget-for-utilities-in-your-first-apartment | 26-utility-deposit-explained :: "utility deposit"
+  how-to-dispute-utility-bill | 14-estimated-utility-bill-explained :: "utility bill review"
+  how-to-dispute-utility-bill | complete-guide-understanding-utility-bill :: "utility bill review"
+  how-to-lower-electric-bill-without-solar | how-to-lower-electric-bill-complete-guide :: ["lower electric bill"
+  how-to-lower-electric-bill-without-solar | 05-how-to-lower-utility-bills :: "home energy assessment"
+  how-to-lower-electric-bill-without-solar | gadgets-that-lower-utility-bills :: "home energy assessment"
+  how-to-read-a-water-meter | gas-delivery-charge-vs-supply-charge :: "ccf"]
+  how-to-read-electric-meter | how-do-smart-meters-work :: ["high electric bill"
+  how-to-read-electric-meter | average-utility-bills-by-state-2026 :: "kwh usage"
+  how-to-read-electric-meter | electric-bill-breakdown-understanding-line-items :: "kwh usage"
+  how-to-read-electric-meter | gas-vs-electric-heating-cost-comparison :: "kwh usage"
+  how-to-read-electric-meter | how-do-smart-meters-work :: "kwh usage"
+  mcf-vs-ccf-vs-therms-on-gas-bill | average-utility-bills-by-state-2026 :: ["therms"
+  mcf-vs-ccf-vs-therms-on-gas-bill | gas-delivery-charge-vs-supply-charge :: "ccf"
+  mcf-vs-ccf-vs-therms-on-gas-bill | how-to-read-a-water-meter :: "ccf"
+  mcf-vs-ccf-vs-therms-on-gas-bill | average-utility-bills-by-state-2026 :: "high gas bill"
+  mcf-vs-ccf-vs-therms-on-gas-bill | gas-delivery-charge-vs-supply-charge :: "high gas bill"
+  mcf-vs-ccf-vs-therms-on-gas-bill | average-utility-bills-by-state-2026 :: "utility budget"
+  mcf-vs-ccf-vs-therms-on-gas-bill | how-to-budget-for-utilities-in-your-first-apartment :: "utility budget"
+  mcf-vs-ccf-vs-therms-on-gas-bill | how-utility-rates-fees-usage-work-together :: "utility budget"
+  sewer-averaging-water-bill-explained | how-sewer-charges-work-on-your-water-bill :: ["sewer charge water bill"
+  sewer-averaging-water-bill-explained | how-to-read-a-water-meter :: "water leak detection"
+  sewer-averaging-water-bill-explained | gas-delivery-charge-vs-supply-charge :: "ccf"
+  sewer-averaging-water-bill-explained | how-to-read-a-water-meter :: "ccf"
+  sewer-averaging-water-bill-explained | mcf-vs-ccf-vs-therms-on-gas-bill :: "ccf"
+  single-stage-vs-two-stage-vs-variable-speed-hvac | ductless-mini-split-vs-central-air :: "hvac sizing"]
+  supply-vs-delivery-charges-electricity | average-utility-bills-by-state-2026 :: "kwh usage"
+  supply-vs-delivery-charges-electricity | electric-bill-breakdown-understanding-line-items :: "kwh usage"
+  supply-vs-delivery-charges-electricity | gas-vs-electric-heating-cost-comparison :: "kwh usage"
+  supply-vs-delivery-charges-electricity | how-do-smart-meters-work :: "kwh usage"
+  supply-vs-delivery-charges-electricity | how-to-read-electric-meter :: "kwh usage"
+  supply-vs-delivery-charges-electricity | gas-delivery-charge-vs-supply-charge :: "supply charge"
+  supply-vs-delivery-charges-electricity | electric-bill-breakdown-understanding-line-items :: "high electric bill"
+  supply-vs-delivery-charges-electricity | how-do-smart-meters-work :: "high electric bill"
+  supply-vs-delivery-charges-electricity | how-to-read-electric-meter :: "high electric bill"
+  tiered-water-rates-explained | average-utility-bills-by-state-2026 :: "utility budget"
+  tiered-water-rates-explained | how-to-budget-for-utilities-in-your-first-apartment :: "utility budget"
+  tiered-water-rates-explained | how-utility-rates-fees-usage-work-together :: "utility budget"
+  tiered-water-rates-explained | mcf-vs-ccf-vs-therms-on-gas-bill :: "utility budget"
+  tiered-water-rates-explained | tiered-electricity-rates-explained :: "tiered electricity rates"
+  tiered-water-rates-explained | 06-water-bill-too-high :: "high water bill"
+  tiered-water-rates-explained | how-to-read-a-water-meter :: "high water bill"
+  tiered-water-rates-explained | sewer-averaging-water-bill-explained :: "high water bill"
+  tiered-water-rates-explained | mcf-vs-ccf-vs-therms-on-gas-bill :: "lower utility bill"]
+  water-meter-leak-indicator-explained | how-to-read-a-water-meter :: "water meter reading"
+  water-meter-leak-indicator-explained | sewer-averaging-water-bill-explained :: "high water bill"]
+  water-meter-running-when-no-water-used | how-to-read-a-water-meter :: ["high water bill"
+  water-meter-running-when-no-water-used | how-to-read-a-water-meter :: "water leak detection"
+  water-meter-running-when-no-water-used | sewer-averaging-water-bill-explained :: "water leak detection"
+  water-meter-running-when-no-water-used | water-meter-leak-indicator-explained :: "water leak detection"
+  water-meter-running-when-no-water-used | how-to-read-a-water-meter :: "gallons of water"
+  water-meter-running-when-no-water-used | tiered-water-rates-explained :: "gallons of water"
+  water-meter-running-when-no-water-used | how-to-read-a-water-meter :: "water meter reading"
+  water-meter-running-when-no-water-used | water-meter-leak-indicator-explained :: "water meter reading"
+  water-service-charge-explained | 06-water-bill-too-high :: "high water bill"
+  water-service-charge-explained | how-to-read-a-water-meter :: "high water bill"
+  water-service-charge-explained | sewer-averaging-water-bill-explained :: "high water bill"
+  water-service-charge-explained | tiered-water-rates-explained :: "high water bill"
+  water-service-charge-explained | water-meter-leak-indicator-explained :: "high water bill"
+  water-service-charge-explained | water-meter-running-when-no-water-used :: "high water bill"
+  water-service-charge-explained | how-to-read-a-water-meter :: "water leak detection"
+  water-service-charge-explained | sewer-averaging-water-bill-explained :: "water leak detection"
+  water-service-charge-explained | water-meter-leak-indicator-explained :: "water leak detection"
+  water-service-charge-explained | water-meter-running-when-no-water-used :: "water leak detection"
+  water-service-charge-explained | how-to-read-a-water-meter :: "gallons of water"
+  water-service-charge-explained | tiered-water-rates-explained :: "gallons of water"
+  water-service-charge-explained | water-meter-running-when-no-water-used :: "gallons of water"
+  water-service-charge-explained | electric-bill-breakdown-understanding-line-items :: "utility surcharge"]
+  what-is-a-kilowatt-hour | electric-bill-breakdown-understanding-line-items :: ["kwh usage"
+  what-is-a-kilowatt-hour | electric-bill-breakdown-understanding-line-items :: "high electric bill"
+  what-is-a-kilowatt-hour | how-do-smart-meters-work :: "high electric bill"
+  what-is-a-kilowatt-hour | how-to-read-electric-meter :: "high electric bill"
+  what-is-a-kilowatt-hour | supply-vs-delivery-charges-electricity :: "high electric bill"
+  what-is-a-kilowatt-hour | ac-running-but-not-cooling :: "ac not cooling"
+  what-is-a-kilowatt-hour | afue-vs-seer-vs-hspf-vs-cop :: "ac not cooling"
+  what-is-a-kilowatt-hour | heat-pump-running-all-day-in-winter :: "ac not cooling"
+  what-is-ccf-on-a-water-bill | water-service-charge-explained :: ["ccf"
+  what-is-ccf-on-a-water-bill | how-to-read-a-water-meter :: "gallons of water"
+  what-is-ccf-on-a-water-bill | tiered-water-rates-explained :: "gallons of water"
+  what-is-ccf-on-a-water-bill | water-meter-running-when-no-water-used :: "gallons of water"
+  what-is-ccf-on-a-water-bill | water-service-charge-explained :: "gallons of water"
+  what-is-ccf-on-a-water-bill | 06-water-bill-too-high :: "high water bill"
+  what-is-ccf-on-a-water-bill | how-to-read-a-water-meter :: "high water bill"
+  what-is-ccf-on-a-water-bill | sewer-averaging-water-bill-explained :: "high water bill"
+  what-is-ccf-on-a-water-bill | tiered-water-rates-explained :: "high water bill"
+  what-is-ccf-on-a-water-bill | water-meter-leak-indicator-explained :: "high water bill"
+  what-is-ccf-on-a-water-bill | water-meter-running-when-no-water-used :: "high water bill"
+  what-is-ccf-on-a-water-bill | water-service-charge-explained :: "high water bill"
+  what-is-ccf-on-a-water-bill | how-to-read-a-water-meter :: "water leak detection"
+  what-is-ccf-on-a-water-bill | sewer-averaging-water-bill-explained :: "water leak detection"
+  what-is-ccf-on-a-water-bill | water-meter-leak-indicator-explained :: "water leak detection"
+  what-is-ccf-on-a-water-bill | water-meter-running-when-no-water-used :: "water leak detection"
+  what-is-ccf-on-a-water-bill | water-service-charge-explained :: "water leak detection"
+  why-did-my-utility-bill-go-up-this-month | 14-estimated-utility-bill-explained :: ["estimated utility bill"
+  why-did-my-utility-bill-go-up-this-month | electric-bill-breakdown-understanding-line-items :: "utility surcharge"
+  why-did-my-utility-bill-go-up-this-month | water-service-charge-explained :: "utility surcharge"
+  why-did-my-utility-bill-go-up-this-month | average-utility-bills-by-state-2026 :: "utility budget"]
+  why-did-my-utility-bill-go-up-this-month | how-utility-rates-fees-usage-work-together :: "utility budget"]
+  why-did-my-water-bill-suddenly-increase | water-meter-leak-indicator-explained :: ["water leak detection"
+  why-did-my-water-bill-suddenly-increase | how-to-read-a-water-meter :: "gallons of water"
+  why-did-my-water-bill-suddenly-increase | tiered-water-rates-explained :: "gallons of water"
+  why-did-my-water-bill-suddenly-increase | water-meter-running-when-no-water-used :: "gallons of water"
+  why-did-my-water-bill-suddenly-increase | water-service-charge-explained :: "gallons of water"
+  why-did-my-water-bill-suddenly-increase | what-is-ccf-on-a-water-bill :: "gallons of water"
+  why-did-my-water-bill-suddenly-increase | sewer-averaging-water-bill-explained :: "high water bill"]
+  why-did-my-water-bill-suddenly-increase | water-meter-leak-indicator-explained :: "high water bill"]
+  why-is-my-water-bill-higher-in-summer | water-meter-leak-indicator-explained :: ["water leak detection"
+  why-is-my-water-bill-higher-in-summer | why-did-my-water-bill-suddenly-increase :: ["water leak detection"
+  why-is-my-water-bill-higher-in-summer | 06-water-bill-too-high :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | how-to-read-a-water-meter :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | sewer-averaging-water-bill-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | tiered-water-rates-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | water-meter-leak-indicator-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | water-meter-running-when-no-water-used :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | water-service-charge-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | what-is-ccf-on-a-water-bill :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | why-did-my-water-bill-suddenly-increase :: "high water bill"
+  why-is-my-water-bill-higher-in-summer | gas-delivery-charge-vs-supply-charge :: "ccf"
+  why-is-my-water-bill-higher-in-summer | how-to-read-a-water-meter :: "ccf"
+  why-is-my-water-bill-higher-in-summer | mcf-vs-ccf-vs-therms-on-gas-bill :: "ccf"
+  why-is-my-water-bill-higher-in-summer | sewer-averaging-water-bill-explained :: "ccf"
+  why-is-my-water-bill-higher-in-summer | water-service-charge-explained :: "ccf"
+  why-is-my-water-bill-higher-in-summer | what-is-ccf-on-a-water-bill :: "ccf"
+  why-is-my-water-bill-higher-in-summer | average-utility-bills-by-state-2026 :: "lower utility bill"
+  why-is-my-water-bill-higher-in-summer | mcf-vs-ccf-vs-therms-on-gas-bill :: "lower utility bill"
+  why-is-my-water-bill-higher-in-summer | tiered-water-rates-explained :: "lower utility bill"
+  why-is-my-water-bill-higher-in-winter | water-meter-leak-indicator-explained :: ["water leak detection"
+  why-is-my-water-bill-higher-in-winter | why-did-my-water-bill-suddenly-increase :: ["water leak detection"
+  why-is-my-water-bill-higher-in-winter | why-is-my-water-bill-higher-in-summer :: ["water leak detection"
+  why-is-my-water-bill-higher-in-winter | 06-water-bill-too-high :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | how-to-read-a-water-meter :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | sewer-averaging-water-bill-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | tiered-water-rates-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | water-meter-leak-indicator-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | water-meter-running-when-no-water-used :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | water-service-charge-explained :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | what-is-ccf-on-a-water-bill :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | why-did-my-water-bill-suddenly-increase :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | why-is-my-water-bill-higher-in-summer :: "high water bill"
+  why-is-my-water-bill-higher-in-winter | 14-estimated-utility-bill-explained :: "estimated utility bill"
+  why-is-my-water-bill-higher-in-winter | how-do-smart-meters-work :: "estimated utility bill"
+  why-is-my-water-bill-higher-in-winter | why-did-my-utility-bill-go-up-this-month :: "estimated utility bill"
+  why-is-my-water-bill-higher-in-winter | sewer-averaging-water-bill-explained :: "sewer averaging"
+  why-is-my-water-bill-higher-in-winter | gas-delivery-charge-vs-supply-charge :: "ccf"
+  why-is-my-water-bill-higher-in-winter | how-to-read-a-water-meter :: "ccf"
+  why-is-my-water-bill-higher-in-winter | mcf-vs-ccf-vs-therms-on-gas-bill :: "ccf"
+  why-is-my-water-bill-higher-in-winter | sewer-averaging-water-bill-explained :: "ccf"
+  why-is-my-water-bill-higher-in-winter | water-service-charge-explained :: "ccf"
+  why-is-my-water-bill-higher-in-winter | what-is-ccf-on-a-water-bill :: "ccf"
+  why-is-my-water-bill-higher-in-winter | why-is-my-water-bill-higher-in-summer :: "ccf"
+
+=== IDENTICAL / NEAR IDENTICAL TITLES ===

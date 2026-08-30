@@ -1,0 +1,30 @@
+{
+ "role": "verifier",
+ "mission": "WAVE-2 CROSS-FAMILY VERIFICATION. A GLM (lieutenant) seat audited 4 money pages and handed off 6 open verifications. Re-derive each INDEPENDENTLY via web_fetch (do not trust its conclusions): (a) Philadelphia Water sewer rate: page claims '$10.22/CCF first 15 CCF (tier 1)' \u2014 find the live Philadelphia Water Department rate schedule and confirm/refute; (b) SFPUC sewer: claims '$6.48/CCF, first 10.4 CCF (all-electric) / 14.4 CCF (gas-heated)' \u2014 confirm/refute on sfpuc.org; (c) Seattle Public Utilities sewer: page cites https://www.seattle.gov/utilities/your-services/rates-and-charges/sewer-rates which 404s \u2014 find the LIVE SPU sewer rate page and check '$8.44 per CCF in 2026' and 'about $59.08/month'; (d) DOE restructuring: are https://www.energy.gov/energysaver/duct-sealing and /energysaver/heat-and-cool permanently retired (find their live replacements, e.g. ENERGY STAR duct-sealing or energy.gov new IA) or temporarily down; (e) EIA RECS standby power: does ANY EIA RECS publication state a standby-power share of household energy (the page claims '4-8% (EIA RECS)' \u2014 lieutenant says RECS publishes no such share and Energy Explained puts ALL other end-uses at 23%); (f) EIA Electric Power Monthly Table 5.4.a: what was the actual FY2024 US residential average price (page claims '$142 was the FY2024 average' bill and '$159/month' current).",
+ "parent_objective": "SQ-051 wave 2: uncorrelated verification of wave-1 critical claims",
+ "context": "Site: utilityexplained.com (utility-bill education; AdSense blocked on 'low value content' \u2014 these verifications gate the resubmission). Source files: content/blog/how-to-lower-electric-bill-complete-guide.md (flagship), how-sewer-charges-work-on-your-water-bill.md, 30-sudden-spike-in-electricity-bill-no-usage.md. All fetches dated 2026-08-29.",
+ "known_facts": [
+  "Lieutenant fetched (2026-08-29): energy.gov/save/home-upgrades VERIFIED live w/ verbatim thermostat quote; EIA end-use page 18.34\u00a2/kWh June 2026 VERIFIED; seattle.gov sewer-rates URL 404 CONFIRMED",
+  "Its web budget exhausted at 15 fetches \u2014 that is why these six are open",
+  "Commander disk-checks already confirmed the page-side text: flagship lines 121-122/460 carry the RECS 4-8% claim; sewer page cites Seattle $8.44/CCF"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Verification targets are EXTERNAL URLs; repo access is for reading the claims in context"
+ },
+ "constraints": [
+  "CONFIRMED/REFUTED/UNVERIFIED per item with URL + retrieved date 2026-08-29",
+  "Quote the exact source sentence for every CONFIRMED and REFUTED",
+  "Never fabricate a source; UNVERIFIED is an acceptable verdict"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "All 6 items have verdicts with evidence URLs",
+  "Each verdict quotes the source sentence"
+ ]
+}

@@ -1,0 +1,768 @@
+exit_code: 0
+=== CANNIBALIZATION CANDIDATES (shared significant title word >=2 pages, groups) ===
+
+WORD "2026" (3 pages):
+   how-to-lower-electric-bill-complete-guide | how to lower your electric bill: the complete guide (2026)
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   average-utility-bills-by-state-2026 | average utility bills by state (2026): national averages + 17-state sample
+
+WORD "actually" (2 pages):
+   gas-delivery-charge-vs-supply-charge | gas delivery charge vs supply charge: what you're actually paying for
+   mcf-vs-ccf-vs-therms-on-gas-bill | mcf vs ccf vs therms on your gas bill: what the units actually mean
+
+WORD "affect" (2 pages):
+   ev-charging-impact-electric-bill | how ev charging can affect your electric bill
+   net-metering-explained | net metering explained: how solar panels affect your electric bill
+
+WORD "apartment" (2 pages):
+   how-to-budget-for-utilities-in-your-first-apartment | how to budget for utilities in your first apartment
+   09-apartment-utilities-cost | how to budget for apartment utilities
+
+WORD "average" (2 pages):
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   average-utility-bills-by-state-2026 | average utility bills by state (2026): national averages + 17-state sample
+
+WORD "bill" (41 pages):
+   how-to-lower-electric-bill-complete-guide | how to lower your electric bill: the complete guide (2026)
+   06-water-bill-too-high | why is my water bill so high? causes ranked by likelihood
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+   what-is-ccf-on-a-water-bill | what is ccf on a water bill? (cubic feet explained in plain english)
+   ev-charging-impact-electric-bill | how ev charging can affect your electric bill
+   19-utility-bill-surcharges-and-riders-explained | how to review surcharges and riders on a utility bill
+   how-sewer-charges-work-on-your-water-bill | how to understand sewer charges on your water bill
+   03-why-is-my-electric-bill-so-high | why is my electric bill so high? find the real cause
+   why-did-my-water-bill-suddenly-increase | why did my water bill suddenly increase?
+   drought-surcharge-on-water-bill-explained | how to review a drought-related charge on a water bill
+   is-your-toilet-running-leak-test | is your toilet running? a simple leak test (and how it shows up on your water bi
+   average-water-usage-per-person | how to calculate water use per person from your bill
+   complete-guide-understanding-utility-bill | a practical workflow for understanding your utility bill
+   44-how-to-lower-water-bill | how to lower your water bill
+   05-how-to-lower-utility-bills | how to prioritize utility-bill improvements
+   17-what-is-customer-charge-on-utility-bill | how to review a customer charge on a utility bill
+   49-demand-charges-electricity-bill-explained | how to review a demand charge on an electricity bill
+   mcf-vs-ccf-vs-therms-on-gas-bill | mcf vs ccf vs therms on your gas bill: what the units actually mean
+   12-how-to-read-your-gas-bill | how to read your gas bill
+   25-utility-bill-taxes-fees-franchise-charges-explained | how to review taxes, fees, and other charges on a utility bill
+   04-hidden-fees-utility-bill | every charge on your utility bill, explained
+   electric-bill-breakdown-understanding-line-items | electric bill breakdown: every charge explained
+   tiered-electricity-rates-explained | how to review tiered electricity rates on your bill
+   01-how-to-read-your-electric-bill | how to read your electric bill (line by line guide)
+   net-metering-explained | net metering explained: how solar panels affect your electric bill
+   how-to-read-your-utility-bill | how to read your own utility bill
+   22-minimum-bill-utility-bill-explained | how to review a minimum charge on a utility bill
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+   30-sudden-spike-in-electricity-bill-no-usage | sudden spike in electricity bill with no usage change: causes and fixes
+   14-estimated-utility-bill-explained | how to review an estimated utility bill
+   11-understanding-kwh-usage | understanding kwh usage on your electric bill
+   18-fuel-adjustment-charge-on-utility-bill-explained | how to review a fuel adjustment charge on a utility bill
+   20-utility-bill-proration-explained | how to review a partial-period utility bill
+   how-to-lower-electric-bill-without-solar | how to lower your electric bill without solar
+   07-gas-bill-too-high | why is my gas bill so high? 10 common causes and how to fix each one
+   21-past-due-balance-utility-bill-explained | how to review a past-due balance on a utility bill
+   ccf-calculator | ccf calculator: convert your water bill units to gallons and dollars
+   why-did-my-utility-bill-go-up-this-month | why did my utility bill go up this month? (even without using more)
+   how-to-dispute-utility-bill | how to dispute a utility bill
+
+WORD "billing" (2 pages):
+   16-budget-billing-level-pay-explained | how to review a utility budget-billing plan
+   23-utility-billing-cycle-explained | how to read the billing period on a utility statement
+
+WORD "bills" (4 pages):
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   do-programmable-thermostats-cut-heating-bills | do programmable thermostats cut heating bills?
+   average-utility-bills-by-state-2026 | average utility bills by state (2026): national averages + 17-state sample
+
+WORD "budget" (3 pages):
+   how-to-budget-for-utilities-in-your-first-apartment | how to budget for utilities in your first apartment
+   16-budget-billing-level-pay-explained | how to review a utility budget-billing plan
+   09-apartment-utilities-cost | how to budget for apartment utilities
+
+WORD "calculator" (2 pages):
+   what-is-a-kilowatt-hour | what is a kilowatt-hour (kwh)? definition & calculator
+   ccf-calculator | ccf calculator: convert your water bill units to gallons and dollars
+
+WORD "causes" (7 pages):
+   06-water-bill-too-high | why is my water bill so high? causes ranked by likelihood
+   water-meter-running-when-no-water-used | water meter running when no water is being used: causes and fixes
+   ac-running-but-not-cooling | ac running but not cooling? 13 causes and safe fixes
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+   30-sudden-spike-in-electricity-bill-no-usage | sudden spike in electricity bill with no usage change: causes and fixes
+   07-gas-bill-too-high | why is my gas bill so high? 10 common causes and how to fix each one
+
+WORD "charge" (13 pages):
+   sewer-averaging-water-bill-explained | sewer averaging explained: why your sewer charge does not match summer use
+   27-utility-connection-fee-explained | how to review a utility service-start charge
+   drought-surcharge-on-water-bill-explained | how to review a drought-related charge on a water bill
+   17-what-is-customer-charge-on-utility-bill | how to review a customer charge on a utility bill
+   gas-customer-charge-explained | how to review a gas customer charge
+   49-demand-charges-electricity-bill-explained | how to review a demand charge on an electricity bill
+   gas-delivery-charge-vs-supply-charge | gas delivery charge vs supply charge: what you're actually paying for
+   04-hidden-fees-utility-bill | every charge on your utility bill, explained
+   electric-bill-breakdown-understanding-line-items | electric bill breakdown: every charge explained
+   22-minimum-bill-utility-bill-explained | how to review a minimum charge on a utility bill
+   18-fuel-adjustment-charge-on-utility-bill-explained | how to review a fuel adjustment charge on a utility bill
+   28-utility-reconnection-fee-explained | how to verify a utility reconnection charge
+   water-service-charge-explained | water service charge explained: what the fixed fee covers (and why you still pay
+
+WORD "charges" (4 pages):
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   how-sewer-charges-work-on-your-water-bill | how to understand sewer charges on your water bill
+   25-utility-bill-taxes-fees-franchise-charges-explained | how to review taxes, fees, and other charges on a utility bill
+
+WORD "check" (2 pages):
+   duct-leaks-symptoms-hvac-running-all-day | duct leaks: what to check when rooms are uneven
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+
+WORD "common" (3 pages):
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+   07-gas-bill-too-high | why is my gas bill so high? 10 common causes and how to fix each one
+
+WORD "compare" (2 pages):
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   ductless-mini-split-vs-central-air | ductless mini-split vs central air: how to compare systems
+
+WORD "cost" (3 pages):
+   gas-vs-electric-heating-cost-comparison | gas vs. electric heating: cost comparison for real homes
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   45-whole-house-generator-vs-portable-cost | whole house generator vs portable: true cost, safety, and scope
+
+WORD "customer" (2 pages):
+   17-what-is-customer-charge-on-utility-bill | how to review a customer charge on a utility bill
+   gas-customer-charge-explained | how to review a gas customer charge
+
+WORD "delivery" (3 pages):
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   gas-delivery-charge-vs-supply-charge | gas delivery charge vs supply charge: what you're actually paying for
+
+WORD "dial" (2 pages):
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+
+WORD "digital" (2 pages):
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+
+WORD "electric" (12 pages):
+   how-to-lower-electric-bill-complete-guide | how to lower your electric bill: the complete guide (2026)
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   ev-charging-impact-electric-bill | how ev charging can affect your electric bill
+   gas-vs-electric-heating-cost-comparison | gas vs. electric heating: cost comparison for real homes
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   03-why-is-my-electric-bill-so-high | why is my electric bill so high? find the real cause
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+   electric-bill-breakdown-understanding-line-items | electric bill breakdown: every charge explained
+   01-how-to-read-your-electric-bill | how to read your electric bill (line by line guide)
+   net-metering-explained | net metering explained: how solar panels affect your electric bill
+   11-understanding-kwh-usage | understanding kwh usage on your electric bill
+   how-to-lower-electric-bill-without-solar | how to lower your electric bill without solar
+
+WORD "electricity" (5 pages):
+   08-time-of-use-electricity | how to review a time-of-use electricity plan
+   49-demand-charges-electricity-bill-explained | how to review a demand charge on an electricity bill
+   tiered-electricity-rates-explained | how to review tiered electricity rates on your bill
+   30-sudden-spike-in-electricity-bill-no-usage | sudden spike in electricity bill with no usage change: causes and fixes
+   46-what-time-is-electricity-cheapest | what time is electricity cheapest?
+
+WORD "energy" (2 pages):
+   42-best-energy-efficient-space-heater | best energy efficient space heater: the honest answer
+   47-check-energy-leaks-home-diy | diy home energy audit: how to start a do-it-yourself assessment
+
+WORD "english" (3 pages):
+   aux-heat-vs-emergency-heat-meaning | aux heat vs emergency heat: what they mean on your thermostat (plain english)
+   afue-vs-seer-vs-hspf-vs-cop | afue vs seer vs hspf vs cop: hvac efficiency ratings in plain english
+   what-is-ccf-on-a-water-bill | what is ccf on a water bill? (cubic feet explained in plain english)
+
+WORD "every" (2 pages):
+   04-hidden-fees-utility-bill | every charge on your utility bill, explained
+   electric-bill-breakdown-understanding-line-items | electric bill breakdown: every charge explained
+
+WORD "explained" (9 pages):
+   sewer-averaging-water-bill-explained | sewer averaging explained: why your sewer charge does not match summer use
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   what-is-ccf-on-a-water-bill | what is ccf on a water bill? (cubic feet explained in plain english)
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   04-hidden-fees-utility-bill | every charge on your utility bill, explained
+   water-meter-leak-indicator-explained | water meter leak indicator explained: how to tell if water is running when every
+   electric-bill-breakdown-understanding-line-items | electric bill breakdown: every charge explained
+   net-metering-explained | net metering explained: how solar panels affect your electric bill
+   water-service-charge-explained | water service charge explained: what the fixed fee covers (and why you still pay
+
+WORD "fees" (2 pages):
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   25-utility-bill-taxes-fees-franchise-charges-explained | how to review taxes, fees, and other charges on a utility bill
+
+WORD "find" (2 pages):
+   phantom-power-draw-explained | phantom power draw: how to find and reduce standby use
+   03-why-is-my-electric-bill-so-high | why is my electric bill so high? find the real cause
+
+WORD "first" (2 pages):
+   how-to-budget-for-utilities-in-your-first-apartment | how to budget for utilities in your first apartment
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+
+WORD "fixed" (3 pages):
+   which-rate-plan-is-right-for-me | which rate plan is right for me? (fixed vs variable vs time-of-use)
+   10-fixed-vs-variable-utility-rate | fixed vs. variable utility rates: which to pick
+   water-service-charge-explained | water service charge explained: what the fixed fee covers (and why you still pay
+
+WORD "fixes" (3 pages):
+   water-meter-running-when-no-water-used | water meter running when no water is being used: causes and fixes
+   ac-running-but-not-cooling | ac running but not cooling? 13 causes and safe fixes
+   30-sudden-spike-in-electricity-bill-no-usage | sudden spike in electricity bill with no usage change: causes and fixes
+
+WORD "furnace" (2 pages):
+   why-is-my-furnace-blowing-cold-air | why is my furnace blowing cold air?
+   48-heat-pump-vs-gas-furnace-savings | heat pump vs gas furnace: which is cheaper to run?
+
+WORD "guide" (3 pages):
+   how-to-lower-electric-bill-complete-guide | how to lower your electric bill: the complete guide (2026)
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+   01-how-to-read-your-electric-bill | how to read your electric bill (line by line guide)
+
+WORD "heat" (3 pages):
+   aux-heat-vs-emergency-heat-meaning | aux heat vs emergency heat: what they mean on your thermostat (plain english)
+   48-heat-pump-vs-gas-furnace-savings | heat pump vs gas furnace: which is cheaper to run?
+   heat-pump-running-all-day-in-winter | heat pump running all day in winter? what is normal vs a problem
+
+WORD "heating" (2 pages):
+   gas-vs-electric-heating-cost-comparison | gas vs. electric heating: cost comparison for real homes
+   do-programmable-thermostats-cut-heating-bills | do programmable thermostats cut heating bills?
+
+WORD "help" (2 pages):
+   gadgets-that-lower-utility-bills | tools that can help you understand utility use
+   utility-assistance-programs-liheap | utility assistance programs: liheap, payment plans, and hardship help
+
+WORD "high" (3 pages):
+   06-water-bill-too-high | why is my water bill so high? causes ranked by likelihood
+   03-why-is-my-electric-bill-so-high | why is my electric bill so high? find the real cause
+   07-gas-bill-too-high | why is my gas bill so high? 10 common causes and how to fix each one
+
+WORD "higher" (2 pages):
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+
+WORD "hvac" (2 pages):
+   afue-vs-seer-vs-hspf-vs-cop | afue vs seer vs hspf vs cop: hvac efficiency ratings in plain english
+   single-stage-vs-two-stage-vs-variable-speed-hvac | single-stage vs two-stage vs variable-speed hvac: what the terms mean
+
+WORD "know" (2 pages):
+   how-to-read-a-water-meter | how to read a water meter (and know if its accurate)
+   can-utility-shut-off-service | can the utility shut off your service? what to know before the notice arrives
+
+WORD "leak" (2 pages):
+   is-your-toilet-running-leak-test | is your toilet running? a simple leak test (and how it shows up on your water bi
+   water-meter-leak-indicator-explained | water meter leak indicator explained: how to tell if water is running when every
+
+WORD "lower" (3 pages):
+   how-to-lower-electric-bill-complete-guide | how to lower your electric bill: the complete guide (2026)
+   44-how-to-lower-water-bill | how to lower your water bill
+   how-to-lower-electric-bill-without-solar | how to lower your electric bill without solar
+
+WORD "mean" (3 pages):
+   aux-heat-vs-emergency-heat-meaning | aux heat vs emergency heat: what they mean on your thermostat (plain english)
+   single-stage-vs-two-stage-vs-variable-speed-hvac | single-stage vs two-stage vs variable-speed hvac: what the terms mean
+   mcf-vs-ccf-vs-therms-on-gas-bill | mcf vs ccf vs therms on your gas bill: what the units actually mean
+
+WORD "meter" (5 pages):
+   water-meter-running-when-no-water-used | water meter running when no water is being used: causes and fixes
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+   how-to-read-a-water-meter | how to read a water meter (and know if its accurate)
+   water-meter-leak-indicator-explained | water meter leak indicator explained: how to tell if water is running when every
+
+WORD "meters" (2 pages):
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-do-smart-meters-work | how do smart meters work? (and should you trust them?)
+
+WORD "more" (2 pages):
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   why-did-my-utility-bill-go-up-this-month | why did my utility bill go up this month? (even without using more)
+
+WORD "period" (2 pages):
+   20-utility-bill-proration-explained | how to review a partial-period utility bill
+   23-utility-billing-cycle-explained | how to read the billing period on a utility statement
+
+WORD "plain" (3 pages):
+   aux-heat-vs-emergency-heat-meaning | aux heat vs emergency heat: what they mean on your thermostat (plain english)
+   afue-vs-seer-vs-hspf-vs-cop | afue vs seer vs hspf vs cop: hvac efficiency ratings in plain english
+   what-is-ccf-on-a-water-bill | what is ccf on a water bill? (cubic feet explained in plain english)
+
+WORD "plan" (3 pages):
+   08-time-of-use-electricity | how to review a time-of-use electricity plan
+   which-rate-plan-is-right-for-me | which rate plan is right for me? (fixed vs variable vs time-of-use)
+   16-budget-billing-level-pay-explained | how to review a utility budget-billing plan
+
+WORD "power" (2 pages):
+   phantom-power-draw-explained | phantom power draw: how to find and reduce standby use
+   50-best-smart-plugs-standby-power | how to measure and reduce standby power
+
+WORD "pump" (2 pages):
+   48-heat-pump-vs-gas-furnace-savings | heat pump vs gas furnace: which is cheaper to run?
+   heat-pump-running-all-day-in-winter | heat pump running all day in winter? what is normal vs a problem
+
+WORD "rates" (4 pages):
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   tiered-electricity-rates-explained | how to review tiered electricity rates on your bill
+   10-fixed-vs-variable-utility-rate | fixed vs. variable utility rates: which to pick
+
+WORD "read" (7 pages):
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-to-read-electric-meter | how to read an electric meter (dial & digital guide)
+   12-how-to-read-your-gas-bill | how to read your gas bill
+   how-to-read-a-water-meter | how to read a water meter (and know if its accurate)
+   01-how-to-read-your-electric-bill | how to read your electric bill (line by line guide)
+   how-to-read-your-utility-bill | how to read your own utility bill
+   23-utility-billing-cycle-explained | how to read the billing period on a utility statement
+
+WORD "real" (2 pages):
+   gas-vs-electric-heating-cost-comparison | gas vs. electric heating: cost comparison for real homes
+   03-why-is-my-electric-bill-so-high | why is my electric bill so high? find the real cause
+
+WORD "reduce" (2 pages):
+   phantom-power-draw-explained | phantom power draw: how to find and reduce standby use
+   50-best-smart-plugs-standby-power | how to measure and reduce standby power
+
+WORD "review" (16 pages):
+   27-utility-connection-fee-explained | how to review a utility service-start charge
+   08-time-of-use-electricity | how to review a time-of-use electricity plan
+   26-utility-deposit-explained | how to review a utility deposit requirement
+   19-utility-bill-surcharges-and-riders-explained | how to review surcharges and riders on a utility bill
+   16-budget-billing-level-pay-explained | how to review a utility budget-billing plan
+   drought-surcharge-on-water-bill-explained | how to review a drought-related charge on a water bill
+   17-what-is-customer-charge-on-utility-bill | how to review a customer charge on a utility bill
+   gas-customer-charge-explained | how to review a gas customer charge
+   49-demand-charges-electricity-bill-explained | how to review a demand charge on an electricity bill
+   25-utility-bill-taxes-fees-franchise-charges-explained | how to review taxes, fees, and other charges on a utility bill
+   tiered-electricity-rates-explained | how to review tiered electricity rates on your bill
+   22-minimum-bill-utility-bill-explained | how to review a minimum charge on a utility bill
+   14-estimated-utility-bill-explained | how to review an estimated utility bill
+   18-fuel-adjustment-charge-on-utility-bill-explained | how to review a fuel adjustment charge on a utility bill
+   20-utility-bill-proration-explained | how to review a partial-period utility bill
+   21-past-due-balance-utility-bill-explained | how to review a past-due balance on a utility bill
+
+WORD "running" (5 pages):
+   water-meter-running-when-no-water-used | water meter running when no water is being used: causes and fixes
+   ac-running-but-not-cooling | ac running but not cooling? 13 causes and safe fixes
+   heat-pump-running-all-day-in-winter | heat pump running all day in winter? what is normal vs a problem
+   is-your-toilet-running-leak-test | is your toilet running? a simple leak test (and how it shows up on your water bi
+   water-meter-leak-indicator-explained | water meter leak indicator explained: how to tell if water is running when every
+
+WORD "service" (3 pages):
+   27-utility-connection-fee-explained | how to review a utility service-start charge
+   can-utility-shut-off-service | can the utility shut off your service? what to know before the notice arrives
+   water-service-charge-explained | water service charge explained: what the fixed fee covers (and why you still pay
+
+WORD "sewer" (2 pages):
+   sewer-averaging-water-bill-explained | sewer averaging explained: why your sewer charge does not match summer use
+   how-sewer-charges-work-on-your-water-bill | how to understand sewer charges on your water bill
+
+WORD "smart" (2 pages):
+   how-to-read-gas-meter | how to read your gas meter: dial, digital, and smart meters, step by step
+   how-do-smart-meters-work | how do smart meters work? (and should you trust them?)
+
+WORD "solar" (2 pages):
+   net-metering-explained | net metering explained: how solar panels affect your electric bill
+   how-to-lower-electric-bill-without-solar | how to lower your electric bill without solar
+
+WORD "standby" (2 pages):
+   phantom-power-draw-explained | phantom power draw: how to find and reduce standby use
+   50-best-smart-plugs-standby-power | how to measure and reduce standby power
+
+WORD "start" (2 pages):
+   27-utility-connection-fee-explained | how to review a utility service-start charge
+   47-check-energy-leaks-home-diy | diy home energy audit: how to start a do-it-yourself assessment
+
+WORD "state" (2 pages):
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   average-utility-bills-by-state-2026 | average utility bills by state (2026): national averages + 17-state sample
+
+WORD "summer" (2 pages):
+   sewer-averaging-water-bill-explained | sewer averaging explained: why your sewer charge does not match summer use
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+
+WORD "supply" (3 pages):
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   supply-vs-delivery-charges-electricity | supply vs delivery charges explained (generation vs distribution on electric bil
+   gas-delivery-charge-vs-supply-charge | gas delivery charge vs supply charge: what you're actually paying for
+
+WORD "tiered" (2 pages):
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   tiered-electricity-rates-explained | how to review tiered electricity rates on your bill
+
+WORD "time" (3 pages):
+   08-time-of-use-electricity | how to review a time-of-use electricity plan
+   which-rate-plan-is-right-for-me | which rate plan is right for me? (fixed vs variable vs time-of-use)
+   46-what-time-is-electricity-cheapest | what time is electricity cheapest?
+
+WORD "understand" (2 pages):
+   how-sewer-charges-work-on-your-water-bill | how to understand sewer charges on your water bill
+   gadgets-that-lower-utility-bills | tools that can help you understand utility use
+
+WORD "understanding" (2 pages):
+   complete-guide-understanding-utility-bill | a practical workflow for understanding your utility bill
+   11-understanding-kwh-usage | understanding kwh usage on your electric bill
+
+WORD "units" (2 pages):
+   mcf-vs-ccf-vs-therms-on-gas-bill | mcf vs ccf vs therms on your gas bill: what the units actually mean
+   ccf-calculator | ccf calculator: convert your water bill units to gallons and dollars
+
+WORD "usage" (3 pages):
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   30-sudden-spike-in-electricity-bill-no-usage | sudden spike in electricity bill with no usage change: causes and fixes
+   11-understanding-kwh-usage | understanding kwh usage on your electric bill
+
+WORD "using" (2 pages):
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   why-did-my-utility-bill-go-up-this-month | why did my utility bill go up this month? (even without using more)
+
+WORD "utilities" (3 pages):
+   how-to-budget-for-utilities-in-your-first-apartment | how to budget for utilities in your first apartment
+   09-apartment-utilities-cost | how to budget for apartment utilities
+   moving-utilities-checklist | the moving utilities checklist: when to turn off, turn on, and transfer
+
+WORD "utility" (27 pages):
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   27-utility-connection-fee-explained | how to review a utility service-start charge
+   26-utility-deposit-explained | how to review a utility deposit requirement
+   24-delivery-charge-vs-supply-charge-utility-bill | how to compare delivery and supply charges on a utility bill
+   19-utility-bill-surcharges-and-riders-explained | how to review surcharges and riders on a utility bill
+   16-budget-billing-level-pay-explained | how to review a utility budget-billing plan
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   complete-guide-understanding-utility-bill | a practical workflow for understanding your utility bill
+   05-how-to-lower-utility-bills | how to prioritize utility-bill improvements
+   17-what-is-customer-charge-on-utility-bill | how to review a customer charge on a utility bill
+   25-utility-bill-taxes-fees-franchise-charges-explained | how to review taxes, fees, and other charges on a utility bill
+   04-hidden-fees-utility-bill | every charge on your utility bill, explained
+   average-utility-bills-by-state-2026 | average utility bills by state (2026): national averages + 17-state sample
+   how-to-read-your-utility-bill | how to read your own utility bill
+   22-minimum-bill-utility-bill-explained | how to review a minimum charge on a utility bill
+   14-estimated-utility-bill-explained | how to review an estimated utility bill
+   gadgets-that-lower-utility-bills | tools that can help you understand utility use
+   18-fuel-adjustment-charge-on-utility-bill-explained | how to review a fuel adjustment charge on a utility bill
+   20-utility-bill-proration-explained | how to review a partial-period utility bill
+   10-fixed-vs-variable-utility-rate | fixed vs. variable utility rates: which to pick
+   utility-assistance-programs-liheap | utility assistance programs: liheap, payment plans, and hardship help
+   28-utility-reconnection-fee-explained | how to verify a utility reconnection charge
+   23-utility-billing-cycle-explained | how to read the billing period on a utility statement
+   can-utility-shut-off-service | can the utility shut off your service? what to know before the notice arrives
+   21-past-due-balance-utility-bill-explained | how to review a past-due balance on a utility bill
+   why-did-my-utility-bill-go-up-this-month | why did my utility bill go up this month? (even without using more)
+   how-to-dispute-utility-bill | how to dispute a utility bill
+
+WORD "variable" (3 pages):
+   which-rate-plan-is-right-for-me | which rate plan is right for me? (fixed vs variable vs time-of-use)
+   single-stage-vs-two-stage-vs-variable-speed-hvac | single-stage vs two-stage vs variable-speed hvac: what the terms mean
+   10-fixed-vs-variable-utility-rate | fixed vs. variable utility rates: which to pick
+
+WORD "water" (17 pages):
+   06-water-bill-too-high | why is my water bill so high? causes ranked by likelihood
+   water-meter-running-when-no-water-used | water meter running when no water is being used: causes and fixes
+   why-is-my-water-bill-higher-in-summer | why is my water bill higher in summer? (7 common causes + what to check first)
+   what-is-ccf-on-a-water-bill | what is ccf on a water bill? (cubic feet explained in plain english)
+   2026-utility-cost-index-by-state | 2026 utility cost index: average electric, gas & water bills by state
+   how-sewer-charges-work-on-your-water-bill | how to understand sewer charges on your water bill
+   why-did-my-water-bill-suddenly-increase | why did my water bill suddenly increase?
+   drought-surcharge-on-water-bill-explained | how to review a drought-related charge on a water bill
+   is-your-toilet-running-leak-test | is your toilet running? a simple leak test (and how it shows up on your water bi
+   tiered-water-rates-explained | tiered water rates explained: why using more costs dramatically more
+   average-water-usage-per-person | how to calculate water use per person from your bill
+   44-how-to-lower-water-bill | how to lower your water bill
+   how-to-read-a-water-meter | how to read a water meter (and know if its accurate)
+   water-meter-leak-indicator-explained | water meter leak indicator explained: how to tell if water is running when every
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+   water-service-charge-explained | water service charge explained: what the fixed fee covers (and why you still pay
+   ccf-calculator | ccf calculator: convert your water bill units to gallons and dollars
+
+WORD "which" (3 pages):
+   which-rate-plan-is-right-for-me | which rate plan is right for me? (fixed vs variable vs time-of-use)
+   48-heat-pump-vs-gas-furnace-savings | heat pump vs gas furnace: which is cheaper to run?
+   10-fixed-vs-variable-utility-rate | fixed vs. variable utility rates: which to pick
+
+WORD "winter" (2 pages):
+   heat-pump-running-all-day-in-winter | heat pump running all day in winter? what is normal vs a problem
+   why-is-my-water-bill-higher-in-winter | why is my water bill higher in winter? 8 common causes
+
+WORD "without" (2 pages):
+   how-to-lower-electric-bill-without-solar | how to lower your electric bill without solar
+   why-did-my-utility-bill-go-up-this-month | why did my utility bill go up this month? (even without using more)
+
+WORD "work" (2 pages):
+   how-utility-rates-fees-usage-work-together | how utility rates, fees, and usage work together on your bill
+   how-do-smart-meters-work | how do smart meters work? (and should you trust them?)
+
+=== PAIRS WITH 3+ SHARED TITLE WORDS ===
+
+01-how-to-read-your-electric-bill <-> how-to-lower-electric-bill-complete-guide | shared: {'bill', 'guide', 'electric'}
+   A: how to read your electric bill (line by line guide)
+   B: how to lower your electric bill: the complete guide (2026)
+
+01-how-to-read-your-electric-bill <-> how-to-read-electric-meter | shared: {'read', 'guide', 'electric'}
+   A: how to read your electric bill (line by line guide)
+   B: how to read an electric meter (dial & digital guide)
+
+04-hidden-fees-utility-bill <-> 17-what-is-customer-charge-on-utility-bill | shared: {'bill', 'charge', 'utility'}
+   A: every charge on your utility bill, explained
+   B: how to review a customer charge on a utility bill
+
+04-hidden-fees-utility-bill <-> 18-fuel-adjustment-charge-on-utility-bill-explained | shared: {'bill', 'charge', 'utility'}
+   A: every charge on your utility bill, explained
+   B: how to review a fuel adjustment charge on a utility bill
+
+04-hidden-fees-utility-bill <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'charge', 'utility'}
+   A: every charge on your utility bill, explained
+   B: how to review a minimum charge on a utility bill
+
+04-hidden-fees-utility-bill <-> electric-bill-breakdown-understanding-line-items | shared: {'every', 'bill', 'charge', 'explained'}
+   A: every charge on your utility bill, explained
+   B: electric bill breakdown: every charge explained
+
+06-water-bill-too-high <-> 07-gas-bill-too-high | shared: {'high', 'causes', 'bill'}
+   A: why is my water bill so high? causes ranked by likelihood
+   B: why is my gas bill so high? 10 common causes and how to fix each one
+
+06-water-bill-too-high <-> why-is-my-water-bill-higher-in-summer | shared: {'bill', 'causes', 'water'}
+   A: why is my water bill so high? causes ranked by likelihood
+   B: why is my water bill higher in summer? (7 common causes + what to check first)
+
+06-water-bill-too-high <-> why-is-my-water-bill-higher-in-winter | shared: {'bill', 'causes', 'water'}
+   A: why is my water bill so high? causes ranked by likelihood
+   B: why is my water bill higher in winter? 8 common causes
+
+07-gas-bill-too-high <-> why-is-my-water-bill-higher-in-summer | shared: {'common', 'causes', 'bill'}
+   A: why is my gas bill so high? 10 common causes and how to fix each one
+   B: why is my water bill higher in summer? (7 common causes + what to check first)
+
+07-gas-bill-too-high <-> why-is-my-water-bill-higher-in-winter | shared: {'common', 'causes', 'bill'}
+   A: why is my gas bill so high? 10 common causes and how to fix each one
+   B: why is my water bill higher in winter? 8 common causes
+
+09-apartment-utilities-cost <-> how-to-budget-for-utilities-in-your-first-apartment | shared: {'apartment', 'budget', 'utilities'}
+   A: how to budget for apartment utilities
+   B: how to budget for utilities in your first apartment
+
+10-fixed-vs-variable-utility-rate <-> which-rate-plan-is-right-for-me | shared: {'variable', 'which', 'fixed'}
+   A: fixed vs. variable utility rates: which to pick
+   B: which rate plan is right for me? (fixed vs variable vs time-of-use)
+
+14-estimated-utility-bill-explained <-> 17-what-is-customer-charge-on-utility-bill | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review a customer charge on a utility bill
+
+14-estimated-utility-bill-explained <-> 18-fuel-adjustment-charge-on-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review a fuel adjustment charge on a utility bill
+
+14-estimated-utility-bill-explained <-> 19-utility-bill-surcharges-and-riders-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review surcharges and riders on a utility bill
+
+14-estimated-utility-bill-explained <-> 20-utility-bill-proration-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review a partial-period utility bill
+
+14-estimated-utility-bill-explained <-> 21-past-due-balance-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review a past-due balance on a utility bill
+
+14-estimated-utility-bill-explained <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review a minimum charge on a utility bill
+
+14-estimated-utility-bill-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review an estimated utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 18-fuel-adjustment-charge-on-utility-bill-explained | shared: {'bill', 'charge', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a fuel adjustment charge on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 19-utility-bill-surcharges-and-riders-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review surcharges and riders on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 20-utility-bill-proration-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a partial-period utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 21-past-due-balance-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a past-due balance on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'charge', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a minimum charge on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+17-what-is-customer-charge-on-utility-bill <-> 27-utility-connection-fee-explained | shared: {'charge', 'review', 'utility'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a utility service-start charge
+
+17-what-is-customer-charge-on-utility-bill <-> 49-demand-charges-electricity-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a demand charge on an electricity bill
+
+17-what-is-customer-charge-on-utility-bill <-> drought-surcharge-on-water-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a drought-related charge on a water bill
+
+17-what-is-customer-charge-on-utility-bill <-> gas-customer-charge-explained | shared: {'customer', 'charge', 'review'}
+   A: how to review a customer charge on a utility bill
+   B: how to review a gas customer charge
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 19-utility-bill-surcharges-and-riders-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review surcharges and riders on a utility bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 20-utility-bill-proration-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a partial-period utility bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 21-past-due-balance-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a past-due balance on a utility bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'charge', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a minimum charge on a utility bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 27-utility-connection-fee-explained | shared: {'charge', 'review', 'utility'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a utility service-start charge
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> 49-demand-charges-electricity-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a demand charge on an electricity bill
+
+18-fuel-adjustment-charge-on-utility-bill-explained <-> drought-surcharge-on-water-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a fuel adjustment charge on a utility bill
+   B: how to review a drought-related charge on a water bill
+
+19-utility-bill-surcharges-and-riders-explained <-> 20-utility-bill-proration-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review surcharges and riders on a utility bill
+   B: how to review a partial-period utility bill
+
+19-utility-bill-surcharges-and-riders-explained <-> 21-past-due-balance-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review surcharges and riders on a utility bill
+   B: how to review a past-due balance on a utility bill
+
+19-utility-bill-surcharges-and-riders-explained <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review surcharges and riders on a utility bill
+   B: how to review a minimum charge on a utility bill
+
+19-utility-bill-surcharges-and-riders-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review surcharges and riders on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+20-utility-bill-proration-explained <-> 21-past-due-balance-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a partial-period utility bill
+   B: how to review a past-due balance on a utility bill
+
+20-utility-bill-proration-explained <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a partial-period utility bill
+   B: how to review a minimum charge on a utility bill
+
+20-utility-bill-proration-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a partial-period utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+2026-utility-cost-index-by-state <-> average-utility-bills-by-state-2026 | shared: {'bills', '2026', 'state', 'utility', 'average'}
+   A: 2026 utility cost index: average electric, gas & water bills by state
+   B: average utility bills by state (2026): national averages + 17-state sample
+
+21-past-due-balance-utility-bill-explained <-> 22-minimum-bill-utility-bill-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a past-due balance on a utility bill
+   B: how to review a minimum charge on a utility bill
+
+21-past-due-balance-utility-bill-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a past-due balance on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+22-minimum-bill-utility-bill-explained <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'review', 'utility'}
+   A: how to review a minimum charge on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+22-minimum-bill-utility-bill-explained <-> 27-utility-connection-fee-explained | shared: {'charge', 'review', 'utility'}
+   A: how to review a minimum charge on a utility bill
+   B: how to review a utility service-start charge
+
+22-minimum-bill-utility-bill-explained <-> 49-demand-charges-electricity-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a minimum charge on a utility bill
+   B: how to review a demand charge on an electricity bill
+
+22-minimum-bill-utility-bill-explained <-> drought-surcharge-on-water-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a minimum charge on a utility bill
+   B: how to review a drought-related charge on a water bill
+
+24-delivery-charge-vs-supply-charge-utility-bill <-> 25-utility-bill-taxes-fees-franchise-charges-explained | shared: {'bill', 'charges', 'utility'}
+   A: how to compare delivery and supply charges on a utility bill
+   B: how to review taxes, fees, and other charges on a utility bill
+
+24-delivery-charge-vs-supply-charge-utility-bill <-> supply-vs-delivery-charges-electricity | shared: {'delivery', 'charges', 'supply'}
+   A: how to compare delivery and supply charges on a utility bill
+   B: supply vs delivery charges explained (generation vs distribution on electric bills)
+
+25-utility-bill-taxes-fees-franchise-charges-explained <-> how-utility-rates-fees-usage-work-together | shared: {'fees', 'bill', 'utility'}
+   A: how to review taxes, fees, and other charges on a utility bill
+   B: how utility rates, fees, and usage work together on your bill
+
+49-demand-charges-electricity-bill-explained <-> drought-surcharge-on-water-bill-explained | shared: {'bill', 'charge', 'review'}
+   A: how to review a demand charge on an electricity bill
+   B: how to review a drought-related charge on a water bill
+
+49-demand-charges-electricity-bill-explained <-> tiered-electricity-rates-explained | shared: {'review', 'bill', 'electricity'}
+   A: how to review a demand charge on an electricity bill
+   B: how to review tiered electricity rates on your bill
+
+50-best-smart-plugs-standby-power <-> phantom-power-draw-explained | shared: {'reduce', 'power', 'standby'}
+   A: how to measure and reduce standby power
+   B: phantom power draw: how to find and reduce standby use
+
+ac-running-but-not-cooling <-> water-meter-running-when-no-water-used | shared: {'fixes', 'causes', 'running'}
+   A: ac running but not cooling? 13 causes and safe fixes
+   B: water meter running when no water is being used: causes and fixes
+
+electric-bill-breakdown-understanding-line-items <-> net-metering-explained | shared: {'bill', 'electric', 'explained'}
+   A: electric bill breakdown: every charge explained
+   B: net metering explained: how solar panels affect your electric bill
+
+ev-charging-impact-electric-bill <-> net-metering-explained | shared: {'affect', 'bill', 'electric'}
+   A: how ev charging can affect your electric bill
+   B: net metering explained: how solar panels affect your electric bill
+
+how-to-lower-electric-bill-complete-guide <-> how-to-lower-electric-bill-without-solar | shared: {'lower', 'electric', 'bill'}
+   A: how to lower your electric bill: the complete guide (2026)
+   B: how to lower your electric bill without solar
+
+how-to-lower-electric-bill-without-solar <-> net-metering-explained | shared: {'solar', 'bill', 'electric'}
+   A: how to lower your electric bill without solar
+   B: net metering explained: how solar panels affect your electric bill
+
+how-to-read-electric-meter <-> how-to-read-gas-meter | shared: {'read', 'meter', 'dial', 'digital'}
+   A: how to read an electric meter (dial & digital guide)
+   B: how to read your gas meter: dial, digital, and smart meters, step by step
+
+is-your-toilet-running-leak-test <-> water-meter-leak-indicator-explained | shared: {'running', 'leak', 'water'}
+   A: is your toilet running? a simple leak test (and how it shows up on your water bill)
+   B: water meter leak indicator explained: how to tell if water is running when everything is o
+
+water-meter-leak-indicator-explained <-> water-meter-running-when-no-water-used | shared: {'meter', 'running', 'water'}
+   A: water meter leak indicator explained: how to tell if water is running when everything is o
+   B: water meter running when no water is being used: causes and fixes
+
+why-is-my-water-bill-higher-in-summer <-> why-is-my-water-bill-higher-in-winter | shared: {'common', 'water', 'higher', 'causes', 'bill'}
+   A: why is my water bill higher in summer? (7 common causes + what to check first)
+   B: why is my water bill higher in winter? 8 common causes

@@ -1,0 +1,24 @@
+{
+  "role": "verifier",
+  "mission": "Re-derive the factual accuracy of the site's most load-bearing YMYL claims. Extract the 3-5 most consequential numeric/factual claims from each of 8 assigned pages, then verify each against the page's own cited sources (or authoritative equivalents) using web tools. Per claim: CONFIRMED / REFUTED / UNVERIFIED + source URL + retrieved date.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). This is a money-adjacent site (rates, bills, assistance programs) — accuracy failures here are trust-critical. Your 8 pages (all in content/blog/): utility-assistance-programs-liheap.md, can-utility-shut-off-service.md, 2026-utility-cost-index-by-state.md, average-utility-bills-by-state-2026.md, 48-heat-pump-vs-gas-furnace-savings.md, 46-what-time-is-electricity-cheapest.md, net-metering-explained.md, drought-surcharge-on-water-bill-explained.md. Method: read the page, pull its front-matter sources list, fetch the cited source (web_fetch) and compare the specific claim; if a cited link is DEAD or redirects, that is itself a finding (broken citation). If the page cites no source for a load-bearing number, verdict UNVERIFIED + flag 'unsupported'. Prioritize: LIHEAP benefit amounts, shut-off protection rules, EIA/state rate figures, heat-pump efficiency/savings percentages, TOU peak windows.",
+  "known_facts": [
+    "Today is 2026-08-29 — a 2025 figure presented as current is REFUTED-adjacent (flag as outdated-current-claim)",
+    "A prior factcheck exists (SEO-CONTENT-AUDIT-FACTCHECK-2026-08-29.md + TIER2 file) — you may read for orientation; your verdicts must be freshly derived from fetched sources",
+    "Cite every URL you fetched + retrieval date (2026-08-29)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only on repo; web tools ONLY for fetching cited/authoritative sources",
+    "No verdict without a fetched source or an explicit unsupported-flag"
+  ],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    "24-40 claim verdicts (CONFIRMED/REFUTED/UNVERIFIED), each with: page + claim quote + checked URL + retrieved date",
+    "Dead/expired citation list (link status per fetched source)",
+    "Summary: accuracy rate, worst findings, whether any REFUTED claim needs same-day correction"
+  ]
+}

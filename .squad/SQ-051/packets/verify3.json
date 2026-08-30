@@ -1,0 +1,30 @@
+{
+ "role": "lieutenant",
+ "mission": "WAVE-2 CROSS-FAMILY VERIFICATION (you are a fresh GLM instance \u2014 do NOT assume the wave-1 GLM envelope was correct; re-derive). Verify the highest-stakes claims made by dsv4-wing seats on 5 pages. (1) average-utility-bills-by-state-2026.md: cartographer claims (a) the '$262/month national average' (line 22) contradicts the page's own component arithmetic (~$324: $159 electric + ~$80 gas + ~$85 water/sewer midpoints) \u2014 recompute from the page's own numbers; (b) table shows Hawaii electric $275* while the page's own 33.7\u00a2 x 900 kWh = $303 \u2014 recompute; (c) '60-70% of natural gas usage = heating' is overstated vs EIA RECS 2020 (43% space heating of site energy among gas homes \u2014 check what EIA actually publishes, the 43% figure needs its own verification vs https://www.eia.gov/energyexplained/natural-gas/ or RECS tables); (d) table has only 17 states despite 'full comparison'/'every U.S. state' framing \u2014 count the rows. (2) what-is-ccf-on-a-water-bill.md: tracer claims the cited USGS glossary (water.usgs.gov/water-basics_glossary.html) does NOT contain the CCF-to-gallons conversion \u2014 re-fetch and confirm/refute. (3) 05-how-to-lower-utility-bills.md: prospector claims EPA watersense/start-saving does NOT contain the page's '$70/yr' figure (it says $1,300/yr spend, $500 retrofit savings) \u2014 re-fetch and confirm/refute. (4) how-do-smart-meters-work.md: verifier(wave1) ruled the RF-exposure FAQ claim unverifiable against cited sources \u2014 find whether FCC/EPA publishes a smart-meter RF comparison that could source it, or confirm no authoritative source exists. (5) mcf-vs-ccf-vs-therms-on-gas-bill.md: wave-1 verifier computed national avg ~$1.91/therm (EIA May 2026 $19.83/MCF \u00f7 10.37) making the page's $0.96-1.06/therm examples low-end \u2014 re-derive that arithmetic and fetch the EIA natural-gas prices page to confirm the $19.83/MCF figure.",
+ "parent_objective": "SQ-051 wave 2: uncorrelated verification of wave-1 critical claims",
+ "context": "Site: utilityexplained.com. All fetches dated 2026-08-29. Commander has already disk-confirmed: #16 line 25 ($159 @ 18.34\u00a2/900kWh), line 189 ($275 Hawaii), line 62 (33.7\u00a2), the 17-state table frame, and the USGS citation at what-is-ccf line 162. Your job is the EXTERNAL side: does the arithmetic hold, and what do the authorities actually say.",
+ "known_facts": [
+  "Commander recomputation: 900 x 0.1834 = $165.06 (not $159); 900 x 0.337 = $303.30 (not $275) \u2014 verify these are the right inputs from the page",
+  "Wing seats cannot verify themselves \u2014 you are the cross-family brain for their output",
+  "Budget your fetches (~15 max): USGS glossary, EPA start-saving, EIA natural-gas prices, EIA RECS/energy-explained gas shares, FCC/EPA RF page if findable"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Read the five source files first to ground every claim in its actual text"
+ },
+ "constraints": [
+  "CONFIRMED/REFUTED/UNVERIFIED per sub-item, URL + retrieved date 2026-08-29",
+  "Quote exact source sentences; never fabricate",
+  "No claims about Google ranking systems"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every numbered sub-claim carries a verdict + evidence",
+  "Arithmetic recomputations shown step-by-step"
+ ]
+}

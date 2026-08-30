@@ -1,0 +1,19 @@
+{
+  "role": "mason",
+  "mission": "BRIEF 3 — rebuild content/blog/drought-surcharge-on-water-bill-explained.md: add the missing real drought-rate evidence and cut the negation-list hedging.",
+  "parent_objective": "SQ-069 phase 3, brief-driven rebuilds",
+  "context": "Current: 510w, zero named utilities, zero dollars, templated 'do not assume…' negation list. Keep the solid tariff-first method; add evidence.\nSTRUCTURE:\n1. Quick Answer: a drought surcharge is a temporary rate change during a declared shortage — three forms: fixed % uplift on the bill; stage-triggered tier penalties (pivot rates); budget-based excess charges.\n2. EMBED: {{< image src=\"/images/articles/drought-surcharge-on-water-bill-explained/drought-stage-ladder.webp\" alt=\"Drought stage ladder showing water supply dropping and bill surcharges rising through stages one to four\" caption=\"Rates step up as stages step up\" >}}\n3. VERIFIED DROUGHT-RATE TABLE (the core upgrade): 2-3 named utilities with PUBLISHED drought schedules — candidates to fetch: sanjosewater.com drought rate information, marinwater.org drought surcharge schedule, austintexas.gov Austin Water conservation staging rules (many 2022-era schedules expired — if the schedule is historical, keep it LABELLED 'historical example (year)' with its archive/source URL and retrieval date; a labeled historical rate beats no rate). Columns: utility | trigger (stage/condition) | what it hits (tiers/all bills) | uplift (% or $) | status (active/historical) | source + retrieved date.\n4. WORKED BEFORE/AFTER: 6 CCF (= 4,488 gal — the site's unit chain) on one named utility's published normal tiers vs its drought tiers; compute the monthly $ delta; show the arithmetic.\n5. Drought charge vs excess-use fine vs ordinary tier creep — readers conflate all three; one compact comparison (this replaces the old negation list — make it positive, concrete).\n6. Bill relief reality: leak adjustments are NOT drought relief; payment plans/assistance exist (link utility-assistance-programs-liheap for energy side, note water assistance is local).\n7. FAQ (3): can I dispute a drought surcharge; does conservation remove it; how long do they last.\n8. Front matter updated 2026-08-30; keep slug + existing sources; add the fetched drought pages dated. Links: tiered-water-rates-explained, water-service-charge-explained, ccf-calculator, 44-how-to-lower-water-bill, water-explained hub. Target ~900-1,100w.",
+  "known_facts": [
+    "EPA WaterSense 'understanding your water bill' is already a cited source on water pages — keep",
+    "A labeled historical schedule is acceptable evidence; an uncited current-sounding number is not"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/drought-surcharge-on-water-bill-explained.md"]
+  },
+  "constraints": ["Write ONLY this file; NO hugo build; every rate from a fetched page, dated, active/historical labeled"],
+  "authorized_actions": ["web_fetch", "web_search"],
+  "success_criteria": [
+    ">=1 dated named-utility drought table (uplift + trigger + status); computed 6-CCF delta; conflation comparison replaces negation list; FAQ; image embedded"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "role": "cartographer",
+  "mission": "Map the whole content corpus (content/) as a topic-cluster + internal-link graph: clusters, in-link counts, orphans, dead ends, weak anchors, missing inter-cluster links, and cannibalization candidates derived from front-matter keywords/titles.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). Source of truth = markdown link syntax in content/**/*.md bodies ([text](/blog/.../) or {{% ref %}} style if present — detect the actual pattern first). Map phase: extract all internal links; reduce phase: build the graph. Estimate in-links per page via grep counts. Identify: (a) topic clusters (electricity basics, gas, water/sewer, HVAC, fees/line-items, state data/rates, buying guides, assistance programs, meters/readings); (b) pages with 0 internal in-links (orphans); (c) high-authority pages (hubs/flagships) with weak out-linking; (d) pairs of pages whose front-matter keywords or titles target the same query (cannibalization candidates); (e) anchor-text quality (generic 'read more' vs descriptive).",
+  "known_facts": [
+    "110 pages; 5 hub pages (electricity-explained, gas-explained, water-explained, heating-cooling-explained, utility-bills-costs-explained) are meant to be cluster centers",
+    "A prior internal-linking effort exists (recent commit 'SQ-063 lattice completion — 21 contextual inbound links across 15 sources, 0 orphans remain') — VERIFY whether 0 orphans is still true; do not assume"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only; counts via grep/wc with quoted commands",
+    "Graph evidence: show the extraction command + per-page in-link count method"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "Cluster table: cluster name | member pages | hub | count",
+    "In-link report: pages with fewest internal in-links (bottom 15) + confirmed orphan list (0 in-links) if any",
+    "Cannibalization candidate pairs/triples with the overlapping keyword or title phrase for each",
+    "Weak-anchor examples (5+) and pages that should link to related resources but don't (specific page A should link to page B recommendations, min 10)",
+    "Dead-end assessment: which heavy-traffic-potential pages link out to nothing relevant"
+  ]
+}

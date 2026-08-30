@@ -1,0 +1,35 @@
+{
+ "parent_objective": "SQ-054: rebuild how-to-dispute-utility-bill per audit findings",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs fetched this run; inline [n] + '## Sources' footer; sources FM = body-cited set; no leaked editorial notes. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054/results* (stale verdicts). No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY content/blog/how-to-dispute-utility-bill.md; touch nothing else",
+  "Every number/deadline/legal assertion must come from a page YOU fetch this run (the audit pre-verified several URLs below \u2014 re-fetch to confirm before citing)",
+  "Cannot verify = do not include; preserve slug/date/author/image; set updated: 2026-08-29",
+  "'## Quick Answer' first: the dispute ladder in 3 sentences with the first deadline",
+  "Rebuild, don't pad: keep the page's existing verified claims (audit found current claims VERIFY against its DOE and Con Edison sources), reorganize around the ladder"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Escalation ladder complete: utility call -> written complaint -> state PUC complaint -> further escalation",
+  "Zero unsourced numbers",
+  "sources FM = body citations",
+  "OUTPUT CONTRACT: claim ledger, edits, human-review items, wc before->after"
+ ],
+ "role": "mason",
+ "mission": "content/blog/how-to-dispute-utility-bill.md \u2014 603 words, graded C for severe search-intent mismatch (audit 2026-08-29: title 'How to Request a Utility-Bill Review' underpromises vs slug how-to-dispute-utility-bill; the step-by-step dispute LADDER the query demands is absent). Rebuild to deliver the ladder: (1) TITLE/H1/description aligned to 'How to Dispute a Utility Bill' intent. (2) '## Quick Answer' = the ladder in brief: call the utility first, then written complaint, then your state utility commission (find yours via naruc.org); never stop paying the undisputed portion mid-dispute without understanding your state's rules. (3) Step 1 Call: current page content (keep, cite its existing sources if they verify). Step 2 Written complaint: what to include (account number, bill date, the exact charge disputed, your evidence, the resolution you want) \u2014 add a short template letter. Step 3 State PUC complaint: pre-verified anchors to re-fetch and cite: cpuc.ca.gov/complaints ('If you cannot resolve the problem after talking with the utility's customer service, you may file an informal complaint with us'; CPUC can order corrections) and puc.texas.gov/consumer-help/complaints/rights/ (10-day disconnection-notice rules; complaint filing) \u2014 frame as state examples, plus naruc.org for finding your own commission. Step 4 Escalation: small-claims/further options ONLY if you can source them; otherwise the PUC outcome + FTC consumer advice (consumer.ftc.gov utility articles pre-verified). (4) Evidence-log checklist with dates (bill copies, meter photos, call log: date/representative/ticket number). (5) Payment-assistance note: LIHEAP framing per usa.gov (re-fetch) linking the assistance angle. (6) Internal links where natural: 21-past-due-balance, 26-utility-deposit, 14-estimated-utility-bill, complete-guide-understanding-utility-bill, can-utility-shut-off-service. Add {{< affiliate-disclosure >}} at top like sibling 21-/26- pages.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-to-dispute-utility-bill.md"
+  ]
+ },
+ "known_facts": [
+  "Audit-verified live URLs (2026-08-29, re-fetch before citing): cpuc.ca.gov/complaints/, puc.texas.gov/consumer-help/complaints/rights/, consumer.ftc.gov/articles/getting-utility-services-why-your-credit-matters, consumer.ftc.gov/articles/scammers-pretend-be-your-utility-company",
+  "Existing page claims verify against its DOE + Con Edison sources \u2014 preserve those two citations",
+  "Texas 10-day rule quote from PUCT: 'The disconnection date must be 10 days from the date the notice is issued and may not fall on a holiday or weekend'"
+ ]
+}

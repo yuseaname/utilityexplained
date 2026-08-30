@@ -1,0 +1,34 @@
+{
+ "role": "lieutenant",
+ "mission": "Audit + fact-check the site's 4 highest-traffic money pages (#1 flagship 222pv, #2 131pv, #3 130pv, #4 123pv). Deep-dive each: full rubric, rigorous claim verification against primary sources (EIA/DOE/EPA), and for the flagship specifically re-verify the known-critical unsourced claims: thermostat savings 3-6%/degree, HVAC 40-50% of energy use, per-fix dollar savings ranges. The flagship carries ~249 dollar figures with zero sources.",
+ "parent_objective": "SQ-051: per-page SEO content + fact-check audit of top 30 pages by Rybbit 30d traffic; feed Commander synthesis into a remediation plan",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education (water/sewer/electric/gas), monetized via affiliate product boxes + AdSense. AdSense is currently BLOCKED (\"Low value content\", 2026-08-23) \u2014 re-earning trust is the mission context; accuracy and evidence are the gate. Source of truth: markdown at content/blog/<slug>.md (frontmatter + body). Live URL: https://utilityexplained.com/blog/<slug>/. Reader: US resident holding a utility bill, wants to understand/act. Site-wide known facts: 92/96 guides have zero outbound source URLs; author/editor identity claims are under review for substantiation; site sells \"exact savings\" so unsourced dollar figures are the #1 credibility risk. Engagement data for your pages is in .squad/SQ-051/evidence.md (Rybbit 30d).",
+ "known_facts": [
+  "Flagship = 15.7% of site pageviews, 0 sources, 249 dollar figures (SQ-045) \u2014 site's #1 revenue page",
+  "Defect-exit watchlist: complete-guide + spike-electric are 2 of the 4 KPI-dashboard defect-exit pages (high pv + high bounce)",
+  "Page #2 is monetized (affiliate boxes) and 0-source (SQ-045 P0 item S3b)"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Evidence brief (engagement data + selection method): .squad/SQ-051/evidence.md \u2014 read it first. Your pages: content/blog/how-to-lower-electric-bill-complete-guide.md; content/blog/30-sudden-spike-in-electricity-bill-no-usage.md; content/blog/how-sewer-charges-work-on-your-water-bill.md; content/blog/water-meter-running-when-no-water-used.md. You are the deepest brain on this wave \u2014 spend your budget on evidence quality."
+ },
+ "constraints": [
+  "Never make claims about Google's ranking systems/algorithms beyond citing public documentation \u2014 frame SEO advice as best practice, not causal ranking claims",
+  "No vague recommendations \u2014 every fix names its target section, heading, quote, or claim",
+  "Every factual verdict carries a URL + retrieved date 2026-08-29, or is labeled NEEDS HUMAN REVIEW",
+  "Stay read-only on the repo \u2014 analysis only",
+  "If web_search/web_fetch cannot confirm a claim, say UNVERIFIED \u2014 do not fabricate evidence"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every assigned page has its full OUTPUT CONTRACT block",
+  "3-6 factual claims per page verified with URL + date, or labeled NEEDS HUMAN REVIEW",
+  "Weak-copy examples are exact quotes, not paraphrases",
+  "Fixes are specific enough to execute without re-reading the page"
+ ]
+}

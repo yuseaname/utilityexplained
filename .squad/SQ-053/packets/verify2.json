@@ -1,0 +1,30 @@
+{
+ "role": "lieutenant",
+ "mission": "WAVE-2 CROSS-FAMILY VERIFICATION (fresh GLM; do NOT trust the dsv4 wing's conclusions \u2014 re-derive). Verify these wave-1 claims from the dsv4 seats: (1) GAS CLUSTER: mason recommends consolidating 43-understand-natural-gas-bill-charges into 12-how-to-read-your-gas-bill via redirect, keeping mcf-vs-ccf-vs-therms standalone, and making gas-delivery-charge-vs-supply-charge the canonical of the delivery-vs-supply triple-play (with 24-delivery-charge-vs-supply-charge-utility-bill + a deleted draft). Read all three live gas pages + 24; judge the consolidation design against actual content boundaries. (2) gas-delivery-charge-vs-supply-charge has ZERO frontmatter sources but cites named companies (National Grid, NIPSCO, Con Edison, Columbia Gas of Ohio) \u2014 fetch 2-3 of those companies' actual delivery-vs-supply explainer pages and check whether the page's rate/structure claims about them hold. (3) 44-how-to-lower-water-bill claims '30-40% indoor savings' and 'up to $200' leak savings attributed to EPA \u2014 fetch the cited EPA pages and confirm/refute those exact figures. (4) 12-how-to-read-your-gas-bill claims winter usage '80-150 therms' \u2014 check EIA RECS/natural-gas data for what's actually supportable and give the correct framing. (5) why-did-my-utility-bill-go-up-this-month (0s TOP on a real page): verifier blames HTML-folded first screen \u2014 read the file's first 40 lines and the layout implication; diagnose precisely. (6) 50-best-smart-plugs claims the Emporia smart plug is 'outdoor rated (weather-resistant)' \u2014 check Emporia's product page. (7) 16-budget-billing 100%-bounce diagnosis: defensive Quick Answer + buried worked example \u2014 read and confirm/refute the cause. (8) complete-guide-understanding-utility-bill keeps aliases for 3 draft URLs (2026-utility-cost-index-by-state, 02-average-utility-costs-2026, how-to-read-your-utility-bill) \u2014 do those intents belong on it, or should the drafts eventually republish (like average-utility-bills did today)? Recommend per alias.",
+ "parent_objective": "SQ-053 wave 2: uncorrelated verification of wave-1 critical claims",
+ "context": "Site: utilityexplained.com. Today's site standards: $165/mo national electric anchor (900 kWh \u00d7 18.34\u00a2), $144 2024 actual; energysaver URLs dead (ENERGY STAR successors live); Seattle $20.18/CCF, Philly $5.16/CCF flat, SFPUC 90%\u00d7$20.74. Read only content/blog files + .squad/SQ-053/evidence.md; NEVER open .squad/SQ-045 or .squad/SQ-051 artifacts (stale audit verdicts poison runs \u2014 a wave-1 seat was contaminated this way).",
+ "known_facts": [
+  "Commander disk-verified: 43 (440w) + 17 (418w) + 14 (444w) + 22 (445w) + 20 (484w) are thin; 7 long pages have zero outbound sources: gas-meter 3284w, water-service-charge 1425w, summer-water 1280w, tiered-water 3092w, gas-delivery 3118w, moving-checklist 2451w, can-shut-off 3002w",
+  "01-how-to-read-your-electric-bill = A-grade canonical with 14 outbound refs (dsv4 verdict, deserves confirmation)",
+  "Wave-1 dsv4 verdicts to cross-check: 43=F, 17=F, gas-meter=D, water-service=C-, 16-budget=D, 21-past-due=D, 26-deposit=D"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Fetch targets are EXTERNAL (company/PUC/EIA/EPA pages); repo for reading claims in context"
+ },
+ "constraints": [
+  "CONFIRMED/REFUTED/UNVERIFIED per item with URL + retrieved date 2026-08-29",
+  "Quote exact source sentences for CONFIRMED/REFUTED; never fabricate",
+  "No Google-ranking claims; read-only on repo"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "All 8 items carry verdicts + evidence",
+  "Consolidation recommendations justified against actual file content"
+ ]
+}

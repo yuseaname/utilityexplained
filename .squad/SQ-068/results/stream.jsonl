@@ -1,0 +1,9 @@
+{"packet": "p1-scout.json", "result_file": ".squad/SQ-068/results/01-scout.json", "agent": "scout", "status": "partial"}
+{"packet": "p8-twinq.json", "result_file": ".squad/SQ-068/results/08-twin_q.json", "agent": "twin_q", "status": "complete"}
+{"packet": "p9-lieutenant.json", "result_file": ".squad/SQ-068/results/09-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "p2-executor.json", "result_file": ".squad/SQ-068/results/02-executor.json", "agent": "executor", "status": "partial"}
+{"packet": "p6-verifier.json", "result_file": ".squad/SQ-068/results/06-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "p5-tracer.json", "result_file": ".squad/SQ-068/results/05-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "p4-prospector.json", "result_file": ".squad/SQ-068/results/04-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "p7-mason.json", "result_file": ".squad/SQ-068/results/07-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "p3-cartographer.json", "result_file": ".squad/SQ-068/results/03-cartographer.json", "agent": "cartographer", "status": "complete"}

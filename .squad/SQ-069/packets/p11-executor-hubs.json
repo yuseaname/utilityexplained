@@ -1,0 +1,43 @@
+{
+  "role": "executor",
+  "mission": "P4.6 \u2014 hub pages: (a) dedupe repeated article links on electricity-explained.md; (b) add a consistent 'By <desk> \u00b7 Last updated <date>' line under each hub's first heading.",
+  "parent_objective": "SQ-069 phase 4 trust layer",
+  "context": "Hubs: content/electricity-explained.md, gas-explained.md, water-explained.md, heating-cooling-explained.md, utility-bills-costs-explained.md. (a) electricity hub duplicate anchors to kill (keep FIRST occurrence only, delete later duplicate list items/links): 01-how-to-read-your-electric-bill (x2), 03-why-is-my-electric-bill-so-high (x3), 10-fixed-vs-variable-utility-rate (x2), 24-delivery-charge-vs-supply-charge-utility-bill (x2). Do NOT remove links from other hubs unless duplicated there too (check each hub with the same grep). (b) Byline line template, placed right after the first <h2>: '<p class=\"hub-byline\">Edited by the Utility Explained team \u00b7 Last updated August 2026</p>' \u2014 but use each hub's actual front-matter 'updated:' value (humanize: 2026-08-21 \u2192 August 2026). If a hub has an <h1> place it after that instead.",
+  "known_facts": [
+    "Hubs use raw HTML <h2>/<p> blocks",
+    "Do not change any front matter except nothing needed here",
+    "If themes CSS has no .hub-byline class, inline style='font-size:.9rem;color:#666;margin-top:-8px' is acceptable"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/electricity-explained.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/gas-explained.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/water-explained.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/heating-cooling-explained.md",
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/utility-bills-costs-explained.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY these 5 hub files; NO hugo; NO git; dedupe = remove duplicate ANCHORS, never delete a whole section"
+  ],
+  "authorized_actions": [
+    "read",
+    "write",
+    "grep"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "electricity hub: each /blog/ slug appears exactly once",
+    "all 5 hubs have the byline+updated line",
+    "no other content changes",
+    "file sizes stay within \u00b15% except electricity"
+  ]
+}

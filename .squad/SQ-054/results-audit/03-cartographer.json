@@ -1,0 +1,74 @@
+{
+  "agent": "cartographer",
+  "model": "deepseek/deepseek-v4-flash",
+  "status": "complete",
+  "summary": "Full audit of content/blog/09-apartment-utilities-cost.md completed. Page fails search-intent for 'apartment utilities cost' (Quick Answer delivers no number in \u22643 sentences). Table of state electricity averages is unverified (could not download EIA Table 5a this run). Zero internal links to related articles (11-kwh, 44-water, 16-budget-billing, state-average page). Missing aggregated total utility cost for apartments. Grade C-.",
+  "findings": [
+    "Search-Intent Miss: Quick Answer does NOT contain a $/mo number. It says 'National cost tables cannot tell you what a specific apartment... will cost' \u2014 searchers wanting 'how much do apartment utilities cost' get no immediate answer. The two sentences: 'Build an apartment utility budget from the lease...' and 'Before signing, request a written explanation...' contain no cost figures.",
+    "Table sourcing vague: 'Source: EIA Electric Sales, Revenue & Average Price, Table 5a (latest 12-month period)' \u2014 no specific year stated. Monthly bill values (e.g. $164 CA, $167 TX) are calculated as rate \u00d7 usage, not directly from EIA which provides average monthly bill directly.",
+    "Table figures UNVERIFIED: Could not download EIA Table 5a binary (xlsx/xls/PDF) from sandbox. EIA FAQ (https://www.eia.gov/tools/faqs/faq.php?id=97&t=3, retrieved 2026-08-29) reports national average 899 kWh/mo for all homes \u2014 California 542 kWh and Texas 1,172 kWh are plausible for state-level residential but cannot confirm exact values without the actual table.",
+    "No internal links found. grep for '11-kwh', '44-water', '16-budget', '2026-utility-cost-index-by-state' returned zero matches. Page has no cross-references to related utilityexplained articles.",
+    "No aggregated total utility cost. Page only provides electricity costs; no gas, water, internet, or all-utilities total. Searchers expecting 'apartment utilities total $X/mo' leave unsatisfied.",
+    "Renters-specific angles covered shallowly: RUBS and budget billing mentioned in checklist items but not elaborated. Claims like 'Most apartments include these in rent' (water/sewer/trash) are unsourced anecdotal \u2014 not verifiable.",
+    "Gas and water cost data absent entirely. No average gas bill or water bill for apartments \u2014 only electricity table. No EPA water figures sourced.",
+    "Hero flag already shipped (2026-08-28), hero_below_answer: true in frontmatter \u2014 the residual engagement defect is content/answer quality as suspected.",
+    "Title and meta description match voice but do not promise numbers: title 'How to Budget for Apartment Utilities', description avoids cost figures deliberately."
+  ],
+  "evidence": [
+    "Article file read: /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md (full content captured above)",
+    "grep -rn '44-water\\|11-kwh\\|16-budget\\|2026-utility-cost-index-by-state' returned zero matches \u2014 confirmed no internal links",
+    "EIA FAQ page fetched: https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 \u2014 899 kWh/mo national average for ALL homes, not apartments specifically",
+    "EIA Sales Revenue Price page fetched: https://www.eia.gov/electricity/sales_revenue_price/ \u2014 Table 5a listed but xlsx/PDF binary could not be downloaded to verify exact state figures",
+    "Kitchen-sink search for '542 kWh California EIA' returned zero authoritative confirmations"
+  ],
+  "actions_taken": [
+    "harness removed prohibited tools from this seat: write_file, edit_file",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/09-apartment-utilities-cost.md",
+    "run_command 'ls -la /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog/ | head -30' -> exit 0",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/ (7972 chars)",
+    "web_search 'EIA Table 5a residential average monthly bill 2024 state' -> 8 results",
+    "web_search 'EIA residential average monthly bill 2024 by state table 5a' -> 8 results",
+    "web_search 'EIA Table 5a residential 542 kWh California 2024' -> 8 results",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/ (7972 chars)",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/ (7972 chars)",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/xls/table5_a.xlsx (8711 chars)",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/xls/table5_a.xls (8711 chars)",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf (8711 chars)",
+    "web_search 'EIA average residential electricity consumption 899 kWh per month 2024' -> 8 results",
+    "web_fetch https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (9628 chars)",
+    "web_search 'EIA Table 5a 2024 residential average monthly bill California 164 Texas 167' -> 8 results",
+    "web_search '\"542 kWh\" California EIA residential 2024' -> 8 results",
+    "web_search 'site:eia.gov \"Table 5a\" \"residential\" \"average monthly bill\" 2024' -> 8 results",
+    "web_search 'EIA Table 5a 2024 542 kWh 570 kWh 835 kWh 718 kWh' -> 8 results",
+    "web_search '\"average monthly consumption\" \"California\" \"542\" kWh EIA' -> 8 results",
+    "web_fetch https://www.eia.gov/electricity/sales_revenue_price/xls/table5a.xlsx (8711 chars)",
+    "search '44-water' in /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog (0 hits)",
+    "run_command 'grep -rn '44-water\\|11-kwh\\|16-budget\\|2026-utility-cost-index-by-state' /home/msi-command/Desktop/projects/affiliate\\ sites/utilityexplained/content/blog/09-apartment-utilities-cost.md' -> exit 1",
+    "web_search '\"Table 5.a\" \"residential\" \"average monthly bill\" 2024 California' -> 8 results",
+    "web_search 'EIA \"Electric Sales Revenue and Average Price\" \"Table 5a\" 2024 residential monthly bill PDF' -> 8 results"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "none (audit only, no code tests run)",
+  "risks": [
+    "Table numbers may be correct but are unverifiable from this run \u2014 risk of publishing potentially outdated or mis-calculated values",
+    "No total utility cost \u2014 page may not satisfy AdSense 'high value content' requirements as it avoids core searcher intent",
+    "Missing internal links creates isolated page, reducing site cohesion and authority signaling"
+  ],
+  "unknowns": [
+    "Actual EIA Table 5a figures for the ten states listed \u2014 could not download binary this run; require human to open xlsx/PDF",
+    "EPA water usage per person (82 gal/day) \u2014 not fetched; not used in article but relevant for future addition",
+    "Whether the national 899 kWh/mo EIA figure (ALL homes) can be adapted for apartments with a clear derivation"
+  ],
+  "recommendation": "Top-3 actions: (1) Add to Quick Answer a specific $/mo total for apartment utilities with sourced breakdown \u2014 e.g. 'Typical 1-bedroom apartment utility total: $150-250/mo (electricity $80-120, water $20-40, gas $10-40, internet $50-80)' with EIA/EPA sources. (2) Add internal links to 11-kwh-usage, budget-billing-16, and the state-average cost index page. (3) Add gas average cost ($/therm or $/mo) and water average cost (EPA) \u2014 or clearly label the page as electricity-only and retitle. Human-review items: verify EIA Table 5a numbers by opening the actual xlsx; confirm EPA water averages; decide if adding national apartment-specific total is viable or if page should pivot to 'how to estimate' only.",
+  "confidence": "high",
+  "confidence_basis": "Article text fully read; internal links absent confirmed by grep; EIA FAQ verified; sandbox limitation on binary download is the sole gap",
+  "tool_steps": 23,
+  "duration_seconds": 571.9,
+  "side_effects": true,
+  "warnings": [
+    "1 success_criteria unaddressed by the result \u2014 one deliverable nudge sent"
+  ],
+  "context_est_tokens": 28896
+}

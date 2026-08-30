@@ -1,0 +1,5 @@
+{"packet": "write-moving.json", "result_file": ".squad/SQ-054/results-write/02-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "write-50-plugs.json", "result_file": ".squad/SQ-054/results-write/01-mason.json", "agent": "mason", "status": "complete"}
+{"packet": "makeup-tiered-water.json", "result_file": ".squad/SQ-054/results-write/05-tracer.json", "agent": "tracer", "status": "partial"}
+{"packet": "write-sewer-avg.json", "result_file": ".squad/SQ-054/results-write/04-verifier.json", "agent": "verifier", "status": "complete"}
+{"packet": "write-summer-winter.json", "result_file": ".squad/SQ-054/results-write/03-cartographer.json", "agent": "cartographer", "status": "complete"}

@@ -1,0 +1,572 @@
+exit_code: 0
+=====FILE: content/affiliate-disclosure.md=====
+---
+title: "Affiliate Disclosure"
+description: "How Utility Explained earns money from affiliate links, and our commitment to honest, independent recommendations."
+date: 2026-08-15
+updated: 2026-08-15
+lastmod: 2026-08-15
+draft: false
+no_ads: true
+---
+
+Utility Explained is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you.
+
+## How we make money
+
+Our primary revenue is display advertising. On product-focused guides, we also use **affiliate links** — primarily the Amazon Associates program. If you click one of those links and buy something, Amazon pays us a small commission. The price you pay is exactly the same.
+
+**As an Amazon Associate we earn from qualifying purchases.**
+
+## What this means for you
+
+- We only recommend products we believe genuinely help you understand, manage, or lower your utility bills.
+- A commission never determines what we cover or what we say about a product.
+- Where we see a cheaper or better path that doesn't earn us anything, we'll say so — most of our content is free advice that requires no purchase at all.
+- Affiliate links are marked as "Check price on Amazon" buttons or noted near the link.
+
+## Why gadgets at all
+
+Some utility problems are solved with a $25 smart plug or a $40 leak detector — not a plumber or an electrician. When a product honestly saves money on a water, gas, or electric bill, it belongs in the conversation.
+
+## Questions
+
+See our [editorial policy](/editorial-policy/) for how we research and write, or [contact us](/contact/) with any question about how this site earns money.
+
+=====FILE: content/methodology.md=====
+---
+title: "Methodology"
+description: "How Utility Explained sources and calculates the cost ranges and figures in its guides."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "single"
+url: "/methodology"
+---
+
+# Methodology: How We Get Our Numbers
+
+Utility Explained uses real-world ranges — not exact figures — because utility costs vary by region, provider, climate, season, and household. This page explains how we arrive at the numbers you see across our guides.
+
+## Our sources
+
+Where possible, cost and usage figures are grounded in publicly available, authoritative references, including:
+
+- **U.S. Energy Information Administration (EIA)** — average retail electricity and gas prices by state.
+- **U.S. Department of Energy (DOE) / ENERGY STAR** — typical appliance energy consumption.
+- **Provider tariffs and rate schedules** — published customer charges, delivery fees, and rate structures.
+- **Water and sewer utility rate disclosures** — published CCF rates and fixed service charges.
+
+When a figure is a general rule of thumb rather than a sourced average, we label it clearly.
+
+## How we calculate
+
+We use straightforward, transparent math so you can reproduce it:
+
+- **Appliance cost** = wattage ÷ 1,000 × hours used × price per kWh.
+- **Bill impact** = change in kWh × your local rate.
+- **Savings** = current usage − reduced usage, multiplied by the applicable rate.
+
+We always show the formula in the guide so you can plug in your own numbers.
+
+## What "typical" means
+
+When we say a figure is "typical," we mean it represents a common U.S. household situation. **Your bill will differ** based on your local rates, home size, climate, and habits. We treat every figure as an estimate, never a guarantee.
+
+## Currency and freshness
+
+Rates and averages change. We revisit data-heavy guides regularly and show an "Updated" date where material figures have been refreshed. See our [editorial policy](/editorial-policy/) for our review process.
+
+## Limitations
+
+- We cannot cover every utility or rate plan. Where regional variation is significant, we say so.
+- Our ranges are educational. For decisions with major financial consequences, confirm the specifics on your own bill or with your provider.
+
+Found a number that looks off? [Tell us](/corrections/) — we'll check it against the source.
+
+=====FILE: content/editorial-policy.md=====
+---
+title: "Editorial Policy"
+description: "How Utility Explained researches, writes, and reviews its utility-bill guides."
+date: 2024-12-01
+updated: 2026-08-12
+type: "page"
+layout: "single"
+url: "/editorial-policy"
+---
+
+# Editorial Policy
+
+This page explains how Utility Explained creates and maintains its content. Our goal is simple: every guide should help a real person understand and act on a utility-bill question.
+
+## What we cover
+
+Plain-English explainers on electricity, gas, and water bills — how to read them, why they change, what every charge means, and how to lower them. We focus on the **informational and problem-solving** questions bill-payers actually have.
+
+## What we don't do
+
+- We do **not** provide financial, legal, or professional advice. Content is for educational purposes (see our [disclaimer](/disclaimer/)).
+- We do **not** sell products or services, and we do **not** accept payment to recommend providers.
+- We do **not** require user accounts or collect sensitive personal data (see our [privacy policy](/privacy-policy/)).
+
+## How we write
+
+- **Plain English.** Technical terms (kWh, CCF, therms) are defined on first use and cross-linked to our [glossary](/utilities-glossary/).
+- **Lead with the answer.** Guides open with a direct answer to the question, then add the supporting detail.
+- **Numbers over vagueness.** We use typical U.S. cost ranges and label them as estimates. See our [methodology](/methodology/).
+- **No fear or hype.** Bills cause enough anxiety; our job is to resolve it with clarity, not amplify it.
+
+## AI assistance
+
+Our guides may be drafted with AI assistance. That assistance does not establish a fact, source, credential, or recommendation. Data-heavy guides are published or refreshed only when they show direct, dated source links for their material figures and claims. We are reviewing older guides against that standard; a page without a visible Sources section should be treated as general educational context, not a current rate quote, legal determination, or personalized advice. We do not present AI-generated credentials or fabricated expert qualifications. See our [methodology](/methodology/) for how we source figures.
+
+## Advertising
+
+This site displays ads served by Google AdSense. Ad placements are automated and editorially independent — advertising never influences which topics we cover or what we say about them. See our [privacy policy](/privacy-policy/) for details.
+
+## Review and freshness
+
+Guides are revisited to keep figures and rate references current. Material updates carry a visible "Updated" date.
+
+## Accountability
+
+We stand behind a public [corrections policy](/corrections/). If you find an error, [contact us](/contact/) and we will fix it.
+
+=====FILE: content/editorial-team.md=====
+---
+title: "Editorial Team"
+description: "The Utility Explained editorial team — how our utility-bill guides are researched, drafted, and reviewed."
+date: 2024-12-01
+updated: 2026-08-12
+---
+
+Utility Explained is produced by a small editorial team focused on translating utility bills into plain English. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
+
+## Our Editors
+
+### [Margaret Harrington — Bills & Rates Editor](/author/margaret-harrington/)
+Margaret focuses on our electricity, gas, water, and billing-structure guides — decoding every line item and rate plan on your bill.
+
+### [David Chen — Energy Efficiency Editor](/author/david-chen/)
+David focuses on our energy-efficiency and savings guides — showing you how to lower your bills, what each fix costs, and how long it takes to pay for itself.
+
+### [Marcia Washington — Affordability & Assistance Editor](/author/marcia-washington/)
+Marcia focuses on our budgeting, assistance-program, and cost-planning guides — helping you plan for utility expenses and access help when you need it.
+
+### [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
+Roberto focuses on our heating and cooling guides — explaining how your HVAC system drives your utility bills and what to do when something seems off.
+
+### [Tanya Patterson — Consumer Rights Editor](/author/tanya-patterson/)
+Tanya focuses on our fees, troubleshooting, and consumer-rights guides — helping you read a bill critically and challenge charges that look wrong.
+
+## Our Editorial Process
+
+Every article follows a defined process:
+
+1. **Research** — For a data-heavy guide, we collect the relevant primary sources: EIA data, published utility tariffs, state regulations, or program-owner guidance.
+2. **Draft** — Guides may use AI assistance to produce a clear first version efficiently.
+3. **Verify** — Before a data-heavy guide is published or refreshed, its material claims must be checked against the linked source material.
+4. **Publish or hold** — A guide with unverified, time-sensitive, or unsupported claims is held for revision rather than presented as a current reference.
+
+We are transparent that AI assistance is part of our workflow. Readers can inspect the source links and review date on a refreshed guide; older pages are under review. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.
+
+## Independence
+
+Utility Explained is not affiliated with, sponsored by, or compensated by any utility company, energy supplier, or government agency. Our primary revenue is display advertising, and on a few product-focused guides we may earn a small commission through affiliate links — neither ever influences what we cover or what we say. Read our [editorial policy](/editorial-policy/) for details.
+
+## Contact
+
+Have a question about our content or team? Email us at [hello@utilityexplained.com](mailto:hello@utilityexplained.com).
+
+=====FILE: content/search.md=====
+---
+title: "Search"
+description: "Search every utility-bill guide on Utility Explained."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "search"
+url: "/search"
+noindex: true
+---
+
+=====FILE: content/utilities-glossary.md=====
+---
+title: "Utility Terms Glossary: Plain-English Definitions"
+description: "Confused by terms on your utility bill? Our glossary explains CCF, kWh, therms, delivery charges, demand fees, and more in plain English."
+image: "/images/articles/utilities-glossary/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "single"
+url: "/utilities-glossary"
+---
+
+<h2>Electricity Terms</h2>
+<h3 id="afue">AFUE (Annual Fuel Utilization Efficiency)</h3>
+<p>
+A percentage that measures how efficiently a furnace or boiler converts fuel into heat. A 95% AFUE furnace converts 95% of fuel into usable heat, with only 5% lost through the exhaust. Higher AFUE means lower fuel costs. See more in our heating and cooling guide.
+</p>
+<h3 id="amps">Amps (Amperes)</h3>
+<p>
+A unit measuring electrical current. Your home's electrical service is rated in amps--commonly 100, 150, or 200 amps. This determines how much power can flow at once.
+</p>
+<h3 id="baseload">Baseload</h3>
+<p>
+The minimum amount of electricity your home uses continuously, even when major appliances are off. This includes refrigerators, clocks, standby electronics, and other constant draws.
+</p>
+<h3 id="demand-charge">Demand charge</h3>
+<p>
+A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking.
+</p>
+<h3 id="delivery-charge">Delivery charge (Distribution charge)</h3>
+<p>
+The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Learn more in our electricity guide.
+</p>
+<h3 id="energy-charge">Energy charge (Supply charge)</h3>
+<p>
+The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill.
+</p>
+<h3 id="kilowatt">Kilowatt (kW)</h3>
+<p>
+A unit of power equal to 1,000 watts. Measures how fast electricity is being used at a moment in time. A 2 kW space heater uses 2,000 watts when running.
+</p>
+<h3 id="kilowatt-hour">Kilowatt-hour (kWh)</h3>
+<p>
+A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period. See detailed examples in our kWh explainer.
+</p>
+<h3 id="off-peak">Off-peak hours</h3>
+<p>
+Times when electricity demand is low, usually overnight and early morning. Some utilities offer lower rates during off-peak hours to encourage shifting usage.
+</p>
+<h3 id="peak-hours">Peak hours</h3>
+<p>
+Times when electricity demand is highest, typically late afternoon and early evening. Utilities may charge higher rates during peak hours.
+</p>
+<h3 id="phantom-load">Phantom load (Vampire power, Standby power)</h3>
+<p>
+Electricity used by devices that are plugged in but turned off or in standby mode. Examples include TVs, chargers, and microwaves with clocks.
+</p>
+<h3 id="power-factor">Power factor</h3>
+<p>
+A measure of how efficiently electrical power is used. Mostly relevant for industrial and commercial users. Residential customers rarely see power factor charges.
+</p>
+<h3 id="seer">SEER (Seasonal Energy Efficiency Ratio)</h3>
+<p>
+A rating for air conditioners and heat pumps in cooling mode. Higher SEER means better efficiency and lower operating costs. Modern units range from 13 to 25 SEER. Learn more in our HVAC guide.
+</p>
+<h3 id="time-of-use">Time-of-use (TOU) pricing</h3>
+<p>
+A rate structure where electricity costs more during peak hours and less during off-peak hours. Encourages shifting usage to cheaper times. See more in our rate plan comparison.
+</p>
+<h3 id="watt">Watt (W)</h3>
+<p>
+A unit of power. Measures how fast electricity is being used at a moment. A 60-watt light bulb uses 60 watts when on.
+</p>
+<h2>Natural Gas Terms</h2>
+<h3 id="btu">BTU (British Thermal Unit)</h3>
+<p>
+A unit of heat energy. One BTU is the energy needed to raise one pound of water by one degree Fahrenheit. Natural gas energy content is measured in BTUs.
+</p>
+<h3 id="ccf">CCF (Hundred Cubic Feet)</h3>
+<p>
+A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and convert to therms using a factor based on the gas's energy content.
+</p>
+<h3 id="commodity-charge">Commodity charge</h3>
+<p>
+Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees.
+</p>
+<h3 id="conversion-factor">Conversion factor</h3>
+<p>
+A number used to convert gas volume (CCF) into energy (therms). Accounts for slight variations in gas energy content.
+</p>
+<h3 id="customer-charge">Customer charge (Base charge)</h3>
+<p>
+A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, and service infrastructure.
+</p>
+<h3 id="mcf">MCF (Thousand Cubic Feet)</h3>
+<p>
+A volume unit equal to 1,000 cubic feet of gas. Less common for residential billing but used in some regions.
+</p>
+<h3 id="therm">Therm</h3>
+<p>
+A unit of heat energy equal to 100,000 BTUs. Natural gas bills usually charge per therm. See detailed examples in our gas bill guide.
+</p>
+<h2>Water & Sewer Terms</h2>
+<h3 id="ccf-water">CCF (Hundred Cubic Feet)</h3>
+<p>
+A volume unit used for water billing. One CCF equals 100 cubic feet, or about 748 gallons.
+</p>
+<h3 id="cubic-foot">Cubic foot</h3>
+<p>
+A volume unit. One cubic foot of water equals 7.48 gallons. Some water meters measure in cubic feet.
+</p>
+<h3 id="gallon">Gallon</h3>
+<p>
+A volume unit. Most water usage is measured in gallons or converted from cubic feet. One gallon equals 0.1337 cubic feet.
+</p>
+<h3 id="kgal">kgal (Thousand Gallons)</h3>
+<p>
+A volume unit equal to 1,000 gallons. Some water utilities use kgal as the billing unit.
+</p>
+<h3 id="meter-reading">Meter reading</h3>
+<p>
+The number displayed on your water, gas, or electric meter showing cumulative usage. The difference between two readings is your usage for that period.
+</p>
+<h3 id="estimated-reading">Estimated reading</h3>
+<p>
+A usage estimate when the utility cannot access the meter. The next actual reading corrects the estimate.
+</p>
+<h3 id="sewer-charge">Sewer charge (Wastewater charge)</h3>
+<p>
+The cost of treating wastewater. Often calculated as a percentage of water usage or a per-unit charge. Learn more in our water service guide.
+</p>
+<h3 id="tiered-pricing">Tiered pricing (Block pricing)</h3>
+<p>
+A rate structure where the price per unit increases as you use more. Encourages conservation by making higher usage more expensive.
+</p>
+<h3 id="winter-average">Winter average</h3>
+<p>
+A method some utilities use to calculate sewer charges. They average winter water usage (when outdoor use is minimal) and apply that to sewer billing year-round.
+</p>
+<h2>Heating & Cooling Terms</h2>
+<h3 id="central-air">Central air conditioning (Central AC)</h3>
+<p>
+A system that cools air at a central unit and distributes it through ducts. Serves the whole home.
+</p>
+<h3 id="cop">COP (Coefficient of Performance)</h3>
+<p>
+A ratio measuring heat pump efficiency. COP is heat delivered divided by electricity used. A COP of 3 means the system delivers 3 units of heat for every 1 unit of electricity.
+</p>
+<h3 id="ductless">Ductless mini-split</h3>
+<p>
+A heating and cooling system with an outdoor compressor and one or more indoor air handlers. Does not require ductwork. Can provide both heating and cooling.
+</p>
+<h3 id="furnace">Furnace</h3>
+<p>
+A heating system that burns fuel (gas, oil) or uses electricity to heat air, which is then distributed through ducts.
+</p>
+<h3 id="heat-pump">Heat pump</h3>
+<p>
+A system that moves heat rather than creates it. In summer, it cools like an air conditioner. In winter, it extracts heat from outdoor air and moves it indoors. More efficient than electric resistance heat. See our heating and cooling comparison.
+</p>
+<h3 id="hspf">HSPF (Heating Seasonal Performance Factor)</h3>
+<p>
+A rating for heat pumps in heating mode. Higher HSPF means better efficiency and lower electricity costs.
+</p>
+<h3 id="hvac">HVAC</h3>
+<p>
+Heating, Ventilation, and Air Conditioning. Refers to the systems that heat, cool, and circulate air in your home.
+</p>
+<h3 id="resistance-heat">Resistance heat (Electric resistance heat)</h3>
+<p>
+A heating method that converts electricity directly into heat. Nearly 100% efficient at the point of use, but often more expensive to operate than gas or heat pumps because electricity is usually more costly per unit of energy.
+</p>
+<h3 id="thermostat">Thermostat</h3>
+<p>
+A device that controls your HVAC system by sensing indoor temperature and turning heating or cooling on or off to maintain your set temperature.
+</p>
+<h3 id="programmable-thermostat">Programmable thermostat</h3>
+<p>
+A thermostat that lets you set schedules for different temperatures at different times of day. Reduces heating and cooling when you are away or asleep.
+</p>
+<h3 id="smart-thermostat">Smart thermostat</h3>
+<p>
+A thermostat that learns your habits, adjusts automatically, and can be controlled remotely via smartphone app. Often eligible for utility rebates.
+</p>
+<h2>General Utility Terms</h2>
+<h3 id="auto-pay">Auto-pay</h3>
+<p>
+Automatic bill payment from a bank account or credit card. Prevents late fees but requires maintaining adequate account balance.
+</p>
+<h3 id="budget-billing">Budget billing (Level payment plan)</h3>
+<p>
+A program that averages your annual usage and charges the same amount each month. Smooths out seasonal swings. The utility adjusts the amount periodically based on actual usage. Learn more in our billing guide.
+</p>
+<h3 id="billing-cycle">Billing cycle (Billing period)</h3>
+<p>
+The time span covered by a utility bill, usually 28 to 35 days. Compare bills by usage per day to account for varying cycle lengths.
+</p>
+<h3 id="deregulated-market">Deregulated market</h3>
+<p>
+A region where you can choose your energy supplier for the commodity portion of your bill. The delivery portion remains with your local utility.
+</p>
+<h3 id="fixed-rate">Fixed rate</h3>
+<p>
+A rate plan that locks in the price per unit for a set term, usually 6 to 24 months. Provides price stability. See our rate comparison guide.
+</p>
+<h3 id="variable-rate">Variable rate</h3>
+<p>
+A rate plan where the price per unit changes each month based on market conditions. Can be cheaper in low-demand months but may spike during extreme weather.
+</p>
+<h3 id="late-fee">Late fee</h3>
+<p>
+A penalty charged when payment is received after the due date. Usually $5 to $25. Avoid by using auto-pay or setting payment reminders.
+</p>
+<h3 id="reconnection-fee">Reconnection fee</h3>
+<p>
+A fee charged to restore service after disconnection for non-payment. Often $50 to $150.
+</p>
+<h3 id="deposit">Deposit</h3>
+<p>
+An upfront payment required by some utilities for new customers. Often refunded after a period of on-time payments. Amounts vary based on credit and location.
+</p>
+<h2>How to use this glossary</h2>
+<p>
+Bookmark this page for quick reference when reading utility bills or comparing energy plans. For detailed explanations and real-world examples, visit our full guides:
+</p>
+<ul>
+<li>Electricity Explained</li>
+<li>Natural Gas Explained</li>
+<li>Water Service Explained</li>
+<li>Heating & Cooling Explained</li>
+<li>Utility Bills & Costs Explained</li>
+</ul>
+<p>
+If you have questions about a specific term or topic, explore our full article library for in-depth explanations and practical advice.
+</p>
+
+=====FILE: content/author/_index.md=====
+---
+title: "Our Authors"
+description: "Meet the editors behind Utility Explained — the team that decodes your electricity, gas, water, and heating bills line by line."
+date: 2026-08-10
+---
+
+# Our Editorial Bylines
+
+Utility Explained uses editorial bylines to identify the topic desk responsible for a guide. They are not claims of independently credentialed individuals. Guides may use AI assistance during drafting; data-heavy pages are being reviewed so material figures and regulatory claims carry visible, dated primary-source links.
+
+## Meet the Team
+
+- [Margaret Harrington — Utility Billing Analyst](/author/margaret-harrington/)
+- [David Chen — Home Energy Auditor](/author/david-chen/)
+- [Marcia Washington — Household Budget Counselor](/author/marcia-washington/)
+- [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
+- [Tanya Patterson — Consumer Advocate](/author/tanya-patterson/)
+
+=====FILE: content/author/david-chen.md=====
+---
+title: "David Chen — Energy Efficiency Editor"
+slug: "david-chen"
+description: "David Chen is an editor on the Utility Explained team, focusing on home energy efficiency, HVAC ratings, and practical ways to cut utility bills."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# David Chen
+
+**Role:** Energy Efficiency Editor
+
+David Chen is the editorial byline for Utility Explained's Energy Efficiency desk. It identifies the desk responsible for guides about lowering household utility use — from weatherstripping and water-heater settings to HVAC efficiency ratings (SEER, AFUE, HSPF, COP), heat pumps, and air sealing.
+
+For data-heavy efficiency guides, the desk uses DOE, ENERGY STAR, and manufacturer documentation. Refreshed guides show their source links and review date.
+
+## What David Writes About
+
+David writes and reviews our energy-efficiency, savings, and comparison guides — the articles that walk through what lowers a bill, what it costs, and how long it takes to pay for itself.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+=====FILE: content/author/marcia-washington.md=====
+---
+title: "Marcia Washington — Affordability & Assistance Editor"
+slug: "marcia-washington"
+description: "Marcia Washington is an editor on the Utility Explained team, focusing on utility budgeting, assistance programs, and keeping service on."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Marcia Washington
+
+**Role:** Affordability & Assistance Editor
+
+Marcia Washington is the editorial byline for Utility Explained's Affordability & Assistance desk. It identifies the desk responsible for guides about budget billing, assistance programs such as LIHEAP and the Weatherization Assistance Program, payment plans, and service-protection options.
+
+Her aim is to make utility costs predictable, especially for households stretched by seasonal spikes, and to point readers to the real programs and protections available in their state.
+
+## What Marcia Writes About
+
+Marcia writes and reviews our budgeting, assistance-program, and cost-planning guides — the articles that help you plan for utility expenses, find help when you need it, and keep your service on.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+=====FILE: content/author/margaret-harrington.md=====
+---
+title: "Margaret Harrington — Bills & Rates Editor"
+slug: "margaret-harrington"
+description: "Margaret Harrington is an editor on the Utility Explained team, focusing on electricity, gas, and water bill structure and rate plans."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Margaret Harrington
+
+**Role:** Bills & Rates Editor
+
+Margaret Harrington is the editorial byline for Utility Explained's Bills & Rates desk. It identifies the desk responsible for guides that break down how electricity, gas, and water bills are put together — what each line item means, how rate structures (flat, tiered, time-of-use, demand charges) change what you pay, and where billing errors and estimated reads tend to hide.
+
+For data-heavy billing guides, the desk uses primary sources such as U.S. EIA data, state public utility commission filings, and published provider tariffs. Refreshed guides show their source links and review date.
+
+## What Margaret Writes About
+
+Margaret writes and reviews our electricity, gas, water, and billing-structure guides — the articles that explain every charge on your bill so you know what you're paying for and whether it looks right.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+=====FILE: content/author/roberto-mendoza.md=====
+---
+title: "Roberto Mendoza — HVAC & Systems Editor"
+slug: "roberto-mendoza"
+description: "Roberto Mendoza is an editor on the Utility Explained team, focusing on heating and cooling systems and how they affect utility bills."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Roberto Mendoza
+
+**Role:** HVAC & Systems Editor
+
+Roberto Mendoza is the editorial byline for Utility Explained's Heating & Cooling desk. It identifies the desk responsible for guides about efficiency ratings, heat-pump operation, duct leaks, short cycling, and common HVAC problems behind unexplained bill spikes.
+
+For data-heavy HVAC guides, the desk uses manufacturer documentation and DOE material. Refreshed guides show their source links and review date.
+
+## What Roberto Writes About
+
+Roberto writes and reviews our HVAC, heating, and cooling guides — the articles that help you understand how your heating and cooling system drives your bill and what to do when something seems off.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+
+=====FILE: content/author/tanya-patterson.md=====
+---
+title: "Tanya Patterson — Consumer Rights Editor"
+slug: "tanya-patterson"
+description: "Tanya Patterson is an editor on the Utility Explained team, focusing on utility fees, billing disputes, and consumer rights."
+date: 2026-08-10
+updated: 2026-08-12
+---
+
+# Tanya Patterson
+
+**Role:** Consumer Rights Editor
+
+Tanya Patterson is the editorial byline for Utility Explained's Consumer Rights desk. It identifies the desk responsible for guides about fees, riders, surcharges, billing disputes, and state public-utility-commission complaint processes.
+
+She breaks down the fees and line items utilities use, explains which ones are regulated, and points to the real dispute and complaint channels available to consumers.
+
+## What Tanya Writes About
+
+Tanya writes and reviews our fees, troubleshooting, and consumer-rights guides — the articles that help you read a bill critically, challenge charges that look wrong, and know your options.
+
+---
+
+*Guides may use AI assistance during drafting. Data-heavy pages are being reviewed so material claims carry visible, dated primary-source links. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.*
+

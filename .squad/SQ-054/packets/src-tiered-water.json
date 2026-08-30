@@ -1,0 +1,29 @@
+{
+ "parent_objective": "SQ-054: clear the tier-2 open queue \u2014 source-and-verify unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site (AdSense 'Low value content' rejection \u2014 every number must trace to a fetched source). Voice: plain, verb-led; action-first Quick Answer pattern (model pages rebuilt to the verified-examples standard: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md, content/blog/22-minimum-bill-utility-bill-explained.md). Site standards: frontmatter `sources:` = live URLs you fetched this run; body inline [n] markers + '## Sources' footer with markdown links; no leaked editorial notes in prose; frontmatter `sources:` must equal the body-cited set. NEVER open anything under .squad/SQ-045, .squad/SQ-051, .squad/SQ-052 or .squad/SQ-053 (stale audit verdicts poison runs). No git commands. Do not spawn agents. No secrets exist in this repo \u2014 never print or seek any.",
+ "constraints": [
+  "READ-ONLY audit: you change NO files (write_file/edit_file prohibited)",
+  "Every verdict must quote the exact sentence(s) from the file and, for factual checks, cite the source URL you fetched (retrieved 2026-08-29)",
+  "No git commands. Do not spawn agents."
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers in the delivered body",
+  "sources frontmatter complete and equal to body citations",
+  "RESULT must contain, under a heading 'OUTPUT CONTRACT': (1) CLAIM LEDGER \u2014 every factual claim checked, each marked KEPT (source URL + exact quote fragment + retrieved date) / FIXED (old text -> new text + source) / DELETED (why unverifiable) / ESTIMATE (labeled as site estimate + basis); (2) EDITS \u2014 structural changes applied to the file; (3) HUMAN REVIEW \u2014 anything you could not verify at source; (4) wc -w before -> after."
+ ],
+ "role": "tracer",
+ "mission": "content/blog/tiered-water-rates-explained.md \u2014 3,092 words, ZERO sources, ZERO H2s, no Quick Answer \u2014 but the BEST engagement in tier 2 (33.3% bounce): PRESERVE its voice and content while adding evidence and structure. (1) First locate the flagged Colorado tenant-billing claim (the file references 'HB1090' or similar): search leg.colorado.gov, denverwater.org, and official Colorado sources; if the bill number or its description does not verify, fix the citation or delete the claim \u2014 state which in the ledger. (2) Structure: '## Quick Answer' (mechanism: price per Ccf rises as monthly usage crosses each tier) + H2 sections carved from the existing prose. (3) Municipal tier examples YOU fetch THIS RUN from official 2026 rate pages: 2-4 real tier tables with $/unit (e.g. SFPUC current water tiers, Seattle, Austin Water, Tucson or Sacramento); include one flat-rate contrast city (Philadelphia: $5.16/CCF flat, no tiers \u2014 already verified 2026-08-29). (4) sources frontmatter + inline [n] + '## Sources' footer.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ]
+ },
+ "known_facts": [
+  "SFPUC rates changed effective 2026-07-01 (sewer = 90% of water x $20.74/unit verified; the WATER tier table needs a fresh fetch)",
+  "EPA: 1 CCF = 748 gallons (verified 2026-08-29); never open .squad/SQ-045/051/052/053 artifacts"
+ ]
+}

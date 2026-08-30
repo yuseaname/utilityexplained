@@ -1,0 +1,25 @@
+{
+  "role": "tracer",
+  "mission": "Follow ONE thread to the bottom: the site's E-E-A-T trust chain. Question: would a skeptical human reader (and a Google quality rater) trust this site on money-adjacent utility advice? Trace every link in the chain and report where it holds and where it breaks.",
+  "parent_objective": "SQ-068 full content/SEO/quality audit of utilityexplained.com",
+  "context": "Read .squad/SQ-068/audit-criteria.md FIRST (binding rubric). The chain to trace end-to-end:\n(1) AUTHOR IDENTITY: do the 5 author pages (content/author/) carry real credentials, bios, verifiable identities? Are those same authors actually bylined across posts (grep 'author:' across content/blog/)? Any posts with missing/fake-looking authors? Does content/editorial-team.md match the author pages (same people, consistent claims)?\n(2) EDITORIAL PROMISES VS PRACTICE: content/editorial-policy.md and content/methodology.md make promises (fact-checking, sourcing, update cadence). Sample 12 posts across categories and verify practice: front-matter sources with retrieval dates? 'updated' stamps honest vs content? Quick Answer blocks consistent with promises?\n(3) DISCLOSURE ARCHITECTURE: affiliate-disclosure page + {{< affiliate-disclosure >}} shortcode presence on commercial/buying-guide pages (grep across content/blog/ for the 6 buying-guide style posts: 42-best-energy-efficient-space-heater, 50-best-smart-plugs-standby-power, 45-whole-house-generator-vs-portable-cost, gadgets-that-lower-utility-bills, 48-heat-pump-vs-gas-furnace-savings, ductless-mini-split-vs-central-air). Is monetization disclosed where money claims appear?\n(4) RECOURSE: contact.md and corrections.md — usable? corrections page show real corrections history?\n(5) CLAIM HYGIENE: grep for unsupported superlatives/statistics patterns ('studies show', 'up to X%', 'most experts') across the corpus — quote the 8 worst with file paths.\nReport each link: HOLDS / WEAK / BROKEN + evidence.",
+  "known_facts": [
+    "Front matter carries a sources: list with retrieval dates on at least some posts — measure coverage honestly via grep",
+    "A factcheck pass ran 2026-08-29 (SEO-CONTENT-AUDIT-FACTCHECK-2026-08-29.md) — you may read it for orientation but your findings must be independently derived"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"]
+  },
+  "constraints": [
+    "Read-only; every claim tagged with file path + verbatim quote",
+    "One thread — do not drift into general content quality (other seats cover that)"
+  ],
+  "prohibited_actions": ["write_file", "edit_file", "web_search", "web_fetch"],
+  "success_criteria": [
+    "Chain report: each of the 5 links HOLDS/WEAK/BROKEN with evidence",
+    "Author-byline coverage matrix (author -> post count via grep -c)",
+    "Sources-front-matter coverage: how many of 88 blog posts carry sources with retrieval dates (grep -c evidence)",
+    "8 quoted unsupported-claim examples with paths",
+    "Verdict paragraph: net trust assessment + the 3 highest-leverage trust fixes"
+  ]
+}

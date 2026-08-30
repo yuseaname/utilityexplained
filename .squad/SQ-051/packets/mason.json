@@ -1,0 +1,34 @@
+{
+ "role": "mason",
+ "mission": "Audit + fact-check pages #21-#24 (28/28/27/25pv). #21 is the site's worst engagement page (96.3% bounce, 0-second time-on-page = readers bail before content registers) \u2014 diagnose root cause: title/meta mismatch with intent? Broken render? Answer-less intro? #24 is the positive outlier (36% bounce) \u2014 identify exactly WHAT makes it work (specific structural/voice/answer-first choices) so the pattern can be replicated on #21/#19/#14.",
+ "parent_objective": "SQ-051: per-page SEO content + fact-check audit of top 30 pages by Rybbit 30d traffic; feed Commander synthesis into a remediation plan",
+ "context": "SITE: utilityexplained.com \u2014 Hugo static site, US utility-bill education (water/sewer/electric/gas), monetized via affiliate product boxes + AdSense. AdSense is currently BLOCKED (\"Low value content\", 2026-08-23) \u2014 re-earning trust is the mission context; accuracy and evidence are the gate. Source of truth: markdown at content/blog/<slug>.md (frontmatter + body). Live URL: https://utilityexplained.com/blog/<slug>/. Reader: US resident holding a utility bill, wants to understand/act. Site-wide known facts: 92/96 guides have zero outbound source URLs; author/editor identity claims are under review for substantiation; site sells \"exact savings\" so unsourced dollar figures are the #1 credibility risk. Engagement data for your pages is in .squad/SQ-051/evidence.md (Rybbit 30d).",
+ "known_facts": [
+  "#21 why-your-electric-bill-keeps-rising-2026: 0s TOP means exits before meaningful engagement \u2014 inspect frontmatter (title/description) vs actual first-screen content",
+  "#22 demand charges: residential demand charges are RARE (mostly commercial/industrial) \u2014 verify whether the page misframes residential relevance",
+  "#23 why-did-water-suddenly-increase vs #8 06-water-bill-too-high vs #4 water-meter-running: three pages overlapping 'water bill went up' intent \u2014 map the boundaries"
+ ],
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "notes": "Evidence brief (engagement data + selection method): .squad/SQ-051/evidence.md \u2014 read it first. Your pages: content/blog/why-your-electric-bill-keeps-rising-2026.md; content/blog/49-demand-charges-electricity-bill-explained.md; content/blog/why-did-my-water-bill-suddenly-increase.md; content/blog/is-your-toilet-running-leak-test.md"
+ },
+ "constraints": [
+  "Never make claims about Google's ranking systems/algorithms beyond citing public documentation \u2014 frame SEO advice as best practice, not causal ranking claims",
+  "No vague recommendations \u2014 every fix names its target section, heading, quote, or claim",
+  "Every factual verdict carries a URL + retrieved date 2026-08-29, or is labeled NEEDS HUMAN REVIEW",
+  "Stay read-only on the repo \u2014 analysis only",
+  "If web_search/web_fetch cannot confirm a claim, say UNVERIFIED \u2014 do not fabricate evidence"
+ ],
+ "prohibited_actions": [
+  "write_file",
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Every assigned page has its full OUTPUT CONTRACT block",
+  "3-6 factual claims per page verified with URL + date, or labeled NEEDS HUMAN REVIEW",
+  "Weak-copy examples are exact quotes, not paraphrases",
+  "Fixes are specific enough to execute without re-reading the page"
+ ]
+}

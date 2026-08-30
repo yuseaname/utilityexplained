@@ -1,0 +1,35 @@
+{
+ "parent_objective": "SQ-054 write wave: apply verified ledgers to unsourced pages",
+ "context": "Site: utilityexplained.com (Hugo). Evidence-gated affiliate site \u2014 every number must trace to a fetched source. Voice: plain, verb-led; action-first Quick Answer (model: content/blog/25-utility-bill-taxes-fees-franchise-charges-explained.md). Site standards: frontmatter sources = live URLs; inline [n] + '## Sources' footer; sources FM = body-cited set. NEVER open .squad/SQ-045/051/052/053 or .squad/SQ-054/results (stale verdicts poison runs). No git. No agents. No secrets.",
+ "constraints": [
+  "You own EXACTLY the files in write_paths; touch nothing else",
+  "PRIOR READ-ONLY VERIFICATION established the ledger below \u2014 apply it; RE-FETCH only the specific URLs backing numbers you KEEP or ADD (spot re-fetch of each cited URL is required)",
+  "Cannot verify = do not include; preserve slug/date/author/image; set updated: 2026-08-29; keep hero_below_answer: true if present",
+  "'## Quick Answer' first: <=3 sentences with a mechanism or number",
+  "Keep existing good content \u2014 add evidence and structure, do not reset"
+ ],
+ "prohibited_actions": [
+  "edit_file"
+ ],
+ "success_criteria": [
+  "Zero unsourced numbers",
+  "sources FM = body citations",
+  "QA + H2 structure present",
+  "OUTPUT CONTRACT: claim ledger (KEPT w/ URL+date / FIXED / DELETED / ESTIMATE), edits applied, human-review items, wc before->after"
+ ],
+ "role": "cartographer",
+ "mission": "TWO sibling files \u2014 apply the verified EPA ledger (read-only pass 2026-08-29): (A) content/blog/why-is-my-water-bill-higher-in-summer.md (1,280w, 1 H2, no QA, 0 sources): contains an UNSOURCED, MATHEMATICALLY BROKEN table \u2014 either DELETE it and replace with the verified EPA framework (outdoor use ~30% of household use nationally, up to ~60% in arid regions; household leaks ~9,400 gal/yr; fixing leaks saves ~10%) or source every surviving row to an EPA/AWWA page you fetch. Add '## Quick Answer' (top 2-3 causes WITH numbers from your fetched EPA pages), H2 structure, FAQ claims about tiered pricing/leaks must get citations or be cut. (B) content/blog/why-is-my-water-bill-higher-in-winter.md (846w, 2 H2s, no QA): delivers only 5 of 8 promised causes \u2014 EITHER add the 3 missing causes (freeze-thaw pipe stress is the obvious one, plus seasonal guests and rate/billing-cycle changes) with sourced support, OR trim the title/promise to match 5 causes. Add '## Quick Answer', structure, citations. Both: sources frontmatter + inline [n] + '## Sources' footer. Cross-link the two siblings once each; also link 44-how-to-lower-water-bill.md where action advice fits.",
+ "resources": {
+  "roots": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+  ],
+  "write_paths": [
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-summer.md",
+   "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/why-is-my-water-bill-higher-in-winter.md"
+  ]
+ },
+ "known_facts": [
+  "EPA pages to re-fetch for quotes: epa.gov/watersense/outdoor-water-use-us (or /how-we-use-water), /statistics-and-facts, /fixaleak \u2014 live slug is fixaleak NOT fix-leak",
+  "Do NOT use epa.gov/watersense/start-saving's $1,300/$500 pair unless the sentence is about fixture retrofits \u2014 those are fixture figures, not seasonal-bill figures"
+ ]
+}
