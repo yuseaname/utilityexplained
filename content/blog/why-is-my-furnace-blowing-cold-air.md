@@ -43,7 +43,7 @@ Do not bypass safety controls, open combustion equipment, relight a pilot, clean
 
 If all these pass and the air is still cold after 5 minutes, move to the cause list below.
 
-![Two thermostats compared: FAN ON blowing cold air versus FAN AUTO heating correctly](/images/articles/why-is-my-furnace-blowing-cold-air/thermostat-auto-vs-fan.webp "The number-one cause: FAN ON instead of AUTO")
+{{< image src="/images/articles/why-is-my-furnace-blowing-cold-air/thermostat-auto-vs-fan.webp" alt="Two thermostats compared: FAN ON blowing cold air versus FAN AUTO heating correctly" caption="The number-one cause: FAN ON instead of AUTO" >}}
 
 ## Cause List: DIY vs. Call a Pro
 
@@ -95,17 +95,21 @@ A properly sized, well-maintained furnace can last **15–20 years**; after that
 
 ## FAQ
 
-**Why does cold air blast out when the fan runs?**
+{{< faq "Why does cold air blast out when the fan runs?" >}}
 Usually the thermostat fan is set to **ON** instead of **AUTO**. In AUTO mode, the blower runs only when the furnace is actually heating. Flipping it to AUTO often solves the problem immediately.
+{{< /faq >}}
 
-**How often should I change the filter in winter?**
+{{< faq "How often should I change the filter in winter?" >}}
 With daily heating, replace a 1-inch fiberglass filter every **1 to 3 months**. If you have pets or allergies, lean toward the shorter end of that range. A clean filter protects the blower and helps avoid limit-switch shutdowns.
+{{< /faq >}}
 
-**Is a little cold air at startup normal?**
+{{< faq "Is a little cold air at startup normal?" >}}
 Yes. It is normal to feel a short burst of cool air for the first **1–2 minutes** while the burner warms up and the blower starts. If the air stays cold after 5 minutes, use the check table above.
+{{< /faq >}}
 
-**When should I stop troubleshooting and call someone?**
+{{< faq "When should I stop troubleshooting and call someone?" >}}
 If you smell gas or burning odor, see soot, hear a loud bang, or your carbon-monoxide alarm sounds — stop right now and call a professional (or 911 for a gas emergency). Otherwise, if one pass through the 15-minute table does not restore heat, a service call is the next step.
+{{< /faq >}}
 
 ## Preventing Avoidable Problems
 
@@ -113,11 +117,11 @@ Use the maintenance schedule in the equipment manual, keep required vents clear,
 
 ## Related Reading
 
-- [Duct leaks and how they affect your heating](/blog/duct-leaks/)
+- [Duct leak symptoms and why the HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/)
 - [Auxiliary heat vs. emergency heat: what's the difference?](/blog/aux-heat-vs-emergency-heat-meaning/)
 - [13 reasons your AC short-cycles](/blog/13-ac-short-cycling-causes-fixes/)
 - [Heat pump vs. gas furnace: 48 factors to compare](/blog/48-heat-pump-vs-gas-furnace-savings/)
-- [Heating & cooling hub](/blog/heating-cooling-hub/)
+- [Heating & cooling explained](/heating-cooling-explained/)
 
 ## Sources
 

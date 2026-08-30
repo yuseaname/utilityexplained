@@ -98,4 +98,4 @@ Sealing leaks reduces wasted airflow, which usually shortens runtime — but the
 ## Sources
 
 1. [U.S. Department of Energy Building Science Education: HVAC Duct Leakage Testing](https://bsesc.energy.gov/training-modules/hvac-duct-leakage-testing)
-2. [ENERGY STAR: Duct Sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing) — "about 20 to 30 percent of the air…is lost due to leaks, holes, and poorly connected ducts"; "seal with mastic sealant or metal tape — not duct tape".
+2. [ENERGY STAR: Duct Sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing) — accessed 2026-08-30. Exact quote: "about 20 to 30 percent of the air that moves through the duct system is lost due to leaks, holes, and poorly connected ducts." Also: "Start by sealing air leaks using mastic sealant or metal tape… Never use duct tape, as it is not long-lasting."
