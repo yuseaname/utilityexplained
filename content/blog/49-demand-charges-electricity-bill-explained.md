@@ -52,6 +52,8 @@ Demand charges live mainly in commercial and industrial rate schedules; the U.S.
 
 Where the charge applies, the meter records use in fixed windows — intervals "usually 15 or 30 minutes" in the Forest Service guide, and "15 consecutive minutes" in Stillwater, Oklahoma's tariff, which bills the single highest such interval of the month.[3][5] Illustration only, not any utility's rate: **12 kW** × **$8.50/kW** = **$102.00**, before riders and taxes. Interval data starts at the meter — [how to read your electric meter](/blog/how-to-read-electric-meter/) is the companion skill.
 
+{{< visual src="/images/articles/49-demand-charges-electricity-bill-explained/demand-15min-curve.webp" alt="Energy-use chart contrasting a tall narrow fifteen-minute peak spike labeled eight kilowatts against a smooth energy hill labeled twenty-four kilowatt-hours, with price tags showing the demand charge is set by the peak and the energy charge by the total." >}}
+
 That one interval can follow you forward. Stillwater's tariff sets billing demand at no less than **65%** of the highest power-factor-corrected summer on-peak demand from the **previous 12 months**[5] — the actual-versus-billed-demand gap DOE describes, written into a tariff. When you ask for the calculation, ask specifically whether a ratchet applied.[1]
 
 Some commercial tariffs also correct demand for power factor before billing it: Stillwater raises billed demand when average power factor falls below **80%**, and Hamilton, Ohio's industrial schedule derives billing demand from kVA rather than kW.[5][6] A demand line that resists your own interval math may simply be power-factor corrected.

@@ -48,6 +48,8 @@ sources:
 <h3>Step 4: Confirm with a numbers check</h3>
 <p>Take a photo of the meter reading, wait 10–15 minutes with everything still off, then take another photo. <strong>Any increase means water moved through the meter</strong> — even if the indicator looked still at first glance.</p>
 
+{{< image src="/images/articles/water-meter-leak-indicator-explained/meter-leak-indicator.webp" alt="Close-up of a circular water meter face with odometer-style gallon digits and a small red triangular leak-indicator dial, with callouts explaining that a still dial means no flow and a spinning dial means a leak" caption="The small dial is the truth-teller: no water running means it should not move" >}}
+
 ## Why your bill jumped (and how the leak indicator proves it) {#problem}
 <p>A higher water bill is one of the most confusing household surprises. You did not change your routine — but your usage did. The most common reasons for a sudden spike are a silent toilet flapper leak (often running <strong>24 hours a day</strong> at a slow rate), a stuck irrigation valve, a small underground service-line leak, or a billing-cycle length change. The 60-second test above is the fastest way to figure out which one is happening at your house.</p>
 <p>If you already know your meter is running and want the full troubleshooting playbook, see our guide on <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a>. For the overall "bill detective" flowchart, start here: <a href="/blog/why-did-my-water-bill-suddenly-increase/">why water bills suddenly increase</a>.</p>

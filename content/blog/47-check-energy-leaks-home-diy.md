@@ -50,6 +50,8 @@ The pressurization trick from DOE's air-sealing guide turns small leaks into vis
 
 Where to check, from DOE's list: attic-floor penetrations, dropped ceilings, soffits over cabinets, recessed light fixtures, the attic hatch, basement rim joists and sill plates, water-heater and furnace flues, the electrical service entrance, foundation-siding junctions, chimney flashing, and window/door frames.[2] On exterior walls, foam gaskets behind outlet and switch cover plates are the classic first fix. For doors that draft at the bottom:
 
+{{< image src="/images/articles/47-check-energy-leaks-home-diy/house-leak-cross-section.webp" alt="Two-story house cross-section with six numbered red arrows marking common air leaks: attic hatch, recessed ceiling lights, window frames, door sweeps, rim joist at the foundation, and dryer vent" caption="The six usual suspects: start at the top, work down" >}}
+
 {{< amazon asin="B082W6F8DJ" text="See the Holikme twin door draft stopper on Amazon" >}} — adjustable 34-inch twin-sided sweep that slides over the door bottom, no adhesive.
 
 ## The Duct Factor (If You Have Forced Air)

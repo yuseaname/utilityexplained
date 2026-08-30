@@ -22,6 +22,8 @@ sources:
 
 Seeing a period that runs 27–35 days, or a start or end date shifted a day or three from last month, is routine — the sections below explain why, and how to check whether anything actually changed.
 
+{{< visual src="/images/articles/23-utility-billing-cycle-explained/billing-cycle-timeline.webp" alt="Timeline of one billing cycle with four stations: meter read, bill generated three days later, due date twenty days after that, and a late fee warning ten days past due." >}}
+
 Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
 
 **Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).

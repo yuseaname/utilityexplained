@@ -4,7 +4,12 @@ slug: "average-utility-bills-by-state-2026"
 aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
 description: "What US households pay for utilities in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table computed from published rates at standard usage."
 date: 2026-05-29
-updated: 2026-08-29
+updated: 2026-08-30
+sources:
+  - https://www.eia.gov/electricity/monthly/update/end-use.php
+  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
+  - https://www.eia.gov/electricity/sales_revenue_price/
+  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -12,11 +17,6 @@ tags: ["therms", "savings", "gas bill", "kwh", "budget"]
 keywords: ["therms", "lower utility bill", "high gas bill", "kwh usage", "utility budget"]
 image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bills-by-state-2026_hero_v3.webp"
 hero_below_answer: true
-sources:
-  - https://www.eia.gov/electricity/monthly/update/end-use.php
-  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
-  - https://www.eia.gov/electricity/sales_revenue_price/
-  - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption
 ---
 
 <h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026</h2>
@@ -123,7 +123,7 @@ sources:
           <li><strong>New Jersey</strong>: $74/month</li>
           <li><strong>Connecticut</strong>: $71/month</li>
           </ul>
-          <p>California’s high costs aren’t just from rates—many cities (like San Diego and Los Angeles) add <strong>drought surcharges</strong> of up to 30% during dry periods. In 2026, 12 states implemented new conservation-tier pricing, meaning you pay more per gallon as your usage increases.</p>
+          <p>California’s high costs aren’t just from rates—many cities (like San Diego and Los Angeles) add <strong>drought surcharges</strong> during dry periods. Some states have implemented conservation-tier pricing, meaning you pay more per gallon as your usage increases.</p>
           <p>Water bills also vary dramatically within states. In Texas, for example, Austin averages $52/month, while El Paso (with extensive reuse and desalination) is $39—despite being in a drought-prone region. That’s thanks to long-term infrastructure planning.</p>
           <p>For practical ways to reduce your water bill, check out our <a href="/blog/44-how-to-lower-water-bill/">water-saving tips for homeowners</a>.</p>
 

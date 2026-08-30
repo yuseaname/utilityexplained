@@ -39,6 +39,8 @@ Start early, and the move gets dramatically easier. Here's the week-by-week plan
 | Moving day | Turn off at old home (after you're done loading). Turn on at new home (if not already live) | The two dates you planned for |
 | Day after | Walk the old home, photograph the empty rooms and the meter one last time | Proof of condition and final reading |
 
+{{< image src="/images/articles/moving-utilities-checklist/moving-timeline-belt.webp" alt="Moving timeline showing five milestone cards from left to right: four weeks out, three weeks out, two weeks out, moving day, and the day after" caption="The whole move on one line: plan at four weeks, confirm at two, execute on the day" >}}
+
 Two things to note. First, the 2-week mark is the real deadline for most providers — each utility sets its own lead time, so confirm the notice window when you schedule [2]. Second, if you're moving into a new provider's territory, start at 3 weeks, not 2 — a new account can require a credit check and a deposit, and that takes time.
 
 ## Turn-Off vs. Transfer: Which Applies to You
@@ -90,6 +92,8 @@ These are the quiet ways a move turns into a collections call or a double bill.
 **First apartment.** If this is your first place with utilities in your name, expect a deposit — you have no history yet. Budget for it, and read our guide to [budgeting for utilities in your first apartment](/blog/how-to-budget-for-utilities-in-your-first-apartment/) so the first bills don't blindside you.
 
 **Service gaps: what one dark day actually costs.** If you let the old service end and the new one start a day late, you spend one night with no power. That's not just inconvenient — it can mean a fridge full of food going bad, or no heat in winter. The cost of one night in a hotel or a spoiled fridge is almost always more than the cost of one overlapping day of utility service. When in doubt, overlap by a day rather than gap by a day.
+
+{{< image src="/images/articles/moving-utilities-checklist/moving-overlap-cost.webp" alt="Cost comparison of overlapping utility service for one day at two homes versus a one-day service gap leading to a dark home, spoiled food, and a hotel stay" caption="Overlap beats gap: one overlapping bill day costs less than one dark day" >}}
 
 ## Checklist: The One-Page Printable Version
 
@@ -148,14 +152,6 @@ It depends on the service and the provider. Electric and gas connections sometim
 {{< /faq >}}
 
 {{< faq-schema >}}
-
-## Image Prompts
-
-1. **Placement: after H2-1 (The Timeline: 4 Weeks Out → Moving Day).** Concept: a horizontal timeline belt showing the move sequence — 4 weeks out, 2 weeks out, moving day, day after, day before. Style: clean flat vector illustration, warm neutral palette (soft blue, amber, gray), each milestone as a labeled card with a simple icon connected by an arrow. Composition: wide banner, left-to-right flow, generous white space, short legible labels that work at thumbnail size.
-
-2. **Placement: after H2-6 (Special Cases).** Concept: a side-by-side cost comparison — on the left, two homes' overlapping utility bills; on the right, one dark night with a spoiled fridge and a hotel key. Style: flat vector illustration, muted blue and teal with warm amber accents, simple icons for a house, a bill, a fridge, and a hotel. Composition: two balanced panels with a clear visual verdict, calm and reassuring rather than alarmist.
-
-3. **Placement: after H2-4 (The Final Bill: Catching Old-Home Charges).** Concept: a close-up of a hand photographing a utility meter with a phone, the date stamp visible on the screen. Style: flat vector illustration, warm and approachable, soft green and blue palette to signal documentation and control. Composition: a single focused scene, the meter and phone as the clear subjects, clean background, emphasizing the act of capturing evidence.
 
 ## Sources
 

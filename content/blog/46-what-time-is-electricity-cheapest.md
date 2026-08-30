@@ -3,7 +3,7 @@ title: "What Time Is Electricity Cheapest?"
 slug: "46-what-time-is-electricity-cheapest"
 description: "Find the cheapest electricity hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
 date: 2026-08-28
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -12,7 +12,7 @@ keywords: ["cheapest electricity hours", "time of use electricity", "electricity
 image: "/images/articles/46-what-time-is-electricity-cheapest/custom_hero.webp"
 sources:
   - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf (retrieved 2026-08-28)
-  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use (retrieved 2026-08-28)
+  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use (Con Edison TOU rates, retrieved 2026-08-29)
   - https://www.powertochoose.org (retrieved 2026-08-28)
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.eia.gov/electricity/monthly/update/end-use.php
@@ -21,7 +21,7 @@ sources:
 
 ## Quick Answer
 
-**For most residential time-of-use (TOU) plans, electricity is cheapest after 9:00 PM and before 4:00 PM on weekdays, plus all weekend.** Exact hours depend on your utility's specific tariff. The off-peak discount ranges from under 10% (PG&E's winter spread) to about half (Con Edison) to entirely free overnight hours (TXU) — so confirm the gap in your utility's tariff before shifting laundry, dishwashing, and EV charging.
+**For most residential time-of-use (TOU) plans, electricity is cheapest after 9:00 PM and before 4:00 PM on weekdays, plus all weekend.** Exact hours depend on your utility's specific tariff. The off-peak discount ranges from under 10% (PG&E's winter spread) to about 81% (Con Edison's summer spread) to entirely free overnight hours (TXU) — so confirm the gap in your utility's tariff before shifting laundry, dishwashing, and EV charging.
 
 This page provides the quick-reference answer. For a full explanation of how TOU plans work, how to read a tariff, and how to compare your usage to your utility's specific schedule, see [Time-of-Use Electricity Rates Explained](/blog/08-time-of-use-electricity/).
 
@@ -34,8 +34,10 @@ Every utility sets its own peak and off-peak windows. The table below shows the 
 | Utility / Plan Type | Cheapest Hours | Off-Peak Price (per kWh) | Best For |
 |---|---|---|---|
 | **PG&E E-TOU-C** (California) | All hours except 4:00–9:00 PM every day | $0.3676–$0.3994/kWh (winter); $0.3994 (summer baseline-adjusted)[1] | Homes with flexible schedules; shift big loads to mid-day or after 9 PM |
-| **Con Edison Residential TOU** (New York) | 12:00–8:00 AM weekdays + all weekend | ~$0.2233/kWh (supply + delivery)[2] | Night owls and weekend laundry warriors; the 8 AM–12 AM weekday rate is still cheaper than peak (2–6 PM) |
+| **Con Edison Residential TOU** (New York) | 12:00–8:00 AM weekdays + all weekend | $0.0522/kWh (supply)[2] | Night owls and weekend laundry warriors; the 8 AM–12 AM weekday rate is still cheaper than peak (2–6 PM) |
 | **TXU Free Nights & Solar Days** (Texas) | 9:00 PM – 9:00 AM | $0.00/kWh (up to 2,000 kWh/mo)[3] | Heavy overnight users — charge EVs, run the dryer, and cool the house after 9 PM; day rate is moderate |
+
+{{< visual src="/images/articles/46-what-time-is-electricity-cheapest/tou-24h-price-curve.webp" alt="Bar chart of electricity prices across 24 hours with cheap overnight bars, moderate midday bars, and tall expensive late-afternoon peak bars." >}}
 
 For detailed hourly breakdowns, seasonal differences, and a dishwasher-cost comparison across these plans, see [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#real-world-tou-rate-schedules-2026).
 
@@ -43,7 +45,7 @@ For detailed hourly breakdowns, seasonal differences, and a dishwasher-cost comp
 
 Shift these common loads to the cheapest hours on your plan:
 
-- **Dishwasher.** Run it once a day after 9 PM (or before 4 PM). ENERGY STAR certifies standard-size dishwashers that cost about **$50 per year to run** — the off-peak share of that depends on your plan's gap.[6] On Con Edison's TOU plan, the all-in off-peak rate (about 22.33¢/kWh) is roughly half the peak rate (about 44.97¢/kWh), so timing alone can cut the energy portion of dishwashing by about half on that plan.[2]
+- **Dishwasher.** Run it once a day after 9 PM (or before 4 PM). ENERGY STAR certifies standard-size dishwashers that cost about **$50 per year to run** — the off-peak share of that depends on your plan's gap.[6] On Con Edison's TOU plan, off-peak supply costs 5.22¢/kWh versus 27.86¢/kWh during summer peak hours (8 AM–midnight, June–September), so timing alone can cut the supply portion of dishwashing by about 81% on that plan — still about 70% in the cooler months, when peak supply is 17.11¢/kWh.[2]
 - **Clothes washer and dryer.** Cold-water washing and overnight drying. A dryer load at off-peak rates can save $0.40–$0.70 per cycle versus peak.
 - **EV charging.** Set your car to charge starting at 9 PM. A full 40-kWh charge at the national average peak-equivalent rate (~20¢/kWh) costs $8.00; at an off-peak rate of 5–10¢/kWh, it is $2.00–$4.00.
 - **Pool pump.** Use a timer to run during off-peak morning or late-night hours. A typical 1.5-HP pump running 6 hours/day costs about $1.00–$1.50 at peak and $0.40–$0.75 off-peak.
@@ -53,7 +55,7 @@ Automating these shifts is straightforward with a timer or smart plug. One optio
 
 ## Why Shifting Pays Off
 
-The national average residential electricity rate hit **18.34¢/kWh** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU is about 50%, and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using 899 kWh/month, shifting just 200 kWh/month (about 22% of usage) from peak to off-peak across a 50%-type gap saves about $18/month, or ~$220/year — simple arithmetic on the 18.34¢ average (200 × $0.1834 × 0.5 ≈ $18).[5]
+The national average residential electricity rate hit **18.34¢/kWh** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU discount runs about 81% versus its summer peak rate (about 70% in other months), and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using 899 kWh/month, shifting just 200 kWh/month from Con Edison's summer peak supply rate to its off-peak supply rate saves about $45/month (200 × ($0.2786 − $0.0522) ≈ $45), or roughly $540/year — about $23/month in other months, when peak supply is 17.11¢/kWh and the discount is narrowest at ~70%.[5]
 
 The exact savings depend on your utility’s peak-to-off-peak price gap and how much you can shift. The rate-plan hub has a quick comparison tool; for a full cost-benefit check, work through the steps in [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#compare-with-your-own-usage).
 
@@ -71,7 +73,7 @@ Your utility’s rate-plan hub has links to each utility’s tariff. If you are 
 ## Sources
 
 1. PG&E E-TOU-C Tariff Schedule, effective March 2026. Peak: 4–9 PM daily. Off-peak: all other hours. (Tariff retrieved 2026-08-28 via pge.com)
-2. Con Edison Residential Time-of-Use Rate Schedule, 2026. Super-peak: 2–6 PM weekdays June–Sept. Peak: 8 AM–12 AM weekdays. Off-peak: 12–8 AM weekdays + all weekend. (Retrieved 2026-08-28 via coned.com)
+2. Con Edison Residential Time-of-Use Rate Schedule, 2026. Peak supply: 8 AM–12 AM weekdays; 27.86¢/kWh June–Sept, 17.11¢/kWh other months. Off-peak supply: 5.22¢/kWh (all other hours incl. weekends). Delivery: 16.402¢/kWh 8 AM–12 AM, 18.858¢/kWh summer usage above 250 kWh/month; monthly customer charge $21.00. (Retrieved 2026-08-29 via coned.com)
 3. TXU Energy Free Nights & Solar Days plan, EFL retrieved via Power to Choose 2026-08-28. Rates by zip code; example shown for Dallas-area residential account.
 4. U.S. Department of Energy, FEMP: Evaluating Your Utility Rate Options (energy.gov/cmei/femp/evaluating-your-utility-rate-options).
 5. EIA Electricity Monthly Update, June 2026 — residential average revenue per kWh of 18.34¢/kWh (retrieved 2026-08-28).

@@ -11,7 +11,7 @@ tags: ["LIHEAP", "utility assistance", "payment plans", "shut-off prevention", "
 keywords: ["utility bill help", "LIHEAP application", "utility payment plans", "avoid utility shut-off", "utility hardship programs"]
 image: "/images/articles/utility-assistance-programs-liheap/custom_hero.webp"
 sources:
-  - https://acf.hhs.gov/ocs/programs/liheap
+  - https://benefits.gov/benefit/1538
   - https://www.energy.gov/cmei/scep/wap/how-apply-weatherization-assistance
 ---
 
@@ -169,5 +169,5 @@ Ask the provider or assistance organization what it reports and what it does not
 
 ## Sources
 
-- [U.S. Department of Health and Human Services: Low Income Home Energy Assistance Program (LIHEAP)](https://acf.hhs.gov/ocs/programs/liheap) — program overview and local-administrator information.
+- [U.S. Department of Health and Human Services: Low Income Home Energy Assistance Program (LIHEAP)](https://benefits.gov/benefit/1538) — program overview and local-administrator information. (retrieved 2026-08-30)
 - [U.S. Department of Energy: How to Apply for Weatherization Assistance](https://www.energy.gov/cmei/scep/wap/how-apply-weatherization-assistance) — state-administrator application path.
