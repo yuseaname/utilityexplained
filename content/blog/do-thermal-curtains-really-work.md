@@ -31,7 +31,7 @@ The fabric is the least important part. What does the work is the pocket of stil
 
 A window loses heat by conduction to whatever air touches it, and a cold pane runs that process continuously: the glass chills the room air next to it, the chilled air sinks, warmer air slides in behind it, and the cycle repeats. Stand beside a bare window on a winter night and that loop is what you feel — your heated air being fed across cold glass and dropped.
 
-A curtain beats it with stillness. In the folds between fabric and glass sits a cushion of slow-moving air, and still air is one of the poorest heat conductors in your house. The curtain's job is to hold that cushion in place and put the loop's cold leg behind fabric, where the room can no longer feed it. Any tight-weave, full-coverage, floor-length panel runs the same physics; what the "thermal" label adds is layered construction that holds more still air in more pockets. The physics never asks what the packaging says.
+A curtain beats it with stillness. In the folds between fabric and glass sits a cushion of slow-moving air, and still air is one of the poorest heat conductors in your house. The curtain's job is to hold that cushion in place and put the loop's cold leg behind fabric, where the room can no longer feed it. Any tight-weave, full-coverage, floor-length panel runs the same physics; what the "thermal" label adds is layered construction that holds more still air in more pockets.
 
 {{< visual src="/images/articles/do-thermal-curtains-really-work/dead-air-cross-section.webp" alt="Window cross-section showing the glass, the trapped cushion of still air, and the curtain that holds it in place." wide="true" >}}
 
@@ -65,7 +65,7 @@ The takeaway is not a demolition. The measured number is smaller than the taglin
 | Hang | What it does |
 |---|---|
 | **Right:** wide past the frame, snug to the wall, floor-length, panels overlapped | The still-air layer holds; the loop stops at the fabric |
-| **Wrong:** exact window width, rod stacked forward off the wall, hem above the sill, panels merely touching | Room air feeds around every edge; the panel decorates the problem |
+| **Wrong:** exact window width, rod stacked forward off the wall, hem above the sill, panels merely touching | Room air feeds around every edge of the panel |
 
 Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expensive curtain hung short and proud of the wall. Spend the money on the tape measure, not the tag.
 
@@ -82,7 +82,7 @@ Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expen
 | Summer | Sun-struck glass | Daytime | **Closed** | Block solar gain before it enters the room |
 | Summer | Shaded glass | Daytime | **Open** | Nothing to block; let air move |
 
-The winter discipline is two-position — closed at night, open on sunny days. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives.
+The winter discipline is two-position — closed at night, open on sunny days. Pairing closed curtains with heating only the rooms you actually use is where the winter math compounds — [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/) cover that half. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives. If the summer problem is the equipment rather than the glass, the real choice is [ductless mini-split vs. central air](/blog/ductless-mini-split-vs-central-air/).
 
 {{< visual src="/images/articles/do-thermal-curtains-really-work/seasonal-operation-clock.webp" alt="Four seasonal operating positions for window coverings: closed winter nights, open winter sunny days, closed against summer sun, open on mild summer nights." wide="true" >}}
 
@@ -96,7 +96,9 @@ The winter discipline is two-position — closed at night, open on sunny days. T
 | Window film kit | Transparent film sealed over the sash | Windows you never open | Generally yes | Seasonal consumable | One-season install; reopening means redoing it |
 | Cellular shade | Honeycomb pleats hold dead-air pockets inside the frame | Any; strongest independent ratings [2] | Install-dependent | Usually pricier | Best-rated, costliest, least decor-flexible |
 
-Cellular shades lead the independent ratings [2], but they price like it and commit you to a pleated look. The film-kit row is its own future article. Curtains stay the flexible middle: cheapest to try, easiest to rehang, and the only one that doubles as decor.
+{{< visual src="/images/articles/do-thermal-curtains-really-work/treatment-comparison-strip.webp" alt="Thermal curtain panels, applied window film, and a honeycomb cellular shade shown side by side as the three treatment options." wide="true" >}}
+
+Cellular shades lead the independent ratings [2], but they price like it and commit you to a pleated look. Curtains stay the flexible middle: cheapest to try, easiest to rehang, and the only one that doubles as decor.
 
 ## What to Look For (If You Buy)
 
@@ -118,8 +120,8 @@ Nothing on this list requires a designer label. The category's best sellers are 
 
 - **Modern double-pane windows in a recently sealed house.** Sealed units already hold a dead-air layer between the panes and conduct poorly; the slack a curtain can recover is small. Buy for darkness or looks, not the heating bill.
 - **Deep exterior shading.** Glass under a wide porch, awning, or heavy tree cover sees less sun and less wind; the curtain has less to intercept on either seasonal job.
-- **A radiator under the window.** The curtain now sits between the heat source and the room. Hung over a hot radiator, a panel can route warm air straight up the cold glass and out — the convection loop, working for the other side. If the heat source lives under the glass, decide which one gets the job.
-- **The draft is from the frame, not the glass.** Moving air you can feel at the sill is an air-leak signature — air sealing owns that fix, and a curtain will hang politely while you keep heating the outdoors. Walk a [DIY home energy assessment](/blog/47-check-energy-leaks-home-diy/) first; seal the frame, then dress it. If the heating load itself is the problem, the story is in [why your gas bill is so high](/blog/07-gas-bill-too-high/).
+- **A radiator under the window.** The curtain now sits between the heat source and the room. Hung over a hot radiator, a panel can route warm air straight up the cold glass and out — the convection loop, working for the other side. If the heat source lives under the glass, decide which one gets the job. (Air that's lukewarm at every register is a different problem — [why your furnace is blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/).)
+- **The draft is from the frame, not the glass.** Moving air you can feel at the sill is an air-leak signature — air sealing owns that fix, and a curtain will hang politely while you keep heating the outdoors. Walk a [DIY home energy assessment](/blog/47-check-energy-leaks-home-diy/) first; [seal the drafts the curtain can't](/blog/how-to-find-and-seal-drafts-in-your-home/), then dress it. If the heating load itself is the problem, the story is in [why your gas bill is so high](/blog/07-gas-bill-too-high/).
 
 ## Frequently Asked Questions
 
@@ -143,7 +145,7 @@ Arguably the best case in the market. You can't replace the windows and shouldn'
 
 ## Sources
 
-1. [U.S. Department of Energy — Window Attachments: Cellular Shades Factsheet (PDF)](https://www.energy.gov/sites/default/files/2021-12/bto-cellular-shades-factsheet-112221.pdf) (retrieved 2026-08-30)
-2. [Attachments Energy Rating Council — Rated Products (U-factor, Solar Heat Gain, Air Leakage)](https://aercenergyrating.org/available-products/) (retrieved 2026-08-30)
-3. [Manufacturer-reported "25–40% window heat loss" claims on retailer and brand product pages — no primary study identified (retrieved 2026-08-30)]
-4. [NICETOWN Thermal Insulated Curtains — Amazon listing, insulated thermal curtains best-seller context (retrieved 2026-08-30)](https://www.amazon.com/dp/B077RPXSF3)
+1. [U.S. Department of Energy — Window Attachments: Cellular Shades Factsheet (PDF)](https://www.energy.gov/sites/default/files/2021-12/bto-cellular-shades-factsheet-112221.pdf) — window attachments can save about 15% of annual HVAC energy (retrieved 2026-08-30)
+2. [Attachments Energy Rating Council — Rated Products (U-factor, Solar Heat Gain, Air Leakage)](https://aercenergyrating.org/available-products/) — certified products carry a 5–16% savings-potential range (retrieved 2026-08-30)
+3. Manufacturer and retailer product pages for thermal curtains, surveyed at retrieval — the "25–40% of window heat loss" figure is manufacturer-reported, with no primary study identified (retrieved 2026-08-30)
+4. [NICETOWN Thermal Insulated Curtains — Amazon listing](https://www.amazon.com/dp/B077RPXSF3) — best-seller panel pairs in the $20–50 band at retrieval (retrieved 2026-08-30)

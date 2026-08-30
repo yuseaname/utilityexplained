@@ -41,7 +41,7 @@ Your hand and a twelve-dollar smoke pen find every gap — no thermal camera req
 
 ### 1. The attic hatch
 
-**Detect:** Back of the hand along the hatch trim on a windy day — colder-than-the-room air means the attic above is connected. **Seal with:** An insulated hatch cover, $25–60.[4] **Renter-ok:** No — the attic belongs to the building, not the lease.
+**Detect:** Back of the hand along the hatch trim on a windy day — colder-than-the-room air means the attic above is connected. **Seal with:** An insulated hatch cover.[4] **Renter-ok:** No — the attic belongs to the building, not the lease.
 
 ### 2. The rim joist and top plate
 
@@ -49,23 +49,23 @@ Your hand and a twelve-dollar smoke pen find every gap — no thermal camera req
 
 ### 3. Exterior-wall outlets and switches
 
-**Detect:** Back of the hand flat on the plate — a chill means the box behind it shares air with the wall cavity. **Seal with:** Foam gaskets behind the plates, $5–15 for a fifty-pack; breaker off, screws kept.[4] **Renter-ok:** Yes — fully reversible.
+**Detect:** Back of the hand flat on the plate — a chill means the box behind it shares air with the wall cavity. **Seal with:** Foam gaskets behind the plates — a fifty-pack covers the whole tour; breaker off, screws kept.[4] **Renter-ok:** Yes — fully reversible.
 
 ### 4. Window sashes and tracks
 
-**Detect:** Smoke pencil at the meeting rail and both side channels, fans off — a bending stream is a finding. **Seal with:** V-strip where surfaces close against each other; rope caulk on panes you never open. $5–15.[4] **Renter-ok:** Yes, with a paint-lift caveat on older trim.
+**Detect:** Smoke pencil at the meeting rail and both side channels, fans off — a bending stream is a finding. **Seal with:** V-strip where surfaces close against each other; rope caulk on panes you never open.[4] **Renter-ok:** Yes, with a paint-lift caveat on older trim.
 
 ### 5. Door bottoms
 
-**Detect:** The night trick — a helper circles the closed door outside with the flashlight; stripes of light mark your gap. **Seal with:** A sweep at $8–15, or a weighted stopper at $15–25 with zero installation.[4] **Renter-ok:** Yes.
+**Detect:** The night trick — a helper circles the closed door outside with the flashlight; stripes of light mark your gap. **Seal with:** A door sweep, or a weighted stopper with zero installation.[4] **Renter-ok:** Yes.
 
 ### 6. Baseboards and floor edges
 
-**Detect:** Smoke an inch above the baseboard along exterior walls — a flickering stream means floor-edge leakage. **Seal with:** A caulk bead at the wall-floor line, or press-in rope caulk, $8–15.[4] **Renter-ok:** Yes — the rope-caulk way.
+**Detect:** Smoke an inch above the baseboard along exterior walls — a flickering stream means floor-edge leakage. **Seal with:** A caulk bead at the wall-floor line, or press-in rope caulk.[4] **Renter-ok:** Yes — the rope-caulk way.
 
 ### 7. The fireplace damper and flue
 
-**Detect:** Palm an inch above a closed damper on a cold day — moving air with the damper shut means the seal has quit. **Seal with:** A flue plug for a chimney you never light, $12–60 — **and it comes out before any fire, every time.**[4] **Renter-ok:** No — landlord sign-off first.
+**Detect:** Palm an inch above a closed damper on a cold day — moving air with the damper shut means the seal has quit. **Seal with:** A flue plug for a chimney you never light — **and it comes out before any fire, every time.**[4] **Renter-ok:** No — landlord sign-off first.
 
 ### 8. The dryer vent exterior flap
 
@@ -104,6 +104,8 @@ Your hand and a twelve-dollar smoke pen find every gap — no thermal camera req
 - **Weighted fabric stoppers ($15–25):** zero install, zero hardware, zero lease questions — laid against the offending door each night.[4]
 - **Foam outlet gaskets (fifty-pack, $5–15):** breaker off, screws into a cup, gasket seated, everything buttoned back exactly as found.[4]
 
+{{< visual src="/images/articles/how-to-find-and-seal-drafts-in-your-home/renter-toolkit-flatlay.webp" alt="The four reversible renter fixes laid out together: rope caulk, V-strip weatherstripping, a weighted door stopper, and foam outlet gaskets." wide="true" >}}
+
 The skip list is firmer: anything permanent — expanding foam, committed caulk beads, attic-hatch covers, chimney flue plugs — waits for the owner's sign-off. Reversibility is not a style preference in a lease; it is the design brief.
 
 ## What Not to Seal (the section that keeps you safe)
@@ -135,13 +137,13 @@ None of it costs a dollar, and it retires a fair share of "drafty house" verdict
 
 **Seal the gap, not the store.** Every dollar in the basket maps to a gap the tour found — a named stop, the product class the table assigned. Two baskets cover most households.
 
-**The one-weekend starter** is a sweep for the worst door, one run of adhesive weatherstripping for the worst window, and a fifty-pack of outlet gaskets. The door that opened your tour takes the sweep first — the box below, an under-door sweep in the $8–15 band.[4] The outlet stop finishes with the gasket multipack at $5–15 — breaker off, screws kept.[4]
+**The one-weekend starter** is a sweep for the worst door, one run of adhesive weatherstripping for the worst window, and a fifty-pack of outlet gaskets. The door that opened your tour takes the sweep first — the box below, an under-door sweep in the $8–15 band.[4] The outlet stop finishes with the gasket multipack.[4]
 
 {{< product-box asin="B07MSM6G9R" name="Holikme Under-Door Draft Stopper" label="The starter basket's first item" description="Adhesive under-door sweep for gaps up to about an inch — the eight-to-fifteen-dollar fix for the door that opened your tour. Clean the door bottom before sticking." button="Check price on Amazon" >}}
 
 **The full-tour basket** adds classes only as named stops demand them: rope caulk for fixed hairlines, a weighted stopper for a zero-install door, and — where the tour actually found them — the attic-hatch cover at $25–60 and the flue plug at $12–60. That last pair is where spending stops being pocket change; those purchases follow the detection, never lead it.[4]
 
-Two honest brackets before the boxes: ENERGY STAR's up-to-10% figure is its estimate for sealing **and** insulation together — it does not attach to a single sweep.[1] And the 25C Home Improvement Credit covers insulation and air sealing, worth a check before tax season even if the basket stays small.[3] For where this evening ranks among the other levers, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) keeps the full list.
+Two honest brackets before the boxes: ENERGY STAR's up-to-10% figure is its estimate for sealing **and** insulation together — it does not attach to a single sweep.[1] And the 25C Home Improvement Credit covers insulation and air sealing, worth a check before tax season even if the basket stays small.[3] For where this evening ranks among the other levers, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) keeps the full list. And once the seals are in place, [a home energy monitor can measure what the fixes actually saved](/blog/do-home-energy-monitors-save-money/).
 
 ## Frequently Asked Questions
 

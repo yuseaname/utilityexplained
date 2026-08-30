@@ -25,7 +25,7 @@ sources:
 
 **Point sensors tell you a leak started. A whole-home system sees the ones point sensors can't — and a shutoff valve acts when you can't.** The EPA's leak arithmetic explains the gap: average household leaks waste more than 10,000 gallons a year (newer EPA materials restate it above 9,300), and roughly 9 to 10 percent of homes run leaks above 90 gallons a day [1]. No single device covers all of that, which is why this is a ladder, not a face-off.
 
-Most homes are fine at tier 1 — a few point sensors in the right spots. The upgrade question is about coverage, not gadget quality: how much plumbing you want watched, and what should happen when a leak starts with nobody home to answer the alert.
+Most homes are fine at tier 1 — a few point sensors in the right spots. The upgrade question is about coverage: how much plumbing you want watched, and what should happen when a leak starts with nobody home to answer the alert.
 
 A $60 sensor and a $500 valve solve different problems. The sensor covers spots; the system watches gallons. Everything below is one upgrade path in three rungs — spot sensor, meter monitor, inline shutoff — and the only decision that matters is which rung your house's risk actually calls for.
 
@@ -46,11 +46,11 @@ The tier-1 purchase, then, is about the right spots rather than more spots: a 5-
 
 ## What a Meter-Mounted Monitor Sees
 
-**A meter monitor reads the whole house through the one pipe every gallon crosses.** The Flume 2 straps onto the water meter you already have — no pipe cutting, no plumber, no contact with the water itself — and reads flow continuously [3]. Whole-supply vision is what catches micro-flow the eye misses: a fixture leaking at a trickle, a slab seep, an irrigation line feeding a crack overnight.
+**A meter monitor reads the whole house through the one pipe every gallon crosses.** The Flume 2 straps onto the water meter you already have — no pipe cutting, no plumber, no contact with the water itself — and reads flow continuously [3]. The free cousin of that visibility is the meter's own dial — [what a running meter with no water in use means](/blog/water-meter-running-when-no-water-used/). Whole-supply vision is what catches micro-flow the eye misses: a fixture leaking at a trickle, a slab seep, an irrigation line feeding a crack overnight.
 
 Caveats travel with the convenience. Compatibility is the manufacturer's claim — the Flume 2 straps to about 95 percent of residential meters, a manufacturer-reported figure, so verify your meter model before ordering [3]. Access matters first: a meter behind a locked vault or a landlord's fence is a property-manager question, not a checkout question.
 
-And be clear about what the money buys: visibility, not action. The Flume alerts; it cannot close anything. That's the tier-2 bargain — you finally see the leak, and you are still the response plan.
+And be clear about what the money buys: the Flume alerts; it cannot close anything — you finally see the leak, and you are still the response plan.
 
 The bonus is a usage lens. Real-time water data shows where your gallons go, and on tiered water rates, the line between a cheap first tier and an expensive one is precisely the behavior this device exposes — see [how tiered water rates work](/blog/tiered-water-rates-explained/).
 
@@ -72,7 +72,7 @@ The counterweights are price, install, and scope: about $560 before the plumber'
 2. **The water heater is past the 10-year mark.** Tank heaters fail at fittings, seams, and valves — sometimes as a slow seep a pan-mounted disc catches, sometimes as a sudden seam failure that empties the tank before any alert matters. An aging heater is system risk one fitting away from the whole supply: the tier-2/3 boundary case.
 3. **You have a slab foundation or a finished basement.** Both are invisible-leak habitats. A slab leak can run for months without surfacing a drop; a finished basement buries the evidence under drywall and flooring. Discs can't guard what they can't touch — only flow-based sensing sees it.
 4. **Your carrier offers a smart-shutoff discount.** Some insurers discount premiums for leak-detection or automatic-shutoff devices; others offer nothing. Ask before you buy — name the device, get the terms in writing — and let the answer adjust tier 3's math rather than create the need.
-5. **The bill keeps creeping, and the meter's leak indicator is the only witness.** Silent waste bills in dollars, not puddles. The meter's built-in leak indicator is the free first check — [how to read it](/blog/water-meter-leak-indicator-explained/) — with one timing warning attached: a leak that runs during a winter-averaging window can lock a higher sewer average in place long after the fix — [how sewer averaging works](/blog/sewer-averaging-water-bill-explained/).
+5. **The bill keeps creeping, and the meter's leak indicator is the only witness.** Silent waste bills in dollars, not puddles — the bill-side walkthrough is [why your water bill is so high](/blog/06-water-bill-too-high/). The meter's built-in leak indicator is the free first check — [how to read it](/blog/water-meter-leak-indicator-explained/) — with one timing warning attached: a leak that runs during a winter-averaging window can lock a higher sewer average in place long after the fix — [how sewer averaging works](/blog/sewer-averaging-water-bill-explained/).
 
 Every signal points up for the same underlying reason: the failure it describes is either invisible to a disc or happens when no alert can be answered. If none of the five is yours, that isn't a pending upgrade — it's a permission slip to stay at tier 1.
 
@@ -81,8 +81,6 @@ Every signal points up for the same underlying reason: the failure it describes 
 ## Flume vs. Moen Flo
 
 They don't compete because they don't do the same job: one watches the meter, the other closes the valve.
-
-**The search says "Flume vs. Moen Flo"; the honest comparison is "watch versus act."**
 
 | | Flume 2 | Moen Flo |
 |---|---|---|
@@ -112,7 +110,7 @@ Two answers to two different final questions: do you want to see what the pipes 
 
 The honest sequence for most homes: tier 1, placed deliberately in the right spots. Move to tier 2 when bills creep or the meter's indicator points at waste you can't locate. Tier 3 belongs to the burst scenario and the insurance conversation — justified by travel, an empty rental, or a carrier that answers yes, never by gadget envy.
 
-And the standing counterweight: if none of the five signals is yours, a $60 kit in the right corners is not a compromise — it is the correct final answer for a lot of houses. The non-gadget half of leak defense stays free either way: the meter's indicator, the dye test, and the habits in [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+And the standing counterweight: for a lot of houses, a $60 kit in the right corners is the correct final answer. The non-gadget half of leak defense stays free either way: the meter's indicator, the dye test, and the habits in [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
 
 {{< visual src="/images/articles/point-sensor-vs-whole-home-water-leak-when-to-upgrade/coverage-ladder-tiers.webp" alt="Three ascending coverage tiers priced in risk terms: sixty dollars of sensors, about two hundred for whole-home monitoring, about five hundred sixty for automatic shutoff." wide="true" >}}
 

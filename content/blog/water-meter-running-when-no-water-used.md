@@ -71,7 +71,7 @@ Close the main water valve where the pipe enters your house (usually in the base
 
 For ongoing monitoring, use the instructions provided by your utility or consult EPA WaterSense guidance on leak-detection and flow-monitoring devices.
 
-The 10-minute test above tells you *that* you have a leak. These tell you *where* — continuously, including when you're not home to watch the meter.
+The 10-minute test above tells you *that* you have a leak. These tell you *where* — continuously, including when you're not home to watch the meter. For the longer arc — whether a few point sensors are enough or a whole-home monitor fits the house — [point sensor vs. whole-home shutoff: when to upgrade](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/) walks the ladder.
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Localize the leak" description="Contact sensors with loud alarms and phone alerts. Stagger them along the suspect path — water heater, under sinks, toilet bases, washing machine box — and the first one to trip is your culprit zone." button="Check price on Amazon" >}}
 

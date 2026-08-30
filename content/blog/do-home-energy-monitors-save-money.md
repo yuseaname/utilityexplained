@@ -19,6 +19,7 @@ sources:
   - https://www.energy.gov/save
   - https://www.amazon.com/dp/B0C7B1LKDW
   - https://www.energy.gov/cmei/femp/measuring-standby-power
+  - https://www.amazon.com/dp/B00009MDBU
 ---
 
 {{< affiliate-disclosure >}}
@@ -27,7 +28,7 @@ sources:
 
 **No monitor lowers a bill by itself — it finds the changes that do.** EIA's Short-Term Energy Outlook puts residential electricity near an average 18¢ per kilowatt-hour in 2026, up from roughly 17.3¢ in 2025,[1] and the agency's monthly update shows average electricity revenue up 4.5% year over year as of June 2026.[2] Every wasted kilowatt-hour costs more than it used to — which is exactly the problem a monitor is built to expose.
 
-Be skeptical of any write-up that promises a payback percentage. What actually happens in most households: week one is fascinating, week two holds a surprise or two, and everything after depends on whether someone acts on what the data says. If nobody will open the app once the novelty fades, or your utility's free app already answers your questions, the right amount to spend is zero.
+Be skeptical of any write-up that promises a payback percentage. What actually happens in most households: week one is fascinating, week two holds a surprise or two, and everything after depends on whether someone acts on what the data says. If nobody will open the app once the novelty fades, or your utility's free app already answers your questions, the right amount to spend is zero. And if the bill itself is the mystery, the question isn't a monitor — it's [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 A monitor has never lowered a bill. The changes it shows you do. Three device classes orbit that sentence, and they are not interchangeable. A whole-home monitor clamps current transformers around the conductors in your electrical panel and reads the whole service, circuit by circuit. A plug-in meter sits between one appliance and the wall outlet and reports that appliance alone. And the app most smart-meter homes already have shows whole-house usage for free. This article is about the first class — with honest digressions to the other two, because for many households one of them is the smarter buy.
 
@@ -63,7 +64,7 @@ On accuracy: manufacturers publish circuit-level accuracy specs, and in practice
 
 What the app can't do is the split: it knows the whole house spiked, not that the spike was the dryer instead of the water heater. It also isn't real-time. A panel monitor adds both — live watts as appliances switch on, and per-circuit totals assigned to breakers. The Emporia-versus-Sense fork lives here too: clamped circuits name their loads explicitly, while Sense's machine learning infers devices from whole-home signatures, and Sense is sold direct rather than through Amazon.[4]
 
-**When the free app is enough:** if your questions are calendar-shaped — was this month the heat wave or the guests — hourly aggregate data settles them. If you can already name your biggest loads from memory, buy nothing until an app answer genuinely dead-ends. The monitor's value begins where the aggregate graph stops, and many households never get there.
+**When the free app is enough:** if your questions are calendar-shaped — was this month the heat wave or the guests — hourly aggregate data settles them. If you can already name your biggest loads from memory, buy nothing until an app answer genuinely dead-ends. The monitor's value begins where the aggregate graph stops, and many households never get there. (The same see-it-then-act logic runs the water side of the house — [point sensors vs. a whole-home shutoff](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/) is that ladder.)
 
 ## The Behavior Bridge
 
@@ -112,6 +113,8 @@ For ongoing visibility rather than one-off checks, energy-monitoring smart plugs
 - **The not-going-to-act household.** A monitor nobody opens is a graph of your own habits wearing a price tag — the data says measurement without response moves nothing.
 - **The one-appliance question.** If the whole mystery is what the spare freezer costs, a plain plug-in meter answers it with no panel work and no electrician.
 
+If the goal is simply a lower bill rather than better data, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) is the broader toolbox.
+
 ## Frequently Asked Questions
 
 {{< faq "How accurate are home energy monitors?" >}}
@@ -142,3 +145,4 @@ Many do — verify before buying rather than after. The Emporia Vue 3 supports s
 6. [Emporia Vue 3 — Amazon listing](https://www.amazon.com/dp/B0C7B1LKDW) — Amazon-tracked price band ~$142–164. Retrieved August 30, 2026.
 7. Refoss EM16P and Eyedro price bands (~$100–150 and ~$100–200) confirmed on Amazon search pages at retrieval. Retrieved August 30, 2026.
 8. [U.S. Department of Energy FEMP — Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power) — measurement method behind this site's standby-power figures. Retrieved August 30, 2026.
+9. [P3 Kill A Watt P4400 — Amazon listing](https://www.amazon.com/dp/B00009MDBU) — 1875 W maximum load for 120V plug-in metering. Retrieved August 30, 2026.

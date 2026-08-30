@@ -116,6 +116,7 @@ The leak indicator is a once-a-month check at the meter. This does it every minu
 </ol>
 <p>For the complete diagnostic playbook — including how to isolate indoor vs. outdoor leaks, check for air in the lines, estimate cost impact, and decide between DIY and calling a plumber — see our in-depth guide: <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a>.</p>
 <p>If you want a structured troubleshooting path focused on high bills specifically, use: <a href="/blog/why-did-my-water-bill-suddenly-increase/">why your water bill suddenly increased</a>. And once the leak is fixed, these tips on <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a> can help bring costs back down.</p>
+<p>If the leak keeps hiding between checks, continuous monitoring is the next step — <a href="/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/">when to upgrade from a point sensor to whole-home protection</a> walks the options.</p>
 
 {{< faq "What is the leak indicator on a water meter?" >}}
 It is a small dial, triangle, or wheel that moves when water flows through the meter. It helps you spot continuous flow that can indicate a leak, even when the main number display has not yet changed.
