@@ -3,7 +3,7 @@ title: "How to Review a Utility Service-Start Charge"
 slug: "27-utility-connection-fee-explained"
 description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
 date: 2026-05-28
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Tanya Patterson"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -59,6 +59,16 @@ Three providers' own fee pages, quoted exactly as posted:
 | Salt River Project (AZ) | **$30** service establishment fee (next day); **$45** same day | [4] |
 
 These are point examples from named providers, **not a national range** — each utility sets its own schedule, so get yours in writing instead of benchmarking.
+
+## New Connection vs. Reconnection vs. Transfer
+
+The three charge situations are different items with different triggers and different ways to reduce what you pay. Dollar ranges are not published here because each utility sets its own schedule by tariff [4][5] — treat the typical-range column as qualitative unless your provider's written terms state an amount.
+
+| Fee type | Typical range | When charged | How to reduce |
+|---|---|---|---|
+| New connection (service start) | Varies by utility — set by tariff; point examples on this page are not a national range | Before or on the first statement when a new account opens | Get the written schedule of charges before opening the account; compare providers where your area allows a choice |
+| Reconnection (after non-payment shutoff) | Varies by utility — see the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/) for published ranges | After the past-due balance (and any required deposit) is settled, before service is restored | Avoid disconnection: a payment arrangement, LIHEAP, or medical/life-support protection before the shutoff date |
+| Transfer (same-provider move) | Depends on provider terms — may be a stop-and-start or a fresh charge | At the move or service-change date | Ask whether a transfer is available instead of a full stop-and-start; confirm the charge in writing |
 
 ## Before Move-In
 

@@ -1,0 +1,37 @@
+{
+  "role": "lieutenant",
+  "mission": "P7.C \u2014 two register improvements: without-solar (reduce duplicate blocks), why-did-go-up (tighten with specific causes).",
+  "parent_objective": "SQ-069 phase 7 register completion",
+  "context": "This is a REGISTER 'improve-and-retain' completion from the site audit. Light-touch improvement, NOT a rewrite: keep structure, Quick Answer, sources, and every dated figure intact. NO new unverified numbers \u2014 reuse figures already on the page or site-canonical ones (899 kWh, 18.34c/kWh = $164.88 EIA June 2026). No web access. Set updated: 2026-08-30.\nFILES:\n1. content/blog/how-to-lower-electric-bill-without-solar.md \u2014 register: 'overlaps complete-guide; reduce duplicate blocks'. Do: find sections that repeat the complete-guide's generic advice nearly verbatim (LED swaps, thermostat setbacks, phantom load) and compress each to 2-3 sentences + a link to [the complete guide](/blog/how-to-lower-electric-bill-complete-guide/) for the full workflow; keep anything specific to no-solar households (rate-plan choice, time-of-use shifting, utility programs, heat-pump considerations). Target ~15-20% word reduction, zero loss of no-solar-specific content.\n2. content/blog/why-did-my-utility-bill-go-up-this-month.md \u2014 register: 'generic pitch; tighten w/ specific causes'. Do: replace generic 'many factors can cause' phrasing with a ranked shortlist of concrete month-over-month causes ALREADY on the page (billing-cycle length 27-35 days, rate change effective date, seasonal heating/cooling, estimated read catch-up, new occupant/appliance) \u2014 each with its one-line 'how to confirm it from the bill' check. Keep the FAQ shortcodes.",
+  "known_facts": [
+    "Billing cycles run 27-35 days (site-canonical from 23-utility-billing-cycle-explained)",
+    "Slugs exist: how-to-lower-electric-bill-complete-guide"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "content/blog/how-to-lower-electric-bill-without-solar.md",
+      "content/blog/why-did-my-utility-bill-go-up-this-month.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY these 2 files; NO hugo; NO web; no new numbers; FAQ shortcodes kept"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "without-solar: 15-20% shorter, generic blocks compressed w/ complete-guide link, solar-specific content intact",
+    "why-did-go-up: ranked concrete causes each with a bill-check, generic hedging cut",
+    "both: updated: 2026-08-30"
+  ]
+}

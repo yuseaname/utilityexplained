@@ -1,0 +1,40 @@
+{
+  "role": "mason",
+  "mission": "P7.A \u2014 three register improvements: 03 (deepen causes), 04 (tighten repetition), 13 (diagnostic decision table).",
+  "parent_objective": "SQ-069 phase 7 register completion",
+  "context": "This is a REGISTER 'improve-and-retain' completion from the site audit. Light-touch improvement, NOT a rewrite: keep structure, Quick Answer, sources, and every dated figure intact. NO new unverified numbers \u2014 reuse figures already on the page or site-canonical ones (899 kWh, 18.34c/kWh = $164.88 EIA June 2026). No web access. Set updated: 2026-08-30.\nFILES:\n1. content/blog/03-why-is-my-electric-bill-so-high.md \u2014 register: 'QA+tables okay; some filler; deepen causes'. Do: cut filler sentences (repetitive restatements of 'check your bill'); where a cause is listed (e.g. rate change, season, meter estimate, vampire load, broken appliance, new occupant), add one concrete diagnostic signal per cause (what specifically to look for) using only knowledge already on the page or sibling pages' facts already cited there. Do not add new statistics.\n2. content/blog/04-hidden-fees-utility-bill.md \u2014 register: 'good QA+tables; some repetitive wording; tighten'. Do: reduce repeated explanations of the same fee concept to single statements; target ~10-15% word reduction with zero information loss; keep every fee table and the FAQ shortcodes.\n3. content/blog/13-ac-short-cycling-causes-fixes.md \u2014 register: 'decent; add diagnostic decision table'. Do: add ONE markdown decision table with columns Symptom | Likely cause | DIY fix | Call-a-pro signal \u2014 rows only for causes already on the page (capacitor, low refrigerant, dirty coil/filter, thermostat, oversized unit). Place after the causes list.",
+  "known_facts": [
+    "Canonical figures allowed: 899 kWh/mo, 18.34c/kWh, $164.88 (EIA June 2026)",
+    "FAQ shortcodes must not be removed"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "content/blog/03-why-is-my-electric-bill-so-high.md",
+      "content/blog/04-hidden-fees-utility-bill.md",
+      "content/blog/13-ac-short-cycling-causes-fixes.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY these 3 files; NO hugo; NO web; no new statistics or rates",
+    "keep front matter except updated: 2026-08-30"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "03: each major cause carries a concrete diagnostic signal, filler reduced",
+    "04: word count down 10-15%, no fee table or FAQ lost",
+    "13: decision table present with 4+ rows using existing causes",
+    "all: updated: 2026-08-30"
+  ]
+}

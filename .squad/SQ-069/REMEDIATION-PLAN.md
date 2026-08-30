@@ -79,3 +79,12 @@ Review found 11 items the P1-P5 plan missed. Closing them.
 - [x] P6.V verify + build + commit
 **Refuted on review:** homepage 84/85 count drift (no such text in rendered HTML); aria-label duplicates (none); audit's "112 titles >60" (actual: 30 found, 29 trimmed, 1 intentional); Hawaii $453/$324 (intentionally dual-labeled in 3 places); ItemList/calculators/high-bill-block were 'Build Over Time' by design — deferred, listed below.
 **Deferred (Build-Over-Time tier, by design):** heat-pump calculator (48), LIHEAP eligibility checker, 'diagnose your high bill' hub block, ItemList schema on hub cards, title-length template enforcement, KPI re-baseline.
+
+## PHASE 7 — Register completion (improve-12 tier) — *added 2026-08-30, post coverage review*
+User asked whether coverage was 100%. Finding: mechanical sweeps hit 100% of pages; deep work hit all rewrite/expand/flagged pages; the register's improve-12 tier was ~5/12 done. Closing the rest.
+- [x] P7.0 08-time-of-use: tou-24h-price-curve embedded (visual plan said 08+46; worked-example table already existed) *(Commander)*
+- [x] P7.1 03 deepen causes + cut filler; 04 tighten 10-15%; 13 decision table *(mason A, running)*
+- [x] P7.2 14 actual-vs-estimated table; 27 connection/reconnection comparison + bidirectional links; 05 link-differentiate vs 44/50 *(mason B, running)*
+- [x] P7.3 without-solar reduce duplicate blocks; why-did-go-up tighten w/ specific causes *(lieutenant, running)*
+- [x] P7.V verify + build + commit + deploy
+Already satisfied pre-P7: 49 (worked demand visuals), 27 pairing links, summer/winter water QAs, 05 claims sourcing (P1.6).

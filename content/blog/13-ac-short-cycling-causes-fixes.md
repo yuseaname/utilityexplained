@@ -3,7 +3,7 @@ title: "What to Do When an AC Starts and Stops Frequently"
 slug: "13-ac-short-cycling-causes-fixes"
 description: "Document frequent AC cycling, complete safe owner checks, and know when to arrange qualified HVAC service instead of relying on a generic diagnosis."
 date: 2026-05-28
-updated: 2026-08-28
+updated: 2026-08-30
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -53,6 +53,18 @@ All cost ranges are national estimates for parts and labor in a typical single-f
 ### Thermostat-Related Cause
 
 If the thermostat is at fault, the fix is straightforward — replace it with a programmable or smart model. For options and proper setup, see [do programmable thermostats cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/).
+
+## Diagnostic Decision Table
+
+Use this table to move from what you observe to the likely cause, the safe fix you can attempt, and the point at which a qualified technician is the right call. Rows cover the causes above; two or more matching symptoms point to the corresponding row.
+
+| Symptom | Likely cause | DIY fix | Call-a-pro signal |
+|---|---|---|---|
+| Cools fast (under ~10 minutes) but house feels clammy; short cycles repeat even after a filter change | Oversized AC | None — sizing is not owner-fixable | Request a Manual J load calculation before any replacement quote |
+| Weak airflow at registers plus visible ice on the indoor coil or refrigerant lines; system stops on a safety | Dirty coil or frozen evaporator (often caused by a dirty filter) | Replace the filter, confirm supply/return openings are unobstructed, and let the unit thaw fully before restarting | Ice returns after a fresh filter and full thaw, or airflow stays weak |
+| Compressor or fan hums or clicks but won't start; tries, trips, tries again | Faulty capacitor or contactor | None — capacitors hold a charge and high-voltage testing is not a homeowner task | Any hum-click-shutdown pattern that repeats across cycles |
+| System starts and stops without reaching the setpoint; display readings erratic or swings exceed 2–3°F | Faulty thermostat | Confirm mode and setpoint, replace batteries, and note readings against a thermometer | Erratic starts/stops persist after a settings-and-batteries check |
+| Suction line frosts, run times stretch while cooling falls short, or an audible hiss from the lines | Low refrigerant / leak | None — refrigerant handling requires certification | Frost or hissing that appears alongside inadequate cooling |
 
 ## Safe Owner Checks
 

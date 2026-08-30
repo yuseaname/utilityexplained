@@ -3,7 +3,7 @@ title: "How to Review an Estimated Utility Bill"
 slug: "14-estimated-utility-bill-explained"
 description: "Why utilities estimate bills, how to spot an estimated read on your statement, and the verified workflow to force an actual meter read — ConEd and Texas rules."
 date: 2026-05-28
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Margaret Harrington"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -41,6 +41,20 @@ Utilities publish trigger lists:
 The method: Pend Oreille PUD uses "historical usage from the same time period in the previous year" [5]; NJ's Rate Counsel says gas estimates run "based on the weather and past usage" [9]. That's your same-season history, sometimes weather-adjusted — it misses when habits change.
 
 The true-up should be automatic. Pend Oreille PUD: "Once we receive a valid reading, we will 'true-up' your account" — a credit if the estimate ran high, the shortfall billed next cycle if low [5]. *Illustration with round numbers:* last August was **600 kWh**; you used **500 kWh** this August, but the estimated bill charges 600. The next actual read comes in **100 kWh** lighter, so the following bill shrinks by 100 — both bills together charge exactly what you used. The estimate changes the timing, not the total; a catch-up read can even masquerade as a [usage spike with no behavior change](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+
+## Actual vs. Estimated: A Side-by-Side Example
+
+This example is **illustrative** — it uses round numbers to show how the same rate produces different dollar totals from different day counts and read types; it is not a prediction for any specific bill.
+
+| | Actual read month | Estimated month |
+|---|---|---|
+| Billing days | 30 | 33 |
+| Meter read type | Actual | Estimated |
+| Billed usage | 612 kWh | 671 kWh |
+| Rate | 18.34¢/kWh | 18.34¢/kWh |
+| Energy charge | $112.24 | $123.06 |
+
+The higher estimated total is mostly **days, not behavior**: the estimated month covers 33 days at the same 18.34¢/kWh rate, so the extra $10.82 reflects three additional billing days plus the estimate’s method. The next actual read trues the account up to the meter, not the estimate [5].
 
 Smart meters shrink the problem without erasing it. Duke Energy: its meters "are read automatically – not manually – so there's no need to estimate bills when meters can't be easily accessed" [8]. National Grid still warns AMI customers about "extreme weather, temporary connection issues, or software updates" [7]. Guardrail: AMI makes estimates uncommon, not impossible.
 

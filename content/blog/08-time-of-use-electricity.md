@@ -33,6 +33,8 @@ Do not use a generic peak-hour table or savings estimate to decide whether to en
 {{< visual src="/images/articles/08-time-of-use-electricity/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
 
 Every utility sets its own peak and off-peak windows. The table below shows three current examples. Your rate will differ — look up your utility's tariff, not this table.
+{{< visual src="/images/articles/46-what-time-is-electricity-cheapest/tou-24h-price-curve.webp" alt="Bar chart of electricity prices across 24 hours with cheap overnight bars, moderate midday bars, and tall expensive late-afternoon peak bars." >}}
+
 
 | Utility / Plan | Peak Window | Off-Peak Window | Peak Price (per kWh) | Off-Peak Price (per kWh) | Notes |
 |---|---|---|---|---|---|

@@ -1,0 +1,40 @@
+{
+  "role": "mason",
+  "mission": "P7.B \u2014 three register improvements: 14 (actual-vs-estimated example tables), 27 (connection-fee cost comparison), 05 (link-differentiation vs 44/50).",
+  "parent_objective": "SQ-069 phase 7 register completion",
+  "context": "This is a REGISTER 'improve-and-retain' completion from the site audit. Light-touch improvement, NOT a rewrite: keep structure, Quick Answer, sources, and every dated figure intact. NO new unverified numbers \u2014 reuse figures already on the page or site-canonical ones (899 kWh, 18.34c/kWh = $164.88 EIA June 2026). No web access. Set updated: 2026-08-30.\nFILES:\n1. content/blog/14-estimated-utility-bill-explained.md \u2014 register: 'some generic; add actual-vs-estimated example tables'. Do: add ONE small side-by-side example table (two columns: Actual read month vs Estimated month) using ILLUSTRATIVE numbers clearly labeled (e.g. 30-day actual 612 kWh vs 33-day estimate 671 kWh at the same 18.34c rate \u2014 compute both costs; label 'illustrative').\n2. content/blog/27-utility-connection-fee-explained.md \u2014 register: 'pair w/ reconnection; add cost-comparison table'. Do: verify links to 28-utility-reconnection-fee exist (pair them both ways if missing); add ONE comparison table New connection vs Reconnection vs Transfer with columns Typical range | When charged | How to reduce \u2014 ranges only if already stated on this page or its sources; if the page has no dollar ranges, use qualitative rows (varies by utility / set by tariff) \u2014 do not invent dollars.\n3. content/blog/05-how-to-lower-utility-bills.md \u2014 register: 'overlaps 44/50; keep but link-differentiate'. Do: add one clarifying sentence + cross-links where the overlap occurs: for water strategies link [how to lower your water bill](/blog/44-how-to-lower-water-bill/) as the deeper dive; for gadget/plug strategies link [best smart plugs for standby power](/blog/50-best-smart-plugs-standby-power/); state this page is the cross-utility overview.",
+  "known_facts": [
+    "Canonical: 899 kWh, 18.34c, $164.88",
+    "Slugs exist: 44-how-to-lower-water-bill, 50-best-smart-plugs-standby-power, 28-utility-reconnection-fee-explained",
+    "612 kWh x 18.34c = $112.24; 671 x 18.34c = $123.05 (authorized illustrative math)"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "content/blog/14-estimated-utility-bill-explained.md",
+      "content/blog/27-utility-connection-fee-explained.md",
+      "content/blog/05-how-to-lower-utility-bills.md"
+    ]
+  },
+  "constraints": [
+    "Write ONLY these 3 files; NO hugo; NO web; no invented dollar ranges; illustrative tables must be labeled"
+  ],
+  "authorized_actions": [
+    "read",
+    "write"
+  ],
+  "prohibited_actions": [
+    "web_fetch",
+    "web_search",
+    "hugo",
+    "git"
+  ],
+  "success_criteria": [
+    "14: actual-vs-estimated table, math correct, labeled illustrative",
+    "27: comparison table + bidirectional 27<->28 links",
+    "05: differentiation sentence + both cross-links",
+    "all: updated: 2026-08-30"
+  ]
+}
