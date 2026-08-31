@@ -53,7 +53,7 @@ sources:
             </p>
             <p>
               Usage is measured in
-              <a href="/blog/what-is-a-kilowatt-hour/"> kilowatt-hours (kWh)</a>,
+              <a href="/blog/11-understanding-kwh-usage/"> kilowatt-hours (kWh)</a>,
               the same unit your old meter used. The difference is timing.
             </p>
             <p>

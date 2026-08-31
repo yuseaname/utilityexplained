@@ -1,0 +1,30 @@
+{
+  "role": "prospector",
+  "mission": "Total-ingestion audit of the 22-page bill-anatomy/fees cluster of utilityexplained.com (page list in context) per .squad/SQ-065/audit-prompt.md. Read every assigned page IN FULL and produce one structured audit entry per page in the standard format. This cluster is the site's deepest run of similar 'X charge on your bill explained' pages — specifically hunt: (a) cannibalization/overlap between near-sibling pages (which pairs target the same query space and which should merge), (b) templated repetition across entries (same intro patterns, same FAQ shapes, recycled sentences), (c) thin pages that don't earn their URL. Write the full table to .squad/SQ-065/wave1/prospector-pages.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). Your 22 pages (content/blog/): 04-hidden-fees-utility-bill, 09-apartment-utilities-cost, 10-fixed-vs-variable-utility-rate, 11-understanding-kwh-usage, 14-estimated-utility-bill-explained, 16-budget-billing-level-pay-explained, 17-what-is-customer-charge-on-utility-bill, 18-fuel-adjustment-charge-on-utility-bill-explained, 19-utility-bill-surcharges-and-riders-explained, 20-utility-bill-proration-explained, 21-past-due-balance-utility-bill-explained, 22-minimum-bill-utility-bill-explained, 23-utility-billing-cycle-explained, 24-delivery-charge-vs-supply-charge-utility-bill, 25-utility-bill-taxes-fees-franchise-charges-explained, 26-utility-deposit-explained, 27-utility-connection-fee-explained, 28-utility-reconnection-fee-explained, 46-what-time-is-electricity-cheapest, 49-demand-charges-electricity-bill-explained, 12-how-to-read-your-gas-bill, gas-delivery-charge-vs-supply-charge. Entry format per page: '### /blog/<slug>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop (patterns + quoted phrases, or 'none'), visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps. ALSO include a closing 'CLUSTER OVERLAP MAP' section: every pair of pages with >40% topical overlap, which is stronger, and the merge direction.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; audit the markdown SOURCE under content/",
+    "114 pages total: 89 blog articles + 25 core pages",
+    "Deterministic per-page metrics (words, headings, tables, internal links, outbound sources, FAQ, stale-year refs): .squad/content-metrics.md — ground truth, verify anything surprising",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy, Google near-zero",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — judge independently"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/prospector-pages.md"],
+    "notes": "Cross-page comparison is the point: grep phrases across files (run_command rg/grep inside roots) to detect recycled sentences between siblings."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/prospector-pages.md",
+    "Every rating/claim grounded in quoted or precisely-referenced evidence",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/prospector-pages.md exists with 22 complete entries + the CLUSTER OVERLAP MAP",
+    "Envelope carries: top-5 findings, pages rated below 6/10, merge candidates ranked, 3 highest-impact actions",
+    "Every weakness cites quoted evidence; overlap claims name both pages and the shared query space"
+  ]
+}

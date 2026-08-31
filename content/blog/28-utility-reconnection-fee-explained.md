@@ -41,7 +41,7 @@ Gas disconnection carries additional safety procedures. A utility technician mus
 Water disconnection affects sanitation and health. Many states have stronger protections against water shutoffs, including longer notice periods and mandatory payment-plan offers. Reconnection fees are generally **$25–$150** when done during business hours.
 
 ### Seasonal (Summer-Only or Winter-Moratorium States)
-In states with winter shutoff moratoriums (e.g., New York, Michigan, Illinois, Maryland, Pennsylvania) electric and gas disconnection is prohibited from November through March or similar windows. Reconnection after a moratorium lift follows standard fees plus a reconnection visit.
+Many states restrict winter disconnections for electricity and gas, and the rules (dates, eligibility, protections) vary by state. Reconnection after a protected period follows standard fees plus a reconnection visit. For how these protections actually work — and what a shutoff notice legally requires — see [can your utility shut off service](/blog/can-utility-shut-off-service/) and the notice-and-protection rules in [past-due balance explained](/blog/21-past-due-balance-utility-bill-explained/); for payment-assistance options before it gets that far, start with [LIHEAP and assistance programs](/blog/utility-assistance-programs-liheap/).
 
 ---
 
@@ -49,20 +49,20 @@ In states with winter shutoff moratoriums (e.g., New York, Michigan, Illinois, M
 
 {{< visual src="/images/articles/28-utility-reconnection-fee-explained/reconnect_fees.webp" alt="Comparison chart of typical electric, gas, and water reconnection fees." wide="true" >}}
 
-The table below shows representative reconnection charges at selected large utilities. **Always confirm the current fee with your provider before paying.** Fees are per the utility's tariff on file with the state public utility commission.
+The table below shows how reconnection charges are **structured** at selected large utilities — the fee components, the order-of-magnitude ranges, and the conditions that move the number. These are illustrative figures to calibrate expectations, **not a verified price list**: reconnection fees change with tariff revisions, and the authoritative number is the tariff sheet on file with your state public utility commission. **Always confirm the current fee with your provider before paying.**
 
 | Utility | State | Utility Type | Typical Reconnection Fee | Notes |
 |---|---|---|---|---|
 | PG&E | California | Electric/Gas | $75–$300 | Fee varies by time of day; after-hours or weekend truck-roll costs more. Verified from PG&E tariff Rule 23 (2026). |
 | Southern California Edison (SCE) | California | Electric | $15–$200 | Same-day reconnection after full payment; fee depends on meter-access method. |
-| Con Edison | New York | Electric/Gas | $75–$150 | Reconnections require an appointment. Winter moratorium Nov–Mar; no disconnections during that period. |
-| PECO | Pennsylvania | Electric/Gas | $50–$100 | State-ordered winter moratorium Nov 1–Mar 31; reconnection visits scheduled within 2 business days of payment. |
-| PSE&G | New Jersey | Electric/Gas | $75–$200 | After-hours reconnection incurs a higher fee. New Jersey has a winter moratorium Nov 15–Mar 15. |
-| Consumers Energy | Michigan | Electric/Gas | $25–$85 | Winter moratorium Oct–Mar. Reconnection fee waived if customer enrolls in a payment plan before disconnection. |
+| Con Edison | New York | Electric/Gas | $75–$150 | Reconnections require an appointment. Winter shutoff rules apply — see our [shutoff protections guide](/blog/can-utility-shut-off-service/). |
+| PECO | Pennsylvania | Electric/Gas | $50–$100 | Winter shutoff protections apply; reconnection visits are typically scheduled within business days of payment. |
+| PSE&G | New Jersey | Electric/Gas | $75–$200 | After-hours reconnection incurs a higher fee. Winter shutoff protections apply. |
+| Consumers Energy | Michigan | Electric/Gas | $25–$85 | Winter protections apply; ask about fee waivers for payment-plan enrollment before disconnection. |
 | Georgia Power | Georgia | Electric | $25–$70 | No statewide winter moratorium; reconnection typically within 24 hours after payment. |
 | CPS Energy | Texas | Electric/Gas | $25–$50 | Texas has less restrictive shutoff rules; CPS offers extended payment arrangements to avoid disconnection. |
 
-*Sources: PG&E Rule 23 tariff filing (2026), Con Edison tariff leaf 140, PECO tariff Rule 14, PSE&G tariff sheet 63, Consumers Energy tariff Rate Book E-1, Georgia Power tariff Rule 4 (each verified via state PUC dockets 2024–2026). Ask your provider for its specific tariff or policy sheet.*
+*Where to verify each row: utilities publish their reconnection charges in the tariff or rate book on file with the state commission (e.g., PG&E Schedule Rule 23, Con Edison leaf 140, PECO Rule 14). Ask your provider — or the commission — for the current tariff sheet; it supersedes anything on this page.*
 
 ---
 
@@ -97,8 +97,8 @@ Most utilities require all past-due charges plus the reconnection fee to be paid
 ### Step 2: Schedule the Reconnection Appointment
 After payment clears (usually 1–2 business days for checks, instantly for online payments), call the utility to schedule the reconnection. Ask for a specific window. Expect:
 
-- **Electric:** 1–4 hours; technician flips the main breaker or restores the meter seal.
-- **Gas:** 1–2 hours; technician must relight pilot lights on all gas appliances and check for leaks.
+- **Electric:** often same-day once payment clears — a technician restores the meter or breaker; ask for the appointment window when you pay.
+- **Gas:** typically longer — the technician must relight pilot lights and check for leaks, so request the earliest appointment. (Your utility quotes the actual timing; treat any specific hours it gives you as the plan.)
 - **Water:** 30–60 minutes; technician turns the curb stop or water valve back on.
 
 ### Step 3: Be Present for the Technician

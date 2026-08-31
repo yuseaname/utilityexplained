@@ -37,6 +37,8 @@ Dye test clean and meter dead-still? Work down the ranked causes below. Bill jum
 
 ## The Causes, Ranked by Likelihood
 
+{{< visual src="/images/articles/06-water-bill-too-high/water-leak-priority-quadrant.webp" alt="Which leak first: a running toilet is the top-priority fix and can add one hundred dollars or more to a monthly bill; faucet drips come next; slab leaks need a plumber; and the meter test settles which you have." wide="true" >}}
+
 Ranked by how often each explains a high bill — and how cheap the confirming test is.
 
 ### 1. A leaking toilet

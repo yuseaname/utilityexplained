@@ -1,6 +1,7 @@
 ---
 title: "Understanding kWh Usage on Your Electric Bill"
 slug: "11-understanding-kwh-usage"
+aliases: ["/blog/what-is-a-kilowatt-hour/"]
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
 updated: 2026-08-29
@@ -24,6 +25,18 @@ sources:
 **A kilowatt-hour (kWh) is a measure of electrical energy: one kilowatt used for one hour equals one kWh.** The useful question for a bill is not whether a household matches a national average, but whether its kWh changed after accounting for billing days, weather, equipment, occupancy, and rate-plan changes.
 
 EIA reports that electricity use varies widely across regions and housing types, so a national benchmark should not be treated as a personal target.[1]
+
+### The Definition, in One Table
+
+| Term | What it measures | Plain-English meaning |
+|---|---|---|
+| Watt (W) | Power | How fast electricity is being used right now |
+| Kilowatt (kW) | Power | 1,000 watts (a convenient larger unit) |
+| Kilowatt-hour (kWh) | Energy | How much electricity was used over time |
+
+**kW is how fast; kWh is how much.** Three devices, all consuming exactly 1 kWh: a 1,000-watt space heater for 1 hour, a 100-watt bulb for 10 hours, a 10-watt LED for 100 hours. A high-watt device can be cheap if it runs briefly; a small device adds up if it runs all day.
+
+**The one-line formula:** (watts ÷ 1,000) × hours = kWh. A 1,500-watt heater for 3 hours is 4.5 kWh; multiply by your rate for cost. (Space heaters are the classic worked example — and they do not all cost the same to run: our [space heater guide](/blog/42-best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math.)
 
 ## Read kWh in Context
 

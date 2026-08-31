@@ -1,0 +1,29 @@
+{
+  "role": "lieutenant",
+  "mission": "SQ-066 side-quest (operator-requested, HIGH PRIORITY): diagnose and fix the Google Search Console 'Unparsable structured data — Invalid top level element \"string\"' critical issue affecting ~40 pages of utilityexplained.com. Steps: (1) REPRODUCE locally — the rendered site is in public/ (fresh build): extract every <script type=\"application/ld+json\"> block from affected page types (hubs like public/electricity-explained/index.html, category pages like public/blog/category/heating-cooling/index.html, core pages public/about/index.html, posts like public/blog/afue-vs-seer-vs-hspf-vs-cop/index.html) and validate each JSON block with python3 json.loads — find which blocks fail and WHY (the GSC error means a top-level JSON string instead of object/array, e.g. a template variable interpolating a bare quoted string). (2) LOCATE the emitting template — layouts/ partials/shortcodes (look for schema, jsonld, faq-schema, head/meta partials and how .Params values flow in; suspect: a string param injected where an object is expected, a Hugo variable printed with quotes around the whole block, or a shortcode emitting raw text). (3) FIX the template(s) so every rendered JSON-LD block parses as valid JSON (object or array at top level). (4) VERIFY: rebuild (hugo --gc --quiet), then re-extract and json.loads EVERY ld+json block in the whole public/ tree — zero parse failures required; quote the verification count. Note in your report: several GSC-listed URLs are retired aliases (41-how-to-read-electricity-bill, 02-average-utility-costs-2026, stormwater-fee-on-water-bill-explained, demand-charge-electricity-bill-explained, 7-states-with-worst-utility-spikes-2026, why-is-my-electricity-bill-so-high-in-summer/winter) — they redirect and will age out of GSC; focus on LIVE templates. Write the diagnosis + fix report to .squad/SQ-066/structured-data-fix.md.",
+  "parent_objective": "SQ-066 remediation + operator-requested GSC structured-data fix",
+  "context": "Site: Hugo v0.141.0 extended, layouts in layouts/, shortcodes in layouts/shortcodes/ (faq, faq-schema, visual, product-box, box, jump-row, affiliate-disclosure...), head partials under layouts/partials/ or layouts/_default/. The GSC error 'Invalid top level element string' = a JSON-LD script whose content parses to a bare JSON string (e.g. \"some text\") instead of {...} or [...] — classically caused by a Hugo template printing a string param as the whole block, or a stray quote/comma making the block a string. Compare WORKING pages' JSON-LD vs BROKEN ones to isolate the divergent template. Do NOT touch content/ files (another workstream owns them); your writes are layouts/** and the report file only.",
+  "known_facts": [
+    "Fresh rendered tree at public/ reflects current layouts",
+    "Affected live page types per GSC: hubs (electricity/water/gas/utility-bills-costs-explained), /blog/category/* taxonomy pages, about/contact/terms, utilities-glossary, and ~20 blog posts",
+    "The site has corrections-log lineage for ConEd TOU rates and an honest AI-disclosure setup — unrelated but tells you the site's conventions",
+    "hugo binary at ~/.local/bin/hugo (v0.141.0, same as CI)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/structured-data-fix.md"],
+    "notes": "For layouts/** edits: the write_paths mechanic confines file tools to the report file — make layout fixes via run_command (python3 in-place edits) inside roots, quoting each change in the report. Verify with a full-tree JSON-LD parse sweep."
+  },
+  "constraints": [
+    "No writes to content/** — layouts/** and the report file only",
+    "Every layout change must be justified by a failing->passing json.loads before/after quote",
+    "Final verification: hugo build clean + 100% of ld+json blocks in public/ parse as valid top-level objects/arrays"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-066/structured-data-fix.md exists: root cause named with the exact template line(s), the fix, before/after JSON-LD samples, and the full-tree verification count (0 parse failures)",
+    "All rendered ld+json blocks parse; hugo build succeeds",
+    "Envelope: root cause in one sentence + verification count + list of layout files changed"
+  ]
+}

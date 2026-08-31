@@ -57,7 +57,20 @@ A typical regulated gas bill has two main parts — the gas itself and its deliv
 | **Riders/surcharges** | Specific programs or cost recovery (infrastructure, efficiency, securitization) | Dollar or percentage add-on | Tariff rider schedules |
 | **Taxes and fees** | State and local taxes, gross receipts tax, franchise fees | Percentage of charges or fixed amount | Your state and local tax rules |
 
-Utilities structure these differently. Columbia Gas of Ohio sets its default supply price through a PUCO-supervised auction and adjusts it monthly; the delivery side is a regulated rate.[6] Check which side each rate on your bill sits in before comparing or disputing it — see [How to Compare Delivery and Supply Charges on a Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) and [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/).
+Utilities structure these differently. Columbia Gas of Ohio sets its default supply price through a PUCO-supervised auction and adjusts it monthly; the delivery side is a regulated rate.[6] Check which side each rate on your bill sits in before comparing or disputing it — see [How to Compare Delivery and Supply Charges on a Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).
+
+### Verify Which Side Each Rate Sits On
+
+The most common mistake in gas-bill explainers is filing a supply mechanism under delivery. Check what each named rate actually is before you use it:
+
+| Example | What it actually is | Category |
+|---|---|---|
+| Columbia Gas of Ohio's Standard Choice Offer (SCO) | The default **supply** price — NYMEX market price plus a retail price adjustment [6] | **Supply** |
+| National Grid's Gas Adjustment Factor (GAF) | Recovery for gas purchased and transport to the distribution system [7] | **Supply** |
+| Con Edison's embedded local taxes | Local taxes on energy infrastructure folded into the delivery charge | **Delivery** |
+| NIPSCO's basic customer fee | Part of the delivery charge on every bill [8] | **Delivery** |
+
+*A correction this guide carries from its earlier version: it previously used Columbia Gas of Ohio's "$3.25 per Mcf added to NYMEX" figure as a **delivery** example. That mechanism is Ohio's SCO — the state's default **supply** rate, set by auction [6]. The $3.25 figure no longer appears on the utility's current rate page, so both the category and the number were corrected. The lesson stands: an SCO is not an infrastructure charge; do not cite default-service rates as delivery costs.*
 
 ### Worked Check: Verify a Bill Against Its Own Numbers
 
@@ -79,7 +92,7 @@ Check it in this order:
 3. **Fixed items:** confirm the customer charge and riders match the utility's current tariff.
 4. **Taxes:** apply the printed percentage to the correct base.
 5. **Total:** add the lines and compare against the amount due.
-6. **Rates against the utility's published pages** — for example, Columbia Gas of Ohio posts its monthly Standard Choice Offer calculation openly: for August 2026, a NYMEX market price of $2.7250/Mcf plus a $2.25/Mcf retail price adjustment = $4.975/Mcf, billed as $0.4975/Ccf.[6]
+6. **Rates against the utility's published pages.** Columbia Gas of Ohio publishes its monthly SCO calculation openly, so you can rebuild your supply line step by step [6]: start with the **NYMEX month-end settlement price** ($2.7250/Mcf for August 2026); add the **retail price adjustment** set by the annual PUCO auction ($2.25/Mcf from January 2026); total them ($4.975/Mcf, billed as $0.4975/Ccf); then multiply your therms by the per-therm equivalent (≈$0.48, at 1 Mcf ≈ 10.37 therms). The SCO price resets monthly with the market even though the formula stays fixed [6].
 
 If a line no longer matches the current published rate or tariff, that is the number to question with the utility.
 
@@ -118,6 +131,14 @@ According to EIA data, the average U.S. residential natural gas price was:
 Early 2026 prices sit near or below 2025's average — but note the seasonal trap: residential $/Mcf runs **higher in the off-season** (May 2026 averaged $19.83/Mcf) because fixed costs spread over low summer volumes, so always compare like months.[4]
 
 *Source: EIA Natural Gas Residential Price (retrieved 2026-08-29).[2][9] Prices vary widely by state — California ($22.01/Mcf in 2025), Florida ($25.48), and Hawaii ($52.38) sit well above the national average, while Colorado ($11.17), Idaho ($7.69), and Michigan ($10.92) sit below; New York ran $17.58 in 2025.[3]*
+
+## Can You Shop the Supply Side?
+
+**Supply — often, yes.** In choice markets you can buy gas from a competitive supplier while the utility keeps delivering it. National Grid frames it directly: supply is the portion "for which you can shop for your gas supply from a supplier other than National Grid," delivered "regardless of your choice of supplier" — and the utility passes through cost: "National Grid does not mark up the price of natural gas sold to our customers; you pay what we pay."[7] Compare any supplier offer against your utility's posted default rate (in Ohio, the monthly SCO price [6]) on a **total-cost-per-therm** basis before switching.
+
+**Delivery — no.** The pipes serving your street are a monopoly; delivery charges stay with the local utility regardless of who sells you the gas [7]. The only lever is regulatory: rate cases are filed with your state public utility commission, which posts them for public review.
+
+A supplier offer is supply-only. Before switching, put the offer's per-therm price next to your **full** current bill — delivery, riders, and taxes included — not just next to the supply line.
 
 ## Compare Like With Like
 

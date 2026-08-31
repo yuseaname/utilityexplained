@@ -1,0 +1,30 @@
+{
+  "role": "mason",
+  "mission": "Bulk audit of the 19-page HVAC/appliance/meter cluster of utilityexplained.com (list in context) per .squad/SQ-065/audit-prompt.md. One compact-but-complete audit entry per page in the standard format. Special attention: (a) LEGACY-FORMAT pages — several of your pages have 0-2 H2s, no tables, no internal links (afue-vs-seer-vs-hspf-vs-cop, aux-heat-vs-emergency-heat-meaning, ac-running-but-not-cooling, gas-vs-electric-heating-cost-comparison, heat-pump-running-all-day-in-winter, what-is-a-kilowatt-hour, how-to-read-electric-meter per the metrics table) — judge whether they are structurally obsolete vs the site's newer format and whether each should be rebuilt, merged, or kept; (b) troubleshooting-intent fit — do symptom pages (ac-running-but-not-cooling, furnace-cold-air, duct-leaks) answer the panicked reader in the first screen or bury the answer; (c) consistency of specs/numbers across sibling pages (SEER/HSPF/AFUE definitions, wattage examples) — flag contradictions between pages. Write the full table to .squad/SQ-065/wave1/mason-pages.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). Your 19 pages (content/blog/): 13-ac-short-cycling-causes-fixes, ac-running-but-not-cooling, aux-heat-vs-emergency-heat-meaning, heat-pump-running-all-day-in-winter, why-is-my-furnace-blowing-cold-air, duct-leaks-symptoms-hvac-running-all-day, single-stage-vs-two-stage-vs-variable-speed-hvac, ductless-mini-split-vs-central-air, afue-vs-seer-vs-hspf-vs-cop, what-merv-rating-do-i-need, 45-whole-house-generator-vs-portable-cost, 48-heat-pump-vs-gas-furnace-savings, gas-vs-electric-heating-cost-comparison, how-to-find-and-seal-drafts-in-your-home, 47-check-energy-leaks-home-diy, gadgets-that-lower-utility-bills, phantom-power-draw-explained, how-do-smart-meters-work, what-is-a-kilowatt-hour. Entry format per page: '### /blog/<slug>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop (patterns + quoted phrases, or 'none'), visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps. Close with a LEGACY REBUILD LIST: the subset needing full structural rebuilds, ranked.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; audit the markdown SOURCE under content/",
+    "114 pages total: 89 blog articles + 25 core pages",
+    "Deterministic per-page metrics (words, headings, tables, ilinks, sources, FAQ, stale-year refs): .squad/content-metrics.md — ground truth; note 45-whole-house-generator has 4 stale-year refs, 48-heat-pump-vs-gas-furnace has 5, afue/aux/ac-running/mcf have 0 h2/h3",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy, Google near-zero",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — judge independently"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/mason-pages.md"],
+    "notes": "Cross-page number checks via run_command grep (e.g. rg 'SEER' content/blog/*.md) — quote conflicting lines."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/mason-pages.md",
+    "Every rating/claim grounded in quoted or precisely-referenced evidence",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/mason-pages.md exists with 19 complete entries + the LEGACY REBUILD LIST",
+    "Envelope carries: top-5 findings, pages rated below 6/10, cross-page number contradictions found, 3 highest-impact actions",
+    "Every weakness cites quoted evidence"
+  ]
+}

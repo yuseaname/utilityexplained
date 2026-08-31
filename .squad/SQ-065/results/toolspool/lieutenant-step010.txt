@@ -1,0 +1,339 @@
+exit_code: 0
+=====FILE1=====
+---
+title: "Do Thermal Curtains Really Work?"
+slug: "do-thermal-curtains-really-work"
+description: "Thermal curtains work through still air and fit, not fabric — what the DOE and AERC numbers measured, the hang rules that decide performance."
+date: 2026-08-30
+updated: 2026-08-30
+author: "Margaret Harrington"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["thermal curtains", "window insulation", "heating costs", "energy efficiency"]
+keywords: ["do thermal curtains work", "thermal curtains save on heating bills", "best thermal curtains for winter", "insulated curtains"]
+image: "/images/articles/do-thermal-curtains-really-work/do-thermal-curtains-really-work_hero_v2.webp"
+image_alt: "Tall winter window with heavy floor-length curtains drawn, cold tones outside and warm tones in the room, with cold-air arrows at the glass."
+sources:
+  - https://www.energy.gov/sites/default/files/2021-12/bto-cellular-shades-factsheet-112221.pdf
+  - https://aercenergyrating.org/available-products/
+  - https://www.amazon.com/dp/B077RPXSF3
+---
+
+{{< affiliate-disclosure >}}
+
+## Quick Answer
+
+**Yes — as a fit-and-discipline product, not a fabric miracle.** Window attachments are one of the few home upgrades with measured results behind them: a Department of Energy factsheet on window attachments puts the potential at roughly 15% of a household's annual HVAC energy, and the independent rating body for the category publishes a 5–16% range for certified products [1][2].
+
+The catch: most of the performance lives in the installation and the daily open/close habit, not in the panel. And if your home already has modern double-pane windows in a recently sealed envelope, there is little slack left to recover.
+
+The fabric is the least important part. What does the work is the pocket of still air a curtain holds against the glass, and the convection loop it breaks there.
+
+## The Dead-Air Mechanism
+
+A window loses heat by conduction to whatever air touches it, and a cold pane runs that process continuously: the glass chills the room air next to it, the chilled air sinks, warmer air slides in behind it, and the cycle repeats. Stand beside a bare window on a winter night and that loop is what you feel — your heated air being fed across cold glass and dropped.
+
+A curtain beats it with stillness. In the folds between fabric and glass sits a cushion of slow-moving air, and still air is one of the poorest heat conductors in your house. The curtain's job is to hold that cushion in place and put the loop's cold leg behind fabric, where the room can no longer feed it. Any tight-weave, full-coverage, floor-length panel runs the same physics; what the "thermal" label adds is layered construction that holds more still air in more pockets.
+
+{{< visual src="/images/articles/do-thermal-curtains-really-work/dead-air-cross-section.webp" alt="Window cross-section showing the glass, the trapped cushion of still air, and the curtain that holds it in place." wide="true" >}}
+
+## What the Savings Numbers Actually Measured
+
+**Every savings figure attached to window coverings sits on one of three rungs of evidence — and product pages rarely tell you which one you are standing on.**
+
+### Tier 1: The DOE figure — about 15% of HVAC energy
+
+The strongest number in the category comes from a Department of Energy factsheet: installing window attachments can save about **15% of a household's annual HVAC energy** [1]. The figure comes from a federal study of window attachments as a category — cellular shades measured against vinyl blinds — and it is a share of heating-and-cooling energy, not of the whole bill.
+
+### Tier 2: The certified range — 5–16%
+
+The Attachments Energy Rating Council (AERC) independently rates window attachments the way whole windows are rated: U-factor, solar heat gain, and air leakage [2]. In AERC's certified-product materials, cellular shades carry a savings potential of **5–16%** [2]. The range is wide because the variables are yours — window condition, fit, climate, whether the covering gets operated.
+
+### Tier 3: The marketing number — "25–40% of window heat loss"
+
+Then there is the figure circulating across retailer and brand pages: these curtains cut window heat loss by 25–40%. That tier is **manufacturer-reported**, with the lineage of the underlying study murky at best [3]. More important is what the percentage is *of*: the window's heat loss, not your bill. A window is one loss path among several in a house, so a fraction of window loss shrinks predictably by the time it reaches your bill. Read "40%" on a tag as "up to 40% of what the glass loses, under a hang you may not have."
+
+The takeaway is not a demolition. The measured number is smaller than the tagline and still worthwhile — it hangs on one of the cheapest upgrades on the shelf, installed in an afternoon, by you.
+
+## Fit Beats Fabric
+
+**The installation decides the outcome; the fabric just shows up for it.** The dead-air layer exists only where the curtain's geometry allows, and it dies at every gap. Four rules do nearly all the work:
+
+1. **Extend past the frame on each side.** At least four inches beyond the frame on both sides; cloth that stops at the opening's edge leaves the leakiest rim of the assembly uncovered.
+2. **Hang close to the wall.** Every inch between rod and wall is a feed tube where room air slips behind the panel and rejoins the loop. Mount the hardware as close as the brackets allow.
+3. **Go all the way to the floor.** Air takes the gap beneath the hem. A panel ending at the sill protects a window that mostly isn't there.
+4. **Close the overlap.** Two panels should meet in the middle with slack, not a seam of daylight. The center of the glass is the coldest strip in the assembly; leave it open and you have hung curtains around the part that matters.
+
+| Hang | What it does |
+|---|---|
+| **Right:** wide past the frame, snug to the wall, floor-length, panels overlapped | The still-air layer holds; the loop stops at the fabric |
+| **Wrong:** exact window width, rod stacked forward off the wall, hem above the sill, panels merely touching | Room air feeds around every edge of the panel |
+
+Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expensive curtain hung short and proud of the wall. Spend the money on the tape measure, not the tag.
+
+{{< visual src="/images/articles/do-thermal-curtains-really-work/fit-overlap-right-wrong.webp" alt="Wrong and right curtain hangs compared: a too-small panel leaking at the edges against a wide overlap hung close to the wall." wide="true" >}}
+
+## Winter Nights, Summer Days
+
+**A thermal curtain has a schedule, and the schedule is free.** The fabric holds still air; whether that saves energy depends on what the window is doing at the moment.
+
+| Season | Window type | Day/night | Position | Why |
+|---|---|---|---|---|
+| Winter | Any | Sunny daytime | **Open** | Light through the glass arrives as free solar heat — invite it in |
+| Winter | Any | Night, dark hours | **Closed** | The dead-air layer goes on duty |
+| Summer | Sun-struck glass | Daytime | **Closed** | Block solar gain before it enters the room |
+| Summer | Shaded glass | Daytime | **Open** | Nothing to block; let air move |
+
+The winter discipline is two-position — closed at night, open on sunny days. Pairing closed curtains with heating only the rooms you actually use is where the winter math compounds — [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/) cover that half. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives. If the summer problem is the equipment rather than the glass, the real choice is [ductless mini-split vs. central air](/blog/ductless-mini-split-vs-central-air/).
+
+{{< visual src="/images/articles/do-thermal-curtains-really-work/seasonal-operation-clock.webp" alt="Four seasonal operating positions for window coverings: closed winter nights, open winter sunny days, closed against summer sun, open on mild summer nights." wide="true" >}}
+
+## Curtains vs. Window Film Kits vs. Cellular Shades
+
+**There is no best treatment — only the best match for the window you actually have.**
+
+| Treatment | Mechanism | Best window type | Renter-ok | Typical band | One-line verdict |
+|---|---|---|---|---|---|
+| Thermal curtain | Still-air layer + convection block at the glass | Older or single-pane glass; any window that runs cold | Yes — rod and panel, nothing permanent | $20–50 per panel-pair [4] | Works only while closed |
+| Window film kit | Transparent film sealed over the sash | Windows you never open | Generally yes | Seasonal consumable | One-season install; reopening means redoing it |
+| Cellular shade | Honeycomb pleats hold dead-air pockets inside the frame | Any; strongest independent ratings [2] | Install-dependent | Usually pricier | Best-rated, costliest, least decor-flexible |
+
+{{< visual src="/images/articles/do-thermal-curtains-really-work/treatment-comparison-strip.webp" alt="Thermal curtain panels, applied window film, and a honeycomb cellular shade shown side by side as the three treatment options." wide="true" >}}
+
+Cellular shades lead the independent ratings [2], but they price like it and commit you to a pleated look. Curtains stay the flexible middle: cheapest to try, easiest to rehang, and the only one that doubles as decor.
+
+## What to Look For (If You Buy)
+
+**Most of what matters on the tag is not the fabric — but the fabric's construction is where the list starts.**
+
+1. **Tight weave or layered construction.** The still-air layer lives in the build. A loose, drapey weave breathes, and breathing is the failure mode.
+2. **Size to overlap, not to fit.** If the panel's width matches the window's width, you bought a covering with no margin. Order past the frame on every side.
+3. **Light-blocking is not insulating.** Blackout describes visible light, not heat flow. A pitch-dark room can still shed heat all night through a gapped hang.
+4. **The heading sets the edge seal.** Grommets hang flat and slide easily; rod-pocket headings wrap the rod and bunch fabric at the top. What matters is how much slack edge sits between panel and wall when the curtain is closed.
+5. **Go to the floor.** Repeated from the install rules because it is the spec most people override: hem height is thermal before it is styling.
+
+Nothing on this list requires a designer label. The category's best sellers are plain, wide panels in the $20–50 band [4], and once the hang is right, the physics does not grade the brand. The best-selling panel below is the sensible default — check its size chart against your rod before the price sways you.
+
+{{< product-box asin="B077RPXSF3" name="NICETOWN Thermal Insulated Blackout Curtains" label="The hang matters more than the brand" description="Thermal-insulated blackout panels in the twenty-to-fifty-dollar band. Order wide enough to overlap the frame on every side and hang close to the wall — fit decides the performance." button="Check price on Amazon" >}}
+
+## When Curtains Won't Help
+
+**Four situations where the honest answer is that the curtain is not the tool.**
+
+- **Modern double-pane windows in a recently sealed house.** Sealed units already hold a dead-air layer between the panes and conduct poorly; the slack a curtain can recover is small. Buy for darkness or looks, not the heating bill.
+- **Deep exterior shading.** Glass under a wide porch, awning, or heavy tree cover sees less sun and less wind; the curtain has less to intercept on either seasonal job.
+- **A radiator under the window.** The curtain now sits between the heat source and the room. Hung over a hot radiator, a panel can route warm air straight up the cold glass and out — the convection loop, working for the other side. If the heat source lives under the glass, decide which one gets the job. (Air that's lukewarm at every register is a different problem — [why your furnace is blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/).)
+- **The draft is from the frame, not the glass.** Moving air you can feel at the sill is an air-leak signature — air sealing owns that fix, and a curtain will hang politely while you keep heating the outdoors. Walk a [DIY home energy assessment](/blog/47-check-energy-leaks-home-diy/) first; [seal the drafts the curtain can't](/blog/how-to-find-and-seal-drafts-in-your-home/), then dress it. If the heating load itself is the problem, the story is in [why your gas bill is so high](/blog/07-gas-bill-too-high/).
+
+## Frequently Asked Questions
+
+{{< faq "Do thermal curtains actually help in summer?" >}}
+
+Yes — same barrier, different job. In winter the enemy is conducted heat leaving through the glass; in summer, on sun-struck windows, it is solar gain arriving through it. A closed panel across beam-hit glass blocks the day's heat before it enters the room. North-facing and shaded glass receives no direct beam — nothing to block, little reason to keep those closed.
+
+{{< /faq >}}
+
+{{< faq "Do they work on old single-pane windows?" >}}
+
+Single panes are this product's best case. They lose heat faster and run colder, so the still-air layer and the interrupted loop have the most slack to recover. The fit rules stop being optional, and the nightly closed-at-dark discipline matters more. The honest expectation is a real dent in what that window loses — not a claim about your whole bill.
+
+{{< /faq >}}
+
+{{< faq "Are thermal curtains worth it for apartments?" >}}
+
+Arguably the best case in the market. You can't replace the windows and shouldn't drill into them — curtains need neither. A rod and panels are the entire install, and it all leaves with you at move-out. The fit rules still apply: wide past the frame, close to the wall, floor-length, closed at night. For where a window fix sits in the larger picture, see [how to prioritize utility-bill improvements](/blog/05-how-to-lower-utility-bills/).
+
+{{< /faq >}}
+
+## Sources
+
+1. [U.S. Department of Energy — Window Attachments: Cellular Shades Factsheet (PDF)](https://www.energy.gov/sites/default/files/2021-12/bto-cellular-shades-factsheet-112221.pdf) — window attachments can save about 15% of annual HVAC energy (retrieved 2026-08-30)
+2. [Attachments Energy Rating Council — Rated Products (U-factor, Solar Heat Gain, Air Leakage)](https://aercenergyrating.org/available-products/) — certified products carry a 5–16% savings-potential range (retrieved 2026-08-30)
+3. Manufacturer and retailer product pages for thermal curtains, surveyed at retrieval — the "25–40% of window heat loss" figure is manufacturer-reported, with no primary study identified (retrieved 2026-08-30)
+4. [NICETOWN Thermal Insulated Curtains — Amazon listing](https://www.amazon.com/dp/B077RPXSF3) — best-seller panel pairs in the $20–50 band at retrieval (retrieved 2026-08-30)
+=====FILE2=====
+---
+title: "Why Is My Water Bill So High? Causes Ranked by Likelihood"
+slug: "06-water-bill-too-high"
+description: "Rank the likely causes of your high water bill — toilet leak, irrigation, rate change, meter error — and run the free tests in order before spending money."
+date: 2026-03-07
+updated: 2026-08-29
+author: "Tanya Patterson"
+category: "Troubleshooting"
+categories: ["Troubleshooting"]
+tags: ["high water bill", "water bill spike", "water meter", "water use"]
+keywords: ["why is my water bill so high", "high water bill", "water bill investigation", "high water bill causes"]
+image: "/images/articles/06-water-bill-too-high/06-water-bill-too-high_hero_v2.webp"
+og_image: "/images/social/og-water-bill-too-high.webp"
+hero_below_answer: true
+sources:
+  - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
+  - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
+---
+
+{{< affiliate-disclosure >}}
+
+## Quick Answer
+
+**Most often it's a running toilet — do the 10-minute dye test now.** Add a few drops of food coloring to the toilet tank, wait 10 minutes without flushing, and look at the bowl: if color appears, the flapper is leaking and every minute counts against your meter.[2]
+
+The test is free, the leak hides inside a closed tank where nothing looks broken, and EPA tells homeowners to test toilets for silent leaks this way at least once a year because flappers wear out.[2]
+
+Beyond spot checks, the full protection ladder — point sensors, meter monitors, automatic shutoff — is walked in [when to upgrade your leak protection](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/).
+
+Then run the 3-step meter check to confirm water is (or isn't) moving somewhere else:
+
+1. **Shut off every faucet, ice maker, dishwasher, washing machine, and irrigation zone.**
+2. **Find your water meter** (curbside pit or basement) and note the reading — or watch the small leak-indicator dial.
+3. **Wait.** EPA's protocol: read the meter, read it again two hours later with no water use in between. If the reading changed, you have a leak in the home.[2]
+
+Dye test clean and meter dead-still? Work down the ranked causes below. Bill jumped one month over the last? [Why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) is the faster path.
+
+## The Causes, Ranked by Likelihood
+
+Ranked by how often each explains a high bill — and how cheap the confirming test is.
+
+### 1. A leaking toilet
+
+A worn flapper lets tank water seep into the bowl around the clock — silent, invisible, adding thousands of metered gallons before anyone notices. In most U.S. cities sewer is billed on metered water, so the leak hits the bill twice. EPA advises replacing flappers at least once every five years.[2]
+
+**How to confirm:** the 10-minute dye test above — food coloring in the tank, no flush, color in the bowl means a leak.[2] Full walkthrough and repair options: [is your toilet running? The simple leak test](/blog/is-your-toilet-running-leak-test/).
+
+### 2. Irrigation and outdoor use
+
+EPA puts outdoor use above 30 percent of household water use on average and as much as 60 percent in arid regions — and up to half of outdoor water is lost to wind, evaporation, and runoff from inefficient irrigation.[1]
+
+**How to confirm:** run each irrigation zone and walk it — broken heads, misting, pooling, sidewalk spray. Run one cycle at dawn while watching the meter: creep during irrigation-only windows puts the loss outdoors. Deep dive: [why water bills climb in summer](/blog/why-is-my-water-bill-higher-in-summer/).
+
+### 3. A rate, tier, or billing change
+
+Your bill can climb with zero change in gallons. Utilities raise rates, restructure tiers, add surcharges, adjust sewer formulas — and under tiered rates, modest extra usage can land your household in a much more expensive block. In a declared drought, many utilities also add a temporary drought surcharge — see [how a drought surcharge on your water bill is calculated](/blog/drought-surcharge-on-water-bill-explained/) before assuming a rate change is permanent.
+
+**How to confirm:** put the current statement beside last year's same-month statement and compare the usage line and the rate lines separately — usage up is a leak-or-behavior problem; usage flat with a higher total is a rate problem. Check the tariff, tier breakpoints, and any one-time charges. Full method: [tiered water rates explained](/blog/tiered-water-rates-explained/).
+
+### 4. Meter error or estimated reads
+
+Meters are usually right, but estimated reads, misreads, and failing meters happen.
+
+**How to confirm:** check the bill for an "estimated" or "customer read" label, then compare the bill's ending meter figure to the physical meter — they should match within a dial or two. See [how to read a water meter (and know if it's accurate)](/blog/how-to-read-a-water-meter/). If they don't reconcile, ask the utility for a meter test (questions below).
+
+### 5. A longer billing period
+
+Bills don't always cover 30 days — cycles run ~28 to ~35 days, and "more days at the same daily rate" reads as a spike on paper.
+
+**How to confirm:** divide billed gallons by the service-period days printed on the statement and compare with last bill's daily figure. Daily use flat, total up? That's the calendar, not a leak.
+
+### 6. Seasonal and household changes
+
+Houseguests, more showers, a new appliance, a pool, evaporative cooling — usage moves with the calendar. Outdoor use drives the biggest seasonal swing.[1]
+
+**How to confirm:** compare daily use (not totals) against the same month last year, then account for every household change. If daily use is far above the benchmark below with no lifestyle change to point at, go back to cause #1.
+
+### 7. Water-softener and well-pump cycles
+
+A softener stuck in regeneration, or a well pump cycling continuously, wastes water steadily and quietly. EPA notes softeners can be water-intensive and should be serviced annually.[2]
+
+**How to confirm:** watch the softener through a full regeneration — continuous trickle-to-drain is the tell. For a well, watch the pressure tank for short-cycling.
+
+## Benchmark Your Usage Before You Assume a Leak
+
+EPA puts average use at 82 gallons per person per day at home, indoor and outdoor combined.[1] If your metered use runs far above the household figures below with no change in household or habits, start at ranked cause #1.
+
+{{< visual src="/images/articles/06-water-bill-too-high/household-usage-bars.webp" alt="Household-size water-use chart for one through five people, with a national median band and a reminder to use the bill as the audit." wide="true" >}}
+
+| Household size | Daily use at the 82 gal/person average | Monthly use at that rate (30.4 days) |
+|---|---|---|
+| 1 person | ~82 gallons | ~2,500 gallons |
+| 2 people | ~165 gallons | ~5,000 gallons |
+| 3 people | ~245 gallons | ~7,500 gallons |
+| 4 people | ~330 gallons | ~10,000 gallons |
+| 5 people | ~410 gallons | ~12,500 gallons |
+
+*Computed from EPA's 82 gal/person/day figure.[1] Fixtures, climate, and habits move the real number — your bill is the audit.*
+
+One hard line from EPA: **a family of four with no outdoor water use that exceeds 12,000 gallons (16 CCF) in a winter month likely has a serious leak.**[2] If that describes your winter bill, skip everything else and work the leak checks. To convert your bill's units, see [what CCF on a water bill means](/blog/what-is-ccf-on-a-water-bill/).
+
+## Work the Checks in Order
+
+Ranked list hasn't closed the case? Walk these three checks in order — one afternoon, zero dollars.
+
+{{< visual src="/images/articles/06-water-bill-too-high/water-diagnosis-strip.webp" alt="Three-step process to investigate a high water bill: compare bills, test the meter, and isolate a valve." wide="true" >}}
+
+### Check 1: Compare the bill line by line
+
+Put the current statement beside a comparable earlier bill and record:
+
+| Bill detail | What to verify |
+|---|---|
+| Service period | Start/end dates and total billing days |
+| Meter/read status | Actual, estimated, customer-submitted, corrected, or another label |
+| Usage | Billed quantity, unit, and any provider conversion |
+| Charges | Usage, fixed, sewer, tax, credit, and one-time lines |
+| Rate plan | Tariff, tier, season, and effective date |
+
+A higher total alone does not identify the cause — separate usage, rate, and period. The utility controls the bill's units, rate structure, read status, and adjustment policy. For the sewer line especially, see [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/).
+
+### Check 2: Test the meter and document conditions
+
+Follow your utility's meter-access and safety instructions. With no water in use, read the meter — EPA's protocol: read now, again two hours later; a changed reading means a leak[2] — or watch the leak-indicator dial. Start with the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) (two minutes), then the full [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) guide. Record the date, the observation, anything using water at the time, any visible moisture.
+
+### Check 3: Isolate the source
+
+Close the shutoff valve at each fixture one at a time and re-check the meter; when the meter stops, you've found the branch. Review fixtures and appliances only within the manufacturer's instructions and what you can access safely. For rental or shared service, notify the owner or manager in writing about use, repairs, and billing. For suspected concealed leaks or plumbing outside safe scope, contact a qualified professional.
+
+{{< visual src="/images/articles/06-water-bill-too-high/toilet-leak-cost.webp" alt="Toilet tank cross-section showing a leaking flapper and a monthly water-cost counter." >}}
+
+## Ask the Utility Specific Questions
+
+If the checks point to the bill rather than the plumbing, ask:
+
+1. What usage unit, service period, and meter/read status produced this bill?
+2. Did the tariff, tier, sewer method, or any rate component change?
+3. Does the account contain an estimate correction, credit, or one-time charge?
+4. What documentation does the provider require for a bill or meter review?
+5. What current leak-adjustment or payment rules, if any, apply to this account?
+
+Keep the bill, tariff, meter observations, photos, and repair records together — they support a precise review request.
+
+## After the Diagnostics: Catch the Next Leak
+
+Do the free checks above first. Sensors close the gap between a leak starting and one costing money:
+
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch it while it's small" description="Contact sensors that alarm at 105 dB and send phone alerts when they touch water. Place under the water heater, behind the washing machine, and under sinks — where slow leaks hide longest." button="Check price on Amazon" >}}
+
+{{< amazon asin="B00C03D01Q" text="See the Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} — a whole-home monitor on the main line watches flow, pressure, and temperature 24/7, detects drops-per-minute leaks, and can shut the main itself (Moen 900-001 spec). EPA's guidance treats leak-detection and flow-monitoring devices, including shut-off types, as a recommended way to catch irregular use.[2]
+
+For the full playbook after the leak is fixed, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+
+## FAQ
+
+{{< faq "Will a running toilet really raise my bill that much?" >}}
+
+It can. The average household's leaks waste 9,400 gallons a year, most of it from silent leaks like worn toilet flappers that run around the clock.[1] Every leaked gallon is metered, and where sewer is billed on metered water, the leak raises both line items.
+
+{{< /faq >}}
+
+{{< faq "How do I tell a leak from a rate change?" >}}
+
+Read the bill's two halves separately: the usage line (gallons or CCF) and the rate lines. Usage up → work the leak checks, dye test first. Usage flat but the total up → compare tariff, tier, and surcharge lines with last year's statement. See [tiered water rates explained](/blog/tiered-water-rates-explained/).
+
+{{< /faq >}}
+
+{{< faq "The dye test is clean but the meter still moves. Now what?" >}}
+
+Water is flowing somewhere else — irrigation lines, service-line leaks, or a stuck softener are the usual suspects. Work the isolation procedure in [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/).
+
+{{< /faq >}}
+
+{{< faq "Can I get a high bill adjusted after a leak?" >}}
+
+Many utilities offer a one-time leak adjustment if you document the repair, but policies are local. Ask your provider what documentation it requires — before paying a bill you believe a leak caused, and before assuming any adjustment exists.
+
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Environmental Protection Agency WaterSense: Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts) — 82 gallons per person per day average; household leaks averaging 9,400 gallons annually; outdoor share of household water use. Retrieved August 29, 2026.
+2. [U.S. Environmental Protection Agency WaterSense: Home Maintenance](https://www.epa.gov/watersense/home-maintenance) — 10-minute toilet dye test; family-of-four 12,000-gallon (16 CCF) winter leak benchmark; two-hour meter check protocol; flapper replacement guidance; water-softener and leak-detection guidance. Retrieved August 29, 2026.

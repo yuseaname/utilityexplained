@@ -210,7 +210,7 @@ If you suspect an electrical problem, have a licensed electrician perform an ins
 
 ## Steps 11-12: Rare Causes and the Formal-Dispute Path
 
-Two rare causes remain: cross-billing — a shared meter, a meter misassigned during a replacement or account transfer, or a tandem-meter error that bills another customer's usage to your account — suspect it if the usage profile doesn't match your daily routine. If you have ruled out every usage-related cause and believe the bill is in error, the utility's meter test, account audit, and complaint process are the first moves — the formal-dispute walkthrough (notice letter, evidence, PUC escalation) lives in [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/).
+Two rare causes remain: cross-billing — a shared meter, a meter misassigned during a replacement or account transfer, or a tandem-meter error that bills another customer's usage to your account — suspect it if the usage profile doesn't match your daily routine. If you have ruled out every usage-related cause and believe the bill is in error, the utility's meter test, account audit, and complaint process are the first moves — the formal-dispute walkthrough (notice letter, evidence, PUC escalation) lives in [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/). Two related reads for this stage: the itemized [hidden fees on a utility bill](/blog/04-hidden-fees-utility-bill/) (if the spike is charges, not kWh) and [can your utility shut off service?](/blog/can-utility-shut-off-service/) (if the balance has reached notice territory).
 
 ## How to Audit Your Electricity Usage
 

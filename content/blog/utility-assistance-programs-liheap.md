@@ -30,7 +30,7 @@ You have more options than you think. Federal programs, state assistance, utilit
 
 ## Emergency: Facing Shut-Off This Week
 
-If your shut-off notice is dated within the next 7 days, take these steps NOW:
+If your shut-off notice is dated within the next 7 days, take these steps NOW (and know your rights first — [can your utility shut off service?](/blog/can-utility-shut-off-service/) explains the notice rules, protected categories, and winter protections that may stop the clock):
 
 ### Today (Day 1)
 

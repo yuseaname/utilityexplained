@@ -1,0 +1,29 @@
+{
+  "role": "mason",
+  "mission": "SQ-066 WING-1: Mechanical conversion + glossary wiring (audit checklist 17 + 22). (A) Convert 4 legacy pages from raw-HTML markup to Markdown equivalents — ac-running-but-not-cooling.md, aux-heat-vs-emergency-heat-meaning.md, how-do-smart-meters-work.md, what-is-a-kilowatt-hour.md — translation rules: <h2 id=\"x\">T</h2> → '## T' (Hugo auto-generates ids; where an id was load-bearing for an in-page anchor, use '## T {#x}'), <h3> → ###, <p>text</p> → plain paragraph, <a href=\"/path\">label</a> → [label](/path), <strong>/<em> → **/*, <ul>/<li> → markdown lists, <table> blocks → markdown tables (preserve every cell exactly). ZERO wording changes — this is format-only. (B) utilities-glossary.md: convert the bottom 'full guides' plain-text list to real markdown links (the five hub pages + any listed guides — grep content/ for each slug to confirm the target exists; if a listed guide name matches no page, leave that entry unlinked and flag it in your envelope).",
+  "parent_objective": "SQ-066: Execute all SQ-065 audit remediations — cloud-only formation",
+  "context": "Why: the site's deterministic metrics tool counts markdown headings/links only, so HTML-marked pages read as false zeros (audit §0 tooling caveat); conversion brings tooling parity. The Commander has already edited aux-heat this session (fixed two broken H2s + replaced an intro) — convert from its CURRENT state. Do not touch how-utility-rates-fees-usage-work-together.md (excluded from your scope). After each file, verify with grep: no remaining '<h2|<h3|<a href' tags, heading count preserved (count ## before/after), link count preserved.",
+  "known_facts": [
+    "These pages render fine today — the conversion must be provably rendering-equivalent (same headings, same links, same words)",
+    "Hugo shortcodes ({{< ... >}}) must pass through untouched",
+    "ac-running has 14 HTML H2 sections + internal <a> links per the audit; aux-heat similar",
+    "Glossary bottom list currently dead-ends five hub links' equity (audit §6 hub repairs)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/how-do-smart-meters-work.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/what-is-a-kilowatt-hour.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/utilities-glossary.md"],
+    "notes": "grep counts before/after each file; quote them in the envelope."
+  },
+  "constraints": [
+    "You own EXACTLY these five files; format-only edits, ZERO wording changes (A) — glossary (B) may add links around existing words only",
+    "Shortcodes untouched; frontmatter untouched",
+    "Chunked writes; verify tag-free result per file"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    "4 converted files: zero <h2/<h3/<a href/<p>/<ul tags remain; heading and link counts match pre-conversion (quoted in envelope)",
+    "Glossary bottom list: real links to existing pages, unmatched names flagged",
+    "Envelope carries per-file before/after grep counts"
+  ]
+}

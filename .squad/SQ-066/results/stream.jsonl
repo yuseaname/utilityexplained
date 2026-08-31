@@ -1,0 +1,6 @@
+{"packet": "lt3-legacy-rebuilds.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/03-lieutenant-3.json", "agent": "lieutenant#3", "status": "complete"}
+{"packet": "lt2-savings-hub.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/02-lieutenant-2.json", "agent": "lieutenant#2", "status": "complete"}
+{"packet": "lt1-forward-topics.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "wing1-conversion.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/04-mason.json", "agent": "mason", "status": "partial"}
+{"packet": "lt4-gsc-structured-data.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/01-lieutenant-r2.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "twinq-final-verify.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/results/01-twin_q.json", "agent": "twin_q", "status": "complete"}

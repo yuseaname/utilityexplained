@@ -1,0 +1,30 @@
+{
+  "role": "lieutenant",
+  "mission": "SQ-066 LT-3: Legacy-cohort rebuilds (audit §4 + checklist 21). Three pages: (A) afue-vs-seer-vs-hspf-vs-cop.md — rebuild as a ratings-matrix page: a comparison table (metric | unit | applies to | example reading | what higher means) replacing scattered prose definitions; add 2+ real sources (ENERGY STAR, AHRI, or DOE pages — web_search/web_fetch to confirm the URLs exist); replace the link-carpet 'these guides help' block (6 links across consecutive short lines) with a compact 3-link related-reading list; keep the verified efficiency explanations. (B) heat-pump-running-all-day-in-winter.md — 958w thin page: deepen with what's missing for a panicked reader (when continuous running is NORMAL vs a symptom — a clear two-column verdict list; the defrost-cycle explanation; balance-point concept; when to call a pro), using site-canonical figures; add 3-4 internal links (aux-heat-vs-emergency-heat, why-is-my-furnace-blowing-cold-air, 03-why-is-my-electric-bill-so-high, ductless-mini-split-vs-central-air as fits). (C) 48-heat-pump-vs-gas-furnace-savings.md — ABSORB the unique content of gas-vs-electric-heating-cost-comparison.md (the Commander will then delete that page with an alias to 48): fold in its distinct material (its comparison framing, any table rows or examples 48 lacks, its 5 stale-year refs either updated with current-year context or dropped) as a new 'Gas vs electric heating: the broader comparison' section or integrated rows; fix its own stale-year flags where they land; add the AFUE 95%-vs-96% cross-page consistency note (the site states both — pick 95-98% range style consistently with 07). Chunked writes.",
+  "parent_objective": "SQ-066: Execute all SQ-065 audit remediations — cloud-only formation",
+  "context": "Read first: FULL-CONTENT-SEO-AUDIT-2026-08-30.md §4 (Pattern A/C carriers, legacy cohort ranking) + wave1/mason-pages.md entries for these pages (detailed defects per page). afue and aux-heat carry the 'Phantom Philosophy' intro fingerprint (External/Internal/Philosophical tripartite) — afue's intro still has it: REPLACE with a concrete opening (aux-heat's was already fixed by the Commander). Site conventions: Quick Answer scaffold, {{< visual >}} shorts (only existing assets — ls static/images/articles/<slug>/ to see what exists), updated: bump, sources frontmatter list.",
+  "known_facts": [
+    "afue has 0 markdown links but 6 HTML <a> links (the carpet block); headings are HTML <h2> — converting its body to markdown headings/links fixes the metrics false-zero class (checklist 22)",
+    "gas-vs-electric has a broken nested-markdown link at top + HTML tables + 1 source — the Commander deletes it after your absorption; nothing external should link to it afterward",
+    "48 has 5 stale-year refs (metrics) — most are dated primary citations; update only where a current-year counterpoint is missing",
+    "heat-pump-running is Dec-2025 batch cohort; keep its good bones, add the verdict structure"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/afue-vs-seer-vs-hspf-vs-cop.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/heat-pump-running-all-day-in-winter.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/48-heat-pump-vs-gas-furnace-savings.md"],
+    "notes": "Web tools available for confirming ENERGY STAR/AHRI/DOE URLs — cite URL + retrieved date (2026-08-30) for any new source."
+  },
+  "constraints": [
+    "You own EXACTLY these three files; do NOT delete gas-vs-electric yourself (Commander handles deletion+alias)",
+    "Existing verified figures preserved; new sources real and fetch-verified",
+    "Chunked writes (≤8K per pass)"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    "afue: matrix table present, 2+ verified sources, carpet block reduced to ≤3 links, Pattern-A intro replaced, body in markdown headings/links",
+    "heat-pump-running: normal-vs-symptom verdict structure + defrost/balance-point coverage + 3-4 internal links",
+    "48: absorbed gas-vs-electric's unique content (name what you folded in), stale-year flags addressed, AFUE range consistent",
+    "Envelope lists: new sources w/ URLs, links added, what was absorbed from gas-vs-electric"
+  ]
+}

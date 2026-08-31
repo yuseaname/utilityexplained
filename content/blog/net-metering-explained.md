@@ -85,6 +85,30 @@ Now consider the same export shifted to evening hours under a time-of-use batter
 
 The national picture still varies. Policies remain state-by-state: many states still credit exported solar near the retail rate, and California's shift does not mean net metering is disappearing everywhere. Before relying on any estimate, get the current tariff and interconnection agreement for your own service address.
 
+### A Different Shape Entirely: Buy-All/Sell-All (Illustrative)
+
+Not every state prices exports by hour. Some tariffs are **buy-all/sell-all**: the utility meters everything the array produces and buys all of it at a set export rate, while the household buys 100% of the power it consumes at the normal retail rate. Two flows, two prices, never netted — the bill is simply purchases minus sales.
+
+All figures below are illustrative: the buying side uses the site-canonical national average, the selling side a round-number export rate — the same 400 kWh and 6¢ as the worked example above, now on the other side of the ledger.
+
+- **Buying side:** a typical U.S. home uses about 899 kWh in a month; at the national residential average of 18.34¢ per kWh (EIA, June 2026), that costs 899 × $0.1834 ≈ **$164.88**.
+- **Selling side:** the same month, the array exports 400 kWh, which the utility buys at an illustrative 6¢ per kWh → **$24.00**.
+- **Net for the month:** $164.88 − $24.00 = **$140.88**.
+
+The structure is the lesson. Under buy-all/sell-all, every kWh consumed on-site the moment it is generated is still worth the full retail price to the household, while every exported kWh earns only the export rate — that spread is why self-consumption gets rewarded in these territories, and why storage economics differ from California's hour-varying model. At the opposite pole sit states that still credit exports near retail: the same month on such a tariff would bill closer to 499 × $0.1834 ≈ $91.52 — about $49 below the buy-all/sell-all net above, on nearly identical roofs. Between the poles sit successor tariffs with hour-varying export values, minimum-bill rules, and credit rollover terms. Whatever your state's current design, the reading habit is identical: find the buy rate, the export rate, and the settlement rules in your own tariff before signing anything.
+
+## Where This Lands on Your Bill
+
+{{< visual src="/images/articles/net-metering-explained/netmeter-flow-diagram.webp" alt="Net metering flow diagram: the utility meter records imported electricity at the retail rate of about 18 cents per kWh while exported solar earns only the much lower export rate." wide="true" >}}
+
+A solar credit line never travels alone — it sits inside a bill built from delivery charges, fixed charges, and the rate plan you were on before the panels went up. Five pages take you from the export line to the rest of the statement:
+
+- **[Which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)** — your rate plan decides what your imports cost *and* when exports are worth keeping or selling.
+- **[Time-of-use electricity, reviewed](/blog/08-time-of-use-electricity/)** — how peak and off-peak windows are priced, and how to audit a TOU plan before joining it.
+- **[What time is electricity cheapest?](/blog/46-what-time-is-electricity-cheapest/)** — the hour-by-hour picture behind every export-credit decision.
+- **[Demand charges on an electricity bill](/blog/49-demand-charges-electricity-bill-explained/)** — solar lowers averages, not necessarily your worst half-hour; know whether your tariff bills the peak.
+- **[Electric bill breakdown: every charge explained](/blog/electric-bill-breakdown-understanding-line-items/)** — where the credit, delivery, and fixed lines actually sit on the statement.
+
 ## Frequently Asked Questions
 
 {{< faq "Will I still receive an electric bill with solar?" >}}

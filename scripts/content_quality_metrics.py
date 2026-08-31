@@ -34,9 +34,15 @@ def parse_page(path: Path):
         return mm.group(1).strip() if mm else ""
 
     words = len(re.findall(r"[A-Za-z0-9'’\-]+", re.sub(r"\{\{<[^>]*>\}\}", " ", body)))
-    h2 = len(re.findall(r"^##\s", body, re.MULTILINE))
-    h3 = len(re.findall(r"^###\s", body, re.MULTILINE))
-    internal = len(re.findall(r"\]\(/blog/", body))
+    # Count markdown AND raw-HTML headings/links (HTML-marked pages are not heading-less)
+    h2 = len(re.findall(r"^##\s", body, re.MULTILINE)) + len(re.findall(r"<h2[\s>]", body, re.IGNORECASE))
+    h3 = len(re.findall(r"^###\s", body, re.MULTILINE)) + len(re.findall(r"<h3[\s>]", body, re.IGNORECASE))
+    internal = (
+        len(re.findall(r"\]\(/blog/", body))
+        + len(re.findall(r'href="/blog/', body))
+        + len(re.findall(r'href="/(?!blog/)[^"]*/"', body))  # hub/core-page links (non-blog)
+        + len(re.findall(r'\{\{<\s*ref\s+"[^"]+"', body))    # Hugo ref shortcodes
+    )
     src_urls = set(re.findall(r"https?://[^\s\)\]\"']+", fm + "\n" + body))
     sources = len(src_urls)
     faq = len(re.findall(r"\{\{<\s*faq", body))

@@ -219,7 +219,7 @@ Now that you understand utility billing basics, explore specific topics to manag
 <li><a href="/blog/23-utility-billing-cycle-explained/">Utility billing cycle explained</a> -- Compare bills by days and usage.</li>
 <li><a href="/blog/20-utility-bill-proration-explained/">Utility bill proration explained</a> -- Why partial months look high or low.</li>
 <li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">What is a customer charge on a utility bill?</a> -- Understand the fixed base fee.</li>
-<li><a href="/blog/04-hidden-fees-utility-bill/">Delivery charge vs supply charge</a> -- Separate infrastructure from energy cost.</li>
+<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery charge vs supply charge</a> -- Separate infrastructure from energy cost.</li>
 <li><a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">Utility bill taxes, fees, and franchise charges</a> -- Small lines that add up.</li>
 <li><a href="/blog/19-utility-bill-surcharges-and-riders-explained/">Utility bill surcharges and riders explained</a> -- Common add-ons and what they fund.</li>
 <li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">Fuel adjustment charge on a utility bill</a> -- Why fuel costs fluctuate month to month.</li>
@@ -274,10 +274,10 @@ For specific advice on each utility, explore our detailed guides on <a href="/el
 <h3>Reading and Understanding Bills</h3>
 <ul>
 <li><a href="/blog/complete-guide-understanding-utility-bill/">Complete Guide to Understanding Your Utility Bill</a></li>
-<li><a href="/blog/complete-guide-understanding-utility-bill/">How to Read Your Utility Bill</a></li>
+<li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a></li>
 <li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown</a></li>
 <li><a href="/blog/how-utility-rates-fees-usage-work-together/">How Rates, Fees, and Usage Work Together</a></li>
-<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Your Electric Bill Changes Month to Month</a></li>
+<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a></li>
 </ul>
 
 <h3>Fees and Charges Explained</h3>
@@ -308,11 +308,10 @@ For specific advice on each utility, explore our detailed guides on <a href="/el
 
 <h3>Costs and Budgeting</h3>
 <ul>
-<li><a href="/blog/02-average-utility-costs-2026/">Average Utility Costs in 2026</a></li>
 <li><a href="/blog/average-utility-bills-by-state-2026/">Average Utility Bills by State</a></li>
 <li><a href="/blog/09-apartment-utilities-cost/">Average Apartment Utilities Cost</a></li>
 <li><a href="/blog/how-to-budget-for-utilities-in-your-first-apartment/">How to Budget for Utilities</a></li>
-<li><a href="/blog/05-how-to-lower-utility-bills/">How to Lower Your Utility Bills (25 Ways)</a></li>
+<li><a href="/blog/05-how-to-lower-utility-bills/">Lower Your Utility Bills: The Ranked List</a></li>
 </ul>
 
 <h3>Assistance Programs</h3>

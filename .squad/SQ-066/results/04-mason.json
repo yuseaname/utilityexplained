@@ -1,0 +1,63 @@
+{
+  "agent": "mason",
+  "model": "~deepseek/deepseek-v4-flash-latest",
+  "status": "partial",
+  "summary": "protocol failure after 69 steps \u2014 skeleton-fill repair also unparseable; result salvaged from harness ground-truth log",
+  "findings": [
+    "last raw reply (head): {\"tool_call\": {\"name\": \"list_dir\", \"args\": {\"path\": \"/home/msi-command/Desktop/projects/affiliate sites/utilityexplained\"}}}"
+  ],
+  "evidence": [
+    "none"
+  ],
+  "actions_taken": [
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog/aux-heat-vs-emergency-heat-meaning.md (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog (outside allowed roots)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "DENIED access to /home/msi-command/Desktop/projects/accurate-clarity/content/blog/why-is-my-furnace-blowing-cold-air.md (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/ac-running-but-not-cooling.md (outside allowed roots)",
+    "DENIED access to /home/msm/wordpresstheme/content/utilities-glossary.md (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog (outside allowed roots)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog (outside allowed roots)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content/blog (outside allowed roots)",
+    "run_command 'ls '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog'' -> exit 0",
+    "DENIED access to /home/msi-command/Desktop/projects/utility-bills-explainer/content/blog (outside allowed roots)",
+    "DENIED access to /home/ms (outside allowed roots)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/why-did-my-utility-bill-go-up.md -> ERROR FileNotFoundError: [Errno 2] No such file or directory: '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/why-did-my-utility-bill-go-up.md'",
+    "DENIED access to /home/msi-command/Desktop/projects/utilityexplained/content (outside allowed roots)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-but-not-cooling.md",
+    "DENIED access to /home/msi-command/Desktop/projects/utility-bills-website (outside allowed roots)",
+    "read_file /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-not-cooling.md -> ERROR FileNotFoundError: [Errno 2] No such file or directory: '/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/ac-running-not-cooling.md'",
+    "DENIED access to /home/msi-command/Desktop/projects/utility-bills-website/content/blog (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/utility-bill-guides/content/blog (outside allowed roots)",
+    "list_dir /home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content",
+    "DENIED access to /home/msi-command/Desktop/projects/affiliate%20sites/utilityexplained/content/guides/aux-heat.md (outside allowed roots)",
+    "DENIED access to /home/msi-command/Desktop/projects/affiliate site/utilityguides/content/blog/ac-running-not-cooling.md (outside allowed roots)"
+  ],
+  "files_touched": [
+    "none"
+  ],
+  "test_results": "1 commands executed (harness-verified log)",
+  "risks": [
+    "none"
+  ],
+  "unknowns": [
+    "none"
+  ],
+  "recommendation": "verify salvaged files/commands yourself; a follow-up packet can finish the mission",
+  "confidence": "low",
+  "confidence_basis": "",
+  "tool_steps": 69,
+  "duration_seconds": 2889.6,
+  "side_effects": true,
+  "warnings": [
+    "unparseable replies; salvaged from ground truth (0 files, 1 commands)",
+    "slowest generation turn 595s exceeds seat threshold 300s \u2014 stall pattern (SQ-012: gemma 5-6min single-generation stalls)"
+  ],
+  "context_est_tokens": 38332
+}

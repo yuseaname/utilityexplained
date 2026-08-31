@@ -190,7 +190,7 @@ A dispute is only as strong as your documentation. Keep a running log of everyth
 
 ## Payment Assistance While You Dispute
 
-If the disputed amount is causing financial strain, don't wait for the resolution to seek help. The Low Income Home Energy Assistance Program (LIHEAP) can help pay your heating or cooling bills or provide emergency services during an energy crisis [6]. LIHEAP assists roughly 6.7 million households through local agencies [9].
+If the disputed amount is causing financial strain, don't wait for the resolution to seek help. The Low Income Home Energy Assistance Program (LIHEAP) can help pay your heating or cooling bills or provide emergency services during an energy crisis [6]. LIHEAP assists roughly 6.7 million households through local agencies [9] — our [LIHEAP and assistance-programs guide](/blog/utility-assistance-programs-liheap/) covers eligibility, state programs, and the emergency workflow.
 
 Eligibility is based on income, and every state and territory sets its own requirements [6]. Contact your local LIHEAP office to apply. You can also call 211 to find local assistance options.
 

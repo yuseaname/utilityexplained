@@ -43,14 +43,14 @@ Most residential electric bills in the United States are built from a usage-base
 
 Electric bills look complicated because they combine usage-based charges with infrastructure charges. But most of the story is usually explained by four things:
 
-- Total <a href="/blog/what-is-a-kilowatt-hour/">kWh</a> used
+- Total <a href="/blog/11-understanding-kwh-usage/">kWh</a> used
 - Price per kWh (your energy rate)
 - Billing period length (days) — [how two months with the same usage can bill differently](/blog/23-utility-billing-cycle-explained/)
 - Fixed charges and delivery charges in your rate plan
 
 For context on typical usage, EIA reports that in 2022 the average annual electricity purchased by a U.S. residential electric-utility customer was 10,791 kWh, or about 899 kWh per month. Average purchases varied widely by state that year, from 6,178 kWh in Hawaii to 14,774 kWh in Louisiana.[2] Your own prior bills are more useful than any national average.
 
-If you want the unit basics first, read <a href="/blog/what-is-a-kilowatt-hour/">what a kWh is</a>.
+If you want the unit basics first, read <a href="/blog/11-understanding-kwh-usage/">what a kWh is</a>.
 
 ## Energy (supply) charges: what you actually used {#supply}
 

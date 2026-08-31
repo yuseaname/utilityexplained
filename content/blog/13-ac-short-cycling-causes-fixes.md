@@ -37,6 +37,8 @@ This information helps a technician distinguish cycling behavior from a rate, th
 
 ## Common Causes and Diagnostic Tells
 
+{{< visual src="/images/articles/13-ac-short-cycling-causes-fixes/ac-shortcycle-diagnostic.webp" alt="Diagnostic flow for an AC that keeps shutting off: check the cheap causes first — a frozen coil from a dirty filter costs a few dollars to fix — before refrigerant work or capacitor testing that needs a technician." wide="true" >}}
+
 | Cause | How to spot it (diagnostic tell) | Typical fix cost range | Time to diagnose |
 |---|---|---|---|
 | **Dirty air filter** | Airflow feels weak at registers; filter visibly clogged; system runs briefly then shuts off on high-limit | $5–$20 (filter replacement) | 2 minutes |

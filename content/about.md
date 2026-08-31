@@ -21,6 +21,10 @@ We translate electricity, gas, and water bills into decisions you can actually m
 - **First-time homeowners** learning what every line item means
 - **Anyone** who opened a bill this month and thought, *"why is this so high?"*
 
+## How this site is produced
+
+Utility Explained is written and reviewed by [our editorial team](/editorial-team/) — a small desk of editors working with AI drafting assistance. Bylines on guides identify the topic desk responsible, not independently credentialed individuals. What makes a claim trustworthy here is not a byline: it is the visible, dated primary-source links (EIA, DOE, ENERGY STAR, state utility commissions, published tariffs) that data-heavy pages carry, the [methodology](/methodology/) we follow, and the public [corrections log](/corrections/) when we get something wrong.
+
 ## What we do
 
 We publish plain-English explainers that decode every part of a utility bill: the usage charges, the delivery fees, the taxes and surcharges, the spikes, and the fixes. We use real cost ranges, show the math, and link related guides so you can follow a question all the way to an answer.

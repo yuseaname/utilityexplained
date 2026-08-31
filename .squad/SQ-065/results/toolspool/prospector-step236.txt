@@ -1,0 +1,936 @@
+exit_code: 0
+=====FILE: afue-vs-seer-vs-hspf-vs-cop.md =====
+---
+title: "AFUE vs SEER vs HSPF vs COP, in Plain English"
+slug: "afue-vs-seer-vs-hspf-vs-cop"
+description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
+date: 2025-12-25
+updated: 2026-08-21
+author: "Roberto Mendoza"
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]
+keywords: ["hvac efficiency ratings", "heat pump savings", "ac not cooling", "gas furnace", "duct leak symptoms"]
+image: "/images/articles/afue-vs-seer-vs-hspf-vs-cop/afue-vs-seer-vs-hspf-vs-cop_hero_v2.webp"
+sources:
+  - https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf (retrieved 2026-08-29)
+---
+
+<h2 id="quick-answer">The short answer</h2>
+<p>
+              HVAC efficiency ratings tell you how effectively a system turns fuel or
+              electricity into heating or cooling. The tricky part is that
+              <strong> different systems use different ratings</strong>.
+            </p>
+            <ul>
+              <li>
+                <strong>AFUE</strong> is for furnaces and boilers (how much fuel becomes usable heat).
+              </li>
+              <li>
+                <strong>SEER</strong> is for air conditioning (cooling efficiency over a season).
+              </li>
+              <li>
+                <strong>HSPF</strong> is for heat pumps in heating mode (seasonal heating efficiency).
+              </li>
+              <li>
+                <strong>COP</strong> is for heat pumps at a specific condition (instant efficiency).
+              </li>
+            </ul>
+            <p>
+              This guide gives you a simple framework to compare ratings without
+              feeling like you need an engineering degree.
+              For the broader HVAC primer, see
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
+            </p>
+
+<ul>
+              <li><a href="#the-problem">The problem: too many ratings</a></li>
+              <li><a href="#one-sentence">One-sentence definitions</a></li>
+              <li><a href="#compare">How to compare ratings fairly</a></li>
+              <li><a href="#what-moves-bills">What actually moves your bill</a></li>
+              <li><a href="#examples">Examples that make the differences tangible</a></li>
+              <li><a href="#misconceptions">Common misconceptions</a></li>
+              <li><a href="#faqs">FAQs</a></li>
+            </ul>
+
+<h2 id="the-problem">The problem: ratings look like jargon, but they affect real bills</h2>
+<p>
+              Most homeowners don't want to "study HVAC." They want comfort and a
+              bill that makes sense. But then a contractor quote or a rebate program
+              throws out AFUE, SEER, and HSPF like everyone uses those words daily.
+            </p>
+            <p>
+              The external problem is the jargon. The internal problem is the fear
+              of making a bad decision. The philosophical problem is obvious:
+              comparing comfort shouldn't require a decoding key.
+            </p>
+            <p>
+              The good news: once you know what each rating measures, you can stop
+              comparing apples to oranges.
+            </p>
+
+<h3>AFUE (Annual Fuel Utilization Efficiency)</h3>
+            <p>
+              AFUE is a percentage that describes how much of the fuel burned by a
+              furnace/boiler becomes usable heat in the home over a season.
+            </p>
+            <h3>SEER (Seasonal Energy Efficiency Ratio)</h3>
+            <p>
+              SEER measures air conditioning efficiency over a typical cooling
+              season: higher SEER generally means less electricity for the same
+              cooling output.
+            </p>
+            <h3>HSPF (Heating Seasonal Performance Factor)</h3>
+            <p>
+              HSPF measures heat pump efficiency over a heating season: higher HSPF
+              generally means less electricity for the same heating output.
+            </p>
+            <h3>COP (Coefficient of Performance)</h3>
+            <p>
+              COP is a point-in-time measure for heat pumps: a COP of 3 means the
+              heat pump delivers about 3 units of heat for every 1 unit of
+              electricity used at that specific outdoor temperature.
+            </p>
+
+<h2 id="compare">How to compare ratings without mixing apples and oranges</h2>
+<p>
+              The first rule: <strong>compare like with like</strong>.
+              AFUE compares furnaces to furnaces. SEER compares AC units to AC units.
+              HSPF compares heat pumps to heat pumps.
+            </p>
+            <p>
+              The second rule: understand that "seasonal" and "point-in-time" are
+              different things.
+            </p>
+            <h3>Seasonal ratings are averages</h3>
+            <p>
+              SEER and HSPF represent performance across a typical season, not a
+              single day. They help you compare systems in a broad way.
+            </p>
+            <h3>COP changes with temperature</h3>
+            <p>
+              COP usually drops as outdoor temperatures drop because the heat pump
+              has less heat to move indoors. This is why a heat pump can feel very
+              cheap to run in mild weather and less efficient during extreme cold.
+            </p>
+            <p>
+              That temperature effect is also why thermostats sometimes call for
+              backup heat. If you've seen "Aux Heat," read
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/"> Aux Heat vs Emergency Heat</a>.
+            </p>
+
+<h2 id="what-moves-bills">What actually moves your bill (the practical lens)</h2>
+<p>
+              Ratings matter, but they aren't the only driver. Two homes with the
+              same equipment can have very different bills because the bill is a
+              story about <strong>runtime</strong>.
+            </p>
+            <h3>1) Runtime and heat loss</h3>
+            <p>
+              If your home loses heat quickly (air leaks, poor insulation), your
+              system must run longer. Efficiency improvements can help, but they can
+              be overwhelmed by a leaky building envelope.
+            </p>
+            <p>
+              Duct leaks can also quietly increase runtime. If some of the conditioned
+              air never reaches the rooms, the system compensates by running longer.
+              See
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> Duct leaks explained</a>.
+            </p>
+            <h3>2) Thermostat behavior</h3>
+            <p>
+              Big setbacks and big morning recoveries can change how your system
+              behaves. Some setups respond by calling for backup heat.
+            </p>
+            <h3>3) Weather extremes and billing days</h3>
+            <p>
+              Extreme weather increases demand. Longer billing cycles increase totals.
+              If your electricity spikes seasonally, these guides help:
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> winter</a>
+              and
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> summer</a>.
+            </p>
+            <h3>4) Fuel prices and fixed charges</h3>
+            <p>
+              A high-AFUE gas furnace can still feel expensive if gas prices or fixed
+              customer charges are high. A heat pump can be competitive in many
+              climates. For a calm, real-world comparison, read
+              <a href="/blog/gas-vs-electric-heating-cost-comparison/"> gas vs electric heating cost comparison</a>.
+            </p>
+
+<h2 id="examples">Examples that make the differences tangible</h2>
+<p>
+              Examples help because they show what the ratings are trying to measure.
+              These are not promises about savings--just a way to build intuition.
+            </p>
+            <h3>AFUE example: 80% vs 95%</h3>
+            <p>
+              AFUE is about how much fuel turns into usable heat. A higher AFUE means
+              less heat is lost through exhaust.
+            </p>
+            <h3>SEER example: higher SEER reduces electricity per unit of cooling</h3>
+            <p>
+              SEER helps compare air conditioners in similar conditions. Two systems
+              cooling the same home to the same temperature can use different amounts
+              of electricity depending on efficiency.
+            </p>
+            <h3>HSPF/COP example: heat pumps change efficiency with weather</h3>
+            <p>
+              A heat pump may perform extremely well in mild weather and less well in
+              extreme cold. That's why "one number" can never tell the whole story.
+            </p>
+
+<h2 id="misconceptions">Common misconceptions</h2>
+<ul>
+              <li>
+                <strong>"Higher rating always means lower total bills."</strong>
+                Not if the system runs much longer due to leaks, poor insulation, or
+                a different comfort schedule.
+              </li>
+              <li>
+                <strong>"My heater is 100% efficient, so it must be cheap."</strong>
+                Electric resistance heat can be near-100% at the point of use, but
+                cost depends on electricity pricing and runtime.
+              </li>
+              <li>
+                <strong>"SEER tells me everything about heating."</strong>
+                SEER is for cooling. Heating performance is better described by HSPF
+                and COP (for heat pumps) or AFUE (for furnaces).
+              </li>
+            </ul>
+
+<h2 id="faqs">FAQs</h2>
+<p>
+              Quick answers to common rating questions.
+            </p>
+
+{{< faq "What does AFUE mean?" >}}
+
+AFUE (Annual Fuel Utilization Efficiency) is a seasonal efficiency percentage for furnaces and boilers. A higher AFUE generally means more of the fuel becomes usable heat and less is lost through exhaust.
+
+{{< /faq >}}
+
+{{< faq "What SEER rating is considered efficient?" >}}
+
+In general, higher SEER means higher cooling efficiency. What's 'efficient' depends on climate and equipment options, but SEER is mainly a way to compare air conditioners and heat pumps in cooling mode on the same scale.
+
+{{< /faq >}}
+
+{{< faq "What is a good HSPF rating for a heat pump?" >}}
+
+HSPF is a seasonal heating efficiency metric for heat pumps. Higher HSPF generally means the heat pump provides more heating per unit of electricity over the season, but real-world performance still depends on weather, home heat loss, and thermostat settings.
+
+{{< /faq >}}
+
+{{< faq "What is COP and why does it change?" >}}
+
+COP (Coefficient of Performance) is a point-in-time efficiency number for heat pumps. It changes with conditions--especially outdoor temperature--because the heat pump has to work harder to move heat when it's colder outside.
+
+{{< /faq >}}
+
+{{< faq "Can a heat pump be cheaper than a gas furnace?" >}}
+
+Sometimes, depending on local gas and electricity prices, system efficiency, and climate. The most practical way to think about it is to compare delivered heat and consider fixed charges.
+
+{{< /faq >}}
+
+
+{{< faq-schema >}}
+
+## Sources
+
+- [U.S. Department of Energy: Home Heating Systems](https://www.energy.gov/sites/prod/files/2014/01/f6/homeHeating.pdf) — definitions of AFUE, HSPF, and COP.=====FILE: aux-heat-vs-emergency-heat-meaning.md =====
+---
+title: "Aux Heat vs Emergency Heat, in Plain English"
+slug: "aux-heat-vs-emergency-heat-meaning"
+description: "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode."
+date: 2025-12-25
+updated: 2026-08-21
+author: "Roberto Mendoza"
+sources:
+  - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["aux heat", "heat pump", "therms", "thermostat", "afue"]
+keywords: ["aux heat vs emergency heat", "heat pump savings", "therms", "thermostat settings", "hvac efficiency ratings"]
+image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_v2.webp"
+---
+
+<h2 id="quick-answer">The short answer</h2>
+<p>
+              <strong>Aux Heat</strong> (auxiliary heat) usually means your heat pump
+              is running <strong>backup heat</strong> to keep up with demand--often
+              during cold snaps, defrost cycles, or when you raise the thermostat
+              several degrees at once.
+            </p>
+            <p>
+              <strong>Emergency Heat</strong> is typically a <strong>manual mode</strong>
+              you switch on when the heat pump itself can't run properly (for example,
+              it's malfunctioning). In many homes, emergency heat uses the same backup
+              heater as aux heat--but forces the heat pump to stay off.
+            </p>
+            <p>
+              The "why is my bill higher?" part is simple: backup heat is often
+              <strong>electric resistance heat</strong>, which can be much more
+              expensive per hour than normal heat-pump operation.
+            </p>
+            <p>
+              If you want the bigger HVAC picture first, start at
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
+            </p>
+
+<ul>
+              <li>
+                <a href="#the-problem">The problem: a confusing thermostat label</a>
+              </li>
+              <li>
+                <a href="#simple-model">The simple model: heat pump first, backup second</a>
+              </li>
+              <li>
+                <a href="#aux-heat">What Aux Heat usually means</a>
+              </li>
+              <li>
+                <a href="#emergency-heat">What Emergency Heat means</a>
+              </li>
+              <li>
+                <a href="#what-to-look-for">What to look for (without becoming an HVAC tech)</a>
+              </li>
+              <li>
+                <a href="#bill-sanity">Bill sanity checks that reduce panic</a>
+              </li>
+              <li>
+                <a href="#misconceptions">Common misconceptions</a>
+              </li>
+              <li>
+                <a href="#faqs">FAQs</a>
+              </li>
+            </ul>
+
+<h2 id="the-problem">The problem: \</h2>
+<p>
+              Most people notice aux heat the same way: it appears suddenly on the
+              thermostat, the system seems to run longer, and the next bill feels
+              out of proportion.
+            </p>
+            <p>
+              The external problem is obvious: <strong>higher usage</strong>.
+              The internal problem is the one that keeps you up: <strong>"Is something broken?"</strong>
+              And the philosophical problem is fair: this shouldn't require a
+              dictionary.
+            </p>
+            <p>
+              Here's the reassuring part: <strong>aux heat is often normal</strong>
+              in cold weather. The goal of this guide is to help you tell the
+              difference between "normal backup heat" and "something that needs attention."
+            </p>
+
+<h2 id="simple-model">The simple model: heat pump first, backup heat second</h2>
+<p>
+              A heat pump is like an air conditioner that can run in reverse.
+              Instead of making heat by burning fuel, it <strong>moves heat</strong>
+              from one place to another.
+            </p>
+            <p>
+              In mild-to-cool weather, this is incredibly efficient. But when the
+              outdoor temperature drops, there is less heat available outside, and
+              the system has to work harder to move it indoors.
+            </p>
+            <p>
+              That's why many systems have a "Plan B":
+              <strong> backup heat</strong> (often electric heat strips). Your
+              thermostat can call for backup heat when it thinks the heat pump
+              alone won't keep up.
+            </p>
+            <p>
+              If efficiency ratings like HSPF or COP feel like alphabet soup,
+              you'll like
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> our plain-English ratings guide</a>.
+            </p>
+
+<h2 id="aux-heat">What Aux Heat usually means</h2>
+<p>
+              <strong>Aux Heat</strong> usually means the thermostat is using
+              backup heat to help the heat pump maintain the set temperature.
+              Think of it like a helper engine.
+            </p>
+            <h3>Common triggers</h3>
+            <ul>
+              <li>
+                <strong>Cold snaps:</strong> the heat pump can't deliver heat fast enough.
+              </li>
+              <li>
+                <strong>Big thermostat jumps:</strong> raising the setpoint several degrees may
+                trigger backup heat to recover faster.
+              </li>
+              <li>
+                <strong>Defrost cycles:</strong> in cold, humid weather, outdoor coils can ice up.
+                The system defrosts and may use backup heat to keep indoor air comfortable.
+              </li>
+              <li>
+                <strong>System settings:</strong> some thermostats are configured to use aux heat
+                more aggressively than others.
+              </li>
+            </ul>
+            <h3>Why it can be expensive</h3>
+            <p>
+              Backup heat is often electric resistance heat. Resistance heat is good
+              at making heat quickly, but it's also a straightforward conversion of
+              electricity into heat--so it can drive kWh usage fast.
+            </p>
+            <p>
+              If your winter electric bill spiked, the broader explanation is in
+              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> Why Is My Electricity Bill So High in Winter?</a>
+              It explains how heating load dominates many winter bills.
+            </p>
+
+<h2 id="emergency-heat">What Emergency Heat means (and when it</h2>
+<p>
+              <strong>Emergency Heat</strong> is usually a manual setting that tells
+              the system: "Don't use the heat pump. Use backup heat only."
+            </p>
+            <p>
+              People sometimes turn it on because they see it on the thermostat and
+              assume it's "stronger." But emergency heat is best thought of as a
+              <strong>fallback mode</strong>, not an efficiency mode.
+            </p>
+            <h3>When emergency heat is reasonable</h3>
+            <ul>
+              <li>The outdoor unit is damaged, frozen, or not running correctly.</li>
+              <li>You're advised to use it temporarily while the heat pump is serviced.</li>
+              <li>The system is in a condition where running the heat pump would be harmful.</li>
+            </ul>
+            <h3>When emergency heat is usually a mistake</h3>
+            <ul>
+              <li>You want the home to warm up faster after a setback.</li>
+              <li>You think it will reduce energy usage in cold weather.</li>
+              <li>You're using it as a "default" heating mode all winter.</li>
+            </ul>
+            <p>
+              If you're comparing gas heat and electric heat (including heat pumps),
+              the bigger context is
+              <a href="/blog/gas-vs-electric-heating-cost-comparison/"> Gas vs Electric Heating: Cost Comparison</a>.
+            </p>
+
+<h2 id="what-to-look-for">What to look for (without becoming an HVAC tech)</h2>
+<p>
+              You don't need special tools to get clarity. You just need to observe
+              a few patterns.
+            </p>
+            <h3>1) How often does aux heat appear?</h3>
+            <p>
+              If it appears only during very cold mornings or big thermostat jumps,
+              that's often normal. If it appears constantly even on mild days,
+              it's a signal to look closer.
+            </p>
+            <h3>2) Does the system struggle to maintain temperature?</h3>
+            <p>
+              If the home never reaches the setpoint, the system might be undersized,
+              misconfigured, or losing heat faster than the system can supply it.
+            </p>
+            <p>
+              One underrated cause is <strong>duct leakage</strong>. Lost conditioned
+              air means longer runtime and more backup heat. See
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> Duct leaks explained</a>.
+            </p>
+            <h3>3) Is the thermostat "helping" too aggressively?</h3>
+            <p>
+              Some thermostats are configured with a lockout temperature (below which
+              they use aux heat) or a "heat pump balance" setting. If aux heat is
+              coming on earlier than you expect, it may be a configuration issue.
+            </p>
+
+<h2 id="bill-sanity">Bill sanity checks that reduce panic</h2>
+<p>
+              A bill can feel "wrong" even when nothing is broken. These checks help
+              you separate timing and pricing from true usage changes.
+            </p>
+            <h3>Check 1: kWh per day</h3>
+            <p>
+              Look at total kWh and billing days, then compute kWh per day. A longer
+              billing cycle can inflate the total even if daily usage is steady.
+            </p>
+            <h3>Check 2: compare similar weather</h3>
+            <p>
+              Compare a cold week to a cold week, not a cold week to a mild week. If
+              you're seeing aux heat during a cold snap, higher usage is expected.
+            </p>
+            <h3>Check 3: connect changes to behavior</h3>
+            <p>
+              Guests, work-from-home, a new baby, or a schedule change can all shift
+              comfort decisions. Bills follow comfort.
+            </p>
+            <p>
+              If summer bills are your bigger pain point, the sister guide is
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electricity Bill So High in Summer?</a>.
+            </p>
+
+<h2 id="misconceptions">Common misconceptions</h2>
+<ul>
+              <li>
+                <strong>"Emergency heat warms faster, so I should use it more."</strong>
+                Emergency heat often uses resistance heat only. It can feel fast,
+                but it's usually expensive.
+              </li>
+              <li>
+                <strong>"Aux heat always means something is broken."</strong>
+                Not necessarily. It's commonly triggered by cold snaps and recovery.
+              </li>
+              <li>
+                <strong>"Cranking the thermostat heats faster."</strong>
+                Most systems don't "ramp" like that. A bigger setpoint jump can
+                simply trigger backup heat and longer runtime.
+              </li>
+            </ul>
+            <p>
+              If you want the "ratings" side of the story--what SEER, AFUE, HSPF, and
+              COP mean--go to
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> the efficiency ratings guide</a>.
+            </p>
+
+<h2 id="faqs">FAQs</h2>
+<p>
+              Quick answers to common thermostat questions.
+            </p>
+
+{{< faq "What does aux heat mean on my thermostat?" >}}
+
+Aux heat (auxiliary heat) means your system is using backup heat to help the heat pump keep up--often during cold weather, defrost cycles, or large thermostat setpoint changes.
+
+{{< /faq >}}
+
+{{< faq "What does emergency heat mean?" >}}
+
+Emergency heat is usually a manual mode that turns off the heat pump and runs backup heat only. It's intended for situations where the heat pump can't operate properly.
+
+{{< /faq >}}
+
+{{< faq "Is it bad if aux heat runs all the time?" >}}
+
+Frequent aux heat can be normal during very cold weather, but if it runs constantly in mild conditions it may indicate a configuration issue, a problem with the heat pump, or significant heat loss in the home.
+
+{{< /faq >}}
+
+{{< faq "Why did my electric bill spike when aux heat turned on?" >}}
+
+Backup heat is often electric resistance heat, which can increase kWh usage quickly. Even short periods of backup heat during cold snaps can noticeably raise winter electricity usage.
+
+{{< /faq >}}
+
+{{< faq "Should I switch to emergency heat in cold weather?" >}}
+
+Usually no. Emergency heat is typically meant for equipment problems. In cold weather, aux heat may assist automatically, but forcing emergency heat can increase costs if the heat pump could still contribute efficiently.
+
+{{< /faq >}}
+
+{{< faq-schema >}}=====FILE: heat-pump-running-all-day-in-winter.md =====
+---
+title: "Heat Pump Running All Day in Winter: Normal or Not?"
+slug: "heat-pump-running-all-day-in-winter"
+description: "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check."
+date: 2025-12-27
+updated: 2026-08-21
+author: "Roberto Mendoza"
+sources:
+  - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
+  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
+category: "Heating & Cooling"
+categories: ["Heating & Cooling"]
+tags: ["heat pump", "aux heat", "leak", "duct", "air conditioner"]
+keywords: ["heat pump savings", "aux heat vs emergency heat", "duct leak symptoms", "ac not cooling"]
+image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-all-day-in-winter_hero_v2.webp"
+---
+
+<h2 id="problem">The problem: it seems like the heat pump never stops</h2>
+<p class="lead">
+              Your heat pump has been running for hours. The house is warm, but the
+              system never seems to shut off. It feels like something is wrong.
+            </p>
+            <p>
+              In winter, long runtimes can be normal because heat pumps move heat
+              instead of making it. Still, there is a line between normal and
+              inefficient. This guide helps you tell the difference.
+            </p>
+            <p>
+              If you want the full system overview first, start with
+              <a href="/heating-cooling-explained/"> Heating &amp; Cooling Explained</a>.
+            </p>
+
+<ul>
+              <li><a href="#quick-answer">The short answer</a></li>
+              <li><a href="#why-long">Why heat pumps run longer in cold weather</a></li>
+              <li><a href="#defrost">Defrost cycles and cool air</a></li>
+              <li><a href="#aux-heat">Aux heat and emergency heat</a></li>
+              <li><a href="#airflow">Airflow and filter checks</a></li>
+              <li><a href="#heat-loss">Heat loss and duct leaks</a></li>
+              <li><a href="#signs">Signs it is not normal</a></li>
+              <li><a href="#misconceptions">Common misconceptions</a></li>
+              <li><a href="#faqs">FAQs</a></li>
+            </ul>
+
+<h2 id="quick-answer">The short answer</h2>
+<p>
+              A heat pump can run for long stretches in winter because it is
+              extracting heat from cold outdoor air. Longer runtime does not always
+              mean a problem, especially during freezing weather.
+            </p>
+            <p>
+              If the home never reaches setpoint or the air feels cold all day, it
+              is time to dig deeper.
+            </p>
+
+<h2 id="why-long">Why heat pumps run longer in cold weather</h2>
+<p>
+              Heat pumps are most efficient in mild temperatures. When it is cold
+              outside, they can still heat, but they need more runtime to deliver
+              the same warmth.
+            </p>
+            <p>
+              Think of it like carrying buckets in the snow. You can still move
+              water, but it takes longer. That is why longer cycles can be normal.
+            </p>
+            <p>
+              If you want the efficiency basics, see
+              <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> HVAC efficiency ratings explained</a>.
+            </p>
+
+<h2 id="defrost">Defrost cycles and cool air</h2>
+<p>
+              In freezing weather, outdoor coils can ice up. The system enters a
+              defrost cycle to clear that ice. During defrost, you might feel cooler
+              air indoors for a few minutes.
+            </p>
+            <p>
+              That brief cool air is normal. If it happens constantly, it may point
+              to a different issue.
+            </p>
+
+<h2 id="aux-heat">Aux heat and emergency heat</h2>
+<p>
+              Many heat pumps have auxiliary heat that kicks in when outdoor
+              temperatures drop too low or when the system needs help catching up.
+            </p>
+            <p>
+              If you see "AUX" or "EMER" on your thermostat often, learn what those
+              modes mean here:
+              <a href="/blog/aux-heat-vs-emergency-heat-meaning/"> aux heat vs emergency heat</a>.
+            </p>
+
+<h2 id="airflow">Airflow and filter checks</h2>
+<p>
+              Restricted airflow makes any heating system work harder. A clogged
+              filter or blocked vent can force longer runtimes and weaker warmth.
+            </p>
+            <ul>
+              <li>Replace filters on schedule.</li>
+              <li>Keep return vents clear.</li>
+              <li>Make sure supply vents are open.</li>
+            </ul>
+
+<h2 id="heat-loss">Heat loss and duct leaks</h2>
+<p>
+              If your home loses heat quickly, the heat pump will run more often to
+              keep up. Air leaks, thin insulation, and leaky ducts are common causes.
+            </p>
+            <p>
+              This guide helps you spot duct issues:
+              <a href="/blog/duct-leaks-symptoms-hvac-running-all-day/"> duct leaks symptoms</a>.
+            </p>
+            <p>
+              Duct losses are also why some homes skip ductwork at replacement
+              time — see
+              <a href="/blog/ductless-mini-split-vs-central-air/"> ductless mini-split vs. central air</a>
+              for how a zoned system changes the runtime equation.
+            </p>
+
+<h2 id="signs">Signs it is not normal</h2>
+<ul>
+              <li>The home never reaches the thermostat setpoint.</li>
+              <li>Indoor air feels cold for long stretches.</li>
+              <li>Outdoor unit is iced over for hours.</li>
+              <li>Energy use spikes far beyond typical winter patterns.</li>
+            </ul>
+            <p>
+              If the air feels cold during heat mode, compare this guide:
+              <a href="/blog/why-is-my-furnace-blowing-cold-air/"> why a furnace blows cold air</a>.
+            </p>
+
+<h2 id="misconceptions">Common misconceptions</h2>
+<ul>
+              <li><strong>"Heat pumps should cycle like a furnace."</strong> They often run longer by design.</li>
+              <li><strong>"Long runtime means it is failing."</strong> Not always. It can be normal in cold weather.</li>
+              <li><strong>"Defrost means the system is broken."</strong> Defrost is a normal winter function.</li>
+            </ul>
+            <p>
+              If your system turns on and off too quickly, this is a related issue:
+              <a href="/blog/13-ac-short-cycling-causes-fixes/"> AC short cycling explained</a>.
+            </p>
+
+<h2 id="faqs">FAQs</h2>
+<p>
+              Quick answers to common heat pump runtime questions.
+            </p>
+
+{{< faq "Is it normal for a heat pump to run all day in winter?" >}}
+
+It can be normal during very cold weather. Heat pumps often run longer to maintain the set temperature.
+
+{{< /faq >}}
+
+{{< faq "Why does my heat pump blow cool air sometimes?" >}}
+
+During defrost cycles, the system can send cooler air indoors for a few minutes.
+
+{{< /faq >}}
+
+{{< faq "What does AUX heat mean?" >}}
+
+AUX heat is backup heat that helps the heat pump when outdoor temperatures are low or the system needs to catch up.
+
+{{< /faq >}}
+
+{{< faq "When should I be concerned about nonstop runtime?" >}}
+
+If the home never reaches setpoint, the air feels cold for long periods, or the outdoor unit stays iced over, it is worth checking.
+
+{{< /faq >}}
+
+{{< faq "Can duct leaks make a heat pump run longer?" >}}
+
+Yes. Leaky ducts waste heated air and force the system to run longer to maintain comfort.
+
+{{< /faq >}}
+
+
+## Heat Pump Running Patterns — Normal vs Concerning
+
+| Pattern | Temperature | Normal? | What It Means |
+|---------|------------|---------|---------------|
+| Runs 30-60 min, off 15 min | 35-50°F | ✅ Normal | Heating cycle |
+| Runs continuously | 15-35°F | ✅ Normal | Cold weather mode |
+| Runs continuously + aux heat | Below 15°F | ✅ Expected | Backup heat active |
+| Runs continuously, temp drops | Any | ❌ Problem | Undersized or broken |
+| Short cycles (5-10 min) | Any | ❌ Problem | Thermostat or refrigerant |
+| Runs, blows cold | Any | ❌ Problem | Reversing valve stuck |
+
+
+{{< faq-schema >}}
+
+---
+
+*Related Reading:*
+- [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling/)
+=====FILE: what-is-a-kilowatt-hour.md =====
+---
+title: "What Is a Kilowatt-Hour (kWh)? Definition & Calculator"
+slug: "what-is-a-kilowatt-hour"
+description: "Simple definition of a kilowatt-hour (kWh). Learn the difference between kW and kWh, and calculate your appliance costs easily."
+date: 2025-12-25
+updated: 2026-08-21
+author: "Margaret Harrington"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["kwh", "electric bill", "air conditioner", "space heater", "delivery charge"]
+keywords: ["kwh usage", "high electric bill", "ac not cooling", "energy efficient space heater", "delivery charge"]
+image: "/images/articles/what-is-a-kilowatt-hour/what-is-a-kilowatt-hour_hero_v2.webp"
+sources:
+  - https://www.eia.gov/tools/glossary/index.php?id=K (retrieved 2026-08-29)
+---
+
+<h2 id="quick-answer">The short answer (what a kWh really means)</h2>
+<p>
+              A kilowatt-hour (kWh) is a unit of energy. It tells you how much
+              electricity you used over time. If you use 1,000 watts for one hour,
+              you used 1 kWh.
+            </p>
+            <p>
+              The easiest way to picture it: <strong>kW is how fast</strong> you are
+              using electricity, and <strong>kWh is how much</strong> you used in
+              total. For more basics, see our <a href="/electricity-explained/">electricity guide</a>.
+            </p>
+            <p>
+              Once kWh clicks, your bill stops feeling random. You can connect
+              everyday activities (laundry, heating, cooking) to the number you are
+              paying for.
+            </p>
+
+<h2 id="watts-kw-kwh">Watts vs. kilowatts vs. kilowatt-hours (no jargon)</h2>
+<p>
+              These three terms look similar, but they answer different questions.
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th>Term</th>
+                  <th>What it measures</th>
+                  <th>Plain-English meaning</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Watt (W)</td>
+                  <td>Power</td>
+                  <td>How fast electricity is being used right now</td>
+                </tr>
+                <tr>
+                  <td>Kilowatt (kW)</td>
+                  <td>Power</td>
+                  <td>1,000 watts (a convenient larger unit)</td>
+                </tr>
+                <tr>
+                  <td>Kilowatt-hour (kWh)</td>
+                  <td>Energy</td>
+                  <td>How much electricity was used over time</td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              If you like analogies: kW is like a speedometer, and kWh is like an
+              odometer. Your electric bill charges for the odometer.
+            </p>
+
+<h2 id="examples">Real-world examples: what does 1 kWh look like?</h2>
+<p>
+              1 kWh is not "one appliance." It is a chunk of energy that different
+              devices can use quickly or slowly.
+            </p>
+            <ul>
+              <li>
+                A 1,000-watt space heater running for 1 hour equals about 1 kWh.
+              </li>
+              <li>
+                A 100-watt light bulb running for 10 hours equals about 1 kWh.
+              </li>
+              <li>
+                A 10-watt LED bulb running for 100 hours equals about 1 kWh.
+              </li>
+            </ul>
+            <p>
+              Notice the pattern? A high-watt device can be cheap if it runs briefly,
+              and a small device can add up if it runs all day.
+            </p>
+
+<h2 id="calculate">How to calculate kWh for any appliance (simple formula)</h2>
+<p>
+              You can estimate kWh with one line of math:
+              <strong> (watts / 1,000) x hours used = kWh</strong>.
+            </p>
+            <p>
+              Example: a 1,500-watt space heater used for 3 hours.
+              <br />
+              (1,500 / 1,000) x 3 = 4.5 kWh
+            </p>
+            <p>
+              Space heaters are the classic worked example, and they do not all
+              cost the same to run — our
+              <a href="/blog/42-best-energy-efficient-space-heater/">best energy-efficient space heater guide</a>
+              compares models that deliver the same heat on fewer kWh.
+            </p>
+            <p>
+              If you want to estimate cost, multiply by your rate (shown on your
+              bill): <strong>kWh x price per kWh</strong>.
+            </p>
+            <p>
+              If you want a bigger-picture foundation first, our main guide to
+              <a href="/electricity-explained/"> electricity explained</a> walks
+              through how electricity is delivered and billed.
+            </p>
+
+<h2 id="bill">Where kWh shows up on your electric bill</h2>
+<p>
+              Your bill should identify the usage and charges that apply to your
+              account. Charge labels, rate structures, and fixed fees vary by utility
+              and rate plan.
+            </p>
+            <p>
+              If you have ever wondered why your total does not drop as much as you
+              expected after using less electricity, review every listed charge and
+              the applicable rate plan before drawing a conclusion.
+            </p>
+            <p>
+              For a line-by-line explanation, see
+              <a href="/blog/electric-bill-breakdown-understanding-line-items/">
+                
+                our electric bill breakdown
+              </a>
+              .
+            </p>
+
+<h2 id="seasons">Why your kWh changes by season</h2>
+<p>
+              In many homes, kWh rises in summer and winter because heating and
+              cooling run longer. That is why the "same habits" can still lead to a
+              different bill when weather changes.
+            </p>
+            <p>
+              If you want to connect kWh to the biggest household loads, our
+              <a href="/heating-cooling-explained/"> heating and cooling explainer</a>
+              shows why HVAC often dominates monthly usage.
+            </p>
+
+<h2 id="misconceptions">Common misconceptions that cause kWh confusion</h2>
+<ul>
+              <li>
+                <strong>"Higher watts always means higher cost."</strong> Not if it
+                runs briefly.
+              </li>
+              <li>
+                <strong>"Tiny devices do not matter."</strong> They can if they run
+                24/7.
+              </li>
+              <li>
+                <strong>"My bill is only kWh."</strong> Many bills include delivery
+                and fixed fees too.
+              </li>
+            </ul>
+            <p>
+              If you are trying to figure out a sudden spike, start with
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
+                
+                common reasons bills jump
+              </a>
+              .
+            </p>
+
+{{< faq "What is the difference between kW and kWh?" >}}
+
+kW measures power (how fast you are using electricity). kWh measures energy (how much you used over time). Your bill charges for kWh.
+
+{{< /faq >}}
+
+{{< faq "How much does 1 kWh cost?" >}}
+
+It depends on your electric rate. Check your bill for the price per kWh, then multiply that price by the number of kWh you used.
+
+{{< /faq >}}
+
+{{< faq "How do I calculate kWh from watts?" >}}
+
+Use (watts / 1,000) x hours used = kWh. Example: a 1,000-watt device used for 2 hours uses 2 kWh.
+
+{{< /faq >}}
+
+{{< faq "Why did my bill go up if my kWh stayed similar?" >}}
+
+Rate changes, time-of-use pricing, longer billing periods, or higher fixed/delivery charges can raise the total even if kWh is steady.
+
+{{< /faq >}}
+
+{{< faq "Is lowering kWh the only way to lower my bill?" >}}
+
+Reducing kWh can reduce usage-based charges, but your total may also include fixed charges and other items listed on the statement. Read the bill and rate plan together.
+{{< /faq >}}
+
+
+{{< faq-schema >}}
+
+## Sources
+
+- [U.S. Energy Information Administration: Kilowatthour glossary entry](https://www.eia.gov/tools/glossary/index.php?id=K) — definition of a kilowatthour as one kilowatt of power used for one hour.
+
+*Related Articles:*
+- [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/)
+- [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)
+- [How Do Smart Meters Work](/blog/how-do-smart-meters-work/)
+- [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/)
+- [Electric Bill Breakdown: Understanding Line Items](/blog/electric-bill-breakdown-understanding-line-items/)

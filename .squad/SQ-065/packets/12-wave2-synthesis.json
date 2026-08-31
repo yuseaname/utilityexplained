@@ -1,0 +1,32 @@
+{
+  "role": "lieutenant",
+  "mission": "WAVE 2 SYNTHESIS: author the final 9-section full-scale audit report for utilityexplained.com per .squad/SQ-065/audit-prompt.md, reconciling all wave-1 evidence. Read .squad/SQ-065/evidence-brief.md FIRST (Commander-verified cross-cutting findings, corrections, and coverage census), then the artifacts it points to. Write the report to FULL-CONTENT-SEO-AUDIT-2026-08-30.md (repo root) in CHUNKED writes (multiple write+append passes, ≤8K chars each — never one monolithic write). The report must contain the operator's nine sections in order: (1) Executive Summary; (2) Critical Issues (severity-ranked); (3) Page-by-Page Content Audit — a master table covering ALL 114 pages: one compact row per page (path | purpose/intent | quality | seo | action) grouped by cluster, with a pointer line to the detailed per-seat entries in .squad/SQ-065/wave1/; (4) Thin Content and AI-Slop Findings; (5) Visual Content Opportunities (by page, asset type + placement + purpose, no decorative stock); (6) Internal Linking and Topic-Cluster Opportunities (merge/orphan/missing-edge/headless-cluster program); (7) Priority Action Plan (Fix Immediately / Improve Next / Build Over Time with impact + effort); (8) Rewrite Briefs for the 5 highest-priority weak pages (audience, intent, missing value, structure, evidence to add, visuals, internal links, desired outcome); (9) final prioritized checklist (numbered, exactly what to do first). Include an audit-scope statement (114 pages audited from source markdown, method, seat coverage, and the tooling caveats from the evidence brief).",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "Source-of-truth reading order: (1) .squad/SQ-065/audit-prompt.md — the operator's verdict criteria + required sections; (2) .squad/SQ-065/evidence-brief.md — Commander-verified findings, corrections (metrics-tool artifact, sitemap NOT broken, staleY nuance), claims verdicts (2 REFUTED), coverage census; (3) wave1 artifacts: lieutenant-pages.md (12 money+flagship), prospector-pages.md (22 fees + 13-pair overlap map), tracer-journey.md (14 journey + pathway map with dead ends/missing edges), twinq-verdict.md (slop patterns, trust, bounce hypotheses, 5 weakest), cartographer-core.md (25 core + C0–C6 cluster map + orphans), cartographer-map.md (Part B water/rates 22 entries), mason-pages.md (19 HVAC + legacy list), claims-verification.md (10 claim verdicts). Reconciliation rules: evidence beats prose — where two seats disagree, cite both and adjudicate with the stronger evidence (e.g., metrics '0 ilinks' flags vs prospector#2's HTML-markup correction; Commander grep-verified the three true dead-ends). Do NOT re-audit pages yourself; synthesize. Where the evidence names a conflict you cannot resolve, mark it OPEN. Keep every recommendation actionable (page, change, why).",
+  "known_facts": [
+    "114 pages audited (89 blog + 25 core) across 8 seat dispatches; full coverage census in evidence brief",
+    "Site: utilityexplained.com — Hugo, deploys via GitHub Actions; analytics 867 sessions/7d, 91% bounce, 1.14 pv/session, Bing-heavy, Google ~0",
+    "2 REFUTED claims (blanket-savings 25%, heating-share 60-70%) and the revenue-core frontmatter defect are the top credibility items",
+    "Sitemap NOT broken (121 URLs live-verified) — earlier '1 URL' was a grep artifact",
+    "Strongest assets: new money cohort (42-space-heater, do-home-energy-monitors 9/10), corrections log, fee-cluster depth; weakest: old cohort slop intros, dead-end orphans, headless Savings cluster, claim drift"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/FULL-CONTENT-SEO-AUDIT-2026-08-30.md"],
+    "notes": "Report length guidance: comprehensive but non-redundant — the master table is one row per page; detail lives in the wave1 artifacts. Target 25-40K chars total."
+  },
+  "constraints": [
+    "ONLY write: FULL-CONTENT-SEO-AUDIT-2026-08-30.md (repo root). No other file writes. Never touch content/, layouts/, config",
+    "Chunked writes (≤8K per pass); verify final file completeness (all 9 sections + table rows = 114) before finishing",
+    "Every finding traceable to a wave-1 artifact or the evidence brief; no new unverified claims about page content",
+    "Professional but unsparing tone per the operator prompt"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    "FULL-CONTENT-SEO-AUDIT-2026-08-30.md exists with all 9 operator sections in order + scope statement",
+    "Master table covers all 114 pages (row count verified by grep/wc — quote the count in your envelope)",
+    "5 rewrite briefs present; checklist numbered and prioritized; Fix-Immediately items include the 2 REFUTED claims, the duplicate sources: frontmatter key, and the dead-end pages",
+    "Envelope carries: section list, table row count, top-3 findings, and any OPEN conflicts"
+  ]
+}

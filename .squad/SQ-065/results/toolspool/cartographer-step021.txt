@@ -1,0 +1,410 @@
+exit_code: 0
+===== editorial-team.md =====
+44 editorial-team.md
+---
+title: "Editorial Team"
+description: "The Utility Explained editorial team — how our utility-bill guides are researched, drafted, and reviewed."
+date: 2024-12-01
+updated: 2026-08-12
+---
+
+Utility Explained is produced by a small editorial team focused on translating utility bills into plain English. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
+
+## Our Editors
+
+### [Margaret Harrington — Bills & Rates Editor](/author/margaret-harrington/)
+Margaret focuses on our electricity, gas, water, and billing-structure guides — decoding every line item and rate plan on your bill.
+
+### [David Chen — Energy Efficiency Editor](/author/david-chen/)
+David focuses on our energy-efficiency and savings guides — showing you how to lower your bills, what each fix costs, and how long it takes to pay for itself.
+
+### [Marcia Washington — Affordability & Assistance Editor](/author/marcia-washington/)
+Marcia focuses on our budgeting, assistance-program, and cost-planning guides — helping you plan for utility expenses and access help when you need it.
+
+### [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
+Roberto focuses on our heating and cooling guides — explaining how your HVAC system drives your utility bills and what to do when something seems off.
+
+### [Tanya Patterson — Consumer Rights Editor](/author/tanya-patterson/)
+Tanya focuses on our fees, troubleshooting, and consumer-rights guides — helping you read a bill critically and challenge charges that look wrong.
+
+## Our Editorial Process
+
+Every article follows a defined process:
+
+1. **Research** — For a data-heavy guide, we collect the relevant primary sources: EIA data, published utility tariffs, state regulations, or program-owner guidance.
+2. **Draft** — Guides may use AI assistance to produce a clear first version efficiently.
+3. **Verify** — Before a data-heavy guide is published or refreshed, its material claims must be checked against the linked source material.
+4. **Publish or hold** — A guide with unverified, time-sensitive, or unsupported claims is held for revision rather than presented as a current reference.
+
+We are transparent that AI assistance is part of our workflow. Readers can inspect the source links and review date on a refreshed guide; older pages are under review. See our [editorial policy](/editorial-policy/) and [methodology](/methodology/) for details.
+
+## Independence
+
+Utility Explained is not affiliated with, sponsored by, or compensated by any utility company, energy supplier, or government agency. Our primary revenue is display advertising, and on a few product-focused guides we may earn a small commission through affiliate links — neither ever influences what we cover or what we say. Read our [editorial policy](/editorial-policy/) for details.
+
+## Contact
+
+Have a question about our content or team? Email us at [hello@utilityexplained.com](mailto:hello@utilityexplained.com).
+===== methodology.md =====
+49 methodology.md
+---
+title: "Methodology"
+description: "How Utility Explained sources and calculates the cost ranges and figures in its guides."
+date: 2024-12-01
+updated: 2026-08-10
+type: "page"
+layout: "single"
+url: "/methodology"
+---
+
+# Methodology: How We Get Our Numbers
+
+Utility Explained uses real-world ranges — not exact figures — because utility costs vary by region, provider, climate, season, and household. This page explains how we arrive at the numbers you see across our guides.
+
+## Our sources
+
+Where possible, cost and usage figures are grounded in publicly available, authoritative references, including:
+
+- **U.S. Energy Information Administration (EIA)** — average retail electricity and gas prices by state.
+- **U.S. Department of Energy (DOE) / ENERGY STAR** — typical appliance energy consumption.
+- **Provider tariffs and rate schedules** — published customer charges, delivery fees, and rate structures.
+- **Water and sewer utility rate disclosures** — published CCF rates and fixed service charges.
+
+When a figure is a general rule of thumb rather than a sourced average, we label it clearly.
+
+## How we calculate
+
+We use straightforward, transparent math so you can reproduce it:
+
+- **Appliance cost** = wattage ÷ 1,000 × hours used × price per kWh.
+- **Bill impact** = change in kWh × your local rate.
+- **Savings** = current usage − reduced usage, multiplied by the applicable rate.
+
+We always show the formula in the guide so you can plug in your own numbers.
+
+## What "typical" means
+
+When we say a figure is "typical," we mean it represents a common U.S. household situation. **Your bill will differ** based on your local rates, home size, climate, and habits. We treat every figure as an estimate, never a guarantee.
+
+## Currency and freshness
+
+Rates and averages change. We revisit data-heavy guides regularly and show an "Updated" date where material figures have been refreshed. See our [editorial policy](/editorial-policy/) for our review process.
+
+## Limitations
+
+- We cannot cover every utility or rate plan. Where regional variation is significant, we say so.
+- Our ranges are educational. For decisions with major financial consequences, confirm the specifics on your own bill or with your provider.
+
+Found a number that looks off? [Tell us](/corrections/) — we'll check it against the source.
+===== electricity-explained.md =====
+287 electricity-explained.md
+---
+title: "Electricity Explained: Rates, kWh, and Your Bill"
+description: "Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system works in plain English."
+image: "/images/articles/electricity-explained/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "hub"
+hub_short: "Electricity"
+hub_categories: ["Electricity"]
+url: "/electricity-explained"
+---
+
+<h2 id="quick-answer">Quick Answer: what am I paying for?</h2>
+<p>
+Your electric bill has three moving parts: <strong>usage</strong> (kWh your meter counted), the <strong>rate</strong> your plan or tariff charges per kWh, and <strong>fixed charges</strong> that don't move with usage. A typical U.S. household using 899 kWh at the June 2026 national average of 18.34&cent;/kWh pays about <strong>$164.88</strong> for energy alone, before delivery charges, taxes, and fees. Start with <a href="/blog/complete-guide-understanding-utility-bill/">the complete guide to understanding your utility bill</a>, or go straight to <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">delivery vs supply charges</a> if those two lines are what confuse you.
+</p>
+<h2>What is electricity and how does it reach your home?</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
+<p>
+Electricity is the flow of electrical energy through wires. Power plants generate electricity using coal, natural gas, nuclear energy, or renewable sources like wind and solar. That electricity travels through high-voltage transmission lines to substations, then through distribution lines to your neighborhood, and finally through a service line to your home.
+</p>
+<p>
+Your home has a meter that measures how much electricity flows in. Everything you plug in or turn on uses some of that electricity. The utility company reads the meter monthly and bills you for what you used.
+</p>
+<p>
+Think of electricity like water flowing through pipes. The power plant is the water tower, the transmission lines are the main pipes, and your outlets are the taps. You only pay for what comes through your meter, just like you only pay for water that passes through your water meter.
+</p>
+<h2>How electricity is measured: watts, kilowatts, and kilowatt-hours</h2>
+<p>
+Electricity is measured in units that describe power and energy. <strong>Watts (W)</strong> measure how fast electricity is being used at a moment in time--like the speedometer in a car. A 100-watt light bulb uses 100 watts when it is on.
+</p>
+<p>
+<strong>Kilowatts (kW)</strong> are just 1,000 watts. It is easier to say "2 kilowatts" than "2,000 watts." Large appliances like air conditioners, electric dryers, and ovens often use multiple kilowatts when running.
+</p>
+<p>
+<strong>Kilowatt-hours (kWh)</strong> measure total energy used over time--like the odometer in a car. One kWh means using 1,000 watts for one hour. If you run a 1,000-watt space heater for one hour, you use 1 kWh. If you run a 100-watt bulb for 10 hours, that is also 1 kWh.
+</p>
+<p>
+Your electric bill charges you for kWh, not watts or kilowatts. The more kWh you use in a month, the higher your energy charge will be.
+</p>
+<p>
+To calculate kWh for any appliance, use this simple formula: (watts / 1,000) x hours used = kWh. For example, a 1,500-watt space heater running for 8 hours uses (1,500 / 1,000) x 8 = 12 kWh.
+</p>
+<h2>Understanding your electric bill</h2>
+<p>
+Most electric bills have three main parts: the energy charge, the delivery charge, and fixed fees. Each part serves a different purpose.
+</p>
+<h3>Energy charge (supply charge)</h3>
+<p>
+===== gas-explained.md =====
+248 gas-explained.md
+---
+title: "Natural Gas Explained: Therms, Rates, and Your Bill"
+description: "Learn how natural gas is measured, billed, and delivered to your home. Understand your gas bill, therms, and how to cut costs."
+image: "/images/articles/gas-explained/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "hub"
+hub_short: "Gas"
+hub_categories: ["Gas"]
+url: "/gas-explained"
+---
+
+<h2>What is natural gas and how does it reach your home?</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
+<p>
+Natural gas is a fossil fuel extracted from underground deposits. It is primarily methane and burns cleanly compared to coal or oil. Gas is transported through pipelines from production areas to distribution networks in your region, then through smaller pipes to your neighborhood and into your home.
+</p>
+<p>
+Your home has a gas meter that measures how much gas flows through. Gas-powered appliances like furnaces, water heaters, stoves, and dryers burn the gas to create heat. The utility company reads your meter monthly and bills you for what you used.
+</p>
+<p>
+Think of natural gas like water flowing through pipes. The gas comes from a central source, flows through a network of pipes, and you only pay for what passes through your meter.
+</p>
+<h2>How natural gas is measured: therms, BTUs, and CCF</h2>
+<p>
+Natural gas is measured by the amount of heat energy it contains, not by volume alone. The most common unit on residential bills is the <strong>therm</strong>. One therm equals 100,000 British Thermal Units (BTUs). A BTU is the amount of energy needed to raise one pound of water by one degree Fahrenheit.
+</p>
+<p>
+Some utilities bill in <strong>cubic feet (CCF)</strong> or <strong>thousand cubic feet (MCF)</strong>. One CCF is 100 cubic feet of gas. Because the energy content of gas can vary slightly, the bill often includes a conversion factor that translates volume into therms based on the actual heat value of the gas delivered that month.
+</p>
+<p>
+Your bill charges you for therms, not raw volume. This ensures you pay for the actual energy you received, regardless of small variations in gas composition.
+</p>
+<p>
+For reference, one therm is roughly equivalent to 29.3 kWh of electricity in terms of energy content. However, gas furnaces and appliances have different efficiencies, so direct comparisons depend on equipment performance.
+</p>
+<h2>Understanding your gas bill</h2>
+<p>
+Gas bills typically have three main components: supply charges, delivery charges, and fixed fees. Understanding each part helps you see where your money goes.
+</p>
+<h3>Supply charge (commodity charge)</h3>
+<p>
+This is the cost of the natural gas itself. It is usually listed as a price per therm. If your rate is $1.50 per therm (near the 2026 U.S. residential average of roughly $1.91 per therm-equivalent in the EIA residential series, though rates vary widely by state and season) and you used 60 therms, the supply charge is $90. Some regions allow you to choose a gas supplier, which affects this rate.
+</p>
+<h3>Delivery charge (distribution charge)</h3>
+<p>
+This covers the cost of maintaining the pipelines, meters, and infrastructure that bring gas to your home. Delivery charges may be a flat fee, a per-therm charge, or both. You pay this to your local utility even if you choose a different gas supplier.
+</p>
+<h3>Customer charge and other fees</h3>
+===== water-explained.md =====
+285 water-explained.md
+---
+title: "Water Explained: Rates, CCF, and Your Bill"
+description: "Learn how water is measured, billed, and delivered. Understand your water bill, CCF, gallons, and how to spot leaks."
+image: "/images/articles/water-explained/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "hub"
+hub_short: "Water"
+hub_categories: ["Water"]
+url: "/water-explained"
+---
+
+<h2>How water service works</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
+<p>
+Your local water utility treats water from wells, rivers, or reservoirs to make it safe for drinking and household use. The water flows through underground pipes to your neighborhood, then through a service line to your home.
+</p>
+<p>
+A water meter measures how much water enters your home. Everything you use--showers, toilets, laundry, cooking, outdoor watering--passes through the meter. The utility reads the meter monthly or bi-monthly and bills you for what you used.
+</p>
+<p>
+Wastewater (sewage) leaves your home through a separate drain system and goes to a treatment plant. Most utilities charge for sewer service based on water usage, since what goes in usually comes back out. Some systems use a winter average to estimate sewer charges, which avoids charging for outdoor water that does not enter the sewer.
+</p>
+<h2>How water is measured: gallons, cubic feet, and CCF</h2>
+<p>
+Water is measured by volume. The most common units on residential bills are <strong>gallons</strong> or <strong>cubic feet</strong>. One cubic foot equals 7.48 gallons.
+</p>
+<p>
+Some utilities use <strong>CCF (hundred cubic feet)</strong> as the billing unit. One CCF equals 100 cubic feet, or 748 gallons. A few utilities use <strong>thousand gallons (kgal)</strong> instead.
+ To convert your own bill units, use the <a href="/blog/ccf-calculator/">CCF calculator</a>, or read <a href="/blog/what-is-ccf-on-a-water-bill/">what CCF on a water bill means</a>.</p>
+<p>
+Your bill should state which unit is used. If you see a number like "6 CCF," that means you used 600 cubic feet, or about 4,488 gallons. If the bill lists gallons directly, the conversion is simpler.
+</p>
+<p>
+Knowing the unit helps you translate meter readings into bill charges and estimate the cost of specific activities like filling a pool or watering a lawn.
+</p>
+<h2>Understanding your water bill</h2>
+<p>
+Water bills typically include water charges, sewer charges, and fixed fees. Some bills also include stormwater or drainage fees.
+</p>
+<h3>Water charge</h3>
+<p>
+This is the cost of the water you used. It may be a flat rate per unit or a tiered rate that increases as you use more. For example, the first 5 CCF might cost $3 per CCF, and anything above that might cost $5 per CCF.
+</p>
+<h3>Sewer charge</h3>
+<p>
+This covers the cost of treating wastewater. It is often calculated as a percentage of water usage or as a flat rate per unit. Some utilities cap sewer charges or use a winter average to avoid charging for outdoor watering.
+</p>
+<h3>Fixed fees</h3>
+===== heating-cooling-explained.md =====
+278 heating-cooling-explained.md
+---
+title: "Heating & Cooling: HVAC Systems and Costs Explained"
+description: "Learn how heating and cooling systems work, what they cost to run, and how to keep your home comfortable without breaking the bank."
+image: "/images/articles/heating-cooling-explained/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "hub"
+hub_short: "Heating & Cooling"
+hub_categories: ["Heating & Cooling"]
+url: "/heating-cooling-explained"
+---
+
+<h2>How heating and cooling systems work</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
+<p>
+Heating systems burn fuel (gas, oil) or use electricity to create warmth. Furnaces heat air and blow it through ducts. Boilers heat water and send it through radiators or radiant floors. Electric resistance heaters convert electricity directly into heat.
+</p>
+<p>
+Cooling systems remove heat from indoor air and transfer it outside. Central air conditioners use refrigerant to absorb heat indoors and release it outdoors. The cooled air is distributed through ducts. Window units and ductless mini-splits work similarly but serve smaller areas.
+</p>
+<p>
+Heat pumps can both heat and cool. In cooling mode, they work like air conditioners. In heating mode, they reverse the process and extract heat from outdoor air (even in winter) and move it indoors. This makes heat pumps very efficient in moderate climates.
+</p>
+<h2>Common heating system types</h2>
+<h3>Gas furnaces</h3>
+<p>
+Gas furnaces burn natural gas to heat air, which is then distributed through ducts. They are common in cold climates and usually cost less to operate than electric resistance heat because natural gas is often cheaper per unit of energy.
+</p>
+<p>
+Furnace efficiency is measured by Annual Fuel Utilization Efficiency (AFUE). Modern furnaces range from 80% to 98% AFUE. A 95% AFUE furnace converts 95% of gas energy into heat, with only 5% lost through the exhaust.
+</p>
+<h3>Electric resistance heat</h3>
+<p>
+Electric resistance heaters, baseboard heaters, and electric furnaces convert electricity directly into heat with nearly 100% efficiency. However, because electricity is often more expensive per unit of energy than gas, operating costs can be higher despite the efficiency.
+</p>
+<h3>Heat pumps</h3>
+<p>
+Heat pumps move heat rather than create it, which makes them more efficient than resistance heat. In mild climates, a heat pump can deliver 2 to 4 times more heat energy than the electricity it consumes. In very cold weather, efficiency drops, and many systems switch to backup electric resistance heat.
+</p>
+<p>
+Heat pump efficiency is measured by Heating Seasonal Performance Factor (HSPF). Higher HSPF ratings mean better efficiency.
+</p>
+<h3>Boilers and radiant systems</h3>
+<p>
+Boilers heat water and circulate it through radiators or radiant floor systems. They can run on gas, oil, or electricity. Radiant heat is often considered more comfortable because it warms objects and surfaces rather than just air.
+</p>
+<h2>Common cooling system types</h2>
+<h3>Central air conditioning</h3>
+<p>
+===== utility-bills-costs-explained.md =====
+322 utility-bills-costs-explained.md
+---
+title: "Utility Bills Explained: Every Charge on Your Bill"
+description: "Understand every charge on your utility bill, from energy costs to fixed fees, taxes, and surcharges. Learn what you can and cannot control."
+image: "/images/articles/utility-bills-costs-explained/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "hub"
+hub_short: "Bill Basics"
+hub_categories: ["Bills & Fees"]
+url: "/utility-bills-costs-explained"
+---
+
+<h2 id="quick-answer">Quick Answer</h2>
+<p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
+<p>
+<strong>A utility bill is a monthly charge from your provider for essential home services</strong>—usually <a href="/electricity-explained/">electricity</a>, <a href="/gas-explained/">natural gas</a>, <a href="/water-explained/">water</a>, and sewer, sometimes trash, recycling, or internet. Your total is built from four parts: <strong>usage charges</strong> (what you actually consumed, billed in kWh, therms, or gallons), <strong>delivery charges</strong> (the cost of power lines, pipes, and treatment plants), <strong>fixed customer charges</strong> (typically <strong>$10–$30</strong> per utility, paid even if you use almost nothing), and <strong>taxes, surcharges, and franchise fees</strong> added by state and local governments.
+</p>
+<p>
+Use the sections below to understand each component, or jump straight to our <a href="#bill-guides">complete library of utility bill guides</a> for line-by-line explanations of every charge on your bill.
+</p>
+
+<h2 id="what-are-utility-bills">What are utility bills and what do they cover?</h2>
+<p>
+Utility bills are monthly or bi-monthly charges for services delivered to your home. The most common utilities are electricity, natural gas, water, and sewer. Some households also pay for trash collection, recycling, stormwater management, or internet as utilities.
+</p>
+<p>
+Utilities are usually billed by local providers--either government-owned utilities or private companies regulated by state or local agencies. Rates and billing practices vary by location, but most bills follow similar structures.
+</p>
+<h2 id="common-components">Common components of utility bills</h2>
+<h3>Usage charges (variable costs)</h3>
+<p>
+This is the cost of what you actually used--kilowatt-hours (kWh) for electricity, therms for gas, gallons or cubic feet for water. Usage charges vary each month based on consumption. Higher usage means higher costs.
+</p>
+<h3>Delivery or distribution charges</h3>
+<p>
+These cover the cost of infrastructure--power lines, gas pipes, water mains, treatment plants, and maintenance. Delivery charges may be fixed, usage-based, or a combination of both. You pay these even if you choose a different energy supplier.
+</p>
+<h3>Fixed fees and customer charges</h3>
+<p>
+Most bills include a monthly fixed fee that you pay regardless of usage. This covers meter reading, billing, and basic service access. Fixed fees are usually <strong>$10 to $30</strong> per utility but can be higher in some regions.
+</p>
+<h3>Taxes and surcharges</h3>
+<p>
+State and local taxes, franchise fees, and regulatory charges appear as separate line items. These are usually small but add to the total. Some utilities also include renewable energy surcharges or environmental fees.
+</p>
+<h2 id="how-to-read">How to read your utility bills</h2>
+<figure class="bill-figure">
+<img src="/images/articles/utility-bills-costs-explained/bill-anatomy.webp" alt="Overview of the three main household utility bills — electric $178.95, gas $107.22, water and sewer $92.10, monthly total $378.27 — plus conditional charges like a $5.00 late fee and $75.00 reconnection fee" width="1024" height="1536" loading="lazy" decoding="async" />
+<figcaption>The big three bills at a glance, plus the one-time fees that catch households off guard. Illustrative example — amounts vary by utility.</figcaption>
+===== utilities-glossary.md =====
+234 utilities-glossary.md
+---
+title: "Utility Terms Glossary: Plain-English Definitions"
+description: "Confused by terms on your utility bill? Our glossary explains CCF, kWh, therms, delivery charges, demand fees, and more in plain English."
+image: "/images/articles/utilities-glossary/custom_hero.webp"
+date: 2024-12-01
+updated: 2026-08-21
+type: "page"
+layout: "single"
+url: "/utilities-glossary"
+---
+
+<h2>Electricity Terms</h2>
+<h3 id="afue">AFUE (Annual Fuel Utilization Efficiency)</h3>
+<p>
+A percentage that measures how efficiently a furnace or boiler converts fuel into heat. A 95% AFUE furnace converts 95% of fuel into usable heat, with only 5% lost through the exhaust. Higher AFUE means lower fuel costs. See more in our heating and cooling guide. Read the full guide: <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">the afue explainer</a>.
+</p>
+<h3 id="amps">Amps (Amperes)</h3>
+<p>
+A unit measuring electrical current. Your home's electrical service is rated in amps--commonly 100, 150, or 200 amps. This determines how much power can flow at once.
+</p>
+<h3 id="baseload">Baseload</h3>
+<p>
+The minimum amount of electricity your home uses continuously, even when major appliances are off. This includes refrigerators, clocks, standby electronics, and other constant draws.
+</p>
+<h3 id="demand-charge">Demand charge</h3>
+<p>
+A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking. Read the full guide: <a href="/blog/49-demand-charges-electricity-bill-explained/">the demand charge explainer</a>.
+</p>
+<h3 id="delivery-charge">Delivery charge (Distribution charge)</h3>
+<p>
+The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Learn more in our electricity guide. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
+</p>
+<h3 id="energy-charge">Energy charge (Supply charge)</h3>
+<p>
+The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
+</p>
+<h3 id="kilowatt">Kilowatt (kW)</h3>
+<p>
+A unit of power equal to 1,000 watts. Measures how fast electricity is being used at a moment in time. A 2 kW space heater uses 2,000 watts when running.
+</p>
+<h3 id="kilowatt-hour">Kilowatt-hour (kWh)</h3>
+<p>
+A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period. See detailed examples in our kWh explainer.
+</p>
+<h3 id="off-peak">Off-peak hours</h3>
+<p>
+Times when electricity demand is low, usually overnight and early morning. Some utilities offer lower rates during off-peak hours to encourage shifting usage.
+</p>
+<h3 id="peak-hours">Peak hours</h3>
+<p>

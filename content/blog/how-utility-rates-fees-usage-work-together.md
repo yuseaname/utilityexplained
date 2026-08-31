@@ -127,8 +127,8 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               If electricity is the main driver, this focused guide helps:
-              <a href="/blog/why-electric-bill-changes-month-to-month/">
-                Why your electric bill changes month to month
+              <a href="/blog/03-why-is-my-electric-bill-so-high/">
+                Why your electric bill is so high — the full diagnostic
               </a>.
             </p>
 

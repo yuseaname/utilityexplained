@@ -23,7 +23,7 @@ sources:
 
 ## Quick Answer
 
-**Point sensors tell you a leak started. A whole-home system sees the ones point sensors can't — and a shutoff valve acts when you can't.** The EPA's leak arithmetic explains the gap: average household leaks waste more than 10,000 gallons a year (newer EPA materials restate it above 9,300), and roughly 9 to 10 percent of homes run leaks above 90 gallons a day [1]. No single device covers all of that, which is why this is a ladder, not a face-off.
+**Point sensors tell you a leak started. A whole-home system sees the ones point sensors can't — and a shutoff valve acts when you can't.** The EPA's leak arithmetic explains the gap: household leaks average about 9,400 gallons a year (EPA WaterSense statistics; the EPA’s classic campaign framing rounds it to “10,000 gallons wasted annually”), and roughly 9 to 10 percent of homes run leaks above 90 gallons a day [1]. No single device covers all of that, which is why this is a ladder, not a face-off.
 
 Most homes are fine at tier 1 — a few point sensors in the right spots. The upgrade question is about coverage: how much plumbing you want watched, and what should happen when a leak starts with nobody home to answer the alert.
 

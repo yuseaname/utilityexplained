@@ -41,6 +41,8 @@ The larger lever sits one step up: DOE currently states that today's heat pumps 
 
 ## The Safety Numbers That Should Shape the Purchase
 
+{{< visual src="/images/articles/42-best-energy-efficient-space-heater/space-heater-safety-checklist.webp" alt="Space heater safety checklist: plug into a wall outlet only — never an extension cord or power strip — keep three feet of clearance, require a tip-over switch, and buy a certified unit." wide="true" >}}
+
 Heating equipment starts an estimated **37,365 home fires a year** (2020–2024 average), and the split is the reason this page exists: NFPA reports space heaters and heating stoves account for about **30% of those fires but over seven out of ten deaths (73%) and injuries (70%)**—portable heat is disproportionately deadly when it goes wrong.[4] CPSC's January 2026 winter-safety release estimates portable heaters were involved in **about 1,600 residential fires, ~70 deaths, and ~150 injuries annually** (2020–2022), and USFA's data shows portable heaters were 41% of *fatal* home heating fires even while being a small share of the total.[3][5]
 
 Those are population numbers, not predictions for your living room—and nearly all of them trace to the same failure modes the checklist below prevents.

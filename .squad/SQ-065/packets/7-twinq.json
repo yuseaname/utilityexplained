@@ -1,0 +1,30 @@
+{
+  "role": "twin_q",
+  "mission": "Adversarial judgment pass over utilityexplained.com: read a 12-page cross-generation sample and render the site-level verdicts no slice auditor can see. Three deliverables: (1) AI-SLOP PATTERN VERDICT — across the sample (oldest cohort vs newest), name the site's recurring generic-writing patterns with quoted examples and rate severity site-wide (is this a site Google's classifiers would flag as unhelpful?); (2) TRUST/E-E-A-T VERDICT — author substance, expertise signals, citation honesty, money-content integrity: would a skeptical reader trust this site's utility-bill advice, and what are the 3 biggest trust gaps; (3) BOUNCE HYPOTHESIS — analytics show 91% bounce / 1.14 pages/session / ~65s: from the content itself, what most plausibly explains readers leaving without a second page (answer-buried? satisfied-and-done? no next-step? formatting?), ranked, with the sample evidence for each. THEN: your independent nomination of the 5 WEAKEST pages on the site (any of the 12 you read) most deserving full rewrites, with reasons. Tag every claim [OBSERVED]/[INFERENCE]/[GAP]. Write the full analysis to .squad/SQ-065/wave1/twinq-verdict.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). Your 12-page cross-generation sample (content/blog/): OLD COHORT — aux-heat-vs-emergency-heat-meaning, afue-vs-seer-vs-hspf-vs-cop, average-utility-bills-by-state-2026, why-did-my-water-bill-suddenly-increase; MID — which-rate-plan-is-right-for-me (702w, thinnest page), how-utility-rates-fees-usage-work-together (808w), water-service-charge-explained (0 internal links), net-metering-explained (0 internal links); NEW COHORT — do-home-energy-monitors-save-money, 47-check-energy-leaks-home-diy, 01-how-to-read-your-electric-bill (flagship), 13-ac-short-cycling-causes-fixes. Read each in full. You are the judgment seat: patterns and verdicts, not per-page tables. End with a one-paragraph SITE VERDICT: is this content genuinely helpful people-first publishing, rank-chasing content with a good paint job, or somewhere in between — and what single change would move it furthest toward trustworthy.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; markdown SOURCE under content/; 114 pages (89 blog + 25 core)",
+    "Deterministic per-page metrics: .squad/content-metrics.md — ground truth for counts; verify anything you rely on",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s avg session, Bing-heavy referrals, Google near-zero",
+    "The site monetizes via Amazon Associates affiliate placements (product boxes/inline links) on money pages",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — your value IS independence"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/twinq-verdict.md"],
+    "notes": "You may grep across the wider content/ tree to test whether a pattern you spot in the sample generalizes — quote file:line evidence for generalization claims."
+  },
+  "constraints": [
+    "READ-ONLY audit: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/twinq-verdict.md",
+    "Every claim tagged [OBSERVED] (quote/evidence), [INFERENCE] (reasoned), or [GAP] (unknown — needs data)",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/twinq-verdict.md exists with the three verdicts (slop patterns + quotes, trust/E-E-A-T, ranked bounce hypotheses), the 5 weakest-page nominations with reasons, and the SITE VERDICT paragraph",
+    "Envelope carries: slop severity rating, top trust gaps, primary bounce hypothesis, the 5 nomination slugs",
+    "All claims tagged; [OBSERVED] claims carry quotes or file:line references"
+  ]
+}

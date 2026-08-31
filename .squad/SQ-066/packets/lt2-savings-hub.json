@@ -1,0 +1,29 @@
+{
+  "role": "lieutenant",
+  "mission": "SQ-066 LT-2: Build the Savings & Efficiency hub (audit C6: the site's best money pages have NO hub) and fix 05-how-to-lower-utility-bills per brief 8.2. (A) Create content/lower-your-bills.md — an editorial hub page in the site's hub style (study content/electricity-explained.md and content/water-explained.md for the pattern: intro, Quick-Answer-ish orientation, organized library of the cluster's spokes by reader stage). Organize the 14 spokes: complete prioritization (how-to-lower-electric-bill-complete-guide), cross-utility quick wins (05), measure-first (do-home-energy-monitors-save-money, gadgets-that-lower-utility-bills, 50-best-smart-plugs-standby-power, phantom-power-draw-explained), envelope & DIY (how-to-find-and-seal-drafts-in-your-home, 47-check-energy-leaks-home-diy, do-thermal-curtains-really-work, what-merv-rating-do-i-need), equipment decisions (42-best-energy-efficient-space-heater, do-programmable-thermostats-cut-heating-bills), non-solar electric (how-to-lower-electric-bill-without-solar), water side (44-how-to-lower-water-bill). Frontmatter: title, description, category 'Savings & Efficiency', no date-far-past (use 2026-08-30), image only if an existing asset fits (check /images/ — do NOT reference non-existent files). (B) Fix 05-how-to-lower-utility-bills.md: fix the air-sealing row's mis-pasted citation (audit: thermostat statistic sits on the wrong row — verify each row's note matches its row); retitle honestly toward the ranked-checklist promise ('Utility Bill Overload? The Ranked List of What Actually Saves' or similar — keep 'lower utility bills' phrase in title for the anchor); add a scope banner pointing to the new hub and to the electric complete-guide as the deep dive; link the new hub. Chunked writes.",
+  "parent_objective": "SQ-066: Execute all SQ-065 audit remediations — cloud-only formation",
+  "context": "Read first: FULL-CONTENT-SEO-AUDIT-2026-08-30.md §8.2 + §6 (C6 hub program). Hub conventions: study the 5 existing hubs (content/*-explained.md) — heading style, library links format, frontmatter fields. 05's blanket-row already fixed by the Commander (4–9% canonical) — do not undo. The wrong anchor promise: 03's footer anchor calls 05 '20+ ways' — 05's retitle should make the anchor approximately true; ALSO update 05's description meta to match the new title.",
+  "known_facts": [
+    "The five existing hubs live at content/{electricity,gas,water,heating-cooling,utility-bills-costs}-explained.md — mirror their structure closely",
+    "Category taxonomy 'Savings & Efficiency' already exists (auto listing at /categories/savings-and-efficiency/) — the hub is the EDITORIAL layer on top",
+    "05's payback table is its real asset (audit 8.2); the mis-cited air-sealing row needs its citation corrected or the note rewritten to match the row",
+    "Bills hub (utility-bills-costs-explained.md) is NOT yours — do not edit it"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/lower-your-bills.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/05-how-to-lower-utility-bills.md"],
+    "notes": "Verify every spoke link resolves (grep content/blog for each slug). List them in the envelope."
+  },
+  "constraints": [
+    "You own EXACTLY these two files; no other writes",
+    "Hub page: only reference image assets that exist on disk (ls static/images/ first); no invented sources; every claim either site-internal link or a figure already canonical on-site",
+    "Chunked writes (≤8K per pass)"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    "content/lower-your-bills.md exists, hub-styled, with all 14 spokes linked and organized by reader stage",
+    "05 has: corrected air-sealing row, honest retitle + matching description, scope banner (hub + complete-guide links)",
+    "Envelope lists the spoke links + the new 05 title, and confirms no dead links"
+  ]
+}

@@ -129,6 +129,13 @@ No. Utilities use different windows, different rate structures, and different me
 
 {{< faq-schema >}}
 
+## Related Reading
+
+- [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/) — the charge itself, line by line
+- [Why Is My Water Bill Higher in Winter?](/blog/why-is-my-water-bill-higher-in-winter/) — the winter averaging season's bookends
+- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/) — usage moves the average too
+- [Water Bill Too High?](/blog/06-water-bill-too-high/) — the full diagnostic
+
 ## Sources
 
 1. [Austin Water 2025–2026 Water & Wastewater Rates, Residential Wastewater Customers](https://web.archive.org/web/20200301101832/http://www.austintexas.gov:80/department/water) — wastewater averaging basis, tier rates ($6.30/$13.40 per 1,000 gal), monthly base charge ($11.26).

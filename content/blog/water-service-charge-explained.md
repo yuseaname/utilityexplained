@@ -87,6 +87,12 @@ If you suspect a hidden leak, use your meter as a truth source: see water meter 
 
 ## Next steps if it still feels wrong
 
+Where to go next depends on what the check revealed:
+
+- The charge is itemized differently than explained → [how sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/) and [how to read a water meter](/blog/how-to-read-a-water-meter/)
+- The whole bill climbed, not just this line → [why is my water bill higher in summer](/blog/why-is-my-water-bill-higher-in-summer/) / [in winter](/blog/why-is-my-water-bill-higher-in-winter/)
+- You want the charge reduced, not just explained → [how to lower your water bill](/blog/44-how-to-lower-water-bill/)
+
 1. Confirm the account status: active, vacant, or seasonal. Some cities have special rates for vacant properties.
 2. Confirm the meter size. If the fixed fee is tied to meter size, make sure the size on your bill matches what is installed - Philadelphia runs a process for over-metered customers to downsize and drop to the lower charge. [3]
 3. Separate water from sewer. Many water bills are really two services on one statement.

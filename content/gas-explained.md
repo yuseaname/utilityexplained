@@ -41,7 +41,7 @@ Gas bills typically have three main components: supply charges, delivery charges
 </p>
 <h3>Supply charge (commodity charge)</h3>
 <p>
-This is the cost of the natural gas itself. It is usually listed as a price per therm. If your rate is $1.50 per therm (near the 2026 U.S. residential average of roughly $1.91 per therm-equivalent in the EIA residential series, though rates vary widely by state and season) and you used 60 therms, the supply charge is $90. Some regions allow you to choose a gas supplier, which affects this rate.
+This is the cost of the natural gas itself. It is usually listed as a price per therm. At the 2026 U.S. residential average of roughly $1.91 per therm-equivalent (EIA residential series; state and seasonal rates vary widely, from about $1.00 to $2.50+), 60 therms costs about $115 — check your own bill’s supply line for your exact per-therm rate. Some regions allow you to choose a gas supplier, which affects this rate.
 </p>
 <h3>Delivery charge (distribution charge)</h3>
 <p>
@@ -230,7 +230,7 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <li><a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
 <li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
 <li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
-<li><a href="/blog/gas-delivery-charge-vs-supply-charge/">Gas Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/12-how-to-read-your-gas-bill/">Gas Delivery Charge vs Supply Charge</a></li>
 <li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>
 <li><a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
 </ul>
@@ -238,11 +238,11 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <h3>Why Is My Gas Bill High?</h3>
 <ul>
 <li><a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
-<li><a href="/blog/07-gas-bill-too-high/#comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
+<li><a href="/blog/07-gas-bill-too-high/#seasonal-comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
 </ul>
 
 <h3>Gas vs Other Heating Options</h3>
 <ul>
-<li><a href="/blog/gas-vs-electric-heating-cost-comparison/">Gas vs Electric Heating Cost Comparison</a></li>
+<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Gas vs Electric Heating Cost Comparison</a></li>
 <li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings</a></li>
 </ul>

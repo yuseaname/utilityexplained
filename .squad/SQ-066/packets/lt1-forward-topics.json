@@ -1,0 +1,30 @@
+{
+  "role": "lieutenant",
+  "mission": "SQ-066 LT-1: Rebuild two forward-topic pages per audit briefs 8.4 and 8.5. (A) net-metering-explained.md — SEO-4 absolute dead end (0 internal links, grep-verified): add a 'Where this lands on your bill' section linking which-rate-plan-is-right-for-me, 08-time-of-use-electricity, 46-what-time-is-electricity-cheapest, 49-demand-charges-electricity-bill-explained, electric-bill-breakdown-understanding-line-items; add ONE non-California worked example (a buy-all/sell-all or NEM-successor state, e.g. Texas or Arizona style, clearly labeled illustrative) so the page is nationally representative; keep the 400-kWh × 6¢ worked example and all existing verified content. Do NOT split California content into a sub-article this pass. (B) which-rate-plan-is-right-for-me.md — thin (702w) decision page: add a worked 'Summer Trap' case (a shift-able schedule that fails one afternoon at peak price — show the dollar delta using realistic peak-vs-off-peak spread, e.g. PG&E-style ~3:1 ratio); add a decision table by usage pattern (high-day / high-evening / shift-able / EV-overnight rows); add the financial-risk disclaimer line per C10 ('a plan choice is a 12-month commitment; worst-case math before signing'); link ev-charging-impact-electric-bill where the Decision List mentions EV overnight charging. Keep both pages honest at their natural length (which-rate-plan lands ~900-1,100 words) — this is fix-by-addition-of-math, not padding. Chunked writes.",
+  "parent_objective": "SQ-066: Execute all SQ-065 audit remediations — cloud-only formation",
+  "context": "Read first: .squad/SQ-065/FULL pointer — the two briefs live in FULL-CONTENT-SEO-AUDIT-2026-08-30.md §8.4 and §8.5 (repo root). Site conventions: Hugo shortcodes ({{< box >}}, {{< visual >}}, {{< faq >}}), Quick Answer scaffold, updated: frontmatter bump to 2026-08-30, internal links as markdown (/blog/<slug>/). Existing verified numbers on both pages stay; you add the link layer + the new math/tables. Peak-rate reference available on-site: 08-time-of-use has ConEd TOU corrections (22.33¢/44.97¢ style figures in /corrections log lineage) — reuse site-verified figures where possible, label illustrative math as illustrative.",
+  "known_facts": [
+    "Both pages currently have ZERO outbound internal links (grep-verified in all formats) — the link layer is the single highest-value fix",
+    "which-rate-plan already links ev-charging? NO — it mentions EV overnight charging in Decision List #1 without linking (audit 8.5)",
+    "EIA June 2026 national average 18.34¢/kWh is site-canonical and primary-verified; 899 kWh/mo canonical",
+    "Mission blackboard: SQ-066"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/net-metering-explained.md", "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/content/blog/which-rate-plan-is-right-for-me.md"],
+    "notes": "After editing each file, grep-verify the new internal links resolve to real slugs (list them in the envelope)."
+  },
+  "constraints": [
+    "You own EXACTLY these two files; no other file writes",
+    "Preserve existing frontmatter fields (add/bump updated only), shortcodes, and all verified figures",
+    "No invented utility rates — site-verified figures or clearly-labeled illustrative math",
+    "Chunked writes (≤8K per pass)"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    "net-metering has the 'Where this lands on your bill' section with 5 working internal links + one non-CA illustrative example",
+    "which-rate-plan has the Summer Trap worked case, the 4-row decision table, the disclaimer line, and the ev-charging link",
+    "Envelope lists every internal link added (target slugs) and confirms both files' shortcode integrity"
+  ]
+}

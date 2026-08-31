@@ -41,7 +41,7 @@ Check these in order. Four of the five leave your habits completely out of it.
 <strong>A rate change that took effect mid-cycle.</strong> The effective date on the tariff — not your usage — moved the price per unit. <em>How to confirm:</em> compare price per unit between the two bills and scan the line items for a rate-change note.
 </li>
 <li>
-<strong>Seasonal heating or cooling.</strong> Weather shifts HVAC and water use before you feel it. <em>How to confirm:</em> compare kWh or therms per day against the same season last year, not last month. If electricity is the driver: <a href="/blog/why-electric-bill-changes-month-to-month/">why your electric bill changes month to month</a>.
+<strong>Seasonal heating or cooling.</strong> Weather shifts HVAC and water use before you feel it. <em>How to confirm:</em> compare kWh or therms per day against the same season last year, not last month. If electricity is the driver: <a href="/blog/03-why-is-my-electric-bill-so-high/">why your electric bill is so high — the full diagnostic</a>.
 </li>
 <li>
 <strong>An estimated read that just caught up.</strong> The estimate underbilled one month; the next actual read corrects for both. <em>How to confirm:</em> look for an "E" or the word "estimated" beside the meter read on either bill. Deep dive: <a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.

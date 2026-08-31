@@ -223,11 +223,11 @@ An upfront payment required by some utilities for new customers. Often refunded 
 Bookmark this page for quick reference when reading utility bills or comparing energy plans. For detailed explanations and real-world examples, visit our full guides:
 </p>
 <ul>
-<li>Electricity Explained</li>
-<li>Natural Gas Explained</li>
-<li>Water Service Explained</li>
-<li>Heating & Cooling Explained</li>
-<li>Utility Bills & Costs Explained</li>
+<li><a href="/electricity-explained/">Electricity Explained</a></li>
+<li><a href="/gas-explained/">Natural Gas Explained</a></li>
+<li><a href="/water-explained/">Water Service Explained</a></li>
+<li><a href="/heating-cooling-explained/">Heating & Cooling Explained</a></li>
+<li><a href="/utility-bills-costs-explained/">Utility Bills & Costs Explained</a></li>
 </ul>
 <p>
 If you have questions about a specific term or topic, explore our full article library for in-depth explanations and practical advice.

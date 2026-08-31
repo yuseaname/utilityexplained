@@ -32,6 +32,8 @@ Three numbers should anchor the decision. Safety: an average of **nearly 100 Ame
 
 ## Start With Safety — the Non-Negotiables
 
+{{< visual src="/images/articles/45-whole-house-generator-vs-portable-cost/generator-co-placement.webp" alt="Generator placement diagram: the unit stays outdoors only, at least 20 feet from the house, with exhaust aimed away from windows and doors and downwind, while a CO alarm on every level guards the indoors." wide="true" >}}
+
 One portable generator produces as much carbon monoxide as hundreds of cars; an average of nearly 100 U.S. deaths a year trace to portable-generator CO, the single largest share of consumer-product CO fatalities—roughly 40% by CPSC's count in its 2023 rulemaking.[2][4] CO is colorless and odorless, and CPSC's current placement language (May 2026) is the standard to hold yourself to:
 
 - **Outdoors only, at least 20 feet from homes and buildings**—a porch or carport is too close—with **exhaust directed away from windows, doors, and vents**.[1]

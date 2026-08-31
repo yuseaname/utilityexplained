@@ -23,24 +23,17 @@ sources:
 
 Budget by service, not by one total: electricity is usually the only utility most renters must open in their own name; water/sewer/trash are often (not always) bundled into rent; internet is a separate contract. The lease, the account-holder rules, and the unit's own bill history tell you your actual numbers — national tables can't.
 
-## State-by-State Average Electricity Cost (10 Most Populous States)
+## What Electricity Costs, State by State — the Apartment Read
 
-The table below uses EIA Table 5a data (the most recent available) for the ten most populous U.S. states. These are **statewide averages for all homes** — EIA does not publish apartment-specific state averages, and apartments typically run below these figures (see the energy comparison above).[2] Your actual cost depends on local utility rates, apartment size, heating/cooling system, and your usage habits.
+EIA Table 5a data (latest 12-month period) shows **statewide all-home averages** — EIA does not publish apartment-specific state averages, and apartments typically run below these figures. Three reference points from the ten most populous states (monthly bill = rate × average usage):
 
 | State | Avg. Residential Price (¢/kWh) | Avg. Monthly Usage (kWh) | Avg. Monthly Bill |
 |---|---|---|---|
 | California | 30.24¢ | 542 | $164 |
 | Texas | 14.27¢ | 1,172 | $167 |
-| Florida | 14.54¢ | 1,074 | $156 |
-| New York | 23.67¢ | 570 | $135 |
-| Pennsylvania | 17.49¢ | 835 | $146 |
 | Illinois | 15.74¢ | 718 | $113 |
-| Ohio | 14.60¢ | 870 | $127 |
-| Georgia | 14.17¢ | 1,025 | $145 |
-| North Carolina | 13.05¢ | 1,076 | $140 |
-| Michigan | 18.07¢ | 662 | $120 |
 
-*Source: EIA Electric Sales, Revenue & Average Price, Table 5a (latest 12-month period). Monthly bill = rate × average usage. These are statewide all-home averages; an apartment usually lands below them.[2] For the full 50-state picture, see [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/); for what drives the kWh number, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/).*
+The spread is the story: high-rate/low-usage states and low-rate/high-usage states can land on nearly the same bill. **The full 50-state table lives in one place** — [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/) — and it is kept current there; for what drives the kWh number, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/). Your actual apartment cost depends on local rates, unit size, heating/cooling system, and usage habits.
 
 ### First-Apartment Utility Checklist
 

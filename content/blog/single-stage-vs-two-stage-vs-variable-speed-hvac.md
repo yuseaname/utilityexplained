@@ -99,6 +99,13 @@ The ecobee box below is already linked on this page. Compare its features to you
 
 {{< product-box asin="B09XXS48P8" name="ecobee Smart Thermostat Premium" label="Multi-Stage & Variable-Speed Compatible" description="The ecobee Premium supports up to 2-stage heat pumps, 2-stage conventional heating, and 2-stage cooling systems — including variable-speed air handlers (ecobee.com spec page). Built-in air quality monitor, smart sensors, and remote sensor kit. Compatible with most 24V HVAC systems. Compare: the Nest Learning Thermostat (4th gen, B0D5BBYRJM) already sold on this site also supports multi-stage systems but requires the Nest Power Connector for some systems without a C-wire." button="Check Price on Amazon" >}}
 
+## Related Reading
+
+- [AFUE vs SEER vs HSPF vs COP](/blog/afue-vs-seer-vs-hspf-vs-cop/) — what the efficiency ratings actually measure
+- [Ductless Mini-Split vs Central Air](/blog/ductless-mini-split-vs-central-air/) — the other big system decision
+- [Heat Pump Running All Day in Winter?](/blog/heat-pump-running-all-day-in-winter/) — staging meets runtime behavior
+- [Why Is My Furnace Blowing Cold Air?](/blog/why-is-my-furnace-blowing-cold-air/) — when staging is not the issue
+
 ## Sources
 
 1. [ENERGY STAR: Room Air Conditioners](https://www.energystar.gov/products/room_air_conditioners)

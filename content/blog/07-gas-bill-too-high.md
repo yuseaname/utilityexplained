@@ -1,8 +1,8 @@
 ---
-title: "Why Is My Gas Bill So High? 10 Causes and Fixes"
+title: "Why Is My Gas Bill So High? 11 Causes and Fixes"
 slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
-description: "A high gas bill is usually heating-driven (40–50% of household gas use). See the 10 most common causes, the dollar amount each fix saves, and when to call your utility."
+description: "A high gas bill is usually heating-driven (about 40–45% of annual household gas use, per EIA RECS). See the 11 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
 updated: 2026-08-30
 author: "Tanya Patterson"
@@ -23,7 +23,7 @@ image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 {{< affiliate-disclosure >}}
 ## Quick Answer
 
-**A high gas bill is usually heating-driven: space heating accounts for about 40–50% of household gas use, driving winter bills 2–3× higher than summer.**[1] The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
+**A high gas bill is usually heating-driven: space heating accounts for about 40–45% of annual household gas use (EIA RECS), driving winter bills 2–3× higher than summer.**[1] The fastest fix is lowering your thermostat 1–2°F (saves $15–$40/month); longer-term wins are insulation, a furnace tune-up, and a water-heater insulation blanket.
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the most common causes, ranked by likelihood, and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
@@ -32,6 +32,8 @@ Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred
 **Next step:** If your gas bill is still high after checking the causes above, learn how to [read your gas bill line by line](/blog/12-how-to-read-your-gas-bill/) and see the full [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for comparison.
 
 ## Quick diagnosis: Start here
+
+{{< visual src="/images/articles/07-gas-bill-too-high/gas-causes-probability.webp" alt="Gas cost drivers in rank order: heating dominates at 40 to 45 percent of annual gas use, water heating about 20 percent, then cooking, drying, and outdoor uses — which is why cold months move the bill more than anything else." wide="true" >}}
 
 Answer these four questions before diving into troubleshooting:
 
@@ -53,7 +55,7 @@ Answer these four questions before diving into troubleshooting:
 
 ### 1. Heating season weather
 
-This is the #1 cause of gas bill spikes. Heating accounts for **60–70% of natural gas usage** in a typical home.[1] A cold snap in November or December can double your usage compared to a mild month.
+This is the #1 cause of gas bill spikes. Heating is the largest gas load in a typical home — about **40–45% of annual natural gas usage** (EIA RECS), concentrated almost entirely into the heating season.[1] In winter months space heating can run 60–70% of that month’s usage (see the seasonal table below), and a cold snap in November or December can double your usage compared to a mild month.
 
 **What to check:**
 - Compare this year's average temperature with last year for the same billing period.
@@ -96,7 +98,7 @@ Short cycling (the burner turning on and off every few minutes without reaching 
 **What to do:**
 - **Annual maintenance** ($80–$200) — A professional tune-up can restore 2–5% efficiency and catch problems early.
 - **Filter replacement** — A dirty filter forces the furnace to work harder. Replace every 1–3 months during heating season.
-- **Consider replacement** — If your furnace is 15+ years old, a new 95–98% AFUE model can cut gas usage by 20–30%. Typical cost: $3,000–$6,000 installed, with payback in 5–8 years through gas savings.
+- **Consider replacement** — If your furnace is 15+ years old, a new 95–98% AFUE model can cut gas usage by 20–30%. Typical cost: $3,000–$6,000 installed. Be realistic about payback: on gas savings alone it is long (the worked example below computes ~23 years at typical rates); rebates and blower-motor electric savings bring it to roughly 8–12 years. Replace when the furnace fails, not as a bill fix.
 
 ### 4. Poor insulation and air leaks
 
@@ -116,17 +118,17 @@ Water heating is typically the **second-largest gas expense** (15–25% of gas u
 - **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.
 - **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
 - **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
-- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts standby heat loss by 5–10%.[4]
+- **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts water-heating energy 4–9% (DOE/Energy Star); only pre-1980s uninsulated tanks see more.[4]
 
 {{< visual src="/images/articles/07-gas-bill-too-high/water-heater-standby-loss.webp" alt="Gas water heater cross-section showing burner, sediment, and standby heat loss." >}}
 
 ### 6. Rate increase
 
-Natural gas prices are volatile. Your utility's "gas cost recovery" rate can change monthly or quarterly. In late 2025 and into 2026, many U.S. utilities have increased rates 15–30% year-over-year (U.S. EIA, 2026).
+Natural gas prices are volatile. Your utility's "gas cost recovery" rate can change monthly or quarterly. In late 2025 and into 2026, many U.S. utilities raised their gas cost recovery rates year-over-year — check the rate section of your own bill for the exact change.
 
 **What to check on your bill:**
 - **Cost per therm** — Compare with the same month last year.
-- **[delivery charges](/blog/gas-delivery-charge-vs-supply-charge/)** — Your utility may have raised the fixed delivery charge.
+- **[delivery charges](/blog/12-how-to-read-your-gas-bill/)** — Your utility may have raised the fixed delivery charge.
 - **[Fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)** — A line item that passes wholesale gas cost changes through to your bill.
 - **Pipeline or infrastructure surcharges** — Becoming more common.
 - **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
@@ -211,6 +213,8 @@ To visualize how the same home's gas demand shifts across the year, the table be
 
 A 344% jump in usage combined with a 22% rate hike produces a bill that is nearly six times higher than the summer equivalent. Knowing the split makes it easier to tell whether a spike is weather, rate, or appliance-driven.
 
+{{< visual src="/images/articles/07-gas-bill-too-high/therm-seasonality-chart.webp" alt="Bar chart of monthly gas use: January peaks at about 19 percent of annual gas use while July bottoms out near 2 percent, per EIA household data." wide="true" >}}
+
 ---
 
 ## How to read your gas meter
@@ -260,7 +264,7 @@ The table below shows **estimate ranges, not guarantees** — computed against t
 | Water heater insulation blanket | $5–$15 | $20–$40 | 1–3 months |
 | Weatherstripping doors/windows | $10–$30 | $20–$50 | 1–3 months |
 | Attic insulation (R-11 → R-38) | $30–$80 | $1,000–$2,500 | 1–3 years |
-| New 96% AFUE furnace (replacing 70% AFUE) | $40–$100 | $3,000–$6,000 | 3–8 years |
+| New 96% AFUE furnace (replacing 70% AFUE) | $40–$100 | $3,000–$6,000 | ~23 years gas-only; 8–12 years with rebates (see worked example) |
 
 **Example scenario:**
 - Old furnace: 70% AFUE, using 120 therms/month in winter at $1.20/therm = $144/month
@@ -293,7 +297,7 @@ Contact your gas utility when:
 - [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — the full dial-by-dial walkthrough and between-bills tracking.
 - [Why the Billing Period Makes the Bill Look Bigger](/blog/23-utility-billing-cycle-explained/) — period length and estimated reads, decoded.
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — decode the units on your bill.
-- [Gas Delivery Charge vs Supply Charge](/blog/gas-delivery-charge-vs-supply-charge/) — what you're paying for in each half.
+- [Gas Delivery Charge vs Supply Charge](/blog/12-how-to-read-your-gas-bill/) — what you're paying for in each half.
 - [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — how utilities pass through gas cost changes.
 - [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — line items beyond supply and delivery.
 - [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — that fixed monthly fee.
@@ -309,7 +313,7 @@ If your gas bill stays high in summer, the most likely culprits are your **gas w
 {{< /faq >}}
 
 {{< faq "Should I switch to electric heat?" >}}
-It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/gas-vs-electric-heating-cost-comparison/).
+It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/48-heat-pump-vs-gas-furnace-savings/).
 {{< /faq >}}
 
 {{< faq "How do I know if my furnace needs replacing?" >}}
@@ -348,5 +352,5 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 
 1. [U.S. Energy Information Administration: Use of natural gas](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php)
 2. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
-3. [U.S. Department of Energy: Duct sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
-4. [U.S. Department of Energy: Water heating](https://www.energy.gov/save/home-upgrades)
+3. [ENERGY STAR (U.S. EPA): Duct sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
+4. [U.S. Department of Energy: Water heating](https://www.energy.gov/energysaver/water-heating)

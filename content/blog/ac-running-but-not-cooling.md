@@ -143,6 +143,7 @@ image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_h
             </p>
 
 <h2 id="temp-check">A quick cooling check at the vent</h2>
+{{< visual src="/images/articles/ac-running-but-not-cooling/supply-return-airflow.webp" alt="Supply and return air temperatures compared on one thermometer scale: room air returns near 75 degrees while supply air should leave the vent near 55 degrees — a roughly 20-degree drop means the unit is cooling; little or no drop means it is not." >}}
 <p>
               You do not need special tools to confirm whether the system is doing
               any cooling. Place your hand near a supply vent. The air should feel

@@ -104,7 +104,7 @@ A dedicated walkthrough exists for nearly every line you will inventory. Map as 
 |---|---|
 | The whole bill, line by line (electric) | [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) |
 | Customer / monthly service charge | [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) |
-| Supply vs. delivery charges | [Delivery Charge vs. Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) · gas: [Gas Delivery vs. Supply](/blog/gas-delivery-charge-vs-supply-charge/) |
+| Supply vs. delivery charges | [Delivery Charge vs. Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) · gas: [Gas Delivery vs. Supply](/blog/12-how-to-read-your-gas-bill/) |
 | How usage, rate, and fees combine | [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/) |
 | kWh (electric usage) | [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) |
 | Therms or Ccf (gas/water usage) | [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) · [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/) |
@@ -138,6 +138,13 @@ The deeper point: on the electric statement, $164.88 of the total is usage × ra
 
 Contact the provider promptly about an unexplained meter status, payment discrepancy, duplicate-looking item, incorrect service date, or rate-plan question. Follow the provider's written billing-review process. Do not alter meters, utility equipment, or account records, and do not assume a charge is wrong until the provider or applicable authority confirms the calculation.
 
+The site's action layer picks up from here, by situation:
+
+- **You believe the bill is wrong** → [How to dispute a utility bill](/blog/how-to-dispute-utility-bill/) (the evidence-trail workflow, start to finish)
+- **Service is at risk or already off** → [Can your utility shut off service?](/blog/can-utility-shut-off-service/) (notice rules, protections, restore steps)
+- **Paying this bill is the problem** → [LIHEAP and utility assistance programs](/blog/utility-assistance-programs-liheap/) (eligibility, state programs, emergency help)
+- **The rate plan itself looks wrong** → [Which rate plan is right for me?](/blog/which-rate-plan-is-right-for-me/) (fixed vs variable vs time-of-use, decided by your usage pattern)
+
 ## Frequently asked questions
 
 {{< faq "Why does my bill show two meter readings?" >}}
@@ -166,7 +173,7 @@ It sits on the delivery side, as a flat monthly fee per meter that appears regar
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
 
-Supply is the charge for the energy or water itself; delivery is the charge for moving it to you across the wires, pipes, or mains. In regulated markets one utility bills both; in restructured markets they may come from different companies on the same statement. See [delivery charge vs. supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) and the gas-side split in [gas delivery vs. supply](/blog/gas-delivery-charge-vs-supply-charge/).
+Supply is the charge for the energy or water itself; delivery is the charge for moving it to you across the wires, pipes, or mains. In regulated markets one utility bills both; in restructured markets they may come from different companies on the same statement. See [delivery charge vs. supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) and the gas-side split in [gas delivery vs. supply](/blog/12-how-to-read-your-gas-bill/).
 
 {{< /faq >}}
 

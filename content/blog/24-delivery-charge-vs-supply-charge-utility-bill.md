@@ -62,7 +62,7 @@ Notice what the table does not show: no utility publishes one timeless "supply r
 
 Delivery is never shoppable — one grid serves your address, and the state sets the wires-and-pipes rates through rate cases. Supply is shoppable in retail-choice states: **Pennsylvania, New York, Texas, Ohio, Illinois, New Jersey, Maryland, and Massachusetts** are among the states where you can buy the generation part of your electricity from a licensed supplier while your utility still delivers it and still answers the outage call. Pennsylvania's official PUC shopping site, PAPowerSwitch, reports **1,429,674 Pennsylvanians have switched suppliers as of July 2026** [6]. If you live in one of the other states, the utility is the only seller of supply — nothing to shop for, and the utility's own supply prices apply.
 
-Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/gas-delivery-charge-vs-supply-charge/).
+Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/12-how-to-read-your-gas-bill/).
 
 ## A worked month: where 899 kWh goes
 

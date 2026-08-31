@@ -263,7 +263,7 @@ For broader utility cost management, visit our utility bills and costs guide. To
 <h3>System Comparisons</h3>
 <ul>
 <li><a href="/blog/ductless-mini-split-vs-central-air/">Ductless Mini-Split vs Central Air</a></li>
-<li><a href="/blog/gas-vs-electric-heating-cost-comparison/">Gas vs Electric Heating Cost</a></li>
+<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Gas vs Electric Heating Cost</a></li>
 <li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings</a></li>
 <li><a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/">Single-Stage vs Two-Stage vs Variable-Speed HVAC</a></li>
 </ul>

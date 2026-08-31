@@ -1,0 +1,27 @@
+{
+  "role": "twin_q",
+  "mission": "UNCORRELATED SPOT-CHECK of the wave-2 audit report FULL-CONTENT-SEO-AUDIT-2026-08-30.md (repo root). Sample 10 factual/verifiable statements from across the report's sections (Critical Issues, master-table rows, Rewrite Briefs, checklist) and re-derive each against ground truth: the repo's content/ files (grep), the wave-1 artifacts (.squad/SQ-065/wave1/*.md), and .squad/SQ-065/evidence-brief.md. Verdict each CONFIRMED / REFUTED / UNVERIFIED with the evidence line. Also judge: does the report faithfully represent the wave-1 evidence, or does it invent/embellish beyond it? Tag claims [OBSERVED]/[INFERENCE]/[GAP]. End with an overall verdict: APPROVE / FIX / REJECT the report as the mission deliverable. Write the full check to .squad/SQ-065/wave2-spotcheck.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "The report was synthesized by the lieutenant (GLM) from 8 wave-1 artifacts; you are the qwen second brain — your value is independence. Focus your 10 samples on load-bearing claims: the C1-C12 critical issues (e.g., duplicate sources: key line numbers, the $200-450 vs $164.88 arithmetic, dead-end pages, render bugs in aux-heat, 07's 10-vs-11 causes), 3 random master-table rows (do the ratings/actions match the per-seat artifacts?), and 1 rewrite brief (does the brief reflect the artifact's findings for that page?).",
+  "known_facts": [
+    "Report claims 114 master-table rows — Commander already mechanically verified: 114 rows present, all disk pages covered",
+    "Wave-1 artifacts are the ground truth for per-page ratings; repo content/ is ground truth for page facts",
+    "Claims verification (.squad/SQ-065/wave1/claims-verification.md) already adjudicated the 10 external claims — do not redo external checks, only internal-faithfulness"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave2-spotcheck.md"],
+    "notes": "grep with run_command; quote evidence lines."
+  },
+  "constraints": [
+    "READ-ONLY except your single artifact write to .squad/SQ-065/wave2-spotcheck.md",
+    "Every verdict carries quoted evidence (file:line or artifact quote)",
+    "Verdict discipline: end with APPROVE / FIX / REJECT"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave2-spotcheck.md exists with 10 sampled verdicts + faithfulness judgment + overall APPROVE/FIX/REJECT",
+    "Envelope carries: verdict counts, any REFUTED items in full, the overall verdict"
+  ]
+}

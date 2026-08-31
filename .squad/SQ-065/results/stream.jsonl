@@ -1,0 +1,13 @@
+{"packet": "7-twinq.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/07-twin_q.json", "agent": "twin_q", "status": "complete"}
+{"packet": "2-prospector.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/02-prospector.json", "agent": "prospector", "status": "complete"}
+{"packet": "1-lieutenant.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-lieutenant.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "4-mason.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/04-mason.json", "agent": "mason", "status": "partial"}
+{"packet": "3-tracer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/03-tracer.json", "agent": "tracer", "status": "complete"}
+{"packet": "9-lieutenant2-rescue-core.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-lieutenant-r2.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "5-cartographer.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/05-cartographer.json", "agent": "cartographer", "status": "complete"}
+{"packet": "10-prospector3-rescue-water.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-prospector.json", "agent": "prospector", "status": "partial"}
+{"packet": "6-verifier.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/06-verifier.json", "agent": "verifier", "status": "partial"}
+{"packet": "11-twinq2-claims.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-twin_q.json", "agent": "twin_q", "status": "complete"}
+{"packet": "8-prospector2-rescue.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-prospector-r2.json", "agent": "prospector", "status": "complete"}
+{"packet": "12-wave2-synthesis.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-lieutenant-r3.json", "agent": "lieutenant", "status": "complete"}
+{"packet": "13-wave2-spotcheck.json", "result_file": "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/results/01-twin_q-r2.json", "agent": "twin_q", "status": "complete"}

@@ -1,0 +1,164 @@
+exit_code: 0
+=== 11-understanding-kwh-usage.md ===
+5:date: 2026-03-15
+6:updated: 2026-08-29
+17:  - https://www.eia.gov/consumption/residential/data/2020/
+44:The table below lists the most common electric loads in a U.S. home. The figures are drawn from the EIA’s 2020 Residential Energy Consumption Survey (RECS) and DOE’s appliance-estimating resources. Actual usage for your specific unit depends on model, age, settings, and how often it runs.[3][4]
+51:| Refrigerator (20–22 cu ft, top-freezer, 2010–2020 vintage) | 500–750 | 1.4–2.1 kWh/day |
+63:At the national average residential rate of **18.34 cents per kWh** (EIA June 2026), the cost of running an appliance works out to:
+116:EIA’s published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA’s latest published average.[2]
+127:2. [U.S. Energy Information Administration FAQ: How Much Electricity Does an American Home Use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7) — 2022 residential-customer kWh context.
+128:3. [EIA Residential Energy Consumption Survey (RECS) 2020 — Consumption & Expenditures Tables CE5.3a/CE5.3b](https://www.eia.gov/consumption/residential/data/2020/) — detailed end-use electricity consumption averages.
+130:5. [EIA Electricity Monthly Update, June 2026](https://www.eia.gov/electricity/monthly/update/end-use.php) — residential average revenue per kWh figure of 18.34¢/kWh (retrieved 2026-08-28).
+=== 18-fuel-adjustment-charge-on-utility-bill-explained.md ===
+5:date: 2026-05-28
+7:updated: 2026-08-29
+16:  - https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf
+54:The direction can flip. On **April 30, 2025**, the Indiana Utility Regulatory Commission approved a NIPSCO fuel adjustment changing from a **credit of $0.001759/kWh** (February–April 2025 billing cycles) to a **charge of $0.001157/kWh** (May–July 2025 billing cycles), on an interim basis subject to refund.[4]
+116:1. [U.S. Department of Energy: Understanding Your Electricity Bills (PDF)](https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf)
+118:3. [Kentucky Public Service Commission: Fuel Adjustment Clause FAQs](https://psc.ky.gov/Home/FuelAdjustmentClause) (retrieved 2026-08-29)
+119:4. [Indiana Utility Regulatory Commission: Order in Cause No. 38706 (FAC 146), NIPSCO fuel cost adjustment, approved April 30, 2025 (PDF)](https://www.in.gov/iurc/files/ord_38706FAC146_043025.pdf) (retrieved 2026-08-29)
+=== 04-hidden-fees-utility-bill.md ===
+5:date: 2026-03-07
+6:updated: 2026-08-30
+15:  - https://www.eia.gov/electricity/data.php (retrieved 2026-08-29)
+16:  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
+17:  - https://www.energy.gov/sites/default/files/2018/09/f55/SEEA-rate-design.pdf (retrieved 2026-08-29)
+19:  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+20:  - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge (retrieved 2026-08-29)
+51:| **Taxes and franchise / local-government charges** | Federal, state, and local taxes on utility service; franchise fees paid to a city or county for the right to operate in that jurisdiction; gross-receipts taxes. Their names, rates, and legal basis vary by jurisdiction.[^4] | Either a percentage of another line (subtotal, delivery, or full bill) or a flat per-bill amount, depending on the local rule. May be lumped into a single "taxes" line or split into "state tax," "city tax," "franchise fee," "public utility tax." | Identify the jurisdiction by ZIP code or service address; ask the utility which tax authority each line pays. Con Edison documents that local property taxes on energy infrastructure total more than $3.2 billion for customers in 2026, and notes that most of this is embedded in delivery rather than listed separately.[^3] | [Taxes, fees, and franchise charges](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/) |
+90:2. [U.S. Department of Energy: Understanding Your Electricity Bills (PDF)](https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf)
+=== 01-how-to-read-your-electric-bill.md ===
+6:date: 2026-03-07
+7:updated: 2026-08-29
+15:  - https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php (retrieved 2026-08-29)
+16:  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+17:  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs (retrieved 2026-08-29)
+18:  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/contacting-your-utility-provider (retrieved 2026-08-29)
+19:  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+20:  - https://www.coned.com/en/accounts-billing/your-bill/time-of-use (retrieved 2026-08-29)
+57:For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
+=== drought-surcharge-on-water-bill-explained.md ===
+5:date: 2026-05-27
+6:updated: 2026-08-30
+37:| East Bay Municipal Utility District (CA) | Drought surcharge | Stage 2 drought emergency declared April 26 2022; 10% conservation mandate vs 2020 | 8% added to flow charges (volume of water used) | Historical — approved May 10 2022, effective July 1 2022; stayed until declaration lifted |
+38:| San Antonio Water System (TX) | High-use drought surcharge | Residential use above 20,000 gal/month in Stage 3; above 12,000 gal/month in Stage 4 | $10.37 per 1,000 gallons above the threshold | Active — effective for consumption on/after July 6 2024 |
+83:No. Austin returned to its Conservation Stage on September 2 2025 after Stage 2, and that stage carries no surcharge. [4] A stage can simply impose restrictions while rates remain at the regular tariff. Always check the specific stage and rate sheet.
+96:1. [San Antonio Water System: High-Use Drought Surcharge](https://www.saws.org/service/water-sewer-rates/high-use-drought-surcharge/) (retrieved 2026-08-29)
+97:2. [East Bay Municipal Utility District: EBMUD Approves 8 Percent Drought Surcharge](https://www.ebmud.com/about-us/news/press-releases/ebmud-approves-8-percent-drought-surcharge) (retrieved 2026-08-29)
+98:3. [Las Vegas Valley Water District: Excessive Use Charge FAQ](https://www.lvvwd.com/customer-service/pay-bill/euc-faq.html) (retrieved 2026-08-29)
+99:4. [Austin Water: Drought Response](https://www.austintexas.gov/water/austin-water-drought-response) (retrieved 2026-08-29)
+=== 45-whole-house-generator-vs-portable-cost.md ===
+5:date: 2026-05-30
+6:updated: 2026-08-29
+14:  - https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-of-Generator-Carbon-Monoxide-and-Fire-Hazards-Ahead-of-Hurricane-Season
+15:  - https://www.cpsc.gov/Newsroom/News-Releases/2024/As-Winter-Storms-Continue-CPSC-Urges-Families-to-Take-Steps-to-Prevent-Carbon-Monoxide-Poisoning-and-Fires
+17:  - https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators (retrieved 2026-08-29)
+18:  - https://azdcelectric.com/generator-interlock-kit-vs-transfer-switch/ (retrieved 2026-08-29)
+19:  - https://www.consumerreports.org/home-garden/generators/portable-vs-standby-generator-which-is-right-for-your-home-a1183970467/ (retrieved 2026-08-29)
+20:  - https://www.generac.com/resources/home-management/backup-generator-installation/ (retrieved 2026-08-29)
+21:  - https://norwall.com/categories/standby-generators/generac-guardian-generators/ (retrieved 2026-08-29)
+22:  - https://www.bobvila.com/exterior/portable-vs-standby-generators-for-home/ (retrieved 2026-08-29)
+35:One portable generator produces as much carbon monoxide as hundreds of cars; an average of nearly 100 U.S. deaths a year trace to portable-generator CO, the single largest share of consumer-product CO fatalities—roughly 40% by CPSC's count in its 2023 rulemaking.[2][4] CO is colorless and odorless, and CPSC's current placement language (May 2026) is the standard to hold yourself to:
+43:{{< product-box asin="B000Q5VMKG" name="First Alert CO615 Plug-In Carbon Monoxide Alarm" label="The alarm that guards the generator" description="Electrochemical sensor, plug-in with AA battery backup, backlit digital CO readout, UL 2034 listed, 7-year warranty (First Alert spec). CPSC's guidance — every level, outside sleeping areas — makes this the second half of any portable-generator purchase." button="Check price on Amazon" >}}
+147:1. [CPSC Release 26-519 (May 2026): generator CO hazards — outdoors only, at least 20 feet, exhaust away from openings](https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-of-Generator-Carbon-Monoxide-and-Fire-Hazards-Ahead-of-Hurricane-Season)
+148:2. [CPSC (2024): Winter storm CO prevention — "nearly 100 consumers die…each year" from portable-generator CO; battery CO alarms every level and outside sleeping areas](https://www.cpsc.gov/Newsroom/News-Releases/2024/As-Winter-Storms-Continue-CPSC-Urges-Families-to-Take-Steps-to-Prevent-Carbon-Monoxide-Poisoning-and-Fires)
+150:4. [Federal Register (Apr 2023): Safety Standard for Portable Generators — 1,332+ deaths reported; generators ≈ 40% of consumer-product CO deaths](https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators)
+=== 48-heat-pump-vs-gas-furnace-savings.md ===
+5:date: 2026-05-30
+6:updated: 2026-08-29
+14:  - https://www.ahrinet.org/2023-energy-efficiency-standards (retrieved 2026-08-29)
+16:  - https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-furnaces (retrieved 2026-08-29)
+17:  - https://www.energystar.gov/products/furnaces/key_product_criteria (retrieved 2026-08-29)
+18:  - https://neep.org/heating-electrification/ccashp-specification-product-list (retrieved 2026-08-29)
+19:  - https://www.mitsubishicomfort.com/articles/introducing-deluxe-wall-mounted-h2i-plus-system (retrieved 2026-08-29)
+20:  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03 (retrieved 2026-08-29)
+21:  - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm (retrieved 2026-08-29)
+22:  - https://www.eia.gov/outlooks/steo/report/winterfuels.php (retrieved 2026-08-29)
+23:  - https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit (retrieved 2026-08-29)
+24:  - https://www.trane.com/residential/en/pricing/pricing-guide/ (retrieved 2026-08-29)
+25:  - https://www.carrier.com/us/en/residential/hvac-resources/heat-pumps/how-much-does-a-heat-pump-cost/ (retrieved 2026-08-29)
+26:  - https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems (retrieved 2026-08-29)
+35:Two facts frame everything else. First, the federal 25C tax credit that paid 30% (up to $2,000) for heat pumps **ended for equipment placed in service after December 31, 2025**—any contractor or article still quoting it is working from stale information.[10] Second, whether a heat pump or a furnace is cheaper to run is decided by your local electricity-to-gas price ratio, not by the equipment labels: at January 2026 national averages a 96% furnace wins comfortably; at other regional ratios the heat pump wins. The formula is in "The Math That Decides It."
+47:| HSPF2 | Heat pumps (heating) | Heating output per watt-hour over the season | Federal minimum 7.5 (split systems, since 2023); ENERGY STAR requires 8.5 for cold-climate ductless[1] |
+51:The 2023 switch from HSPF/SEER to HSPF2/SEER2 reflects a stricter federal test procedure—ratings from before 2023 are not directly comparable to today's numbers.[1] New to these terms entirely? The site's [AFUE vs SEER vs HSPF vs COP explainer](/blog/afue-vs-seer-vs-hspf-vs-cop/) decodes all four.
+74:- **January 2026 U.S. averages:** electricity 17.45 ¢/kWh, natural gas ≈ $1.35/therm (EIA; ratio ≈ 12.9). Against a 96% AFUE furnace, a heat pump needs seasonal COP above 3.6 to win—**the furnace wins clearly**; a strong cold-climate unit only matches an old 80% furnace.[7][8]
+75:- **Recent monthly averages (electricity 18.34 ¢/kWh, June 2026; gas ≈ $1.92/therm, May 2026; ratio ≈ 9.6).** Against 95% AFUE, any heat pump above COP 2.67 wins.[7][8]
+83:EIA's Winter Fuels Outlook (October 2025 edition, winter 2025–26) forecast average U.S. heating-season expenditures: **natural gas $642** (−1% vs the prior winter), **electricity $1,133** (+4%), **heating oil $1,390** (−8%), **propane $1,210** (−9%). Natural gas heats 46% of U.S. homes; electricity was the only fuel forecast more expensive, as rising power prices offset heat-pump efficiency gains.[9] Note what that $642-vs-$1,133 gap is and is not: it compares *fuel bills across different homes and heating systems*, not a heat pump versus a furnace in your home—the ratio math above is the tool for that question.
+99:## Incentives: What Changed in 2025
+101:The 25C Energy Efficient Home Improvement Credit (30%, up to $2,000/year for heat pumps; $1,200 for most other items) **is not available for property placed in service after December 31, 2025**, under the July 2025 federal tax law; the solar/geothermal 25D credit ended on the same date.[10] What remains in 2026:
+150:There is no national answer—there is a local one. Divide your electric ¢/kWh by your gas $/therm; if that ratio is below 3.41 × COP ÷ AFUE for your candidate equipment, the heat pump is cheaper per unit of heat, and vice versa. At January 2026 national averages the 96% furnace wins; in cheap-electricity regions the heat pump does. The formula section above walks the arithmetic.[7][8]
+154:No. The 25C credit (30% up to $2,000) does not apply to equipment placed in service after December 31, 2025, under the 2025 federal tax law. State Home Energy Rebate programs and utility rebates continue where administered—verify current terms with the program administrator. Pages still quoting the credit as live are out of date.[10]
+165:1. [AHRI: 2023 Energy Efficiency Standards (SEER2/HSPF2 minimums and the test-procedure change)](https://www.ahrinet.org/2023-energy-efficiency-standards)
+171:7. [EIA: Electric Power Monthly Table 5.3 (June 2026: 18.34 ¢/kWh residential average; monthly series)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
+172:8. [EIA: Natural Gas Prices (May 2026: $19.83/Mcf residential; winter-month series)](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm)
+173:9. [EIA: Winter Fuels Outlook, October 2025 (winter 2025–26 expenditures by fuel)](https://www.eia.gov/outlooks/steo/report/winterfuels.php)
+174:10. [IRS: Energy Efficient Home Improvement Credit and FAQs on 25C/25D termination after 12/31/2025 (Public Law 119-21)](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit)
+=== net-metering-explained.md ===
+5:date: 2026-08-10
+6:updated: 2026-08-30
+14:  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf (retrieved 2026-08-29)
+15:  - https://www.energy.gov/cmei/systems/homeowners-guide-solar (retrieved 2026-08-29)
+16:  - https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing (retrieved 2026-08-29)
+17:  - https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing (retrieved 2026-08-29)
+71:In 2023, California moved most new customers to the Net Billing Tariff (often called “NEM 3.0”). Unlike NEM 2.0, the Net Billing Tariff does not credit exports at the retail rate. Instead, Southern California Edison (SCE) explains that export credits “reflect the electricity's value to the electric grid during each hour of the day,” with prices set from the CPUC Avoided Cost Calculator as of January 1 of the calculation year.[3]
+75:One piece of structure does give California customers a degree of certainty: SCE confirms that Net Billing Tariff vintages 2023 through 2026 “have fixed prices for 9 years” from interconnection. After that period, export prices may reset.[3] That 9-year lock is the one planning certainty in the structure, though it does not fix imported-energy rates, fixed charges, or other bill items.
+=== how-to-lower-electric-bill-without-solar.md ===
+5:date: 2025-12-25
+6:updated: 2026-08-30
+15:  - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+17:  - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
+18:  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+19:  - https://www.eia.gov/energyexplained/use-of-energy/homes.php (retrieved 2026-08-29)
+20:  - https://www.eia.gov/tools/faqs/faq.php?id=97 (retrieved 2026-08-29)
+21:  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
+22:  - https://www.epa.gov/watersense/showerheads (retrieved 2026-08-29)
+23:  - https://www.energystar.gov/products/dishwashers (retrieved 2026-08-29)
+28:**Work down the biggest verified levers in order: heating and cooling, water heating, then small always-on loads — before considering solar.** The average U.S. home used 899 kWh per month (2023) and paid about $144 a month (2024).[1][2] DOE says a home energy assessment comes before any improvement, and its highest-documented single measure is a 7–10°F thermostat setback for 8 hours a day — up to 10% off heating and cooling costs per year.[3]
+34:In U.S. homes, **space heating and air conditioning account for about 52% of energy use**, and water heating takes nearly 20% — DOE's figure.[3][4] Nationally, that's the 899 kWh/month the average household uses, at an average residential price of 18.34¢ per kWh (June 2026).[1][2][5]
+63:- **Time-of-use plans** reward shifting laundry, dishwashing, and EV charging off-peak — real 2026 tariff examples in [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/) and [How to Review a Time-of-Use Electricity Plan](/blog/08-time-of-use-electricity/).
+77:1. [EIA FAQ: What is the average electricity consumption of U.S. homes?](https://www.eia.gov/tools/faqs/faq.php?id=97) — 899 kWh/month average (2023), retrieved 2026-08-29
+78:2. [EIA Today in Energy: Average U.S. household electric bills in 2024](https://www.eia.gov/todayinenergy/detail.php?id=65244) — ~$144/month (2024), retrieved 2026-08-29
+79:3. [U.S. Department of Energy: Save on Home Upgrades](https://www.energy.gov/save/home-upgrades) — assessment-first guidance; 7–10°F setback for 8h/day up to 10%/yr; water heating nearly 20% of home energy, retrieved 2026-08-29
+80:4. [EIA Energy Explained: Use of Energy in Homes](https://www.eia.gov/energyexplained/use-of-energy/homes.php) — heating + cooling ~52% of home energy use (RECS 2020), retrieved 2026-08-29
+81:5. [EIA Electricity Monthly Update](https://www.eia.gov/electricity/monthly/update/end-use.php) — 18.34¢/kWh average residential price (June 2026), retrieved 2026-08-29
+82:6. [ENERGY STAR: Duct Sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing) — "about 20 to 30 percent of the air that moves through the duct system is lost," retrieved 2026-08-29
+83:7. [EPA WaterSense: Showerheads](https://www.epa.gov/watersense/showerheads) — ~330 kWh/yr average water-heating savings, retrieved 2026-08-29
+84:8. [ENERGY STAR: Heat & Cool Efficiently](https://www.energystar.gov/saveathome/heating-cooling) — filter maintenance and yearly tune-up guidance, retrieved 2026-08-29
+85:9. [ENERGY STAR: Dishwashers](https://www.energystar.gov/products/dishwashers) — certified standard-size models "cost about $50 per year to run," retrieved 2026-08-29
+86:10. [U.S. Department of Energy: Energy Savings Hub](https://www.energy.gov/save) — Home Energy Rebates administered by states/territories/Tribes, retrieved 2026-08-29
+=== electric-bill-breakdown-understanding-line-items.md ===
+5:date: 2025-12-25
+6:updated: 2026-08-29
+14:  - https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php (retrieved 2026-08-29)
+15:  - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
+16:  - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
+17:  - https://www.cpuc.ca.gov/consumer-support/file-a-complaint/utility-complaint/cab-faqs (retrieved 2026-08-29)
+22:Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at 18.34¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+26:*Source note for the figures above: the residential averages (17.30¢ for 2025, 18.34¢ for June 2026) come from EIA Electric Power Monthly data; verify the current release at eia.gov. For the same 2025 data, EIA also reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh).*
+51:For context on typical usage, EIA reports that in 2022 the average annual electricity purchased by a U.S. residential electric-utility customer was 10,791 kWh, or about 899 kWh per month. Average purchases varied widely by state that year, from 6,178 kWh in Hawaii to 14,774 kWh in Louisiana.[2] Your own prior bills are more useful than any national average.
+63:To see the arithmetic, you can apply EIA's reported figures: at the 2025 residential annual average of 17.30¢ per kWh,[1] a month of usage at the 2022 national average of 899 kWh[2] would come to roughly $155 for the supply portion alone. Your actual rate comes from your bill and rate plan, not from a national average.
+210:1. [U.S. Energy Information Administration: Factors affecting electricity prices](https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php) — price components and 2025 average retail prices by customer class.
+211:2. [U.S. Energy Information Administration: How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=7) — 2022 average residential purchases, national and by state.
+=== ductless-mini-split-vs-central-air.md ===
+5:date: 2025-12-25
+6:updated: 2026-08-29
+14:  - https://www.ecfr.gov/current/title-10/chapter-II/subchapter-D/part-430/subpart-C/section-430.32 (retrieved 2026-08-29)
+15:  - https://www.energystar.gov/products/air_source_heat_pumps/key-product-criteria (retrieved 2026-08-29)
+16:  - https://data.energystar.gov/resource/w7cv-9xjt.json (retrieved 2026-08-29)
+17:  - https://www.energystar.gov/saveathome/heating-cooling/duct-sealing (retrieved 2026-08-29)
+18:  - https://www.energystar.gov/products/ductless_heating_cooling (retrieved 2026-08-29)
+19:  - https://neep.org/heating-electrification/ccashp-specification-product-list (retrieved 2026-08-29)
+20:  - https://www.masssave.com/residential/rebates-offers-services/heating-and-cooling/heat-pumps/air-source-heat-pumps (retrieved 2026-08-29)
+21:  - https://www.energystar.gov/about/federal-tax-credits/air-source-heat-pumps (retrieved 2026-08-29)
+22:  - https://www.nbpower.com/en/save-energy/tips/heating-and-cooling/heat-pump-maintenance/ (retrieved 2026-08-29)
+23:  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/ductless_minisplit_hp.pdf (retrieved 2026-08-29)
+24:  - https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/strategy_guide_hvac_sizing.pdf (retrieved 2026-08-29)
+33:Three verified numbers should anchor any comparison: since 2023 the federal minimum for split-system heat pumps (mini-splits included) is **14.3 SEER2 / 7.5 HSPF2**, while new central AC split systems must meet **13.4 SEER2** (14.3 to install in the Southeast/Southwest)[1]; among ENERGY STAR-certified models, the ductless efficiency ceiling reaches **35.1 SEER2 versus 25.0 for ducted splits** in the same dataset[3]; and ENERGY STAR reports that in a typical house **about 20 to 30 percent of the air moving through ducts is lost to leaks, holes, and poorly connected ducts**—a loss ductless systems do not carry.[4]
+53:| Federal minimum since 2023 | 14.3 SEER2 / 7.5 HSPF2 | 13.4 SEER2 (14.3 to install in Southeast/Southwest) | DOE test procedure, eCFR[1] |
+66:EIA's nationwide context: 88% of U.S. households used air conditioning in 2020, and cooling accounted for about 19% of residential electricity use—so duct losses are a structural cost, not an edge case.[8]
+84:- **One statewide program's real average:** Massachusetts' Mass Save program reports an average installed cost of about **$22,000 for whole-home air-source heat pump projects** (2022 program data), before rebates of up to $8,500 (standard) or $16,000 (income-qualified)—net roughly $13,500 or $6,000 for participating Massachusetts homes.[7]
+85:- **The federal tax credit ended:** the 25C credit (30% up to $2,000 for heat pumps) no longer applies to equipment placed in service after December 31, 2025, under the 2025 federal tax law—and some manufacturer and efficiency pages still cite it as live.[11] What remains are state-administered rebate programs (up to $8,000 income-capped for heat pumps where a state runs them) and utility rebates; verify any program against its administrator before counting it in your payback math.
+159:3. [ENERGY STAR Certified Products dataset — air-source heat pumps (queried 2026-08-29)](https://data.energystar.gov/resource/w7cv-9xjt.json)
+164:8. [U.S. Energy Information Administration: RECS 2020 air-conditioning use and share of residential electricity](https://www.eia.gov/tools/faqs/faq.php?id=1174&t=1)
+167:11. [IRS: FAQs on modification of Sections 25C/25D under Public Law 119-21 (25C credit ends for property placed in service after 12/31/2025)](https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb)

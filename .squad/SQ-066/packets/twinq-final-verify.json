@@ -1,0 +1,28 @@
+{
+  "role": "twin_q",
+  "mission": "SQ-066 FINAL VERIFICATION: uncorrelated spot-check of the executed audit remediations. Sample 12 verifiable changes from the SQ-066 work and re-derive each against the repo (grep/read) and the audit's original findings (.squad/SQ-065/FULL-CONTENT-SEO-AUDIT-2026-08-30.md §9 checklist). Verify: (1) blanket claim now 4–9% on 05/07/guide with no ~25% remnant; (2) 07-gas: title says 11 Causes, heating share 40–45% w/ EIA RECS, payback rows cite the ~23y worked example, sources 3/4 fixed; (3) guide: single sources: block, non-additivity note present, phantom tables agree at 17¢; (4) aux-heat: no truncated <h2> tags remain; (5) 28: no 'verified via state PUC dockets' claim remains; (6) dead ends: net-metering, ev-charging, water-service-charge, sewer-averaging, single-stage all have outbound internal links now; (7) apex hub complete-guide-understanding links dispute/shutoff/LIHEAP/rate-plan; (8) merges: gas-delivery-charge-vs-supply-charge.md and gas-vs-electric-heating-cost-comparison.md and what-is-a-kilowatt-hour.md GONE from content/blog with aliases on 12/48/11 respectively and no live inbound linking the deleted slugs; (9) content/lower-your-bills.md hub exists with 14 spoke links; (10) blog index counts match hub libraries; (11) metrics tool counts HTML headings/links + ref shortcodes; (12) no NEW contradictions introduced on edited pages (sample 07 and the guide end-to-end). Verdict each CONFIRMED/REFUTED with evidence; end APPROVE/FIX/REJECT on the remediation as a whole. Write to .squad/SQ-066/final-verification.md.",
+  "parent_objective": "SQ-066: Execute all SQ-065 audit remediations",
+  "context": "You are the qwen second brain verifying GLM-lieutenant + Commander edits. Ground truth: the repo itself (grep, read), NOT the workers' claims. The audit checklist (report §9 items 1-19) is the spec. Changed files cluster: content/blog/{05,07,28,03,30,49,16,09,11,12,48,afue,heat-pump-running,net-metering,which-rate-plan,aux-heat,sewer-averaging,single-stage,water-service-charge,duct-leaks?,complete-guide×2,how-to-dispute,utility-assistance,why-did,rates-fees,point-sensor,44}.md, content/{gas,water,electricity,utility-bills-costs}-explained.md, content/lower-your-bills.md, content/{utilities-glossary,corrections,blog/_index}.md, scripts/content_quality_metrics.py, layouts untouched.",
+  "known_facts": [
+    "Deleted pages: gas-delivery-charge-vs-supply-charge, gas-vs-electric-heating-cost-comparison, what-is-a-kilowatt-hour (aliases live on 12/48/11)",
+    "New page: content/lower-your-bills.md (Savings hub)",
+    "Metrics tooling now counts HTML headings/links + ref shortcodes",
+    "The three truncated-tag/render defects and the duplicate sources: key were Commander-fixed directly"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-066/final-verification.md"],
+    "notes": "grep with run_command; quote evidence. Verdict discipline: APPROVE/FIX/REJECT."
+  },
+  "constraints": [
+    "READ-ONLY except your artifact write",
+    "Every verdict carries quoted evidence",
+    "If a sampled check fails, REFUTED with the exact remnant"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-066/final-verification.md exists with 12 verdicts + overall verdict",
+    "Envelope carries verdict counts and any REFUTED items in full"
+  ]
+}

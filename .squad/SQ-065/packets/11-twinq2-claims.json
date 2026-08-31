@@ -1,0 +1,28 @@
+{
+  "role": "twin_q",
+  "mission": "REDUCED verifier rescue (the verifier seat died in generation collapse after its sitemap+metrics work; you inherit ONLY the claim re-derivation). Verify 10 high-stakes numeric/factual claims from utilityexplained.com against PRIMARY sources via web_search/web_fetch, verdict CONFIRMED/REFUTED/UNVERIFIED each, with URL + retrieved date (2026-08-30). Claim list in context. Also give ONE paragraph: rendered-vs-source sanity — fetch https://utilityexplained.com/blog/do-home-energy-monitors-save-money/ and https://utilityexplained.com/blog/which-rate-plan-is-right-for-me/ live and confirm title/meta/figures render (or flag). Tag every claim [OBSERVED]/[INFERENCE]/[GAP]. Write the verdict table to .squad/SQ-065/wave1/claims-verification.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md sections 'Credibility and trust' + 'Freshness and maintenance'. The 10 claims (from wave-1 lieutenant/prospector findings — these are load-bearing): (1) EIA national average residential electricity price 18.34¢/kWh (June 2026 Table 5.3) — used on ≥5 pages; (2) EIA average residential usage 899 kWh/month — used on 4 pages; (3) national average electric bill $164.88/month (how-to-lower-electric-bill-complete-guide) — and whether that figure is internally consistent with 18.34¢ × 899; (4) EPA WaterSense: household leaks waste ~9,400 gallons/year (06-water-bill-too-high) vs '10,000+' vs '9,300' (point-sensor page) — which is right and are the variants defensible; (5) water-heater blanket savings claims: ~25% (05) vs 5-10% (07) vs 4-7% (guide) — what does DOE/Energy Star actually support; (6) CPSC: portable generators cause ~100 US deaths/year, ~40% of consumer-product CO fatalities (45-generator cites 2023 Federal Register + 2024 CPSC); (7) heating share of gas use: 40-50% vs 60-70% contradiction on 07-gas-bill-too-high — what do EIA/AGA figures support; (8) 28-utility-reconnection-fee 'typical $50-$150' fee table claiming PUC-docket verification with no URL — can ANY state reconnection fee ranges be confirmed from public tariffs; (9) NIPSCO FAC credit $0.001759/kWh -> charge $0.001157/kWh (Indiana URC Cause 38706, Apr 30 2025 — cited with in.gov PDF URL on 18-fuel-adjustment) — does the cited PDF exist and match; (10) thermostat setback savings 'up to 1% per degree per 8h' (DOE) as cited on do-programmable-thermostats. Verdict vocabulary: CONFIRMED/REFUTED/UNVERIFIED. EIA, EPA WaterSense, CPSC, Federal Register, state PUC/tariff pages are primary.",
+  "known_facts": [
+    "The verifier seat already CONFIRMED: production sitemap healthy (121 URLs, live-fetched); metrics script deterministic (byte-identical rerun)",
+    "Wave-1 grep-verified internal contradictions are real (the numbers appear on the pages as stated) — your job is the EXTERNAL check against primary sources",
+    "Site's citation convention includes retrieval dates; corrections.md logs two real corrections (ConEd TOU rates, DOE heat-pump 'up to 50%'->'approximately 65%')"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/claims-verification.md"],
+    "notes": "web_search + web_fetch are your evidence tools; cap ~12 fetches. Never cite a fetch you did not make."
+  },
+  "constraints": [
+    "READ-ONLY audit: your ONLY write is .squad/SQ-065/wave1/claims-verification.md",
+    "Every verdict carries URL + retrieved date; every claim tagged [OBSERVED]/[INFERENCE]/[GAP]",
+    "If a primary source is paywalled/unreachable, verdict is UNVERIFIED with the GAP named — do not guess"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/claims-verification.md exists with 10 verdicts (CONFIRMED/REFUTED/UNVERIFIED), each with URL + retrieved date + one-line evidence",
+    "Envelope carries: verdict counts, the REFUTED list in full, the rendered-vs-source sanity paragraph",
+    "Zero unrun citations"
+  ]
+}

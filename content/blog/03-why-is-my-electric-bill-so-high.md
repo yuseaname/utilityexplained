@@ -87,7 +87,7 @@ More hot-water use can raise electricity use. Compare the period with changes in
 
 ### Lighting, appliances, and electronics
 
-Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions — a failing appliance typically runs far longer than its normal duty cycle, so a refrigerator that never goes quiet across a 24-hour plug-in-meter reading, or daily usage data that steps up and never steps back down, is the signal. If a portable space heater is a regular part of that list, the model matters — our [best energy-efficient space heater roundup](/blog/42-best-energy-efficient-space-heater/) compares units that deliver the same heat for fewer kWh.
+Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions — a failing appliance typically runs far longer than its normal duty cycle, so a refrigerator that never goes quiet across a 24-hour plug-in-meter reading, or daily usage data that steps up and never steps back down, is the signal. If a portable space heater is a regular part of that list, the honest answer is that every 1,500 W plug-in heater costs the same per hour to run — what differs is comfort delivery and safety; our [space heater guide](/blog/42-best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math and what actually helps.
 
 ENERGY STAR reports that LED lighting products produce light up to 90% more efficiently than incandescent light bulbs.[7] Their bill impact depends on the number of bulbs and hours of use.
 
@@ -108,6 +108,12 @@ Do not withhold payment or assume a charge is incorrect before confirming the ut
 Contact the utility if you do not understand the billing period, usage, rate, or charges; the bill identifies an estimated read — the tells are a reading-type notation marked estimated (sometimes "E" or "EST"), a billing period longer than the prior month's, or a usage bar that breaks the 13-month pattern on the statement; or the meter information and bill do not appear to align. Ask whether the read was actual or estimated, how charges were calculated, and which tariff provision applies.
 
 Contact a qualified electrician for repeated breaker trips, hot outlets or cords, burning smells, damaged wiring, flickering lights, or another electrical-safety concern. Contact qualified HVAC or water-heating help when equipment runs unusually often, does not maintain the set temperature, or has performance or leak concerns.
+
+Where the conversation goes next, by outcome:
+
+- The utility confirms an error or won't explain a charge → [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/), step by step
+- Payment is the real problem, or a shutoff notice has arrived → [can your utility shut off service?](/blog/can-utility-shut-off-service/) and [LIHEAP assistance programs](/blog/utility-assistance-programs-liheap/)
+- The bill is right but the *rate* is wrong for your usage → [which rate plan is right for me?](/blog/which-rate-plan-is-right-for-me/)
 
 ## Action Checklist
 

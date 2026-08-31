@@ -257,8 +257,7 @@ For broader utility budgeting advice, visit our utility bills and costs guide. T
 <li><a href="/blog/how-sewer-charges-work-on-your-water-bill/">How Sewer Charges Work on Your Water Bill</a></li>
 <li><a href="/blog/sewer-averaging-water-bill-explained/">Sewer Averaging Explained</a></li>
 <li><a href="/blog/water-service-charge-explained/">Water Service Charge Explained</a></li>
-<li><a href="/blog/stormwater-fee-on-water-bill-explained/">Stormwater Fee on Your Water Bill</a></li>
-<li><a href="/blog/drought-surcharge-on-water-bill-explained/">Drought Surcharge Explained</a></li>
+<KEEP>-on-water-bill-explained/">Drought Surcharge Explained</a></li>
 <li><a href="/blog/tiered-water-rates-explained/">Tiered Water Rates Explained</a></li>
 </ul>
 
@@ -282,4 +281,5 @@ For broader utility budgeting advice, visit our utility bills and costs guide. T
 <ul>
 <li><a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
 <li><a href="/blog/average-water-usage-per-person/">Average Water Usage Per Person</a></li>
+<li><a href="/blog/drought-surcharge-on-water-bill-explained/">Drought Surcharges on Your Water Bill</a></li>
 </ul>

@@ -1,0 +1,1121 @@
+exit_code: 0
+TOTAL_BLOCKS=439
+FAILURES=372
+FILE: about/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Why Utility Explained exists, who it\\\\u0026#39;s for, and how it\\\\u0026#39;s different.\\",\\"headline\\":\\"About\\",\\"mainEnt'
+---
+FILE: author/david-chen/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"David Chen is a RESNET-certified home energy auditor who has evaluated over 2,000 homes for efficiency and helped families'
+---
+FILE: author/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/author/\\",\\"name\\":\\"Our Expert Authors\\",\\"po'
+---
+FILE: author/marcia-washington/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Marcia Washington is a certified financial counselor specializing in household utility budgeting, with 10 years helping fa'
+---
+FILE: author/margaret-harrington/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Margaret Harrington is a former utility company billing specialist with 12 years of experience deciphering electricity, ga'
+---
+FILE: author/roberto-mendoza/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Roberto Mendoza is a licensed master HVAC technician with 20 years of field experience diagnosing and fixing heating and c'
+---
+FILE: author/tanya-patterson/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Tanya Patterson is an investigative consumer reporter who has spent 8 years exposing utility overcharging, hidden fees, an'
+---
+FILE: blog/01-how-to-read-your-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Your electric bill h'
+---
+FILE: blog/02-average-utility-costs-2026/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Costs\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"The average US household spe'
+---
+FILE: blog/03-why-is-my-electric-bill-so-high/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Your electric bill s'
+---
+FILE: blog/04-hidden-fees-utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Your quoted rate isn\\\\u0026#39;'
+---
+FILE: blog/05-how-to-lower-utility-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Savings\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Cut your utility bills by 20-40% '
+---
+FILE: blog/06-water-bill-too-high/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Step-by-step trouble'
+---
+FILE: blog/07-gas-bill-too-high/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Troubleshoot a high '
+---
+FILE: blog/08-time-of-use-electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Rates \\\\u0026 Plans\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Learn how ti'
+---
+FILE: blog/09-apartment-utilities-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Budgeting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Complete guide to apartm'
+---
+FILE: blog/10-fixed-vs-variable-utility-rate/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Rates \\\\u0026 Plans\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-03-07 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-07T00:00:00+00:00\\",\\"description\\":\\"Compare fixe'
+---
+FILE: blog/11-understanding-kwh-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-03-15 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-15T00:00:00+00:00\\",\\"description\\":\\"Learn what a kWh act'
+---
+FILE: blog/12-how-to-read-your-gas-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-03-16 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-03-16T00:00:00+00:00\\",\\"description\\":\\"Confused by your natural gas'
+---
+FILE: blog/13-ac-short-cycling-causes-fixes/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"HVAC\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"AC short cycling wastes energy '
+---
+FILE: blog/14-estimated-utility-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Billing\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Why does your utility bi'
+---
+FILE: blog/15-why-utility-bill-higher-same-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Same kWh usage but a'
+---
+FILE: blog/16-budget-billing-level-pay-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Rates \\\\u0026 Plans\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Tired of uti'
+---
+FILE: blog/17-what-is-customer-charge-on-utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"That $10 to $25 \\\\u0026#39;cust'
+---
+FILE: blog/18-fuel-adjustment-charge-on-utility-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Your electricity bill has a fue'
+---
+FILE: blog/19-utility-bill-surcharges-and-riders-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Surcharges and riders add $5 to'
+---
+FILE: blog/20-utility-bill-proration-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Billing\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Moving in or out mid-mon'
+---
+FILE: blog/2026-utility-cost-index-by-state/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Costs\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Original research: Average'
+---
+FILE: blog/21-past-due-balance-utility-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"A past due balance o'
+---
+FILE: blog/22-minimum-bill-utility-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Understand why your utility bil'
+---
+FILE: blog/23-utility-billing-cycle-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Billing\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Learn how utility billin'
+---
+FILE: blog/24-delivery-charge-vs-supply-charge-utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Costs\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Delivery charge and supply c'
+---
+FILE: blog/25-utility-bill-taxes-fees-franchise-charges-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Your utility bill includes more'
+---
+FILE: blog/26-utility-deposit-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Find out how much utility depos'
+---
+FILE: blog/27-utility-connection-fee-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Fees\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Utility connection fees range f'
+---
+FILE: blog/28-utility-reconnection-fee-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Your utility service'
+---
+FILE: blog/30-sudden-spike-in-electricity-bill-no-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Troubleshooting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Tanya Patterson\\"},\\"dateModified\\":\\"2026-05-28 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-28T00:00:00+00:00\\",\\"description\\":\\"Your electricity bil'
+---
+FILE: blog/41-how-to-read-electricity-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Stop overpaying on y'
+---
+FILE: blog/42-best-energy-efficient-space-heater/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Find the best energy efficie'
+---
+FILE: blog/43-understand-natural-gas-bill-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Decode your natural gas bill'
+---
+FILE: blog/44-how-to-lower-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Discover proven strategies'
+---
+FILE: blog/45-whole-house-generator-vs-portable-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Backup Power\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Compare the true costs '
+---
+FILE: blog/46-what-time-is-electricity-cheapest/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Save on your electri'
+---
+FILE: blog/47-check-energy-leaks-home-diy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Stop wasting money on heatin'
+---
+FILE: blog/48-heat-pump-vs-gas-furnace-savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Compare heat pump and gas fu'
+---
+FILE: blog/49-demand-charges-electricity-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Understand demand ch'
+---
+FILE: blog/50-best-smart-plugs-standby-power/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Energy Efficiency\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2026-05-30 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-30T00:00:00+00:00\\",\\"description\\":\\"Stop vampire energy dra'
+---
+FILE: blog/7-states-with-worst-utility-spikes-2026/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Utility Bills\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-29 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-29T00:00:00+00:00\\",\\"description\\":\\"Learn everything a'
+---
+FILE: blog/ac-running-but-not-cooling/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"If your air '
+---
+FILE: blog/afue-vs-seer-vs-hspf-vs-cop/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"HVAC ratings'
+---
+FILE: blog/aux-heat-vs-emergency-heat-meaning/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"If your ther'
+---
+FILE: blog/average-utility-bills-by-state-2026/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Utility Bills\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-29 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-29T00:00:00+00:00\\",\\"description\\":\\"Learn everything a'
+---
+FILE: blog/average-water-usage-per-person/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"See typical water usage ra'
+---
+FILE: blog/category/backup-power/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/backup-power/\\",\\"name\\":\\"Backu'
+---
+FILE: blog/category/billing/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/billing/\\",\\"name\\":\\"Billing\\",'
+---
+FILE: blog/category/budgeting/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/budgeting/\\",\\"name\\":\\"Budgetin'
+---
+FILE: blog/category/comparisons/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/comparisons/\\",\\"name\\":\\"Compar'
+---
+FILE: blog/category/costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/costs/\\",\\"name\\":\\"Costs\\",\\"po'
+---
+FILE: blog/category/electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/electricity/\\",\\"name\\":\\"Electr'
+---
+FILE: blog/category/electricity/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/electricity/\\",\\"name\\":\\"Electr'
+---
+FILE: blog/category/electricity/page/3/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/electricity/\\",\\"name\\":\\"Electr'
+---
+FILE: blog/category/energy-efficiency/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/energy-efficiency/\\",\\"name\\":\\"'
+---
+FILE: blog/category/fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/fees/\\",\\"name\\":\\"Fees\\",\\"posi'
+---
+FILE: blog/category/gas/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/gas/\\",\\"name\\":\\"Gas\\",\\"positi'
+---
+FILE: blog/category/heating/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/heating/\\",\\"name\\":\\"Heating\\",'
+---
+FILE: blog/category/heating-cooling/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/heating-cooling/\\",\\"name\\":\\"He'
+---
+FILE: blog/category/hvac/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/hvac/\\",\\"name\\":\\"HVAC\\",\\"posi'
+---
+FILE: blog/category/rates-plans/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/rates-plans/\\",\\"name\\":\\"Rates '
+---
+FILE: blog/category/savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/savings/\\",\\"name\\":\\"Savings\\",'
+---
+FILE: blog/category/troubleshooting/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/troubleshooting/\\",\\"name\\":\\"Tr'
+---
+FILE: blog/category/utility-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/utility-bills/\\",\\"name\\":\\"Util'
+---
+FILE: blog/category/water/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/water/\\",\\"name\\":\\"Water\\",\\"po'
+---
+FILE: blog/category/water/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/category/water/\\",\\"name\\":\\"Water\\",\\"po'
+---
+FILE: blog/complete-guide-understanding-utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Billing\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"The comprehensive guide '
+---
+FILE: blog/demand-charge-electric-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"A demand charge is b'
+---
+FILE: blog/drought-surcharge-on-water-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Seeing a drought surcharge'
+---
+FILE: blog/duct-leaks-symptoms-hvac-running-all-day/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Uneven tempe'
+---
+FILE: blog/ductless-mini-split-vs-central-air/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Trying to ch'
+---
+FILE: blog/electric-bill-breakdown-understanding-line-items/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Confused by your bil'
+---
+FILE: blog/ev-charging-impact-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"The math of EV charging costs'
+---
+FILE: blog/fixed-vs-variable-rate-electricity-plan/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"Confused by electric'
+---
+FILE: blog/gas-customer-charge-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"That monthly customer or bas'
+---
+FILE: blog/gas-delivery-charge-vs-supply-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Your gas bill splits costs i'
+---
+FILE: blog/gas-vs-electric-heating-cost-comparison/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Comparisons\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Compare gas and electric heat'
+---
+FILE: blog/heat-pump-running-all-day-in-winter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"Heat pumps r'
+---
+FILE: blog/how-do-smart-meters-work/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Smart meters are rep'
+---
+FILE: blog/how-sewer-charges-work-on-your-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Sewer charges pay to colle'
+---
+FILE: blog/how-to-budget-for-utilities-in-your-first-apartment/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Budgeting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"A simple budgeting guide'
+---
+FILE: blog/how-to-lower-electric-bill-complete-guide/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Energy Efficiency\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"20+ proven ways to lowe'
+---
+FILE: blog/how-to-lower-electric-bill-without-solar/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"You do not need sola'
+---
+FILE: blog/how-to-read-a-water-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"A step-by-step guide to re'
+---
+FILE: blog/how-to-read-electric-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Confused by the dial'
+---
+FILE: blog/how-to-read-gas-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Dial meters, digital meters,'
+---
+FILE: blog/how-to-read-your-utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Utility Bills\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-29 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-29T00:00:00+00:00\\",\\"description\\":\\"Learn what every l'
+---
+FILE: blog/how-utility-rates-fees-usage-work-together/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Budgeting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-01-15 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-01-15T00:00:00+00:00\\",\\"description\\":\\"A plain-English model of'
+---
+FILE: blog/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/is-your-toilet-running-leak-test/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Running toilets are one of'
+---
+FILE: blog/mcf-vs-ccf-vs-therms-on-gas-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"MCF, CCF, therms — your gas '
+---
+FILE: blog/net-metering-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"David Chen\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"How net metering works, how i'
+---
+FILE: blog/page/10/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/3/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/4/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/5/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/6/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/7/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/8/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/page/9/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/blog/\\",\\"name\\":\\"Blog\\",\\"position\\":2}]}]"'
+---
+FILE: blog/phantom-power-draw-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Phantom power costs '
+---
+FILE: blog/sewer-averaging-water-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"Sewer charges often use a '
+---
+FILE: blog/single-stage-vs-two-stage-vs-variable-speed-hvac/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Single-stage'
+---
+FILE: blog/stormwater-fee-on-water-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Most people don\\\\u0026#39;'
+---
+FILE: blog/supply-vs-delivery-charges-electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Your electric bill u'
+---
+FILE: blog/tiered-electricity-rates-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Tiered rates can mak'
+---
+FILE: blog/tiered-water-rates-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Tiered water pricing charg'
+---
+FILE: blog/utility-assistance-programs-liheap/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Billing\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-08-10 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-08-10T00:00:00+00:00\\",\\"description\\":\\"Can\\\\u0026#39;t pay your u'
+---
+FILE: blog/water-meter-leak-indicator-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Most water meters have a s'
+---
+FILE: blog/water-meter-running-when-no-water-used/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"If your water meter is sti'
+---
+FILE: blog/water-service-charge-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Seeing a water service (or'
+---
+FILE: blog/what-is-a-kilowatt-hour/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Simple definition of'
+---
+FILE: blog/what-is-ccf-on-a-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"CCF on a water bill means '
+---
+FILE: blog/why-did-my-utility-bill-go-up-this-month/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Budgeting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2026-01-15 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-01-15T00:00:00+00:00\\",\\"description\\":\\"If your total jumped but'
+---
+FILE: blog/why-did-my-water-bill-suddenly-increase/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Understand the most common'
+---
+FILE: blog/why-electric-bill-changes-month-to-month/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-01-15 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-01-15T00:00:00+00:00\\",\\"description\\":\\"Electricity bills sh'
+---
+FILE: blog/why-is-my-electric-bill-so-high-this-month/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-20 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-20T00:00:00+00:00\\",\\"description\\":\\"Shocked by a high el'
+---
+FILE: blog/why-is-my-electricity-bill-so-high-in-summer/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Summer bill shock? L'
+---
+FILE: blog/why-is-my-electricity-bill-so-high-in-winter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Electricity\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"Winter electric bill'
+---
+FILE: blog/why-is-my-furnace-blowing-cold-air/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Heating \\\\u0026 Cooling\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Roberto Mendoza\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"Heat is on b'
+---
+FILE: blog/why-is-my-gas-bill-so-high-in-summer/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Surprised your gas bill is h'
+---
+FILE: blog/why-is-my-gas-bill-so-high-in-winter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Gas\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-27T00:00:00+00:00\\",\\"description\\":\\"Your gas bill can triple in '
+---
+FILE: blog/why-is-my-water-bill-higher-in-summer/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-26 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-26T00:00:00+00:00\\",\\"description\\":\\"Summer water bills often j'
+---
+FILE: blog/why-is-my-water-bill-higher-in-winter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Water\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2025-12-27 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-27T00:00:00+00:00\\",\\"description\\":\\"No lawn watering but a hig'
+---
+FILE: blog/why-my-utility-bill-is-higher-with-same-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Budgeting\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Marcia Washington\\"},\\"dateModified\\":\\"2025-12-25 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2025-12-25T00:00:00+00:00\\",\\"description\\":\\"If your usage looks simi'
+---
+FILE: blog/why-your-electric-bill-keeps-rising-2026/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"articleSection\\":\\"Utility Bills\\",\\"author\\":{\\"@type\\":\\"Person\\",\\"name\\":\\"Margaret Harrington\\"},\\"dateModified\\":\\"2026-05-29 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2026-05-29T00:00:00+00:00\\",\\"description\\":\\"Learn everything a'
+---
+FILE: categories/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/categories/\\",\\"name\\":\\"Categories\\",\\"positi'
+---
+FILE: categories/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/categories/\\",\\"name\\":\\"Categories\\",\\"positi'
+---
+FILE: contact/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Suggest a topic, ask a question, or report an error on Utility Explained.\\",\\"headline\\":\\"Contact\\",\\"mainEntityOfPage\\":'
+---
+FILE: corrections/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"How Utility Explained handles errors and updates to its guides.\\",\\"headline\\":\\"Corrections Policy\\",\\"mainEntityOfPage\\"'
+---
+FILE: disclaimer/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Important information about the limits of our content.\\",\\"headline\\":\\"Disclaimer\\",\\"mainEntityOfPage\\":{\\"@id\\":\\"https'
+---
+FILE: editorial-policy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"How Utility Explained researches, writes, and reviews its utility-bill guides.\\",\\"headline\\":\\"Editorial Policy\\",\\"mainE'
+---
+FILE: editorial-team/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Meet the Utility Explained editorial team — utility analysts, energy auditors, and consumer advocates dedicated to helping'
+---
+FILE: electricity-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Learn everything about electricity bills, kWh usage, electric rates, delivery charges, and how your home electrical system'
+---
+FILE: gas-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Learn how natural gas is measured, billed, and delivered to your home. Understand your gas bill, therms, and how to cut co'
+---
+FILE: heating-cooling-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Learn how heating and cooling systems work, what they cost to run, and how to keep your home comfortable without breaking '
+---
+FILE: index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"WebSite\\",\\"description\\":\\"Plain-English guides to electricity, gas, and water bills so you can budget with confidence, not confusion.\\",\\"name\\":\\"Utility Explained\\",\\"publisher\\":{\\"@type\\":\\"Organization\\",\\"name\\":\\"Utility Explained\\",\\"url\\"'
+---
+FILE: methodology/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"How Utility Explained sources and calculates the cost ranges and figures in its guides.\\",\\"headline\\":\\"Methodology\\",\\"m'
+---
+FILE: privacy-policy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"How we handle data and privacy on Utility Explained.\\",\\"headline\\":\\"Privacy Policy\\",\\"mainEntityOfPage\\":{\\"@id\\":\\"htt'
+---
+FILE: search/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Search every utility-bill guide on Utility Explained.\\",\\"headline\\":\\"Search\\",\\"mainEntityOfPage\\":{\\"@id\\":\\"https://ut'
+---
+FILE: tags/afue/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/afue/\\",\\"name\\":\\"Afue\\",\\"position\\":2}'
+---
+FILE: tags/air-conditioner/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/air-conditioner/\\",\\"name\\":\\"Air Conditi'
+---
+FILE: tags/air-conditioning/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/air-conditioning/\\",\\"name\\":\\"Air Condit'
+---
+FILE: tags/apartment/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/apartment/\\",\\"name\\":\\"Apartment\\",\\"pos'
+---
+FILE: tags/apartment-utilities/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/apartment-utilities/\\",\\"name\\":\\"Apartme'
+---
+FILE: tags/appliance-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/appliance-costs/\\",\\"name\\":\\"Appliance C'
+---
+FILE: tags/aux-heat/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/aux-heat/\\",\\"name\\":\\"Aux Heat\\",\\"posit'
+---
+FILE: tags/average-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/average-bills/\\",\\"name\\":\\"Average Bills'
+---
+FILE: tags/average-utility-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/average-utility-costs/\\",\\"name\\":\\"Avera'
+---
+FILE: tags/base-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/base-charge/\\",\\"name\\":\\"Base Charge\\",\\'
+---
+FILE: tags/best-energy-efficient-space-heater/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/best-energy-efficient-space-heater/\\",\\"n'
+---
+FILE: tags/best-smart-plugs-standby-power/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/best-smart-plugs-standby-power/\\",\\"name\\'
+---
+FILE: tags/bill-breakdown/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/bill-breakdown/\\",\\"name\\":\\"Bill Breakdo'
+---
+FILE: tags/bill-spike/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/bill-spike/\\",\\"name\\":\\"Bill Spike\\",\\"p'
+---
+FILE: tags/billing/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/billing/\\",\\"name\\":\\"Billing\\",\\"positio'
+---
+FILE: tags/billing-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/billing-charges/\\",\\"name\\":\\"Billing Cha'
+---
+FILE: tags/billing-cycle/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/billing-cycle/\\",\\"name\\":\\"Billing Cycle'
+---
+FILE: tags/billing-errors/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/billing-errors/\\",\\"name\\":\\"Billing Erro'
+---
+FILE: tags/bimonthly-billing/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/bimonthly-billing/\\",\\"name\\":\\"Bimonthly'
+---
+FILE: tags/budget/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/budget/\\",\\"name\\":\\"Budget\\",\\"position\\'
+---
+FILE: tags/budget-billing/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/budget-billing/\\",\\"name\\":\\"Budget Billi'
+---
+FILE: tags/budgeting/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/budgeting/\\",\\"name\\":\\"Budgeting\\",\\"pos'
+---
+FILE: tags/ccf/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/ccf/\\",\\"name\\":\\"Ccf\\",\\"position\\":2},{'
+---
+FILE: tags/ccf/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/ccf/\\",\\"name\\":\\"Ccf\\",\\"position\\":2},{'
+---
+FILE: tags/charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/charges/\\",\\"name\\":\\"Charges\\",\\"positio'
+---
+FILE: tags/cheapest-electricity-hours/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/cheapest-electricity-hours/\\",\\"name\\":\\"'
+---
+FILE: tags/check-energy-leaks-home-diy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/check-energy-leaks-home-diy/\\",\\"name\\":\\'
+---
+FILE: tags/connection-fee/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/connection-fee/\\",\\"name\\":\\"Connection F'
+---
+FILE: tags/credit-check/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/credit-check/\\",\\"name\\":\\"Credit Check\\"'
+---
+FILE: tags/customer-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/customer-charge/\\",\\"name\\":\\"Customer Ch'
+---
+FILE: tags/delivery-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/delivery-charge/\\",\\"name\\":\\"Delivery Ch'
+---
+FILE: tags/demand-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/demand-charge/\\",\\"name\\":\\"Demand Charge'
+---
+FILE: tags/demand-charge-vs-energy-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/demand-charge-vs-energy-charge/\\",\\"name\\'
+---
+FILE: tags/demand-charges-electricity-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/demand-charges-electricity-bill-explained'
+---
+FILE: tags/deposit/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/deposit/\\",\\"name\\":\\"Deposit\\",\\"positio'
+---
+FILE: tags/deregulated-markets/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/deregulated-markets/\\",\\"name\\":\\"Deregul'
+---
+FILE: tags/disconnection/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/disconnection/\\",\\"name\\":\\"Disconnection'
+---
+FILE: tags/drought-surcharge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/drought-surcharge/\\",\\"name\\":\\"Drought S'
+---
+FILE: tags/duct/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/duct/\\",\\"name\\":\\"Duct\\",\\"position\\":2}'
+---
+FILE: tags/electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-bill/\\",\\"name\\":\\"Electric Bill'
+---
+FILE: tags/electric-bill/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-bill/\\",\\"name\\":\\"Electric Bill'
+---
+FILE: tags/electric-bill-fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-bill-fees/\\",\\"name\\":\\"Electric'
+---
+FILE: tags/electric-demand-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-demand-charges/\\",\\"name\\":\\"Ele'
+---
+FILE: tags/electric-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-meter/\\",\\"name\\":\\"Electric Met'
+---
+FILE: tags/electric-vehicle/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-vehicle/\\",\\"name\\":\\"Electric V'
+---
+FILE: tags/electric-vs-gas-heating/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electric-vs-gas-heating/\\",\\"name\\":\\"Ele'
+---
+FILE: tags/electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electricity/\\",\\"name\\":\\"Electricity\\",\\'
+---
+FILE: tags/electricity-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electricity-cost/\\",\\"name\\":\\"Electricit'
+---
+FILE: tags/electricity-rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electricity-rates/\\",\\"name\\":\\"Electrici'
+---
+FILE: tags/electricity-spike/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electricity-spike/\\",\\"name\\":\\"Electrici'
+---
+FILE: tags/electricity-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/electricity-usage/\\",\\"name\\":\\"Electrici'
+---
+FILE: tags/eliminate-phantom-load/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/eliminate-phantom-load/\\",\\"name\\":\\"Elim'
+---
+FILE: tags/energy-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-costs/\\",\\"name\\":\\"Energy Costs\\"'
+---
+FILE: tags/energy-efficiency/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-efficiency/\\",\\"name\\":\\"Energy Ef'
+---
+FILE: tags/energy-efficient-heater/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-efficient-heater/\\",\\"name\\":\\"Ene'
+---
+FILE: tags/energy-plan/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-plan/\\",\\"name\\":\\"Energy Plan\\",\\'
+---
+FILE: tags/energy-saving/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-saving/\\",\\"name\\":\\"Energy Saving'
+---
+FILE: tags/energy-savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/energy-savings/\\",\\"name\\":\\"Energy Savin'
+---
+FILE: tags/estimated-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/estimated-bill/\\",\\"name\\":\\"Estimated Bi'
+---
+FILE: tags/ev-charging/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/ev-charging/\\",\\"name\\":\\"EV Charging\\",\\'
+---
+FILE: tags/fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/fees/\\",\\"name\\":\\"Fees\\",\\"position\\":2}'
+---
+FILE: tags/find-energy-leaks/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/find-energy-leaks/\\",\\"name\\":\\"Find Ener'
+---
+FILE: tags/first-apartment/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/first-apartment/\\",\\"name\\":\\"First Apart'
+---
+FILE: tags/fixed-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/fixed-charges/\\",\\"name\\":\\"Fixed Charges'
+---
+FILE: tags/fixed-utility-rate/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/fixed-utility-rate/\\",\\"name\\":\\"Fixed Ut'
+---
+FILE: tags/franchise-fee/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/franchise-fee/\\",\\"name\\":\\"Franchise Fee'
+---
+FILE: tags/furnace/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/furnace/\\",\\"name\\":\\"Furnace\\",\\"positio'
+---
+FILE: tags/furnace-efficiency/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/furnace-efficiency/\\",\\"name\\":\\"Furnace '
+---
+FILE: tags/gallons/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gallons/\\",\\"name\\":\\"Gallons\\",\\"positio'
+---
+FILE: tags/gas/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas/\\",\\"name\\":\\"Gas\\",\\"position\\":2},{'
+---
+FILE: tags/gas-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas-bill/\\",\\"name\\":\\"Gas Bill\\",\\"posit'
+---
+FILE: tags/gas-bill-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas-bill-charges/\\",\\"name\\":\\"Gas Bill C'
+---
+FILE: tags/gas-bill-spike/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas-bill-spike/\\",\\"name\\":\\"Gas Bill Spi'
+---
+FILE: tags/gas-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas-cost/\\",\\"name\\":\\"Gas Cost\\",\\"posit'
+---
+FILE: tags/gas-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/gas-costs/\\",\\"name\\":\\"Gas Costs\\",\\"pos'
+---
+FILE: tags/generator-comparison/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/generator-comparison/\\",\\"name\\":\\"Genera'
+---
+FILE: tags/hardship-programs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/hardship-programs/\\",\\"name\\":\\"Hardship '
+---
+FILE: tags/heat-pump/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/heat-pump/\\",\\"name\\":\\"Heat Pump\\",\\"pos'
+---
+FILE: tags/heat-pump-vs-gas-furnace/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/heat-pump-vs-gas-furnace/\\",\\"name\\":\\"He'
+---
+FILE: tags/heat-pump-vs-gas-furnace-savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/heat-pump-vs-gas-furnace-savings/\\",\\"nam'
+---
+FILE: tags/heating-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/heating-costs/\\",\\"name\\":\\"Heating Costs'
+---
+FILE: tags/heating-system-comparison/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/heating-system-comparison/\\",\\"name\\":\\"H'
+---
+FILE: tags/hidden-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/hidden-charges/\\",\\"name\\":\\"Hidden Charg'
+---
+FILE: tags/hidden-fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/hidden-fees/\\",\\"name\\":\\"Hidden Fees\\",\\'
+---
+FILE: tags/hidden-leak/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/hidden-leak/\\",\\"name\\":\\"Hidden Leak\\",\\'
+---
+FILE: tags/high-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/high-electric-bill/\\",\\"name\\":\\"High Ele'
+---
+FILE: tags/high-gas-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/high-gas-bill/\\",\\"name\\":\\"High Gas Bill'
+---
+FILE: tags/high-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/high-water-bill/\\",\\"name\\":\\"High Water '
+---
+FILE: tags/home-energy-audit-diy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/home-energy-audit-diy/\\",\\"name\\":\\"Home '
+---
+FILE: tags/home-insulation/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/home-insulation/\\",\\"name\\":\\"Home Insula'
+---
+FILE: tags/how-to-lower-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/how-to-lower-water-bill/\\",\\"name\\":\\"How'
+---
+FILE: tags/how-to-read-electricity-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/how-to-read-electricity-bill/\\",\\"name\\":'
+---
+FILE: tags/hvac/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/hvac/\\",\\"name\\":\\"HVAC\\",\\"position\\":2}'
+---
+FILE: tags/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/kwh/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/kwh/\\",\\"name\\":\\"Kwh\\",\\"position\\":2},{'
+---
+FILE: tags/kwh/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/kwh/\\",\\"name\\":\\"Kwh\\",\\"position\\":2},{'
+---
+FILE: tags/late-payment/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/late-payment/\\",\\"name\\":\\"Late Payment\\"'
+---
+FILE: tags/leak/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/leak/\\",\\"name\\":\\"Leak\\",\\"position\\":2}'
+---
+FILE: tags/leak/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/leak/\\",\\"name\\":\\"Leak\\",\\"position\\":2}'
+---
+FILE: tags/leak/page/3/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/leak/\\",\\"name\\":\\"Leak\\",\\"position\\":2}'
+---
+FILE: tags/liheap/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/liheap/\\",\\"name\\":\\"LIHEAP\\",\\"position\\'
+---
+FILE: tags/low-energy-use/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/low-energy-use/\\",\\"name\\":\\"Low Energy U'
+---
+FILE: tags/lower-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/lower-electric-bill/\\",\\"name\\":\\"Lower E'
+---
+FILE: tags/lower-utility-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/lower-utility-bills/\\",\\"name\\":\\"Lower U'
+---
+FILE: tags/lower-water-bill-tips/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/lower-water-bill-tips/\\",\\"name\\":\\"Lower'
+---
+FILE: tags/meter-reading/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/meter-reading/\\",\\"name\\":\\"Meter Reading'
+---
+FILE: tags/minimum-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/minimum-bill/\\",\\"name\\":\\"Minimum Bill\\"'
+---
+FILE: tags/monthly-billing/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/monthly-billing/\\",\\"name\\":\\"Monthly Bil'
+---
+FILE: tags/moving/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/moving/\\",\\"name\\":\\"Moving\\",\\"position\\'
+---
+FILE: tags/municipal-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/municipal-charges/\\",\\"name\\":\\"Municipal'
+---
+FILE: tags/natural-gas/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/natural-gas/\\",\\"name\\":\\"Natural Gas\\",\\'
+---
+FILE: tags/natural-gas-bill-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/natural-gas-bill-explained/\\",\\"name\\":\\"'
+---
+FILE: tags/natural-gas-rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/natural-gas-rates/\\",\\"name\\":\\"Natural G'
+---
+FILE: tags/natural-gas-supply/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/natural-gas-supply/\\",\\"name\\":\\"Natural '
+---
+FILE: tags/net-metering/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/net-metering/\\",\\"name\\":\\"Net Metering\\"'
+---
+FILE: tags/new-service/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/new-service/\\",\\"name\\":\\"New Service\\",\\'
+---
+FILE: tags/off-peak-charging/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/off-peak-charging/\\",\\"name\\":\\"Off-Peak '
+---
+FILE: tags/off-peak-electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/off-peak-electricity/\\",\\"name\\":\\"Off-Pe'
+---
+FILE: tags/off-peak-electricity-rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/off-peak-electricity-rates/\\",\\"name\\":\\"'
+---
+FILE: tags/page/10/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/11/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/12/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/13/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/14/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/15/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/16/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/17/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/18/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/19/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/20/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/3/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/4/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/5/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/6/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/7/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/8/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/page/9/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/\\",\\"name\\":\\"Tags\\",\\"position\\":2},{\\"@'
+---
+FILE: tags/payment-plans/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/payment-plans/\\",\\"name\\":\\"Payment Plans'
+---
+FILE: tags/peak-hours/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/peak-hours/\\",\\"name\\":\\"Peak Hours\\",\\"p'
+---
+FILE: tags/phantom-power/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/phantom-power/\\",\\"name\\":\\"Phantom Power'
+---
+FILE: tags/portable-generator-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/portable-generator-cost/\\",\\"name\\":\\"Por'
+---
+FILE: tags/rate-plans/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/rate-plans/\\",\\"name\\":\\"Rate Plans\\",\\"p'
+---
+FILE: tags/rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/rates/\\",\\"name\\":\\"Rates\\",\\"position\\":'
+---
+FILE: tags/rates-and-plans/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/rates-and-plans/\\",\\"name\\":\\"Rates and P'
+---
+FILE: tags/read-your-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/read-your-bill/\\",\\"name\\":\\"Read Your Bi'
+---
+FILE: tags/reading-electricity-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reading-electricity-bill/\\",\\"name\\":\\"Re'
+---
+FILE: tags/reconnection-fee/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reconnection-fee/\\",\\"name\\":\\"Reconnecti'
+---
+FILE: tags/reduce-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-bills/\\",\\"name\\":\\"Reduce Bills\\"'
+---
+FILE: tags/reduce-demand-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-demand-charges/\\",\\"name\\":\\"Reduc'
+---
+FILE: tags/reduce-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-electric-bill/\\",\\"name\\":\\"Reduce'
+---
+FILE: tags/reduce-energy-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-energy-costs/\\",\\"name\\":\\"Reduce '
+---
+FILE: tags/reduce-gas-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-gas-bill/\\",\\"name\\":\\"Reduce Gas '
+---
+FILE: tags/reduce-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-water-bill/\\",\\"name\\":\\"Reduce Wa'
+---
+FILE: tags/reduce-water-usage/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/reduce-water-usage/\\",\\"name\\":\\"Reduce W'
+---
+FILE: tags/regulatory-fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/regulatory-fees/\\",\\"name\\":\\"Regulatory '
+---
+FILE: tags/renter-utilities/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/renter-utilities/\\",\\"name\\":\\"Renter Uti'
+---
+FILE: tags/restore-service/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/restore-service/\\",\\"name\\":\\"Restore Ser'
+---
+FILE: tags/rooftop-solar/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/rooftop-solar/\\",\\"name\\":\\"Rooftop Solar'
+---
+FILE: tags/save-electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/save-electricity/\\",\\"name\\":\\"Save Elect'
+---
+FILE: tags/save-on-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/save-on-electric-bill/\\",\\"name\\":\\"Save '
+---
+FILE: tags/save-on-water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/save-on-water-bill/\\",\\"name\\":\\"Save on '
+---
+FILE: tags/savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/savings/\\",\\"name\\":\\"Savings\\",\\"positio'
+---
+FILE: tags/savings/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/savings/\\",\\"name\\":\\"Savings\\",\\"positio'
+---
+FILE: tags/security-deposit/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/security-deposit/\\",\\"name\\":\\"Security D'
+---
+FILE: tags/service-shutoff/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/service-shutoff/\\",\\"name\\":\\"Service Shu'
+---
+FILE: tags/setup-fee/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/setup-fee/\\",\\"name\\":\\"Setup Fee\\",\\"pos'
+---
+FILE: tags/sewer/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/sewer/\\",\\"name\\":\\"Sewer\\",\\"position\\":'
+---
+FILE: tags/sewer-averaging/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/sewer-averaging/\\",\\"name\\":\\"Sewer Avera'
+---
+FILE: tags/shut-off-prevention/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/shut-off-prevention/\\",\\"name\\":\\"Shut-Of'
+---
+FILE: tags/smart-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/smart-meter/\\",\\"name\\":\\"Smart Meter\\",\\'
+---
+FILE: tags/smart-plugs-energy-saving/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/smart-plugs-energy-saving/\\",\\"name\\":\\"S'
+---
+FILE: tags/solar/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/solar/\\",\\"name\\":\\"Solar\\",\\"position\\":'
+---
+FILE: tags/solar-credits/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/solar-credits/\\",\\"name\\":\\"Solar Credits'
+---
+FILE: tags/solar-panels/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/solar-panels/\\",\\"name\\":\\"Solar Panels\\"'
+---
+FILE: tags/space-heater/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/space-heater/\\",\\"name\\":\\"Space Heater\\"'
+---
+FILE: tags/standby-power/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/standby-power/\\",\\"name\\":\\"Standby Power'
+---
+FILE: tags/standby-power-vampire-energy/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/standby-power-vampire-energy/\\",\\"name\\":'
+---
+FILE: tags/stormwater/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/stormwater/\\",\\"name\\":\\"Stormwater\\",\\"p'
+---
+FILE: tags/supply-charge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/supply-charge/\\",\\"name\\":\\"Supply Charge'
+---
+FILE: tags/surcharge/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/surcharge/\\",\\"name\\":\\"Surcharge\\",\\"pos'
+---
+FILE: tags/thermostat/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/thermostat/\\",\\"name\\":\\"Thermostat\\",\\"p'
+---
+FILE: tags/therms/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/therms/\\",\\"name\\":\\"Therms\\",\\"position\\'
+---
+FILE: tags/therms/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/therms/\\",\\"name\\":\\"Therms\\",\\"position\\'
+---
+FILE: tags/tiered-rate/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/tiered-rate/\\",\\"name\\":\\"Tiered Rate\\",\\'
+---
+FILE: tags/time-of-use-electricity/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/time-of-use-electricity/\\",\\"name\\":\\"Tim'
+---
+FILE: tags/time-of-use-rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/time-of-use-rates/\\",\\"name\\":\\"Time of U'
+---
+FILE: tags/tou-rates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/tou-rates/\\",\\"name\\":\\"TOU Rates\\",\\"pos'
+---
+FILE: tags/troubleshooting/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/troubleshooting/\\",\\"name\\":\\"Troubleshoo'
+---
+FILE: tags/understand-natural-gas-bill-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/understand-natural-gas-bill-charges/\\",\\"'
+---
+FILE: tags/understanding-electric-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/understanding-electric-bill/\\",\\"name\\":\\'
+---
+FILE: tags/unexpected-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/unexpected-bill/\\",\\"name\\":\\"Unexpected '
+---
+FILE: tags/usage-audit/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/usage-audit/\\",\\"name\\":\\"Usage Audit\\",\\'
+---
+FILE: tags/utility-assistance/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-assistance/\\",\\"name\\":\\"Utility '
+---
+FILE: tags/utility-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-bill/\\",\\"name\\":\\"Utility Bill\\"'
+---
+FILE: tags/utility-bill-breakdown/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-bill-breakdown/\\",\\"name\\":\\"Util'
+---
+FILE: tags/utility-bill-charges/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-bill-charges/\\",\\"name\\":\\"Utilit'
+---
+FILE: tags/utility-bill-dates/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-bill-dates/\\",\\"name\\":\\"Utility '
+---
+FILE: tags/utility-bills/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-bills/\\",\\"name\\":\\"Utility Bills'
+---
+FILE: tags/utility-breakdown/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-breakdown/\\",\\"name\\":\\"Utility B'
+---
+FILE: tags/utility-budget/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-budget/\\",\\"name\\":\\"Utility Budg'
+---
+FILE: tags/utility-costs/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-costs/\\",\\"name\\":\\"Utility Costs'
+---
+FILE: tags/utility-deposit/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-deposit/\\",\\"name\\":\\"Utility Dep'
+---
+FILE: tags/utility-fees/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-fees/\\",\\"name\\":\\"Utility Fees\\"'
+---
+FILE: tags/utility-hookup/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-hookup/\\",\\"name\\":\\"Utility Hook'
+---
+FILE: tags/utility-rate-comparison/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-rate-comparison/\\",\\"name\\":\\"Uti'
+---
+FILE: tags/utility-savings/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-savings/\\",\\"name\\":\\"Utility Sav'
+---
+FILE: tags/utility-taxes/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/utility-taxes/\\",\\"name\\":\\"Utility Taxes'
+---
+FILE: tags/vampire-draw/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/vampire-draw/\\",\\"name\\":\\"Vampire Draw\\"'
+---
+FILE: tags/variable-utility-rate/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/variable-utility-rate/\\",\\"name\\":\\"Varia'
+---
+FILE: tags/water-bill/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-bill/\\",\\"name\\":\\"Water Bill\\",\\"p'
+---
+FILE: tags/water-bill/page/2/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-bill/\\",\\"name\\":\\"Water Bill\\",\\"p'
+---
+FILE: tags/water-bill-spike/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-bill-spike/\\",\\"name\\":\\"Water Bill'
+---
+FILE: tags/water-conservation/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-conservation/\\",\\"name\\":\\"Water Co'
+---
+FILE: tags/water-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-cost/\\",\\"name\\":\\"Water Cost\\",\\"p'
+---
+FILE: tags/water-meter/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-meter/\\",\\"name\\":\\"Water Meter\\",\\'
+---
+FILE: tags/water-meter-reading/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/water-meter-reading/\\",\\"name\\":\\"Water M'
+---
+FILE: tags/what-time-is-electricity-cheapest/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/what-time-is-electricity-cheapest/\\",\\"na'
+---
+FILE: tags/whole-house-generator-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/whole-house-generator-cost/\\",\\"name\\":\\"'
+---
+FILE: tags/whole-house-generator-vs-portable-cost/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"BreadcrumbList\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/\\",\\"name\\":\\"Home\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"item\\":\\"https://utilityexplained.com/tags/whole-house-generator-vs-portable-cost/\\"'
+---
+FILE: terms/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Terms for using Utility Explained.\\",\\"headline\\":\\"Terms of Service\\",\\"mainEntityOfPage\\":{\\"@id\\":\\"https://utilityexpl'
+---
+FILE: utilities-glossary/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Confused by terms on your utility bill? Our glossary explains CCF, kWh, therms, delivery charges, demand fees, and more in'
+---
+FILE: utility-bills-costs-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Understand every charge on your utility bill, from energy costs to fixed fees, taxes, and surcharges. Learn what you can a'
+---
+FILE: water-explained/index.html :: block# 0 :: TOPLEVEL_str
+  RAW: '"[{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"dateModified\\":\\"2024-12-01 00:00:00 +0000 UTC\\",\\"datePublished\\":\\"2024-12-01T00:00:00+00:00\\",\\"description\\":\\"Learn how water is measured, billed, and delivered. Understand your water bill, CCF, gallons, and how to spot leaks.\\",\\"h'
+---
+
+[harness: this command modified 1 file(s) on disk — recorded in your ground-truth log]

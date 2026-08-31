@@ -1,0 +1,296 @@
+# Cartographer Map — SQ-065 wave1
+
+Territory: **utilityexplained.com** (Hugo static, 114 md files: 90 blog + 24 core incl. authors/hubs)
+Audit date: 2026-08-30 · Seat: cartographer (breadth/reduce)
+README: this is the territory map. All link counts are evidence-based from `rg -o '\(/[^)]*\)' content -g '*.md'` sorted. Cite by path.
+
+---
+
+# PART A — CORE 25 PAGES (compact entries)
+Relevant metrics column notes: w=words (wc -w), il=inbound internal links (rg count), src=outbound sources (content-metrics table), tbl=tables.
+
+## 1. `/` — Utility Explained (home)
+- **Purpose/intent**: site home, navigational (sitewide hub choice).
+- **Quality: 5/10 · SEO: 4/10**
+- **Weaknesses**: 69 words — thin even for a home page; no author/team mention; no CTA beyond "start with the utility that puzzles you"; no links to any content (zero internal links). Missing hero content, featured guides, or search box.
+- **AI-slop**: borderline — generic two-sentence brand blurb; no distinct voice.
+- **Visual gaps**: no hero image/screenshot; `og-default.png` only.
+- **Action**: expand with the 5 hub cards + a short explainer; add internal links to /blog/ and top hubs. **Next**: link from nav (already in menus) but add on-page hub links.
+
+## 2. `/blog/` — Blog index
+- **Purpose/intent**: browse-all, navigational.
+- **Quality: 6/10 · SEO: 5/10**
+- **Weaknesses**: claims **"97 guides"** but there are **90 blog files** (stopped at _index). Also claims "Browse 24 electricity guides", "16 water guides", "11 gas", "21 fee", "14 HVAC" — these counts are aspirational; actual per-topic file counts differ (e.g. only 90 files exist). Hardcoded HTML (not data-driven); category links go to hub anchors (`/electricity-explained/#electricity-guides`) which is fine.
+- **AI-slop**: none, but templated.
+- **Visual gaps**: no featured/thumbnails on category cards.
+- **Action**: fix the "97 guides" and per-topic counts to real numbers; consider auto-listing newest posts.
+
+## 3. `/about/` — About
+- **Purpose/intent**: informational, trust.
+- **Quality: 7/10 · SEO: 6/10**
+- **Weaknesses**: clear mission + funding model (display ads + affiliate on product posts). Good tone. But no operator identity or legal entity name — the site never states who runs it; that's a trust gap for money-adjacent.
+- **Action**: add an entity name/contact person? Not required, but helpful.
+
+## 4. `/contact/` — Contact
+- **Purpose/intent**: contact/transactional.
+- **Quality: 7/10 · SEO: 6/10**
+- **Weaknesses**: email-only `hello@utilityexplained.com`; no form. Links to glossary/search/corrections (good). No physical address (consistent with terms).
+- **Action**: fine as-is; could add a form later.
+
+## 5. `/search/` — Search (noindex)
+- **Purpose/intent**: site utility.
+- **Quality: 6/10 · SEO: n/a (noindex)**
+- **Weaknesses**: no body content; relies on layout `search`. 1 inbound link only.
+- **Action**: as designed; keep noindexed.
+
+## 6. `/corrections/` — Corrections Policy
+- **Purpose/intent**: trust.
+- **Quality: 9/10 · SEO: 6/10**
+- **Weaknesses**: none material; has a dated correction log with real, verifiable entries (heat-pump 65% DOE fix; Con Edison TOU rate correction) — a strong trust signal. 4 inbound links.
+- **Action**: keep it updated; this is the best trust asset on the site.
+
+## 7. `/disclaimer/` — Disclaimer
+- **Purpose/intent**: legal/trust.
+- **Quality: 8/10 · SEO: n/a**
+- **Weaknesses**: short but adequate; plain-English; last reviewed 2026-08-30. 2 inbound.
+- **Action**: fine.
+
+## 8. `/privacy-policy/` — Privacy Policy
+- **Purpose/intent**: legal/trust.
+- **Quality: 8/10 · SEO: n/a**
+- **Weaknesses**: thorough (Consent Mode v2, AdSense, GA4 `G-SGVWNS876W`, Rybbit, GDPR/CCPA rights, children's privacy, third-party links). Effective 2026-08-12. 2 inbound.
+- **Action**: good; keep consent banner in sync.
+
+## 9. `/terms/` — Terms of Service
+- **Purpose/intent**: legal/trust.
+- **Quality: 7/10 · SEO: n/a**
+- **Weaknesses**: clear informational-only; affiliate disclosure; **explicitly states it does NOT identify an operator state** (weak legal clarity). Good terms otherwise.
+- **Action**: consider naming governing-law state for completeness.
+
+## 10. `/affiliate-disclosure/` — Affiliate Disclosure
+- **Purpose/intent**: trust/legal.
+- **Quality: 8/10 · SEO: n/a**
+- **Weaknesses**: solid; Amazon Associates statement; marks links "Check price on Amazon". 1 inbound (from /terms only) — weak linking; should be linked from every product post or the footer/single template.
+- **Action**: ensure it's linked from product boxes (looks template-driven), add to footer menu.
+
+## 11. `/editorial-policy/` — Editorial Policy
+- **Purpose/intent**: trust.
+- **Quality: 9/10 · SEO: n/a**
+- **Weaknesses**: transparent AI-assistance disclosure with clear statement "We do not present AI-generated credentials or fabricated expert qualifications." Strong, honest policy. 10 inbound — the most-linked trust page.
+- **Action**: good; keep as is. Links from /methodology, /editorial-team, /about.
+
+## 12. `/editorial-team/` — Editorial Team
+- **Purpose/intent**: trust/identity.
+- **Quality: 7/10 · SEO: n/a**
+- **Weaknesses**: real editorial process described; each editor links to byline + a representative guide. **Only 1 inbound link** (from /about) — orphaned-ish. Team pages are desk-bylines, honestly framed.
+- **Action**: link from footer or home.
+
+## 13. `/methodology/` — Methodology
+- **Purpose/intent**: trust/authority.
+- **Quality: 8/10 · SEO: n/a**
+- **Weaknesses**: cites EIA, DOE/ENERGY STAR, tariffs, water/sewer disclosures; formulas shown. 8 inbound. Solid.
+- **Action**: good. Could add a per-article source-count summary.
+
+## 14–18. AUTHOR PAGES (5 + index) — TRUST-SURFACE VERDICT
+- `/author/` (index, 117w): "Utility Explained uses editorial bylines… **They are not claims of independently credentialed individuals.**" Honest, directly addresses the persona question.
+- `/author/david-chen/` (222w), `/author/marcia-washington/` (113w), `/author/margaret-harrington/` (242w), `/author/roberto-mendoza/` (208w), `/author/tanya-patterson/` (200w): each is a **desk-byline** (e.g. "editorial byline for Utility Explained's Energy Efficiency desk"), not a fabricated human CV. No photos, no credentials, no LinkedIn, no personal narrative. Each cites one representative desk piece + real primary-source anchors (DOE, EIA, CFPB, CPSC).
+- **Quality: 6/10 each · SEO: 2 inbound each** — thin (113–242 words) but **honest**. They do NOT read as fabricated personas; they read as a deliberate, transparent "desk/team byline" model. A skeptical reader will find them under-credentialed but un-dishonest — which is the correct trade for an AI-assisted site.
+- **Action**: these are framed to avoid E-E-A-T trap; consider adding a short "who reviewed this" blurb on each article instead. Keep the honest framing; do NOT invent credentials.
+
+## 19–23. HUBS
+### `/electricity-explained/` — Electricity hub (2448w)
+- **Quality: 8/10 · SEO: 8/10**
+- **Weaknesses**: strong explainer + bill-anatomy.webp + FAQ; BUT catalog section links to **non-existent pages**: `/blog/why-your-electric-bill-keeps-rising-2026/` and `/blog/15-why-utility-bill-higher-same-usage/` (no such md files) → broken hub links. Also contains a stray control char (`^A`) in the related list.
+- **Action**: fix broken links (point to /blog/30-sudden-spike… and /blog/23-utility-billing-cycle…), remove control char.
+
+### `/gas-explained/` — Gas hub (2295w)
+- **Quality: 8/10 · SEO: 8/10**
+- **Weaknesses**: strong; but broken links to `/blog/43-understand-natural-gas-bill-charges/` and `/blog/why-is-my-gas-bill-so-high-in-summer/` (not on disk). Claims "11 gas guides" though only ~6 in its own list.
+- **Action**: fix broken links.
+
+### `/water-explained/` — Water hub (2274w)
+- **Quality: 8/10 · SEO: 8/10**
+- **Weaknesses**: solid CCF/sewer explainer with bill-anatomy.webp; 16 water guides claimed.
+- **Action**: verify count; link to orphan water pages (drought-surcharge needs a hub link).
+
+### `/heating-cooling-explained/` — HVAC hub (2268w)
+- **Quality: 8/10 · SEO: 8/10**
+- **Weaknesses**: strong; **only 1 inbound internal link** (orphan-ish on the graph, though it is in the main nav — inbound count ignores nav). Catalog links need verification.
+
+### `/utility-bills-costs-explained/` — Bills hub (2587w)
+- **Quality: 8/10 · SEO: 8/10**
+- **Weaknesses**: the flagged "quick-answer" hub with full pricing anatomy; multiple `id=` sections including assistance-programs, splitting-utilities, transferring — many of which have no companion blog posts.
+
+## 24. `/utilities-glossary/` — Glossary (1882w)
+- **Quality: 8/10 · SEO: 7/10**
+- **Weaknesses**: extensive plain-English definitions with anchors (afue… ccf-water…); only 2 inbound links; good cross-link target. Could be more systematically linked from every article's definitions.
+- **Action**: add to footer/nav (already in main menu "Glossary"); increase inbound by linking from all articles' term definitions.
+
+---
+
+# PART B — WATER/RATES 22 PAGES (standard entries)
+Full cluster in `/blog/`. Metrics: w = wc -w; il = inbound internal links (rg); src = outbound sources (content-metrics); tbl = tables.
+
+## B1. `/blog/44-how-to-lower-water-bill/`
+- **Purpose**: actionable savings guide (informational/commercial).
+- **Quality: 7/10 · SEO: 8/10 · 1813w, 12 il, 5 src, 13 tbl**
+- **Weaknesses**: good breadth; tables heavy; some generic tips.
+- **Action**: add a printable/checklist; link to hub `/water-explained/`.
+
+## B2. `/blog/average-water-usage-per-person/`
+- **Purpose**: informational benchmark.
+- **Quality: 6/10 · SEO: 6/10 · 1282w, 3 il, 5 src**
+- **Weaknesses**: only 1 outbound source (src=1 in table) — weak sourcing for a data claim; needs EIA/USGS citations.
+- **Action**: add authoritative sources; strengthen statistics.
+
+## B3. `/blog/water-meter-leak-indicator-explained/`
+- **Purpose**: informational/DIY.
+- **Quality: 7/10 · SEO: 7/10 · 1845w, 13 il, 1 src**
+- **Weaknesses**: few sources; strong internal linkage (13 il).
+
+## B4. `/blog/water-meter-running-when-no-water-used/`
+- **Quality: 7/10 · SEO: 7/10 · 1411w, 7 il, 2 src**
+
+## B5. `/blog/is-your-toilet-running-leak-test/`
+- **Quality: 7/10 · SEO: 7/10 · 1631w, 6 il, 2 src**
+
+## B6. `/blog/drought-surcharge-on-water-bill-explained/` — **ORPHAN**
+- **Quality: 8/10 · SEO: 3/10 · 1403w, 1 il, 5 src**
+- **Weaknesses**: genuinely good content (real EBMUD/SAWS/LVVWD mechanisms with worked examples), but **only 1 inbound link** — effectively invisible. `drought-surcharge` also 0 il in metrics table.
+- **Action**: link from `/water-explained/` and `/blog/06-water-bill-too-high/`.
+
+## B7. `/blog/how-sewer-charges-work-on-your-water-bill/`
+- **Quality: 7/10 · SEO: 7/10 · 1636w, 7 il, 5 src**
+
+## B8. `/blog/sewer-averaging-water-bill-explained/` — **ORPHAN**
+- **Quality: 7/10 · SEO: 4/10 · 1459w, 2 il, 4 src**
+- **Weaknesses**: good Austin/SAWS examples; only 2 inbound. Should be linked from water hub + sewer article.
+
+## B9. `/blog/how-to-read-a-water-meter/`
+- **Quality: 7/10 · SEO: 7/10 · 1664w, 7 il, 2 src**
+
+## B10. `/blog/tiered-water-rates-explained/`
+- **Quality: 8/10 · SEO: 8/10 · 1920w, 8 il, 5 src, 4 tbl**
+- **Note**: strong; canonical for water tiering. Cross-links to `tiered-electricity-rates-explained` (cross-cluster candidate, see Part C).
+
+## B11. `/blog/water-service-charge-explained/` — **ORPHAN (metrics: 0 il)**
+- **Quality: 8/10 · SEO: 4/10 · 1654w, 4 il, 4 src**
+- **Weaknesses**: excellent sourcing (EPA, Louisville 2026 Tariff, Philly Water, Cleveland Water) with real rate examples; but **0 internal links in content-metrics** and only 4 raw inbound. Strong page, stranded.
+- **Action**: link from `/water-explained/` and `/blog/17-what-is-customer-charge-on-utility-bill/`.
+
+## B12. `/blog/what-is-ccf-on-a-water-bill/`
+- **Quality: 8/10 · SEO: 7/10 · 1652w, 12 il, 1 src**
+- **Note**: strong; heavy inbound (12), the water unit anchor.
+
+## B13. `/blog/ccf-calculator/` — tool
+- **Quality: 6/10 · SEO: 7/10 · 920w, 4 il, 2 src**
+- **Weaknesses**: calculator is useful but thin surrounding text; few sources.
+
+## B14. `/blog/why-did-my-water-bill-suddenly-increase/`
+- **Quality: 8/10 · SEO: 7/10 · 2384w, 9 il, 2 src**
+
+## B15. `/blog/why-is-my-water-bill-higher-in-summer/`
+- **Quality: 6/10 · SEO: 6/10 · 1650w, 3 il, 3 src**
+
+## B16. `/blog/why-is-my-water-bill-higher-in-winter/` — near-orphan
+- **Quality: 6/10 · SEO: 4/10 · 1526w, 1 il, 5 src**
+- **Weaknesses**: only 1 inbound; content overlaps with B15 (summer) — cross-link pair.
+
+## B17. `/blog/tiered-electricity-rates-explained/` — cross-cluster
+- **Quality: 7/10 · SEO: 7/10 · 1379w, 7 il, 1 src**
+- **Note**: electricity-cluster page that sits inside the water/rates requested list; pairs with B10.
+
+## B18. `/blog/08-time-of-use-electricity/`
+- **Quality: 8/10 · SEO: 8/10 · 1784w, 17 il, 6 src, 6 tbl**
+- **Note**: strongest-linked rates page (17 il), includes ConEd TOU corrections from /corrections log. Good.
+
+## B19. `/blog/how-to-lower-electric-bill-without-solar/`
+- **Quality: 7/10 · SEO: 8/10 · 1013w, 2 il, 10 src**
+- **Weaknesses**: only 2 inbound (but 10 outbound sources — strong sourcing); overlaps with `/blog/how-to-lower-electric-bill-complete-guide/` (cannibalization, see Part C).
+
+## B20. `/blog/how-to-read-electric-meter/`
+- **Quality: 7/10 · SEO: 7/10 · 1435w, 6 il, 1 src**
+
+## B21. `/blog/how-to-read-gas-meter/`
+- **Quality: 8/10 · SEO: 7/10 · 2873w, 3 il, 4 src**
+- **Weaknesses**: long, few inbound; pairs with gas bill article.
+
+## B22. `/blog/mcf-vs-ccf-vs-therms-on-gas-bill/` — **ORPHAN (metrics: 0 il)**
+- **Quality: 8/10 · SEO: 4/10 · 3060w, 4 il, 1 src**
+- **Weaknesses**: comprehensive unit explainer; **0 inbound internal links** in content-metrics, only 4 raw. High-value, stranded.
+- **Action**: link from `/gas-explained/`, `/blog/12-how-to-read-your-gas-bill/`, and `/blog/what-is-ccf-on-a-water-bill/` (cross-cluster water/gas unit bridge).
+
+---
+
+# PART C — SITEWIDE TOPIC-CLUSTER MAP (evidence-based)
+Method: `rg -o '\(/[^)]*\)' content | sort | uniq -c` (inbound counts) plus per-cluster file inventory. **H** = hub, **S** = spoke, **M** = missing spoke (no page), **O** = orphan concern (≤2 inbound).
+
+## Cluster 1 — BILL ANATOMY (hub: /utility-bills-costs-explained/)
+- Spokes: S01 01-how-to-read-your-electric-bill (26 il), S02 electric-bill-breakdown (24), S03 03-why-high (19), S04 04-hidden-fees (22), S05 24-delivery-vs-supply (18), S06 17-customer-charge (14), S07 18-fuel-adjustment (13), S08 19-surcharges-riders (17), S09 25-taxes-fees-franchise (10), S10 16-budget-billing (4), S11 20-proration (10), S12 21-past-due (12), S13 22-minimum-bill (8), S14 23-billing-cycle (12), S15 26-deposit (16), S16 27-connection-fee (6), S17 28-reconnection-fee (17), S18 14-estimated (11), S19 30-sudden-spike (11), S20 05-how-to-lower-utility-bills (9), S21 complete-guide-understanding-utility-bill (11).
+- **Strong cluster**; most spokes 10+, well cross-linked.
+- **Missing spokes (M)**: "How to read a bill when it's a combined utility statement", "late fee/interest on utility bills" (only in 21-past-due), "deregulated supplier legitimacy check" (none), "unit conversion between fuel types" (cross-cluster — see MCF/orphan B22).
+- **Orphans (O) in this cluster**: none critical (all ≥4).
+
+## Cluster 2 — RATES & PLANS (hub: /electricity-explained/ + /water-explained/)
+- Spokes: E08-time-of-use (17), E46-what-time-cheapest (5), E49-demand-charges (12), E10-fixed-vs-variable (3), tiered-electricity (7), tiered-water (8), which-rate-plan (7), water-service-charge (O, 4), what-is-ccf (12), ccf-calculator (4), average-water-usage (3), mcf-vs-ccf-vs-therms (O, 4).
+- **Missing spokes**: "how to switch to a cheaper rate plan step-by-step" (only which-rate-plan general), "seasonal/demand rates vs TOU decision" (none), "water bill tiers vs sewer tiers explained" (none), "utility rate 'minimum use' charges" (partial in 22-minimum).
+- **Cannibalization (cross-cluster)**: `tiered-electricity-rates-explained` vs `tiered-water-rates-explained` (different fuel but nearly identical template/terms → some overlap; distinct enough, but explicitly cross-link both ways so Google doesn't see them as duplicate). `08-time-of-use` ↔ `46-what-time-is-electricity-cheapest` (46 is a subset of TOU; strong risk) — recommend either merge or differentiate 46 as decision-guide vs 08 as mechanism.
+
+## Cluster 3 — WATER (hub: /water-explained/)
+- Spokes: 44-how-to-lower-water-bill (12), 06-water-bill-too-high (8), why-sudden-increase (9), average-water-usage (3), water-meter-leak-indicator (13), water-meter-running (7), toilet-running-test (6), drought-surcharge (O, 1), how-sewer-charges-work (7), sewer-averaging (O, 2), how-to-read-water-meter (7), tiered-water (8), water-service-charge (O, 4), what-is-ccf (12), ccf-calculator (4).
+- **Missing spokes**: "water softener/fluoride line item on bill", "irrigation meter/seasonal irrigation charge", "water bill assistance (LIHEAP water tier/state programs)" (only gas/electric in utility-assistance), "water bill leak credit/rebate", "pool fill bills" (edge).
+- **Orphans (O)**: **drought-surcharge (1 il)**, **sewer-averaging (2 il)** — both strong content stranded. **water-service-charge (0 il in metrics)** — stranded despite excellent sourcing.
+- **Action**: hub must link all three orphans + wetter pages cross-link each other.
+
+## Cluster 4 — GAS (hub: /gas-explained/)
+- Spokes: 12-how-to-read-gas-bill (11), 07-gas-bill-too-high (6), gas-delivery-vs-supply (6), how-to-read-gas-meter (3), mcf-vs-ccf-vs-therms (O, 4), gas-vs-electric-heating-cost (1), heat-pump-vs-gas-furnace (5).
+- **Missing spokes**: "gas meter reading troubleshooting/estimated corrections" (in 12 only), "propane vs natural gas" (none), "gas bill budget/level-pay" (none — gas-specific).
+- **Orphans (O)**: **mcf-vs-ccf-vs-therms (O)**, gas-vs-electric-heating-cost (1 il — near-orphan).
+- **Also**: gas hub has 2 broken internal links (see Parts A).
+
+## Cluster 5 — HVAC (hub: /heating-cooling-explained/)
+- Spokes: afue-vs-seer-vs-hspf-vs-cop (3), aux-heat-vs-emergency-heat (2), duct-leaks (0 per metrics), ductless-mini-split (2), heat-pump-running-all-day (3), why-furnace-blowing-cold (5), ac-running-but-not-cooling (0 per metrics), single-stage-vs-two-stage (0), 13-ac-short-cycling (2), 42-space-heater (2), 48-heat-pump-vs-gas-furnace (5), 45-generator (3), do-programmable-thermostats (3), do-thermal-curtains (1), what-merv-rating (1).
+- **Missing spokes**: "HVAC ownership cost / furnace replacement guide" (none — only comparisons), "thermostat programming guide by season" (partial), "AC refrigerant/SEER2 rebate 2026", "duct sealing cost" (duct-leaks covers symptom only).
+- **Orphans (O)**: duct-leaks (0), ac-running-but-not-cooling (0), single-stage-vs-two-stage (0), aux-heat (0), do-thermal-curtains (1), what-merv (1). **This cluster has the most orphans** — HVAC spokes need hub linking.
+- **Cannibalization**: `heat-pump-running-all-day-in-winter` ↔ `heat-pump-vs-gas-furnace-savings` ↔ `gas-vs-electric-heating-cost-comparison` — three overlapping heat-pump/gas cost pages; risk. `ac-running-but-not-cooling` vs `13-ac-short-cycling` — both troubleshoot AC problems; differentiate.
+
+## Cluster 6 — ASSISTANCE / PROTECTION / MONEY (hub: /utility-bills-costs-explained/ #assistance-programs)
+- Spokes: utility-assistance-programs-liheap (9), how-to-budget-for-utilities-first-apartment (4), can-utility-shut-off-service (10), how-to-dispute-utility-bill (17), moving-utilities-checklist (8), 09-apartment-utilities-cost (1), average-utility-bills-by-state (4), net-metering (2).
+- **Missing spokes**: "utility bill payment plans / deferred payment" (none — only budget-billing 16 which is rate-plan), "LIHEAP income thresholds by state" (partial), "how to get a deposit waived" (26 covers deposit), "senior/low-income rate programs" (none), "utility debt forgiveness / amnesty" (none).
+- **Orphans (O)**: net-metering (2), 09-apartment-utilities-cost (1).
+- **Cannibalization**: `how-to-budget-for-utilities-in-your-first-apartment` ↔ `09-apartment-utilities-cost` (both renters/apartment budgeting; heavy overlap) — strong candidate to merge or clearly differentiate (one = move-in budgeting, other = cost of specific apartment sizes). `utility-assistance-programs-liheap` vs `can-utility-shut-off-service` (both "keep service on" — differentiate assistance vs shutoff rights).
+
+## Cluster 7 — MONEY/GADGETS (hub: affiliate-disclosure + /blog/gadgets)
+- Spokes: 50-best-smart-plugs (8), 42-space-heater (2), 47-check-energy-leaks (9), phantom-power (7), do-home-energy-monitors (5), ev-charging-impact (0 per metrics), gadgets-that-lower-utility-bills (2), do-thermal-curtains (1), point-sensor-vs-whole-home-water-leak (4), how-to-find-and-seal-drafts (4).
+- **Cannibalization**: `gadgets-that-lower-utility-bills` (list) vs `50-best-smart-plugs` (list) — two "listicle" money/gadget pages; differentiate (one broad, one product-specific buys). `how-to-lower-electric-bill-without-solar` vs `how-to-lower-electric-bill-complete-guide` (both exact-intent "lower electric bill") — **the clearest cross-cluster cannibalization on the site**; one is 1013w (thin), other 3593w (complete). Recommend 29: 1013w page merge-into-complete-guide as the definitive target, keep the shorter as a summary/redirect.
+- **Missing spokes**: "best LED bulbs / thermostat buying guide" (none), "water-saving showerhead/faucet product guide" (none — big affiliate gap).
+
+## ORPHANS SUMMARY (≤2 inbound internal links, from rg evidence)
+- **0 inbound**: duct-leaks-symptoms, ac-running-but-not-cooling, single-stage-vs-two-stage-vs-variable-speed-hvac, aux-heat-vs-emergency-heat (all HVAC); ev-charging-impact (metrics 0); water-service-charge, drought-surcharge, sewer-averaging, mcf-vs-ccf-vs-therms (metrics 0) — these 3 water + 1 gas high-value pages are the biggest stranded-content problem.
+- **1 inbound**: why-is-my-water-bill-higher-in-winter, drought-surcharge, gas-vs-electric-heating-cost, what-merv-rating, what-is-a-kilowatt-hour, how-to-read-your-utility-bill (broken target), 09-apartment-utilities-cost, do-thermal-curtains, heating-cooling-explained (hub!), editorial-team, search, affiliate-disclosure.
+- **2 inbound**: sewer-averaging, net-metering, why-did-my-utility-bill-go-up-this-month, how-to-lower-electric-bill-without-solar, gadgets-that-lower-utility-bills, ev-charging, ductless-mini-split, duct-leaks, aux-heat, ac-running, 42-space-heater, 13-ac-short-cycling (all); author pages ×5; privacy, disclaimer; utilities-glossary, author/index.
+
+## CROSS-CLUSTER CANNIBALIZATION CANDIDATES (highest-impact)
+1. **How to lower electric bill: `without-solar` (1013w) vs `complete-guide` (3593w)** — identical target keyword; thin vs complete; merge/redirect. **Highest priority.**
+2. **TOU: `08-time-of-use` vs `46-what-time-cheapest`** — 46 is a decision-subset of TOU mechanism; differentiate or merge.
+3. **Heat-pump cost trio: `heat-pump-running-all-day`, `heat-pump-vs-gas-furnace`, `gas-vs-electric-heating-cost`** — three overlapping configs; consolidate to one comparison + two decision pages.
+4. **Renter budgeting: `how-to-budget-for-utilities-in-your-first-apartment` vs `09-apartment-utilities-cost`** — near-duplicate intent.
+5. **Electric vs water tiering: `tiered-electricity-rates-explained` vs `tiered-water-rates-explained`** — same template; cross-link both ways explicitly (already partly done via which-rate-plan).
+6. **AC troubleshooting: `ac-running-but-not-cooling` vs `13-ac-short-cycling`** — differentiate or reference each other.
+
+---
+
+# SITEMAP STATUS
+- `public/sitemap.xml` is **NOT stale**: it contains **121 `<loc>` URLs** (97 blog + ~24 core/authors/categories). It's minified to one line, which is why naive `grep -c '<loc>'` returns 1.
+- `hugo.toml` has a `[sitemap]` block (filename sitemap.xml, changefreq weekly, priority 0.5) and `[outputs] home/section = [HTML, RSS]` — Hugo's default sitemap output is used; the file is regenerated at every `hugo --minify --gc` build.
+- **Deploy**: `.github/workflows/*.yml` — GitHub Actions builds with Hugo 0.141.0 extended, runs `hugo --minify --gc`, verifies images + rendered output, rsyncs `./public/` to Hostinger (port 65002), and then **IndexNow-pings** all sitemap URLs (Bing/DuckDuckGo ecosystem). So production sitemap is rebuilt on every push.
+- **Flag**: if someone observed "1 URL", they likely counted lines, not `<loc>` tags. Verified: 121 URLs present.
+- **Minor**: sitemap includes `/search/` (noindexed) and `/categories/` — fine. It does NOT include `about`, `author` index etc.? It does: /about/, /author/, /author/*, /contact/, /corrections/, /disclaimer/, /editorial-policy/, /editorial-team/, /methodology/, /terms/, /utilities-glossary/. All core present. Good.
+
+---
+
+# CENSUS (what was surveyed vs sampled)
+- **Fully read (all content):** all 25 core pages (listed in Part A) + all 90 blog files' front-matter/word-counts via content-metrics table + full text of water-cluster pages B6, B8, B11 (drought, sewer-averaging, water-service-charge) + hubs.
+- **Sampled (front-matter + metrics only):** the other ~68 blog pages (not re-read in full; metrics table + inbound counts used).
+- **Not read**: none of the 114 md files (all front-matter/metadata seen).
+- **Outside scope**: `static/`, `layouts/`, `themes/`, `docs/`, `public/` (only sitemap grepped), JS/CSS, external live site (offline not fetched; suggested as future step).

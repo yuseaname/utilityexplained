@@ -1,0 +1,30 @@
+{
+  "role": "tracer",
+  "mission": "Trace ONE reader journey to the bottom: the 'my bill went up — why? — what do I do?' lifecycle across 14 assigned pages of utilityexplained.com (list in context) per .squad/SQ-065/audit-prompt.md. For each page: a standard audit entry. Then walk the actual pathway a stressed reader would take: start at 03-why-is-my-electric-bill-so-high (diagnose) -> dispute/shutoff/protection pages (act) -> budgeting/moving/assistance (plan) -> net-metering/EV/rates (forward-looking). At each hop, FOLLOW the real internal links in the markdown and record: does the page link to the logical next step? Are there dead ends (0 useful onward links)? Broken/wrong-target links? Pages that answer the same intermediate question twice (split pathways)? Deliver a PATHWAY MAP: the journey as a directed graph in text, every dead end, every missing edge that should exist (page A should link to B because a reader of A needs B). Write everything to .squad/SQ-065/wave1/tracer-journey.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). Your 14 pages (content/blog/): 03-why-is-my-electric-bill-so-high, why-did-my-utility-bill-go-up-this-month, 30-sudden-spike-in-electricity-bill-no-usage, electric-bill-breakdown-understanding-line-items, complete-guide-understanding-utility-bill, how-utility-rates-fees-usage-work-together, which-rate-plan-is-right-for-me, how-to-dispute-utility-bill, can-utility-shut-off-service, utility-assistance-programs-liheap, how-to-budget-for-utilities-in-your-first-apartment, moving-utilities-checklist, net-metering-explained, ev-charging-impact-electric-bill. Also note: average-utility-bills-by-state-2026 and 04-hidden-fees are audited by other seats — you may EXAMINE their links but do not write entries for them. Entry format per page: '### /blog/<slug>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop (patterns + quotes, or 'none'), visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps, AND an 'onward links' line (what it links to vs what a reader needs next). The journey question behind everything: with 91% bounce and 1.14 pages/session, where does the pathway break?",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; audit the markdown SOURCE under content/",
+    "114 pages total: 89 blog articles + 25 core pages",
+    "Deterministic per-page metrics (words, ilinks, sources, FAQ): .squad/content-metrics.md — ground truth; note which of your pages have low ilink counts (the metrics table shows several pages with 0-3 internal links)",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions — the journey breaking is a prime suspect",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — judge independently"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/tracer-journey.md"],
+    "notes": "grep internal links with run_command (rg '\\]\\(/' <file>) — never count links in your head; quote the link lines."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/tracer-journey.md",
+    "Every claim grounded in quoted evidence or grep output",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/tracer-journey.md exists with 14 complete entries + the PATHWAY MAP (directed graph, dead ends, missing edges)",
+    "Envelope carries: where the journey breaks (top 3 breakpoints), pages rated below 6/10, 3 highest-impact actions",
+    "Every missing-edge claim names both endpoints and the reader need that justifies it"
+  ]
+}

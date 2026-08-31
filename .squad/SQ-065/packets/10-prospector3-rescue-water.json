@@ -1,0 +1,35 @@
+{
+  "role": "prospector",
+  "mission": "RESCUE DISPATCH #3 (cartographer seat hung; you are prospector#3 on the water/rates surface). Audit these 22 water/rates blog pages of utilityexplained.com per .squad/SQ-065/audit-prompt.md with standard entries, PLUS a WATER-CLUSTER judgment: orphan detection within the cluster (water-service-charge has 0 internal links per metrics), missing spokes (obvious water questions with no page), and cannibalization candidates. Write everything to .squad/SQ-065/wave1/water-rates-pages.md. WRITE DISCIPLINE: compose in chunks (multiple write/append passes) \u2014 do NOT attempt one monolithic write.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt \u2014 cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator criteria). Your 22 pages (content/blog/): 44-how-to-lower-water-bill, average-water-usage-per-person, water-meter-leak-indicator-explained, water-meter-running-when-no-water-used, is-your-toilet-running-leak-test, drought-surcharge-on-water-bill-explained, how-sewer-charges-work-on-your-water-bill, sewer-averaging-water-bill-explained, how-to-read-a-water-meter, tiered-water-rates-explained, water-service-charge-explained, what-is-ccf-on-a-water-bill, ccf-calculator, why-did-my-water-bill-suddenly-increase, why-is-my-water-bill-higher-in-summer, why-is-my-water-bill-higher-in-winter, tiered-electricity-rates-explained, 08-time-of-use-electricity, how-to-lower-electric-bill-without-solar, how-to-read-electric-meter, how-to-read-gas-meter, mcf-vs-ccf-vs-therms-on-gas-bill. Entry format: '### /blog/<slug>/ \u2014 <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop (patterns + quotes, or none), visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps. Close with the WATER-CLUSTER judgment (orphans w/ grep-verified inbound counts, missing spokes, cannibalization).",
+  "known_facts": [
+    "Site: utilityexplained.com \u2014 Hugo static site; audit the markdown SOURCE under content/",
+    "114 pages total: 89 blog articles + 25 core pages; you own all 25 core + 22 water/rates",
+    "Deterministic per-page metrics (words, ilinks, sources): .squad/content-metrics.md \u2014 ground truth; several water pages show 0-3 internal links (water-service-charge 0, drought-surcharge 0, tiered-water 6...)",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy, Google near-zero",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) \u2014 judge independently"
+  ],
+  "resources": {
+    "roots": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"
+    ],
+    "write_paths": [
+      "/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/water-rates-pages.md"
+    ],
+    "notes": "Inbound-link counts via run_command (rg -o '\\]\\(/[^)]*\\)' content -g '*.md' | sort | uniq -c style) \u2014 quote commands. You may web_fetch https://utilityexplained.com/ to check the live nav/hubs render."
+  },
+  "constraints": [
+    "Every cluster-map claim (orphan, missing spoke, cannibalization) backed by link-count evidence",
+    "Independent judgment: do not read other workers' outputs or prior audit reports",
+    "Your ONLY write is .squad/SQ-065/wave1/water-rates-pages.md",
+    "Chunked writes \u2014 no single monolithic write"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/water-rates-pages.md exists with 22 complete entries + WATER-CLUSTER judgment",
+    "Envelope carries top-5 findings, pages below 6/10, merge/noindex candidates, 3 highest-impact actions",
+    "Every weakness cites quoted evidence"
+  ]
+}

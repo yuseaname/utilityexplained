@@ -1,0 +1,30 @@
+{
+  "role": "lieutenant",
+  "mission": "RESCUE DISPATCH (cartographer seat hung mid-artifact; you are the second-in-command taking over its CORE slice). Audit ALL 25 core pages of utilityexplained.com (hubs, authors, policies — list in context) with compact standard entries, AND produce the SITewide TOPIC-CLUSTER MAP: from the full content/ tree + internal links, derive the de-facto topic clusters, each cluster's hub, spokes, MISSING spokes (obvious questions with no page), ORPHANS (pages with 0-2 inbound internal links, grep-verified), and cross-cluster cannibalization candidates. Judge the trust surface hard: do the 5 author pages read as real people with real expertise or fabricated personas; is the editorial-policy/methodology page credible; would a skeptical reader trust this site with money-adjacent advice? Write everything to .squad/SQ-065/wave1/cartographer-core.md (NOTE: different filename than the hung seat's target — no collision). The 22 water/rates blog pages are being rescued separately — you do NOT audit those; you DO count their link graph in the cluster map.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). CORE 25 (content/, compact entries — trust/hub quality focus): _index.md, blog/_index.md, about.md, contact.md, search.md, corrections.md, disclaimer.md, privacy-policy.md, terms.md, affiliate-disclosure.md, editorial-policy.md, editorial-team.md, methodology.md, author/_index.md, author/david-chen.md, author/marcia-washington.md, author/margaret-harrington.md, author/roberto-mendoza.md, author/tanya-patterson.md, electricity-explained.md, gas-explained.md, water-explained.md, heating-cooling-explained.md, utility-bills-costs-explained.md, utilities-glossary.md. Entry format: '### <url-path>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop, visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps. Cluster map must be derived from ACTUAL link counts (rg over content/), not vibes. Also check hugo.toml + sitemap generation: local public/sitemap.xml contains only 1 URL — flag whether production sitemap is broken and how it's built/deployed. WRITE DISCIPLINE: compose the artifact in CHUNKS (multiple write/append passes of ≤8K chars each via successive edit_file appends) — do NOT attempt one monolithic write.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; markdown SOURCE under content/; 114 pages (89 blog + 25 core)",
+    "Deterministic per-page metrics: .squad/content-metrics.md — ground truth for counts",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy, Google near-zero",
+    "Wave-1 findings already landed (from sibling seats, safe to build on): two blog dead-ends with 0 internal links (net-metering-explained, ev-charging-impact-electric-bill); several 2025-12-25 batch-dated articles; strongest pages are the newest money pages (42-space-heater, do-home-energy-monitors at 8-9/10)",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*)"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/cartographer-core.md"],
+    "notes": "Inbound-link counts via run_command rg (quote commands). You may web_fetch https://utilityexplained.com/ to check the live nav/hubs render and /sitemap.xml."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/cartographer-core.md",
+    "Every cluster-map claim (orphan, missing spoke, cannibalization) backed by link-count evidence",
+    "Chunked writes for the artifact — no single monolithic write"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/cartographer-core.md exists with 25 core entries + the topic-cluster map (hubs, spokes, missing spokes, orphans with inbound counts, cross-cluster cannibalization) + sitemap verdict",
+    "Envelope carries: trust-surface verdict (authors/policies — real or fabricated, with quotes), top-5 findings, pages rated below 6/10, 3 highest-impact actions",
+    "Author-page judgment states plainly whether personas read as real experts, with quoted evidence"
+  ]
+}

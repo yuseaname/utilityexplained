@@ -10,8 +10,12 @@ Utility Explained uses editorial bylines to identify the topic desk responsible 
 
 ## Meet the Team
 
-- [Margaret Harrington — Utility Billing Analyst](/author/margaret-harrington/)
-- [David Chen — Home Energy Auditor](/author/david-chen/)
-- [Marcia Washington — Household Budget Counselor](/author/marcia-washington/)
-- [Roberto Mendoza — HVAC & Systems Editor](/author/roberto-mendoza/)
-- [Tanya Patterson — Consumer Advocate](/author/tanya-patterson/)
+Bylines mark the desk, not a person's credentials. Each desk owns its topic area end to end:
+
+- [Margaret Harrington — Bills & Rates desk](/author/margaret-harrington/)
+- [David Chen — Energy Efficiency desk](/author/david-chen/)
+- [Marcia Washington — Affordability & Assistance desk](/author/marcia-washington/)
+- [Roberto Mendoza — Heating & Cooling desk](/author/roberto-mendoza/)
+- [Tanya Patterson — Consumer Rights desk](/author/tanya-patterson/)
+
+See [how this site is produced](/editorial-team/) for the drafting, sourcing, and review workflow.

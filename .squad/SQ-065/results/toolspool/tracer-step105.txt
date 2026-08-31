@@ -1,0 +1,343 @@
+exit_code: 0
+===== which-rate-plan-is-right-for-me.md word count: 804 =====
+--- internal links:
+](/blog/05-how-to-lower-utility-bills/)
+](/blog/08-time-of-use-electricity/)
+](/blog/10-fixed-vs-variable-utility-rate/)
+](/blog/11-understanding-kwh-usage/)
+](/blog/22-minimum-bill-utility-bill-explained/)
+](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+](/blog/46-what-time-is-electricity-cheapest/)
+](/blog/49-demand-charges-electricity-bill-explained/)
+](/blog/net-metering-explained/)
+](/blog/tiered-water-rates-explained/)
+--- full body:
+---
+title: "Which Rate Plan Is Right: Fixed vs Variable vs TOU"
+slug: "which-rate-plan-is-right-for-me"
+description: "A decision framework for residential utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before you switch."
+date: 2026-08-28
+updated: 2026-08-28
+author: "David Chen"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["rate plans", "time of use", "fixed rate", "variable rate"]
+keywords: ["which rate plan should i choose", "fixed vs variable vs time of use", "best electricity rate plan"]
+image: "/images/articles/which-rate-plan-is-right-for-me/rate-plan-decision-doors.webp"
+image_alt: "Three labeled decision doors for fixed, variable, and time-of-use electricity plans."
+og_image: "/images/social/og-rate-plan-decision.webp"
+sources:
+  - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options (retrieved 2026-08-29)
+  - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf (retrieved 2026-08-29)
+  - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
+---
+
+## Quick Answer
+
+**Match the plan to when you use power, not to the headline price.** Predictable usage that resists scheduling fits a **fixed rate**; a household that can shift laundry, dishwashing, and EV charging to evenings and weekends earns real savings on **time-of-use (ToU)**; deregulated-state shoppers who watch prices can gamble on **variable**, accepting that spikes arrive unannounced. Most households are best served by fixed or ToU — the two structures whose bills you can actually predict.
+
+## The Decision List
+
+Answer these in order:
+
+1. **Can you shift 20%+ of your usage out of weekday afternoons?** (Laundry after 9pm, dishwasher delayed-start, EV charging overnight.) If yes → price a **ToU plan** against your current bill. If no → fixed.
+2. **Is your usage seasonal-heavy?** (Summer AC, winter heat.) Fixed rates smooth the per-unit price; ToU adds a second seasonal layer — check both summer and winter peak windows before switching.
+3. **Do you live in a deregulated state?** (TX, PA, OH, and a dozen others.) Then you can shop retail plans — compare real offers on your state's official marketplace, not marketer sites, and read the [fixed vs variable comparison with real offers](/blog/10-fixed-vs-variable-utility-rate/).
+4. **Does your utility bill a demand charge or tiered water/energy rate?** Those change the math differently — see [how demand charges work](/blog/49-demand-charges-electricity-bill-explained/) and [how tiered rates work](/blog/tiered-water-rates-explained/).
+
+{{< visual src="/images/articles/which-rate-plan-is-right-for-me/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
+
+## How the Plan Types Compare
+
+| | Fixed rate | Variable rate | Time-of-use (ToU) | Tiered |
+|---|---|---|---|---|
+| **Price per unit** | Locked for a term | Moves with market/month | Varies by time block | Rises past a usage threshold |
+| **Bill predictability** | High | Low | Medium — predictable *if* schedule is stable | High until you cross the tier |
+| **Best for** | Budgeters, stable usage | Price-watchers in deregulated markets | Shift-able schedules, EV owners, smart-home users | Conservation-minded, low-usage households |
+| **Main risk** | Paying a premium when market prices fall | Winter/summer spikes hit unprepared | Afternoon AC or laundry erases savings | One hot month jumps a tier |
+| **Where explained** | [Fixed vs variable, real offers](/blog/10-fixed-vs-variable-utility-rate/) | same | [Time-of-use rates explained](/blog/08-time-of-use-electricity/) | [Tiered water rates](/blog/tiered-water-rates-explained/) |
+
+## Questions to Ask Your Utility Before Switching
+
+- What rate plans am I currently eligible for, and what is the *all-in* per-unit price on each (energy + delivery + riders, not just the supply line)?
+- Is there a fee to switch plans, a minimum term, or a seasonal window when switches are not allowed?
+- For ToU: what exactly are the peak/off-peak windows, and do they change seasonally? (Utilities publish these in tariff sheets — for example, Pacific Gas & Electric's E-TOU-C schedule defines its windows in its published tariff.)
+- Can I see my hourly usage data for the last 12 months to simulate what my bill would have been on each plan?
+- Does net metering, a demand charge, or a minimum bill interact with the plan? ([Net metering explained](/blog/net-metering-explained/), [minimum bills](/blog/22-minimum-bill-utility-bill-explained/).)
+
+That fourth question is the one most readers skip — and the one that turns a guess into a calculation. The national average residential price was about 18.3¢ per kWh in mid-2026 (U.S. EIA), but your all-in local rate is the only number that matters for this decision.
+
+## Every Rate Page on This Site
+
+- [Fixed vs variable rates — real TX/PA/OH offers](/blog/10-fixed-vs-variable-utility-rate/)
+- [Time-of-use electricity rates explained](/blog/08-time-of-use-electricity/)
+- [What time is electricity cheapest?](/blog/46-what-time-is-electricity-cheapest/)
+- [Demand charges on an electricity bill](/blog/49-demand-charges-electricity-bill-explained/)
+- [Tiered water rates explained](/blog/tiered-water-rates-explained/)
+- [Net metering explained](/blog/net-metering-explained/)
+- [Delivery charge vs supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
+- [Understanding kWh — the unit behind every plan](/blog/11-understanding-kwh-usage/)
+
+## After You Pick: Make the Plan Pay
+
+A rate plan is a pricing structure, not a savings plan — the savings come from matching behavior to it. Once your structure is right, [how to lower your utility bills](/blog/05-how-to-lower-utility-bills/) walks the prioritization: measure first, then fix the biggest line.
+
+## Sources
+
+1. [U.S. DOE: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)
+2. [PG&E E-TOU-C tariff schedule (rate windows example)](https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf)
+3. [U.S. EIA: Electricity Monthly Update, end-use prices](https://www.eia.gov/electricity/monthly/update/end-use.php)
+
+================================================================
+===== net-metering-explained.md word count: 1320 =====
+--- internal links:
+--- full body:
+---
+title: "Net Metering: How Solar Affects Your Electric Bill"
+slug: "net-metering-explained"
+description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
+date: 2026-08-10
+updated: 2026-08-30
+author: "David Chen"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]
+keywords: ["net metering explained", "solar panels electric bill", "solar credits", "net metering", "solar ROI"]
+image: "/images/articles/net-metering-explained/custom_hero.webp"
+sources:
+  - https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf (retrieved 2026-08-29)
+  - https://www.energy.gov/cmei/systems/homeowners-guide-solar (retrieved 2026-08-29)
+  - https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing (retrieved 2026-08-29)
+  - https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing (retrieved 2026-08-29)
+---
+
+## Quick Answer
+
+**Net metering is a billing arrangement between a solar-system owner and a utility.** When a qualifying system exports electricity to the grid, the utility may apply a credit under its current tariff. The credit rate, rollover rules, settlement date, fees, eligibility, and whether net metering is available all depend on the serving utility and local rules.[1][2]
+
+Do not use a national payback table or another state's policy to predict your bill. Ask your utility for the current interconnection agreement and tariff that apply to your address.
+
+## How the Arrangement Works
+
+DOE describes net metering as electricity flowing both to and from a customer, typically through a bidirectional meter.[1] When solar generation is greater than use at a given time, electricity can be exported. When on-site generation is lower than use, electricity is imported from the grid.
+
+The bill then applies the utility's own rules to imports, exports, credits, fixed charges, taxes, and any minimum bill. A bill may show some combination of imported kWh, exported kWh, generation, usage, credits, and a remaining balance, but labels vary by utility.
+
+## What to Check Before You Sign or Install
+
+1. **Eligibility:** Does the utility offer an export-credit or net-metering arrangement for your system type and location?
+2. **Credit calculation:** Is the export credit based on retail price, another published rate, or a program-specific calculation?
+3. **Credit timing:** When do credits apply, expire, settle, or carry forward?
+4. **Fixed charges:** Which customer, delivery, interconnection, or minimum charges still apply?
+5. **Rate plan:** Does your current plan affect the value of imports or exports?
+6. **Interconnection:** What application, inspection, meter, insurance, and operating requirements apply?
+
+Keep copies of the tariff, interconnection agreement, and first several solar bills. They are more useful than a generic online example when a credit or charge looks unfamiliar.
+
+## How to Read a Solar Bill
+
+Compare the current bill with the utility's tariff and look for:
+
+| Item | Question to ask |
+|---|---|
+| Grid import | How much electricity did the account receive from the grid? |
+| Grid export | How much eligible electricity did the account send to the grid? |
+| Credit | What tariff rule determined its value? |
+| Fixed charges | Which charges apply regardless of solar generation? |
+| Billing period | Do the dates match the utility's solar settlement rules? |
+| Rate plan | Does the account use a time-varying or other special rate? |
+
+DOE's homeowner solar guide explains that compensation for exported solar power is an arrangement between the system owner and the utility.[2] That is why the utility's current documents—not a national “Net Metering 1.0/2.0/3.0” label—should control your decision.
+
+## Questions to Ask the Utility
+
+- Which tariff applies to my proposed or existing system?
+- How are exports measured and credited?
+- Which charges remain when production exceeds use?
+- What happens to unused credits at the end of a billing period or program year?
+- Can a rate-plan change alter the value of exported electricity?
+- Where can I read the current interconnection and consumer-disclosure documents?
+
+## What Exports Actually Pay: A Real-State Example
+
+California shows how far export compensation can move. Under the state's older NEM 2.0 rules, exported solar energy was credited near the full retail electricity rate—roughly 30 cents per kWh at reported averages. That made a solar array's spare daytime generation relatively valuable.
+
+In 2023, California moved most new customers to the Net Billing Tariff (often called “NEM 3.0”). Unlike NEM 2.0, the Net Billing Tariff does not credit exports at the retail rate. Instead, Southern California Edison (SCE) explains that export credits “reflect the electricity's value to the electric grid during each hour of the day,” with prices set from the CPUC Avoided Cost Calculator as of January 1 of the calculation year.[3]
+
+The practical result, as reported by secondary sources, is that average export credits now run roughly 5–8 cents per kWh—about 75% below NEM 2.0 levels. That figure is reported by industry commentators and is not a tariff-verified number; always check the current tariff for your own utility and interconnection vintage.[4]
+
+One piece of structure does give California customers a degree of certainty: SCE confirms that Net Billing Tariff vintages 2023 through 2026 “have fixed prices for 9 years” from interconnection. After that period, export prices may reset.[3] That 9-year lock is the one planning certainty in the structure, though it does not fix imported-energy rates, fixed charges, or other bill items.
+
+### What That Means in Dollars
+
+To make the impact concrete, here is labeled illustrative math—not a quote, a tariff, or a promise:
+
+- A home exports 400 kWh in a month.
+- At an average export credit of 6 cents per kWh, that export is worth about 400 × $0.06 = $24 per month.
+
+Now consider the same export shifted to evening hours under a time-of-use battery strategy. Because NBT export prices vary by hour and typically pay more in the evening, the same 400 kWh moved to a higher-value window is worth multiples of $24. That gap is a large part of why the Net Billing Tariff pushes customers toward battery storage: storage lets a customer keep daytime solar and export it when grid value is higher.[4]
+
+The national picture still varies. Policies remain state-by-state: many states still credit exported solar near the retail rate, and California's shift does not mean net metering is disappearing everywhere. Before relying on any estimate, get the current tariff and interconnection agreement for your own service address.
+
+## Frequently Asked Questions
+
+{{< faq "Will I still receive an electric bill with solar?" >}}
+Usually, a grid-connected solar customer continues to receive a utility statement. The amount due and the charges shown depend on the local tariff, imports, exports, credits, and fixed charges.
+{{< /faq >}}
+
+{{< faq "Does every utility credit exports the same way?" >}}
+No. Credit calculation and eligibility are set by the utility and applicable local rules. Obtain the current tariff for your service address before relying on an estimate.
+{{< /faq >}}
+
+{{< faq "Is net metering the same as going off-grid?" >}}
+No. Net metering concerns a grid-connected customer's billing arrangement for electricity that moves between the customer and grid. An off-grid system is a separate design and reliability decision.
+{{< /faq >}}
+
+{{< faq "Is net metering going away?" >}}
+Not everywhere. Net metering and export-credit rules change state by state and utility by utility. California, for example, moved most new customers from NEM 2.0 retail-rate credits to the Net Billing Tariff, but many other states still credit exports near the retail rate. Check your utility's current tariff for your service address.
+{{< /faq >}}
+
+{{< faq "Do I need a battery for solar?" >}}
+It depends on your tariff and goals. In California's Net Billing Tariff, export credits vary by hour, so a battery that shifts daytime solar to higher-value evening hours can meaningfully increase the value of exported energy. In states that still credit exports at the retail rate, storage may be less financially necessary but can still provide backup value.
+{{< /faq >}}
+
+{{< faq-schema >}}
+
+## Sources
+
+1. [U.S. Department of Energy: Net Metering](https://www.energy.gov/sites/prod/files/2014/05/f15/fupwg_may2014_net_metering.pdf)
+2. [U.S. Department of Energy: Homeowner's Guide to Solar](https://www.energy.gov/cmei/systems/homeowners-guide-solar)
+3. [Southern California Edison: Understanding Export Pricing](https://www.sce.com/customer-service-center/help-center/solar/solar-billing-plan/understanding-export-pricing)
+4. [California Public Utilities Commission: Net Energy Metering and Net Billing](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing)
+================================================================
+===== ev-charging-impact-electric-bill.md word count: 1676 =====
+--- internal links:
+--- full body:
+---
+title: "How EV Charging Can Affect Your Electric Bill"
+slug: "ev-charging-impact-electric-bill"
+description: "Estimate EV charging electricity from your vehicle, driving, and utility rate plan instead of relying on a national cost average."
+date: 2026-08-10
+updated: 2026-08-28
+author: "David Chen"
+category: "Electricity"
+categories: ["Electricity"]
+tags: ["EV charging", "electric vehicle", "electric bill", "time-of-use rates"]
+keywords: ["EV charging cost", "electric bill increase", "home EV charging", "time-of-use rates"]
+image: "/images/articles/ev-charging-impact-electric-bill/custom_hero.webp"
+sources:
+  - https://afdc.energy.gov/fuels/electricity-charging-home
+  - https://www.energy.gov/save/home-upgrades
+  - https://www.eia.gov/electricity/sales_revenue_price/
+  - https://www.energystar.gov/products/ev_chargers
+---
+
+{{< affiliate-disclosure >}}
+
+## Quick Answer
+
+**Home EV charging adds electricity use to the account, but the dollar impact depends on the vehicle's measured energy use, miles driven, charging losses, and the rate plan on the utility bill.** Do not rely on a national monthly-cost estimate or a generic public-charging comparison.
+
+The Department of Energy's Alternative Fuels Data Center notes that some utilities offer residential time-of-use rates or other charging incentives. Eligibility, hours, equipment requirements, and prices are utility-specific.[1]
+
+## Level 1 vs Level 2 Charging: Comparison
+
+| Feature | Level 1 (120V) | Level 2 (240V) |
+|---|---|---|
+| Typical charging speed | 3–5 miles of range per hour | 25–46 miles of range per hour |
+| Typical circuit requirement | Standard 120V outlet (15A or 20A) | Dedicated 240V circuit (20–60A breaker) |
+| Equipment needed | Cable included with most EVs | Separate charger unit (like the Emporia model below) |
+| Installation cost | $0 (use existing outlet) | $200–$2,000 depending on panel capacity, wiring run, permits |
+| Efficiency (energy to battery) | ~80–85% (charging losses higher) | ~90–95% (less heat loss at higher voltage) |
+| Full recharge time (60 kWh battery, empty) | 40–50 hours | 4–8 hours |
+| Best for | Plug-in hybrids (PHEVs) with small batteries; occasional top-offs | BEVs with large batteries; daily charging needs |
+| Utility TOU compatibility | Limited — may not finish charging within a 4–6 hour off-peak window | Excellent — can fill most batteries within a standard off-peak period |
+
+Level 2 charging is generally the practical minimum for battery-electric vehicles if you drive more than 20–30 miles/day and want to take advantage of time-of-use rates. The speed difference means a Level 1 charger may need 12+ hours to replace daily driving miles, making it hard to charge only during a short off-peak window.
+
+## Real Cost-Per-Mile Math
+
+To calculate what each mile costs on your electricity rate, use this formula:
+
+**Cost per mile = (Vehicle energy consumption in kWh/mile) × (Your electricity rate in $/kWh)**
+
+Example calculations at two rates — the national average (18.4¢/kWh) and a real time-of-use off-peak rate. For the TOU rate, we use the EIA Electric Power Monthly Table 5a (retrieved 2026-08-28) which shows a typical residential off-peak rate of **11.3¢/kWh** in Georgia Power's standard residential TOU plan (summer super-off-peak, midnight–6 AM, from Georgia Power Schedule R-TOU-8, EIA Form 861 data). This is representative of southern utilities with overnight EV rates.
+
+| Vehicle class | Typical efficiency[1] | Cost/mile @ 18.4¢/kWh | Cost/mile @ 11.3¢/kWh (TOU off-peak) |
+|---|---|---|---|
+| Small EV (Nissan Leaf, Mini SE) | 3.5–4.0 mi/kWh (0.25–0.29 kWh/mi) | 4.6–5.3¢/mile | 2.8–3.3¢/mile |
+| Midsize EV (Tesla Model 3/Y, Hyundai Ioniq 5, Ford Mustang Mach-E) | 3.0–3.5 mi/kWh (0.29–0.33 kWh/mi) | 5.3–6.1¢/mile | 3.3–3.7¢/mile |
+| Large EV / Truck (Ford F-150 Lightning, Rivian R1T, GMC Hummer EV) | 2.0–2.5 mi/kWh (0.40–0.50 kWh/mi) | 7.4–9.2¢/mile | 4.5–5.7¢/mile |
+
+**At the off-peak TOU rate of 11.3¢/kWh**, a midsize EV costs about **3.5¢/mile** compared to a gasoline car at 25 MPG and $3.50/gallon = 14.0¢/mile. The EV saves roughly 75% per mile on fuel.
+
+**At the national average rate of 18.4¢/kWh without TOU**, a midsize EV costs about **5.7¢/mile** — still a 60% savings versus a 25 MPG gas car at $3.50/gallon.
+
+## Battery-Size-to-Bill Examples
+
+Three common EV battery sizes and what a full empty-to-full charge costs at the two rates above, plus the DOE-estimated charging loss of about 10–15% for Level 2 (included in the numbers below).
+
+| Vehicle example | Usable battery size | kWh from wall (x 1.12 for charging loss) | Full charge cost @ 18.4¢/kWh | Full charge cost @ 11.3¢/kWh TOU | Monthly cost for 1,000 miles |
+|---|---|---|---|---|---|
+| Nissan Leaf (40 kWh) | 36 kWh | 40 kWh | **$7.36** | **$4.52** | $40–$55 @ 18.4¢ ($25–$34 @ TOU) |
+| Tesla Model Y Long Range (80 kWh) | 75 kWh | 84 kWh | **$15.46** | **$9.49** | $52–$63 @ 18.4¢ ($32–$39 @ TOU) |
+| Ford F-150 Lightning Extended Range (131 kWh) | 120 kWh | 134 kWh | **$24.66** | **$15.14** | $72–$92 @ 18.4¢ ($44–$57 @ TOU) |
+
+*Monthly cost range reflects the difference between large-SUV (2.0 mi/kWh) and compact-car (3.5 mi/kWh) efficiency within each battery-size class. Charging loss of 12% added. Actual monthly cost depends on your driving mix, temperature, and driving style.*
+
+## The Plan-Check List
+
+Before buying an EV or installing a charger, check these items with your utility:
+
+| Check | Why it matters | Where to find it |
+|---|---|---|
+| Is a residential TOU or EV rate plan available at your address? | Without a time-varying rate, you pay the same per kWh regardless of when you charge — eliminating the primary financial benefit of overnight charging. | Utility website → Residential Rates or EV Programs page. Call customer service for address-specific tariff availability. |
+| What are the exact off-peak hours and seasonal rules? | Some rates have different windows for summer and winter. Charging that starts before off-peak begins can be billed at the peak rate for the entire session. | The rate tariff document (often a PDF on the utility's website). Look for "Schedule" or "Rate Rider" specific to your plan. |
+| Does enrollment require a separate meter or specific charger? | Some utilities require a second meter (adds a monthly meter fee) or a charger that reports usage to the utility. The Emporia charger below includes WiFi for app-based usage tracking but is not load-management certified for all utility programs. | Utility EV program page → "Equipment Requirements" section. |
+| Are there demand charges, minimum bills, or grid-access fees? | In some territories, a TOU rate includes a per-month fixed charge that can offset savings from off-peak charging. Calculate net savings using your total estimated monthly kWh. | Same tariff document. Look for "Customer Charge," "Minimum Bill," or "Facility Charge" line items. |
+| Does the utility offer a bill-comparison tool or calculator specific to EV rates? | Some utilities let you upload your past 12 months of usage and see what you would have paid on the EV rate. This is the most reliable way to compare. | Utility website → EV or TOU plan page → Rate Comparison Tool. |
+
+## Estimate Your Own Charging Use
+
+Use the vehicle's energy-use information and your own driving record. Keep the calculation separate from the bill until you have confirmed the applicable rate and any charging-equipment losses.
+
+1. Record miles driven during a billing period.
+2. Find the vehicle's rated or measured energy-use information in its manual, display, or manufacturer materials.
+3. Review your charging history if the vehicle or charger provides it.
+4. Compare the added kWh with the kWh and billing days shown on the electric statement.
+5. Apply the rate for the specific period and time window listed in your tariff.
+
+If the charger reports delivered energy, keep those reports with the monthly bill. They are more useful than a generic efficiency assumption when tracking an individual account.
+
+## Check the Rate Plan Before Changing Habits
+
+Time-of-use pricing is not the same everywhere. Some accounts have a flat rate, while others have different prices by time, season, tier, or demand rule. Before scheduling overnight charging, ask the utility:
+
+- Is a residential EV or time-of-use plan available at my address?
+- What are the current time windows, seasonal rules, and price components?
+- Does enrollment require a specific charger, meter, or account setup?
+- Are there demand charges, minimum bills, or other conditions that apply?
+- How can I compare my current plan with the proposed plan using my actual usage?
+
+## Home Equipment and Safety
+
+Have charging equipment installed and evaluated according to the equipment instructions, local requirements, and the electrical professional's assessment. Panel capacity, circuit loading, wiring, and permits are site-specific; do not decide that an existing panel can support charging from a generic ampacity table.
+
+If the math says home charging is your plan, the equipment decision is simple: a Level 2 charger turns a 12-hour trickle into a 3–4 hour fill, and a WiFi-enabled one lets you schedule charging into the off-peak window your rate plan rewards.
+
+{{< product-box asin="B09ZNN3JB7" name="Emporia Level 2 EV Charger (48 Amp, J1772)" label="Charge in the cheap window" description="48A/240V hardwired charger, up to 46 miles of range per hour, WiFi scheduling from the app — set it to start at your off-peak rate and the cheap hours do the work (Emporia spec sheet). Works with every J1772 EV; Tesla via adapter." button="Check price on Amazon" >}}
+
+Want the charging cost separated from the rest of the house on your bill? The same brand makes the circuit-level monitor we use elsewhere on this site:
+{{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 energy monitor — see EV charging as its own line" >}}.
+
+## Compare Bills, Not Marketing Claims
+
+After charging begins, compare similar billing periods and record driving, charging location, billing days, rate-plan changes, and major household loads. If the total rises unexpectedly, separate vehicle kWh from weather, heating or cooling, and other changes before assigning a cause.
+
+## Sources
+
+1. [U.S. Department of Energy Alternative Fuels Data Center: Charging Electric Vehicles at Home](https://afdc.energy.gov/fuels/electricity-charging-home) — home-charging overview and utility time-of-use/incentive context.
+2. [U.S. Department of Energy: Home Upgrades](https://www.energy.gov/save/home-upgrades)
+3. [U.S. Energy Information Administration: Electric Sales, Revenue, and Average Price Table 5a](https://www.eia.gov/electricity/sales_revenue_price/) — residential average rates by state and utility (retrieved 2026-08-28)
+4. [ENERGY STAR: EV Chargers](https://www.energystar.gov/products/ev_chargers) — certified charging equipment efficiency standards
+================================================================

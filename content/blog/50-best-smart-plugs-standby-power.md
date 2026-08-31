@@ -28,6 +28,8 @@ Do not buy a plug because of a generic payback promise. Start by identifying dev
 
 ## The Measurement-First Workflow
 
+{{< visual src="/images/articles/50-best-smart-plugs-standby-power/smart-plug-workflow.webp" alt="The standby-power audit in three steps: meter the suspect device with a measuring smart plug, assess a full week of readings, then automate a schedule that switches proven offenders off." wide="true" >}}
+
 Before buying any smart plug or power strip, confirm that standby reduction is worth pursuing at your address. This three-step process matches the DOE-recommended approach for tackling standby power: measure, assess, then automate.[1]
 
 ### Step 1: Meter

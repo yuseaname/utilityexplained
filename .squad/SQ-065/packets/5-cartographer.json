@@ -1,0 +1,30 @@
+{
+  "role": "cartographer",
+  "mission": "Map the whole territory: (A) audit ALL 25 core pages of utilityexplained.com (hubs, authors, policies — list in context) with compact standard entries; (B) audit the 22-page water/rates cluster (list in context) with standard entries; (C) produce the SITewide TOPIC-CLUSTER MAP: from the full content/ tree + internal links, derive the site's de-facto topic clusters (bill anatomy, water, HVAC, rates, assistance/protection, money/gadgets...), each cluster's hub page, its spokes, its MISSING spokes (obvious cluster questions with no page), ORPHANS (pages with 0-2 inbound internal links — grep the whole tree), and cannibalization candidates ACROSS clusters. Judge the trust surface hard: do the 5 author pages read as real people with real expertise or as fabricated personas; is the editorial-policy/methodology page credible; would a skeptical reader (or Google's quality raters) trust this site with money-adjacent advice? Write everything to .squad/SQ-065/wave1/cartographer-map.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria). [A] CORE 25 (content/, compact entries — trust/hub quality focus): _index.md, blog/_index.md, about.md, contact.md, search.md, corrections.md, disclaimer.md, privacy-policy.md, terms.md, affiliate-disclosure.md, editorial-policy.md, editorial-team.md, methodology.md, author/_index.md, author/david-chen.md, author/marcia-washington.md, author/margaret-harrington.md, author/roberto-mendoza.md, author/tanya-patterson.md, electricity-explained.md, gas-explained.md, water-explained.md, heating-cooling-explained.md, utility-bills-costs-explained.md, utilities-glossary.md. [B] WATER/RATES 22 (content/blog/, standard entries): 44-how-to-lower-water-bill, average-water-usage-per-person, water-meter-leak-indicator-explained, water-meter-running-when-no-water-used, is-your-toilet-running-leak-test, drought-surcharge-on-water-bill-explained, how-sewer-charges-work-on-your-water-bill, sewer-averaging-water-bill-explained, how-to-read-a-water-meter, tiered-water-rates-explained, water-service-charge-explained, what-is-ccf-on-a-water-bill, ccf-calculator, why-did-my-water-bill-suddenly-increase, why-is-my-water-bill-higher-in-summer, why-is-my-water-bill-higher-in-winter, tiered-electricity-rates-explained, 08-time-of-use-electricity, how-to-lower-electric-bill-without-solar, how-to-read-electric-meter, how-to-read-gas-meter, mcf-vs-ccf-vs-therms-on-gas-bill. Entry format: '### <url-path>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop, visual_gaps, action + next steps. [C] The cluster map must be derived from ACTUAL link counts (grep the tree), not vibes. Note: the built public/sitemap.xml appears stale (1 URL) — check hugo.toml + how the sitemap is generated/deployed and flag if production sitemap is broken.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; audit the markdown SOURCE under content/",
+    "114 pages total: 89 blog articles + 25 core pages; you own all 25 core + 22 water/rates",
+    "Deterministic per-page metrics (words, ilinks, sources): .squad/content-metrics.md — ground truth; several water pages show 0-3 internal links (water-service-charge 0, drought-surcharge 0, tiered-water 6...)",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy, Google near-zero",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — judge independently"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/cartographer-map.md"],
+    "notes": "Inbound-link counts via run_command (rg -o '\\]\\(/[^)]*\\)' content -g '*.md' | sort | uniq -c style) — quote commands. You may web_fetch https://utilityexplained.com/ to check the live nav/hubs render."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/cartographer-map.md",
+    "Every cluster-map claim (orphan, missing spoke, cannibalization) backed by link-count evidence",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/cartographer-map.md exists with 25 core entries + 22 water/rates entries + the topic-cluster map (hubs, spokes, missing spokes, orphans with inbound counts, cross-cluster cannibalization)",
+    "Envelope carries: trust-surface verdict (authors/policies), top-5 findings, pages rated below 6/10, sitemap status, 3 highest-impact actions",
+    "Author-page judgment states plainly whether personas read as real experts, with quoted evidence"
+  ]
+}

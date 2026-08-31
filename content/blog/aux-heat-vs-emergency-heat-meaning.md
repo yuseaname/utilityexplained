@@ -65,25 +65,21 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               </li>
             </ul>
 
-<h2 id="the-problem">The problem: \</h2>
+<h2 id="the-problem">The problem: a thermostat label and a bigger bill</h2>
 <p>
-              Most people notice aux heat the same way: it appears suddenly on the
-              thermostat, the system seems to run longer, and the next bill feels
-              out of proportion.
-            </p>
-            <p>
-              The external problem is obvious: <strong>higher usage</strong>.
-              The internal problem is the one that keeps you up: <strong>"Is something broken?"</strong>
-              And the philosophical problem is fair: this shouldn't require a
-              dictionary.
-            </p>
-            <p>
-              Here's the reassuring part: <strong>aux heat is often normal</strong>
-              in cold weather. The goal of this guide is to help you tell the
-              difference between "normal backup heat" and "something that needs attention."
-            </p>
+  Most people notice aux heat the same way: it appears suddenly on the
+  thermostat, the system seems to run longer, and the next bill feels
+  out of proportion. Two questions follow immediately: is something broken,
+  and what do these two labels actually do?
+</p>
+<p>
+  Here's the reassuring part: <strong>aux heat is often normal</strong>
+  in cold weather. The goal of this guide is to help you tell the
+  difference between "normal backup heat" and "something that needs attention."
+</p>
 
 <h2 id="simple-model">The simple model: heat pump first, backup heat second</h2>
+{{< visual src="/images/articles/aux-heat-vs-emergency-heat-meaning/aux-thermostat-display.webp" alt="Thermostat display showing an amber Aux Heat badge with outdoor temperature in the 40s, beside a cost strip: heat-pump heating costs 1x per hour while aux backup heat costs 2 to 3 times as much." >}}
 <p>
               A heat pump is like an air conditioner that can run in reverse.
               Instead of making heat by burning fuel, it <strong>moves heat</strong>
@@ -138,11 +134,11 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If your winter electric bill spiked, the broader explanation is in
-              <a href="/blog/why-is-my-electricity-bill-so-high-in-winter/"> Why Is My Electricity Bill So High in Winter?</a>
+              <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electric Bill So High?</a>
               It explains how heating load dominates many winter bills.
             </p>
 
-<h2 id="emergency-heat">What Emergency Heat means (and when it</h2>
+<h2 id="emergency-heat">What Emergency Heat means (and when it's the right call)</h2>
 <p>
               <strong>Emergency Heat</strong> is usually a manual setting that tells
               the system: "Don't use the heat pump. Use backup heat only."
@@ -167,7 +163,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               If you're comparing gas heat and electric heat (including heat pumps),
               the bigger context is
-              <a href="/blog/gas-vs-electric-heating-cost-comparison/"> Gas vs Electric Heating: Cost Comparison</a>.
+              <a href="/blog/48-heat-pump-vs-gas-furnace-savings/"> Gas vs Electric Heating: Cost Comparison</a>.
             </p>
 
 <h2 id="what-to-look-for">What to look for (without becoming an HVAC tech)</h2>

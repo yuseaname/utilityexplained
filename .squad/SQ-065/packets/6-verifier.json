@@ -1,0 +1,30 @@
+{
+  "role": "verifier",
+  "mission": "Mechanical re-derivation sweep over utilityexplained.com content: CONFIRM / REFUTE / UNVERIFIED per claim, per .squad/SQ-065/audit-prompt.md's credibility/freshness criteria. Four jobs: (1) FRESHNESS SWEEP across ALL 89 blog pages — grep for year references (2023/2024/2025/2026), stale statistics without current-year counterpoint (the metrics table flags staleY>0 on 11-understanding-kwh, 18-fuel-adjustment, 04-hidden-fees, 01-electric-bill, drought-surcharge, 45-generator(4), 48-heat-pump-vs-furnace(5), net-metering, how-to-lower-without-solar, electric-bill-breakdown, ductless-mini-split), unpublishable rot, and 'updated' frontmatter that doesn't match content reality; (2) SOURCE VERIFICATION — sample 12 numeric claims from the site's most source-heavy pages (EIA figures, average-bill numbers, payback periods on the money pages) and re-derive them against primary sources via web_search/web_fetch (cite URL + retrieved date); (3) METRICS TABLE AUDIT — spot-check 10 rows of .squad/content-metrics.md against the actual files (recount words/links/sources via wc/grep; flag discrepancies); (4) RENDERED-VS-SOURCE — web_fetch 5 live pages (01-how-to-read-your-electric-bill, do-home-energy-monitors-save-money, which-rate-plan-is-right-for-me, utilities-glossary, /) and compare: does the live HTML match the source markdown (no missing figures/boxes), are title/meta/description present and sane, is the sitemap at https://utilityexplained.com/sitemap.xml complete or broken. Write the full claim tables to .squad/SQ-065/wave1/verifier-claims.md.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (sections: Credibility and trust; Freshness and maintenance; Indexation and quality risks). Your verdict vocabulary is CONFIRMED / REFUTED / UNVERIFIED — every claim gets one, with the evidence line/URL that produced it. Web citations must include URL + retrieved date (2026-08-30). Never cite a measurement command you did not run; never claim a fetch you did not make.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; markdown SOURCE under content/ is authoritative; live render at https://utilityexplained.com",
+    "Deterministic metrics: .squad/content-metrics.md + .squad/content-metrics.json (generated 2026-08-30 by scripts/content_quality_metrics.py — you may re-run it and diff)",
+    "Repo also has scripts/check_rendered_output.py and scripts/check_image_paths.py — you may run them inside roots and report their findings",
+    "The local public/sitemap.xml contains only 1 URL (stale build?) — establishing whether PRODUCTION sitemap is broken is a priority question",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 91% bounce, Bing-heavy, Google near-zero"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/verifier-claims.md"],
+    "notes": "EIA (eia.gov), EPA WaterSense, and utility-regulator sources are the expected primary sources for the site's figures."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: no writes under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/verifier-claims.md",
+    "Every verdict carries evidence: quoted line + file path, or URL + retrieved date for web checks",
+    "Independent judgment: do not read other workers' outputs or prior audit reports (repo-root *AUDIT*/VISUAL*/AGENCY*/AMAZON* files)"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/verifier-claims.md exists with: freshness table (all staleY-flagged pages adjudicated), 12+ source-verification verdicts with URLs, 10-row metrics spot-check, 5-page rendered-vs-source comparison, production sitemap verdict",
+    "Envelope carries: counts (CONFIRMED/REFUTED/UNVERIFIED), the REFUTED list in full (site-credibility incidents), sitemap status, 3 highest-impact actions",
+    "Zero unrun measurements cited — every number traceable to a command you ran or a URL you fetched"
+  ]
+}

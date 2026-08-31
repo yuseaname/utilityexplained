@@ -96,6 +96,8 @@ If the charger reports delivered energy, keep those reports with the monthly bil
 
 ## Check the Rate Plan Before Changing Habits
 
+{{< visual src="/images/articles/ev-charging-impact-electric-bill/ev-tou-charging-window.webp" alt="Illustrative 24-hour electricity price curve: the cheapest hours fall between midnight and 6 AM — the EV charging window — while prices climb through the late-afternoon peak, which is why the same battery costs far less when charged overnight on a time-of-use plan." wide="true" >}}
+
 Time-of-use pricing is not the same everywhere. Some accounts have a flat rate, while others have different prices by time, season, tier, or demand rule. Before scheduling overnight charging, ask the utility:
 
 - Is a residential EV or time-of-use plan available at my address?

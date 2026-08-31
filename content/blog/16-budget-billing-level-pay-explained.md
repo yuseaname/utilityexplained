@@ -12,7 +12,7 @@ tags: ["budget billing", "level pay", "utility bills"]
 keywords: ["budget billing", "level pay plan", "utility payment plan"]
 image: "/images/articles/budget-billing-level-pay-explained/image.webp"
 sources:
-  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+  - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (CFPB Get help paying rent and bills, retrieved 2026-08-29)
 ---
 
 ## Quick Answer

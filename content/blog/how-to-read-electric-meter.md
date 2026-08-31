@@ -39,7 +39,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             </p>
             <p>
               Not sure what the meter is measuring? Read
-              <a href="/blog/what-is-a-kilowatt-hour/"> what a kilowatt-hour is</a>
+              <a href="/blog/11-understanding-kwh-usage/"> what a kilowatt-hour is</a>
               first -- it makes the numbers feel less abstract.
             </p>
 
@@ -199,7 +199,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
 - [Understanding kWh usage: what a normal month of electricity use looks like](/blog/11-understanding-kwh-usage/) — judge whether your numbers are typical.
 - [Why is my electric bill so high? The full diagnosis checklist](/blog/03-why-is-my-electric-bill-so-high/) — when the reading looks right but the total doesn't.
 - [Electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/) — from raw kWh to line items.
-- [What is a kilowatt hour?](/blog/what-is-a-kilowatt-hour/) — the unit on the display, in plain English.
+- [What is a kilowatt hour?](/blog/11-understanding-kwh-usage/) — the unit on the display, in plain English.
 
 {{< faq "How often should I read my electric meter?" >}}
 

@@ -29,6 +29,8 @@ sources:
 
 Solar is a generation decision; these measures cut consumption, need no roof equipment, and cost little or nothing.
 
+> **Scope:** this is the short, ranked path for readers who specifically want bill relief *without* a solar project. For the full 17-step walkthrough with per-step bill math, phantom-load tables, and the payback worked example, see [How to Lower Your Electric Bill: The Complete Guide](/blog/how-to-lower-electric-bill-complete-guide/). The two pages agree; this one is the executive route.
+
 ## Target the Big Uses First
 
 In U.S. homes, **space heating and air conditioning account for about 52% of energy use**, and water heating takes nearly 20% — DOE's figure.[3][4] Nationally, that's the 899 kWh/month the average household uses, at an average residential price of 18.34¢ per kWh (June 2026).[1][2][5]

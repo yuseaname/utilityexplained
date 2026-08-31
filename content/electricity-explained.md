@@ -244,6 +244,7 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 </p>
 
 <h2 id="electricity-guides">Browse Our Electricity Guides</h2>
+<p>For the cross-utility savings program — electric, gas, and water together, ranked by payback — see the <a href="/lower-your-bills/">Lower Your Bills hub</a>.</p>
 <p>Explore our complete library of electricity bill guides, organized by topic:</p>
 
 <h3>Understanding Your Bill</h3>
@@ -272,7 +273,7 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 
 <h3>Meters and Usage</h3>
 <ul>
-<li><a href="/blog/what-is-a-kilowatt-hour/">What Is a Kilowatt-Hour (kWh)?</a></li>
+<li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a></li>
 <li><a href="/blog/11-understanding-kwh-usage/">Understanding kWh Usage</a></li>
 <li><a href="/blog/how-to-read-electric-meter/">How to Read an Electric Meter</a></li>
 <li><a href="/blog/how-do-smart-meters-work/">How Do Smart Meters Work?</a></li>

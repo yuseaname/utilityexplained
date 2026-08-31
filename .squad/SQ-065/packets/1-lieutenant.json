@@ -1,0 +1,30 @@
+{
+  "role": "lieutenant",
+  "mission": "Audit the 12 highest-commercial-value pages of utilityexplained.com (the 6 money/affiliate pages + 6 flagship traffic pages listed in context) per .squad/SQ-065/audit-prompt.md. Produce one full audit entry per page in the standard format, PLUS a slice-level judgment on monetization trust: do affiliate placements (product boxes, inline links) help or corrupt the reader's decision; are disclosures honest and visible; are product claims (savings figures, payback periods) supported; any YMYL/consumer-risk language problems. Write the full per-page table to .squad/SQ-065/wave1/lieutenant-pages.md. This is the site's revenue core — be unsparing.",
+  "parent_objective": "SQ-065: Full-scale 9-section content/SEO/UX audit of utilityexplained.com (114 pages) per operator audit prompt — cloud-only formation",
+  "context": "READ FIRST: .squad/SQ-065/audit-prompt.md (operator's verbatim criteria — your audit standard). Your assigned pages (content/blog/<slug>.md): [MONEY] do-home-energy-monitors-save-money, do-programmable-thermostats-cut-heating-bills, 50-best-smart-plugs-standby-power, 42-best-energy-efficient-space-heater, point-sensor-vs-whole-home-water-leak-when-to-upgrade, do-thermal-curtains-really-work; [FLAGSHIP] 01-how-to-read-your-electric-bill, 03-why-is-my-electric-bill-so-high, 05-how-to-lower-utility-bills, 06-water-bill-too-high, 07-gas-bill-too-high, how-to-lower-electric-bill-complete-guide. Read each page's markdown IN FULL (frontmatter + shortcodes + body). Entry format per page: '### /blog/<slug>/ — <title>' then purpose/intent, quality N/10, seo N/10, weaknesses, ai_slop (patterns + quoted phrases, or 'none'), visual_gaps, action (improve|merge->slug|redirect|noindex|remove|keep) + next steps. Ground every rating in quoted evidence — confidence is not evidence.",
+  "known_facts": [
+    "Site: utilityexplained.com — Hugo static site; audit the markdown SOURCE under content/ (frontmatter + Hugo shortcodes render boxes/figures)",
+    "114 pages total: 89 blog articles + 25 core pages (hubs, authors, policies)",
+    "Deterministic per-page metrics (words, headings, tables, internal links, outbound sources, FAQ, stale-year refs): .squad/content-metrics.md — ground truth, verify anything surprising",
+    "Analytics baseline (Rybbit 2026-08-29): 867 sessions/7d, 1.14 pageviews/session, 91% bounce, ~65s sessions, Bing-heavy referrals, Google near-zero",
+    "Fresh-eyes mandate: do NOT read prior audit/report files in repo root (FULL-CONTENT-SEO-AUDIT*, CONTENT-AUDIT*, VISUAL-*, AGENCY-*, SEO-CONTENT-AUDIT*, IMAGE_AUDIT*, HERO_*, AMAZON-*) — judge independently"
+  ],
+  "resources": {
+    "roots": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained"],
+    "write_paths": ["/home/msi-command/Desktop/projects/affiliate sites/utilityexplained/.squad/SQ-065/wave1/lieutenant-pages.md"],
+    "notes": "Affiliate program context: Amazon Associates; disclosure page at /affiliate-disclosure/; product boxes via shortcodes. Site deployed at https://utilityexplained.com (you may web_fetch the live render of any assigned page to compare source vs rendered)."
+  },
+  "constraints": [
+    "READ-ONLY audit of site content: do not create/modify/delete anything under content/, layouts/, static/, assets/, data/, config — your ONLY write is .squad/SQ-065/wave1/lieutenant-pages.md",
+    "Every rating/claim grounded in quoted or precisely-referenced evidence from the page or the metrics table",
+    "Independent judgment: do not read other workers' outputs or prior audit reports"
+  ],
+  "authorized_actions": [],
+  "prohibited_actions": [],
+  "success_criteria": [
+    ".squad/SQ-065/wave1/lieutenant-pages.md exists with 12 complete entries (one per assigned page) in the standard format",
+    "Envelope carries: monetization-trust verdict, top-5 findings for the slice, pages rated below 6/10, and 3 highest-impact actions",
+    "Every weakness cites quoted evidence; every action is one of improve/merge/redirect/noindex/remove/keep with next steps"
+  ]
+}

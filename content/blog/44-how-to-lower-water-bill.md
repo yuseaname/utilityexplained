@@ -54,7 +54,7 @@ These actions require no purchase, no tools, and no contractor. Start here.
 
 ### Level 2: Low-Cost Leak Repairs ($5–$50)
 
-Leaks are the most common driver of unexpectedly high water bills. A family of four can lose up to 10,000 gallons per year to household leaks, costing $50–$200 annually.
+Leaks are the most common driver of unexpectedly high water bills. Household leaks average about 9,400 gallons a year (EPA WaterSense) and can run far higher in leak-prone homes, costing $50–$200+ annually — the [high-water-bill diagnostic](/blog/06-water-bill-too-high/) shows how to find them.
 
 #### The 10-Minute Leak Check
 

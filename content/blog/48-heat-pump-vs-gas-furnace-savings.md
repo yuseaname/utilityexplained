@@ -1,9 +1,10 @@
 ---
 title: "Heat Pump vs Gas Furnace: Which Is Cheaper to Run?"
 slug: "48-heat-pump-vs-gas-furnace-savings"
+aliases: ["/blog/gas-vs-electric-heating-cost-comparison/"]
 description: "Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program terms."
 date: 2026-05-30
-updated: 2026-08-29
+updated: 2026-08-30
 author: "Margaret Harrington"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -24,6 +25,7 @@ sources:
   - https://www.trane.com/residential/en/pricing/pricing-guide/ (retrieved 2026-08-29)
   - https://www.carrier.com/us/en/residential/hvac-resources/heat-pumps/how-much-does-a-heat-pump-cost/ (retrieved 2026-08-29)
   - https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems (retrieved 2026-08-29)
+  - https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now (retrieved 2026-08-30)
 ---
 
 {{< affiliate-disclosure >}}
@@ -62,6 +64,8 @@ If a heat pump would be your only heat source in a cold climate, the proposal sh
 
 ## The Math That Decides It
 
+{{< visual src="/images/articles/48-heat-pump-vs-gas-furnace-savings/heatpump-breakeven-ratio.webp" alt="Formula card for the heat-pump versus gas-furnace breakeven: at recent national averages of 18.34 cents per kWh and about 1.92 dollars per therm, a heat pump beats a 96-percent-AFUE furnace only when its seasonal COP clears about 2.7." wide="true" >}}
+
 Everything above sets the stage; this is the act. Heating cost per unit of useful heat:
 
 ```text
@@ -72,7 +76,7 @@ Furnace:    $ per MMBtu = 10 × ($/therm) ÷ AFUE
 A heat pump is cheaper to run when **your ¢/kWh ÷ your $/therm is less than 3.41 × COP ÷ AFUE**. Run it with your own bill's numbers—the national average is only an example:
 
 - **January 2026 U.S. averages:** electricity 17.45 ¢/kWh, natural gas ≈ $1.35/therm (EIA; ratio ≈ 12.9). Against a 96% AFUE furnace, a heat pump needs seasonal COP above 3.6 to win—**the furnace wins clearly**; a strong cold-climate unit only matches an old 80% furnace.[7][8]
-- **Recent monthly averages (electricity 18.34 ¢/kWh, June 2026; gas ≈ $1.92/therm, May 2026; ratio ≈ 9.6).** Against 95% AFUE, any heat pump above COP 2.67 wins.[7][8]
+- **Recent monthly averages (electricity 18.34 ¢/kWh, June 2026; gas ≈ $1.92/therm, May 2026; ratio ≈ 9.6).** Against a 96% AFUE furnace, any heat pump above COP 2.7 wins (9.6 × 0.96 ÷ 3.41 = 2.70). Against the full 95–98% AFUE range high-efficiency furnaces actually ship at, the cutoff sits between COP 2.67 (95%) and 2.76 (98%).[7][8]
 
 Two honest cautions: use **winter-month** gas prices (residential $/Mcf rises in the off-season as fixed costs spread over low volumes), and treat COP 2.5–3.5 as an illustrative seasonal band—a HSPF2 7.5 minimum unit lands near 2.2; strong cold-climate units run higher.[5][7]
 
@@ -80,7 +84,30 @@ Geography moves the ratio more than equipment choice: in cheap-gas regions (much
 
 ## What a Winter Costs, by Fuel
 
-EIA's Winter Fuels Outlook (October 2025 edition, winter 2025–26) forecast average U.S. heating-season expenditures: **natural gas $642** (−1% vs the prior winter), **electricity $1,133** (+4%), **heating oil $1,390** (−8%), **propane $1,210** (−9%). Natural gas heats 46% of U.S. homes; electricity was the only fuel forecast more expensive, as rising power prices offset heat-pump efficiency gains.[9] Note what that $642-vs-$1,133 gap is and is not: it compares *fuel bills across different homes and heating systems*, not a heat pump versus a furnace in your home—the ratio math above is the tool for that question.
+EIA's Winter Fuels Outlook (October 2025 edition, winter 2025–26 — the most recent edition as of this page's August 2026 update; EIA's next round of winter forecasts arrives in October) forecast average U.S. heating-season expenditures: **natural gas $642** (−1% vs the prior winter), **electricity $1,133** (+4%), **heating oil $1,390** (−8%), **propane $1,210** (−9%). Natural gas heats 46% of U.S. homes; electricity was the only fuel forecast more expensive, as rising power prices offset heat-pump efficiency gains.[9] Note what that $642-vs-$1,133 gap is and is not: it compares *fuel bills across different homes and heating systems*, not a heat pump versus a furnace in your home—the ratio math above is the tool for that question.
+
+## Gas vs Electric Heating: The Broader Comparison
+
+The ratio math above is the tool for the heat-pump-vs-furnace question, but "gas vs electric heating" is often asked more broadly — by renters who can't pick equipment, by households weighing an all-electric home, by anyone comparing bills across fuels. This section answers that broader framing.
+
+**First, the units, so the comparison is honest.** Natural gas is billed in therms; one therm equals 100,000 BTUs. Electricity is billed in kWh; one kWh equals 3,412 BTUs. Those conversions put both fuels on one energy scale — then system efficiency decides how much of that energy becomes usable heat: a furnace's AFUE is the fraction that reaches your rooms, while a heat pump's COP means it can deliver *more* heat than the electricity it consumes. And compare total bills, not just energy charges (below).
+
+**A worked example at national-average rates.** Suppose gas costs $1.35/therm (January 2026 U.S. average[8]) and electricity 17.45 ¢/kWh[7], with a 96% AFUE furnace against a heat pump at seasonal COP 2.5:
+
+| Assumption | Natural gas (96% furnace) | Electric heat pump (COP 2.5) |
+|---|---|---|
+| Fuel price | $1.35 per therm | $0.1745 per kWh |
+| Cost per 100,000 BTU delivered | 1.35 ÷ 0.96 = **$1.41** | 0.1745 × (100,000 ÷ (3,412 × 2.5)) = **$2.05** |
+
+Under mid-winter 2026 national rates, gas wins this example — consistent with the January breakeven above — but your local numbers can flip it in high gas-price or cheap-electricity regions, which is exactly what your own ratio run will show. A well-insulated home with a modern heat pump can spend less than a drafty home with an older gas furnace even when gas is cheaper per unit of energy: the fuel price is only half the story, as the load-calculation section above argued.
+
+**Fixed charges can carry the comparison.** Gas service usually carries a monthly customer charge you pay even with the furnace off. A household that ends gas service entirely eliminates that charge — for some, $15–$30/month — while electricity's fixed charges are unavoidable if you already power the rest of the home. (What those line items are: [your electric bill, decoded](/blog/electric-bill-breakdown-understanding-line-items/).) Always compare the full bill, not just the energy rate: fuel prices also move seasonally, so a full 12 months of rates beats a single month's snapshot when you budget.
+
+**Comfort, noise, and air quality.** Gas furnaces deliver hotter supply air, which some people prefer in deep cold; heat pumps deliver gentler, more constant heat that can feel cooler at the vent even when the room is comfortable. Outdoor heat-pump units add fan noise the furnace never had — placement matters. Indoor air quality depends more on maintenance than fuel type: clean filters, sealed ductwork, and proper ventilation matter for both, and a humidifier helps dry winter air either way.
+
+**Renters, most of this page isn't yours to act on — but not all of it.** You may not control the system, so the practical levers are reducing heat loss through windows and doors and understanding your rate structure. Reviewing a year of bills still shows how your seasonal costs compare.
+
+The federal upside is real but narrower than headlines suggest: DOE cites peer-reviewed national-lab research finding that for over 90% of households studied, replacing worn-out heating equipment with a right-sized heat pump lowers energy bills — savings greatest versus oil, propane, and older electric resistance, with about 13 million gas-heated homes also saving. Envelope upgrades (insulation and air sealing first) can cut the installed cost of a right-sized heat pump by up to $3,700.[15] Note what that research is and is not: it compares *replacement scenarios across homes*, not a furnace-versus-heat-pump verdict for your address — your ratio does that.
 
 ## What Installation Actually Costs
 
@@ -158,6 +185,14 @@ No. The 25C credit (30% up to $2,000) does not apply to equipment placed in serv
 Listed cold-climate models do—the NEEP cold-climate list requires a COP of at least 1.75 at 5°F and publishes per-model capacity data, and at least one manufacturer claims 100% capacity at -5°F. The right question is per-model: ask for the listed capacity at your design temperature and the backup-heat plan, not a brand-level assurance.[5][6]
 {{< /faq >}}
 
+{{< faq "Is electric heat always more expensive than gas?" >}}
+No. The winner is decided by your local price ratio and equipment efficiency, not by the fuel label—in regions with cheap electricity or expensive gas, a heat pump can beat a furnace per unit of delivered heat. Run the breakeven rule above with your own bills before deciding.
+{{< /faq >}}
+
+{{< faq "Should I switch from gas to electric heating?" >}}
+It depends on your local electric-to-gas price ratio, your climate, your home's heat loss, and the fixed charges on each bill. The math section above is the short version; check state and utility rebates before signing, since they change the payback math but not the running-cost math.
+{{< /faq >}}
+
 {{< faq-schema >}}
 
 ## Sources
@@ -176,3 +211,4 @@ Listed cold-climate models do—the NEEP cold-climate list requires a COP of at 
 12. [DOE Building Science Education: Proper Sizing of HVAC Systems](https://bsesc.energy.gov/energy-basics/hvac-proper-sizing-hvac-systems)
 13. [Carrier: How Much Does a Heat Pump Cost (manufacturer cost guide)](https://www.carrier.com/us/en/residential/hvac-resources/heat-pumps/how-much-does-a-heat-pump-cost/)
 14. [Efficiency Maine: Home Heating Cost Comparison (state-program comparator)](https://www.efficiencymaine.com/at-home/heating-cost-comparison/)
+15. [U.S. Department of Energy, Office of Policy: For Most Americans, a Heat Pump Can Lower Bills Right Now (national-lab research: >90% of households save on replacement; up to $3,700 installed-cost reduction from envelope upgrades — published Feb 2024, before the July 2025 law ended the 25C credit its incentive discussion references)](https://www.energy.gov/policy/articles/most-americans-heat-pump-can-lower-bills-right-now)
