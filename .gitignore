@@ -4,3 +4,5 @@ package-lock.json
 *.tar.gz
 public/
 __pycache__/
+.zcode/
+.hugo_build.lock

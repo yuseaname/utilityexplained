@@ -567,3 +567,13 @@ Operator audit prompt (SEO/UX/QC editor lens) executed over all 114 pages (89 bl
 **Author pages:** desk-label decision applied — author/_index.md now describes bylines as desks (Bills & Rates, Energy Efficiency, Affordability & Assistance, Heating & Cooling, Consumer Rights), not credential-style personas; about.md gained "How this site is produced" (AI drafting assistance + primary-source/methodology/corrections as the trust basis). Individual desk pages already desk-framed.
 
 **Verification:** hugo EXIT 0; check_image_paths OK; check_rendered_output OK; all 15 figures confirmed present in rendered HTML (15/15 grep). Deployed via main push (CI: build → rsync → IndexNow).
+
+---
+
+## Entry 20 — Completion Contract confirmed; repo hygiene (2026-08-30)
+
+**Finish line (user-confirmed):** the five KPI milestones in KPI_DASHBOARD.md (150+ sessions/day sustained 14 days, bounce <70%, pages/session ≥2.0, Google ≥50/day, US ≥80%) — recorded as the official Completion Contract at the top of KPI_DASHBOARD.md. AdSense/affiliate revenue explicitly excluded as completion gates.
+
+**Hygiene:** .zcode/ (session-local CLI state) untracked and gitignored along with .hugo_build.lock; both had been swept into commit f9d49828 by a broad `git add -A`.
+
+**Active work queue (post-contract):** (1) Rybbit pull to re-baseline against AC-1..5; (2) AdSense re-review readiness assessment → owner go/no-go; (3) five missing spokes — kWh/day, supplier scams, gas-leak safety, furnace tune-up, stormwater fee (audit §6/§9 items 19-20/22); (4) Amazon dossier top-5 affiliate opportunities.

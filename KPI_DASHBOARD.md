@@ -1,5 +1,19 @@
 # UtilityExplained — KPI Tracking Dashboard
 
+## Completion Contract — OFFICIAL FINISH LINE (confirmed 2026-08-30)
+
+The site is an ongoing publication, not a finite build. "Complete" means the traffic-quality milestones below are **all met and sustained for 14+ consecutive days**, measured in Rybbit:
+
+- [ ] **AC-1:** Sessions ≥ 150/day sustained 14+ days (baseline Aug 21: ~191/day, Bing-driven)
+- [ ] **AC-2:** Bounce rate < 70% (baseline: 84.7%)
+- [ ] **AC-3:** Pages/session ≥ 2.0 (baseline: 1.52)
+- [ ] **AC-4:** Google-referral sessions ≥ 50/day (baseline: ~22/week)
+- [ ] **AC-5:** US visitor share ≥ 80% (baseline: 78%; CN bot traffic excluded)
+
+**Acceptance evidence:** Rybbit screenshots/exports attached to a GROWTH_LOG entry showing the 14-day window with all five criteria green.
+**Acceptance authority:** site owner.
+**Out of scope as completion gates:** AdSense approval, affiliate revenue (tracked, but they are monetization outcomes, not the finish line).
+
 ## Current Baseline (August 21, 2026 — 7-day window)
 Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem indexation** (DDG 42%, Bing 35%, Yahoo 12%; Google 4.8% — not yet following).
 
