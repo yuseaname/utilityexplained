@@ -275,6 +275,7 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <ul>
 <li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a></li>
 <li><a href="/blog/11-understanding-kwh-usage/">Understanding kWh Usage</a></li>
+<li><a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
 <li><a href="/blog/how-to-read-electric-meter/">How to Read an Electric Meter</a></li>
 <li><a href="/blog/how-do-smart-meters-work/">How Do Smart Meters Work?</a></li>
 </ul>

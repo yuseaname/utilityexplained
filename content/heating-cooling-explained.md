@@ -275,4 +275,5 @@ For broader utility cost management, visit our utility bills and costs guide. To
 <li><a href="/blog/42-best-energy-efficient-space-heater/">Best Energy Efficient Space Heater</a></li>
 <li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
 <li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs for Standby Power</a></li>
+<li><a href="/blog/furnace-tune-up-cost-schedule/">Furnace Tune-Up: Cost and Schedule</a></li>
 </ul>

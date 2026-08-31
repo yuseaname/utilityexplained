@@ -6,7 +6,7 @@ aliases: ["/blog"]
 ---
 
 <h2 id="browse-by-topic">Browse by Topic</h2>
-<p>86 guides to help you understand every charge on your utility bills. Pick a category:</p>
+<p>91 guides to help you understand every charge on your utility bills. Pick a category:</p>
 
 <div class="popular-list">
 
@@ -25,7 +25,7 @@ aliases: ["/blog"]
 <div class="popular-item">
 <h3 class="popular-item-title">Gas Bills</h3>
 <p class="popular-item-desc">Therms, MCF, delivery charges, winter bills, reading your gas meter.</p>
-<a href="/gas-explained/#gas-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 10 gas guides</a>
+<a href="/gas-explained/#gas-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 11 gas guides</a>
 </div>
 
 <div class="popular-item">
@@ -37,7 +37,7 @@ aliases: ["/blog"]
 <div class="popular-item">
 <h3 class="popular-item-title">Heating and Cooling</h3>
 <p class="popular-item-desc">HVAC troubleshooting, efficiency ratings, heat pumps, furnace issues.</p>
-<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 14 HVAC guides</a>
+<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 15 HVAC guides</a>
 </div>
 
 </div>

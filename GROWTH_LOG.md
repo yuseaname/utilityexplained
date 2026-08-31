@@ -577,3 +577,17 @@ Operator audit prompt (SEO/UX/QC editor lens) executed over all 114 pages (89 bl
 **Hygiene:** .zcode/ (session-local CLI state) untracked and gitignored along with .hugo_build.lock; both had been swept into commit f9d49828 by a broad `git add -A`.
 
 **Active work queue (post-contract):** (1) Rybbit pull to re-baseline against AC-1..5; (2) AdSense re-review readiness assessment → owner go/no-go; (3) five missing spokes — kWh/day, supplier scams, gas-leak safety, furnace tune-up, stormwater fee (audit §6/§9 items 19-20/22); (4) Amazon dossier top-5 affiliate opportunities.
+
+---
+
+## Entry 21 — SQ-070: five missing spokes published (2026-08-31)
+
+**Articles (cloud squad: 2x lieutenant glm-5.3-flash, mason/prospector/cartographer dsv4-wing):** how-many-kwh-does-a-house-use-per-day (EIA 899 kWh/mo, state spread, size table) · gas-leak-signs-what-to-do-bill-impact (safety-first: leave-then-call, mercaptan, free utility leak checks, bill impact honest-small) · electric-supplier-scams-how-to-spot (FTC imposter patterns, slamming via account number, PUC/FTC complaint path) · furnace-tune-up-cost-schedule (cost ranges, fall timing, upsell caution) · stormwater-fee-explained (flat/ERU/impervious-tier structures with verified city examples).
+
+**Heroes:** 5 ledger-style hero_v2 webps (magica, transcription-verified — "SMELL GAS? / LEAVE FIRST", "STORMWATER" all clean).
+
+**Verification:** all 25 unique cited URLs curl-tested — 23x200; FTC consumer-alert URL was dead → replaced with live consumer.ftc.gov article (content-matched); Charlotte stormwater page bot-blocks curl → fee figures softened to the Wayback-verifiable "roughly $10 to $35" range. Structural criteria 5/5 per article (Quick Answer, 1.2-2.1k words, tables, retrieved-dated sources, verified slugs). Build EXIT 0; image + rendered-output checks OK; verify-links 370 flags = the known root-/ artifact (grew exactly with the 26 new rendered pages; zero real dead links).
+
+**Wiring:** water hub stormwater slot now targets the real page (was aliasing the savings post) and the corrupted `<KEEP>` line (broken drought-surcharge entry rendering on the live hub) was repaired; electricity hub +kWh/day; gas hub +leak-signs; HVAC hub +tune-up; scams article's three prose-only guide references converted to real links + dispute-guide link; blog index 86→91 guides, gas 10→11, HVAC 14→15; hero image frontmatter added to all five.
+
+**Deploy:** committed and pushed (CI build → rsync → IndexNow). Deferred: Rybbit re-baseline vs the Completion Contract AC-1..5 (needs analytics access); AdSense re-review go/no-go (owner).

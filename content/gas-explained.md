@@ -239,6 +239,7 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <ul>
 <li><a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
 <li><a href="/blog/07-gas-bill-too-high/#seasonal-comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
+<li><a href="/blog/gas-leak-signs-what-to-do-bill-impact/">Gas Leak Signs: What to Do First</a></li>
 </ul>
 
 <h3>Gas vs Other Heating Options</h3>
