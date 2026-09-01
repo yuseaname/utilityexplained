@@ -6,6 +6,8 @@ theme = 'adsense-base'
 [params]
   # Central affiliate swap-point — change here, every Amazon link updates sitewide.
   amazon_tag = 'utexplained-20'
+  # Central AdSense swap-point — loader renders sitewide when set (ads.txt lives in static/).
+  adsense_client = 'ca-pub-5566942094411042'
   site_name = 'Utility Explained'
   description = 'Plain-English guides to electricity, gas, and water bills so you can budget with confidence, not confusion.'
   tagline = 'Understand your utility bills and save money.'

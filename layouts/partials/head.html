@@ -15,8 +15,13 @@
 {{/* Tailwind CSS — compiled locally, no CDN */}}
 <link rel="stylesheet" href="/css/tailwind.css">
 
-{{/* Google Analytics (gtag.js) */}}
+{{/* Google Analytics (gtag.js) — loads BEFORE AdSense so consent-mode v2 defaults apply to ad storage */}}
 {{- partial "google-analytics.html" . -}}
+
+{{/* Google AdSense loader — central swap-point: set adsense_client in hugo.toml, remove to disable sitewide */}}
+{{- with .Site.Params.adsense_client -}}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+{{- end -}}
 
 {{/* Design System CSS via Hugo Pipes */}}
 {{ with resources.Get "css/design-system.css" | resources.Minify | resources.Fingerprint "sha512" }}

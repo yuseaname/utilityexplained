@@ -17,8 +17,8 @@ The site is an ongoing publication, not a finite build. "Complete" means the tra
 ## Current Baseline (August 21, 2026 — 7-day window)
 Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem indexation** (DDG 42%, Bing 35%, Yahoo 12%; Google 4.8% — not yet following).
 
-## AdSense review status — BLOCKED (August 23, 2026)
-Google returned a **Low value content** finding. Do not request another review until the P0 editorial remediation in `GROWTH_LOG.md` Entry 9 is complete and independently verified. Treat AdSense RPM/slot experiments as secondary: corpus credibility, original information gain, source traceability, and truthful author/review disclosures are the current gate.
+## AdSense status — SETUP RESTORED, READY FOR RE-REVIEW (2026-08-31)
+History: blocked Aug 23 ("Low value content") → ads.txt + loader were removed in the affiliate pivot (commit 6d4390c8). The editorial gate work (audit SQ-065/066 remediation, desk bylines, production disclosure, 96-guide corpus) is complete and verified. AdSense machinery restored 2026-08-31: ads.txt (pub-5566942094411042, DIRECT, f08c47fec0942fa0) at site root + adsbygoogle.js loader on all pages (consent-mode ordered, single swap-point `adsense_client` in hugo.toml). **Next action (owner): request re-review in the AdSense console.** Loader alone serves Auto ads only if enabled in the account; manual slots (below_title/mid_article/end_article) can be re-added after approval — commit 6d4390c8 documents exactly where they lived.
 
 | Metric | Aug 10 (90d) | **Aug 21 (7d)** | Target (30 days) | How to Measure |
 |--------|--------------|-----------------|-------------------|----------------|

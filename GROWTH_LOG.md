@@ -605,3 +605,16 @@ Operator audit prompt (SEO/UX/QC editor lens) executed over all 114 pages (89 bl
 **Wiring:** electricity hub Meters-and-Usage +3; HVAC hub +2; blog index 96 guides, electricity 22→25, HVAC 15→17; hero_v2 webps generated + transcription-clean, image frontmatter added.
 
 **Checks:** hugo EXIT 0; image/rendered-output OK; verify-links 394 flags = root-/ artifact only (zero real). Deployed via main push. Deferred: Rybbit re-baseline (needs analytics access); AdSense re-review go/no-go; pre-existing P4400 box re-check on restock.
+
+---
+
+## Entry 23 — AdSense machinery restored for re-review (2026-08-31)
+
+**Context:** AdSense was fully removed 2026-08-23 in the affiliate pivot (commit 6d4390c8: ads.txt deleted, loader + slot injection stripped from theme). With the editorial gate work done (Entries 9-22) and the owner re-applying, both required pieces are back:
+
+- `static/ads.txt` — `google.com, pub-5566942094411042, DIRECT, f08c47fec0942fa0` (served at site root; the IAB authorized-sellers file Google requires)
+- AdSense loader on every page — `layouts/partials/head.html`, placed AFTER the gtag consent-mode v2 defaults so ad_storage respects the cookie banner; central swap-point `params.adsense_client` in hugo.toml (set = on, remove = off)
+
+**Verified:** build EXIT 0; /ads.txt serves the exact line; loader present on all 394 rendered pages (home + articles spot-checked); rendered-output check OK. No manual ad slots re-added yet — Auto-ads toggle and slot re-introduction wait for approval (6d4390c8 documents the original slot wiring: below_title/mid_article/end_article).
+
+**Owner next steps (AdSense console):** Sites → Request review; ads.txt may take up to ~7 days for Google's crawler (Account → Status → "Check for updates" forces it).
