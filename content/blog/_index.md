@@ -6,14 +6,14 @@ aliases: ["/blog"]
 ---
 
 <h2 id="browse-by-topic">Browse by Topic</h2>
-<p>91 guides to help you understand every charge on your utility bills. Pick a category:</p>
+<p>96 guides to help you understand every charge on your utility bills. Pick a category:</p>
 
 <div class="popular-list">
 
 <div class="popular-item">
 <h3 class="popular-item-title">Electricity Bills</h3>
 <p class="popular-item-desc">Why your bill is high, how to read it, kWh, rates, and lowering costs.</p>
-<a href="/electricity-explained/#electricity-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 22 electricity guides</a>
+<a href="/electricity-explained/#electricity-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 25 electricity guides</a>
 </div>
 
 <div class="popular-item">
@@ -37,7 +37,7 @@ aliases: ["/blog"]
 <div class="popular-item">
 <h3 class="popular-item-title">Heating and Cooling</h3>
 <p class="popular-item-desc">HVAC troubleshooting, efficiency ratings, heat pumps, furnace issues.</p>
-<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 15 HVAC guides</a>
+<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 17 HVAC guides</a>
 </div>
 
 </div>

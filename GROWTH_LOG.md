@@ -591,3 +591,17 @@ Operator audit prompt (SEO/UX/QC editor lens) executed over all 114 pages (89 bl
 **Wiring:** water hub stormwater slot now targets the real page (was aliasing the savings post) and the corrupted `<KEEP>` line (broken drought-surcharge entry rendering on the live hub) was repaired; electricity hub +kWh/day; gas hub +leak-signs; HVAC hub +tune-up; scams article's three prose-only guide references converted to real links + dispute-guide link; blog index 86→91 guides, gas 10→11, HVAC 14→15; hero image frontmatter added to all five.
 
 **Deploy:** committed and pushed (CI build → rsync → IndexNow). Deferred: Rybbit re-baseline vs the Completion Contract AC-1..5 (needs analytics access); AdSense re-review go/no-go (owner).
+
+---
+
+## Entry 22 — SQ-071: remaining five affiliate pipeline articles published (2026-08-31)
+
+**Pre-publish gates (dossier §7.3/§7.5):** SERP classes re-checked — smart-plug head CONTESTED (PCMag/Wirecutter own roundups → entered via the which-measures question, not a list); fridge-watts question space open (library-loaner angle found). ASINs live-fetched on Amazon 2026-08-31 via /gp/aw/d/: B0C7B1LKDW Vue 3 In Stock · B08LN3C7WK KP115 $20-30 · B0CLVV7X7Y Emporia plug · B0DKGBP38V P110M 2-pack · B07HM9S6ZR P4460 3-pack · B00002NCJI 3M 5-window kit — all CONFIRMED. **B00009MDBU (P4400) currently UNAVAILABLE on Amazon today** → not boxed in new content, honest prose note in the fridge article; pre-existing P4400 boxes on 4 older articles left in place pending a restock re-check.
+
+**Articles:** smart-plug-energy-monitoring-which-measures-usage (metering-chip vs switch-only plugs; window-AC surge honesty; 3 boxes) · how-many-watts-does-refrigerator-use (running watts vs kWh/day; library loaner path; P4400-unavailable honesty; P4460 3-pack + KP115 boxes) · emporia-vue-3-vs-sense-comparison (Sense-not-on-Amazon caveat up front; per-circuit clamps vs ML disaggregation; 1 box) · do-dehumidifiers-help-cooling-costs (climate-dependent answer; own-draw disclosure, zero product boxes by design — no verified dehumidifier ASINs) · do-window-insulation-kits-pay-off (Commander-written after cartographer protocol-died; dead-air mechanism; manufacturer-reported figure labels; 3M kit box). Cloud formation: 2x lieutenant + mason + prospector + cartographer (cartographer unparseable-replies death — 3rd mason-family protocol death; article written by Commander instead).
+
+**Compliance sweep:** all boxed ASINs allowlist-only; price bands only in prose (the $0.1834 hits are electricity-rate math, the site's core format); no promised savings — dehumidifier $81-94/yr is the device's own running COST, labeled "not a promise"; {{< affiliate-disclosure >}} present in all five. 21 unique cited URLs curl-tested — 20x200, Library Journal 403s curl-UA but 200s with browser UA (live for readers).
+
+**Wiring:** electricity hub Meters-and-Usage +3; HVAC hub +2; blog index 96 guides, electricity 22→25, HVAC 15→17; hero_v2 webps generated + transcription-clean, image frontmatter added.
+
+**Checks:** hugo EXIT 0; image/rendered-output OK; verify-links 394 flags = root-/ artifact only (zero real). Deployed via main push. Deferred: Rybbit re-baseline (needs analytics access); AdSense re-review go/no-go; pre-existing P4400 box re-check on restock.

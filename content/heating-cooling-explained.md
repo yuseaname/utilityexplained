@@ -276,4 +276,6 @@ For broader utility cost management, visit our utility bills and costs guide. To
 <li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
 <li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs for Standby Power</a></li>
 <li><a href="/blog/furnace-tune-up-cost-schedule/">Furnace Tune-Up: Cost and Schedule</a></li>
+<li><a href="/blog/do-dehumidifiers-help-cooling-costs/">Do Dehumidifiers Help With Cooling Costs?</a></li>
+<li><a href="/blog/do-window-insulation-kits-pay-off/">Do Window Insulation Kits Pay Off?</a></li>
 </ul>
