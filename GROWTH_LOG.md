@@ -618,3 +618,24 @@ Operator audit prompt (SEO/UX/QC editor lens) executed over all 114 pages (89 bl
 **Verified:** build EXIT 0; /ads.txt serves the exact line; loader present on all 394 rendered pages (home + articles spot-checked); rendered-output check OK. No manual ad slots re-added yet — Auto-ads toggle and slot re-introduction wait for approval (6d4390c8 documents the original slot wiring: below_title/mid_article/end_article).
 
 **Owner next steps (AdSense console):** Sites → Request review; ads.txt may take up to ~7 days for Google's crawler (Account → Status → "Check for updates" forces it).
+
+---
+
+## Entry 24 — Rybbit re-baseline pulled (2026-08-31, resolves Entry 21/22 deferral)
+
+Fresh snapshot via scripts/rybbit_snapshot.py → `.rybbit-snapshot-2026-08-31/` (7d/prior7/30d windows). Commander pulled after SQ-067 (SGD playbook mission); numbers below are raw, no filtering beyond Rybbit's own bot handling.
+
+**Trend (7-day windows):**
+
+| Metric | Aug 14–21 (baseline) | Aug 17–24 | Aug 24–31 | Contract target |
+|---|---|---|---|---|
+| Sessions/day | ~191 (spike-inflated) | 102 | **135** | ≥150 (AC-1) |
+| Bounce | 84.7% | 90.8% | **90.6%** | <70% (AC-2) |
+| Pages/session | 1.52 | 1.11 | **1.15** | ≥2.0 (AC-3) |
+| Google sessions/7d | 22 (4.8%) | 18 (3.3%) | **30 (4.7%)** | ≥50/DAY (AC-4) |
+| US share | 78% | 80.1% | **77.7%** (CN 12.5%) | ≥80% (AC-5) |
+| Duration | 80s | 68s | **63s** | — |
+
+**Read:** traffic recovered off the post-spike trough (102→135/day) but ALL THREE engagement criteria moved AWAY from the contract since baseline. CN-bot exclusion does not explain it (removes only ~1.3pp of bounce: ≈89.3% ex-CN). Google remains ~5% of referrals — Bing ecosystem (DDG+Bing+Yahoo ≈ 90%) still carries the site. Top page complete-guide: 145 views, 88.3% bounce; worst: water-bill-too-high 95.1%, spike 93.9% — the known defect-exit pages are still defect-exit pages.
+
+**Implication:** the binding constraint on BOTH the Completion Contract (AC-2/3/4) and affiliate revenue (bouncing visitors never reach product boxes) is the same: engagement quality of the Bing-ecosystem traffic. 46 boxed articles now live (36 + 10 published today) — CTR on those is the next measurable (Rybbit affiliate_click events exist on every box/inline link).
