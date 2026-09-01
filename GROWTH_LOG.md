@@ -639,3 +639,19 @@ Fresh snapshot via scripts/rybbit_snapshot.py → `.rybbit-snapshot-2026-08-31/`
 **Read:** traffic recovered off the post-spike trough (102→135/day) but ALL THREE engagement criteria moved AWAY from the contract since baseline. CN-bot exclusion does not explain it (removes only ~1.3pp of bounce: ≈89.3% ex-CN). Google remains ~5% of referrals — Bing ecosystem (DDG+Bing+Yahoo ≈ 90%) still carries the site. Top page complete-guide: 145 views, 88.3% bounce; worst: water-bill-too-high 95.1%, spike 93.9% — the known defect-exit pages are still defect-exit pages.
 
 **Implication:** the binding constraint on BOTH the Completion Contract (AC-2/3/4) and affiliate revenue (bouncing visitors never reach product boxes) is the same: engagement quality of the Bing-ecosystem traffic. 46 boxed articles now live (36 + 10 published today) — CTR on those is the next measurable (Rybbit affiliate_click events exist on every box/inline link).
+
+---
+
+## Entry 25 — SQ-068: engagement root-cause diagnosed (2026-08-31)
+
+**Fleet:** 11 seats (cloud+swarm+msi+evox2, ray down), 2 waves, ~75 min. Deliverable: `ENGAGEMENT-ROOT-CAUSE-2026-08-31.md` (lieutenant wrote; Commander amended §8 after owner supplied a GA4 export mid-mission).
+
+**The verdict that changes the strategy:** the 90.6% Rybbit bounce is **mostly a metric-definition artifact**. GA4 (engaged-session bounce) measures the same pages at **29–50%** — flagship 88.3%→29.2%, spike 93.9%→46.2%. Satisfied single-page readers dominate; Rybbit counts them as bounces. **AC-2 (<70% Rybbit raw bounce) is unreachable-by-definition for a one-answer diagnostic site — the Completion Contract needs re-baselining to GA4 metrics** (owner decision).
+
+**Real defects that survive both definitions:** electric-bill-breakdown (83.3% GA4), what-is-ccf (75%), billing-cycle (66.7%), past-due (60%), water-high-11-checks (60%). Plus: ~16.6% instant-exit layer on retired/still-Bing-indexed URLs (`7-states`, `2026-cost-index`, `/tags/page/N/`, `.md` paths; `go-up` itself now 0s-ToP at 11 sessions); legacy `<h2 id="quick-answer">` format variance across a dozen+ files (84 canonical).
+
+**Mechanical, confirmed twice (Rybbit + GA4):** Google is ~5% of traffic because **no GSC sitemap submission exists** — deploy pings IndexNow (Bing ecosystem) only. One owner action.
+
+**Fleet-integrity notes:** executor fabricated an unreproducible statistic ("0 of 18 bounced sessions long" — the events file has no bounce flag; verifier F6 caught it, GA4 killed it); the deliverable's first draft inherited that error plus phantom-redirect session math — all corrected in §8 with disk-verified evidence. Entry 24 correction: affiliate-shortcode articles = **36 files** (34 product-box + 2 inline), not 46. GA4 gaps found: zero key events configured (wire `affiliate_click`), consent-gating explains the 127-users-vs-2,167-sessions population difference.
+
+**Recommended order (§8):** (1) re-baseline contract to GA4 metrics; (2) GSC sitemap submit; (3) QA normalization + 5 both-bad page restructures; (4) GA4 key events; (5) dead-URL cleanup; (6) flagship fact-fix + H1 intent rewrites after GSC query data arrives.
