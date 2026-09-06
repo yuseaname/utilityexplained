@@ -3,7 +3,7 @@ title: "Do Dehumidifiers Help With Cooling Costs? The Climate-Dependent Answer"
 slug: "do-dehumidifiers-help-cooling-costs"
 description: "A dehumidifier can cut AC use in humid, mild summers — or add cost in hot climates. How humidity, setpoints, and the unit's own draw decide."
 date: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-06
 author: "Roberto Mendoza"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -14,6 +14,7 @@ sources:
   - https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home (retrieved 2026-08-31)
   - https://www.energystar.gov/products/dehumidifiers (retrieved 2026-08-31)
   - https://data.energystar.gov/resource/mgiu-hu4z.json (retrieved 2026-08-31)
+  - https://www.amazon.com/dp/B0GL78KXLF (retrieved 2026-09-06)
 ---
 
 ## Quick Answer
@@ -78,6 +79,14 @@ The very-hot case is where the same appliance loses money: a Southern summer at 
 
 Practical notes before you buy: set the humidistat to 50%, not the lowest setting — over-drying wastes electricity and gains nothing below 30–50%. Run it only in rooms that actually feel damp, close that door, and drain to a floor drain or sink so you are not emptying a bucket daily.[2] If your goal is a lower bill across the board rather than a humidity fix, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) is the broader toolbox, and [gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) covers the cost-first measuring approach. Humidity that drives one for a weekend a month is normal; humidity that runs one all summer is a reason to look at sealing and ventilation before adding an appliance.
 
+### If the Math Says Buy: What to Look For
+
+For the humid-mild case this article describes, the spec details that actually matter: **a built-in humidistat** (set 50% and let it cycle), **a drain option — pump or gravity hose** (bucket-emptying kills basement installs), and **a low-temperature operating rating** if it lives in a basement that drops below 65°F, where cheap units ice up. The 50-pint class covers a typical basement; the ENERGY STAR certified list is the efficiency check worth running before purchase.[2][3] One example from the category so you can anchor specs while comparing (the Midea Cube line — a pump-equipped, Wi-Fi-capable 50-pint unit — is the style of machine that fits the drain-to-sink basement use case):
+
+{{< product-box asin="B0GL78KXLF" name="Midea Cube 50-Pint Dehumidifier with Pump" label="The basement-drain configuration" description="50-pint unit with a built-in pump for draining uphill to a sink or drain, Wi-Fi control, and a cube body that expands for a larger bucket when you do want portability. Match the spec sheet against the Energy Star certified list before buying any unit." button="Check price on Amazon" >}}
+
+Whatever brand you compare it against, run the same three checks: humidistat, drain method, and the certified annual kWh figure — that last number is what feeds the cost template above.
+
 If you are already on a humidity fix and the water angle is part of the story — leaking fixtures and drainage are a common hidden cause of indoor damp — [how to lower your water bill](/blog/44-how-to-lower-water-bill/) is the companion piece, and it is worth tackling those before sizing any dehumidifier.
 
 ## Sources
@@ -85,3 +94,4 @@ If you are already on a humidity fix and the water angle is part of the story �
 1. [EPA — A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) — keep indoor humidity below 60%, ideal 30–50%. Retrieved 2026-08-31.
 2. [ENERGY STAR — Dehumidifiers](https://www.energystar.gov/products/dehumidifiers) — optimum RH 30–50%; certified units 20% more efficient; dehumidifiers slightly warm the space around them; humidistat/hygrometer guidance; whole-home units for humidity above 55%. Retrieved 2026-08-31.
 3. [ENERGY STAR Certified Dehumidifiers dataset](https://data.energystar.gov/resource/mgiu-hu4z.json) — 50-pint certified class annual energy consumption roughly 444–512 kWh/yr at ~2.0–2.24 L/kWh. Retrieved 2026-08-31.
+4. [Midea Cube 50-Pint with Pump — Amazon listing](https://www.amazon.com/dp/B0GL78KXLF) — example pump-equipped 50-pint unit, in stock, sold by Amazon. Retrieved 2026-09-06.

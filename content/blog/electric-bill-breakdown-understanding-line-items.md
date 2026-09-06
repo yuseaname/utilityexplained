@@ -3,7 +3,7 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Confused by your bill? We decode the charge categories you will find on a U.S. electric bill--supply, delivery, customer charges, and taxes--and show you how to check each one against your own rate plan."
 date: 2025-12-25
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -204,6 +204,8 @@ When a line looks unfamiliar, these questions usually get you a real answer:
 - Was this bill based on an actual or an estimated meter read?
 
 If a line still looks wrong after those four questions, the next move is [how to formally question a charge](/blog/how-to-dispute-utility-bill/) — the dispute guide walks through the review request step by step.
+
+This breakdown is part of the [Utility Bills Explained hub](/utility-bills-costs-explained/) and the [Electricity Explained hub](/electricity-explained/).
 
 ## Sources
 

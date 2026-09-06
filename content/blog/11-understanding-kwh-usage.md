@@ -4,7 +4,7 @@ slug: "11-understanding-kwh-usage"
 aliases: ["/blog/what-is-a-kilowatt-hour/"]
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -105,6 +105,8 @@ A 10% usage reduction saves the same dollar amount whether your rate is 12¢/kWh
 
 ## Measure Your Own Appliances
 
+{{< affiliate-disclosure >}}
+
 Generic tables are a starting point, but your actual appliances may differ. A plugin energy monitor like the **{{< product-box asin="B00009MDBU" name="Kill A Watt P4400" label="Plug-in Usage Monitor" description="Measures voltage, current, watts, and cumulative kWh for any 120V appliance. Plug it between the wall and your device, then read the display after a typical cycle or 24 hours. 0.2% accuracy." button="Check Price on Amazon" >}}** gives you real data for your actual device, in your actual usage pattern. For the whole-house version of the same idea, see [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/).
 
 Run a load or let it log a week, then record the kWh. Divide by the number of days or cycles to estimate monthly or annual cost using the formula above.
@@ -133,6 +135,8 @@ That figure does not determine whether an individual bill is correct. Your own t
 ## When kWh Changes Suddenly
 
 Start by checking billing days and read status. Then review changes in weather, heating or cooling, new equipment, charging, occupancy, or continuous water and HVAC operation. If the usage or bill still does not make sense, ask the utility for interval data or an explanation of the meter-read and rate-plan details.
+
+The instruments that measure the kWh this article explains are compared in [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/).
 
 ## Sources
 

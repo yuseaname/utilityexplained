@@ -3,7 +3,7 @@ title: "Why Did My Water Bill Suddenly Increase?"
 slug: "why-did-my-water-bill-suddenly-increase"
 description: "Understand the most common reasons water bills spike and how to troubleshoot them."
 date: 2025-12-26
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -293,6 +293,8 @@ Start with a quick leak check at home, such as EPA's two-hour meter test or the 
 {{< faq-schema >}}
 
 ---
+
+This walkthrough is part of the [Water Explained hub](/water-explained/). If a leak is confirmed, start with [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/).
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
 slug: "how-to-read-electric-meter"
 description: "Learn how to record an electric-meter reading, compare it with a bill, and ask your utility about meter-specific details."
 date: 2025-12-25
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -240,6 +240,8 @@ Take a photo or written reading at a consistent time, then compare it with a lat
 If the number, billing date, or meter identifier does not make sense, contact the utility and ask how it read the meter and calculated the bill.
 
 **Where to go next:** Pick one meter reading to check this week — five minutes is enough. If your numbers match the bill, you are done; if they do not, take the reading history to [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) and check the meter lines there against the charges on [electric bill breakdown: how your meter reading becomes charges](/blog/electric-bill-breakdown-understanding-line-items/).
+
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/); meter and billing terms are defined in the [utility glossary](/utilities-glossary/).
 
 ## Sources
 

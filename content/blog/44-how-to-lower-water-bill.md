@@ -4,7 +4,7 @@ slug: "44-how-to-lower-water-bill"
 aliases: ["/blog/stormwater-fee-on-water-bill-explained/"]
 description: "Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified savings ranges from EPA WaterSense, plus leak-detection tools."
 date: 2026-05-30
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -162,6 +162,8 @@ If you’ve worked through the actions above and your usage hasn’t dropped:
 5. **Call the utility.** Ask for a bill review or a usage audit. Some utilities offer free home water audits.
 
 ---
+
+This guide is part of the [Lower Your Bills hub](/lower-your-bills/) and the [Water Explained hub](/water-explained/). Leak-response gear is ranked in [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/).
 
 ## Sources
 

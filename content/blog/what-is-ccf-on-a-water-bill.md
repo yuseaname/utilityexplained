@@ -3,7 +3,7 @@ title: "What Is CCF on a Water Bill? (Cubic Feet Explained)"
 slug: "what-is-ccf-on-a-water-bill"
 description: "CCF on a water bill means 'hundred cubic feet' — 1 CCF equals 748 gallons. Here's what your CCF number means, how to convert it, and how to tell if a hidden leak is driving up your bill."
 date: 2025-12-25
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -157,6 +157,8 @@ In many cities, yes. Sewer charges are often calculated from your water usage (i
 - Curious how water usage becomes sewer charges? See [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/).
 
 {{< faq-schema >}}
+
+This definition is part of the [Water Explained hub](/water-explained/). Billing vocabulary across all utilities lives in the [utility glossary](/utilities-glossary/).
 
 ## Sources
 

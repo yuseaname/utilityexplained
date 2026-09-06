@@ -4,7 +4,7 @@ slug: "01-how-to-read-your-electric-bill"
 aliases: ["/blog/41-how-to-read-electricity-bill/"]
 description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
 date: 2026-03-07
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -184,6 +184,8 @@ Compare billing-period dates, total kWh, meter-read status, rate-plan name, item
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/) and the [Utility Bills Explained hub](/utility-bills-costs-explained/).
 
 ## Sources
 

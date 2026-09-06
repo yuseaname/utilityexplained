@@ -3,7 +3,7 @@ title: "Emporia Vue 3 vs Sense: How They Actually Differ (Impartial)"
 slug: "emporia-vue-3-vs-sense-comparison"
 description: "Emporia Vue 3 meters circuits directly; Sense guesses devices from mains data. An impartial comparison of install, channels, and failure modes."
 date: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-06
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
@@ -16,17 +16,18 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-31)
   - https://shop.emporiaenergy.com/products/emporia-vue-3 (retrieved 2026-08-31)
   - https://sense.com/product/ (retrieved 2026-08-31)
-  - https://www.amazon.com/dp/B0C7B1LKDW (retrieved 2026-08-31)
+  - https://www.amazon.com/dp/B0C7B1LKDW (retrieved 2026-09-06)
+  - https://sense.com/consumer-blog/looking-ahead-the-next-chapter-for-sense/ (retrieved 2026-09-06)
   - https://www.amazon.com/s?k=sense+energy+monitor (retrieved 2026-08-31)
 ---
 
 ## Quick Answer
 
-**The Emporia Vue 3 and the Sense monitor answer the same question — “where does my electricity go?” — with opposite methods. The Vue 3 clamps onto individual circuits in your panel and reports each one by name. Sense clamps only onto your mains and uses machine learning to infer which devices are running from the whole-home current signature. One more thing up front: Sense is not sold on Amazon. It is sold direct through sense.com, so there is no Amazon listing and no Amazon price to print here — check sense.com for current pricing.[5]**
+**The Emporia Vue 3 and the Sense monitor answer the same question — “where does my electricity go?” — with opposite methods. The Vue 3 clamps onto individual circuits in your panel and reports each one by name. Sense clamps only onto your mains and uses machine learning to infer which devices are running from the whole-home current signature. One thing has changed since this comparison first ran: Sense stopped selling its consumer monitor — hardware sales ended December 31, 2025 — though the app and existing monitors remain supported.[7] For a new buyer in 2026, that makes the Vue 3 the default whole-home choice unless you find remaining Sense stock secondhand.**
 
-Both are CT-clamp whole-home monitors: they measure current with clamp-on sensors around conductors in your electrical panel, and neither is a plug-in gadget. The difference is what happens after the clamps. The Vue 3 meters per-circuit directly — up to 16 clamp channels, so what you clamp is what you see. Sense meters only the mains and identifies devices over weeks, with no guarantee it will ever name every load.[4][5]
+Both are CT-clamp whole-home monitors: they measure current with clamp-on sensors around conductors in your electrical panel, and neither is a plug-in gadget. The difference is what happens after the clamps. The Vue 3 meters per-circuit directly — up to 16 clamp channels, so what you clamp is what you see. Sense meters only the mains and identifies devices over weeks, with no guarantee it will ever name every load.[4][5][7]
 
-If you want named circuits on day one, the Vue 3 is the straightforward choice. If you want to avoid clamping every breaker and are willing to wait while software learns your home, Sense is the alternative — bought direct, not on Amazon.
+If you want named circuits on day one, the Vue 3 is the straightforward choice — and, post-Sense, the straightforward *only* mainstream choice at retail. If you already own a Sense, keep reading: your device is still supported, and the comparison below still explains what it does and where it falls short.
 
 {{< affiliate-disclosure >}}
 
@@ -49,8 +50,8 @@ The practical difference: the Vue 3's data is structural — it reflects the phy
 | **Device-level data** | Direct: each clamped circuit is named and metered | Inferred: machine learning identifies devices from whole-home signature |
 | **App reports** | Per-circuit real-time watts, kWh, history | Whole-home real-time view; device detection builds over time |
 | **Solar** | Yes — solar and net metering supported[4] | Yes — solar monitoring offered[5] |
-| **Price band** | $100–170 on Amazon[6] | Check sense.com — no Amazon price to print[5] |
-| **Where to buy** | Amazon (and Emporia's own store) | sense.com only |
+| **Price band** | $100–180 on Amazon[6] | No longer sold new — hardware sales ended Dec 31, 2025[7] |
+| **Where to buy** | Amazon (and Emporia's own store) | Not sold new; existing owners keep app + firmware support[7] |
 
 {{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The direct-meter standard" description="Clamps onto your mains plus up to 16 circuits for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." button="Check price on Amazon" >}}
 
@@ -80,7 +81,7 @@ Neither device lowers a bill by itself. A monitor finds the changes; behavior sa
 
 Ask “which circuit is eating my bill?” — the Vue 3. You clamp the circuits you suspect, and the answer is on the screen immediately. This is the strongest case for the Vue 3: direct, named, per-circuit data with no learning period.
 
-Ask “what is my whole home doing, and can software name my devices for me?” — Sense. You accept a learning period and probabilistic results, and you buy direct from sense.com.
+Ask “what is my whole home doing, and can software name my devices for me?” — that was the Sense pitch, and it is why owners liked it. With new hardware sales ended, the successor to that pitch is utility-provided data: Sense is embedding its detection in utility smart meters, and your utility's own app may eventually offer the same inference for free. Today, the buyable version of "software figures out my devices" is gone; the Vue 3's named circuits are the reliable route.[7]
 
 Ask “why is my bill so high at all?” — start with [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/) before buying any hardware. A monitor names the load; it does not explain the rate, the weather, or the season.
 
@@ -100,6 +101,6 @@ The broader toolbox for renters and owners alike is in [gadgets that lower utili
 2. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential revenue 18.34 cents/kWh in June 2026. Retrieved 2026-08-31.
 3. [EIA FAQ — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — average 10,791 kWh/year, about 899 kWh/month. Retrieved 2026-08-31.
 4. [Emporia Vue 3 product page — Emporia Energy](https://shop.emporiaenergy.com/products/emporia-vue-3) — up to 16 circuit sensors, 8x 50A clamps included, solar and net metering. Retrieved 2026-08-31.
-5. [Sense — Product](https://sense.com/product/) — mains-only clamps, machine-learning device detection, sold direct via sense.com. Retrieved 2026-08-31.
-6. [Emporia Vue 3 — Amazon listing](https://www.amazon.com/dp/B0C7B1LKDW) — UL certified, in stock, price band $100–170. Retrieved 2026-08-31.
-7. [Amazon search — “sense energy monitor”](https://www.amazon.com/s?k=sense+energy+monitor) — only Sense accessories found; the Sense monitor itself is not listed on Amazon. Retrieved 2026-08-31.
+5. [Sense — Product](https://sense.com/product/) — mains-only clamps, machine-learning device detection. Retrieved 2026-08-31.
+6. [Emporia Vue 3 — Amazon listing](https://www.amazon.com/dp/B0C7B1LKDW) — UL certified, in stock, price band $100–180. Retrieved 2026-09-06.
+7. [Sense — Looking Ahead: The Next Chapter for Sense](https://sense.com/consumer-blog/looking-ahead-the-next-chapter-for-sense/) — "We'll stop selling the Sense Monitor by December 31, 2025"; app, firmware, and existing-monitor support continue; detection moves into utility smart meters. Retrieved 2026-09-06.

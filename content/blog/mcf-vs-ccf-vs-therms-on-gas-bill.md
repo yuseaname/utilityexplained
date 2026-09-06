@@ -3,7 +3,7 @@ title: "MCF vs CCF vs Therms on Your Gas Bill"
 slug: "mcf-vs-ccf-vs-therms-on-gas-bill"
 description: "MCF, CCF, therms \u2014 your gas bill uses confusing units. Here's exactly what each one means, how they compare, and how to calculate your actual gas cost."
 date: 2026-05-27
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php (retrieved 2026-08-29)
@@ -175,3 +175,5 @@ Yes. A bill in CCF, MCF, or therms can look unusually high or low if you compare
 <h2 id="bottom-line">Bottom Line</h2>
 <p>CCF and MCF tell you how much gas volume passed through your meter. Therms tell you how much usable heat energy you were billed for. For budgeting, rate comparison, and billing disputes, therms are the most useful common denominator.</p>
 <p>If your bill feels high, convert your usage to therms first, then compare your cost per therm, fixed fees, and seasonal usage. That gives you a cleaner picture than looking at the headline dollar amount alone.</p>
+
+Billing-unit vocabulary for every utility lives in the [utility glossary](/utilities-glossary/); the gas walkthroughs collect in the [Gas Explained hub](/gas-explained/).

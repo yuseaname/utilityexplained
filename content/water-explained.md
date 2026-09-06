@@ -276,6 +276,8 @@ For broader utility budgeting advice, visit our utility bills and costs guide. T
 <li><a href="/blog/water-meter-running-when-no-water-used/">Water Meter Running When No Water Used</a></li>
 <li><a href="/blog/how-to-read-a-water-meter/">How to Read a Water Meter</a></li>
 <li><a href="/blog/is-your-toilet-running-leak-test/">Is Your Toilet Running? Leak Test</a></li>
+<li><a href="/blog/where-to-place-water-leak-sensors/">Where to Place Water Leak Sensors</a></li>
+<li><a href="/blog/flume-vs-moen-flo-vs-phyn-water-monitors/">Flume vs Moen Flo vs Phyn</a></li>
 </ul>
 
 <h3>Lower Your Water Bill</h3>

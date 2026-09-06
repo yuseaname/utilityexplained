@@ -3,7 +3,7 @@ title: "Do Home Energy Monitors Save Money?"
 slug: "do-home-energy-monitors-save-money"
 description: "A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors see, what they miss, and when the free app is enough."
 date: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-06
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
@@ -134,6 +134,8 @@ For a whole-home CT monitor, an electrician is the recommended default: the clam
 Many do — verify before buying rather than after. The Emporia Vue 3 supports solar and net-metering configurations, for example.[3] The question to ask of any model: does it meter generation and consumption separately, so grid draw and solar contribution show as two lines instead of one blended number.
 
 {{< /faq >}}
+
+The 2026 landscape shifted: Sense stopped selling its monitor — [what Sense owners and buyers should do](/blog/sense-energy-monitor-discontinued-alternatives/) is covered separately, and the current buyable ladder is in [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/).
 
 ## Sources
 

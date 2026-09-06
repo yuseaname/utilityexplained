@@ -655,3 +655,34 @@ Fresh snapshot via scripts/rybbit_snapshot.py → `.rybbit-snapshot-2026-08-31/`
 **Fleet-integrity notes:** executor fabricated an unreproducible statistic ("0 of 18 bounced sessions long" — the events file has no bounce flag; verifier F6 caught it, GA4 killed it); the deliverable's first draft inherited that error plus phantom-redirect session math — all corrected in §8 with disk-verified evidence. Entry 24 correction: affiliate-shortcode articles = **36 files** (34 product-box + 2 inline), not 46. GA4 gaps found: zero key events configured (wire `affiliate_click`), consent-gating explains the 127-users-vs-2,167-sessions population difference.
 
 **Recommended order (§8):** (1) re-baseline contract to GA4 metrics; (2) GSC sitemap submit; (3) QA normalization + 5 both-bad page restructures; (4) GA4 key events; (5) dead-URL cleanup; (6) flagship fact-fix + H1 intent rewrites after GSC query data arrives.
+## Entry 26 — SQ-072: affiliate-strategy execution — measurement ladder, post-Sense cluster, water cluster (2026-09-06)
+
+Executed the AFFILIATE-STRATEGY-2026-09-06.md plan (Days 1–30 content + mechanical week-1 items executable in-repo). All work verified: `hugo --minify --gc` + check_image_paths (source & build passes) + content_quality_audit (102 published, 52 flagged — zero new flags) + check_rendered_output, all green. Unit tests pass.
+
+**New articles (6, all with AI-generated hero + 3–4 inline visuals in house graph-paper line-art style, 27 images via Magica gpt-image-2, ~1.5 credits):**
+
+| Article | Slug | Role |
+|---|---|---|
+| Sense Is Discontinued — What Owners and Buyers Should Do | `sense-energy-monitor-discontinued-alternatives` | Post-Sense freshness play (Sense retail sales ended 2025-12-31, verified vs sense.com announcement) |
+| Best Home Energy Monitor in 2026 | `best-home-energy-monitor-2026` | Cluster-1 pillar: the 4-level monitoring ladder |
+| Kill A Watt Alternatives in 2026 | `kill-a-watt-alternatives` | Bench-deepening for the most-placed ASIN class |
+| Flume vs Moen Flo vs Phyn | `flume-vs-moen-flo-vs-phyn-water-monitors` | Water cluster head-to-head (Phyn = prose-only, ASIN unverifiable) |
+| Where to Place Water Leak Sensors | `where-to-place-water-leak-sensors` | Long-tail placement guide feeding 6 existing Govee placements |
+| Smart Thermostats on Time-of-Use Plans | `smart-thermostat-time-of-use-savings` | TOU modifier long-tail (avoids Wirecutter-owned head term) |
+
+**Upgrades (7 files):** flagship C4 stacked-savings arithmetic fixed (three checklist totals now decompose honestly to the 20–40% ceiling; date bumped) · Vue-vs-Sense updated for Sense shutdown (Quick Answer, table rows, verdict, sources) · smart-plug article: +KP125M row/box, +Shelly prose section, ladder links · dehumidifier article: first product box ever (Midea Cube w/ Pump B0GL78KXLF — verified new $249.99 Amazon-sold 2026-09-06) + what-to-look-for section · EV article: +3-band rate-reality table + Level-2 payback math + TOU-article cross-links · missing in-article disclosures added to 11 + 46 (site now 36/36 disclosure-complete).
+
+**ASIN verification (live, 2026-09-06):** P4400 B00009MDBU **back in stock** $27.50 via 3P seller (Entry 22's unavailable flag was a rotation outage — old placements stand); P4460 3-pack B07HM9S6ZR in stock $148.37; P4456 B0C4G7QVZT in stock $39.99 (low stock — box added, image generated); P4460 single currently unavailable; Midea Cube w/Pump verified; Frigidaire FHDD5034W1 unboxable (brand site OOS, no verified ASIN — prose only); Phyn Plus 2nd gen ASIN unverifiable from search — prose + phyn.com only. New product_images.yaml entries: B0C4G7QVZT, B0GL78KXLF.
+
+**Measurement fix:** GA4 mirror listener added in baseof.html — delegated click handler fires `gtag('event','affiliate_click',{asin,format})` for every `[data-rybbit-event="affiliate_click"]` element (Rybbit keeps native data-attr capture; no double-count). Renders verified in built HTML.
+
+**Internal linking:** spoke→hub links added to 14 top-traffic pages (only 2 of top 13 linked up before); pillar/cluster links added to 15 more affiliate + water articles; glossary got its first inbound links (3 files); hub directories updated (electricity +4, water +2, heating-cooling +1).
+
+**Owner actions still blocking (from root-cause + strategy docs):**
+1. Submit sitemap in GSC (never done; Google = ~6% of referrals) — 15 min, highest-leverage mechanical item left.
+2. Mark `affiliate_click` as GA4 key event (GA4 admin → Events) now that the event actually fires.
+3. Verify Amazon Associates statement wording (site uses "we earn"; OA §5 text reads "I earn") and April-2026 OA changes at next Associates Central login.
+4. AdSense re-review status; re-add manual ad slots if approved.
+5. E-E-A-T decision on fictional personas (audit C9) — editorial/owner call, deliberately not unilaterally changed.
+
+**Entry 26 addendum — editorial quality pass (2026-09-06, same day):** full read-through of all six new articles + upgraded sections. Fixed: 5 mid-paragraph visual-shortcode splits from the insertion script (pillar, KAW, Flume ×2, placement list-item, TOU heading — all now verified rendering as standalone figures); Sense-article math error ("less than a tenth" → cost claim corrected); EV Level-2 payback recalibrated to 2–10 years at the national-average gap (was "under a year"); Nest/ecobee utility-integration claims hedged to "participating utilities' programs"; IBHS citation swapped from a 404 URL to the live State-of-the-Risk page with claim narrowed to what the page supports (ranking rationale re-anchored to physics); ENERGY STAR URL typo fixed (smart_thermostats) and claim verified against page; "honest/honestly" density trimmed from 19 → 12 across the six articles (house baseline 0–3/article); grammar/clunk fixes (KAW "the still the", "Sump-failure", toilet-tank bullet, "$164-ish center of the target", pillar title "Sense's Exit"). All checks re-run green: build, image paths (both passes), rendered output, audit (102 published / 52 flagged, zero new), unit tests.

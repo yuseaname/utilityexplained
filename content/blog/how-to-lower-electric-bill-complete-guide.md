@@ -3,7 +3,7 @@ title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
 slug: "how-to-lower-electric-bill-complete-guide"
 description: "17 proven steps to lower your electric bill, organized by cost, with exact dollar savings and payback periods."
 date: 2026-08-10
-updated: 2026-08-29
+updated: 2026-09-06
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -519,7 +519,7 @@ Your rate plan matters as much as your usage. The right structure — flat, tier
 - [ ] Seal air leaks with caulk and weatherstrip
 - [ ] Install low-flow showerhead
 
-**Expected savings:** $50–$150/month
+**Expected savings if you adopt most of these:** $20–$40/month on an average bill. The per-step ranges earlier in this guide are *category ceilings* — they overlap (a kWh the fan setback saves is the same kWh the thermostat schedule saves), so add habits, not line items.
 
 ---
 
@@ -533,7 +533,7 @@ Your rate plan matters as much as your usage. The right structure — flat, tier
 - [ ] Insulate hot water pipes
 - [ ] Evaluate duct sealing
 
-**Expected additional savings:** $50–$100/month
+**Expected additional savings:** $5–$15/month on top of the habit changes. The water-heater measures overlap each other (the blanket and the 120°F setpoint act on the same tank), so the same add-habits-not-line-items rule applies.
 
 ---
 
@@ -543,7 +543,7 @@ Your rate plan matters as much as your usage. The right structure — flat, tier
 - [ ] Evaluate solar panels (if high rates, good sun, net metering)
 - [ ] Evaluate ENERGY STAR appliances (when old units fail)
 
-**Expected additional savings:** $100–$200/month
+**Expected additional savings:** these only pay when aging equipment retires anyway — then a high-efficiency replacement typically saves $10–$25/month versus the like-for-like option. Solar can offset most of a bill, but that is *generation* with its own payback math, not an efficiency step; don't stack it against the 20–40% ceiling above.
 
 ---
 

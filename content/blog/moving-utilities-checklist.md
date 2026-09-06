@@ -3,7 +3,7 @@ title: "Moving Utilities Checklist: Turn Off, Turn On, Transfer"
 slug: "moving-utilities-checklist"
 description: "Moving soon? Here's the exact timeline for turning off utilities at your old home and turning them on at the new one — plus a printable one-page checklist so you don't pay for two homes or sit in the dark."
 date: 2026-08-19
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 sources:
   - https://www.usa.gov/moving (retrieved 2026-08-29)
@@ -155,6 +155,8 @@ It depends on the service and the provider. Electric and gas connections sometim
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+This checklist is part of the [Utility Bills Explained hub](/utility-bills-costs-explained/). Terms on your new statements are defined in the [utility glossary](/utilities-glossary/).
 
 ## Sources
 

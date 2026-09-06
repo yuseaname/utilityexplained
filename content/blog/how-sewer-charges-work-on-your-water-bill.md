@@ -3,7 +3,7 @@ title: "How to Understand Sewer Charges on Your Water Bill"
 slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account."
 date: 2025-12-25
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -167,6 +167,8 @@ If the statement reports water use and the change is unexplained, use a no-use m
 Document the bill, current meter reading if relevant, and the date you contacted the provider. Ask whether the statement used an estimated read and whether the provider can explain or review the specific line item. Do not withhold payment or assume an adjustment is available without confirming the provider's dispute and payment policies.
 
 ---
+
+This explanation is part of the [Water Explained hub](/water-explained/).
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "How to Measure and Reduce Standby Power"
 slug: "50-best-smart-plugs-standby-power"
 description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
 date: 2026-05-30
-updated: 2026-08-29
+updated: 2026-09-06
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -139,6 +139,8 @@ Start with equipment that is easy to observe and safe to switch off, such as sel
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
 For the full savings workflow beyond standby power, see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+
+The metering-plug class (and the Kasa/Tapo/Emporia field) is compared head-to-head in [which smart plugs measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/); the ladder above it starts at [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/).
 
 ## Sources
 

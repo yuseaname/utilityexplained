@@ -3,7 +3,7 @@ title: "Sudden Spike in Electricity Bill, No Usage Change"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
-updated: 2026-08-30
+updated: 2026-09-06
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
@@ -245,6 +245,8 @@ Call the billing department and ask for a formal meter test — most utilities d
 {{< /faq >}}
 
 Once the spike is explained, keep it down: the [complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide/) is the follow-up workflow.
+
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel.
 
 ## Sources
 

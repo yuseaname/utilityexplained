@@ -279,6 +279,9 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 <li><a href="/blog/how-many-watts-does-refrigerator-use/">How Many Watts Does a Refrigerator Use?</a></li>
 <li><a href="/blog/smart-plug-energy-monitoring-which-measures-usage/">Which Smart Plug Measures Energy Usage?</a></li>
 <li><a href="/blog/emporia-vue-3-vs-sense-comparison/">Emporia Vue 3 vs Sense</a></li>
+<li><a href="/blog/best-home-energy-monitor-2026/">Best Home Energy Monitor 2026</a></li>
+<li><a href="/blog/sense-energy-monitor-discontinued-alternatives/">Sense Discontinued: What to Do</a></li>
+<li><a href="/blog/kill-a-watt-alternatives/">Kill A Watt Alternatives</a></li>
 <li><a href="/blog/how-to-read-electric-meter/">How to Read an Electric Meter</a></li>
 <li><a href="/blog/how-do-smart-meters-work/">How Do Smart Meters Work?</a></li>
 </ul>

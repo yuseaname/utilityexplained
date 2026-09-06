@@ -3,7 +3,7 @@ title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
 slug: "why-is-my-water-bill-higher-in-winter"
 description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, freeze-thaw pipe stress, and how to check them."
 date: 2025-12-27
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -219,6 +219,8 @@ Yes. Extra showers, laundry, and dishwashing from guests can push a household in
 <p>For full savings strategies after you identify the cause, see <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.</p>
 
 {{< faq-schema >}}
+
+This explainer is part of the [Water Explained hub](/water-explained/).
 
 ## Sources
 

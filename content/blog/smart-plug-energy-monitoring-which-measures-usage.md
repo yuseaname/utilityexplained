@@ -3,16 +3,17 @@ title: "Which Smart Plug Measures Energy Usage? (And Which Just Switch On and Of
 slug: "smart-plug-energy-monitoring-which-measures-usage"
 description: "Most smart plugs only switch on and off. How to tell which ones actually measure watts and kWh — and what they can safely meter, including window ACs."
 date: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-06
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["smart plug", "energy monitoring", "electricity usage", "smart home", "energy meter"]
 image: "/images/articles/smart-plug-energy-monitoring-which-measures-usage/smart-plug-energy-monitoring-which-measures-usage_hero_v2.webp"
-keywords: ["which smart plugs measure energy usage", "smart plug energy monitoring", "kasa kp115 energy monitoring", "tapo p110m", "emporia smart plug"]
+keywords: ["which smart plugs measure energy usage", "smart plug energy monitoring", "kasa kp115 energy monitoring", "kasa kp125m vs tapo p110m", "tapo p110m", "emporia smart plug"]
 sources:
   - https://www.tp-link.com/us/home-networking/smart-plug/kp115/ (retrieved 2026-08-31)
   - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/ (retrieved 2026-08-31)
+  - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/ (retrieved 2026-09-06)
   - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide (retrieved 2026-08-31)
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-31)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-31)
@@ -40,17 +41,22 @@ Manufacturers that meter say it loudly. TP-Link puts the phrase in the product n
 | Model | Meters energy? | Max load rating | Ecosystem | Price band |
 |---|---|---|---|---|
 | Kasa KP115 | Yes — real-time watts and history in the Kasa app[1] | 15 A / 1.8 kW at 120 V; motors up to 1/6 HP[1] | Kasa app; Alexa and Google voice control | $20-30 |
+| Kasa KP125M | Yes — energy monitoring, Matter certified | 15 A / 1,800 W class | Kasa app plus Matter: Alexa, Google, Apple Home | $20-40 (2-pack) |
 | Tapo P110M | Yes — real-time watts and past-7-day energy in the Tapo app[2] | 15 A / 1,800 W (TP-Link mini-plug platform) | Tapo app plus Matter: Alexa, Google Home, Apple Home | $15-40 (2-pack) |
 | Emporia Smart Plug | Yes — real-time monitoring in the Emporia app[3] | 15 A / 1,800 W at 120 V; 2,400 W at 240 V per Emporia's guide[3] | Emporia app; pairs with Vue whole-home monitors | $18-28 |
 | Basic mini plugs (Kasa HS103 class) | **No — on/off switching only** | 15 A / 1,800 W class | Kasa, Wemo, Wyze and similar apps | Cheapest tier |
 
-All three metering plugs share one electrical class — 15 amps, 1,800 watts at 120 volts — so the choice among them is about the app, not the meter. The basic plugs in the bottom row are good switches; they simply cannot answer a usage question, and no firmware update will change that.
+All the metering plugs share one electrical class — 15 amps, 1,800 watts at 120 volts — so the choice among them is about the app, not the meter. The basic plugs in the bottom row are good switches; they simply cannot answer a usage question, and no firmware update will change that.
 
 ## The Three Plugs That Measure, Briefly
 
 **Kasa KP115 — the established pick.** UL certified with a two-year warranty, and a spec sheet unusually plain about limits: 15 A, 1.8 kW at 120 V, motors up to 1/6 HP.[1] The Kasa app shows real-time watts and day-by-day energy history. It sits in the $20-30 band.
 
 {{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring (KP115)" label="The metered classic" description="Slim Wi-Fi plug with a metering chip: the Kasa app reports real-time watts and historical energy use for whatever you plug in. UL certified, two-year warranty, no hub required." button="Check price on Amazon" >}}
+
+**Kasa KP125M — the Matter-generation pick.** The KP115's successor in spirit: same metering in the Kasa app, now Matter-certified, so it joins Apple Home alongside Alexa and Google instead of being voice-assistant-limited. Two-packs are the usual buy. If you are choosing between the two Kasas and your home runs Apple Home, the KP125M is the one.
+
+{{< product-box asin="B0BYGRLRS1" name="Kasa Smart Plug KP125M with Energy Monitoring (2-Pack)" label="Metering, Matter-certified" description="The current-generation Kasa metering plug: real-time energy use in the Kasa app, Matter certified for Apple Home, Alexa, and Google. Two outlets per box; no hub required." button="Check price on Amazon" >}}
 
 **Tapo P110M — the cross-platform pick.** Matter certified, so it pairs with Alexa, Google Home, or Apple Home rather than locking you into one ecosystem.[2] The Tapo app shows current watts alongside past-week totals, and the $15-40 two-pack covers two outlets at once.
 
@@ -59,6 +65,8 @@ All three metering plugs share one electrical class — 15 amps, 1,800 watts at 
 **Emporia Smart Plug — the ecosystem pick.** Real-time energy monitoring with app control and no subscription — all app features are included with purchase.[3] Its distinctive row is the tie to Emporia's Vue whole-home monitors: one metered outlet now, a whole-panel view later. Rated for indoor use only;[3] it sits in the $18-28 band.
 
 {{< product-box asin="B0CLVV7X7Y" name="Emporia Energy Monitoring Smart Plug" label="Ties into the Vue system" description="Wi-Fi plug with real-time energy monitoring and app scheduling; Emporia includes all app features with no subscription. Indoor use only; pairs with Vue whole-home monitors." button="Check price on Amazon" >}}
+
+**One more for the tinkerers: Shelly Plug US.** Outside the three mainstream apps sits the plug the Home Assistant community favors — Shelly's US plug meters power precisely and, unusually, can be controlled locally over your network without any cloud account, which matters if you want your energy data living on your own hardware. It is the choice of a specific temperament (self-hosted dashboards, local automation), not a better meter of the same question — and TP-Link's mainstream plugs remain the simpler answer for everyone else. Current Shelly generation is Gen3/Gen4; check its product page for the current model if local control matters to you.
 
 ## Which One Fits Your Setup
 
@@ -84,7 +92,9 @@ Scale check: the average American household uses about 899 kWh a month (EIA's 20
 
 ## The Bottom Line
 
-This article answered one question — which smart plugs measure energy — not which plugs are best overall. If you want the data, buy a plug whose spec sheet explicitly says energy monitoring: the Kasa KP115, Tapo P110M, and Emporia Smart Plug are the established choices across three ecosystems, in the $15-40 range. If you only want scheduled on/off automation, the basic class does that job. Then meter one device you already suspect, give the schedule a week, and let measured watts — not marketing watts — decide what comes next.
+This article answered one question — which smart plugs measure energy — not which plugs are best overall. If you want the data, buy a plug whose spec sheet explicitly says energy monitoring: the Kasa KP115 and KP125M, Tapo P110M, and Emporia Smart Plug are the established choices across three ecosystems, in the $15-40 range. If you only want scheduled on/off automation, the basic class does that job. Then meter one device you already suspect, give the schedule a week, and let measured watts — not marketing watts — decide what comes next.
+
+If the suspect list has outgrown one outlet, the next step up is a screen-first plug-in meter or a whole-panel monitor: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) cover both rungs of that ladder.
 
 ## Sources
 

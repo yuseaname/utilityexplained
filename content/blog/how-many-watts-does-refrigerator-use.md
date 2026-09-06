@@ -3,7 +3,7 @@ title: "How Many Watts Does a Refrigerator Use? (and How to Measure Yours Exactl
 slug: "how-many-watts-does-refrigerator-use"
 description: "A fridge's running watts matter less than kWh per day. How to measure both with a plug-in meter — or a free one from the library — and price your own."
 date: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-06
 author: "David Chen"
 category: "Electricity"
 categories: ["Electricity"]
@@ -111,6 +111,8 @@ None of that is a promise — the gain depends on how wrong the setup was, which
 Two nearby loads deserve a label. An EV charger can dwarf a fridge several times over — [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/) has the math. And a chest freezer in a hot garage can quietly outrun the kitchen fridge; the same meter measures it in the same 24 hours.
 
 One last free tool: most homes already have partial monitoring in the bill — utility smart-meter portals and [usage-tracking apps](/blog/gadgets-that-lower-utility-bills/) show whole-house daily kWh for nothing. Not appliance-level, but often enough to date a change before any hardware comes home. If the baseline that never reaches zero is the curiosity, [phantom power explained](/blog/phantom-power-draw-explained/) is the deep dive.
+
+To get your fridge's real number instead of a range: the measurement routes are compared in [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/).
 
 ## Sources
 

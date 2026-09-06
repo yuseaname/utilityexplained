@@ -3,7 +3,7 @@ title: "Is Your Toilet Running? A Simple Leak Test"
 slug: "is-your-toilet-running-leak-test"
 description: "Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your meter and bill."
 date: 2025-12-25
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -125,6 +125,8 @@ A seal can temporarily reseat, but confirm the result with a repeat dye test and
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+This test is part of the [Water Explained hub](/water-explained/). For catching future leaks automatically: [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/).
 
 ## Sources
 

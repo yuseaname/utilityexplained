@@ -51,6 +51,8 @@ Shift these common loads to the cheapest hours on your plan:
 - **Pool pump.** Use a timer to run during off-peak morning or late-night hours. A typical 1.5-HP pump running 6 hours/day costs about $1.00–$1.50 at peak and $0.40–$0.75 off-peak.
 - **Oven and stovetop cooking.** Batch-cook or use a slow cooker during off-peak. Evening meal prep (peak hours) is fine — just avoid running the dishwashers and dryers at the same time.
 
+{{< affiliate-disclosure >}}
+
 Automating these shifts is straightforward with a timer or smart plug. One option: the **{{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Smart Plug + Energy Monitor" description="15A / 1800W rating, handles most major appliances. Schedule it to turn on after peak hours end, and monitor kWh from your phone. No hub required." button="Check Price on Amazon" >}}** — set the schedule once and the plug handles the rest.
 
 ## Why Shifting Pays Off

@@ -3,7 +3,7 @@ title: "Water Meter Running When No Water Is Used"
 slug: "water-meter-running-when-no-water-used"
 description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
 date: 2026-05-27
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -121,6 +121,8 @@ Costs vary by market and by how hard the leak is to reach, so do the free isolat
 - [How to read a water meter](/blog/how-to-read-a-water-meter/) — dials, digits, and units
 - [What is CCF on a water bill?](/blog/what-is-ccf-on-a-water-bill/) — understanding the units on your bill
 - [Why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) — the full bill-detective playbook
+
+This walkthrough is part of the [Water Explained hub](/water-explained/). If the meter confirms a leak, the response ladder starts with [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) and, for whole-home watching, [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/).
 
 ## Sources
 

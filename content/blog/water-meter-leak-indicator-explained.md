@@ -3,7 +3,7 @@ title: "Water Meter Leak Indicator: How to Spot a Hidden Leak"
 slug: "water-meter-leak-indicator-explained"
 description: "Most water meters have a small leak indicator that moves when water flows. Here's how to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
-updated: 2026-08-28
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -143,6 +143,8 @@ Yes. A slow, continuous flow can add up over a billing period. Confirm the sourc
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+This guide is part of the [Water Explained hub](/water-explained/). For what to do after the indicator confirms a leak, [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) ranks the spots that matter.
 
 ## Sources
 

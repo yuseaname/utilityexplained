@@ -3,7 +3,7 @@ title: "Why Is My Water Bill So High? Causes Ranked by Likelihood"
 slug: "06-water-bill-too-high"
 description: "Rank the likely causes of your high water bill — toilet leak, irrigation, rate change, meter error — and run the free tests in order before spending money."
 date: 2026-03-07
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -180,6 +180,8 @@ Many utilities offer a one-time leak adjustment if you document the repair, but 
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+This guide is part of the [Water Explained hub](/water-explained/). If a leak turns out to be the cause: [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) covers the cheap fixes, and [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) the whole-home tier.
 
 ## Sources
 

@@ -71,6 +71,23 @@
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}
 
+  {{/* Affiliate-click mirror → GA4. Rybbit captures the click natively via the
+         data-rybbit-event attributes on the amazon/product-box shortcodes; GA4
+         has no outbound auto-tracking, so this delegated listener mirrors the
+         same clicks as `affiliate_click` events (mark it a key event in GA4
+         admin). gtag respects Consent Mode v2 on its own — no cookie writes
+         unless the visitor granted analytics storage. */}}
+  <script>
+    document.addEventListener('click', function(ev) {
+      var el = ev.target && ev.target.closest ? ev.target.closest('[data-rybbit-event="affiliate_click"]') : null;
+      if (!el || typeof gtag !== 'function') return;
+      gtag('event', 'affiliate_click', {
+        asin: el.getAttribute('data-rybbit-prop-asin') || '',
+        format: el.getAttribute('data-rybbit-prop-format') || ''
+      });
+    }, { passive: true });
+  </script>
+
   {{/* Cookie consent banner (drives Google Consent Mode v2) */}}
   {{ partial "cookie-consent.html" . }}
 

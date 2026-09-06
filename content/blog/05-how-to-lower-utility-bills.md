@@ -3,7 +3,7 @@ title: "Lower Your Utility Bills: The Ranked List of What Actually Saves"
 slug: "05-how-to-lower-utility-bills"
 description: "A ranked list of what actually lowers utility bills — typical cost, monthly savings, and payback for the top fixes across electricity, gas, water, and weatherization, plus the baseline method that shows which fix your house needs first."
 date: 2026-03-07
-updated: 2026-08-30
+updated: 2026-09-06
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -106,6 +106,8 @@ Before authorizing a purchase, confirm current local or utility-program terms di
 ## Review Results With Bill Data
 
 After an improvement, compare the same fields over an appropriate period: service dates, billing days, usage, meter/read status, rate plan, charges, and credits. A lower or higher dollar total alone does not prove the effect of an action if the tariff or billing period changed.
+
+This ranked list is part of the [Lower Your Bills hub](/lower-your-bills/). The measurement tools behind steps like metering an appliance are compared in [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/).
 
 ## Sources
 

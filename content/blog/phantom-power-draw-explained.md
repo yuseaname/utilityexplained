@@ -3,7 +3,7 @@ title: "Phantom Power Draw: How to Find and Reduce Standby Use"
 slug: "phantom-power-draw-explained"
 description: "Learn what standby power is, how it is measured, and how to reduce avoidable plug-load energy use."
 date: 2026-08-10
-updated: 2026-08-28
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -118,6 +118,8 @@ A device's cost depends on its measured power use, the time it stays in that mod
 For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
 
 Phantom load is one line of the full savings workflow — see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+
+To measure the loads in this article: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) covers the plug-in meter class, and [which smart plugs measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/) the automated one.
 
 ## Sources
 

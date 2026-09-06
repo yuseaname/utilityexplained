@@ -3,7 +3,7 @@ title: "Point Sensor or Whole-Home Shutoff? When to Upgrade"
 slug: "point-sensor-vs-whole-home-water-leak-when-to-upgrade"
 description: "Point sensors guard spots, meter monitors watch every gallon, and an inline valve acts when you can't — the five signals that say when to move up."
 date: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-06
 author: "David Chen"
 category: "Water"
 categories: ["Water"]
@@ -135,6 +135,8 @@ Yes. The Flo installs in-line on the main supply line, and in-line means cutting
 {{< faq "Are point leak sensors enough for apartments?" >}}
 For most apartments, yes — tier 1 is the honest ceiling. Discs under the sink, behind the toilet, and near the water heater cover the failure points you can reach; the building side (meter, main, neighbors' supply lines) stays out of scope. Already own discs? They're not a sunk cost — they are tier 1, and a meter monitor overlaps them rather than replaces them. If the worry is the building itself, the effective purchase is a conversation with the landlord, where the insurance angle lands on their policy.
 {{< /faq >}}
+
+For the head-to-head specs of the tier-2 and tier-3 devices named here — install, subscriptions, and what auto-shutoff actually buys — see [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/); for puck-by-puck positioning, [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/).
 
 ## Sources
 

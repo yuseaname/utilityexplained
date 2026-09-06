@@ -3,7 +3,7 @@ title: "Tools That Can Help You Understand Utility Use"
 slug: "gadgets-that-lower-utility-bills"
 description: "Use measurement and an assessment before buying an energy-saving device; choose products that fit the home, electrical load, and utility plan."
 date: 2026-08-15
-updated: 2026-08-28
+updated: 2026-09-06
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -127,6 +127,8 @@ A gadget that pays for itself in one home may waste money in another. Here are t
 DOE notes that ENERGY STAR-qualified products exceed federal minimum standards for efficiency and quality.[1] That label can help when an appliance, electronic product, or other equipment is already due for replacement; it is not evidence that every connected device or gadget will pay for itself. Before buying anything, inspecting the home itself is free — our [DIY guide to checking for energy leaks](/blog/47-check-energy-leaks-home-diy/) walks room by room through the drafts, ducts, and insulation gaps most worth measuring first.
 
 For a broader starting point, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) and [how to lower utility bills](/blog/05-how-to-lower-utility-bills/).
+
+Deep dives on the measuring tools named here: [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/), [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/), and [which smart plugs actually measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/).
 
 ## Sources
 

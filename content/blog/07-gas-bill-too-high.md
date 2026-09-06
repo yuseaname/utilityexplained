@@ -4,7 +4,7 @@ slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "A high gas bill is usually heating-driven (about 40–45% of annual household gas use, per EIA RECS). See the 11 most common causes, the dollar amount each fix saves, and when to call your utility."
 date: 2026-03-07
-updated: 2026-08-30
+updated: 2026-09-06
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php (retrieved 2026-08-29)
@@ -347,6 +347,8 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 {{< faq-schema >}}
 
 ---
+
+This walkthrough is part of the [Gas Explained hub](/gas-explained/). Cross-utility saving tactics live in the [Lower Your Bills hub](/lower-your-bills/).
 
 ## Sources
 

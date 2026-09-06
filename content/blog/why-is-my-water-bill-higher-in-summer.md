@@ -3,7 +3,7 @@ title: "Why Is My Water Bill Higher in Summer? 7 Causes"
 slug: "why-is-my-water-bill-higher-in-summer"
 description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
 date: 2025-12-26
-updated: 2026-08-29
+updated: 2026-09-06
 author: "Margaret Harrington"
 category: "Water"
 categories: ["Water"]
@@ -235,6 +235,8 @@ Seasonal patterns vary by region and household, but EPA data gives a national pi
 <p>For the winter side of the seasonal pattern, see <a href="/blog/why-is-my-water-bill-higher-in-winter/">Why Is My Water Bill Higher in Winter?</a>.</p>
 
 {{< faq-schema >}}
+
+This explainer is part of the [Water Explained hub](/water-explained/).
 
 ## Sources
 
