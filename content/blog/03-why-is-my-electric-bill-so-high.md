@@ -36,7 +36,7 @@ A higher electric bill can result from higher electricity use, a higher electric
 
 EIA explains that residential electric bills reflect both grid-delivered electricity use and the retail electricity price.[1] There is no single normal kWh amount or dollar bill for every home.
 
-**Next step:** If your bill jumped, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a line-by-line walkthrough, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to decode every charge category.
+**Next step:** If your bill jumped, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a line-by-line walkthrough, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to decode every charge category. If the statements match and usage is the culprit, a {{< amazon asin="B00009MDBU" text="plug-in watt meter like the P3 Kill A Watt" >}} will name the appliance responsible in about a day of monitoring.
 
 ## Start With the Bill, Not a Guess
 
@@ -149,7 +149,7 @@ For the full savings workflow after you find the cause, see [how to lower your e
 
 {{< faq-schema >}}
 
-This guide is part of the [Electricity Explained hub](/electricity-explained/). If usage turns out to be the cause, the measurement rungs are [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/).
+This guide is part of the [Electricity Explained hub](/electricity-explained/). If usage turns out to be the cause, the measurement rungs are [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/). At the whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 energy monitor" >}} tracks each circuit in real time — the culprit breaker shows itself.
 
 ## Sources
 

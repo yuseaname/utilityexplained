@@ -33,7 +33,7 @@ That ladder is the shape of this category in 2026. Most "best energy monitor" li
 
 Sense — the machine-learning monitor that identified appliances from your mains — exited consumer hardware on December 31, 2025, moving its detection software into utility-deployed smart meters.[1] Existing Sense monitors keep working with continued app support, but new buyers can no longer get one at retail. The details are in our [Sense discontinued guide](/blog/sense-energy-monitor-discontinued-alternatives/); the short version for this list: the "software names your appliances" approach is now something your utility may eventually provide, not something you can buy today.
 
-That leaves the buyable market organized by **how much of your home you want explained, and how certain you need the answer to be**.
+That leaves the buyable market organized by **how much of your home you want explained, and how certain you need the answer to be**. If you already know you want the whole-home answer, {{< amazon asin="B0C7B1LKDW" text="the Emporia Vue 3 is the monitor that now owns that slot" >}} — the level-by-level walkthrough below explains why, and when a $20 plug or your utility's free data is the smarter buy.
 
 ## The Four Levels of Home Energy Monitoring
 

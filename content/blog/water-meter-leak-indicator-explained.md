@@ -24,7 +24,7 @@ sources:
 <p><strong>Where to find it:</strong> Lift the lid on your meter box (usually near the street or sidewalk in a concrete or plastic cover). Look on the meter face for a small red triangle, star, or dial — often labeled "leak" or "low flow." On digital smart meters, look for a flashing flow icon or a "leak" alert on the display.</p>
 <p>For a full meter-reading walkthrough covering different dial styles and digital meters, see: <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 
-<p><strong>Next step:</strong> If your leak indicator is moving, follow the <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a> guide to isolate the source, then check <a href="/blog/06-water-bill-too-high/">how to investigate a high water bill</a>. To understand your usage units, see <a href="/blog/what-is-ccf-on-a-water-bill/">what is CCF on a water bill</a>.</p>
+<p><strong>Next step:</strong> If your leak indicator is moving, follow the <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a> guide to isolate the source, then check <a href="/blog/06-water-bill-too-high/">how to investigate a high water bill</a>. To understand your usage units, see <a href="/blog/what-is-ccf-on-a-water-bill/">what is CCF on a water bill</a>. To watch the meter between your once-a-month checks, a {{< amazon asin="B08DX6MP8X" text="meter-mounted monitor like the Flume 2" >}} catches the same slow continuous flow in real time and sends it to your phone.</p>
 
 <p>For a faster next step when you just need the basics, read <a href="/blog/06-water-bill-too-high/">how to investigate a high water bill</a> or see <a href="/blog/average-water-usage-per-person/">average water usage per person</a> for a household baseline.</p>
 
@@ -148,7 +148,7 @@ Yes. A slow, continuous flow can add up over a billing period. Confirm the sourc
 
 {{< faq-schema >}}
 
-This guide is part of the [Water Explained hub](/water-explained/). For what to do after the indicator confirms a leak, [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) ranks the spots that matter.
+This guide is part of the [Water Explained hub](/water-explained/). For what to do after the indicator confirms a leak, [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) ranks the spots that matter — a {{< amazon asin="B0DQLFC3Q6" text="five-pack of leak sensors like the Govee" >}} covers most of them in one kit.
 
 ## Sources
 

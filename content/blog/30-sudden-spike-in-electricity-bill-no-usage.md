@@ -40,7 +40,7 @@ If you already know which cause is yours: a rate change points to [fuel adjustme
 
 ---
 
-Last month's electric bill was <strong>$135</strong>. This month it is <strong>$340</strong>. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A <strong>150% increase</strong> with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill.
+Last month's electric bill was <strong>$135</strong>. This month it is <strong>$340</strong>. You have not bought any new appliances, you have not added a pool heater, and your daily routine has not changed. A <strong>150% increase</strong> with no explanation is alarming, but it is also one of the most common complaints utility customer service departments handle. Here is a systematic guide to diagnosing and resolving a sudden spike in your electricity bill. If the bill paperwork checks out, the fastest way to catch the appliance thief is a {{< amazon asin="B00009MDBU" text="plug-in watt meter like the P3 Kill A Watt" >}} — the usage audit below shows exactly where it fits.
 
 ## The Top 10 Causes at a Glance
 
@@ -248,7 +248,7 @@ Call the billing department and ask for a formal meter test — most utilities d
 
 Once the spike is explained, keep it down: the [complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide/) is the follow-up workflow.
 
-This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel.
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel. For that whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 whole-home monitor" >}} puts a sensor on each breaker and shows per-circuit use in real time.
 
 ## Sources
 

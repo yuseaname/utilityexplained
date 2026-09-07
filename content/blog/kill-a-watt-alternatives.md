@@ -25,7 +25,7 @@ sources:
 
 **The P3 Kill A Watt P4400 — the classic $25-ish plug-in usage meter — is still the default way to measure one appliance, and it is buyable again after a stock wobble.** But "Kill A Watt" is one product in a four-way toolbox: the **P4456 Kill A Watt Flex** (same idea, newer features, when in stock), an **energy-monitoring smart plug** (measures in an app, over time, from anywhere), the **Emporia Vue 3** (every circuit at once, panel install), and **your utility's hourly data** (free, whole-home only). The right pick depends on whether you want a one-weekend answer or a permanent meter — the comparison below settles it in two minutes.
 
-If you came from one of our other guides — [what a kilowatt-hour is](/blog/11-understanding-kwh-usage/), [phantom power](/blog/phantom-power-draw-explained/), or [how many watts a refrigerator uses](/blog/how-many-watts-does-refrigerator-use/) — this page is the buying-decision companion to all three.
+If you came from one of our other guides — [what a kilowatt-hour is](/blog/11-understanding-kwh-usage/), [phantom power](/blog/phantom-power-draw-explained/), or [how many watts a refrigerator uses](/blog/how-many-watts-does-refrigerator-use/) — this page is the buying-decision companion to all three. If you just want the classic meter and move on: {{< amazon asin="B00009MDBU" text="the P4400 is in stock on Amazon" >}} — the comparison below covers when the Flex, a smart plug, or the utility's free data does the job better.
 
 {{< affiliate-disclosure >}}
 

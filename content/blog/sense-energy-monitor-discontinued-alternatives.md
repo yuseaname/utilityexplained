@@ -24,7 +24,7 @@ sources:
 
 **Sense stopped selling its consumer home energy monitor on December 31, 2025, and pivoted to embedding its device-detection software inside utility-deployed smart meters.[1] If you own a Sense, nothing breaks: the company has committed to continuing app support, firmware updates, and device detection for existing monitors.[1][2] If you were about to buy one, don't pay resale markups — the 2026 alternatives, ranked by budget, are your utility's free hourly data, an energy-monitoring smart plug for single devices, or the Emporia Vue 3 for whole-home circuit-level monitoring.**
 
-This site's [Vue 3 vs Sense comparison](/blog/emporia-vue-3-vs-sense-comparison/) covers how the two devices differ in method; this page covers the shutdown itself — what still works, what happens to your data and hardware, and what to buy instead at each budget.
+This site's [Vue 3 vs Sense comparison](/blog/emporia-vue-3-vs-sense-comparison/) covers how the two devices differ in method; this page covers the shutdown itself — what still works, what happens to your data and hardware, and what to buy instead at each budget. For buyers who want the short answer now: {{< amazon asin="B0C7B1LKDW" text="the Emporia Vue 3 is the mainstream whole-home replacement" >}} — owners should read the support section first, because your monitor is not dead.
 
 {{< affiliate-disclosure >}}
 

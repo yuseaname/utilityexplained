@@ -23,7 +23,7 @@ sources:
 
 **The three main smart water monitors answer different questions. Flume 2 (~$200–270) straps onto your existing water meter — no plumber, 15 minutes — and watches whole-home flow from outside the pipe. Moen Flo (~$500–700 plus professional installation) cuts into your main line: it monitors flow, pressure, and temperature, and can shut the water off by itself. Phyn Plus (about $580 from Phyn or Home Depot, also pro-installed) is the same inline-plus-shutoff idea as Flo with different detection math. If you want detection and data, Flume; if you want the house to defend itself while you're on vacation, Flo or Phyn.**
 
-One frame before the table: all three are *monitors*, not guarantees. Water damage still happens faster than any valve closes, and the right sensor for the water heater pan is a $12 puck sitting in it — the tier logic lives in [point sensor or whole-home shutoff: when to upgrade](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/). This page is the head-to-head for readers who already know they want whole-home coverage.
+One frame before the table: all three are *monitors*, not guarantees. Water damage still happens faster than any valve closes, and the right sensor for the water heater pan is a $12 puck sitting in it — a {{< amazon asin="B0DQLFC3Q6" text="5-pack of Govee leak detectors covers the usual spots for about $60" >}} — the tier logic lives in [point sensor or whole-home shutoff: when to upgrade](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/). This page is the head-to-head for readers who already know they want whole-home coverage.
 
 {{< affiliate-disclosure >}}
 

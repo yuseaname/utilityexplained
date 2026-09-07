@@ -27,7 +27,7 @@ sources:
 
 **Next step:** If your water bill is higher than expected, start with the [water bill investigation guide](/blog/06-water-bill-too-high/) to compare your statement and meter data before diving into the leak tests below.
 
-The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how smart meters work and how accurate they are](/blog/how-do-smart-meters-work/).
+The 10-minute test below tells you which one you have — and whether the leak is inside your house or under your yard. If the test comes back clean, the meter itself may be the suspect — here's [how smart meters work and how accurate they are](/blog/how-do-smart-meters-work/). And if you can't be at the meter to watch it yourself, a {{< amazon asin="B08DX6MP8X" text="meter-mounted monitor like the Flume 2" >}} does the watching and reports flow to your phone in real time — including while you're asleep or away.
 
 ## The 10-Minute Test: Find Where the Leak Is
 
@@ -124,7 +124,7 @@ Costs vary by market and by how hard the leak is to reach, so do the free isolat
 - [What is CCF on a water bill?](/blog/what-is-ccf-on-a-water-bill/) — understanding the units on your bill
 - [Why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) — the full bill-detective playbook
 
-This walkthrough is part of the [Water Explained hub](/water-explained/). If the meter confirms a leak, the response ladder starts with [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) and, for whole-home watching, [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/).
+This walkthrough is part of the [Water Explained hub](/water-explained/). If the meter confirms a leak, the response ladder starts with [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) and, for whole-home watching, [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/). For that first rung, a {{< amazon asin="B0DQLFC3Q6" text="five-pack of leak sensors like the Govee" >}} covers the usual spots — water heater, washer box, under the sinks — in a single kit.
 
 ## Sources
 
