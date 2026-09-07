@@ -96,9 +96,13 @@ sources:
 <h3>Option B: Separate indoor vs outdoor use</h3>
 <p>In summer, irrigation is a top cause of "mystery usage." If your bill spikes seasonally, this guide helps you connect the dots: <a href="/blog/why-is-my-water-bill-higher-in-summer/">why water bills are higher in summer</a>.</p>
 
-The leak indicator is a once-a-month check at the meter. This does it every minute of every day, and closes the valve when it finds one.
+The leak indicator is a once-a-month check at the meter. These devices do that job continuously — at three rungs of cost and coverage:
 
-{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor & Shutoff" label="Every-minute monitoring" description="Monitors flow, pressure, and temperature 24/7. Detects drops-per-minute leaks and can shut the main valve automatically — the upgrade from checking a leak indicator once a month. Moen 900-001 spec." button="Check price on Amazon" >}}
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Watch the usual spots" description="Contact sensors that alarm at 105 dB and send phone alerts the moment water touches them. Not meter-level detection — you place them where leaks start (water heater pan, washer box, under sinks, toilet bases) and they stand guard there for years. Govee spec: IP67 rated, long-range hub connection." button="Check price on Amazon" >}}
+
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Meter-level, no plumber" description="Straps onto your existing water meter — no pipe cutting, DIY install — and reports household usage in real time to your phone. It catches the same slow continuous flow a leak indicator reveals, but the instant it starts, and the usage timeline shows when it began so you can localize it. The middle rung between point sensors and an automatic shutoff." button="Check price on Amazon" >}}
+
+{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor & Shutoff" label="Every-minute monitoring + shutoff" description="Monitors flow, pressure, and temperature 24/7 on the main line, detects drops-per-minute leaks, and can shut the main valve automatically when it finds one — the upgrade from checking a leak indicator once a month. Top rung; professional installation is required. Moen 900-001 spec." button="Check price on Amazon" >}}
 
 ## Common misconceptions {#misconceptions}
 <ul>

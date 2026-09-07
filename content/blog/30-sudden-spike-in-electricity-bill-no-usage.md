@@ -224,7 +224,9 @@ To systematically investigate a usage spike, conduct a home electricity audit:
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Find the energy thief" description="The $25 meter the article above is describing. Plug any appliance in and watch its true consumption — refrigerators, freezers, space heaters, and anything you suspect is malfunctioning." button="Check price on Amazon" >}}
 
-The meter finds the thief; the smart plug executes the fix on a schedule. Pair the Kill A Watt with a {{< amazon asin="B08LN3C7WK" text="Kasa KP115 smart plug on Amazon" >}} — plug the suspect appliance into the smart plug, set a schedule in the app, and the device stops running when you don't need it.
+The meter finds the thief; the smart plug executes the fix on a schedule. Plug the suspect appliance into a monitoring smart plug, set a schedule in the app, and the device stops running when you don't need it — with per-outlet kWh logging to confirm the fix worked:
+
+{{< product-box asin="B0DKGBP38V" name="TP-Link Tapo P110M Smart Plug with Energy Monitoring (2-Pack)" label="Fix it and verify it" description="Wi-Fi smart plugs with built-in energy monitoring — logs watts, kWh, and runtime per outlet in the Tapo app, so you can schedule the offending appliance off and watch its consumption drop to zero. Matter-compatible, 15A/1800W, 2.4 GHz Wi-Fi, ETL listed (TP-Link spec, 2-pack)." button="Check price on Amazon" >}}
 
 ## Frequently Asked Questions
 

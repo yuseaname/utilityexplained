@@ -75,6 +75,8 @@ The 10-minute test above tells you *that* you have a leak. These tell you *where
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Localize the leak" description="Contact sensors with loud alarms and phone alerts. Stagger them along the suspect path — water heater, under sinks, toilet bases, washing machine box — and the first one to trip is your culprit zone." button="Check price on Amazon" >}}
 
+If the sensors come up dry but the meter keeps running, the leak is underground or silent at the fixture level — that is meter-level monitoring territory. The {{< amazon asin="B08DX6MP8X" text="Flume 2 Smart Home Water Monitor" >}} straps onto your existing meter (no plumber) and shows exactly when water is flowing, so a 3 a.m. usage line points you at the toilet or irrigation valve instead of the whole house.
+
 ## If It's Outside: Service Line and Slab Leaks
 
 A meter that keeps running with the house valve closed means water is escaping between the meter box and your foundation. Signs to look for:

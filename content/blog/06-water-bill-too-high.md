@@ -149,7 +149,9 @@ Do the free checks above first. Sensors close the gap between a leak starting an
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch it while it's small" description="Contact sensors that alarm at 105 dB and send phone alerts when they touch water. Place under the water heater, behind the washing machine, and under sinks — where slow leaks hide longest." button="Check price on Amazon" >}}
 
-{{< amazon asin="B00C03D01Q" text="See the Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} — a whole-home monitor on the main line watches flow, pressure, and temperature 24/7, detects drops-per-minute leaks, and can shut the main itself (Moen 900-001 spec). EPA's guidance treats leak-detection and flow-monitoring devices, including shut-off types, as a recommended way to catch irregular use.[2]
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Whole-home watch, DIY install" description="Point sensors only guard the spots they're sitting in. Flume straps onto your existing water meter — no plumber, no pipe cutting — and reports household usage in real time, with phone alerts when consumption looks abnormal. Catches the silent leaks sensors never see, like a running toilet or a stuck irrigation valve." button="Check price on Amazon" >}}
+
+For automatic protection — a monitor that can also close the valve for you — step up to the {{< amazon asin="B00C03D01Q" text="Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} — a whole-home monitor on the main line watches flow, pressure, and temperature 24/7, detects drops-per-minute leaks, and can shut the main itself (Moen 900-001 spec; professional installation required). EPA's guidance treats leak-detection and flow-monitoring devices, including shut-off types, as a recommended way to catch irregular use.[2]
 
 For the full playbook after the leak is fixed, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
 
