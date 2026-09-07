@@ -14,7 +14,7 @@
   </div>
   <form class="newsletter-form" action="https://utilityexplained.us21.list-manage.com/subscribe/post" method="POST">
     <input type="email" name="EMAIL" placeholder="your@email.com" class="newsletter-input" required aria-label="Email address">
-    <button type="submit" class="newsletter-btn">Get Free Tips</button>
+    <button type="submit" class="newsletter-btn" data-rybbit-event="email_capture" data-rybbit-prop-location="{{ if .IsHome }}home{{ else }}article_footer{{ end }}">Get Free Tips</button>
   </form>
 </div>
 {{ end }}

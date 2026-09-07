@@ -71,20 +71,24 @@
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}
 
-  {{/* Affiliate-click mirror → GA4. Rybbit captures the click natively via the
-         data-rybbit-event attributes on the amazon/product-box shortcodes; GA4
-         has no outbound auto-tracking, so this delegated listener mirrors the
-         same clicks as `affiliate_click` events (mark it a key event in GA4
-         admin). gtag respects Consent Mode v2 on its own — no cookie writes
-         unless the visitor granted analytics storage. */}}
+  {{/* Rybbit → GA4 event mirror. Rybbit captures clicks natively via
+         data-rybbit-event attributes on tracked elements; GA4 has no outbound
+         auto-tracking, so this delegated listener mirrors every Rybbit event
+         (affiliate_click with asin/format, email_capture, any future
+         data-rybbit-event) into GA4 under the same name (mark affiliate_click
+         as a key event in GA4 admin). gtag respects Consent Mode v2 on its
+         own — no cookie writes unless the visitor granted analytics storage. */}}
   <script>
     document.addEventListener('click', function(ev) {
-      var el = ev.target && ev.target.closest ? ev.target.closest('[data-rybbit-event="affiliate_click"]') : null;
+      var el = ev.target && ev.target.closest ? ev.target.closest('[data-rybbit-event]') : null;
       if (!el || typeof gtag !== 'function') return;
-      gtag('event', 'affiliate_click', {
-        asin: el.getAttribute('data-rybbit-prop-asin') || '',
-        format: el.getAttribute('data-rybbit-prop-format') || ''
-      });
+      var props = {};
+      var name = el.getAttribute('data-rybbit-event');
+      for (var i = 0, a; i < el.attributes.length; i++) {
+        a = el.attributes[i];
+        if (a.name.indexOf('data-rybbit-prop-') === 0) props[a.name.slice(16)] = a.value;
+      }
+      gtag('event', name, props);
     }, { passive: true });
   </script>
 
