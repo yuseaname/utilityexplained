@@ -17,8 +17,32 @@ The site is an ongoing publication, not a finite build. "Complete" means the tra
 ## Current Baseline (August 21, 2026 — 7-day window)
 Source: Rybbit Analytics. **Traffic spiked ~Aug 14–16 via Bing-ecosystem indexation** (DDG 42%, Bing 35%, Yahoo 12%; Google 4.8% — not yet following).
 
-## AdSense status — SETUP RESTORED, READY FOR RE-REVIEW (2026-08-31)
-History: blocked Aug 23 ("Low value content") → ads.txt + loader were removed in the affiliate pivot (commit 6d4390c8). The editorial gate work (audit SQ-065/066 remediation, desk bylines, production disclosure, 96-guide corpus) is complete and verified. AdSense machinery restored 2026-08-31: ads.txt (pub-5566942094411042, DIRECT, f08c47fec0942fa0) at site root + adsbygoogle.js loader on all pages (consent-mode ordered, single swap-point `adsense_client` in hugo.toml). **Next action (owner): request re-review in the AdSense console.** Loader alone serves Auto ads only if enabled in the account; manual slots (below_title/mid_article/end_article) can be re-added after approval — commit 6d4390c8 documents exactly where they lived.
+## Current Baseline (September 4, 2026 — latest snapshot) — CONTRACT STATUS: ALL 5 ACs UNMET
+
+Source: `.rybbit-snapshot-2026-09-04/snapshot.json` (7d window Aug 28–Sep 4). Trend since the Aug-21 baseline is documented in GROWTH_LOG Entry 24: engagement moved AWAY from contract targets (bounce 84.7→88.1%, pages/session 1.52→1.20) while traffic settled at ~121/day. Root-cause diagnosis: GROWTH_LOG Entry 25 (SQ-068) — Rybbit bounce is largely a metric artifact (GA4 shows 29–50% on the same pages); real defects ranked there.
+
+| Metric | Aug 21 (7d) | Aug 24–31 | **Sep 4 (7d)** | Contract target | Status |
+|--------|--------------|-----------|----------------|-----------------|--------|
+| Sessions/day | ~191 (spike-inflated) | 135 | **121** | ≥150 (AC-1) | ❌ unmet |
+| Bounce Rate | 84.7% | 90.6% | **88.1%** | <70% (AC-2) | ❌ unmet (see Entry 25 artifact note) |
+| Pages/Session | 1.52 | 1.15 | **1.20** | ≥2.0 (AC-3) | ❌ unmet |
+| Google Traffic | 22/7d | 30/7d | **37/7d (~5/day)** | ≥50/day (AC-4) | ❌ unmet — **GSC sitemap submitted 2026-09-07**; impressions should begin |
+| US Visitors | 78% | 77.7% | **75.9%** (CN 12.2% = bots) | ≥80% (AC-5) | ❌ unmet (ex-CN ≈ 86%) |
+| Duration | 80s | 63s | **71s** | — | — |
+
+Channels (7d): Organic Search 65%, Direct 32%. Referrers: DDG 242, Bing 177, Yahoo 73, Google 37 — Bing ecosystem ≈ 90% of search referrals.
+
+## Monetization & tracking state (2026-09-07)
+
+- **Affiliate surface:** 157 tagged links across 44 monetized pages (was 135/43 pre-Sep-6). All 11 distinct ASINs verified live 2026-09-07 (P4400 in stock — Aug-31 flag was a rotation outage; P4456 low stock; **Vue 3 selling at $99.99 vs "$150–180" prose band — recheck band**).
+- **Ads/affiliate separation:** Auto Ads loader now skips all 44 money pages (`head.html` conditional on placements or `no_ads` front-matter); informational pages keep ads. Rationale + research cites: GROWTH_LOG Entry 27.
+- **Event tracking live:** `affiliate_click` (Rybbit native + GA4 mirror, with asin/format props) and `email_capture` (home + article_footer). **Owner action: mark `affiliate_click` as GA4 key event** (Admin → Events). Zero events recorded yet — first CTR data expected within 1–2 weeks of traffic.
+- **CTR pass shipped:** early-link + closing-CTA pattern on 6 top-traffic pages and 4 buyer-intent articles (HouseFresh-pattern, cited in Entry 27).
+
+## AdSense status — SETUP RESTORED, READY FOR RE-REVIEW (2026-08-31; scope narrowed 2026-09-07)
+History: blocked Aug 23 ("Low value content") → ads.txt + loader were removed in the affiliate pivot (commit 6d4390c8). The editorial gate work (audit SQ-065/066 remediation, desk bylines, production disclosure, 96-guide corpus) is complete and verified. AdSense machinery restored 2026-08-31: ads.txt (pub-5566942094411042, DIRECT, f08c47fec0942fa0) at site root + adsbygoogle.js loader (consent-mode ordered, single swap-point `adsense_client` in hugo.toml) — **now informational pages only** (2026-09-07: money pages excluded so display ads never compete with affiliate CTAs or contaminate the CTR baseline). **Next action (owner): request re-review in the AdSense console.** Loader alone serves Auto ads only if enabled in the account; manual slots (below_title/mid_article/end_article) can be re-added after approval on informational pages — commit 6d4390c8 documents exactly where they lived.
+
+### Historical baseline table (Aug 10 / Aug 21 — superseded by Sep-4 section above)
 
 | Metric | Aug 10 (90d) | **Aug 21 (7d)** | Target (30 days) | How to Measure |
 |--------|--------------|-----------------|-------------------|----------------|
@@ -41,24 +65,23 @@ History: blocked Aug 23 ("Low value content") → ads.txt + loader were removed 
 5. **2.0+ pages/session**
 6. **250-300+ pageviews/day**
 
-## What Each Change Should Affect
+## What Each Change Should Affect (current wave — Sep 2026)
 
 | Change | Expected Impact | Metric to Watch |
 |--------|----------------|-----------------|
-| .htaccess trailing slash 301s | Google indexing improves | Google sessions in Rybbit |
-| Quick Answers on 97 articles | Bounce rate drops | Bounce % on rescued pages |
-| 800+ internal links | Pages/session rises | Pages/Session in Overview |
-| 5 hub pages + blog grid | Discovery improves | Entrances on hub pages |
-| Email capture | Conversions begin | Email signups (check Mailchimp) |
-| 3 AdSense slots | Revenue increases | AdSense dashboard |
-| Mid-article ad | Higher CTR | AdSense CTR by position |
-| Phantom power article | New organic traffic | Entrances on phantom article |
+| GSC sitemap submitted (2026-09-07) | Google indexing begins; AC-4 unfreezes | GSC Pages indexed + impressions; Google referrals in Rybbit |
+| Post-Sense article cluster (5 articles, 2026-09-06) | Google/Bing pickup on vacated SERPs | GSC impressions per new URL; entrances on pillar |
+| Early-link CTR pass (14 links, 10 pages, 2026-09-07) | Outbound CTR rises on existing traffic | `affiliate_click` events (Rybbit Events tab + GA4) |
+| Ads/affiliate separation (44 money pages, 2026-09-07) | No ad-contaminated CTR baseline; cleaner money-page UX | affiliate_click CTR trend; AdSense coverage on info pages |
+| Water-ladder completion (3 pages) | Higher-AOV rungs reachable | affiliate_click by asin (Flume/Flo vs Govee) |
+| email_capture event | Lead visibility | Rybbit/GA4 `email_capture` count vs Mailchimp signups |
+| Winter refresh (pending) | Seasonal Sep–Feb traffic | Entrances on winter cluster |
 
-## Monitoring Schedule
-- **Daily (first 7 days):** Quick Rybbit check — any traffic spikes? New referrers?
-- **Weekly:** Full Rybbit review — compare to baseline, note winners/losers
-- **Bi-weekly:** Google Search Console — check indexing status, submit sitemap if needed
-- **Monthly:** Comprehensive comparison — update this dashboard with new numbers
+## Monitoring Schedule (revised 2026-09-07)
+- **Weekly:** Full Rybbit review vs Sep-4 baseline (sessions/day, Google referrals) + **GSC**: indexing status, impressions by page, top queries — the sitemap is submitted; this is now the primary discovery signal
+- **Weekly (15 min):** affiliate_click events by page/asin/format + email_capture; dead-ASIN spot check on any page being edited (dossier guardrail: re-verify ASINs on publish day)
+- **Bi-weekly:** Vue 3 price-band drift check (prose says $150–180; live was $99.99 on 2026-09-07); P4456 stock level (was low)
+- **Monthly:** Comprehensive comparison — update this dashboard with a new snapshot (scripts/rybbit_snapshot.py)
 
 ## Growth Log Location
 All changes documented in: GROWTH_LOG.md
