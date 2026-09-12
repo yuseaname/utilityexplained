@@ -13,6 +13,7 @@ image_alt: "Technical line illustration comparing a compact wall-mounted tankles
 keywords: ["tankless vs tank water heater", "tankless water heater savings", "water heater efficiency", "tankless water heater cost", "endless hot water"]
 sources:
   - https://www.energy.gov/energysaver/water-heating
+  - https://web.archive.org/web/20260808183137/https://www.energy.gov/energysaver/water-heating (archived copy — live page intermittently unreachable)
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
   - https://www.energystar.gov/saveathome/heating-cooling
@@ -122,7 +123,7 @@ And the standing rule: **the appliance is the last line item, not the first.** A
 
 ## Sources
 
-1. [U.S. Department of Energy — Water Heating](https://www.energy.gov/energysaver/water-heating) — 24–34% efficiency edge for on-demand units; ~41 gal/day usage scope caveat; water heating as ~18% of home energy use. Retrieved 2026-09-11.
+1. [U.S. Department of Energy — Water Heating](https://www.energy.gov/energysaver/water-heating) — 24–34% efficiency edge for on-demand units; ~41 gal/day usage scope caveat; water heating as ~18% of home energy use. Retrieved 2026-09-11. Archived copy: [Wayback Machine, 2026-08-08](https://web.archive.org/web/20260808183137/https://www.energy.gov/energysaver/water-heating).
 2. [U.S. EIA — Electricity Monthly Update, End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — national average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-11.
 3. [U.S. EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — ~899 kWh/month average household use. Retrieved 2026-09-11.
 4. [ENERGY STAR — Heat & Cool Efficiently](https://www.energystar.gov/saveathome/heating-cooling) — water heater efficiency and sizing context. Retrieved 2026-09-11.

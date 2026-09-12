@@ -355,4 +355,4 @@ This walkthrough is part of the [Gas Explained hub](/gas-explained/). Cross-util
 1. [U.S. Energy Information Administration: Use of natural gas](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php)
 2. [U.S. Department of Energy: Home Upgrades — thermostat setback](https://www.energy.gov/save/home-upgrades)
 3. [ENERGY STAR (U.S. EPA): Duct sealing](https://www.energystar.gov/saveathome/heating-cooling/duct-sealing)
-4. [U.S. Department of Energy: Water heating](https://www.energy.gov/energysaver/water-heating)
+4. [U.S. Department of Energy: Water heating](https://www.energy.gov/energysaver/water-heating) — archived copy: [Wayback Machine, 2026-08-08](https://web.archive.org/web/20260808183137/https://www.energy.gov/energysaver/water-heating) (live page intermittently unreachable)

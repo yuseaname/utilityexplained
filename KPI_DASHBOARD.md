@@ -34,7 +34,7 @@ Channels (7d): Organic Search 65%, Direct 32%. Referrers: DDG 242, Bing 177, Yah
 
 ## Monetization & tracking state (2026-09-07)
 
-- **Affiliate surface:** 179 tagged placements across 53 monetized pages (was 157/44 pre-Sep-12 — Entry 28 added 10 Prime-filtered articles + 22 placements). All promoted picks buy-box-verified 2026-09-11 (sold-by-Amazon or FBA; non-Prime bests rejected or replaced per the owner's hard filter). **Vue 3 band fixed 2026-09-12** ($150–180 → ~$100–200 across 3 articles, 7 occurrences). Watch: Frost King SP57 thin stock on common size; Rinnai RX130iN unverified → tankless article intentionally unmonetized.
+- **Affiliate surface:** 185 tagged placements across 55 monetized pages (was 157/44 pre-Sep-12 — Entry 28 added 10 Prime-filtered articles + 22 placements). All promoted picks buy-box-verified 2026-09-11 (sold-by-Amazon or FBA; non-Prime bests rejected or replaced per the owner's hard filter). **Vue 3 band fixed 2026-09-12** ($150–180 → ~$100–200 across 3 articles, 7 occurrences). Watch: Frost King SP57 thin stock on common size; Rinnai RX130iN unverified → tankless article intentionally unmonetized.
 - **Ads/affiliate separation:** Auto Ads loader now skips all 44 money pages (`head.html` conditional on placements or `no_ads` front-matter); informational pages keep ads. Rationale + research cites: GROWTH_LOG Entry 27.
 - **Event tracking live:** `affiliate_click` (Rybbit native + GA4 mirror, with asin/format props) and `email_capture` (home + article_footer). **Owner action: mark `affiliate_click` as GA4 key event** (Admin → Events). Zero events recorded yet — first CTR data expected within 1–2 weeks of traffic.
 - **CTR pass shipped:** early-link + closing-CTA pattern on 6 top-traffic pages and 4 buyer-intent articles (HouseFresh-pattern, cited in Entry 27).
@@ -76,7 +76,7 @@ History: blocked Aug 23 ("Low value content") → ads.txt + loader were removed 
 | Water-ladder completion (3 pages) | Higher-AOV rungs reachable | affiliate_click by asin (Flume/Flo vs Govee) |
 | email_capture event | Lead visibility | Rybbit/GA4 `email_capture` count vs Mailchimp signups |
 | Winter refresh (pending) | Seasonal Sep–Feb traffic | Entrances on winter cluster |
-| Next-10 wave (2026-09-12, Entry 28) | 10 new money-cluster entries on weak/forum SERPs; IndexNow-submitted | IndexNow/Bing pickup of 10 new URLs; entrances + affiliate_click on new pages |
+| Next-10 wave (2026-09-12, Entries 28-29) | 12 new money-cluster entries on weak/forum SERPs; IndexNow-submitted | IndexNow/Bing pickup of 12 new URLs; entrances + affiliate_click on new pages |
 
 ## Monitoring Schedule (revised 2026-09-07)
 - **Weekly:** Full Rybbit review vs Sep-4 baseline (sessions/day, Google referrals) + **GSC**: indexing status, impressions by page, top queries — the sitemap is submitted; this is now the primary discovery signal
