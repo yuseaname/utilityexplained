@@ -435,10 +435,10 @@ Most water heaters are set to 140°F by default. The U.S. Department of Energy r
 
 If your water heater is warm to the touch, it's losing heat.
 
-**Solution:** Wrap it in a water heater blanket ($15–$25)
+**Solution:** Wrap it in a water heater blanket (~$30–35) — [our water heater blanket guide](/blog/are-water-heater-blankets-worth-it/) runs the honest math on when that pays
 
 **Savings:** 4–7% on water heating = **$10–$25/year**
-**Payback:** **Less than 1 year**
+**Payback:** **1–2 years** (sooner on older, thin-walled tanks)
 
 ---
 

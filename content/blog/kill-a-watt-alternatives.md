@@ -85,7 +85,7 @@ If you have a smart meter, your utility portal already graphs whole-home hourly 
 
 | | Kill A Watt (P4400/P4456) | Metering smart plug | Emporia Vue 3 | Utility data |
 |---|---|---|---|---|
-| **Cost band** | ~$25–40 | $20–40 per outlet | ~$150–180 + install labor | Free |
+| **Cost band** | ~$25–40 | $20–40 per outlet | ~$100–200 + install labor | Free |
 | **Setup** | None — plug and read | Wi-Fi + app | Panel install | Account login |
 | **Measures** | 1 outlet, 120V | 1 outlet, 120V | Up to 16 circuits incl. 240V | Whole home only |
 | **History** | Cumulative kWh on display | Day/week/month in app | Full history in app | Hourly, per utility |

@@ -70,6 +70,8 @@ Two cheap instruments replace the most common guesses:
 
 **Honest limits, in both directions:** a thermal image shows *surface* temperatures, not R-values—treat findings as screening that directs a professional audit, not a diagnosis. And note what the camera cannot replace: the DOE's own walk-through list above catches many leaks a camera misses when indoor/outdoor temperatures are close.
 
+If you are shopping the tool side, [our thermal camera comparison](/blog/best-thermal-camera-home-energy-audit/) sorts the ~$116 USB-C picks from the premium options — including one that sidesteps the Lightning caveat above.
+
 ## When to Level Up to a Professional
 
 DOE describes the professional assessment as the thorough version: a **blower-door test** (a variable-speed fan depressurizes the house to quantify and locate leakage), **duct-leakage testing** for forced-air systems, and combustion-safety checks.[6] Commonly quoted costs—marketplace figures, not official ones: **$200–$500** for a standalone blower-door test, **$200–$700** for a full professional audit (which usually *includes* a blower-door pass at its upper end), with some utilities offering them free or discounted.

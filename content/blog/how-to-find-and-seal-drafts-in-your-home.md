@@ -25,7 +25,7 @@ sources:
 
 **Find before you buy.** The tour below costs an evening and one windy day and ends with a written list of the gaps your home actually has — buy from that list. The thermal camera waits for round two, if the hand and the smoke pen leave questions behind.
 
-Your hand and a twelve-dollar smoke pen find every gap — no thermal camera required. That is also this article's boundary: when a gap hides where hands can't reach, [the DIY energy-leak checklist](/blog/47-check-energy-leaks-home-diy/) runs the instrument-based audit — a different tier of mystery, a different tool.
+Your hand and a twelve-dollar smoke pen find every gap — no thermal camera required. That is also this article's boundary: when a gap hides where hands can't reach, [the DIY energy-leak checklist](/blog/47-check-energy-leaks-home-diy/) runs the instrument-based audit — a different tier of mystery, a different tool. When round two arrives, [the thermal camera comparison](/blog/best-thermal-camera-home-energy-audit/) sorts the ~$116 USB-C picks from the premium tier.
 
 ## The Detection Kit
 

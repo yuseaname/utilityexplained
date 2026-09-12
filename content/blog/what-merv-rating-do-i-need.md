@@ -101,6 +101,8 @@ Filters are a commodity — buy on size and tier, not brand poetry. The two prod
 {{< product-box asin="B00CK025GK" name="FilterBuy 20x20x1 MERV 8 Pleated Filters" label="The default tier, in multipacks" description="The tier most homes run, in a pleated multipack. Shown in the 20x20x1 example size (actual 19.5 x 19.5 x 0.75) — match the printed size to the slot you measured." button="Check price on Amazon" >}}
 {{< product-box asin="B00TUDHCEA" name="Filtrete 20x20x1 MERV 13 (MPR 1900) Filters" label="The ceiling tier — if your system allows it" description="Finer-particle capture at the top of the residential range. Confirm your system is rated for MERV 13 before buying." button="Check price on Amazon" >}}
 
+Ready to buy the workhorse tier in the most common size? [Our MERV 11 six-pack comparison](/blog/best-merv-11-furnace-filters/) prices the value packs — after you measure your slot, as the sizing section above insists.
+
 
 
 ## When NOT to Upgrade to MERV 13

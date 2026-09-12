@@ -71,7 +71,7 @@ Plug-level metering is the direct, certain version of what Sense guessed at prob
 
 {{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring (KP115)" label="The certain, plug-level answer" description="A metering smart plug: real-time watts and cumulative kWh for one device in the Kasa app. No learning period, no panel work, no landlord permission — the renter-friendly slice of what Sense did." button="Check price on Amazon" >}}
 
-### Roughly $150–180 — Emporia Vue 3, the mainstream whole-home default
+### Roughly $100–200 — Emporia Vue 3, the mainstream whole-home default
 
 With Sense gone from retail, the Vue 3 is the remaining mainstream CT-clamp monitor: it attaches at your panel and meters up to 16 circuits directly, by name, from day one — no machine-learning wait. The method is the opposite of Sense's (direct circuit metering vs. mains inference), and our [full comparison](/blog/emporia-vue-3-vs-sense-comparison/) walks the trade-offs: certainty and immediate data, versus install work inside the panel and "circuits" rather than "appliances." Installation means panel work — an electrician is the recommended default if you have never worked in one.
 
@@ -85,7 +85,7 @@ With Sense gone from retail, the Vue 3 is the remaining mainstream CT-clamp moni
 |---|---|---|---|
 | Utility portal / Green Button | Free | Whole-home hourly usage | No device split; data lags a day or more at some utilities |
 | Metering smart plugs | $20–30 each | Exact watts/kWh per plugged-in device | Only covers plug loads — nothing hardwired or 240V |
-| Emporia Vue 3 | ~$150–180 | Per-circuit whole-home data, day one | Panel work; reads circuits, not individual appliances |
+| Emporia Vue 3 | ~$100–200 | Per-circuit whole-home data, day one | Panel work; reads circuits, not individual appliances |
 
 Nothing here is a downgrade in capability so much as a change in who does the work: Sense's software did the splitting for you; the alternatives give you certain data at the level you choose to buy.
 

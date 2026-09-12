@@ -98,6 +98,8 @@ This page doesn't do "best lists," but the checklist above needs an example that
 
 {{< amazon asin="B0B3MXGBVT" text="See the Dreo Atom One 1500W ceramic heater on Amazon" >}} — ETL-listed PTC ceramic with tip-over protection, per Dreo's spec page. Whichever model you consider, verify those four features on the manufacturer's own spec table before the checkout.
 
+One honest flag before any heater purchase: if the goal is keeping *a person* warm rather than a room, [an electric blanket runs for roughly a tenth of the electricity](/blog/electric-blanket-vs-space-heater-cost/) — two minutes of cost math worth doing first.
+
 ## What About ENERGY STAR?
 
 There is **no ENERGY STAR certification for space heaters**—EPA evaluated the category and "has no plans to label them in the near future," and no specification has existed at any stage through 2025.[8] A heater advertised as "ENERGY STAR certified" is a red flag on the seller, not a feature. (The confusion traces to ENERGY STAR *NextGen*, a certification for new homes that requires heat pumps—unrelated to plug-in heaters.) Efficiency shopping in this category means controls and safety features, not a label.

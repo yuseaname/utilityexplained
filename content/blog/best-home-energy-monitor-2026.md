@@ -23,7 +23,7 @@ sources:
 
 ## Quick Answer
 
-**In 2026 there is no single "best" home energy monitor — there is a ladder, and where you start depends on the question you are asking. Free first: your utility's hourly usage data answers "when does my house use power" at no cost. For one suspicious appliance, a $20–30 metering smart plug (Kasa KP115 or Tapo P110M) gives exact per-device watts and kWh. For whole-home, circuit-by-circuit data, the Emporia Vue 3 (~$150–180) is the mainstream pick now that Sense stopped selling its monitor on December 31, 2025. And if nobody in the house will act on the data, the best monitor is none — spend $0.**
+**In 2026 there is no single "best" home energy monitor — there is a ladder, and where you start depends on the question you are asking. Free first: your utility's hourly usage data answers "when does my house use power" at no cost. For one suspicious appliance, a $20–30 metering smart plug (Kasa KP115 or Tapo P110M) gives exact per-device watts and kWh. For whole-home, circuit-by-circuit data, the Emporia Vue 3 (~$100–200 across its current offers) is the mainstream pick now that Sense stopped selling its monitor on December 31, 2025. And if nobody in the house will act on the data, the best monitor is none — spend $0.**
 
 That ladder is the shape of this category in 2026. Most "best energy monitor" lists still recommend Sense; those lists are a year stale. This guide covers what is actually buyable now, what each level can and cannot tell you, and how to decide in one sitting.
 
@@ -41,7 +41,7 @@ That leaves the buyable market organized by **how much of your home you want exp
 |---|---|---|---|---|
 | 1. Utility data | None — your smart meter | Free | Whole-home hourly usage | Which device caused any of it |
 | 2. Plug metering | Metering smart plug | $20–30 each | Exact watts/kWh for one plugged-in device | Hardwired, 240V, or lighting loads |
-| 3. Circuit monitoring | CT-clamp panel monitor | ~$150–180 | Per-circuit whole-home use, real time | Appliance names (a circuit ≠ a device) |
+| 3. Circuit monitoring | CT-clamp panel monitor | ~$100–200 | Per-circuit whole-home use, real time | Appliance names (a circuit ≠ a device) |
 | 4. Utility-embedded detection | Utility smart meter program | Free (if offered) | Device detection, eventually | Availability — rollouts are just starting |
 
 **Start at level 1 regardless.** Most utilities with smart meters expose hourly usage in their account portal, often with downloadable Green Button data. It won't name your devices, but it answers two questions for free: is your usage actually unusual, and when does your house burn its power? If your bill problem turns out to be a rate plan or an estimated read, no monitor was going to fix it — [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) walks that check in fifteen minutes.
@@ -92,7 +92,7 @@ This was Sense's signature trick, and it survives — inside utility meters. Sen
 | Bill went up, cause unknown | Utility data + the 15-minute bill check | $0 |
 | One suspect device (old fridge, entertainment center, spa pump) | One metering smart plug | $20–40 |
 | Two or three suspects | 2–3 metering plugs (2-packs are cheaper per outlet) | $40–70 |
-| Want the whole panel visible, own the home, will act on data | Emporia Vue 3 (+ electrician if needed) | $150–180 + labor |
+| Want the whole panel visible, own the home, will act on data | Emporia Vue 3 (+ electrician if needed) | ~$100–200 + labor |
 | Renter | Metering plugs only — panel monitors are off the table | $20–70 |
 | Nobody will change any habit | Nothing | $0 |
 
@@ -110,7 +110,7 @@ For scale on what's at stake: the average U.S. household buys about 899 kWh a mo
 The 2026 best home energy monitor is a sequence: utility data for free, a $20–30 metering plug for the devices you actually suspect, and the Emporia Vue 3 if you own your home and want the whole panel instrumented. Between tiers, certainty goes up with proximity — the plug knows its one device exactly; the panel knows its circuits honestly; the utility bill knows the total truth. Buy the level that answers the question you actually have, and let measured numbers — not marketing — decide whether the next tier is worth it.
 
 {{< faq "Are home energy monitors worth it in 2026?" >}}
-**Only if someone will act on the data.** A monitor finds which circuits or devices drive your bill; saving money still requires changing a schedule, setpoint, or habit. If your bill problem is a rate plan, an estimated read, or a billing error — which a free 15-minute check can rule out — no monitor fixes it. For one suspect device, a $20–30 metering plug usually answers the question; whole-home circuit monitoring (~$150–180, panel install) pays off when you want to see everything at once and will use it.
+**Only if someone will act on the data.** A monitor finds which circuits or devices drive your bill; saving money still requires changing a schedule, setpoint, or habit. If your bill problem is a rate plan, an estimated read, or a billing error — which a free 15-minute check can rule out — no monitor fixes it. For one suspect device, a $20–30 metering plug usually answers the question; whole-home circuit monitoring (~$100–200, panel install) pays off when you want to see everything at once and will use it.
 {{< /faq >}}
 
 {{< faq "What replaced the Sense energy monitor?" >}}
