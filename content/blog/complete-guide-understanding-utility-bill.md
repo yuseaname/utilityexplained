@@ -21,8 +21,6 @@ sources:
   - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/sample-bill-residential (Con Edison, Sample Residential Bill, retrieved 2026-08-30)
 ---
 
-{{< affiliate-disclosure >}}
-
 ## Quick Answer
 
 A utility bill is an itemized statement for moving and producing energy or water: **usage × rate, plus fixed charges, plus taxes and fees.** Those three components appear on nearly every residential statement [1][4] — labels vary, the arithmetic does not. This guide reads one completely in five steps; a worked bill, verified against current federal data, shows the pieces combining; every charge cross-links to a dedicated explainer.
