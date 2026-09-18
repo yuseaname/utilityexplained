@@ -154,7 +154,7 @@ Sometimes the cause is an appliance you forgot about or one that started malfunc
 
 **Electric water heater issues:** If the heating element or thermostat in your electric water heater fails, the unit may run continuously, consuming <strong>300–500 kWh per month</strong> more than normal.
 
-**Well pump:** If your home has a well, a failing well pump or a leak in the pressure tank can cause the pump to cycle on and off continuously, drawing significant power.
+**Well pump:** If your home has a well, a failing well pump or a leak in the pressure tank can cause the pump to cycle on and off continuously, drawing significant power — and if a hidden water leak is what's driving the pump, [our water monitor comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) shows which whole-home monitor will catch it.
 
 **Dehumidifier:** A basement dehumidifier running continuously in humid months can consume <strong>200–400 kWh per month</strong>.
 
@@ -168,7 +168,7 @@ Sometimes the cause is an appliance you forgot about or one that started malfunc
 
 Electric water heaters are the second-largest energy consumer in most homes (after HVAC). Common issues that cause spikes:
 
-**Leaking hot water:** A dripping hot water faucet or running toilet can waste hundreds of gallons of hot water per month. Each gallon heated from 50°F to 120°F requires approximately <strong>0.15 kWh</strong>. A leak of 100 gallons per day wastes 15 kWh per day or <strong>450 kWh per month</strong> — about $55–$75.
+**Leaking hot water:** A dripping hot water faucet or running toilet can waste hundreds of gallons of hot water per month. Each gallon heated from 50°F to 120°F requires approximately <strong>0.15 kWh</strong>. A leak of 100 gallons per day wastes 15 kWh per day or <strong>450 kWh per month</strong> — about $55–$75. To confirm a suspected leak before calling a plumber, [Flume vs. Moen Flo vs. Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) compares the whole-home water monitors that track usage in real time.
 
 **Failed lower element:** In a dual-element electric water heater, if the lower element fails, the upper element alone must heat the entire tank. This causes the upper element to run twice as long, increasing consumption by <strong>30% to 50%</strong>.
 
@@ -248,7 +248,7 @@ Call the billing department and ask for a formal meter test — most utilities d
 
 Once the spike is explained, keep it down: the [complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide/) is the follow-up workflow.
 
-This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel. For that whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 whole-home monitor" >}} puts a sensor on each breaker and shows per-circuit use in real time.
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel — and if the spike traces back to water, [our water monitor comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers the whole-home side. For that whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 whole-home monitor" >}} puts a sensor on each breaker and shows per-circuit use in real time.
 
 ## Sources
 
