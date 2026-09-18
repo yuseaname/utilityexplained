@@ -1,5 +1,8 @@
 {{- $asin := .Get "asin" -}}
 {{- $text := .Get "text" | default "Check current price on Amazon" -}}
-{{- $tag := .Site.Params.amazon_tag | default "litwd-20" -}}
-{{- $position := .Get "position" -}}
-<a href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" class="amazon-link" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-format="inline"{{ with $position }} data-rybbit-prop-position="{{ . }}"{{ end }}>{{ $text }}</a>
+{{- $tag := .Site.Params.amazon_tag | default "utexplained-20" -}}
+{{- $page := .Page -}}
+{{- $count := $page.Scratch.Get "affiliate_count" | default 0 -}}
+{{- $page.Scratch.Set "affiliate_count" (add $count 1) -}}
+{{- $position := $page.Scratch.Get "affiliate_count" -}}
+<a href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" class="amazon-link" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-destination="{{ $asin }}" data-rybbit-prop-format="inline" data-rybbit-prop-position="{{ $position }}">{{ $text }}</a>

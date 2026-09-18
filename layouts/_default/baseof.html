@@ -71,6 +71,9 @@
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}
 
+  {{/* Rybbit tracking events (scroll_depth, engagement, contact_submit, tool_completion) */}}
+  <script src="/assets/rybbit-tracking.js" defer></script>
+
   {{/* Rybbit → GA4 event mirror. Rybbit captures clicks natively via
          data-rybbit-event attributes on tracked elements; GA4 has no outbound
          auto-tracking, so this delegated listener mirrors every Rybbit event
