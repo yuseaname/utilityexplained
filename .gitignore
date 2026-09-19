@@ -6,3 +6,4 @@ public/
 __pycache__/
 .zcode/
 .hugo_build.lock
+.agency/
