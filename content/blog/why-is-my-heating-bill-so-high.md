@@ -10,7 +10,7 @@ categories: ["Heating & Cooling"]
 tags: ["heating bill", "high utility bill", "furnace cost", "heat pump bill", "electric heating"]
 keywords: ["why is my heating bill so high", "electric bill spikes when gas furnace runs", "high propane bill", "high natural gas bill", "heating bill diagnostic"]
 image: "/images/articles/why-is-my-heating-bill-so-high/why-is-my-heating-bill-so-high_hero.webp"
-image_alt: "A split-screen technical illustration showing a thermostat on one side and various fuel sources—a gas flame, an electric coil, and a heat pump fan—on the other, with a rising cost arrow."
+image_alt: "A split-screen editorial photograph showing a thermostat on one side and various fuel sources—a gas flame, an electric coil, and a heat pump fan—on the other, with a rising cost arrow."
 sources:
   - https://www.eia.gov/outlooks/steo/report/winter_fuels.php
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a
@@ -40,7 +40,12 @@ When it gets too cold for the compressor to keep up, the system turns on electri
 
 A common mystery is why the **electric bill** spikes when a **gas furnace** is running. The furnace burns gas for heat, but it uses a large electric blower motor to push that air through your ducts.
 
-Older furnaces use PSC (Permanent Split Capacitor) motors. As these motors age or as filters get clogged, the motor works harder to move air, increasing its wattage. A dirty filter can easily increase the blower's power draw by 20-30%. If you suspect your blower is the culprit, you can measure the draw of smaller plug-in heaters or fans using a {{< amazon asin="B00009MDBU" text="Kill A Watt P4400" >}}, though the furnace blower itself is usually hard-wired.
+Older furnaces use PSC (Permanent Split Capacitor) motors; newer ones use ECM (electronically commutated) motors, and a clogged filter hits them differently — a distinction most explanations get wrong:
+
+*   **PSC motors (most older furnaces):** a clogged filter *lowers* the motor's instantaneous draw slightly — but it also cuts the airflow carrying heat out of the heat exchanger. The furnace then runs longer to hit the same thermostat setting, so the blower's total kWh for the month climbs even though its wattage reads lower. The safety limit switches cycling the burner off on overheating add their own inefficiency.
+*   **ECM motors (variable-speed):** these ramp up to maintain airflow against the restriction, so a dirty filter shows up directly as higher wattage — often a substantial increase over a clean-filter baseline.
+
+Either way, the filter is the first $15 fix to try before suspecting the motor itself. If you want hard numbers on a plug-in device, a {{< amazon asin="B00009MDBU" text="Kill A Watt P4400" >}} will time any 120V appliance, though the furnace blower itself is usually hard-wired.
 
 {{< visual src="/images/articles/why-is-my-heating-bill-so-high/blower-motor-draw.webp" alt="Diagram showing a furnace blower motor with an ammeter showing high current draw due to a clogged MERV filter." wide="true" >}}
 
@@ -115,7 +120,7 @@ That five-minute division turns a scary bill into a ranked shortlist — which i
 
 | Symptom | Likely Cause | Fix |
 | :--- | :--- | :--- |
-| Electric bill spike (Gas Heat) | Blower motor strain / PSC motor | Change filter; [schedule a tune-up](/blog/furnace-tune-up-cost-schedule/) |
+| Electric bill spike (Gas Heat) | Blower running longer (PSC) or harder (ECM) | Change filter; [schedule a tune-up](/blog/furnace-tune-up-cost-schedule/) |
 | Electric bill spike (Heat Pump) | Auxiliary heat strips engaged | Lower thermostat; check outdoor sensor |
 | Gas bill spike (Usage up) | Extreme cold or envelope leaks | [Seal drafts](/blog/how-to-find-and-seal-drafts-in-your-home/); check insulation |
 | Gas bill spike (Usage flat) | Utility rate increase | [Compare rates](/blog/07-gas-bill-too-high/) |
@@ -129,7 +134,7 @@ That five-minute division turns a scary bill into a ranked shortlist — which i
 ## Frequently Asked Questions
 
 {{< faq "Why is my electric bill so high when I have a gas furnace?" >}}
-Your furnace uses an electric blower motor to circulate air. Older PSC motors can draw 500–800 watts. If the motor is failing or the filter is clogged, this draw increases. Additionally, check if you are using electric space heaters to supplement the gas heat, as these draw ~1,500 watts each.
+Your furnace uses an electric blower motor to circulate air — typically a few hundred watts for an older PSC motor, less for an ECM. A clogged filter raises the blower's monthly kWh either way: PSC motors run longer cycles to move the same heat, while ECM motors draw more power to force air through the restriction. Also check whether electric space heaters are supplementing the gas heat — each draws about 1,500 watts and dwarfs the blower.
 {{< /faq >}}
 
 {{< faq "Does a higher MERV filter increase my heating bill?" >}}

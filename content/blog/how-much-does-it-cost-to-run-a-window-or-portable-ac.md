@@ -10,7 +10,7 @@ categories: ["Electricity"]
 tags: ["air conditioning cost", "window ac watts", "portable ac cost", "electric bill", "cooling efficiency"]
 keywords: ["cost to run window ac", "portable ac electricity cost", "window ac vs portable ac efficiency", "how many watts does window ac use", "ac running cost per hour"]
 image: "/images/articles/how-much-does-it-cost-to-run-a-window-or-portable-ac/how-much-does-it-cost-to-run-a-window-or-portable-ac_hero.webp"
-image_alt: "A split-screen technical illustration showing a window AC unit on the left and a portable AC with a hose on the right, with digital cost-per-hour overlays in amber text."
+image_alt: "A split-screen editorial photograph showing a window AC unit on the left and a portable AC with a hose on the right, with digital cost-per-hour overlays in amber text."
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3

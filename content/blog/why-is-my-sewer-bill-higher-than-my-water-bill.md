@@ -10,7 +10,7 @@ categories: ["Water"]
 tags: ["sewer bill", "water bill", "utility costs", "sewer rates", "wastewater"]
 keywords: ["why is sewer more expensive than water", "sewer bill higher than water", "sewer vs water rates", "average sewer bill", "sewer averaging"]
 image: "/images/articles/why-is-my-sewer-bill-higher-than-my-water-bill/why-is-my-sewer-bill-higher-than-my-water-bill_hero.webp"
-image_alt: "A split-screen technical illustration: the left side shows clean water flowing from a tap in blue, the right side shows a complex wastewater treatment facility in industrial grey and green, highlighting the difference in infrastructure scale."
+image_alt: "A split-screen editorial photograph: the left side shows clean water flowing from a tap, the right side shows a complex wastewater treatment facility, highlighting the difference in infrastructure scale."
 sources:
   - https://www.seattle.gov/utilities/your-services/accounts-and-payments/rates/sewer-rates
   - https://www.epa.gov/watersense/statistics-and-facts
