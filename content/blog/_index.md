@@ -5,7 +5,9 @@ url: "/blog/"
 aliases: ["/blog"]
 ---
 
-<h2 id="browse-by-topic">Browse by Topic</h2>
+
+## Browse by Topic {#browse-by-topic}
+
 <p>96 guides to help you understand every charge on your utility bills. Pick a category:</p>
 
 <div class="popular-list">
@@ -42,5 +44,7 @@ aliases: ["/blog"]
 
 </div>
 
-<h2 id="all-guides">All Guides</h2>
+
+## All Guides {#all-guides}
+
 <p>Newest first. Use the topic links above to browse by category.</p>

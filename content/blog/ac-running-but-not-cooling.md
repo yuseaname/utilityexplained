@@ -51,7 +51,9 @@ When your AC is running but not cooling, the problem is usually
               <li><a href="#faqs">FAQs</a></li>
             </ul>
 
-<h2 id="thermostat">Start with the thermostat</h2>
+
+## Start with the thermostat {#thermostat}
+
 <p>
               This sounds obvious, but it is the most common fix. Confirm the
               thermostat is set to <strong>cool</strong> and the fan is set to
@@ -83,7 +85,9 @@ When your AC is running but not cooling, the problem is usually
               service rather than guessing.
             </p>
 
-<h2 id="airflow">Airflow problems you can fix today</h2>
+
+## Airflow problems you can fix today {#airflow}
+
 <p>
               AC cooling depends on airflow. If air cannot move across the indoor
               coil, the system will struggle and can even freeze. Start with the two
@@ -123,7 +127,9 @@ When your AC is running but not cooling, the problem is usually
               main filter, check whether a second filter exists and replace it.
             </p>
 
-<h2 id="drain">Condensate drain and safety switch issues</h2>
+
+## Condensate drain and safety switch issues {#drain}
+
 <p>
               Many systems have a safety switch that shuts off cooling if the drain
               line or pan backs up. This protects your ceiling or floors from water
@@ -141,7 +147,9 @@ When your AC is running but not cooling, the problem is usually
               drain inspection along with a normal tune-up.
             </p>
 
-<h2 id="temp-check">A quick cooling check at the vent</h2>
+
+## A quick cooling check at the vent {#temp-check}
+
 {{< visual src="/images/articles/ac-running-but-not-cooling/supply-return-airflow.webp" alt="Supply and return air temperatures compared on one thermometer scale: room air returns near 75 degrees while supply air should leave the vent near 55 degrees — a roughly 20-degree drop means the unit is cooling; little or no drop means it is not." >}}
 <p>
               You do not need special tools to confirm whether the system is doing
@@ -161,7 +169,9 @@ When your AC is running but not cooling, the problem is usually
               duct checks matter before chasing refrigerant issues.
             </p>
 
-<h2 id="ice">Frozen coils: what to do and why it happens</h2>
+
+## Frozen coils: what to do and why it happens {#ice}
+
 <p>
               Ice on the indoor coil or the refrigerant line is a classic sign that
               the AC cannot absorb heat properly. The most common reason is low
@@ -182,7 +192,9 @@ When your AC is running but not cooling, the problem is usually
               Thawing naturally is slower, but it avoids damage to the coil fins.
             </p>
 
-<h2 id="outdoor">Outdoor unit problems</h2>
+
+## Outdoor unit problems {#outdoor}
+
 <p>
               The outdoor unit is the heat dump. If it is not running correctly, the
               system cannot move heat outside and the indoor air stays warm.
@@ -205,7 +217,9 @@ When your AC is running but not cooling, the problem is usually
               on all sides to reject heat effectively.
             </p>
 
-<h2 id="refrigerant">Low refrigerant and leaks</h2>
+
+## Low refrigerant and leaks {#refrigerant}
+
 <p>
               Refrigerant does not get "used up." If levels are low, there is a leak.
               Low refrigerant reduces cooling and can cause the coil to freeze.
@@ -227,7 +241,9 @@ When your AC is running but not cooling, the problem is usually
               protects the compressor.
             </p>
 
-<h2 id="ducts">Duct leaks and delivery issues</h2>
+
+## Duct leaks and delivery issues {#ducts}
+
 <p>
               Sometimes the AC is cooling, but the cold air never reaches the rooms.
               Leaky ducts in attics or crawlspaces can dump conditioned air where you
@@ -245,7 +261,9 @@ When your AC is running but not cooling, the problem is usually
               .
             </p>
 
-<h2 id="heat-gain">Heat gain and humidity traps</h2>
+
+## Heat gain and humidity traps {#heat-gain}
+
 <p>
               Sometimes the AC is working, but the house is gaining heat faster than
               the system can remove it. This is common during heat waves, in homes
@@ -272,7 +290,9 @@ When your AC is running but not cooling, the problem is usually
               to separate usage from rate changes.
             </p>
 
-<h2 id="sizing">System size or aging equipment</h2>
+
+## System size or aging equipment {#sizing}
+
 <p>
               If the system runs all day and never reaches the setpoint, it may be
               undersized for the home or struggling due to age. That does not always
@@ -299,7 +319,9 @@ When your AC is running but not cooling, the problem is usually
               matches the house.
             </p>
 
-<h2 id="call-pro">When to call a professional</h2>
+
+## When to call a professional {#call-pro}
+
 <p>
               If basic checks do not restore cooling, it is time for service. The
               following symptoms point to electrical, refrigerant, or mechanical
@@ -324,7 +346,9 @@ When your AC is running but not cooling, the problem is usually
               issues, or control problems that reduce comfort and efficiency.
             </p>
 
-<h2 id="prevent">Prevent the next no-cool day</h2>
+
+## Prevent the next no-cool day {#prevent}
+
 <p>
               Most no-cool problems are preventable with simple habits that protect
               airflow and heat transfer.
@@ -350,7 +374,9 @@ When your AC is running but not cooling, the problem is usually
               .
             </p>
 
-<h2 id="bill">If the bill spiked too</h2>
+
+## If the bill spiked too {#bill}
+
 <p>
               A no-cool problem often comes with a higher bill because the system
               runs longer to reach the same comfort level. Before you assume a rate
@@ -371,7 +397,9 @@ When your AC is running but not cooling, the problem is usually
               can show daily usage spikes that line up with the cooling issue.
             </p>
 
-<h2 id="faqs">FAQs</h2>
+
+## FAQs {#faqs}
+
 <p>Quick answers to common no-cool questions.</p>
 
 {{< faq "Why is my AC running but not cooling the house?" >}}

@@ -248,7 +248,9 @@ Water service is essential for daily life, but understanding how it is measured 
 For broader utility budgeting advice, visit our utility bills and costs guide. To compare water costs to other utilities, see our guides on electricity and natural gas.
 </p>
 
-<h2 id="water-guides">Browse Our Water Bill Guides</h2>
+
+## Browse Our Water Bill Guides {#water-guides}
+
 <p>Explore our complete library of water and sewer bill guides:</p>
 
 <h3>Understanding Water Charges</h3>

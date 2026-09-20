@@ -27,7 +27,9 @@ sources:
 </ul>
 <p>If your bill changes after a meter installation, do not assume the cause — <a href="/blog/why-did-my-utility-bill-go-up-this-month/">our guide covers every likely cause, ranked</a>. Compare the billing period, kWh, rate plan, and itemized charges, then ask the utility how it calculated the bill and what meter-testing process applies to your account.</p>
 
-<h2 id="smart-vs-analog">How smart meters are different from analog meters</h2>
+
+## How smart meters are different from analog meters {#smart-vs-analog}
+
 <p>The biggest difference is communication, not just digits.</p>
 <table>
 <thead>
@@ -47,7 +49,9 @@ sources:
               reader showing up at your home.
             </p>
 
-<h2 id="how-they-measure">How smart meters measure and transmit usage</h2>
+
+## How smart meters measure and transmit usage {#how-they-measure}
+
 <p>
               Smart meters use solid-state electronics to measure the flow of
               electricity. No moving parts means less wear over time.
@@ -62,7 +66,9 @@ sources:
               a constant stream, and it is not a live camera inside your home.
             </p>
 
-<h2 id="are-they-accurate">Are smart meters accurate?</h2>
+
+## Are smart meters accurate? {#are-they-accurate}
+
 <p>
               Most smart meters are more accurate than old analog meters. Older
               mechanical meters can slow down as they age, which can undercount
@@ -78,7 +84,9 @@ sources:
               <a href="/blog/electric-bill-breakdown-understanding-line-items/">bill line item guide</a>.
             </p>
 
-<h2 id="privacy-concerns">Privacy concerns (what utilities can and cannot see)</h2>
+
+## Privacy concerns (what utilities can and cannot see) {#privacy-concerns}
+
 <p>Smart meters do not watch your home. They record usage levels.</p>
             <ul>
               <li>
@@ -95,7 +103,9 @@ sources:
               not a device list.
             </p>
 
-<h2 id="benefits">Benefits you actually get</h2>
+
+## Benefits you actually get {#benefits}
+
 <p>These are the real benefits most homeowners notice:</p>
             <ul>
               <li>
@@ -129,7 +139,9 @@ sources:
               covers the standby usage that interval data reveals.
             </p>
 
-<h2 id="how-to-verify">How to verify your smart meter is working</h2>
+
+## How to verify your smart meter is working {#how-to-verify}
+
 <p>
               You can check the meter yourself in five minutes. Here is a simple
               method:
@@ -153,7 +165,9 @@ sources:
               <a href="/blog/how-to-read-electric-meter/"> how to read an electric meter</a>.
             </p>
 
-<h2 id="opt-out">Can you opt out?</h2>
+
+## Can you opt out? {#opt-out}
+
 <p>
               Some utilities allow opt-outs, but there is usually a fee. You may
               see a one-time setup charge and a monthly meter reading fee —
@@ -165,7 +179,9 @@ sources:
               before deciding.
             </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
               <li>
                 <strong>"Smart meters automatically raise rates."</strong> The
@@ -190,7 +206,9 @@ sources:
 - [A practical workflow for understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) — the full bill-decode walkthrough.
 - [Best smart plugs to eliminate standby power drain](/blog/50-best-smart-plugs-standby-power/) — the plug-level companion to circuit-level monitoring.
 
-<h2 id="faq">Frequently Asked Questions</h2>
+
+## Frequently Asked Questions {#faq}
+
 
 {{< faq "Do smart meters emit harmful radiation?" >}}
 

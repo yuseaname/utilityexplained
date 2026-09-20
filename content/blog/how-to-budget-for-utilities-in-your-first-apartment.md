@@ -20,7 +20,9 @@ sources:
 
 See [average water usage per person](/blog/average-water-usage-per-person/) for calculating water costs.
 
-<h2 id="start-here">Start with the utilities you will be responsible for</h2>
+
+## Start with the utilities you will be responsible for {#start-here}
+
 <p>
               Lease agreements vary. Some rentals include water or trash, while
               others require tenants to pay electricity, gas, water, and internet.
@@ -32,7 +34,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               surprise bills in the first few months.
             </p>
 
-<h2 id="estimate">Estimate ranges instead of exact numbers</h2>
+
+## Estimate ranges instead of exact numbers {#estimate}
+
 <p>
               Utility costs vary by season, home size, and usage habits. A practical
               approach is to use a range. Ask the property manager for typical
@@ -48,7 +52,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
             </p>
             <p>Use the prior tenant's available bill history, the property's utility disclosure, and current provider rates to make a unit-specific estimate.</p>
 
-<h2 id="seasonality">Plan for seasonal swings</h2>
+
+## Plan for seasonal swings {#seasonality}
+
 <p>
               Bills are rarely the same every month. Electricity peaks in summer for
               cooling and in winter for electric heat. Gas peaks in winter for
@@ -63,7 +69,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               or two peak months that are noticeably higher than the average.
             </p>
 
-<h2 id="setup">Setting up utilities and deposits</h2>
+
+## Setting up utilities and deposits {#setup}
+
 <p>
               You typically need to start service one to two weeks before move-in.
               Providers may require a [deposit or credit check](/blog/26-utility-deposit-explained/). Ask about deposit
@@ -81,7 +89,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               is closed or transferred to avoid paying for service after you leave.
             </p>
 
-<h2 id="roommates">Splitting utilities with roommates</h2>
+
+## Splitting utilities with roommates {#roommates}
+
 <p>
               If you share a home, agree on how bills will be split. Many households
               divide utilities equally, while others split based on bedroom size or
@@ -96,7 +106,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               moves out mid-lease.
             </p>
 
-<h2 id="tracking">Track spending month to month</h2>
+
+## Track spending month to month {#tracking}
+
 <p>
               Use a simple spreadsheet or budgeting app to track each bill. Note the
               billing dates and total usage along with the total cost. After a few
@@ -112,7 +124,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               usually means higher energy use even if your routines do not change.
             </p>
 
-<h2 id="assistance">Know your assistance options</h2>
+
+## Know your assistance options {#assistance}
+
 <p>
               If you are worried about affording utilities, ask your provider about
               assistance programs. Many utilities offer payment plans or income-based
@@ -130,7 +144,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               in energy-saving education or usage alerts.
             </p>
 
-<h2 id="auto-pay">Auto-pay and alerts</h2>
+
+## Auto-pay and alerts {#auto-pay}
+
 <p>
               Auto-pay helps prevent late fees, but keep a buffer in your account so
               a high seasonal bill does not cause overdraft. Many utilities also offer
@@ -145,7 +161,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               avoid late fees.
             </p>
 
-<h2 id="first-bills">Review your first bills carefully</h2>
+
+## Review your first bills carefully {#first-bills}
+
 <p>
               The first one or two bills are your baseline. Check the number of days
               in the cycle and the usage total so you can estimate a monthly average.
@@ -158,7 +176,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               comparison.
             </p>
 
-<h2 id="set-aside">Create a utility buffer</h2>
+
+## Create a utility buffer {#set-aside}
+
 <p>
               If your budget is tight, set aside a small buffer each month, even $10
               to $20. This helps smooth out seasonal spikes and prevents late fees.
@@ -169,7 +189,9 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               amount if your usage increases.
             </p>
 
-<h2 id="lower-bills">Lower bills with renter-friendly habits</h2>
+
+## Lower bills with renter-friendly habits {#lower-bills}
+
 <ul>
               <li>Use LED bulbs and switch off lights in empty rooms.</li>
               <li>Set your thermostat a few degrees lower in winter and higher in summer.</li>

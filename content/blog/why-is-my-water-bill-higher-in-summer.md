@@ -16,7 +16,9 @@ sources:
   - https://www.epa.gov/watersense/fixaleak (retrieved 2026-08-29)
 ---
 
-<h2 id="problem">The problem: summer arrives and your bill suddenly feels out of control</h2>
+
+## The problem: summer arrives and your bill suddenly feels out of control {#problem}
+
 <p class="lead">
               Summer water bills have a pattern: they look normal, then the heat arrives,
               and the next statement is noticeably higher.
@@ -57,7 +59,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               <li>Whether your rate per unit changed as you used more</li>
             </ul>
 
-<h2 id="first-check">The first three things to check</h2>
+
+## The first three things to check {#first-check}
+
 <p>
               Before you hunt for problems, do these three quick checks. They explain a
               huge share of "summer bill shock."
@@ -82,7 +86,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               <a href="/blog/water-service-charge-explained/"> water service charge explained</a>.
             </p>
 
-<h2 id="reasons">7 common reasons summer bills rise</h2>
+
+## 7 common reasons summer bills rise {#reasons}
+
 <p>
               Here are the most common summer drivers. You may have one, or a few at once.
             </p>
@@ -119,7 +125,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               outdoor use rises too. The average household's leaks can waste 9,400 gallons annually, and fixing easily corrected household water leaks can save about 10 percent on water bills [2][3]. Nine percent of homes have leaks that waste 50 gallons or more per day [3]. If your usage is up and you can't explain it, do a leak check.
             </p>
 
-<h2 id="tiered">How tiered pricing can make the increase feel bigger</h2>
+
+## How tiered pricing can make the increase feel bigger {#tiered}
+
 <p>
               Tiered pricing is one of the main reasons two households can use the same extra
               amount of water and see different dollar increases.
@@ -136,7 +144,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               just be buying more water--you may be buying it at a higher marginal price.
             </p>
 
-<h2 id="leaks">How to rule out a hidden leak quickly</h2>
+
+## How to rule out a hidden leak quickly {#leaks}
+
 <p>
               If your usage is up and you cannot explain it, do a fast leak check. The goal is not
               perfect diagnosis. The goal is to learn whether water is moving when everything is "off."
@@ -155,7 +165,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why your water bill suddenly increased</a>.
             </p>
 
-<h2 id="reduce">How to reduce summer water use (without weird tricks)</h2>
+
+## How to reduce summer water use (without weird tricks) {#reduce}
+
 <p>
               Small changes can help, but the biggest wins are usually outdoors.
             </p>
@@ -181,7 +193,9 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
               <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
             </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
               <li>
                 <strong>"Summer bills are always higher, so nothing is wrong."</strong> Often true,

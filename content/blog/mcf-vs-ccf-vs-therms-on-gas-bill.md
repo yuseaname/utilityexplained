@@ -22,7 +22,9 @@ hero_below_answer: true
 
 <p><strong>Next step:</strong> Now that you know what the units mean, <a href="/blog/12-how-to-read-your-gas-bill/">read your gas bill line by line</a> to find which unit your utility uses, or jump to the <a href="#conversion-table">conversion table</a> to turn your usage into therms.</p>
 
-<h2 id="the-three-main-units-defined">The Three Main Units Defined</h2>
+
+## The Three Main Units Defined {#the-three-main-units-defined}
+
 <p>To decode your bill, you need three definitions: the two volume units (CCF and MCF) and the energy unit (therms). While they all describe natural gas, they measure fundamentally different properties.</p>
 <h3>CCF Explained (Hundred Cubic Feet)</h3>
 <p>CCF stands for "Centum Cubic Feet." In Roman numerals, "C" represents 100. Therefore, 1 CCF equals exactly 100 cubic feet of natural gas. This is a measure of volume. When your meter spins, it counts the physical space the gas occupies as it passes through the pipe.</p>
@@ -36,7 +38,9 @@ hero_below_answer: true
 
 {{< visual src="/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/unit-comparison-card.webp" alt="Comparison of CCF, MCF, and therm units." >}}
 
-<h2 id="the-critical-difference-volume-vs-energy">The Critical Difference: Volume vs. Energy</h2>
+
+## The Critical Difference: Volume vs. Energy {#the-critical-difference-volume-vs-energy}
+
 <p>The most important distinction here is the difference between volume and energy. Natural gas is a compressible fluid. Its density changes based on temperature and pressure. A cubic foot of gas in July does not contain the same amount of energy as a cubic foot of gas in January.</p>
 <p>If a utility bills you strictly by volume (CCF or MCF) without adjusting for energy content, you might be overcharged or undercharged depending on the season. However, most modern utilities use a "BTU Adjustment Factor" on volume-based bills to convert the volume into an energy equivalent before charging you. If that line item appears on your statement and looks like alphabet soup, our guide to the <a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">fuel and BTU adjustment charge</a> breaks down exactly what that line item covers.</p>
 <p>This is why therms are often considered the most accurate billing unit. When you see a rate in dollars per therm, you know exactly how much heat energy you are paying for. When you see a rate in dollars per CCF, you have to trust that the utility has adjusted for the gas quality.</p>
@@ -44,14 +48,18 @@ hero_below_answer: true
 
 {{< visual src="/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/volume-vs-energy-bridge.webp" alt="Metered gas volume converting to heat delivered at approximately 1.037 therms per CCF." >}}
 
-<h2 id="how-to-convert-units-for-comparison">How to Convert Units for Comparison</h2>
+
+## How to Convert Units for Comparison {#how-to-convert-units-for-comparison}
+
 <p>To compare your current bill with a new offer or to track your efficiency, you need to convert these units. The U.S. Energy Information Administration (EIA) provides standard conversion factors that utilities use to reconcile volume and energy.</p>
 <h3>The Standard Conversion Factors</h3>
 <p>The industry standard assumes that 100 cubic feet (1 CCF) of natural gas contains approximately 103,700 BTU. Since 1 therm equals 100,000 BTU, the math follows these ratios:</p>
 <ul><li><strong>1 CCF</strong> ≈ <strong>1.037 Therms</strong></li><li><strong>1 MCF</strong> ≈ <strong>10.37 Therms</strong></li></ul>
 <p>These numbers are averages. In reality, your specific utility may use a slightly different heating value factor based on the source of the gas and local conditions. However, for budgeting and general comparison, the 1.037 multiplier is the standard baseline.</p>
 <p>The table below also lists two commercial-only units: a <strong>decatherm (Dth)</strong> and an <strong>MMBtu</strong> both equal exactly 10 therms — you will generally only meet them on commercial quotes.</p>
-<h3 id="conversion-table">Conversion Table</h3>
+
+### Conversion Table {#conversion-table}
+
 <p>Use the following table to quickly convert your usage to a standard energy unit (Therms) for comparison.</p>
 <table><thead><tr><th>Unit</th><th>Abbreviation</th><th>Equals (Volume)</th><th>Equals (Energy in Therms)</th><th>Common Usage</th></tr></thead><tbody><tr><td><strong>Therm</strong></td><td>Thm</td><td>N/A</td><td>1.00 Therm</td><td>Energy Billing (West Coast)</td></tr><tr><td><strong>Hundred Cubic Feet</strong></td><td>CCF</td><td>100 Cubic Feet</td><td>~1.037 Therms</td><td>Volume Billing (Midwest/Northeast)</td></tr><tr><td><strong>Thousand Cubic Feet</strong></td><td>MCF</td><td>1,000 Cubic Feet</td><td>~10.37 Therms</td><td>Commercial/High Volume</td></tr><tr><td><strong>Decatherm</strong></td><td>Dth</td><td>N/A</td><td>10 Therms</td><td>Large Commercial/Industrial</td></tr><tr><td><strong>Mega British Thermal Unit</strong></td><td>MMBtu</td><td>N/A</td><td>10 Therms</td><td>Industry Standard</td></tr></tbody></table>
 <h3>Where to Find These on Your Own Bill</h3>
@@ -70,7 +78,9 @@ hero_below_answer: true
 
 {{< visual src="/images/articles/mcf-vs-ccf-vs-therms-on-gas-bill/cost-per-therm-steps.webp" alt="Worked cost-per-therm calculation from 50 CCF and a 50 dollar gas charge." >}}
 
-<h2 id="why-your-utility-company-chooses-specific-units">Why Your Utility Company Chooses Specific Units</h2>
+
+## Why Your Utility Company Chooses Specific Units {#why-your-utility-company-chooses-specific-units}
+
 <p>You might wonder why there isn't one universal standard. The choice of unit often depends on historical infrastructure, regional regulations, and the size of the customer base.</p>
 <h3>Regional Preferences</h3>
 <p>In the Western United States, particularly California, therms are the dominant unit. This is partly due to the California Public Utilities Commission regulations which standardized energy billing to ensure consumers pay for heat output rather than volume. This protects consumers from seasonal fluctuations in gas density.</p>
@@ -79,13 +89,17 @@ hero_below_answer: true
 <p>Residential customers rarely see MCF on their bills. A typical home in a moderate climate might use 20–40 CCF in a summer month and 100–150 CCF in a winter month — the same gas that a bill in MCF units would show as roughly 2 to 15 per month. CCF is simply the display convention on volume-based residential bills.</p>
 <p>MCF is primarily a commercial unit. If you are running a business or a large apartment complex, your bill will likely be in MCF or MMBtu. Some residential utilities bill in MCF too — seeing it on a house bill does not mean anything is wrong, it just changes which divisor (10.37, instead of 1.037) you use to convert your usage to therms.</p>
 
-<h2 id="calculating-your-true-cost-per-unit">Calculating Your True Cost Per Unit</h2>
+
+## Calculating Your True Cost Per Unit {#calculating-your-true-cost-per-unit}
+
 <p>When reviewing your bill, it is easy to get distracted by the total dollar amount. The real insight comes from calculating the cost per unit. This metric helps you track inflation in energy prices and the efficiency of your home.</p>
 <p>Your bill usually shows a "Commodity Charge" and a "Delivery Charge." The Commodity Charge is the cost of the gas itself; the Delivery Charge is the cost to transport it to your home. When you want to know whether your rate is reasonable, focus on the Commodity Charge — delivery rates are often fixed or tiered and do not change with the unit of measurement the way supply rates do.</p>
 <p>Many utility bills also include fixed monthly customer charges. These are the kind of <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
 <p>To get an accurate picture of your fuel cost, subtract fixed customer charges (and taxes or surcharges, if itemized) from your total, then divide the remaining supply cost by your usage in therms — the three bills below work this end to end. If your resulting rate fluctuates wildly month-to-month, your utility likely uses a variable rate plan; if it stays stable, you are on a fixed-rate plan or the utility absorbs the volatility.</p>
 
-<h2 id="real-world-bill-scenarios">Real-World Bill Scenarios</h2>
+
+## Real-World Bill Scenarios {#real-world-bill-scenarios}
+
 <p>Let's look at three different bills to see how the units affect the numbers.</p>
 <h3>Scenario A: The CCF Bill (Midwest)</h3>
 <ul><li><strong>Usage:</strong> 150 CCF</li><li><strong>Rate:</strong> $1.10 per CCF</li><li><strong>Total Supply Cost:</strong> $165.00</li><li><strong>Energy Equivalent:</strong> 150 × 1.037 = 155.55 Therms</li><li><strong>True Cost per Therm:</strong> $165 / 155.55 = $1.06 per Therm</li></ul>
@@ -98,13 +112,17 @@ hero_below_answer: true
 
 <p>Note that all three homes use nearly identical energy (about 155 therms). Without converting to therms, you might think Scenario A ($1.10 per CCF) is the most expensive, but the volume adjustment changes the math: Scenario B is actually the priciest per unit of heat ($1.05) and Scenario C the cheapest ($1.01).</p>
 
-<h2 id="impact-on-your-budget-and-average-costs">Impact on Your Budget and Average Costs</h2>
+
+## Impact on Your Budget and Average Costs {#impact-on-your-budget-and-average-costs}
+
 <p>Understanding these units helps you budget accurately for the year. Gas bills are seasonal. You will use significantly more gas in winter than in summer.</p>
 <p>If you track your usage in volume (CCF) during winter, the numbers will be high. If you track in volume during summer, they will be low. However, if you track in therms, you are tracking heat output. If your therm usage is high in summer, it might indicate a leak or a water heater issue, not just heating.</p>
 <p>Comparing your usage to <a href="/blog/average-utility-bills-by-state-2026/">average gas bills by state</a> can also flag a home that is using more energy than it should for its size — and once you have compared your own rate, it is worth understanding the usual suspects behind a number that is still too high. Our guide on <a href="/blog/07-gas-bill-too-high/">why your gas bill is so high</a> ranks the ten most common causes.</p>
 <p>This data is crucial for long-term planning. If you are considering switching to electric heating or installing solar, you need to know your baseline energy consumption in a standard unit. Therms are often the bridge between gas and electricity comparisons (kWh vs Therms).</p>
 
-<h2 id="how-to-reduce-your-gas-consumption">How to Reduce Your Gas Consumption</h2>
+
+## How to Reduce Your Gas Consumption {#how-to-reduce-your-gas-consumption}
+
 <p>Once you understand your units, you can take action to lower your bill. The goal is to reduce the number of therms you consume, regardless of whether your bill says CCF or MCF.</p>
 <h3>Behavioral Changes</h3>
 <ul><li><strong>Lower the Thermostat:</strong> Dropping your thermostat by 2 degrees can save 1-3% on your bill. Over a winter, this reduces your therm usage significantly.</li><li><strong>Use Timers:</strong> Ensure your heating system isn't running when you are at work.</li><li><strong>Seal Leaks:</strong> Drafty windows waste heat. If you are burning more gas to maintain temperature, your therm usage rises even if the gas quality stays the same.</li></ul>
@@ -112,7 +130,9 @@ hero_below_answer: true
 <ul><li><strong>High-Efficiency Furnace:</strong> Older furnaces may lose 30% of energy in the vent. A new furnace converts more of the gas volume into usable heat, meaning you use fewer therms for the same comfort.</li><li><strong>Tankless Water Heater:</strong> Gas water heaters are a major consumer of therms. Tankless models heat water on demand, reducing standby losses.</li></ul>
 <p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/05-how-to-lower-utility-bills/">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
 
-<h2 id="related-reading">Related Reading</h2>
+
+## Related Reading {#related-reading}
+
 <ul>
 <li><a href="/blog/12-how-to-read-your-gas-bill/">How to read your gas bill, line by line</a> — locate your usage, rate, and adjustment lines on your own statement.</li>
 <li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">What the fuel/BTU adjustment charge covers</a> — the line item that reconciles metered volume with billed energy.</li>
@@ -121,7 +141,9 @@ hero_below_answer: true
 <li><a href="/blog/how-to-read-gas-meter/">How to read your gas meter</a> — where the usage number on your bill comes from.</li>
 </ul>
 
-<h2 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h2>
+
+## Frequently Asked Questions (FAQ) {#frequently-asked-questions-faq}
+
 
 {{< faq "Is 1 CCF equal to 1 Therm?" >}}
 
@@ -173,7 +195,9 @@ Yes. A bill in CCF, MCF, or therms can look unusually high or low if you compare
 
 {{< faq-schema >}}
 
-<h2 id="bottom-line">Bottom Line</h2>
+
+## Bottom Line {#bottom-line}
+
 <p>CCF and MCF tell you how much gas volume passed through your meter. Therms tell you how much usable heat energy you were billed for. For budgeting, rate comparison, and billing disputes, therms are the most useful common denominator.</p>
 <p>If your bill feels high, convert your usage to therms first, then compare your cost per therm, fixed fees, and seasonal usage. That gives you a cleaner picture than looking at the headline dollar amount alone.</p>
 

@@ -25,8 +25,8 @@ sources:
 For more detail, see [Understanding Utility Bills](/blog/complete-guide-understanding-utility-bill/).
 
 
+## Know your meter type first {#meter-types}
 
-<h2 id="meter-types">Know your meter type first</h2>
 <p>
               Most homes have either a dial meter or a digital meter. Dial meters use
               a series of small dials and a sweep hand. Digital meters show numbers
@@ -44,7 +44,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               for thousand gallons. Always check the unit before calculating usage.
             </p>
 
-<h2 id="read-dial">Reading a dial meter</h2>
+
+## Reading a dial meter {#read-dial}
+
 
 {{< visual src="/images/articles/how-to-read-a-water-meter/dial-meter-reading.webp" alt="Labeled diagram of a clock-dial water meter showing four dials read left to right, with the rule to record the lower number when the hand sits between two digits." caption="Clock dials read left to right — when a hand sits between two digits, always record the lower one." >}}
 
@@ -66,7 +68,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               readings and follow your utility's leak-check guidance.
             </p>
 
-<h2 id="read-digital">Reading a digital meter</h2>
+
+## Reading a digital meter {#read-digital}
+
 <p>
               Digital meters display the reading clearly, usually in large digits.
               Some meters cycle through screens. Wait until the usage screen appears
@@ -79,7 +83,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               documentation before using it to compare fixtures or diagnose a leak.
             </p>
 
-<h2 id="leak-test">Do a simple leak test</h2>
+
+## Do a simple leak test {#leak-test}
+
 <p>
               The easiest test is to turn off all water in the home, then watch the
               sweep hand or leak indicator. If it moves, water is flowing somewhere.
@@ -94,7 +100,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used: the 10-minute test</a>.
             </p>
 
-<h2 id="bill-compare">Compare the meter with your bill</h2>
+
+## Compare the meter with your bill {#bill-compare}
+
 <p>
               Bills list the previous and current meter readings. Subtract the two
               to get total usage. Compare that number with your own readings. A
@@ -131,7 +139,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               <a href="/blog/14-estimated-utility-bill-explained/">estimated utility bills explained</a>.
             </p>
 
-<h2 id="meter-location">Finding and accessing the meter</h2>
+
+## Finding and accessing the meter {#meter-location}
+
 <p>
               Most meters are outside near the street or sidewalk, usually under a
               small metal or plastic cover. In colder climates, meters may be in a
@@ -148,7 +158,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               serial number listed on your bill.
             </p>
 
-<h2 id="accuracy">What to do if you suspect a problem</h2>
+
+## What to do if you suspect a problem {#accuracy}
+
 <p>
               If the meter appears to run when known water use is off, call the
               utility and ask how it handles meter questions and accuracy tests. Ask
@@ -161,7 +173,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               <a href="/blog/06-water-bill-too-high/">why is my water bill so high? Causes ranked by likelihood</a>.
             </p>
 
-<h2 id="tracking">Use the meter to track habits</h2>
+
+## Use the meter to track habits {#tracking}
+
 <p>
               If you want to reduce usage, the meter can help you pinpoint high-flow
               activities. Record a baseline reading, run a single appliance like the
@@ -180,7 +194,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
             </p>
 
-<h2 id="unit-math">Convert meter units to bill units</h2>
+
+## Convert meter units to bill units {#unit-math}
+
 {{< visual src="/images/articles/how-to-read-a-water-meter/meter-to-bill-units.webp" alt="Meter-to-bill unit diagram showing 1,255 CCF converted through 100 cubic feet and 7.48 gallons per cubic foot to the bill’s CCF unit." wide="true" >}}
 <p>
               If your meter shows cubic feet but the bill lists gallons, use the
@@ -201,7 +217,9 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               and read the gallons and dollars directly.
             </p>
 
-<h2 id="seasonal-checks">Seasonal checks for outdoor usage</h2>
+
+## Seasonal checks for outdoor usage {#seasonal-checks}
+
 <p>
               Outdoor usage is often the biggest seasonal swing. During warm months,
               take a weekly meter reading and keep a simple log. If you see sharp

@@ -28,7 +28,9 @@ If you want the broader map first, start with
 It shows how all the pieces fit together.
 </p>
 
-<h2 id="ranked-causes">Five month-over-month causes, ranked — and how to confirm each from the bill</h2>
+
+## Five month-over-month causes, ranked — and how to confirm each from the bill {#ranked-causes}
+
 <p>
 Check these in order. Four of the five leave your habits completely out of it.
 </p>
@@ -50,7 +52,9 @@ Check these in order. Four of the five leave your habits completely out of it.
 </li>
 </ol>
 
-<h2 id="three-buckets">The three buckets that change your total</h2>
+
+## The three buckets that change your total {#three-buckets}
+
 <p>
 All five causes act through one of three buckets. Your bill is not just usage: it is usage <em>times</em> price, plus fixed charges.
 </p>
@@ -76,7 +80,9 @@ how rates, fees, and usage work together
 Service charges, taxes, and riders. They do not depend on usage and can move a total even in a low-use month.
 </p>
 
-<h2 id="billing-days">The billing days trap (28 days vs 33 days)</h2>
+
+## The billing days trap (28 days vs 33 days) {#billing-days}
+
 <p>
 Utility cycles run 27–35 days, not calendar months — "this month" can simply run longer than last. The total moves even when daily use is similar.
 </p>
@@ -91,7 +97,9 @@ Look for the bill period dates. Then compare usage per day, not just the total. 
 <a href="/blog/23-utility-billing-cycle-explained/">Utility Billing Cycle Explained</a>.
 </p>
 
-<h2 id="estimated-reads">Estimated reads and catch-up bills</h2>
+
+## Estimated reads and catch-up bills {#estimated-reads}
+
 <p>
 If your meter read was estimated, the bill can swing when the next actual read lands. That correction is not random. It is just catching up.
 </p>
@@ -106,7 +114,9 @@ Check the usage section for an E or the word "estimated." If you see it, the sto
 <a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
 </p>
 
-<h2 id="five-minute-check">A quick self-check you can do in 5 minutes</h2>
+
+## A quick self-check you can do in 5 minutes {#five-minute-check}
+
 <ul>
 <li>Compare billing days, not just totals.</li>
 <li>Scan for rate or rider changes in the line items.</li>
@@ -126,7 +136,9 @@ Delivery vs supply charges on utility bills
 </a>.
 </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
 <li>
 <strong>"My total went up, so my usage must have doubled."</strong>

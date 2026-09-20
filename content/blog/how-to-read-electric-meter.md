@@ -24,8 +24,8 @@ sources:
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
 
+## Why reading your meter is worth it {#why}
 
-<h2 id="why">Why reading your meter is worth it</h2>
 <p>
               If your bill ever feels too high, the meter is the starting point.
               Knowing how to read it gives you a simple reality check: "Does the
@@ -43,7 +43,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               first -- it makes the numbers feel less abstract.
             </p>
 
-<h2 id="types">Step 1: Identify your meter type</h2>
+
+## Step 1: Identify your meter type {#types}
+
 <p>
               Most homes have one of these:
             </p>
@@ -66,7 +68,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               with your own eyes.
             </p>
 
-<h2 id="dial-meter">How to read an analog dial electric meter</h2>
+
+## How to read an analog dial electric meter {#dial-meter}
+
 <p>
               Dial meters are the most error-prone because the dials alternate
               direction. Here is the reliable approach:
@@ -87,7 +91,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               with the bill later.
             </p>
 
-<h2 id="digital-meter">How to read a digital electric meter</h2>
+
+## How to read a digital electric meter {#digital-meter}
+
 <p>
               Digital meters show a number directly, usually labeled kWh.
             </p>
@@ -100,7 +106,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               <li>Take the reading at the same time of day once per week — a simple "usage trend" without any special tools.</li>
             </ul>
 
-<h2 id="smart-meter">How to use smart meter data (without getting overwhelmed)</h2>
+
+## How to use smart meter data (without getting overwhelmed) {#smart-meter}
+
 <p>
               Smart meters often give you daily or hourly usage in an online portal.
               That can be incredibly helpful -- but only if you focus on a few things.
@@ -125,7 +133,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               and rule out causes one by one.
             </p>
 
-<h2 id="calculate-usage">How to calculate your usage from two readings</h2>
+
+## How to calculate your usage from two readings {#calculate-usage}
+
 <p>
               Meter usage is just subtraction.
             </p>
@@ -162,7 +172,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               typical, see <a href="/blog/11-understanding-kwh-usage/">understanding kWh usage: what a normal month looks like</a>.
             </p>
 
-<h2 id="verify-bill">How to verify your bill using the meter</h2>
+
+## How to verify your bill using the meter {#verify-bill}
+
 <p>
               When the bill arrives, find the "previous reading" and "current
               reading" lines. Then:

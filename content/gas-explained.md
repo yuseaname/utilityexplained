@@ -222,7 +222,9 @@ Natural gas is an efficient fuel for heating and other household uses, but under
 If you want to compare gas to other energy sources, visit our heating and cooling guide. For broader budgeting advice, see our utility bills and costs overview.
 </p>
 
-<h2 id="gas-guides">Browse Our Gas Bill Guides</h2>
+
+## Browse Our Gas Bill Guides {#gas-guides}
+
 <p>Explore our complete library of natural gas bill guides:</p>
 
 <h3>Understanding Your Gas Bill</h3>

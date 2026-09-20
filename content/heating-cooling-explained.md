@@ -248,7 +248,9 @@ Heating and cooling are essential for comfort, but understanding how systems wor
 For broader utility cost management, visit our utility bills and costs guide. To compare energy sources, see our guides on electricity and natural gas.
 </p>
 
-<h2 id="hvac-guides">Browse Our Heating & Cooling Guides</h2>
+
+## Browse Our Heating & Cooling Guides {#hvac-guides}
+
 <p>Explore our complete library of HVAC and heating/cooling guides:</p>
 
 <h3>Troubleshooting</h3>

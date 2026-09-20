@@ -64,7 +64,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               </li>
             </ul>
 
-<h2 id="the-problem">The problem: a thermostat label and a bigger bill</h2>
+
+## The problem: a thermostat label and a bigger bill {#the-problem}
+
 <p>
   Most people notice aux heat the same way: it appears suddenly on the
   thermostat, the system seems to run longer, and the next bill feels
@@ -77,7 +79,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
   difference between "normal backup heat" and "something that needs attention."
 </p>
 
-<h2 id="simple-model">The simple model: heat pump first, backup heat second</h2>
+
+## The simple model: heat pump first, backup heat second {#simple-model}
+
 {{< visual src="/images/articles/aux-heat-vs-emergency-heat-meaning/aux-thermostat-display.webp" alt="Thermostat display showing an amber Aux Heat badge with outdoor temperature in the 40s, beside a cost strip: heat-pump heating costs 1x per hour while aux backup heat costs 2 to 3 times as much." >}}
 <p>
               A heat pump is like an air conditioner that can run in reverse.
@@ -101,7 +105,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> our plain-English ratings guide</a>.
             </p>
 
-<h2 id="aux-heat">What Aux Heat usually means</h2>
+
+## What Aux Heat usually means {#aux-heat}
+
 <p>
               <strong>Aux Heat</strong> usually means the thermostat is using
               backup heat to help the heat pump maintain the set temperature.
@@ -137,7 +143,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               It explains how heating load dominates many winter bills.
             </p>
 
-<h2 id="emergency-heat">What Emergency Heat means (and when it's the right call)</h2>
+
+## What Emergency Heat means (and when it's the right call) {#emergency-heat}
+
 <p>
               <strong>Emergency Heat</strong> is usually a manual setting that tells
               the system: "Don't use the heat pump. Use backup heat only."
@@ -165,7 +173,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               <a href="/blog/48-heat-pump-vs-gas-furnace-savings/"> Gas vs Electric Heating: Cost Comparison</a>.
             </p>
 
-<h2 id="what-to-look-for">What to look for (without becoming an HVAC tech)</h2>
+
+## What to look for (without becoming an HVAC tech) {#what-to-look-for}
+
 <p>
               You don't need special tools to get clarity. You just need to observe
               a few patterns.
@@ -193,7 +203,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               coming on earlier than you expect, it may be a configuration issue.
             </p>
 
-<h2 id="bill-sanity">Bill sanity checks that reduce panic</h2>
+
+## Bill sanity checks that reduce panic {#bill-sanity}
+
 <p>
               A bill can feel "wrong" even when nothing is broken. These checks help
               you separate timing and pricing from true usage changes.
@@ -218,7 +230,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electricity Bill So High in Summer?</a>.
             </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
               <li>
                 <strong>"Emergency heat warms faster, so I should use it more."</strong>
@@ -241,7 +255,9 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
               <a href="/blog/afue-vs-seer-vs-hspf-vs-cop/"> the efficiency ratings guide</a>.
             </p>
 
-<h2 id="faqs">FAQs</h2>
+
+## FAQs {#faqs}
+
 <p>
               Quick answers to common thermostat questions.
             </p>

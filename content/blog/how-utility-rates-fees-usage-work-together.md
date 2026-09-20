@@ -21,8 +21,8 @@ sources:
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
 
+## Think in layers: usage times rate, plus fixed charges {#layers}
 
-<h2 id="layers">Think in layers: usage times rate, plus fixed charges</h2>
 <p class="lead">
               Most people look at one number and feel lost. A simple model brings
               the bill back into focus.
@@ -45,7 +45,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               <a href="/utility-bills-costs-explained/"> Utility Bills &amp; Costs Explained</a>.
             </p>
 
-<h2 id="rates">Rates: the price per unit (and why it changes)</h2>
+
+## Rates: the price per unit (and why it changes) {#rates}
+
 <p>
               Rates can be flat, tiered, or time-based. Each one changes how the
               same usage turns into dollars.
@@ -71,7 +73,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               They look minor, but they add up.
             </p>
 
-<h2 id="fees">Fees: the parts that do not depend on usage</h2>
+
+## Fees: the parts that do not depend on usage {#fees}
+
 <p>
               These are service charges, taxes, and local fees. They show up even
               if you used very little.
@@ -97,7 +101,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               </a>.
             </p>
 
-<h2 id="ripple">How one change ripples through the total</h2>
+
+## How one change ripples through the total {#ripple}
+
 <p>
               A small rate change on a long billing period can feel like a big jump.
               A fixed fee increase can be more visible in a low-use month.
@@ -115,7 +121,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               </a>.
             </p>
 
-<h2 id="walkthrough">A simple walkthrough (no math, just the logic)</h2>
+
+## A simple walkthrough (no math, just the logic) {#walkthrough}
+
 <p>
               Imagine a month with the same usage as last month. The billing period
               is a few days longer. The rate moved slightly. The fixed charge went
@@ -132,7 +140,9 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               </a>.
             </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
               <li>
                 <strong>"Rates are fixed all year."</strong> Many plans change

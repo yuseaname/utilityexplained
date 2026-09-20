@@ -21,7 +21,9 @@ sources:
 
 A running toilet can waste water without making an obvious sound. The EPA WaterSense dye test is a quick way to check: add a dye tablet or a few drops of food coloring to the tank, wait 5–10 minutes without flushing, then look for color in the bowl. Color in the bowl means the flapper or flush-valve seal is leaking.
 
-<h2 id="dye-test">Run the 10-Minute Dye Test</h2>
+
+## Run the 10-Minute Dye Test {#dye-test}
+
 <p>The dye test is the fastest way to confirm a toilet leak without any tools. It isolates the flapper, which causes the majority of running-toilet problems.</p>
 <ol>
   <li><strong>Remove the tank lid</strong> and set it somewhere safe (they crack if dropped).</li>
@@ -34,10 +36,14 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 
 {{< product-box asin="B0DQLFC3Q6" name="GoveeLife Smart Water Leak Detector 5-Pack" label="Catches Next Year's Leak" description="The dye test finds today's leak. A sensor like this Govee 5-pack catches the one that starts next year — place one behind the toilet, under the sink, and near the water heater. Alerts via SMS/app/email at 105 dB with IP67-rated sensors. 5-year battery life." button="Check Price on Amazon" >}}
 
-<h2 id="cost-calculator">Estimate the impact from your own bill</h2>
+
+## Estimate the impact from your own bill {#cost-calculator}
+
 <p>Utility rates and sewer calculations are local, so do not use a national dollar estimate. Compare your meter reading before and after the repair, then use the rate and fee structure printed on your own bill to see the change. If your utility offers a leak-adjustment policy, ask what documentation it requires.</p>
 
-<h2 id="why-hard-to-notice">Why Running Toilets Are Easy to Miss</h2>
+
+## Why Running Toilets Are Easy to Miss {#why-hard-to-notice}
+
 <p>A running toilet is uniquely good at hiding. The leak is inside a closed tank, the sound is often masked by a noisy house, and the bowl refills on its own — so nothing looks "broken" to the eye.</p>
 <p>What you do see is the bill. A flapper that lets a thin stream seep from tank to bowl can run <strong>24 hours a day for weeks</strong> before anyone notices. By the time a higher bill arrives, the leak has already cost you.</p>
 <p>If you want a refresher on what every line on that bill means, start with [how to read your water bill](/blog/complete-guide-understanding-utility-bill/). If you are in "why did this just spike?" mode, jump to [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/).</p>
@@ -50,7 +56,9 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 </ul>
 <p>Need help reading the dial? See [how to read a water meter](/blog/how-to-read-a-water-meter/).</p>
 
-<h2 id="how-it-hits-bill">How a Running Toilet Raises Your Water and Sewer Bill</h2>
+
+## How a Running Toilet Raises Your Water and Sewer Bill {#how-it-hits-bill}
+
 <p>Every gallon that leaks out of the tank is a gallon your meter counts — and in most U.S. cities, the sewer charge is tied directly to your metered water usage. So one toilet leak can quietly double-dip your bill: once on the water side, and again on the sewer side.</p>
 
 <h3>Use a before-and-after comparison</h3>
@@ -59,7 +67,9 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 <h3>How to spot it in your own usage</h3>
 <p>Compare your current month's usage to the [average water usage per person](/blog/average-water-usage-per-person/) for your household size. If you are running 30–50% higher than expected with no lifestyle change, a running toilet or silent leak is the most common reason.</p>
 
-<h2 id="common-causes">Common Causes of a Running Toilet</h2>
+
+## Common Causes of a Running Toilet {#common-causes}
+
 <p>Most running-toilet problems come from three parts inside the tank. You do not need to be a plumber to recognize the categories.</p>
 <ul>
   <li><strong>Flapper valve (most common):</strong> a worn, warped, or mis-seated flapper lets tank water seep into the bowl. The dye test is designed to catch exactly this.</li>
@@ -68,7 +78,9 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 </ul>
 <p>Confirm the leak with the dye test or meter test before choosing a repair. If you cannot identify the failed part safely, ask a qualified plumber.</p>
 
-<h2 id="what-to-do-next">What to Do After You Confirm a Leak</h2>
+
+## What to Do After You Confirm a Leak {#what-to-do-next}
+
 <p>Once the dye test or meter test says "yes, water is moving," you have a few safe next steps.</p>
 <ul>
   <li><strong>Repair the confirmed cause.</strong> Follow the fixture manufacturer's instructions or use a qualified plumber.</li>
@@ -78,7 +90,9 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 </ul>
 <p>Not comfortable working inside the tank? Contact a qualified plumber and request an estimate before authorizing work.</p>
 
-<h2 id="misconceptions">Common Misconceptions About Running Toilets</h2>
+
+## Common Misconceptions About Running Toilets {#misconceptions}
+
 <ul>
   <li><strong>"If it is silent, it is fine."</strong> Silent leaks are the most common kind. Many flappers seep without making a sound.</li>
   <li><strong>"It is only a little water."</strong> A slow, continuous flow adds up to thousands of gallons a month. The cost table above shows the math.</li>
@@ -86,7 +100,9 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
   <li><strong>"A new toilet can't leak."</strong> Even brand-new flappers can misseat or wear out within a few years, especially with hard water.</li>
 </ul>
 
-<h2 id="next-step">Next Step: Confirm the Fix on Your Bill</h2>
+
+## Next Step: Confirm the Fix on Your Bill {#next-step}
+
 <p>After the repair, compare your next similar billing period with the prior one. If usage does not change, the leak may not be fully fixed or another source of water use may be present. The [complete guide to lowering your water bill](/blog/44-how-to-lower-water-bill/) walks through other checks, including irrigation and fixture use.</p>
 
 {{< faq "Can a running toilet really cause a high water bill?" >}}

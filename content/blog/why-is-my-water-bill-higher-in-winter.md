@@ -18,7 +18,9 @@ sources:
   - https://www.epa.gov/watersense/watersense-current-winter-2024 (retrieved 2026-08-29)
 ---
 
-<h2 id="problem">The problem: winter should be cheaper, but your bill went up</h2>
+
+## The problem: winter should be cheaper, but your bill went up {#problem}
+
 <p class="lead">
               When it is cold outside, outdoor watering drops to almost zero. So a
               higher winter water bill feels backwards.
@@ -57,7 +59,9 @@ Winter water bills rise most often because of a longer billing cycle,
               about 10 percent on water bills [3]. Those changes happen even when
               outdoor use is near zero.
 
-<h2 id="billing-days">Longer billing cycle</h2>
+
+## Longer billing cycle {#billing-days}
+
 <p>
               A winter bill that covers 33 or 35 days will look higher than a 28-day
               bill, even if your daily usage stayed flat. Compare usage per day,
@@ -68,7 +72,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/23-utility-billing-cycle-explained/"> utility billing cycle explained</a>.
             </p>
 
-<h2 id="indoor-leaks">Indoor leaks and running toilets</h2>
+
+## Indoor leaks and running toilets {#indoor-leaks}
+
 <p>
               Toilets, faucets, irrigation components, and water-line connections can
               leak without an obvious sound. The average household's leaks can waste
@@ -83,7 +89,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/water-meter-leak-indicator-explained/"> the leak indicator</a>.
             </p>
 
-<h2 id="hot-water">More hot water use</h2>
+
+## More hot water use {#hot-water}
+
 <p>
               Winter routines often mean longer showers, more baths, and more time at
               home. Guests over the holidays can bump laundry and dishwasher use as
@@ -97,7 +105,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/what-is-ccf-on-a-water-bill/"> what CCF means on a water bill</a>.
             </p>
 
-<h2 id="freeze-thaw">Freeze-thaw pipe stress and burst pipes</h2>
+
+## Freeze-thaw pipe stress and burst pipes {#freeze-thaw}
+
 <p>
               Water expands as it freezes, putting tremendous pressure on metal or
               plastic pipes [4]. Repeated freezing and thawing can stress water pipes,
@@ -110,7 +120,9 @@ Winter water bills rise most often because of a longer billing cycle,
               or faucet leak, check exposed pipes for damp spots or frost on fittings.
             </p>
 
-<h2 id="guests">Holiday guests and increased occupancy</h2>
+
+## Holiday guests and increased occupancy {#guests}
+
 <p>
               More people in the house means more flushes, more showers, more
               laundry, and more dishwashing. If your family hosts for Thanksgiving,
@@ -123,7 +135,9 @@ Winter water bills rise most often because of a longer billing cycle,
               per month in winter, there could be serious leaks [3].
             </p>
 
-<h2 id="rate-changes">Rate changes and billing-cycle shifts</h2>
+
+## Rate changes and billing-cycle shifts {#rate-changes}
+
 <p>
               Utilities sometimes change their rates at the start of a calendar
               year. A higher per-unit charge can raise your bill even if your
@@ -134,7 +148,9 @@ Winter water bills rise most often because of a longer billing cycle,
               price changed.
             </p>
 
-<h2 id="sewer-average">Sewer averaging changes</h2>
+
+## Sewer averaging changes {#sewer-average}
+
 <p>
               Some utilities reset sewer averages during winter months. If your winter
               usage was higher this year, your sewer charge can rise for the rest of
@@ -145,7 +161,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/sewer-averaging-water-bill-explained/"> sewer averaging explained</a>.
             </p>
 
-<h2 id="estimated">Estimated reads and true-ups</h2>
+
+## Estimated reads and true-ups {#estimated}
+
 <p>
               An estimated winter bill can be low, followed by a higher bill when the
               next actual reading corrects it. That correction can look like a spike.
@@ -155,7 +173,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/14-estimated-utility-bill-explained/"> estimated utility bills explained</a>.
             </p>
 
-<h2 id="misconceptions">Common misconceptions</h2>
+
+## Common misconceptions {#misconceptions}
+
 <ul>
               <li><strong>"No watering means my bill should drop."</strong> Indoor usage still drives most winter totals. The average family uses more than 300 gallons per day at home, roughly 70 percent indoors [1]. Winter indoor use can rise from more time at home and guests.</li>
               <li><strong>"A higher bill means a rate hike."</strong> It can be more days, a leak, or a true-up instead. Household leaks waste an average of 9,400 gallons per year [2].</li>
@@ -167,7 +187,9 @@ Winter water bills rise most often because of a longer billing cycle,
               <a href="/blog/why-did-my-water-bill-suddenly-increase/"> why water bills suddenly increase</a>.
             </p>
 
-<h2 id="faqs">FAQs</h2>
+
+## FAQs {#faqs}
+
 <p>
               Quick answers to the most common winter bill questions.
             </p>

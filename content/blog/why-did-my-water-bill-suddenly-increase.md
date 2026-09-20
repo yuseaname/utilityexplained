@@ -21,7 +21,9 @@ sources:
 
 If the dye test is clean, the sudden jump usually comes from one of three places this page walks through in order: **a rate, tier, or billing-period change** (check the usage line against the rate lines — usage flat with a higher total is a rate story, not a leak), **seasonal outdoor use**, or **a leak outside the toilet** (irrigation, service line). To check whether water is moving with everything off, use the [water-meter leak indicator](/blog/water-meter-leak-indicator-explained/) or the full [meter running when no water is used](/blog/water-meter-running-when-no-water-used/) test; for a bill that is high every month rather than suddenly, see [causes of high water bills ranked by likelihood](/blog/06-water-bill-too-high/).
 
-<h2 id="top-reasons">The most common reasons for a sudden spike</h2>
+
+## The most common reasons for a sudden spike {#top-reasons}
+
 <p>
               Sudden increases are usually tied to leaks, seasonal outdoor use, or a
               change in household habits. Toilets are a frequent cause because a
@@ -38,7 +40,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               leak check before assuming a billing error.
             </p>
 
-<h2 id="leak-check">Check for leaks inside and outside</h2>
+
+## Check for leaks inside and outside {#leak-check}
+
 <p>
               Start with toilets. EPA's method: place a few drops of food coloring
               in the toilet tank, and if any color shows up in the bowl after
@@ -81,7 +85,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch the next leak automatically" description="The checks above find a leak that's running today. Contact sensors alarm at 105 dB and phone-alert you the minute water appears — place them under the water heater, behind the washing machine, and under sinks, where slow leaks start. 5-pack covers the usual suspects (Govee spec)." button="Check price on Amazon" >}}
 
-<h2 id="usage-changes">Look for normal usage changes</h2>
+
+## Look for normal usage changes {#usage-changes}
+
 <p>
               A temporary shift in household routines can raise usage. Extra laundry
               loads, long showers during cold months, or washing a car weekly can all
@@ -110,7 +116,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               can also add a one-time spike that shows up on the next bill.
             </p>
 
-<h2 id="tiered-pricing">Tiered pricing can magnify a modest increase</h2>
+
+## Tiered pricing can magnify a modest increase {#tiered-pricing}
+
 <p>
               Some utilities use tiered pricing. Once you cross a threshold, the
               price per unit rises. A modest increase in gallons can trigger a larger
@@ -130,7 +138,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               keep you in the lower-cost tier and reduce the total bill.
             </p>
 
-<h2 id="weather-irrigation">Weather-driven irrigation changes</h2>
+
+## Weather-driven irrigation changes {#weather-irrigation}
+
 <p>
               Hot, dry weather increases outdoor watering needs. If your area had a
               heat wave or low rainfall, your sprinkler system may have run longer or
@@ -151,7 +161,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               explainer shows how the charge is calculated and when it ends.
             </p>
 
-<h2 id="billing-details">Check the billing details</h2>
+
+## Check the billing details {#billing-details}
+
 <p>
               Bills can be higher if the reading was estimated or if the billing
               cycle is longer. Compare the number of days in the cycle. If this
@@ -163,7 +175,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               sometimes adjust rates at the start of a new fiscal year.
             </p>
 
-<h2 id="meter-check">Verify the meter reading</h2>
+
+## Verify the meter reading {#meter-check}
+
 <p>
               EPA's leak-check method: check your water meter before and after a
               two-hour period when no water is being used. If the meter changes at
@@ -183,7 +197,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               when no water is being used. That is a strong signal of a leak.
             </p>
 
-<h2 id="timeline">Build a simple usage timeline</h2>
+
+## Build a simple usage timeline {#timeline}
+
 <p>
               A timeline helps connect spikes to real events. Write down days when
               guests visited, when you watered the lawn, or when a leak was repaired.
@@ -200,7 +216,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               for the next bill.
             </p>
 
-<h2 id="shared-meter">Shared meters and submetering</h2>
+
+## Shared meters and submetering {#shared-meter}
+
 <p>
               In some multi-unit buildings, a single meter covers multiple units and
               costs are divided among tenants. This can make your bill rise even if
@@ -213,7 +231,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               to request your usage history for comparison.
             </p>
 
-<h2 id="billing-errors">Billing errors and adjustments</h2>
+
+## Billing errors and adjustments {#billing-errors}
+
 <p>
               Billing errors are less common than leaks, but they can happen. If you
               believe the bill is incorrect, document your meter reading and contact
@@ -233,7 +253,9 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               of a seasonal pattern.
             </p>
 
-<h2 id="what-to-do">What to do next</h2>
+
+## What to do next {#what-to-do}
+
 <ul>
               <li>Run EPA's two-hour meter test with all water off.[1]</li>
               <li>Check toilets with the food-coloring dye test.[1]</li>

@@ -242,7 +242,9 @@ Electricity is a constant part of daily life, but understanding how it is measur
 If you are ready to explore other utilities, visit our guides on gas service, water bills, or heating and cooling systems.
 </p>
 
-<h2 id="electricity-guides">Browse Our Electricity Guides</h2>
+
+## Browse Our Electricity Guides {#electricity-guides}
+
 <p>For the cross-utility savings program — electric, gas, and water together, ranked by payback — see the <a href="/lower-your-bills/">Lower Your Bills hub</a>.</p>
 <p>Explore our complete library of electricity bill guides, organized by topic:</p>
 
