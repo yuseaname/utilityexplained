@@ -11,10 +11,9 @@ hub_categories: ["Electricity"]
 url: "/electricity-explained"
 ---
 
-<h2 id="quick-answer">Quick Answer: what am I paying for?</h2>
-<p>
-Your electric bill has three moving parts: <strong>usage</strong> (kWh your meter counted), the <strong>rate</strong> your plan or tariff charges per kWh, and <strong>fixed charges</strong> that don't move with usage. A typical U.S. household using 899 kWh at the June 2026 national average of 18.34&cent;/kWh pays about <strong>$164.88</strong> for energy alone, before delivery charges, taxes, and fees. Start with <a href="/blog/complete-guide-understanding-utility-bill/">the complete guide to understanding your utility bill</a>, or go straight to <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">delivery vs supply charges</a> if those two lines are what confuse you.
-</p>
+## Quick Answer: what am I paying for? {#quick-answer}
+
+Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using 899 kWh at the June 2026 national average of 18.34&cent;/kWh pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
 <h2>What is electricity and how does it reach your home?</h2>
 <p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>

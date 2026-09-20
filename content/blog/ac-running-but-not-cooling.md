@@ -15,15 +15,14 @@ keywords: ["ac not cooling", "duct leak symptoms", "therms", "thermostat setting
 image: "/images/articles/ac-running-but-not-cooling/ac-running-but-not-cooling_hero_v2.webp"
 ---
 
-<h2 id="quick-answer">The short answer</h2>
-<p>
-              When your AC is running but not cooling, the problem is usually
+## The short answer {#quick-answer}
+
+When your AC is running but not cooling, the problem is usually
               airflow, a frozen coil, or the outdoor unit not doing its job. Start
               with the basics: confirm the thermostat is on cool, the fan is set to
               auto, the filter is clean, and vents are open. If the system is blowing
               weak air or you see ice on the indoor coil or lines, turn cooling off
               and let it thaw.
-            </p>
             <p>
               If the outdoor unit fan is not spinning, a breaker keeps tripping, or
               the air is warm even after basic checks, it is time for professional

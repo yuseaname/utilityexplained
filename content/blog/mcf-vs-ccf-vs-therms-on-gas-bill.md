@@ -16,8 +16,9 @@ image_alt: "Gas meter units converting from CCF and MCF to therms."
 hero_below_answer: true
 ---
 
-<h2 id="quick-answer">Quick Answer</h2>
-<p><strong>Therms measure the heat energy you actually used; CCF and MCF measure the volume of gas that passed your meter.</strong> To compare rates fairly, you must convert volume into therms — gas density varies by region and temperature, so the two are not the same number. On average, 1 CCF holds about 1.037 therms.</p>
+## Quick Answer {#quick-answer}
+
+**Therms measure the heat energy you actually used; CCF and MCF measure the volume of gas that passed your meter.** To compare rates fairly, you must convert volume into therms — gas density varies by region and temperature, so the two are not the same number. On average, 1 CCF holds about 1.037 therms.
 
 <p><strong>Next step:</strong> Now that you know what the units mean, <a href="/blog/12-how-to-read-your-gas-bill/">read your gas bill line by line</a> to find which unit your utility uses, or jump to the <a href="#conversion-table">conversion table</a> to turn your usage into therms.</p>
 

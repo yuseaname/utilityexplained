@@ -47,16 +47,15 @@ sources:
               <li><a href="#faqs">FAQs</a></li>
             </ul>
 
-<h2 id="quick-answer">The short answer</h2>
-<p>
-              Winter water bills rise most often because of a longer billing cycle,
+## The short answer {#quick-answer}
+
+Winter water bills rise most often because of a longer billing cycle,
               hidden indoor leaks, more hot water use, or a sewer averaging change.
               Freeze-thaw cycles can also stress pipes and cause hidden leaks that
               show up on your bill. The average family wastes 9,400 gallons per year
               from household leaks [1][2], and fixing easily corrected leaks saves
               about 10 percent on water bills [3]. Those changes happen even when
               outdoor use is near zero.
-            </p>
 
 <h2 id="billing-days">Longer billing cycle</h2>
 <p>

@@ -15,13 +15,12 @@ keywords: ["aux heat vs emergency heat", "heat pump savings", "therms", "thermos
 image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergency-heat-meaning_hero_v2.webp"
 ---
 
-<h2 id="quick-answer">The short answer</h2>
-<p>
-              <strong>Aux Heat</strong> (auxiliary heat) usually means your heat pump
-              is running <strong>backup heat</strong> to keep up with demand--often
+## The short answer {#quick-answer}
+
+**Aux Heat** (auxiliary heat) usually means your heat pump
+              is running **backup heat** to keep up with demand--often
               during cold snaps, defrost cycles, or when you raise the thermostat
               several degrees at once.
-            </p>
             <p>
               <strong>Emergency Heat</strong> is typically a <strong>manual mode</strong>
               you switch on when the heat pump itself can't run properly (for example,

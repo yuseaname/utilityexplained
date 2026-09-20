@@ -17,10 +17,9 @@ keywords: ["lower utility bills", "lower your bills", "save on utility bills", "
 tags: ["savings", "utility bills", "energy efficiency"]
 ---
 
-<h2 id="quick-answer">Quick Answer: where do I start?</h2>
-<p>
-Start with measurement, not purchases. Every guide in this library follows the same order of operations: <strong>find out where the money actually goes, fix the cheapest things first, and only then buy equipment.</strong> If you want one page that ranks the usual fixes by typical payback, start with <a href="/blog/05-how-to-lower-utility-bills/">Lower Your Utility Bills: The Ranked List of What Actually Saves</a>. If electricity is your biggest line and you want the full playbook, go straight to <a href="/blog/how-to-lower-electric-bill-complete-guide/">the complete electric-bill guide</a> — 20+ proven ways organized by cost, from free changes you can make today to upgrades that pay for themselves.
-</p>
+## Quick Answer: where do I start? {#quick-answer}
+
+Start with measurement, not purchases. Every guide in this library follows the same order of operations: **find out where the money actually goes, fix the cheapest things first, and only then buy equipment.** If you want one page that ranks the usual fixes by typical payback, start with [Lower Your Utility Bills: The Ranked List of What Actually Saves](/blog/05-how-to-lower-utility-bills/). If electricity is your biggest line and you want the full playbook, go straight to [the complete electric-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) — 20+ proven ways organized by cost, from free changes you can make today to upgrades that pay for themselves.
 <h2>The Savings &amp; Efficiency library</h2>
 <p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>

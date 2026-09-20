@@ -16,10 +16,9 @@ sources:
   - https://www.eia.gov/TODAYINENERGY/detail.php?id=62303 (retrieved 2026-08-29)
 ---
 
-<h2 id="quick-answer">The short answer most people need</h2>
-<p class="lead">
+## The short answer most people need {#quick-answer}
+
 Pull this bill and last month's, and compare five things in order: billing days, usage (kWh/therms/CCF), price per unit, fixed and one-time charges, and meter-read status (actual vs estimated). One of those five explains almost every "nothing changed" increase — the ranked shortlist below names the five concrete causes and the one-line bill check for each.
-</p>
 <p>
 You open the bill, see a higher total, and think, "Nothing changed." Almost always, something did change — just not your habits.
 </p>

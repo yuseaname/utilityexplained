@@ -17,8 +17,9 @@ sources:
 
 {{< affiliate-disclosure >}}
 
-<h2 id="quick-answer">Quick Answer: Is Your Toilet Running?</h2>
-<p>A running toilet can waste water without making an obvious sound. The EPA WaterSense dye test is a quick way to check: add a dye tablet or a few drops of food coloring to the tank, wait 5–10 minutes without flushing, then look for color in the bowl. Color in the bowl means the flapper or flush-valve seal is leaking.</p>
+## Quick Answer: Is Your Toilet Running? {#quick-answer}
+
+A running toilet can waste water without making an obvious sound. The EPA WaterSense dye test is a quick way to check: add a dye tablet or a few drops of food coloring to the tank, wait 5–10 minutes without flushing, then look for color in the bowl. Color in the bowl means the flapper or flush-valve seal is leaking.
 
 <h2 id="dye-test">Run the 10-Minute Dye Test</h2>
 <p>The dye test is the fastest way to confirm a toilet leak without any tools. It isolates the flapper, which causes the majority of running-toilet problems.</p>

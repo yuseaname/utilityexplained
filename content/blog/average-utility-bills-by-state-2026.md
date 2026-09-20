@@ -20,8 +20,9 @@ image: "/images/articles/average-utility-bills-by-state-2026/average-utility-bil
 hero_below_answer: true
 ---
 
-<h2 id="quick-answer">Quick Answer: Average U.S. Utility Bills in 2026</h2>
-<p>Here is the national breakdown for the <strong>narrow basket</strong>:</p>
+## Quick Answer: Average U.S. Utility Bills in 2026 {#quick-answer}
+
+Here is the national breakdown for the **narrow basket**:
 <ul>
 <li><strong>Electricity:</strong> $165/month (900 kWh at 18.34¢/kWh — EIA national residential average, June 2026)</li>
 <li><strong>Natural gas:</strong> $80–$170/month for a gas-heated home at 75 therms (EIA state residential prices run ~$1.04–$2.29/therm; ~$1.91/therm national average, May 2026) — winter high, summer low</li>

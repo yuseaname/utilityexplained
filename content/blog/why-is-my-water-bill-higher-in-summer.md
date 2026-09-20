@@ -45,10 +45,9 @@ sources:
               <li><a href="#misconceptions">Common misconceptions</a></li>
             </ul>
 
-<h2 id="quick-answer">The quick answer</h2>
-<p>
-              Water bills are often higher in summer because outdoor watering jumps—outdoor water use accounts for more than 30 percent of total household water use on average nationwide, and up to 60 percent in arid regions [1][2]—while household leaks can silently waste 9,400 gallons per year even before summer irrigation starts [2]. If your utility uses tiered pricing, the extra summer usage is billed at a higher per-unit rate, making the increase feel larger.
-            </p>
+## The quick answer {#quick-answer}
+
+Water bills are often higher in summer because outdoor watering jumps—outdoor water use accounts for more than 30 percent of total household water use on average nationwide, and up to 60 percent in arid regions [1][2]—while household leaks can silently waste 9,400 gallons per year even before summer irrigation starts [2]. If your utility uses tiered pricing, the extra summer usage is billed at a higher per-unit rate, making the increase feel larger.
             <p>
               The fastest way to tell what is happening is to compare:
             </p>

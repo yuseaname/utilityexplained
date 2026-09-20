@@ -16,8 +16,9 @@ sources:
   - https://www.eia.gov/energyexplained/electricity/measuring-electricity.php (retrieved 2026-08-29)
 ---
 
-<h2 id="quick-answer">Quick Answer</h2>
-<p><strong>A smart meter is a digital electricity meter that records your electricity use in short intervals — often 15 minutes to 1 hour — and sends that data to your utility over a secure network, replacing the manual meter reading with automatic reporting.</strong> Meter capabilities, reporting intervals, privacy terms, and customer access differ by utility and program.</p>
+## Quick Answer {#quick-answer}
+
+**A smart meter is a digital electricity meter that records your electricity use in short intervals — often 15 minutes to 1 hour — and sends that data to your utility over a secure network, replacing the manual meter reading with automatic reporting.** Meter capabilities, reporting intervals, privacy terms, and customer access differ by utility and program.
 <ul>
 <li><strong>Can provide more detailed use data</strong> when the utility makes it available</li>
 <li><strong>May report remotely</strong> depending on the utility's meter system</li>
