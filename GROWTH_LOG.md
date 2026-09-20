@@ -729,3 +729,24 @@ Executed the AFFILIATE-STRATEGY-2026-09-06.md plan (Days 1–30 content + mechan
 **Incident + harness fix (commit 2b37188, skill repo):** the fleet-wide zero-turn failures (Entries 28's ollama starvation theory was WRONG — dsv4 seats failed identically) were diagnosed by direct probe: providers returned HTTP 200 with 12,000 completion tokens burned entirely on reasoning streams (GLM thinking / DeepSeek reasoning_content) that build_request_body never disabled and extract_message discarded — workers looked empty, burned step caps on nudges, died. Fix: reasoning/think disabled by default (per-seat opt-in), reasoning-field fallback on empty replies; 3 regression tests; 27/27 green; live probe + both follow-up drafts confirm recovery. Earlier "concurrency starvation" note superseded.
 
 **Review:** GLM cross-family review of both drafts — facts/math/honesty/fences all held (EPA citations live-verified); fixes applied: EV missing head-to-head table + 4th source + in-body markers + duplicate product-photo visual removed + alt corrections + one math wording; sprinkler B-hyve spelling ×7 + QA 259→168 words + alt corrections + 7,600-gal reframe as conservative assumption.
+
+## Entry 30 — SQ-073: audit + mechanical levers — QA normalization, HTML-heading conversion, live-verified deploys (2026-09-20)
+
+**Session goals (owner):** organic traffic growth (esp. Google), full audit then fix worst offenders, autonomous push-through.
+
+**Audit findings (all verified against live + built artifact):**
+- Rybbit 30d: 3,183 sessions, 89.4% bounce, 1.14 pages/session. Search split: DDG 968 / Bing 718 / Yahoo 246 / **Google only 120 (4%)**. Traffic ~3x over 60d (727→2,133 search sessions/30d) — Bing ecosystem carries it.
+- Googlebot crawls heavily (3,415 req/30d, 30.6% of events) and pages ARE indexed (site: search confirms). GSC sitemap submitted 2026-09-07. Google referrals: 30→34→25/week — no pickup yet. Diagnosis: ranking suppression on a 9-month-old domain (reg. 2025-12-21), not indexing. Content + engagement + time is the lever; no mechanical fix left.
+- Dead-URL instant-exit layer from Entry 25: resolved — retired URLs still 301 correctly (live-verified) and drew 0 views/30d (Bing deindexed them).
+- Internal link graph: dense — 0 orphan articles, minimum 19 inbound links/article. No orphans, no thin-content risk.
+- Schema: 132/132 articles Article schema, 67 FAQPage, 482 BreadcrumbList. Duplicate titles = alias stubs only (correct). Tag taxonomy noindexed + sitemap-filtered (148 URLs). Pagination canonicals correct.
+- Performance: 63KB CSS, 4KB JS, preloaded WebP heroes, fetchpriority on article heroes. Healthy.
+- No 404-demand in top-100 page-titles.
+
+**Shipped (both commits deployed via CI, live-verified cache-busted):**
+1. `096c283e` — **QA normalization (Lever 1 remainder):** 12 files converted from legacy `<h2 id="quick-answer">` HTML to canonical `## ... {#quick-answer}` markdown. Heading text/anchors/content verbatim; only lead `<p>` converted to markdown.
+2. `d2545ef0` — **HTML-heading conversion:** 200 raw `<h2/h3 id>` headings across 21 files (incl. utilities-glossary 51, utility-bills-costs-explained 16, ac-running 14, water-bill-suddenly 11) → markdown with `{#id}` anchors. Fixes empty TOCs (water-suddenly 3→14 entries, glossary 1→52, ac-running 16→30). All in-page anchors verified resolving; 0 dead.
+
+**Quality gates both commits:** hugo build green, page count unchanged (802), image-path check OK, rendered-output check OK, content audit 52 baseline flags / zero new, unit tests OK.
+
+**Next levers (not blockers):** winter refresh pass (scheduled days 31–60, pre-Nov); `why-did-my-water-bill-suddenly-increase` 6s-ToP watch after TOC fix; GA4 re-baselining of Completion Contract (owner decision, pending since Entry 25).
