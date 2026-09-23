@@ -1,0 +1,21 @@
+# IMAGE-SPECS — 2026-09-22 dwell-time overhaul (10 new visuals)
+
+Parent plan: ../../.hermes/plans/2026-09-22_183000-ue-top-page-dwell-overhaul.md
+Model: nano-banana-2-text (Magica MCP, per owner directive 2026-09-22).
+Rule: every figure below is copied verbatim from this article's body/tables. If a
+number isn't here, it doesn't go in the image. Style: match the 5 existing visuals
+in this directory (flat editorial infographic, clean labeled figures, cream/white
+background, gold+teal accent palette like energy-hogs-hero / cost-tier-ladder).
+
+| # | File | Figures allowed (verbatim from article) | Alt (draft) | Caption (draft) | Insert after |
+|---|------|----------------------------------------|-------------|------------------|--------------|
+| 1 | energy-hogs-breakdown.webp | 52% HVAC (EIA RECS 2020); ~20% water heating; 6-12% refrigeration; 6-10% lighting; 23% "other devices"; 899 kWh/month avg US household | Bar chart of where home energy goes: heating and cooling 52%, water heating ~20%, refrigeration 6-12%, lighting 6-10%, electronics inside the 23% other-devices slice | Heating and cooling are more than half the pie (EIA RECS 2020) — that's where the biggest savings live. | Top-5 table (line ~72) |
+| 2 | killawatt-audit.webp | Kill A Watt plug-in meter; watts/kWh on display; no invented dollar figure | Hand plugging a Kill A Watt electricity meter into a wall outlet to measure an appliance's real draw | A $30 plug-in meter ends the guessing: measure each outlet before spending a dollar on fixes. | Tools-that-pay intro para (line ~83) |
+| 3 | led-swap-math.webp | 60 W incandescent ~$11/yr; LED 8-10 W $1.50-$1.90/yr; 20 bulbs = ~$30 cost, $150-$200/yr savings, 2-3 month payback | LED swap math: one 60-watt incandescent costs about $11 a year, the 8-10 watt LED equivalent $1.50-$1.90 | Twenty bulbs, thirty dollars, two to three months to payback. | Step 9 payback line (line ~234) |
+| 4 | smart-strip-timers.webp | Entertainment center setup: $25 cost, $50-$80/yr savings; no per-device watt labels beyond step-3 ranges (TV 5-10W, console 15-20W) | Smart power strip shutting off an entertainment center's standby loads | One $25 strip on the entertainment center claws back $50-$80 a year. | Step 10 total line (line ~248) |
+| 5 | air-seal-map.webp | Windows, doors, attic hatch, exterior-wall outlets; 10-20% envelope waste; $25 materials, $60-$200/yr, 2-5 month payback | House cross-section with the four main air-leak points marked: windows, doors, attic hatch, exterior outlets | Four leak points, $25 in caulk and weatherstrip, 2-5 month payback. | Step 11 payback line (line ~264) |
+| 6 | attic-insulation-depth.webp | R-15 (6 in) +R-30 saves 15-20% ($400 DIY); R-30 (12 in) 5-10%; R-60 (24 in) no add needed | Attic insulation depth ruler: R-15 at 6 inches, R-30 at 12, R-60 at 24 | If you can see the joists, you're at R-15 or less — the cheapest 15-20% HVAC cut on this list. | Step 14 savings line (line ~317) |
+| 7 | heat-pump-vs-furnace.webp | Furnace+AC $1,000/yr total; heat pump $700/yr; $300/yr savings; 2-3x efficiency | Annual cost duel: gas furnace plus AC $1,000 vs heat pump $700 — $300 a year apart | Same house, $300 a year apart; the real payback hinges on IRA credits and rebates, not fuel alone. | Step 16 payback line (line ~356) |
+| 8 | water-heater-120f.webp | 140F ~$600/yr; 130F ~$540; 120F ~$480; $60-$120 saved; free change | Water heater thermostat dial turned from 140F to the DOE-recommended 120F | One free dial turn from 140F to 120F: $60-$120 a year. | Lower-Water-Heater savings line (line ~438) |
+| 9 | tou-rate-curve.webp | 24h curves flat vs tiered vs TOU; TOU up to 40% if shifted; peak 4-9pm weekdays | Three 24-hour price curves overlaid: flat rate, tiered rate, and time-of-use with its 4-9pm peak | On a time-of-use plan the same kWh costs a third as much at 9pm as at 7pm — shift, don't suffer. | Rate-comparison table (line ~494) |
+| 10 | week-one-plan.webp | This-week checklist: thermostat, lights, phantom loads, line-dry, cold wash, full dishwasher, curtains, fans, LEDs, smart strips, sealing, low-flow; total $20-$40/month | Week-one savings checklist card: twelve free or under-$50 actions totaling $20-$40 a month | Twelve checks, twenty to forty dollars a month — the whole first week on one card. | "This Week" checklist items (line ~523) |
