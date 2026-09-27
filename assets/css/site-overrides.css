@@ -402,3 +402,114 @@
     transition: none !important;
   }
 }
+
+/* ----------------------------------------------------------------------------
+   ARTICLE RAIL — desktop sticky product sidebar (Phase 2, 2026-09-27)
+   Renders only on buyer-intent pages (Store flag from first product-box)
+   and only at lg+ (>=1024px). Mobile/tablet keep inline CTAs untouched.
+   Doctrine-consistent: flat #fffdf8 card, amber reserved for the CTA.
+   ---------------------------------------------------------------------------- */
+
+/* Shell: default = current single-column behavior (rail display:none) */
+.article-shell.has-rail .article-rail { display: none; }
+
+@media (min-width: 1024px) {
+  .article-shell.has-rail {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 280px;
+    gap: 2.5rem;
+    align-items: start;
+    max-width: 1160px;
+    margin: 0 auto;
+  }
+  /* DOM order: rail first (Store ready before article renders), but visually
+     article owns the wide column. Explicit placement avoids the aside
+     capturing the 1fr track. */
+  .article-shell.has-rail > article {
+    grid-column: 1;
+    grid-row: 1;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .article-shell.has-rail .article-rail {
+    grid-column: 2;
+    grid-row: 1;
+    display: block;
+    position: sticky;
+    top: 5.5rem; /* below the nav */
+    max-height: calc(100vh - 7rem);
+    overflow-y: auto;
+  }
+}
+
+.article-rail-card {
+  border: 1px solid var(--color-line, #d7cdbb);
+  border-radius: var(--radius-lg, 12px);
+  background: #fffdf8;
+  box-shadow: 0 10px 30px -12px rgba(49, 39, 20, 0.18);
+  padding: 1.25rem 1.15rem 1.1rem;
+}
+
+.article-rail-kicker {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 0.2rem 0.7rem;
+  background: var(--color-accent-200, #f5d98e);
+  border-radius: 999px;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #5c4a1e;
+}
+
+.article-rail-name {
+  display: block;
+  margin: 0 0 0.35rem;
+  font-weight: 800;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  color: #1f2937;
+}
+
+.article-rail-label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #6b5b33;
+  margin-bottom: 0.5rem;
+}
+
+.article-rail-desc {
+  margin: 0 0 1rem;
+  color: #4b5563;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.article-rail .article-rail-cta {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: var(--color-accent-500, #e8a33d);
+  color: #20141f;
+  font-weight: 700;
+  border-radius: var(--radius-lg, 10px);
+  text-decoration: none;
+  transition: background 0.18s ease;
+  box-shadow: 0 4px 14px -2px rgba(232, 163, 61, 0.45);
+}
+.article-rail .article-rail-cta:hover { background: var(--color-accent-400, #ebb23a); }
+
+.article-rail .article-rail-note {
+  display: block;
+  margin-top: 0.7rem;
+  font-size: 0.68rem;
+  line-height: 1.45;
+  color: #8a7a5c;
+}

@@ -1,5 +1,8 @@
 {{ define "main" }}
-<article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+{{- $hasRail := and (eq .Section "blog") (.Store.Get "sidebar_pick") -}}
+<div class="{{ if $hasRail }}article-shell has-rail{{ else }}article-shell{{ end }}">
+  {{ if $hasRail }}{{ partial "sidebar-pick.html" . }}{{ end }}
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
   {{ partial "breadcrumbs.html" . }}
 
   <!-- Article Header -->
@@ -118,4 +121,5 @@
         content/users/sources/related all come first. */}}
   {{ partial "email-capture.html" . }}
 </article>
+</div>
 {{ end }}

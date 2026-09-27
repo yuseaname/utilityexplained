@@ -1,0 +1,21 @@
+{{- /* sidebar-pick.html — desktop sticky product rail (Phase 2, 2026-09-27).
+   Renders ONLY when the article's first product-box registered itself
+   (buyer-intent pages, ~57) and only in the lg+ CSS layout (hidden below
+   1024px via .article-rail rules in site-overrides.css — mobile keeps
+   inline CTAs). Content = the page's OWN #1 pick, verbatim from the
+   product-box data; full disclosure line included per Associates rules.
+   Tracking: format="sidebar" so rail vs inline cannibalization is
+   measurable in Rybbit events. */ -}}
+{{- $pick := .Store.Get "sidebar_pick" -}}
+{{- with $pick -}}
+<aside class="article-rail" aria-label="Top pick sidebar">
+  <div class="article-rail-card">
+    <span class="article-rail-kicker">Our top pick</span>
+    <strong class="article-rail-name">{{ .name }}</strong>
+    {{ with .label }}<span class="article-rail-label">{{ . }}</span>{{ end }}
+    {{ with .desc }}<p class="article-rail-desc">{{ . }}</p>{{ end }}
+    <a class="product-cta article-rail-cta" href="https://www.amazon.com/dp/{{ .asin }}?tag={{ .tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ .asin }}" data-rybbit-prop-destination="{{ .asin }}" data-rybbit-prop-format="sidebar" data-rybbit-prop-position="rail">Check price on Amazon</a>
+    <span class="product-note article-rail-note">As an Amazon Associate we earn from qualifying purchases. Price &amp; availability shown on Amazon.com.</span>
+  </div>
+</aside>
+{{- end -}}

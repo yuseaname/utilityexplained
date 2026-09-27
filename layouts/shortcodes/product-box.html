@@ -9,6 +9,11 @@
 {{- $page.Scratch.Set "affiliate_count" (add $count 1) -}}
 {{- $position := $page.Scratch.Get "affiliate_count" -}}
 {{- $visual := index .Site.Data.product_images $asin -}}
+{{- if not ($page.Store.Get "sidebar_pick") -}}
+  {{- /* First product-box on the page = the page's top pick; feeds the
+         desktop sticky rail (see partials/sidebar-pick.html). */ -}}
+  {{- $page.Store.Set "sidebar_pick" (dict "asin" $asin "name" $name "label" $label "desc" $desc "tag" $tag) -}}
+{{- end -}}
 <div class="product-box{{ with $visual }} has-product-visual{{ end }}">
   <div class="product-copy">
     {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}
