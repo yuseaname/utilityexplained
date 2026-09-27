@@ -1,0 +1,21 @@
+{{- /* infeed-slot.html — mobile in-feed product slot (Phase 2b, 2026-09-27).
+   AdSense-in-feed pattern with our own product instead of an ad: a compact
+   horizontal card injected between article paragraphs. Hidden on desktop
+   (>=1024px keeps the sticky rail — no double conversion surfaces); shown
+   only below 1024px via .infeed-slot CSS rules. Tracking:
+   format=infeed, position=slot-N, so mobile slot performance is separable
+   from rail + inline in Rybbit. */ -}}
+{{- $p := .pick -}}
+{{- $i := .i -}}
+<div class="infeed-slot" aria-label="Recommended product">
+  <div class="infeed-card">
+    <div class="infeed-copy">
+      <span class="infeed-kicker">Our pick{{ if gt $i 0 }} #{{ add $i 1 }}{{ end }}</span>
+      <strong class="infeed-name">{{ $p.name }}</strong>
+      {{ with $p.label }}<span class="infeed-label">{{ . }}</span>{{ end }}
+      {{ with $p.desc }}<p class="infeed-desc">{{ . }}</p>{{ end }}
+      <a class="product-cta infeed-cta" href="https://www.amazon.com/dp/{{ $p.asin }}?tag={{ $p.tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $p.asin }}" data-rybbit-prop-destination="{{ $p.asin }}" data-rybbit-prop-format="infeed" data-rybbit-prop-position="slot-{{ add $i 1 }}">Check price on Amazon</a>
+      <span class="product-note infeed-note">As an Amazon Associate we earn from qualifying purchases. Price &amp; availability shown on Amazon.com.</span>
+    </div>
+  </div>
+</div>

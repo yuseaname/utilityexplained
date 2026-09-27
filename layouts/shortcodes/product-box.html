@@ -14,6 +14,12 @@
          desktop sticky rail (see partials/sidebar-pick.html). */ -}}
   {{- $page.Store.Set "sidebar_pick" (dict "asin" $asin "name" $name "label" $label "desc" $desc "tag" $tag) -}}
 {{- end -}}
+{{- /* All distinct picks feed the mobile in-feed slots (partials/infeed-slot.html);
+       dedup by ASIN so a repeated box doesn't fill two slots. */ -}}
+{{- $allPicks := $page.Store.Get "picks" | default slice -}}
+{{- if not (where $allPicks "asin" $asin) -}}
+  {{- $page.Store.Set "picks" ($allPicks | append (dict "asin" $asin "name" $name "label" $label "desc" $desc "tag" $tag)) -}}
+{{- end -}}
 <div class="product-box{{ with $visual }} has-product-visual{{ end }}">
   <div class="product-copy">
     {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}

@@ -513,3 +513,89 @@
   line-height: 1.45;
   color: #8a7a5c;
 }
+
+/* ----------------------------------------------------------------------------
+   IN-FEED PRODUCT SLOTS — mobile (Phase 2b, 2026-09-27)
+   AdSense-in-feed pattern with our own picks: compact horizontal cards
+   between paragraphs. Hidden on desktop (>=1024px) where the sticky rail
+   already converts; visible only below 1024px.
+   ---------------------------------------------------------------------------- */
+
+.infeed-slot { display: block; }
+
+@media (min-width: 1024px) {
+  .infeed-slot { display: none; }
+}
+
+.infeed-card {
+  margin: 1.75rem 0;
+  padding: 1rem 1.1rem 0.9rem;
+  border: 1px solid var(--color-line, #d7cdbb);
+  border-radius: var(--radius-lg, 12px);
+  background: #fffdf8;
+  box-shadow: 0 8px 24px -12px rgba(49, 39, 20, 0.16);
+}
+
+.infeed-kicker {
+  display: inline-block;
+  margin-bottom: 0.4rem;
+  padding: 0.15rem 0.6rem;
+  background: var(--color-accent-200, #f5d98e);
+  border-radius: 999px;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #5c4a1e;
+}
+
+.infeed-name {
+  display: block;
+  margin: 0 0 0.25rem;
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: #1f2937;
+}
+
+.infeed-label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #6b5b33;
+  margin-bottom: 0.4rem;
+}
+
+.infeed-desc {
+  margin: 0 0 0.85rem;
+  color: #4b5563;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.infeed .infeed-cta, .infeed-card .infeed-cta {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  background: var(--color-accent-500, #e8a33d);
+  color: #20141f;
+  font-weight: 700;
+  border-radius: var(--radius-lg, 10px);
+  text-decoration: none;
+  transition: background 0.18s ease;
+  box-shadow: 0 4px 14px -2px rgba(232, 163, 61, 0.45);
+}
+.infeed-card .infeed-cta:hover { background: var(--color-accent-400, #ebb23a); }
+
+.infeed-card .infeed-note {
+  display: block;
+  margin-top: 0.6rem;
+  font-size: 0.66rem;
+  line-height: 1.45;
+  color: #8a7a5c;
+}

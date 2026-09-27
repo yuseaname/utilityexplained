@@ -76,7 +76,37 @@
 
   {{/* Article Content — AdSense mid-article zone removed 2026-08-23 (ADR-006 affiliate pivot) */}}
   <div class="article-content">
-  {{ .Content }}
+  {{- $content := .Content -}}
+  {{- $picks := .Store.Get "picks" | default slice -}}
+  {{- if and (eq .Section "blog") (gt (len $picks) 0) -}}
+    {{- /* Mobile in-feed product slots (Phase 2b): AdSense-in-feed pattern with
+           our own picks. Split rendered content on paragraph closes, inject up
+           to 3 slot cards at fractional depths (0.33 / 0.66 / 0.88), skipping
+           positions that would land inside the last 10% where Related Guides
+           and CTAs already live. Server-side: works without JS, crawler-safe,
+           and shortcodes inside .Content have already run by now — so the
+           picks Store is complete when this executes. */ -}}
+    {{- $parts := split $content "</p>" -}}
+    {{- $n := len $parts -}}
+    {{- if gt $n 8 -}}
+      {{- $slots := slice 0.33 0.66 0.88 -}}
+      {{- $out := "" -}}
+      {{- range $idx, $part := $parts -}}
+        {{- $out = printf "%s%s" $out $part -}}
+        {{- /* div on two ints = integer division (always 0) — force float */ -}}
+        {{- $depth := div (float (add $idx 1)) (float $n) -}}
+        {{- $isLast := eq (add $idx 1) $n -}}
+        {{- range $si, $f := $slots -}}
+          {{- if and (not $isLast) (ge (sub $depth $f) 0) (lt (sub $depth $f) (div (float 1.0) (float $n))) (lt $si (len $picks)) -}}
+            {{- $out = printf "%s</p>%s" $out (partial "infeed-slot.html" (dict "pick" (index $picks $si) "i" $si)) -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if not $isLast -}}{{- $out = printf "%s</p>" $out -}}{{- end -}}
+      {{- end -}}
+      {{- $content = $out -}}
+    {{- end -}}
+  {{- end -}}
+  {{ $content | safeHTML }}
   </div>
   {{/* FAQPage JSON-LD emitted here (same render pass, after content = deterministic;
          the old head.schema Store read raced content rendering — Atlas R8) */}}
