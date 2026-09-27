@@ -10,7 +10,7 @@ categories: ["Heating & Cooling"]
 tags: ["space heater", "heating cost", "electricity cost", "zone heating"]
 keywords: ["space heater cost per hour", "how much does a space heater cost to run", "1500 watt heater electricity cost", "space heater monthly cost", "zone heating vs furnace"]
 image: "/images/articles/space-heater-running-cost/space-heater-running-cost_hero.webp"
-image_alt: "Technical line illustration of a portable space heater beside a wall thermostat, with a watts-to-dollars cost formula, in charcoal lines on graph paper with one amber accent."
+image_alt: "Editorial photograph of a portable space heater beside a wall thermostat, with a watts-to-dollars cost formula."
 sources:
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03
   - https://www.eia.gov/electricity/monthly/update/end-use.php
@@ -51,6 +51,8 @@ Multiply them: watts ÷ 1,000 gives kW; kW × rate gives $/hour; $/hour × hours
 | **1,500 W (high, standard)** | **$0.275** | **$2.20** | **$66** |
 | 1,500 W at real ~50% duty cycle | $0.138 avg | $1.10 | $33 |
 
+{{< visual src="/images/articles/space-heater-running-cost/cost-per-wattage-ladder.webp" alt="Bar chart of per-hour cost by heater wattage from 200 W to 1,500 W." wide="true" >}}
+
 The last row is the honest one: a heater holding a 65–70°F room in typical winter conditions runs its element roughly half the time once the room is warm, so real monthly costs land nearer $33–50 than the headline $66. Use the table's full-power rows as the ceiling, the duty-cycled row as the likely floor, and your [smart-meter data](/blog/how-to-read-electric-meter/) to check afterward — the meter never rounds in your favor.
 
 ## The state-rate spread: same heater, 4× the bill
@@ -65,6 +67,8 @@ The last row is the honest one: a heater holding a 65–70°F room in typical wi
 | High (CA, MA, CT, NH, ME band) | 28–35¢ | $0.42–0.53 | $101–126 |
 | Highest (HI) | 52.72¢ | $0.79 | $190 |
 
+{{< visual src="/images/articles/space-heater-running-cost/state-rate-spread.webp" alt="Same 1,500 W heater's hourly cost across state rate bands, Nevada cheapest to Hawaii most expensive." wide="true" >}}
+
 Two honest notes on this table. First, state averages hide intra-state spread — a neutral "delivery charge" re-pricing or a rural co-op can move your rate 20% from the state line figure, which is why the formula beats any table. Second, if you are on a time-of-use plan, the same hour at 9pm can cost a third of what it costs at 7pm; [how time-of-use rates work](/blog/08-time-of-use-electricity/) shows how to read your plan's peak windows and shift heater hours into the cheap ones.
 
 ## Thermostat, duty cycle, and the "bill shock" gap
@@ -74,6 +78,8 @@ The most common gap between calculated and actual cost is not the rate — it is
 - **Thermostat setting.** Every degree lower on the heater's dial shrinks the on-fraction. Holding 65°F instead of 72°F in a moderately insulated room can cut element-on time by a quarter or more.
 - **Room size and insulation.** A 1,500 W heater holding a small bedroom warm cycles off often; the same heater in an open living-kitchen runs nearly continuously. A [drafty room](/blog/how-to-find-and-seal-drafts-in-your-home/) keeps the element on far longer than the insulation level alone would suggest — sealing beats heating.
 - **What's behind the door.** Zone heating works because the rest of the house is cooler. If the central system is running anyway, the marginal math changes — that is the next section.
+
+{{< visual src="/images/articles/space-heater-running-cost/duty-cycle-curve.webp" alt="Element-on timeline comparing a heater running non-stop versus thermostat cycling at about half duty." wide="true" >}}
 
 The verification move costs nothing: read your meter (or utility portal) before and after a heater day, then compare against the table. Ten minutes, and you'll know your true duty cycle instead of estimating it. The full method is in [how to read an electric meter](/blog/how-to-read-electric-meter/), including the one-hour load test that works for any appliance.
 
@@ -88,6 +94,8 @@ The zone-heating comparison, done honestly:
 | Central furnace, whole house at 70°F | All heated volume, all day | Highest — the baseline you're comparing against |
 | Furnace at 62°F + one 1,500 W room heater 4–6 h/evening | Reduced whole-home + one room in the evening | Often $20–60/mo below whole-house-at-70 |
 | Heater only, no central system | One room only | The $33–66 table above — cheapest if you genuinely use one room |
+
+{{< visual src="/images/articles/space-heater-running-cost/zone-vs-whole-house.webp" alt="Photographic split scene of whole-house heating versus zone heating one occupied room." wide="true" >}}
 
 Three cautions before you commit to the heater-only row. A single 1,500 W unit cannot hold a large or open-plan space at 70°F in cold climates — undersized zone heating quietly becomes comfort sacrifice, not savings. Plumbing in unheated parts of the house needs protection from freeze damage. And if your "one room" is where the bed is, an electric blanket heats the person for about a tenth of the heater's watts — the [blanket-vs-heater math](/blog/electric-blanket-vs-space-heater-cost/) covers it with numbers.
 
