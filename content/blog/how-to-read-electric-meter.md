@@ -3,7 +3,7 @@ title: "How to Read an Electric Meter (Dial & Digital Guide)"
 slug: "how-to-read-electric-meter"
 description: "Learn how to record an electric-meter reading, compare it with a bill, and ask your utility about meter-specific details."
 date: 2025-12-25
-updated: 2026-09-06
+updated: 2026-09-26
 author: "Margaret Harrington"
 category: "Electricity"
 categories: ["Electricity"]
@@ -172,6 +172,41 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               typical, see <a href="/blog/11-understanding-kwh-usage/">understanding kWh usage: what a normal month looks like</a>.
             </p>
 
+
+## Test your meter's accuracy yourself {#accuracy-test}
+
+<p>
+              If your calculated usage does not match the bill — or usage jumped
+              with no change in habits — you can test the meter with a load of
+              known size before paying for a utility test:
+</p>
+<ol>
+              <li>Read the meter, then leave everything off except one appliance
+              with a labeled wattage (a 1,500 W space heater or kettle works).</li>
+              <li>Run it for exactly one hour.</li>
+              <li>Read the meter again. A 1,500 W load for one hour should add
+              about 1.5 kWh to the register.</li>
+            </ol>
+<p>
+              A small deviation (a few percent) is normal meter tolerance. A
+              large one — or a reading that moves with the main breaker off — is
+              grounds to request a meter test. Most utilities will test a
+              residential meter for free or for $5–25 on request, and several
+              states require them to correct bills when the meter is proven
+              fast. The full escalation path, including the paper trail to keep,
+              is in <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">sudden spike in electricity bill with no usage change</a>.
+            </p>
+<p>
+              Want to go one step further and see <em>which device</em> is using
+              the electricity, not just how much the whole house used? Plug-in
+              meters like the Kill A Watt measure individual appliances — see
+              <a href="/blog/kill-a-watt-alternatives/">Kill A Watt alternatives</a>
+              — and whole-home energy monitors track every circuit in real time;
+              the current options are compared in
+              <a href="/blog/best-home-energy-monitor-2026/">the best home energy monitors</a>.
+              The same reading discipline from this page is what makes those
+              tools useful: your meter is the reference they are checked against.
+            </p>
 
 ## How to verify your bill using the meter {#verify-bill}
 

@@ -53,7 +53,7 @@ Gather copies of the current statement, a comparable earlier statement, the appl
 | Payment evidence | Date, amount, confirmation, and account reference |
 | Meter evidence | Only if safely obtained and allowed by the provider |
 
-Con Edison explains that customers can submit a meter reading in certain circumstances to avoid an estimated bill; use your own provider's instructions because its process may differ.[2]
+Con Edison explains that customers can submit a meter reading in certain circumstances to avoid an estimated bill; use your own provider's instructions because its process may differ.[2] Our [guide to reading an electric meter](/blog/how-to-read-electric-meter/) shows how to take a defensible reading, including the load test that proves whether the register itself is accurate.
 
 ### Ask for an Account-Specific Calculation
 

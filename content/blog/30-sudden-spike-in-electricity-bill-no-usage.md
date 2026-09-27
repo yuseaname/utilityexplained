@@ -191,7 +191,7 @@ Meter malfunctions are rare but do happen. Smart meters (AMI meters) can occasio
 If you suspect a meter malfunction, you can:
 
 1. **Request a meter test:** Most utilities will test your meter for free or a small fee (<strong>$5–$25</strong>). The utility removes the meter, tests it in their lab, and replaces it with a tested meter.
-2. **Monitor your own usage:** Track your daily meter readings for a week and compare them to the utility's reported daily usage. If there is a consistent discrepancy, the meter may be faulty.
+2. **Monitor your own usage:** Track your daily meter readings for a week and compare them to the utility's reported daily usage. If there is a consistent discrepancy, the meter may be faulty. Not sure how to take or interpret the readings? Start with [how to read an electric meter](/blog/how-to-read-electric-meter/), including the one-hour load test for meter accuracy.
 3. **File a complaint with the PUC:** If the utility refuses to test the meter or you disagree with the results, your state public utility commission can order an independent test.
 
 ## Step 10: Check for Electrical Problems in Your Home
