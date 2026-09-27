@@ -68,7 +68,7 @@ sources:
 <p>On many digital "smart" meters, you may not see a physical indicator. Instead, the display may show a flow icon, a leak alert, or a real-time flow rate in gallons per minute.</p>
 
 ## Leak indicator types by meter {#meter-types}
-<p>Indicator styles vary by region and meter age. If yours looks different, use the diagram or instructions from the utility that installed it. EPA WaterSense also provides consumer guidance on leak-detection and flow-monitoring devices.</p>
+<p>Indicator styles vary by region and meter age. If yours looks different, use the diagram or instructions from the utility that installed it. EPA WaterSense also provides consumer guidance on leak-detection and flow-monitoring devices. Once the indicator confirms flow, [who pays for the repair depends on which side of the meter it's on](/blog/who-responsible-water-leak-before-after-meter/).</p>
 
 ## Common false alarms (things that sip water) {#false-alarms}
 <p>Sometimes the meter is telling the truth, but it is not a "leak" in the scary sense. It is a device using a little water in the background.</p>

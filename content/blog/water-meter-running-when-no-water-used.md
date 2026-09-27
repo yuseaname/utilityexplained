@@ -86,7 +86,7 @@ A meter that keeps running with the house valve closed means water is escaping b
 - Cracks in the foundation or doors that suddenly stick
 - The sound of running water where nothing is on — listen at the foundation at night
 
-This can require professional help. Contact your water utility to confirm the responsibility boundary and ask whether it has a leak-adjustment policy; local rules vary.
+This can require professional help. Contact your water utility to confirm the responsibility boundary and ask whether it has a leak-adjustment policy; local rules vary. The full boundary map — utility side vs. your side, plus the escalation path when the answer is contested — is in [who's responsible for a water leak, before or after the meter](/blog/who-responsible-water-leak-before-after-meter/).
 
 ## Whose Problem Is It? The Meter Draws the Line
 
