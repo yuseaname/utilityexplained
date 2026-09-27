@@ -39,6 +39,8 @@ Every property with a municipal water connection has the same four-part anatomy.
 | **The meter** | The meter body itself and its fittings | Utility |
 | Service line from meter to house + all indoor plumbing | The pipe under your yard, into and through your house | **You** |
 
+{{< visual src="/images/articles/who-responsible-water-leak-before-after-meter/boundary-map.webp" alt="Photograph of a residential service-line trench running from a curbside meter to a house, overlaid with the four water-service segments and the point where responsibility flips from utility to homeowner." wide="true" >}}
+
 Three wrinkles worth knowing before you point a finger:
 
 - **"Before the meter" is not the same as "before your property line."** In most jurisdictions the utility's responsibility ends at the meter, even when the meter sits at the street — meaning the entire yard run is yours. But some utilities own further (to a curb stop valve), and some municipal codes push responsibility back to the property line even without a meter there. The only authoritative answer is your own utility's service-line policy, usually a one-page document on its website.
@@ -54,6 +56,8 @@ You rarely need to excavate to know which side of the meter a leak is on. The me
 3. **Reverse it:** house valve open, all fixtures off, meter still moving — the flow is inside or under your house.
 4. **Photo everything:** the meter reading, the moving indicator, the valve position, the wet spot or box condition. Timestamped photos are your entire case file if the boundary is disputed later.
 
+{{< visual src="/images/articles/who-responsible-water-leak-before-after-meter/shutoff-test-flow.webp" alt="Photographic two-panel water-meter and shutoff-valve test: a meter still moving with the house valve closed points to the utility side, while a meter stopping at the house valve points to the homeowner side." wide="true" >}}
+
 If the meter stops the moment you close your house valve, the mystery flow is on your side of that valve — under the yard or in the house. That's when the [meter-vs-main-valve isolation walkthrough](/blog/water-meter-running-when-no-water-used/) narrows it further, and when you start collecting plumber quotes rather than utility claims.
 
 ## What "yours" costs when it's the underground service line
@@ -65,6 +69,8 @@ The bill homeowners don't see coming: the yard run of pipe is your responsibilit
 - **Homeowners insurance usually does not cover the line itself.** Standard policies typically exclude service-line repair; some insurers sell it as a cheap add-on rider. If you have a long yard run of aging pipe, that rider is worth a phone call — ideally before the leak, not after. [6]
 - **Sewer laterals are a separate but parallel trap.** The same before/after logic applies to the sewer side, with the same insurance exclusion. [How sewer charges work](/blog/how-sewer-charges-work-on-your-water-bill/) explains which side of that bill you can influence.
 
+{{< visual src="/images/articles/who-responsible-water-leak-before-after-meter/service-line-cost.webp" alt="Photograph of a compact excavator beside an exposed underground water service line, overlaid with a 990 dollar average repair cost, a 350 to 1,665 dollar typical range, and 75 to 150 dollars per hour plumber labor." wide="true" >}}
+
 ## When the utility says "not ours" — the escalation path
 
 Utilities state their own rule, and their frontline answer is not always the last word — especially when the leak sits in the boundary's gray zones. The differentiation gap this page exists to fill:
@@ -73,6 +79,8 @@ Utilities state their own rule, and their frontline answer is not always the las
 2. **Present your meter evidence, not your opinion.** The timestamped photos from the 10-minute test show exactly where flow was isolated. If the meter was replaced or re-read recently, note it — meter work is sometimes the cause of fitting leaks that appear days later.
 3. **Ask about leak-adjustment policy.** Many utilities will credit part of the bill for water lost through an underground leak you repaired — typically one billing period's excess over your average, once, after proof of repair. This is the money conversation, and it's separate from who fixes the pipe. (The full letter-template process is coming in our leak-adjustment guide.)
 4. **State PUC/public-works complaint** is the backstop if the utility refuses to engage: most states let you file without a lawyer, and the threat of a regulator reading the file often unblocks a stalled determination.
+
+{{< visual src="/images/articles/who-responsible-water-leak-before-after-meter/escalation-ladder.webp" alt="Photograph of a homeowner documenting an open curbside water meter with a smartphone, overlaid with a four-step escalation path from phone answer to state PUC complaint." wide="true" >}}
 
 ## Season's warning: the freeze months are when this page matters most
 
