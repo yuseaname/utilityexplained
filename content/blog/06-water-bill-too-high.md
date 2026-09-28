@@ -177,7 +177,7 @@ Water is flowing somewhere else — irrigation lines, service-line leaks, or a s
 
 {{< faq "Can I get a high bill adjusted after a leak?" >}}
 
-Many utilities offer a one-time leak adjustment if you document the repair, but policies are local. Ask your provider what documentation it requires — before paying a bill you believe a leak caused, and before assuming any adjustment exists.
+Many utilities offer a one-time leak adjustment if you document the repair, but policies are local. Ask your provider what documentation it requires — before paying a bill you believe a leak caused, and before assuming any adjustment exists. The full policy terms, evidence checklist, and request letter are in our [leak-adjustment guide](/blog/water-bill-leak-adjustment-how-to-get-credit/).
 
 {{< /faq >}}
 
