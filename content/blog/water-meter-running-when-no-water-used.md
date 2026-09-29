@@ -81,6 +81,8 @@ If the sensors come up dry but the meter keeps running, the leak is underground 
 
 A meter that keeps running with the house valve closed means water is escaping between the meter box and your foundation. Signs to look for:
 
+(If the water is *inside* the meter box rather than moving through the meter, that's a different diagnosis — the [wet meter box decision tree](/blog/water-meter-box-full-of-water/) covers rain vs. leak vs. utility-side seepage.)
+
 - Unusually green, soggy, or sunken patches in the yard between the meter and house
 - Warm spots on the floor (hot-line slab leaks)
 - Cracks in the foundation or doors that suddenly stick

@@ -44,7 +44,7 @@ Every property with a municipal water connection has the same four-part anatomy.
 Three wrinkles worth knowing before you point a finger:
 
 - **"Before the meter" is not the same as "before your property line."** In most jurisdictions the utility's responsibility ends at the meter, even when the meter sits at the street — meaning the entire yard run is yours. But some utilities own further (to a curb stop valve), and some municipal codes push responsibility back to the property line even without a meter there. The only authoritative answer is your own utility's service-line policy, usually a one-page document on its website.
-- **The meter box itself is a gray zone.** The lid, box, and fitting repairs are commonly utility territory even when the surrounding pipe is yours. A meter box standing full of water is often the utility's maintenance issue, not a plumbing emergency — but the pipe joints on either side of the meter follow the ownership rule above.
+- **The meter box itself is a gray zone.** The lid, box, and fitting repairs are commonly utility territory even when the surrounding pipe is yours. A meter box standing full of water is often the utility's maintenance issue, not a plumbing emergency — the [full rain-vs-leak decision tree](/blog/water-meter-box-full-of-water/) sorts which — but the pipe joints on either side of the meter follow the ownership rule above.
 - **Private wells and HOA/community systems rewrite everything.** With a well, you own all of it. In an HOA or shared system, the bylaws decide. Ask for the service-territory map in writing.
 
 ## The 10-minute test that settles "which side is it on?"
