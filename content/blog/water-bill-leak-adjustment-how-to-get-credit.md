@@ -28,7 +28,9 @@ This page is step 2 of the sequence: the leak is diagnosed ([meter running with 
 
 ## What a leak-adjustment policy actually says
 
-Policies differ by utility, but the pattern is remarkably consistent. Two real published policies, side by side:
+The pattern is remarkably consistent. Two real published policies, side by side:
+
+{{< visual src="/images/articles/water-bill-leak-adjustment-how-to-get-credit/policy-table.webp" alt="Side-by-side card of two published utility leak-adjustment policies — LADWP and Harris County MUD #365 — and the common pattern across eligibility, exclusions, credit basis, filing window, proof, and decision time." wide="true" >}}
 
 | Term | LADWP (Los Angeles) | Harris County MUD #365 | The common pattern |
 |---|---|---|---|
@@ -50,6 +52,8 @@ Why the exclusions make sense once you see them: a toilet that runs for months i
 
 Nearly every policy credits the *excess* — your spike-month usage minus your normal usage for that season — never the full bill. A worked example with round numbers:
 
+{{< visual src="/images/articles/water-bill-leak-adjustment-how-to-get-credit/credit-math.webp" alt="Waterfall chart of the leak-adjustment credit calculation: normal month 7 units at $31.50 rising to leak month 25 units at $112.50, the 18-unit excess at $81.00, and the half-rate credit of $40.50." wide="true" >}}
+
 | Line | Usage | At $4.50 per unit (CCF) |
 |---|---|---|
 | Your normal month (seasonal average) | 7 units | $31.50 |
@@ -67,6 +71,8 @@ Two details that change the arithmetic:
 ## The evidence checklist (collect before you write)
 
 The letter is the easy part. Approvals hinge on the attachments:
+
+{{< visual src="/images/articles/water-bill-leak-adjustment-how-to-get-credit/evidence-file.webp" alt="Illustration of the five-document leak-adjustment evidence file: repair invoice, contested bill, baseline usage sheet, meter photo, and repair photos." wide="true" >}}
 
 1. **The repair invoice or plumber's statement** — with date, address, type of repair, and cost. A parts receipt with photos of the repair can substitute for DIY fixes; one utility accepts a statement signed by two employees for in-house maintenance — the standard is *verifiable documentation of what was fixed and when*. [2]
 2. **The bill(s) you're contesting** — copies, annotated if you like.
@@ -135,6 +141,8 @@ Adjust the bracketed facts, never the structure — the numbered claims map dire
 ## If the answer is no
 
 A denial is usually one of four things, each with a next move:
+
+{{< visual src="/images/articles/water-bill-leak-adjustment-how-to-get-credit/four-denials.webp" alt="Four denial reasons and their response paths: ineligible leak type ends at a dead end, missing documentation loops back to resubmit, out of window leads to a waiver or PUC complaint, and no policy leads to a payment plan." wide="true" >}}
 
 - **"Ineligible leak type"** (toilet, faucet, sprinkler head) — the policy is the policy; the honest path is prevention (below), not appeal.
 - **"Missing documentation"** — the most winnable denial. Get the plumber to reissue the invoice with date and scope, resubmit.
