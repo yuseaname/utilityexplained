@@ -1,7 +1,7 @@
 ---
 title: "Tiered Water Rates: Why Using More Costs More"
 slug: "tiered-water-rates-explained"
-description: "Tiered water pricing charges you more per gallon as you use more. Learn how tiers work with real 2026 rate tables, how to read your bill, and how to stay in the lower tiers."
+description: "Tiered electricity rates charge more per kWh above each tier threshold. See how tiers work, where the jumps land, and how to stay in the cheap tier."
 date: 2026-05-27
 updated: 2026-08-29
 author: "Margaret Harrington"

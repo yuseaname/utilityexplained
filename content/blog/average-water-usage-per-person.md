@@ -1,7 +1,7 @@
 ---
 title: "How to Calculate Water Use Per Person From Your Bill"
 slug: "average-water-usage-per-person"
-description: "Calculate a household water-use snapshot from your own bill, billing days, household count, and local rate structure instead of using a generic daily target."
+description: "The average American uses about 82 gallons of water a day at home. See the per-person breakdown by fixture and how your household compares to the norm."
 date: 2025-12-27
 updated: 2026-08-29
 author: "Margaret Harrington"

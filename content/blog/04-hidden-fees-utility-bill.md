@@ -1,7 +1,7 @@
 ---
 title: "Every Charge on Your Utility Bill, Explained"
 slug: "04-hidden-fees-utility-bill"
-description: "Use this page as the launching pad for the site's fee-explainers: a 7-row table of the charges you may see, how each is calculated, how to spot it on your statement, and where to read more."
+description: "Hidden fees on your utility bill — rider charges, franchise fees, minimum bills — where each comes from and which ones you can actually get removed."
 date: 2026-03-07
 updated: 2026-08-30
 author: "Tanya Patterson"

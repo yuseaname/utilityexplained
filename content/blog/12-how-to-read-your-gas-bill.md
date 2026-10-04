@@ -2,7 +2,7 @@
 title: "How to Read Your Gas Bill (Therms, CCF, Fees Explained)"
 slug: "12-how-to-read-your-gas-bill"
 aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/", "/blog/43-understand-natural-gas-bill-charges/"]
-description: "Read a gas bill by checking its meter information, usage units, and itemized charges against the serving utility's current tariff — then compare like months against like months."
+description: "How to read your gas bill line by line: therms used, delivery versus supply charges, and every fee that hides the real price you pay for gas."
 date: 2026-03-16
 updated: 2026-08-29
 author: "Margaret Harrington"

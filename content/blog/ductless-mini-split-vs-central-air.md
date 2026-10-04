@@ -1,7 +1,7 @@
 ---
 title: "Ductless Mini-Split vs Central Air: How to Compare Systems"
 slug: "ductless-mini-split-vs-central-air"
-description: "Compare ductless and ducted HVAC proposals using the home's load calculation, duct condition, equipment match, and installation scope."
+description: "Ductless mini-split vs central air: the honest comparison — installation cost, efficiency, zoning control, and which system pays off for which house."
 date: 2025-12-25
 updated: 2026-08-29
 author: "Roberto Mendoza"

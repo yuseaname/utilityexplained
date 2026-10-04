@@ -1,7 +1,7 @@
 ---
 title: "How to Lower Your Electric Bill Without Solar"
 slug: "how-to-lower-electric-bill-without-solar"
-description: "Lower your electric bill without solar using verified measures ranked by leverage: thermostat setbacks, water heating, ducts and filters, standby loads, and your rate plan."
+description: "How do you lower your electric bill without solar? Verified measures ranked by leverage: thermostat setbacks, water heating, ducts, standby loads."
 date: 2025-12-25
 updated: 2026-08-30
 hero_below_answer: true

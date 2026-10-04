@@ -1,7 +1,7 @@
 ---
 title: "Best Home Energy Monitor in 2026: What to Buy After Sense's Exit"
 slug: "best-home-energy-monitor-2026"
-description: "Sense stopped selling monitors in 2025, so the 2026 best pick depends on your question: free utility data, metering smart plugs, or the Emporia Vue 3 for circuit-level whole-home data."
+description: "The best home energy monitors of 2026, picked for measurement accuracy and app quality — including what to buy now that Sense is discontinued."
 date: 2026-09-06
 updated: 2026-09-06
 author: "David Chen"

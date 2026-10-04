@@ -1,7 +1,7 @@
 ---
 title: "How Do Smart Meters Work? (And Should You Trust Them?)"
 slug: "how-do-smart-meters-work"
-description: "Learn what a smart meter can report, how to compare its reading with your bill, and which questions should go to your utility."
+description: "Smart meters report your usage hourly over a radio network, kill estimated bills, and enable time-of-use rates. Here's how the technology actually works."
 date: 2025-12-25
 hero_below_answer: true
 updated: 2026-08-29

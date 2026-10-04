@@ -1,7 +1,7 @@
 ---
 title: "How to Budget for Apartment Utilities (With Averages)"
 slug: "09-apartment-utilities-cost"
-description: "Build an apartment utility budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
+description: "How much do apartment utilities cost? Build a budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
 date: 2026-03-07
 hero_below_answer: true
 updated: 2026-08-29

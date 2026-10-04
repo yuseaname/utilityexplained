@@ -2,7 +2,7 @@
 title: "How to Read Your Electric Bill (Line by Line Guide)"
 slug: "01-how-to-read-your-electric-bill"
 aliases: ["/blog/41-how-to-read-electricity-bill/"]
-description: "Use your billing period, kWh, meter-read status, rate plan, and itemized charges to understand what an electric statement is telling you."
+description: "How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in ten minutes."
 date: 2026-03-07
 updated: 2026-09-06
 author: "Margaret Harrington"

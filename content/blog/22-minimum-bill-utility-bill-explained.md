@@ -1,7 +1,7 @@
 ---
 title: "How to Review a Minimum Charge on a Utility Bill"
 slug: "22-minimum-bill-utility-bill-explained"
-description: "What a utility minimum bill or minimum charge really is, with verified minimum clauses from Avista and PG&E tariffs, and how to check the floor on your own account."
+description: "A minimum bill charges you even when you use almost nothing. See why utilities set them, how they're calculated, and whether yours can be avoided."
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29

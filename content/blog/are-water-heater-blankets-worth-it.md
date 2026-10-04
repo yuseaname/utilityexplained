@@ -1,7 +1,7 @@
 ---
 title: "Are Water Heater Blankets Worth It? The Honest Math"
 slug: "are-water-heater-blankets-worth-it"
-description: "A water heater blanket is marginal on a modern factory-insulated tank and genuinely worthwhile on an older one. The honest math on standby loss, R-values, and when the $33 pays for itself."
+description: "Are water heater blankets worth it? Marginal on a modern tank, worthwhile on an older one — the honest math on standby loss and when the $33 pays off."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

@@ -1,7 +1,7 @@
 ---
 title: "Do Programmable Thermostats Cut Heating Bills?"
 slug: "do-programmable-thermostats-cut-heating-bills"
-description: "Use thermostat schedules that match when a home is occupied, and follow equipment guidance before applying setbacks."
+description: "Do programmable thermostats cut heating bills? DOE says up to 10% a year with a 7-10 degree setback — here's when that holds and when it doesn't."
 date: 2026-08-14
 updated: 2026-08-28
 author: "Margaret Harrington"

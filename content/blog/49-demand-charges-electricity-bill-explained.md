@@ -1,7 +1,7 @@
 ---
 title: "How to Review a Demand Charge on an Electricity Bill"
 slug: "49-demand-charges-electricity-bill-explained"
-description: "Identify a demand charge from the applicable tariff, distinguish billed demand from energy use, and obtain the account-specific calculation from the provider."
+description: "A demand charge bills your peak power draw in kW, not just total kWh. See how it's calculated, who gets one, and how one spike sets the whole month."
 date: 2026-05-30
 updated: 2026-08-29
 aliases: ["/blog/demand-charge-electric-bill-explained/"]

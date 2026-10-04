@@ -1,7 +1,7 @@
 ---
 title: "How to Review a Partial-Period Utility Bill"
 slug: "20-utility-bill-proration-explained"
-description: "How proration works on a partial-period utility bill, with a verified worked example from SMUD's tariff, and how to check your own statement's dates and math."
+description: "How does utility bill proration work? A verified worked example from SMUD's tariff, plus how to check your own statement's dates and the math."
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29

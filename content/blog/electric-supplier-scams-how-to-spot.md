@@ -1,7 +1,7 @@
 ---
 title: "Electric Supplier Scams: How to Spot and Stop Them"
 slug: "electric-supplier-scams-how-to-spot"
-description: "How to spot utility impostor calls, door-to-door supplier pitches, and slamming scams that switch your electric supplier without consent."
+description: "Utility supplier scams use door knocks, calls, and fake switching forms. The verified signs, what to check before signing, and how to report them."
 date: 2026-08-30
 updated: 2026-08-30
 author: "Tanya Patterson"

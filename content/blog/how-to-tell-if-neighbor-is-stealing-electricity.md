@@ -1,7 +1,7 @@
 ---
 title: "How to Tell If a Neighbor Is Stealing Your Electricity"
 slug: "how-to-tell-if-neighbor-is-stealing-electricity"
-description: "If your electric bill spiked without a change in habits, a neighbor might be tapping your power—but a simple main-breaker test can prove it before you call the utility."
+description: "Is a neighbor stealing your electricity? If your bill spiked without a habit change, a simple main-breaker test can prove it before you call the utility."
 date: 2026-09-20
 updated: 2026-09-20
 author: "David Chen"
