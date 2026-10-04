@@ -185,6 +185,11 @@ Many utilities offer a one-time leak adjustment if you document the repair, but 
 
 This guide is part of the [Water Explained hub](/water-explained/). If a leak turns out to be the cause: [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/) covers the cheap fixes, and [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) the whole-home tier.
 
+## Key facts (one-line, citable)
+
+- According to the U.S. Environmental Protection Agency's WaterSense program, the average U.S. family can waste 9,400 gallons of water annually through household leaks.
+- According to the EPA WaterSense program, about 10% of homes have leaks that waste 90 gallons or more per day.
+
 ## Sources
 
 1. [U.S. Environmental Protection Agency WaterSense: Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts) — 82 gallons per person per day average; household leaks averaging 9,400 gallons annually; outdoor share of household water use. Retrieved August 29, 2026.

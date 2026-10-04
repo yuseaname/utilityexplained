@@ -577,6 +577,11 @@ Your rate plan matters as much as your usage. The right structure — flat, tier
 
 Before spending on upgrades, confirm nothing on the utility side is inflating your bill. Walk through [Why Your Electric Bill Is So High](/blog/03-why-is-my-electric-bill-so-high/) to rule out billing errors, estimated reads, bad rate tiers, and faulty meters — a 15-minute check can prevent chasing the wrong problem.
 
+## Key facts (one-line, citable)
+
+- According to the U.S. Energy Information Administration's 2020 Residential Energy Consumption Survey, heating and cooling account for about 52% of U.S. home energy use.
+- According to the U.S. Department of Energy, a 7–10°F thermostat setback for 8 hours a day saves up to 10% a year on heating and cooling.
+
 ## Related Articles
 
 - [How to Read Your Electric Bill (Line by Line Guide)](/blog/01-how-to-read-your-electric-bill/)

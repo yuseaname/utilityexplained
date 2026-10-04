@@ -250,6 +250,11 @@ Once the spike is explained, keep it down: the [complete guide to lowering your 
 
 This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel — and if the spike traces back to water, [our water monitor comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers the whole-home side. For that whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 whole-home monitor" >}} puts a sensor on each breaker and shows per-circuit use in real time.
 
+## Key facts (one-line, citable)
+
+- According to the U.S. Energy Information Administration, the U.S. residential average electricity price was 18.34¢ per kWh in June 2026.
+- A single malfunctioning appliance — a failing water-heater element, a running well pump, or an aging refrigerator — can add 300–500 kWh (roughly $40–$75) to a monthly electric bill.
+
 ## Sources
 
 1. [ENERGY STAR: Heat & Cool Efficiently](https://www.energystar.gov/saveathome/heating-cooling) — filter maintenance guidance (retrieved 2026-08-29; replaces retired energy.gov/energysaver page).
