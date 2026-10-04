@@ -116,7 +116,7 @@ Water heating is typically the **second-largest gas expense** (15–25% of gas u
 
 - **Temperature set too high** — Many water heaters are set to 140°F by default. Lowering to 120°F saves 4–22% on water heating costs with no noticeable difference in comfort.
 - **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.
-- **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient.
+- **Old and inefficient** — Standard tank water heaters are 58–65% efficient. A tankless condensing model can be 95–98% efficient. If you're weighing the switch, [our tankless vs. tank comparison](/blog/tankless-vs-tank-water-heater/) runs the payback math by household size.
 - **Leaking T&P valve** — If the temperature and pressure relief valve is dripping, the heater is over-pressurizing and wasting hot water.
 - **No insulation blanket** — Wrapping an older tank-style heater with a $20–$40 insulation blanket cuts water-heating energy 4–9% (DOE/Energy Star); only pre-1980s uninsulated tanks see more.[4]
 

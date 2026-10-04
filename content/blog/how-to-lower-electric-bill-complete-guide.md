@@ -193,7 +193,7 @@ Your dishwasher uses 1–2 kWh per load.
 
 ### 7. Close Curtains/Blinds in Summer
 
-Sunlight pouring through windows adds heat. Your AC works harder to remove it.
+Sunlight pouring through windows adds heat. Your AC works harder to remove it. If you're cooling with a window or portable unit, [see what it actually costs to run per hour](/blog/how-much-does-it-cost-to-run-a-window-or-portable-ac/) before assuming it's the culprit.
 
 **Savings:** 5–15% on cooling costs
 
@@ -457,7 +457,7 @@ Most water heaters are set to 140°F by default. The U.S. Department of Energy r
 
 If your water heater is warm to the touch, it's losing heat.
 
-**Solution:** Wrap it in a water heater blanket (~$30–35) — [our water heater blanket guide](/blog/are-water-heater-blankets-worth-it/) runs the honest math on when that pays
+**Solution:** Wrap it in a water heater blanket (~$30–35) — [our water heater blanket guide](/blog/are-water-heater-blankets-worth-it/) runs the honest math on when that pays. And if your tank is past its service life, the [tankless vs. tank water heater comparison](/blog/tankless-vs-tank-water-heater/) shows when going tankless actually saves money.
 
 **Savings:** 4–7% on water heating = **$10–$25/year**
 **Payback:** **1–2 years** (sooner on older, thin-walled tanks)
