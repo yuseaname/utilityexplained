@@ -94,7 +94,7 @@ If you are a DIYer, a $5 kit from the hardware store can stop the waste immediat
 
 A drip often starts so slowly that you don't notice it until it has been running for weeks. This is why [why did my water bill suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) is such a common question. To catch these issues early, many homeowners are moving toward smart monitoring.
 
-If you want to be alerted the moment a leak starts under a sink or near a water heater, we recommend the Govee Water Leak Detectors. They are inexpensive, battery-operated, and loud enough to hear through cabinet doors.
+If you want to be alerted the moment a leak starts under a sink or near a water heater, we recommend the Govee Water Leak Detectors. They are inexpensive, battery-operated, and loud enough to hear through cabinet doors. (And if you're dripping the faucet *deliberately* to prevent a freeze tonight, that's a different calculation — the [keep-pipes-from-freezing ladder](/blog/how-to-keep-pipes-from-freezing/) explains why a pencil-thin drip is money well spent.)
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-Pack)" label="Best for Early Detection" description="A 5-pack of wireless leak sensors that sound a 100dB alarm when they detect water. Perfect for placing under kitchen sinks, behind toilets, and near water heaters to catch drips before they hit your bill." button="Check price on Amazon" >}}
 

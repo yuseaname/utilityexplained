@@ -50,7 +50,7 @@ Provide information about insulation, windows, ducts, air leakage, occupancy, eq
 | SEER2 | Heat pumps + AC (cooling) | Cooling output per watt-hour over the season | Federal minimum 14.3 for split heat pumps[1] |
 | AFUE | Furnaces | Percent of fuel converted to heat | Federal minimum 80%; ENERGY STAR requires ≥95% in the South, ≥97% in the North[3][4] |
 
-The 2023 switch from HSPF/SEER to HSPF2/SEER2 reflects a stricter federal test procedure—ratings from before 2023 are not directly comparable to today's numbers.[1] New to these terms entirely? The site's [AFUE vs SEER vs HSPF vs COP explainer](/blog/afue-vs-seer-vs-hspf-vs-cop/) decodes all four.
+The 2023 switch from HSPF/SEER to HSPF2/SEER2 reflects a stricter federal test procedure—ratings from before 2023 are not directly comparable to today's numbers.[1] New to these terms entirely? The site's [AFUE vs SEER vs HSPF vs COP explainer](/blog/afue-vs-seer-vs-hspf-vs-cop/) decodes all four. (Equipment tier matters too — a [single-stage vs two-stage vs variable-speed comparison](/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/) shows why the cheapest upfront system often costs the most to run.)
 
 ## Cold-Climate Reality Check
 

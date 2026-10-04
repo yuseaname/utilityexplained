@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Water Bill So High? Causes Ranked by Likelihood"
 slug: "06-water-bill-too-high"
-description: "Rank the likely causes of your high water bill — toilet leak, irrigation, rate change, meter error — and run the free tests in order before spending money."
+description: "Water bill jumped and nothing changed? The likely causes — leaks, rates, meter errors — ranked, with free tests to run in order before spending money."
 date: 2026-03-07
 updated: 2026-09-06
 author: "Tanya Patterson"

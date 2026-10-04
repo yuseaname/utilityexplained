@@ -27,7 +27,7 @@ Do not assume a winter-average method, irrigation exception, or universal sewer-
 
 {{< visual src="/images/articles/how-sewer-charges-work-on-your-water-bill/sewer-flow.webp" alt="Diagram showing water service flowing into a home and sewer service carrying wastewater away for treatment." wide="true" >}}
 
-**Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill. If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes.
+**Next step:** Since sewer charges are often tied to your water usage (in CCF), start with [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/) to understand the volume unit, then check your [water service charge](/blog/water-service-charge-explained/) for the fixed portion of your bill. If your sewer charge seems high, see [why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) for common causes — and if your sewer line is consistently *bigger* than your water line, [why your sewer bill is higher than your water bill](/blog/why-is-my-sewer-bill-higher-than-my-water-bill/) explains the treatment-vs-extraction math that makes that normal.
 
 ---
 

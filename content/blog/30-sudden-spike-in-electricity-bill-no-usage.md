@@ -1,5 +1,5 @@
 ---
-title: "Sudden Spike in Electricity Bill, No Usage Change"
+title: "Sudden Spike in Electricity Bill With No Usage Change"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Your electricity bill doubled overnight with no change in your habits. Learn the 12 most common causes of sudden bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28

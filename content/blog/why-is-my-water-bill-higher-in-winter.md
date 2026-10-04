@@ -108,6 +108,8 @@ Winter water bills rise most often because of a longer billing cycle,
 
 ## Freeze-thaw pipe stress and burst pipes {#freeze-thaw}
 
+The cheapest defense is stopping the freeze before it starts — the [pipe-freezing prevention ladder](/blog/how-to-keep-pipes-from-freezing/) ranks every fix from free-tonight to worth-it upgrades.
+
 <p>
               Water expands as it freezes, putting tremendous pressure on metal or
               plastic pipes [4]. Repeated freezing and thawing can stress water pipes,

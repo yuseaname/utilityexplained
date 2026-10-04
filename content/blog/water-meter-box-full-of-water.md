@@ -80,6 +80,8 @@ If the surfacing water is on your side of the meter — indicator spinning, and 
 
 ## The freeze-season version of this problem
 
+Winter is also when the pipes *leading to* the box are most at risk — if you're preparing for a hard-freeze forecast, the [keep-pipes-from-freezing ladder](/blog/how-to-keep-pipes-from-freezing/) covers the whole house side, from dripping the right faucet to heat cable on the chronic problem run.
+
 Box flooding clusters twice a year: spring rains, and freeze-thaw cycles. In cold-winter areas, standing water in a meter box is a freeze risk to the meter and the service-line fitting — water that freezes in the box can split fittings and the box itself, turning weather into a genuine leak. If your box stands wet through a hard-freeze forecast, that upgrades step 2 above to a same-week call: many utilities will pump or insulate a flood-prone box on request. A broken lid — the other freeze casualty — is also utility property to replace; don't improvise a cover that seals moisture in. [2]
 
 The cheap long-term upgrade for box-and-yard-run worries is a strap-on meter monitor: it reads the meter continuously and flags slow flow weeks before any box tells you — [point sensors vs. whole-home monitors](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/) compares the options.
