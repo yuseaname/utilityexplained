@@ -1,21 +1,38 @@
-{{- /* sidebar-pick.html — desktop sticky product rail (Phase 2, 2026-09-27).
-   Renders ONLY when the article's first product-box registered itself
-   (buyer-intent pages, ~57) and only in the lg+ CSS layout (hidden below
-   1024px via .article-rail rules in site-overrides.css — mobile keeps
-   inline CTAs). Content = the page's OWN #1 pick, verbatim from the
-   product-box data; full disclosure line included per Associates rules.
-   Tracking: format="sidebar" so rail vs inline cannibalization is
-   measurable in Rybbit events. */ -}}
+{{- /* sidebar-pick.html — desktop sticky sidebar (Phase 2 2026-09-27; RESTYLED 2026-10-04
+       per NN/g rail-blindness research: a boxed, ad-styled card earns ~0.8% of fixations.
+       New structure: (1) "On this page" TOC — the utility that trains users to scan the
+       rail (NN/g endorses sticky rail TOCs); (2) the top pick rendered content-native —
+       typography matching the article, no card box/border/shadow, plain-text disclosure,
+       editorial-style link CTA. Renders ONLY when the article's first product-box
+       registered itself (buyer-intent pages, ~57) and only at lg+ (CSS-gated; mobile
+       keeps inline CTAs). Tracking: format="sidebar" position="rail" unchanged so
+       pre/post-restyle CTR stays comparable in Rybbit. */ -}}
 {{- $pick := .Store.Get "sidebar_pick" -}}
 {{- with $pick -}}
-<aside class="article-rail" aria-label="Top pick sidebar">
-  <div class="article-rail-card">
-    <span class="article-rail-kicker">Our top pick</span>
+<aside class="article-rail" aria-label="Section navigation and top pick">
+  {{- with $.TableOfContents -}}
+    {{- $html := . | strings.TrimSpace -}}
+    {{- if strings.Contains $html "<li" -}}
+      {{- $clean := strings.Replace $html `<nav id="TableOfContents">` "" 1 -}}
+      {{- $clean = strings.Replace $clean `</nav>` "" 1 -}}
+      {{- $clean = strings.TrimSpace $clean -}}
+      {{- /* depth-limit: H2-level entries only — a long TOC pushes the pick below
+             the rail fold, defeating the rail's purpose. Strips the nested <ul>
+             that follows each H2 </a>, keeping the H2 entry itself. */ -}}
+      {{- $clean = replaceRE `(?s)(</a>)\s*<ul>.*?</ul>` `$1` $clean -}}
+  <nav class="article-rail-toc" aria-label="On this page">
+    <span class="article-rail-toc-title">On this page</span>
+    {{- $clean | safeHTML -}}
+  </nav>
+    {{- end -}}
+  {{- end -}}
+  <div class="article-rail-pick">
+    <span class="article-rail-eyebrow">Top pick for this guide</span>
     <strong class="article-rail-name">{{ .name }}</strong>
     {{ with .label }}<span class="article-rail-label">{{ . }}</span>{{ end }}
     {{ with .desc }}<p class="article-rail-desc">{{ . }}</p>{{ end }}
-    <a class="product-cta article-rail-cta" href="https://www.amazon.com/dp/{{ .asin }}?tag={{ .tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ .asin }}" data-rybbit-prop-destination="{{ .asin }}" data-rybbit-prop-format="sidebar" data-rybbit-prop-position="rail">Check price on Amazon</a>
-    <span class="product-note article-rail-note">As an Amazon Associate we earn from qualifying purchases. Price &amp; availability shown on Amazon.com.</span>
+    <a class="article-rail-link" href="https://www.amazon.com/dp/{{ .asin }}?tag={{ .tag }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ .asin }}" data-rybbit-prop-destination="{{ .asin }}" data-rybbit-prop-format="sidebar" data-rybbit-prop-position="rail">Check current price on Amazon &rarr;</a>
+    <span class="article-rail-note">We may earn a commission. Price &amp; availability shown on Amazon.com.</span>
   </div>
 </aside>
 {{- end -}}
