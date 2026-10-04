@@ -112,7 +112,7 @@ Your furnace may be working correctly, but you're losing heat through:
 
 ### 5. Gas water heater waste
 
-Water heating is typically the **second-largest gas expense** (15–25% of gas usage). According to the U.S. Department of Energy, water heating accounts for about 20% of utility bills overall.[4] Common waste sources:
+Water heating is typically the **second-largest gas expense** (15–25% of gas usage). (To price your own furnace's runtime, [furnace cost per hour](/blog/how-much-does-it-cost-to-run-a-furnace/) works it from the rating plate; and if the burner seems to run nonstop, [why is my furnace running constantly](/blog/why-is-my-furnace-running-constantly/) ranks the causes.) According to the U.S. Department of Energy, water heating accounts for about 20% of utility bills overall.[4] Common waste sources:
 
 - **Temperature set too high** — Many water heaters are set to 140°F by default. Lowering to 120°F saves 4–22% on water heating costs with no noticeable difference in comfort.
 - **Sediment buildup** — Minerals settle at the bottom of the tank, creating an insulating layer between the burner and water. Flush the tank annually.

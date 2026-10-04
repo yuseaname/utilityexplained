@@ -111,6 +111,8 @@ Stop using the system and call a professional if you observe:
 3. What evidence supports the diagnosis over other possible causes?
 4. What is included in the repair, and will the cycle behavior be verified after service?
 
+Related: if it's the *furnace* that runs constantly in heating season rather than short-cycling, see [why is my furnace running constantly](/blog/why-is-my-furnace-running-constantly/).
+
 ## Sources
 
 1. [U.S. Department of Energy Building Science Education: HVAC Preventative Maintenance](https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance)

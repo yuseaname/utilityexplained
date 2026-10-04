@@ -28,7 +28,7 @@ sources:
 
 `cost per hour = (watts ÷ 1,000) × your rate in $/kWh`
 
-Plug in your own bill's rate — the national average is nearly meaningless in Nevada (13.11¢) versus Hawaii (52.72¢), where the same hour costs $0.20 versus $0.79. This page is the math: per-wattage tables, the state spread, thermostat cycling, and the decision the formula exists for — when heating one room is cheaper than heating the whole house. For which heater to buy, that's a separate decision covered in [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/); for the ten-times-cheaper alternative for a bed, see [electric blanket vs space heater](/blog/electric-blanket-vs-space-heater-cost/).
+Plug in your own bill's rate — the national average is nearly meaningless in Nevada (13.11¢) versus Hawaii (52.72¢), where the same hour costs $0.20 versus $0.79. This page is the math: per-wattage tables, the state spread, thermostat cycling, and the decision the formula exists for — when heating one room is cheaper than heating the whole house. For the permanently-installed sibling, see [electric baseboard heater cost to run](/blog/electric-baseboard-heater-cost-to-run/). For which heater to buy, that's a separate decision covered in [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/); for the ten-times-cheaper alternative for a bed, see [electric blanket vs space heater](/blog/electric-blanket-vs-space-heater-cost/).
 
 ## The formula (and why it is the whole answer)
 
