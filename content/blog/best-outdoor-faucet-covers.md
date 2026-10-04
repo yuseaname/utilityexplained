@@ -1,7 +1,7 @@
 ---
 title: "Best Outdoor Faucet Covers (and Why a $7 Cover Beats a Burst Pipe)"
 slug: "best-outdoor-faucet-covers"
-description: "A $7 cover is cheaper than one burst pipe, but not every spigot needs one. The honest math on outdoor faucet covers, which to buy, and the 30-second install that makes freeze protection a no-brainer."
+description: "Best outdoor faucet covers: a $7 cover beats one burst pipe, but not every spigot needs one. The honest math and the 30-second install that protects it."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

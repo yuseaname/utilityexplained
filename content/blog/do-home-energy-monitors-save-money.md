@@ -1,5 +1,5 @@
 ---
-title: "Do Home Energy Monitors Save Money?"
+title: "Do Home Energy Monitors Save Money? The Honest Math"
 slug: "do-home-energy-monitors-save-money"
 description: "A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors see, what they miss, and when the free app is enough."
 date: 2026-08-30

@@ -1,5 +1,5 @@
 ---
-title: "Do Thermal Curtains Really Work?"
+title: "Do Thermal Curtains Really Work? The Honest Math"
 slug: "do-thermal-curtains-really-work"
 description: "Thermal curtains work through still air and fit, not fabric — what the DOE and AERC numbers measured, the hang rules that decide performance."
 date: 2026-08-30

@@ -1,7 +1,7 @@
 ---
 title: "Smart Thermostats on Time-of-Use Plans: Where the Savings Actually Come From"
 slug: "smart-thermostat-time-of-use-savings"
-description: "A smart thermostat doesn't lower your rate — it changes when you buy power. How automation intersects with time-of-use pricing, what the math really depends on, and which features matter."
+description: "A smart thermostat doesn't lower your rate — it changes when you buy power. How automation meets time-of-use pricing and what the math depends on."
 date: 2026-09-06
 updated: 2026-09-06
 author: "David Chen"

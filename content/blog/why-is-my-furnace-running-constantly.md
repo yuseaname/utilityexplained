@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Furnace Running Constantly? Causes Ranked"
 slug: "why-is-my-furnace-running-constantly"
-description: "A furnace that runs nonstop in cold weather is usually working normally — or fighting one of five fixable problems. Ranked causes, the bill impact, and the DIY-vs-pro line."
+description: "Why is my furnace running constantly? It is often normal in cold weather — or one of five fixable problems. Ranked causes and the DIY-vs-pro line."
 date: 2026-10-04
 updated: 2026-10-04
 author: "Margaret Harrington"

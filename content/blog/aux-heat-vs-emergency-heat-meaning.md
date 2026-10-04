@@ -1,7 +1,7 @@
 ---
 title: "Aux Heat vs Emergency Heat, in Plain English"
 slug: "aux-heat-vs-emergency-heat-meaning"
-description: "If your thermostat says Aux Heat or Emergency Heat, this guide explains what's happening, why costs can spike, and when you should (and shouldn't) use each mode."
+description: "Aux heat vs emergency heat: what your thermostat is telling you, why costs can spike, and when to use each mode — and when to leave it alone."
 date: 2025-12-25
 updated: 2026-08-21
 author: "Roberto Mendoza"
@@ -16,6 +16,8 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
 ---
 
 ## The short answer {#quick-answer}
+
+## Quick Answer
 
 **Aux Heat** (auxiliary heat) usually means your heat pump
               is running **backup heat** to keep up with demand--often

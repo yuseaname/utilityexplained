@@ -1,7 +1,7 @@
 ---
 title: "What Is CCF on a Water Bill? (Cubic Feet Explained)"
 slug: "what-is-ccf-on-a-water-bill"
-description: "CCF on a water bill means 'hundred cubic feet' — 1 CCF equals 748 gallons. Here's what your CCF number means, how to convert it, and how to tell if a hidden leak is driving up your bill."
+description: "What is CCF on a water bill? It means hundred cubic feet — 1 CCF equals 748 gallons. How to convert your CCF number and spot a hidden leak fast."
 date: 2025-12-25
 updated: 2026-09-06
 author: "Margaret Harrington"

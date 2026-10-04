@@ -1,7 +1,7 @@
 ---
 title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
-description: "Confused by your bill? We decode the charge categories you will find on a U.S. electric bill--supply, delivery, customer charges, and taxes--and show you how to check each one against your own rate plan."
+description: "Electric bill breakdown: decode the charge categories on a US electric bill — supply, delivery, customer charges, and taxes — and how to verify each."
 date: 2025-12-25
 updated: 2026-09-06
 author: "Margaret Harrington"

@@ -1,7 +1,7 @@
 ---
 title: "Do Smart Sprinkler Controllers Actually Save Water? The Honest Answer"
 slug: "do-smart-sprinkler-controllers-save-water"
-description: "Smart sprinkler controllers save water for people who over-water on a fixed schedule — and almost nothing for people who already water correctly. The honest verdict, the real EPA numbers, and the payback math."
+description: "Smart sprinkler controllers save water for people who over-water on a fixed schedule — and almost nothing for people who already water correctly."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

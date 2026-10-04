@@ -1,7 +1,7 @@
 ---
 title: "Which Rate Plan Is Right: Fixed vs Variable vs TOU"
 slug: "which-rate-plan-is-right-for-me"
-description: "A decision framework for residential utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before you switch."
+description: "A decision framework for utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before switching."
 date: 2026-08-28
 updated: 2026-08-30
 author: "David Chen"

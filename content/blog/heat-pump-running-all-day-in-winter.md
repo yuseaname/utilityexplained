@@ -1,7 +1,7 @@
 ---
 title: "Heat Pump Running All Day in Winter: Normal or Not?"
 slug: "heat-pump-running-all-day-in-winter"
-description: "Heat pumps run longer in cold weather, but nonstop runtime can feel worrying. Learn what is normal and what to check."
+description: "Heat pump running all day in winter? It is often normal in cold weather, but nonstop runtime can signal a problem. Learn what is normal and what to check."
 date: 2025-12-27
 updated: 2026-08-30
 author: "Roberto Mendoza"
@@ -18,6 +18,8 @@ image: "/images/articles/heat-pump-running-all-day-in-winter/heat-pump-running-a
 Your heat pump has been running for hours. The house is warm, but the system never seems to shut off, and the compressor noise is starting to feel like a countdown to a repair bill. Before you panic: long runtime can be normal, because heat pumps move heat instead of making it. Still, there is a real line between normal and a symptom. This guide draws that line.
 
 If you want the full system overview first, start with [Heating & Cooling Explained](/heating-cooling-explained/).
+
+## Quick Answer
 
 **On this page:**
 

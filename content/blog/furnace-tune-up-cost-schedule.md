@@ -1,7 +1,7 @@
 ---
 title: "Furnace Tune-Up: What It Costs, When to Do It, and What Is Included"
 slug: "furnace-tune-up-cost-schedule"
-description: "A furnace tune-up typically costs $80-$200, ideally every fall. See what's included, furnace type differences, and how to avoid upsells."
+description: "A furnace tune-up typically costs $80-$200, ideally every fall. See what's included, furnace type differences, and how to avoid common upsells."
 date: 2026-08-30
 updated: 2026-08-30
 author: "Roberto Mendoza"

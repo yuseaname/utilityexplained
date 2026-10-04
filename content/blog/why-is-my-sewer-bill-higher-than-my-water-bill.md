@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Sewer Bill Higher Than My Water Bill?"
 slug: "why-is-my-sewer-bill-higher-than-my-water-bill"
-description: "Sewer rates often double or triple water rates because treating wastewater is more complex than extracting it; here is the math behind the gap and how to spot a billing error."
+description: "Sewer rates double or triple water rates because treating wastewater costs more than extracting it; here is the math behind the gap and how to spot errors."
 date: 2026-09-20
 updated: 2026-09-20
 author: "Margaret Harrington"

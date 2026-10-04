@@ -1,7 +1,7 @@
 ---
 title: "Best Dual-Flush Conversion Kits (and the Toilets They Actually Fit)"
 slug: "best-dual-flush-conversion-kits"
-description: "A dual-flush conversion kit turns an old 3.5-gallon toilet into a 1.6/0.8-gallon two-button toilet for about $33 — if it fits. Here is the honest compatibility guide, because fit is the whole game."
+description: "A dual-flush conversion kit turns an old 3.5-gallon toilet into a 1.6/0.8-gallon two-button toilet for about $33 — if it fits. Honest compatibility guide."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

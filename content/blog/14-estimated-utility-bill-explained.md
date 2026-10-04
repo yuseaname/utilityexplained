@@ -1,5 +1,5 @@
 ---
-title: "How to Review an Estimated Utility Bill"
+title: "Estimated Utility Bill? How to Check It's Right"
 slug: "14-estimated-utility-bill-explained"
 description: "Why utilities estimate bills, how to spot an estimated read on your statement, and the verified workflow to force an actual meter read — ConEd and Texas rules."
 date: 2026-05-28

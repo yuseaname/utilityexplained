@@ -1,7 +1,7 @@
 ---
 title: "Water Meter Running When No Water Is Used"
 slug: "water-meter-running-when-no-water-used"
-description: "Use a safe meter-and-main-valve check to identify unexpected water flow, then isolate common household sources before calling your utility or a qualified plumber."
+description: "Water meter running when no water is used? Use a safe meter-and-main-valve check to find the flow, then isolate common sources before calling a plumber."
 date: 2026-05-27
 updated: 2026-09-06
 author: "Margaret Harrington"

@@ -1,7 +1,7 @@
 ---
 title: "How Much Does It Cost to Run a Furnace? (Per Hour)"
 slug: "how-much-does-it-cost-to-run-a-furnace"
-description: "A 60,000 BTU/h gas furnace costs about $1.44 per hour of burner run at national-average prices. The formula, gas vs electric vs heat pump tables, and the levers that cut run-hours."
+description: "How much does it cost to run a furnace? A 60,000 BTU/h gas furnace costs about $1.44 per hour of burner run at national-average prices. The full formula."
 date: 2026-10-04
 updated: 2026-10-04
 author: "Margaret Harrington"

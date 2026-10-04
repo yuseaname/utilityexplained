@@ -1,7 +1,7 @@
 ---
 title: "How to Read Your Gas Meter: Dial, Digital, and Smart"
 slug: "how-to-read-gas-meter"
-description: "Read a dial, digital, or smart gas meter step by step, convert meter units to therms with the EIA heat-content factor, and verify estimated bills before they land."
+description: "Read a dial, digital, or smart gas meter step by step, convert meter units to therms with the EIA heat-content factor, and catch estimated bills early."
 date: 2026-05-27
 hero_below_answer: true
 updated: 2026-08-29

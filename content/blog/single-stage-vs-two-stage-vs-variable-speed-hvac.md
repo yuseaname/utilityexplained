@@ -1,7 +1,7 @@
 ---
 title: "Single-Stage vs Two-Stage vs Variable-Speed HVAC"
 slug: "single-stage-vs-two-stage-vs-variable-speed-hvac"
-description: "Learn what HVAC staging and variable-speed equipment mean, why system sizing matters, and what to ask before choosing equipment."
+description: "Learn what HVAC staging and variable-speed equipment mean, why system sizing matters, and what to ask before choosing the right system for your home."
 date: 2025-12-25
 updated: 2026-08-28
 author: "Roberto Mendoza"

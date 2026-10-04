@@ -1,7 +1,7 @@
 ---
 title: "Best MERV 11 Furnace Filters: Value 6-Packs Compared Honestly"
 slug: "best-merv-11-furnace-filters"
-description: "Aerostar's MERV 11 six-pack is the workhorse filter buy, but the MERV 13 six-pack currently costs less — so which should actually go in your slot? The honest comparison, with the pressure-drop caveat that decides it."
+description: "Aerostar's MERV 11 six-pack is the workhorse filter buy, but the MERV 13 six-pack costs less — so which should go in your slot? The honest comparison."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

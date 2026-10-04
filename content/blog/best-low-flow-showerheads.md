@@ -1,7 +1,7 @@
 ---
 title: "Best Low-Flow Showerheads That Still Feel High-Pressure"
 slug: "best-low-flow-showerheads"
-description: "Low-flow showerheads used to mean a sad dribble — pressure-compensating designs changed that. Here is the honest pick at 1.5 GPM, plus the bucket-and-stopwatch test that tells you what your current head actually uses."
+description: "Best low-flow showerheads: pressure-compensating designs at 1.5 GPM that still feel strong, plus the bucket-and-stopwatch test for your current head."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

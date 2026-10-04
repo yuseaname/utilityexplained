@@ -1,0 +1,76 @@
+{{/* Related Posts: topically-matched, ranked by shared category + tags.
+     Falls back to most-recent same-section pages only if no topical match.
+     Renders using the design-system card pattern for visual consistency. */}}
+{{ $current := . }}
+{{ $currentCat := .Params.category }}
+{{ $currentTags := .Params.tags }}
+
+{{ $allPages := where .Site.RegularPages ".Permalink" "!=" $current.Permalink }}
+
+{{/* Score every candidate: +2 for same category, +1 per shared tag */}}
+{{ $scored := slice }}
+{{ range $allPages }}
+  {{ $candidate := . }}
+  {{ $score := 0 }}
+  {{ if and $currentCat (eq .Params.category $currentCat) }}
+    {{ $score = add $score 2 }}
+  {{ end }}
+  {{ with $currentTags }}
+    {{ range $t := . }}
+      {{ if in ($candidate.Params.tags | default slice) $t }}
+        {{ $score = add $score 1 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if gt $score 0 }}
+    {{ $scored = $scored | append (dict "page" $candidate "score" $score) }}
+  {{ end }}
+{{ end }}
+
+{{/* Sort by score (desc), tiebreak by date (desc), take 5 (NN/g related-content guidance: 5-7 tight matches) */}}
+{{ $related := sort $scored "score" "desc" }}
+
+{{ $top := slice }}
+{{ range first 5 $related }}
+  {{ $top = $top | append .page }}
+{{ end }}
+
+{{/* Fallback: if no topical match, use 3 most recent non-current pages */}}
+{{ if eq (len $top) 0 }}
+  {{ $top = first 5 $allPages }}
+{{ end }}
+
+{{ if gt (len $top) 0 }}
+  <section class="related-section" aria-label="Related articles">
+    <div class="section-heading">
+      <h2 class="related-title">Keep Reading</h2>
+    </div>
+    <div class="section-grid">
+      {{ range $top }}
+        <article class="card">
+          <a href="{{ .RelPermalink }}" class="block">
+            {{ with .Params.image }}
+              <div class="overflow-hidden">
+                {{/* Decorative card art: the visible card heading labels the link,
+                     so alt stays empty instead of duplicating (or mislabeling) text. */}}
+                <img src="{{ . }}" alt="" class="card-image" loading="lazy" decoding="async">
+              </div>
+            {{ else }}
+              {{/* Intentional no-image fallback: branded monogram block keeps card
+                   geometry stable instead of a missing-image gap. */}}
+              <div class="card-fallback" aria-hidden="true">{{ substr .Title 0 1 }}</div>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>
+              <p class="card-text">{{ .Params.description | default (truncate 110 .Plain) }}</p>
+              <div class="flex items-center justify-between mt-3">
+                <span class="card-meta">{{ .ReadingTime }} min read</span>
+                
+              </div>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

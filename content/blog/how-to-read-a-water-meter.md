@@ -1,7 +1,7 @@
 ---
 title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
-description: "A step-by-step guide to reading your home water meter and checking for leaks."
+description: "How to read a water meter: a step-by-step guide to reading your home meter, checking for leaks, and knowing whether the reading is accurate."
 date: 2025-12-25
 updated: 2026-09-06
 author: "Margaret Harrington"

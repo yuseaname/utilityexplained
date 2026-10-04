@@ -1,5 +1,5 @@
 ---
-title: "What MERV Rating Do I Need?"
+title: "What MERV Rating Do I Need? (And What Costs More)"
 slug: "what-merv-rating-do-i-need"
 description: "MERV 8 for most homes, 11 for allergies, 13 only if rated — the capture-vs-airflow trade, the size mistake, and does a dirty filter raise your bill?"
 date: 2026-08-30

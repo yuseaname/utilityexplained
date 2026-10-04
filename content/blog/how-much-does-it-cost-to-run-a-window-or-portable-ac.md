@@ -1,7 +1,7 @@
 ---
 title: "How Much Does It Cost to Run a Window or Portable AC?"
 slug: "how-much-does-it-cost-to-run-a-window-or-portable-ac"
-description: "Running a window or portable AC costs between $0.09 and $0.26 per hour of compressor time at 2026 rates, depending on the unit's size and efficiency."
+description: "How much does it cost to run a window or portable AC? Between $0.09 and $0.26 per hour of compressor time at 2026 rates, depending on size and efficiency."
 date: 2026-09-20
 updated: 2026-09-20
 author: "David Chen"

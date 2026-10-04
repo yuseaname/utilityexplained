@@ -2,7 +2,7 @@
 title: "Why Is My Gas Bill So High? 11 Causes and Fixes"
 slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
-description: "A high gas bill is usually heating-driven (about 40–45% of annual household gas use, per EIA RECS). See the 11 most common causes, the dollar amount each fix saves, and when to call your utility."
+description: "Why is my gas bill so high? It is usually heating-driven (about 40–45% of annual household gas use). See the 11 common causes and what each fix saves."
 date: 2026-03-07
 updated: 2026-09-06
 author: "Tanya Patterson"

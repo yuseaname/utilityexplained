@@ -1,7 +1,7 @@
 ---
 title: "Level 1 EV Charging: What It Actually Costs on Your Electric Bill"
 slug: "level-1-ev-charging-cost"
-description: "Level 1 EV charging — the 120V cord in the trunk — is just billed electricity, not free. Here is the honest outlet math, the monthly dollar range for a real commute, and how to measure your own car's draw instead of guessing."
+description: "Level 1 EV charging — the 120V cord in the trunk — is billed electricity, not free. The honest outlet math and the monthly dollar range for a real commute."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

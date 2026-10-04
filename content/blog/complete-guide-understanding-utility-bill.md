@@ -2,7 +2,7 @@
 title: "The Complete Guide to Understanding Your Utility Bill (Every Line Explained)"
 slug: "complete-guide-understanding-utility-bill"
 aliases: ["/blog/how-to-read-your-utility-bill/"]
-description: "The complete guide to understanding your utility bill: a 5-step review workflow, a verified worked bill, and a map from every line — usage x rate, fixed charges, taxes and fees — to a linked explainer."
+description: "The complete guide to your utility bill: a 5-step review workflow, a verified worked bill, and a map from every line — usage x rate, fixed charges, fees."
 date: 2026-08-10
 hero_below_answer: true
 updated: 2026-09-06

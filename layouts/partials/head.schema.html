@@ -107,6 +107,23 @@
   {{- with .Params.categories -}}
     {{- $article = dict "articleSection" (delimit . ", ") | merge $article -}}
   {{- end -}}
+  {{- /* SQ-GEO 2026-10-04: citation[] from frontmatter sources — machine-readable
+         source graph for every article; the LLM/AI-citation equivalent of the
+         visible Sources block. Renders only when sources exist. */ -}}
+  {{- with .Params.sources -}}
+    {{- $cites := slice -}}
+    {{- range . -}}
+      {{- $u := printf "%v" . -}}
+      {{- $u := replaceRE `\(.*?\)` `` $u -}}
+      {{- $u := replaceRE `^\s+|\s+$` `` $u -}}
+      {{- if and (ne $u "") (or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://")) -}}
+        {{- $cites = $cites | append $u -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $cites -}}
+      {{- $article = dict "citation" . | merge $article -}}
+    {{- end -}}
+  {{- end -}}
   {{- $schemas = $schemas | append $article -}}
 {{- end -}}
 

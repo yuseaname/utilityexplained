@@ -1,7 +1,7 @@
 ---
 title: "Best Sump Pump Battery Backup: What Runtime Actually Buys You"
 slug: "best-sump-pump-battery-backup"
-description: "The WAYNE ESP25n is the Prime-ready battery backup worth buying, and the honest core of the decision is runtime math: battery amp-hours times 12 volts divided by pump draw. What the $350 actually buys, and when water-powered or generator options beat it."
+description: "Is the WAYNE ESP25n battery backup worth $350? The honest runtime math — amp-hours times 12 volts divided by pump draw — and when water-powered wins."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

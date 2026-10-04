@@ -1,5 +1,5 @@
 ---
-title: "How to Measure and Reduce Standby Power"
+title: "How to Measure and Reduce Standby Power (Cheap DIY)"
 slug: "50-best-smart-plugs-standby-power"
 description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
 date: 2026-05-30

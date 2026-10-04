@@ -1,7 +1,7 @@
 ---
 title: "Water Meter Box Full of Water: When It's Normal, When It's a Leak, Who to Call"
 slug: "water-meter-box-full-of-water"
-description: "Standing water in your meter box is usually rain — but it can be a leak on either side of the meter. A 2-minute decision tree: rain or rising, indicator spinning or still, utility or plumber."
+description: "Water in your meter box is usually rain — but it can be a leak on either side of the meter. A 2-minute decision tree: rain or rising, spinning or still."
 date: 2026-09-29
 updated: 2026-09-29
 author: "Margaret Harrington"

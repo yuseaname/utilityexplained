@@ -1,7 +1,7 @@
 ---
 title: "AFUE vs SEER vs HSPF vs COP, in Plain English"
 slug: "afue-vs-seer-vs-hspf-vs-cop"
-description: "HVAC ratings can feel like jargon. This guide explains AFUE, SEER, HSPF, and COP, what each measures, and how to compare systems without mixing apples and oranges."
+description: "AFUE, SEER, HSPF, and COP explained: what each rating measures, how they map to real bills, and how to compare systems without mixing units."
 date: 2025-12-25
 updated: 2026-08-30
 author: "Roberto Mendoza"
@@ -49,6 +49,8 @@ The jargon survives because each rating answers a different question, and the la
 The good news: once you know what each rating measures, you can stop comparing apples to oranges — and spot it when a quote tries to.
 
 ## One-sentence definitions
+
+## Quick Answer
 
 **AFUE (Annual Fuel Utilization Efficiency).** AFUE is a percentage that describes how much of the fuel burned by a furnace or boiler becomes usable heat in the home over a season.
 

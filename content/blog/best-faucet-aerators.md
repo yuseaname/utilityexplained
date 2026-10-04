@@ -1,7 +1,7 @@
 ---
 title: "Best Faucet Aerators for Cutting Your Water Bill"
 slug: "best-faucet-aerators"
-description: "A faucet aerator is the cheapest per-gallon-saved water upgrade that exists — a few dollars, a thirty-second twist, no tools. Here is the honest pick for bathrooms, kitchens, and the adjustable-GPM trick that makes it pay."
+description: "A faucet aerator is the cheapest per-gallon-saved water upgrade there is — a few dollars, a thirty-second twist, no tools. The honest pick for kitchens."
 date: 2026-09-12
 updated: 2026-09-12
 author: "David Chen"

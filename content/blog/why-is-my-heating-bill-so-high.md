@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Heating Bill So High? (Any Fuel Type)"
 slug: "why-is-my-heating-bill-so-high"
-description: "A fuel-agnostic diagnostic for sudden heating bill spikes, covering electric resistance, heat pumps, propane, oil, and natural gas, including the hidden cost of furnace blower motors."
+description: "A fuel-agnostic diagnostic for heating bill spikes — electric resistance, heat pumps, propane, oil, and gas — including the hidden cost of blower motors."
 date: 2026-09-20
 updated: 2026-09-20
 author: "David Chen"

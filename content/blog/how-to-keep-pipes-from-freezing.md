@@ -1,7 +1,7 @@
 ---
 title: "How to Keep Pipes From Freezing (Without Heat)"
 slug: "how-to-keep-pipes-from-freezing"
-description: "Pipes freeze where heat can't reach them. The ranked prevention ladder — free tonight, cheap this weekend, worth-it upgrades — plus who pays if one bursts."
+description: "How to keep pipes from freezing: the ranked prevention ladder — free tonight, cheap this weekend, worth-it upgrades — plus who pays if one bursts."
 date: 2026-10-04
 updated: 2026-10-04
 author: "Margaret Harrington"

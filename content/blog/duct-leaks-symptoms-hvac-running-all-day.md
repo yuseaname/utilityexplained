@@ -1,7 +1,7 @@
 ---
 title: "Duct Leak Symptoms: Uneven Rooms & the HVAC Runs All Day"
 slug: "duct-leaks-symptoms-hvac-running-all-day"
-description: "Spot the 8 duct-leak symptoms, run a 15-minute DIY check, and understand what a duct-blaster test measures."
+description: "Spot the 8 duct-leak symptoms, run a 15-minute DIY check tonight, and know exactly what a duct-blaster test measures before you pay for one."
 date: 2025-12-25
 updated: 2026-08-30
 author: "Roberto Mendoza"

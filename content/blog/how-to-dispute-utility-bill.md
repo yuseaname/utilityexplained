@@ -1,7 +1,7 @@
 ---
-title: "How to Dispute a Utility Bill"
+title: "How to Dispute a Utility Bill (and Win)"
 slug: "how-to-dispute-utility-bill"
-description: "Dispute a utility bill step by step: call the utility, submit a written complaint, file with your state public utility commission, and escalate if needed. With a template letter and evidence checklist."
+description: "How to dispute a utility bill: call the utility, submit a written complaint, file with your state commission, and escalate if needed. With a template."
 date: 2026-08-19
 updated: 2026-08-30
 author: "Tanya Patterson"

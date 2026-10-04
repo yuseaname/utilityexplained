@@ -2,7 +2,7 @@
 title: "Why Is My Electric Bill So High? Find the Real Cause"
 slug: "03-why-is-my-electric-bill-so-high"
 aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/15-why-utility-bill-higher-same-usage/", "/blog/why-my-utility-bill-is-higher-with-same-usage/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
-description: "Compare your usage, billing period, price, rate plan, and household changes to identify why an electric bill increased."
+description: "Why is my electric bill so high? Compare your usage, billing period, price, rate plan, and household changes to find what actually drove the increase."
 date: 2026-03-07
 updated: 2026-09-06
 author: "Tanya Patterson"

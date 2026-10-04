@@ -1,7 +1,7 @@
 ---
 title: "Lower Your Utility Bills: The Ranked List of What Actually Saves"
 slug: "05-how-to-lower-utility-bills"
-description: "A ranked list of what actually lowers utility bills — typical cost, monthly savings, and payback for the top fixes across electricity, gas, water, and weatherization, plus the baseline method that shows which fix your house needs first."
+description: "What actually lowers bills? A ranked list of the top fixes across electricity, gas, water, and weatherization — with typical cost, savings, and payback."
 date: 2026-03-07
 updated: 2026-09-06
 author: "David Chen"

@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Water Bill Higher in Winter? 8 Common Causes"
 slug: "why-is-my-water-bill-higher-in-winter"
-description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles, freeze-thaw pipe stress, and how to check them."
+description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles and freeze-thaw pipe stress, and how to check."
 date: 2025-12-27
 updated: 2026-09-06
 author: "Margaret Harrington"
@@ -18,6 +18,10 @@ sources:
   - https://www.epa.gov/watersense/watersense-current-winter-2024 (retrieved 2026-08-29)
 ---
 
+
+## Quick Answer
+
+**A higher winter water bill is usually not more water use — it is rate seasonality (winter sewer averaging set by January/March usage), a longer billing cycle, or a hidden leak that finally crossed a tier boundary.** Compare billing days and last winter's statement first.
 
 ## The problem: winter should be cheaper, but your bill went up {#problem}
 

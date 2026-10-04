@@ -1,7 +1,7 @@
 ---
 title: "How EV Charging Can Affect Your Electric Bill"
 slug: "ev-charging-impact-electric-bill"
-description: "Estimate EV charging electricity from your vehicle, driving, and utility rate plan instead of relying on a national cost average."
+description: "Estimate EV charging electricity from your vehicle, your driving, and your utility's rate plan — not a national average that fits nobody's garage."
 date: 2026-08-10
 updated: 2026-09-06
 author: "David Chen"

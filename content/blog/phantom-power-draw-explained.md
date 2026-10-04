@@ -1,7 +1,7 @@
 ---
 title: "Phantom Power Draw: How to Find and Reduce Standby Use"
 slug: "phantom-power-draw-explained"
-description: "Learn what standby power is, how it is measured, and how to reduce avoidable plug-load energy use."
+description: "Phantom power draw explained: what standby power is, how it is measured, and how to cut avoidable plug-load energy use that quietly raises your bill."
 date: 2026-08-10
 updated: 2026-09-06
 author: "Margaret Harrington"

@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Water Bill Higher in Summer? 7 Causes"
 slug: "why-is-my-water-bill-higher-in-summer"
-description: "Summer water bills often jump for predictable reasons--outdoor watering, leaks, and tiered pricing. Here's how to figure out what changed in your case."
+description: "Why is your water bill higher in summer? Seven common causes — outdoor watering, leaks, and tiered pricing — and how to figure out what changed."
 date: 2025-12-26
 updated: 2026-09-06
 author: "Margaret Harrington"
@@ -16,6 +16,10 @@ sources:
   - https://www.epa.gov/watersense/fixaleak (retrieved 2026-08-29)
 ---
 
+
+## Quick Answer
+
+**Summer water bills spike from irrigation — lawn watering can triple or quadruple a household's water use in peak months, and sewer charges often follow the water meter.** Check your sprinkler schedule and your utility's irrigation meter or summer sewer-averaging rules before assuming a leak.
 
 ## The problem: summer arrives and your bill suddenly feels out of control {#problem}
 
