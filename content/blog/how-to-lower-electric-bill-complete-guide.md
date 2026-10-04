@@ -257,7 +257,7 @@ Smart power strips cut power to peripherals when the main device is off. For mod
 
 ### 11. Seal Air Leaks with Caulk and Weatherstrip
 
-Air leaks through the building envelope waste 10–20% of heating and cooling energy — DOE's Home Upgrades page puts the typical air-sealing / insulation gain in roughly that range, and leaks through ducts specifically can waste 20–30% of conditioned air (U.S. Department of Energy, <https://www.energy.gov/save/home-upgrades>. For a room-by-room DIY walkthrough, see [How to Check for Energy Leaks in Your Home](/blog/47-check-energy-leaks-home-diy/).
+Air leaks through the building envelope waste 10–20% of heating and cooling energy — DOE's Home Upgrades page puts the typical air-sealing / insulation gain in roughly that range, and leaks through ducts specifically can waste 20–30% of conditioned air (U.S. Department of Energy, <https://www.energy.gov/save/home-upgrades>). For a room-by-room DIY walkthrough, see [How to Check for Energy Leaks in Your Home](/blog/47-check-energy-leaks-home-diy/).
 
 **Where to seal:**
 - Windows (caulk gaps, add weatherstrip)
@@ -297,7 +297,7 @@ These cost more up front but save aggressively over the long run. If your old eq
 
 ### 13. Install a Programmable Thermostat
 
-A programmable thermostat automatically adjusts temperature based on your schedule. DOE attributes roughly **up to 10% a year on heating and cooling** to a 7–10°F setback for 8 hours a day (U.S. Department of Energy, Home Upgrades, <https://www.energy.gov/save/home-upgrades>; a well-tuned programmable schedule typically lands at the lower end of that range, with learning smart thermostats reaching the upper end. If you're weighing a basic programmable model against a learning smart thermostat, see [Do Programmable Thermostats Cut Heating Bills?](/blog/do-programmable-thermostats-cut-heating-bills/) for the head-to-head numbers before you buy.
+A programmable thermostat automatically adjusts temperature based on your schedule. DOE attributes roughly **up to 10% a year on heating and cooling** to a 7–10°F setback for 8 hours a day (U.S. Department of Energy, Home Upgrades, <https://www.energy.gov/save/home-upgrades>); a well-tuned programmable schedule typically lands at the lower end of that range, with learning smart thermostats reaching the upper end. If you're weighing a basic programmable model against a learning smart thermostat, see [Do Programmable Thermostats Cut Heating Bills?](/blog/do-programmable-thermostats-cut-heating-bills/) for the head-to-head numbers before you buy.
 
 | Schedule | Example | Savings |
 |----------|---------|---------|
@@ -418,7 +418,7 @@ Dirty airflow reduces efficiency by 5–15%.
 
 ### Seal and Insulate Ductwork
 
-Leaky ducts waste 20–30% of heating/cooling energy (U.S. Department of Energy, Home Upgrades, <https://www.energy.gov/save/home-upgrades>.
+Leaky ducts waste 20–30% of heating/cooling energy (U.S. Department of Energy, Home Upgrades, <https://www.energy.gov/save/home-upgrades>.)
 
 **Signs of leaky ducts:**
 - Uneven heating/cooling (some rooms too hot/cold)
@@ -437,7 +437,7 @@ Your water heater is your second-largest energy user.
 
 ### Lower Water Heater Temperature
 
-Most water heaters are set to 140°F by default. The U.S. Department of Energy recommends 120°F as the default household setpoint — it's safe for normal use, prevents scalding, and cuts standby losses (U.S. DOE Home Upgrades, <https://www.energy.gov/save/home-upgrades>.
+Most water heaters are set to 140°F by default. The U.S. Department of Energy recommends 120°F as the default household setpoint — it's safe for normal use, prevents scalding, and cuts standby losses (U.S. DOE Home Upgrades, <https://www.energy.gov/save/home-upgrades>.)
 
 | Temperature | Annual Cost (50-gallon tank, ~17¢/kWh) | Savings vs. 140°F |
 |-------------|------------------------------|-------------------|
