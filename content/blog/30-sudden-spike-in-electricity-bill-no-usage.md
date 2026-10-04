@@ -22,7 +22,7 @@ og_image: "/images/social/og-sudden-electricity-spike.webp"
 
 ## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
 
-A sudden bill spike with no behavior change almost always traces to one of five root causes. Check them in order from fastest to hardest to fix:
+**A sudden bill spike with no behavior change almost always traces to one of five root causes — and you can rule out three of them in ten minutes with this month's bill and last month's.** Check them in order from fastest to hardest to fix:
 
 1. **A longer billing period or estimated reading.** A 28-day bill followed by a 34-day bill adds <strong>~21%</strong> more days of usage. A corrected "EST" reading can lump two months of charges into one bill.
 2. **A rate increase.** A fuel adjustment, seasonal shift, or new rate schedule can raise your per-kWh cost by 10%–25% with no usage change at all.

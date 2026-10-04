@@ -19,7 +19,7 @@ sources:
 
 ## Quick Answer
 
-Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at 18.34¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+**Your electric bill is four charge types stacked: supply (the kWh you used × your rate), delivery (moving it to you — also mostly usage-based), fixed customer charges, and taxes. Supply plus delivery is typically about 85–90% of the bill; only the usage-based parts move when you change habits.** Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at 18.34¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
 
 **Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
 
