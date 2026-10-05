@@ -65,6 +65,9 @@
     <script src="{{ .RelPermalink }}"></script>
   {{ end }}
 
+  {{/* Spike-triage widget (static, cache-safe) */}}
+  <script src="/js/spike-triage.js" defer></script>
+
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}
 

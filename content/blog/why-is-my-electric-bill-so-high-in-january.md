@@ -36,6 +36,10 @@ A heat pump quietly riding aux heat for days during a cold snap looks identical 
 - **Outdoor unit:** if the pump runs constantly and the house still feels cold, aux is doing more than its share.
 - **The fix that isn't a repair:** many thermostats lock out aux until a lower outdoor temperature, or allow a smaller indoor setpoint rise per hour, cutting strip runtime dramatically. A [smart thermostat with aux-lockout control](/blog/smart-thermostat-time-of-use-savings/) often pays for itself in one winter.
 
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Confirm its the heat strips" description="The $25 diagnostic the spike guide uses. Plug the auxiliary heat circuit (or any suspect load) in and watch true watts and cumulative kWh — the fastest way to prove aux strips are the January thief before paying for an HVAC call." button="Check price on Amazon" >}}
+
+{{< product-box asin="B0DKGBP38V" name="TP-Link Tapo P110M Smart Plug with Energy Monitoring (2-Pack)" label="Watch it in real time" description="Wi-Fi smart plugs with built-in energy monitoring — logs watts, kWh, and runtime per outlet in the Tapo app. Schedule the backup heater down and watch the consumption curve flatten. Matter-compatible, 15A/1800W, ETL listed (TP-Link spec, 2-pack)." button="Check price on Amazon" >}}
+
 ## 3. Winter Rate Seasonality: When the Price per kWh Changes on January 1
 
 Many utilities run seasonal rate schedules — the same kWh simply costs more during winter months. And on tiered or baseline plans, the cheap tier often **shrinks** in winter, so routine heating usage crosses into higher-priced tiers faster than it would in fall.

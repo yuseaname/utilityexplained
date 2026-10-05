@@ -74,6 +74,10 @@ theme = 'adsense-base'
     name = "Glossary"
     url = "/utilities-glossary/"
     weight = 6
+  [[menus.main]]
+    name = "Calculators"
+    url = "/calculators/electricity-cost/"
+    weight = 7
 
   [[menus.secondary]]
     name = "All Guides"

@@ -107,6 +107,8 @@ Rate increases happen through several mechanisms:
 
 ## Step 4: Rule Out Weather and Seasonal Factors
 
+Winter spike? The season has its own multipliers — heating degree days, heat-pump aux heat, winter rate seasons, and estimated reads stack on the same bill. Our [January winter-variant guide](/blog/why-is-my-electric-bill-so-high-in-january/) breaks down all four.
+
 Even if you feel like your habits have not changed, weather can dramatically affect your electricity consumption without you realizing it:
 
 **Heat waves:** A <strong>10-day stretch above 95°F</strong> can double your air conditioning usage compared to a month with temperatures in the 80s. Your thermostat setting may be the same, but the AC runs longer and harder to maintain it.
