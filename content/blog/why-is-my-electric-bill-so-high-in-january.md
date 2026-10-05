@@ -3,6 +3,7 @@ title: "Why Is My Electric Bill So High in January? 6 Winter-Only Causes"
 description: "January electric bills spike from heating degree days, heat-pump aux heat, winter rate seasons, and estimated meter reads. See the winter-only causes."
 date: 2026-10-05
 slug: why-is-my-electric-bill-so-high-in-january
+image: "/images/articles/why-is-my-electric-bill-so-high-in-january/why-is-my-electric-bill-so-high-in-january_hero.webp"
 draft: false
 sources:
   - "U.S. Energy Information Administration, Heating Degree Days explainer"

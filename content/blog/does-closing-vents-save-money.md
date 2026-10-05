@@ -1,6 +1,7 @@
 ---
 title: "Does Closing Vents Save Money? The Honest Answer"
 slug: "does-closing-vents-save-money"
+image: "/images/articles/does-closing-vents-save-money/does-closing-vents-save-money_hero.webp"
 description: "Does closing vents save money? No — in a typical single-zone forced-air system, closing registers raises static pressure and can cost more than it saves."
 date: 2026-10-04
 updated: 2026-10-04

@@ -1,6 +1,7 @@
 ---
 title: "Why Is My Furnace Running Constantly? Causes Ranked"
 slug: "why-is-my-furnace-running-constantly"
+image: "/images/articles/why-is-my-furnace-running-constantly/why-is-my-furnace-running-constantly_hero.webp"
 description: "Why is my furnace running constantly? It is often normal in cold weather — or one of five fixable problems. Ranked causes and the DIY-vs-pro line."
 date: 2026-10-04
 updated: 2026-10-04

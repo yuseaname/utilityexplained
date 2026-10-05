@@ -1,6 +1,7 @@
 ---
 title: "Electric Baseboard Heater Cost to Run (Per Month)"
 slug: "electric-baseboard-heater-cost-to-run"
+image: "/images/articles/electric-baseboard-heater-cost-to-run/electric-baseboard-heater-cost-to-run_hero.webp"
 description: "Electric baseboard heater cost to run: a 1,000 W unit costs $0.18/hour at the US average rate — about $44/month at 8 hours a day. Per-wattage tables."
 date: 2026-10-04
 updated: 2026-10-04
