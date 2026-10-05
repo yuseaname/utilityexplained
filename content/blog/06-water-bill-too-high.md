@@ -3,7 +3,8 @@ title: "Why Is My Water Bill So High? Causes Ranked by Likelihood"
 slug: "06-water-bill-too-high"
 description: "Water bill too high with nothing changed? The likely causes — leaks, rates, meter errors — ranked, with free tests to run before spending money."
 date: 2026-03-07
-updated: 2026-09-06
+lastmod: 2026-10-05
+updated: 2026-10-05
 author: "Tanya Patterson"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -32,6 +33,8 @@ Then run the 3-step meter check to confirm water is (or isn't) moving somewhere 
 1. **Shut off every faucet, ice maker, dishwasher, washing machine, and irrigation zone.**
 2. **Find your water meter** (curbside pit or basement) and note the reading — or watch the small leak-indicator dial.
 3. **Wait.** EPA's protocol: read the meter, read it again two hours later with no water use in between. If the reading changed, you have a leak in the home.[2]
+
+One thing federal help can't fix right now: LIHWAP — the Low Income Household Water Assistance Program, which helped low-income households pay water and wastewater bills — has no funding available and isn't accepting new beneficiaries. For help paying a water bill, ask your utility about payment plans or temporary discounts, call 211 for local programs, or contact your local Community Action Agency.
 
 Dye test clean and meter dead-still? Work down the ranked causes below. Bill jumped one month over the last? [Why water bills suddenly increase](/blog/why-did-my-water-bill-suddenly-increase/) is the faster path.
 
@@ -177,7 +180,7 @@ Water is flowing somewhere else — irrigation lines, service-line leaks, or a s
 
 {{< faq "Can I get a high bill adjusted after a leak?" >}}
 
-Many utilities offer a one-time leak adjustment if you document the repair, but policies are local. Ask your provider what documentation it requires — before paying a bill you believe a leak caused, and before assuming any adjustment exists. The full policy terms, evidence checklist, and request letter are in our [leak-adjustment guide](/blog/water-bill-leak-adjustment-how-to-get-credit/).
+Many utilities offer a one-time leak adjustment if you document the repair, but policies are local. For help paying the bill itself, ask your utility about payment plans or temporary discounts and call 211 for local assistance programs — the federal water-assistance program (LIHWAP) currently has no funding available. Ask your provider what documentation it requires — before paying a bill you believe a leak caused, and before assuming any adjustment exists. The full policy terms, evidence checklist, and request letter are in our [leak-adjustment guide](/blog/water-bill-leak-adjustment-how-to-get-credit/).
 
 {{< /faq >}}
 

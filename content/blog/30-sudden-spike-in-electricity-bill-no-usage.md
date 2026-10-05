@@ -3,7 +3,8 @@ title: "Sudden Spike in Electricity Bill With No Usage Change"
 slug: "30-sudden-spike-in-electricity-bill-no-usage"
 description: "Sudden spike in your electricity bill with no usage change? Learn the 12 common causes of bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
-updated: 2026-09-06
+lastmod: 2026-10-05
+updated: 2026-10-05
 author: "Tanya Patterson"
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
@@ -34,7 +35,7 @@ og_image: "/images/social/og-sudden-electricity-spike.webp"
 
 If you already know which cause is yours: a rate change points to [fuel adjustment and rider charges explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), an HVAC problem starts with [why your bill is high](/blog/03-why-is-my-electric-bill-so-high/), and a suspected heat-pump issue usually means [auxiliary heat running when it shouldn't](/blog/aux-heat-vs-emergency-heat-meaning/).
 
-**Next step:** Once you've identified the likely cause of your spike, walk through the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to understand every charge on your statement, or see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a complete line-by-line guide.
+**Next step:** Once you've identified the likely cause of your spike, walk through the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to understand every charge on your statement, or see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a complete line-by-line guide. If the spike turns out to be real and the bill is unpayable, LIHEAP crisis assistance can help prevent shutoffs or restore service, and your local 211 can connect you with utility payment plans, temporary discounts, and hardship funds.
 
 {{< visual src="/images/articles/30-sudden-spike-in-electricity-bill-no-usage/spike-diagnosis-flowchart.webp" alt="Decision flowchart for investigating a sudden electricity bill spike, beginning with billing days and an estimated meter reading." wide="true" >}}
 

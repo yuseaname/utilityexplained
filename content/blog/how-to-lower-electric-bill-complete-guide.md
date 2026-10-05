@@ -3,7 +3,8 @@ title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
 slug: "how-to-lower-electric-bill-complete-guide"
 description: "How to lower your electric bill: 17 proven steps organized by cost, with exact dollar savings and payback periods for each upgrade. The 2026 guide."
 date: 2026-08-10
-updated: 2026-09-22
+lastmod: 2026-10-05
+updated: 2026-10-05
 author: "David Chen"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -26,10 +27,10 @@ sources:
 
 ## Quick Answer
 
-You can cut your electric bill **20–40%** with the highest-ROI moves: raise summer AC to 78°F (or drop winter heat to 68°F) saving $100–$300/year, switch to LEDs ($150–$200/year), lower the water heater to 120°F ($60–$120/year), seal air leaks ($60–$200/year), shift laundry and dishwashing to off-peak hours, and kill vampire loads with smart strips ($120–$190/year for a typical three-strip setup).
+You can cut your electric bill **20–40%** with the highest-ROI moves: raise summer AC to 78°F (or drop winter heat to 68°F) saving $100–$300/year, switch to LEDs ($150–$200/year), lower the water heater to 120°F ($60–$120/year), seal air leaks ($60–$200/year), shift laundry and dishwashing to off-peak hours, and kill vampire loads with smart strips ($120–$190/year for a typical three-strip setup). Two federal programs can do part of this for free: LIHEAP — the Low Income Home Energy Assistance Program — helps eligible low-income households pay heating and cooling bills and can prevent shutoffs or reconnect service in an energy crisis, and the DOE Weatherization Assistance Program (WAP) provides energy-efficiency upgrades at no cost to eligible households, saving weatherized homes about $372 a year on average.
 
 - Heating and cooling drive more than half of home energy use — 52% in 2020 (EIA RECS) — start there.
-- Most utilities run a free home energy audit; call before you spend a dollar.
+- Most utilities run a free home energy audit; call before you spend a dollar. If your income qualifies, DOE's Weatherization Assistance Program (WAP) goes further — free efficiency upgrades through your state's WAP office, worth about $372 a year in average savings for a weatherized home.
 
 **Pick your route:**
 
@@ -581,6 +582,9 @@ Your rate plan matters as much as your usage. The right structure — flat, tier
 Before spending on upgrades, confirm nothing on the utility side is inflating your bill. Walk through [Why Your Electric Bill Is So High](/blog/03-why-is-my-electric-bill-so-high/) to rule out billing errors, estimated reads, bad rate tiers, and faulty meters — a 15-minute check can prevent chasing the wrong problem.
 
 ## Key facts (one-line, citable)
+
+- DOE's Weatherization Assistance Program weatherizes roughly 32,000 homes a year, saving weatherized households about $372 a year on average (energy.gov).
+- Federal energy-efficiency tax credits (IRS Form 5695, Residential Energy Credits) covered up to $3,200/year — $1,200 for insulation/doors/windows/audits and $2,000 for heat pumps — for improvements placed in service through December 31, 2025 (IRS).
 
 - According to the U.S. Energy Information Administration's 2020 Residential Energy Consumption Survey, heating and cooling account for about 52% of U.S. home energy use.
 - According to the U.S. Department of Energy, a 7–10°F thermostat setback for 8 hours a day saves up to 10% a year on heating and cooling.

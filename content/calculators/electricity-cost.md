@@ -5,7 +5,7 @@ date: 2026-10-05
 draft: false
 layout: calculator
 sources:
-  - "U.S. Energy Information Administration, Electric Power Monthly Table 5.6.A"
+  - "U.S. Energy Information Administration, Electric Power Monthly Table 5.6.A (July 2026 data, released 2026-09-24)"
 ---
 
 <div class="calc-shell">
@@ -19,8 +19,8 @@ sources:
       <input id="calc-hours" type="number" inputmode="decimal" value="3" min="0" max="24" step="0.5">
     </label>
     <label>Your rate ($ per kWh)
-      <input id="calc-rate" type="number" inputmode="decimal" value="0.175" min="0.01" max="2" step="0.001">
-      <span class="calc-hint">National residential average: ~17.5¢. Find yours: total electric charges ÷ total kWh on your bill.</span>
+      <input id="calc-rate" type="number" inputmode="decimal" value="0.1831" min="0.01" max="2" step="0.001">
+      <span class="calc-hint">U.S. residential average (EIA, July 2026): 18.31¢. Find yours: total electric charges ÷ total kWh on your bill.</span>
     </label>
   </div>
   <button id="calc-go" class="calc-btn">Calculate cost</button>
@@ -40,7 +40,7 @@ sources:
     OUT.innerHTML =
       '<p class="calc-verdict"><strong>' + fmt(costMonth) + ' per month</strong> (' + fmt(costDay) + '/day, ' + fmt(costYear) + '/year)</p>' +
       '<p class="calc-detail">That is ' + kwhDay.toFixed(2) + ' kWh/day — ' + (kwhDay*30.44).toFixed(0) + ' kWh/month at ' + r.toFixed(3) + ' $/kWh.</p>' +
-      '<p class="calc-detail">For context: the average U.S. home uses about 291 kWh and pays about $1,104 per year for electricity (EIA).</p>';
+      '<p class="calc-detail">For context: the average U.S. home uses about 899 kWh a month (EIA).</p>';
   }
   GO.addEventListener('click', calc);
   [W,H,R].forEach(function(el){ el.addEventListener('keydown', function(e){ if(e.key==='Enter') calc(); }); });
