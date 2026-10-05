@@ -656,3 +656,19 @@
   line-height: 1.45;
   color: #8a7a5c;
 }
+
+/* --- 2026-10-05 calculators (Wave 1 action queue) --- */
+.calc-shell{max-width:560px;margin:1.5rem 0;padding:1.25rem;border-top:3px solid #e8a33d;background:#faf9f7}
+.calc-shell h2{font-size:1.15rem;font-weight:800;margin:0 0 .35rem}
+.calc-intro{font-size:.92rem;color:#5b6470;margin:0 0 1rem}
+.calc-grid{display:grid;gap:.9rem;margin-bottom:1rem}
+.calc-grid label{display:block;font-size:.8rem;font-weight:700;color:#3c4450}
+.calc-grid input{display:block;width:100%;margin-top:.3rem;padding:.55rem .65rem;font-size:1.05rem;border:1px solid #cfc9bd;border-radius:6px;background:#fff}
+.calc-hint{display:block;margin-top:.3rem;font-size:.72rem;font-weight:400;color:#8a7a5c}
+.calc-btn{padding:.65rem 1.4rem;font-size:.95rem;font-weight:700;background:#1f2937;color:#fff;border:0;border-radius:6px;cursor:pointer}
+.calc-btn:hover{background:#000}
+.calc-out{margin-top:1rem;padding-top:1rem;border-top:1px solid #e5e0d5}
+.calc-verdict{font-size:1.25rem;margin:0 0 .4rem}
+.calc-detail{font-size:.88rem;color:#5b6470;margin:.25rem 0}
+.calc-err{color:#b3261e;font-size:.9rem}
+@media(max-width:640px){.calc-grid{gap:.7rem}}

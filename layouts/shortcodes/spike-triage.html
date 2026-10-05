@@ -1,0 +1,51 @@
+{{- /* spike-triage.html — interactive bill-spike analyzer (Wave 1, 2026-10-05).
+       Client-side only. Mirrors the 12-step diagnosis in the spike guide:
+       rate-vs-usage decomposition first, then next-step links. */ -}}
+<div class="calc-shell" id="spike-triage">
+  <h2>Is your spike a rate change or a usage change?</h2>
+  <p class="calc-intro">Enter numbers from your last two bills. The tool splits your increase into its two components — the first thing any diagnosis should check.</p>
+  <div class="calc-grid">
+    <label>Last bill: total charges ($)
+      <input id="st-last" type="number" inputmode="decimal" value="145" min="1" step="0.01">
+    </label>
+    <label>This bill: total charges ($)
+      <input id="st-now" type="number" inputmode="decimal" value="210" min="1" step="0.01">
+    </label>
+    <label>kWh used — last bill
+      <input id="st-kwh-last" type="number" inputmode="decimal" value="880" min="1">
+    </label>
+    <label>kWh used — this bill
+      <input id="st-kwh-now" type="number" inputmode="decimal" value="910" min="1">
+    </label>
+  </div>
+  <button id="st-go" class="calc-btn">Analyze my bill</button>
+  <div id="st-out" class="calc-out" aria-live="polite"></div>
+</div>
+<script>
+(function(){
+  var L={l:document.getElementById('st-last'),n:document.getElementById('st-now'),kl:document.getElementById('st-kwh-last'),kn:document.getElementById('st-kwh-now')};
+  var GO=document.getElementById('st-go'),OUT=document.getElementById('st-out');
+  function fmt(n){return '$'+n.toFixed(2);}
+  function run(){
+    var l=parseFloat(L.l.value)||0,n=parseFloat(L.n.value)||0,kl=parseFloat(L.kl.value)||0,kn=parseFloat(L.kn.value)||0;
+    if(l<=0||n<=0||kl<=0||kn<=0){OUT.innerHTML='<p class="calc-err">Fill in all four numbers (they are on your bills).</p>';return;}
+    var rl=l/kl, rn=n/kn, dTotal=n-l;
+    var usagePart=(kn-kl)*rl, ratePart=(rn-rl)*kn;
+    var h='<p class="calc-verdict"><strong>Total change: '+fmt(dTotal)+'</strong></p>';
+    if(dTotal>-1){
+      h+='<p class="calc-detail">Usage effect: <strong>'+fmt(usagePart)+'</strong> ('+(kl>0?((kn-kl)).toFixed(0):'?')+' kWh difference at your old rate)</p>';
+      h+='<p class="calc-detail">Rate effect: <strong>'+fmt(ratePart)+'</strong> ('+rl.toFixed(3)+' → '+rn.toFixed(3)+' $/kWh'+(Math.abs(rn-rl)/rl>0.15?' — that is a >15% rate jump, check for a rate change or tier blowthrough':'')+')</p>';
+      if(Math.abs(ratePart)>Math.abs(usagePart)){
+        h+='<p class="calc-detail"><strong>Your increase is mostly RATE, not usage.</strong> Read <a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">why charges per kWh change</a>, then check whether a <a href="/blog/08-time-of-use-electricity/">time-of-use plan</a> is now the better deal.</p>';
+      } else {
+        h+='<p class="calc-detail"><strong>Your increase is mostly USAGE.</strong> Start with the <a href="/blog/how-to-lower-electric-bill-complete-guide/">17-step lower-bill guide</a> — or find the culprit appliance with a <a href="https://www.amazon.com/s?k=p3+kill+a+watt+electricity+monitor&tag=utexplained-20" rel="sponsored nofollow noopener" target="_blank">plug-in watt meter (~$25)</a>.</p>';
+      }
+    } else {
+      h+='<p class="calc-detail">Your bill went down '+fmt(-dTotal)+'. Compare the rate lines to see if a usage drop or a rate drop did it.</p>';
+    }
+    OUT.innerHTML=h;
+  }
+  GO.addEventListener('click',run);
+  Object.values(L).forEach(function(el){el.addEventListener('keydown',function(e){if(e.key==='Enter')run();});});
+})();
+</script>

@@ -55,6 +55,9 @@ Every tip includes the math: what it costs, what it saves, and how long until it
 
 {{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/savings-cost-summary.webp" alt="Savings-versus-cost summary card: a realistic whole-home outcome is about 20 percent, up to 40 percent best case, and the fixes sort into three cost tiers — free, under fifty dollars, and investment-level." wide="true" >}}
 
+> **Do the math in 10 seconds:** our [appliance electricity-cost calculator](/calculators/electricity-cost/) turns any wattage into a monthly cost.
+
+
 ## Why Your Electric Bill Is So High
 
 Before you can lower your bill, you need to know what's driving it. For most U.S. households, it comes down to 5 things (U.S. EIA Residential Energy Consumption Survey, share of household site-energy use):
