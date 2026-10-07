@@ -4,7 +4,7 @@ slug: "21-past-due-balance-utility-bill-explained"
 description: "What is a past-due balance on a utility bill? Review it against the statement and payment records, verify the notice, and act before disconnection."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["past due", "utility bills", "billing"]

@@ -5,7 +5,7 @@ aliases: ["/blog/what-is-a-kilowatt-hour/"]
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kWh", "electricity usage", "electric bill"]

@@ -5,7 +5,7 @@ description: "Read a dial, digital, or smart gas meter step by step, convert met
 date: 2026-05-27
 hero_below_answer: true
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "therms", "ccf", "smart meter", "leak"]

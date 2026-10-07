@@ -4,7 +4,7 @@ slug: "average-water-usage-per-person"
 description: "The average American uses about 82 gallons of water a day at home. See the per-person breakdown by fixture and how your household compares to the norm."
 date: 2025-12-27
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "water usage", "leak detection"]

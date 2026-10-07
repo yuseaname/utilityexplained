@@ -6,7 +6,7 @@ description: "The complete guide to your utility bill: a 5-step review workflow,
 date: 2026-08-10
 hero_below_answer: true
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility bill", "electric bill", "gas bill", "water bill", "rate plans"]

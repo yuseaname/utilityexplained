@@ -5,7 +5,7 @@ aliases: ["/blog/41-how-to-read-electricity-bill/"]
 description: "How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in ten minutes."
 date: 2026-03-07
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "utility bill", "kWh", "electricity rates", "billing"]

@@ -6,7 +6,7 @@ description: "What delivery and supply charges cover, who sets each rate, a veri
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-30
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["delivery charge", "supply charge", "utility bill", "electricity"]
@@ -22,6 +22,8 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (899 kWh average monthly residential usage, retrieved 2026-08-29)
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 {{< affiliate-disclosure >}}
 
 ## Quick Answer
@@ -64,16 +66,16 @@ Delivery is never shoppable — one grid serves your address, and the state sets
 
 Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/12-how-to-read-your-gas-bill/).
 
-## A worked month: where 899 kWh goes
+## A worked month: where {{< stat "avg_monthly_kwh" "raw" >}} kWh goes
 
-The national average household uses **899 kWh/month** at an average **18.34¢/kWh**, about **$164.88** [7]. Now split a real bill with one utility's published rates. Take 899 kWh on Con Edison's time-of-use rate in a non-summer month, all usage overnight off-peak:
+The national average household uses **{{< stat "avg_monthly_kwh" >}}** at an average **{{< stat "electric_rate_jun2026" >}}**, about **$164.88** [7]. Now split a real bill with one utility's published rates. Take {{< stat "avg_monthly_kwh" "raw" >}} kWh on Con Edison's time-of-use rate in a non-summer month, all usage overnight off-peak:
 
-- **Supply**: 899 × 5.22¢ = **$46.93**
-- **Delivery**: 899 × 16.402¢ = **$147.45**
+- **Supply**: {{< stat "avg_monthly_kwh" "raw" >}} × 5.22¢ = **$46.93**
+- **Delivery**: {{< stat "avg_monthly_kwh" "raw" >}} × 16.402¢ = **$147.45**
 - **Fixed customer charge**: **$21.00**
 - **Total: $215.38** — delivery plus the fixed charge takes 78% of the bill
 
-Same month's usage repriced in summer's peak windows instead: supply is 27.86¢/kWh, so the supply line jumps to $250.46 — 60% of a $418.92 bill — while delivery never moved. Supply alone nearly doubled the bill. On a city-owned integrated utility like Austin Energy, the same 899 kWh splits about 30/70 — roughly $35 of supply-side pass-through against about $70 of energy/delivery-side charges plus the $16.50 customer charge [3].
+Same month's usage repriced in summer's peak windows instead: supply is 27.86¢/kWh, so the supply line jumps to $250.46 — 60% of a $418.92 bill — while delivery never moved. Supply alone nearly doubled the bill. On a city-owned integrated utility like Austin Energy, the same {{< stat "avg_monthly_kwh" "raw" >}} kWh splits about 30/70 — roughly $35 of supply-side pass-through against about $70 of energy/delivery-side charges plus the $16.50 customer charge [3].
 
 The lesson cuts both directions. Shrinking usage shrinks the per-kWh parts of *both* buckets but not the fixed charge — see the [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) — and no shopping decision touches delivery, ever.
 
@@ -117,4 +119,4 @@ No — delivery is the broader bucket. Distribution (local wires and transformer
 4. [PG&E — Base Services Charge FAQ](https://www.pge.com/en/account/billing-and-assistance/base-services-charge.html) (retrieved 2026-08-30)
 5. [Consumers Energy — Electric Charges Explained](https://www.consumersenergy.com/residential/account-and-billing/rates/electric-rates-and-programs/electric-charges-explained) (retrieved 2026-08-30)
 6. [PAPowerSwitch — the official electric shopping website of the Pennsylvania PUC](https://www.papowerswitch.com/) (retrieved 2026-08-30)
-7. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) (899 kWh/month; 18.34¢/kWh national average residential price, retrieved 2026-08-29)
+7. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) ({{< stat "avg_monthly_kwh" >}}; {{< stat "electric_rate_jun2026" >}} national average residential price, retrieved 2026-08-29)

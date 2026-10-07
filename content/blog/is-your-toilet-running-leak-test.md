@@ -4,7 +4,7 @@ slug: "is-your-toilet-running-leak-test"
 description: "Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your meter and bill."
 date: 2025-12-25
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "water meter", "sewer", "ccf", "toilet flapper", "dye test"]

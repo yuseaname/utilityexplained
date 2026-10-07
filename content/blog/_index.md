@@ -8,38 +8,38 @@ aliases: ["/blog"]
 
 ## Browse by Topic {#browse-by-topic}
 
-<p>96 guides to help you understand every charge on your utility bills. Pick a category:</p>
+<p>{{< guide-count >}} guides to help you understand every charge on your utility bills. Pick a category:</p>
 
 <div class="popular-list">
 
 <div class="popular-item">
 <h3 class="popular-item-title">Electricity Bills</h3>
 <p class="popular-item-desc">Why your bill is high, how to read it, kWh, rates, and lowering costs.</p>
-<a href="/electricity-explained/#electricity-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 25 electricity guides</a>
+<a href="/electricity-explained/#electricity-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse {{< guide-count "/electricity-explained/" >}} electricity guides</a>
 </div>
 
 <div class="popular-item">
 <h3 class="popular-item-title">Water and Sewer</h3>
 <p class="popular-item-desc">CCF, sewer charges, meter reading, leak detection, lowering your bill.</p>
-<a href="/water-explained/#water-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 18 water guides</a>
+<a href="/water-explained/#water-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse {{< guide-count "/water-explained/" >}} water guides</a>
 </div>
 
 <div class="popular-item">
 <h3 class="popular-item-title">Gas Bills</h3>
 <p class="popular-item-desc">Therms, MCF, delivery charges, winter bills, reading your gas meter.</p>
-<a href="/gas-explained/#gas-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 11 gas guides</a>
+<a href="/gas-explained/#gas-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse {{< guide-count "/gas-explained/" >}} gas guides</a>
 </div>
 
 <div class="popular-item">
 <h3 class="popular-item-title">Bill Charges and Fees</h3>
 <p class="popular-item-desc">Hidden fees, taxes, deposits, connection fees, billing cycles, budget billing.</p>
-<a href="/utility-bills-costs-explained/#bill-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 24 fee guides</a>
+<a href="/utility-bills-costs-explained/#bill-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse {{< guide-count "/utility-bills-costs-explained/" >}} fee guides</a>
 </div>
 
 <div class="popular-item">
 <h3 class="popular-item-title">Heating and Cooling</h3>
 <p class="popular-item-desc">HVAC troubleshooting, efficiency ratings, heat pumps, furnace issues.</p>
-<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse 17 HVAC guides</a>
+<a href="/heating-cooling-explained/#hvac-guides" style="font-size:0.875rem;font-weight:600;color:#0e201c;">Browse {{< guide-count "/heating-cooling-explained/" >}} HVAC guides</a>
 </div>
 
 </div>

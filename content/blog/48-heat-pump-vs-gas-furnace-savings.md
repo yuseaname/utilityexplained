@@ -5,7 +5,7 @@ aliases: ["/blog/gas-vs-electric-heating-cost-comparison/"]
 description: "Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program terms."
 date: 2026-05-30
 updated: 2026-08-30
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["heat pump", "gas furnace", "heating system"]

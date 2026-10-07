@@ -5,7 +5,7 @@ description: "How does utility bill proration work? A verified worked example fr
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["billing", "moving", "utility bills"]

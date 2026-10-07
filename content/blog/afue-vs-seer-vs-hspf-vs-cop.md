@@ -4,7 +4,7 @@ slug: "afue-vs-seer-vs-hspf-vs-cop"
 description: "AFUE, SEER, HSPF, and COP explained: what each rating measures, how they map to real bills, and how to compare systems without mixing units."
 date: 2025-12-25
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["afue", "heat pump", "air conditioner", "furnace", "leak"]

@@ -4,7 +4,7 @@ slug: "tankless-vs-tank-water-heater"
 description: "Tankless vs tank water heater: tankless units are 24–34% more efficient on paper, but real savings depend on usage, climate, and upfront cost."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["tankless water heater", "tank water heater", "water heater comparison", "water heating efficiency", "hot water cost"]

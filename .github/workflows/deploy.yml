@@ -19,6 +19,8 @@ jobs:
         run: python3 scripts/check_image_paths.py .
       - name: Verify rendered output (fail deploy on leaked shortcodes)
         run: python3 scripts/check_rendered_output.py public
+      - name: Content QA gate (control chars, dup hrefs, category bleed, hardcoded counts)
+        run: python3 scripts/qa_content.py --built public
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh

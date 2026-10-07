@@ -5,7 +5,7 @@ description: "How do you lower your electric bill without solar? Verified measur
 date: 2025-12-25
 updated: 2026-08-30
 hero_below_answer: true
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "home energy assessment", "energy efficiency"]

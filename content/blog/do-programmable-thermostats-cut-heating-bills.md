@@ -4,7 +4,7 @@ slug: "do-programmable-thermostats-cut-heating-bills"
 description: "Do programmable thermostats cut heating bills? DOE says up to 10% a year with a 7-10 degree setback — here's when that holds and when it doesn't."
 date: 2026-08-14
 updated: 2026-08-28
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["programmable thermostat", "thermostat setback", "heating bill"]

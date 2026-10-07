@@ -5,7 +5,7 @@ description: "Water bill too high with nothing changed? The likely causes — le
 date: 2026-03-07
 lastmod: 2026-10-05
 updated: 2026-10-05
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["high water bill", "water bill spike", "water meter", "water use"]

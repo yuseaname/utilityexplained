@@ -4,7 +4,7 @@ slug: "electric-blanket-vs-space-heater-cost"
 description: "Electric blanket vs space heater: an electric blanket costs about $6.60 a month to run; a space heater costs $25–66. The honest math on which is cheaper."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["electric blanket", "space heater", "heating cost", "zone heating", "winter energy savings"]

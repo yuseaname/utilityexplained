@@ -4,7 +4,7 @@ slug: "moving-utilities-checklist"
 description: "Moving soon? The exact timeline for turning off utilities at your old home and on at the new one, plus a one-page checklist so you don't pay for two homes."
 date: 2026-08-19
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 sources:
   - https://www.usa.gov/moving (retrieved 2026-08-29)
   - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)

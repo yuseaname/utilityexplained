@@ -4,7 +4,7 @@ slug: "do-dehumidifiers-help-cooling-costs"
 description: "A dehumidifier can cut AC use in humid, mild summers — or add cost in hot climates. How humidity, setpoints, and the unit's own draw decide."
 date: 2026-08-31
 updated: 2026-09-06
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["dehumidifier", "indoor humidity", "cooling costs", "relative humidity", "humidistat", "energy star"]

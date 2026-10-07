@@ -4,7 +4,7 @@ slug: "ductless-mini-split-vs-central-air"
 description: "Ductless mini-split vs central air: the honest comparison — installation cost, efficiency, zoning control, and which system pays off for which house."
 date: 2025-12-25
 updated: 2026-08-29
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["ductless", "mini-split", "central air", "hvac sizing"]

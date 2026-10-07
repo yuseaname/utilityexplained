@@ -69,6 +69,10 @@
   {{ end }}
   {{/* Spike-triage widget (static, cache-safe) */}}
   <script src="/js/spike-triage.js" defer></script>
+  {{/* Glossary filter (static, cache-safe) — glossary page only */}}
+  {{ if eq .RelPermalink "/utilities-glossary/" }}
+  <script src="/js/glossary-filter.js" defer></script>
+  {{ end }}
 
   {{/* Rybbit Analytics */}}
   {{ partial "rybbit-analytics.html" . }}

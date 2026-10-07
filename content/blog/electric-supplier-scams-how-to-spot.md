@@ -4,7 +4,7 @@ slug: "electric-supplier-scams-how-to-spot"
 description: "Utility supplier scams use door knocks, calls, and fake switching forms. The verified signs, what to check before signing, and how to report them."
 date: 2026-08-30
 updated: 2026-08-30
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Consumer Rights"
 categories: ["Consumer Rights"]
 tags: ["slamming", "utility scam", "electric supplier", "door-to-door scam", "fraud protection", "consumer rights"]

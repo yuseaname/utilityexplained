@@ -1,14 +1,14 @@
 ---
 title: "Tiered Water Rates: Why Using More Costs More"
 slug: "tiered-water-rates-explained"
-description: "Tiered electricity rates charge more per kWh above each tier threshold. See how tiers work, where the jumps land, and how to stay in the cheap tier."
+description: "Tiered water rates charge more per CCF as monthly use crosses each block threshold. See how the tiers work, where the price jumps land, and how to stay in the cheap first block."
 date: 2026-05-27
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["gallons", "budget", "tiered rate", "water bill", "savings"]
-keywords: ["gallons of water", "utility budget", "tiered electricity rates", "high water bill", "lower utility bill"]
+keywords: ["gallons of water", "utility budget", "tiered water rates", "high water bill", "lower utility bill"]
 image: "/images/articles/tiered-water-rates-explained/tiered-water-rates-explained_hero_v2.webp"
 sources:
   - https://austin.widen.net/view/pdf/50am6ya6yz/ResidentialPublicRates_2026.pdf

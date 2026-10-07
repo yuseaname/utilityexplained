@@ -5,7 +5,7 @@ description: "Sudden spike in your electricity bill with no usage change? Learn 
 date: 2026-05-28
 lastmod: 2026-10-05
 updated: 2026-10-05
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
   - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)

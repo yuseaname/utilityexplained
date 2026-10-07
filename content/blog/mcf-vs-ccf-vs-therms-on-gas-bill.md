@@ -4,7 +4,7 @@ slug: "mcf-vs-ccf-vs-therms-on-gas-bill"
 description: "MCF, CCF, and therms are the three units gas bills use — and utilities convert between them. Here's what each one measures and how to check the conversion."
 date: 2026-05-27
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php (retrieved 2026-08-29)
 category: "Gas"

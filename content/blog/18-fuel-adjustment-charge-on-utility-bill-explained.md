@@ -5,7 +5,7 @@ description: "What is a fuel adjustment charge? How to identify it on your bill,
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["fuel adjustment", "electricity", "utility bills"]

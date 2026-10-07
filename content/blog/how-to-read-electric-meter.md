@@ -4,7 +4,7 @@ slug: "how-to-read-electric-meter"
 description: "How to read an electric meter: record a dial or digital reading, compare it with your bill, and ask your utility about meter-specific details."
 date: 2025-12-25
 updated: 2026-09-26
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "kwh", "electric meter", "smart meter"]

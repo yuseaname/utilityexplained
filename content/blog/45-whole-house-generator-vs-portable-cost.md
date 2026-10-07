@@ -4,7 +4,7 @@ slug: "45-whole-house-generator-vs-portable-cost"
 description: "Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote review."
 date: 2026-05-30
 updated: 2026-08-29
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["generator", "backup power", "generator safety"]

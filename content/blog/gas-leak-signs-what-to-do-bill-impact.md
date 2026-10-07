@@ -4,7 +4,7 @@ slug: "gas-leak-signs-what-to-do-bill-impact"
 description: "Rotten-egg smell, hissing, dead grass? Leave first, call 911 or your gas utility from outside, and see what a leak really does to your gas bill."
 date: 2026-08-30
 updated: 2026-08-30
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Gas"
 categories: ["Gas"]
 tags: ['gas leak', 'gas safety', 'natural gas', 'gas bill', 'mercaptan']

@@ -4,7 +4,7 @@ slug: "14-estimated-utility-bill-explained"
 description: "Why do utilities estimate bills? How to spot an estimated read on your statement and force an actual meter read — the ConEd and Texas rules."
 date: 2026-05-28
 updated: 2026-08-30
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["billing", "utility bills", "meter reading"]

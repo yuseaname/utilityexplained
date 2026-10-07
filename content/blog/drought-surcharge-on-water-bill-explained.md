@@ -4,7 +4,7 @@ slug: "drought-surcharge-on-water-bill-explained"
 description: "Review a drought surcharge on your water bill using your utility's current tariff, drought stage, usage, and meter data — the steps in order."
 date: 2026-05-27
 updated: 2026-08-30
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["drought surcharge", "water bill", "water rates"]

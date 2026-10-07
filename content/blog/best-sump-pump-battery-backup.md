@@ -4,7 +4,7 @@ slug: "best-sump-pump-battery-backup"
 description: "Is the WAYNE ESP25n battery backup worth $350? The honest runtime math — amp-hours times 12 volts divided by pump draw — and when water-powered wins."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["sump pump battery backup", "wayne esp25", "basement flood protection", "sump pump runtime", "water powered backup sump", "flood damage cost"]

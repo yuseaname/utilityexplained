@@ -4,7 +4,7 @@ slug: "sense-energy-monitor-discontinued-alternatives"
 description: "Sense stopped selling its home energy monitor on Dec 31, 2025. What still works for owners, and the alternatives — from free utility data to Emporia Vue 3."
 date: 2026-09-06
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["sense", "energy monitor", "emporia vue", "electricity usage", "smart home"]

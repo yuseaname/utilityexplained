@@ -4,7 +4,7 @@ slug: "heat-pump-running-all-day-in-winter"
 description: "Heat pump running all day in winter? It is often normal in cold weather, but nonstop runtime can signal a problem. Learn what is normal and what to check."
 date: 2025-12-27
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 sources:
   - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
   - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)

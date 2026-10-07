@@ -4,7 +4,7 @@ slug: "best-thermal-camera-home-energy-audit"
 description: "Can a ~$116 USB-C thermal camera find drafts and insulation gaps? Yes — but it cannot see inside walls or read R-values. What the Thermal Master P1 can do."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["thermal camera", "home energy audit", "thermal imaging", "find drafts", "insulation inspection", "usb-c thermal camera"]

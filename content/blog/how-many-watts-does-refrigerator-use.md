@@ -4,7 +4,7 @@ slug: "how-many-watts-does-refrigerator-use"
 description: "A fridge's running watts matter less than kWh per day. How to measure both with a plug-in meter — or a free one from the library — and price your own."
 date: 2026-08-31
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["refrigerator watts", "energy monitoring", "kill a watt meter", "electricity usage", "smart plug"]

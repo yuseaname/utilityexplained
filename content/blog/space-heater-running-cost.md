@@ -4,7 +4,7 @@ slug: "space-heater-running-cost"
 description: "Space heater running cost: a 1,500 W heater costs $0.28/hour at the US average rate. Per-wattage tables and when one room beats the thermostat."
 date: 2026-09-26
 updated: 2026-09-26
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["space heater", "heating cost", "electricity cost", "zone heating"]

@@ -4,7 +4,7 @@ slug: "tiered-electricity-rates-explained"
 description: "Review block or tiered electricity rates from the tariff and itemized statement, then compare billed usage, thresholds, and all other charges."
 date: 2025-12-26
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "tiered rate", "electric bill"]

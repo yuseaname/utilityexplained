@@ -11,7 +11,7 @@ sources:
   - https://www.eia.gov/electricity/sales_revenue_price/ (retrieved 2026-08-29)
   - https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption (retrieved 2026-08-29)
   - https://www.epa.gov/watersense (EPA WaterSense program home; retrieved 2026-08-29)
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["therms", "savings", "gas bill", "kwh", "budget"]

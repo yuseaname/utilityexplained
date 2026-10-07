@@ -3,11 +3,22 @@ title: "Utility Terms Glossary: Plain-English Definitions"
 description: "Confused by terms on your utility bill? Our glossary explains CCF, kWh, therms, delivery charges, demand fees, and more in plain English."
 image: "/images/articles/utilities-glossary/custom_hero.webp"
 date: 2024-12-01
-updated: 2026-08-21
+updated: 2026-10-06
 type: "page"
 layout: "single"
 url: "/utilities-glossary"
 ---
+
+<div class="glossary-tools" id="glossary-tools">
+  <div class="glossary-search">
+    <input type="text" id="glossary-filter" class="glossary-filter-input" placeholder="Filter terms — e.g. CCF, kWh, deposit…" aria-label="Filter glossary terms">
+  </div>
+  <p class="glossary-count" id="glossary-count" aria-live="polite"></p>
+  <p class="glossary-empty" id="glossary-empty" hidden>No matching terms. Try a shorter query — e.g. "charge" or "meter".</p>
+  <nav class="glossary-az" id="glossary-az" aria-label="Jump to terms by first letter">
+    <a href="#afue" data-letter="A">A</a><a href="#btu" data-letter="B">B</a><a href="#ccf" data-letter="C">C</a><a href="#demand-charge" data-letter="D">D</a><a href="#energy-charge" data-letter="E">E</a><a href="#furnace" data-letter="F">F</a><a href="#gallon" data-letter="G">G</a><a href="#heat-pump" data-letter="H">H</a><span class="az-na" aria-disabled="true">I</span><span class="az-na" aria-disabled="true">J</span><a href="#kgal" data-letter="K">K</a><a href="#late-fee" data-letter="L">L</a><a href="#mcf" data-letter="M">M</a><span class="az-na" aria-disabled="true">N</span><a href="#off-peak" data-letter="O">O</a><a href="#phantom-load" data-letter="P">P</a><span class="az-na" aria-disabled="true">Q</span><a href="#resistance-heat" data-letter="R">R</a><a href="#seer" data-letter="S">S</a><a href="#therm" data-letter="T">T</a><span class="az-na" aria-disabled="true">U</span><a href="#variable-rate" data-letter="V">V</a><a href="#watt" data-letter="W">W</a><span class="az-na" aria-disabled="true">X</span><span class="az-na" aria-disabled="true">Y</span><span class="az-na" aria-disabled="true">Z</span>
+  </nav>
+</div>
 
 <h2>Electricity Terms</h2>
 
@@ -34,18 +45,21 @@ The minimum amount of electricity your home uses continuously, even when major a
 <p>
 A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking. Read the full guide: <a href="/blog/49-demand-charges-electricity-bill-explained/">the demand charge explainer</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> maximum demand charge, peak demand charge.</p>
 
-### Delivery charge (Distribution charge) {#delivery-charge}
-
-<p>
-The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Learn more in our electricity guide. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
-</p>
-
-### Energy charge (Supply charge) {#energy-charge}
+### Delivery charge {#delivery-charge}
 
 <p>
-The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
+The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> distribution charge, delivery service charge, T&amp;D charge.</p>
+
+### Energy charge {#energy-charge}
+
+<p>
+The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">delivery charge vs supply charge</a>.
+</p>
+<p class="glossary-alias"><strong>Also called:</strong> supply charge, commodity charge, generation charge.</p>
 
 ### Kilowatt (kW) {#kilowatt}
 
@@ -56,8 +70,9 @@ A unit of power equal to 1,000 watts. Measures how fast electricity is being use
 ### Kilowatt-hour (kWh) {#kilowatt-hour}
 
 <p>
-A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period. See detailed examples in our kWh explainer.
+A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period.
 </p>
+<p class="glossary-see">Run the numbers with the <a href="/calculators/electricity-cost/">electricity cost calculator</a>, or read <a href="/blog/11-understanding-kwh-usage/">how to understand kWh usage</a> in detail.</p>
 
 ### Off-peak hours {#off-peak}
 
@@ -71,11 +86,12 @@ Times when electricity demand is low, usually overnight and early morning. Some 
 Times when electricity demand is highest, typically late afternoon and early evening. Utilities may charge higher rates during peak hours.
 </p>
 
-### Phantom load (Vampire power, Standby power) {#phantom-load}
+### Phantom load {#phantom-load}
 
 <p>
 Electricity used by devices that are plugged in but turned off or in standby mode. Examples include TVs, chargers, and microwaves with clocks.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> vampire power, standby power, vampire draw.</p>
 
 ### Power factor {#power-factor}
 
@@ -92,8 +108,9 @@ A rating for air conditioners and heat pumps in cooling mode. Higher SEER means 
 ### Time-of-use (TOU) pricing {#time-of-use}
 
 <p>
-A rate structure where electricity costs more during peak hours and less during off-peak hours. Encourages shifting usage to cheaper times. See more in our rate plan comparison.
+A rate structure where electricity costs more during peak hours and less during off-peak hours. Encourages shifting usage to cheaper times. Read the full guide: <a href="/blog/08-time-of-use-electricity/">how time-of-use rates work</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> TOU pricing, time-of-use rates, peak/off-peak pricing.</p>
 
 ### Watt (W) {#watt}
 
@@ -108,11 +125,12 @@ A unit of power. Measures how fast electricity is being used at a moment. A 60-w
 A unit of heat energy. One BTU is the energy needed to raise one pound of water by one degree Fahrenheit. Natural gas energy content is measured in BTUs.
 </p>
 
-### CCF (Hundred Cubic Feet) {#ccf}
+### CCF (Hundred Cubic Feet) — natural gas {#ccf}
 
 <p>
-A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and convert to therms using a factor based on the gas's energy content. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">CCF on a water bill</a>.
+A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and convert to therms using a factor based on the gas's energy content. Read the full guide: <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs therms on a gas bill</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> hundred cubic feet.</p>
 
 ### Commodity charge {#commodity-charge}
 
@@ -126,11 +144,12 @@ Another term for the supply charge--the cost of the natural gas itself, separate
 A number used to convert gas volume (CCF) into energy (therms). Accounts for slight variations in gas energy content.
 </p>
 
-### Customer charge (Base charge) {#customer-charge}
+### Customer charge {#customer-charge}
 
 <p>
-A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, and service infrastructure.
+A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, and service infrastructure. Read the full guide: <a href="/blog/17-what-is-customer-charge-on-utility-bill/">what the customer charge on a utility bill covers</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> basic service charge, system access charge, base charge, service charge.</p>
 
 ### MCF (Thousand Cubic Feet) {#mcf}
 
@@ -145,11 +164,12 @@ A unit of heat energy equal to 100,000 BTUs. Natural gas bills usually charge pe
 </p>
 <h2>Water & Sewer Terms</h2>
 
-### CCF (Hundred Cubic Feet) {#ccf-water}
+### CCF (Hundred Cubic Feet) — water {#ccf-water}
 
 <p>
-A volume unit used for water billing. One CCF equals 100 cubic feet, or about 748 gallons. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what is ccf on a water bill</a>.
+A volume unit used for water billing. One CCF equals 100 cubic feet, or about 748 gallons. Read the full guide: <a href="/blog/what-is-ccf-on-a-water-bill/">what CCF means on a water bill</a>, or convert units with the <a href="/blog/ccf-calculator/">CCF calculator</a>.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> HCF (hundred cubic feet) — the same unit, abbreviated HCF on some water bills.</p>
 
 ### Cubic foot {#cubic-foot}
 
@@ -181,17 +201,19 @@ The number displayed on your water, gas, or electric meter showing cumulative us
 A usage estimate when the utility cannot access the meter. The next actual reading corrects the estimate.
 </p>
 
-### Sewer charge (Wastewater charge) {#sewer-charge}
+### Sewer charge {#sewer-charge}
 
 <p>
 The cost of treating wastewater. Often calculated as a percentage of water usage or a per-unit charge. Learn more in our water service guide.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> wastewater charge, sewer service charge.</p>
 
-### Tiered pricing (Block pricing) {#tiered-pricing}
+### Tiered pricing {#tiered-pricing}
 
 <p>
 A rate structure where the price per unit increases as you use more. Encourages conservation by making higher usage more expensive.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> block pricing, increasing block rates, tiered rates.</p>
 
 ### Winter average {#winter-average}
 
@@ -273,11 +295,12 @@ A thermostat that learns your habits, adjusts automatically, and can be controll
 Automatic bill payment from a bank account or credit card. Prevents late fees but requires maintaining adequate account balance.
 </p>
 
-### Budget billing (Level payment plan) {#budget-billing}
+### Budget billing {#budget-billing}
 
 <p>
 A program that averages your annual usage and charges the same amount each month. Smooths out seasonal swings. The utility adjusts the amount periodically based on actual usage. Learn more in our billing guide.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> level payment plan, average payment plan, equal payment plan.</p>
 
 ### Billing cycle (Billing period) {#billing-cycle}
 
@@ -308,6 +331,7 @@ A rate plan where the price per unit changes each month based on market conditio
 <p>
 A penalty charged when payment is received after the due date. Usually $5 to $25. Avoid by using auto-pay or setting payment reminders.
 </p>
+<p class="glossary-alias"><strong>Also called:</strong> late payment charge, past-due charge.</p>
 
 ### Reconnection fee {#reconnection-fee}
 

@@ -4,7 +4,7 @@ slug: "net-metering-explained"
 description: "Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the outcome."
 date: 2026-08-10
 updated: 2026-08-30
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["net metering", "solar panels", "solar credits", "electric bill", "rooftop solar"]

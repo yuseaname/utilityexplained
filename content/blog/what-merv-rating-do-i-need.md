@@ -4,7 +4,7 @@ slug: "what-merv-rating-do-i-need"
 description: "MERV 8 for most homes, 11 for allergies, 13 only if rated — the capture-vs-airflow trade, the size mistake, and does a dirty filter raise your bill?"
 date: 2026-08-30
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["merv rating", "furnace filter", "hvac maintenance", "air quality"]

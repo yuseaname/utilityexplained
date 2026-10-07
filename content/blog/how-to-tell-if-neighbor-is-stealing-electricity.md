@@ -4,7 +4,7 @@ slug: "how-to-tell-if-neighbor-is-stealing-electricity"
 description: "Is a neighbor stealing your electricity? If your bill spiked without a habit change, a simple main-breaker test can prove it before you call the utility."
 date: 2026-09-20
 updated: 2026-09-20
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electricity theft", "high electric bill", "utility fraud", "meter testing"]

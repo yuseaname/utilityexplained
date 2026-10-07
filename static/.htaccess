@@ -13,6 +13,10 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
+# --- Author persona retirement (2026-10 desk migration): all /author/* URLs 301 to the editorial team page ---
+RewriteRule ^author/?$ /editorial-team/ [R=301,L]
+RewriteRule ^author/(.*)/?$ /editorial-team/ [R=301,L]
+
 # --- Consolidation 301s (2026 cluster merges — server-level replaces meta-refresh alias stubs) ---
 RewriteRule ^blog/29-why-is-my-electric-bill-so-high-2026/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]
 RewriteRule ^blog/why-is-my-electric-bill-so-high-this-month/?$ /blog/03-why-is-my-electric-bill-so-high/ [R=301,L]

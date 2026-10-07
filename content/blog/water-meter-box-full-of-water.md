@@ -4,7 +4,7 @@ slug: "water-meter-box-full-of-water"
 description: "Water in your meter box is usually rain — but it can be a leak on either side of the meter. A 2-minute decision tree: rain or rising, spinning or still."
 date: 2026-09-29
 updated: 2026-09-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water meter box", "meter pit", "standing water", "water leak", "utility responsibility"]

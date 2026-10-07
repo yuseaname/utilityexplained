@@ -4,7 +4,7 @@ slug: "do-home-energy-monitors-save-money"
 description: "A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors see, what they miss, and when the free app is enough."
 date: 2026-08-30
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["energy monitor", "electricity usage", "emporia vue", "smart home"]

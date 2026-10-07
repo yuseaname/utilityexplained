@@ -4,7 +4,7 @@ slug: "kill-a-watt-alternatives"
 description: "The Kill A Watt P4400 is back in stock, but it is not the only way to measure appliance costs. The real alternatives — and when each is the better tool."
 date: 2026-09-06
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kill a watt", "electricity usage monitor", "energy monitor", "smart plug", "electricity usage"]

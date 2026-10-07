@@ -4,7 +4,7 @@ slug: "do-smart-sprinkler-controllers-save-water"
 description: "Smart sprinkler controllers save water for people who over-water on a fixed schedule — and almost nothing for people who already water correctly."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["smart sprinkler controller", "water bill", "irrigation", "watersense", "sprinkler timer"]

@@ -4,7 +4,7 @@ slug: "ac-running-but-not-cooling"
 description: "AC running but the house stays warm? The causes ranked, the safe checks to run tonight, and the clear line where it becomes a paid service call."
 date: 2025-12-26
 updated: 2026-08-21
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 sources:
   - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance (retrieved 2026-08-29)
   - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)

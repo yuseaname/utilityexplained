@@ -4,7 +4,7 @@ slug: "phantom-power-draw-explained"
 description: "Phantom power draw explained: what standby power is, how it is measured, and how to cut avoidable plug-load energy use that quietly raises your bill."
 date: 2026-08-10
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["phantom power", "standby power", "energy efficiency", "electric bill"]

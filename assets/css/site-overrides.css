@@ -672,3 +672,19 @@
 .calc-detail{font-size:.88rem;color:#5b6470;margin:.25rem 0}
 .calc-err{color:#b3261e;font-size:.9rem}
 @media(max-width:640px){.calc-grid{gap:.7rem}}
+
+/* ── Glossary filter + A–Z index (utilities-glossary) ── */
+.glossary-tools{margin:1.2rem 0 2rem}
+.glossary-search{position:relative;max-width:36rem}
+.glossary-filter-input{width:100%;padding:.8rem 1rem;font-size:1rem;border:1px solid #cfc9bd;border-radius:8px;background:#fff;color:#1f2937}
+.glossary-filter-input:focus{outline:2px solid #1f2937;outline-offset:1px}
+.glossary-count{margin:.5rem 0 0;font-size:.85rem;color:#5b6470;min-height:1.2em}
+.glossary-empty{margin:.8rem 0 0;padding:.8rem 1rem;font-size:.92rem;background:#fdf6ec;border:1px solid #e5e0d5;border-radius:8px;color:#5b6470}
+.glossary-az{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.8rem}
+.glossary-az a,.glossary-az .az-na{display:inline-flex;align-items:center;justify-content:center;min-width:2rem;height:2rem;padding:0 .35rem;font-size:.85rem;font-weight:700;border-radius:6px;text-decoration:none}
+.glossary-az a{color:#1f2937;background:#f3efe6;border:1px solid #e5e0d5}
+.glossary-az a:hover{background:#e8e2d2}
+.glossary-az a.az-off{opacity:.35}
+.glossary-az .az-na{color:#b9b2a4;background:transparent;border:1px dashed #e5e0d5}
+.glossary-alias{margin:.35rem 0 0;font-size:.82rem;color:#5b6470;font-style:italic}
+.glossary-see{margin:.35rem 0 0;font-size:.88rem}

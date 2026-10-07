@@ -4,7 +4,7 @@ slug: "best-low-flow-showerheads"
 description: "Best low-flow showerheads: pressure-compensating designs at 1.5 GPM that still feel strong, plus the bucket-and-stopwatch test for your current head."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["low flow showerhead", "water bill", "water conservation", "showerhead", "water savings"]

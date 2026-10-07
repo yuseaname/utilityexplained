@@ -5,7 +5,7 @@ aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/15-why-utilit
 description: "Why is my electric bill so high? Compare your usage, billing period, price, rate plan, and household changes to find what actually drove the increase."
 date: 2026-03-07
 updated: 2026-09-06
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["high electric bill", "electricity spike", "energy costs", "troubleshooting", "save electricity"]

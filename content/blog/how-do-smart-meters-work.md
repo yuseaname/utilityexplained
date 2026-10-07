@@ -5,7 +5,7 @@ description: "Smart meters report your usage hourly over a radio network, kill e
 date: 2025-12-25
 hero_below_answer: true
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electric bill", "smart meter", "kwh", "estimated bill"]

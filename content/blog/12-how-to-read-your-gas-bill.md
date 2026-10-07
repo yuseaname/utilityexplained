@@ -5,7 +5,7 @@ aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/", "/blog/43-underst
 description: "How to read your gas bill line by line: therms used, delivery versus supply charges, and every fee that hides the real price you pay for gas."
 date: 2026-03-16
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Gas"
 categories: ["Gas"]
 tags: ["gas bill", "natural gas", "utility bill", "therms"]

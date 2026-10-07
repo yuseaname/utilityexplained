@@ -4,7 +4,7 @@ slug: how-many-kwh-does-a-house-use-per-day
 description: The average US house uses about 30 kWh per day. See typical daily kWh by home size, what pushes usage up, and what your number means on the bill.
 date: 2026-08-30
 updated: 2026-08-30
-author: Margaret Harrington
+author: Bills & Rates Desk
 category: Electricity
 categories:
   - Electricity

@@ -5,7 +5,7 @@ description: "A demand charge bills your peak power draw in kW, not just total k
 date: 2026-05-30
 updated: 2026-08-29
 aliases: ["/blog/demand-charge-electric-bill-explained/"]
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["demand charge", "electricity bill", "utility rate"]

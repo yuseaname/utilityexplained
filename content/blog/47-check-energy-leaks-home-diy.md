@@ -4,7 +4,7 @@ slug: "47-check-energy-leaks-home-diy"
 description: "Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up work."
 date: 2026-05-30
 updated: 2026-08-29
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["home energy assessment", "air leaks", "weatherization"]

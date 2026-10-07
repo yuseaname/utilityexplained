@@ -4,7 +4,7 @@ slug: "how-much-does-it-cost-to-run-a-furnace"
 description: "How much does it cost to run a furnace? A 60,000 BTU/h gas furnace costs about $1.44 per hour of burner run at national-average prices. The full formula."
 date: 2026-10-04
 updated: 2026-10-04
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["furnace cost", "heating cost", "gas furnace", "natural gas", "per hour"]
@@ -18,11 +18,13 @@ sources:
   - https://web.archive.org/web/20260629195545/https://www.energy.gov/energysaver/small-space-heaters
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 {{< affiliate-disclosure >}}
 
 ## Quick Answer
 
-**A typical 60,000 BTU/h gas furnace costs about $1.15 per hour of burner run at the September 2026 national averages (natural gas ≈ $1.92/therm) — the fuel burned depends on the input rating, not the efficiency.** Where AFUE shows up is run-hours: to deliver the same heat, an 80% AFUE furnace burns about 19% more fuel over the month than a 95% one. An electric resistance furnace of equivalent output costs roughly 3–4× the gas figure — near $3.20/hour at the 18.34¢/kWh national average — which is the whole argument for gas heat in one line. The formula is two numbers off the rating plate and one off your bill:
+**A typical 60,000 BTU/h gas furnace costs about $1.15 per hour of burner run at the September 2026 national averages (natural gas ≈ $1.92/therm) — the fuel burned depends on the input rating, not the efficiency.** Where AFUE shows up is run-hours: to deliver the same heat, an 80% AFUE furnace burns about 19% more fuel over the month than a 95% one. An electric resistance furnace of equivalent output costs roughly 3–4× the gas figure — near $3.20/hour at the {{< stat "electric_rate_jun2026" >}} — which is the whole argument for gas heat in one line. The formula is two numbers off the rating plate and one off your bill:
 
 `fuel burned per hour (therms) = input BTU/h ÷ 100,000; cost/hour = that × your $/therm`
 
@@ -30,7 +32,7 @@ A 60,000 BTU/h unit burns 0.6 therms per hour of run; at $1.92/therm that's $1.1
 
 ## The formula (it's the rating plate and the bill)
 
-Two numbers live on your furnace (inside the cabinet, on the rating plate): **input BTU per hour** — 40,000 to 120,000 for typical homes — and **AFUE**, the Annual Fuel Utilization Efficiency (80% federal minimum; 90+% for condensing units). One number lives on your gas bill: **price per therm** (a therm = 100,000 BTU; most bills print it — divide total gas charges by therms used if not).
+Two numbers live on your furnace (inside the cabinet, on the rating plate): **input BTU per hour** — 40,000 to 120,000 for typical homes — and **AFUE**, the Annual Fuel Utilization Efficiency (80% federal minimum; 95%+ for condensing units). One number lives on your gas bill: **price per therm** (a therm = 100,000 BTU; most bills print it — divide total gas charges by therms used if not).
 
 Fuel burned per hour = input ÷ 100,000 therms; cost per run-hour = that × your $/therm. Heat delivered per hour = input × AFUE ÷ 100,000. A 100,000 BTU/h furnace at any AFUE burns 1.0 therm ($1.92) per run-hour — but at 95% AFUE, 0.95 of that reaches your rooms vs 0.80 at 80%. The national-average gas price moves seasonally — EIA residential prices ran near $1.92/therm in recent months[1] — but YOUR bill's therm price is the one that matters, and it varies from roughly $1.04 to $2.29 across states.
 
@@ -50,7 +52,7 @@ Fuel burned per hour = input ÷ 100,000 therms; cost per run-hour = that × your
 
 ## The blower fan: the small electric bill inside your gas bill
 
-The burner is the gas bill; the blower is the electric one. A typical permanent-split-capacitor blower draws 400–800 W while running — call it 0.6 kW × 18.34¢ = **about 11¢ per hour of run**[2]. An ECM (variable-speed) blower cuts that roughly in half or better. It's a rounding error next to the fuel — until you remember it runs whenever the thermostat calls, so a furnace with a stuck fan relay can add $25–50/month in electricity alone. If your electric bill spikes every heating season, [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) walks the checklist; for measuring the fan directly, a [Kill A Watt](/blog/kill-a-watt-alternatives/) works on a standard outlet but a whole-home monitor handles hardwired loads — see the product box below.
+The burner is the gas bill; the blower is the electric one. A typical permanent-split-capacitor blower draws 400–800 W while running — call it 0.6 kW × {{< stat "electric_rate_jun2026" >}} = **about 11¢ per hour of run**[2]. An ECM (variable-speed) blower cuts that roughly in half or better. It's a rounding error next to the fuel — until you remember it runs whenever the thermostat calls, so a furnace with a stuck fan relay can add $25–50/month in electricity alone. If your electric bill spikes every heating season, [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) walks the checklist; for measuring the fan directly, a [Kill A Watt](/blog/kill-a-watt-alternatives/) works on a standard outlet but a whole-home monitor handles hardwired loads — see the product box below.
 
 ## Monthly worked examples
 
@@ -62,7 +64,7 @@ Your real number divides by your thermostat behavior, insulation, and duct tight
 
 ## Gas vs electric vs heat pump (same heat, different bills)
 
-Delivered-heat pricing at national averages (gas $1.92/therm, electricity 18.34¢/kWh, heat pump COP 2.8 seasonal):
+Delivered-heat pricing at national averages (gas $1.92/therm, {{< stat "electric_rate_jun2026" >}}, heat pump COP 2.8 seasonal):
 
 | System | Delivered cost per 100,000 BTU of heat | Relative |
 |---|---|---|

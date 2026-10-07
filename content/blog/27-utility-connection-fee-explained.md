@@ -4,7 +4,7 @@ slug: "27-utility-connection-fee-explained"
 description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
 date: 2026-05-28
 updated: 2026-08-30
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["connection fee", "new service", "utility setup"]

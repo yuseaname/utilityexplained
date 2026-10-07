@@ -4,7 +4,7 @@ slug: "how-much-does-dripping-faucet-add-to-water-bill"
 description: "A single dripping faucet can waste over 3,000 gallons of water per year, adding $15–$30 to your bill before sewer surcharges are even calculated."
 date: 2026-09-20
 updated: 2026-09-20
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["dripping faucet cost", "water bill", "leaky faucet", "water conservation", "sewer charges"]

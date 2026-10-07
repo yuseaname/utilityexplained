@@ -1,0 +1,35 @@
+{{- $key := .key -}}
+{{- $format := .format | default "value" -}}
+{{- $stats := $.Site.Data.stats -}}
+{{- $entry := index $stats $key -}}
+{{- if $entry -}}
+  {{- if eq $format "value" -}}
+    {{- $entry.value -}}
+  {{- else if eq $format "cents_per_kwh" -}}
+    {{- printf "%.2f" $entry.value -}}
+  {{- else if eq $format "dollars_per_therm" -}}
+    {{- printf "%.2f" $entry.value -}}
+  {{- else if eq $format "kwh_month" -}}
+    {{- $entry.value -}}
+  {{- else if eq $format "full_cents" -}}
+    {{- printf "%.2f¢/kWh" $entry.value -}}
+  {{- else if eq $format "full_dollars" -}}
+    {{- printf "$%.2f/therm" $entry.value -}}
+  {{- else if eq $format "full_kwh" -}}
+    {{- printf "%d kWh/month" $entry.value -}}
+  {{- else if eq $format "source" -}}
+    {{- $entry.source -}}
+  {{- else if eq $format "source_url" -}}
+    {{- $entry.source_url -}}
+  {{- else if eq $format "retrieved" -}}
+    {{- $entry.retrieved -}}
+  {{- else if eq $format "data_month" -}}
+    {{- $entry.data_month -}}
+  {{- else if eq $format "source_year" -}}
+    {{- $entry.source_year -}}
+  {{- else -}}
+    {{- $entry.value -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "stats partial: unknown key %q" $key -}}
+{{- end -}}

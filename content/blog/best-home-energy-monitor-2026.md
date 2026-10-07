@@ -4,7 +4,7 @@ slug: "best-home-energy-monitor-2026"
 description: "The best home energy monitors of 2026, picked for measurement accuracy and app quality — including what to buy now that Sense is discontinued."
 date: 2026-09-06
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["energy monitor", "emporia vue", "smart plug", "electricity usage", "smart home"]

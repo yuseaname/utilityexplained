@@ -4,7 +4,7 @@ slug: "19-utility-bill-surcharges-and-riders-explained"
 description: "What are utility-bill surcharges and riders? Real named examples plus a 4-step workflow to verify yours against the tariff, the PUC docket, and your bill."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["surcharges", "riders", "utility bills"]

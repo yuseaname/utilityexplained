@@ -5,7 +5,7 @@ aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity
 description: "Compare a time-of-use electricity plan using your utility's current schedule and tariff, plus your own interval data or bill history — the honest method."
 date: 2026-03-07
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["time of use electricity", "TOU rates", "electricity plan"]

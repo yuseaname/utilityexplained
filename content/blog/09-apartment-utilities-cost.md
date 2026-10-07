@@ -5,7 +5,7 @@ description: "How much do apartment utilities cost? Build a budget from the leas
 date: 2026-03-07
 hero_below_answer: true
 updated: 2026-08-29
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["apartment utilities", "renter utilities", "first apartment", "utility budget"]

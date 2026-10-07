@@ -4,7 +4,7 @@ slug: "23-utility-billing-cycle-explained"
 description: "How do you read the billing period on a utility statement? Use the account's service dates, meter-read status, usage, and tariff to compare periods."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["billing cycle", "utility bill dates", "utility bill"]

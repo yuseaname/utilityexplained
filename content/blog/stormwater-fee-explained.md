@@ -4,7 +4,7 @@ slug: "stormwater-fee-explained"
 description: "What a stormwater fee pays for, how cities bill it (flat, ERU, or impervious-area tiers), and the honest odds of getting it reduced on your bill."
 date: 2026-08-30
 updated: 2026-08-30
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["stormwater", "water bill", "utility fees", "drainage", "impervious surface", "runoff"]

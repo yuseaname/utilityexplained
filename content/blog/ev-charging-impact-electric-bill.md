@@ -4,7 +4,7 @@ slug: "ev-charging-impact-electric-bill"
 description: "Estimate EV charging electricity from your vehicle, your driving, and your utility's rate plan — not a national average that fits nobody's garage."
 date: 2026-08-10
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["EV charging", "electric vehicle", "electric bill", "time-of-use rates"]

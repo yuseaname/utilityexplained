@@ -4,7 +4,7 @@ slug: "who-responsible-water-leak-before-after-meter"
 description: "Who is responsible for a water leak — before or after the meter? How to locate the boundary, document evidence, and escalate when utility says not ours."
 date: 2026-09-27
 updated: 2026-09-27
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water leak", "water meter", "service line", "utility responsibility"]

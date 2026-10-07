@@ -4,7 +4,7 @@ slug: "best-merv-11-furnace-filters"
 description: "Aerostar's MERV 11 six-pack is the workhorse filter buy, but the MERV 13 six-pack costs less — so which should go in your slot? The honest comparison."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["merv 11 filter", "furnace filters", "hvac filter", "aerostar filter", "air filter sizes", "filter replacement schedule"]
@@ -19,6 +19,8 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 ## Quick Answer
 
 **The Aerostar MERV 11 20x25x1 six-pack is the default buy for most forced-air homes — but at the time of writing, Aerostar's own MERV 13 six-pack costs *less*, so the honest answer starts with your blower, not the price tag.** The MERV 11 6-pack runs about $62 (~$10.40 per filter, 4.7 stars from 2,200+ ratings, sold and shipped by Amazon), while the MERV 13 6-pack sits around $52 (~$8.70 per filter, 4.5 stars, 3,000+ ratings). Prices rotate constantly — the boxes below always show current pricing. If your system can handle MERV 13, buy the 13. If your manual is vague or your blower is older or marginal, MERV 11 is the safer, still-excellent choice. Before anything else, read [what MERV rating do I need](/blog/what-merv-rating-do-i-need/) — that page explains the rating ladder itself; this page is the purchase companion. If your real problem is a system that runs constantly, start with [why your HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/) instead of a filter upgrade: {{< amazon asin="B01CR9JMV4" text="the Aerostar MERV 11 6-pack on Amazon" >}}.
@@ -82,7 +84,7 @@ If your slot takes a 4- or 5-inch-deep media cabinet, none of the 1-inch filters
 
 ## The Math: What a Year of Filters Actually Costs
 
-Assumptions: one 20x25x1 slot, replaced every 75 days (midpoint of the 60–90 day rule), national average electricity of 18.34¢/kWh for the blower-energy side,[2] and average household use of ~899 kWh/month for scale.[3]
+Assumptions: one 20x25x1 slot, replaced every 75 days (midpoint of the 60–90 day rule), national average electricity of {{< stat "electric_rate_jun2026" >}} for the blower-energy side,[2] and average household use of {{< stat "avg_monthly_kwh" >}} for scale.[3]
 
 - **Filter cost, MERV 11:** $62.34 ÷ 6 = $10.39/filter. A year is 365 ÷ 75 ≈ 4.9 filters, so 4.9 × $10.39 ≈ **$51/year**. On Subscribe & Save at ~$8.83/filter: 4.9 × $8.83 ≈ **$43/year**.
 - **Filter cost, MERV 13 (at the checked price):** $51.99 ÷ 6 = $8.67/filter → 4.9 × $8.67 ≈ **$42/year** — about $9/year *less* than MERV 11 at list, purely because of the price rotation.
@@ -102,7 +104,7 @@ And the standing rule that outranks every pick on this page: **measure the slot,
 ## Sources
 
 1. [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) — guidance to select MERV 13 "or as high a rating as your system fan and filter slot can accommodate," and that all filters need regular replacement. Retrieved 2026-09-11.
-2. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-11.
-3. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — ~899 kWh/month average household use. Retrieved 2026-09-11.
+2. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price {{< stat "electric_rate_jun2026" >}}, June 2026. Retrieved 2026-09-11.
+3. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — {{< stat "avg_monthly_kwh" >}}. Retrieved 2026-09-11.
 4. [Amazon — Aerostar MERV 11 20x25x1, 6-Pack (B01CR9JMV4)](https://www.amazon.com/dp/B01CR9JMV4) — $62.34 ($10.39/count), 4.7 stars / 2,217 ratings, actual size 19.75 x 24.75 x 0.75 in, sold and shipped by Amazon.com, Subscribe & Save tiers. Retrieved 2026-09-11.
 5. [Amazon — Aerostar MERV 13 20x25x1, 6-Pack (B01CR9JLDI)](https://www.amazon.com/dp/B01CR9JLDI) — $51.99 ($8.67/count), 4.5 stars / 3,095 ratings, MPR 1500, sold and shipped by Amazon.com. Retrieved 2026-09-11.

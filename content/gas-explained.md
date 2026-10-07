@@ -171,7 +171,6 @@ Now that you understand the basics of natural gas service, explore these specifi
 How to read your gas bill: therms explained
 -- Decode line items, delivery charges, and seasonal usage.
 </li>
-
 <li>
 How to read your gas meter
 - Verify readings and spot estimates.
@@ -232,7 +231,7 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 <li><a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
 <li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
 <li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
-<li><a href="/blog/12-how-to-read-your-gas-bill/">Gas Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Gas Delivery Charge vs Supply Charge</a></li>
 <li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>
 <li><a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
 </ul>
@@ -246,6 +245,5 @@ If you want to compare gas to other energy sources, visit our heating and coolin
 
 <h3>Gas vs Other Heating Options</h3>
 <ul>
-<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Gas vs Electric Heating Cost Comparison</a></li>
-<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings</a></li>
+<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
 </ul>

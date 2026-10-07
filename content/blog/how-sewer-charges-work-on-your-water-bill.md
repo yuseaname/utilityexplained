@@ -4,7 +4,7 @@ slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account — and how to check the math."
 date: 2025-12-25
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["sewer", "water bill", "water rates"]

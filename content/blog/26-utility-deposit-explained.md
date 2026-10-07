@@ -4,7 +4,7 @@ slug: "26-utility-deposit-explained"
 description: "Verify a utility deposit against your state's cap, waiver, and refund rules — with verified Texas and California frameworks — before you pay or sign."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility deposit", "security deposit", "new service"]

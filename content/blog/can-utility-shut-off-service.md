@@ -4,7 +4,7 @@ slug: "can-utility-shut-off-service"
 description: "Can the utility shut off your service? Yes, for nonpayment — but not instantly and not without notice. Learn the shutoff process and your protections."
 date: 2026-08-19
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility shutoff", "disconnection", "past due bill", "payment arrangement", "winter protections"]

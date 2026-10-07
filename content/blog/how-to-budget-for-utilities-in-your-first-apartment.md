@@ -4,7 +4,7 @@ slug: "how-to-budget-for-utilities-in-your-first-apartment"
 description: "How to budget for utilities in your first apartment: a simple guide to estimating electricity, gas, water, and internet costs before you sign the lease."
 date: 2025-12-27
 updated: 2026-08-21
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["budget", "apartment", "deposit", "leak", "budget billing"]

@@ -4,7 +4,7 @@ slug: "why-is-my-furnace-blowing-cold-air"
 description: "Furnace blowing cold air? Work the check order: thermostat mode, fan, filter, breaker, vents, and CO alarm. Know when to DIY and when to call a pro."
 date: 2025-12-27
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["furnace", "heating safety", "ducts", "carbon monoxide", "cold air"]

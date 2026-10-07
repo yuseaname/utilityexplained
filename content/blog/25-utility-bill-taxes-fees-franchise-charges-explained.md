@@ -4,7 +4,7 @@ slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
 description: "Utility bill taxes and fees explained: franchise fees, surcharges, and riders — what each one is, who approves it, and which ones you can dispute."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility taxes", "utility fees", "franchise fee", "utility bill"]

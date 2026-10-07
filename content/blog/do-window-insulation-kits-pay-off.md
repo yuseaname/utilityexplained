@@ -4,7 +4,7 @@ slug: "do-window-insulation-kits-pay-off"
 description: "Do window insulation kits pay off? Shrink-film kits cost $12-20 and add a dead-air layer over drafty glass. When it pays, and when caulk or curtains win."
 date: 2026-08-31
 updated: 2026-08-31
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["window insulation kit", "shrink film", "drafty windows", "winter heating", "renter fixes"]

@@ -4,7 +4,7 @@ slug: "why-is-my-water-bill-higher-in-summer"
 description: "Why is your water bill higher in summer? Seven common causes — outdoor watering, leaks, and tiered pricing — and how to figure out what changed."
 date: 2025-12-26
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "ccf", "savings", "gallons"]

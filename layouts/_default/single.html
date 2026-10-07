@@ -24,7 +24,7 @@
         <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
         </svg>
-        <span class="font-medium text-gray-700">{{ . }}</span>
+        <span class="font-medium text-gray-700">Researched by the Utility Explained {{ . }}</span>
       </span>
       {{ end }}
       <span class="flex items-center gap-1.5">
@@ -149,14 +149,14 @@
     <p>Cost ranges reflect typical U.S. utility bills and are labeled as estimates, not guarantees. Rates, climates, and providers vary by region. Read our <a href="{{ "/methodology/" | relURL }}">methodology</a> to see how we calculate and review these figures.</p>
   </div>
 
-  {{/* Author bio — default links to the editorial team */}}
-  {{ $authorName := .Params.author | default "Utility Explained" }}
-  {{ $authorSlug := $authorName | urlize }}
-  {{ $authorPage := site.GetPage (printf "/author/%s" $authorSlug) }}
+  {{/* Author byline — desk model (2026-10-07): no Person authors. The byline
+        names the topic desk and the review date, linking to the editorial team. */}}
+  {{ $desk := .Params.author | default "Editorial Desk" }}
+  {{ $reviewed := .Params.updated | default .Lastmod }}
   <div class="author-bio">
-    <div class="author-bio-avatar">{{ substr $authorName 0 1 }}</div>
-      <p class="author-bio-name">By {{ with $authorPage }}<a href="{{ .RelPermalink }}">{{ $authorName }}</a>{{ else }}{{ $authorName }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
-      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>{{ with $authorPage }} or <a href="{{ .RelPermalink }}">learn more about {{ $authorName }}</a>{{ end }}.</p>
+    <div class="author-bio-avatar">{{ substr $desk 0 1 }}</div>
+      <p class="author-bio-name">Researched by the Utility Explained {{ $desk }} · Sources reviewed {{ with $reviewed }}{{ dateFormat "January 2, 2006" . }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
+      <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>.</p>
   </div>
 
   {{/* Email capture — SQ-016: demoted to LAST (earned, not begged);

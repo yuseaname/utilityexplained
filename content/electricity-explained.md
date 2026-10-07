@@ -11,9 +11,12 @@ hub_categories: ["Electricity"]
 url: "/electricity-explained"
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 ## Quick Answer: what am I paying for? {#quick-answer}
 
-Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using 899 kWh at the June 2026 national average of 18.34&cent;/kWh pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
+Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using {{< stat "avg_monthly_kwh" >}} at the June 2026 national average of {{< stat "electric_rate_jun2026" >}} pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
+
 <h2>What is electricity and how does it reach your home?</h2>
 <p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
@@ -122,7 +125,7 @@ Billing cycles can also vary in length. A 35-day billing period will cost more t
 <p>
 Small changes add up. Reducing usage by 10% to 15% can make a noticeable difference on monthly bills.
 </p>
-<h2>Fixed vs. variable rate electricity plans</h2>
+<h2>Fixed vs- variable rate electricity plans</h2>
 <p>
 In some regions, you can choose your electricity supplier and pick between fixed-rate and variable-rate plans. Fixed-rate plans lock in the price per kWh for a set term, often 6 to 24 months. This provides price stability and makes budgeting easier.
 </p>
@@ -187,7 +190,6 @@ Why is my electricity bill so high in winter?
 Why is my electricity bill so high in summer?
 -- See how air conditioning and heat gain affect summer usage.
 </li>
-
 <li>
 Why is my electric bill so high this month?
 - Quick troubleshooting checklist for sudden spikes.
@@ -242,7 +244,6 @@ Electricity is a constant part of daily life, but understanding how it is measur
 If you are ready to explore other utilities, visit our guides on gas service, water bills, or heating and cooling systems.
 </p>
 
-
 ## Browse Our Electricity Guides {#electricity-guides}
 
 <p>For the cross-utility savings program — electric, gas, and water together, ranked by payback — see the <a href="/lower-your-bills/">Lower Your Bills hub</a>.</p>
@@ -274,8 +275,8 @@ If you are ready to explore other utilities, visit our guides on gas service, wa
 
 <h3>Meters and Usage</h3>
 <ul>
-<li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a></li>
-<li><a href="/blog/11-understanding-kwh-usage/">Understanding kWh Usage</a></li>
+<li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)? Understanding kWh Usage</a></li>
+
 <li><a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
 <li><a href="/blog/how-many-watts-does-refrigerator-use/">How Many Watts Does a Refrigerator Use?</a></li>
 <li><a href="/blog/smart-plug-energy-monitoring-which-measures-usage/">Which Smart Plug Measures Energy Usage?</a></li>

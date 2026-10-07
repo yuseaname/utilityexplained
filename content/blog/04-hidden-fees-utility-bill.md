@@ -4,7 +4,7 @@ slug: "04-hidden-fees-utility-bill"
 description: "Hidden fees on your utility bill — rider charges, franchise fees, minimum bills — where each comes from and which ones you can actually get removed."
 date: 2026-03-07
 updated: 2026-08-30
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["utility fees", "utility bill charges", "electric bill fees"]

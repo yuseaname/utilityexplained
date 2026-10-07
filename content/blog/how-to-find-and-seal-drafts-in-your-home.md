@@ -4,7 +4,7 @@ slug: "how-to-find-and-seal-drafts-in-your-home"
 description: "Find drafts with your hand, a smoke pen, and a flashlight, then seal the ten standard leak spots with sweeps, caulk, gaskets, and weatherstripping."
 date: 2026-08-30
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["air sealing", "drafts", "weatherstripping", "winter prep"]

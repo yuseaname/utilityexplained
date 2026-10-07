@@ -4,7 +4,7 @@ slug: "13-ac-short-cycling-causes-fixes"
 description: "Document frequent AC cycling, complete safe owner checks, and know when to arrange qualified HVAC service instead of relying on a generic diagnosis."
 date: 2026-05-28
 updated: 2026-08-30
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["HVAC", "air conditioning", "maintenance"]

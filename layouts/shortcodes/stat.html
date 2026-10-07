@@ -1,0 +1,21 @@
+{{- $key := .Get 0 -}}
+{{- $mode := .Get 1 | default "formatted" -}}
+{{- $stats := $.Site.Data.stats -}}
+{{- $entry := index $stats $key -}}
+{{- if $entry -}}
+  {{- if eq $mode "raw" -}}
+    {{- $entry.value -}}
+  {{- else if eq $mode "date" -}}
+    {{- $entry.data_month -}}
+  {{- else if eq $entry.unit "cents/kWh" -}}
+    {{- printf "%.2f¢/kWh" $entry.value -}}
+  {{- else if eq $entry.unit "dollars/therm" -}}
+    {{- printf "$%.2f/therm" $entry.value -}}
+  {{- else if eq $entry.unit "kWh/month" -}}
+    {{- printf "%d kWh/month" $entry.value -}}
+  {{- else -}}
+    {{- $entry.value -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "stat shortcode: unknown key %q" $key -}}
+{{- end -}}

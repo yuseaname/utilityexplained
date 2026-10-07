@@ -4,7 +4,7 @@ slug: "flume-vs-moen-flo-vs-phyn-water-monitors"
 description: "Flume 2 vs Moen Flo vs Phyn Plus: three ways to watch your water. Differences in install, shutoff, subscriptions, and what happens when you're away."
 date: 2026-09-06
 updated: 2026-09-06
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water monitor", "flume", "moen flo", "phyn", "leak detection", "smart home"]

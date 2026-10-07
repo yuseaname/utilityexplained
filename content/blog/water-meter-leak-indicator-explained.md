@@ -4,7 +4,7 @@ slug: "water-meter-leak-indicator-explained"
 description: "Water meter leak indicator: most meters have a small dial that moves when water flows. How to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water meter", "water bill"]

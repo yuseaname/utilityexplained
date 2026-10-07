@@ -4,7 +4,7 @@ slug: "46-what-time-is-electricity-cheapest"
 description: "What time is electricity cheapest? Find cheapest hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
 date: 2026-08-28
 updated: 2026-08-30
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["electricity rates", "time of use", "utility bill"]

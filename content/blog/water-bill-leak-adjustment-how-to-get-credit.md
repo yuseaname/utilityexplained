@@ -4,7 +4,7 @@ slug: "water-bill-leak-adjustment-how-to-get-credit"
 description: "You fixed the leak — now the $400 bill. Most utilities will credit part of it if you ask correctly: the policy terms, the math, and a request letter."
 date: 2026-09-28
 updated: 2026-09-28
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water leak adjustment", "water bill credit", "leak adjustment letter", "utility billing", "water leak"]

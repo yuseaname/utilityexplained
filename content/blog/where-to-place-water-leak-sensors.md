@@ -4,7 +4,7 @@ slug: "where-to-place-water-leak-sensors"
 description: "A five-pack of leak sensors only works if the pucks sit where water arrives first. The six high-value placements, the two that waste sensors, and upkeep."
 date: 2026-09-06
 updated: 2026-09-06
-author: "Marcia Washington"
+author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water leak detector", "leak sensor", "water bill", "home maintenance", "smart home"]

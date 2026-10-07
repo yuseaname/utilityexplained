@@ -4,7 +4,7 @@ slug: "gadgets-that-lower-utility-bills"
 description: "Use measurement and an assessment before buying an energy-saving device; choose products that fit the home, electrical load, and utility plan."
 date: 2026-08-15
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
 tags: ["energy monitoring", "water leak detection", "smart thermostat", "utility savings"]

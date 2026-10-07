@@ -5,7 +5,7 @@ description: "A minimum bill charges you even when you use almost nothing. See w
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["minimum bill", "utility fees", "customer charge"]

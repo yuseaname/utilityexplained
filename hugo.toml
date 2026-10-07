@@ -88,8 +88,8 @@ theme = 'adsense-base'
     url = "/about/"
     weight = 2
   [[menus.secondary]]
-    name = "Our Authors"
-    url = "/author/"
+    name = "Editorial Team"
+    url = "/editorial-team/"
     weight = 3
 
   [[menus.secondary]]

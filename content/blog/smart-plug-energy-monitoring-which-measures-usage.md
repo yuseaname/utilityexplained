@@ -4,7 +4,7 @@ slug: "smart-plug-energy-monitoring-which-measures-usage"
 description: "Most smart plugs only switch on and off. How to tell which ones actually measure watts and kWh — and what they can safely meter, including window ACs."
 date: 2026-08-31
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["smart plug", "energy monitoring", "electricity usage", "smart home", "energy meter"]

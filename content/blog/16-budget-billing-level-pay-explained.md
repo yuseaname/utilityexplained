@@ -5,7 +5,7 @@ description: "Review a utility budget-billing or level-pay offer using the provi
 date: 2026-05-28
 hero_below_answer: true
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["budget billing", "level pay", "utility bills"]

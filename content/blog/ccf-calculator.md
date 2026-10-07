@@ -4,7 +4,7 @@ slug: "ccf-calculator"
 description: "Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's gallons-per-person-day baseline."
 date: 2026-08-28
 updated: 2026-08-28
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "CCF", "calculator", "water rates"]

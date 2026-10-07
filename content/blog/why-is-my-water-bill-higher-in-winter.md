@@ -4,7 +4,7 @@ slug: "why-is-my-water-bill-higher-in-winter"
 description: "No lawn watering but a higher bill? Learn the most common winter causes, from leaks to longer billing cycles and freeze-thaw pipe stress, and how to check."
 date: 2025-12-27
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water bill", "estimated bill", "sewer averaging", "ccf", "frozen pipes"]

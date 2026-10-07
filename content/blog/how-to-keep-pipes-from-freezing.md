@@ -4,7 +4,7 @@ slug: "how-to-keep-pipes-from-freezing"
 description: "How to keep pipes from freezing: the ranked prevention ladder — free tonight, cheap this weekend, worth-it upgrades — plus who pays if one bursts."
 date: 2026-10-04
 updated: 2026-10-04
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["frozen pipes", "water bill", "winter", "plumbing", "leak prevention"]

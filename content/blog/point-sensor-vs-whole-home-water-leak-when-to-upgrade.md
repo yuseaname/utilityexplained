@@ -4,7 +4,7 @@ slug: "point-sensor-vs-whole-home-water-leak-when-to-upgrade"
 description: "Point sensors guard spots, meter monitors watch every gallon, and an inline valve acts when you can't — the five signals that say when to move up."
 date: 2026-08-30
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak detector", "water monitor", "smart shutoff", "water bill"]

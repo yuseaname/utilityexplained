@@ -4,7 +4,7 @@ slug: "sewer-averaging-water-bill-explained"
 description: "Sewer charges often use a winter average, not current water use. Learn how sewer averaging works with real city examples from Austin and San Antonio."
 date: 2025-12-27
 updated: 2026-08-29
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["sewer", "sewer averaging", "leak", "ccf", "water bill"]

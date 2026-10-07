@@ -4,7 +4,7 @@ slug: "why-did-my-water-bill-suddenly-increase"
 description: "Why did my water bill suddenly increase? The common reasons water bills spike — leaks, rate changes, meter errors — and how to troubleshoot each one."
 date: 2025-12-26
 updated: 2026-09-06
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "gallons", "water bill"]

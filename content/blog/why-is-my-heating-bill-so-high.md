@@ -4,7 +4,7 @@ slug: "why-is-my-heating-bill-so-high"
 description: "A fuel-agnostic diagnostic for heating bill spikes — electric resistance, heat pumps, propane, oil, and gas — including the hidden cost of blower motors."
 date: 2026-09-20
 updated: 2026-09-20
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["heating bill", "high utility bill", "furnace cost", "heat pump bill", "electric heating"]
@@ -17,6 +17,8 @@ sources:
   - https://www.epa.gov/watersense/statistics-and-facts
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 ## Quick Answer
 
 **A high heating bill is usually caused by one of three things: a sudden drop in outdoor temperature forcing longer run cycles, a mechanical failure like a stuck auxiliary heat strip or a failing blower motor, or a significant increase in the unit price of your fuel.** For gas furnace owners, a spike in the *electric* bill is often due to an aging PSC blower motor drawing excessive power, while heat pump owners often see spikes when the system relies on expensive "emergency" electric resistance backup. To find the cause, first check if your usage (therms/kWh) increased or if only the rate ($/unit) went up.
@@ -72,7 +74,7 @@ Learning [how to find and seal drafts](/blog/how-to-find-and-seal-drafts-in-your
 
 ## Comparing Fuel Costs (The Math)
 
-To understand if your bill is "normal," you have to compare the raw energy cost. Using the June 2026 national average of **18.34¢/kWh** and a mid-range gas price of **$1.50/therm**:
+To understand if your bill is "normal," you have to compare the raw energy cost. Using the June 2026 national average of **{{< stat "electric_rate_jun2026" >}}** and a mid-range gas price of **$1.50/therm**:
 
 *   **Electric Resistance Heat:** 1 therm = 29.3 kWh (100,000 BTU / 3,412 BTU/kWh).
 *   **Cost per 100,000 BTU (Electric):** 29.3 kWh × $0.1834 = **$5.37**

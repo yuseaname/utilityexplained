@@ -4,7 +4,7 @@ slug: "28-utility-reconnection-fee-explained"
 description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
 date: 2026-05-28
 updated: 2026-08-29
-author: "Tanya Patterson"
+author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
 tags: ["reconnection fee", "service shutoff", "utility bill"]

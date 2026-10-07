@@ -4,7 +4,7 @@ slug: "are-water-heater-blankets-worth-it"
 description: "Are water heater blankets worth it? Marginal on a modern tank, worthwhile on an older one — the honest math on standby loss and when the $33 pays off."
 date: 2026-09-12
 updated: 2026-09-12
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
 tags: ["water heater blanket", "standby loss", "water heater insulation", "energy savings", "tank insulation"]

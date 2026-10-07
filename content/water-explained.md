@@ -189,7 +189,6 @@ How to read a water meter (and know if it is accurate)
 Why did my water bill suddenly increase?
 -- Understand common causes of spikes and how to troubleshoot.
 </li>
-
 <li>
 What is CCF on a water bill?
 - Convert cubic feet to gallons and costs.
@@ -248,7 +247,6 @@ Water service is essential for daily life, but understanding how it is measured 
 For broader utility budgeting advice, visit our utility bills and costs guide. To compare water costs to other utilities, see our guides on electricity and natural gas.
 </p>
 
-
 ## Browse Our Water Bill Guides {#water-guides}
 
 <p>Explore our complete library of water and sewer bill guides:</p>
@@ -286,5 +284,5 @@ For broader utility budgeting advice, visit our utility bills and costs guide. T
 <ul>
 <li><a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
 <li><a href="/blog/average-water-usage-per-person/">Average Water Usage Per Person</a></li>
-<li><a href="/blog/drought-surcharge-on-water-bill-explained/">Drought Surcharges on Your Water Bill</a></li>
+
 </ul>

@@ -1,0 +1,25 @@
+{{- /* Dynamic guide count — runs the IDENTICAL matcher to layouts/_default/hub.html
+       so the blog index can never diverge from the hubs.
+
+       Usage:
+         {{< guide-count >}}                       → total blog guide count
+         {{< guide-count "/electricity-explained/" >}} → count for that hub's categories
+
+       The hub's own front-matter `hub_categories` is read, then blog pages are
+       filtered with the same `in $cats .Params.category` test hub.html uses. */ -}}
+{{- $hubPages := where site.RegularPages "Section" "blog" -}}
+{{- $hubURL := .Get 0 -}}
+{{- if $hubURL -}}
+  {{- $hub := site.GetPage $hubURL -}}
+  {{- $cats := slice -}}
+  {{- with $hub -}}{{- $cats = .Params.hub_categories | default slice -}}{{- end -}}
+  {{- $matched := slice -}}
+  {{- range $hubPages -}}
+    {{- if in $cats .Params.category -}}
+      {{- $matched = $matched | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- len $matched -}}
+{{- else -}}
+  {{- len $hubPages -}}
+{{- end -}}

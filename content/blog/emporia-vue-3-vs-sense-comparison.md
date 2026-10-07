@@ -4,7 +4,7 @@ slug: "emporia-vue-3-vs-sense-comparison"
 description: "Emporia Vue 3 meters circuits directly; Sense guesses devices from mains data. An impartial comparison of install, channels, and failure modes."
 date: 2026-08-31
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["energy monitor", "emporia vue", "sense", "electricity usage", "smart home"]

@@ -4,7 +4,7 @@ slug: "smart-thermostat-time-of-use-savings"
 description: "A smart thermostat doesn't lower your rate — it changes when you buy power. How automation meets time-of-use pricing and what the math depends on."
 date: 2026-09-06
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling", "Electricity"]
 tags: ["smart thermostat", "time of use", "electricity rates", "energy savings", "smart home"]
@@ -18,6 +18,8 @@ sources:
   - https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf
 ---
 
+
+<p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 ## Quick Answer
 
 **A smart thermostat saves money on a time-of-use (TOU) plan by moving your heating and cooling's *purchase times* away from expensive hours — automatically, which is the only way it reliably happens.** The mechanism is scheduling: pre-cool or pre-heat the house in cheap hours, coast through the expensive window, and recover after it ends. DOE's benchmark — up to 10% a year on heating and cooling from a 7–10°F, 8-hour daily setback[1] — was measured on ordinary programmable schedules; a smart thermostat earns its premium by actually maintaining that schedule without anyone remembering to. What no thermostat does is change your rate: if your peak/off-peak gap is small, the automation has little to work with, and the smart move is checking your tariff before buying hardware.
@@ -30,7 +32,7 @@ This page is about the intersection of two subjects this site covers separately:
 
 {{< visual src="/images/articles/smart-thermostat-time-of-use-savings/rate-curve.webp" alt="Line illustration of a 24-hour bar chart with short overnight bars and one tall amber cluster in the late afternoon, beside a thermostat dial." wide="true" >}}
 
-TOU plans price the same kilowatt-hour differently by hour — Pacific Gas & Electric's E-TOU-C, for example, charges for power used 4–9 PM at a premium every day, and less in all other hours;[4] the national average residential price sat around 18.3¢/kWh in mid-2026.[3] Heating and cooling are typically the largest single load in a house, which makes them the most valuable thing to move off the expensive window.
+TOU plans price the same kilowatt-hour differently by hour — Pacific Gas & Electric's E-TOU-C, for example, charges for power used 4–9 PM at a premium every day, and less in all other hours;[4] the national average residential price sat around {{< stat "electric_rate_jun2026" >}} in mid-2026.[3] Heating and cooling are typically the largest single load in a house, which makes them the most valuable thing to move off the expensive window.
 
 A thermostat can't store electricity — what it can do is store *thermal comfort* in the house itself:
 
@@ -81,5 +83,5 @@ Before buying automation, spend the free fifteen minutes: confirm your rate plan
 
 1. [U.S. Department of Energy — Home Upgrades / Energy Savings Hub](https://www.energy.gov/save/home-upgrades) — thermostat setback savings framework (up to 10%/year for 7–10°F, 8-hour setback). Retrieved 2026-09-06.
 2. [ENERGY STAR — Smart Thermostats](https://www.energystar.gov/products/smart_thermostats) — certified models independently certified, based on actual field data, to deliver energy savings. Retrieved 2026-09-06.
-3. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-06.
+3. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price {{< stat "electric_rate_jun2026" >}}, June 2026. Retrieved 2026-09-06.
 4. [PG&E E-TOU-C tariff](https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf) — example TOU peak window (4–9 PM daily). Retrieved 2026-09-06.

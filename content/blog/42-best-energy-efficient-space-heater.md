@@ -4,7 +4,7 @@ slug: "42-best-energy-efficient-space-heater"
 description: "Is a portable space heater worth it? Assess one using manufacturer instructions, electrical safety rules, room conditions, and your actual utility rate."
 date: 2026-05-30
 updated: 2026-08-29
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["space heater", "heater safety", "electricity use"]

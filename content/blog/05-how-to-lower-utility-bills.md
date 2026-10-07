@@ -4,7 +4,7 @@ slug: "05-how-to-lower-utility-bills"
 description: "What actually lowers bills? A ranked list of the top fixes across electricity, gas, water, and weatherization — with typical cost, savings, and payback."
 date: 2026-03-07
 updated: 2026-09-06
-author: "David Chen"
+author: "Home Energy Desk"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
 tags: ["utility bills", "energy assessment", "energy efficiency"]

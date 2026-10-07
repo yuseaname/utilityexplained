@@ -1,8 +1,8 @@
 {{- /* head.schema.html — JSON-LD structured data
-      SITE OVERRIDE of theme partial (SQ-013): author-section pages now emit
-      ProfilePage + Person instead of Article (author bios are not articles);
-      articles gain inLanguage + publisher url/@id. Keep in sync with theme
-      changes to the base file. */ -}}
+      SITE OVERRIDE of theme partial (SQ-013): articles gain inLanguage +
+      publisher url/@id. Author-desk migration (2026-10-07): article author is
+      now the Organization "Utility Explained" — no Person authors remain.
+      Keep in sync with theme changes to the base file. */ -}}
 {{- $schemas := slice -}}
 
 {{/* ── WebSite schema (homepage only) ── */}}
@@ -30,37 +30,8 @@
   {{- $schemas = $schemas | append $ws -}}
 {{- end -}}
 
-{{/* ── ProfilePage + Person schema (author-section singles) ── */}}
-{{- if and (not .IsHome) (not .IsNode) (eq .CurrentSection.Path "/author") -}}
-  {{- $personName := .Title -}}
-  {{- $jobTitle := "" -}}
-  {{- $parts := split .Title " — " -}}
-  {{- if gt (len $parts) 1 -}}
-    {{- $personName = index $parts 0 -}}
-    {{- $jobTitle = index $parts 1 -}}
-  {{- end -}}
-  {{- $person := dict
-      "@context" "https://schema.org"
-      "@type" "Person"
-      "name" $personName
-      "url" .Permalink
-      "description" (.Params.description | default "")
-  -}}
-  {{- with $jobTitle -}}
-    {{- $person = dict "jobTitle" . | merge $person -}}
-  {{- end -}}
-  {{- $person = dict "worksFor" (dict "@type" "Organization" "name" .Site.Title) | merge $person -}}
-  {{- $profile := dict
-      "@context" "https://schema.org"
-      "@type" "ProfilePage"
-      "mainEntity" $person
-      "url" .Permalink
-  -}}
-  {{- $schemas = $schemas | append $profile -}}
-{{- end -}}
-
-{{/* ── Article schema (single pages only, excluding author bios) ── */}}
-{{- if and (not .IsHome) (not .IsNode) (ne .CurrentSection.Path "/author") -}}
+{{/* ── Article schema (single pages only) ── */}}
+{{- if and (not .IsHome) (not .IsNode) -}}
   {{- $article := dict
       "@context" "https://schema.org"
       "@type" "Article"
@@ -74,10 +45,15 @@
   {{- with .Params.image -}}
     {{- $article = dict "image" . | merge $article -}}
   {{- end -}}
-  {{- $authorName := .Params.author | default "" -}}
-  {{- with $authorName -}}
-    {{- $article = dict "author" (dict "@type" "Person" "name" .) | merge $article -}}
-  {{- end -}}
+  {{- /* Author-desk migration: the byline is the publishing Organization, not a
+         Person. Desk attribution stays visible in the page byline. */ -}}
+  {{- $authorOrg := dict
+      "@type" "Organization"
+      "name" "Utility Explained"
+      "url" "https://utilityexplained.com"
+      "logo" (dict "@type" "ImageObject" "url" "https://utilityexplained.com/images/og-default.png")
+  -}}
+  {{- $article = dict "author" $authorOrg | merge $article -}}
   {{- $pub := dict
       "@type" "Organization"
       "name" (or .Site.Params.org_name .Site.Title)

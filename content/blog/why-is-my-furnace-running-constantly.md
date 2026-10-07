@@ -5,7 +5,7 @@ image: "/images/articles/why-is-my-furnace-running-constantly/why-is-my-furnace-
 description: "Why is my furnace running constantly? It is often normal in cold weather — or one of five fixable problems. Ranked causes and the DIY-vs-pro line."
 date: 2026-10-04
 updated: 2026-10-04
-author: "Margaret Harrington"
+author: "Bills & Rates Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
 tags: ["furnace running constantly", "gas furnace", "heating season", "HVAC", "heating bill"]

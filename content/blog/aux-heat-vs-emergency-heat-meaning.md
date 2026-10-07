@@ -4,7 +4,7 @@ slug: "aux-heat-vs-emergency-heat-meaning"
 description: "Aux heat vs emergency heat: what your thermostat is telling you, why costs can spike, and when to use each mode — and when to leave it alone."
 date: 2025-12-25
 updated: 2026-08-21
-author: "Roberto Mendoza"
+author: "Heating & Cooling Desk"
 sources:
   - https://web.archive.org/web/20260630092046/https://www.energy.gov/energysaver/heat-pump-systems (DOE Energy Saver; archived 2026-06-30, retrieved 2026-08-29)
   - https://www.energystar.gov/saveathome/heating-cooling (retrieved 2026-08-29)
