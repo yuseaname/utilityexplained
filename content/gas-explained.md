@@ -11,192 +11,99 @@ hub_categories: ["Gas"]
 url: "/gas-explained"
 ---
 
-<h2>What is natural gas and how does it reach your home?</h2>
+<h2>Quick Answer</h2>
 <p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
-Natural gas is a fossil fuel extracted from underground deposits. It is primarily methane and burns cleanly compared to coal or oil. Gas is transported through pipelines from production areas to distribution networks in your region, then through smaller pipes to your neighborhood and into your home.
+Your natural gas bill charges for two things: the gas itself (supply, priced per therm) and the cost of delivering it to your home (delivery/distribution), plus a fixed customer charge. Most residential bills measure usage in <strong>therms</strong>, where one therm equals 100,000 BTUs. Rates and usage vary by climate, so use the router below to jump straight to the guide that answers your question.
 </p>
+
+<h2>What are you trying to solve?</h2>
+<ul>
+<li><strong>My gas bill is too high</strong> — <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a></li>
+<li><strong>I want to understand my gas bill charges</strong> — <a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
+<li><strong>What's the difference between MCF, CCF, and therms?</strong> — <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
+<li><strong>How do I read my gas meter?</strong> — <a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
+<li><strong>Fixed vs. variable gas rates</strong> — <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a></li>
+<li><strong>How do I lower my gas usage?</strong> — <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
+</ul>
+
+<h2>What is natural gas and how does it reach your home?</h2>
 <p>
-Your home has a gas meter that measures how much gas flows through. Gas-powered appliances like furnaces, water heaters, stoves, and dryers burn the gas to create heat. The utility company reads your meter monthly and bills you for what you used.
+Natural gas is methane piped from production areas to your home, where a meter measures what you use. For how that flow shows up on your statement, see <a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill</a>.
 </p>
-<p>
-Think of natural gas like water flowing through pipes. The gas comes from a central source, flows through a network of pipes, and you only pay for what passes through your meter.
-</p>
+
 <h2>How natural gas is measured: therms, BTUs, and CCF</h2>
 <p>
-Natural gas is measured by the amount of heat energy it contains, not by volume alone. The most common unit on residential bills is the <strong>therm</strong>. One therm equals 100,000 British Thermal Units (BTUs). A BTU is the amount of energy needed to raise one pound of water by one degree Fahrenheit.
+Bills charge in therms (heat energy), though some utilities meter in CCF or MCF. For the full unit conversion, see <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a>.
 </p>
-<p>
-Some utilities bill in <strong>cubic feet (CCF)</strong> or <strong>thousand cubic feet (MCF)</strong>. One CCF is 100 cubic feet of gas. Because the energy content of gas can vary slightly, the bill often includes a conversion factor that translates volume into therms based on the actual heat value of the gas delivered that month.
-</p>
-<p>
-Your bill charges you for therms, not raw volume. This ensures you pay for the actual energy you received, regardless of small variations in gas composition.
-</p>
-<p>
-For reference, one therm is roughly equivalent to 29.3 kWh of electricity in terms of energy content. However, gas furnaces and appliances have different efficiencies, so direct comparisons depend on equipment performance.
-</p>
+
 <h2>Understanding your gas bill</h2>
 <p>
-Gas bills typically have three main components: supply charges, delivery charges, and fixed fees. Understanding each part helps you see where your money goes.
-</p>
-<h3>Supply charge (commodity charge)</h3>
-<p>
-This is the cost of the natural gas itself. It is usually listed as a price per therm. At the 2026 U.S. residential average of roughly $1.91 per therm-equivalent (EIA residential series; state and seasonal rates vary widely, from about $1.00 to $2.50+), 60 therms costs about $115 — check your own bill’s supply line for your exact per-therm rate. Some regions allow you to choose a gas supplier, which affects this rate.
-</p>
-<h3>Delivery charge (distribution charge)</h3>
-<p>
-This covers the cost of maintaining the pipelines, meters, and infrastructure that bring gas to your home. Delivery charges may be a flat fee, a per-therm charge, or both. You pay this to your local utility even if you choose a different gas supplier.
-</p>
-<h3>Customer charge and other fees</h3>
-<p>
-Most bills include a fixed monthly customer charge that you pay even if you use very little gas. You may also see regulatory fees, taxes, or environmental surcharges. These are usually small but add to the total.
-</p>
-<p>
-Because of the fixed customer charge, even low-usage households receive a monthly bill. If you use gas only for cooking, your bill may be $20 to $30 per month with minimal therm usage.
+A gas bill has three parts — supply (commodity), delivery (distribution), and a fixed customer charge. For a line-by-line breakdown, see <a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a>.
 </p>
 <figure class="bill-figure">
 <img src="/images/articles/gas-explained/bill-anatomy.webp" alt="Annotated example gas bill: customer charge $11.00, gas supply of 64 therms at $1.12 per therm equaling $71.68, delivery charge $18.30, taxes and fees $6.24, total due $107.22, with each charge labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
 <figcaption>Anatomy of a typical gas bill, with therms explained. Illustrative example — rates and fees vary by utility.</figcaption>
 </figure>
+
 <h2>What uses the most gas in a typical home?</h2>
 <p>
-Space heating is by far the largest gas user in most homes, often accounting for 60% to 80% of annual gas consumption. Gas furnaces and boilers run frequently in winter, which drives sharp seasonal increases.
+Space heating dominates, followed by water heating, then cooking and drying. For the full usage breakdown, see <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
 </p>
-<p>
-Water heating is the second-largest use, typically 15% to 25% of total gas consumption. Gas water heaters run throughout the year to maintain hot water temperature, so this is a steady baseline.
-</p>
-<p>
-Gas dryers and ranges account for smaller shares, usually 5% to 10% combined. Cooking uses very little gas compared to heating, even if you cook daily.
-</p>
-<p>
-Some older appliances have standing pilot lights that burn a small amount of gas continuously. Modern appliances use electronic ignition, which eliminates this constant draw.
-</p>
+
 <h2>Seasonal changes and why gas bills vary</h2>
 <p>
-Gas bills peak in winter because heating demand rises as outdoor temperatures drop. In very cold climates, a winter bill can be five to ten times higher than a summer bill.
+Winter heating demand drives gas bills far above summer levels. For how seasons and billing cycles move your total, see <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
 </p>
-<p>
-Summer bills are usually the lowest, reflecting only water heating, cooking, and possibly dryer use. Comparing your summer bill to your winter bill shows how much of your total cost is driven by space heating.
-</p>
-<p>
-Billing cycles can also vary in length. A 35-day cycle will cost more than a 28-day cycle even if daily usage stays the same. Always compare therms per day to see whether actual usage changed.
-</p>
-<p>
-Some utilities also adjust rates seasonally. Winter rates may be higher due to increased demand, or they may include fuel adjustment charges that reflect market prices.
-</p>
+
 <h2>Furnace efficiency and AFUE ratings</h2>
 <p>
-Gas furnaces are rated by Annual Fuel Utilization Efficiency (AFUE), which measures how much of the gas energy is converted into heat for your home. A furnace with 80% AFUE means 80% of the gas energy becomes heat, and 20% is lost through the exhaust.
+AFUE measures how much gas a furnace turns into heat. For what efficiency means for your running cost, see <a href="/blog/how-much-does-it-cost-to-run-a-furnace/">How Much Does It Cost to Run a Furnace?</a>.
 </p>
-<p>
-Modern high-efficiency furnaces have AFUE ratings of 90% to 98%. Older furnaces may be 60% to 80% efficient. Upgrading from a 70% AFUE furnace to a 95% AFUE furnace can reduce gas usage by about 25% for the same heating output.
-</p>
-<p>
-Higher efficiency costs more upfront but saves money over time, especially in cold climates with long heating seasons.
-</p>
+
 <h2>How to reduce natural gas usage</h2>
-<ul>
-<li>Lower your thermostat by a few degrees, especially overnight or when away.</li>
-<li>Use a programmable thermostat to avoid heating an empty home.</li>
-<li>Seal air leaks around doors, windows, and ductwork.</li>
-<li>Add insulation to attics and walls if needed.</li>
-<li>Replace furnace filters monthly during heating season.</li>
-<li>Schedule annual furnace maintenance to keep efficiency high.</li>
-<li>Set water heater temperature to 120 degF if safe for your household.</li>
-<li>Use cold water for laundry when possible.</li>
-<li>Insulate hot water pipes to reduce heat loss.</li>
-<li>Close vents and doors in unused rooms if safe for your system.</li>
-</ul>
 <p>
-Even small reductions in thermostat settings can lower gas usage significantly. Lowering the temperature by 3 degF can reduce heating costs by about 5% to 10%.
+Lowering your thermostat, sealing leaks, and maintaining your furnace all cut gas use. For the full checklist, see <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
+
 <h2>Fixed vs. variable gas rates</h2>
 <p>
-In some regions, you can choose your natural gas supplier and select between fixed-rate and variable-rate plans. Fixed-rate plans lock in the price per therm for a set term, providing stability and predictable bills.
+Fixed rates lock in a price per therm; variable rates move with the market. For how to choose, see <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a>.
 </p>
-<p>
-Variable-rate plans change monthly based on market conditions. They can be cheaper during low-demand months but may spike during cold winters when demand is high.
-</p>
-<p>
-If you prefer consistent budgeting, a fixed rate is usually safer. If you are comfortable with price fluctuations and monitor rates regularly, a variable rate might offer savings in some months.
-</p>
-<p>
-Always review the plan details carefully. Look for early termination fees, minimum usage charges, and whether the introductory rate is promotional.
-</p>
+
 <h2>Gas meter basics and how to read yours</h2>
 <p>
-Most residential gas meters are either dial meters or digital meters. Dial meters have several circular dials that you read from left to right. If the hand is between two numbers, record the lower number.
+Dial and digital meters both show cumulative usage you can verify against your bill. For step-by-step reading, see <a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a>.
 </p>
-<p>
-Digital meters display the reading directly, usually in cubic feet. Some digital meters cycle through multiple screens, so wait for the total usage screen.
-</p>
-<p>
-To verify your bill, compare the current meter reading to the previous reading listed on the bill. The difference is your usage in cubic feet. If your bill uses therms, the utility applies a conversion factor.
-</p>
-<p>
-If your bill shows an estimated reading, the next actual reading will correct the estimate. You can often submit your own reading online to avoid estimates.
-</p>
+
 <h2>Common misconceptions about natural gas</h2>
 <h3>Misconception: Gas heat is always cheaper than electric heat</h3>
 <p>
-In many areas, gas heat is cheaper because natural gas prices per unit of energy are lower than electricity prices. However, in regions with very low electric rates or high gas prices, efficient electric heat pumps can compete with gas furnaces.
+Usually true, but efficient electric heat pumps can compete where electric rates are low or gas prices are high.
 </p>
 <h3>Misconception: Turning the furnace off when you leave saves more than lowering the thermostat</h3>
 <p>
-Turning the furnace off completely can cause pipes to freeze in very cold weather and may require more energy to reheat the home. Lowering the thermostat by 5 to 10 degrees is safer and still saves gas.
+Shutting it off risks frozen pipes and costly reheating; lowering the thermostat 5–10 degrees is safer and still saves gas.
 </p>
 <h3>Misconception: Gas meters are always accurate</h3>
 <p>
-Gas meters are generally very accurate, but they can malfunction. If your usage seems unusually high and you cannot find a cause, contact your utility to request a meter test. Some utilities charge a fee if the meter is found to be accurate.
+Meters are generally accurate but can malfunction. If usage looks unusually high with no cause, ask your utility for a meter test.
 </p>
+
 <h2>Safety considerations for natural gas</h2>
 <p>
-Natural gas is safe when used properly, but leaks can be dangerous. Gas companies add a sulfur-based odorant that smells like rotten eggs to make leaks easy to detect.
+Natural gas is safe when used properly, but leaks are dangerous. Gas companies add a sulfur-based odorant (mercaptan) that smells like rotten eggs so leaks are easy to detect.
 </p>
 <p>
 If you smell gas, leave the home immediately and call your utility or 911 from a safe location. Do not turn on lights, use phones, or create any spark.
 </p>
 <p>
-Install carbon monoxide detectors near gas appliances and sleeping areas. Carbon monoxide is a colorless, odorless gas produced by incomplete combustion. Detectors provide early warning if levels become unsafe.
+Install carbon monoxide detectors near gas appliances and sleeping areas, and schedule annual furnace and water-heater inspections.
 </p>
-<p>
-Schedule annual inspections for gas furnaces and water heaters to ensure they are operating safely and efficiently.
-</p>
-<h2>Related guides to deepen your understanding</h2>
-<p>
-Now that you understand the basics of natural gas service, explore these specific topics to answer common questions and manage your gas bills more effectively:
-</p>
-<ul>
-<li>
-How to read your gas bill: therms explained
--- Decode line items, delivery charges, and seasonal usage.
-</li>
-<li>
-How to read your gas meter
-- Verify readings and spot estimates.
-</li>
-<li>
-Gas delivery charge vs supply charge
-- Separate the commodity from distribution fees.
-</li>
-<li>
-Gas customer charge explained
-- Understand the fixed monthly fee.
-</li>
-<li>
-Why is my gas bill so high in winter?
-- Heating load and cold-weather factors.
-</li>
-<li>
-Why is my gas bill so high in summer?
-- Water heating and standby usage drivers.
-</li>
-</ul>
+
 <h2>Frequently asked questions</h2>
 <h3>How many therms does the average home use per month?</h3>
-<p>
-Usage varies widely by climate and home size. In winter, a typical home in a cold climate might use 80 to 150 therms per month. In summer, usage may drop to 10 to 30 therms for water heating and cooking.
-</p>
+<p>Usage varies widely by climate and home size: a cold-climate home might use 80 to 150 therms per month in winter, dropping to 10 to 30 therms in summer for water heating and cooking.</p>
 <h3>Can I choose my natural gas supplier?</h3>
 <p>
 In some states, you can choose a gas supplier for the commodity portion of your bill. The delivery portion remains with your local utility. Availability varies by location.
@@ -206,21 +113,9 @@ In some states, you can choose a gas supplier for the commodity portion of your 
 The customer charge covers the fixed costs of maintaining service, such as meter reading, billing, and infrastructure. You pay this charge every month regardless of usage.
 </p>
 <h3>Is it worth upgrading to a high-efficiency furnace?</h3>
-<p>
-If your furnace is old and you live in a cold climate, upgrading to a high-efficiency model can save 20% to 30% on heating costs. The payback period depends on gas prices and how many years the furnace will be used.
-</p>
+<p>If your furnace is old and you live in a cold climate, upgrading to a high-efficiency model can save 20% to 30% on heating costs; the payback period depends on gas prices and how long you keep the furnace.</p>
 <h3>What should I do if my gas bill seems too high?</h3>
-<p>
-Check for estimated readings, compare therms per day to previous bills, and verify your thermostat settings. If usage still seems high, schedule a furnace inspection to ensure it is operating efficiently.
-</p>
-<h2>Final thoughts</h2>
-<p>
-Natural gas is an efficient fuel for heating and other household uses, but understanding how it is measured and billed helps you manage costs. Start by reading your bill carefully, comparing seasonal usage, and identifying your largest gas loads. Small adjustments to thermostat settings and maintenance habits can reduce usage without sacrificing comfort.
-</p>
-<p>
-If you want to compare gas to other energy sources, visit our heating and cooling guide. For broader budgeting advice, see our utility bills and costs overview.
-</p>
-
+<p>Check for estimated readings, compare therms per day to previous bills, and verify your thermostat settings; if usage still seems high, schedule a furnace inspection.</p>
 
 ## Browse Our Gas Bill Guides {#gas-guides}
 

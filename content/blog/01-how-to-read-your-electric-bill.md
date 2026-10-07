@@ -54,7 +54,7 @@ A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equ
 
 {{< visual src="/images/articles/01-how-to-read-your-electric-bill/one-kwh-explained.webp" alt="Diagram showing a 1,000-watt space heater running for one hour to equal one kilowatt-hour, with an 899 kWh monthly EIA reference." wide="true" >}}
 
-For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
+For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about {{< stat "avg_monthly_kwh" >}}; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
 
 For how much electricity a typical household actually uses, see [understanding kWh usage](/blog/11-understanding-kwh-usage/) — it walks through what a normal month looks like and why yours may not match the average.
 

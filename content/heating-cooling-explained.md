@@ -11,240 +11,115 @@ hub_categories: ["Heating & Cooling"]
 url: "/heating-cooling-explained"
 ---
 
-<h2>How heating and cooling systems work</h2>
+<h2>Quick Answer</h2>
 <p class="hub-byline" style="font-size:.9rem;color:#666;margin-top:-8px;">Edited by the Utility Explained team · Last updated August 2026</p>
 <p>
-Heating systems burn fuel (gas, oil) or use electricity to create warmth. Furnaces heat air and blow it through ducts. Boilers heat water and send it through radiators or radiant floors. Electric resistance heaters convert electricity directly into heat.
+<strong>What drives your heating and cooling bill comes down to three things:</strong> how efficient your system is, what you pay for fuel or electricity, and how much load your home puts on it (size, insulation, climate, and thermostat habits). A high-efficiency system in a leaky house can still cost more to run than an older system in a tight one. Use the router below to jump straight to the guide that answers your question.
 </p>
+
+<h2>What are you trying to solve?</h2>
+<ul>
+<li><strong>My heating bill jumped and I don't know why</strong> — <a href="/blog/why-is-my-heating-bill-so-high/">Why Is My Heating Bill So High?</a></li>
+<li><strong>I want to compare heat pump vs. gas furnace costs</strong> — <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a></li>
+<li><strong>My AC is short-cycling or not cooling</strong> — <a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
+<li><strong>What will it cost to run my furnace?</strong> — <a href="/blog/how-much-does-it-cost-to-run-a-furnace/">How Much Does It Cost to Run a Furnace?</a></li>
+<li><strong>I want to cut my overall utility bills</strong> — <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
+<li><strong>I want to understand aux vs. emergency heat</strong> — <a href="/blog/aux-heat-vs-emergency-heat-meaning/">Aux Heat vs. Emergency Heat</a></li>
+</ul>
+
+<h2>How heating and cooling systems work</h2>
 <p>
-Cooling systems remove heat from indoor air and transfer it outside. Central air conditioners use refrigerant to absorb heat indoors and release it outdoors. The cooled air is distributed through ducts. Window units and ductless mini-splits work similarly but serve smaller areas.
+Heating systems burn fuel or use electricity to create warmth; cooling systems move heat outdoors; heat pumps do both by moving heat rather than creating it. For plain-English definitions of furnaces, boilers, heat pumps, and resistance heat, see the <a href="/utilities-glossary/">utilities glossary</a>.
 </p>
-<p>
-Heat pumps can both heat and cool. In cooling mode, they work like air conditioners. In heating mode, they reverse the process and extract heat from outdoor air (even in winter) and move it indoors. This makes heat pumps very efficient in moderate climates.
-</p>
+
 <h2>Common heating system types</h2>
-<h3>Gas furnaces</h3>
 <p>
-Gas furnaces burn natural gas to heat air, which is then distributed through ducts. They are common in cold climates and usually cost less to operate than electric resistance heat because natural gas is often cheaper per unit of energy.
+Gas furnaces, electric resistance heat, heat pumps, and boilers each have different operating costs and trade-offs. To see how your system type shows up on your bill, read <a href="/blog/why-is-my-heating-bill-so-high/">Why Is My Heating Bill So High?</a>.
 </p>
-<p>
-Furnace efficiency is measured by Annual Fuel Utilization Efficiency (AFUE). Modern furnaces range from 80% to 98% AFUE. A 95% AFUE furnace converts 95% of gas energy into heat, with only 5% lost through the exhaust.
-</p>
-<h3>Electric resistance heat</h3>
-<p>
-Electric resistance heaters, baseboard heaters, and electric furnaces convert electricity directly into heat with nearly 100% efficiency. However, because electricity is often more expensive per unit of energy than gas, operating costs can be higher despite the efficiency.
-</p>
-<h3>Heat pumps</h3>
-<p>
-Heat pumps move heat rather than create it, which makes them more efficient than resistance heat. In mild climates, a heat pump can deliver 2 to 4 times more heat energy than the electricity it consumes. In very cold weather, efficiency drops, and many systems switch to backup electric resistance heat.
-</p>
-<p>
-Heat pump efficiency is measured by Heating Seasonal Performance Factor (HSPF). Higher HSPF ratings mean better efficiency.
-</p>
-<h3>Boilers and radiant systems</h3>
-<p>
-Boilers heat water and circulate it through radiators or radiant floor systems. They can run on gas, oil, or electricity. Radiant heat is often considered more comfortable because it warms objects and surfaces rather than just air.
-</p>
+
 <h2>Common cooling system types</h2>
-<h3>Central air conditioning</h3>
 <p>
-Central AC systems cool air at a central unit and distribute it through ducts. They are effective for whole-home cooling and often paired with a furnace that uses the same duct system.
+Central AC, ductless mini-splits, and window or portable units differ in coverage and efficiency. When a system stops cooling properly, start with <a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a>.
 </p>
-<p>
-Efficiency is measured by Seasonal Energy Efficiency Ratio (SEER). Higher SEER ratings mean lower operating costs. Modern units range from 13 to 25 SEER, with 14 to 16 SEER being common for mid-range systems.
-</p>
-<h3>Ductless mini-splits</h3>
-<p>
-Mini-splits consist of an outdoor compressor and one or more indoor air handlers. They do not require ducts, which makes them ideal for room additions or homes without existing ductwork. They are also heat pumps, so they can provide heating in winter.
-</p>
-<h3>Window and portable air conditioners</h3>
-<p>
-Window units fit in a window opening and cool a single room or small area. Portable units sit on the floor and vent hot air through a hose. Both are less efficient than central systems but cost less upfront and work well for targeted cooling.
-</p>
+
 <h2>Efficiency ratings explained</h2>
 <p>
-Understanding efficiency ratings helps you compare systems and estimate operating costs.
+AFUE, SEER, HSPF, and COP are the four ratings that let you compare systems. Each is defined in the <a href="/utilities-glossary/">utilities glossary</a> (see the afue, seer, hspf, and cop entries).
 </p>
-<h3>AFUE (Annual Fuel Utilization Efficiency)</h3>
-<p>
-Used for furnaces and boilers. A 90% AFUE furnace converts 90% of fuel into usable heat. The rest is lost through the exhaust. Higher AFUE means lower fuel costs.
-</p>
-<h3>SEER (Seasonal Energy Efficiency Ratio)</h3>
-<p>
-Used for air conditioners and heat pumps in cooling mode. SEER measures cooling output divided by electricity input over a season. A higher SEER means lower electricity costs for the same cooling.
-</p>
-<h3>HSPF (Heating Seasonal Performance Factor)</h3>
-<p>
-Used for heat pumps in heating mode. HSPF measures heating output divided by electricity input over a heating season. Higher HSPF means better efficiency.
-</p>
-<h3>COP (Coefficient of Performance)</h3>
-<p>
-A simpler efficiency measure for heat pumps. COP is the ratio of heat delivered to electricity used at a specific temperature. A COP of 3 means the system delivers 3 units of heat for every 1 unit of electricity.
-</p>
+
 <h2>What drives heating and cooling costs?</h2>
-<h3>System efficiency</h3>
 <p>
-Older, less efficient systems use more energy to deliver the same comfort. Upgrading from a 70% AFUE furnace to a 95% AFUE furnace can reduce gas usage by about 25%.
+System efficiency, climate, thermostat settings, insulation, home size, and maintenance all move your bill. For a worked cost breakdown, see <a href="/blog/how-much-does-it-cost-to-run-a-furnace/">How Much Does It Cost to Run a Furnace?</a>.
 </p>
-<h3>Climate and outdoor temperature</h3>
-<p>
-Extreme temperatures increase system runtime. Very hot summers and very cold winters drive higher energy use. Mild weather reduces heating and cooling demand.
-</p>
-<h3>Thermostat settings</h3>
-<p>
-Lower thermostat settings in winter or higher settings in summer reduce system runtime. Even small changes (2 to 3 degrees) can save 5% to 10% on heating or cooling costs.
-</p>
-<h3>Insulation and air sealing</h3>
-<p>
-Poor insulation and air leaks allow heat to escape in winter and enter in summer. This forces HVAC systems to run longer. Sealing leaks and adding insulation can significantly reduce energy use.
-</p>
-<h3>Home size and layout</h3>
-<p>
-Larger homes have more space to heat or cool, which increases costs. Homes with high ceilings, large windows, or poor orientation to the sun may also use more energy.
-</p>
-<h3>Maintenance</h3>
-<p>
-Dirty filters, clogged coils, and low refrigerant reduce efficiency. Regular maintenance keeps systems running at peak performance and reduces breakdowns.
-</p>
+
 <h2>Gas vs. electric heating costs</h2>
 <p>
-Gas heating is often cheaper in regions where natural gas prices are low. Electric resistance heat can be expensive, but heat pumps can compete with gas furnaces in mild climates.
+Which fuel is cheaper depends on local prices and system efficiency. For a side-by-side comparison, see <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a>.
 </p>
-<p>
-To compare, look at local fuel prices and system efficiency. A 95% AFUE gas furnace in a region with $1.50/therm gas may cost less to operate than electric resistance heat at $0.17/kWh. But a heat pump with a COP of 2.5 can be competitive with gas.
-</p>
-<p>
-Also consider fixed charges. Gas service often has a monthly customer fee. If you heat electrically only, you may avoid that fee, which can save $15 to $30 per month.
-</p>
+
 <h2>How to reduce heating and cooling costs</h2>
-<ul>
-<li>Set the thermostat to 68 degF or lower in winter, 76 degF or higher in summer.</li>
-<li>Use a programmable or smart thermostat to reduce heating/cooling when away.</li>
-<li>Replace HVAC filters monthly during heavy use seasons.</li>
-<li>Seal air leaks around windows, doors, and ductwork.</li>
-<li>Add insulation to attics and walls if levels are low.</li>
-<li>Use ceiling fans to improve air circulation.</li>
-<li>Close blinds or curtains to block sunlight in summer.</li>
-<li>Schedule annual HVAC maintenance to keep efficiency high.</li>
-<li>Avoid heating or cooling unused rooms if safe for your system.</li>
-<li>Upgrade to a high-efficiency system if your current unit is old.</li>
-</ul>
 <p>
-Even small changes can reduce seasonal costs by 10% to 20%. Focus on low-cost improvements first, like sealing leaks and adjusting thermostat settings.
+From thermostat setbacks to sealing leaks and scheduling maintenance, the highest-impact moves are covered in <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
+
 <h2>Thermostats and smart controls</h2>
 <p>
-Programmable thermostats let you set schedules that lower heating or cooling when you are away or asleep. This reduces runtime without manual adjustments.
+Programmable and smart thermostats cut runtime by adjusting when you are away or asleep. For how they interact with time-of-use rates, see <a href="/blog/smart-thermostat-time-of-use-savings/">Smart Thermostats on Time-of-Use Plans</a>.
 </p>
-<p>
-Smart thermostats learn your habits and adjust automatically. They can also be controlled remotely via smartphone apps, which is useful if your schedule changes.
-</p>
-<p>
-Many utilities offer rebates for smart thermostats. The savings from reduced runtime often pay for the device within a year or two.
-</p>
+
 <h2>When to repair vs. replace an HVAC system</h2>
 <p>
-If your system is less than 10 years old and the repair is minor, fixing it is usually the best choice. If the system is 15+ years old and repairs are frequent or expensive, replacement may be more cost-effective.
+If your system is under 10 years old and the repair is minor, fixing it is usually the better choice. Once a furnace or AC is older — often considered around 15–20 years for furnaces — and repairs are frequent or expensive, replacement may be more cost-effective.
 </p>
 <p>
-Consider efficiency improvements. A new high-efficiency system can reduce energy costs by 20% to 40%, which can offset the upfront cost over time.
+Get multiple quotes and ask for load calculations so the new system is properly sized. Oversized systems cycle on and off frequently, which reduces comfort and efficiency.
 </p>
-<p>
-Get multiple quotes and ask for load calculations to ensure the new system is properly sized. Oversized systems cycle on and off frequently, which reduces comfort and efficiency.
-</p>
+
 <h2>Common misconceptions about heating and cooling</h2>
 <h3>Misconception: Cranking the thermostat heats or cools the home faster</h3>
 <p>
-Most systems run at a fixed speed. Setting the thermostat to 80 degF in winter does not make the furnace work harder or faster. It just makes the system run longer until it reaches 80 degF.
+Most systems run at a fixed speed. Setting the thermostat higher in winter does not make the furnace work harder — it just runs longer until it reaches the setpoint.
 </p>
 <h3>Misconception: Closing vents in unused rooms saves energy</h3>
 <p>
-Closing too many vents can increase pressure in the duct system and reduce efficiency. Some systems are designed for balanced airflow. If you close vents, do so sparingly and monitor system performance.
+Closing too many vents can raise pressure in the duct system and reduce efficiency. If you close vents, do so sparingly and monitor system performance.
 </p>
 <h3>Misconception: Heat pumps do not work in cold climates</h3>
 <p>
-Modern cold-climate heat pumps can operate efficiently even in sub-zero temperatures. While efficiency drops in extreme cold, they still provide heat without relying entirely on backup resistance heat.
+Modern cold-climate heat pumps operate efficiently even in sub-zero temperatures. Efficiency drops in extreme cold, but they still provide heat without relying entirely on backup resistance heat.
 </p>
+
 <h2>Ductwork and air quality</h2>
 <p>
-Leaky or poorly insulated ducts can waste 20% to 30% of heating and cooling energy. Sealing ducts with mastic (not duct tape) and adding insulation in unconditioned spaces improves efficiency.
+Leaky or poorly insulated ducts waste heating and cooling energy. Seal ducts with mastic (not duct tape) and insulate runs in unconditioned spaces to improve efficiency.
 </p>
 <p>
 Air filters remove dust and allergens. Replace them regularly to maintain airflow and indoor air quality. Higher-rated filters (MERV 8 to 13) capture more particles but may reduce airflow if not changed frequently.
 </p>
-<h2>Related guides to deepen your understanding</h2>
-<p>
-Now that you understand heating and cooling basics, explore these specific topics to answer common questions and manage HVAC costs more effectively:
-</p>
-<ul>
-<li>
-Gas vs. electric heating: cost comparison for real homes
--- Compare fuel costs, efficiency, and total expenses.
-</li>
-<li>
-Why is my electricity bill so high in winter?
--- Understand winter heating loads and electric heat costs.
-</li>
-<li>
-Aux heat vs emergency heat: what it means
-- Know when backup heat turns on.
-</li>
-<li>
-AFUE vs SEER vs HSPF vs COP
-- Compare efficiency ratings side by side.
-</li>
-<li>
-AC running but not cooling
-- Common causes and quick checks.
-</li>
-<li>
-Duct leak symptoms and fixes
-- Stop airflow losses and long run times.
-</li>
-<li>
-Ductless mini-split vs central air
-- Choose the right system for your home.
-</li>
-<li>
-Single-stage vs two-stage vs variable-speed HVAC
-- Understand comfort, cost, and efficiency.
-</li>
-<li>
-Heat pump running all day in winter
-- When it is normal and when it is not.
-</li>
-<li>
-Why is my furnace blowing cold air?
-- Troubleshoot common causes.
-</li>
-</ul>
+
 <h2>Frequently asked questions</h2>
 <h3>What temperature should I set my thermostat to save money?</h3>
 <p>
-For heating, 68 degF or lower during the day and 60 degF to 65 degF at night is a good starting point. For cooling, 76 degF to 78 degF is comfortable for most people and reduces runtime compared to lower settings.
+For heating, 68 degF or lower during the day and 60 degF to 65 degF at night is a good starting point. For cooling, 76 degF to 78 degF is comfortable for most people and reduces runtime.
 </p>
 <h3>How often should I replace my HVAC filter?</h3>
 <p>
-Replace standard filters monthly during heavy use seasons (summer and winter). Check filters monthly and replace when visibly dirty or after 30 to 90 days depending on the type.
+Replace standard filters monthly during heavy use seasons. Check monthly and replace when visibly dirty or after 30 to 90 days depending on the type.
 </p>
 <h3>Is it worth upgrading to a high-efficiency system?</h3>
 <p>
-If your system is old and you have high heating or cooling costs, upgrading can save 20% to 40% on energy. The payback period depends on climate, fuel prices, and how long you plan to stay in the home.
+If your system is old and your heating or cooling costs are high, upgrading can lower energy use. The payback period depends on climate, fuel prices, and how long you plan to stay in the home.
 </p>
 <h3>Can a heat pump replace both my furnace and air conditioner?</h3>
 <p>
-Yes. Heat pumps provide both heating and cooling, which can simplify your HVAC system and reduce equipment costs. In very cold climates, a backup heating source may be needed.
+Yes. Heat pumps provide both heating and cooling, which can simplify your HVAC system. In very cold climates, a backup heating source may be needed.
 </p>
 <h3>Why does my system run constantly but the house stays warm/cool?</h3>
 <p>
 This can indicate an undersized system, poor insulation, air leaks, or a thermostat issue. Schedule a professional inspection to diagnose the cause.
 </p>
-<h2>Final thoughts</h2>
 <p>
-Heating and cooling are essential for comfort, but understanding how systems work and what drives costs helps you manage energy use and make smart decisions. Start by maintaining your current system, adjusting thermostat settings, and sealing air leaks. If you are considering a new system, compare efficiency ratings and fuel costs to find the best fit for your climate and budget.
-</p>
-<p>
-For broader utility cost management, visit our utility bills and costs guide. To compare energy sources, see our guides on electricity and natural gas.
+For the full library of HVAC and heating/cooling guides, jump to the <a href="#hvac-guides">complete guide directory</a> below.
 </p>
 
 
