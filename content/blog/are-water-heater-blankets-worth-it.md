@@ -64,7 +64,7 @@ A tank that is **not** in the buy list: a modern, well-insulated tank in a condi
 
 ## The Math: What It Actually Saves
 
-Here's the honest arithmetic, with every assumption stated. National average residential electricity is **18.34¢/kWh** (EIA, June 2026),[2] and the average household uses about **899 kWh/month**.[3] Water heating is typically the second-largest home energy use — roughly 18% of a typical home's energy, per DOE's water-heating guidance.[1]
+Here's the honest arithmetic, with every assumption stated. National average residential electricity is **{{< stat "electric_rate_jun2026" >}}** (EIA, June 2026),[2] and the average household uses about **{{< stat "avg_monthly_kwh" >}}**.[3] Water heating is typically the second-largest home energy use — roughly 18% of a typical home's energy, per DOE's water-heating guidance.[1]
 
 **The savings range, honestly:**
 

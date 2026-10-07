@@ -145,7 +145,7 @@ Use a prior bill with a similar season only as a starting point. When you compar
 - Include credits and one-time items in the comparison, since neither shows up in the daily-average math.
 - A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
 
-**EIA data shows the average US residential customer uses roughly 899 kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/22-minimum-bill-utility-bill-explained/) as low as the raw math suggests.
+**EIA data shows the average US residential customer uses roughly {{< stat "avg_monthly_kwh" "raw" >}} kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/22-minimum-bill-utility-bill-explained/) as low as the raw math suggests.
 
 ---
 

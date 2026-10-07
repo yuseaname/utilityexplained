@@ -22,7 +22,7 @@ sources:
 
 **A refrigerator draws roughly 100 to 400 watts while the compressor is actually running — but it doesn't run all the time, so the number that matters is not watts. It's kilowatt-hours per day: typically 1 to 2 kWh/day for a modern full-size fridge, 2 to 3 or more for older or oversized units.** Because the compressor cycles, a fridge's "watts" change minute to minute and no single reading predicts a bill. The meaningful measurement is cumulative energy — from a $15-30 plug-in meter, or a free one from many public libraries.
 
-Two numbers frame everything else. The average U.S. residential customer buys about 899 kWh per month (EIA, 2023),[1] and EIA's Electric Power Monthly put the average residential price at 18.34 cents per kWh for June 2026[2] — a bill of about $164.88 a month, the context for what a fridge actually costs to run.
+Two numbers frame everything else. The average U.S. residential customer buys about {{< stat "avg_monthly_kwh" >}} (EIA, 2023),[1] and EIA's Electric Power Monthly put the average residential price at {{< stat "electric_rate_jun2026" >}} for June 2026[2] — a bill of about $164.88 a month, the context for what a fridge actually costs to run.
 
 {{< affiliate-disclosure >}}
 
@@ -32,7 +32,7 @@ A refrigerator is not like a space heater, which pulls a steady wattage whenever
 
 That cycling is why two people with the same fridge can quote different "watts" and both be right — one caught a live reading mid-cycle, one a rest. Neither is yours; your fridge's real figure is the average over time.
 
-Meanwhile, every energy guide — including the federal method for estimating appliance costs — converts to one currency: watts × hours ÷ 1,000 = kWh, the unit your bill prices. If it's fuzzy, [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) builds the intuition in minutes. And kWh per day is the number worth benchmarking: a house far above the national 899 kWh/month (about 30 kWh/day) has a story beyond one appliance — [how many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) covers it.
+Meanwhile, every energy guide — including the federal method for estimating appliance costs — converts to one currency: watts × hours ÷ 1,000 = kWh, the unit your bill prices. If it's fuzzy, [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) builds the intuition in minutes. And kWh per day is the number worth benchmarking: a house far above the national {{< stat "avg_monthly_kwh" >}} (about 30 kWh/day) has a story beyond one appliance — [how many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) covers it.
 
 ## Typical Numbers: New, Old, and Oversized
 
@@ -45,7 +45,7 @@ Published labels list annual kWh for test conditions, not your kitchen; runtime 
 | Bottom-freezer or side-by-side, modern | 150-400 W | 1.5-2.5 |
 | 15+ years old, any style | 200-400 W | 2.5-4+ |
 
-The age penalty is quantified. ENERGY STAR states refrigerators over 15 years old can cost roughly $95 per year more to run than new certified models.[3] At the June 2026 average rate of 18.34 cents per kWh,[2] that's about 518 extra kWh a year — roughly 1.4 kWh more per day, sitting in a garage or basement. That second fridge is one of the most common silent loads in American homes.
+The age penalty is quantified. ENERGY STAR states refrigerators over 15 years old can cost roughly $95 per year more to run than new certified models.[3] At the June 2026 average rate of {{< stat "electric_rate_jun2026" >}},[2] that's about 518 extra kWh a year — roughly 1.4 kWh more per day, sitting in a garage or basement. That second fridge is one of the most common silent loads in American homes.
 
 One honest caveat on the watts column: specs vary within a size class more than buyers expect, and compressor startup surge — a brief spike, sometimes several times the running draw — is normal, not a defect. The table is for sanity-checking a measurement you take yourself: a mini fridge showing 3 kWh a day means the meter is misreading or something is wrong, and the next section finds out which.
 
@@ -79,7 +79,7 @@ The borrowed meter measures the same watts and the same cumulative kWh as one yo
 
 ## From kWh to Dollars
 
-The only equation in the article, done for you at the June 2026 national average residential rate of 18.34 cents per kWh:[2]
+The only equation in the article, done for you at the June 2026 national average residential rate of {{< stat "electric_rate_jun2026" >}}:[2]
 
 > **Daily cost = kWh per day × $0.1834** — so a meter reading of 1.5 kWh/day costs about 27.5 cents a day.
 
@@ -93,9 +93,9 @@ The only equation in the article, done for you at the June 2026 national average
 | 2.5 | $0.46 | $13.96 |
 | 3.0 | $0.55 | $16.75 |
 
-(Computed at 18.34¢/kWh; substitute your own utility's per-kWh rate for exactness — rates vary widely by state.)
+(Computed at {{< stat "electric_rate_jun2026" >}}; substitute your own utility's per-kWh rate for exactness — rates vary widely by state.)
 
-Two reading notes. First, even the thirstiest rows land in the tens of dollars a month: a fridge is almost never why a bill triples — if your bill is the mystery, start with [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) rather than in the kitchen. Second, against the $164.88 average bill (899 kWh × 18.34¢),[1][2] a measured fridge is real money — roughly $5.50 to $11 a month — but a bounded share of the whole.
+Two reading notes. First, even the thirstiest rows land in the tens of dollars a month: a fridge is almost never why a bill triples — if your bill is the mystery, start with [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) rather than in the kitchen. Second, against the $164.88 average bill ({{< stat "avg_monthly_kwh" >}} × {{< stat "electric_rate_jun2026" >}}),[1][2] a measured fridge is real money — roughly $5.50 to $11 a month — but a bounded share of the whole.
 
 ## If Your Number Comes Back High
 

@@ -76,7 +76,7 @@ Furnace:    $ per MMBtu = 10 × ($/therm) ÷ AFUE
 A heat pump is cheaper to run when **your ¢/kWh ÷ your $/therm is less than 3.41 × COP ÷ AFUE**. Run it with your own bill's numbers—the national average is only an example:
 
 - **January 2026 U.S. averages:** electricity 17.45 ¢/kWh, natural gas ≈ $1.35/therm (EIA; ratio ≈ 12.9). Against a 96% AFUE furnace, a heat pump needs seasonal COP above 3.6 to win—**the furnace wins clearly**; a strong cold-climate unit only matches an old 80% furnace.[7][8]
-- **Recent monthly averages (electricity 18.34 ¢/kWh, June 2026; gas ≈ $1.92/therm, May 2026; ratio ≈ 9.6).** Against a 96% AFUE furnace, any heat pump above COP 2.7 wins (9.6 × 0.96 ÷ 3.41 = 2.70). Against the full 95–98% AFUE range high-efficiency furnaces actually ship at, the cutoff sits between COP 2.67 (95%) and 2.76 (98%).[7][8]
+- **Recent monthly averages (electricity {{< stat "electric_rate_jun2026" >}}, June 2026; gas ≈ $1.92/therm, May 2026; ratio ≈ 9.6).** Against a 96% AFUE furnace, any heat pump above COP 2.7 wins (9.6 × 0.96 ÷ 3.41 = 2.70). Against the full 95–98% AFUE range high-efficiency furnaces actually ship at, the cutoff sits between COP 2.67 (95%) and 2.76 (98%).[7][8]
 
 Two honest cautions: use **winter-month** gas prices (residential $/Mcf rises in the off-season as fixed costs spread over low volumes), and treat COP 2.5–3.5 as an illustrative seasonal band—a HSPF2 7.5 minimum unit lands near 2.2; strong cold-climate units run higher.[5][7]
 
@@ -203,7 +203,7 @@ It depends on your local electric-to-gas price ratio, your climate, your home's 
 4. [ENERGY STAR: Furnaces Key Product Criteria (≥95% South / ≥97% North)](https://www.energystar.gov/products/furnaces/key_product_criteria)
 5. [NEEP: Cold-Climate Air-Source Heat Pump Specification and Product List (COP ≥ 1.75 at 5°F)](https://neep.org/heating-electrification/ccashp-specification-product-list)
 6. [Mitsubishi Comfort: H2i systems — 100% capacity at -5°F (manufacturer claim)](https://www.mitsubishicomfort.com/articles/introducing-deluxe-wall-mounted-h2i-plus-system)
-7. [EIA: Electric Power Monthly Table 5.3 (June 2026: 18.34 ¢/kWh residential average; monthly series)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
+7. [EIA: Electric Power Monthly Table 5.3 (June 2026: 18.34 residential average; monthly series)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
 8. [EIA: Natural Gas Prices (May 2026: $19.83/Mcf residential; winter-month series)](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_m.htm)
 9. [EIA: Winter Fuels Outlook, October 2025 (winter 2025–26 expenditures by fuel)](https://www.eia.gov/outlooks/steo/report/winterfuels.php)
 10. [IRS: Energy Efficient Home Improvement Credit and FAQs on 25C/25D termination after 12/31/2025 (Public Law 119-21)](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit)

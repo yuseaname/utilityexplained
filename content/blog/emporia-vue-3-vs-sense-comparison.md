@@ -87,7 +87,7 @@ Ask “why is my bill so high at all?” — start with [why your electric bill 
 
 Ask “how does my smart meter's data compare?” — your utility's app already shows whole-house usage for free. The monitor's value is the split: [how smart meters work](/blog/how-do-smart-meters-work/) explains what the meter itself can and cannot tell you.
 
-And if you are new to kilowatt-hours entirely, [understanding kWh usage](/blog/11-understanding-kwh-usage/) is the better first read. Context helps: the average U.S. household uses about 899 kWh per month, and the average residential price was about 18.34 cents per kWh in June 2026 — the arithmetic behind a typical bill is worth doing before you spend on hardware.[2][3]
+And if you are new to kilowatt-hours entirely, [understanding kWh usage](/blog/11-understanding-kwh-usage/) is the better first read. Context helps: the average U.S. household uses about {{< stat "avg_monthly_kwh" >}}, and the average residential price was about {{< stat "electric_rate_jun2026" >}} in June 2026 — the arithmetic behind a typical bill is worth doing before you spend on hardware.[2][3]
 
 ## The Renter's Path
 

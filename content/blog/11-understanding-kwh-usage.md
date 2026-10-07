@@ -73,9 +73,9 @@ The table below lists the most common electric loads in a U.S. home. The figures
 
 ## The Cost Equation: What 18.34¢/kWh Means for Your Bill
 
-At the national average residential rate of **18.34 cents per kWh** (EIA June 2026), the cost of running an appliance works out to:
+At the national average residential rate of **{{< stat "electric_rate_jun2026" >}}** (EIA June 2026), the cost of running an appliance works out to:
 
-| Appliance | Annual kWh (mid-range) | Annual Cost at 18.34¢/kWh |
+| Appliance | Annual kWh (mid-range) | Annual Cost at {{< stat "electric_rate_jun2026" >}} |
 |---|---|---|
 | Central AC (3-ton) | 4,000 | $734 |
 | Electric water heater | 3,500 | $642 |
@@ -128,7 +128,7 @@ If the bill shows a different number, check whether the reading was estimated �
 
 ## National Data Is Context, Not a Bill Calculator
 
-EIA’s published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about 899 kWh per month; as of 2026 that remains EIA’s latest published average.[2]
+EIA’s published residential data can provide broad context. For example, EIA reports that the average residential electric-utility customer purchased 10,791 kWh in 2022, or about {{< stat "avg_monthly_kwh" >}}; as of 2026 that remains EIA’s latest published average.[2]
 
 That figure does not determine whether an individual bill is correct. Your own tariff, dwelling, equipment, climate, and billing period control the account result.
 

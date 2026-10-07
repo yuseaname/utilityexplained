@@ -26,7 +26,7 @@ sources:
 
 Finding a sudden, unexplained jump in your utility bill is stressful. While your first instinct might be to suspect a neighbor is tapping into your outdoor outlet or splicing a line, actual criminal theft is statistically less common than technical errors or simple "phantom" loads. However, in multi-family housing or older converted apartments, "shared circuits"—where a neighbor's outlet or a common area light is accidentally wired to your meter—are a real and documented issue.
 
-Before you make an accusation, you need proof. The national average residential electricity rate is **18.34¢/kWh** (as of June 2026) [1]. At that rate, a neighbor running a single space heater on your tab could add $50–$100 to your monthly bill. This guide walks through the diagnostic steps to separate a [sudden spike in your electricity bill](/blog/30-sudden-spike-in-electricity-bill-no-usage/) from actual theft.
+Before you make an accusation, you need proof. The national average residential electricity rate is **{{< stat "electric_rate_jun2026" >}}** (as of June 2026) [1]. At that rate, a neighbor running a single space heater on your tab could add $50–$100 to your monthly bill. This guide walks through the diagnostic steps to separate a [sudden spike in your electricity bill](/blog/30-sudden-spike-in-electricity-bill-no-usage/) from actual theft.
 
 ## The Core Diagnostic: The Main Breaker Test
 
@@ -64,7 +64,7 @@ If you suspect theft, your role is **observer and reporter**, not investigator.
 If your bill is high but the main breaker test shows the meter stops when you cut power, the "theft" is likely one of these common culprits, ranked from most to least likely:
 
 ### 1. Ordinary Standby Load (Phantom Power)
-The average US household uses **~899 kWh/mo** [2]. A significant portion of this is "vampire" or [phantom power draw](/blog/phantom-power-draw-explained/)—electronics that use energy even when turned off. While it rarely causes a "spike," it can make a bill feel higher than expected.
+The average US household uses **~{{< stat "avg_monthly_kwh" "raw" >}} kWh/mo** [2]. A significant portion of this is "vampire" or [phantom power draw](/blog/phantom-power-draw-explained/)—electronics that use energy even when turned off. While it rarely causes a "spike," it can make a bill feel higher than expected.
 
 ### 2. Shared or Legacy Circuits
 In older homes converted into apartments, wiring is often a mess. A basement outlet used by a neighbor or a hallway light might be wired to your panel. This isn't necessarily "theft" in a criminal sense, but it is a billing error that your landlord must fix. This is a common reason for [apartment utilities to cost more](/blog/09-apartment-utilities-cost/) than expected.

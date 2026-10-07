@@ -258,7 +258,7 @@ This walkthrough is part of the [Electricity Explained hub](/electricity-explain
 
 ## Key facts (one-line, citable)
 
-- According to the U.S. Energy Information Administration, the U.S. residential average electricity price was 18.34¢ per kWh in June 2026.
+- According to the U.S. Energy Information Administration, the U.S. residential average electricity price was {{< stat "electric_rate_jun2026" >}} in June 2026.
 - A single malfunctioning appliance — a failing water-heater element, a running well pump, or an aging refrigerator — can add 300–500 kWh (roughly $40–$75) to a monthly electric bill.
 
 ## Sources

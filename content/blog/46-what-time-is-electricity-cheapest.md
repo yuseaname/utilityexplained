@@ -57,7 +57,7 @@ Automating these shifts is straightforward with a timer or smart plug. One optio
 
 ## Why Shifting Pays Off
 
-The national average residential electricity rate hit **18.34¢/kWh** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU discount runs about 81% versus its summer peak rate (about 70% in other months), and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using 899 kWh/month, shifting just 200 kWh/month from Con Edison's summer peak supply rate to its off-peak supply rate saves about $45/month (200 × ($0.2786 − $0.0522) ≈ $45), or roughly $540/year — about $23/month in other months, when peak supply is 17.11¢/kWh and the discount is narrowest at ~70%.[5]
+The national average residential electricity rate hit **{{< stat "electric_rate_jun2026" >}}** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU discount runs about 81% versus its summer peak rate (about 70% in other months), and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using {{< stat "avg_monthly_kwh" >}}, shifting just 200 kWh/month from Con Edison's summer peak supply rate to its off-peak supply rate saves about $45/month (200 × ($0.2786 − $0.0522) ≈ $45), or roughly $540/year — about $23/month in other months, when peak supply is 17.11¢/kWh and the discount is narrowest at ~70%.[5]
 
 The exact savings depend on your utility’s peak-to-off-peak price gap and how much you can shift. The rate-plan hub has a quick comparison tool; for a full cost-benefit check, work through the steps in [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#compare-with-your-own-usage).
 
@@ -78,5 +78,5 @@ Your utility’s rate-plan hub has links to each utility’s tariff. If you are 
 2. Con Edison Residential Time-of-Use Rate Schedule, 2026. Peak supply: 8 AM–12 AM weekdays; 27.86¢/kWh June–Sept, 17.11¢/kWh other months. Off-peak supply: 5.22¢/kWh (all other hours incl. weekends). Delivery: 16.402¢/kWh 8 AM–12 AM, 18.858¢/kWh summer usage above 250 kWh/month; monthly customer charge $21.00. (Retrieved 2026-08-29 via coned.com)
 3. TXU Energy Free Nights & Solar Days plan, EFL retrieved via Power to Choose 2026-08-28. Rates by zip code; example shown for Dallas-area residential account.
 4. U.S. Department of Energy, FEMP: Evaluating Your Utility Rate Options (energy.gov/cmei/femp/evaluating-your-utility-rate-options).
-5. EIA Electricity Monthly Update, June 2026 — residential average revenue per kWh of 18.34¢/kWh (retrieved 2026-08-28).
+5. EIA Electricity Monthly Update, June 2026 — residential average revenue per kWh of {{< stat "electric_rate_jun2026" >}} (retrieved 2026-08-28).
 6. ENERGY STAR: Dishwashers — "a new ENERGY STAR certified dishwasher costs about $50 per year to run" (energystar.gov/products/dishwashers, retrieved 2026-08-29).

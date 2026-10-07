@@ -96,7 +96,7 @@ If you have a smart meter, your utility portal already graphs whole-home hourly 
 
 {{< visual src="/images/articles/kill-a-watt-alternatives/weekend-audit.webp" alt="Line illustration of a power strip with three devices and one plug-in meter, arrows flowing toward a clipboard checklist." wide="true" >}}
 
-Whatever tool you pick, the arithmetic is the same. The June 2026 national average residential price was **18.34¢/kWh**,[5] and the average household buys about **899 kWh/month**[6] — call it a $165 monthly bill at the national average. So:
+Whatever tool you pick, the arithmetic is the same. The June 2026 national average residential price was **{{< stat "electric_rate_jun2026" >}}**,[5] and the average household buys about **{{< stat "avg_monthly_kwh" >}}**[6] — call it a $165 monthly bill at the national average. So:
 
 - A garage refrigerator metering at 90 kWh/month costs 90 × $0.1834 ≈ **$16.50/month** — about $200/year, which is exactly the kind of number that justifies a meter and maybe retires a fridge.
 - An entertainment cluster idling at 60 W around the clock is 60 W × 730 h ≈ **44 kWh/month ≈ $8/month** — worth a scheduled smart plug, not worth panic.

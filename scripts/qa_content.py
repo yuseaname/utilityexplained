@@ -42,8 +42,26 @@ from collections import defaultdict
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(REPO, "content")
 
-# Literals that must come from data/stats.yaml once R9 is flipped to ERROR
+# Literals that must come from data/stats.yaml once R9 is flipped to ERROR.
+# Legitimate historical literals are exempt:
+#   - Sources/citation lines (numbered "N. [label](url) — ... retrieved ..." rows):
+#     a dated retrieval record must keep quoting the value it verified.
+#   - image alt= text (describes a baked image; changing it desyncs from the pixels)
+#   - worked-example arithmetic ($0.1834 multipliers inside derivations)
 STATS = ["18.34", "18.31", "899 kWh", "899 kWh/month"]
+CITATION_LINE = re.compile(r"^\s*\d+\.\s*\[.*\]\([^)]*\)\s*[-—]", re.M)
+ALT_LINE = re.compile(r"alt=\"[^\"]*\"")
+ARITH_LIT = re.compile(r"[×x]\s*\$?0\.18\d|=\s*\$?0\.18\d|\$\s?0\.1834")
+
+def _strip_exempts(body: str) -> str:
+    out = []
+    for ln in body.split("\n"):
+        if CITATION_LINE.search(ln) or ALT_LINE.search(ln):
+            continue  # skip whole line (alt/citation lines carry no shortcode-able prose)
+        if ARITH_LIT.search(ln):
+            ln = ARITH_LIT.sub("", ln)
+        out.append(ln)
+    return "\n".join(out)
 
 # category -> vocabulary that does NOT belong on that category's pages
 ELEC_VOCAB = re.compile(r"\bkWh\b|¢/kWh|cents?/kWh|electric(?:ity)? rate", re.I)
@@ -220,9 +238,10 @@ def scan(built_dir=None):
                 v.append((rel, body[: m.start()].count("\n") + 1, "R8",
                           f'hardcoded guide count: "{m.group()}"'))
 
-        # R9 hardcoded stats
+        # R9 hardcoded stats (citation/alt/arithmetic lines exempt — see _strip_exempts)
+        body_x = _strip_exempts(body)
         for lit in STATS:
-            for m in re.finditer(re.escape(lit), body):
+            for m in re.finditer(re.escape(lit), body_x):
                 v.append((rel, body[: m.start()].count("\n") + 1, "R9",
                           f'hardcoded stat literal: "{lit}" (use data/stats.yaml)'))
 

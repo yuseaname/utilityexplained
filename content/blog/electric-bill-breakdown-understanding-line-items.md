@@ -19,11 +19,11 @@ sources:
 
 ## Quick Answer
 
-**Your electric bill is four charge types stacked: supply (the kWh you used × your rate), delivery (moving it to you — also mostly usage-based), fixed customer charges, and taxes. Supply plus delivery is typically about 85–90% of the bill; only the usage-based parts move when you change habits.** Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at 18.34¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+**Your electric bill is four charge types stacked: supply (the kWh you used × your rate), delivery (moving it to you — also mostly usage-based), fixed customer charges, and taxes. Supply plus delivery is typically about 85–90% of the bill; only the usage-based parts move when you change habits.** Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at {{< stat "electric_rate_jun2026" "raw" >}}¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
 
 **Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
 
-*Source note for the figures above: the residential averages (17.30¢ for 2025, 18.34¢ for June 2026) come from EIA Electric Power Monthly data; verify the current release at eia.gov. For the same 2025 data, EIA also reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh).*
+*Source note for the figures above: the residential averages (17.30¢ for 2025, {{< stat "electric_rate_jun2026" "raw" >}}¢ for June 2026) come from EIA Electric Power Monthly data; verify the current release at eia.gov. For the same 2025 data, EIA also reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh).*
 
 **Next step:** If your bill jumped, start troubleshooting with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) or learn how to [read your electric bill](/blog/01-how-to-read-your-electric-bill/) line by line.
 
@@ -48,7 +48,7 @@ Electric bills look complicated because they combine usage-based charges with in
 - Billing period length (days) — [how two months with the same usage can bill differently](/blog/23-utility-billing-cycle-explained/)
 - Fixed charges and delivery charges in your rate plan
 
-For context on typical usage, EIA reports that in 2022 the average annual electricity purchased by a U.S. residential electric-utility customer was 10,791 kWh, or about 899 kWh per month. Average purchases varied widely by state that year, from 6,178 kWh in Hawaii to 14,774 kWh in Louisiana.[2] Your own prior bills are more useful than any national average.
+For context on typical usage, EIA reports that in 2022 the average annual electricity purchased by a U.S. residential electric-utility customer was 10,791 kWh, or about {{< stat "avg_monthly_kwh" >}}. Average purchases varied widely by state that year, from 6,178 kWh in Hawaii to 14,774 kWh in Louisiana.[2] Your own prior bills are more useful than any national average.
 
 If you want the unit basics first, read <a href="/blog/11-understanding-kwh-usage/">what a kWh is</a>.
 
@@ -60,7 +60,7 @@ The supply (or energy) charge is the part most people recognize: it is the elect
 
 How the rate itself is set depends on where you live. EIA notes that in some states public service commissions fully regulate prices, while other states use a combination of unregulated prices for generators and regulated prices for transmission and distribution.[1] Some regions also let you choose a separate energy supplier for this part of the bill; Con Edison, for example, tells its customers that whether supply is bought from the utility or from an energy service company, it appears on the bill as a supply charge, and that supply costs can vary with weather, demand, and market prices.[3]
 
-To see the arithmetic, you can apply EIA's reported figures: at the 2025 residential annual average of 17.30¢ per kWh,[1] a month of usage at the 2022 national average of 899 kWh[2] would come to roughly $155 for the supply portion alone. Your actual rate comes from your bill and rate plan, not from a national average.
+To see the arithmetic, you can apply EIA's reported figures: at the 2025 residential annual average of 17.30¢ per kWh,[1] a month of usage at the 2022 national average of {{< stat "avg_monthly_kwh" >}}[2] would come to roughly $155 for the supply portion alone. Your actual rate comes from your bill and rate plan, not from a national average.
 
 If your bill uses time-of-use rates, your kWh may be split into peak and off-peak buckets with different prices.
 

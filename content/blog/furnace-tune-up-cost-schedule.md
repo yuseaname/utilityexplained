@@ -96,7 +96,7 @@ Ways to keep costs sane:
 
 If the tune-up finds nothing wrong, consider it money well spent: you now know your furnace will likely start all winter. If it finds something, you found it in September instead of January, when emergency repair rates apply [1].
 
-Even with an efficient system working perfectly, the context helps: the average U.S. home uses about 899 kWh of electricity a month [4], and U.S. residential electricity averaged about 18.34 cents per kWh as of mid-2026 [5] — so heat is one of the biggest levers on your bill, which makes a cheap yearly check a reasonable insurance policy. Natural gas prices have also stayed relatively low through 2026, with wholesale spot prices around $1.86 per million Btu near mid-2026 [6] — but a furnace that runs inefficiently because it's never been serviced burns more of whatever fuel you use, whatever the price.
+Even with an efficient system working perfectly, the context helps: the average U.S. home uses about {{< stat "avg_monthly_kwh" "raw" >}} kWh of electricity a month [4], and U.S. residential electricity averaged about {{< stat "electric_rate_jun2026" "raw" >}} cents per kWh as of mid-2026 [5] — so heat is one of the biggest levers on your bill, which makes a cheap yearly check a reasonable insurance policy. Natural gas prices have also stayed relatively low through 2026, with wholesale spot prices around $1.86 per million Btu near mid-2026 [6] — but a furnace that runs inefficiently because it's never been serviced burns more of whatever fuel you use, whatever the price.
 
 ## Related Reading
 

@@ -24,7 +24,7 @@ sources:
 
 **Look for the words "energy monitoring" in the product name or spec sheet — that is the feature that makes a smart plug a meter.** A plug that measures energy contains a metering chip that reports live watts and cumulative kilowatt-hours to its app. The Kasa KP115, the Tapo P110M, and the Emporia Smart Plug all do this, and their spec sheets say so explicitly.[1][2][3] The widely sold basic class — Kasa's HS103 and similar mini plugs — switches power on and off with no metering chip: the app shows on/off and schedules but never a wattage reading. The two kinds often sell within a few dollars of each other.
 
-For scale: residential electricity averaged 18.34 cents per kilowatt-hour in June 2026, up 5.0 percent from a year earlier.[4] A metering plug does not change that number — it tells you which of your devices are doing the changing.
+For scale: residential electricity averaged {{< stat "electric_rate_jun2026" "raw" >}} cents per kilowatt-hour in June 2026, up 5.0 percent from a year earlier.[4] A metering plug does not change that number — it tells you which of your devices are doing the changing.
 
 {{< affiliate-disclosure >}}
 
@@ -88,7 +88,7 @@ The same logic makes metering plugs a poor permanent home for refrigerators and 
 
 The classic target is the always-on floor: electronics draw power while idle, invisible until something meters it — the Department of Energy's measurement guidance treats that idle draw as measurable and actionable.[6] This site's [phantom power explainer](/blog/phantom-power-draw-explained/) owns that subject in full; a metering plug hands you your own per-device version of it — the console idling overnight, the media cluster never quite sleeping. Schedule the plug off for the hours nobody uses the device, then compare next week's kWh to this week's.
 
-Scale check: the average American household uses about 899 kWh a month (EIA's 2023 figure).[5] One metered device is a slice of that — sometimes visible, sometimes rounding error, and only the meter tells you which. Nobody can promise a percentage or a dollar saving in advance; the honest answer depends on what your devices draw, which is exactly the number the plug puts on screen.
+Scale check: the average American household uses about {{< stat "avg_monthly_kwh" >}} a month (EIA's 2023 figure).[5] One metered device is a slice of that — sometimes visible, sometimes rounding error, and only the meter tells you which. Nobody can promise a percentage or a dollar saving in advance; the honest answer depends on what your devices draw, which is exactly the number the plug puts on screen.
 
 ## The Bottom Line
 

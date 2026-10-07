@@ -51,7 +51,7 @@ A note on wattage: blanket draw varies by size and setting. A queen on medium is
 
 {{< visual src="/images/articles/electric-blanket-vs-space-heater-cost/watts-math.webp" alt="Arithmetic panel comparing 180 watts times 8 hours against 1,500 watts times 8 hours." wide="true" >}}
 
-Here's the canonical comparison, with every assumption stated. National average residential electricity is **18.34¢/kWh** (EIA, June 2026),[2] and the average household uses about **899 kWh/month**.[3]
+Here's the canonical comparison, with every assumption stated. National average residential electricity is **{{< stat "electric_rate_jun2026" >}}** (EIA, June 2026),[2] and the average household uses about **{{< stat "avg_monthly_kwh" >}}**.[3]
 
 **The blanket:**
 - 150 W × 8 hours/night × 30 nights = **36,000 Wh = 36 kWh/month**

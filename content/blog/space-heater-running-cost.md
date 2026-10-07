@@ -24,7 +24,7 @@ sources:
 
 ## Quick Answer
 
-**A 1,500-watt space heater costs $0.275 per hour to run on high at the September 2026 US average residential rate of 18.34¢/kWh.** Eight hours a day is about $2.20, a typical month about $66 — before the thermostat cycles the element off, which usually cuts the real bill by a third to a half. The formula is three numbers you already have:
+**A 1,500-watt space heater costs $0.275 per hour to run on high at the September 2026 US average residential rate of {{< stat "electric_rate_jun2026" >}}.** Eight hours a day is about $2.20, a typical month about $66 — before the thermostat cycles the element off, which usually cuts the real bill by a third to a half. The formula is three numbers you already have:
 
 `cost per hour = (watts ÷ 1,000) × your rate in $/kWh`
 
@@ -38,7 +38,7 @@ Every plug-in 120-volt space heater — ceramic, infrared, oil-filled, no matter
 2. **Your rate** — the all-in cents-per-kWh from your bill (supply + delivery; skip taxes if you want the running cost, include them if you want the bill impact). If you can't find it, divide your monthly electric total by your kWh used.
 3. **Actual hours the element runs** — not hours in the room. A thermostat cycles the element off once the set temperature is reached, and that duty cycle is the single biggest source of "my bill was way higher than the calculator said."
 
-Multiply them: watts ÷ 1,000 gives kW; kW × rate gives $/hour; $/hour × hours gives the period cost. A 1,500 W heater at 18.34¢: 1.5 × $0.1834 = **$0.275/hour**. That is the entire computation — everything else on this page is that formula applied to common cases.
+Multiply them: watts ÷ 1,000 gives kW; kW × rate gives $/hour; $/hour × hours gives the period cost. A 1,500 W heater at {{< stat "electric_rate_jun2026" >}}: 1.5 × $0.1834 = **$0.275/hour**. That is the entire computation — everything else on this page is that formula applied to common cases.
 
 ## Per-hour cost by wattage (US average 18.34¢/kWh)
 
@@ -63,7 +63,7 @@ The last row is the honest one: a heater holding a 65–70°F room in typical wi
 |---|---|---|---|
 | Lowest (NV) | 13.11¢ | $0.20 | $47 |
 | Low (ND, WA, LA, AR, NE band) | 11.6–13.5¢ | $0.17–0.20 | $42–49 |
-| US average | 18.34¢ | $0.275 | $66 |
+| US average | {{< stat "electric_rate_jun2026" "raw" >}}¢ | $0.275 | $66 |
 | High (CA, MA, CT, NH, ME band) | 28–35¢ | $0.42–0.53 | $101–126 |
 | Highest (HI) | 52.72¢ | $0.79 | $190 |
 
@@ -120,7 +120,7 @@ The reliable method is the one the rest of this site keeps returning to: measure
 
 {{< faq "How much does it cost to run a space heater for 24 hours?" >}}
 
-At the US average of 18.34¢/kWh, a 1,500 W heater running non-stop for 24 hours uses 36 kWh and costs about $6.60. With a thermostat cycling at a realistic 50% duty cycle it's nearer $3.30. Note that most safety guidance — including CPSC's — advises against leaving plug-in heaters unattended or running while you sleep, so a true 24-hour run is usually not a safe setup to cost out.
+At the US average of {{< stat "electric_rate_jun2026" >}}, a 1,500 W heater running non-stop for 24 hours uses 36 kWh and costs about $6.60. With a thermostat cycling at a realistic 50% duty cycle it's nearer $3.30. Note that most safety guidance — including CPSC's — advises against leaving plug-in heaters unattended or running while you sleep, so a true 24-hour run is usually not a safe setup to cost out.
 
 {{< /faq >}}
 

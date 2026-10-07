@@ -29,11 +29,11 @@ sources:
 
 ## Quick Answer
 
-**The average US house uses about 30 kWh of electricity per day — 899 kWh per month, per EIA data. [1]** That national average blends every home size, climate, and heating fuel, so treat it as a midpoint rather than an expectation: small gas-heated apartments can run half of it, while large all-electric homes in hot climates routinely go two to three times higher. [1]
+**The average US house uses about 30 kWh of electricity per day — about {{< stat "avg_monthly_kwh" >}}, per EIA data. [1]** That national average blends every home size, climate, and heating fuel, so treat it as a midpoint rather than an expectation: small gas-heated apartments can run half of it, while large all-electric homes in hot climates routinely go two to three times higher. [1]
 
 ## What the National Average Actually Says
 
-The U.S. Energy Information Administration (EIA) reports that in 2022, the average US residential electric-utility customer purchased 10,791 kWh for the year — an average of about 899 kWh per month, or roughly 30 kWh per day. [1]
+The U.S. Energy Information Administration (EIA) reports that in 2022, the average US residential electric-utility customer purchased 10,791 kWh for the year — an average of about {{< stat "avg_monthly_kwh" >}}, or roughly 30 kWh per day. [1]
 
 That 30 kWh/day number is worth having, but it hides the two extremes behind it. Hawaii averaged 6,178 kWh per residential customer for the year, about 17 kWh per day. Louisiana averaged 14,774 kWh, about 40 per day. [1] Nearly a two-and-a-half-fold spread between the lowest and highest states comes down mostly to climate and heating fuel — a preview of everything that decides your own number.
 
@@ -53,7 +53,7 @@ It is also worth knowing what that average does *not* include. Electricity is no
 
 ## Typical Daily kWh by Home Profile
 
-The ranges below are illustrative: they apply EIA end-use shares — heating and cooling at 52% of household energy, on top of the 899 kWh/month national average [1][2] — to common home profiles. They are not measured per-profile averages, and a specific home can fall outside them.
+The ranges below are illustrative: they apply EIA end-use shares — heating and cooling at 52% of household energy, on top of the {{< stat "avg_monthly_kwh" >}} national average [1][2] — to common home profiles. They are not measured per-profile averages, and a specific home can fall outside them.
 
 | Home profile | Typical daily kWh | What drives the range |
 |---|---|---|
@@ -66,7 +66,7 @@ For unit conversions across bills: 1 therm of natural gas equals 100,000 Btu, an
 
 ## Your Daily kWh, in Dollars
 
-EIA's Electric Power Monthly put the June 2026 US average retail electricity price at 18.34 cents per kWh. [4] Price spreads by state are enormous, but national-average math is a fair start:
+EIA's Electric Power Monthly put the June 2026 US average retail electricity price at {{< stat "electric_rate_jun2026" >}}. [4] Price spreads by state are enormous, but national-average math is a fair start:
 
 | Daily kWh | Per day | 30-day month | Rough profile |
 |---|---|---|---|
@@ -78,7 +78,7 @@ EIA's Electric Power Monthly put the June 2026 US average retail electricity pri
 | 55 kWh | $10.09 | $302.61 | Large home, electric heat plus EV |
 | 70 kWh | $12.84 | $385.14 | High end, all-electric large home |
 
-The national-average month — 899 kWh at 18.34 cents — lands at about $165. [1][4] If your bill sits well above the row that matches your home profile, the next section tells you which number to trust.
+The national-average month — {{< stat "avg_monthly_kwh" >}} at {{< stat "electric_rate_jun2026" "raw" >}} cents — lands at about $165. [1][4] If your bill sits well above the row that matches your home profile, the next section tells you which number to trust.
 
 ## How to Read Your Own Number
 

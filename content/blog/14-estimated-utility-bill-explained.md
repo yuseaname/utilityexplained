@@ -51,10 +51,10 @@ This example is **illustrative** — it uses round numbers to show how the same 
 | Billing days | 30 | 33 |
 | Meter read type | Actual | Estimated |
 | Billed usage | 612 kWh | 671 kWh |
-| Rate | 18.34¢/kWh | 18.34¢/kWh |
+| Rate | {{< stat "electric_rate_jun2026" >}} | {{< stat "electric_rate_jun2026" >}} |
 | Energy charge | $112.24 | $123.06 |
 
-The higher estimated total is mostly **days, not behavior**: the estimated month covers 33 days at the same 18.34¢/kWh rate, so the extra $10.82 reflects three additional billing days plus the estimate’s method. The next actual read trues the account up to the meter, not the estimate [5].
+The higher estimated total is mostly **days, not behavior**: the estimated month covers 33 days at the same {{< stat "electric_rate_jun2026" >}} rate, so the extra $10.82 reflects three additional billing days plus the estimate’s method. The next actual read trues the account up to the meter, not the estimate [5].
 
 Smart meters shrink the problem without erasing it. Duke Energy: its meters "are read automatically – not manually – so there's no need to estimate bills when meters can't be easily accessed" [8]. National Grid still warns AMI customers about "extreme weather, temporary connection issues, or software updates" [7]. Guardrail: AMI makes estimates uncommon, not impossible.
 

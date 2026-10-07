@@ -55,7 +55,7 @@ A fixed-rate plan locks in the supply price for the term. A variable-rate plan c
 - If a fixed offer is 9.2¢/kWh and the variable rate averages 11.0¢/kWh over the term, the fixed plan saved 1.8¢ × your annual kWh — $216 a year at 12,000 kWh.
 - If the variable rate averages 8.0¢/kWh instead, you overpaid 1.2¢ — $144 a year.
 
-No one can predict wholesale markets. The fixed-rate premium is essentially an insurance premium against price spikes. For scale: EIA's average U.S. residential price was 18.34¢/kWh in June 2026, all-in (supply plus delivery)[6] — supply-only offers in choice states sit well below that because delivery is billed separately. Compare the **total bill**, not just the supply rate.
+No one can predict wholesale markets. The fixed-rate premium is essentially an insurance premium against price spikes. For scale: EIA's average U.S. residential price was {{< stat "electric_rate_jun2026" >}} in June 2026, all-in (supply plus delivery)[6] — supply-only offers in choice states sit well below that because delivery is billed separately. Compare the **total bill**, not just the supply rate.
 
 ### Worked 12-Month Comparison (Illustrative)
 

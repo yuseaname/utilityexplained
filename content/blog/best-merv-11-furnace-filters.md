@@ -104,7 +104,7 @@ And the standing rule that outranks every pick on this page: **measure the slot,
 ## Sources
 
 1. [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) — guidance to select MERV 13 "or as high a rating as your system fan and filter slot can accommodate," and that all filters need regular replacement. Retrieved 2026-09-11.
-2. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price {{< stat "electric_rate_jun2026" >}}, June 2026. Retrieved 2026-09-11.
-3. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — {{< stat "avg_monthly_kwh" >}}. Retrieved 2026-09-11.
+2. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-11.
+3. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — 899 kWh/month. Retrieved 2026-09-11.
 4. [Amazon — Aerostar MERV 11 20x25x1, 6-Pack (B01CR9JMV4)](https://www.amazon.com/dp/B01CR9JMV4) — $62.34 ($10.39/count), 4.7 stars / 2,217 ratings, actual size 19.75 x 24.75 x 0.75 in, sold and shipped by Amazon.com, Subscribe & Save tiers. Retrieved 2026-09-11.
 5. [Amazon — Aerostar MERV 13 20x25x1, 6-Pack (B01CR9JLDI)](https://www.amazon.com/dp/B01CR9JLDI) — $51.99 ($8.67/count), 4.5 stars / 3,095 ratings, MPR 1500, sold and shipped by Amazon.com. Retrieved 2026-09-11.

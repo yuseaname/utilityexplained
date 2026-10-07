@@ -18,7 +18,7 @@ sources:
 
 ## Quick Answer
 
-**A typical 5,000 BTU window AC costs about $0.09 per hour to run, while a larger 12,000 BTU unit costs roughly $0.22 per hour at the June 2026 national average rate of 18.34¢/kWh. Portable AC units are generally less efficient, costing 15–30% more than window units of the same cooling capacity due to heat bleed from the exhaust hose and lower real-world SACC ratings.** The honest way to track your cooling spend is to measure the unit's actual draw with a tool like the {{< amazon asin="B00009MDBU" text="Kill A Watt P4400" >}} to see exactly how many kilowatt-hours your specific room and climate require.
+**A typical 5,000 BTU window AC costs about $0.09 per hour to run, while a larger 12,000 BTU unit costs roughly $0.22 per hour at the June 2026 national average rate of {{< stat "electric_rate_jun2026" >}}. Portable AC units are generally less efficient, costing 15–30% more than window units of the same cooling capacity due to heat bleed from the exhaust hose and lower real-world SACC ratings.** The honest way to track your cooling spend is to measure the unit's actual draw with a tool like the {{< amazon asin="B00009MDBU" text="Kill A Watt P4400" >}} to see exactly how many kilowatt-hours your specific room and climate require.
 
 {{< affiliate-disclosure >}}
 
@@ -29,7 +29,7 @@ To find the cost of any air conditioner, you need three numbers: the wattage the
 ** (Watts × Hours) ÷ 1,000 = kWh **
 ** kWh × Electricity Rate = Total Cost **
 
-For our planning estimates, we use the June 2026 national average residential rate of **18.34¢/kWh** [1]. If you are in a lower-cost area or looking at annual averages, you might use the 2025 annual average of **17.30¢/kWh** [1].
+For our planning estimates, we use the June 2026 national average residential rate of **{{< stat "electric_rate_jun2026" >}}** [1]. If you are in a lower-cost area or looking at annual averages, you might use the 2025 annual average of **17.30¢/kWh** [1].
 
 ### Estimating Watts from BTU and EER
 If you don't have a meter, you can estimate the wattage of a window unit using its BTU (British Thermal Units) rating and its EER (Energy Efficiency Ratio). The math is:
@@ -48,9 +48,9 @@ Most modern window units have an EER around 10 to 12. For these calculations, we
 
 Window units are the traditional choice for room cooling. They are relatively efficient because the "hot" side of the machine sits entirely outside the building envelope.
 
-Using the 18.34¢/kWh rate, here is what those wattage bands cost to run per hour of compressor time:
+Using the {{< stat "electric_rate_jun2026" >}} rate, here is what those wattage bands cost to run per hour of compressor time:
 
-| Unit Size (BTU) | Estimated Watts | Cost Per Hour (18.34¢) | Cost Per 8-Hour Night |
+| Unit Size (BTU) | Estimated Watts | Cost Per Hour ({{< stat "electric_rate_jun2026" "raw" >}}¢) | Cost Per 8-Hour Night |
 | :--- | :--- | :--- | :--- |
 | 5,000 BTU | 500 W | $0.092 | $0.74 |
 | 8,000 BTU | 800 W | $0.147 | $1.18 |
@@ -128,7 +128,7 @@ If your [electric bill is too high](/blog/03-why-is-my-electric-bill-so-high/), 
 
 ## Summary Table: AC Running Costs
 
-| Unit Type | Wattage Range | Cost Per Hour (18.34¢) | Monthly Cost (8h/day) |
+| Unit Type | Wattage Range | Cost Per Hour ({{< stat "electric_rate_jun2026" "raw" >}}¢) | Monthly Cost (8h/day) |
 | :--- | :--- | :--- | :--- |
 | Small Window (5k BTU) | 450–550 W | ~$0.09 | ~$22 |
 | Medium Window (8k BTU) | 700–900 W | ~$0.15 | ~$35 |

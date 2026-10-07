@@ -66,7 +66,7 @@ Delivery is never shoppable — one grid serves your address, and the state sets
 
 Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/12-how-to-read-your-gas-bill/).
 
-## A worked month: where {{< stat "avg_monthly_kwh" "raw" >}} kWh goes
+## A worked month: where 899 kWh goes
 
 The national average household uses **{{< stat "avg_monthly_kwh" >}}** at an average **{{< stat "electric_rate_jun2026" >}}**, about **$164.88** [7]. Now split a real bill with one utility's published rates. Take {{< stat "avg_monthly_kwh" "raw" >}} kWh on Con Edison's time-of-use rate in a non-summer month, all usage overnight off-peak:
 
@@ -119,4 +119,4 @@ No — delivery is the broader bucket. Distribution (local wires and transformer
 4. [PG&E — Base Services Charge FAQ](https://www.pge.com/en/account/billing-and-assistance/base-services-charge.html) (retrieved 2026-08-30)
 5. [Consumers Energy — Electric Charges Explained](https://www.consumersenergy.com/residential/account-and-billing/rates/electric-rates-and-programs/electric-charges-explained) (retrieved 2026-08-30)
 6. [PAPowerSwitch — the official electric shopping website of the Pennsylvania PUC](https://www.papowerswitch.com/) (retrieved 2026-08-30)
-7. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) ({{< stat "avg_monthly_kwh" >}}; {{< stat "electric_rate_jun2026" >}} national average residential price, retrieved 2026-08-29)
+7. [EIA — How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) (899 kWh/month; 18.34¢/kWh national average residential price, retrieved 2026-08-29)

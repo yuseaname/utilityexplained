@@ -83,5 +83,5 @@ Before buying automation, spend the free fifteen minutes: confirm your rate plan
 
 1. [U.S. Department of Energy — Home Upgrades / Energy Savings Hub](https://www.energy.gov/save/home-upgrades) — thermostat setback savings framework (up to 10%/year for 7–10°F, 8-hour setback). Retrieved 2026-09-06.
 2. [ENERGY STAR — Smart Thermostats](https://www.energystar.gov/products/smart_thermostats) — certified models independently certified, based on actual field data, to deliver energy savings. Retrieved 2026-09-06.
-3. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price {{< stat "electric_rate_jun2026" >}}, June 2026. Retrieved 2026-09-06.
+3. [EIA Electricity Monthly Update — End-Use Consumption](https://www.eia.gov/electricity/monthly/update/end-use.php) — average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-06.
 4. [PG&E E-TOU-C tariff](https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf) — example TOU peak window (4–9 PM daily). Retrieved 2026-09-06.

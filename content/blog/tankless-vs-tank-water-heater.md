@@ -39,7 +39,7 @@ That 41-gallon figure is the single most important number in this comparison, be
 
 ## The Efficiency Math: What 24–34% Actually Buys
 
-Here's the arithmetic with assumptions stated. National average residential electricity is **18.34¢/kWh** (EIA, June 2026),[2] and the average household uses about **899 kWh/month**.[3] Water heating is typically about **18% of a home's energy use**.[1]
+Here's the arithmetic with assumptions stated. National average residential electricity is **{{< stat "electric_rate_jun2026" >}}** (EIA, June 2026),[2] and the average household uses about **{{< stat "avg_monthly_kwh" >}}**.[3] Water heating is typically about **18% of a home's energy use**.[1]
 
 **The tank baseline:** a typical household spends roughly **$400–600/year** on water heating. Take the middle, **$500/year**.
 
@@ -82,7 +82,7 @@ That's the real trade behind "endless hot water vs simultaneous showers": a tank
 
 ## The Lifetime-Cost Math, Done Twice
 
-Here's the honest way to compare the two over a 20-year horizon, with assumptions stated. National average residential electricity is **18.34¢/kWh** (EIA, June 2026),[2] and the average household uses about **899 kWh/month**.[3]
+Here's the honest way to compare the two over a 20-year horizon, with assumptions stated. National average residential electricity is **{{< stat "electric_rate_jun2026" >}}** (EIA, June 2026),[2] and the average household uses about **{{< stat "avg_monthly_kwh" >}}**.[3]
 
 **Scenario A — low usage (under ~41 gal/day), the DOE's tankless sweet spot:**
 

@@ -25,7 +25,7 @@ sources:
 
 ## Quick Answer
 
-**Work down the biggest verified levers in order: heating and cooling, water heating, then small always-on loads — before considering solar.** The average U.S. home used 899 kWh per month (2023) and paid about $144 a month (2024).[1][2] DOE says a home energy assessment comes before any improvement, and its highest-documented single measure is a 7–10°F thermostat setback for 8 hours a day — up to 10% off heating and cooling costs per year.[3]
+**Work down the biggest verified levers in order: heating and cooling, water heating, then small always-on loads — before considering solar.** The average U.S. home used about {{< stat "avg_monthly_kwh" >}} (2023) and paid about $144 a month (2024).[1][2] DOE says a home energy assessment comes before any improvement, and its highest-documented single measure is a 7–10°F thermostat setback for 8 hours a day — up to 10% off heating and cooling costs per year.[3]
 
 Solar is a generation decision; these measures cut consumption, need no roof equipment, and cost little or nothing.
 
@@ -33,7 +33,7 @@ Solar is a generation decision; these measures cut consumption, need no roof equ
 
 ## Target the Big Uses First
 
-In U.S. homes, **space heating and air conditioning account for about 52% of energy use**, and water heating takes nearly 20% — DOE's figure.[3][4] Nationally, that's the 899 kWh/month the average household uses, at an average residential price of 18.34¢ per kWh (June 2026).[1][2][5]
+In U.S. homes, **space heating and air conditioning account for about 52% of energy use**, and water heating takes nearly 20% — DOE's figure.[3][4] Nationally, that's the {{< stat "avg_monthly_kwh" >}} the average household uses, at an average residential price of {{< stat "electric_rate_jun2026" >}} (June 2026).[1][2][5]
 
 | Use | Share of home energy | Highest-leverage move |
 |---|---|---|

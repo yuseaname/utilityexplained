@@ -91,7 +91,7 @@ Not every state prices exports by hour. Some tariffs are **buy-all/sell-all**: t
 
 All figures below are illustrative: the buying side uses the site-canonical national average, the selling side a round-number export rate — the same 400 kWh and 6¢ as the worked example above, now on the other side of the ledger.
 
-- **Buying side:** a typical U.S. home uses about 899 kWh in a month; at the national residential average of 18.34¢ per kWh (EIA, June 2026), that costs 899 × $0.1834 ≈ **$164.88**.
+- **Buying side:** a typical U.S. home uses about {{< stat "avg_monthly_kwh" "raw" >}} kWh in a month; at the national residential average of {{< stat "electric_rate_jun2026" "raw" >}} cents per kWh (EIA, June 2026), that costs 899 × $0.1834 ≈ **$164.88**.
 - **Selling side:** the same month, the array exports 400 kWh, which the utility buys at an illustrative 6¢ per kWh → **$24.00**.
 - **Net for the month:** $164.88 − $24.00 = **$140.88**.
 

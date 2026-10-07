@@ -76,7 +76,7 @@ None of them is "more efficient"—the choice is comfort delivery plus controls.
 
 ## What One Heater Actually Adds to the Bill
 
-The arithmetic with the June 2026 national average residential rate (18.34 ¢/kWh):[6]
+The arithmetic with the June 2026 national average residential rate ({{< stat "electric_rate_jun2026" >}}):[6]
 
 ```text
 1,500 W × 8 h = 12 kWh per day
@@ -119,7 +119,7 @@ None—per watt-hour of heat, all plug-in electric heaters are effectively equal
 {{< /faq >}}
 
 {{< faq "How much does it cost to run a space heater for a month?" >}}
-At the June 2026 national average rate of 18.34 ¢/kWh, a 1,500 W heater at 8 hours a day costs about $2.20/day or $66/month. Use your own bill's all-in rate and the real duty cycle—a thermostat cycles the element off, and your actual hours may be lower.[6]
+At the June 2026 national average rate of {{< stat "electric_rate_jun2026" >}}, a 1,500 W heater at 8 hours a day costs about $2.20/day or $66/month. Use your own bill's all-in rate and the real duty cycle—a thermostat cycles the element off, and your actual hours may be lower.[6]
 {{< /faq >}}
 
 {{< faq "Is it safe to leave a space heater on overnight?" >}}
@@ -135,7 +135,7 @@ No. CPSC's guidance is to turn portable heaters off when you sleep and never con
 3. [U.S. Consumer Product Safety Commission, Release 26-217 (Jan 2026): Keep Warm and Safe This Winter (~1,600 fires, ~70 deaths, ~150 injuries/yr, 2020–2022)](https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters)
 4. [NFPA: Home Heating Safety (2020–2024 averages: 37,365 fires, 417 deaths; space heaters ~30% of fires, 73% of deaths)](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
 5. [U.S. Fire Administration: Home Heating Fire Prevention (portable heaters 41% of fatal heating fires, 2017–2019)](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/)
-6. [EIA: Electric Power Monthly Table 5.3 (June 2026 residential average 18.34 ¢/kWh)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
+6. [EIA: Electric Power Monthly Table 5.3 (June 2026 residential average 18.34)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03)
 7. [ENERGY STAR FAQ: EPA does not label space heaters and has no plans to](https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578)
 8. [Lasko 754200 manufacturer spec sheet ("No Auto Shut Off")](https://lasko.com/products/lasko-1500w-electric-ceramic-space-heater-with-adjustable-thermostat-754200-silver)
 9. [U.S. Department of Energy: Home Upgrades — heat pumps cut heating electricity ~65% vs electric resistance (live figure, retrieved 2026-08-29)](https://www.energy.gov/save/home-upgrades)

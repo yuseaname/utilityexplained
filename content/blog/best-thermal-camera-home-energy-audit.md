@@ -89,7 +89,7 @@ Resolution is the spec that actually matters here, and it's worth being blunt ab
 
 ## The Math: What the Drafts You Find Are Worth
 
-Assumptions: national average residential electricity of 18.34¢/kWh (EIA, June 2026),[3] average household use ~899 kWh/month,[4] and a heating-season framing where air sealing meaningfully reduces runtime.
+Assumptions: national average residential electricity of {{< stat "electric_rate_jun2026" >}} (EIA, June 2026),[3] average household use ~{{< stat "avg_monthly_kwh" >}},[4] and a heating-season framing where air sealing meaningfully reduces runtime.
 
 - **The camera:** ~$116 once. If it helps you find and seal three significant leaks, and air sealing trims even 5% off a $165/month average bill during a 6-month heating season: $165 × 0.05 = $8.25/month × 6 = **$49.50/season**. The camera pays for itself in roughly two seasons — *if* you act on what it shows.
 - **The comparison that matters:** a single pro energy audit commonly runs $200–$600. The P1 is ~$116 and reusable every winter, for every room, forever — but it finds less than a pro with a blower door. Honest framing: it's a screening tool, not an audit replacement.

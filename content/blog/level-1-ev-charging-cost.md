@@ -19,7 +19,7 @@ sources:
 
 ## Quick Answer
 
-**Level 1 EV charging — the 120-volt cord that comes in the trunk — is not free, but it is cheap: an overnight 8-hour session adds roughly 11.5 kWh to your bill, about $2.11 at the June 2026 national average of 18.34¢/kWh, and a typical daily commute lands in the $46–64/month range.** The honest way to know your own number is to measure the car's actual draw with a pass-through meter like the {{< amazon asin="B0C619YRRM" text="Poniie PN2500 Level 1 pass-through meter" >}} — kWh read off the display, multiplied by your rate, with no guessing. This page is the Level 1 deep-dive: the outlet math, the "free charging" myth, and how to measure your own car. For the general question of how EV charging moves your whole bill — including Level 2, time-of-use rates, and cost-per-mile — that's the companion guide, [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/).
+**Level 1 EV charging — the 120-volt cord that comes in the trunk — is not free, but it is cheap: an overnight 8-hour session adds roughly 11.5 kWh to your bill, about $2.11 at the June 2026 national average of {{< stat "electric_rate_jun2026" >}}, and a typical daily commute lands in the $46–64/month range.** The honest way to know your own number is to measure the car's actual draw with a pass-through meter like the {{< amazon asin="B0C619YRRM" text="Poniie PN2500 Level 1 pass-through meter" >}} — kWh read off the display, multiplied by your rate, with no guessing. This page is the Level 1 deep-dive: the outlet math, the "free charging" myth, and how to measure your own car. For the general question of how EV charging moves your whole bill — including Level 2, time-of-use rates, and cost-per-mile — that's the companion guide, [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/).
 
 {{< affiliate-disclosure >}}
 
@@ -41,7 +41,7 @@ The cleanest way to think about Level 1 cost is one overnight session. Assume yo
 
 **8 h × 1,440 W = 11,520 Wh ≈ 11.5 kWh**
 
-At the June 2026 national average residential price of **18.34¢/kWh** (EIA),[1] that session costs:
+At the June 2026 national average residential price of **{{< stat "electric_rate_jun2026" >}}** (EIA),[1] that session costs:
 
 **11.5 kWh × $0.1834 = $2.11**
 
@@ -63,7 +63,7 @@ A lighter commute (say 20 miles/day) falls below this band — closer to $32/mon
 
 ### Compare It to a Tank of Gas, Honestly
 
-The fair comparison is not "free vs. gas" — it is "billed electricity vs. gas." A midsize EV at ~3.5 miles/kWh and 18.34¢/kWh costs about **5.2¢/mile** in electricity (1 kWh ÷ 3.5 miles × $0.1834). A gas car at 25 MPG and $3.50/gallon costs **14¢/mile** ($3.50 ÷ 25). So Level 1 charging is roughly **a third the per-mile fuel cost of a comparable gas car** — a real saving, but a saving measured in dollars, not a free lunch. The electricity still shows up on the bill, line by line, kWh by kWh.
+The fair comparison is not "free vs. gas" — it is "billed electricity vs. gas." A midsize EV at ~3.5 miles/kWh and {{< stat "electric_rate_jun2026" >}} costs about **5.2¢/mile** in electricity (1 kWh ÷ 3.5 miles × $0.1834). A gas car at 25 MPG and $3.50/gallon costs **14¢/mile** ($3.50 ÷ 25). So Level 1 charging is roughly **a third the per-mile fuel cost of a comparable gas car** — a real saving, but a saving measured in dollars, not a free lunch. The electricity still shows up on the bill, line by line, kWh by kWh.
 
 ## The "Free Charging at Home" Myth
 
@@ -96,7 +96,7 @@ The method is three steps:
 
 1. **Plug the meter in** between the wall outlet and the car's Level 1 cord.
 2. **Charge as you normally would** for a week or a month, and note the cumulative kWh on the display.
-3. **Multiply by your rate.** If the meter reads 262 kWh in a month and your rate is 18.34¢/kWh, that's 262 × $0.1834 ≈ **$48** — your car's real monthly cost, no guessing.
+3. **Multiply by your rate.** If the meter reads 262 kWh in a month and your rate is {{< stat "electric_rate_jun2026" >}}, that's 262 × $0.1834 ≈ **$48** — your car's real monthly cost, no guessing.
 
 The same pass-through idea works for any appliance — smart plugs and whole-home monitors extend it to whole circuits. For the Level 1 question specifically, the Poniie is the direct answer: it measures the exact thing you're asking about, the car's draw from the wall.
 

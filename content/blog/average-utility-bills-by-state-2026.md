@@ -24,7 +24,7 @@ hero_below_answer: true
 
 Here is the national breakdown for the **narrow basket**:
 <ul>
-<li><strong>Electricity:</strong> $165/month (900 kWh at 18.34¢/kWh — EIA national residential average, June 2026)</li>
+<li><strong>Electricity:</strong> $165/month (900 kWh at {{< stat "electric_rate_jun2026" >}} — EIA national residential average, June 2026)</li>
 <li><strong>Natural gas:</strong> $80–$170/month for a gas-heated home at 75 therms (EIA state residential prices run ~$1.04–$2.29/therm; ~$1.91/therm national average, May 2026) — winter high, summer low</li>
 <li><strong>Water & sewer:</strong> roughly $70–$90/month combined ($47 water plus $25–$40 sewer, per the water section below)</li>
 </ul>
@@ -50,7 +50,7 @@ Here is the national breakdown for the **narrow basket**:
 
 ## Electricity Rates by State: 2026 Breakdown {#electricity-rates-by-state-2026-breakdow}
 
-<p>Electricity remains the most visible part of your utility bill—and the most variable. In mid-2026, the national average residential electricity rate is <strong>18.34¢ per kWh</strong> (EIA Electricity Monthly Update, June 2026), up from 17.30¢ in FY2025 due to rising fuel costs and grid modernization investments. But this average hides dramatic regional splits.</p>
+<p>Electricity remains the most visible part of your utility bill—and the most variable. In mid-2026, the national average residential electricity rate is <strong>{{< stat "electric_rate_jun2026" >}}</strong> (EIA Electricity Monthly Update, June 2026), up from 17.30¢ in FY2025 due to rising fuel costs and grid modernization investments. But this average hides dramatic regional splits.</p>
           <p>States with abundant renewable or fossil fuel resources—like Idaho (hydro), Louisiana (natural gas), and Washington (hydro + nuclear)—tend to have the lowest electricity rates. Meanwhile, states reliant on imported fuels, older infrastructure, or high environmental fees—like Hawaii, California, and Alaska—face the highest prices.</p>
           <p>Here’s a snapshot of the 10 states with the <strong>lowest 2026 electricity rates</strong> (per kWh):</p>
           <ul>

@@ -96,7 +96,7 @@ This was Sense's signature trick, and it survives — inside utility meters. Sen
 | Renter | Metering plugs only — panel monitors are off the table | $20–70 |
 | Nobody will change any habit | Nothing | $0 |
 
-For scale on what's at stake: the average U.S. household buys about 899 kWh a month,[4] and at the June 2026 national average of 18.34¢/kWh[3] that's roughly a $165 monthly bill. A monitor's job is finding which slices of that are negotiable — the Department of Energy's measurement guidance treats exactly this kind of visibility as the precondition for acting on standby loads.[5]
+For scale on what's at stake: the average U.S. household buys about {{< stat "avg_monthly_kwh" "raw" >}} kWh a month,[4] and at the June 2026 national average of {{< stat "electric_rate_jun2026" >}}[3] that's roughly a $165 monthly bill. A monitor's job is finding which slices of that are negotiable — the Department of Energy's measurement guidance treats exactly this kind of visibility as the precondition for acting on standby loads.[5]
 
 ## What to Ignore in 2026 Monitoring Marketing
 

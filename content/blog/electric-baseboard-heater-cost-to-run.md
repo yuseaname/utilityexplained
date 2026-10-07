@@ -24,7 +24,7 @@ sources:
 
 ## Quick Answer
 
-**A 1,000-watt baseboard heater costs $0.18 per hour to run at the September 2026 US average residential rate of 18.34¢/kWh — and one unit heating a room 8 hours a day costs about $44 for the month.** The math is three numbers you already have: 1,000 W ÷ 1,000 = 1 kW; 1 kW × $0.1834 = $0.1834 per hour; $0.1834 × 8 hours × 30 days = **$44.02**. Every other baseboard size prices out the same way, which is why most of this page is tables.
+**A 1,000-watt baseboard heater costs $0.18 per hour to run at the June 2026 US average residential rate of {{< stat "electric_rate_jun2026" >}} — and one unit heating a room 8 hours a day costs about $44 for the month.** The math is three numbers you already have: 1,000 W ÷ 1,000 = 1 kW; 1 kW × $0.1834 = $0.1834 per hour; $0.1834 × 8 hours × 30 days = **$44.02**. Every other baseboard size prices out the same way, which is why most of this page is tables.
 
 Two honest adjustments before you budget. First, $44 assumes the element runs at full power every hour it's "on." A baseboard's built-in thermostat cycles the element off once the room reaches setpoint, and real months commonly land 30–50% below the full-power figure. Second, scale matters: one unit in one bedroom is a $44 question, but a house heated entirely by baseboard is four to eight of these running through a cold month — which is how all-electric-heating homes produce $200–300 winter bills. If your bill spiked and you're not sure why, start with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/); the per-kWh method behind every table here is in [understanding kWh usage](/blog/11-understanding-kwh-usage/).
 
@@ -36,7 +36,7 @@ Baseboard is electric resistance heat: a heating element inside a finned metal e
 
 Efficiency measures how much of what you buy becomes heat. Cost per BTU measures how much you pay for each unit of heat. Baseboard wins the first contest and loses the second, because the fuel it converts perfectly is the most expensive fuel per BTU on most US bills:
 
-- **Electricity:** 1 kWh contains 3,412 BTU, so one therm's worth of heat (100,000 BTU) takes 29.3 kWh. At 18.34¢/kWh that's 29.3 × $0.1834 = **$5.37 delivered** — and since resistance heating is 100% efficient, there's nothing to recover on top of that.[1][3]
+- **Electricity:** 1 kWh contains 3,412 BTU, so one therm's worth of heat (100,000 BTU) takes 29.3 kWh. At {{< stat "electric_rate_jun2026" >}} that's 29.3 × $0.1834 = **$5.37 delivered** — and since resistance heating is 100% efficient, there's nothing to recover on top of that.[1][3]
 - **Natural gas:** the EIA residential series averaged $19.73 per Mcf in May 2026 — about $1.90 per therm (1 Mcf ≈ 10.37 therms).[4] A 96%-efficient furnace delivers that therm for $1.90 ÷ 0.96 = **$1.98**; an older 80% furnace delivers it for $2.38.
 
 Same 100,000 BTU: $1.98–2.38 through gas versus $5.37 through baseboard. That's the whole story — baseboard wastes nothing, but it wastes nothing of the priciest heat source per BTU in most of the country. It's also why the fixes below are about *running less of it*, not *running it better*: there is no efficiency upgrade to buy for a resistance element.
@@ -103,13 +103,13 @@ And the duty-cycle caveat that applies to every row: these are full-power figure
 
 {{< faq "How much does it cost to run a 1,000-watt baseboard heater per month?" >}}
 
-At the September 2026 US average residential rate of 18.34¢/kWh: $0.18 per hour, $1.47 per 8-hour day, and $44.02 for a 30-day month at 8 hours a day — assuming full power the whole time. With a realistic thermostat duty cycle near 50%, budget $22–35. For a precise number, multiply by your own bill's rate: watts ÷ 1,000 × your $/kWh.
+At the June 2026 US average residential rate of {{< stat "electric_rate_jun2026" >}}: $0.18 per hour, $1.47 per 8-hour day, and $44.02 for a 30-day month at 8 hours a day — assuming full power the whole time. With a realistic thermostat duty cycle near 50%, budget $22–35. For a precise number, multiply by your own bill's rate: watts ÷ 1,000 × your $/kWh.
 
 {{< /faq >}}
 
 {{< faq "Is electric baseboard heat more expensive than gas?" >}}
 
-Yes, at national average prices — by roughly 2.3 to 2.7 times per unit of heat delivered. One therm of heat (100,000 BTU) costs about $5.37 through 100%-efficient baseboard at 18.34¢/kWh, versus about $1.98 through a 96% gas furnace at the May 2026 EIA residential gas average (about $1.90/therm). Baseboard's advantages are install cost and zero combustion — not operating cost.
+Yes, at national average prices — by roughly 2.3 to 2.7 times per unit of heat delivered. One therm of heat (100,000 BTU) costs about $5.37 through 100%-efficient baseboard at {{< stat "electric_rate_jun2026" >}}, versus about $1.98 through a 96% gas furnace at the May 2026 EIA residential gas average (about $1.90/therm). Baseboard's advantages are install cost and zero combustion — not operating cost.
 
 {{< /faq >}}
 
