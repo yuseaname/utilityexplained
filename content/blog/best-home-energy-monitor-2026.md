@@ -33,7 +33,7 @@ That ladder is the shape of this category in 2026. Most "best energy monitor" li
 
 Sense — the machine-learning monitor that identified appliances from your mains — exited consumer hardware on December 31, 2025, moving its detection software into utility-deployed smart meters.[1] Existing Sense monitors keep working with continued app support, but new buyers can no longer get one at retail. The details are in our [Sense discontinued guide](/blog/sense-energy-monitor-discontinued-alternatives/); the short version for this list: the "software names your appliances" approach is now something your utility may eventually provide, not something you can buy today.
 
-That leaves the buyable market organized by **how much of your home you want explained, and how certain you need the answer to be**. If you already know you want the whole-home answer, {{< amazon asin="B0C7B1LKDW" text="the Emporia Vue 3 is the monitor that now owns that slot" >}} — the level-by-level walkthrough below explains why, and when a $20 plug or your utility's free data is the smarter buy.
+That leaves the buyable market organized by **how much of your home you want explained, and how certain you need the answer to be**. If you already know you want the whole-home answer, {{< amazon asin="B0C79PNK84" text="the Emporia Vue 3 (16-sensor kit) is the monitor that now owns that slot" >}} — the level-by-level walkthrough below explains why, and when a $20 plug or your utility's free data is the smarter buy.
 
 ## The Four Levels of Home Energy Monitoring
 
@@ -66,7 +66,7 @@ For a screen-first, no-app single device, a plug-in watt meter (the Kill A Watt 
 
 With Sense gone from retail, the Vue 3 is the mainstream whole-home monitor: CT clamps install in your electrical panel and meter up to **16 individual circuits plus your mains**, each reporting real-time watts, kWh, and history in the app — named by circuit, visible from day one, no learning period.[2] It supports solar/net-metering configurations and is UL certified.[2]
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The 2026 whole-home default" description="Direct per-circuit metering for up to 16 circuits plus mains, in real time, in one app. Solar-ready, UL certified. Certainty over inference: what you clamp is what you see." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="The 2026 whole-home default" description="Direct per-circuit metering: the Vue 3 hub plus 16 branch CT sensors and mains clamps, reporting each circuit's real-time watts, kWh, and history in one app. Solar-ready, UL certified. Certainty over inference: what you clamp is what you see. A monitor-only version (whole-home totals, no branch sensors) and an 8-sensor kit cost less — this is the full-coverage kit." cart="true" >}}
 
 **The honest limits**, same as any circuit monitor:
 

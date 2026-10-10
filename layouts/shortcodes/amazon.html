@@ -1,8 +1,15 @@
 {{- $asin := .Get "asin" -}}
 {{- $text := .Get "text" | default "Check current price on Amazon" -}}
 {{- $tag := .Site.Params.amazon_tag | default "utexplained-20" -}}
+{{- /* cart=true → Associates add-to-cart endpoint: carted items qualify for
+       89 days, preserving attribution across multi-day purchase decisions. */ -}}
+{{- $cart := eq (.Get "cart" | default "false") "true" -}}
+{{- $url := printf "https://www.amazon.com/dp/%s?tag=%s" $asin $tag -}}
+{{- if $cart -}}
+  {{- $url = printf "https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=%s&Quantity.1=1&tag=%s" $asin $tag -}}
+{{- end -}}
 {{- $page := .Page -}}
 {{- $count := $page.Scratch.Get "affiliate_count" | default 0 -}}
 {{- $page.Scratch.Set "affiliate_count" (add $count 1) -}}
 {{- $position := $page.Scratch.Get "affiliate_count" -}}
-<a href="https://www.amazon.com/dp/{{ $asin }}?tag={{ $tag }}" rel="sponsored nofollow noopener" target="_blank" class="amazon-link" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-destination="{{ $asin }}" data-rybbit-prop-format="inline" data-rybbit-prop-position="{{ $position }}">{{ $text }}</a>
+<a href="{{ $url }}" rel="sponsored nofollow noopener" target="_blank" class="amazon-link" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-destination="{{ $asin }}" data-rybbit-prop-format="{{ if $cart }}inline_cart{{ else }}inline{{ end }}" data-rybbit-prop-position="{{ $position }}">{{ $text }}</a>

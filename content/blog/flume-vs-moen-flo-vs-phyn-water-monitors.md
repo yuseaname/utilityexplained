@@ -37,7 +37,7 @@ What you don't get: any ability to *stop* water, no pressure sensing, and — th
 
 {{< visual src="/images/articles/flume-vs-moen-flo-vs-phyn-water-monitors/strap-vs-inline.webp" alt="Line illustration comparing a strap-on sensor wrapped around a water meter dial with an inline smart valve installed in a cut section of main pipe." wide="true" >}}
 
-{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="The no-plumber monitor" description="Straps onto your existing water meter — no pipe cutting, no plumber, no water shut-off needed. Whole-home flow, usage history, and micro-leak alerts in the app. Verify your meter model is compatible before ordering." button="Check price on Amazon" >}}
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="The no-plumber monitor" description="Straps onto your existing water meter — no pipe cutting, no plumber, no water shut-off needed. Whole-home flow, usage history, and micro-leak alerts in the app. Verify your meter model is compatible before ordering." cart="true" >}}
 
 ### Moen Flo — the inline defender
 
@@ -47,7 +47,7 @@ The honest caveats: it's the most expensive of the three once installation labor
 
 {{< visual src="/images/articles/flume-vs-moen-flo-vs-phyn-water-monitors/pro-install.webp" alt="Line illustration of a plumber's wrench and an inline smart shutoff valve being installed on a main water pipe." wide="true" >}}
 
-{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="The one that acts" description="Inline monitor and automatic shutoff valve on the main line — watches flow, pressure, and temperature and closes the valve itself on an anomaly. Professional plumber installation required; ask your insurance carrier about an auto-shutoff discount." button="Check price on Amazon" >}}
+{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="The one that acts" description="Inline monitor and automatic shutoff valve on the main line — watches flow, pressure, and temperature and closes the valve itself on an anomaly. Professional plumber installation required; ask your insurance carrier about an auto-shutoff discount." cart="true" >}}
 
 ### Phyn Plus — the pressure-wave listener
 

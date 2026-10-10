@@ -93,8 +93,8 @@ They don't compete because they don't do the same job: one watches the meter, th
 
 Two answers to two different final questions: do you want to see what the pipes are doing, or do you want the house to act without you? The picks below are those two answers.
 
-{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Tier 2: watch every gallon" description="Straps onto your existing water meter — no pipe cutting, no plumber. Whole-home flow, micro-leak alerts, and a usage lens. Verify your meter model is compatible first." button="Check price on Amazon" >}}
-{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="Tier 3: the house that acts" description="Inline monitor and automatic shutoff on the main line — plumber install. Watches flow, pressure, and temperature and closes the valve itself on an anomaly. Ask your carrier about a shutoff discount." button="Check price on Amazon" >}}
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="Tier 2: watch every gallon" description="Straps onto your existing water meter — no pipe cutting, no plumber. Whole-home flow, micro-leak alerts, and a usage lens. Verify your meter model is compatible first." cart="true" >}}
+{{< product-box asin="B00C03D01Q" name="Moen Flo Smart Water Monitor and Shutoff" label="Tier 3: the house that acts" description="Inline monitor and automatic shutoff on the main line — plumber install. Watches flow, pressure, and temperature and closes the valve itself on an anomaly. Ask your carrier about a shutoff discount." cart="true" >}}
 
 
 

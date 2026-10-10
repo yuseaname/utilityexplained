@@ -137,7 +137,7 @@ If the math says home charging is your plan, the equipment decision is simple: a
 {{< product-box asin="B09ZNN3JB7" name="Emporia Level 2 EV Charger (48 Amp, J1772)" label="Charge in the cheap window" description="48A/240V hardwired charger, up to 46 miles of range per hour, WiFi scheduling from the app — set it to start at your off-peak rate and the cheap hours do the work (Emporia spec sheet). Works with every J1772 EV; Tesla via adapter." button="Check price on Amazon" >}}
 
 Want the charging cost separated from the rest of the house on your bill? The same brand makes the circuit-level monitor we use elsewhere on this site:
-{{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 energy monitor — see EV charging as its own line" >}}.
+{{< amazon asin="B0C79PNK84" text="Emporia Vue 3 energy monitor (16-sensor kit) — see EV charging as its own line" >}}.
 
 ## Compare Bills, Not Marketing Claims
 

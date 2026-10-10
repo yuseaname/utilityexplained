@@ -71,7 +71,7 @@ A metering plug (Kasa KP115, Tapo P110M, Emporia) is a Kill A Watt that lives in
 
 A panel-mounted monitor meters up to 16 circuits directly — including the 240-volt loads no plug can touch (dryer, range, water heater, AC) — with no appliance-by-appliance patrol. The costs: panel install (electrician-recommended) and circuit-level rather than device-level naming. The whole trade-off is covered in [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/); the short version: if you would buy three or more plug meters to chase a bill mystery, the Vue 3 is the same money answering the whole panel.
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The whole-panel version" description="CT clamps meter up to 16 circuits plus mains — including 240V loads no plug meter can reach. Real-time per-circuit data in the app, solar-ready, UL certified. Electrician-recommended panel install." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="The whole-panel version" description="CT clamps meter up to 16 circuits plus mains — including 240V loads no plug meter can reach. Real-time per-circuit data in the app, solar-ready, UL certified. Electrician-recommended panel install. Verify you're buying the sensor kit, not the monitor-only unit — the listings look similar." cart="true" >}}
 
 ### 4. Your utility's hourly data — the free floor
 

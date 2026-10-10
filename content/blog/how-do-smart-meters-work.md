@@ -131,7 +131,7 @@ sources:
               time and down to the circuit. If those charts are what interests
               you about this article, that is the hardware form of them.
             </p>
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Whole-Home Energy Monitor" label="See your own usage in real time" description="16 circuit-level sensors, real-time app data." >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="See your own usage in real time" description="The 16-sensor kit: hub, mains clamps, and 16 branch sensors for per-circuit real-time app data." >}}
 
 <p>
               If you are chasing specific loads, our guide to

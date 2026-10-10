@@ -53,7 +53,7 @@ The practical difference: the Vue 3's data is structural — it reflects the phy
 | **Price band** | $100–180 on Amazon[6] | No longer sold new — hardware sales ended Dec 31, 2025[7] |
 | **Where to buy** | Amazon (and Emporia's own store) | Not sold new; existing owners keep app + firmware support[7] |
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The direct-meter standard" description="Clamps onto your mains plus up to 16 circuits for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="The direct-meter standard" description="The Vue 3 hub plus 16 branch CT sensors and mains clamps — real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel. Monitor-only and 8-sensor variants exist at lower prices." cart="true" >}}
 
 ## Install: Both Need Panel Work
 

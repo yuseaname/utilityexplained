@@ -88,11 +88,11 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 | Eyedro | ~$100–200 | Model-dependent | Panel | No | Cloud plans — confirm what is included free versus billed before buying |
 | Sense | Direct from sense.com | Whole-home, machine-learning device detection | Panel | No | Sold direct (sense.com), not confirmed on Amazon — no link here |
 
-**Where to find them:** the Refoss EM16P and Eyedro were confirmed on Amazon's search pages for this article's research, but that pass produced no individually verified ASINs — search brand and model name rather than trusting an identifier from any article, this one included.[7] The Emporia Vue 3 is wired site-wide under ASIN B0C7B1LKDW. Sense is the caveat row by design: buying it means leaving the Amazon marketplace entirely.
+**Where to find them:** the Refoss EM16P and Eyedro were confirmed on Amazon's search pages for this article's research, but that pass produced no individually verified ASINs — search brand and model name rather than trusting an identifier from any article, this one included.[7] The Emporia Vue 3 links on this site point at the sensor-kit variants (ASIN B0C79PNK84 and siblings), not the monitor-only base unit. Sense is the caveat row by design: buying it means leaving the Amazon marketplace entirely.
 
 **The install is the safety story: CT clamps attach around conductors inside an electrical panel.** If you have never worked in a panel with the main off and still treated every conductor as energized, put an electrician on the install — the labor is cheap against the mistake. If panel-level data fits your situation, the Vue 3 is where most households start.
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The panel-data standard" description="Clamps onto your mains plus up to 16 circuits for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="The panel-data standard" description="The Vue 3 hub plus 16 branch CT sensors and mains clamps for real-time, per-circuit use in the app. UL certified and solar-ready. Expect an electrician or experienced-DIY install inside the panel." cart="true" >}}
 
 ## The Renter's Path
 

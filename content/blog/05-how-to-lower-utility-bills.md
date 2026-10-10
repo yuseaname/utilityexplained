@@ -52,7 +52,7 @@ To measure actual consumption of individual devices — the first step in any ba
 
 For whole-home baseline data, a circuit-level monitor reveals which circuits drive the highest usage:
 
-{{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 Whole-Home Energy Monitor — 16-circuit monitoring on Amazon" >}}
+{{< amazon asin="B0C79PNK84" text="Emporia Vue 3 with 16 Circuit Sensors — per-circuit monitoring on Amazon" >}}
 
 The honest upgrade logic — what monitors measure, what behavior saves — is in [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/); for the sealing half of the ledger, [how to find and seal drafts in your home](/blog/how-to-find-and-seal-drafts-in-your-home/) runs the room-by-room tour.
 

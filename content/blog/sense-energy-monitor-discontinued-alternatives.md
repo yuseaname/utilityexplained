@@ -24,7 +24,7 @@ sources:
 
 **Sense stopped selling its consumer home energy monitor on December 31, 2025, and pivoted to embedding its device-detection software inside utility-deployed smart meters.[1] If you own a Sense, nothing breaks: the company has committed to continuing app support, firmware updates, and device detection for existing monitors.[1][2] If you were about to buy one, don't pay resale markups — the 2026 alternatives, ranked by budget, are your utility's free hourly data, an energy-monitoring smart plug for single devices, or the Emporia Vue 3 for whole-home circuit-level monitoring.**
 
-This site's [Vue 3 vs Sense comparison](/blog/emporia-vue-3-vs-sense-comparison/) covers how the two devices differ in method; this page covers the shutdown itself — what still works, what happens to your data and hardware, and what to buy instead at each budget. For buyers who want the short answer now: {{< amazon asin="B0C7B1LKDW" text="the Emporia Vue 3 is the mainstream whole-home replacement" >}} — owners should read the support section first, because your monitor is not dead.
+This site's [Vue 3 vs Sense comparison](/blog/emporia-vue-3-vs-sense-comparison/) covers how the two devices differ in method; this page covers the shutdown itself — what still works, what happens to your data and hardware, and what to buy instead at each budget. For buyers who want the short answer now: {{< amazon asin="B0C79PNK84" text="the Emporia Vue 3 (16-sensor kit) is the mainstream whole-home replacement" >}} — owners should read the support section first, because your monitor is not dead.
 
 {{< affiliate-disclosure >}}
 
@@ -75,7 +75,7 @@ Plug-level metering is the direct, certain version of what Sense guessed at prob
 
 With Sense gone from retail, the Vue 3 is the remaining mainstream CT-clamp monitor: it attaches at your panel and meters up to 16 circuits directly, by name, from day one — no machine-learning wait. The method is the opposite of Sense's (direct circuit metering vs. mains inference), and our [full comparison](/blog/emporia-vue-3-vs-sense-comparison/) walks the trade-offs: certainty and immediate data, versus install work inside the panel and "circuits" rather than "appliances." Installation means panel work — an electrician is the recommended default if you have never worked in one.
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Home Energy Monitor" label="The post-Sense whole-home default" description="Clamps onto your mains plus up to 16 individual circuits and reports each by name in the app — direct metering, no learning period. Solar and net-metering supported; UL certified. Panel install: electrician recommended." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="The post-Sense whole-home default" description="The Vue 3 hub plus 16 branch sensors — reports each circuit by name in the app, direct metering, no learning period. Solar and net-metering supported; UL certified. Panel install: electrician recommended. Monitor-only and 8-sensor versions cost less if you don't need full coverage." cart="true" >}}
 
 ### Comparison at a glance
 

@@ -69,7 +69,7 @@ The one tool that ends the guessing: a plug-in usage meter. Put it on the applia
 
 Want the whole-house picture instead of one outlet at a time? A circuit-level monitor shows which of your breakers is actually eating the budget:
 
-{{< amazon asin="B0C7B1LKDW" text="See the Emporia Vue 3 whole-home energy monitor on Amazon" >}} — 16 circuit-level sensors, real-time app data.
+{{< amazon asin="B0C79PNK84" text="See the Emporia Vue 3 whole-home energy monitor on Amazon" >}} — the 16-sensor kit: per-circuit real-time app data.
 
 Before spending on hardware, read [do home energy monitors save money](/blog/do-home-energy-monitors-save-money/) — what CT-clamp systems actually see, what they miss, and when the utility's free app is enough.
 
@@ -149,7 +149,7 @@ For the full savings workflow after you find the cause, see [how to lower your e
 
 {{< faq-schema >}}
 
-This guide is part of the [Electricity Explained hub](/electricity-explained/). If usage turns out to be the cause, the measurement rungs are [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/). At the whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 energy monitor" >}} tracks each circuit in real time — the culprit breaker shows itself.
+This guide is part of the [Electricity Explained hub](/electricity-explained/). If usage turns out to be the cause, the measurement rungs are [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/). At the whole-panel rung, the {{< amazon asin="B0C79PNK84" text="Emporia Vue 3 with 16 circuit sensors" >}} tracks each circuit in real time — the culprit breaker shows itself.
 
 ## Sources
 

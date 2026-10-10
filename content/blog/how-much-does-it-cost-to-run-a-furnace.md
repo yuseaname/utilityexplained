@@ -83,7 +83,7 @@ Electric resistance converts every kWh to 3,412 BTU — 100% efficient, and stil
 4. **Air sealing + insulation** where the heat escapes fastest: [how to check for energy leaks](/blog/47-check-energy-leaks-home-diy/).
 5. **Annual tune-up.** Combustion efficiency drifts; a tune-up keeps AFUE near its rating — [furnace tune-up cost and schedule](/blog/furnace-tune-up-cost-schedule/).
 
-{{< product-box asin="B0C7B1LKDW" name="Emporia Vue 3 Energy Monitor" label="Watch the furnace's real electric draw" description="Circuit-level monitoring in your electric panel — see the blower's exact wattage each cycle, plus everything else in the house. The gas side shows up as run-hours you can read off the thermostat; the electric side stops being a mystery." button="Check price on Amazon" >}}
+{{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="Watch the furnace's real electric draw" description="Circuit-level monitoring in your electric panel — the 16-sensor kit clamps the blower's breaker plus everything else in the house, so you see the blower's exact wattage each cycle. The gas side shows up as run-hours you can read off the thermostat; the electric side stops being a mystery." cart="true" >}}
 
 ## FAQs
 

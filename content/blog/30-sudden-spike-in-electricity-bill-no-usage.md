@@ -254,7 +254,7 @@ Call the billing department and ask for a formal meter test — most utilities d
 
 Once the spike is explained, keep it down: the [complete guide to lowering your electric bill](/blog/how-to-lower-electric-bill-complete-guide/) is the follow-up workflow.
 
-This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel — and if the spike traces back to water, [our water monitor comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers the whole-home side. For that whole-panel rung, the {{< amazon asin="B0C7B1LKDW" text="Emporia Vue 3 whole-home monitor" >}} puts a sensor on each breaker and shows per-circuit use in real time.
+This walkthrough is part of the [Electricity Explained hub](/electricity-explained/). When the meter says the spike is real, the measurement ladder starts here: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) for one appliance, or [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) for the whole panel — and if the spike traces back to water, [our water monitor comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers the whole-home side. For that whole-panel rung, the {{< amazon asin="B0C79PNK84" text="Emporia Vue 3 with 16 circuit sensors" >}} puts a sensor on each breaker and shows per-circuit use in real time.
 
 ## Key facts (one-line, citable)
 

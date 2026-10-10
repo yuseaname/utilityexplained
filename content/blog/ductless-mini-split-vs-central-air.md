@@ -112,7 +112,7 @@ Central systems trade those for duct sealing/insulation upkeep and the delivered
 
 Whichever system you run, the honest test is measured, not quoted: watch the HVAC circuit's actual draw before and after any change. A circuit-level monitor makes that a five-minute check instead of a guess—
 
-{{< amazon asin="B0C7B1LKDW" text="See the Emporia Vue 3 energy monitor on Amazon" >}} — 16 circuit-level sensors; watch the HVAC breaker's real-time and daily kWh.
+{{< amazon asin="B0C79PNK84" text="See the Emporia Vue 3 energy monitor (16-sensor kit) on Amazon" >}} — watch the HVAC breaker's real-time and daily kWh.
 
 ## Compare Proposals, Not Labels
 
