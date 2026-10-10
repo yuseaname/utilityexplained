@@ -1,6 +1,6 @@
 ---
 title: "Utility Explained"
-description: "Plain-English guides to every charge on your electricity, gas, and water bills — decoded line by line so you know exactly what you are paying for and how to pay less."
+description: "Plain-English guides to every charge on your electricity, gas, and water bills — decoded line by line, so you know what you pay for and how to pay less."
 image: "/images/og-default.png"
 ---
 

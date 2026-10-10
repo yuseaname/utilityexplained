@@ -140,7 +140,10 @@
   {{ partial "related-posts.html" . }}
   {{ end }}
 
-  {{/* Sources / methodology strip */}}
+  {{/* Sources / methodology strip — data-bearing pages only (blog articles);
+        policy/trust pages carry no numbers, so the strip reads as boilerplate
+        there (audit 2026-10-10). */}}
+  {{ if eq .Section "blog" }}
   <div class="sources-strip">
     <div class="sources-strip-title">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
@@ -148,9 +151,13 @@
     </div>
     <p>Cost ranges reflect typical U.S. utility bills and are labeled as estimates, not guarantees. Rates, climates, and providers vary by region. Read our <a href="{{ "/methodology/" | relURL }}">methodology</a> to see how we calculate and review these figures.</p>
   </div>
+  {{ end }}
 
   {{/* Author byline — desk model (2026-10-07): no Person authors. The byline
-        names the topic desk and the review date, linking to the editorial team. */}}
+        names the topic desk and the review date, linking to the editorial team.
+        Blog articles only — a "Researched by" bio on a privacy policy reads
+        as unreviewed boilerplate (audit 2026-10-10). */}}
+  {{ if eq .Section "blog" }}
   {{ $desk := .Params.author | default "Editorial Desk" }}
   {{ $reviewed := .Params.updated | default .Lastmod }}
   <div class="author-bio">
@@ -158,6 +165,7 @@
       <p class="author-bio-name">Researched by the Utility Explained {{ $desk }} · Sources reviewed {{ with $reviewed }}{{ dateFormat "January 2, 2006" . }}{{ end }} · <a href="{{ "/editorial-team/" | relURL }}">Editorial Team</a></p>
       <p class="author-bio-text">Utility Explained's editorial team decodes utility bills so you don't have to. <a href="{{ "/editorial-policy/" | relURL }}">Read our editorial standards</a>.</p>
   </div>
+  {{ end }}
 
   {{/* Email capture — SQ-016: demoted to LAST (earned, not begged);
         content/users/sources/related all come first. */}}

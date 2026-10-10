@@ -9,7 +9,7 @@ category: "Water"
 categories: ["Water"]
 tags: ["water bill", "water usage", "leak detection"]
 keywords: ["water usage per person", "water bill baseline", "water use calculation"]
-image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_v3.png"
+image: "/images/articles/average-water-usage-per-person/average-water-usage-per-person_hero_v3.webp"
 image_alt: "Illustration of a water bill, billing calendar, household of three, and calculator showing the steps for finding water use per person."
 hero_below_answer: true
 sources:

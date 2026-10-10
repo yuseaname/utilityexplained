@@ -43,7 +43,7 @@
 <title>{{ if .IsHome }}Utility Explained: Read and Lower Your Utility Bills{{ else }}{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}{{ end }}</title>
 {{- $pageDesc := .Params.description | default .Site.Params.description -}}
 {{- with $pageDesc -}}
-<meta name="description" content="{{ truncate 155 . }}">
+<meta name="description" content="{{ strings.TrimRight " ,-" (strings.TrimSuffix "…" (truncate 152 .)) }}">
 {{- end -}}
 {{- with .Params.author -}}
 <meta name="author" content="{{ . }}">
@@ -55,8 +55,8 @@
 
 {{/* Favicon — SVG meter mark primary, PNG fallback */}}
 <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
-<link rel="icon" href="{{ .Site.Params.favicon }}" sizes="any">
-<link rel="apple-touch-icon" href="{{ .Site.Params.favicon }}">
+<link rel="icon" type="image/png" href="/images/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 <meta name="theme-color" content="#0e201c">
 
 {{/* Open Graph */}}
@@ -64,7 +64,7 @@
 <meta property="og:title" content="{{ .Title }}">
 {{- $pageDesc := .Params.description | default .Site.Params.description -}}
 {{- with $pageDesc -}}
-<meta property="og:description" content="{{ truncate 155 . }}">
+<meta property="og:description" content="{{ strings.TrimRight " ,-" (strings.TrimSuffix "…" (truncate 152 .)) }}">
 {{- end -}}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -100,7 +100,7 @@
 <meta name="twitter:title" content="{{ .Title }}">
 {{- $pageDesc := .Params.description | default .Site.Params.description -}}
 {{- with $pageDesc -}}
-<meta name="twitter:description" content="{{ truncate 155 . }}">
+<meta name="twitter:description" content="{{ strings.TrimRight " ,-" (strings.TrimSuffix "…" (truncate 152 .)) }}">
 {{- end -}}
 {{- with $shareImg -}}
 <meta name="twitter:image" content="{{ . | absURL }}">

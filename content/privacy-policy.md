@@ -15,11 +15,11 @@ This policy explains what data Utility Explained ("we", "us") collects when you 
 
 ## Consent and cookies
 
-When you first visit, you will see a cookie consent banner. Until you choose, advertising and analytics cookies are **not** set — we use Google Consent Mode v2 to hold them back by default. You can **Accept all** (enabling personalized ads and analytics) or **Decline** (we then serve only limited, non-personalized ads and do not enable analytics storage). Your choice is remembered on this device. You can revisit the banner by clearing your browser storage for this site.
+When you first visit, you will see a cookie consent banner. Until you choose, advertising and analytics cookies are **not** set — we use Google Consent Mode v2 to hold them back by default. You can **Accept all** (enabling personalized ads and analytics) or **Decline** (we then serve only limited, non-personalized ads and do not enable analytics storage). Your choice is remembered on this device. You can change or withdraw your choice at any time using the **Cookie Settings** link in the footer of every page — it reopens the same banner. California residents can also use the footer's **Do Not Sell or Share My Personal Information** link, which opts you out of sharing for cross-context advertising immediately.
 
 ## Information you give us
 
-If you contact us through our contact form or email, we receive the information you submit (such as your name and email address). We use it only to respond to your message or improve our content, and we do not share it with third parties for marketing.
+If you contact us by email, we receive the information you submit (such as your name and email address). We use it only to respond to your message or improve our content, and we do not share it with third parties for marketing.
 
 ## Advertising (Google AdSense)
 
@@ -36,7 +36,7 @@ Some ads may use cookies that remain on your device. Most browsers let you refus
 We measure traffic with two tools:
 
 - **Google Analytics 4** (property `G-SGVWNS876W`). When analytics storage is enabled (via your consent choice), Google sets cookies such as `_ga` to estimate sessions, page views, and engagement in aggregate. We use this to see which guides are useful. Learn more in Google's [analytics privacy information](https://policies.google.com/technologies/cookies) and the [Google Analytics "opt-out" browser add-on](https://tools.google.com/dlpage/gaoptout).
-- **Rybbit** (privacy-first analytics). Rybbit is designed to work without traditional cross-site tracking cookies.
+- **Rybbit** (privacy-first analytics). Rybbit is cookieless: it stores no identifiers on your device and does no cross-site tracking, so it runs without a consent choice.
 
 Analytics data is aggregated and used to improve the site; it is not used to identify you personally for advertising.
 

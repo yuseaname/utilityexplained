@@ -77,7 +77,7 @@ No honest page can promise "X% off your bill" — the percentage depends on your
 
 ## The Sequence That Beats the Thermostat
 
-Before buying automation, spend the free fifteen minutes: confirm your rate plan is actually the problem ([which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)), check whether your utility's app already shows your hourly usage, and verify the thermostat isn't compensating for a $4 air filter or a draft you could caulk this weekend ([what MERV rating do I need](/blog/what-merv-rating-i-need/)). Automation amplifies a well-set-up house; it never substitutes for one.
+Before buying automation, spend the free fifteen minutes: confirm your rate plan is actually the problem ([which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)), check whether your utility's app already shows your hourly usage, and verify the thermostat isn't compensating for a $4 air filter or a draft you could caulk this weekend ([what MERV rating do I need](/blog/what-merv-rating-do-i-need/)). Automation amplifies a well-set-up house; it never substitutes for one.
 
 ## Sources
 

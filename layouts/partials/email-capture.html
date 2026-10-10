@@ -1,5 +1,11 @@
-{{/* email-capture.html */}}
-{{ if or (eq .Section "blog") .IsHome }}
+{{/* email-capture.html — DISABLED 2026-10-10 (credibility audit).
+     The form posts to a Mailchimp endpoint for an account that does not
+     exist: 17 signups were silently lost. Rendering nothing until a real
+     list service is wired (owner decision pending). To re-enable: replace
+     the form action below with a verified endpoint + the required u=/id=
+     hidden fields, then restore the include (it is still called from
+     single.html:164 and index.html:189). */}}
+{{ if and (or (eq .Section "blog") .IsHome) (false) }}
 <div class="newsletter-box">
   <div class="newsletter-inner">
     <div class="newsletter-icon">

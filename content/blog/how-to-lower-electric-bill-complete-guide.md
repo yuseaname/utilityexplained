@@ -1,7 +1,7 @@
 ---
 title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
 slug: "how-to-lower-electric-bill-complete-guide"
-description: "How to lower your electric bill: 17 proven steps organized by cost, with exact dollar savings and payback periods for each upgrade. The 2026 guide."
+description: "How to lower your electric bill: 17 proven steps organized by cost, with estimated dollar savings and payback periods for each upgrade. The 2026 guide."
 date: 2026-08-10
 lastmod: 2026-10-05
 updated: 2026-10-05

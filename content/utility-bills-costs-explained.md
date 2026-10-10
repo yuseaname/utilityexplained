@@ -69,15 +69,15 @@ When moving to a new home, contact utilities one to two weeks in advance to star
 
 ## Common misconceptions about utility bills {#misconceptions}
 
-<h3>Misconception: Fixed charges are optional</h3>
+### Misconception: Fixed charges are optional
 <p>
 Fixed charges are mandatory and apply even if you use very little—they cover infrastructure and service access that don't vary with usage.
 </p>
-<h3>Misconception: Estimated bills are always wrong</h3>
+### Misconception: Estimated bills are always wrong
 <p>
 Estimated bills are based on historical usage and are often close to actual; the next bill corrects the estimate, so the two-month total is accurate.
 </p>
-<h3>Misconception: You cannot negotiate utility rates</h3>
+### Misconception: You cannot negotiate utility rates
 <p>
 In regulated markets rates are set by regulators and not negotiable; in deregulated markets you may be able to choose a supplier and compare rates.
 </p>
@@ -120,7 +120,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 
 <p>Explore our complete library of utility bill guides, organized by topic:</p>
 
-<h3>Reading and Understanding Bills</h3>
+### Reading and Understanding Bills
 <ul>
 <li><a href="/blog/complete-guide-understanding-utility-bill/">Complete Guide to Understanding Your Utility Bill</a></li>
 <li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a></li>
@@ -129,7 +129,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 <li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a></li>
 </ul>
 
-<h3>Fees and Charges Explained</h3>
+### Fees and Charges Explained
 <ul>
 <li><a href="/blog/04-hidden-fees-utility-bill/">Hidden Fees on Your Utility Bill</a></li>
 <li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">What Is the Customer Charge?</a></li>
@@ -139,7 +139,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 <li><a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">Taxes, Fees, and Franchise Charges</a></li>
 </ul>
 
-<h3>Connection and Deposits</h3>
+### Connection and Deposits
 <ul>
 <li><a href="/blog/27-utility-connection-fee-explained/">Utility Connection Fee Explained</a></li>
 <li><a href="/blog/26-utility-deposit-explained/">Utility Deposit Explained</a></li>
@@ -147,7 +147,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 <li><a href="/blog/21-past-due-balance-utility-bill-explained/">Past Due Balance Explained</a></li>
 </ul>
 
-<h3>Billing Cycles and Plans</h3>
+### Billing Cycles and Plans
 <ul>
 <li><a href="/blog/23-utility-billing-cycle-explained/">Utility Billing Cycle Explained</a></li>
 <li><a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a></li>
@@ -155,7 +155,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 <li><a href="/blog/16-budget-billing-level-pay-explained/">Budget Billing and Level Pay Explained</a></li>
 </ul>
 
-<h3>Costs and Budgeting</h3>
+### Costs and Budgeting
 <ul>
 <li><a href="/blog/average-utility-bills-by-state-2026/">Average Utility Bills by State</a></li>
 <li><a href="/blog/09-apartment-utilities-cost/">Average Apartment Utilities Cost</a></li>
@@ -163,7 +163,7 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 <li><a href="/blog/05-how-to-lower-utility-bills/">Lower Your Utility Bills: The Ranked List</a></li>
 </ul>
 
-<h3>Assistance Programs</h3>
+### Assistance Programs
 <ul>
 <li><a href="/blog/utility-assistance-programs-liheap/">Utility Assistance Programs (LIHEAP)</a></li>
 </ul>

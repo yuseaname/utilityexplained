@@ -23,7 +23,7 @@ We translate electricity, gas, and water bills into decisions you can actually m
 
 ## How this site is produced
 
-Utility Explained is written and reviewed by [our editorial team](/editorial-team/) — a small desk of editors working with AI drafting assistance. Bylines on guides identify the topic desk responsible, not independently credentialed individuals. What makes a claim trustworthy here is not a byline: it is the visible, dated primary-source links (EIA, DOE, ENERGY STAR, state utility commissions, published tariffs) that data-heavy pages carry, the [methodology](/methodology/) we follow, and the public [corrections log](/corrections/) when we get something wrong.
+Utility Explained is written and reviewed by [our editorial team](/editorial-team/) — a single independent researcher working with AI drafting assistance. Bylines on guides identify the topic desk responsible, not independently credentialed individuals. What makes a claim trustworthy here is not a byline: it is the visible, dated primary-source links (EIA, DOE, ENERGY STAR, state utility commissions, published tariffs) that data-heavy pages carry, the [methodology](/methodology/) we follow, and the public [corrections log](/corrections/) when we get something wrong.
 
 ## What we do
 

@@ -5,7 +5,7 @@ date: 2024-12-01
 updated: 2026-08-12
 ---
 
-Utility Explained is produced by a small editorial team focused on translating utility bills into plain English. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
+Utility Explained is produced by a single independent researcher focused on translating utility bills into plain English; the "desks" below are topic areas, not separate staff. Guides may use AI assistance during drafting. That assistance is not evidence: data-heavy pages are being reviewed so material figures and regulatory claims can carry visible, dated links to primary sources.
 
 ## Our Desks
 

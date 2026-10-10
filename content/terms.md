@@ -22,7 +22,7 @@ tariffs, and policies of your own provider — and those vary by utility, plan,
 location, and season, and they change over time. Figures on this site are
 typical estimates, not quotes for your home. Always verify details with your
 utility or service provider before making decisions. See also our
-[disclaimer](/disclaimer/).
+<a href="/disclaimer/">disclaimer</a>.
 </p>
 
 <h2>How you may use the site</h2>
@@ -47,7 +47,7 @@ Utility Explained is reader-supported. On product-focused guides, we use
 affiliate links — primarily the Amazon Associates program. If you click one
 of those links and buy something, we may earn a commission at no extra cost
 to you. <strong>As an Amazon Associate we earn from qualifying purchases.</strong>
-See the full [affiliate disclosure](/affiliate-disclosure/) for how this
+See the full <a href="/affiliate-disclosure/">affiliate disclosure</a> for how this
 works — and how commissions never influence what we cover or recommend.
 </p>
 
@@ -55,13 +55,13 @@ works — and how commissions never influence what we cover or recommend.
 <p>
 This site has no comments, forums, or user accounts, so there is no
 user-generated content. If you want to reach us — a question, a correction,
-or permission to reuse an article — please [contact us](/contact/).
+or permission to reuse an article — please <a href="/contact/">contact us</a>.
 </p>
 
 <h2>Corrections</h2>
 <p>
 If we get something wrong, we fix it fast and visibly. Our public
-[corrections policy](/corrections/) explains how to report an error and how
+<a href="/corrections/">corrections policy</a> explains how to report an error and how
 corrections are logged so no edit is silent.
 </p>
 

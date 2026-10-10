@@ -24,7 +24,7 @@ We may already have your answer:
 
 The quickest way to reach us is by email. Your email app will open with our address pre-filled:
 
-<a href="mailto:hello@utilityexplained.com?subject=Utility%20Explained%20%E2%80%94%20Reader%20Message" class="hero-meter-cta" style="display:inline-flex;">Email hello@utilityexplained.com</a>
+<a href="mailto:hello@utilityexplained.com?subject=Utility%20Explained%20%E2%80%94%20Reader%20Message" class="hero-meter-cta" style="display:inline-flex;">Email hello&#64;utilityexplained&#46;com</a>
 
 ## What to expect
 

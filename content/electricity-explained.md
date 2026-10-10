@@ -13,6 +13,7 @@ url: "/electricity-explained"
 
 
 <p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
+
 ## Quick Answer: what am I paying for? {#quick-answer}
 
 Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using {{< stat "avg_monthly_kwh" >}} at the June 2026 national average of {{< stat "electric_rate_jun2026" >}} pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
@@ -28,17 +29,17 @@ Your electric bill has three moving parts: **usage** (kWh your meter counted), t
 <li><strong>I want to monitor usage in real time</strong> — <a href="/blog/best-home-energy-monitor-2026/">Best Home Energy Monitor 2026</a></li>
 </ul>
 
-<h2>What is electricity and how does it reach your home?</h2>
+## What is electricity and how does it reach your home?
 <p>
 Electricity flows from generation through transmission and distribution lines to your meter, which records what you use. For how that flow shows up on your statement, see <a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a>.
 </p>
 
-<h2>How electricity is measured: watts, kilowatts, and kilowatt-hours</h2>
+## How electricity is measured: watts, kilowatts, and kilowatt-hours
 <p>
 Bills charge in kilowatt-hours (kWh) — energy used over time, not the watts an appliance draws at any instant. For the full unit breakdown and the kWh formula, see <a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a>.
 </p>
 
-<h2>Understanding your electric bill</h2>
+## Understanding your electric bill
 <p>
 An electric bill has three parts — the energy (supply) charge, the delivery (distribution) charge, and fixed fees. For a line-by-line breakdown of each charge, see <a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown: Every Charge Explained</a>.
 </p>
@@ -47,46 +48,46 @@ An electric bill has three parts — the energy (supply) charge, the delivery (d
 <figcaption>Anatomy of a typical electric bill. Illustrative example — rates and fees vary by utility.</figcaption>
 </figure>
 
-<h2>Common rate structures: flat, tiered, and time-of-use</h2>
+## Common rate structures: flat, tiered, and time-of-use
 <p>
 Your price per kWh depends on your tariff: flat (same all the time), tiered (higher as you use more), or time-of-use (higher at peak hours). For how each works and which fits your habits, see <a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a>, <a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a>, and <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
 </p>
 
-<h2>What uses the most electricity in a typical home?</h2>
+## What uses the most electricity in a typical home?
 <p>
 Heating and cooling usually dominate, followed by water heating and appliances. For a usage breakdown by device, see <a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a>.
 </p>
 
-<h2>Seasonal changes and why electric bills vary</h2>
+## Seasonal changes and why electric bills vary
 <p>
 Summer cooling and winter heating drive the biggest swings, and billing-cycle length can move the total too. For the causes of a high or rising bill, see <a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a>.
 </p>
 
-<h2>How to reduce electricity usage without major investments</h2>
+## How to reduce electricity usage without major investments
 <p>
 Thermostat adjustments, LEDs, power strips, and air sealing all cut usage without big spending. For the full checklist, see <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
 
-<h2>Fixed vs. variable rate electricity plans</h2>
+## Fixed vs. variable rate electricity plans
 <p>
 Fixed rates lock in a price per kWh for a set term; variable rates move with the market. For how to choose, see <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
 </p>
 
-<h2>Smart meters and real-time usage data</h2>
+## Smart meters and real-time usage data
 <p>
 Smart meters record usage hourly or daily and feed a utility portal or app. For the best tools to track usage yourself, see <a href="/blog/best-home-energy-monitor-2026/">Best Home Energy Monitor 2026</a>.
 </p>
 
-<h2>Common misconceptions about electricity</h2>
-<h3>Misconception: Leaving devices plugged in does not use electricity</h3>
+## Common misconceptions about electricity
+### Misconception: Leaving devices plugged in does not use electricity
 <p>
 Many devices draw standby (phantom) power even when off. Power strips that cut power completely reduce this waste.
 </p>
-<h3>Misconception: Turning lights on and off wastes more electricity than leaving them on</h3>
+### Misconception: Turning lights on and off wastes more electricity than leaving them on
 <p>
 False for modern bulbs. Turning off lights when you leave a room always saves energy, especially with LEDs.
 </p>
-<h3>Misconception: Electric heat is always more expensive than gas heat</h3>
+### Misconception: Electric heat is always more expensive than gas heat
 <p>
 It depends on local rates and system efficiency. Efficient heat pumps can compete with gas where electric rates are low or winters are mild.
 </p>
@@ -95,24 +96,24 @@ It depends on local rates and system efficiency. Efficient heat pumps can compet
 For the full library of electricity guides, jump to the <a href="#electricity-guides">Browse Our Electricity Guides</a> directory below.
 </p>
 
-<h2>Frequently asked questions</h2>
-<h3>How much electricity does the average home use?</h3>
+## Frequently asked questions
+### How much electricity does the average home use?
 <p>
 In the United States, a typical household uses about 800 to 1,000 kWh per month. This varies widely by climate, home size, and heating or cooling type.
 </p>
-<h3>Can I lower my electric bill without changing my habits?</h3>
+### Can I lower my electric bill without changing my habits?
 <p>
 Small equipment upgrades like LED bulbs, efficient power strips, and programmable thermostats can reduce usage without requiring major behavior changes. Sealing air leaks and improving insulation also help.
 </p>
-<h3>What is the difference between energy and delivery charges?</h3>
+### What is the difference between energy and delivery charges?
 <p>
 The energy charge is usage-based; delivery charges may be fixed, per-kWh, or both depending on the utility.
 </p>
-<h3>Do smart meters increase my bill?</h3>
+### Do smart meters increase my bill?
 <p>
 No. Smart meters measure usage more accurately, which can reveal waste you did not notice before. The meter itself does not change how much electricity you use.
 </p>
-<h3>Should I switch to a time-of-use plan?</h3>
+### Should I switch to a time-of-use plan?
 <p>
 If you can shift most usage to off-peak hours, a time-of-use plan can save money. If you are home during peak hours and cannot adjust usage, a flat-rate plan may be simpler.
 </p>
@@ -122,14 +123,14 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 <p>For the cross-utility savings program — electric, gas, and water together, ranked by payback — see the <a href="/lower-your-bills/">Lower Your Bills hub</a>.</p>
 <p>Explore our complete library of electricity bill guides, organized by topic:</p>
 
-<h3>Understanding Your Bill</h3>
+### Understanding Your Bill
 <ul>
 <li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill (Line by Line)</a></li>
 <li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown: Every Charge Explained</a></li>
 <li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs Supply Charge</a></li>
 </ul>
 
-<h3>Why Your Bill Is High</h3>
+### Why Your Bill Is High
 <ul>
 <li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
 <li><a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
@@ -137,7 +138,7 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 <li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>
 </ul>
 
-<h3>Electricity Rates and Plans</h3>
+### Electricity Rates and Plans
 <ul>
 <li><a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a></li>
 <li><a href="/blog/46-what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
@@ -146,7 +147,7 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 <li><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
 </ul>
 
-<h3>Meters and Usage</h3>
+### Meters and Usage
 <ul>
 <li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)? Understanding kWh Usage</a></li>
 
@@ -161,7 +162,7 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 <li><a href="/blog/how-do-smart-meters-work/">How Do Smart Meters Work?</a></li>
 </ul>
 
-<h3>Lower Your Electric Bill</h3>
+### Lower Your Electric Bill
 <ul>
 <li><a href="/blog/how-to-lower-electric-bill-without-solar/">Lower Your Electric Bill Without Solar</a></li>
 <li><a href="/blog/how-to-lower-electric-bill-complete-guide/">Complete Guide to Lowering Your Electric Bill</a></li>
