@@ -109,7 +109,7 @@ Most spikes are not mysterious. They are usually one of these:
 - A change in the rate per kWh or in your rate plan
 - An estimate correction after an actual read[4]
 
-EIA also notes that weather extremes can increase demand for heating and cooling, which can push fuel and electricity prices up.[1] For a troubleshooting checklist, read <a href="/blog/03-why-is-my-electric-bill-so-high/">why your bill jumped this month</a>.
+EIA also notes that weather extremes can increase demand for heating and cooling, which can push fuel and electricity prices up.[1] For a troubleshooting checklist, read <a href="/blog/03-why-is-my-electric-bill-so-high/">why your bill jumped this month</a>. And when the statement itself can't tell you which appliance drove the extra kWh, a {{< amazon asin="B00009MDBU" text="plug-in watt meter like the P3 Kill A Watt (~$30)" position="spikes-measure" >}} names the culprit in about a day of monitoring — the measurement-first step the troubleshooting guide builds on.
 
 ## Related Reading
 

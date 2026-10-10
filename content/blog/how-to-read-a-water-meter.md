@@ -24,6 +24,8 @@ sources:
 
 For more detail, see [Understanding Utility Bills](/blog/complete-guide-understanding-utility-bill/).
 
+**Next step:** If the sweep hand moves with everything off, a {{< amazon asin="B0DQLFC3Q6" text="five-pack of leak sensors like the Govee" position="qa-leak-test" >}} under the water heater, washer box, and sinks will catch the culprit the day it starts — before it shows up as 20 CCF on next month's bill. The full diagnostic ladder is in [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/).
+
 
 ## Know your meter type first {#meter-types}
 
