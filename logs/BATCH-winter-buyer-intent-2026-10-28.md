@@ -43,3 +43,12 @@ Final five — all verified distinct intents with existing cluster gaps:
   and get_run_status returns "Run not found" (looks like a stuck run; it's a parsing bug).
 - Actual gen time ~45-60s/image at 2K, 0.077 credits each; no rate-limit pause needed at
   natural 60-90s spacing.
+
+## WAVE 2 ADDENDUM (2026-10-28 evening, commit 3b8b953d)
+
+Second five shipped same day, research-driven: furnace-smells-like-burning,
+why-does-my-furnace-keep-turning-on-and-off, heat-pump-covered-in-ice-normal-or-problem,
+best-door-draft-stoppers, winter-heating-bill-forecast-2026-2027 (live EIA Oct-6 tables).
+76 internal links 0-dead, 10 inbound, 15 images QA PASS, llms.txt 134->139.
+Collisions dodged: flume-vs-moen-flo-vs-phyn + average-utility-bills-by-state pre-existed.
+Found: old EIA winter_fuels.php URL dead sitewide — sweep owed (new URL used in wave-2 article).
