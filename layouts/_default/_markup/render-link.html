@@ -10,7 +10,9 @@
    0.141 (field assignment fails to parse), so the href is rebuilt with
    plain string concatenation. */ -}}
 {{- $u := urls.Parse .Destination -}}
-{{- $isAmz := and (eq $u.Host "www.amazon.com") (or (strings.HasPrefix $u.Path "/dp/") (strings.HasPrefix $u.Path "/gp/")) -}}
+{{- /* 2026-10-28: any www.amazon.com path qualifies — search links (/s?k=)
+       previously escaped the /dp/-only match and shipped untagged. */ -}}
+{{- $isAmz := or (eq $u.Host "www.amazon.com") (eq $u.Host "amazon.com") -}}
 {{- if $isAmz -}}
   {{- $sep := "?" -}}
   {{- if strings.Contains .Destination "?" -}}{{- $sep = "&" -}}{{- end -}}

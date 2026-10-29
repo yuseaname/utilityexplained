@@ -22,6 +22,12 @@ PATTERNS = [
     re.compile(r"\{<\s*(visual|product-box)"),
 ]
 
+# 2026-10-28 attribution gate: every amazon.com URL anywhere in rendered HTML
+# (hrefs, JSON-LD citation schema, inline text) must carry tag= — untagged
+# ones earn under Associates "Other" with zero per-site attribution.
+# Char class includes backslash so JSON-escaped URLs (\u0026tag=...) match fully.
+AMZ_URL = re.compile(r"https?://(?:www\.)?amazon\.com/[^\s\"'<>)]*")
+
 def main() -> int:
     if not root.is_dir():
         print(f"FAIL — rendered root not found: {root}")
@@ -32,8 +38,11 @@ def main() -> int:
         for pat in PATTERNS:
             for m in pat.finditer(text):
                 bad.append(f"{page.relative_to(root)}: ...{m.group(0)[:50]}...")
+        for m in AMZ_URL.finditer(text):
+            if "tag=" not in m.group(0):
+                bad.append(f"{page.relative_to(root)}: untagged amazon URL: {m.group(0)[:90]}")
     if bad:
-        print(f"FAIL — leaked shortcode markup at {len(bad)} location(s):")
+        print(f"FAIL — leaked markup / untagged Amazon URLs at {len(bad)} location(s):")
         for line in bad[:20]:
             print(" ", line)
         return 1

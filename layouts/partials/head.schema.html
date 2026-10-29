@@ -93,6 +93,15 @@
       {{- $u := replaceRE `\(.*?\)` `` $u -}}
       {{- $u := replaceRE `^\s+|\s+$` `` $u -}}
       {{- if and (ne $u "") (or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://")) -}}
+        {{- /* 2026-10-28 attribution fix: tag Amazon citation URLs. Raw untagged
+               amazon.com URLs in machine-readable schema are relayed verbatim by
+               AI engines and land in Associates "Other" with zero attribution —
+               see logs/AMAZON-ATTRIBUTION-INVESTIGATION-2026-10-28.md. */ -}}
+        {{- if and (strings.Contains $u "amazon.com") (not (strings.Contains $u "tag=")) -}}
+          {{- $sep := "?" -}}
+          {{- if strings.Contains $u "?" -}}{{- $sep = "&" -}}{{- end -}}
+          {{- $u = printf "%s%stag=%s" $u $sep (site.Params.amazon_tag | default "utexplained-20") -}}
+        {{- end -}}
         {{- $cites = $cites | append $u -}}
       {{- end -}}
     {{- end -}}
