@@ -49,7 +49,7 @@ Treat every big number as a best case against a worst-case baseline. The honest 
 | | **Amazon Smart Thermostat** | **ecobee Essential** | **ecobee Premium** | **Nest Learning (4th gen)** |
 |---|---|---|---|---|
 | **Street price class** | ~$80 | ~$140 | ~$250 | ~$220 |
-| **C-wire** | **Required — hard stop** | Needed (PEK included) | Needed — Power Extender Kit included | "Not required in most homes" (power connector path) |
+| **C-wire** | **Required — hard stop** | Needed in most systems (check ecobee's power options) | Needed — Power Extender Kit included | "Not required in most homes" (power connector path) |
 | **Remote room sensors** | No | No | **Yes — one SmartSensor included** | **Yes — one Nest Temperature Sensor (2nd gen) included** |
 | **Learning schedule** | No — you set it | No — you set it | Learns occupancy/routine | **Learns your schedule automatically** |
 | **Ecosystems** | Alexa (+ Ring) | Alexa, Google, Apple HomeKit | Alexa, Google, Apple HomeKit + built-in Siri/Alexa speaker | Alexa, Google, Apple HomeKit, Matter |
@@ -85,7 +85,7 @@ How to choose between them: if your problem is "the bedroom is always cold and t
 The C-wire ("common" wire) supplies continuous power to a smart thermostat's Wi-Fi radio. Older homes often don't have one at the thermostat — the cable bundle stops at four or five conductors, all in use. What that means per model:
 
 1. **Amazon Smart Thermostat: C-wire required, full stop.** Check before buying: pop the thermostat off the wall and look for an unused (often blue) wire, or check your furnace control board for an unattached "C" terminal.
-2. **ecobee (Essential and Premium): Power Extender Kit.** The included PEK steals a small trickle from the furnace's G (fan) wire — a legitimate DIY fix in most systems, no new wire pulled.
+2. **ecobee: the Power Extender Kit path.** The Premium's listing confirms a PEK in the box — it steals a small trickle from the furnace's G (fan) wire, a legitimate DIY fix in most systems, no new wire pulled. The Essential runs on the same power architecture; confirm what's in its box at purchase.
 3. **Nest 4th gen:** Google states no C-wire is required in most homes — it scavenges power from the heating circuit itself. In a minority of systems (notably some zoned and two-wire setups) you still need the power connector or a wire.
 
 {{< visual src="/images/articles/best-smart-thermostats-winter-savings/c-wire-cutaway.webp" alt="Diagram illustration of a thermostat mounted on a wall with colored low-voltage wires running behind it." caption="Before buying, take the old thermostat off the wall and photograph the wire bundle — the photo answers the C-wire question in ten seconds." wide="true" >}}
@@ -127,7 +127,7 @@ Yes — through consistent setbacks, typically 8-13% off the heating portion of 
 {{< /faq >}}
 
 {{< faq "Can I install a smart thermostat without a C-wire?" >}}
-Often yes, depending on the model. ecobee ships a Power Extender Kit that works in most systems without pulling new wire; Google says the Nest Learning 4th gen needs no C-wire in most homes. The Amazon Smart Thermostat is the outlier: it hard-requires a C-wire. Look behind your current thermostat for an unused blue wire before ordering anything.
+Often yes, depending on the model. ecobee's Premium ships with a Power Extender Kit that works in most systems without pulling new wire (verify box contents on the Essential); Google says the Nest Learning 4th gen needs no C-wire in most homes. The Amazon Smart Thermostat is the outlier: it hard-requires a C-wire. Look behind your current thermostat for an unused blue wire before ordering anything.
 {{< /faq >}}
 
 {{< faq "Is the Nest or ecobee better for heat pumps?" >}}

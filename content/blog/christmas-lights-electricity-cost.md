@@ -16,6 +16,7 @@ sources:
   - https://www.esfi.org/in-the-right-light-decorate-your-home-safely-during-the-holidays/
   - https://www.esfi.org/top-10-holiday-safety-tips/
   - https://www.amazon.com/dp/B081DNT98S
+  - https://www.amazon.com/StayBright-Random-Sparkle-35-Count/dp/B0793NS19B
   - https://www.amazon.com/dp/B08LN3C7WK
 ---
 
@@ -162,5 +163,5 @@ Next: [how to read your electric bill line by line](/blog/01-how-to-read-your-el
 2. [ESFI — In The Right Light: Decorate Your Home Safely During the Holidays](https://www.esfi.org/in-the-right-light-decorate-your-home-safely-during-the-holidays/) — NFPA decoration-fire statistics (860/yr; 210 tree fires), GFCI and inspection guidance.
 3. [ESFI — Top 10 Holiday Safety Tips](https://www.esfi.org/top-10-holiday-safety-tips/) — the three-string incandescent limit, LED run-cooler guidance, turn-off-when-sleeping rule.
 4. [Amazon — GE StayBright LED C9 75-count listing](https://www.amazon.com/dp/B081DNT98S) — ENERGY STAR-class C9 LED string specs and connectivity ratings (verified Oct 2026).
-5. [Amazon — GE Energy Smart LED C9 listing data](https://www.amazon.com/dp/B081BHCCFK) — LED C9 wattage class for the per-bulb comparison (verified Oct 2026).
+5. [Amazon — GE StayBright LED C9 35-count listing](https://www.amazon.com/StayBright-Random-Sparkle-35-Count/dp/B0793NS19B) — the 2-watts-per-set LED C9 rating used in the wattage table (verified Oct 2026).
 6. [Amazon — Kasa KP115 listing](https://www.amazon.com/dp/B08LN3C7WK) — energy-monitoring smart plug specs (verified Oct 2026).
