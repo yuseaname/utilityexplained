@@ -72,6 +72,8 @@ If you are ranking winter spends from cheapest to most effective, the list usual
 
 {{< product-box asin="B00002NCJI" name="3M Indoor Window Insulator Kit, Five-Window Pack (2141W-6)" label="The standard shrink kit" description="Five 3x5-foot clear film sheets with double-sided tape; shrinks taut with a hair dryer to seal drafts and add a dead-air layer for the season. Tape-on, peel-off — renter-clean, one season per kit." button="Check price on Amazon" >}}
 
+Doors leak on a different axis than windows — the product decisions for those gaps are in [best door draft stoppers](/blog/best-door-draft-stoppers/).
+
 ## Sources
 
 1. [ENERGY STAR — Seal and Insulate](https://www.energystar.gov/saveathome/seal_insulate) (retrieved 2026-08-31)

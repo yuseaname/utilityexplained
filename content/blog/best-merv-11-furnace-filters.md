@@ -101,6 +101,8 @@ The honest summary: filter money is small money. The reason to choose carefully 
 
 And the standing rule that outranks every pick on this page: **measure the slot, read the manual, then buy.** The best filter is the correct size at the highest MERV your specific blower tolerates — and the cheapest failure is a $10 filter that doesn't fit, while the expensive one is a system strangled by media it was never designed for.
 
+A loaded filter is also the #1 cause of [furnace short cycling](/blog/why-does-my-furnace-keep-turning-on-and-off/) and a common thread in [burning smells](/blog/furnace-smells-like-burning/) — the filter is the cheapest component with the longest shadow.
+
 ## Sources
 
 1. [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) — guidance to select MERV 13 "or as high a rating as your system fan and filter slot can accommodate," and that all filters need regular replacement. Retrieved 2026-09-11.

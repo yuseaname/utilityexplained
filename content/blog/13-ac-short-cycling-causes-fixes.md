@@ -113,6 +113,8 @@ Stop using the system and call a professional if you observe:
 
 Related: if it's the *furnace* that runs constantly in heating season rather than short-cycling, see [why is my furnace running constantly](/blog/why-is-my-furnace-running-constantly/).
 
+The furnace-season sibling of this problem — runs two minutes, quits, repeats — is covered in [why your furnace keeps turning on and off](/blog/why-does-my-furnace-keep-turning-on-and-off/).
+
 ## Sources
 
 1. [U.S. Department of Energy Building Science Education: HVAC Preventative Maintenance](https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance)

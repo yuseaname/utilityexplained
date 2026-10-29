@@ -258,6 +258,8 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
 
 
+Ice building on the outdoor unit is a separate cold-weather failure that ALSO drives aux hours — the normal-vs-problem line is in [heat pump covered in ice](/blog/heat-pump-covered-in-ice-normal-or-problem/).
+
 ## FAQs {#faqs}
 
 <p>

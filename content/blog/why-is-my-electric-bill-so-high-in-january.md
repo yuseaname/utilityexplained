@@ -72,6 +72,8 @@ If kWh didn't track the cold, the cause is one of the non-seasonal ones — phan
 
 And if the problem is paying the bill rather than the usage: LIHEAP — the Low Income Home Energy Assistance Program — helps eligible households with winter heating bills and can prevent shutoffs; DOE's Weatherization Assistance Program delivers free efficiency upgrades worth about $372 a year on average. Your local 211 connects you to both plus utility hardship funds.
 
+The season-level picture — what every fuel is forecast to cost this winter, by region — is in the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
+
 ## FAQs
 
 {{< faq "Is a higher January bill normal even if nothing changed?" >}}

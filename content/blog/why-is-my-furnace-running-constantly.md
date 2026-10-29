@@ -71,6 +71,8 @@ Run-hours × cost-per-run-hour = the fuel line of your gas bill. A 60,000 BTU/h 
 
 **Related reads:** [why is my furnace blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/) (a different symptom, sometimes the same root cause), [heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/) (often *normal* for heat pumps), and [do programmable thermostats cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/) before buying a smart stat to "fix" this.
 
+The opposite failure — running too SHORT and quitting early — is [short cycling](/blog/why-does-my-furnace-keep-turning-on-and-off/), and its #1 cause is a clogged filter.
+
 ## FAQs
 
 {{< faq "Is it bad if my furnace runs constantly?" >}}

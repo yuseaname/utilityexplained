@@ -145,6 +145,8 @@ None of it costs a dollar, and it retires a fair share of "drafty house" verdict
 
 Two honest brackets before the boxes: ENERGY STAR's up-to-10% figure is its estimate for sealing **and** insulation together — it does not attach to a single sweep.[1] And the 25C Home Improvement Credit covers insulation and air sealing, worth a check before tax season even if the basket stays small.[3] For where this evening ranks among the other levers, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) keeps the full list. And once the seals are in place, [a home energy monitor can measure what the fixes actually saved](/blog/do-home-energy-monitors-save-money/).
 
+For the door-specific product picks — sleeves, adhesive sweeps, frame weatherstripping — see [the best door draft stoppers](/blog/best-door-draft-stoppers/).
+
 ## Frequently Asked Questions
 
 {{< faq "Do door draft stoppers actually work?" >}}

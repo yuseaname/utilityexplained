@@ -350,6 +350,8 @@ Yes — for accessible fittings, mix dish soap and water in a spray bottle and a
 
 This walkthrough is part of the [Gas Explained hub](/gas-explained/). Cross-utility saving tactics live in the [Lower Your Bills hub](/lower-your-bills/).
 
+For this winter's national picture — EIA's forecast by fuel and region — see the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
+
 ## Sources
 
 1. [U.S. Energy Information Administration: Use of natural gas](https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php)

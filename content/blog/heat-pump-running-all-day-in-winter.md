@@ -138,6 +138,8 @@ One more flag: a system that suddenly starts running *differently* — new noise
 
 If your system turns on and off too quickly, the opposite pattern is its own issue: [AC short cycling explained](/blog/13-ac-short-cycling-causes-fixes/).
 
+Long steady runs are healthy; ice that never clears is not — see [heat pump covered in ice: normal defrost or problem](/blog/heat-pump-covered-in-ice-normal-or-problem/).
+
 ## FAQs
 
 Quick answers to common heat pump runtime questions.

@@ -105,6 +105,8 @@ Even with an efficient system working perfectly, the context helps: the average 
 - [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/48-heat-pump-vs-gas-furnace-savings/)
 - [Heating & Cooling Basics](/heating-cooling-explained/)
 
+First-run burning smells and short cycles are the two symptoms a fall tune-up exists to prevent — the smell guide is [furnace smells like burning](/blog/furnace-smells-like-burning/).
+
 ## Sources
 
 1. [Bob Vila — Furnace Tune-Up Cost](https://www.bobvila.com/articles/furnace-tune-up-cost/)(retrieved 2026-08-30)
