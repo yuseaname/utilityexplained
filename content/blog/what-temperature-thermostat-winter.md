@@ -128,6 +128,10 @@ Seven to ten degrees is the standard recommendation — 60-62°F from a 68°F ba
 On a $150/month winter heating bill, the full pattern (68°F occupied, 10°F overnight setback, away-period setbacks) typically returns 8-13%, or $12-20/month — about $60-100 across a heating season. Larger in colder climates, smaller in mild ones; the percentage holds, the base bill moves.
 {{< /faq >}}
 
+{{< faq "Does turning the thermostat way down hurt the furnace?" >}}
+No — setbacks are normal operation for every modern furnace and heat pump. The folklore that a house "takes more energy to reheat than it saved" is physically wrong (heat loss scales with the indoor-outdoor gap, so the cooler house genuinely loses less). The one real caveat is the heat-pump aux-recovery issue covered above, which is a cost problem, not a damage problem.
+{{< /faq >}}
+
 {{< faq-schema >}}
 
 Related: [the smart thermostat tier comparison](/blog/best-smart-thermostats-winter-savings/), [why is my heating bill so high](/blog/why-is-my-heating-bill-so-high/), and [is it cheaper to heat one room instead of the whole house](/blog/cheaper-to-heat-one-room-vs-whole-house/).
