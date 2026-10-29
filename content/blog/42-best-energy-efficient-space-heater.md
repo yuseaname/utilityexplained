@@ -35,7 +35,7 @@ Virtually all plug-in 120-volt space heaters top out at 1,500 watts—about 12.5
 
 - **Delivery:** radiant units heat objects and people in their line of sight; convection units warm the room's air.[2]
 - **Controls:** a thermostat or timer changes how many hours the element actually runs—the one genuine energy lever.
-- **Placement:** heating the occupied room instead of the whole house is where DOE says the savings live—"zone heating can produce energy savings of more than 20% compared to heating the whole area of your house."[1]
+- **Placement:** heating the occupied room instead of the whole house is where DOE says the savings live—"zone heating can produce energy savings of more than 20% compared to heating the whole area of your house."[1] The full worked math — per-BTU costs by system type, and the three cases where zone heating wins or quietly backfires — is in [is it cheaper to heat one room than the whole house?](/blog/cheaper-to-heat-one-room-vs-whole-house/)
 
 The larger lever sits one step up: DOE currently states that today's heat pumps can reduce electricity use for heating by **approximately 65%** compared with electric resistance heating such as furnaces and baseboard heaters—if you are heating with resistance year-round, that comparison is worth more than any heater choice.[9] (Already sensing your system runs constantly? See [heat pump running all day in winter](/blog/heat-pump-running-all-day-in-winter/).)
 

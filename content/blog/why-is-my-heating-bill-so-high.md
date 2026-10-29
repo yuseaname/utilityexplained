@@ -57,7 +57,7 @@ To keep the blower efficient:
 
 ## Ranked Cause 3: Thermostat Behavior and "Phantom" Loads
 
-Your thermostat is the "brain" of the system. If it is misconfigured, it can cause "short cycling," where the heater turns on and off rapidly. This is incredibly inefficient because the system uses the most energy during the startup phase. This is similar to [AC short cycling](/blog/13-ac-short-cycling-causes-fixes/) and is often caused by a thermostat placed too close to a heat vent or a drafty window.
+Your thermostat is the "brain" of the system. If it is misconfigured, it can cause "short cycling," where the heater turns on and off rapidly. This is incredibly inefficient because the system uses the most energy during the startup phase. This is similar to [AC short cycling](/blog/13-ac-short-cycling-causes-fixes/) and is often caused by a thermostat placed too close to a heat vent or a drafty window. The settings themselves are half the battle — the full winter table is in [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
 
 Upgrading to a smart thermostat like the {{< amazon asin="B0D5BBYRJM" text="Google Nest Learning Thermostat (4th Gen)" >}} or the {{< amazon asin="B09XXS48P8" text="ecobee Premium" >}} can help by using "smart recovery" to ramp up heat gradually rather than slamming on the expensive auxiliary strips. We've analyzed whether these [programmable thermostats actually cut bills](/blog/do-programmable-thermostats-cut-heating-bills/) in detail.
 
@@ -144,7 +144,7 @@ Yes, potentially. A higher MERV rating (like MERV 13) is thicker and harder to p
 {{< /faq >}}
 
 {{< faq "Can a smart thermostat really lower my heating bill?" >}}
-Yes, especially for heat pumps. Smart thermostats can prevent the "overshoot" that triggers expensive auxiliary heat. They also provide data on how many hours your system ran, helping you correlate usage with outdoor temperatures.
+Yes, especially for heat pumps. Smart thermostats can prevent the "overshoot" that triggers expensive auxiliary heat strips. They also provide data on how many hours your system ran, helping you correlate usage with outdoor temperatures. (Which one to buy: our [smart thermostat tier comparison](/blog/best-smart-thermostats-winter-savings/).)
 {{< /faq >}}
 
 {{< faq-schema >}}

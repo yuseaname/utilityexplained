@@ -115,7 +115,7 @@ These cost nothing and start saving immediately.
 | Season | Recommended Setting | Savings per 2°F Adjustment |
 |--------|---------------------|---------------------------|
 | **Summer** | 78°F when home, 85°F when away | 6–9% |
-| **Winter** | 68°F when home, 62°F when away/sleeping | 3–5% |
+| **Winter** | 68°F when home, 62°F when away/sleeping ([full settings table](/blog/what-temperature-thermostat-winter/)) | 3–5% |
 
 **Annual savings:** $100–$300 (depending on climate and home size)
 
@@ -127,7 +127,7 @@ These cost nothing and start saving immediately.
 
 ### 2. Turn Off Lights in Empty Rooms
 
-Old incandescent bulbs cost roughly 1¢/hour to run; LEDs cost a fraction of a cent per hour — but why pay for light you're not using? At the U.S. average residential rate of about 17–18¢/kWh (U.S. EIA, mid-2026), a 60W incandescent running 3 hours a day costs about $1/month; turning it off saves that dollar.
+Old incandescent bulbs cost roughly 1¢/hour to run; LEDs cost a fraction of a cent per hour — but why pay for light you're not using? At the U.S. average residential rate of about 17–18¢/kWh (U.S. EIA, mid-2026), a 60W incandescent running 3 hours a day costs about $1/month; turning it off saves that dollar. (The seasonal extreme of this gap: [Christmas lights electricity cost](/blog/christmas-lights-electricity-cost/) — a single incandescent string can out-cost an entire LED household month.)
 
 **Savings:** A handful of forgotten bulbs, **$4.50–$15/month** for a typical household.
 
