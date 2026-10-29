@@ -70,6 +70,8 @@ Special populations: infants' rooms are often recommended slightly warmer than t
 
 The failure mode of every manual setback plan is the third week of January, when someone gets cold at 9pm, bumps it to 72°F, and the bump stays until March. Two fixes:
 
+{{< product-box asin="B0DT9MC2Z9" name="ecobee Smart Thermostat Essential" label="The schedule that runs itself" description="ENERGY STAR certified with smart recovery — it finishes the morning warm-up (instead of starting it) at wake time, on the cheapest hours it can find. The mid-tier pick from our four-way comparison: enough automation to hold the 68°F-when-home, 58-61°F-asleep pattern without anyone remembering it." button="Check price on Amazon" >}}
+
 1. **A $0 fix: build the habit around two moments** — the setback at bedtime, the recovery 30 minutes before wake. Two taps a day. If the household can hold that, the savings are identical to any smart thermostat's.
 2. **Hardware: a programmable or smart thermostat** executes it without you. The evidence on whether the smart tier out-saves a faithfully-run $40 programmable is genuinely mixed — we walk through it in [do programmable thermostats cut heating bills?](/blog/do-programmable-thermostats-cut-heating-bills/) — but self-learning schedules demonstrably rescue the households that abandon manual programs by midwinter. The [four-way comparison](/blog/best-smart-thermostats-winter-savings/) prices those rescue features honestly.
 
