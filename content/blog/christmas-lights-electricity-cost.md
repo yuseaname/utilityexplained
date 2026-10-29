@@ -58,7 +58,7 @@ The arithmetic is deliberately boring so you can reproduce it with your own disp
 - **Roofline (10 strings):** **$86.53 incandescent vs $0.99 LED**
 - **Full display (30 strings — roofline, bushes, trees):** **$259.57 incandescent vs $2.97 LED**
 
-That last row is why the incandescent-to-LED switch shows up on December electric bills as a visible spike — a big display on old bulbs is quietly one of the largest plug-in loads in the house, right behind the [space heater](/blog/space-heater-running-cost/). If your bill jumps every December and you've never known why, this is usually the whole story; the broader spike diagnosis is in [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+That last row is why the incandescent-to-LED switch shows up on December electric bills as a visible spike — a big display on old bulbs is quietly one of the largest plug-in loads in the house, right behind the [space heater](/blog/space-heater-running-cost/). If your bill jumps every December and you've never known why, this is usually the whole story; the broader spike diagnosis is in [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/), and the season-wide picture — what every fuel is forecast to cost this winter, by region — is the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
 
 ## What Your Display Actually Costs (Three Profiles)
 

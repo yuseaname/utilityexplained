@@ -102,7 +102,7 @@ EPA puts average use at 82 gallons per person per day at home, indoor and outdoo
 
 *Computed from EPA's 82 gal/person/day figure.[1] Fixtures, climate, and habits move the real number — your bill is the audit.*
 
-One hard line from EPA: **a family of four with no outdoor water use that exceeds 12,000 gallons (16 CCF) in a winter month likely has a serious leak.**[2] If that describes your winter bill, skip everything else and work the leak checks. To convert your bill's units, see [what CCF on a water bill means](/blog/what-is-ccf-on-a-water-bill/).
+One hard line from EPA: **a family of four with no outdoor water use that exceeds 12,000 gallons (16 CCF) in a winter month likely has a serious leak.**[2] If that describes your winter bill, skip everything else and work the leak checks. (Freeze country adds its own fast route past that benchmark — a burst supply line; the prevention-product decision for vulnerable runs is [heat tape vs pipe insulation](/blog/heat-tape-vs-pipe-insulation/).) To convert your bill's units, see [what CCF on a water bill means](/blog/what-is-ccf-on-a-water-bill/).
 
 ## Work the Checks in Order
 

@@ -77,6 +77,8 @@ If the dye test is clean, the sudden jump usually comes from one of three places
               <li>Confirm the sprinkler timer schedule hasn't been reset or extended.</li>
             </ul>
 {{< visual src="/images/articles/why-did-my-water-bill-suddenly-increase/leak-check-checklist.webp" alt="Four-step household leak checklist covering a toilet dye test, pipe-fitting moisture check, irrigation-line walk, and sprinkler-timer reset." >}}
+
+If your exposed pipes run through unheated space, winter adds its own route to a sudden bill — the frozen-then-burst supply line. The prevention-product decision for those runs (cable vs foam sleeves) is [heat tape vs pipe insulation](/blog/heat-tape-vs-pipe-insulation/).
             <p>
               Work the list top to bottom. Once the toilet and fixtures check out,
               move to the <a href="#meter-check">two-hour meter test</a> below to
