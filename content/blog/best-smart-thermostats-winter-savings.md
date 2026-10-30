@@ -60,13 +60,13 @@ Listing details verified on Amazon in October 2026; prices move, so treat the cl
 
 ## Tier 1 — The $80 Pick: Amazon Smart Thermostat
 
-{{< product-box asin="B08J4C8871" name="Amazon Smart Thermostat" label="The budget pick — if you have a C-wire" description="Built on Honeywell Home thermostat technology. Schedules, Alexa routines, and the same 7-10°F setback savings as thermostats three times the price. The catch is real: it requires a C-wire (the common blue wire, or an unused spare) — no power-extender workaround. If your wall has one, this is all most homes need." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B08J4C8871" name="Amazon Smart Thermostat" label="The budget pick — if you have a C-wire" description="Built on Honeywell Home thermostat technology. Schedules, Alexa routines, and the same 7-10°F setback savings as thermostats three times the price. The catch is real: it requires a C-wire (the common blue wire, or an unused spare) — no power-extender workaround. If your wall has one, this is all most homes need." cart="true" >}}
 
 The honest case for the cheapest option: the setback math above does not care what the thermostat costs. Schedules hold, Alexa adjusts it by voice, and the Honeywell pedigree shows in the reliability. The honest case against: no remote sensors, no learning, no C-wire escape hatch, and if your household's schedule varies day to day, a static program you have to edit by hand tends to drift toward "hold 70°F" — which is the mode that saves nothing.
 
 ## Tier 2 — The $140 Pick: ecobee Smart Thermostat Essential
 
-{{< product-box asin="B0DT9MC2Z9" name="ecobee Smart Thermostat Essential" label="The middle path" description="ENERGY STAR certified with ecobee's app, energy reports, and vacation scheduling in a simpler package than the Premium. You give up the remote room sensor and the air-quality extras; you keep the part that touches your bill — consistent scheduling with smart recovery so the house is warm when you wake up." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B0DT9MC2Z9" name="ecobee Smart Thermostat Essential" label="The middle path" description="ENERGY STAR certified with ecobee's app, energy reports, and vacation scheduling in a simpler package than the Premium. You give up the remote room sensor and the air-quality extras; you keep the part that touches your bill — consistent scheduling with smart recovery so the house is warm when you wake up." cart="true" >}}
 
 This is the tier for people who will actually maintain a schedule but do not want to pay for radar occupancy sensors they will never configure. The energy reports are genuinely useful: seeing heating runtime against outdoor temperature is how you notice a problem (a failing furnace, a open damper) weeks before the bill tells you.
 
@@ -74,9 +74,9 @@ This is the tier for people who will actually maintain a schedule but do not wan
 
 The two $220-250 thermostats justify themselves in specific situations, and otherwise overlap heavily.
 
-{{< product-box asin="B09XXS48P8" name="ecobee Smart Thermostat Premium" label="Best for hot/cold rooms and no-C-wire homes" description="Includes a SmartSensor — put it in the room you actually occupy and the thermostat heats to that room instead of the hallway where it hangs. The Power Extender Kit solves most missing-C-wire installs without running new wire. Air quality monitoring and furnace filter reminders are the winter-relevant extras: a clogged filter quietly raises blower runtime." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B09XXS48P8" name="ecobee Smart Thermostat Premium" label="Best for hot/cold rooms and no-C-wire homes" description="Includes a SmartSensor — put it in the room you actually occupy and the thermostat heats to that room instead of the hallway where it hangs. The Power Extender Kit solves most missing-C-wire installs without running new wire. Air quality monitoring and furnace filter reminders are the winter-relevant extras: a clogged filter quietly raises blower runtime." cart="true" >}}
 
-{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen) + Sensor" label="Best if you'll never write a schedule" description="Learns your week and programs itself — the feature that most reliably produces savings in households that abandon manual schedules by February. Ships with a Nest Temperature Sensor (2nd gen), and Google states no C-wire is required in most homes. Adaptive Eco finds savings when you're away and recovers within an hour of your return." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B0D5BBYRJM" name="Google Nest Learning Thermostat (4th gen) + Sensor" label="Best if you'll never write a schedule" description="Learns your week and programs itself — the feature that most reliably produces savings in households that abandon manual schedules by February. Ships with a Nest Temperature Sensor (2nd gen), and Google states no C-wire is required in most homes. Adaptive Eco finds savings when you're away and recovers within an hour of your return." cart="true" >}}
 
 How to choose between them: if your problem is "the bedroom is always cold and the hallway is always warm," the ecobee's sensor-first design is the better tool. If your problem is "I will never maintain a schedule," the Nest's learning is the feature that saves the money. If you have neither problem, drop a tier and pocket the difference.
 

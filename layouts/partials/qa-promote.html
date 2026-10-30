@@ -1,0 +1,45 @@
+{{/* qa-promote.html — Quick Answer promotion (P1 wave 2026-10-30).
+       Client-side DOM reorder, no content rewrites across 140 articles:
+       1. Wrap the #quick-answer section (heading → next H2) in a styled box.
+       2. Move that box ABOVE the TOC so the answer is the first content block.
+       3. Move the in-content affiliate disclosure to sit right after the TOC —
+          full text untouched (FTC adjacency preserved), it just no longer
+          sits between the reader and the answer.
+       Crawler/no-JS view is unchanged (content order in source is the
+       authored order); anchors (#quick-answer) keep working after the move. */}}
+<script>
+(function () {
+  var qa = document.getElementById('quick-answer');
+  if (!qa) return;
+  var content = document.querySelector('.article-content');
+  var article = qa.closest('article');
+  if (!content || !article) return;
+
+  // 1. collect the QA block: heading through the node before the next H2
+  var nodes = [qa], el = qa.nextElementSibling, guard = 0;
+  while (el && guard < 80) {
+    if (/^H[12]$/.test(el.tagName)) break;
+    nodes.push(el); el = el.nextElementSibling; guard++;
+  }
+  var box = document.createElement('section');
+  box.className = 'qa-box';
+  box.setAttribute('aria-label', 'Quick answer');
+  nodes.forEach(function (n) { box.appendChild(n); }); // moves the nodes
+
+  // 2. place the box above the TOC (or at top of content if no TOC)
+  var toc = article.querySelector('details.toc');
+  if (toc && toc.parentNode === article) {
+    article.insertBefore(box, toc);
+  } else {
+    content.insertBefore(box, content.firstChild);
+  }
+
+  // 3. disclosure follows the TOC, before the remaining content
+  var disclosure = content.querySelector('.affiliate-disclosure');
+  if (disclosure && toc) {
+    toc.insertAdjacentElement('afterend', disclosure);
+  } else if (disclosure) {
+    box.insertAdjacentElement('afterend', disclosure);
+  }
+})();
+</script>

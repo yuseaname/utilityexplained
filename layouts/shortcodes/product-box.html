@@ -31,6 +31,15 @@
     {{ with $label }}<span class="product-label">{{ . }}</span>{{ end }}
     <strong class="product-name">{{ $name }}</strong>
     {{ with $desc }}<p>{{ . }}</p>{{ end }}
+    {{- /* Price band (P1 wave 2026-10-30): renders ONLY while the check is
+           fresh (≤ 75 days) — stale bands silently stop rendering, so an
+           outdated price can never display. Source data: data/product_prices.yaml */ -}}
+    {{- $price := index .Site.Data.product_prices $asin -}}
+    {{- with $price -}}
+      {{- if lt (now.Sub (time .checked)).Hours 1800.0 -}}
+        <span class="product-band">Typically {{ .band }} (our check, {{ dateFormat "Jan 2006" (time .checked) }}) — Amazon shows the current price.</span>
+      {{- end -}}
+    {{- end -}}
     <a class="product-cta" href="{{ $url }}" rel="sponsored nofollow noopener" target="_blank" data-rybbit-event="affiliate_click" data-rybbit-prop-asin="{{ $asin }}" data-rybbit-prop-destination="{{ $asin }}" data-rybbit-prop-format="{{ if $cart }}cart{{ else }}box{{ end }}" data-rybbit-prop-position="{{ $position }}">{{ $btn }}</a>
     <span class="product-note">Price & availability shown on Amazon.com — we may earn a commission.</span>
   </div>

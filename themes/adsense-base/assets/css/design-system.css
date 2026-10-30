@@ -2028,3 +2028,38 @@ button:focus-visible {
   border-color: var(--color-primary-900, #0e201c);
   color: #fff;
 }
+
+/* ── Quick Answer box (P1 wave 2026-10-30) ─────────────────────────────
+   The promoted #quick-answer section gets a distinct, skimmable container:
+   answer-first pages convert and get lifted by snippets/AI engines.
+   Colors match the affiliate-disclosure container (#f8fafc / #e2e8f0). */
+.qa-box {
+  margin: 1.25rem 0 1.75rem;
+  padding: 0.9rem 1.25rem 0.35rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #1a73e8;
+  border-radius: 0.5rem;
+}
+.qa-box > h2 {
+  margin-top: 0.25rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #1e3a8a;
+}
+.qa-box p:first-of-type { margin-top: 0.5rem; }
+
+/* Price band line on product boxes (auto-expires in the shortcode) */
+.product-band {
+  display: block;
+  margin: 0.35rem 0 0.5rem;
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+/* Desktop: when the sticky rail exists it already carries the TOC —
+   hide the in-column TOC to end the duplicate-TOC pattern (mobile keeps it). */
+@media (min-width: 1024px) {
+  .article-shell.has-rail > details.toc { display: none; }
+}

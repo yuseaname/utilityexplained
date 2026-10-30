@@ -170,6 +170,10 @@
   {{/* Email capture — SQ-016: demoted to LAST (earned, not begged);
         content/users/sources/related all come first. */}}
   {{ partial "email-capture.html" . }}
+
+  {{/* Quick Answer promotion — P1 wave 2026-10-30: moves the answer above
+        the TOC + boxes it; disclosure follows the TOC (text untouched). */}}
+  {{ partial "qa-promote.html" . }}
 </article>
 </div>
 {{ end }}

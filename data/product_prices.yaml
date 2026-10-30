@@ -1,0 +1,35 @@
+# Price bands shown on product boxes.
+# Policy (P1 wave 2026-10-30): bands are coarse ranges verified against the LIVE
+# Amazon listing on the `checked` date, with provenance in `source`. The
+# product-box shortcode renders a band ONLY while it is fresh (<= 75 days);
+# after that it silently stops rendering until re-verified — a stale price can
+# never display. Run `python3 scripts/check_price_bands.py` monthly to see what
+# needs re-verification.
+B00009MDBU:
+  band: "$25–35"
+  checked: 2026-10-30
+  source: "live Amazon listing (P4400, $29.99 buybox); prior dossier check 2026-08-30 ($15–30 band)"
+B0DQLFC3Q6:
+  band: "$60–75"
+  checked: 2026-10-30
+  source: "live Amazon listing (GoveeLife 5-pack, $69.99 core price); $59.98 on 2026-08-30"
+B08DX6MP8X:
+  band: "$195–225"
+  checked: 2026-10-30
+  source: "live Amazon listing (Flume 2, $199.87–$199.99 buybox markers); ~$199 on 2026-08-30"
+B0C79PNK84:
+  band: "$190–210"
+  checked: 2026-10-30
+  source: "live Amazon listing (Emporia Vue 3 kit, $199.99 core price)"
+B0D5BBYRJM:
+  band: "$250–290"
+  checked: 2026-10-30
+  source: "live Amazon listing (Nest Learning 4th gen + sensor, $279.99; 'Only 1 left' at check — stock caveat)"
+B08LN3C7WK:
+  band: "$14–18"
+  checked: 2026-10-30
+  source: "live Amazon listing (Kasa KP115, $15.99 core price)"
+B0DKGBP38V:
+  band: "$12–22"
+  checked: 2026-10-30
+  source: "live Amazon listing (Tapo P110M 2-pack, $12.00–$19.99 markers; promo pricing varies)"

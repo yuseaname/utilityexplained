@@ -4,7 +4,7 @@ slug: "average-utility-bills-by-state-2026"
 aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
 description: "Average utility bills by state in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table."
 date: 2026-05-29
-updated: 2026-08-30
+updated: 2026-10-30
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
@@ -52,32 +52,26 @@ Here is the national breakdown for the **narrow basket**:
 
 <p>Electricity remains the most visible part of your utility bill—and the most variable. In mid-2026, the national average residential electricity rate is <strong>{{< stat "electric_rate_jun2026" >}}</strong> (EIA Electricity Monthly Update, June 2026), up from 17.30¢ in FY2025 due to rising fuel costs and grid modernization investments. But this average hides dramatic regional splits.</p>
           <p>States with abundant renewable or fossil fuel resources—like Idaho (hydro), Louisiana (natural gas), and Washington (hydro + nuclear)—tend to have the lowest electricity rates. Meanwhile, states reliant on imported fuels, older infrastructure, or high environmental fees—like Hawaii, California, and Alaska—face the highest prices.</p>
-          <p>Here’s a snapshot of the 10 states with the <strong>lowest 2026 electricity rates</strong> (per kWh):</p>
-          <ul>
-          <li><strong>Idaho</strong>: 9.8¢</li>
-          <li><strong>Washington</strong>: 10.1¢</li>
-          <li><strong>Utah</strong>: 10.4¢</li>
-          <li><strong>North Dakota</strong>: 10.7¢</li>
-          <li><strong>Montana</strong>: 10.9¢</li>
-          <li><strong>Nebraska</strong>: 11.0¢</li>
-          <li><strong>Oklahoma</strong>: 11.2¢</li>
-          <li><strong>Kansas</strong>: 11.3¢</li>
-          <li><strong>Arkansas</strong>: 11.4¢</li>
-          <li><strong>Missouri</strong>: 11.5¢</li>
-          </ul>
-          <p>By contrast, the 10 states with the <strong>highest 2026 electricity rates</strong> include:</p>
-          <ul>
-          <li><strong>Hawaii</strong>: 33.7¢</li>
-          <li><strong>California</strong>: 28.4¢</li>
-          <li><strong>Alaska</strong>: 26.2¢</li>
-          <li><strong>Massachusetts</strong>: 24.9¢</li>
-          <li><strong>Rhode Island</strong>: 24.5¢</li>
-          <li><strong>New York</strong>: 23.8¢</li>
-          <li><strong>Connecticut</strong>: 23.5¢</li>
-          <li><strong> Vermont</strong>: 22.9¢</li>
-          <li><strong> New Jersey</strong>: 22.3¢</li>
-          <li><strong> Maryland</strong>: 21.7¢</li>
-          </ul>
+          <p>Here's a snapshot of the 10 states with the <strong>lowest 2026 electricity rates</strong> (per kWh), beside the 10 highest:</p>
+<p><em>Data notes: residential rates in cents per kWh, mid-2026 vintage. Source: <a href="https://www.eia.gov/electricity/sales_revenue_price/">EIA Electric Sales, Revenue, and Average Price</a>, retrieved 2026-08-29. A high rate does not equal a high bill — usage differs by state (see the Hawaii note under the summary table).</em></p>
+<table>
+<thead>
+<tr><th>Rank</th><th>Lowest-rate state</th><th>¢/kWh</th><th>Highest-rate state</th><th>¢/kWh</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Idaho</td><td>9.8</td><td>Hawaii</td><td>33.7</td></tr>
+<tr><td>2</td><td>Washington</td><td>10.1</td><td>California</td><td>28.4</td></tr>
+<tr><td>3</td><td>Utah</td><td>10.4</td><td>Alaska</td><td>26.2</td></tr>
+<tr><td>4</td><td>North Dakota</td><td>10.7</td><td>Massachusetts</td><td>24.9</td></tr>
+<tr><td>5</td><td>Montana</td><td>10.9</td><td>Rhode Island</td><td>24.5</td></tr>
+<tr><td>6</td><td>Nebraska</td><td>11.0</td><td>New York</td><td>23.8</td></tr>
+<tr><td>7</td><td>Oklahoma</td><td>11.2</td><td>Connecticut</td><td>23.5</td></tr>
+<tr><td>8</td><td>Kansas</td><td>11.3</td><td>Vermont</td><td>22.9</td></tr>
+<tr><td>9</td><td>Arkansas</td><td>11.4</td><td>New Jersey</td><td>22.3</td></tr>
+<tr><td>10</td><td>Missouri</td><td>11.5</td><td>Maryland</td><td>21.7</td></tr>
+</tbody>
+</table>
+
           <p>Those high rates in the Northeast and Hawaii reflect a mix of high fuel imports, strict environmental standards, and aging transmission systems. In fact, Hawaii continues to pay nearly <strong>3.4× more per kWh</strong> than Idaho—not just because of geography, but also because of state policies pushing toward 100% renewable energy by 2045, which have raised short-term costs.</p>
 
 {{< visual src="/images/articles/average-utility-bills-by-state-2026/idaho-vs-hawaii-rate-gap.webp" alt="Electricity-rate comparison: Idaho 9.8 cents per kWh and Hawaii 33.7 cents per kWh." >}}
@@ -96,9 +90,9 @@ Here is the national breakdown for the **narrow basket**:
 
 ## Gas Bills by State: Heating Drives the Difference {#gas-bills-by-state-heating-drives-the-di}
 
-<p>Natural gas prices fluctuated less than electricity in 2026, but regional differences remain stark. The national average natural gas rate is <strong>$1.12 per therm</strong>, down slightly from $1.18 in 2025 due to increased domestic production and milder winter forecasts.</p>
+<p>Natural gas prices fluctuated less than electricity in 2026, but regional differences remain stark. The national average residential gas price is <strong>{{< stat "gas_price_sep2026" >}}</strong> (EIA Natural Gas Weekly Update, September 2026 — auto-updated from our verified stats file). EIA state residential prices run roughly <strong>$1.04–$2.29 per therm</strong>, so the state you live in moves a 75-therm heating month by $70 or more on its own.</p>
           <p>States with extensive pipeline infrastructure and local production—like Louisiana, Texas, and Oklahoma—enjoy the lowest gas rates. In contrast, states relying on imported gas through constrained corridors—like New England and the Northeast—pay significantly more.</p>
-          <p>The <strong>lowest average gas rate in 2026</strong> is in Louisiana: $0.75/therm. The <strong>highest</strong> is in Massachusetts: $1.89/therm.</p>
+          <p>At the EIA state-range ends, low-rate states pay roughly half the national average per therm, while high-rate states — mostly New England and the Far West — pay well above it. Check your own state on <a href="https://www.eia.gov/naturalgas/weekly/">EIA's natural gas data</a> before assuming the national number applies to you.</p>
           <p>Here’s how monthly gas bills break down across regions (based on ~75 therms used):</p>
           <ul>
           <li><strong>South</strong> (e.g., Texas, Alabama, Georgia): $60–$90/month</li>
@@ -108,6 +102,7 @@ Here is the national breakdown for the **narrow basket**:
           </ul>
 
 {{< visual src="/images/articles/average-utility-bills-by-state-2026/gas-range-by-region.webp" alt="Monthly gas bill ranges at 75 therms for the South, Midwest, Northeast, and West." wide="true" >}}
+<p><em>Data notes: regional bands above are monthly figures at a standardized 75 therms, compiled 2026-05 from EIA state residential prices (range $1.04–$2.29/therm). Rates move seasonally — recheck EIA&rsquo;s current figures before budgeting.</em></p>
 
           <p>California stands out: despite moderate gas prices ($1.42/therm), high home insulation standards and smaller homes keep gas bills lower than the Northeast. Meanwhile, Maine’s average gas bill is $168/month—despite a rate of $1.76/therm—because homes are older, less efficient, and winters are harsher.</p>
           <p>Also note: many households use both gas and electricity for heating. In 2026, <strong>hybrid heating systems</strong> (e.g., heat pumps paired with gas backup) are growing rapidly in cold states like Minnesota and Vermont, leading to more balanced electric/gas usage—and sometimes <em>lower</em> total utility bills.</p>
@@ -117,22 +112,20 @@ Here is the national breakdown for the **narrow basket**:
 
 <p>Water and sewer bills often surprise people—they’re usually the smallest utility line item, but they’re rising faster than electricity or gas in many areas due to aging infrastructure and drought-related conservation fees.</p>
           <p>The national average water bill in 2026 is <strong>$47/month</strong>, up from $44 in 2025. Sewer charges typically add another $25–$40, depending on local treatment costs and system age.</p>
-          <p>States with the <strong>lowest combined water & sewer bills</strong> in 2026:</p>
-          <ul>
-          <li><strong>Arkansas</strong>: $38/month</li>
-          <li><strong>Kansas</strong>: $40/month</li>
-          <li><strong>Missouri</strong>: $41/month</li>
-          <li><strong>Tennessee</strong>: $42/month</li>
-          <li><strong>North Dakota</strong>: $43/month</li>
-          </ul>
-          <p>States with the <strong>highest combined water & sewer bills</strong>:</p>
-          <ul>
-          <li><strong>Hawaii</strong>: $88/month</li>
-          <li><strong>California</strong>: $79/month (including drought surcharges in many areas)</li>
-          <li><strong>Massachusetts</strong>: $76/month</li>
-          <li><strong>New Jersey</strong>: $74/month</li>
-          <li><strong>Connecticut</strong>: $71/month</li>
-          </ul>
+          <p><em>Data notes: combined water + sewer bills, $/month. Compiled 2026-05 from utility-rate surveys; water and sewer pricing is city-level and varies widely within every state — treat these as regional markers, not quotes. Methodology: <a href="/methodology/">how we source numbers</a>.</em></p>
+<table>
+<thead>
+<tr><th>Rank</th><th>Lowest combined ($/mo)</th><th>Highest combined ($/mo)</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Arkansas — $38</td><td>Hawaii — $88</td></tr>
+<tr><td>2</td><td>Kansas — $40</td><td>California — $79</td></tr>
+<tr><td>3</td><td>Missouri — $41</td><td>Massachusetts — $76</td></tr>
+<tr><td>4</td><td>Tennessee — $42</td><td>New Jersey — $74</td></tr>
+<tr><td>5</td><td>North Dakota — $43</td><td>Connecticut — $71</td></tr>
+</tbody>
+</table>
+
           <p>California’s high costs aren’t just from rates—many cities (like San Diego and Los Angeles) add <strong>drought surcharges</strong> during dry periods. Some states have implemented conservation-tier pricing, meaning you pay more per gallon as your usage increases.</p>
           <p>Water bills also vary dramatically within states. In Texas, for example, Austin averages $52/month, while El Paso (with extensive reuse and desalination) is $39—despite being in a drought-prone region. That’s thanks to long-term infrastructure planning.</p>
           <p>For practical ways to reduce your water bill, check out our <a href="/blog/44-how-to-lower-water-bill/">water-saving tips for homeowners</a>.</p>
@@ -151,7 +144,7 @@ Here is the national breakdown for the **narrow basket**:
           <li><strong>Highest cost state</strong>: Hawaii (~$324/month using state-specific usage; table uses standardized 900 kWh)</li>
 <li><strong>Lowest cost state</strong>: Idaho ($225/month, narrow basket)</li>
           </ul>
-          <p>Below is a full comparison table of average utility bills for 2026. All figures are monthly averages for typical household usage.</p>
+          <p>Below is the full comparison table. <em>Data notes: all figures are <strong>$ per month</strong> for a standardized household — <strong>900 kWh electricity, 75 therms gas, ~7,500 gallons water</strong> — so states differ on price, not usage. Vintage: compiled 2026-05-29, electric rates refreshed 2026-08-29. Sources: EIA (electric, gas), utility-rate surveys (water/sewer). This is a <strong>17-state sample</strong> spanning every region and price tier, not all 50 states — a standardized estimate, not a survey median.</em></p>
           <table>
           <thead>
           <tr>

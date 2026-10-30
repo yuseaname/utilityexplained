@@ -3,7 +3,7 @@ title: "How to Understand Sewer Charges on Your Water Bill"
 slug: "how-sewer-charges-work-on-your-water-bill"
 description: "Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account — and how to check the math."
 date: 2025-12-25
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
@@ -159,6 +159,10 @@ Keep the reply and the version date of the rate schedule with your bill records.
 Compare the same line items with a similar earlier billing period. Check the number of billed days and whether the water-use unit, rate plan, or meter-read status changed. A higher total alone does not identify the cause.
 
 If the statement reports water use and the change is unexplained, use a no-use meter check and inspect for leaks. EPA WaterSense offers household maintenance guidance, while the utility can explain the billing rule that applies after a leak is found.[1]
+
+Where sewer is billed on water use, every unit a hidden leak wastes is charged twice — once as water, once as sewer — so confirming a leak is the highest-leverage check on this page.
+
+{{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Confirm whether the usage is real" description="Contact sensors that alarm at 105 dB and send phone alerts the moment they touch water. Place them under the water heater, behind the washing machine, and under sinks — the fixtures whose slow leaks quietly inflate both the water line and the sewer line on this kind of bill." button="Check price on Amazon" >}}
 
 ---
 

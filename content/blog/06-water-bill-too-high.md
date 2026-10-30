@@ -4,7 +4,7 @@ slug: "06-water-bill-too-high"
 description: "Water bill too high with nothing changed? The likely causes — leaks, rates, meter errors — ranked, with free tests to run before spending money."
 date: 2026-03-07
 lastmod: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-30
 author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -149,6 +149,14 @@ Keep the bill, tariff, meter observations, photos, and repair records together �
 ## After the Diagnostics: Catch the Next Leak
 
 Do the free checks above first. Sensors close the gap between a leak starting and one costing money:
+
+The three rungs below solve different problems — pick by what you're protecting against:
+
+| Rung | What it catches | Install | Best when |
+|---|---|---|---|
+| Point sensors (Govee 5-pack) | Water where the sensor sits — heater, washer, sinks | Stick and place, minutes | You want loud + phone alerts at the usual leak spots for the least money |
+| Meter monitor (Flume 2) | Abnormal whole-home flow — silent leaks, running toilets, stuck valves | Straps on the meter, DIY | You want to catch leaks anywhere in the house, not just at sensor spots |
+| Monitor + shutoff (Moen Flo) | The same, plus it closes the main automatically | Pro install on the main line | You're protecting against catastrophic damage, not just a high bill |
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Catch it while it's small" description="Contact sensors that alarm at 105 dB and send phone alerts when they touch water. Place under the water heater, behind the washing machine, and under sinks — where slow leaks hide longest." button="Check price on Amazon" >}}
 

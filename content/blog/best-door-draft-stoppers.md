@@ -44,7 +44,7 @@ A double-sided fabric tube that slides under the door and moves with it — foam
 - **Strengths:** installs in five minutes with scissors, moves with the door, doubles as a sound blocker, ten-dollar fix, zero damage.
 - **Honest limits:** it's a fabric tube on the floor — it slows the air, it doesn't seal it the way an adhered sweep does; expect dust tolerance, occasional re-centering, and replacement every few seasons. And it only touches the bottom edge: if your frame leaks, no sleeve fixes that.
 
-{{< product-box asin="B07KK81KGJ" name="MAXTID Under Door Draft Stopper (38\", double-sided)" label="The renter's default" description="Double-sided fabric sleeve with cut-to-length foam rods — slides under the door and moves with it. Fits standard doors up to 38 inches and covers gaps up to about 1.4 inches. The honest pitch: it's the fastest, least-destructive draft fix there is, it works on every flooring type, and it blocks noise as a bonus. Cut the foam to YOUR door width before inserting. 4.1 stars from 18,000+ ratings at the time of writing." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B07KK81KGJ" name="MAXTID Under Door Draft Stopper (38\", double-sided)" label="The renter's default" description="Double-sided fabric sleeve with cut-to-length foam rods — slides under the door and moves with it. Fits standard doors up to 38 inches and covers gaps up to about 1.4 inches. The honest pitch: it's the fastest, least-destructive draft fix there is, it works on every flooring type, and it blocks noise as a bonus. Cut the foam to YOUR door width before inserting. 4.1 stars from 18,000+ ratings at the time of writing." cart="true" >}}
 
 ## Type 2: Adhesive Door Sweeps (The Exterior-Door Workhorse)
 
@@ -56,7 +56,7 @@ A strip — typically silicone or brush — that adheres to the door's lower fac
 
 {{< visual src="/images/articles/best-door-draft-stoppers/weatherstrip-install-hands.webp" alt="Hands pressing a thin self-adhesive weatherstripping strip along the edge jamb of an open exterior door." caption="The frame edges and top of the door leak as often as the bottom — V-strip weatherstripping there frequently out-saves the under-door product everyone buys." >}}
 
-{{< product-box asin="B0F32NMLD8" name="Vellure Silicone Door Draft Stopper / Door Sweep (39\")" label="The exterior-door seal" description="Industry-grade silicone sweep with a strong self-adhesive back — the tighter, more permanent seal for doors you own. Installs in under a minute: clean the door's lower face, peel, press, trim the excess. Silicone flexes over uneven thresholds better than rigid sweeps and doubles as a dust and noise barrier. Check the width and gap-size options at purchase to match your door. 4.4 stars from 25,000+ ratings at the time of writing." button="Check price on Amazon" cart="true" >}}
+{{< product-box asin="B0F32NMLD8" name="Vellure Silicone Door Draft Stopper / Door Sweep (39\")" label="The exterior-door seal" description="Industry-grade silicone sweep with a strong self-adhesive back — the tighter, more permanent seal for doors you own. Installs in under a minute: clean the door's lower face, peel, press, trim the excess. Silicone flexes over uneven thresholds better than rigid sweeps and doubles as a dust and noise barrier. Check the width and gap-size options at purchase to match your door. 4.4 stars from 25,000+ ratings at the time of writing." cart="true" >}}
 
 ## Type 3: Frame Weatherstripping (The Gap Nobody Buys For)
 

@@ -4,7 +4,7 @@ slug: "01-how-to-read-your-electric-bill"
 aliases: ["/blog/41-how-to-read-electricity-bill/"]
 description: "How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in ten minutes."
 date: 2026-03-07
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -59,6 +59,10 @@ For context only, the U.S. Energy Information Administration reports that the av
 For how much electricity a typical household actually uses, see [understanding kWh usage](/blog/11-understanding-kwh-usage/) — it walks through what a normal month looks like and why yours may not match the average.
 
 Your own prior bills are more useful than a national average when reviewing your account.
+
+A kWh figure on the bill tells you how much you used, not which device used it. When the statement’s usage number needs explaining, an outlet-level meter closes that gap in an afternoon.
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="See what one appliance really costs" description="Plug it in, enter your rate, and it converts any appliance’s draw into the same kWh and dollars your bill uses — refrigerators and space heaters are the usual surprises. P3 International spec: 0.2% accuracy, 120V/15A, UL listed. For always-on watching of one outlet instead, a smart plug with energy reporting (like the Tapo P110M) logs the same numbers over time." button="Check price on Amazon" >}}
 
 ## Read Meter Information Carefully
 

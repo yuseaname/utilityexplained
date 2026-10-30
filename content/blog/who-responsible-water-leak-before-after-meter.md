@@ -3,7 +3,7 @@ title: "Who's Responsible for a Water Leak: Before or After the Meter?"
 slug: "who-responsible-water-leak-before-after-meter"
 description: "Who is responsible for a water leak — before or after the meter? How to locate the boundary, document evidence, and escalate when utility says not ours."
 date: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
@@ -85,6 +85,10 @@ Utilities state their own rule, and their frontline answer is not always the las
 ## Season's warning: the freeze months are when this page matters most
 
 Service-line breaks cluster in the freeze months — deep-january cold snaps, thaw cycles, and the first hard freeze after a dry autumn. If you're reading this in fall: the cheapest preparation is knowing where your meter, curb stop, and house shutoff are, that they turn, and where your boundary sits on the utility's map. A [meter-mounted flow monitor](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/) catches a slow underground leak weeks before the bill does — and weeks before the burst.
+
+
+
+{{< product-box asin="B08DX6MP8X" name="Flume 2 Smart Home Water Monitor" label="The meter-mounted early warning" description="Straps onto your existing water meter in minutes — no pipe cutting, no plumber — and reports household flow in real time, with alerts when consumption looks abnormal. Because it watches the meter itself, it sees the slow leak on your side of the boundary long before the bill spikes: exactly the failure this page prepares you for." button="Check price on Amazon" >}}
 
 ## Related Reading
 
