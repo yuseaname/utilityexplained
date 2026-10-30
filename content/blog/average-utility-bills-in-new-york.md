@@ -23,7 +23,7 @@ sources:
 
 **Water & sewer:** there is **no reliable state average** — water is priced city-by-city in New York. Nationally the combined bill runs about $70–$90/month; see [what CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) to decode yours.
 
-{{< jump-row "The numbers|#the-numbers-table" "Why rates look like this|#why-new-york-rates-look-like-this" "Water & sewer|#water-and-sewer-in-new york" "If your bill is higher|#if-your-bill-runs-above-these-numbers" >}}
+{{< jump-row "The numbers|#the-numbers-table" "Why rates look like this|#why-new-york-rates-look-like-this" "Water & sewer|#water-and-sewer-in-new-york" "If your bill is higher|#if-your-bill-runs-above-these-numbers" >}}
 
 ## The numbers table {#the-numbers-table}
 
@@ -44,7 +44,7 @@ New York's electric rate sits above the 18.16¢/kWh national average — among t
 
 The EIA trend matters too: New York's residential rate moved from 26.64¢/kWh (2025 final) to 28.65¢/kWh (2026 to date), a 7.5% increase. On the gas side, residential prices went from $16.58/Mcf in 2024 to $17.58/Mcf in 2025 — a 6% increase. And because the cost driver here is the winter heating season, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 
-## Water and sewer in New York {#water-and-sewer-in-new york}
+## Water and sewer in New York {#water-and-sewer-in-new-york}
 
 Water and sewer are set by your city or water district, not the state — two neighbors across a city line can pay very different rates for the same usage. Instead of a state average, run this check:
 
@@ -60,7 +60,7 @@ Measure before spending on anything:
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Find what's actually drawing the power" description="Plug-in meter that shows any appliance's true watts, kWh, and projected monthly cost at the outlet. The cheapest way to find which device explains the gap between your bill and the state average. P3 International spec: 0.2% accuracy, 120V/15A, UL listed." button="Check price on Amazon" >}}
 
-For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+To turn your own numbers into a dollar figure, the [electricity cost calculator](/calculators/electricity-cost/) does the watts × hours × rate math with your rate pre-filled or your own. For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
 {{< faq "What is the average electric bill in New York?">}}
 

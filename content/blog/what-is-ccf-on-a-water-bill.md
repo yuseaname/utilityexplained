@@ -14,6 +14,8 @@ sources:
   - https://www.epa.gov/watersense/understanding-your-water-bill
 ---
 
+{{< jump-row "What CCF means|#start-here" "CCF vs gallons|#ccf-definition" "Quick conversions|#quick-conversions" "Is your CCF normal?|#sanity-check-usage" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer {#quick-answer}
@@ -161,6 +163,12 @@ In many cities, yes. Sewer charges are often calculated from your water usage (i
 {{< faq-schema >}}
 
 This definition is part of the [Water Explained hub](/water-explained/). Billing vocabulary across all utilities lives in the [utility glossary](/utilities-glossary/).
+
+## Related Reading
+
+- [CCF calculator: convert your bill to gallons](/blog/ccf-calculator/) — the arithmetic, done for you
+- [Water meter leak indicator explained](/blog/water-meter-leak-indicator-explained/) — the meter's built-in leak detector
+- [How to read a water meter](/blog/how-to-read-a-water-meter/) — the full meter walkthrough
 
 ## Sources
 

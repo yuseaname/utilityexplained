@@ -62,6 +62,8 @@ Your own prior bills are more useful than a national average when reviewing your
 
 A kWh figure on the bill tells you how much you used, not which device used it. When the statement’s usage number needs explaining, an outlet-level meter closes that gap in an afternoon.
 
+{{< jump-row "Find these first|#find-these-items-first" "What a kWh means|#what-a-kwh-means" "The charges|#understand-the-charges-on-your-statement" "Effective rate|#calculate-a-bill-wide-effective-rate" >}}
+
 {{< affiliate-disclosure >}}
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="See what one appliance really costs" description="Plug it in, enter your rate, and it converts any appliance’s draw into the same kWh and dollars your bill uses — refrigerators and space heaters are the usual surprises. P3 International spec: 0.2% accuracy, 120V/15A, UL listed. For always-on watching of one outlet instead, a smart plug with energy reporting (like the Tapo P110M) logs the same numbers over time." button="Check price on Amazon" >}}

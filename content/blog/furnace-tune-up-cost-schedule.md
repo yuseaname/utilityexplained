@@ -3,7 +3,7 @@ title: "Furnace Tune-Up: What It Costs, When to Do It, and What Is Included"
 slug: "furnace-tune-up-cost-schedule"
 description: "A furnace tune-up typically costs $80-$200, ideally every fall. See what's included, furnace type differences, and how to avoid common upsells."
 date: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-30
 author: "Heating & Cooling Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -22,6 +22,8 @@ sources:
 ## Quick Answer
 
 **A professional furnace tune-up typically runs about $80 to $200, with most homeowners paying in the $100-$200 range** [1]. You generally want it once a year, ideally in the fall before heating season starts, so problems get caught before you need the heat [3]. The visit covers checking combustion, cleaning or flagging filters, testing safety controls, and looking for wear — but it is not repair work. If the technician finds broken parts, your bill will be separate from the tune-up price.
+
+{{< jump-row "What's included|#what-a-furnace-tune-up-actually-includes" "Fuel differences|#gas-vs-oil-vs-electric-cost-differences" "Plan worth it?|#is-a-maintenance-plan-worth-it" "The upsell|#one-caution-watch-for-the-upsell" >}}
 
 ## What a Furnace Tune-Up Actually Includes
 
@@ -50,6 +52,10 @@ What you pay depends partly on what kind of furnace you have. Gas and oil units 
 | Electric | $70 - $130 | Fewer combustion parts; tech mainly checks heating elements, blower, and controls [1][2] |
 
 Understanding your equipment starts with knowing how efficient it is — see our [AFUE vs SEER vs HSPF vs COP](/blog/afue-vs-seer-vs-hspf-vs-cop/) guide. The single biggest reason the ranges vary, though, is where you live. Labor rates differ by region, and HVAC companies charge $75-$125 an hour labor on average [1]. Rural areas often run cheaper than big metro zones [2].
+
+The one piece of a "tune-up" that is genuinely DIY is the filter swap — and it is the piece that most affects your gas bill all winter: a clogged filter makes the furnace run longer for the same heat, every cycle.
+
+{{< product-box asin="B0DKZCJYXP" name="Filtrete 20x25x1 MERV 8 Furnace Filters (6-pack)" label="The DIY half of the tune-up" description="A heating season of standard MERV 8 filters for a fraction of one service call. Check the size printed on your current filter's frame — this listing is 20x25x1 and carries other sizes. Everything else in a tune-up is technician work; the filter is yours." button="Check price on Amazon" >}}
 
 ## Maintenance vs. Repair: Knowing the Difference
 
@@ -106,6 +112,26 @@ Even with an efficient system working perfectly, the context helps: the average 
 - [Heating & Cooling Basics](/heating-cooling-explained/)
 
 First-run burning smells and short cycles are the two symptoms a fall tune-up exists to prevent — the smell guide is [furnace smells like burning](/blog/furnace-smells-like-burning/).
+
+## Frequently asked questions {#faq}
+
+{{< faq "How often should a furnace be tuned up?">}}
+
+Once a year, before the heating season starts — the schedule this guide builds. Annual service keeps efficiency at spec and catches wear while it is still a part, not a no-heat emergency in January.
+
+{{< /faq >}}
+
+{{< faq "What does a furnace tune-up include?">}}
+
+Burner and heat-exchanger inspection, combustion and safety checks, blower and venting verification, and the filter swap — the full list is in the what's-included section. Anything beyond that list is where the upsell section tells you to slow down.
+
+{{< /faq >}}
+
+{{< faq "Can I skip the tune-up and just replace the filter?">}}
+
+The filter is the highest-leverage DIY item, but it does not replace the safety inspections — combustion and heat-exchanger checks are the part that protects you, not just the bill. Filter yourself, and put the inspection on an annual clock; the maintenance-vs-repair section draws the line.
+
+{{< /faq >}}
 
 ## Sources
 

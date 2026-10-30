@@ -3,7 +3,7 @@ title: "Best Dual-Flush Conversion Kits (and the Toilets They Actually Fit)"
 slug: "best-dual-flush-conversion-kits"
 description: "A dual-flush conversion kit turns an old 3.5-gallon toilet into a 1.6/0.8-gallon two-button toilet for about $33 — if it fits. Honest compatibility guide."
 date: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
@@ -21,6 +21,8 @@ sources:
 ## Quick Answer
 
 **The Danco HydroRight HYR460 is the best dual-flush conversion kit, because it turns an old 3.5-gallon toilet into a 1.6-gallon full flush / ~0.8-gallon half flush for about $33 — if your toilet fits it.** And fit is the entire game: this kit works with **2-piece toilets with a 2-inch flush valve** and a tank tall enough for the overflow tube; it will **not** fit 1-piece toilets or 3-inch flush valves. That compatibility guidance is the differentiator, because most of the frustration in this category is people buying a kit their toilet was never going to accept. The honest variant note: Danco also sells the HYR451T lever-style sibling, but its listing currently shows no featured offer, so we only recommend the **HYR460** push-button version. Toilets are the single biggest indoor water user — nearly 30% of an average home's indoor consumption — so this is one of the highest-leverage swaps you can make.[1] Start with [is your toilet running? the leak test](/blog/is-your-toilet-running-leak-test/) to rule out the silent leak that wastes more than any flush, then [how to lower your water bill](/blog/44-how-to-lower-water-bill/) for the full plan. The direct buy is {{< amazon asin="B005FPNGWO" text="the Danco HydroRight HYR460 on Amazon" >}}.
+
+{{< jump-row "The pick|#the-danco-hydroright-hyr460--the-pick" "The math|#the-math-35-gpf-down-to-16--08-per-year" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -97,6 +99,26 @@ Payback on the **$33** kit: $33 ÷ $156 ≈ **2.6 months** — call it under thr
 - **Not sure what is in your tank** → lift the lid and look before you buy. The flush valve size and the tank height are the two numbers that decide everything.
 
 And the standing rule for every conversion kit on this page: **a dual-flush kit saves water only on the flushes you actually make.** The half-flush button only helps if people press it — and the honest reality is that a two-button toilet asks every user to make a choice every time, which is exactly why some households prefer a single-flush efficient toilet that saves without asking. If your household will not reliably use the half flush, a 1.28 gpf single-flush toilet (or a new dual-flush with a well-designed button) may save more in practice than a conversion kit that sits on the full setting. Measure the tank, check the valve, fix the leaks, and only then convert — the kit is a tool, not a magic wand.
+
+## Frequently asked questions {#faq}
+
+{{< faq "Do dual-flush conversion kits actually save water?">}}
+
+On an older toilet they can: the conversion turns a 3.5-gallon full flush into a dual 1.6/0.8 system, and the per-year math in this guide works the savings from your actual flush mix. On a toilet already at 1.6 GPF the savings shrink to the difference between 1.6 and the half-flush — real, but modest.
+
+{{< /faq >}}
+
+{{< faq "Will a conversion kit fit my toilet?">}}
+
+Only if it passes the compatibility checklist: a standard two-piece tank, a 2-inch flush valve (most kits), and a fill valve the kit can clear. One-piece, pressure-assisted, and some 3-inch-valve toilets are the common no-go cases — the checklist catches them in about a minute.
+
+{{< /faq >}}
+
+{{< faq "Is converting better than replacing the toilet?">}}
+
+Converting is the cheap, renter-friendly move when the toilet is compatible and works fine otherwise; replacing wins when the toilet is old enough that the flapper, fill valve, and flush valve are all on borrowed life anyway. The head-to-head section runs both paths against a single criterion: cost per gallon actually saved.
+
+{{< /faq >}}
 
 ## Sources
 

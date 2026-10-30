@@ -3,7 +3,7 @@ title: "How to Read the Billing Period on a Utility Statement"
 slug: "23-utility-billing-cycle-explained"
 description: "How do you read the billing period on a utility statement? Use the account's service dates, meter-read status, usage, and tariff to compare periods."
 date: 2026-05-28
-updated: 2026-08-29
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -29,6 +29,8 @@ Con Edison’s bill FAQ notes that account holders can review an energy-bill bre
 **Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
 
 ---
+
+{{< jump-row "Why lengths vary|#why-cycle-lengths-vary" "The bill math|#the-long-vs-short-month-bill-math" "Estimates & true-ups|#estimated-vs-actual-read-interaction" "Check your dates|#how-to-check-your-cycle-dates" >}}
 
 ## Why Cycle Lengths Vary
 

@@ -162,6 +162,8 @@ If the statement reports water use and the change is unexplained, use a no-use m
 
 Where sewer is billed on water use, every unit a hidden leak wastes is charged twice — once as water, once as sewer — so confirming a leak is the highest-leverage check on this page.
 
+{{< jump-row "Three billing models|#the-three-sewer-billing-models" "Winter averaging|#winter-averaging-explained" "Real examples|#real-utility-examples" "Questions to ask|#questions-to-ask-the-utility" >}}
+
 {{< affiliate-disclosure >}}
 
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Confirm whether the usage is real" description="Contact sensors that alarm at 105 dB and send phone alerts the moment they touch water. Place them under the water heater, behind the washing machine, and under sinks — the fixtures whose slow leaks quietly inflate both the water line and the sewer line on this kind of bill." button="Check price on Amazon" >}}
@@ -175,6 +177,26 @@ Document the bill, current meter reading if relevant, and the date you contacted
 ---
 
 This explanation is part of the [Water Explained hub](/water-explained/).
+
+## Frequently asked questions {#faq}
+
+{{< faq "Why is my sewer charge higher than my water charge?">}}
+
+Because sewer service is priced on the treatment side — the system has to build and run collection plus treatment, and in many cities those costs exceed the fresh-water side. The three billing models section shows how your city computes it: water usage, winter average, or a flat rate.
+
+{{< /faq >}}
+
+{{< faq "What is winter averaging for sewer bills?">}}
+
+A method cities use so you are not billed sewer treatment for summer irrigation water that never enters the sewer: your sewer charge is set from your water usage during winter months, when essentially all household water goes down the drain. The winter-averaging section shows how the window is chosen and how it can work for or against you.
+
+{{< /faq >}}
+
+{{< faq "Can I lower my sewer charge?">}}
+
+Only through the mechanism your city uses: if it is winter-averaged, keeping winter usage down locks in a lower year-round sewer charge; if it is usage-based, indoor conservation carries over directly. The questions-to-ask section gets you the answer from the utility in one call.
+
+{{< /faq >}}
 
 ## Sources
 

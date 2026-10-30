@@ -4,7 +4,7 @@ slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
 description: "What is a fuel adjustment charge? How to identify it on your bill, verify it against the tariff and rate period, and compare it to prior bills."
 date: 2026-05-28
 hero_below_answer: true
-updated: 2026-08-29
+updated: 2026-10-30
 author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -16,6 +16,8 @@ sources:
   - https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
 ---
+
+{{< jump-row "Identify the charge|#identify-the-exact-charge" "How it works|#how-the-clause-works" "Compare bills|#compare-bills-before-drawing-a-conclusion" "What it is not|#what-a-fuel-adjustment-is-not" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -68,6 +70,8 @@ Compare the current bill with a similar prior bill. A higher total amount due ca
 {{< visual src="/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/two-bill-compare-spread.webp" alt="Prior and current utility bill comparison with six matched review fields." >}}
 
 DOE's electricity-bill material explains that bills can include multiple types of charges and rate structures; reviewing those components separately is more reliable than focusing only on the total.[2] If the comparison doesn't reconcile the increase, see [why did my utility bill go up this month?](/blog/why-did-my-utility-bill-go-up-this-month/) for the wider diagnostic.
+
+For scale when you compare: fuel-adjusted rates ride on top of a base rate that itself varies enormously by state — 14.99¢/kWh in Florida to 29.75¢/kWh in California in 2026. The [state-by-state table](/blog/average-utility-bills-by-state-2026/) gives the baseline, with detail pages for [Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/), so you can tell a normal fuel-adjustment bump from a base-rate problem.
 
 ## What a Fuel Adjustment Is Not
 

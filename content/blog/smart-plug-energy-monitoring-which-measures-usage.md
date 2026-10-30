@@ -3,7 +3,7 @@ title: "Which Smart Plug Measures Energy Usage? (And Which Just Switch On and Of
 slug: "smart-plug-energy-monitoring-which-measures-usage"
 description: "Most smart plugs only switch on and off. How to tell which ones actually measure watts and kWh — and what they can safely meter, including window ACs."
 date: 2026-08-31
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -25,6 +25,8 @@ sources:
 **Look for the words "energy monitoring" in the product name or spec sheet — that is the feature that makes a smart plug a meter.** A plug that measures energy contains a metering chip that reports live watts and cumulative kilowatt-hours to its app. The Kasa KP115, the Tapo P110M, and the Emporia Smart Plug all do this, and their spec sheets say so explicitly.[1][2][3] The widely sold basic class — Kasa's HS103 and similar mini plugs — switches power on and off with no metering chip: the app shows on/off and schedules but never a wattage reading. The two kinds often sell within a few dollars of each other.
 
 For scale: residential electricity averaged {{< stat "electric_rate_jun2026" "raw" >}} cents per kilowatt-hour in June 2026, up 5.0 percent from a year earlier.[4] A metering plug does not change that number — it tells you which of your devices are doing the changing.
+
+{{< jump-row "What monitoring means|#what-energy-monitoring-means-on-a-spec-sheet" "The comparison|#the-comparison-which-plugs-actually-meter" "Which fits you|#which-one-fits-your-setup" "Window AC|#the-window-ac-question-answered-honestly" >}}
 
 {{< affiliate-disclosure >}}
 

@@ -3,7 +3,7 @@ title: "Where to Place Water Leak Sensors: 6 Spots That Matter (and 2 That Don't
 slug: "where-to-place-water-leak-sensors"
 description: "A five-pack of leak sensors only works if the pucks sit where water arrives first. The six high-value placements, the two that waste sensors, and upkeep."
 date: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
@@ -21,6 +21,8 @@ sources:
 **Place leak sensors where water arrives first on the floor — low, flat, and touching the surface — at the six highest-risk spots: (1) the water heater pan, (2) beside the washing machine, (3) under the kitchen and bathroom sinks, (4) behind each toilet, (5) at the sump pit, and (6) behind the refrigerator's water line.** Two placements waste sensors: the middle of open floors (water pools at the lowest point, not the middle) and basements without any plumbing fixture (put the sensor at the floor drain or sump instead, where the water is heading). A five-pack covers the six spots if you prioritize by consequence: water heater and washing machine first — one stores 40–50 gallons on standby, the other feeds rubber hoses that hold full pressure around the clock. Interior water damage remains one of the most persistent sources of insurance claims, with appliance failures a consistent loss driver.[2]
 
 Sensors alert; they don't stop anything. That's not a flaw — a $12 puck that screams at 2 AM is the cheapest insurance in the house — but it's the reason the whole-home ladder ([point sensor vs whole-home shutoff](/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/), and the [Flume vs Flo vs Phyn comparison](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/)) exists for people who want the water to stop by itself.
+
+{{< jump-row "The rule|#the-rule-behind-every-placement" "Six placements|#the-six-placements-ranked-by-consequence" "Wasted placements|#the-two-placements-that-waste-a-sensor" "Five-pack coverage|#what-a-five-pack-actually-covers" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -90,6 +92,26 @@ A dead sensor is worse than no sensor — it provides the *feeling* of protectio
 ## When Placement Isn't Enough
 
 Pucks answer "did water arrive here." If the question is "is anything leaking anywhere" — an unknown, a bill that's creeping, a meter that runs at night — the diagnosis starts upstream: [the water meter leak indicator](/blog/water-meter-leak-indicator-explained/) and [why is my water bill so high](/blog/06-water-bill-too-high/) are the free five-minute checks. And if the acceptable outcome is "the water stops by itself," that's the whole-home tier — [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers what auto-shutoff actually buys.
+
+## Frequently asked questions {#faq}
+
+{{< faq "Where should water leak sensors be placed?">}}
+
+By consequence, not convenience: under the water heater first (failure there is sudden and large), then behind the washing machine, under sinks with supply lines, behind the toilet, near the dishwasher, and at the sump or main line if you have one. The six placements in this guide are ranked by how much damage each location prevents, not by how easy it is to reach.
+
+{{< /faq >}}
+
+{{< faq "How many water sensors does a house need?">}}
+
+A five-pack covers the standard risk points: water heater, washer, kitchen sink, bathroom(s), and one spare for the dishwasher or refrigerator line. The coverage section maps a five-pack room by room — more sensors help, but the first five capture most of the risk.
+
+{{< /faq >}}
+
+{{< faq "Do I need one under every sink?">}}
+
+No — prioritize by what fails catastrophically. A slow under-sink drip is a towel problem; a burst washing-machine hose or water-heater tank is a claim. Cover the big-failure sources first, then add sinks with the leftover units.
+
+{{< /faq >}}
 
 ## Sources
 

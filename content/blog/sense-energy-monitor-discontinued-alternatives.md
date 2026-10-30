@@ -26,6 +26,8 @@ sources:
 
 This site's [Vue 3 vs Sense comparison](/blog/emporia-vue-3-vs-sense-comparison/) covers how the two devices differ in method; this page covers the shutdown itself — what still works, what happens to your data and hardware, and what to buy instead at each budget. For buyers who want the short answer now: {{< amazon asin="B0C79PNK84" text="the Emporia Vue 3 (16-sensor kit) is the mainstream whole-home replacement" >}} — owners should read the support section first, because your monitor is not dead.
 
+{{< jump-row "What happened|#what-actually-happened" "If you own one|#if-you-own-a-sense-keep-it-with-two-caveats" "The alternatives|#if-you-were-about-to-buy-one-the-alternatives-by-budget" "The money math|#does-any-of-this-change-the-money-math" >}}
+
 {{< affiliate-disclosure >}}
 
 ## What Actually Happened

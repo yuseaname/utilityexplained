@@ -18,6 +18,8 @@ sources:
   - https://www.saws.org/conservation/indoor_water_saver/leaks.cfm
 ---
 
+{{< jump-row "The 2-minute diagnostic|#the-2-minute-diagnostic-rain-refill-or-leak" "The two leak cases|#the-two-leak-cases--and-who-owns-each" "The urgency ladder|#who-do-i-call-tonight--the-urgency-ladder" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer

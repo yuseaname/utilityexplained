@@ -14,6 +14,8 @@ sources:
   - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices (retrieved 2026-08-29)
 ---
 
+{{< jump-row "The 60-second test|#how-to-test" "Why your bill jumped|#problem" "What it is|#what-it-is" "False alarms|#false-alarms" >}}
+
 {{< affiliate-disclosure >}}
 
 <!-- Manual TOC removed: single.html now auto-generates a collapsible TOC. -->

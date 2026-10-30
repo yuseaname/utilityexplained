@@ -3,7 +3,7 @@ title: "Moving Utilities Checklist: Turn Off, Turn On, Transfer"
 slug: "moving-utilities-checklist"
 description: "Moving soon? The exact timeline for turning off utilities at your old home and on at the new one, plus a one-page checklist so you don't pay for two homes."
 date: 2026-08-19
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 sources:
   - https://www.usa.gov/moving (retrieved 2026-08-29)
@@ -27,6 +27,8 @@ sources:
 - **Never let both homes overlap more than a day** — every overlapping day is a bill you're paying for a house you no longer live in
 
 If you're mid-move right now, the two numbers that matter are: the day after you leave (old home off) and the day before you arrive (new home on).
+
+{{< jump-row "The timeline|#the-timeline-4-weeks-out--moving-day" >}}
 
 ## The Timeline: 4 Weeks Out → Moving Day
 

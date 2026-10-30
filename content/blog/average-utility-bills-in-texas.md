@@ -60,7 +60,7 @@ Measure before spending on anything:
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Find what's actually drawing the power" description="Plug-in meter that shows any appliance's true watts, kWh, and projected monthly cost at the outlet. The cheapest way to find which device explains the gap between your bill and the state average. P3 International spec: 0.2% accuracy, 120V/15A, UL listed." button="Check price on Amazon" >}}
 
-For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+To turn your own numbers into a dollar figure, the [electricity cost calculator](/calculators/electricity-cost/) does the watts × hours × rate math with your rate pre-filled or your own. For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
 {{< faq "What is the average electric bill in Texas?">}}
 

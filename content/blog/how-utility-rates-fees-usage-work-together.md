@@ -3,7 +3,7 @@ title: "How Utility Rates, Fees, and Usage Work Together"
 slug: "how-utility-rates-fees-usage-work-together"
 description: "How utility rates, fees, and usage work together: a plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
 date: 2026-01-15
-updated: 2026-08-21
+updated: 2026-10-30
 author: "Affordability & Assistance Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -20,6 +20,8 @@ sources:
 
 For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/).
 
+
+{{< jump-row "Layers|#layers" "Rates|#rates" "Fees|#fees" "The ripple|#ripple" >}}
 
 ## Think in layers: usage times rate, plus fixed charges {#layers}
 
@@ -101,6 +103,8 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               </a>.
             </p>
 
+
+One concrete anchor for the rate layer: residential electric rates in 2026 run 14.99¢/kWh (Florida) to 29.75¢/kWh (California) against an 18.16¢ national average — the [state-by-state table](/blog/average-utility-bills-by-state-2026/) shows the spread, with detail pages for [Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/).
 
 ## How one change ripples through the total {#ripple}
 

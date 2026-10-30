@@ -29,6 +29,8 @@ Both are CT-clamp whole-home monitors: they measure current with clamp-on sensor
 
 If you want named circuits on day one, the Vue 3 is the straightforward choice — and, post-Sense, the straightforward *only* mainstream choice at retail. If you already own a Sense, keep reading: your device is still supported, and the comparison below still explains what it does and where it falls short.
 
+{{< jump-row "What each does|#what-each-device-actually-does" "Side by side|#side-by-side-comparison" "Install|#install-both-need-panel-work" "Which fits|#which-one-fits-your-question" >}}
+
 {{< affiliate-disclosure >}}
 
 ## What Each Device Actually Does

@@ -155,3 +155,9 @@ For the full library of HVAC and heating/cooling guides, jump to the <a href="#h
 <li><a href="/blog/smart-thermostat-time-of-use-savings/">Smart Thermostats on Time-of-Use Plans</a></li>
 <li><a href="/blog/do-window-insulation-kits-pay-off/">Do Window Insulation Kits Pay Off?</a></li>
 </ul>
+
+### Calculators & Tools
+<ul>
+<li><a href="/calculators/electricity-cost/">Electricity cost calculator</a> — watts × hours × your rate, worked for you</li>
+<li><a href="/blog/ccf-calculator/">CCF calculator</a> — convert your water bill into gallons</li>
+</ul>

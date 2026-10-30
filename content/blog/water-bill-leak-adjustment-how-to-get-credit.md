@@ -18,6 +18,8 @@ sources:
   - https://www.epa.gov/watersense/understanding-your-water-bill
 ---
 
+{{< jump-row "What the policy says|#what-a-leak-adjustment-policy-actually-says" "The math|#the-math-how-the-credit-is-sized" "Evidence checklist|#the-evidence-checklist-collect-before-you-write" "If the answer is no|#if-the-answer-is-no" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer

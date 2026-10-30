@@ -17,6 +17,8 @@ sources:
   - https://www.epa.gov/watersense/how-watersense-calculator-works (retrieved 2026-08-29)
 ---
 
+{{< jump-row "The conversion|#the-conversion-by-hand" "Per-person baseline|#why-the-per-person-baseline-matters-more-than-any-national-average" "Catch the leak|#catch-the-leak-before-it-bills" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer

@@ -4,7 +4,7 @@ slug: "how-to-read-gas-meter"
 description: "Read a dial, digital, or smart gas meter step by step, convert meter units to therms with the EIA heat-content factor, and catch estimated bills early."
 date: 2026-05-27
 hero_below_answer: true
-updated: 2026-08-29
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Gas"
 categories: ["Gas"]
@@ -17,6 +17,8 @@ sources:
   - https://www.eia.gov/tools/faqs/faq.php?id=45&t=8 (U.S. Energy Information Administration — converting natural gas units and prices, retrieved 2026-08-29)
   - https://www.eia.gov/energyexplained/units-and-calculators/energy-conversion-calculators.php (U.S. Energy Information Administration — Energy conversion calculators, retrieved 2026-08-29)
 ---
+
+{{< jump-row "Why read it|#why-read-your-own-gas-meter" "Meter types|#identify-your-meter-type" "Dial meters|#read-a-dial-gas-meter-step-by-step" "CCF & therms|#ccf-therms-and-the-conversion-factor" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -191,6 +193,11 @@ Three usual reasons: the bill's reads are for earlier dates in the cycle; the bi
 {{< /faq >}}
 
 {{< faq-schema >}}
+
+## Related Reading
+
+- [Why is my gas bill so high? 11 causes and fixes](/blog/07-gas-bill-too-high/) — what to do with the reading once you have it
+- [Average utility bills by state (2026)](/blog/average-utility-bills-by-state-2026/) — what gas actually costs where you live
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Stormwater Fee on Your Utility Bill, Explained"
 slug: "stormwater-fee-explained"
 description: "What a stormwater fee pays for, how cities bill it (flat, ERU, or impervious-area tiers), and the honest odds of getting it reduced on your bill."
 date: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-30
 author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
@@ -23,6 +23,8 @@ sources:
 ## Quick Answer
 
 **A stormwater fee is a separate charge that pays for the pipes, drains, and treatment systems that handle rain runoff — and most cities bill it as a flat monthly charge, by impervious-area tiers, or by an "equivalent residential unit" (ERU).** For a typical single-family home it runs from about $5 to $35 a month in the cities we checked, and some cities bill it once a year on the property tax instead. It is not based on how much water you use, so using less water will not lower it.
+
+{{< jump-row "What it pays for|#what-a-stormwater-fee-pays-for" "How cities bill it|#the-three-ways-cities-bill-stormwater" "Reduce it?|#can-you-reduce-it-credits-rain-barrels-and-permeable-surfaces" "Renters vs owners|#renters-vs-owners-who-pays" >}}
 
 ## What a Stormwater Fee Pays For
 
@@ -87,6 +89,26 @@ The practical takeaway: a stormwater fee is a property infrastructure cost, so i
 4. If the charge looks wrong, ask about appeals: Philadelphia allows property owners to appeal incorrect parcel data or property classification.[2]
 
 For the full picture of how water bills fit together, start at the [water explained hub](/water-explained/). If your water bill also includes sewer charges, see [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/) to separate the two. And if the whole bill feels high, start with the [high-water-bill investigation guide](/blog/06-water-bill-too-high/) and the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) to rule out leaks before assuming the fee is the problem. To understand the usage units on the rest of the bill, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/).
+
+## Frequently asked questions {#faq}
+
+{{< faq "What is a stormwater fee?">}}
+
+A charge that funds the drainage system that handles rain runoff — storm sewers, detention, and pollution control. It appears on the water bill in many cities and on the property-tax bill in others; the three billing models section shows how your city likely does it.
+
+{{< /faq >}}
+
+{{< faq "Can I get my stormwater fee reduced?">}}
+
+Sometimes: many cities run credit programs for permeable surfaces, rain barrels, or on-site detention that reduce the runoff your property sends to the system. The credits section lists what typically qualifies — reductions are usually percentage discounts, not waivers.
+
+{{< /faq >}}
+
+{{< faq "Do renters pay the stormwater fee?">}}
+
+If the city bills it through the water bill and the lease puts utilities in the tenant's name, yes — the renters-vs-owners section breaks down who actually sees the line item and who pays it through rent.
+
+{{< /faq >}}
 
 ## Sources
 

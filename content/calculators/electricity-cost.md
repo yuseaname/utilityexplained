@@ -12,7 +12,7 @@ sources:
 <p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
 <div class="calc-shell">
   <h2>Appliance electricity cost calculator</h2>
-  <p class="calc-intro">Enter the appliance's wattage (check the label or manual), how many hours a day it runs, and your rate from your bill. Don't know your rate? The national average is pre-filled.</p>
+  <p class="calc-intro">Enter the appliance's wattage (check the label or manual), how many hours a day it runs, and your rate from your bill. Don't know your rate? The national average is pre-filled — or look up your state's 2026 average in the <a href="/blog/average-utility-bills-by-state-2026/">state-by-state table</a> (Texas, Florida, California, New York, and Pennsylvania each have a detail page).</p>
   <div class="calc-grid">
     <label>Appliance wattage (W)
       <input id="calc-watts" type="number" inputmode="decimal" value="1500" min="1" max="15000">

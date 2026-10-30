@@ -27,6 +27,8 @@ If paying the account is difficult, CFPB directs renters seeking help with utili
 
 ---
 
+{{< jump-row "Triggers|#what-triggers-disconnection-by-utility-type" "Fee table|#typical-reconnection-fee-table-by-state-and-utility" "Terms in writing|#get-the-restoration-terms-in-writing" "Avoid the fee|#how-to-avoid-the-reconnection-fee" >}}
+
 ## What Triggers Disconnection by Utility Type
 
 Utilities follow state-regulated rules for when they can shut off service. The type of utility and the reason for disconnection determine the reconnection steps and fees.

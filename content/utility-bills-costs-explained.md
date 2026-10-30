@@ -169,3 +169,9 @@ Budget billing is helpful if you want consistent monthly payments. It is especia
 </ul>
 
 {{< faq-schema >}}
+
+### Calculators & Tools
+<ul>
+<li><a href="/calculators/electricity-cost/">Electricity cost calculator</a> — watts × hours × your rate, worked for you</li>
+<li><a href="/blog/ccf-calculator/">CCF calculator</a> — convert your water bill into gallons</li>
+</ul>

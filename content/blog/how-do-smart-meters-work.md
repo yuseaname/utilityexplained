@@ -28,6 +28,8 @@ sources:
 <p>If your bill changes after a meter installation, do not assume the cause — <a href="/blog/why-did-my-utility-bill-go-up-this-month/">our guide covers every likely cause, ranked</a>. Compare the billing period, kWh, rate plan, and itemized charges, then ask the utility how it calculated the bill and what meter-testing process applies to your account.</p>
 
 
+{{< jump-row "Smart vs analog|#smart-vs-analog" "How they measure|#how-they-measure" "Accuracy|#are-they-accurate" "Privacy|#privacy-concerns" >}}
+
 ## How smart meters are different from analog meters {#smart-vs-analog}
 
 <p>The biggest difference is communication, not just digits.</p>
