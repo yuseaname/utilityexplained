@@ -1,151 +1,194 @@
 # Utility Explained
 
-> Utility bills decoded: electric, gas, water, and sewer charges explained with worked math, decision frameworks, and verified sources.
+> Utility bills decoded: electric, gas, water, and sewer charges explained with worked math, decision frameworks, and verified sources (EIA, EPA, DOE, published tariffs).
 
 Base URL: https://utilityexplained.com
 
-This site publishes original, source-cited guides. Key pages:
+This site publishes original, source-cited guides. Every article carries a Quick Answer, worked cost math, and dated primary-source citations.
 
-- [01-how-to-read-your-electric-bill](https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/)
-- [03-why-is-my-electric-bill-so-high](https://utilityexplained.com/blog/03-why-is-my-electric-bill-so-high/)
-- [04-hidden-fees-utility-bill](https://utilityexplained.com/blog/04-hidden-fees-utility-bill/)
-- [05-how-to-lower-utility-bills](https://utilityexplained.com/blog/05-how-to-lower-utility-bills/)
-- [06-water-bill-too-high](https://utilityexplained.com/blog/06-water-bill-too-high/)
-- [07-gas-bill-too-high](https://utilityexplained.com/blog/07-gas-bill-too-high/)
-- [08-time-of-use-electricity](https://utilityexplained.com/blog/08-time-of-use-electricity/)
-- [09-apartment-utilities-cost](https://utilityexplained.com/blog/09-apartment-utilities-cost/)
-- [10-fixed-vs-variable-utility-rate](https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/)
-- [11-understanding-kwh-usage](https://utilityexplained.com/blog/11-understanding-kwh-usage/)
-- [12-how-to-read-your-gas-bill](https://utilityexplained.com/blog/12-how-to-read-your-gas-bill/)
-- [13-ac-short-cycling-causes-fixes](https://utilityexplained.com/blog/13-ac-short-cycling-causes-fixes/)
-- [14-estimated-utility-bill-explained](https://utilityexplained.com/blog/14-estimated-utility-bill-explained/)
-- [16-budget-billing-level-pay-explained](https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/)
-- [17-what-is-customer-charge-on-utility-bill](https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/)
-- [18-fuel-adjustment-charge-on-utility-bill-explained](https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)
-- [19-utility-bill-surcharges-and-riders-explained](https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/)
-- [20-utility-bill-proration-explained](https://utilityexplained.com/blog/20-utility-bill-proration-explained/)
-- [21-past-due-balance-utility-bill-explained](https://utilityexplained.com/blog/21-past-due-balance-utility-bill-explained/)
-- [22-minimum-bill-utility-bill-explained](https://utilityexplained.com/blog/22-minimum-bill-utility-bill-explained/)
-- [23-utility-billing-cycle-explained](https://utilityexplained.com/blog/23-utility-billing-cycle-explained/)
-- [24-delivery-charge-vs-supply-charge-utility-bill](https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
-- [25-utility-bill-taxes-fees-franchise-charges-explained](https://utilityexplained.com/blog/25-utility-bill-taxes-fees-franchise-charges-explained/)
-- [26-utility-deposit-explained](https://utilityexplained.com/blog/26-utility-deposit-explained/)
-- [27-utility-connection-fee-explained](https://utilityexplained.com/blog/27-utility-connection-fee-explained/)
-- [28-utility-reconnection-fee-explained](https://utilityexplained.com/blog/28-utility-reconnection-fee-explained/)
-- [30-sudden-spike-in-electricity-bill-no-usage](https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/)
-- [42-best-energy-efficient-space-heater](https://utilityexplained.com/blog/42-best-energy-efficient-space-heater/)
-- [44-how-to-lower-water-bill](https://utilityexplained.com/blog/44-how-to-lower-water-bill/)
-- [45-whole-house-generator-vs-portable-cost](https://utilityexplained.com/blog/45-whole-house-generator-vs-portable-cost/)
-- [46-what-time-is-electricity-cheapest](https://utilityexplained.com/blog/46-what-time-is-electricity-cheapest/)
-- [47-check-energy-leaks-home-diy](https://utilityexplained.com/blog/47-check-energy-leaks-home-diy/)
-- [48-heat-pump-vs-gas-furnace-savings](https://utilityexplained.com/blog/48-heat-pump-vs-gas-furnace-savings/)
-- [49-demand-charges-electricity-bill-explained](https://utilityexplained.com/blog/49-demand-charges-electricity-bill-explained/)
-- [50-best-smart-plugs-standby-power](https://utilityexplained.com/blog/50-best-smart-plugs-standby-power/)
-- [_index](https://utilityexplained.com/blog/_index/)
-- [ac-running-but-not-cooling](https://utilityexplained.com/blog/ac-running-but-not-cooling/)
-- [afue-vs-seer-vs-hspf-vs-cop](https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/)
-- [are-water-heater-blankets-worth-it](https://utilityexplained.com/blog/are-water-heater-blankets-worth-it/)
-- [aux-heat-vs-emergency-heat-meaning](https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/)
-- [average-utility-bills-by-state-2026](https://utilityexplained.com/blog/average-utility-bills-by-state-2026/)
-- [average-water-usage-per-person](https://utilityexplained.com/blog/average-water-usage-per-person/)
-- [best-dual-flush-conversion-kits](https://utilityexplained.com/blog/best-dual-flush-conversion-kits/)
-- [best-faucet-aerators](https://utilityexplained.com/blog/best-faucet-aerators/)
-- [best-home-energy-monitor-2026](https://utilityexplained.com/blog/best-home-energy-monitor-2026/)
-- [best-low-flow-showerheads](https://utilityexplained.com/blog/best-low-flow-showerheads/)
-- [best-merv-11-furnace-filters](https://utilityexplained.com/blog/best-merv-11-furnace-filters/)
-- [best-smart-thermostats-winter-savings](https://utilityexplained.com/blog/best-smart-thermostats-winter-savings/)
-- [best-outdoor-faucet-covers](https://utilityexplained.com/blog/best-outdoor-faucet-covers/)
-- [best-sump-pump-battery-backup](https://utilityexplained.com/blog/best-sump-pump-battery-backup/)
-- [best-thermal-camera-home-energy-audit](https://utilityexplained.com/blog/best-thermal-camera-home-energy-audit/)
-- [can-utility-shut-off-service](https://utilityexplained.com/blog/can-utility-shut-off-service/)
-- [ccf-calculator](https://utilityexplained.com/blog/ccf-calculator/)
-- [cheaper-to-heat-one-room-vs-whole-house](https://utilityexplained.com/blog/cheaper-to-heat-one-room-vs-whole-house/)
-- [christmas-lights-electricity-cost](https://utilityexplained.com/blog/christmas-lights-electricity-cost/)
-- [complete-guide-understanding-utility-bill](https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/)
-- [do-dehumidifiers-help-cooling-costs](https://utilityexplained.com/blog/do-dehumidifiers-help-cooling-costs/)
-- [do-home-energy-monitors-save-money](https://utilityexplained.com/blog/do-home-energy-monitors-save-money/)
-- [do-programmable-thermostats-cut-heating-bills](https://utilityexplained.com/blog/do-programmable-thermostats-cut-heating-bills/)
-- [do-smart-sprinkler-controllers-save-water](https://utilityexplained.com/blog/do-smart-sprinkler-controllers-save-water/)
-- [do-thermal-curtains-really-work](https://utilityexplained.com/blog/do-thermal-curtains-really-work/)
-- [do-window-insulation-kits-pay-off](https://utilityexplained.com/blog/do-window-insulation-kits-pay-off/)
-- [does-closing-vents-save-money](https://utilityexplained.com/blog/does-closing-vents-save-money/)
-- [drought-surcharge-on-water-bill-explained](https://utilityexplained.com/blog/drought-surcharge-on-water-bill-explained/)
-- [duct-leaks-symptoms-hvac-running-all-day](https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day/)
-- [ductless-mini-split-vs-central-air](https://utilityexplained.com/blog/ductless-mini-split-vs-central-air/)
-- [electric-baseboard-heater-cost-to-run](https://utilityexplained.com/blog/electric-baseboard-heater-cost-to-run/)
-- [electric-bill-breakdown-understanding-line-items](https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/)
-- [electric-blanket-vs-space-heater-cost](https://utilityexplained.com/blog/electric-blanket-vs-space-heater-cost/)
-- [electric-supplier-scams-how-to-spot](https://utilityexplained.com/blog/electric-supplier-scams-how-to-spot/)
-- [emporia-vue-3-vs-sense-comparison](https://utilityexplained.com/blog/emporia-vue-3-vs-sense-comparison/)
-- [ev-charging-impact-electric-bill](https://utilityexplained.com/blog/ev-charging-impact-electric-bill/)
-- [flume-vs-moen-flo-vs-phyn-water-monitors](https://utilityexplained.com/blog/flume-vs-moen-flo-vs-phyn-water-monitors/)
-- [furnace-tune-up-cost-schedule](https://utilityexplained.com/blog/furnace-tune-up-cost-schedule/)
-- [gadgets-that-lower-utility-bills](https://utilityexplained.com/blog/gadgets-that-lower-utility-bills/)
-- [gas-leak-signs-what-to-do-bill-impact](https://utilityexplained.com/blog/gas-leak-signs-what-to-do-bill-impact/)
-- [heat-pump-running-all-day-in-winter](https://utilityexplained.com/blog/heat-pump-running-all-day-in-winter/)
-- [how-do-smart-meters-work](https://utilityexplained.com/blog/how-do-smart-meters-work/)
-- [how-many-kwh-does-a-house-use-per-day](https://utilityexplained.com/blog/how-many-kwh-does-a-house-use-per-day/)
-- [how-many-watts-does-refrigerator-use](https://utilityexplained.com/blog/how-many-watts-does-refrigerator-use/)
-- [how-much-does-dripping-faucet-add-to-water-bill](https://utilityexplained.com/blog/how-much-does-dripping-faucet-add-to-water-bill/)
-- [how-much-does-it-cost-to-run-a-furnace](https://utilityexplained.com/blog/how-much-does-it-cost-to-run-a-furnace/)
-- [how-much-does-it-cost-to-run-a-window-or-portable-ac](https://utilityexplained.com/blog/how-much-does-it-cost-to-run-a-window-or-portable-ac/)
-- [how-sewer-charges-work-on-your-water-bill](https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/)
-- [how-to-budget-for-utilities-in-your-first-apartment](https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/)
-- [how-to-dispute-utility-bill](https://utilityexplained.com/blog/how-to-dispute-utility-bill/)
-- [how-to-find-and-seal-drafts-in-your-home](https://utilityexplained.com/blog/how-to-find-and-seal-drafts-in-your-home/)
-- [how-to-keep-pipes-from-freezing](https://utilityexplained.com/blog/how-to-keep-pipes-from-freezing/)
-- [heat-tape-vs-pipe-insulation](https://utilityexplained.com/blog/heat-tape-vs-pipe-insulation/)
-- [how-to-lower-electric-bill-complete-guide](https://utilityexplained.com/blog/how-to-lower-electric-bill-complete-guide/)
-- [how-to-lower-electric-bill-without-solar](https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/)
-- [how-to-read-a-water-meter](https://utilityexplained.com/blog/how-to-read-a-water-meter/)
-- [how-to-read-electric-meter](https://utilityexplained.com/blog/how-to-read-electric-meter/)
-- [how-to-read-gas-meter](https://utilityexplained.com/blog/how-to-read-gas-meter/)
-- [how-to-tell-if-neighbor-is-stealing-electricity](https://utilityexplained.com/blog/how-to-tell-if-neighbor-is-stealing-electricity/)
-- [how-utility-rates-fees-usage-work-together](https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/)
-- [is-your-toilet-running-leak-test](https://utilityexplained.com/blog/is-your-toilet-running-leak-test/)
-- [kill-a-watt-alternatives](https://utilityexplained.com/blog/kill-a-watt-alternatives/)
-- [level-1-ev-charging-cost](https://utilityexplained.com/blog/level-1-ev-charging-cost/)
-- [mcf-vs-ccf-vs-therms-on-gas-bill](https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/)
-- [moving-utilities-checklist](https://utilityexplained.com/blog/moving-utilities-checklist/)
-- [net-metering-explained](https://utilityexplained.com/blog/net-metering-explained/)
-- [phantom-power-draw-explained](https://utilityexplained.com/blog/phantom-power-draw-explained/)
-- [point-sensor-vs-whole-home-water-leak-when-to-upgrade](https://utilityexplained.com/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/)
-- [sense-energy-monitor-discontinued-alternatives](https://utilityexplained.com/blog/sense-energy-monitor-discontinued-alternatives/)
-- [sewer-averaging-water-bill-explained](https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/)
-- [single-stage-vs-two-stage-vs-variable-speed-hvac](https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/)
-- [smart-plug-energy-monitoring-which-measures-usage](https://utilityexplained.com/blog/smart-plug-energy-monitoring-which-measures-usage/)
-- [smart-thermostat-time-of-use-savings](https://utilityexplained.com/blog/smart-thermostat-time-of-use-savings/)
-- [space-heater-running-cost](https://utilityexplained.com/blog/space-heater-running-cost/)
-- [stormwater-fee-explained](https://utilityexplained.com/blog/stormwater-fee-explained/)
-- [tankless-vs-tank-water-heater](https://utilityexplained.com/blog/tankless-vs-tank-water-heater/)
-- [tiered-electricity-rates-explained](https://utilityexplained.com/blog/tiered-electricity-rates-explained/)
-- [tiered-water-rates-explained](https://utilityexplained.com/blog/tiered-water-rates-explained/)
-- [utility-assistance-programs-liheap](https://utilityexplained.com/blog/utility-assistance-programs-liheap/)
-- [water-bill-leak-adjustment-how-to-get-credit](https://utilityexplained.com/blog/water-bill-leak-adjustment-how-to-get-credit/)
-- [water-meter-box-full-of-water](https://utilityexplained.com/blog/water-meter-box-full-of-water/)
-- [water-meter-leak-indicator-explained](https://utilityexplained.com/blog/water-meter-leak-indicator-explained/)
-- [water-meter-running-when-no-water-used](https://utilityexplained.com/blog/water-meter-running-when-no-water-used/)
-- [water-service-charge-explained](https://utilityexplained.com/blog/water-service-charge-explained/)
-- [what-is-ccf-on-a-water-bill](https://utilityexplained.com/blog/what-is-ccf-on-a-water-bill/)
-- [what-temperature-thermostat-winter](https://utilityexplained.com/blog/what-temperature-thermostat-winter/)
-- [what-merv-rating-do-i-need](https://utilityexplained.com/blog/what-merv-rating-do-i-need/)
-- [where-to-place-water-leak-sensors](https://utilityexplained.com/blog/where-to-place-water-leak-sensors/)
-- [which-rate-plan-is-right-for-me](https://utilityexplained.com/blog/which-rate-plan-is-right-for-me/)
-- [who-responsible-water-leak-before-after-meter](https://utilityexplained.com/blog/who-responsible-water-leak-before-after-meter/)
-- [why-did-my-utility-bill-go-up-this-month](https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/)
-- [why-did-my-water-bill-suddenly-increase](https://utilityexplained.com/blog/why-did-my-water-bill-suddenly-increase/)
-- [why-is-my-furnace-blowing-cold-air](https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/)
-- [why-is-my-furnace-running-constantly](https://utilityexplained.com/blog/why-is-my-furnace-running-constantly/)
-- [why-is-my-heating-bill-so-high](https://utilityexplained.com/blog/why-is-my-heating-bill-so-high/)
-- [why-is-my-sewer-bill-higher-than-my-water-bill](https://utilityexplained.com/blog/why-is-my-sewer-bill-higher-than-my-water-bill/)
-- [why-is-my-water-bill-higher-in-summer](https://utilityexplained.com/blog/why-is-my-water-bill-higher-in-summer/)
-- [why-is-my-water-bill-higher-in-winter](https://utilityexplained.com/blog/why-is-my-water-bill-higher-in-winter/)
-- [best-door-draft-stoppers](https://utilityexplained.com/blog/best-door-draft-stoppers/)
-- [furnace-smells-like-burning](https://utilityexplained.com/blog/furnace-smells-like-burning/)
-- [heat-pump-covered-in-ice-normal-or-problem](https://utilityexplained.com/blog/heat-pump-covered-in-ice-normal-or-problem/)
-- [why-does-my-furnace-keep-turning-on-and-off](https://utilityexplained.com/blog/why-does-my-furnace-keep-turning-on-and-off/)
-- [winter-heating-bill-forecast-2026-2027](https://utilityexplained.com/blog/winter-heating-bill-forecast-2026-2027/)
+## Key pages
+
+- [average-utility-bills-by-state-2026](https://utilityexplained.com/blog/average-utility-bills-by-state-2026/) Average electric, gas, and water bills by state (2026) — EIA-sourced national and state-level data with stated vintage.
+- [electricity-explained](https://utilityexplained.com/electricity-explained/) Electricity hub: kWh, supply vs delivery charges, demand fees, time-of-use rates — every line on an electric bill.
+- [gas-explained](https://utilityexplained.com/gas-explained/) Natural gas hub: therms, CCF, customer charges, winter rate spikes — every line on a gas bill.
+- [water-explained](https://utilityexplained.com/water-explained/) Water hub: CCF, sewer charges, stormwater fees, meter reading — every line on a water bill.
+- [heating-cooling-explained](https://utilityexplained.com/heating-cooling-explained/) Heating & cooling hub: HVAC costs, thermostat settings, furnace and heat-pump troubleshooting with bill math.
+- [utility-bills-costs-explained](https://utilityexplained.com/utility-bills-costs-explained/) Bill basics: the four parts of any utility bill (usage, delivery, fixed charges, taxes/riders) explained.
+- [lower-your-bills](https://utilityexplained.com/lower-your-bills/) Savings hub: every way to lower electric, gas, and water bills, organized by cost and effort.
+- [utilities-glossary](https://utilityexplained.com/utilities-glossary/) Glossary: every utility term defined — CCF, therm, kW vs kWh, riders, franchise fees, LIHEAP and more.
+- [electricity-cost](https://utilityexplained.com/calculators/electricity-cost/) Electricity cost calculator: appliance wattage × hours × your rate, with worked examples.
+- [methodology](https://utilityexplained.com/methodology/) How this site sources and verifies numbers (EIA/DOE/EPA primary sources, worked math, corrections log).
+- [about](https://utilityexplained.com/about/) Who publishes this site, how it is produced, and how it is funded.
+- [editorial-policy](https://utilityexplained.com/editorial-policy/) Editorial standards: sourcing rules, review process, and disclosure practices.
+- [corrections](https://utilityexplained.com/corrections/) Public corrections log — every material error found and fixed, with dates.
+
+## Bills & Fees
+
+- [can-utility-shut-off-service](https://utilityexplained.com/blog/can-utility-shut-off-service/) Can the utility shut off your service?
+- [how-to-dispute-utility-bill](https://utilityexplained.com/blog/how-to-dispute-utility-bill/) How to dispute a utility bill: call the utility, submit a written complaint, file with your state commission, and escalate if needed.
+- [moving-utilities-checklist](https://utilityexplained.com/blog/moving-utilities-checklist/) Moving soon? The exact timeline for turning off utilities at your old home and on at the new one, plus a one-page checklist so you don't…
+- [complete-guide-understanding-utility-bill](https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/) The complete guide to your utility bill: a 5-step review workflow, a verified worked bill, and a map from every line — usage x rate, fixed…
+- [utility-assistance-programs-liheap](https://utilityexplained.com/blog/utility-assistance-programs-liheap/) Can't pay your utility bills?
+- [average-utility-bills-by-state-2026](https://utilityexplained.com/blog/average-utility-bills-by-state-2026/) Average utility bills by state in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample…
+- [14-estimated-utility-bill-explained](https://utilityexplained.com/blog/14-estimated-utility-bill-explained/) Why do utilities estimate bills?
+- [17-what-is-customer-charge-on-utility-bill](https://utilityexplained.com/blog/17-what-is-customer-charge-on-utility-bill/) What a utility customer charge actually is, with verified monthly amounts from four utilities' published rates, and how to check yours…
+- [18-fuel-adjustment-charge-on-utility-bill-explained](https://utilityexplained.com/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) What is a fuel adjustment charge?
+- [19-utility-bill-surcharges-and-riders-explained](https://utilityexplained.com/blog/19-utility-bill-surcharges-and-riders-explained/) What are utility-bill surcharges and riders?
+- [20-utility-bill-proration-explained](https://utilityexplained.com/blog/20-utility-bill-proration-explained/) How does utility bill proration work?
+- [22-minimum-bill-utility-bill-explained](https://utilityexplained.com/blog/22-minimum-bill-utility-bill-explained/) A minimum bill charges you even when you use almost nothing.
+- [23-utility-billing-cycle-explained](https://utilityexplained.com/blog/23-utility-billing-cycle-explained/) How do you read the billing period on a utility statement?
+- [24-delivery-charge-vs-supply-charge-utility-bill](https://utilityexplained.com/blog/24-delivery-charge-vs-supply-charge-utility-bill/) What delivery and supply charges cover, who sets each rate, a verified per-utility split table, and whether supply is something you can…
+- [25-utility-bill-taxes-fees-franchise-charges-explained](https://utilityexplained.com/blog/25-utility-bill-taxes-fees-franchise-charges-explained/) Utility bill taxes and fees explained: franchise fees, surcharges, and riders — what each one is, who approves it, and which ones you can…
+- [26-utility-deposit-explained](https://utilityexplained.com/blog/26-utility-deposit-explained/) Verify a utility deposit against your state's cap, waiver, and refund rules — with verified Texas and California frameworks — before you…
+- [27-utility-connection-fee-explained](https://utilityexplained.com/blog/27-utility-connection-fee-explained/) Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an…
+- [04-hidden-fees-utility-bill](https://utilityexplained.com/blog/04-hidden-fees-utility-bill/) Hidden fees on your utility bill — rider charges, franchise fees, minimum bills — where each comes from and which ones you can actually get…
+- [09-apartment-utilities-cost](https://utilityexplained.com/blog/09-apartment-utilities-cost/) How much do apartment utilities cost?
+- [how-utility-rates-fees-usage-work-together](https://utilityexplained.com/blog/how-utility-rates-fees-usage-work-together/) How utility rates, fees, and usage work together: a plain-English model of how usage, price per unit, and fixed charges interact so your…
+- [why-did-my-utility-bill-go-up-this-month](https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/) If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and…
+- [how-to-budget-for-utilities-in-your-first-apartment](https://utilityexplained.com/blog/how-to-budget-for-utilities-in-your-first-apartment/) How to budget for utilities in your first apartment: a simple guide to estimating electricity, gas, water, and internet costs before you…
+
+## Consumer Rights
+
+- [electric-supplier-scams-how-to-spot](https://utilityexplained.com/blog/electric-supplier-scams-how-to-spot/) Utility supplier scams use door knocks, calls, and fake switching forms.
+
+## Electricity
+
+- [christmas-lights-electricity-cost](https://utilityexplained.com/blog/christmas-lights-electricity-cost/) A 25-bulb incandescent C9 string costs about $8.65 a season to run; the LED equivalent costs about 10 cents.
+- [how-much-does-it-cost-to-run-a-window-or-portable-ac](https://utilityexplained.com/blog/how-much-does-it-cost-to-run-a-window-or-portable-ac/) How much does it cost to run a window or portable AC?
+- [how-to-tell-if-neighbor-is-stealing-electricity](https://utilityexplained.com/blog/how-to-tell-if-neighbor-is-stealing-electricity/) Is a neighbor stealing your electricity?
+- [best-thermal-camera-home-energy-audit](https://utilityexplained.com/blog/best-thermal-camera-home-energy-audit/) Can a ~$116 USB-C thermal camera find drafts and insulation gaps?
+- [level-1-ev-charging-cost](https://utilityexplained.com/blog/level-1-ev-charging-cost/) Level 1 EV charging — the 120V cord in the trunk — is billed electricity, not free.
+- [best-home-energy-monitor-2026](https://utilityexplained.com/blog/best-home-energy-monitor-2026/) The best home energy monitors of 2026, picked for measurement accuracy and app quality — including what to buy now that Sense is…
+- [kill-a-watt-alternatives](https://utilityexplained.com/blog/kill-a-watt-alternatives/) The Kill A Watt P4400 is back in stock, but it is not the only way to measure appliance costs.
+- [sense-energy-monitor-discontinued-alternatives](https://utilityexplained.com/blog/sense-energy-monitor-discontinued-alternatives/) Sense stopped selling its home energy monitor on Dec 31, 2025.
+- [emporia-vue-3-vs-sense-comparison](https://utilityexplained.com/blog/emporia-vue-3-vs-sense-comparison/) Emporia Vue 3 meters circuits directly; Sense guesses devices from mains data.
+- [how-many-watts-does-refrigerator-use](https://utilityexplained.com/blog/how-many-watts-does-refrigerator-use/) A fridge's running watts matter less than kWh per day.
+- [smart-plug-energy-monitoring-which-measures-usage](https://utilityexplained.com/blog/smart-plug-energy-monitoring-which-measures-usage/) Most smart plugs only switch on and off.
+- [do-home-energy-monitors-save-money](https://utilityexplained.com/blog/do-home-energy-monitors-save-money/) A whole-home monitor finds the changes that lower an electric bill — what CT-clamp monitors see, what they miss, and when the free app is…
+- [how-many-kwh-does-a-house-use-per-day](https://utilityexplained.com/blog/how-many-kwh-does-a-house-use-per-day/) The average US house uses about 30 kWh per day.
+- [46-what-time-is-electricity-cheapest](https://utilityexplained.com/blog/46-what-time-is-electricity-cheapest/) What time is electricity cheapest?
+- [which-rate-plan-is-right-for-me](https://utilityexplained.com/blog/which-rate-plan-is-right-for-me/) A decision framework for utility rate plans: match your household's usage pattern to fixed, variable, time-of-use, or tiered pricing before…
+- [ev-charging-impact-electric-bill](https://utilityexplained.com/blog/ev-charging-impact-electric-bill/) Estimate EV charging electricity from your vehicle, your driving, and your utility's rate plan — not a national average that fits nobody's…
+- [net-metering-explained](https://utilityexplained.com/blog/net-metering-explained/) Understand how exported solar electricity can be credited, which bill items to check, and why your utility's current tariff controls the…
+- [phantom-power-draw-explained](https://utilityexplained.com/blog/phantom-power-draw-explained/) Phantom power draw explained: what standby power is, how it is measured, and how to cut avoidable plug-load energy use that quietly raises…
+- [45-whole-house-generator-vs-portable-cost](https://utilityexplained.com/blog/45-whole-house-generator-vs-portable-cost/) Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote…
+- [49-demand-charges-electricity-bill-explained](https://utilityexplained.com/blog/49-demand-charges-electricity-bill-explained/) A demand charge bills your peak power draw in kW, not just total kWh.
+- [16-budget-billing-level-pay-explained](https://utilityexplained.com/blog/16-budget-billing-level-pay-explained/) Review a utility budget-billing or level-pay offer using the provider's written terms, actual charges, settlement rules, and payment…
+- [11-understanding-kwh-usage](https://utilityexplained.com/blog/11-understanding-kwh-usage/) Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost…
+- [01-how-to-read-your-electric-bill](https://utilityexplained.com/blog/01-how-to-read-your-electric-bill/) How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in…
+- [08-time-of-use-electricity](https://utilityexplained.com/blog/08-time-of-use-electricity/) Compare a time-of-use electricity plan using your utility's current schedule and tariff, plus your own interval data or bill history — the…
+- [10-fixed-vs-variable-utility-rate](https://utilityexplained.com/blog/10-fixed-vs-variable-utility-rate/) Compare electricity offers using the current tariff, complete contract terms, and your own usage history instead of generic…
+- [tiered-electricity-rates-explained](https://utilityexplained.com/blog/tiered-electricity-rates-explained/) Review block or tiered electricity rates from the tariff and itemized statement, then compare billed usage, thresholds, and all other…
+- [electric-bill-breakdown-understanding-line-items](https://utilityexplained.com/blog/electric-bill-breakdown-understanding-line-items/) Electric bill breakdown: decode the charge categories on a US electric bill — supply, delivery, customer charges, and taxes — and how to…
+- [how-do-smart-meters-work](https://utilityexplained.com/blog/how-do-smart-meters-work/) Smart meters report your usage hourly over a radio network, kill estimated bills, and enable time-of-use rates.
+- [how-to-lower-electric-bill-without-solar](https://utilityexplained.com/blog/how-to-lower-electric-bill-without-solar/) How do you lower your electric bill without solar?
+- [how-to-read-electric-meter](https://utilityexplained.com/blog/how-to-read-electric-meter/) How to read an electric meter: record a dial or digital reading, compare it with your bill, and ask your utility about meter-specific…
+
+## Gas
+
+- [gas-leak-signs-what-to-do-bill-impact](https://utilityexplained.com/blog/gas-leak-signs-what-to-do-bill-impact/) Rotten-egg smell, hissing, dead grass?
+- [how-to-read-gas-meter](https://utilityexplained.com/blog/how-to-read-gas-meter/) Read a dial, digital, or smart gas meter step by step, convert meter units to therms with the EIA heat-content factor, and catch estimated…
+- [mcf-vs-ccf-vs-therms-on-gas-bill](https://utilityexplained.com/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) MCF, CCF, and therms are the three units gas bills use — and utilities convert between them.
+- [12-how-to-read-your-gas-bill](https://utilityexplained.com/blog/12-how-to-read-your-gas-bill/) How to read your gas bill line by line: therms used, delivery versus supply charges, and every fee that hides the real price you pay for…
+
+## Guides
+
+- [why-is-my-electric-bill-so-high-in-january](https://utilityexplained.com/blog/why-is-my-electric-bill-so-high-in-january/) January electric bills spike from heating degree days, heat-pump aux heat, winter rate seasons, and estimated meter reads.
+
+## Heating & Cooling
+
+- [best-door-draft-stoppers](https://utilityexplained.com/blog/best-door-draft-stoppers/) Door drafts are the cheapest heating loss to fix — but the right stopper depends on the door.
+- [furnace-smells-like-burning](https://utilityexplained.com/blog/furnace-smells-like-burning/) A burning smell when the furnace first kicks on is usually months of dust burning off the heat exchanger — but four versions of that smell…
+- [heat-pump-covered-in-ice-normal-or-problem](https://utilityexplained.com/blog/heat-pump-covered-in-ice-normal-or-problem/) A frosty outdoor heat pump unit in winter is usually the normal defrost cycle at work — but ice that won't clear, or a solid block on the…
+- [why-does-my-furnace-keep-turning-on-and-off](https://utilityexplained.com/blog/why-does-my-furnace-keep-turning-on-and-off/) A furnace that runs two minutes and quits — then does it again all night — is short cycling.
+- [winter-heating-bill-forecast-2026-2027](https://utilityexplained.com/blog/winter-heating-bill-forecast-2026-2027/) EIA's Winter Fuels Outlook: gas bills fall ~9% this winter, electric heat rises 4%, propane slips 3%, heating oil jumps 21% to $2,115.
+- [best-smart-thermostats-winter-savings](https://utilityexplained.com/blog/best-smart-thermostats-winter-savings/) A four-way smart thermostat comparison for winter heating bills — Amazon, ecobee Essential, ecobee Premium, Nest 4th gen — with real C-wire…
+- [cheaper-to-heat-one-room-vs-whole-house](https://utilityexplained.com/blog/cheaper-to-heat-one-room-vs-whole-house/) A 1,500W space heater costs about $0.27 an hour — cheap-sounding, and usually misleading.
+- [what-temperature-thermostat-winter](https://utilityexplained.com/blog/what-temperature-thermostat-winter/) 68°F awake, 7-10°F lower asleep and away — the winter thermostat settings that save ~10% on heating, with the heat-pump exception and the…
+- [does-closing-vents-save-money](https://utilityexplained.com/blog/does-closing-vents-save-money/) Does closing vents save money?
+- [electric-baseboard-heater-cost-to-run](https://utilityexplained.com/blog/electric-baseboard-heater-cost-to-run/) Electric baseboard heater cost to run: a 1,000 W unit costs $0.18/hour at the US average rate — about $44/month at 8 hours a day.
+- [how-much-does-it-cost-to-run-a-furnace](https://utilityexplained.com/blog/how-much-does-it-cost-to-run-a-furnace/) How much does it cost to run a furnace?
+- [why-is-my-furnace-running-constantly](https://utilityexplained.com/blog/why-is-my-furnace-running-constantly/) Why is my furnace running constantly?
+- [space-heater-running-cost](https://utilityexplained.com/blog/space-heater-running-cost/) Space heater running cost: a 1,500 W heater costs $0.28/hour at the US average rate.
+- [why-is-my-heating-bill-so-high](https://utilityexplained.com/blog/why-is-my-heating-bill-so-high/) A fuel-agnostic diagnostic for heating bill spikes — electric resistance, heat pumps, propane, oil, and gas — including the hidden cost of…
+- [best-merv-11-furnace-filters](https://utilityexplained.com/blog/best-merv-11-furnace-filters/) Aerostar's MERV 11 six-pack is the workhorse filter buy, but the MERV 13 six-pack costs less — so which should go in your slot?
+- [electric-blanket-vs-space-heater-cost](https://utilityexplained.com/blog/electric-blanket-vs-space-heater-cost/) Electric blanket vs space heater: an electric blanket costs about $6.60 a month to run; a space heater costs $25–66.
+- [smart-thermostat-time-of-use-savings](https://utilityexplained.com/blog/smart-thermostat-time-of-use-savings/) A smart thermostat doesn't lower your rate — it changes when you buy power.
+- [do-dehumidifiers-help-cooling-costs](https://utilityexplained.com/blog/do-dehumidifiers-help-cooling-costs/) A dehumidifier can cut AC use in humid, mild summers — or add cost in hot climates.
+- [do-window-insulation-kits-pay-off](https://utilityexplained.com/blog/do-window-insulation-kits-pay-off/) Do window insulation kits pay off?
+- [do-thermal-curtains-really-work](https://utilityexplained.com/blog/do-thermal-curtains-really-work/) Thermal curtains work through still air and fit, not fabric — what the DOE and AERC numbers measured, the hang rules that decide…
+- [furnace-tune-up-cost-schedule](https://utilityexplained.com/blog/furnace-tune-up-cost-schedule/) A furnace tune-up typically costs $80-$200, ideally every fall.
+- [how-to-find-and-seal-drafts-in-your-home](https://utilityexplained.com/blog/how-to-find-and-seal-drafts-in-your-home/) Find drafts with your hand, a smoke pen, and a flashlight, then seal the ten standard leak spots with sweeps, caulk, gaskets, and…
+- [what-merv-rating-do-i-need](https://utilityexplained.com/blog/what-merv-rating-do-i-need/) MERV 8 for most homes, 11 for allergies, 13 only if rated — the capture-vs-airflow trade, the size mistake, and does a dirty filter raise…
+- [do-programmable-thermostats-cut-heating-bills](https://utilityexplained.com/blog/do-programmable-thermostats-cut-heating-bills/) Do programmable thermostats cut heating bills?
+- [42-best-energy-efficient-space-heater](https://utilityexplained.com/blog/42-best-energy-efficient-space-heater/) Is a portable space heater worth it?
+- [47-check-energy-leaks-home-diy](https://utilityexplained.com/blog/47-check-energy-leaks-home-diy/) Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up…
+- [48-heat-pump-vs-gas-furnace-savings](https://utilityexplained.com/blog/48-heat-pump-vs-gas-furnace-savings/) Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program…
+- [13-ac-short-cycling-causes-fixes](https://utilityexplained.com/blog/13-ac-short-cycling-causes-fixes/) Document frequent AC cycling, complete safe owner checks, and know when to arrange qualified HVAC service instead of relying on a generic…
+- [heat-pump-running-all-day-in-winter](https://utilityexplained.com/blog/heat-pump-running-all-day-in-winter/) Heat pump running all day in winter?
+- [why-is-my-furnace-blowing-cold-air](https://utilityexplained.com/blog/why-is-my-furnace-blowing-cold-air/) Furnace blowing cold air?
+- [ac-running-but-not-cooling](https://utilityexplained.com/blog/ac-running-but-not-cooling/) AC running but the house stays warm?
+- [afue-vs-seer-vs-hspf-vs-cop](https://utilityexplained.com/blog/afue-vs-seer-vs-hspf-vs-cop/) AFUE, SEER, HSPF, and COP explained: what each rating measures, how they map to real bills, and how to compare systems without mixing units.
+- [aux-heat-vs-emergency-heat-meaning](https://utilityexplained.com/blog/aux-heat-vs-emergency-heat-meaning/) Aux heat vs emergency heat: what your thermostat is telling you, why costs can spike, and when to use each mode — and when to leave it…
+- [duct-leaks-symptoms-hvac-running-all-day](https://utilityexplained.com/blog/duct-leaks-symptoms-hvac-running-all-day/) Spot the 8 duct-leak symptoms, run a 15-minute DIY check tonight, and know exactly what a duct-blaster test measures before you pay for one.
+- [ductless-mini-split-vs-central-air](https://utilityexplained.com/blog/ductless-mini-split-vs-central-air/) Ductless mini-split vs central air: the honest comparison — installation cost, efficiency, zoning control, and which system pays off for…
+- [single-stage-vs-two-stage-vs-variable-speed-hvac](https://utilityexplained.com/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/) Learn what HVAC staging and variable-speed equipment mean, why system sizing matters, and what to ask before choosing the right system for…
+
+## Savings & Efficiency
+
+- [are-water-heater-blankets-worth-it](https://utilityexplained.com/blog/are-water-heater-blankets-worth-it/) Are water heater blankets worth it?
+- [gadgets-that-lower-utility-bills](https://utilityexplained.com/blog/gadgets-that-lower-utility-bills/) Use measurement and an assessment before buying an energy-saving device; choose products that fit the home, electrical load, and utility…
+- [how-to-lower-electric-bill-complete-guide](https://utilityexplained.com/blog/how-to-lower-electric-bill-complete-guide/) How to lower your electric bill: 17 proven steps organized by cost, with estimated dollar savings and payback periods for each upgrade.
+- [50-best-smart-plugs-standby-power](https://utilityexplained.com/blog/50-best-smart-plugs-standby-power/) Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle…
+- [05-how-to-lower-utility-bills](https://utilityexplained.com/blog/05-how-to-lower-utility-bills/) What actually lowers bills?
+
+## Troubleshooting
+
+- [21-past-due-balance-utility-bill-explained](https://utilityexplained.com/blog/21-past-due-balance-utility-bill-explained/) What is a past-due balance on a utility bill?
+- [28-utility-reconnection-fee-explained](https://utilityexplained.com/blog/28-utility-reconnection-fee-explained/) Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current…
+- [30-sudden-spike-in-electricity-bill-no-usage](https://utilityexplained.com/blog/30-sudden-spike-in-electricity-bill-no-usage/) Sudden spike in your electricity bill with no usage change?
+- [03-why-is-my-electric-bill-so-high](https://utilityexplained.com/blog/03-why-is-my-electric-bill-so-high/) Why is my electric bill so high?
+- [06-water-bill-too-high](https://utilityexplained.com/blog/06-water-bill-too-high/) Water bill too high with nothing changed?
+- [07-gas-bill-too-high](https://utilityexplained.com/blog/07-gas-bill-too-high/) Why is my gas bill so high?
+
+## Water
+
+- [heat-tape-vs-pipe-insulation](https://utilityexplained.com/blog/heat-tape-vs-pipe-insulation/) Pipe insulation slows freezing; heat tape stops it — one is a one-time $20 fix, the other runs on electricity all winter.
+- [how-to-keep-pipes-from-freezing](https://utilityexplained.com/blog/how-to-keep-pipes-from-freezing/) How to keep pipes from freezing: the ranked prevention ladder — free tonight, cheap this weekend, worth-it upgrades — plus who pays if one…
+- [water-meter-box-full-of-water](https://utilityexplained.com/blog/water-meter-box-full-of-water/) Water in your meter box is usually rain — but it can be a leak on either side of the meter.
+- [water-bill-leak-adjustment-how-to-get-credit](https://utilityexplained.com/blog/water-bill-leak-adjustment-how-to-get-credit/) You fixed the leak — now the $400 bill.
+- [who-responsible-water-leak-before-after-meter](https://utilityexplained.com/blog/who-responsible-water-leak-before-after-meter/) Who is responsible for a water leak — before or after the meter?
+- [how-much-does-dripping-faucet-add-to-water-bill](https://utilityexplained.com/blog/how-much-does-dripping-faucet-add-to-water-bill/) A single dripping faucet can waste over 3,000 gallons of water per year, adding $15–$30 to your bill before sewer surcharges are even…
+- [why-is-my-sewer-bill-higher-than-my-water-bill](https://utilityexplained.com/blog/why-is-my-sewer-bill-higher-than-my-water-bill/) Sewer rates double or triple water rates because treating wastewater costs more than extracting it; here is the math behind the gap and how…
+- [best-dual-flush-conversion-kits](https://utilityexplained.com/blog/best-dual-flush-conversion-kits/) A dual-flush conversion kit turns an old 3.5-gallon toilet into a 1.6/0.8-gallon two-button toilet for about $33 — if it fits.
+- [best-faucet-aerators](https://utilityexplained.com/blog/best-faucet-aerators/) A faucet aerator is the cheapest per-gallon-saved water upgrade there is — a few dollars, a thirty-second twist, no tools.
+- [best-low-flow-showerheads](https://utilityexplained.com/blog/best-low-flow-showerheads/) Best low-flow showerheads: pressure-compensating designs at 1.5 GPM that still feel strong, plus the bucket-and-stopwatch test for your…
+- [best-outdoor-faucet-covers](https://utilityexplained.com/blog/best-outdoor-faucet-covers/) Best outdoor faucet covers: a $7 cover beats one burst pipe, but not every spigot needs one.
+- [best-sump-pump-battery-backup](https://utilityexplained.com/blog/best-sump-pump-battery-backup/) Is the WAYNE ESP25n battery backup worth $350?
+- [do-smart-sprinkler-controllers-save-water](https://utilityexplained.com/blog/do-smart-sprinkler-controllers-save-water/) Smart sprinkler controllers save water for people who over-water on a fixed schedule — and almost nothing for people who already water…
+- [tankless-vs-tank-water-heater](https://utilityexplained.com/blog/tankless-vs-tank-water-heater/) Tankless vs tank water heater: tankless units are 24–34% more efficient on paper, but real savings depend on usage, climate, and upfront…
+- [flume-vs-moen-flo-vs-phyn-water-monitors](https://utilityexplained.com/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) Flume 2 vs Moen Flo vs Phyn Plus: three ways to watch your water.
+- [where-to-place-water-leak-sensors](https://utilityexplained.com/blog/where-to-place-water-leak-sensors/) A five-pack of leak sensors only works if the pucks sit where water arrives first.
+- [point-sensor-vs-whole-home-water-leak-when-to-upgrade](https://utilityexplained.com/blog/point-sensor-vs-whole-home-water-leak-when-to-upgrade/) Point sensors guard spots, meter monitors watch every gallon, and an inline valve acts when you can't — the five signals that say when to…
+- [stormwater-fee-explained](https://utilityexplained.com/blog/stormwater-fee-explained/) What a stormwater fee pays for, how cities bill it (flat, ERU, or impervious-area tiers), and the honest odds of getting it reduced on your…
+- [ccf-calculator](https://utilityexplained.com/blog/ccf-calculator/) Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's…
+- [44-how-to-lower-water-bill](https://utilityexplained.com/blog/44-how-to-lower-water-bill/) Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified EPA WaterSense savings ranges…
+- [drought-surcharge-on-water-bill-explained](https://utilityexplained.com/blog/drought-surcharge-on-water-bill-explained/) Review a drought surcharge on your water bill using your utility's current tariff, drought stage, usage, and meter data — the steps in…
+- [tiered-water-rates-explained](https://utilityexplained.com/blog/tiered-water-rates-explained/) Tiered water rates charge more per CCF as use crosses each block threshold.
+- [water-meter-running-when-no-water-used](https://utilityexplained.com/blog/water-meter-running-when-no-water-used/) Water meter running when no water is used?
+- [average-water-usage-per-person](https://utilityexplained.com/blog/average-water-usage-per-person/) The average American uses about 82 gallons of water a day at home.
+- [sewer-averaging-water-bill-explained](https://utilityexplained.com/blog/sewer-averaging-water-bill-explained/) Sewer charges often use a winter average, not current water use.
+- [why-is-my-water-bill-higher-in-winter](https://utilityexplained.com/blog/why-is-my-water-bill-higher-in-winter/) No lawn watering but a higher bill?
+- [water-meter-leak-indicator-explained](https://utilityexplained.com/blog/water-meter-leak-indicator-explained/) Water meter leak indicator: most meters have a small dial that moves when water flows.
+- [water-service-charge-explained](https://utilityexplained.com/blog/water-service-charge-explained/) Seeing a water service (or base) charge even when you barely used water?
+- [why-did-my-water-bill-suddenly-increase](https://utilityexplained.com/blog/why-did-my-water-bill-suddenly-increase/) Why did my water bill suddenly increase?
+- [why-is-my-water-bill-higher-in-summer](https://utilityexplained.com/blog/why-is-my-water-bill-higher-in-summer/) Why is your water bill higher in summer?
+- [how-sewer-charges-work-on-your-water-bill](https://utilityexplained.com/blog/how-sewer-charges-work-on-your-water-bill/) Use the bill, local rate schedule, and utility customer service to understand how sewer service is charged on your account — and how to…
+- [how-to-read-a-water-meter](https://utilityexplained.com/blog/how-to-read-a-water-meter/) How to read a water meter: a step-by-step guide to reading your home meter, checking for leaks, and knowing whether the reading is accurate.
+- [is-your-toilet-running-leak-test](https://utilityexplained.com/blog/is-your-toilet-running-leak-test/) Use a simple food-coloring dye test to check whether water is leaking from a toilet tank into the bowl, then confirm the repair with your…
+- [what-is-ccf-on-a-water-bill](https://utilityexplained.com/blog/what-is-ccf-on-a-water-bill/) What is CCF on a water bill?
+
 
 ## About
 
-Utility Explained articles are written by named authors and cite primary sources (government data, manufacturer specifications, and published tariffs). See https://utilityexplained.com/about/ for editorial information.
+Utility Explained articles are produced by an independent editorial desk and cite primary sources (government data, manufacturer specifications, and published tariffs). Data-heavy pages carry dated source links; corrections are public. See https://utilityexplained.com/about/ for editorial information.
