@@ -18,6 +18,8 @@ sources:
   - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
 ---
 
+{{< jump-row "Causes ranked|#the-causes-ranked-by-likelihood" "Benchmark your usage|#benchmark-your-usage-before-you-assume-a-leak" "The checks in order|#work-the-checks-in-order" "Ask the utility|#ask-the-utility-specific-questions" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer

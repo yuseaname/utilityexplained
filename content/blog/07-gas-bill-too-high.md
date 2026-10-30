@@ -4,7 +4,7 @@ slug: "07-gas-bill-too-high"
 aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "Why is my gas bill so high? It is usually heating-driven (about 40–45% of annual household gas use). See the 11 common causes and what each fix saves."
 date: 2026-03-07
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Consumer Rights Desk"
 sources:
   - https://www.eia.gov/energyexplained/natural-gas/use-of-natural-gas.php (retrieved 2026-08-29)
@@ -19,6 +19,8 @@ tags: ['high gas bill', 'gas bill spike', 'heating costs', 'natural gas rates', 
 keywords: ['why is my gas bill so high', 'high natural gas bill', 'gas bill winter spike', 'lower gas bill', 'furnace efficiency AFUE', 'gas water heater waste']
 image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 ---
+
+{{< jump-row "Start here|#quick-diagnosis-start-here" "11 causes ranked|#common-causes-ranked-by-likelihood" "Winter vs summer|#seasonal-comparison-winter-vs-summer-gas-usage" "Rate structures|#understanding-gas-rate-structures" "Savings math|#cost-and-savings-math" >}}
 
 {{< affiliate-disclosure >}}
 ## Quick Answer
@@ -99,6 +101,10 @@ Short cycling (the burner turning on and off every few minutes without reaching 
 - **Annual maintenance** ($80–$200) — A professional tune-up can restore 2–5% efficiency and catch problems early.
 - **Filter replacement** — A dirty filter forces the furnace to work harder. Replace every 1–3 months during heating season.
 - **Consider replacement** — If your furnace is 15+ years old, a new 95–98% AFUE model can cut gas usage by 20–30%. Typical cost: $3,000–$6,000 installed. Be realistic about payback: on gas savings alone it is long (the worked example below computes ~23 years at typical rates); rebates and blower-motor electric savings bring it to roughly 8–12 years. Replace when the furnace fails, not as a bill fix.
+
+The filter line is the one worth singling out, because it is the cheapest fix on this page and the most skipped: a clogged filter makes the furnace run longer for the same heat — pure wasted gas, every cycle, all winter.
+
+{{< product-box asin="B0DKZCJYXP" name="Filtrete 20x25x1 MERV 8 Furnace Filters (6-pack)" label="The $9 fix before the $200 tune-up" description="A full heating season of standard-MERV 8 filters for the price of one service call. Check the size printed on your current filter's frame first — this listing is 20x25x1, and the same listing carries other sizes. Replace every 1–3 months in heating season, per the guide above." button="Check price on Amazon" >}}
 
 ### 4. Poor insulation and air leaks
 
@@ -250,6 +256,8 @@ Your gas bill has two main components:
 Utilities often pass through volatile wholesale gas costs and infrastructure project costs as separate line items. The [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) is the most common; surcharges and riders are covered in [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) (state public utility commission).
 
 ---
+
+One more rate reality: gas prices vary enormously by state. Residential gas averaged {{< stat "gas_price_sep2026" >}} per therm nationally in September 2026, and the state spread runs from roughly $1.04 to $2.29 — the [state-by-state guide](/blog/average-utility-bills-by-state-2026/) tabulates it, with 2026 detail pages for [Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/). Knowing whether your state is cheap or expensive for gas is the fair baseline before you blame the furnace.
 
 ## Cost and savings math
 

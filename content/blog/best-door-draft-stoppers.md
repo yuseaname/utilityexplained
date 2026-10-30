@@ -3,7 +3,7 @@ title: "Best Door Draft Stoppers: What Actually Works (Tested Types, Honest Pick
 slug: "best-door-draft-stoppers"
 description: "Door drafts are the cheapest heating loss to fix — but the right stopper depends on the door. Fabric sleeves, adhesive sweeps, frame weatherstripping, and thresholds, honestly ranked."
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Heating & Cooling"
 categories: ["Heating & Cooling"]
@@ -23,6 +23,8 @@ sources:
 **The best draft stopper is the one that matches where your air is escaping: a fabric slide-on sleeve for the under-door gap (renters, interior doors, ten dollars), an adhesive door sweep for exterior doors (permanent, seals tighter), V-strip weatherstripping for the sides and top of the frame (the gap most people never check), and a threshold adjustment or seal when the gap is too big for any sweep.** Before buying anything, do the two-minute test from [how to find and seal drafts in your home](/blog/how-to-find-and-seal-drafts-in-your-home/) — incense stick or wet hand around the door on a windy day — because the under-door gap gets all the attention while the frame edges and threshold often leak more.
 
 This page is the purchase companion to that diagnostic: what each type honestly does, what it can't do, and the two picks worth buying.
+
+{{< jump-row "Find the gap|#step-zero-find-the-actual-gap" "What draft stops can't do|#the-honesty-section-what-a-draft-stopper-cant-do" "Decision table|#decision-table" "Two-minute audit|#the-two-minute-door-audit-score-as-you-go" >}}
 
 {{< affiliate-disclosure >}}
 

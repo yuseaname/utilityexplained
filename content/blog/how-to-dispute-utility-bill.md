@@ -3,7 +3,7 @@ title: "How to Dispute a Utility Bill (and Win)"
 slug: "how-to-dispute-utility-bill"
 description: "How to dispute a utility bill: call the utility, submit a written complaint, file with your state commission, and escalate if needed. With a template."
 date: 2026-08-19
-updated: 2026-08-30
+updated: 2026-10-30
 author: "Consumer Rights Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
@@ -21,6 +21,8 @@ sources:
   - https://www.consumer.ftc.gov/articles/scammers-pretend-be-your-utility-company (FTC, Utility Scams, retrieved 2026-08-29)
   - https://liheap.org/ (LIHEAP / NEUAC, retrieved 2026-08-29)
 ---
+
+{{< jump-row "Call first|#step-1-call-your-utility-first" "Written complaint|#step-2-submit-a-written-complaint" "State PUC|#step-3-file-a-complaint-with-your-states-public-utility-commission" "Evidence log|#evidence-log-what-to-keep-and-when" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -66,6 +68,8 @@ Keep the date, communication method, representative or case reference if supplie
 The provider's written rules govern payment while a review is pending, notice requirements, payment arrangements, and disconnection procedures. Ask the provider directly what current account obligations and options apply; do not withhold payment or rely on a generic "undisputed portion" rule without that confirmation.
 
 Never alter a meter, seal, utility line, or other service equipment. For a gas odor, electrical hazard, or other emergency, use the provider's emergency instructions rather than the billing-review channel.
+
+One verification that strengthens any dispute before you pick up the phone: know what your state's rates actually run. The [state-by-state guide](/blog/average-utility-bills-by-state-2026/) tabulates 2026 residential electric and gas prices per state — so you can tell whether a charge is genuinely out of line, or simply your state's normal rate on an unusual-usage month. A dispute built on that context survives the first call.
 
 ## Step 2: Submit a Written Complaint
 

@@ -3,7 +3,7 @@ title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
 description: "How to read a water meter: a step-by-step guide to reading your home meter, checking for leaks, and knowing whether the reading is accurate."
 date: 2025-12-25
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
@@ -26,6 +26,8 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
 
 **Next step:** If the sweep hand moves with everything off, a {{< amazon asin="B0DQLFC3Q6" text="five-pack of leak sensors like the Govee" position="qa-leak-test" >}} under the water heater, washer box, and sinks will catch the culprit the day it starts — before it shows up as 20 CCF on next month's bill. The full diagnostic ladder is in [water meter running when no water is used](/blog/water-meter-running-when-no-water-used/).
 
+
+{{< jump-row "Meter types|#meter-types" "Read a dial meter|#read-dial" "Leak test|#leak-test" "Match it to your bill|#bill-compare" >}}
 
 ## Know your meter type first {#meter-types}
 
@@ -102,6 +104,8 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
               <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used: the 10-minute test</a>.
             </p>
 
+
+This page is the measurement tool — if the reading confirms a leak or an unexplained jump, two companion guides take it from here: [why is my water bill so high?](/blog/06-water-bill-too-high/) ranks the causes by likelihood, and [why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) works the sudden-change case (rate hikes, estimated reads, billing-period length) that a leak test alone won't explain.
 
 ## Compare the meter with your bill {#bill-compare}
 

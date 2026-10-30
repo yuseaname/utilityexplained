@@ -3,7 +3,7 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Electric bill breakdown: decode the charge categories on a US electric bill — supply, delivery, customer charges, and taxes — and how to verify each."
 date: 2025-12-25
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -37,6 +37,10 @@ sources:
 </ul>
 </blockquote>
 
+{{< jump-row "The four big lines|#start-here" "Supply charges|#supply" "Delivery charges|#delivery" "Estimates & true-ups|#estimated" "Why bills jump|#spikes" >}}
+
+{{< affiliate-disclosure >}}
+
 ## Start here: the four things that explain most bills {#start-here}
 
 {{< image src="/images/articles/electric-bill-breakdown-understanding-line-items/ebill-4numbers.webp" alt="The four numbers that explain your electric bill" caption="Most of your bill comes down to four things: the kWh you used, your price per kWh, the days billed, and the charges and fees in your rate plan." >}}
@@ -63,6 +67,8 @@ How the rate itself is set depends on where you live. EIA notes that in some sta
 To see the arithmetic, you can apply EIA's reported figures: at the 2025 residential annual average of 17.30¢ per kWh,[1] a month of usage at the 2022 national average of {{< stat "avg_monthly_kwh" >}}[2] would come to roughly $155 for the supply portion alone. Your actual rate comes from your bill and rate plan, not from a national average.
 
 If your bill uses time-of-use rates, your kWh may be split into peak and off-peak buckets with different prices.
+
+Rates themselves vary widely by state — in 2026, from 14.99¢/kWh in Florida to 29.75¢/kWh in California, against an 18.16¢ national average. The [state-by-state guide](/blog/average-utility-bills-by-state-2026/) tabulates it, with detail pages for [Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/) — useful for checking whether a "high" supply rate is actually your state's norm.
 
 ## Delivery (distribution) charges: the grid that brings it to you {#delivery}
 
@@ -99,6 +105,10 @@ If you are not sure what plan you are on, the bill usually names it. Our guide o
 A surprising bill can happen when one bill was based on an estimated read and a later bill corrects it after an actual meter reading. The California Public Utilities Commission explains that when a utility cannot read a meter — for reasons such as severe weather, a locked gate, or a blocked access — it may estimate usage based on consumption for the same period the previous year, with adjustments, and that the estimated bill is corrected when the utility is able to read the meter. If bills are estimated for more than three months in a row, the utility will let you know it needs access.[4]
 
 If you want to verify readings yourself, see <a href="/blog/how-to-read-electric-meter/">how to read your meter</a>.
+
+And when you want to verify the kWh side of the bill itself — not the reading, the usage — a plug-in meter is the two-minute way to cross-check what the bill claims your appliances drew:
+
+{{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Check the usage behind the line items" description="Plug-in meter that shows any appliance's true watts, kWh, and projected monthly cost at the outlet. The cheapest way to confirm the energy charges on your bill match what your devices actually draw. P3 International spec: 0.2% accuracy, 120V/15A, UL listed." button="Check price on Amazon" >}}
 
 ## Why bills jump: the most common explanations {#spikes}
 

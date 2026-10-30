@@ -20,6 +20,8 @@ sources:
   - https://sagesure.com/insurance-insights/who-pays-to-repair-a-water-service-line-break/
 ---
 
+{{< jump-row "The boundary map|#the-boundary-map-where-yours-starts" "The 10-minute test|#the-10-minute-test-that-settles-which-side-is-it-on" "Escalation path|#when-the-utility-says-not-ours--the-escalation-path" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer

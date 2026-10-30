@@ -19,6 +19,8 @@ image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_her
 og_image: "/images/social/og-sudden-electricity-spike.webp"
 ---
 
+{{< jump-row "Causes at a glance|#the-top-10-causes-at-a-glance" "Verify the bill|#step-1-verify-the-bill-is-correct" "Compare your rate|#step-3-compare-the-per-kwh-rate" "Audit your usage|#how-to-audit-your-electricity-usage" >}}
+
 {{< affiliate-disclosure >}}
 
 ## Quick Answer: Why Did My Electric Bill Spike With No Usage Change?
@@ -96,6 +98,8 @@ Calculate your average daily usage by dividing total kWh by the number of days i
 Rate changes are one of the most overlooked causes of sudden bill increases. Utilities can and do change their rates, sometimes with minimal notification buried in the fine print of your bill.
 
 Compare the per-kWh rate on your current bill to the same month last year. If the rate has increased from 12¢ to 15¢ per kWh, that alone would cause a <strong>25% bill increase</strong> even with identical usage.
+
+For 2026 context: the national average residential rate is 18.16¢/kWh, with states running from 14.99¢ (Florida) to 29.75¢ (California) — the [state-by-state table](/blog/average-utility-bills-by-state-2026/) shows where yours sits, with detail pages for [Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/).
 
 Rate increases happen through several mechanisms:
 

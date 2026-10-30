@@ -3,7 +3,7 @@ title: "Tankless vs Tank Water Heater: What You Will Actually Save"
 slug: "tankless-vs-tank-water-heater"
 description: "Tankless vs tank water heater: tankless units are 24–34% more efficient on paper, but real savings depend on usage, climate, and upfront cost."
 date: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Water"
 categories: ["Water"]
@@ -23,7 +23,9 @@ sources:
 
 **A tankless water heater is 24–34% more energy-efficient than a standard tank model on paper — but the honest savings depend on how much hot water you actually use, and the Department of Energy's own guidance is that homes using under about 41 gallons a day benefit most.**[1] That's the whole trade in one sentence: tankless units eliminate standby loss (the tank's constant reheating), but they cost more upfront, need proper gas or electric service, and deliver hot water at a flow rate that depends on your groundwater temperature. For a low-usage household, the efficiency edge is real but small; for a high-usage household, it's the difference between a 10–13 year tank and a ~20 year tankless unit.
 
-This is an informational comparison — no product picks, because the right unit is sized to your home's flow demand, not to a list. If your bill is the actual problem, start with [Is Your Gas Bill Too High?](/blog/07-gas-bill-too-high/), [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/), and [The Complete Guide to Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/) — the leak is often in the bill, not the appliance.
+This is an informational comparison — no unit picks, because the right water heater is sized to your home's flow demand, not to a list. (Accessories that keep whichever unit you own running right are a different story — see the maintenance note below.) If your bill is the actual problem, start with [Is Your Gas Bill Too High?](/blog/07-gas-bill-too-high/), [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/), and [The Complete Guide to Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/) — the leak is often in the bill, not the appliance.
+
+{{< jump-row "The trade|#first-what-each-one-actually-does" "Efficiency math|#the-efficiency-math-what-2434-actually-buys" "Head-to-head|#head-to-head" "Which to buy|#which-should-you-actually-buy" >}}
 
 {{< affiliate-disclosure >}}
 
@@ -80,6 +82,8 @@ That's the real trade behind "endless hot water vs simultaneous showers": a tank
 
 **Maintenance is a line item too:** a tankless unit's heat exchanger should be flushed (typically with vinegar or a descaling solution) once a year in hard-water areas, and the inlet filter cleaned. A tank's maintenance is a yearly drain-and-flush plus an anode rod check. Neither is expensive, but the tankless flush is the one homeowners most often skip — and a scaled heat exchanger is the most common cause of premature tankless failure. Budget the annual flush into the lifetime math above; it's ~$20–50/year in parts or a plumber's visit.
 
+{{< product-box asin="B0HCTNV3BC" name="Tankless Water Heater Flush Kit (pump, hoses, descaler)" label="The annual flush, done yourself" description="Pump, two hoses, and descaling solution — the standard DIY annual flush for a tankless heat exchanger. Doing it yourself each year is the difference between a ~20-year unit and a scaled-up failure at year 8. (Check your manual first: some manufacturers specify their own descaler.)" button="Check price on Amazon" >}}
+
 ## The Lifetime-Cost Math, Done Twice
 
 Here's the honest way to compare the two over a 20-year horizon, with assumptions stated. National average residential electricity is **{{< stat "electric_rate_jun2026" >}}** (EIA, June 2026),[2] and the average household uses about **{{< stat "avg_monthly_kwh" >}}**.[3]
@@ -114,12 +118,38 @@ That's the honest summary of the whole article: **the tankless wins big only in 
 ## Which Should You Actually Buy?
 
 - **Low hot-water usage (under ~41 gal/day), staying 10+ years** → tankless. The 24–34% edge compounds over a 20-year lifespan.
-- **Family with simultaneous showers, high usage** → tank. The flow-rate reality of a tankless unit in a cold climate will frustrate you more than the standby loss will cost you.
+- **Family with simultaneous showers, high usage** → tank. The flow-rate reality of a tankless unit in a cold climate will frustrate you more than the standby loss will cost you — and if you keep the tank, [a water heater blanket](/blog/are-water-heater-blankets-worth-it/) is the cheap standby-loss fix worth checking first.
 - **Cold climate, tankless curious** → size it for your winter groundwater temperature, not the brochure GPM. Ask for the unit's rating at your actual temperature rise.
 - **Planning to move within 5–8 years** → tank. The payback horizon doesn't fit your ownership horizon.
 - **Bill is the actual problem** → neither. Read [Is Your Gas Bill Too High?](/blog/07-gas-bill-too-high/), [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/), and [The Complete Guide to Understanding Your Utility Bill](/blog/complete-guide-understanding-utility-bill/) before you spend thousands on an appliance.
 
 And the standing rule: **the appliance is the last line item, not the first.** A tankless unit saves $120–170/year only if your usage pattern matches the DOE's low-usage profile — and no unit saves anything if the bill's real driver is a rate change, a leak, or a thermostat set to 140°F. Measure the bill first, then size the appliance to the house you actually have.
+
+## Frequently asked questions {#faq}
+
+{{< faq "Is a tankless water heater worth it?">}}
+
+Only in the low-usage, long-ownership case: households under about 41 gallons of hot water a day who will stay in the home 10+ years. There the 24–34% DOE efficiency edge compounds to roughly $2,000 over 20 years. For a high-usage family the two options land within a few hundred dollars of each other over two decades, and the tank wins on upfront cash flow.
+
+{{< /faq >}}
+
+{{< faq "How long do tankless and tank water heaters last?">}}
+
+A tank unit lasts about 10–13 years; a tankless unit about 20 — but only with the annual descaling flush in hard-water areas. A scaled heat exchanger is the most common cause of premature tankless failure, which is why the maintenance line item belongs in the lifetime math.
+
+{{< /faq >}}
+
+{{< faq "Does a tankless water heater run out of hot water?">}}
+
+Not the way a tank does — it never empties. But it has a flow-rate ceiling: at your groundwater's winter temperature, the unit can only heat so many gallons per minute. One shower is usually fine; two simultaneous showers in a cold climate often is not. The tank runs out; the tankless runs out of flow.
+
+{{< /faq >}}
+
+{{< faq "What maintenance does a tankless water heater need?">}}
+
+An annual heat-exchanger flush with vinegar or descaling solution, plus cleaning the inlet filter — roughly $20–50/year in parts if you do it yourself with a flush kit, or a plumber's visit. A tank's equivalent is a yearly drain-and-flush plus anode rod check.
+
+{{< /faq >}}
 
 ## Sources
 
