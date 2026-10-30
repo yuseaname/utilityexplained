@@ -53,6 +53,8 @@ Compare billed usage with the prior statement only after checking billing days a
 
 One wall every reader hits at this step: the bill totals your usage but never breaks it down by appliance — so “usage looks high” stays a mystery until something measures individual devices.
 
+{{< affiliate-disclosure >}}
+
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Turn “usage” into per-appliance numbers" description="Plug-in meter that shows any appliance’s true watts, kWh, and projected monthly cost at the outlet — the cheapest way to find which device is actually behind a number the bill only totals. P3 International spec sheet: 0.2% accuracy, 120V/15A, UL listed." button="Check price on Amazon" >}}
 
 ### Step 3: Inventory every charge

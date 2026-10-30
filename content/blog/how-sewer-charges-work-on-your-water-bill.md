@@ -162,6 +162,8 @@ If the statement reports water use and the change is unexplained, use a no-use m
 
 Where sewer is billed on water use, every unit a hidden leak wastes is charged twice — once as water, once as sewer — so confirming a leak is the highest-leverage check on this page.
 
+{{< affiliate-disclosure >}}
+
 {{< product-box asin="B0DQLFC3Q6" name="Govee Water Leak Detectors (5-pack)" label="Confirm whether the usage is real" description="Contact sensors that alarm at 105 dB and send phone alerts the moment they touch water. Place them under the water heater, behind the washing machine, and under sinks — the fixtures whose slow leaks quietly inflate both the water line and the sewer line on this kind of bill." button="Check price on Amazon" >}}
 
 ---

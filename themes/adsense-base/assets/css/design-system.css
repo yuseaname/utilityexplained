@@ -2059,7 +2059,8 @@ button:focus-visible {
 }
 
 /* Desktop: when the sticky rail exists it already carries the TOC —
-   hide the in-column TOC to end the duplicate-TOC pattern (mobile keeps it). */
+   hide the in-column TOC to end the duplicate-TOC pattern (mobile keeps it).
+   The TOC is a direct child of <article>, which itself sits in .article-shell. */
 @media (min-width: 1024px) {
-  .article-shell.has-rail > details.toc { display: none; }
+  .article-shell.has-rail article > details.toc { display: none; }
 }
