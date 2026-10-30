@@ -30,6 +30,8 @@ sources:
 
 {{< jump-row "Smart vs analog|#smart-vs-analog" "How they measure|#how-they-measure" "Accuracy|#are-they-accurate" "Privacy|#privacy-concerns" >}}
 
+{{< affiliate-disclosure >}}
+
 ## How smart meters are different from analog meters {#smart-vs-analog}
 
 <p>The biggest difference is communication, not just digits.</p>

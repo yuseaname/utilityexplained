@@ -29,6 +29,8 @@ If you're choosing hardware to automate this, that's our [smart thermostat compa
 
 {{< jump-row "The two numbers|#the-two-numbers-that-matter" "Why setback saves|#why-the-setback-saves-its-not-reheat-eats-the-savings" "Heat pump exception|#the-exception-that-pays-for-a-smart-thermostat-heat-pumps" "The settings table|#the-full-settings-table" >}}
 
+{{< affiliate-disclosure >}}
+
 ## The Two Numbers That Matter
 
 Everything in winter thermostat strategy reduces to two settings and a discipline:

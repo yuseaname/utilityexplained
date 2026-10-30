@@ -25,6 +25,8 @@ sources:
 
 {{< jump-row "What's included|#what-a-furnace-tune-up-actually-includes" "Fuel differences|#gas-vs-oil-vs-electric-cost-differences" "Plan worth it?|#is-a-maintenance-plan-worth-it" "The upsell|#one-caution-watch-for-the-upsell" >}}
 
+{{< affiliate-disclosure >}}
+
 ## What a Furnace Tune-Up Actually Includes
 
 A tune-up is preventive maintenance, not a fix-it service. A good technician spends 45-90 minutes looking at the parts that wear out or become dangerous. Here's what a typical visit includes, based on contractor checklists and ENERGY STAR's maintenance guidance [3]:

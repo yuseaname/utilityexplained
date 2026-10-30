@@ -44,7 +44,7 @@ Want the same relief with no equipment at all, ranked shortest-first? The [no-so
 
 {{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/cost-tier-ladder.webp" alt="Three cost tiers for lowering an electric bill, from free behavior changes to big-ticket upgrades." caption="Start with the lowest-cost change that addresses the largest source of use in your home." wide="true" >}}
 
-{{< jump-row "Free today|#free-changes-start-today-save-1025" "Under $50|#under-50-this-week-save-1530" "HVAC|#hvac-optimization-save-2035" "Rate plans|#rate-plan-optimization-save-1025" "Checklist|#quick-reference-checklist" >}}
+{{< jump-row "Why it's high|#why-your-electric-bill-is-so-high" "Free today|#free-changes-start-today-save-1025" "Under $50|#under-50-this-week-save-1530" "FAQ|#faq" >}}
 
 > **Read the section percentages honestly:** each heading's "Save X%" is that category's *own* ceiling against the part of your bill it touches — they do **not** stack. A realistic whole-home outcome from executing this guide is the Quick Answer's **20–40%** ($33–$66/month on the $164.88 national-average bill), because categories overlap (the same kWh can only be saved once) and every home starts from a different mix.
 

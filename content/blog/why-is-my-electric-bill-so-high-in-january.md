@@ -19,6 +19,8 @@ Compare **kWh, not dollars**, against December first. If kWh rose with the cold,
 
 {{< spike-triage >}}
 
+{{< affiliate-disclosure >}}
+
 ## 1. Heating Degree Days: Why January Is the Peak Billing Month
 
 A heating degree day (HDD) is a measure of how cold a day was: for each degree the day's average temperature sits below 65°F, one HDD accumulates. January piles up more HDDs than any other month in most of the United States — and your heating equipment's runtime tracks those HDDs almost linearly.

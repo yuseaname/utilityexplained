@@ -25,6 +25,8 @@ sources:
 
 {{< jump-row "The numbers|#the-numbers-table" "Why rates look like this|#why-california-rates-look-like-this" "Water & sewer|#water-and-sewer-in-california" "If your bill is higher|#if-your-bill-runs-above-these-numbers" >}}
 
+{{< affiliate-disclosure >}}
+
 ## The numbers table {#the-numbers-table}
 
 <p><em>Data notes: electric rates are EIA residential averages (¢/kWh) — the 2026 column is preliminary year-to-date, 2025 is final. Gas is the EIA annual residential price ($/thousand cubic feet; therm conversion 1 Mcf ≈ 10.37 therms). Monthly figures use the same standardized usage as our <a href="/blog/average-utility-bills-by-state-2026/">state-by-state guide</a> — 899 kWh electricity, 75 therms gas — so states are comparable on price, not lifestyle. Your actual bill depends on usage, rate plan, and season.</em></p>
