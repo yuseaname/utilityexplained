@@ -2064,3 +2064,10 @@ button:focus-visible {
 @media (min-width: 1024px) {
   .article-shell.has-rail article > details.toc { display: none; }
 }
+
+/* Mobile (P2 2026-10-30): long section-heading captions (e.g. the Most Read
+   sub-line) must not push the page into horizontal scroll — wrap them. */
+@media (max-width: 640px) {
+  .section-heading { flex-wrap: wrap; }
+  .section-heading-link { white-space: normal; min-width: 0; }
+}
