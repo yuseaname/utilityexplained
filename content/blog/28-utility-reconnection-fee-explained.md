@@ -3,7 +3,7 @@ title: "How to Verify a Utility Reconnection Charge"
 slug: "28-utility-reconnection-fee-explained"
 description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
 date: 2026-05-28
-updated: 2026-08-29
+updated: 2026-10-30
 author: "Consumer Rights Desk"
 category: "Troubleshooting"
 categories: ["Troubleshooting"]
@@ -161,6 +161,27 @@ LIHEAP is administered by the U.S. Department of Health and Human Services throu
 5. What confirmation and restoration timing can the provider document for this account?
 
 ---
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "How much is a typical utility reconnection fee?">}}
+
+It varies by utility and state — the fee table in this guide shows the common ranges, and the only number that matters is the one in your utility's tariff. Always get the restoration terms in writing: the fee, any deposit, and the timeframe.
+
+{{< /faq >}}
+
+{{< faq "Can I get the reconnection fee waived?">}}
+
+Sometimes — assistance programs and payment plans can cover or avoid it, and some utilities waive fees during extreme-weather protections. The window to ask is before the disconnection date, not after; the assistance section lists the programs to call first.
+
+{{< /faq >}}
+
+{{< faq "How fast does service come back after payment?">}}
+
+It depends on the utility's restoration queue and whether the disconnection required a physical visit at the meter. Same-day restoration is common when you pay early in the day; the step-by-step section shows what to confirm when you pay so nothing stalls your reconnection.
+
+{{< /faq >}}
 
 ## Sources
 

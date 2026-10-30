@@ -3,7 +3,7 @@ title: "Lower Your Utility Bills: The Ranked List of What Actually Saves"
 slug: "05-how-to-lower-utility-bills"
 description: "What actually lowers bills? A ranked list of the top fixes across electricity, gas, water, and weatherization — with typical cost, savings, and payback."
 date: 2026-03-07
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -108,6 +108,27 @@ Before authorizing a purchase, confirm current local or utility-program terms di
 After an improvement, compare the same fields over an appropriate period: service dates, billing days, usage, meter/read status, rate plan, charges, and credits. A lower or higher dollar total alone does not prove the effect of an action if the tariff or billing period changed.
 
 This ranked list is part of the [Lower Your Bills hub](/lower-your-bills/). The measurement tools behind steps like metering an appliance are compared in [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/).
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "Where do I start lowering my utility bills?">}}
+
+Establish a baseline first: pull 12 months of bills for each utility so you know your usage pattern before changing anything. Every later decision — assessment, upgrade, or program — gets compared against that baseline, which is also how you verify the savings actually arrived.
+
+{{< /faq >}}
+
+{{< faq "Should I get a professional energy assessment?">}}
+
+Before any major work, yes — it identifies the actual problem instead of the symptom, and many utilities offer free or discounted versions. Prioritize what the assessment finds by cost, savings, and payback rather than by what a contractor quotes first.
+
+{{< /faq >}}
+
+{{< faq "How do I know the improvements actually worked?">}}
+
+Review the results with bill data after the change: compare usage (kWh, therms, CCF) for the same months year over year — not the dollar total, which rates can move on their own.
+
+{{< /faq >}}
 
 ## Sources
 

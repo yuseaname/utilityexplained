@@ -3,7 +3,7 @@ title: "Flume vs Moen Flo vs Phyn: Smart Water Monitors Compared Honestly"
 slug: "flume-vs-moen-flo-vs-phyn-water-monitors"
 description: "Flume 2 vs Moen Flo vs Phyn Plus: three ways to watch your water. Differences in install, shutoff, subscriptions, and what happens when you're away."
 date: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Affordability & Assistance Desk"
 category: "Water"
 categories: ["Water"]
@@ -101,6 +101,27 @@ For the diagnostic side of water bills — is a leak even your problem? — star
 - **Owners whose question is "where does my water go / do I have a leak":** Flume 2 — least money, no plumber, answer in two weeks.
 - **Owners who travel, own a finished basement, or freeze-risk pipes:** Flo or Phyn — the auto-shutoff is the product; pick on installed price and plumber preference.
 - **Everyone:** confirm compatibility (meter model for Flume; pipe size 3/4"–1" for the inline units) *before* purchase day.
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "Which is better: Flume 2, Moen Flo, or Phyn?">}}
+
+They solve different failure modes: Flume watches usage from your existing meter (DIY install, catches slow leaks and running toilets), while Flo and Phyn install on the main line and can shut water off automatically — that's catastrophic-leak protection, at a higher price and professional install. The decision rules section maps each to the risk you're actually insuring against.
+
+{{< /faq >}}
+
+{{< faq "Will a water monitor lower my water bill?">}}
+
+Only if it finds something — a running toilet or slow leak it flags is bill savings the day you fix it. As pure payback on an already-tight system, the money-math section is deliberately conservative: buy it for protection and awareness, not guaranteed savings.
+
+{{< /faq >}}
+
+{{< faq "Do I need a plumber?">}}
+
+Flume 2: no — it straps onto the meter you already have. Flo and Phyn: yes — both cut into the main line, so installation is professional by design.
+
+{{< /faq >}}
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "CCF Calculator: Water Bill Units to Gallons + Dollars"
 slug: "ccf-calculator"
 description: "Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's gallons-per-person-day baseline."
 date: 2026-08-28
-updated: 2026-08-28
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
@@ -107,6 +107,27 @@ Tiered rates make the cost line bend: if your utility charges more per CCF past 
 ## Catch the Leak Before It Bills
 
 Usage-based math only sees a leak after the meter has run. If your baseline keeps climbing with no explanation, a whole-home monitor watches the flow continuously and can close the valve on its own — {{< amazon asin="B00C03D01Q" text="see the Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} (monitors flow, pressure, and temperature; detects drops-per-minute leaks; Moen 900-001 spec). For a lower-cost first step, [check your water meter's leak indicator](/blog/water-meter-leak-indicator-explained/).
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "How many gallons is one CCF?">}}
+
+One CCF — hundred cubic feet — is 748 gallons. Your meter records cubic feet; the bill groups them into CCF, which is why the number on the statement looks small next to the gallons you actually used.
+
+{{< /faq >}}
+
+{{< faq "How much water does a person use per month?">}}
+
+A typical household runs about 2–4 CCF (roughly 1,500–3,000 gallons) per person per month. The per-person baseline matters more than any national average because household size, not geography, is the biggest driver of your number.
+
+{{< /faq >}}
+
+{{< faq "My CCF jumped — what should I check first?">}}
+
+Toilets first: a running flapper wastes water continuously without any visible sign, and it lands on your bill as pure CCF. The catch-the-leak section walks the meter check that confirms it in ten minutes.
+
+{{< /faq >}}
 
 ## Sources
 

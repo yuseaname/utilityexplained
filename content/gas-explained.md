@@ -142,3 +142,12 @@ The customer charge covers the fixed costs of maintaining service, such as meter
 <ul>
 <li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
 </ul>
+
+### Average Gas Bills by State
+<ul>
+<li><a href="/blog/average-utility-bills-in-texas/">Average Utility Bills in Texas (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-florida/">Average Utility Bills in Florida (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-california/">Average Utility Bills in California (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-new-york/">Average Utility Bills in New York (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-pennsylvania/">Average Utility Bills in Pennsylvania (2026)</a></li>
+</ul>

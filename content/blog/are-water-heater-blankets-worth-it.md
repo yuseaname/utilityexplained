@@ -3,7 +3,7 @@ title: "Are Water Heater Blankets Worth It? The Honest Math"
 slug: "are-water-heater-blankets-worth-it"
 description: "Are water heater blankets worth it? Marginal on a modern tank, worthwhile on an older one — the honest math on standby loss and when the $33 pays off."
 date: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Savings & Efficiency"
 categories: ["Savings & Efficiency"]
@@ -117,6 +117,27 @@ The honest note: the blanket and the setpoint act on the same standby loss, so t
 - **Not sure?** → the touch test is the honest shortcut: if the tank feels warm, it's losing heat; if it feels room-temperature, the blanket has little to grab.
 
 And the standing rule: **insulation is a multiplier, not a substitute.** A blanket on a tank set to 140°F saves less than a tank set to 120°F with no blanket — the setpoint is free and immediate. Do that first, then wrap the tank that still feels warm. And if your bill is high for reasons beyond the tank, [the complete electric-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) and [the gas-bill guide](/blog/07-gas-bill-too-high/) are where the rest of the savings live.
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "Are water heater blankets worth it?">}}
+
+For old, uninsulated tanks in cold spaces — yes, modestly: standby loss is the mechanism, and the math section shows the honest per-month figure. New tanks ship with foam insulation that a blanket barely improves, so check the age and the R-value label first.
+
+{{< /faq >}}
+
+{{< faq "Which tanks actually need a blanket?">}}
+
+The three cases this guide flags: older electric tanks, tanks in unconditioned spaces like garages, and any tank whose manual doesn't forbid one. Gas tanks need clearance-safe versions — the manual rules.
+
+{{< /faq >}}
+
+{{< faq "Is a blanket better than lowering the thermostat to 120°F?">}}
+
+No — setpoint first, always: it's free and saves more than any insulation add-on. The head-to-head section ranks blanket against the alternatives (setpoint, timer, heat-pump upgrade) so you spend in the right order.
+
+{{< /faq >}}
 
 ## Sources
 

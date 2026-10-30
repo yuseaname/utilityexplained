@@ -3,7 +3,7 @@ title: "Phantom Power Draw: How to Find and Reduce Standby Use"
 slug: "phantom-power-draw-explained"
 description: "Phantom power draw explained: what standby power is, how it is measured, and how to cut avoidable plug-load energy use that quietly raises your bill."
 date: 2026-08-10
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -120,6 +120,27 @@ For a broader household review, see [how to lower utility bills](/blog/05-how-to
 Phantom load is one line of the full savings workflow — see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
 To measure the loads in this article: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) covers the plug-in meter class, and [which smart plugs measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/) the automated one.
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "What is phantom power, and how much does it cost?">}}
+
+It's the standby draw of devices that stay plugged in — the always-on clocks, adapters, and electronics waiting for a signal. The total-home math section works the numbers honestly: it's a real line on your bill, but a modest one, and worth fixing with schedules rather than anxiety.
+
+{{< /faq >}}
+
+{{< faq "How do I measure standby power in my home?">}}
+
+A plug-in watt meter on each suspect outlet shows the idle draw directly — measure before buying anything, because device classes vary far more than marketing suggests. The measuring section gives the per-class numbers to expect.
+
+{{< /faq >}}
+
+{{< faq "Do smart plugs stop phantom loads?">}}
+
+They cut power to whatever's on them — which kills that outlet's standby draw completely, on a schedule or away-mode. They don't help wired-in loads (the big ones: water heater, HVAC), so pair them with the measurement step to aim them at real offenders.
+
+{{< /faq >}}
 
 ## Sources
 

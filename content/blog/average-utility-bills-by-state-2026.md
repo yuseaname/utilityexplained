@@ -308,6 +308,8 @@ Here is the national breakdown for the **narrow basket**:
 
 ## Related Reading
 
+- [Average utility bills in Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/) — EIA-verified state detail pages with the numbers above broken out per state.
+
 - [What the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/) — every line item above the table figures, explained.
 - [How to read your utility bill, line by line](/blog/how-to-read-your-utility-bill/) — decode your own statement against these averages.
 - [Which electricity rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) — what to do when rates vary by provider.

@@ -123,6 +123,31 @@
     </div>
   </section>
 
+  <!-- P2 2026-10-30: state averages + calculator entry (email capture stays disabled pending a real list endpoint) -->
+  <section class="mb-12" aria-label="Your state and tools">
+    <div class="section-heading">
+      <h2>Your State &amp; Tools</h2>
+      <a href="{{ "/blog/average-utility-bills-by-state-2026/" | relURL }}" class="section-heading-link">All states →</a>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div class="topic-tile" style="cursor:default">
+        <div class="topic-tile-icon"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg></div>
+        <div class="topic-tile-body">
+          <div class="topic-tile-title">Average Bills by State</div>
+          <div class="topic-tile-count" style="margin-top:.35rem">
+            {{ range $s := slice "texas" "florida" "california" "new-york" "pennsylvania" }}
+              <a href="{{ printf "/blog/average-utility-bills-in-%s/" $s | relURL }}" style="display:inline-block;margin:0 .35rem .25rem 0" class="badge badge-neutral">{{ humanize $s }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <a href="{{ "/calculators/electricity-cost/" | relURL }}" class="topic-tile">
+        <div class="topic-tile-icon"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 7h6m-6 4h6m-6 4h3m-5 6h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg></div>
+        <div class="topic-tile-body"><div class="topic-tile-title">Electricity Cost Calculator</div><div class="topic-tile-count">Appliance watts × hours × your rate</div></div>
+      </a>
+    </div>
+  </section>
+
   {{/* Essential Guides — curated high-intent starters */}}
   {{ $essential := slice "/blog/how-to-read-your-utility-bill/" "/blog/03-why-is-my-electric-bill-so-high/" "/blog/what-is-a-kilowatt-hour/" "/blog/electric-bill-breakdown-understanding-line-items/" "/blog/05-how-to-lower-utility-bills/" "/blog/average-utility-bills-by-state-2026/" }}
   {{ $essentialPages := slice }}

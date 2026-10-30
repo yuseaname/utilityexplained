@@ -3,7 +3,7 @@ title: "How to Lower Your Electric Bill: The Complete Guide (2026)"
 slug: "how-to-lower-electric-bill-complete-guide"
 description: "How to lower your electric bill: 17 proven steps organized by cost, with estimated dollar savings and payback periods for each upgrade. The 2026 guide."
 date: 2026-08-10
-lastmod: 2026-10-05
+lastmod: 2026-10-30
 updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Savings & Efficiency"
@@ -276,3 +276,23 @@ Air leaks through the building envelope waste 10–20% of heating and cooling en
 **Where to seal:**
 - Windows (caulk gaps, add weatherstrip)
 - Doors (weatherstrip, d
+
+## Frequently asked questions {#faq}
+
+{{< faq "How much can I realistically lower my electric bill?">}}
+
+The honest whole-home outcome from executing this guide's steps is 20–40% ($33–$66/month on the national-average bill) — not the sum of each section's own percentage, because categories overlap: the same kWh can only be saved once, and every home starts from a different mix.
+
+{{< /faq >}}
+
+{{< faq "What is the first thing to do before spending any money?">}}
+
+Measure first: a plug-in meter on your biggest suspects tells you where the kWh actually go, and the free utility energy audit is the call to make before spending a dollar. The guide's ranked list starts with free changes (10–25%), then under-$50 fixes (15–30%), then the big-ticket items.
+
+{{< /faq >}}
+
+{{< faq "Do smart thermostats actually save money?">}}
+
+They automate setbacks — roughly 1% of heating/cooling cost per °F for an 8-hour setback, up to 10%/year for a 7–10°F schedule per DOE guidance. The savings come from the schedule, so a thermostat only pays if your household won't maintain one manually.
+
+{{< /faq >}}

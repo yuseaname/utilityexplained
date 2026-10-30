@@ -170,3 +170,12 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 <li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs to Eliminate Standby Power</a></li>
 <li><a href="/blog/phantom-power-draw-explained/">Phantom Power Draw Explained (Silent Electricity Thieves)</a></li>
 </ul>
+
+### Average Electric Bills by State
+<ul>
+<li><a href="/blog/average-utility-bills-in-texas/">Average Utility Bills in Texas (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-florida/">Average Utility Bills in Florida (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-california/">Average Utility Bills in California (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-new-york/">Average Utility Bills in New York (2026)</a></li>
+<li><a href="/blog/average-utility-bills-in-pennsylvania/">Average Utility Bills in Pennsylvania (2026)</a></li>
+</ul>

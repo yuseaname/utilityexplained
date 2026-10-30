@@ -3,7 +3,7 @@ title: "What Time Is Electricity Cheapest? (By Rate Plan)"
 slug: "46-what-time-is-electricity-cheapest"
 description: "What time is electricity cheapest? Find cheapest hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
 date: 2026-08-28
-updated: 2026-08-30
+updated: 2026-10-30
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -71,6 +71,27 @@ Do not assume the hours in the table above apply to you. Check your utility’s 
 - Whether the rate structure is flat, tiered, or includes demand charges alongside the TOU component.
 
 Your utility’s rate-plan hub has links to each utility’s tariff. If you are shopping for a new plan, [Power to Choose](https://www.powertochoose.org) (Texas) or your state’s disclosure page will list the TOU windows for each offer.
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "What time of day is electricity cheapest?">}}
+
+It depends entirely on your rate plan: on time-of-use rates, off-peak windows (typically late evening to early morning, plus some midday hours in solar-heavy regions) run cheapest. The real 2026 examples table shows the windows by plan type — your utility's tariff names your exact hours.
+
+{{< /faq >}}
+
+{{< faq "Does it matter if I'm not on a time-of-use plan?">}}
+
+Not for price — on a flat rate every kWh costs the same around the clock. Shifting usage only pays when the plan prices by hour, which is why the first step is checking which plan you're actually on.
+
+{{< /faq >}}
+
+{{< faq "Which appliances are worth shifting to off-peak?">}}
+
+The big, flexible loads: dishwasher, laundry (both cycles), EV charging, and water heating if you have a timer or a schedulable heat-pump unit. The off-peak habit checklist sequences them so you're not rewiring your life for pennies.
+
+{{< /faq >}}
 
 ## Sources
 

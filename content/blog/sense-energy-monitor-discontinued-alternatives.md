@@ -3,7 +3,7 @@ title: "Sense Is Discontinued: What Owners Should Do and What to Buy Instead"
 slug: "sense-energy-monitor-discontinued-alternatives"
 description: "Sense stopped selling its home energy monitor on Dec 31, 2025. What still works for owners, and the alternatives — from free utility data to Emporia Vue 3."
 date: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-30
 author: "Home Energy Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -98,6 +98,27 @@ One genuine improvement for former Sense buyers: the free tier got better. Sense
 ## The Bottom Line
 
 Owners: keep your Sense, export your data occasionally, and watch for your utility's Sense-powered meter. Buyers: skip resale markups, check your utility's portal first, meter your two or three suspect devices with a metering plug, and buy the Vue 3 if you want the whole-panel view. And before spending anything, make sure usage is actually your problem — [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) rules out the billing errors, estimated reads, and rate changes that no monitor can fix.
+
+
+## Frequently asked questions {#faq}
+
+{{< faq "Sense went away — is my monitor now useless?">}}
+
+No. Existing units keep working for now; keep it, with two caveats this guide details — app/cloud dependence is the real risk if support winds down, so export your data and watch for shutdown announcements before relying on it long-term.
+
+{{< /faq >}}
+
+{{< faq "What replaces Sense for whole-home monitoring?">}}
+
+The Emporia Vue 3 line is the practical successor — same panel-install concept, per-circuit clamps, and an active manufacturer. The alternatives-by-budget section matches options to what you actually need, from outlet-level monitoring up.
+
+{{< /faq >}}
+
+{{< faq "Does the switch change the savings math?">}}
+
+Not materially: the monitor was never the saving — it's the diagnostic. The money math section shows the same rule holds whichever device you use: find the loads, fix the loads.
+
+{{< /faq >}}
 
 ## Sources
 
