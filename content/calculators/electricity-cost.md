@@ -29,6 +29,8 @@ sources:
   <div id="calc-out" class="calc-out" aria-live="polite"></div>
 </div>
 
+The solar side of the same math: a [solar payback calculator](https://solarpoweredproject.com/pages/solar-payback-calculator.html) uses the rate you just entered to estimate how long a rooftop system takes to pay for itself.
+
 <script>
 (function(){
   var W = document.getElementById('calc-watts'), H = document.getElementById('calc-hours'),

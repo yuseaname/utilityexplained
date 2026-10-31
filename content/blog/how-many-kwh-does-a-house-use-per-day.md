@@ -88,6 +88,8 @@ Two habits make that number meaningful. First, compare the same season year over
 
 If your daily average is far above 30 kWh, work down the levers above in order of size: conditioning first (that 52% share), then water heating, then everything else. Our [complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) covers where each usage figure lives on the page.
 
+That daily kWh number has one more use: it is the first input of a [solar system sizing worksheet](https://solarpoweredproject.com/pages/solar-system-sizing.html) if generating your own power is ever on the table.
+
 ## How to Lower a High Daily Average
 
 - **Treat heating and cooling as the main lever.** They are the majority of household energy use. [2] Thermostat discipline, filter changes, and sealing drafts do more than any gadget — see [checking your home for energy leaks](/blog/47-check-energy-leaks-home-diy/).

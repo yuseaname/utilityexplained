@@ -95,6 +95,8 @@ The only equation in the article, done for you at the June 2026 national average
 
 (Computed at {{< stat "electric_rate_jun2026" >}}; substitute your own utility's per-kWh rate for exactness — rates vary widely by state.)
 
+And if the question behind the question is keeping that fridge running through an outage or off-grid, [what size solar generator runs a refrigerator](https://solarpoweredproject.com/pages/what-size-solar-generator-run-refrigerator.html) starts from exactly this measured number.
+
 Two reading notes. First, even the thirstiest rows land in the tens of dollars a month: a fridge is almost never why a bill triples — if your bill is the mystery, start with [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) rather than in the kitchen. Second, against the $164.88 average bill ({{< stat "avg_monthly_kwh" >}} × {{< stat "electric_rate_jun2026" >}}),[1][2] a measured fridge is real money — roughly $5.50 to $11 a month — but a bounded share of the whole.
 
 ## If Your Number Comes Back High

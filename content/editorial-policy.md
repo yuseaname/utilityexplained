@@ -16,6 +16,9 @@ This page explains how Utility Explained creates and maintains its content. Our 
 
 Plain-English explainers on electricity, gas, and water bills — how to read them, why they change, what every charge means, and how to lower them. We focus on the **informational and problem-solving** questions bill-payers actually have.
 
+
+Utility Explained has a companion site, [SolarPoweredProject](https://solarpoweredproject.com/), which covers off-grid and solar power; both are published by the same small independent publisher.
+
 ## What we don't do
 
 - We do **not** provide financial, legal, or professional advice. Content is for educational purposes (see our [disclaimer](/disclaimer/)).

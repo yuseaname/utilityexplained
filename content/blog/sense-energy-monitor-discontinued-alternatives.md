@@ -101,6 +101,8 @@ One genuine improvement for former Sense buyers: the free tier got better. Sense
 
 Owners: keep your Sense, export your data occasionally, and watch for your utility's Sense-powered meter. Buyers: skip resale markups, check your utility's portal first, meter your two or three suspect devices with a metering plug, and buy the Vue 3 if you want the whole-panel view. And before spending anything, make sure usage is actually your problem — [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) rules out the billing errors, estimated reads, and rate changes that no monitor can fix.
 
+Either way, the usage history you build has a second life: it is the starting input for [calculating a solar load](https://solarpoweredproject.com/pages/how-to-calculate-solar-load.html) if the Sense exit has you thinking about self-sufficiency.
+
 
 ## Frequently asked questions {#faq}
 

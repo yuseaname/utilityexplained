@@ -70,6 +70,8 @@ The same kWh can cost differently by rate design — confirm what you're on:
 
 If consumption and rate design are handled and the bill is still high, evaluate solar next. DOE's Energy Savings Hub notes Home Energy Rebates may be available for appliances and efficiency improvements, run by states, territories, and Tribes — confirm eligibility and documentation rules before signing anything.[10]
 
+Before that conversation, it helps to know [how many solar panels a house actually needs](https://solarpoweredproject.com/pages/how-many-solar-panels-to-power-a-house.html) — the math starts from the same usage numbers you just verified.
+
 ## Verify the Result
 
 Compare full bills in the same season — billing days, kWh, rate plan, credits — not just dollar totals; a valid before/after holds rate changes and weather constant, or it proves nothing.

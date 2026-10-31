@@ -97,6 +97,8 @@ Not every improvement fits every home — the table below shows typical ranges b
 
 *Costs are national estimates for a typical single-family home. Monthly savings vary by local rates, climate, and home size. All figures are estimates; label ranges where applicable. See sources for methodology.*
 
+
+The biggest structural lever sits outside this table: generating power where it is used. Before considering it, run your numbers through a [solar payback calculator](https://solarpoweredproject.com/pages/solar-payback-calculator.html) — same payback discipline as the rows above, different scale.
 ## Compare Complete Proposals and Program Terms
 
 For equipment or building work, request a written scope that identifies the condition addressed, model/capacity, installation work, permits, commissioning, maintenance, warranty, and exclusions. Compare the complete proposal against the actual tariff and bills—not an advertised energy-only price or estimated national payback.

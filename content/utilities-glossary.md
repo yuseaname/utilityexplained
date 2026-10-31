@@ -20,6 +20,8 @@ url: "/utilities-glossary"
   </nav>
 </div>
 
+
+For the panel-and-battery side of the vocabulary — charge controllers, peak sun hours, amp-hours — see the companion [solar glossary](https://solarpoweredproject.com/pages/solar-glossary.html).
 <h2>Electricity Terms</h2>
 
 ### AFUE (Annual Fuel Utilization Efficiency) {#afue}

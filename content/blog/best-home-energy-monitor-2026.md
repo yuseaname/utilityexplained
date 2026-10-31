@@ -109,6 +109,8 @@ For scale on what's at stake: the average U.S. household buys about {{< stat "av
 
 The 2026 best home energy monitor is a sequence: utility data for free, a $20–30 metering plug for the devices you actually suspect, and the Emporia Vue 3 if you own your home and want the whole panel instrumented. Between tiers, certainty goes up with proximity — the plug knows its one device exactly; the panel knows its circuits honestly; the utility bill knows the total truth. Buy the level that answers the question you actually have, and let measured numbers — not marketing — decide whether the next tier is worth it.
 
+If the data eventually points toward producing your own power, that usage history is the first input for [sizing a solar system](https://solarpoweredproject.com/pages/solar-system-sizing.html).
+
 {{< faq "Are home energy monitors worth it in 2026?" >}}
 **Only if someone will act on the data.** A monitor finds which circuits or devices drive your bill; saving money still requires changing a schedule, setpoint, or habit. If your bill problem is a rate plan, an estimated read, or a billing error — which a free 15-minute check can rule out — no monitor fixes it. For one suspect device, a $20–30 metering plug usually answers the question; whole-home circuit monitoring (~$100–200, panel install) pays off when you want to see everything at once and will use it.
 {{< /faq >}}

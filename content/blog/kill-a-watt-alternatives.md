@@ -103,6 +103,8 @@ Whatever tool you pick, the arithmetic is the same. The June 2026 national avera
 
 One measurement beats any generic table, because nameplate watts and real duty cycles differ — [how many watts does a refrigerator use](/blog/how-many-watts-does-refrigerator-use/) exists because that question has honest ranges, not one answer.
 
+Those same measurements are also the raw material for a bigger project: [how to calculate a solar load](https://solarpoweredproject.com/pages/how-to-calculate-solar-load.html) turns an appliance-by-appliance audit into a whole-system size.
+
 ## Which One Should You Actually Buy?
 
 - **One suspect appliance, one-time question** → Kill A Watt P4400 (or P4456 Flex if the P4400 listing is dry). ~$25–40 once.

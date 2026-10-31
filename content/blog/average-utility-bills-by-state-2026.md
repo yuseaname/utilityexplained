@@ -306,6 +306,8 @@ Here is the national breakdown for the **narrow basket**:
           </ul>
           <p>And if you’re already a homeowner: small upgrades (LED lighting, programmable thermostats, water-efficient fixtures) often pay for themselves in under two years—even in high-cost states.</p>
 
+
+For readers planning beyond the bill — a rooftop decision, a cross-state move — a [solar payback calculator](https://solarpoweredproject.com/pages/solar-payback-calculator.html) turns your state's rate from this page into a break-even estimate.
 ## Related Reading
 
 - [Average utility bills in Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/) — EIA-verified state detail pages with the numbers above broken out per state.

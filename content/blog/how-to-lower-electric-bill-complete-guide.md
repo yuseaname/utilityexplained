@@ -277,6 +277,8 @@ Air leaks through the building envelope waste 10–20% of heating and cooling en
 - Windows (caulk gaps, add weatherstrip)
 - Doors (weatherstrip, d
 
+
+If you have worked the steps above and the bill still runs high, the remaining lever is generating power on-site: a [solar payback calculator](https://solarpoweredproject.com/pages/solar-payback-calculator.html) turns your own usage, rate, and state into a break-even estimate before you talk to an installer.
 ## Frequently asked questions {#faq}
 
 {{< faq "How much can I realistically lower my electric bill?">}}

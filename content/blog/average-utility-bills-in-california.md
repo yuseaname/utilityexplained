@@ -64,6 +64,8 @@ Measure before spending on anything:
 
 To turn your own numbers into a dollar figure, the [electricity cost calculator](/calculators/electricity-cost/) does the watts × hours × rate math with your rate pre-filled or your own. For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
+And if the bill math keeps pointing upward, [what solar actually costs in California](https://solarpoweredproject.com/guides/solar-panel-cost-california.html) is the companion decision page.
+
 {{< faq "What is the average electric bill in California?">}}
 
 At the EIA-standardized 899 kWh month, California's 29.75¢/kWh residential rate puts electricity at about $267/month. Your actual bill follows your usage — a wide spread between mild coastal and extreme inland climate zones pushes many california households well past the standard. [How many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) shows the real spread.

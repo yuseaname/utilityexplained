@@ -90,6 +90,8 @@ Verified class anchors: portables span roughly **2,500–8,500 W** (a ~2,000 W i
 - **Electronics-heavy essentials (CPAP, router, laptop):** an inverter-class portable produces cleaner power (≤3% THD) than a conventional model.[13]
 - Related reading: if the underlying issue is a [furnace blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/) or an outage-driven [sudden spike in your electric bill](/blog/30-sudden-spike-in-electricity-bill-no-usage/), fix the diagnosis before buying backup for it.
 
+A third path sits between the two: [solar battery backup vs. generator](https://solarpoweredproject.com/pages/solar-battery-backup-vs-generator.html) works the cost math on the battery option, including the cases where the generator still wins.
+
 ## Compare Written Scopes, Not Generic Cost Tables
 
 Request written proposals that state:

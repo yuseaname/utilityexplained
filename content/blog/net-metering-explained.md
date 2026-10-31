@@ -29,6 +29,8 @@ DOE describes net metering as electricity flowing both to and from a customer, t
 
 The bill then applies the utility's own rules to imports, exports, credits, fixed charges, taxes, and any minimum bill. A bill may show some combination of imported kWh, exported kWh, generation, usage, credits, and a remaining balance, but labels vary by utility.
 
+For the system side of the same arrangement — sizing, the bi-directional meter, what it does to payback — [solar net metering explained](https://solarpoweredproject.com/pages/solar-net-metering-explained.html) covers it from the rooftop side.
+
 ## What to Check Before You Sign or Install
 
 1. **Eligibility:** Does the utility offer an export-credit or net-metering arrangement for your system type and location?
@@ -71,6 +73,8 @@ California shows how far export compensation can move. Under the state's older N
 In 2023, California moved most new customers to the Net Billing Tariff (often called “NEM 3.0”). Unlike NEM 2.0, the Net Billing Tariff does not credit exports at the retail rate. Instead, Southern California Edison (SCE) explains that export credits “reflect the electricity's value to the electric grid during each hour of the day,” with prices set from the CPUC Avoided Cost Calculator as of January 1 of the calculation year.[3]
 
 The practical result, as reported by secondary sources, is that average export credits now run roughly 5–8 cents per kWh—about 75% below NEM 2.0 levels. That figure is reported by industry commentators and is not a tariff-verified number; always check the current tariff for your own utility and interconnection vintage.[4]
+
+California is the aggressive end of the trend, not the rule — [net metering rules by state](https://solarpoweredproject.com/pages/net-metering-by-state-2026.html) map where full retail credit still applies and where exports pay wholesale-adjacent rates.
 
 One piece of structure does give California customers a degree of certainty: SCE confirms that Net Billing Tariff vintages 2023 through 2026 “have fixed prices for 9 years” from interconnection. After that period, export prices may reset.[3] That 9-year lock is the one planning certainty in the structure, though it does not fix imported-energy rates, fixed charges, or other bill items.
 

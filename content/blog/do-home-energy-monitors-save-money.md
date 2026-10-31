@@ -70,6 +70,8 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 
 **A monitor saves money in exactly one place: the moment the data changes a decision.** The screen isn't the product; the four moves below are. Each runs the same shape — what the data shows, then what you change. Mechanism only: your rates, your appliances, and your habits set the numbers.
 
+And if the decisions the data pushes are big ones — replacement, rate plan, eventually generation — the same numbers feed directly into [sizing a solar system](https://solarpoweredproject.com/pages/solar-system-sizing.html).
+
 1. **Shift the schedule the rate plan punishes.** The data shows the dryer and the dishwasher landing in the peak window every day, by nobody's choice. What you change: delayed-start cycles moved to off-peak hours — the arithmetic is in [how time-of-use electricity works](/blog/08-time-of-use-electricity/), and it only favors you if your plan actually prices peak windows.
 2. **Time the replacement you were postponing.** The data shows the old refrigerator's circuit drawing visibly more than it did a year ago. What you change: the calendar on a decision you were already circling — measured runtime against a new unit's spec sheet, weighed alongside the rebates cataloged at DOE's Energy Savings Hub.[5]
 3. **Kill the circuits that run for nobody.** The data shows an overnight floor that never reaches zero, and per-circuit history shows which breakers hold it up. What you change: switchable power strips and a lights-out habit for loads that genuinely belong off at night. The fence stays fixed: medical equipment, sump pumps, security cameras, and refrigeration are never on the kill list.

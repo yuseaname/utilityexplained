@@ -72,6 +72,8 @@ Two cheap instruments replace the most common guesses:
 
 If you are shopping the tool side, [our thermal camera comparison](/blog/best-thermal-camera-home-energy-audit/) sorts the ~$116 USB-C picks from the premium options — including one that sidesteps the Lightning caveat above.
 
+Your audit list has a second life too: the appliance-by-appliance numbers are exactly what a [solar load calculation](https://solarpoweredproject.com/pages/how-to-calculate-solar-load.html) starts from.
+
 ## When to Level Up to a Professional
 
 DOE describes the professional assessment as the thorough version: a **blower-door test** (a variable-speed fan depressurizes the house to quantify and locate leakage), **duct-leakage testing** for forced-air systems, and combustion-safety checks.[6] Commonly quoted costs—marketplace figures, not official ones: **$200–$500** for a standalone blower-door test, **$200–$700** for a full professional audit (which usually *includes* a blower-door pass at its upper end), with some utilities offering them free or discounted.
