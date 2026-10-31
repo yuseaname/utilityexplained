@@ -121,6 +121,8 @@ If you can shift most usage to off-peak hours, a time-of-use plan can save money
 ## Browse Our Electricity Guides {#electricity-guides}
 
 <p>For the cross-utility savings program — electric, gas, and water together, ranked by payback — see the <a href="/lower-your-bills/">Lower Your Bills hub</a>.</p>
+
+Producing your own power is the step beyond efficiency: [solar basics](https://solarpoweredproject.com/pages/solar-basics.html) on our companion site is the plain-English starting point.
 <p>Explore our complete library of electricity bill guides, organized by topic:</p>
 
 ### Understanding Your Bill

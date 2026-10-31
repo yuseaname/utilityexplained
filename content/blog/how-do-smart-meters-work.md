@@ -54,6 +54,8 @@ sources:
             </p>
 
 
+One special case runs the meter in both directions: homes with rooftop solar use a bi-directional meter that also counts exports — [how the bi-directional meter works in net metering](https://solarpoweredproject.com/pages/solar-net-metering-explained.html) explains the credit side.
+
 ## How smart meters measure and transmit usage {#how-they-measure}
 
 <p>

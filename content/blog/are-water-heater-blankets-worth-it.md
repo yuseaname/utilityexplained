@@ -118,6 +118,8 @@ The honest note: the blanket and the setpoint act on the same standby loss, so t
 
 And the standing rule: **insulation is a multiplier, not a substitute.** A blanket on a tank set to 140°F saves less than a tank set to 120°F with no blanket — the setpoint is free and immediate. Do that first, then wrap the tank that still feels warm. And if your bill is high for reasons beyond the tank, [the complete electric-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) and [the gas-bill guide](/blog/07-gas-bill-too-high/) are where the rest of the savings live.
 
+The structural version of the same fix — heating water with the roof instead of the meter — is covered in [solar water heater basics](https://solarpoweredproject.com/pages/solar-water-heater.html).
+
 
 ## Frequently asked questions {#faq}
 

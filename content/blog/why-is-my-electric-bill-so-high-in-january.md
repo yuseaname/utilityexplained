@@ -76,6 +76,8 @@ And if the problem is paying the bill rather than the usage: LIHEAP — the Low 
 
 The season-level picture — what every fuel is forecast to cost this winter, by region — is in the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
 
+And if you have rooftop solar, January adds one more multiplier from the other direction: production bottoms out exactly when this stack peaks — [peak sun hours by state](https://solarpoweredproject.com/pages/peak-sun-hours-by-state.html) shows the winter numbers behind that.
+
 ## FAQs
 
 {{< faq "Is a higher January bill normal even if nothing changed?" >}}

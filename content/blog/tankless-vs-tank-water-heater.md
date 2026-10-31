@@ -125,6 +125,8 @@ That's the honest summary of the whole article: **the tankless wins big only in 
 
 And the standing rule: **the appliance is the last line item, not the first.** A tankless unit saves $120–170/year only if your usage pattern matches the DOE's low-usage profile — and no unit saves anything if the bill's real driver is a rate change, a leak, or a thermostat set to 140°F. Measure the bill first, then size the appliance to the house you actually have.
 
+There is also a third fuel to weigh before replacing anything: [solar water heaters](https://solarpoweredproject.com/pages/solar-water-heater.html) heat the same tank with the roof instead of the meter.
+
 ## Frequently asked questions {#faq}
 
 {{< faq "Is a tankless water heater worth it?">}}

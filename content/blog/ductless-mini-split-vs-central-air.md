@@ -96,6 +96,8 @@ One programmatic pattern worth knowing before you choose: **many utility program
 - **Rentals and unevenly used homes:** per-room zoning with programmable schedules matches use to occupancy.[9]
 - **Cold climates, heating as the goal:** a mini-split as *primary* heat is defensible only with cold-climate-listed equipment—ENERGY STAR's cold-climate tier requires COP ≥ 1.75 and at least 70% of heating capacity at 5°F; the NEEP cold-climate product list makes those numbers comparable across brands.[5][6] A cooling-only comparison is the wrong frame in heating states.
 
+Curious what a mini-split draw means for a shed, cabin, or off-grid budget? [Mini-split watts off-grid: the battery math](https://solarpoweredproject.com/pages/mini-split-watts-off-grid.html) measures real draw and sizes the bank behind it.
+
 ## Maintenance and Honest Downsides
 
 Ductless ownership has real, recurring requirements:

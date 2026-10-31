@@ -82,6 +82,8 @@ No link, no box — here's why. The Basement Watchdog Big Dog CONNECT is arguabl
 | **Works during power outage** | Yes | Yes | Yes (if started) |
 | **Best for** | Most homes; finished basements | Homes on city water with long outages | Homes that already own a generator |
 
+Two related reads for the outage-curious: [solar battery backup vs. generator](https://solarpoweredproject.com/pages/solar-battery-backup-vs-generator.html) scales the same battery-vs-fuel question to whole-house backup, and the [grid-down planning guide](https://solarpoweredproject.com/grid-down.html) covers what a long outage actually demands.
+
 ## The Math: Total Cost of Ownership Over 5 Years
 
 Assumptions: ESP25n at ~$350, one deep-cycle 75 Ah battery at ~$150 replaced every 4 years (midpoint of the 3–5 year rule), no major repairs.
