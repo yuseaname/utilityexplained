@@ -9,6 +9,9 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["average utility bill", "texas utilities", "electric rates", "gas rates"]
 keywords: ["average utility bill in texas", "average electric bill texas", "average gas bill texas", "texas electric rates 2026"]
+image: "/images/articles/average-utility-bills-in-texas/average-utility-bills-in-texas_hero.webp"
+image_alt: "Flat illustration of the Texas state silhouette with electricity, natural gas, and water icons — the three utility bills averaged in this 2026 guide."
+hero_below_answer: true
 sources:
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-10-30)
   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-10-30)
@@ -40,11 +43,15 @@ sources:
 | Standardized gas month (75 therms) | **$140** | ~$144 |
 | Water + sewer | city-priced — no state average | ~$70–$90 combined |
 
+{{< visual src="/images/articles/average-utility-bills-in-texas/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: Texas $143 versus the national average $164." wide="true" >}}
+
 ## Why Texas rates look like this {#why-texas-rates-look-like-this}
 
 Texas's electric rate sits below the 18.16¢/kWh national average — on the affordable side nationally. Market structure matters as much as the number: Texas runs a deregulated retail market across most of the state — the rate you pay depends on the plan you picked. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/which-rate-plan-is-right-for-me/).
 
-The EIA trend matters too: Texas's residential rate moved from 15.4¢/kWh (2025 final) to 15.91¢/kWh (2026 to date), a 3.3% increase. On the gas side, residential prices went from $17.98/Mcf in 2024 to $19.42/Mcf in 2025 — a 8% increase. And because the cost driver here is the long summer cooling season, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
+The EIA trend mat
+{{< visual src="/images/articles/average-utility-bills-in-texas/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: Texas $140 versus the national average $144." wide="true" >}}
+ters too: Texas's residential rate moved from 15.4¢/kWh (2025 final) to 15.91¢/kWh (2026 to date), a 3.3% increase. On the gas side, residential prices went from $17.98/Mcf in 2024 to $19.42/Mcf in 2025 — a 8% increase. And because the cost driver here is the long summer cooling season, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 
 ## Water and sewer in Texas {#water-and-sewer-in-texas}
 

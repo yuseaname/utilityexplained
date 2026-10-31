@@ -9,6 +9,9 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["average utility bill", "florida utilities", "electric rates", "gas rates"]
 keywords: ["average utility bill in florida", "average electric bill florida", "average gas bill florida", "florida electric rates 2026"]
+image: "/images/articles/average-utility-bills-in-florida/average-utility-bills-in-florida_hero.webp"
+image_alt: "Flat illustration of the Florida state silhouette with electricity, natural gas, and water icons — the three utility bills averaged in this 2026 guide."
+hero_below_answer: true
 sources:
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-10-30)
   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-10-30)
@@ -40,11 +43,15 @@ sources:
 | Standardized gas month (75 therms) | **$184** | ~$144 |
 | Water + sewer | city-priced — no state average | ~$70–$90 combined |
 
+{{< visual src="/images/articles/average-utility-bills-in-florida/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: Florida $135 versus the national average $164." wide="true" >}}
+
 ## Why Florida rates look like this {#why-florida-rates-look-like-this}
 
 Florida's electric rate sits below the 18.16¢/kWh national average — on the affordable side nationally. Market structure matters as much as the number: Florida runs regulated, single-utility territories — no retail supplier shopping. That means your rate is set through your utility and the state regulator — the levers that move your bill are usage and rate design (tiers, time-of-use), not supplier shopping. [Which rate plan fits your household](/blog/13-ac-short-cycling-causes-fixes/) sorts the options.
 
-The EIA trend matters too: Florida's residential rate moved from 15.33¢/kWh (2025 final) to 14.99¢/kWh (2026 to date), a 2.2% decrease. On the gas side, residential prices went from $25.37/Mcf in 2024 to $25.48/Mcf in 2025 — a 0% increase. And because the cost driver here is near-continuous air conditioning in a humid climate, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
+The EIA trend matters too: Flor
+{{< visual src="/images/articles/average-utility-bills-in-florida/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: Florida $184 versus the national average $144." wide="true" >}}
+ida's residential rate moved from 15.33¢/kWh (2025 final) to 14.99¢/kWh (2026 to date), a 2.2% decrease. On the gas side, residential prices went from $25.37/Mcf in 2024 to $25.48/Mcf in 2025 — a 0% increase. And because the cost driver here is near-continuous air conditioning in a humid climate, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 
 ## Water and sewer in Florida {#water-and-sewer-in-florida}
 

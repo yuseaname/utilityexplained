@@ -9,6 +9,9 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["average utility bill", "pennsylvania utilities", "electric rates", "gas rates"]
 keywords: ["average utility bill in pennsylvania", "average electric bill pennsylvania", "average gas bill pennsylvania", "pennsylvania electric rates 2026"]
+image: "/images/articles/average-utility-bills-in-pennsylvania/average-utility-bills-in-pennsylvania_hero.webp"
+image_alt: "Flat illustration of the Pennsylvania state silhouette with electricity, natural gas, and water icons — the three utility bills averaged in this 2026 guide."
+hero_below_answer: true
 sources:
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-10-30)
   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-10-30)
@@ -40,9 +43,13 @@ sources:
 | Standardized gas month (75 therms) | **$109** | ~$144 |
 | Water + sewer | city-priced — no state average | ~$70–$90 combined |
 
+{{< visual src="/images/articles/average-utility-bills-in-pennsylvania/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: Pennsylvania $196 versus the national average $164." wide="true" >}}
+
 ## Why Pennsylvania rates look like this {#why-pennsylvania-rates-look-like-this}
 
-Pennsylvania's electric rate sits above the 18.16¢/kWh national average — among the higher-rate states. Market structure matters as much as the number: Pennsylvania runs deregulated retail supply in the big utility territories — default supply price versus shopping. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/which-rate-plan-is-right-for-me/).
+Pennsylvania's electric rate sits above the 18.16¢/kWh national average — among the higher-rate states. Market structure matters as much as the number: Pennsylvania runs deregulated retail supply in the big utility territories — default supply price versus shopping. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/which-rate-plan-is-rig
+{{< visual src="/images/articles/average-utility-bills-in-pennsylvania/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: Pennsylvania $109 versus the national average $144." wide="true" >}}
+ht-for-me/).
 
 The EIA trend matters too: Pennsylvania's residential rate moved from 19.93¢/kWh (2025 final) to 21.77¢/kWh (2026 to date), a 9.2% increase. On the gas side, residential prices went from $13.62/Mcf in 2024 to $15.04/Mcf in 2025 — a 10% increase. And because the cost driver here is the winter heating season, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 

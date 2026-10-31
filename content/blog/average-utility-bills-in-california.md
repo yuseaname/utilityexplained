@@ -9,6 +9,9 @@ category: "Bills & Fees"
 categories: ["Bills & Fees"]
 tags: ["average utility bill", "california utilities", "electric rates", "gas rates"]
 keywords: ["average utility bill in california", "average electric bill california", "average gas bill california", "california electric rates 2026"]
+image: "/images/articles/average-utility-bills-in-california/average-utility-bills-in-california_hero.webp"
+image_alt: "Flat illustration of the California state silhouette with electricity, natural gas, and water icons — the three utility bills averaged in this 2026 guide."
+hero_below_answer: true
 sources:
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-10-30)
   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-10-30)
@@ -40,11 +43,15 @@ sources:
 | Standardized gas month (75 therms) | **$159** | ~$144 |
 | Water + sewer | city-priced — no state average | ~$70–$90 combined |
 
+{{< visual src="/images/articles/average-utility-bills-in-california/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: California $267 versus the national average $164." wide="true" >}}
+
 ## Why California rates look like this {#why-california-rates-look-like-this}
 
 California's electric rate sits above the 18.16¢/kWh national average — among the higher-rate states. Market structure matters as much as the number: California runs regulated, with tiered and time-of-use rate designs on the large investor-owned utilities. That means your rate is set through your utility and the state regulator — the levers that move your bill are usage and rate design (tiers, time-of-use), not supplier shopping. [Which rate plan fits your household](/blog/tiered-electricity-rates-explained/) sorts the options.
 
-The EIA trend matters too: California's residential rate moved from 30.92¢/kWh (2025 final) to 29.75¢/kWh (2026 to date), a 3.8% decrease. On the gas side, residential prices went from $19.14/Mcf in 2024 to $22.01/Mcf in 2025 — a 15% increase. And because the cost driver here is a wide spread between mild coastal and extreme inland climate zones, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
+The EIA trend matters too: Californi
+{{< visual src="/images/articles/average-utility-bills-in-california/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: California $159 versus the national average $144." wide="true" >}}
+a's residential rate moved from 30.92¢/kWh (2025 final) to 29.75¢/kWh (2026 to date), a 3.8% decrease. On the gas side, residential prices went from $19.14/Mcf in 2024 to $22.01/Mcf in 2025 — a 15% increase. And because the cost driver here is a wide spread between mild coastal and extreme inland climate zones, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 
 ## Water and sewer in California {#water-and-sewer-in-california}
 
