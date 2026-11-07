@@ -80,10 +80,12 @@ Get multiple quotes and ask for load calculations so the new system is properly 
 <p>
 Most systems run at a fixed speed. Setting the thermostat higher in winter does not make the furnace work harder — it just runs longer until it reaches the setpoint.
 </p>
+
 ### Misconception: Closing vents in unused rooms saves energy
 <p>
 Closing too many vents can raise pressure in the duct system and reduce efficiency. If you close vents, do so sparingly and monitor system performance.
 </p>
+
 ### Misconception: Heat pumps do not work in cold climates
 <p>
 Modern cold-climate heat pumps operate efficiently even in sub-zero temperatures. Efficiency drops in extreme cold, but they still provide heat without relying entirely on backup resistance heat.
@@ -102,18 +104,22 @@ Air filters remove dust and allergens. Replace them regularly to maintain airflo
 <p>
 For heating, 68 degF or lower during the day and 60 degF to 65 degF at night is a good starting point. For cooling, 76 degF to 78 degF is comfortable for most people and reduces runtime.
 </p>
+
 ### How often should I replace my HVAC filter?
 <p>
 Replace standard filters monthly during heavy use seasons. Check monthly and replace when visibly dirty or after 30 to 90 days depending on the type.
 </p>
+
 ### Is it worth upgrading to a high-efficiency system?
 <p>
 If your system is old and your heating or cooling costs are high, upgrading can lower energy use. The payback period depends on climate, fuel prices, and how long you plan to stay in the home.
 </p>
+
 ### Can a heat pump replace both my furnace and air conditioner?
 <p>
 Yes. Heat pumps provide both heating and cooling, which can simplify your HVAC system. In very cold climates, a backup heating source may be needed.
 </p>
+
 ### Why does my system run constantly but the house stays warm/cool?
 <p>
 This can indicate an undersized system, poor insulation, air leaks, or a thermostat issue. Schedule a professional inspection to diagnose the cause.

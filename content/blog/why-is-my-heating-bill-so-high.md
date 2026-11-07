@@ -19,6 +19,7 @@ sources:
 
 
 <p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
+
 ## Quick Answer
 
 **A high heating bill is usually caused by one of three things: a sudden drop in outdoor temperature forcing longer run cycles, a mechanical failure like a stuck auxiliary heat strip or a failing blower motor, or a significant increase in the unit price of your fuel.** For gas furnace owners, a spike in the *electric* bill is often due to an aging PSC blower motor drawing excessive power, while heat pump owners often see spikes when the system relies on expensive "emergency" electric resistance backup. To find the cause, first check if your usage (therms/kWh) increased or if only the rate ($/unit) went up.

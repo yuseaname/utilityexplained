@@ -83,10 +83,12 @@ Smart meters record usage hourly or daily and feed a utility portal or app. For 
 <p>
 Many devices draw standby (phantom) power even when off. Power strips that cut power completely reduce this waste.
 </p>
+
 ### Misconception: Turning lights on and off wastes more electricity than leaving them on
 <p>
 False for modern bulbs. Turning off lights when you leave a room always saves energy, especially with LEDs.
 </p>
+
 ### Misconception: Electric heat is always more expensive than gas heat
 <p>
 It depends on local rates and system efficiency. Efficient heat pumps can compete with gas where electric rates are low or winters are mild.
@@ -101,18 +103,22 @@ For the full library of electricity guides, jump to the <a href="#electricity-gu
 <p>
 In the United States, a typical household uses about 800 to 1,000 kWh per month. This varies widely by climate, home size, and heating or cooling type.
 </p>
+
 ### Can I lower my electric bill without changing my habits?
 <p>
 Small equipment upgrades like LED bulbs, efficient power strips, and programmable thermostats can reduce usage without requiring major behavior changes. Sealing air leaks and improving insulation also help.
 </p>
+
 ### What is the difference between energy and delivery charges?
 <p>
 The energy charge is usage-based; delivery charges may be fixed, per-kWh, or both depending on the utility.
 </p>
+
 ### Do smart meters increase my bill?
 <p>
 No. Smart meters measure usage more accurately, which can reveal waste you did not notice before. The meter itself does not change how much electricity you use.
 </p>
+
 ### Should I switch to a time-of-use plan?
 <p>
 If you can shift most usage to off-peak hours, a time-of-use plan can save money. If you are home during peak hours and cannot adjust usage, a flat-rate plan may be simpler.

@@ -21,6 +21,7 @@ sources:
 
 
 <p class="data-freshness" style="font-size:.85rem;color:#666;">Data through {{< stat "electric_rate_jul2026" "date" >}} · Source: U.S. EIA · Last refreshed October 2026</p>
+
 ## Quick Answer
 
 **The Aerostar MERV 11 20x25x1 six-pack is the default buy for most forced-air homes — but at the time of writing, Aerostar's own MERV 13 six-pack costs *less*, so the honest answer starts with your blower, not the price tag.** The MERV 11 6-pack runs about $62 (~$10.40 per filter, 4.7 stars from 2,200+ ratings, sold and shipped by Amazon), while the MERV 13 6-pack sits around $52 (~$8.70 per filter, 4.5 stars, 3,000+ ratings). Prices rotate constantly — the boxes below always show current pricing. If your system can handle MERV 13, buy the 13. If your manual is vague or your blower is older or marginal, MERV 11 is the safer, still-excellent choice. Before anything else, read [what MERV rating do I need](/blog/what-merv-rating-do-i-need/) — that page explains the rating ladder itself; this page is the purchase companion. If your real problem is a system that runs constantly, start with [why your HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/) instead of a filter upgrade: {{< amazon asin="B01CR9JMV4" text="the Aerostar MERV 11 6-pack on Amazon" >}}.

@@ -81,10 +81,12 @@ Dial and digital meters both show cumulative usage you can verify against your b
 <p>
 Usually true, but efficient electric heat pumps can compete where electric rates are low or gas prices are high.
 </p>
+
 ### Misconception: Turning the furnace off when you leave saves more than lowering the thermostat
 <p>
 Shutting it off risks frozen pipes and costly reheating; lowering the thermostat 5–10 degrees is safer and still saves gas.
 </p>
+
 ### Misconception: Gas meters are always accurate
 <p>
 Meters are generally accurate but can malfunction. If usage looks unusually high with no cause, ask your utility for a meter test.
@@ -104,16 +106,20 @@ Install carbon monoxide detectors near gas appliances and sleeping areas, and sc
 ## Frequently asked questions
 ### How many therms does the average home use per month?
 <p>Usage varies widely by climate and home size: a cold-climate home might use 80 to 150 therms per month in winter, dropping to 10 to 30 therms in summer for water heating and cooking.</p>
+
 ### Can I choose my natural gas supplier?
 <p>
 In some states, you can choose a gas supplier for the commodity portion of your bill. The delivery portion remains with your local utility. Availability varies by location.
 </p>
+
 ### Why does my gas bill have a customer charge even in summer?
 <p>
 The customer charge covers the fixed costs of maintaining service, such as meter reading, billing, and infrastructure. You pay this charge every month regardless of usage.
 </p>
+
 ### Is it worth upgrading to a high-efficiency furnace?
 <p>If your furnace is old and you live in a cold climate, upgrading to a high-efficiency model can save 20% to 30% on heating costs; the payback period depends on gas prices and how long you keep the furnace.</p>
+
 ### What should I do if my gas bill seems too high?
 <p>Check for estimated readings, compare therms per day to previous bills, and verify your thermostat settings; if usage still seems high, schedule a furnace inspection.</p>
 

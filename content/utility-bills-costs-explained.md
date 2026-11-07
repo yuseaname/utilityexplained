@@ -73,10 +73,12 @@ When moving to a new home, contact utilities one to two weeks in advance to star
 <p>
 Fixed charges are mandatory and apply even if you use very little—they cover infrastructure and service access that don't vary with usage.
 </p>
+
 ### Misconception: Estimated bills are always wrong
 <p>
 Estimated bills are based on historical usage and are often close to actual; the next bill corrects the estimate, so the two-month total is accurate.
 </p>
+
 ### Misconception: You cannot negotiate utility rates
 <p>
 In regulated markets rates are set by regulators and not negotiable; in deregulated markets you may be able to choose a supplier and compare rates.

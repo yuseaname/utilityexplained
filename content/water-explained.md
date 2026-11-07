@@ -70,6 +70,7 @@ Dial and digital meters both show cumulative usage you can verify against your b
 <p>
 Leaks are a common cause of high water bills, and even small ones waste hundreds of gallons a month. <strong>Toilet test:</strong> add a few drops of food coloring to the tank and wait 15 minutes without flushing — if color reaches the bowl, the flapper is leaking and should be replaced. <strong>Meter test:</strong> turn off all water, then check the meter — if the leak indicator moves or the reading changes after an hour, water is flowing somewhere.
 </p>
+
 ### Common leak sources
 <ul>
 <li>Toilet flappers (most common indoor leak)</li>
@@ -92,10 +93,12 @@ Fixing leaks, shorter showers, full appliance loads, and smarter outdoor waterin
 <p>
 The dishwasher uses a fixed amount per cycle regardless; a running faucet adds to total usage but does not change the dishwasher's draw.
 </p>
+
 ### Misconception: Low-flow fixtures sacrifice performance
 <p>
 Modern low-flow showerheads and faucets maintain pressure and comfort while using less water; most users notice no difference.
 </p>
+
 ### Misconception: Water meters are always accurate
 <p>
 Meters are generally accurate but can slow or fail over time. If usage looks unusually high, request a meter test from your utility.
@@ -109,12 +112,16 @@ If the utility cannot access your meter, it may estimate usage, and the next act
 ## Frequently asked questions
 ### How much water does the average person use per day?
 <p>In the United States, a typical person uses 40 to 80 gallons per day for indoor activities. Outdoor watering can add significantly more.</p>
+
 ### Why is my sewer charge higher than my water charge?
 <p>Wastewater treatment is expensive. Many utilities charge more for sewer service because treatment plants require significant maintenance and energy.</p>
+
 ### Can I lower my water bill if I don't have a lawn?
 <p>Yes. Indoor conservation measures like fixing leaks, taking shorter showers, and running full loads in appliances can all reduce usage and lower your bill.</p>
+
 ### What is a winter average, and how does it affect my bill?
 <p>Some utilities calculate sewer charges based on winter water usage, when outdoor watering is minimal. This average is used year-round to avoid charging sewer fees for water that goes to lawns or pools.</p>
+
 ### Should I worry about a small drip from a faucet?
 <p>Yes. A slow drip can waste 10 to 20 gallons per day, which adds up to hundreds of gallons per month. Fixing drips is usually simple and inexpensive.</p>
 
