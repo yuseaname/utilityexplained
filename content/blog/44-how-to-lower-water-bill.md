@@ -165,6 +165,25 @@ If you’ve worked through the actions above and your usage hasn’t dropped:
 
 This guide is part of the [Lower Your Bills hub](/lower-your-bills/) and the [Water Explained hub](/water-explained/). Leak-response gear is ranked in [where to place water leak sensors](/blog/where-to-place-water-leak-sensors/).
 
+
+{{< faq "How can I lower my water bill fast?" >}}
+
+The free moves first, per the article: find and fix leaks, run full loads, and stop outdoor waste. The average family spends about $1,300 per year on water; leak repairs alone can save a family of four up to $200 annually.
+
+{{< /faq >}}
+
+{{< faq "Are WaterSense fixtures worth it?" >}}
+
+EPA WaterSense estimates upgrading to WaterSense-labeled fixtures and ENERGY STAR appliances saves an average of $500 per year, cited in the article's payback table. The ranked-by-cost action list sequences which to do first.
+
+{{< /faq >}}
+
+{{< faq "What if my water bill stays high after everything?" >}}
+
+The article's last section covers it: verify a silent leak with the meter or a smart detector, then compare your utility's fixed-charge growth against usage — a bill can climb with flat usage when base charges rise.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA WaterSense: Start Saving](https://www.epa.gov/watersense/start-saving) — comprehensive guide to household water savings, including behavior changes, fixture upgrades, and outdoor efficiency tips. The $500/year retrofit savings figure is from this page.

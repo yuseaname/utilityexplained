@@ -40,7 +40,7 @@
 {{ end }}
 
 {{/* Primary meta tags */}}
-<title>{{ if .IsHome }}Utility Explained: Read and Lower Your Utility Bills{{ else }}{{ .Title }}{{ with .Site.Title }} | {{ . }}{{ end }}{{ end }}</title>
+<title>{{ if .IsHome }}Utility Explained: Read and Lower Your Utility Bills{{ else }}{{ $brandLen := add (len .Site.Title) 3 }}{{ if le (add (len .Title) $brandLen) 65 }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}{{ end }}</title>
 {{- $pageDesc := .Params.description | default .Site.Params.description -}}
 {{- with $pageDesc -}}
 <meta name="description" content="{{ strings.TrimRight " ,-" (strings.TrimSuffix "…" (truncate 152 .)) }}">

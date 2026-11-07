@@ -21,6 +21,11 @@
     </header>
   </div>
 
+  {{/* Page content (from _index.md / term content) renders above the grid when present */}}
+  <div class="max-w-3xl prose-lg text-gray-700 mt-6">
+    {{ .Content }}
+  </div>
+
   <!-- Articles Grid -->
   <div class="section-grid">
     {{ range .Pages }}

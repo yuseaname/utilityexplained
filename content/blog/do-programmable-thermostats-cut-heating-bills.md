@@ -92,6 +92,25 @@ For heat pumps and dual-fuel systems, use a thermostat and settings appropriate 
 
 {{< product-box asin="B0DSGGDCR8" name="Honeywell Home X2P Programmable Thermostat RTH20B" label="Basic programmable alternative" description="Sits in the middle row of the table above — a straightforward 5-2 day programmable thermostat where you set separate weekday and weekend schedules once, then the device applies the DOE-recommended 7–10°F / 8h setback pattern automatically.[2] Single-stage, 1 heat / 1 cool, no Wi-Fi required. The budget-friendly way to capture the up-to-10% savings row without paying for learning features or an app." button="Check price on Amazon" >}}
 
+
+{{< faq "Do programmable thermostats actually cut heating bills?" >}}
+
+Yes, when the schedule lowers or raises the temperature while the home is asleep or unoccupied — DOE's guidance the article cites. An automatic setback does this without sacrificing comfort.
+
+{{< /faq >}}
+
+{{< faq "How much can a thermostat setback save?" >}}
+
+The article's savings-by-type table puts typical setback savings in context with DOE's figures for programmed schedules. The exact number scales with how many hours the setpoint actually shifts and your heating fuel.
+
+{{< /faq >}}
+
+{{< faq "Which thermostat type fits me?" >}}
+
+The article's match: fixed schedules fit basic programmable units; variable routines fit learning or smart thermostats; radiant or heat-pump homes need setback-aware models. Use the schedule-safely guidance for heat pumps in particular.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy: Programmable Thermostats](https://www.energystar.gov/products/smart_thermostats)

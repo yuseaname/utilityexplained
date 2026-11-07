@@ -106,6 +106,25 @@ The ecobee box below is already linked on this page. Compare its features to you
 - [Heat Pump Running All Day in Winter?](/blog/heat-pump-running-all-day-in-winter/) — staging meets runtime behavior
 - [Why Is My Furnace Blowing Cold Air?](/blog/why-is-my-furnace-blowing-cold-air/) — when staging is not the issue
 
+
+{{< faq "What's the difference between single-stage, two-stage, and variable-speed HVAC?" >}}
+
+Single-stage runs at one capacity when on; two-stage has two capacities; variable-speed adjusts compressor speed continuously instead of running only at full blast. Exact features and capacities vary by product — the article says compare the quoted equipment, not the label.
+
+{{< /faq >}}
+
+{{< faq "Which stage type is best for my climate and home?" >}}
+
+The article's match table: milder climates and smaller homes get less benefit from two-stage or variable; humid climates benefit from long low-speed runs that dehumidify better. Compatibility with your thermostat matters too — the guide covers which controls each type needs.
+
+{{< /faq >}}
+
+{{< faq "Does variable-speed HVAC lower bills?" >}}
+
+It can, mostly through longer gentler cycles that avoid full-capacity spikes and dehumidify better at part load — but the honest comparison in the article is comfort and runtime behavior against the equipment premium.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [ENERGY STAR: Room Air Conditioners](https://www.energystar.gov/products/room_air_conditioners)

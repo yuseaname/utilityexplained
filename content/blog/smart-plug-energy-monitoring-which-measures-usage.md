@@ -98,6 +98,25 @@ This article answered one question — which smart plugs measure energy — not 
 
 If the suspect list has outgrown one outlet, the next step up is a screen-first plug-in meter or a whole-panel monitor: [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/) and [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/) cover both rungs of that ladder.
 
+
+{{< faq "How can I tell if a smart plug measures energy usage?" >}}
+
+Look for the words 'energy monitoring' in the product name or spec sheet — that's the feature that makes a smart plug a meter, per the article. The Kasa KP115, Tapo P110M, and Emporia Smart Plug all meter; the widely sold basic Kasa HS103 class does not.
+
+{{< /faq >}}
+
+{{< faq "What's the difference between a metering smart plug and a regular one?" >}}
+
+A metering plug contains a chip that reports live watts and cumulative kilowatt-hours to its app; a regular smart plug only switches power on and off. The article's window-AC section covers what a metering plug can honestly tell you there.
+
+{{< /faq >}}
+
+{{< faq "Do energy-monitoring smart plugs lower my bill?" >}}
+
+Not by themselves — measurement is the first step. The article's from-measured-watts-to-lower-bill section shows the workflow: find the always-on or wasteful loads the data exposes, then act on the top ones.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [Kasa Smart Wi-Fi Plug Slim with Energy Monitoring (KP115) — TP-Link](https://www.tp-link.com/us/home-networking/smart-plug/kp115/) — real-time and historical energy monitoring; UL certified; 2-year warranty; max load 15 A / 1.8 kW at 120 V, 1/6 HP motor. Retrieved August 31, 2026.

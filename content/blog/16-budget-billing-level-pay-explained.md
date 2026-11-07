@@ -114,6 +114,25 @@ Treat the plan payment and actual account activity as separate information. Each
 
 Level pay fits steady-income households smoothing *timing* — a $280 January against a $95 May — not those seeking to cut what they owe. Enrollment screens block many in arrears: an existing [past-due balance](/blog/past-due-balance-utility-bill-explained/) usually must be resolved or arranged first. When affordability is the issue, contact the utility before the due date about arrangements and assistance; the CFPB points to local and state resources including LIHEAP.[1]
 
+
+{{< faq "How does utility budget billing work?" >}}
+
+It turns your last 12 months of charges into one flat monthly payment — the annual total divided by 12. The article's worked example: a home billed $2,070 over a year pays about $165 every month instead of $95 in May and $280 in January.
+
+{{< /faq >}}
+
+{{< faq "Does budget billing save money?" >}}
+
+No — the annual total stays the same; you're smoothing the bills, not reducing them. The article's pros-and-cons section covers the real risks: under-collection rolls into a settlement month, and a big rate change can make the estimate stale.
+
+{{< /faq >}}
+
+{{< faq "How often does the utility recalculate my level payment?" >}}
+
+At a periodic review, per the article — the running difference between what you paid and what you actually used is settled or rolled forward then. That's why the guide recommends continuing to review actual charges, not just the flat amount.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/)

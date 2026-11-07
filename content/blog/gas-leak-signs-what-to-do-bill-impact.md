@@ -116,6 +116,25 @@ One related safety habit: before any project that digs — fence posts, trees, d
 
 A gas leak is one of the few household problems where the money question is genuinely second place. Most small leaks cost a few dollars a month in wasted gas — real money, but not the reason to act. You act because mercaptan's rotten-egg alarm means gas is escaping now, and an accumulated cloud of it needs only a spark.[1][2] Leave, call from outside, wait for the all-clear, and let the utility's free emergency check do the looking. If the smell isn't there and your bill is just creeping up, that's a usage puzzle, and our [gas explainers hub](/gas-explained/) walks you through it step by step.
 
+
+{{< faq "What are the signs of a gas leak?" >}}
+
+Rotten-egg smell, hissing near a gas line or appliance, dead vegetation or dirt blowing near a buried pipe — the article's list. If you notice any of them, leave immediately; don't hunt for the leak, flip switches, or use your phone indoors.
+
+{{< /faq >}}
+
+{{< faq "Who do I call for a gas leak?" >}}
+
+911 or your gas utility's emergency line, from outside the house. The article's utility-emergency-line-versus-plumber section explains what the utility does when you call and when a plumber is the right hire instead.
+
+{{< /faq >}}
+
+{{< faq "Does a gas leak show up on the bill?" >}}
+
+Eventually, and typically only by a few dollars a month for a slow leak, per the article — a leak is a safety emergency first and a billing question second. That's why the bill check comes after the safety response.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [American Gas Association — Using Natural Gas Safely](https://www.aga.org/natural-gas/safety/using-natural-gas-safely/) (retrieved 2026-08-30)

@@ -160,6 +160,25 @@ Contact the provider if a meter reading, usage unit, rate schedule, or line item
 
 Comparing guides on this site: [Why Is My Gas Bill So High?](/blog/gas-bill-too-high/) uses a worked winter example reaching about 200 therms for a well-heated home in a cold month — the upper part of the range above — and keeps heating separate from water heating. [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) quotes winter volume in Ccf (100–150 Ccf), which is the same ballpark expressed in volume units: 100–150 Ccf ≈ 104–156 therms at the 1.037 factor. All three pages describe the same seasonal reality: deep-winter peaks in the low-to-mid hundreds of therms for homes that heat with gas, a 10–40 therm summer baseline, and month-to-month comparisons made within the same season.
 
+
+{{< faq "How do I read my gas bill?" >}}
+
+Find the metered usage first, convert it to the billed unit using the factor your utility prints on the statement, then check each line item against the utility's current published rate before questioning any charge — the article's three-step order of operations.
+
+{{< /faq >}}
+
+{{< faq "What's the difference between therms and CCF on a gas bill?" >}}
+
+CCF is the volume your meter counted (hundreds of cubic feet); a therm is the heat content you're billed for. The utility multiplies volume by a BTU factor to get therms — the article's worked example walks the conversion with real numbers.
+
+{{< /faq >}}
+
+{{< faq "Can I shop the supply side of my gas bill?" >}}
+
+Depends on your state and utility — the article covers where gas supply is shoppable and how to compare like with like when it is. Delivery charges stay with the utility regardless.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EIA — U.S. Natural Gas Residential Consumption (monthly)](https://www.eia.gov/dnav/ng/hist/n3010us2m.htm) — monthly residential consumption, 2020–2024 seasonal shares (retrieved 2026-08-29).

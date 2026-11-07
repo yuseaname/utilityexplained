@@ -118,6 +118,25 @@ The drip method is a legitimate emergency tool. As a standing strategy, a $7 cov
 
 And the standing rule for every faucet on this page: **the cover only works if the hose is off and the bib is dry.** Disconnect and drain the hose first, then cinch the cover — a cover over a connected, water-filled hose is doing half its job. And if your winter water bill is climbing for other reasons, the cover won't fix those — [Why Is My Water Bill Higher in Winter?](/blog/why-is-my-water-bill-higher-in-winter/) walks the whole list.
 
+
+{{< faq "Do outdoor faucet covers actually work?" >}}
+
+Yes — a ~$7 domed foam cover is the cheapest reliable freeze protection for an outdoor spigot. Water expands roughly 9 percent when it freezes, and that expansion inside a closed pipe is what turns a $7 problem into a burst-pipe insurance claim, as the article puts it.
+
+{{< /faq >}}
+
+{{< faq "Which faucet covers should I buy?" >}}
+
+The guide's pick is the nabreeli 2-pack — two covers for about what a single cover costs elsewhere, matching the two spigots most houses actually have.
+
+{{< /faq >}}
+
+{{< faq "How do I install an outdoor faucet cover?" >}}
+
+The article clocks it at 30 seconds: slide the dome over the spigot and cinch the drawstring tight so it seals against the wall. The two-minute version adds shutting off and draining the interior supply line before the hard freeze.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [American Red Cross — Preventing & Thawing Frozen Pipes](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html) — outdoor hose bibs as top freeze risk; water expands as it freezes and can break pipes; drip and drain guidance. Retrieved 2026-09-11.

@@ -143,6 +143,25 @@ For the full savings workflow beyond standby power, see [how to lower your elect
 
 The metering-plug class (and the Kasa/Tapo/Emporia field) is compared head-to-head in [which smart plugs measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/); the ladder above it starts at [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/).
 
+
+{{< faq "What is standby power?" >}}
+
+DOE defines it as the lowest power consumption while a product remains plugged into mains power — the idle draw of anything waiting in 'off' mode. The article's measurement-first workflow starts by finding which of your devices actually draw it.
+
+{{< /faq >}}
+
+{{< faq "How do I reduce standby power cheaply?" >}}
+
+Measure first, per the article: use a metering smart plug or advanced power strip on suspected idle loads, confirm the watts, then switch or schedule the real offenders. An advanced power strip or smart plug can cut idle use for suitable devices.
+
+{{< /faq >}}
+
+{{< faq "What can't a smart plug fix?" >}}
+
+High-draw appliances and devices that must stay powered — the article's safety notes cover 15A limits for high-draw appliances, and the what-a-plug-can't-fix section covers always-on devices like routers and fridges that need constant power.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy: Measuring Standby Power](https://www.energy.gov/cmei/femp/measuring-standby-power)

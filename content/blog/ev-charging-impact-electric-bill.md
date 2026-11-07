@@ -143,6 +143,25 @@ Want the charging cost separated from the rest of the house on your bill? The sa
 
 After charging begins, compare similar billing periods and record driving, charging location, billing days, rate-plan changes, and major household loads. If the total rises unexpectedly, separate vehicle kWh from weather, heating or cooling, and other changes before assigning a cause.
 
+
+{{< faq "How much does home EV charging add to an electric bill?" >}}
+
+It depends on four things the article names: the vehicle's measured energy use, miles driven, charging losses, and your rate plan. That's why the guide refuses to rely on a national monthly-cost estimate — the per-mile cost math and battery-size examples are there so you can compute your own number instead.
+
+{{< /faq >}}
+
+{{< faq "Does Level 1 or Level 2 charging change the bill impact?" >}}
+
+The level changes how fast the same energy arrives, not primarily how much energy the car needs — the comparison table shows the trade-offs. What moves the dollars most is the rate plan; the article's plan-check list says to check the rate plan before changing charging habits.
+
+{{< /faq >}}
+
+{{< faq "How do I estimate my own EV charging cost?" >}}
+
+Measure the car's actual kWh (a pass-through meter or the car's own consumption readout), multiply by your rate, and sanity-check against the worked examples in the guide. Compare bills, not marketing claims, as the article puts it.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy Alternative Fuels Data Center: Charging Electric Vehicles at Home](https://afdc.energy.gov/fuels/electricity-charging-home) — home-charging overview and utility time-of-use/incentive context.

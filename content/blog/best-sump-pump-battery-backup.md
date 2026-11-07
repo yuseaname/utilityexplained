@@ -115,6 +115,25 @@ The ESP25n ties into your existing discharge line above the primary pump's check
 
 And the standing rule for this entire category: **runtime is bought, not assumed.** The formula — battery Ah × 12 V ÷ pump watts — plus your pit's actual cycle rate tells you what any backup will really do in your basement, and a battery you haven't tested this quarter is a rumor, not a backup.
 
+
+{{< faq "What battery backup sump pump does this guide recommend?" >}}
+
+The WAYNE ESP25n — a 12-volt backup pump plus battery box and alarm for about $350, 4.4 stars from 337 ratings, sold and shipped by Amazon. Wayne's own performance table says it removes up to 10,000 gallons on a single battery charge.
+
+{{< /faq >}}
+
+{{< faq "How long does a battery backup sump pump run?" >}}
+
+Runtime is the honest core of the decision, as the article frames it: it depends on your pump's draw and how often it cycles during an outage. The runtime-math section walks the calculation with the ESP25n's numbers so you can match runtime to your typical outage length.
+
+{{< /faq >}}
+
+{{< faq "Is a battery backup sump pump worth $350?" >}}
+
+The guide's flood math answers this: compare the $350 against the insurance-deductible-scale cost of one finished-basement flood. If your basement is finished or your area loses power in storms, the article's total-cost-of-ownership table shows it buying peace of mind cheaply; if your sump rarely runs, it may not be.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [WAYNE Pumps — ESP25n product page](https://waynepumps.com/product/esp25n/) — 12V battery backup system specs: 2,700/2,100/1,500/660 GPH at 0/5/10/15 ft of head, up to 10,000 gallons per charge, 1-1/2 in. NPT discharge, 16 in. minimum basin, battery case with LED display and alarm. Retrieved 2026-09-11.

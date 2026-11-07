@@ -76,6 +76,25 @@ Before that conversation, it helps to know [how many solar panels a house actual
 
 Compare full bills in the same season — billing days, kWh, rate plan, credits — not just dollar totals; a valid before/after holds rate changes and weather constant, or it proves nothing.
 
+
+{{< faq "What lowers an electric bill the most besides solar?" >}}
+
+Work down the biggest verified levers in order: heating and cooling first, then water heating, then small always-on loads. The article cites DOE's highest-documented single measure — a 7–10°F thermostat setback for 8 hours a day, worth up to 10% off heating and cooling.
+
+{{< /faq >}}
+
+{{< faq "Should I get a home energy assessment before buying anything?" >}}
+
+Yes — DOE's own ordering, which the article follows: an assessment (free DIY versions exist) before any improvement purchase. It tells you where your kWh actually go instead of where you assume they go.
+
+{{< /faq >}}
+
+{{< faq "How much does the average home pay for electricity?" >}}
+
+About $144 a month in 2024 on roughly the EIA-average usage, per the article's numbers. Your own bill's distance from that average comes from heating fuel, climate, home size, and rate plan — the guide's point is to find YOUR biggest lever, not chase the average.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EIA FAQ: What is the average electricity consumption of U.S. homes?](https://www.eia.gov/tools/faqs/faq.php?id=97) — 899 kWh/month average (2023), retrieved 2026-08-29

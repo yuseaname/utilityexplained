@@ -106,6 +106,25 @@ The upfront numbers invert the running costs: a heater is often cheaper to buy, 
 
 And the standing rule: **the cheapest heat is the heat you don't generate.** Before you buy either, check the room's actual heat loss — [do thermal curtains really work](/blog/do-thermal-curtains-really-work/) and [what a kilowatt-hour is](/blog/understanding-kwh-usage/) are the two reads that tell you whether the room is leaking the warmth you're paying for. A blanket over a drafty window is still a drafty window.
 
+
+{{< faq "Is an electric blanket cheaper to run than a space heater?" >}}
+
+Yes, dramatically — roughly $6.60 a month for 8 hours a night versus $25–66 for a heater doing the same job, per the article's math. The reason: a queen-size blanket draws about 150 watts on medium while a space heater draws 1,500 watts — ten times the load.
+
+{{< /faq >}}
+
+{{< faq "Why does an electric blanket use so much less power?" >}}
+
+Because it heats the person instead of the room, as the article puts it. The blanket only has to warm the air pocket under the covers; the heater has to fight heat loss from the whole room continuously.
+
+{{< /faq >}}
+
+{{< faq "Which one should I use to save money?" >}}
+
+The guide's framing: each is the right tool for a different job. The blanket wins for sleeping and one person at a desk; the heater covers a room several people occupy. Running both math sections with your own hours and rate gives the exact break-even for your case.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy — Electric Resistance Heating (archived)](https://web.archive.org/web/20260505022240/https://www.energy.gov/energysaver/electric-resistance-heating) — resistance heating is 100% efficient at converting electricity to heat; zone heating as the savings lever. Retrieved 2026-09-11.

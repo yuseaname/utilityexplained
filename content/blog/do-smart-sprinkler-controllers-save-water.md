@@ -140,6 +140,25 @@ Two honest caveats on this math. First, it assumes the controller eliminates the
 
 And the standing rule for every controller on this page: **the gadget only saves what you were already wasting.** A smart sprinkler controller is a skip-machine for over-watering, not a water factory. If you aren't wasting water on a fixed schedule, no controller will manufacture savings for you — and the honest first step is to read your bill, understand your [tiered water rates](/blog/tiered-water-rates-explained/), and fix the habit before you buy the box.
 
+
+{{< faq "Do smart sprinkler controllers actually save water?" >}}
+
+Only if you're currently over-watering on a fixed schedule — savings come from skipping cycles, not from the gadget itself, as the article's honest verdict states. EPA's figure is 'up to 15,000 gallons' a year, and that 'up to' is doing a lot of work.
+
+{{< /faq >}}
+
+{{< faq "How does a smart sprinkler controller know when to skip watering?" >}}
+
+It replaces a dumb clock timer and skips watering when it rains, when the season cools, or when soil is already wet — using local weather data and/or soil sensors. If you already water correctly, the article says, the savings are near zero.
+
+{{< /faq >}}
+
+{{< faq "When does a smart controller pay for itself?" >}}
+
+The article's math section works the break-even: the controller's price divided by your water's value per skipped cycle. Heavier over-waterers and higher water rates reach payback fastest; careful waterers may never.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA WaterSense — WaterSense Labeled Controllers](https://www.epa.gov/watersense/irrigation-controllers) — "up to 15,000 gallons" saved annually by replacing a clock-based controller; ~8 billion gallons/day outdoor use; up to 50% wasted due to overwatering; weather-based and soil-moisture controller definitions. Retrieved 2026-09-12.

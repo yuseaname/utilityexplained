@@ -48,3 +48,21 @@ aliases: ["/blog"]
 ## All Guides {#all-guides}
 
 <p>Newest first. Use the topic links above to browse by category.</p>
+
+{{< faq "How many guides does Utility Explained have?" >}}
+
+{{< guide-count >}} and counting — every one focused on a specific question about your electricity, gas, water, or heating bill, from reading a charge line to cutting a bill.
+
+{{< /faq >}}
+
+{{< faq "Where should I start if my bill just went up?" >}}
+
+Start with [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) — it sorts the causes into usage, rate, and billing errors, then links the right fix for each.
+
+{{< /faq >}}
+
+{{< faq "Are these guides connected to my utility company?" >}}
+
+No. Utility Explained is independent — the guides cite public sources (EIA, DOE, EPA, and utility tariffs) so you can verify every number, and the editorial policy and methodology pages explain exactly how the data is sourced.
+
+{{< /faq >}}

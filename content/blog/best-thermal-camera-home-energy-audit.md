@@ -104,6 +104,25 @@ Assumptions: national average residential electricity of {{< stat "electric_rate
 
 And the standing rule for every thermal image you'll ever take: **a thermal camera shows temperature differences, not problems.** A cold ceiling patch might be missing insulation, a duct leak above it, or a plumbing run — the camera tells you where to look next, and the verification (a flashlight, an incense stick, an attic visit) is still yours to do. If you won't act on the images, save the $116.
 
+
+{{< faq "Can a phone thermal camera see inside my walls?" >}}
+
+No. As this guide states upfront, no phone thermal camera sees inside walls, reads exact R-values, or replaces a blower-door audit. What the Thermal Master P1 and similar USB-C cameras genuinely do is find drafts and insulation gaps on visible surfaces.
+
+{{< /faq >}}
+
+{{< faq "Which thermal camera does this guide recommend?" >}}
+
+The Thermal Master P1 is the budget pick — about $116 with a native 160×120 IR sensor enhanced to 320×240 — and the premium pick remains the FLIR option covered in the head-to-head section. The honest framing in the article: pick based on whether you need a one-time draft hunt or recurring audits.
+
+{{< /faq >}}
+
+{{< faq "Is a thermal camera worth it for a DIY energy audit?" >}}
+
+It can be: the article's draft math values the fixes you find (air sealing, insulation gaps) against the camera's cost. Conditions matter — the guide covers the temperature-difference conditions that make or break the audit — and for one or two drafty rooms, a $7 smoke-pencil approach or hand test may find the same leaks for less.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [Amazon — Thermal Master P1 USB-C Thermal Camera (B0FMS2WC9X)](https://www.amazon.com/dp/B0FMS2WC9X) — 160×120 IR native / 320×240 super resolution, ±3.6°F accuracy, 52°×39° FOV, 25 Hz, 0.32 W power draw, IP54, 4.5 stars / 63 global ratings, $116.10 at retrieval, fulfilled by Amazon. Retrieved 2026-09-11.

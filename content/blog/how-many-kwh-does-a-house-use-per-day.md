@@ -97,6 +97,25 @@ That daily kWh number has one more use: it is the first input of a [solar system
 - **Cut the silent baseline.** Always-on electronics and idle chargers add kWh nobody sees — see [phantom power draw explained](/blog/phantom-power-draw-explained/).
 - **Work the full playbook.** The [lower your bills hub](/lower-your-bills/) collects the practical fixes, and the [electricity explainer hub](/electricity-explained/) covers how the numbers on your bill are built.
 
+
+{{< faq "How many kWh does the average house use per day?" >}}
+
+About 30 kWh of electricity per day per household, per EIA data cited in the article. That average blends every home size, climate, and heating fuel — treat it as a midpoint, not an expectation.
+
+{{< /faq >}}
+
+{{< faq "What makes a home use more or less than average?" >}}
+
+The article's drivers: home size, climate, heating fuel (electric heat pushes usage far above gas-heated peers), and cooling load. Small gas-heated apartments can run half the average; large all-electric homes in hot climates routinely go two to three times higher.
+
+{{< /faq >}}
+
+{{< faq "How do I read my own daily kWh number?" >}}
+
+Take any two meter readings 24 hours apart (or your bill's daily average) and put it against the article's by-home-profile table. If yours is high, the lowering-a-high-daily-average section ranks the fixes.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [How much electricity does an American home use?](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3) — EIA, Frequently Asked Questions. (Retrieved 2026-08-30)

@@ -104,6 +104,25 @@ Supplier scams are common enough that the FTC has a dedicated consumer alert, bu
 
 The average U.S. household uses about 899 kilowatt-hours per month [3], and the average residential electricity price is around 18 cents per kilowatt-hour [4], so a typical monthly electric bill is roughly $160 — and a bad supplier switch can push that higher. Natural gas prices have recently ranged from about $1.35 to $1.92 per therm [5], which is a reminder that energy prices can move — but a legitimate price change never requires you to share your account number with a stranger at your door.
 
+
+{{< faq "How do I spot an electric supplier scam?" >}}
+
+The classic patterns, per the article: door-to-door agents claiming to be your utility or claiming your rate is expiring, urgent calls about a shutoff that isn't real, and requests for your account number. Legitimate utilities don't demand on-the-spot payment or threaten same-day disconnection for immediate payment.
+
+{{< /faq >}}
+
+{{< faq "What is slamming on an electric bill?" >}}
+
+Slamming is having your supplier switched without consent — and your account number is the key that lets a third party do it, the article explains. Guarding that number (and your utility password, where offered) is the lock-down move.
+
+{{< /faq >}}
+
+{{< faq "What should I do if I was switched without consent?" >}}
+
+The article's steps: call your utility to confirm the switch and dispute it, file with your state regulator, and set a do-not-solicit or password on the account. Checking whether you were switched starts with reading the supplier line on your recent bills.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [Scammers Pretend To Be Your Utility Company — FTC Consumer Alert](https://consumer.ftc.gov/articles/scammers-pretend-be-your-utility-company) (retrieved 2026-08-30)

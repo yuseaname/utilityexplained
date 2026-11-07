@@ -103,6 +103,25 @@ And the standing rule that outranks every pick on this page: **measure the slot,
 
 A loaded filter is also the #1 cause of [furnace short cycling](/blog/why-does-my-furnace-keep-turning-on-and-off/) and a common thread in [burning smells](/blog/furnace-smells-like-burning/) — the filter is the cheapest component with the longest shadow.
 
+
+{{< faq "Which MERV 11 filter 6-pack is the best value?" >}}
+
+The Aerostar MERV 11 20x25x1 six-pack is the default — about $62, ~$10.40 per filter, 4.7 stars from 2,200+ ratings — but the article flags that Aerostar's own MERV 13 six-pack cost less at the time of writing, so the honest answer starts with your blower, not the price.
+
+{{< /faq >}}
+
+{{< faq "Is MERV 13 better than MERV 11 for a home furnace?" >}}
+
+Only if your system can move air through it. The guide's caution: higher MERV = denser media = more airflow resistance, and the Reddit-question section covers the real risk — a filter too dense for your blower strains it. Check your system's rated filter class before upgrading.
+
+{{< /faq >}}
+
+{{< faq "How much does a year of furnace filters actually cost?" >}}
+
+Roughly the price of two six-packs if you swap on the standard cadence — the article's filter math section totals a year of filters at per-filter prices so you can compare subscriptions versus box stores.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) — guidance to select MERV 13 "or as high a rating as your system fan and filter slot can accommodate," and that all filters need regular replacement. Retrieved 2026-09-11.

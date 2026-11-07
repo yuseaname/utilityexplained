@@ -105,6 +105,25 @@ Payback lands in **about four months**, and the units themselves are near-indest
 
 And the standing rule for every aerator on this page: **an aerator does not save anything until the water is running.** It reduces the flow the moment the tap opens, but the biggest, cheapest savings still come from the habits around it — turning the tap off while you brush (EPA estimates that alone can save as much as 3,000 gallons a year)[1] and not running a full blast when a trickle does the job. An aerator is a force multiplier on those habits, not a replacement for them. Buy the dial if you want the control; build the habit if you want the whole number.
 
+
+{{< faq "Which faucet aerator saves the most water?" >}}
+
+The article's pick: the Niagara Tri-Max, because its adjustable dial (0.5, 1.0, 1.5 GPM) lets you match flow to task — the rare aerator that doesn't lock you into one flow forever. About $8.50, installs in thirty seconds, no tools.
+
+{{< /faq >}}
+
+{{< faq "How much does a faucet aerator save on the water bill?" >}}
+
+Dropping a bathroom faucet from the standard 2.2 GPM to 1.0 GPM cuts that faucet's flow by more than half; the article's math section totals what that's worth per year at typical usage. On a kitchen sink where you fill pots, the swivel runner-up keeps 1.5 GPM available.
+
+{{< /faq >}}
+
+{{< faq "Do aerators reduce water pressure?" >}}
+
+They reduce flow, not the felt spray — aerators mix air into the stream so it feels full at a lower gallon count. The article's what-to-look-for section covers threading and fit before you buy.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA WaterSense — Bathroom Faucets](https://www.epa.gov/watersense/bathroom-faucets) — standard 2.2 GPM, WaterSense ≤1.5 GPM, ~700 gal/yr average-family savings, aerators cost "as little as a few dollars." Retrieved 2026-09-11.

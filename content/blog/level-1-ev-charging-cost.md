@@ -137,6 +137,25 @@ The full Level 2 economics — equipment, time-of-use rates, cost per mile — l
 
 And the standing rule for this page, the same as every page on this site: **measuring beats guessing.** A national average tells you what the typical driver pays; a pass-through meter tells you what *your* car costs on *your* outlet at *your* rate. The $66 meter pays for itself the first time it stops you from over- or under-estimating a $50-a-month line on your bill — and it keeps working for every other appliance you plug into it. If you want to understand the kilowatt-hour itself before you trust any of these numbers, [what a kilowatt-hour is](/blog/understanding-kwh-usage/) is the two-minute primer.
 
+
+{{< faq "Is Level 1 EV charging free?" >}}
+
+No — the article calls this the 'free charging at home' myth. An overnight 8-hour Level 1 session adds roughly 11.5 kWh to your bill, about $2.11 at the June 2026 national average used in the guide.
+
+{{< /faq >}}
+
+{{< faq "How much does Level 1 charging cost per month?" >}}
+
+A typical daily commute lands in the $46–64/month range at national-average rates, per the article's math. Your own number comes from measuring the car's actual draw — kWh read from a pass-through meter multiplied by your rate.
+
+{{< /faq >}}
+
+{{< faq "When is Level 1 charging enough?" >}}
+
+The guide covers this directly: Level 1 is genuinely enough when daily driving fits inside an overnight 120-volt charge budget. The head-to-head section shows when Level 2's speed stops being a luxury and starts being a necessity — long commutes, cold climates, or shared vehicles.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Energy Information Administration — Electricity Monthly Update, End-Use](https://www.eia.gov/electricity/monthly/update/end-use.php) — national average residential price 18.34¢/kWh, June 2026. Retrieved 2026-09-12.

@@ -87,6 +87,25 @@ Compare similar months before assuming a usage pattern. If a charge is unclear, 
 
 Contact the utility before the due date and ask about payment arrangements and local assistance. The Consumer Financial Protection Bureau directs renters seeking help with bills to local and state resources, including LIHEAP-related assistance information.[1]
 
+
+{{< faq "How much do utilities cost for an apartment?" >}}
+
+Apartments are the cheapest housing type to run: EIA's 2020 household survey found a single-family detached home consumes nearly three times more energy than an apartment in a 5+ unit building. That's why statewide all-home averages overstate what a typical apartment pays.
+
+{{< /faq >}}
+
+{{< faq "What utilities does a lease usually cover?" >}}
+
+It varies by lease — the article's first checklist item is confirming what the lease covers (water and trash often bundled; electric and gas usually separate) before budgeting anything.
+
+{{< /faq >}}
+
+{{< faq "How do I estimate utilities for a specific apartment?" >}}
+
+The article's method: start from the state electricity breakdown, adjust for the unit's exposures and appliances, then verify against the first actual bills. If paying a bill becomes difficult, the guide points at assistance programs rather than letting service lapse.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [Consumer Financial Protection Bureau: Get help paying rent and bills](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/) — renter assistance and utility-bill resource guidance.

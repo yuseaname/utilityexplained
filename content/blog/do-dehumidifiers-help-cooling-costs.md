@@ -89,6 +89,25 @@ Whatever brand you compare it against, run the same three checks: humidistat, dr
 
 If you are already on a humidity fix and the water angle is part of the story — leaking fixtures and drainage are a common hidden cause of indoor damp — [how to lower your water bill](/blog/how-to-lower-water-bill/) is the companion piece, and it is worth tackling those before sizing any dehumidifier.
 
+
+{{< faq "Does a dehumidifier lower cooling costs?" >}}
+
+Only indirectly and only in the right climate, per the article: if a humid-but-mildly-hot summer lets you feel comfortable at a higher AC setpoint, the dehumidifier can cut the bill by letting you run the AC less. In a genuinely hot climate, the AC already dehumidifies.
+
+{{< /faq >}}
+
+{{< faq "How does a dehumidifier make a room feel cooler?" >}}
+
+Drier air evaporates sweat more effectively — a 74°F room at 40% relative humidity can feel cooler than 72°F at 65% RH. That comfort shift is the one honest way it helps, the article says: it doesn't cool the air, it changes how the air feels.
+
+{{< /faq >}}
+
+{{< faq "Does a dehumidifier add heat to the room?" >}}
+
+Yes — the article covers this directly: the heat it removes from the air is released back into the room along with the unit's own motor heat. Know your indoor RH first (the guide shows how) before buying anything.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA — A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) — keep indoor humidity below 60%, ideal 30–50%. Retrieved 2026-08-31.

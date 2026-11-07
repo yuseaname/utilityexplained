@@ -74,6 +74,25 @@ If you are ranking winter spends from cheapest to most effective, the list usual
 
 Doors leak on a different axis than windows — the product decisions for those gaps are in [best door draft stoppers](/blog/best-door-draft-stoppers/).
 
+
+{{< faq "Do window insulation kits pay for themselves in one winter?" >}}
+
+On the two or three draftiest windows, yes; on windows that already feel fine, probably not — that's the article's honest headline. The $12–20 five-window kit pays back fastest where drafts are worst.
+
+{{< /faq >}}
+
+{{< faq "How does window shrink film actually work?" >}}
+
+The kit seals a pocket of still air between the film and the glass with double-sided tape and a hair dryer. Still air is a poor heat conductor, so the pocket acts like temporary extra glazing — that's the mechanism the article explains.
+
+{{< /faq >}}
+
+{{< faq "Are insulation kits better than thermal curtains or rope caulk?" >}}
+
+Different tools for different gaps, per the article's head-to-head: film covers the whole pane cheaply, rope caulk seals gap leaks at sash edges, thermal curtains cut radiant loss on schedule. The honest limitations section notes film is one-season, single-use, and blocks the view.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [ENERGY STAR — Seal and Insulate](https://www.energystar.gov/saveathome/seal_insulate) (retrieved 2026-08-31)

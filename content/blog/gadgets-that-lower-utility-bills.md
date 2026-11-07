@@ -130,6 +130,25 @@ For a broader starting point, see [how to read your electric bill](/blog/how-to-
 
 Deep dives on the measuring tools named here: [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/), [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/), and [which smart plugs actually measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/).
 
+
+{{< faq "Do gadgets actually lower utility bills?" >}}
+
+Not automatically — the article's first principle is measure and assess before buying. A device's result depends on what it measures, how it's used, the home, and the utility rate; DOE's ordering is an assessment first, then targeted tech.
+
+{{< /faq >}}
+
+{{< faq "Which devices can help understand utility use?" >}}
+
+The article's categories: measurement tools (plug meters, smart plugs with monitoring), smart thermostats, LEDs, smart power strips, efficient appliances, and EV chargers — DOE-listed improvements, honestly framed as tools rather than magic.
+
+{{< /faq >}}
+
+{{< faq "When do these devices NOT pay?" >}}
+
+The article's do-not-pay list: buying before measuring, gadget-stacking on the same load, and high-price devices for tiny loads. The safe decision process section sequences what to buy only after the assessment.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy: Shopping for Appliances and Electronics](https://web.archive.org/web/20260610215510/https://www.energy.gov/energysaver/shopping-appliances-and-electronics)

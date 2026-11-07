@@ -85,6 +85,25 @@ Each linked explainer applies the bill review process above to a single charge: 
 
 Ask the utility promptly about payment arrangements, assistance programs, and any available protections. The Consumer Financial Protection Bureau directs consumers seeking year-round utility-bill help to their local LIHEAP office or the National Energy Assistance Referral Hotline.[^5]
 
+
+{{< faq "Why is my utility bill higher than the quoted rate?" >}}
+
+Because a quoted energy price is not the amount due. A utility statement can include usage-based charges, customer or service charges, delivery-related charges, taxes, riders, credits, and one-time event fees — the article's full inventory.
+
+{{< /faq >}}
+
+{{< faq "How do I find out what a charge on my bill means?" >}}
+
+Read the description on the bill, the applicable tariff or rate schedule, and the state or local rule that authorizes it — the article's three-layer verification. The site's fee-and-charge directory links a dedicated explainer for each common line.
+
+{{< /faq >}}
+
+{{< faq "Can hidden utility fees be removed?" >}}
+
+Only the ones that are billing errors — most fees are tariff-approved and apply to everyone on the rate. What you can do is confirm each charge matches the published tariff, then pick the rate plan whose fee structure fits your usage.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Energy Information Administration: Electricity Data](https://www.eia.gov/electricity/data.php)

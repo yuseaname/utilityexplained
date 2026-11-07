@@ -116,6 +116,25 @@ One last free tool: most homes already have partial monitoring in the bill — u
 
 To get your fridge's real number instead of a range: the measurement routes are compared in [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/).
 
+
+{{< faq "How many watts does a refrigerator use?" >}}
+
+Roughly 100 to 400 watts while the compressor is actually running — but the article explains why watts is the wrong question: the compressor cycles, so the number that matters is kilowatt-hours per day, typically 1–2 kWh/day for a modern full-size fridge and 2–3 or more for older or oversized units.
+
+{{< /faq >}}
+
+{{< faq "How do I measure my refrigerator's actual energy use?" >}}
+
+The article's method: a plug-in meter over 24 hours (to capture cycling), or a smart plug for continuous tracking, or the free route — borrowing a meter from many public libraries. Then convert kWh to dollars with your rate.
+
+{{< /faq >}}
+
+{{< faq "What if my fridge measurement comes back high?" >}}
+
+The guide's guidance: check the obvious first — door seals, coils, ambient temperature, and an oversized or ancient unit — before shopping. If the kWh/day is far above the 1–2 modern range, replacement math is covered in the from-kWh-to-dollars section.
+
+{{< /faq >}}
+
 ## Sources
 
 All sources fetched and verified by the author on August 31, 2026.

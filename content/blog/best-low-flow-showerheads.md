@@ -106,6 +106,25 @@ That is the headline number: about **$117 a year** for a $21 head — payback in
 
 And the standing rule for every showerhead on this page: **measure before you replace.** The bucket-and-stopwatch test takes five minutes and tells you whether a swap is worth $21 or worth nothing. A 1.5 GPM head is a genuine upgrade over a 2.5 GPM head — but only if your head actually flows 2.5 GPM. The cheapest water-saving device in your bathroom is the one you already own, running at the flow you actually need; the second cheapest is the one that tells you the truth about what you have.
 
+
+{{< faq "Do low-flow showerheads still feel high-pressure?" >}}
+
+The modern pressure-compensating ones do — that's the whole trick, as the article explains. Compensating nozzles accelerate the water so the spray feels strong at flows the old low-flow heads never managed.
+
+{{< /faq >}}
+
+{{< faq "Which low-flow showerhead does this guide recommend?" >}}
+
+The Niagara Earth Spa 1.5 GPM — about $21 with pressure-compensating nozzles and a Soap-and-Soak pause valve that drops the flow while you lather. A brushed-nickel runner-up covers finish matching.
+
+{{< /faq >}}
+
+{{< faq "How much water does a 1.5 GPM showerhead save?" >}}
+
+Dropping from a 2.5 GPM head to 1.5 GPM cuts shower water use by 40% at equal shower time — the article's per-year math totals the gallons and dollars for a typical household. Verify your own head's flow with the bucket-and-stopwatch test it describes.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [EPA WaterSense — Showerheads](https://www.epa.gov/watersense/showerheads) — standard 2.5 GPM, WaterSense ≤2.0 GPM, ~2,700 gal/yr average-family savings, ~330 kWh/yr energy savings, pressure-compensation performance criteria, showering ~17% of indoor water use. Retrieved 2026-09-11.

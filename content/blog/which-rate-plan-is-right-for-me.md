@@ -102,6 +102,25 @@ That fourth question is the one most readers skip — and the one that turns a g
 
 A rate plan is a pricing structure, not a savings plan — the savings come from matching behavior to it. Once your structure is right, [how to lower your utility bills](/blog/how-to-lower-utility-bills/) walks the prioritization: measure first, then fix the biggest line.
 
+
+{{< faq "Which rate plan is cheapest: fixed, variable, or time-of-use?" >}}
+
+The one that matches when you use power, not the headline price — the article's core rule. Predictable unschedulable usage fits fixed; a household that can shift laundry, dishwashing, and EV charging to off-peak earns real savings on time-of-use; variable rewards deregulated-state watchers who accept spike risk.
+
+{{< /faq >}}
+
+{{< faq "When is time-of-use a bad idea?" >}}
+
+When your usage can't move out of peak hours — the article's summer-trap section shows how one afternoon-heavy habit can erase a whole TOU plan's savings. The fix list says check your last few bills' hourly pattern before switching.
+
+{{< /faq >}}
+
+{{< faq "What should I ask my utility before switching plans?" >}}
+
+The article's list: the exact peak/off-peak windows, the two rates, any plan fees, and the exit rules. Get it in writing, and after you pick, make the plan pay by moving the big schedulable loads into the cheap window.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. DOE: Evaluating Your Utility Rate Options](https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options)

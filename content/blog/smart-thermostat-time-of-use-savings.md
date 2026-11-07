@@ -79,6 +79,25 @@ No honest page can promise "X% off your bill" — the percentage depends on your
 
 Before buying automation, spend the free fifteen minutes: confirm your rate plan is actually the problem ([which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)), check whether your utility's app already shows your hourly usage, and verify the thermostat isn't compensating for a $4 air filter or a draft you could caulk this weekend ([what MERV rating do I need](/blog/what-merv-rating-do-i-need/)). Automation amplifies a well-set-up house; it never substitutes for one.
 
+
+{{< faq "Does a smart thermostat save money on a time-of-use plan?" >}}
+
+Yes, by moving your heating and cooling's purchase times away from expensive hours automatically — which the article notes is the only way it reliably happens. DOE's benchmark: up to 10% a year on heating and cooling.
+
+{{< /faq >}}
+
+{{< faq "How does a smart thermostat exploit TOU rates?" >}}
+
+The mechanism is scheduling: pre-cool or pre-heat in cheap hours, coast through the expensive window, recover after it ends. The one feature that matters on TOU is hourly scheduling, per the article.
+
+{{< /faq >}}
+
+{{< faq "Who should buy what?" >}}
+
+The article's buyer split: households on TOU rates with schedulable comfort get the smart thermostat; households already home all day get less from scheduling and should fix usage first. The buying sequence that beats any thermostat is in the final section.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy — Home Upgrades / Energy Savings Hub](https://www.energy.gov/save/home-upgrades) — thermostat setback savings framework (up to 10%/year for 7–10°F, 8-hour setback). Retrieved 2026-09-06.

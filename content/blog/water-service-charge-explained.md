@@ -106,6 +106,25 @@ Why do I pay a base charge every month? To cover fixed costs like meters, billin
 Is the service charge based on how much water I use? No. It is a fixed amount that does not change with usage; the usage charge changes based on what the meter records. [3][4]
 Can I lower my water service charge? It is set by the utility for a given account type or meter size. You can usually lower the usage portion of the bill by reducing consumption and fixing leaks. [4]
 
+
+{{< faq "Why is there a fixed service charge on my water bill even when I barely used water?" >}}
+
+Because the service charge covers the costs of keeping the system ready to serve you — meter reading, billing, maintenance of pipes and treatment capacity — which exist whether you used one gallon or one thousand. The article explains what the fixed fee covers and what it does not.
+
+{{< /faq >}}
+
+{{< faq "Can I lower or remove the water service charge?" >}}
+
+Mostly no — it's set by your local water utility or city, and the article is explicit about what you can and cannot lower. What you control is the usage side; the sanity-check section shows how to verify the charge against your utility's published rate.
+
+{{< /faq >}}
+
+{{< faq "Is a service charge the same as a usage charge?" >}}
+
+No. The service charge is fixed per billing period; the usage charge scales with the volume you consumed. The article walks both line types with real 2026 utility examples so you can tell them apart on your own statement.
+
+{{< /faq >}}
+
 ## Sources
 
 - [1] EPA WaterSense, Understanding Your Water Bill - one CCF is equal to 748 gallons (fetched 2026-08-29). https://www.epa.gov/watersense/understanding-your-water-bill

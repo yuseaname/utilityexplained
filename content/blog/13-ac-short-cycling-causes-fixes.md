@@ -116,6 +116,25 @@ Related: if it's the *furnace* that runs constantly in heating season rather tha
 
 The furnace-season sibling of this problem — runs two minutes, quits, repeats — is covered in [why your furnace keeps turning on and off](/blog/why-does-my-furnace-keep-turning-on-and-off/).
 
+
+{{< faq "Why does my AC turn on and off every few minutes?" >}}
+
+Several possible causes — and cycle length alone doesn't establish the diagnosis, the article is careful to say. The diagnostic table covers equipment sizing, airflow, controls, maintenance, weather, and system faults, each with its tell.
+
+{{< /faq >}}
+
+{{< faq "Is AC short cycling bad for efficiency?" >}}
+
+Yes — DOE educational material cited in the article notes short cycling can reduce air-conditioner efficiency and dehumidification. Recurring behavior warrants qualified evaluation.
+
+{{< /faq >}}
+
+{{< faq "Can I fix short cycling myself?" >}}
+
+The owner checks first, per the article: filter, thermostat batteries and placement, condenser clearance, and ice on the coil. If those clear it, done; the call-a-tech-vs-DIY decision table tells you when to stop.
+
+{{< /faq >}}
+
 ## Sources
 
 1. [U.S. Department of Energy Building Science Education: HVAC Preventative Maintenance](https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance)
