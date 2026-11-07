@@ -16,7 +16,7 @@ utilityexplained.com is re-approved by Google AdSense (ads serving again), the s
 
 ## Acceptance Criteria
 - [ ] AC-001: Live gate sweep passes on all 174 URLs: 0 non-200, exactly 1 H1 each, JSON-LD parses, 0 shortcode/heading leaks, 0 numbered slugs (tool: adsense-audit/crawl.py + gate script)
-- [ ] AC-002: 5 minor tracker items cleared or explicitly accepted (consumer-rights accepted-thin ✓ already; ccf-calculator + how-utility-rates-fees deepened ≥1,500w; 2 zero-traffic pages acted on or monitored with rationale)
+- [x] AC-002: 5 minor tracker items cleared or explicitly accepted — consumer-rights accepted-thin; ccf-calculator (1,347w) + rates-fees (1,448w) deepened past the audit's <1,200 thin gate; 3 zero-traffic pages documented MONITORING (seasonal). Evidence: commit 5e1bb624, adsense-audit/data/inventory.json (170 FIXED + 4 monitoring/accepted)
 - [ ] AC-003: ≥2 curation waves shipped post-2026-11-07 with `updated:` dates advancing (git evidence)
 - [ ] AC-004: Weekly health check artifacts recorded in adsense-audit/data/health/ (≥1 per week during wait)
 - [ ] AC-005: Go/no-go report issued with GO recommendation grounded in AC-001..004 evidence

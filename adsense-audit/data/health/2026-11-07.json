@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-07",
+ "checks": {
+  "sitemap_urls": 174,
+  "numbered_slugs": 0,
+  "redirects": {
+   "ok": 35,
+   "bad": []
+  },
+  "key_pages": {
+   "/": "200",
+   "/blog/": "200",
+   "/electricity-explained/": "200",
+   "/water-explained/": "200",
+   "/blog/average-utility-bills-in-texas/": "200",
+   "/calculators/": "200"
+  },
+  "literal_heading_leaks": 0,
+  "rybbit_7d_sessions": 1082,
+  "rybbit_7d_buckets": 187
+ },
+ "verdict": "HEALTHY"
+}

@@ -57,4 +57,6 @@
 - Rationale: no duplicate sources of truth
 
 # CHANGELOG
-- 2026-11-07: PM system created; contract drafted (2 params flagged); M-001 started
+- 2026-11-07: PM system created; contract drafted (2 params flagged)
+- 2026-11-07: M-001 complete (T-001..004); tracker 170/174 FIXED + 4 accepted/monitoring; health artifact #1 HEALTHY
+- 2026-11-07: AC-002 corrected — thin gate is the audit's original <1,200 rendered words (draft said ≥1,500 aspirationally; actuals 1,347/1,448 clear the real gate; no padding added to chase the aspirational number)

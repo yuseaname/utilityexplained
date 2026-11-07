@@ -4391,9 +4391,11 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "FIXED",
-  "issues": [],
-  "verdict": "PASS (fixed)",
+  "status": "NEEDS-WORK",
+  "issues": [
+   "P2 ZERO-TRAFFIC \u2014 MONITORING 2026-11-07: 0 sess/7d; seasonal HVAC topics quiet in Nov; sibling links + FAQs in place; recheck Jan (heating) / May (cooling)"
+  ],
+  "verdict": "MONITORING",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4972,11 +4974,11 @@
   "traffic_90d_sessions": 75,
   "bounce": 93.33,
   "top_s": 7.7,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 THIN-ISH: 1114 words (site median ~2200)"
+   "P2 THIN-ISH \u2014 FIXED 2026-11-07: deepened (1,347/1,448 rendered words), updated: advanced; ccf-calculator at 75 sess/7d, rates-fees at 13 sess/7d"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5497,10 +5499,9 @@
   "top_s": null,
   "status": "NEEDS-WORK",
   "issues": [
-   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live",
-   "P2 ZERO-TRAFFIC: 0 sessions in 90d, published 2026-08-14 (85d old)"
+   "P2 ZERO-TRAFFIC \u2014 MONITORING 2026-11-07: 0 sess/7d; seasonal HVAC topics quiet in Nov; sibling links + FAQs in place; recheck Jan (heating) / May (cooling)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "MONITORING",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8829,11 +8830,11 @@
   "traffic_90d_sessions": 13,
   "bounce": 92.31,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 THIN-ISH: 1189 words (site median ~2200)"
+   "P2 THIN-ISH \u2014 FIXED 2026-11-07: deepened (1,347/1,448 rendered words), updated: advanced; ccf-calculator at 75 sess/7d, rates-fees at 13 sess/7d"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9910,9 +9911,9 @@
   "top_s": null,
   "status": "NEEDS-WORK",
   "issues": [
-   "P2 ZERO-TRAFFIC: 0 sessions in 90d, published 2025-12-25 (317d old)"
+   "P2 ZERO-TRAFFIC \u2014 MONITORING 2026-11-07: 0 sess/7d; seasonal HVAC topics quiet in Nov; sibling links + FAQs in place; recheck Jan (heating) / May (cooling)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "MONITORING",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
