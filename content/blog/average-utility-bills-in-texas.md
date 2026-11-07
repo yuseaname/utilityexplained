@@ -1,99 +1,130 @@
 ---
 title: "Average Utility Bills in Texas (2026): Electric, Gas & Water"
 slug: "average-utility-bills-in-texas"
-description: "Average utility bills in Texas 2026: the residential electric rate is 15.91¢/kWh (EIA) and gas runs about $1.87/therm — see what a standardized month costs and how to check your own bill against it."
+description: "Average utility bills in Texas 2026: the residential electric rate is 15.91¢/kWh (EIA) and gas runs about $1.87/therm. Texas is the state where you can shop your electric rate — see the numbers, the REP-vs-TDU bill split, and how to actually compare plans."
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-07
 author: "Bills & Rates Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
-tags: ["average utility bill", "texas utilities", "electric rates", "gas rates"]
-keywords: ["average utility bill in texas", "average electric bill texas", "average gas bill texas", "texas electric rates 2026"]
+tags: ["average utility bill", "texas utilities", "electric rates", "gas rates", "texas electricity shopping"]
+keywords: ["average utility bill in texas", "average electric bill texas", "average gas bill texas", "texas electric rates 2026", "how to switch electric providers texas"]
 image: "/images/articles/average-utility-bills-in-texas/average-utility-bills-in-texas_hero.webp"
 image_alt: "Flat illustration of the Texas state silhouette with electricity, natural gas, and water icons — the three utility bills averaged in this 2026 guide."
 hero_below_answer: true
 sources:
-  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-10-30)
-  - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-10-30)
+  - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a (EIA Electric Power Monthly Table 5.6.A, residential average price by state; retrieved 2026-11-07)
+  - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm (EIA natural gas residential price by state, annual; retrieved 2026-11-07)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (EIA FAQ, average monthly residential electricity use)
+  - https://www.puc.texas.gov (Public Utility Commission of Texas — retail provider and complaint resources)
 ---
 
 ## Quick Answer: What Utilities Cost in Texas {#quick-answer}
 
-**Electricity:** the Texas residential rate averaged **15.91¢/kWh in 2026** (EIA preliminary year-to-date; 15.4¢ final for 2025) — below the 18.16¢/kWh national average. At the EIA national-standard 899 kWh month, that is **$143/month** for electricity.
+**Electricity:** the Texas residential rate averaged **15.91¢/kWh in 2026** (EIA preliminary year-to-date; 15.4¢ final for 2025) — below the 18.16¢/kWh national average. At the EIA national-standard 899 kWh month, that is **$143/month** for electricity, versus $163 nationally.
 
 **Natural gas:** Texas residential gas averaged **$19.42/thousand cubic feet in 2025** (EIA annual) — about **$1.87/therm** after conversion. A standardized 75-therm heating month runs **$140**.
 
-**Water & sewer:** there is **no reliable state average** — water is priced city-by-city in Texas. Nationally the combined bill runs about $70–$90/month; see [what CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) to decode yours.
+**Water & sewer:** there is **no reliable state average** — water is priced city-by-city or by local water district in Texas. Nationally the combined bill runs about $70–$90/month; [what CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) decodes yours in two minutes.
 
-{{< jump-row "The numbers|#the-numbers-table" "Why rates look like this|#why-texas-rates-look-like-this" "Water & sewer|#water-and-sewer-in-texas" "If your bill is higher|#if-your-bill-runs-above-these-numbers" >}}
+But the Texas-specific story isn't the averages — it's that in most of the state, **your electric rate is a choice you made**, possibly years ago. The sections below show how to re-make it.
+
+{{< jump-row "The numbers|#the-numbers" "How a TX bill splits|#how-a-texas-bill-splits" "The holdover-rate trap|#the-holdover-rate-trap" "Reading the EFL|#reading-the-efl" "Water & sewer|#water-and-sewer-in-texas" >}}
 
 {{< affiliate-disclosure >}}
 
-## The numbers table {#the-numbers-table}
+## The numbers {#the-numbers}
 
-<p><em>Data notes: electric rates are EIA residential averages (¢/kWh) — the 2026 column is preliminary year-to-date, 2025 is final. Gas is the EIA annual residential price ($/thousand cubic feet; therm conversion 1 Mcf ≈ 10.37 therms). Monthly figures use the same standardized usage as our <a href="/blog/average-utility-bills-by-state-2026/">state-by-state guide</a> — 899 kWh electricity, 75 therms gas — so states are comparable on price, not lifestyle. Your actual bill depends on usage, rate plan, and season.</em></p>
+<p><em>Notes on the data: electric rates are EIA residential averages for Texas (2026 preliminary year-to-date; 2025 final). Gas pricing is the EIA annual state figure, converted from $/Mcf to therms at 1 Mcf ≈ 10.37. Monthly amounts standardize usage at 899 kWh and 75 therms — the exact convention of our <a href="/blog/average-utility-bills-by-state-2026/">state-by-state guide</a> — keeping lifestyle out of the comparison. Your real bill follows your usage, your plan, and the season.</em></p>
 
-| Line | Texas | U.S. average |
+| Measure | Texas | U.S. typical |
 |---|---|---|
 | Electric rate, 2026 YTD | **15.91¢/kWh** | 18.16¢/kWh |
-| Electric rate, 2025 final | 15.4¢/kWh | 17.57¢/kWh |
-| Standardized electric month (899 kWh) | **$143** | $164 |
-| Gas price, 2025 annual | **$19.42/Mcf** (≈ $1.87/therm) | ~$1.92/therm (Sep 2026) |
-| Standardized gas month (75 therms) | **$140** | ~$144 |
-| Water + sewer | city-priced — no state average | ~$70–$90 combined |
+| Electric rate, finalized 2025 | 15.4¢/kWh | 17.57¢/kWh |
+| A 899-kWh month costs | **$143** | $163 |
+| Gas price, 2025 | **$19.42/Mcf** (≈ $1.87/therm) | ~$1.92/therm (Sep 2026) |
+| A 75-therm month costs | **$140** | ~$144 |
+| Water + sewer | set city-by-city | ~$70–$90 combined |
 
-{{< visual src="/images/articles/average-utility-bills-in-texas/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: Texas $143 versus the national average $164." wide="true" >}}
+{{< visual src="/images/articles/average-utility-bills-in-texas/electric-month-state-vs-national.webp" alt="Standardized 899 kWh monthly electricity cost: Texas $143 versus the national average $163." wide="true" >}}
 
-## Why Texas rates look like this {#why-texas-rates-look-like-this}
+The EIA trend context: Texas's residential rate moved from 15.4¢/kWh (2025 final) to 15.91¢/kWh (2026 to date), a 3.3% increase, while gas went from $17.98/Mcf in 2024 to $19.42/Mcf in 2025 — about 8%. And because the cost driver here is the long summer cooling season, your own bill swings month-to-month far more than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
 
-Texas's electric rate sits below the 18.16¢/kWh national average — on the affordable side nationally. Market structure matters as much as the number: Texas runs a deregulated retail market across most of the state — the rate you pay depends on the plan you picked. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/which-rate-plan-is-right-for-me/).
+## How a Texas bill splits: REP vs TDU {#how-a-texas-bill-splits}
 
-The EIA trend mat
+Texas runs the country's largest deregulated retail electricity market — most Texans buy power from a **REP (Retail Electric Provider)**, the company whose name is on the bill, while the **TDU (Transmission and Distribution Utility)** — Oncor, CenterPoint Energy, AEP Texas, or TNMP, depending on where you live — still owns the wires and delivers it.
+
+That split explains every confusing line on a Texas bill:
+
+- **Energy charge** — the per-kWh price from *your chosen plan*. This is the shoppable part, and it varies widely: identical houses next door can pay rates several cents apart.
+- **TDU delivery charges** — set through the state's rate process and passed through by every REP. A flat monthly fee plus a per-kWh delivery rate. You cannot shop this, no matter which provider you pick.
+- **REP monthly fees** — some plans advertise a low energy rate and recover it through a monthly fee. The EFL (next section) forces this into the open.
+
+The practical consequence: when you compare plans, only the *energy* portion differs — delivery charges are the same everywhere in a given TDU territory. A 3¢/kWh difference on the energy charge is real money — about $27/month at the standardized 899 kWh.
+
+If you live in a city-served or co-op territory (Austin Energy, CPS Energy, and many rural cooperatives), none of this applies — your rate is set by your municipal utility or cooperative, and the averages table is simply your benchmark.
+
+## The holdover-rate trap {#the-holdover-rate-trap}
+
+The most expensive kilowatt-hour in Texas is the one on an expired contract:
+
+When a fixed-rate contract ends, most REPs roll the account onto a **month-to-month variable or holdover rate**. It is frequently the provider's worst rate — often several cents above their advertised plans — and it can change monthly without the notice protections a contract carries. People routinely sit on it for years, paying well over market.
+
+The check takes two minutes: find your contract end date on your bill or your provider's portal. If you're month-to-month, or your contract ends within 30 days, comparison-shop now — switching is free, there's no interruption of power (the TDU keeps the lights on through the switch), and enrollments typically complete within a few business days. Complaints about providers go to the [Public Utility Commission of Texas](https://www.puc.texas.gov).
+
+## Reading the EFL: three numbers decide the plan {#reading-the-efl}
+
+Every Texas retail plan carries an **Electricity Facts Label (EFL)** — a standardized disclosure sheet. Ignore the headline rate and read these three numbers:
+
+1. **Energy charge at your usage level.** EFLs quote prices at 500, 1,000, and 2,000 kWh/month. A plan priced to look cheap at 500 kWh can be expensive at your real usage — pull a few recent bills and use your actual monthly kWh.
+2. **All-in average price at 1,000 kWh.** This bundled figure (energy + TDU delivery + fees, averaged) is the only number that makes two plans directly comparable. Compare plans on this line, not the energy charge alone.
+3. **Term and early-termination fee.** Fixed-term plans lock the rate; month-to-month plans don't. If a plan's termination fee is high, price that risk against the chance you move mid-term.
+
+Plan-type literacy matters too: fixed versus variable versus time-of-use — and prepaid plans, which avoid deposits but charge premium rates. [Which rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) walks the trade-offs; the same logic applies to Texas plan structures.
+
 {{< visual src="/images/articles/average-utility-bills-in-texas/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: Texas $140 versus the national average $144." wide="true" >}}
-ters too: Texas's residential rate moved from 15.4¢/kWh (2025 final) to 15.91¢/kWh (2026 to date), a 3.3% increase. On the gas side, residential prices went from $17.98/Mcf in 2024 to $19.42/Mcf in 2025 — a 8% increase. And because the cost driver here is the long summer cooling season, your own bill swings more month-to-month than any annual average suggests. For how the pieces fit together, see [how utility rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/).
+
+Gas is the simpler story: most gas service in Texas is regulated and bundled with the local gas utility, so the EIA numbers in the table are close to what your bill reflects. Winter is what moves it — [why gas bills spike in winter](/blog/gas-bill-too-high/).
 
 ## Water and sewer in Texas {#water-and-sewer-in-texas}
 
-Water and sewer are set by your city or water district, not the state — two neighbors across a city line can pay very different rates for the same usage. Instead of a state average, run this check:
+Water and sewer are set by your city or water district — two neighbors across a city line can pay very different rates for the same usage. Texas-specific wrinkles worth knowing:
 
-1. **Find the unit on your bill** — most water bills measure in CCF (hundred cubic feet). [What CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) decodes it in two minutes.
-2. **Benchmark usage** — a typical household runs about 2–4 CCF per person per month; well above that, a leak is the usual suspect ([the 10-minute check](/blog/who-responsible-water-leak-before-after-meter/)).
-3. **Check fixed charges** — many water systems have raised base charges faster than usage rates; your bill can climb even with flat usage. [Why your water bill is high](/blog/water-bill-too-high/) walks the whole statement.
+1. **Special districts layer on.** Many metro suburbs add municipal utility district (MUD) or water control district charges that show up as separate lines or separate bills entirely.
+2. **Decode the units first.** Most Texas water bills measure in CCF (hundred cubic feet): [what CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/).
+3. **Benchmark usage.** A typical household runs about 2–4 CCF per person per month; well above that in summer usually means irrigation, not a leak — but in winter, suspect the toilet or a slab leak ([the 10-minute meter check](/blog/who-responsible-water-leak-before-after-meter/)).
+4. **Watch the fixed charges.** Many Texas systems have raised base charges faster than usage rates — your bill can climb with flat usage. [Why your water bill is high](/blog/water-bill-too-high/) walks the whole statement.
 
 ## If your bill runs above these numbers {#if-your-bill-runs-above-these-numbers}
 
-A standardized table tells you what an 899-kWh month costs — not what YOUR month costs. If your electric bill runs well above $143 and your habits haven't changed, the cause is almost always usage, not the rate: the long summer cooling season is the usual driver in Texas.
-
-Measure before spending on anything:
+In a shopping state, an above-average bill has two suspects: the plan or the usage. Check the plan first (it's a two-minute bill lookup), then measure usage before spending on anything:
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="Find what's actually drawing the power" description="Plug-in meter that shows any appliance's true watts, kWh, and projected monthly cost at the outlet. The cheapest way to find which device explains the gap between your bill and the state average. P3 International spec: 0.2% accuracy, 120V/15A, UL listed." button="Check price on Amazon" >}}
 
-To turn your own numbers into a dollar figure, the [electricity cost calculator](/calculators/electricity-cost/) does the watts × hours × rate math with your rate pre-filled or your own. For the ranked fix list — free first, then cheap, then big-ticket — start at [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
+The [electricity cost calculator](/calculators/electricity-cost/) does the watts × hours × rate math with your own numbers, and [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/) ranks the fixes — free moves before paid ones. And if the bill math keeps pointing upward, [what solar actually costs in Texas](https://solarpoweredproject.com/guides/solar-panel-cost-texas.html) is the companion decision page.
 
-And if the bill math keeps pointing upward, [what solar actually costs in Texas](https://solarpoweredproject.com/guides/solar-panel-cost-texas.html) is the companion decision page.
+{{< faq "How do I switch electric providers in Texas?">}}
+
+Compare plans on the all-in average price at your usage level from each plan's Electricity Facts Label, enroll with the new provider, and the switch completes in a few business days — no power interruption, since the wires utility (your TDU) keeps delivering throughout. There is no fee to switch; only canceling a fixed contract early triggers an early-termination fee. Complaints and provider questions go to the Public Utility Commission of Texas.
+
+{{< /faq >}}
 
 {{< faq "What is the average electric bill in Texas?">}}
 
-At the EIA-standardized 899 kWh month, Texas's 15.91¢/kWh residential rate puts electricity at about $143/month. Your actual bill follows your usage — the long summer cooling season pushes many texas households well past the standard. [How many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) shows the real spread.
+At the EIA-standardized 899 kWh month, Texas's 15.91¢/kWh residential rate puts electricity at about $143/month. Your actual bill follows your usage and your plan: the long summer cooling season pushes many Texas households well past the standard, and two neighbors on different plans can pay very different amounts for identical usage. [How many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) shows the real spread.
 
 {{< /faq >}}
 
-{{< faq "What is the average gas bill in Texas?">}}
+{{< faq "Why is my Texas electric bill higher than the state average?">}}
 
-Texas residential gas averaged $19.42 per thousand cubic feet in 2025 (EIA) — roughly $1.87 per therm. A standardized 75-therm heating month runs about $140, but gas bills are seasonal: low-use summer months often run $25–$40, while winter peaks far higher. [Why gas bills spike in winter](/blog/gas-bill-too-high/) explains the swing.
-
-{{< /faq >}}
-
-{{< faq "Is there an average water bill for Texas?">}}
-
-No reliable one — water and sewer rates in Texas are set city-by-city or by water district, so a single state number would be fiction. Compare your bill's CCF usage against the 2–4 CCF per person per month benchmark, and read [why your water bill is high](/blog/water-bill-too-high/) if you're above it.
+Three usual causes, in order: an expired-contract holdover rate (the month-to-month rate after a fixed plan ends is often the provider's worst), a plan whose pricing assumes different usage than yours, and summer cooling load. Check the contract status and the EFL's average-price line first — then measure usage with a plug-in meter before buying efficiency gear.
 
 {{< /faq >}}
 
 ## Sources
 
-1. [EIA, Electric Power Monthly Table 5.6.A — average residential price by state](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a) (retrieved 2026-10-30; 2026 preliminary, 2025 final)
-2. [EIA, natural gas residential price by state, annual](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm) (retrieved 2026-10-30; 2025 annual)
+1. [EIA, Electric Power Monthly Table 5.6.A — average residential price by state](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a) (retrieved 2026-11-07; 2026 preliminary, 2025 final)
+2. [EIA natural gas data, residential price by state](https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_dmcf_a.htm) — annual; the 2025 value, verified 2026-11-07
 3. [EIA FAQ — average monthly residential electricity use](https://www.eia.gov/tools/faqs/faq.php?id=97&t=3)
-4. Our [average utility bills by state (2026) guide](/blog/average-utility-bills-by-state-2026/) — methodology and the 17-state table
+4. [Public Utility Commission of Texas](https://www.puc.texas.gov) — provider resources and complaint process
+5. Our [average utility bills by state (2026) guide](/blog/average-utility-bills-by-state-2026/) — methodology and the multi-state table
