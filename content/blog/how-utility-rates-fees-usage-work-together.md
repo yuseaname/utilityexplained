@@ -3,12 +3,12 @@ title: "How Utility Rates, Fees, and Usage Work Together"
 slug: "how-utility-rates-fees-usage-work-together"
 description: "How utility rates, fees, and usage work together: a plain-English model of how usage, price per unit, and fixed charges interact so your total makes sense."
 date: 2026-01-15
-updated: 2026-10-30
+updated: 2026-11-07
 author: "Affordability & Assistance Desk"
 category: "Bills & Fees"
 categories: ["Bills & Fees"]
-tags: ["budget"]
-keywords: ["utility budget"]
+tags: ["budget", "utility rates", "bill reading", "fees"]
+keywords: ["how utility rates work", "utility fees explained", "usage vs rate", "why did my bill change"]
 image: "/images/articles/how-utility-rates-fees-usage-work-together/image.webp"
 sources:
   - https://www.eia.gov/todayinenergy/detail.php?id=65284 (retrieved 2026-08-29)
@@ -144,6 +144,20 @@ One concrete anchor for the rate layer: residential electric rates in 2026 run 1
               </a>.
             </p>
 
+
+## Diagnose your bill: four questions {#diagnose}
+
+The layers model becomes useful the moment it points at a fix. Pull your last two bills and answer four questions:
+
+**1. Which layer actually moved?** Put three numbers side by side for both periods: the usage units (kWh, therms, CCF), the effective rate per unit (usage-based charges ÷ units), and the total of every non-usage line. The layer that moved is the layer to work on — most bill anxiety comes from treating all three as one mystery number.
+
+**2. Usage moved, rate held?** That's a behavior-or-equipment story: weather extremes, a new appliance, more people home, or a device running badly. Measure before changing habits — a plug-in meter or the car's own readout turns guesses into kWh. The ranked diagnosis lives in [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) and [how many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/).
+
+**3. Rate moved, usage held?** Three common causes, each with its own check: a plan or contract rolled over ([which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)), a fuel or adjustment clause changed ([fuel adjustment charge explained](/blog/fuel-adjustment-charge-on-utility-bill-explained/)), or you're seeing the split between supply and delivery for the first time ([delivery charge vs supply charge](/blog/delivery-charge-vs-supply-charge-utility-bill/)). In shopping states, this is the layer where a new plan beats every efficiency gadget.
+
+**4. Neither moved, total climbed?** Look at the fixed-charge block: customer charges, riders, taxes, and fees can rise between periods with your usage identical — [every charge on your utility bill, explained](/blog/hidden-fees-utility-bill/) maps the common ones. You can't shop most of them, but you can verify each against your utility's published tariff, and you should expect the same block to shrink your per-unit savings when you do cut usage.
+
+One catch before concluding anything: confirm the two bills cover the same number of days. An estimated bill or a long/short cycle ([estimated utility bills explained](/blog/estimated-utility-bill-explained/), [billing cycles explained](/blog/utility-billing-cycle-explained/)) can fake any of the three patterns above.
 
 ## Common misconceptions {#misconceptions}
 

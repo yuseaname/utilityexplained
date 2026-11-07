@@ -3,7 +3,7 @@ title: "CCF Calculator: Water Bill Units to Gallons + Dollars"
 slug: "ccf-calculator"
 description: "Enter your CCF usage and rate to convert water-bill units to gallons, calculate tiered cost, and find your household's gallons-per-person-day baseline."
 date: 2026-08-28
-updated: 2026-10-30
+updated: 2026-11-07
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
@@ -99,6 +99,18 @@ No JavaScript? The math is three lines:
 | Baseline: gallons ÷ days ÷ people | 5,984 ÷ 30 ÷ 3 = **~66 gal/person/day** |
 
 Utilities round the conversion differently — some bill in gallons, some in CCF, a few in cubic feet or 1,000-gallon units. EPA WaterSense notes that rate structures and units vary by utility, so confirm which unit your bill uses before comparing bills. [What is CCF on a water bill?](/blog/what-is-ccf-on-a-water-bill/) walks through reading the unit off a real statement.
+
+## Three Bills, Worked End to End
+
+The calculator is easiest to trust once you've seen it eat a real statement. Here are three typical bills, run through the same three lines of math as the table above.
+
+**Bill 1 — one person, apartment, no yard.** Usage: 3 CCF at a flat $4.60/CCF, 30-day period. The math: 3 × 748 = **2,244 gallons**; 3 × $4.60 = **$13.80** usage cost; 2,244 ÷ 30 ÷ 1 = **75 gal/person/day**. That's a normal single-person indoor number — small households often land between 60 and 90 because fixed activities (dishes, laundry, showers) don't shrink with headcount. Nothing to fix here; the value is having the baseline recorded for next period.
+
+**Bill 2 — family of four, summer, irrigated yard.** Usage: 14 CCF on a two-tier rate — Tier 1 covers 8 CCF at $3.20, everything above at $5.80; 31-day period. The math: 14 × 748 = **10,472 gallons**; Tier 1: 8 × $3.20 = $25.60, Tier 2: 6 × $5.80 = $34.80, total **$60.40**; 10,472 ÷ 31 ÷ 4 = **~84 gal/person/day**. Two things to notice: the yard, not the people, put this bill in Tier 2 — and Tier 2 delivered $34.80 of the $60.40. Cutting *only* irrigation drops the most expensive gallons first. That asymmetry is the whole reason tier mode exists in the calculator.
+
+**Bill 3 — the jump that isn't a habit change.** A couple's usage moves from 6 CCF to 11 CCF with no new routine, on a flat $4.10/CCF, 30-day period. The math: 11 × 748 = **8,228 gallons**; 8,228 ÷ 30 ÷ 2 = **~137 gal/person/day** — roughly double a typical two-person baseline. The 5 extra CCF is about 3,700 gallons in a month, which is the signature of a continuously running toilet or a slow leak, not of behavior. This bill goes straight to the meter test in the leak section below before anyone adjusts a single habit.
+
+The pattern across all three: the raw CCF number tells you almost nothing until it's converted to gallons, cost, and a per-person baseline. That trio is what makes one bill comparable to the next — and what turns the calculator from a converter into a diagnostic tool.
 
 ## Why the Per-Person Baseline Matters More Than Any National Average
 
