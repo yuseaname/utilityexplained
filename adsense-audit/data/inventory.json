@@ -7,11 +7,11 @@
   "traffic_90d_sessions": 10,
   "bounce": 80,
   "top_s": 46.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P0 DUPLICATE: state template cluster (57-66% shingle overlap, only state name/rates swapped; ~1070w = thinnest on site)"
+   "P0 DUPLICATE \u2014 FIXED 2026-11-07: full state-specific rewrite, max pairwise containment 0.095"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -75,11 +75,11 @@
   "traffic_90d_sessions": 1,
   "bounce": 0,
   "top_s": 4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P0 DUPLICATE: state template cluster (57-66% shingle overlap, only state name/rates swapped; ~1070w = thinnest on site)"
+   "P0 DUPLICATE \u2014 FIXED 2026-11-07: full state-specific rewrite, max pairwise containment 0.095"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -143,11 +143,11 @@
   "traffic_90d_sessions": 7,
   "bounce": 71.43,
   "top_s": 225,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P0 DUPLICATE: state template cluster (57-66% shingle overlap, only state name/rates swapped; ~1070w = thinnest on site)"
+   "P0 DUPLICATE \u2014 FIXED 2026-11-07: full state-specific rewrite, max pairwise containment 0.095"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -211,11 +211,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 80,
   "top_s": 0.2,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P0 DUPLICATE: state template cluster (57-66% shingle overlap, only state name/rates swapped; ~1070w = thinnest on site)"
+   "P0 DUPLICATE \u2014 FIXED 2026-11-07: full state-specific rewrite, max pairwise containment 0.095"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -279,11 +279,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 66.67,
   "top_s": 0.9,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P0 DUPLICATE: state template cluster (57-66% shingle overlap, only state name/rates swapped; ~1070w = thinnest on site)"
+   "P0 DUPLICATE \u2014 FIXED 2026-11-07: full state-specific rewrite, max pairwise containment 0.095"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -347,9 +347,9 @@
   "traffic_90d_sessions": 10,
   "bounce": 60,
   "top_s": 83.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -403,11 +403,11 @@
   "traffic_90d_sessions": 74,
   "bounce": 78.38,
   "top_s": 27.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -464,11 +464,11 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 THIN-LISTING: only 82 words"
+   "P2 THIN-LISTING \u2014 FIXED 2026-11-07: intro copy added (190w/214w), verified in build"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -522,9 +522,9 @@
   "traffic_90d_sessions": 19,
   "bounce": 36.84,
   "top_s": 50.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -579,9 +579,9 @@
   "traffic_90d_sessions": 34,
   "bounce": 91.18,
   "top_s": 36.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -642,9 +642,9 @@
   "traffic_90d_sessions": 5,
   "bounce": 80,
   "top_s": 0.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -709,9 +709,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -776,9 +776,9 @@
   "traffic_90d_sessions": 10,
   "bounce": 50,
   "top_s": 32.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -832,9 +832,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -895,9 +895,9 @@
   "traffic_90d_sessions": 13,
   "bounce": 76.92,
   "top_s": 127.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -960,9 +960,9 @@
   "traffic_90d_sessions": 5,
   "bounce": 80,
   "top_s": 0.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1027,9 +1027,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 50,
   "top_s": 251.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1093,9 +1093,9 @@
   "traffic_90d_sessions": 7,
   "bounce": 28.57,
   "top_s": 19.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1149,9 +1149,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1216,9 +1216,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 66.67,
   "top_s": 0.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1282,9 +1282,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 50,
   "top_s": 18.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1338,9 +1338,9 @@
   "traffic_90d_sessions": 5,
   "bounce": 60,
   "top_s": 80.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1407,11 +1407,11 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 THIN-LISTING: only 46 words"
+   "P2 THIN-LISTING \u2014 FIXED 2026-11-07: intro copy added (190w/214w), verified in build"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1465,9 +1465,9 @@
   "traffic_90d_sessions": 8,
   "bounce": 25,
   "top_s": 0.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1524,9 +1524,9 @@
   "traffic_90d_sessions": 7,
   "bounce": 85.71,
   "top_s": 11.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1588,9 +1588,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1648,9 +1648,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1717,9 +1717,9 @@
   "traffic_90d_sessions": 7,
   "bounce": 71.43,
   "top_s": 19.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1780,9 +1780,9 @@
   "traffic_90d_sessions": 1,
   "bounce": 0,
   "top_s": 1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1843,9 +1843,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 33.33,
   "top_s": 32,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1906,9 +1906,9 @@
   "traffic_90d_sessions": 142,
   "bounce": 94.37,
   "top_s": 34.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -1973,9 +1973,9 @@
   "traffic_90d_sessions": 76,
   "bounce": 80.26,
   "top_s": 75.9,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2042,9 +2042,9 @@
   "traffic_90d_sessions": 137,
   "bounce": 82.48,
   "top_s": 69.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2113,9 +2113,9 @@
   "traffic_90d_sessions": 15,
   "bounce": 93.33,
   "top_s": 10.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2179,9 +2179,9 @@
   "traffic_90d_sessions": 16,
   "bounce": 81.25,
   "top_s": 2.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2245,9 +2245,9 @@
   "traffic_90d_sessions": 24,
   "bounce": 83.33,
   "top_s": 16.9,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2311,9 +2311,9 @@
   "traffic_90d_sessions": 192,
   "bounce": 90.62,
   "top_s": 51.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2377,9 +2377,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 66.67,
   "top_s": 35,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2443,9 +2443,9 @@
   "traffic_90d_sessions": 116,
   "bounce": 91.38,
   "top_s": 5.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2511,9 +2511,9 @@
   "traffic_90d_sessions": 51,
   "bounce": 84.31,
   "top_s": 27.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2581,9 +2581,9 @@
   "traffic_90d_sessions": 16,
   "bounce": 93.75,
   "top_s": 44.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2647,11 +2647,11 @@
   "traffic_90d_sessions": 7,
   "bounce": 85.71,
   "top_s": 0.1,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2715,11 +2715,11 @@
   "traffic_90d_sessions": 8,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2782,11 +2782,11 @@
   "traffic_90d_sessions": 9,
   "bounce": 88.89,
   "top_s": 1.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2849,11 +2849,11 @@
   "traffic_90d_sessions": 16,
   "bounce": 93.75,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2917,11 +2917,11 @@
   "traffic_90d_sessions": 17,
   "bounce": 88.24,
   "top_s": 29.6,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -2984,11 +2984,11 @@
   "traffic_90d_sessions": 45,
   "bounce": 88.89,
   "top_s": 0.9,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3051,11 +3051,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 50,
   "top_s": 36,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3118,11 +3118,11 @@
   "traffic_90d_sessions": 24,
   "bounce": 87.5,
   "top_s": 2.6,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3185,11 +3185,11 @@
   "traffic_90d_sessions": 34,
   "bounce": 85.29,
   "top_s": 13.9,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3253,9 +3253,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 25,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3309,9 +3309,9 @@
   "traffic_90d_sessions": 64,
   "bounce": 90.62,
   "top_s": 18.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3379,9 +3379,9 @@
   "traffic_90d_sessions": 28,
   "bounce": 64.29,
   "top_s": 59.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3448,9 +3448,9 @@
   "traffic_90d_sessions": 1,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3516,11 +3516,11 @@
   "traffic_90d_sessions": 36,
   "bounce": 86.11,
   "top_s": 82.7,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3586,9 +3586,9 @@
   "traffic_90d_sessions": 141,
   "bounce": 78.72,
   "top_s": 61.0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3655,11 +3655,11 @@
   "traffic_90d_sessions": 2,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3724,9 +3724,9 @@
   "traffic_90d_sessions": 33,
   "bounce": 93.94,
   "top_s": 6.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3790,11 +3790,11 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 0.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3858,11 +3858,11 @@
   "traffic_90d_sessions": 11,
   "bounce": 72.73,
   "top_s": 4.1,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3925,9 +3925,9 @@
   "traffic_90d_sessions": 50,
   "bounce": 72,
   "top_s": 18.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -3993,11 +3993,11 @@
   "traffic_90d_sessions": 28,
   "bounce": 92.86,
   "top_s": 3.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4063,11 +4063,11 @@
   "traffic_90d_sessions": 22,
   "bounce": 77.27,
   "top_s": 55.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4134,9 +4134,9 @@
   "top_s": null,
   "status": "NEEDS-WORK",
   "issues": [
-   "P2 THIN-LISTING: only 62 words"
+   "P2 THIN-LISTING \u2014 ACCEPTED 2026-11-07: 2-article category card page; term-content attempt broke term routing (reverted); revisit when category has 4+ articles"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "ACCEPTED",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4190,9 +4190,9 @@
   "traffic_90d_sessions": 2,
   "bounce": 50,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4259,9 +4259,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 75,
   "top_s": 263.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4325,11 +4325,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 83.33,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4391,9 +4391,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4459,9 +4459,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4515,11 +4515,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 83.33,
   "top_s": 32.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4582,11 +4582,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 60,
   "top_s": 30.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4647,9 +4647,9 @@
   "traffic_90d_sessions": 15,
   "bounce": 93.33,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4714,9 +4714,9 @@
   "traffic_90d_sessions": 7,
   "bounce": 42.86,
   "top_s": 23.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4771,9 +4771,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 50,
   "top_s": 28,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4837,9 +4837,9 @@
   "traffic_90d_sessions": 26,
   "bounce": 92.31,
   "top_s": 4.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -4905,9 +4905,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5039,11 +5039,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 80,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5105,11 +5105,11 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 480.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5171,9 +5171,9 @@
   "traffic_90d_sessions": 6,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5236,9 +5236,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 75,
   "top_s": 62.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5307,9 +5307,9 @@
   "traffic_90d_sessions": 11,
   "bounce": 90.91,
   "top_s": 11.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5370,9 +5370,9 @@
   "traffic_90d_sessions": 10,
   "bounce": 50,
   "top_s": 32.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5427,11 +5427,11 @@
   "traffic_90d_sessions": 2,
   "bounce": 0,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5497,7 +5497,7 @@
   "top_s": null,
   "status": "NEEDS-WORK",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live",
    "P2 ZERO-TRAFFIC: 0 sessions in 90d, published 2026-08-14 (85d old)"
   ],
   "verdict": "NEEDS WORK",
@@ -5565,11 +5565,11 @@
   "traffic_90d_sessions": 10,
   "bounce": 40,
   "top_s": 3.2,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5628,11 +5628,11 @@
   "traffic_90d_sessions": 40,
   "bounce": 90,
   "top_s": 1.6,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5697,9 +5697,9 @@
   "traffic_90d_sessions": 1303,
   "bounce": 88.1,
   "top_s": 45.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5764,9 +5764,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 75,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5830,9 +5830,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 0,
   "top_s": 11.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5898,9 +5898,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -5966,9 +5966,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6031,11 +6031,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6105,11 +6105,11 @@
   "traffic_90d_sessions": 2,
   "bounce": 50,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6176,11 +6176,11 @@
   "traffic_90d_sessions": 28,
   "bounce": 89.29,
   "top_s": 13.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6253,12 +6253,12 @@
   "traffic_90d_sessions": 3,
   "bounce": 33.33,
   "top_s": 286.6,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6321,12 +6321,12 @@
   "traffic_90d_sessions": 6,
   "bounce": 50,
   "top_s": 41,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6390,11 +6390,11 @@
   "traffic_90d_sessions": 20,
   "bounce": 85,
   "top_s": 8.1,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6459,11 +6459,11 @@
   "traffic_90d_sessions": 3,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6534,9 +6534,9 @@
   "traffic_90d_sessions": 30,
   "bounce": 86.67,
   "top_s": 14.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6598,11 +6598,11 @@
   "traffic_90d_sessions": 7,
   "bounce": 71.43,
   "top_s": 4.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6668,11 +6668,11 @@
   "traffic_90d_sessions": 9,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6738,11 +6738,11 @@
   "traffic_90d_sessions": 57,
   "bounce": 82.46,
   "top_s": 57.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6805,11 +6805,11 @@
   "traffic_90d_sessions": 11,
   "bounce": 90.91,
   "top_s": 15,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6877,11 +6877,11 @@
   "traffic_90d_sessions": 22,
   "bounce": 95.45,
   "top_s": 28.0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -6945,11 +6945,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7009,11 +7009,11 @@
   "traffic_90d_sessions": 9,
   "bounce": 77.78,
   "top_s": 1.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7078,11 +7078,11 @@
   "traffic_90d_sessions": 16,
   "bounce": 87.5,
   "top_s": 32.7,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7146,12 +7146,12 @@
   "traffic_90d_sessions": 8,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7214,11 +7214,11 @@
   "traffic_90d_sessions": 10,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7283,11 +7283,11 @@
   "traffic_90d_sessions": 21,
   "bounce": 80.95,
   "top_s": 9.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7354,11 +7354,11 @@
   "traffic_90d_sessions": 25,
   "bounce": 96,
   "top_s": 3.7,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7422,11 +7422,11 @@
   "traffic_90d_sessions": 76,
   "bounce": 86.84,
   "top_s": 22.5,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7490,11 +7490,11 @@
   "traffic_90d_sessions": 124,
   "bounce": 87.1,
   "top_s": 62.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7559,11 +7559,11 @@
   "traffic_90d_sessions": 35,
   "bounce": 82.86,
   "top_s": 6.1,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7629,9 +7629,9 @@
   "traffic_90d_sessions": 0,
   "bounce": null,
   "top_s": null,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7685,12 +7685,12 @@
   "traffic_90d_sessions": 2,
   "bounce": 50,
   "top_s": 153.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7751,9 +7751,9 @@
   "traffic_90d_sessions": 1,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7815,9 +7815,9 @@
   "traffic_90d_sessions": 1,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7882,9 +7882,9 @@
   "traffic_90d_sessions": 27,
   "bounce": 88.89,
   "top_s": 37.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -7942,9 +7942,9 @@
   "traffic_90d_sessions": 5,
   "bounce": 40,
   "top_s": 11.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8007,9 +8007,9 @@
   "traffic_90d_sessions": 108,
   "bounce": 81.48,
   "top_s": 63.9,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8073,12 +8073,12 @@
   "traffic_90d_sessions": 6,
   "bounce": 83.33,
   "top_s": 276.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8141,11 +8141,11 @@
   "traffic_90d_sessions": 10,
   "bounce": 90,
   "top_s": 19.1,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8210,12 +8210,12 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 11.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8279,11 +8279,11 @@
   "traffic_90d_sessions": 7,
   "bounce": 85.71,
   "top_s": 3.5,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8348,12 +8348,12 @@
   "traffic_90d_sessions": 4,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)",
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)",
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8413,11 +8413,11 @@
   "traffic_90d_sessions": 141,
   "bounce": 80.14,
   "top_s": 29.7,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8484,11 +8484,11 @@
   "traffic_90d_sessions": 19,
   "bounce": 84.21,
   "top_s": 42.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8551,11 +8551,11 @@
   "traffic_90d_sessions": 2,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8621,11 +8621,11 @@
   "traffic_90d_sessions": 63,
   "bounce": 84.13,
   "top_s": 40.8,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8692,11 +8692,11 @@
   "traffic_90d_sessions": 2,
   "bounce": 100,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8762,11 +8762,11 @@
   "traffic_90d_sessions": 9,
   "bounce": 88.89,
   "top_s": 36.9,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 SLUG-NUM: batch-number prefix in public URL (content-farm fingerprint)"
+   "P1 SLUG-NUM \u2014 FIXED 2026-11-07: slug renamed + alias 301 (.htaccess + stub)"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8893,9 +8893,9 @@
   "traffic_90d_sessions": 9,
   "bounce": 88.89,
   "top_s": 0.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -8956,9 +8956,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 100,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9016,9 +9016,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 4.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9079,9 +9079,9 @@
   "traffic_90d_sessions": 26,
   "bounce": 84.62,
   "top_s": 33.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9142,9 +9142,9 @@
   "traffic_90d_sessions": 12,
   "bounce": 75,
   "top_s": 147,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9207,9 +9207,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 75,
   "top_s": 0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9271,9 +9271,9 @@
   "traffic_90d_sessions": 26,
   "bounce": 80.77,
   "top_s": 10.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9335,9 +9335,9 @@
   "traffic_90d_sessions": 12,
   "bounce": 75,
   "top_s": 11.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9395,9 +9395,9 @@
   "traffic_90d_sessions": 16,
   "bounce": 81.25,
   "top_s": 18.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9458,9 +9458,9 @@
   "traffic_90d_sessions": 2,
   "bounce": 50,
   "top_s": 24.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9523,11 +9523,11 @@
   "traffic_90d_sessions": 12,
   "bounce": 66.67,
   "top_s": 4.6,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9590,9 +9590,9 @@
   "traffic_90d_sessions": 193,
   "bounce": 84.97,
   "top_s": 59.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9656,9 +9656,9 @@
   "traffic_90d_sessions": 8,
   "bounce": 75,
   "top_s": 46.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9719,9 +9719,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 2.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9784,9 +9784,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 392.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9844,9 +9844,9 @@
   "traffic_90d_sessions": 2,
   "bounce": 50,
   "top_s": 4.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -9985,9 +9985,9 @@
   "traffic_90d_sessions": 287,
   "bounce": 85.02,
   "top_s": 45.4,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10053,9 +10053,9 @@
   "traffic_90d_sessions": 115,
   "bounce": 90.43,
   "top_s": 39,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10121,11 +10121,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 50,
   "top_s": 52.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10188,9 +10188,9 @@
   "traffic_90d_sessions": 346,
   "bounce": 82.08,
   "top_s": 41.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10255,9 +10255,9 @@
   "traffic_90d_sessions": 72,
   "bounce": 88.89,
   "top_s": 11,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10319,9 +10319,9 @@
   "traffic_90d_sessions": 104,
   "bounce": 82.69,
   "top_s": 41.1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10388,9 +10388,9 @@
   "traffic_90d_sessions": 25,
   "bounce": 36,
   "top_s": 3.6,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10453,11 +10453,11 @@
   "traffic_90d_sessions": 3,
   "bounce": 66.67,
   "top_s": 2.3,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P2 FAQ-MISSING: no FAQPage schema (33 site pages lack it)"
+   "P2 FAQ-MISSING \u2014 FIXED 2026-11-07: 3 grounded FAQs added, FAQPage schema live"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10523,9 +10523,9 @@
   "traffic_90d_sessions": 111,
   "bounce": 84.68,
   "top_s": 46.0,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10589,11 +10589,11 @@
   "traffic_90d_sessions": 25,
   "bounce": 32,
   "top_s": 78.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10647,11 +10647,11 @@
   "traffic_90d_sessions": 16,
   "bounce": 6.25,
   "top_s": 11.5,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10705,11 +10705,11 @@
   "traffic_90d_sessions": 6,
   "bounce": 66.67,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10763,11 +10763,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 60,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10821,11 +10821,11 @@
   "traffic_90d_sessions": 4,
   "bounce": 50,
   "top_s": 157.4,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10881,9 +10881,9 @@
   "traffic_90d_sessions": 12,
   "bounce": 50,
   "top_s": 83.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10938,9 +10938,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 25,
   "top_s": 134.8,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -10997,9 +10997,9 @@
   "traffic_90d_sessions": 4,
   "bounce": 25,
   "top_s": 0.5,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11054,11 +11054,11 @@
   "traffic_90d_sessions": 8,
   "bounce": 75,
   "top_s": 6.2,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11112,9 +11112,9 @@
   "traffic_90d_sessions": 1,
   "bounce": 0,
   "top_s": 1,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11169,11 +11169,11 @@
   "traffic_90d_sessions": 5,
   "bounce": 80,
   "top_s": 0,
-  "status": "NEEDS-WORK",
+  "status": "FIXED",
   "issues": [
-   "P1 DOUBLE-H1: page renders two <h1> tags (layout bug)"
+   "P1 DOUBLE-H1 \u2014 FIXED 2026-11-07: content H1 removed, single H1 verified"
   ],
-  "verdict": "NEEDS WORK",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11227,9 +11227,9 @@
   "traffic_90d_sessions": 13,
   "bounce": 76.92,
   "top_s": 0.3,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11285,9 +11285,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 33.33,
   "top_s": 0.7,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",
@@ -11344,9 +11344,9 @@
   "traffic_90d_sessions": 3,
   "bounce": 33.33,
   "top_s": 12.2,
-  "status": "DONE",
+  "status": "FIXED",
   "issues": [],
-  "verdict": "PASS",
+  "verdict": "PASS (fixed)",
   "audited_at": "2026-11-07",
   "passed": [
    "HTTP 200",

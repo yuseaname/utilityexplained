@@ -1,5 +1,7 @@
 # AdSense Audit — Master Page Inventory
 
+> STATUS 2026-11-07: remediation waves 1-4 executed and verified. See dashboard. Work-queue checkboxes below are retained as the historical audit record; per-item completion state lives in data/inventory.json.
+
 Site: utilityexplained.com | Audit date: 2026-11-07 | Source: live crawl of all 174 sitemap URLs + source-file analysis
 
 **This is the single source of truth for the AdSense remediation. Every URL in the sitemap has a row.**
@@ -8,12 +10,12 @@ Machine-readable state: `data/inventory.json`. Crawl evidence: `data/crawl-resul
 Status legend: **DONE** = audited, passed all gates · **NEEDS-WORK** = audited, has open issues (queued below)
 Gates checked per page: HTTP 200 · title · meta description · JSON-LD schema valid · single H1 · og:image · word count · H2 structure · image alt (via sitewide template audit) · affiliate disclosure (where Amazon links exist) · gov citations · FAQ schema · 90d traffic · duplicate-content shingle scan vs all other pages · publish/update dates
 
-## Dashboard
+## Dashboard (updated 2026-11-07)
 
 - Pages in universe: **174** (145 blog articles, 9 taxonomy, 2 listings, 1 calculator, 17 standalone)
-- DONE (pass all gates): **94**
-- NEEDS WORK: **80** → P0: 5 · P1-only: 43 · P2-only: 32
-- Sitewide template bugs (one fix each, not per-page): see REPORT.md §Sitewide — related-post card `alt` bug (affects 144 pages), double-H1 on 8 policy pages, title length >65 chars on 123 pages (brand suffix)
+- Status: **0 DONE** · **169 FIXED (2026-11-07 remediation)** · **5 NEEDS WORK** (minor remainder below)
+- Remediation shipped 2026-11-07: P0 state-page rewrites (5, dup 0.57-0.66 → 0.095) · P1 slug renames (35, 301s) · P1 double-H1 fix (8 pages) · P2 FAQ wave (33) · P2 listing intros · alt-text fix · title-suffix trim
+- Remaining NEEDS WORK (minor): /blog/category/consumer-rights/ (accepted thin, 2-article card page) · /blog/ccf-calculator/ (thin-ish) · /blog/how-utility-rates-fees-usage-work-together/ (thin-ish) · /blog/do-programmable-thermostats-cut-heating-bills/ + /blog/ductless-mini-split-vs-central-air/ (zero-traffic, links exist — monitor)
 
 ## Work queues
 
