@@ -8,8 +8,6 @@ layout: "single"
 url: "/contact"
 ---
 
-# Contact Utility Explained
-
 Have a utility-bill question we haven't answered? Found an error? Want to suggest a topic? We read every message.
 
 ## Before you reach out

@@ -7,8 +7,6 @@ type: "page"
 layout: "single"
 ---
 
-# Privacy Policy
-
 This policy explains what data Utility Explained ("we", "us") collects when you visit utilityexplained.com, how it is used, and the choices you have. We do not require user accounts and we do not sell your personal information.
 
 **Effective date: August 12, 2026**

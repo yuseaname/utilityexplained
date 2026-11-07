@@ -7,7 +7,6 @@ type: "page"
 layout: "single"
 ---
 
-<h1>Disclaimer</h1>
 <p>
 Utility Explained is an informational resource. We do not provide
 financial, legal, or professional advice. Use the information on this site

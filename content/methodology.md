@@ -8,8 +8,6 @@ layout: "single"
 url: "/methodology"
 ---
 
-# Methodology: How We Get Our Numbers
-
 Utility Explained uses real-world ranges — not exact figures — because utility costs vary by region, provider, climate, season, and household. This page explains how we arrive at the numbers you see across our guides.
 
 ## Our sources

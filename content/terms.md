@@ -7,7 +7,6 @@ type: "page"
 layout: "single"
 ---
 
-<h1>Terms of Service</h1>
 <p>
 These terms explain what Utility Explained is, how you may use it, and what
 we do — and don't — promise. By using the site, you agree to them.

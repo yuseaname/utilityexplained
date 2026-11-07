@@ -46,14 +46,14 @@
       <h2 class="related-title">Keep Reading</h2>
     </div>
     <div class="section-grid">
-      {{ range $top }}
+      {{ range $p := $top }}
         <article class="card">
           <a href="{{ .RelPermalink }}" class="block">
             {{ with .Params.image }}
               <div class="overflow-hidden">
-                {{/* Decorative card art: the visible card heading labels the link,
-                     so alt stays empty instead of duplicating (or mislabeling) text. */}}
-                <img src="{{ . }}" alt="" class="card-image" loading="lazy" decoding="async">
+                {{/* Card art: alt = article title, consistent with index/taxonomy card
+                     templates (labels the link target for screen readers + image search). */}}
+                <img src="{{ . }}" alt="{{ $p.Title }}" class="card-image" loading="lazy" decoding="async">
               </div>
             {{ else }}
               {{/* Intentional no-image fallback: branded monogram block keeps card

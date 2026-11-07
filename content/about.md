@@ -7,8 +7,6 @@ type: "page"
 layout: "single"
 ---
 
-# About Utility Explained
-
 Utility bills shouldn't require a translator. If you've ever stared at a bill wondering what you're actually paying for, you're exactly who we write for.
 
 ## Our mission

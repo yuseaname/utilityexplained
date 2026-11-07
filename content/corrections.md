@@ -8,8 +8,6 @@ layout: "single"
 url: "/corrections"
 ---
 
-# Corrections Policy
-
 Accuracy matters when the topic is your money. If we get something wrong, we want to fix it — fast and visibly.
 
 ## How to report an error

@@ -8,8 +8,6 @@ layout: "single"
 url: "/editorial-policy"
 ---
 
-# Editorial Policy
-
 This page explains how Utility Explained creates and maintains its content. Our goal is simple: every guide should help a real person understand and act on a utility-bill question.
 
 ## What we cover
