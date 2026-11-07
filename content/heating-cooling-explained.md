@@ -20,10 +20,10 @@ url: "/heating-cooling-explained"
 ## What are you trying to solve?
 <ul>
 <li><strong>My heating bill jumped and I don't know why</strong> — <a href="/blog/why-is-my-heating-bill-so-high/">Why Is My Heating Bill So High?</a></li>
-<li><strong>I want to compare heat pump vs. gas furnace costs</strong> — <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a></li>
-<li><strong>My AC is short-cycling or not cooling</strong> — <a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
+<li><strong>I want to compare heat pump vs. gas furnace costs</strong> — <a href="/blog/heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a></li>
+<li><strong>My AC is short-cycling or not cooling</strong> — <a href="/blog/ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
 <li><strong>What will it cost to run my furnace?</strong> — <a href="/blog/how-much-does-it-cost-to-run-a-furnace/">How Much Does It Cost to Run a Furnace?</a></li>
-<li><strong>I want to cut my overall utility bills</strong> — <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
+<li><strong>I want to cut my overall utility bills</strong> — <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
 <li><strong>I want to understand aux vs. emergency heat</strong> — <a href="/blog/aux-heat-vs-emergency-heat-meaning/">Aux Heat vs. Emergency Heat</a></li>
 </ul>
 
@@ -39,7 +39,7 @@ Gas furnaces, electric resistance heat, heat pumps, and boilers each have differ
 
 ## Common cooling system types
 <p>
-Central AC, ductless mini-splits, and window or portable units differ in coverage and efficiency. When a system stops cooling properly, start with <a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a>.
+Central AC, ductless mini-splits, and window or portable units differ in coverage and efficiency. When a system stops cooling properly, start with <a href="/blog/ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a>.
 </p>
 
 ## Efficiency ratings explained
@@ -54,12 +54,12 @@ System efficiency, climate, thermostat settings, insulation, home size, and main
 
 ## Gas vs. electric heating costs
 <p>
-Which fuel is cheaper depends on local prices and system efficiency. For a side-by-side comparison, see <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a>.
+Which fuel is cheaper depends on local prices and system efficiency. For a side-by-side comparison, see <a href="/blog/heat-pump-vs-gas-furnace-savings/">Heat Pump vs. Gas Furnace Savings</a>.
 </p>
 
 ## How to reduce heating and cooling costs
 <p>
-From thermostat setbacks to sealing leaks and scheduling maintenance, the highest-impact moves are covered in <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
+From thermostat setbacks to sealing leaks and scheduling maintenance, the highest-impact moves are covered in <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
 
 ## Thermostats and smart controls
@@ -130,7 +130,7 @@ For the full library of HVAC and heating/cooling guides, jump to the <a href="#h
 ### Troubleshooting
 <ul>
 <li><a href="/blog/ac-running-but-not-cooling/">AC Running but Not Cooling? (13 Causes)</a></li>
-<li><a href="/blog/13-ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
+<li><a href="/blog/ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
 <li><a href="/blog/why-is-my-furnace-blowing-cold-air/">Why Is My Furnace Blowing Cold Air?</a></li>
 <li><a href="/blog/heat-pump-running-all-day-in-winter/">Heat Pump Running All Day in Winter?</a></li>
 <li><a href="/blog/duct-leaks-symptoms-hvac-running-all-day/">Duct Leaks: Why Some Rooms Never Feel Right</a></li>
@@ -139,7 +139,7 @@ For the full library of HVAC and heating/cooling guides, jump to the <a href="#h
 ### System Comparisons
 <ul>
 <li><a href="/blog/ductless-mini-split-vs-central-air/">Ductless Mini-Split vs Central Air</a></li>
-<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
+<li><a href="/blog/heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
 <li><a href="/blog/single-stage-vs-two-stage-vs-variable-speed-hvac/">Single-Stage vs Two-Stage vs Variable-Speed HVAC</a></li>
 </ul>
 
@@ -147,9 +147,9 @@ For the full library of HVAC and heating/cooling guides, jump to the <a href="#h
 <ul>
 <li><a href="/blog/afue-vs-seer-vs-hspf-vs-cop/">HVAC Efficiency Ratings Explained (AFUE, SEER, HSPF, COP)</a></li>
 <li><a href="/blog/aux-heat-vs-emergency-heat-meaning/">Aux Heat vs Emergency Heat</a></li>
-<li><a href="/blog/42-best-energy-efficient-space-heater/">Best Energy Efficient Space Heater</a></li>
-<li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
-<li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs for Standby Power</a></li>
+<li><a href="/blog/best-energy-efficient-space-heater/">Best Energy Efficient Space Heater</a></li>
+<li><a href="/blog/check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
+<li><a href="/blog/best-smart-plugs-standby-power/">Best Smart Plugs for Standby Power</a></li>
 <li><a href="/blog/furnace-tune-up-cost-schedule/">Furnace Tune-Up: Cost and Schedule</a></li>
 <li><a href="/blog/do-dehumidifiers-help-cooling-costs/">Do Dehumidifiers Help With Cooling Costs?</a></li>
 <li><a href="/blog/smart-thermostat-time-of-use-savings/">Smart Thermostats on Time-of-Use Plans</a></li>

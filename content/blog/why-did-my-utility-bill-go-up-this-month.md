@@ -36,16 +36,16 @@ Check these in order. Four of the five leave your habits completely out of it.
 </p>
 <ol>
 <li>
-<strong>A longer billing cycle (27–35 days).</strong> More days of charges raise the total even when daily use is identical. <em>How to confirm:</em> read the bill-period dates — if the cycle ran long, kWh per day stays flat while the total climbs. Deep dive: <a href="/blog/23-utility-billing-cycle-explained/">Utility Billing Cycle Explained</a>.
+<strong>A longer billing cycle (27–35 days).</strong> More days of charges raise the total even when daily use is identical. <em>How to confirm:</em> read the bill-period dates — if the cycle ran long, kWh per day stays flat while the total climbs. Deep dive: <a href="/blog/utility-billing-cycle-explained/">Utility Billing Cycle Explained</a>.
 </li>
 <li>
 <strong>A rate change that took effect mid-cycle.</strong> The effective date on the tariff — not your usage — moved the price per unit. <em>How to confirm:</em> compare price per unit between the two bills and scan the line items for a rate-change note.
 </li>
 <li>
-<strong>Seasonal heating or cooling.</strong> Weather shifts HVAC and water use before you feel it. <em>How to confirm:</em> compare kWh or therms per day against the same season last year, not last month. If electricity is the driver: <a href="/blog/03-why-is-my-electric-bill-so-high/">why your electric bill is so high — the full diagnostic</a>.
+<strong>Seasonal heating or cooling.</strong> Weather shifts HVAC and water use before you feel it. <em>How to confirm:</em> compare kWh or therms per day against the same season last year, not last month. If electricity is the driver: <a href="/blog/why-is-my-electric-bill-so-high/">why your electric bill is so high — the full diagnostic</a>.
 </li>
 <li>
-<strong>An estimated read that just caught up.</strong> The estimate underbilled one month; the next actual read corrects for both. <em>How to confirm:</em> look for an "E" or the word "estimated" beside the meter read on either bill. Deep dive: <a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
+<strong>An estimated read that just caught up.</strong> The estimate underbilled one month; the next actual read corrects for both. <em>How to confirm:</em> look for an "E" or the word "estimated" beside the meter read on either bill. Deep dive: <a href="/blog/estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
 </li>
 <li>
 <strong>A new occupant or appliance.</strong> New residents, a second refrigerator, or space heaters raise true usage. <em>How to confirm:</em> no rate changes, no estimated read, fixed charges flat — but kWh per day stepped up. The increase is real and belongs to the household, not the bill's math.
@@ -94,7 +94,7 @@ alt="Chart comparing a shorter and longer billing period"
 </figure>
 <p>
 Look for the bill period dates. Then compare usage per day, not just the total. For a deeper explanation, see
-<a href="/blog/23-utility-billing-cycle-explained/">Utility Billing Cycle Explained</a>.
+<a href="/blog/utility-billing-cycle-explained/">Utility Billing Cycle Explained</a>.
 </p>
 
 
@@ -111,7 +111,7 @@ alt="Diagram showing an estimated bill followed by a correction bill"
 </figure>
 <p>
 Check the usage section for an E or the word "estimated." If you see it, the story usually continues in
-<a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
+<a href="/blog/estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
 </p>
 
 
@@ -131,7 +131,7 @@ alt="Person reviewing a utility bill with a highlighter"
 </figure>
 <p>
 If you want a deeper breakdown of line items, this guide helps:
-<a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">
+<a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">
 Delivery vs supply charges on utility bills
 </a>.
 </p>
@@ -198,5 +198,5 @@ Check the billing period length, look for estimated reads, and scan line items f
 ---
 
 *Related Reading:*
-- [Sudden spike in your electricity bill with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/)
+- [Sudden spike in your electricity bill with no usage change](/blog/sudden-spike-in-electricity-bill-no-usage/)
 - [Tiered Water Rates Explained: Why Using More Costs Dramatically More](/blog/tiered-water-rates-explained/)

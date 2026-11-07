@@ -45,21 +45,21 @@ The minimum amount of electricity your home uses continuously, even when major a
 ### Demand charge {#demand-charge}
 
 <p>
-A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking. Read the full guide: <a href="/blog/49-demand-charges-electricity-bill-explained/">the demand charge explainer</a>.
+A fee based on the highest power usage (in kW) during a billing period. Common for commercial customers but rare for residential. Encourages spreading usage over time rather than peaking. Read the full guide: <a href="/blog/demand-charges-electricity-bill-explained/">the demand charge explainer</a>.
 </p>
 <p class="glossary-alias"><strong>Also called:</strong> maximum demand charge, peak demand charge.</p>
 
 ### Delivery charge {#delivery-charge}
 
 <p>
-The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
+The fee for transporting electricity from power plants to your home. Covers infrastructure like power lines, transformers, and maintenance. Separate from the energy charge. Read the full guide: <a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">the delivery charge explainer</a>.
 </p>
 <p class="glossary-alias"><strong>Also called:</strong> distribution charge, delivery service charge, T&amp;D charge.</p>
 
 ### Energy charge {#energy-charge}
 
 <p>
-The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">delivery charge vs supply charge</a>.
+The cost of the electricity itself, usually listed as a price per kWh. This is the usage-based portion of your bill. Read the full guide: <a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">delivery charge vs supply charge</a>.
 </p>
 <p class="glossary-alias"><strong>Also called:</strong> supply charge, commodity charge, generation charge.</p>
 
@@ -74,7 +74,7 @@ A unit of power equal to 1,000 watts. Measures how fast electricity is being use
 <p>
 A unit of energy. One kWh equals using 1,000 watts for one hour. Your electric bill charges for total kWh used during the billing period.
 </p>
-<p class="glossary-see">Run the numbers with the <a href="/calculators/electricity-cost/">electricity cost calculator</a>, or read <a href="/blog/11-understanding-kwh-usage/">how to understand kWh usage</a> in detail.</p>
+<p class="glossary-see">Run the numbers with the <a href="/calculators/electricity-cost/">electricity cost calculator</a>, or read <a href="/blog/understanding-kwh-usage/">how to understand kWh usage</a> in detail.</p>
 
 ### Off-peak hours {#off-peak}
 
@@ -110,7 +110,7 @@ A rating for air conditioners and heat pumps in cooling mode. Higher SEER means 
 ### Time-of-use (TOU) pricing {#time-of-use}
 
 <p>
-A rate structure where electricity costs more during peak hours and less during off-peak hours. Encourages shifting usage to cheaper times. Read the full guide: <a href="/blog/08-time-of-use-electricity/">how time-of-use rates work</a>.
+A rate structure where electricity costs more during peak hours and less during off-peak hours. Encourages shifting usage to cheaper times. Read the full guide: <a href="/blog/time-of-use-electricity/">how time-of-use rates work</a>.
 </p>
 <p class="glossary-alias"><strong>Also called:</strong> TOU pricing, time-of-use rates, peak/off-peak pricing.</p>
 
@@ -137,7 +137,7 @@ A volume unit equal to 100 cubic feet of gas. Some utilities bill in CCF and con
 ### Commodity charge {#commodity-charge}
 
 <p>
-Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees. Read the full guide: <a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
+Another term for the supply charge--the cost of the natural gas itself, separate from delivery fees. Read the full guide: <a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">24 delivery charge vs supply charge utility bill</a>.
 </p>
 
 ### Conversion factor {#conversion-factor}
@@ -149,7 +149,7 @@ A number used to convert gas volume (CCF) into energy (therms). Accounts for sli
 ### Customer charge {#customer-charge}
 
 <p>
-A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, and service infrastructure. Read the full guide: <a href="/blog/17-what-is-customer-charge-on-utility-bill/">what the customer charge on a utility bill covers</a>.
+A fixed monthly fee you pay regardless of usage. Covers meter reading, billing, and service infrastructure. Read the full guide: <a href="/blog/what-is-customer-charge-on-utility-bill/">what the customer charge on a utility bill covers</a>.
 </p>
 <p class="glossary-alias"><strong>Also called:</strong> basic service charge, system access charge, base charge, service charge.</p>
 
@@ -251,7 +251,7 @@ A heating system that burns fuel (gas, oil) or uses electricity to heat air, whi
 ### Heat pump {#heat-pump}
 
 <p>
-A system that moves heat rather than creates it. In summer, it cools like an air conditioner. In winter, it extracts heat from outdoor air and moves it indoors. More efficient than electric resistance heat. See our heating and cooling comparison. Read the full guide: <a href="/blog/48-heat-pump-vs-gas-furnace-savings/">48 heat pump vs gas furnace savings</a>.
+A system that moves heat rather than creates it. In summer, it cools like an air conditioner. In winter, it extracts heat from outdoor air and moves it indoors. More efficient than electric resistance heat. See our heating and cooling comparison. Read the full guide: <a href="/blog/heat-pump-vs-gas-furnace-savings/">48 heat pump vs gas furnace savings</a>.
 </p>
 
 ### HSPF (Heating Seasonal Performance Factor) {#hspf}
@@ -307,7 +307,7 @@ A program that averages your annual usage and charges the same amount each month
 ### Billing cycle (Billing period) {#billing-cycle}
 
 <p>
-The time span covered by a utility bill, usually 28 to 35 days. Compare bills by usage per day to account for varying cycle lengths. Read the full guide: <a href="/blog/23-utility-billing-cycle-explained/">23 utility billing cycle explained</a>.
+The time span covered by a utility bill, usually 28 to 35 days. Compare bills by usage per day to account for varying cycle lengths. Read the full guide: <a href="/blog/utility-billing-cycle-explained/">23 utility billing cycle explained</a>.
 </p>
 
 ### Deregulated market {#deregulated-market}

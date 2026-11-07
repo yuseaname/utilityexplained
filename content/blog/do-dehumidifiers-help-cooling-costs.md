@@ -46,7 +46,7 @@ If you find your humidity sits high all the time, an ENERGY STAR certified unit'
 
 **A right-sized central air conditioner dehumidifies as a side effect of cooling — and often handles both jobs together.** Air conditioning removes moisture every time it runs: warm air passes over the cold evaporator coil, water condenses out, and the resulting dry air re-enters the room. A properly sized system cycles just long enough to both cool and dry, and when it does, it carries that condensed water away through the condensate drain. In that case, a separate dehumidifier is duplicating the AC's own work at additional cost.
 
-The failure mode is an *oversized* or *short-cycling* AC — it hits the setpoint quickly, shuts off, and never runs long enough to pull moisture out. The room feels cold-but-clammy because the sensible load is satisfied while the latent load is untouched. If you suspect this, [our sudden-spike checklist](/blog/30-sudden-spike-in-electricity-bill-no-usage/) and [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/) walk through the runtime-and-cycling diagnosis without buying anything.
+The failure mode is an *oversized* or *short-cycling* AC — it hits the setpoint quickly, shuts off, and never runs long enough to pull moisture out. The room feels cold-but-clammy because the sensible load is satisfied while the latent load is untouched. If you suspect this, [our sudden-spike checklist](/blog/sudden-spike-in-electricity-bill-no-usage/) and [why your electric bill is so high](/blog/why-is-my-electric-bill-so-high/) walk through the runtime-and-cycling diagnosis without buying anything.
 
 Another sign: the condensate drain barely produces water or the drip pan stays dry, yet the room feels damp at setpoint. That points at short-cycling, not a humidity-only problem. And if the AC runs constantly yet still cannot keep up, the issue is heat load or sizing, not humidity — a dehumidifier only adds heat to that fight.[2]
 
@@ -77,7 +77,7 @@ The column that matters is the last one: the dehumidifier only earns its electri
 
 The very-hot case is where the same appliance loses money: a Southern summer at 95°F where the AC runs flat out on temperature alone. Adding a 300–700 W dehumidifier raises the indoor heat load and adds a second bill line for moisture that was never the problem.[2] The RH instrument decides it before you spend anything.
 
-Practical notes before you buy: set the humidistat to 50%, not the lowest setting — over-drying wastes electricity and gains nothing below 30–50%. Run it only in rooms that actually feel damp, close that door, and drain to a floor drain or sink so you are not emptying a bucket daily.[2] If your goal is a lower bill across the board rather than a humidity fix, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) is the broader toolbox, and [gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) covers the cost-first measuring approach. Humidity that drives one for a weekend a month is normal; humidity that runs one all summer is a reason to look at sealing and ventilation before adding an appliance.
+Practical notes before you buy: set the humidistat to 50%, not the lowest setting — over-drying wastes electricity and gains nothing below 30–50%. Run it only in rooms that actually feel damp, close that door, and drain to a floor drain or sink so you are not emptying a bucket daily.[2] If your goal is a lower bill across the board rather than a humidity fix, [how to lower utility bills](/blog/how-to-lower-utility-bills/) is the broader toolbox, and [gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) covers the cost-first measuring approach. Humidity that drives one for a weekend a month is normal; humidity that runs one all summer is a reason to look at sealing and ventilation before adding an appliance.
 
 ### If the Math Says Buy: What to Look For
 
@@ -87,7 +87,7 @@ For the humid-mild case this article describes, the spec details that actually m
 
 Whatever brand you compare it against, run the same three checks: humidistat, drain method, and the certified annual kWh figure — that last number is what feeds the cost template above.
 
-If you are already on a humidity fix and the water angle is part of the story — leaking fixtures and drainage are a common hidden cause of indoor damp — [how to lower your water bill](/blog/44-how-to-lower-water-bill/) is the companion piece, and it is worth tackling those before sizing any dehumidifier.
+If you are already on a humidity fix and the water angle is part of the story — leaking fixtures and drainage are a common hidden cause of indoor damp — [how to lower your water bill](/blog/how-to-lower-water-bill/) is the companion piece, and it is worth tackling those before sizing any dehumidifier.
 
 ## Sources
 

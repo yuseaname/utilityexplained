@@ -1,6 +1,6 @@
 ---
 title: "Whole House Generator vs Portable: True Cost"
-slug: "45-whole-house-generator-vs-portable-cost"
+slug: "whole-house-generator-vs-portable-cost"
 description: "Compare portable and permanently installed backup-power options through a site-specific safety, load, installation, and written-quote review."
 date: 2026-05-30
 updated: 2026-08-29
@@ -20,6 +20,7 @@ sources:
   - https://www.generac.com/resources/home-management/backup-generator-installation/ (retrieved 2026-08-29)
   - https://norwall.com/categories/standby-generators/generac-guardian-generators/ (retrieved 2026-08-29)
   - https://www.bobvila.com/exterior/portable-vs-standby-generators-for-home/ (retrieved 2026-08-29)
+aliases: ["/blog/45-whole-house-generator-vs-portable-cost/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -88,7 +89,7 @@ Verified class anchors: portables span roughly **2,500–8,500 W** (a ~2,000 W i
 - **Rare, short outages, budget-capped:** a mid-size portable (about $400–$2,700[6]) + interlock or transfer switch + CO alarms covers essentials for a fraction of standby cost—and demands setup discipline every single time.
 - **Frequent or long outages, well pumps, medical equipment, no one home to set up:** standby with automatic transfer is what the extra thousands buy—hands-free operation and no 20-foot-cord ritual in a storm.
 - **Electronics-heavy essentials (CPAP, router, laptop):** an inverter-class portable produces cleaner power (≤3% THD) than a conventional model.[13]
-- Related reading: if the underlying issue is a [furnace blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/) or an outage-driven [sudden spike in your electric bill](/blog/30-sudden-spike-in-electricity-bill-no-usage/), fix the diagnosis before buying backup for it.
+- Related reading: if the underlying issue is a [furnace blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/) or an outage-driven [sudden spike in your electric bill](/blog/sudden-spike-in-electricity-bill-no-usage/), fix the diagnosis before buying backup for it.
 
 A third path sits between the two: [solar battery backup vs. generator](https://solarpoweredproject.com/pages/solar-battery-backup-vs-generator.html) works the cost math on the battery option, including the cases where the generator still wins. And if the real question is riding out multi-day outages rather than buying a box, the [grid-down planning guide](https://solarpoweredproject.com/grid-down.html) covers extended-outage scenarios beyond what any single machine solves.
 

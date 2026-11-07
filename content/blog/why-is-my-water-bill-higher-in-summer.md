@@ -194,7 +194,7 @@ Water bills are often higher in summer because outdoor watering jumps—outdoor 
             </p>
             <p>
               For the full savings playbook once you have identified the cause, see
-              <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
+              <a href="/blog/how-to-lower-water-bill/">how to lower your water bill</a>.
             </p>
 
 
@@ -265,5 +265,5 @@ This explainer is part of the [Water Explained hub](/water-explained/).
 
 *Related Reading:*
 - [Why Is My Water Bill Higher in Winter?](/blog/why-is-my-water-bill-higher-in-winter/)
-- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/)
+- [How to Lower Your Water Bill](/blog/how-to-lower-water-bill/)
 - [Why Did My Water Bill Suddenly Increase?](/blog/why-did-my-water-bill-suddenly-increase/)

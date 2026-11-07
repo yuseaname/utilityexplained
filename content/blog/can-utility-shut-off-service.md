@@ -57,7 +57,7 @@ A valid disconnection notice is not just a bill with a red stamp. In most states
 
 The way the notice is delivered matters too. State rules typically require written notice by mail — in Minnesota, the annual summary of shutoff rights must be delivered personally or by first-class mail, with electronic delivery only for customers who request e-billing [4]. The date on the notice is what counts, not the date you happened to open the envelope.
 
-There is one important exception to the clock: if your bill is based on an [estimated reading](/blog/14-estimated-utility-bill-explained/) rather than an actual meter read, and you dispute it, some states pause disconnection while a billing dispute is under review — ask your state utility commission (find yours via naruc.org) whether that applies to you. If you believe the amount is wrong because the utility guessed at your usage, say so in writing and ask for the shutoff to be held while they check. That single step can buy you weeks.
+There is one important exception to the clock: if your bill is based on an [estimated reading](/blog/estimated-utility-bill-explained/) rather than an actual meter read, and you dispute it, some states pause disconnection while a billing dispute is under review — ask your state utility commission (find yours via naruc.org) whether that applies to you. If you believe the amount is wrong because the utility guessed at your usage, say so in writing and ask for the shutoff to be held while they check. That single step can buy you weeks.
 
 ## Winter Protections (Heating Season Moratoria)
 
@@ -106,12 +106,12 @@ If the first person cannot help, ask to speak to a supervisor or the customer as
 
 ## After Disconnection: Reconnection
 
-If the service is already off, the goal shifts to getting it back on as quickly and cheaply as possible. Reconnection usually requires paying the past-due balance (or a portion of it), plus a [reconnection fee](/blog/28-utility-reconnection-fee-explained/). The fee is typically a flat amount set by the utility — the amount varies by utility and state, so check your utility's own disconnection and reconnection policy for the current figure.
+If the service is already off, the goal shifts to getting it back on as quickly and cheaply as possible. Reconnection usually requires paying the past-due balance (or a portion of it), plus a [reconnection fee](/blog/utility-reconnection-fee-explained/). The fee is typically a flat amount set by the utility — the amount varies by utility and state, so check your utility's own disconnection and reconnection policy for the current figure.
 
 A few things to know about reconnection:
 
 - **Same-day vs. next-day.** Some utilities restore service the same day if you pay early in the day; others schedule it for the next business day. Ask what the cutoff time is for same-day service.
-- **Deposits may be required.** If you have a history of late payments or disconnections, the utility may require a [deposit](/blog/26-utility-deposit-explained/) before restoring service. This is separate from the balance and the reconnection fee.
+- **Deposits may be required.** If you have a history of late payments or disconnections, the utility may require a [deposit](/blog/utility-deposit-explained/) before restoring service. This is separate from the balance and the reconnection fee.
 - **You can negotiate the deposit.** If the deposit is more than you can pay, ask to pay it in installments or to have it reduced. Some utilities will lower a deposit if you agree to automatic payments or provide a letter of good credit from a previous utility.
 - **Ask for fee waivers.** If you are on a low income or receiving assistance, some utilities will waive or reduce the reconnection fee. It never hurts to ask.
 
@@ -129,7 +129,7 @@ If your water is at risk of shutoff, the advice is the same as for electric and 
 
 Sometimes the past-due notice is not about a bill you actually owe. If the amount looks wrong — far higher than your normal usage, or based on an estimate that does not match your meter — do not just pay it. A disputed bill can often pause the shutoff while it is investigated.
 
-Start by checking your meter yourself. If your bill is based on an [estimated reading](/blog/14-estimated-utility-bill-explained/), compare the number on the bill to the actual reading on your meter. Take a photo with the date visible. If they do not match, submit your own reading and ask for a bill review. Many utilities will adjust the bill if you can show the estimate was wrong. For the full step-by-step dispute process, see our [how to dispute a utility bill guide](/blog/how-to-dispute-utility-bill/).
+Start by checking your meter yourself. If your bill is based on an [estimated reading](/blog/estimated-utility-bill-explained/), compare the number on the bill to the actual reading on your meter. Take a photo with the date visible. If they do not match, submit your own reading and ask for a bill review. Many utilities will adjust the bill if you can show the estimate was wrong. For the full step-by-step dispute process, see our [how to dispute a utility bill guide](/blog/how-to-dispute-utility-bill/).
 
 If the utility will not correct it, file a complaint with your state's public utility commission. These agencies regulate utilities and have the authority to order bill corrections and to hold a disconnection while a dispute is pending. Complaints are usually free to file online; the utility's response deadline is set by each state, so ask when you file.
 

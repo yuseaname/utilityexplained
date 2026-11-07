@@ -52,7 +52,7 @@ Fuel burned per hour = input ÷ 100,000 therms; cost per run-hour = that × your
 
 ## The blower fan: the small electric bill inside your gas bill
 
-The burner is the gas bill; the blower is the electric one. A typical permanent-split-capacitor blower draws 400–800 W while running — call it 0.6 kW × {{< stat "electric_rate_jun2026" >}} = **about 11¢ per hour of run**[2]. An ECM (variable-speed) blower cuts that roughly in half or better. It's a rounding error next to the fuel — until you remember it runs whenever the thermostat calls, so a furnace with a stuck fan relay can add $25–50/month in electricity alone. If your electric bill spikes every heating season, [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) walks the checklist; for measuring the fan directly, a [Kill A Watt](/blog/kill-a-watt-alternatives/) works on a standard outlet but a whole-home monitor handles hardwired loads — see the product box below.
+The burner is the gas bill; the blower is the electric one. A typical permanent-split-capacitor blower draws 400–800 W while running — call it 0.6 kW × {{< stat "electric_rate_jun2026" >}} = **about 11¢ per hour of run**[2]. An ECM (variable-speed) blower cuts that roughly in half or better. It's a rounding error next to the fuel — until you remember it runs whenever the thermostat calls, so a furnace with a stuck fan relay can add $25–50/month in electricity alone. If your electric bill spikes every heating season, [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) walks the checklist; for measuring the fan directly, a [Kill A Watt](/blog/kill-a-watt-alternatives/) works on a standard outlet but a whole-home monitor handles hardwired loads — see the product box below.
 
 ## Monthly worked examples
 
@@ -60,7 +60,7 @@ The burner is the gas bill; the blower is the electric one. A typical permanent-
 
 **Cold climate (Minnesota January, 100,000 BTU/h, 95% AFUE):** 10–12 run-hours/day in the coldest weeks, averaging ~9 across the month. 9 h × $1.92 × 31 ≈ **$536/month** fuel + ~$35 fan (at 95% AFUE the delivered heat equals a 119,000 BTU/h input at 80%, so the comparison holds). This is why cold-climate gas bills clear $400 — and why the levers below matter most there.
 
-Your real number divides by your thermostat behavior, insulation, and duct tightness — the same house can swing 30% either way. For the seasonal big picture, [why is my gas bill so high](/blog/07-gas-bill-too-high/) ranks all the drivers.
+Your real number divides by your thermostat behavior, insulation, and duct tightness — the same house can swing 30% either way. For the seasonal big picture, [why is my gas bill so high](/blog/gas-bill-too-high/) ranks all the drivers.
 
 ## Gas vs electric vs heat pump (same heat, different bills)
 
@@ -73,14 +73,14 @@ Delivered-heat pricing at national averages (gas $1.92/therm, {{< stat "electric
 | Electric resistance (furnace/baseboard) | $5.38 | 2.2× |
 | Heat pump, COP 2.8 | $1.92 | 0.80× |
 
-Electric resistance converts every kWh to 3,412 BTU — 100% efficient, and still the most expensive heat per BTU at national rates; the full method is in [electric baseboard heater cost](/blog/electric-baseboard-heater-cost-to-run/). A heat pump moves heat instead of making it, which is how it undercuts even 95% gas at moderate COPs — the complete breakeven math (including when gas wins back the lead) is [heat pump vs gas furnace](/blog/48-heat-pump-vs-gas-furnace-savings/).
+Electric resistance converts every kWh to 3,412 BTU — 100% efficient, and still the most expensive heat per BTU at national rates; the full method is in [electric baseboard heater cost](/blog/electric-baseboard-heater-cost-to-run/). A heat pump moves heat instead of making it, which is how it undercuts even 95% gas at moderate COPs — the complete breakeven math (including when gas wins back the lead) is [heat pump vs gas furnace](/blog/heat-pump-vs-gas-furnace-savings/).
 
 ## The levers that cut run-hours (each one is cheaper than the fuel)
 
 1. **Thermostat schedule.** A 7–10°F setback for 8 hours saves up to 10% on heating per DOE[4] — on the cold-climate example that's $50/month. The honest comparison of thermostat types is [do programmable thermostats cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/).
 2. **A clean filter.** A clogged filter chokes airflow; the furnace runs longer to deliver the same heat. Check monthly in season.
 3. **Sealed ducts.** Leaky ducts waste 20–30% of conditioned air per DOE[4] — you pay for heat that never arrives. Symptoms and fixes: [duct leaks, HVAC running all day](/blog/duct-leaks-symptoms-hvac-running-all-day/).
-4. **Air sealing + insulation** where the heat escapes fastest: [how to check for energy leaks](/blog/47-check-energy-leaks-home-diy/).
+4. **Air sealing + insulation** where the heat escapes fastest: [how to check for energy leaks](/blog/check-energy-leaks-home-diy/).
 5. **Annual tune-up.** Combustion efficiency drifts; a tune-up keeps AFUE near its rating — [furnace tune-up cost and schedule](/blog/furnace-tune-up-cost-schedule/).
 
 {{< product-box asin="B0C79PNK84" name="Emporia Vue 3 with 16 Circuit Sensors" label="Watch the furnace's real electric draw" description="Circuit-level monitoring in your electric panel — the 16-sensor kit clamps the blower's breaker plus everything else in the house, so you see the blower's exact wattage each cycle. The gas side shows up as run-hours you can read off the thermostat; the electric side stops being a mystery." cart="true" >}}
@@ -100,7 +100,7 @@ About 11¢/hour at typical draw and the national electric rate — $10–35/mont
 {{< /faq >}}
 
 {{< faq "How much cheaper is a heat pump to run than a gas furnace?" >}}
-At national averages and seasonal COP 2.8, a heat pump delivers heat about 20% cheaper than a 95% gas furnace — but the gap flips in very cold weather or cheap-gas states. The breakeven formula with your own rates is in [heat pump vs gas furnace](/blog/48-heat-pump-vs-gas-furnace-savings/).
+At national averages and seasonal COP 2.8, a heat pump delivers heat about 20% cheaper than a 95% gas furnace — but the gap flips in very cold weather or cheap-gas states. The breakeven formula with your own rates is in [heat pump vs gas furnace](/blog/heat-pump-vs-gas-furnace-savings/).
 {{< /faq >}}
 
 {{< faq "Does turning the thermostat down actually save with a furnace?" >}}

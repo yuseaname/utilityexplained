@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Gas Bill So High? 11 Causes and Fixes"
-slug: "07-gas-bill-too-high"
-aliases: ["/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
+slug: "gas-bill-too-high"
+aliases: ["/blog/07-gas-bill-too-high/", "/blog/why-is-my-gas-bill-so-high-in-winter/", "/blog/why-is-my-gas-bill-so-high-in-summer/"]
 description: "Why is my gas bill so high? It is usually heating-driven (about 40–45% of annual household gas use). See the 11 common causes and what each fix saves."
 date: 2026-03-07
 updated: 2026-10-30
@@ -29,9 +29,9 @@ image: "/images/articles/07-gas-bill-too-high/07-gas-bill-too-high_hero_v2.webp"
 
 A high gas bill usually comes down to one of three things: **you're using more gas than usual, your equipment is wasting gas, or your rate went up.** This guide walks you through the most common causes, ranked by likelihood, and the dollar amount each fix saves. Units are explained in [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/).
 
-Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/).
+Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred cubic feet). The fixed monthly fee on top of usage is covered in [What Is the Customer Charge on a Utility Bill?](/blog/what-is-customer-charge-on-utility-bill/).
 
-**Next step:** If your gas bill is still high after checking the causes above, learn how to [read your gas bill line by line](/blog/12-how-to-read-your-gas-bill/) and see the full [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for comparison.
+**Next step:** If your gas bill is still high after checking the causes above, learn how to [read your gas bill line by line](/blog/how-to-read-your-gas-bill/) and see the full [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for comparison.
 
 ## Quick diagnosis: Start here
 
@@ -39,7 +39,7 @@ Gas bills are measured in **therms** (1 therm = 100,000 BTU) or **CCF** (hundred
 
 Answer these four questions before diving into troubleshooting:
 
-1. **Did your therm usage actually increase?** Compare the "usage" line (in therms or CCF) with the same month last year. If therms are flat but your bill went up, the issue is rate or fee changes — not your equipment. For a line-by-line breakdown, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
+1. **Did your therm usage actually increase?** Compare the "usage" line (in therms or CCF) with the same month last year. If therms are flat but your bill went up, the issue is rate or fee changes — not your equipment. For a line-by-line breakdown, see [How to Read Your Gas Bill](/blog/how-to-read-your-gas-bill/).
 
 2. **How cold was this month compared to last year?** Gas usage is dominated by heating. A month that's 5°F colder on average can increase your gas usage by 15–25%. Check heating degree days (HDD) data from Weather Underground for your zip code.
 
@@ -114,7 +114,7 @@ Your furnace may be working correctly, but you're losing heat through:
 - **Recessed lights** — Can lights in ceilings below attics are notorious for air leakage.
 - **Ductwork leaks** — Leaky ducts in unconditioned spaces (attics, crawl spaces) can waste 20–30% of your heated air.[3] If some rooms heat fine while others stay cold, that uneven-room pattern is the classic symptom — see [what duct leaks feel like from room to room](/blog/duct-leaks-symptoms-hvac-running-all-day/).
 
-**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak. This is the same method the pros use — [run a full DIY energy assessment](/blog/47-check-energy-leaks-home-diy/) to make it a room-by-room checklist.
+**Quick test:** On a cold windy day, hold a lit incense stick near windows, doors, electrical outlets on exterior walls, and any penetrations. Smoke moving horizontally indicates an air leak. This is the same method the pros use — [run a full DIY energy assessment](/blog/check-energy-leaks-home-diy/) to make it a room-by-room checklist.
 
 ### 5. Gas water heater waste
 
@@ -134,8 +134,8 @@ Natural gas prices are volatile. Your utility's "gas cost recovery" rate can cha
 
 **What to check on your bill:**
 - **Cost per therm** — Compare with the same month last year.
-- **[delivery charges](/blog/12-how-to-read-your-gas-bill/)** — Your utility may have raised the fixed delivery charge.
-- **[Fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/)** — A line item that passes wholesale gas cost changes through to your bill.
+- **[delivery charges](/blog/how-to-read-your-gas-bill/)** — Your utility may have raised the fixed delivery charge.
+- **[Fuel adjustment charges](/blog/fuel-adjustment-charge-on-utility-bill-explained/)** — A line item that passes wholesale gas cost changes through to your bill.
 - **Pipeline or infrastructure surcharges** — Becoming more common.
 - **Weather normalization adjustment** — Some utilities smooth out weather impacts; others don't.
 
@@ -171,7 +171,7 @@ Single-pane windows or old double-pane windows with failed seals let significant
 
 ### 10. Billing cycle length or estimated readings
 
-A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed. To see why — and how to check it — see [why the billing period makes the bill look bigger](/blog/23-utility-billing-cycle-explained/), with the worked daily-average comparison.
+A 35-day billing period will naturally cost more than a 28-day period. And estimated readings can be wildly off if your usage pattern changed. To see why — and how to check it — see [why the billing period makes the bill look bigger](/blog/utility-billing-cycle-explained/), with the worked daily-average comparison.
 
 **What to check:**
 - **Days of service** on your bill
@@ -225,7 +225,7 @@ A 344% jump in usage combined with a 22% rate hike produces a bill that is nearl
 
 ## How to read your gas meter
 
-Gas meters measure usage in **cubic feet**. The display shows 4–5 dials (analog) or a digital readout — for the full bill breakdown after you read it, see [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/).
+Gas meters measure usage in **cubic feet**. The display shows 4–5 dials (analog) or a digital readout — for the full bill breakdown after you read it, see [How to Read Your Gas Bill](/blog/how-to-read-your-gas-bill/).
 
 ### Tracking usage between bills
 1. Read your meter on the same day each month.
@@ -253,7 +253,7 @@ Your gas bill has two main components:
 - **Delivery charges** — The cost of transporting gas to your home. This is set by your utility and regulated by your state's public utility commission.
 
 ### Fuel adjustment and riders
-Utilities often pass through volatile wholesale gas costs and infrastructure project costs as separate line items. The [Fuel Adjustment Charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) is the most common; surcharges and riders are covered in [Utility Bill Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) (state public utility commission).
+Utilities often pass through volatile wholesale gas costs and infrastructure project costs as separate line items. The [Fuel Adjustment Charge](/blog/fuel-adjustment-charge-on-utility-bill-explained/) is the most common; surcharges and riders are covered in [Utility Bill Surcharges and Riders Explained](/blog/utility-bill-surcharges-and-riders-explained/) (state public utility commission).
 
 ---
 
@@ -301,15 +301,15 @@ Contact your gas utility when:
 
 ## Related Reading
 
-- [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) — the line-by-line breakdown of every charge.
+- [How to Read Your Gas Bill](/blog/how-to-read-your-gas-bill/) — the line-by-line breakdown of every charge.
 - [How to Read Your Gas Meter](/blog/how-to-read-gas-meter/) — the full dial-by-dial walkthrough and between-bills tracking.
-- [Why the Billing Period Makes the Bill Look Bigger](/blog/23-utility-billing-cycle-explained/) — period length and estimated reads, decoded.
+- [Why the Billing Period Makes the Bill Look Bigger](/blog/utility-billing-cycle-explained/) — period length and estimated reads, decoded.
 - [MCF vs CCF vs Therms on Gas Bill](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) — decode the units on your bill.
-- [Gas Delivery Charge vs Supply Charge](/blog/12-how-to-read-your-gas-bill/) — what you're paying for in each half.
-- [Fuel Adjustment Charge Explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) — how utilities pass through gas cost changes.
-- [Utility Bill Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/) — line items beyond supply and delivery.
-- [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) — that fixed monthly fee.
-- [How to Lower Utility Bills](/blog/05-how-to-lower-utility-bills/) — comprehensive savings strategies.
+- [Gas Delivery Charge vs Supply Charge](/blog/how-to-read-your-gas-bill/) — what you're paying for in each half.
+- [Fuel Adjustment Charge Explained](/blog/fuel-adjustment-charge-on-utility-bill-explained/) — how utilities pass through gas cost changes.
+- [Utility Bill Surcharges and Riders](/blog/utility-bill-surcharges-and-riders-explained/) — line items beyond supply and delivery.
+- [What Is the Customer Charge on a Utility Bill?](/blog/what-is-customer-charge-on-utility-bill/) — that fixed monthly fee.
+- [How to Lower Utility Bills](/blog/how-to-lower-utility-bills/) — comprehensive savings strategies.
 - [LIHEAP Utility Assistance](/blog/utility-assistance-programs-liheap/) — help paying your gas bill.
 
 {{< faq "What's a normal gas bill?" >}}
@@ -321,7 +321,7 @@ If your gas bill stays high in summer, the most likely culprits are your **gas w
 {{< /faq >}}
 
 {{< faq "Should I switch to electric heat?" >}}
-It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/48-heat-pump-vs-gas-furnace-savings/).
+It depends on your local electricity rates, climate, and insulation quality. In areas with cheap electricity and moderate winters, a heat pump can save significantly. In cold climates with expensive electricity, gas heating may remain cheaper. See our [gas vs electric heating cost comparison](/blog/heat-pump-vs-gas-furnace-savings/).
 {{< /faq >}}
 
 {{< faq "How do I know if my furnace needs replacing?" >}}

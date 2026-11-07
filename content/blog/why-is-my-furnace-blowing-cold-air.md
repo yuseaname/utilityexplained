@@ -114,14 +114,14 @@ If you smell gas or burning odor, see soot, hear a loud bang, or your carbon-mon
 
 ## Preventing Avoidable Problems
 
-Use the maintenance schedule in the equipment manual, keep required vents clear, and use carbon-monoxide alarms as recommended by CPSC. CPSC also warns consumers not to use fuel-burning equipment intended for outdoor use indoors because it can create a carbon-monoxide hazard.[2] That warning is why generator placement and sizing should be settled before an outage, not during one — our [whole-house generator vs. portable cost comparison](/blog/45-whole-house-generator-vs-portable-cost/) covers the installation, fuel, and running-cost tradeoffs of each option.
+Use the maintenance schedule in the equipment manual, keep required vents clear, and use carbon-monoxide alarms as recommended by CPSC. CPSC also warns consumers not to use fuel-burning equipment intended for outdoor use indoors because it can create a carbon-monoxide hazard.[2] That warning is why generator placement and sizing should be settled before an outage, not during one — our [whole-house generator vs. portable cost comparison](/blog/whole-house-generator-vs-portable-cost/) covers the installation, fuel, and running-cost tradeoffs of each option.
 
 ## Related Reading
 
 - [Duct leak symptoms and why the HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/)
 - [Auxiliary heat vs. emergency heat: what's the difference?](/blog/aux-heat-vs-emergency-heat-meaning/)
-- [13 reasons your AC short-cycles](/blog/13-ac-short-cycling-causes-fixes/)
-- [Heat pump vs. gas furnace: 48 factors to compare](/blog/48-heat-pump-vs-gas-furnace-savings/)
+- [13 reasons your AC short-cycles](/blog/ac-short-cycling-causes-fixes/)
+- [Heat pump vs. gas furnace: 48 factors to compare](/blog/heat-pump-vs-gas-furnace-savings/)
 - [Heating & cooling explained](/heating-cooling-explained/)
 
 ## Sources

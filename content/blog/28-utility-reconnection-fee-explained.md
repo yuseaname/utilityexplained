@@ -1,6 +1,6 @@
 ---
 title: "How to Verify a Utility Reconnection Charge"
-slug: "28-utility-reconnection-fee-explained"
+slug: "utility-reconnection-fee-explained"
 description: "Verify a reconnection charge, service-restoration conditions, account balance, and assistance options using the serving provider’s current written rules."
 date: 2026-05-28
 updated: 2026-10-30
@@ -15,6 +15,7 @@ sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
   - https://www.acf.hhs.gov/ocs/programs/liheap (retrieved 2026-08-29)
   - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
+aliases: ["/blog/28-utility-reconnection-fee-explained/"]
 ---
 
 ## Quick Answer
@@ -23,7 +24,7 @@ sources:
 
 If paying the account is difficult, CFPB directs renters seeking help with utility bills to local and state resources, including LIHEAP-related assistance information.[1] The Low Income Home Energy Assistance Program (LIHEAP) provided heating and cooling assistance to roughly 6.7 million households in 2024 through state block grants designed to prevent utility shutoffs.[2]
 
-**Next step:** Before you get to reconnection, understand how your [utility billing cycle](/blog/23-utility-billing-cycle-explained/) works and how to spot a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) before it triggers a shutoff.
+**Next step:** Before you get to reconnection, understand how your [utility billing cycle](/blog/utility-billing-cycle-explained/) works and how to spot a [past-due balance](/blog/past-due-balance-utility-bill-explained/) before it triggers a shutoff.
 
 ---
 
@@ -43,7 +44,7 @@ Gas disconnection carries additional safety procedures. A utility technician mus
 Water disconnection affects sanitation and health. Many states have stronger protections against water shutoffs, including longer notice periods and mandatory payment-plan offers. Reconnection fees are generally **$25–$150** when done during business hours.
 
 ### Seasonal (Summer-Only or Winter-Moratorium States)
-Many states restrict winter disconnections for electricity and gas, and the rules (dates, eligibility, protections) vary by state. Reconnection after a protected period follows standard fees plus a reconnection visit. For how these protections actually work — and what a shutoff notice legally requires — see [can your utility shut off service](/blog/can-utility-shut-off-service/) and the notice-and-protection rules in [past-due balance explained](/blog/21-past-due-balance-utility-bill-explained/); for payment-assistance options before it gets that far, start with [LIHEAP and assistance programs](/blog/utility-assistance-programs-liheap/).
+Many states restrict winter disconnections for electricity and gas, and the rules (dates, eligibility, protections) vary by state. Reconnection after a protected period follows standard fees plus a reconnection visit. For how these protections actually work — and what a shutoff notice legally requires — see [can your utility shut off service](/blog/can-utility-shut-off-service/) and the notice-and-protection rules in [past-due balance explained](/blog/past-due-balance-utility-bill-explained/); for payment-assistance options before it gets that far, start with [LIHEAP and assistance programs](/blog/utility-assistance-programs-liheap/).
 
 ---
 
@@ -79,7 +80,7 @@ Ask the provider to identify every item that applies to the account:
 | Service status | Whether service is pending disconnection, disconnected, or otherwise restricted |
 | Balance | Past-due amount, late charges, credits, and payment-history status |
 | Reconnection charge | Amount, tariff or policy reference, and when it is due |
-| [Deposit or security requirement](/blog/26-utility-deposit-explained/) | Whether one applies and under what written terms — a deposit may be required after a shutoff before service is restored |
+| [Deposit or security requirement](/blog/utility-deposit-explained/) | Whether one applies and under what written terms — a deposit may be required after a shutoff before service is restored |
 | Restoration | Payment confirmation, access, scheduling, equipment, and safety conditions |
 | Assistance or payment options | Current eligibility rules, contacts, deadlines, and documentation |
 

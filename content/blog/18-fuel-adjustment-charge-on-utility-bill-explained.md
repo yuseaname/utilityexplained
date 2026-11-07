@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Fuel Adjustment Charge on a Utility Bill"
-slug: "18-fuel-adjustment-charge-on-utility-bill-explained"
+slug: "fuel-adjustment-charge-on-utility-bill-explained"
 description: "What is a fuel adjustment charge? How to identify it on your bill, verify it against the tariff and rate period, and compare it to prior bills."
 date: 2026-05-28
 hero_below_answer: true
@@ -15,6 +15,7 @@ image_alt: "Tariff fuel rate and usage basis combining into a fuel-adjustment li
 sources:
   - https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
+aliases: ["/blog/18-fuel-adjustment-charge-on-utility-bill-explained/"]
 ---
 
 {{< jump-row "Identify the charge|#identify-the-exact-charge" "How it works|#how-the-clause-works" "Compare bills|#compare-bills-before-drawing-a-conclusion" "What it is not|#what-a-fuel-adjustment-is-not" >}}
@@ -37,7 +38,7 @@ Record the line item exactly as printed, then obtain the tariff or rate document
 | Rate basis | Unit, rate, usage basis, and effective dates |
 | Service class | Account type and rate-plan name |
 | Calculation | What bill components and adjustments are included |
-| Related items | Energy, [delivery vs. supply](/blog/24-delivery-charge-vs-supply-charge-utility-bill/), fixed, rider, tax, credit, and one-time charges |
+| Related items | Energy, [delivery vs. supply](/blog/delivery-charge-vs-supply-charge-utility-bill/), fixed, rider, tax, credit, and one-time charges |
 
 The same word can be used differently by different providers. The tariff and account-specific calculation control.
 
@@ -47,7 +48,7 @@ You can also reverse the check: divide the fuel-adjustment dollar amount by the 
 
 {{< visual src="/images/articles/18-fuel-adjustment-charge-on-utility-bill-explained/fuel-line-tariff-excerpt.webp" alt="Generic tariff fields for charge label, rate basis, and effective date aligned to a bill line." wide="true" >}}
 
-Where this line sits in the bill's larger structure — and the rider mechanism behind it — see [surcharges and riders: the mechanism behind metered add-on lines](/blog/19-utility-bill-surcharges-and-riders-explained/).
+Where this line sits in the bill's larger structure — and the rider mechanism behind it — see [surcharges and riders: the mechanism behind metered add-on lines](/blog/utility-bill-surcharges-and-riders-explained/).
 
 ## How the Clause Works
 
@@ -60,7 +61,7 @@ The direction can flip. On **April 30, 2025**, the Indiana Utility Regulatory Co
 Compare the current bill with a similar prior bill. A higher total amount due can result from more than one component, so record and compare each of these before drawing a conclusion:
 
 - Billing days
-- [Metered usage](/blog/11-understanding-kwh-usage/)
+- [Metered usage](/blog/understanding-kwh-usage/)
 - Actual or estimated status
 - Rate-plan version
 - Each line-item rate
@@ -75,7 +76,7 @@ For scale when you compare: fuel-adjusted rates ride on top of a base rate that 
 
 ## What a Fuel Adjustment Is Not
 
-It is **not a rate increase**: base rates change only through a commission proceeding, while this line moves under an already-approved, regulator-reviewed mechanism — so it can shift between bills with no "new rates" case behind it.[3] It is **not shoppable on the delivery side**: the delivery utility is fixed by service territory, so the rider applies regardless of supplier. And in competitive-supply markets there is generally no separate delivery-side fuel line at all — fuel cost is absorbed into the price quoted by your chosen retail supplier, so compare [supply vs. delivery](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) components instead of hunting for a fuel line.[2] Contrast the fixed monthly [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/), which does not move with usage or fuel prices.
+It is **not a rate increase**: base rates change only through a commission proceeding, while this line moves under an already-approved, regulator-reviewed mechanism — so it can shift between bills with no "new rates" case behind it.[3] It is **not shoppable on the delivery side**: the delivery utility is fixed by service territory, so the rider applies regardless of supplier. And in competitive-supply markets there is generally no separate delivery-side fuel line at all — fuel cost is absorbed into the price quoted by your chosen retail supplier, so compare [supply vs. delivery](/blog/delivery-charge-vs-supply-charge-utility-bill/) components instead of hunting for a fuel line.[2] Contrast the fixed monthly [customer charge](/blog/what-is-customer-charge-on-utility-bill/), which does not move with usage or fuel prices.
 
 ## Questions for the Provider
 
@@ -90,10 +91,10 @@ Keep the bill, tariff version, and provider response together. If an error is su
 
 ## Related Reading
 
-- [Surcharges and riders, explained](/blog/19-utility-bill-surcharges-and-riders-explained/) — the rider mechanism behind metered add-on lines like fuel adjustment.
-- [Delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — where the fuel line fits in the bill's structure.
-- [Understanding kWh usage](/blog/11-understanding-kwh-usage/) — how to read the usage your fuel line is applied to.
-- [Natural gas bill charges, explained](/blog/12-how-to-read-your-gas-bill/) — if your fuel line is on a gas bill.
+- [Surcharges and riders, explained](/blog/utility-bill-surcharges-and-riders-explained/) — the rider mechanism behind metered add-on lines like fuel adjustment.
+- [Delivery vs. supply charges](/blog/delivery-charge-vs-supply-charge-utility-bill/) — where the fuel line fits in the bill's structure.
+- [Understanding kWh usage](/blog/understanding-kwh-usage/) — how to read the usage your fuel line is applied to.
+- [Natural gas bill charges, explained](/blog/how-to-read-your-gas-bill/) — if your fuel line is on a gas bill.
 
 {{< faq "Why does my fuel adjustment change when my usage didn't?" >}}
 
@@ -103,7 +104,7 @@ The charge has two moving parts: a rate basis (the tariff's fuel rate and its ef
 
 {{< faq "Is the fuel adjustment charge the same as a rider?" >}}
 
-Adjacent, not identical: the rider is the commission-approved mechanism; the fuel adjustment charge is the line item it produces. See [surcharges and riders, explained](/blog/19-utility-bill-surcharges-and-riders-explained/) for the mechanism.
+Adjacent, not identical: the rider is the commission-approved mechanism; the fuel adjustment charge is the line item it produces. See [surcharges and riders, explained](/blog/utility-bill-surcharges-and-riders-explained/) for the mechanism.
 
 {{< /faq >}}
 

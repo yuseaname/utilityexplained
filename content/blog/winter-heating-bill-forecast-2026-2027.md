@@ -51,7 +51,7 @@ Two mechanical notes worth understanding before reading anything into these numb
 | West | $590 | **+7%** |
 | **U.S. average** | **$640** | **-9%** |
 
-Cheaper gas nearly everywhere — except the West, where a much colder forecast than last year's unusually warm winter overwhelms the price relief. The full mechanics of gas bills (therms, delivery vs. supply, winter rate seasonality) are in [why is my gas bill so high](/blog/07-gas-bill-too-high/).
+Cheaper gas nearly everywhere — except the West, where a much colder forecast than last year's unusually warm winter overwhelms the price relief. The full mechanics of gas bills (therms, delivery vs. supply, winter rate seasonality) are in [why is my gas bill so high](/blog/gas-bill-too-high/).
 
 ### Electric-heat homes — average winter spend by region
 
@@ -104,7 +104,7 @@ EIA's forecast assumes national temperatures similar to last winter, warmer in t
 
 **Propane (-3% expected):** the relief is price-side and regional (Northeast -15%). Fill timing still matters with delivered fuels — prices tend to soften outside the demand peak; don't refill in the third week of January if you can avoid it.
 
-**Heating oil (+21% expected):** the hard case. Every efficiency dollar pays back at $5.26/gallon: the same setback schedule, [draft sealing](/blog/best-door-draft-stoppers/), and tune-up stack, plus the delivered-fuel playbook — compare pre-buy/capped-price contracts against spot fills early in the season, ask your supplier about budget billing to flatten the January spike, and if a furnace replacement is genuinely on the table, run the [heat pump vs. gas furnace](/blog/48-heat-pump-vs-gas-furnace-savings/) math before committing to another oil cycle.
+**Heating oil (+21% expected):** the hard case. Every efficiency dollar pays back at $5.26/gallon: the same setback schedule, [draft sealing](/blog/best-door-draft-stoppers/), and tune-up stack, plus the delivered-fuel playbook — compare pre-buy/capped-price contracts against spot fills early in the season, ask your supplier about budget billing to flatten the January spike, and if a furnace replacement is genuinely on the table, run the [heat pump vs. gas furnace](/blog/heat-pump-vs-gas-furnace-savings/) math before committing to another oil cycle.
 
 {{< visual src="/images/articles/winter-heating-bill-forecast-2026-2027/four-heating-fuels-illustration.webp" alt="Flat four-panel illustration of a gas flame, electric coil, propane tank, and oil tank." caption="Half the country heats with gas, 40%+ with electricity — and the 3% on heating oil face this winter's sharpest increase." >}}
 
@@ -153,7 +153,7 @@ Monthly, alongside each Short-Term Energy Outlook release through the heating se
 
 {{< faq-schema >}}
 
-Related: [why is my gas bill so high](/blog/07-gas-bill-too-high/), [why is my electric bill so high in January](/blog/why-is-my-electric-bill-so-high-in-january/), and [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
+Related: [why is my gas bill so high](/blog/gas-bill-too-high/), [why is my electric bill so high in January](/blog/why-is-my-electric-bill-so-high-in-january/), and [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
 
 ## Sources
 

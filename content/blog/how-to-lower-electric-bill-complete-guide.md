@@ -36,7 +36,7 @@ You can cut your electric bill **20–40%** with the highest-ROI moves: raise su
 
 **Pick your route:**
 
-- **"My bill jumped unexpectedly."** Your usage probably didn't — rule out billing errors, estimated reads, and rate changes first: [Why Your Electric Bill Is So High](/blog/03-why-is-my-electric-bill-so-high/) walks the 15-minute check (free).
+- **"My bill jumped unexpectedly."** Your usage probably didn't — rule out billing errors, estimated reads, and rate changes first: [Why Your Electric Bill Is So High](/blog/why-is-my-electric-bill-so-high/) walks the 15-minute check (free).
 - **"I know usage is high, but not what's causing it."** Measure before you spend. One weekend with a plug-in meter — {{< amazon asin="B00009MDBU" text="P3 Kill A Watt P4400 (~$30)" position="route-usage" >}} — finds your actual hogs; pair it with the free unplugging pass in step 3.
 - **"Heating/cooling is my main cost."** True for most homes (52% of energy use, EIA RECS 2020). Set the free thermostat schedule in step 1 today; if you want it automated, {{< amazon asin="B0D5BBYRJM" text="a learning thermostat like the Nest (4th gen)" position="route-hvac" >}} — covered honestly in step 13 — is the single highest-impact device.
 
@@ -54,7 +54,7 @@ Your electric bill is too high. You've tried turning off lights, but it barely m
 
 This guide gives you 20+ proven ways to lower your electric bill, organized by cost: free changes you can make today, under-$50 upgrades for this week, under-$500 investments for this month, and long-term upgrades that pay for themselves.
 
-Every tip includes the math: what it costs, what it saves, and how long until it pays you back. If your bill looks high before you cut anything, walk through [Why Your Electric Bill Is So High](/blog/03-why-is-my-electric-bill-so-high/) first to rule out billing errors, estimated reads, and rate changes.
+Every tip includes the math: what it costs, what it saves, and how long until it pays you back. If your bill looks high before you cut anything, walk through [Why Your Electric Bill Is So High](/blog/why-is-my-electric-bill-so-high/) first to rule out billing errors, estimated reads, and rate changes.
 
 {{< visual src="/images/articles/how-to-lower-electric-bill-complete-guide/savings-cost-summary.webp" alt="Savings-versus-cost summary card: a realistic whole-home outcome is about 20 percent, up to 40 percent best case, and the fixes sort into three cost tiers — free, under fifty dollars, and investment-level." wide="true" >}}
 
@@ -171,7 +171,7 @@ Your dryer uses 3–5 kWh per load. At roughly 17¢/kWh (U.S. EIA mid-2026 avera
 
 **If you dry 5 loads/week:** 20 loads/month = **$10–$17/month**
 
-**Solution:** Use a drying rack ($15–$30) or clothesline (free). On a [time-of-use plan](/blog/08-time-of-use-electricity/), running the dryer after 9pm can cut that cost in half.
+**Solution:** Use a drying rack ($15–$30) or clothesline (free). On a [time-of-use plan](/blog/time-of-use-electricity/), running the dryer after 9pm can cut that cost in half.
 
 ---
 
@@ -255,7 +255,7 @@ LEDs use roughly 75–90% less energy than incandescent bulbs and last 15–25 t
 
 ### 10. Install Smart Power Strips
 
-Smart power strips cut power to peripherals when the main device is off. For models that also report per-outlet kWh — useful for measuring phantom loads in real time — see the [standby power and smart-plug guide](/blog/50-best-smart-plugs-standby-power/) before you buy.
+Smart power strips cut power to peripherals when the main device is off. For models that also report per-outlet kWh — useful for measuring phantom loads in real time — see the [standby power and smart-plug guide](/blog/best-smart-plugs-standby-power/) before you buy.
 
 | Setup | Cost | Annual Savings | Payback |
 |-------|------|----------------|---------|
@@ -271,7 +271,7 @@ Smart power strips cut power to peripherals when the main device is off. For mod
 
 ### 11. Seal Air Leaks with Caulk and Weatherstrip
 
-Air leaks through the building envelope waste 10–20% of heating and cooling energy — DOE's Home Upgrades page puts the typical air-sealing / insulation gain in roughly that range, and leaks through ducts specifically can waste 20–30% of conditioned air (U.S. Department of Energy, <https://www.energy.gov/save/home-upgrades>). For a room-by-room DIY walkthrough, see [How to Check for Energy Leaks in Your Home](/blog/47-check-energy-leaks-home-diy/).
+Air leaks through the building envelope waste 10–20% of heating and cooling energy — DOE's Home Upgrades page puts the typical air-sealing / insulation gain in roughly that range, and leaks through ducts specifically can waste 20–30% of conditioned air (U.S. Department of Energy, <https://www.energy.gov/save/home-upgrades>). For a room-by-room DIY walkthrough, see [How to Check for Energy Leaks in Your Home](/blog/check-energy-leaks-home-diy/).
 
 **Where to seal:**
 - Windows (caulk gaps, add weatherstrip)

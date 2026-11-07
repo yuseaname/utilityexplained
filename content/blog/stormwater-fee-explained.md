@@ -69,7 +69,7 @@ Sometimes, but not always. The honest answer depends on your city's rules.
 - **Charlotte** says property owners may qualify for a fee credit by reducing impacts to the storm drainage system, for example if runoff drains to a neighboring county.[3]
 - **Philadelphia** is the cautionary tale: stormwater credits are not currently available for residential properties, and installing rain barrels or other stormwater tools will not reduce the monthly charge — even though the city offers free rain barrels through its Rain Check program.[2]
 
-So before you spend money on a rain barrel or permeable pavers expecting a bill credit, check your city's stormwater credit policy first. Some cities reward the behavior; others simply encourage it. For the full list of water-bill savings that do work, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+So before you spend money on a rain barrel or permeable pavers expecting a bill credit, check your city's stormwater credit policy first. Some cities reward the behavior; others simply encourage it. For the full list of water-bill savings that do work, see [how to lower your water bill](/blog/how-to-lower-water-bill/).
 
 ## Renters vs. Owners: Who Pays?
 
@@ -88,7 +88,7 @@ The practical takeaway: a stormwater fee is a property infrastructure cost, so i
 3. Search your city or utility website for "stormwater fee" or "stormwater rate" — most publish the rate schedule.
 4. If the charge looks wrong, ask about appeals: Philadelphia allows property owners to appeal incorrect parcel data or property classification.[2]
 
-For the full picture of how water bills fit together, start at the [water explained hub](/water-explained/). If your water bill also includes sewer charges, see [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/) to separate the two. And if the whole bill feels high, start with the [high-water-bill investigation guide](/blog/06-water-bill-too-high/) and the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) to rule out leaks before assuming the fee is the problem. To understand the usage units on the rest of the bill, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/).
+For the full picture of how water bills fit together, start at the [water explained hub](/water-explained/). If your water bill also includes sewer charges, see [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/) to separate the two. And if the whole bill feels high, start with the [high-water-bill investigation guide](/blog/water-bill-too-high/) and the [water meter leak indicator](/blog/water-meter-leak-indicator-explained/) to rule out leaks before assuming the fee is the problem. To understand the usage units on the rest of the bill, see [what is CCF on a water bill](/blog/what-is-ccf-on-a-water-bill/).
 
 ## Frequently asked questions {#faq}
 

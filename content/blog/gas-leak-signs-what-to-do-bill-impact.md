@@ -65,7 +65,7 @@ Notice what's missing: nothing says "find the leak." Professionals do that with 
 
 Here's the part that surprises people: with rare exceptions, a gas leak is a bill event only in a minor way. Every cubic foot that escapes inside your home or yard has already passed through your meter, so it does count as usage you pay for. But most household leaks are small by volume, and small leaks cost small amounts.
 
-Using recent U.S. residential natural gas prices — roughly **$1.35 to $1.92 per therm**, which is the range EIA-reported national prices sat in during early-to-mid 2026 and the same range we use across our [gas bill explainers](/blog/07-gas-bill-too-high/)[3] — a leak's monthly cost depends almost entirely on how big it is:
+Using recent U.S. residential natural gas prices — roughly **$1.35 to $1.92 per therm**, which is the range EIA-reported national prices sat in during early-to-mid 2026 and the same range we use across our [gas bill explainers](/blog/gas-bill-too-high/)[3] — a leak's monthly cost depends almost entirely on how big it is:
 
 | Leak size (therms/day) | What that might look like | Typical added cost/month |
 | --- | --- | --- |
@@ -85,13 +85,13 @@ Two more honest points about the bill side:
 | --- | --- | --- |
 | **Bill impact** | Usually small — the leak volume itself is low | Can be large (heating season, new appliance, rate change) |
 | **What you notice** | Smell, hiss, dead grass, bubbles | Higher usage or a new appliance pattern |
-| **First move** | Leave, call 911 or the utility from outside | Check usage — start by [reading your gas bill](/blog/12-how-to-read-your-gas-bill/) and [your gas meter](/blog/how-to-read-gas-meter/) |
+| **First move** | Leave, call 911 or the utility from outside | Check usage — start by [reading your gas bill](/blog/how-to-read-your-gas-bill/) and [your gas meter](/blog/how-to-read-gas-meter/) |
 | **Who fixes it** | The utility crew (free emergency response) | You, with efficiency steps |
 | **Time pressure** | Minutes | Weeks |
 
 The honest analogy is a running toilet on the water side: a [running toilet quietly adds to your water bill](/blog/is-your-toilet-running-leak-test/) every single day and warrants patience and tracking, because it wastes water but endangers no one. A gas leak wastes a little money and endangers everyone in the house. That difference in danger is why one is a plumbing-weekend problem and the other is a leave-the-house-now problem.
 
-If your gas bill is high and you smell nothing anywhere, the cause is far more likely usage, weather, or rates than a hidden leak — our guide to [why your gas bill is high](/blog/07-gas-bill-too-high/) ranks the likely causes, and [MCF vs CCF vs therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) explains the units you'll see on the meter.
+If your gas bill is high and you smell nothing anywhere, the cause is far more likely usage, weather, or rates than a hidden leak — our guide to [why your gas bill is high](/blog/gas-bill-too-high/) ranks the likely causes, and [MCF vs CCF vs therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) explains the units you'll see on the meter.
 
 ## What the Utility Does When You Call
 

@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Minimum Charge on a Utility Bill"
-slug: "22-minimum-bill-utility-bill-explained"
+slug: "minimum-bill-utility-bill-explained"
 description: "A minimum bill charges you even when you use almost nothing. See why utilities set them, how they're calculated, and whether yours can be avoided."
 date: 2026-05-28
 hero_below_answer: true
@@ -17,6 +17,7 @@ sources:
   - https://www.pge.com/assets/rates/tariffs/Res_Current.xlsx (PG&E Residential Gas Tariff Rates workbook, retrieved 2026-08-29)
   - https://www.pge.com/assets/rates/tariffs/res-inclu-tou-current.xlsx (PG&E Current Residential Electric Tariff Rates workbook, retrieved 2026-08-29)
   - https://www.pge.com/en/account/billing-and-assistance/base-services-charge.html (PG&E Base Services Charge FAQ, retrieved 2026-08-29)
+aliases: ["/blog/22-minimum-bill-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -42,7 +43,7 @@ Avista's residential minimum equals its basic charge: at the $10.00 floor with 0
 
 Service costs whether energy flows or not — lines, meter, billing, support. Two mechanisms cover it:
 
-- A flat fixed charge every month — the [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/). On tariffs like Avista Schedule 1, that fixed charge **is** the minimum [1].
+- A flat fixed charge every month — the [customer charge](/blog/what-is-customer-charge-on-utility-bill/). On tariffs like Avista Schedule 1, that fixed charge **is** the minimum [1].
 - A stated minimum applying when usage charges run thin — the shape of Avista's general-service Minimum and PG&E's per-day minimums [2][3][4].
 
 Many residential schedules carry no separate minimum clause; the always-on fixed charge plays the floor's role — SMUD's residential schedule prices a monthly fixed charge with no minimum-bill clause in the rate table. PG&E went the other way in March 2026: its Base Services Charge "replaces the monthly Minimum Electric Charge" [5], so the floor now appears as the fixed-charge line.
@@ -53,9 +54,9 @@ Many residential schedules carry no separate minimum clause; the always-on fixed
 2. **Pull the rate schedule** for your class and look for a line named "Minimum," "Minimum Charge," or "minimum monthly charge" [1][2].
 3. **Read its scope** — total bill, delivery-only, or one component. PG&E's minimums are scoped by schedule and customer class, with some groups exempt [3][4].
 4. **Recompute the floor**: Avista-style is a flat monthly number; PG&E-style is per-day × days in cycle. Compare with the billed amount.
-5. **If billed > floor + usage math**, review the [full line-item breakdown](/blog/electric-bill-breakdown-understanding-line-items/) before disputing — riders, [taxes and fees](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/), or an [estimated read](/blog/14-estimated-utility-bill-explained/) can explain the gap.
+5. **If billed > floor + usage math**, review the [full line-item breakdown](/blog/electric-bill-breakdown-understanding-line-items/) before disputing — riders, [taxes and fees](/blog/utility-bill-taxes-fees-franchise-charges-explained/), or an [estimated read](/blog/estimated-utility-bill-explained/) can explain the gap.
 
-For a move-out period, the floor interacts with [proration](/blog/20-utility-bill-proration-explained/) — a short final bill can prorate the fixed charge while the minimum clause still governs the least you can owe.
+For a move-out period, the floor interacts with [proration](/blog/utility-bill-proration-explained/) — a short final bill can prorate the fixed charge while the minimum clause still governs the least you can owe.
 
 {{< faq "Is a minimum bill the same as a customer charge?" >}}
 

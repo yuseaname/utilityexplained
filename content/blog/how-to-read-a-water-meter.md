@@ -105,7 +105,7 @@ For more detail, see [Understanding Utility Bills](/blog/complete-guide-understa
             </p>
 
 
-This page is the measurement tool — if the reading confirms a leak or an unexplained jump, two companion guides take it from here: [why is my water bill so high?](/blog/06-water-bill-too-high/) ranks the causes by likelihood, and [why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) works the sudden-change case (rate hikes, estimated reads, billing-period length) that a leak test alone won't explain.
+This page is the measurement tool — if the reading confirms a leak or an unexplained jump, two companion guides take it from here: [why is my water bill so high?](/blog/water-bill-too-high/) ranks the causes by likelihood, and [why did my water bill suddenly increase?](/blog/why-did-my-water-bill-suddenly-increase/) works the sudden-change case (rate hikes, estimated reads, billing-period length) that a leak test alone won't explain.
 
 ## Compare the meter with your bill {#bill-compare}
 
@@ -142,7 +142,7 @@ This page is the measurement tool — if the reading confirms a leak or an unexp
               estimates and when
               a true read will occur. Estimated reads can cause a sudden correction on
               the next bill; for the full mechanics, see
-              <a href="/blog/14-estimated-utility-bill-explained/">estimated utility bills explained</a>.
+              <a href="/blog/estimated-utility-bill-explained/">estimated utility bills explained</a>.
             </p>
 
 
@@ -176,7 +176,7 @@ This page is the measurement tool — if the reading confirms a leak or an unexp
               Also check for seasonal irrigation or hose usage. Outdoor leaks are
               harder to see but can be a major source of usage. If the meter and bill
               both look right but the total still bothers you, walk
-              <a href="/blog/06-water-bill-too-high/">why is my water bill so high? Causes ranked by likelihood</a>.
+              <a href="/blog/water-bill-too-high/">why is my water bill so high? Causes ranked by likelihood</a>.
             </p>
 
 
@@ -197,7 +197,7 @@ This page is the measurement tool — if the reading confirms a leak or an unexp
               If you track usage weekly for a month, you will have enough data to
               see whether your bill aligns with your habits or if something unusual
               is happening. To turn what you find into actual savings, see
-              <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.
+              <a href="/blog/how-to-lower-water-bill/">how to lower your water bill</a>.
             </p>
 
 

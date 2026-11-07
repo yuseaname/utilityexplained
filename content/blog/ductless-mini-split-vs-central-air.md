@@ -75,7 +75,7 @@ That zoning advantage is real but conditional:
 - It does **not** save automatically when the whole house is conditioned all day—every head running is every head paying.
 - Sizing still decides more than equipment type. ENERGY STAR requires sizing from a proper load calculation (Manual J) and warns that both over- and under-sized systems underperform.[5]
 
-If the mini-split would replace electric resistance heat, the stakes rise: ENERGY STAR states certified ductless systems use **up to 60% less energy than standard 3kW electric radiators**, and DOE estimates modern air-source heat pumps can reduce electricity use for heating by about half versus resistance.[5][10] In heating climates, see the sibling guide to [comparing a heat pump with a gas furnace](/blog/48-heat-pump-vs-gas-furnace-savings/).
+If the mini-split would replace electric resistance heat, the stakes rise: ENERGY STAR states certified ductless systems use **up to 60% less energy than standard 3kW electric radiators**, and DOE estimates modern air-source heat pumps can reduce electricity use for heating by about half versus resistance.[5][10] In heating climates, see the sibling guide to [comparing a heat pump with a gas furnace](/blog/heat-pump-vs-gas-furnace-savings/).
 
 ## What Installed Costs Actually Look Like
 

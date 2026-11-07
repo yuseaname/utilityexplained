@@ -21,7 +21,7 @@ For data-heavy billing guides, the desk uses primary sources such as U.S. EIA da
 
 The Home Energy Desk owns our energy-efficiency and savings guides — showing you how to lower your bills, what each fix costs, and how long it takes to pay for itself. It covers lowering household utility use, from weatherstripping and water-heater settings to HVAC efficiency ratings (SEER, AFUE, HSPF, COP), heat pumps, and air sealing.
 
-For data-heavy efficiency guides, the desk uses DOE, ENERGY STAR, and manufacturer documentation. Refreshed guides show their source links and review date. A representative desk piece is [DIY home energy audit](/blog/47-check-energy-leaks-home-diy/), which walks the DOE leak checklist room by room; the desk anchors on the U.S. Department of Energy's Energy Saver guides (energy.gov/energysaver), citing the pages it uses with retrieval dates.
+For data-heavy efficiency guides, the desk uses DOE, ENERGY STAR, and manufacturer documentation. Refreshed guides show their source links and review date. A representative desk piece is [DIY home energy audit](/blog/check-energy-leaks-home-diy/), which walks the DOE leak checklist room by room; the desk anchors on the U.S. Department of Energy's Energy Saver guides (energy.gov/energysaver), citing the pages it uses with retrieval dates.
 
 ### Affordability & Assistance Desk {#affordability-assistance-desk}
 

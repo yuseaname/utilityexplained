@@ -20,7 +20,7 @@ sources:
 
 ## Quick Answer
 
-**The Thermal Master P1 is the budget USB-C route into thermal imaging for DIY energy audits — about $116, 4.5 stars, with a native 160×120 IR sensor enhanced to 320×240 — and it is a genuinely useful draft-finder.** But the honest headline is what it *can't* do: no phone thermal camera sees inside walls, reads exact R-values, or replaces a blower-door audit. Our premium pick remains the **FLIR ONE Pro**, which [our 47-point DIY leak hunt](/blog/47-check-energy-leaks-home-diy/) already recommends — it costs more and, on newer iPhones, needs a Lightning adapter or a different phone, which is exactly the caveat the USB-C P1 sidesteps. If you own an Android or a USB-C iPhone and want to find the drafts this winter for about the cost of two pizzas and a thermostat, the P1 is the sensible entry: {{< amazon asin="B0FMS2WC9X" text="the Thermal Master P1 on Amazon" >}}. The audit method itself lives in [our draft-finding guide](/blog/how-to-find-and-seal-drafts-in-your-home/) — this page is the tool decision.
+**The Thermal Master P1 is the budget USB-C route into thermal imaging for DIY energy audits — about $116, 4.5 stars, with a native 160×120 IR sensor enhanced to 320×240 — and it is a genuinely useful draft-finder.** But the honest headline is what it *can't* do: no phone thermal camera sees inside walls, reads exact R-values, or replaces a blower-door audit. Our premium pick remains the **FLIR ONE Pro**, which [our 47-point DIY leak hunt](/blog/check-energy-leaks-home-diy/) already recommends — it costs more and, on newer iPhones, needs a Lightning adapter or a different phone, which is exactly the caveat the USB-C P1 sidesteps. If you own an Android or a USB-C iPhone and want to find the drafts this winter for about the cost of two pizzas and a thermostat, the P1 is the sensible entry: {{< amazon asin="B0FMS2WC9X" text="the Thermal Master P1 on Amazon" >}}. The audit method itself lives in [our draft-finding guide](/blog/how-to-find-and-seal-drafts-in-your-home/) — this page is the tool decision.
 
 {{< affiliate-disclosure >}}
 
@@ -69,7 +69,7 @@ The P1's spec sheet is the reason it's the pick: a **native 160×120 IR sensor**
 
 **Best when: you want the established, higher-resolution option and your phone situation allows it.**
 
-We're not linking a box for this one — [our 47-point leak hunt](/blog/47-check-energy-leaks-home-diy/) already recommends the **FLIR ONE Pro by name**, and that recommendation stands. Its MSX-enhanced imagery and build quality are the reason it's the prosumer default. The honest caveat that keeps the P1 relevant: the ONE Pro is a Lightning-port device in its common configuration, which on a USB-C-only phone means adapters or workarounds — and that friction is precisely what the P1's USB-C plug resolves. If you're an iPhone user with a Lightning port and want the premium image quality, the FLIR is still the better camera. If you're USB-C and budget-conscious, the P1 gets you 80% of the audit value for a fraction of the price.
+We're not linking a box for this one — [our 47-point leak hunt](/blog/check-energy-leaks-home-diy/) already recommends the **FLIR ONE Pro by name**, and that recommendation stands. Its MSX-enhanced imagery and build quality are the reason it's the prosumer default. The honest caveat that keeps the P1 relevant: the ONE Pro is a Lightning-port device in its common configuration, which on a USB-C-only phone means adapters or workarounds — and that friction is precisely what the P1's USB-C plug resolves. If you're an iPhone user with a Lightning port and want the premium image quality, the FLIR is still the better camera. If you're USB-C and budget-conscious, the P1 gets you 80% of the audit value for a fraction of the price.
 
 ## Head-to-Head
 
@@ -98,7 +98,7 @@ Assumptions: national average residential electricity of {{< stat "electric_rate
 ## Which Should You Actually Buy?
 
 - **USB-C phone, first thermal camera, draft-hunting on a budget** → Thermal Master P1. ~$116, no batteries, no adapter.
-- **Lightning iPhone, want the best image quality** → FLIR ONE Pro, as recommended in [the 47-point leak hunt](/blog/47-check-energy-leaks-home-diy/) — no box here, buy it there.
+- **Lightning iPhone, want the best image quality** → FLIR ONE Pro, as recommended in [the 47-point leak hunt](/blog/check-energy-leaks-home-diy/) — no box here, buy it there.
 - **You want to know *why* the bill is high, not just where it's cold** → pair the camera with [phantom power draw explained](/blog/phantom-power-draw-explained/) and a plug-in meter; thermal finds the envelope leaks, a meter finds the always-on loads.
 - **Suspect serious insulation failure or moisture** → skip straight to a professional audit with a blower door; the camera will confirm the symptom but not the cause.
 

@@ -120,7 +120,7 @@ Two billing structures decide whether your drip is billed at the cheap end or th
 
 *Note: Irrigation leaks often do not incur sewer charges if they are on a separate "deduct" meter, but indoor leaks almost always do.*
 
-For more ways to cut your monthly expenses, see our comprehensive guide on [44 ways to lower your water bill](/blog/44-how-to-lower-water-bill/) or our [06-water-bill-too-high](/blog/06-water-bill-too-high/) troubleshooting checklist.
+For more ways to cut your monthly expenses, see our comprehensive guide on [44 ways to lower your water bill](/blog/how-to-lower-water-bill/) or our [06-water-bill-too-high](/blog/water-bill-too-high/) troubleshooting checklist.
 
 {{< faq "How many gallons does a dripping faucet waste per day?" >}}
 A faucet dripping at one drip per second wastes approximately 8.2 gallons per day. Over a full year, this adds up to more than 3,000 gallons, which is enough to fill a small backyard pool.

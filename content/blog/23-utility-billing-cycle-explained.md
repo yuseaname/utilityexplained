@@ -1,6 +1,6 @@
 ---
 title: "How to Read the Billing Period on a Utility Statement"
-slug: "23-utility-billing-cycle-explained"
+slug: "utility-billing-cycle-explained"
 description: "How do you read the billing period on a utility statement? Use the account's service dates, meter-read status, usage, and tariff to compare periods."
 date: 2026-05-28
 updated: 2026-10-30
@@ -14,6 +14,7 @@ sources:
   - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq (retrieved 2026-08-29)
   - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (retrieved 2026-08-29)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
+aliases: ["/blog/23-utility-billing-cycle-explained/"]
 ---
 
 ## Quick Answer
@@ -26,7 +27,7 @@ Seeing a period that runs 27–35 days, or a start or end date shifted a day or 
 
 Con Edison’s bill FAQ notes that account holders can review an energy-bill breakdown and a monthly-usage chart through its account system; use the equivalent bill guide from your own provider.[1]
 
-**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) or [gas bill](/blog/12-how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+**Next step:** If your bill uses a longer billing period, read [how to read your electric bill](/blog/how-to-read-your-electric-bill/) or [gas bill](/blog/how-to-read-your-gas-bill/) to check each line item, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide. For help with a surprise spike, troubleshoot with [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/).
 
 ---
 
@@ -71,7 +72,7 @@ Though the February bill shows $23.25 more, the daily usage is identical. The in
 2. Compare that daily average across two or three consecutive bills.
 3. If the daily average is flat, the bill difference is just a period-length artifact.
 
-One variant of this that catches many households: the first or last bill of a lease or ownership, which often covers a partial period. See [how partial periods on first or final bills are prorated](/blog/20-utility-bill-proration-explained/).
+One variant of this that catches many households: the first or last bill of a lease or ownership, which often covers a partial period. See [how partial periods on first or final bills are prorated](/blog/utility-bill-proration-explained/).
 
 **Formula:** Average daily usage = Total billed usage ÷ Number of billing days.
 
@@ -102,7 +103,7 @@ If your Jan–Feb bill was estimated at 28 days and your Feb–Mar bill is actua
 
 **Action:** Look for the words “estimated,” “actual,” or a small asterisk next to the meter reading on your statement. Con Edison explains that a customer can submit a meter reading to avoid an estimated bill when a meter reader misses a visit.[2] Your provider may use different terms and rules, so verify them from its current bill guide.
 
-Two follow-ups worth reading: [how estimated reads and true-ups work](/blog/14-estimated-utility-bill-explained/), and — if an estimate correction has just landed on your bill — [why your bill changed when usage looks the same](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+Two follow-ups worth reading: [how estimated reads and true-ups work](/blog/estimated-utility-bill-explained/), and — if an estimate correction has just landed on your bill — [why your bill changed when usage looks the same](/blog/sudden-spike-in-electricity-bill-no-usage/).
 
 ---
 
@@ -147,7 +148,7 @@ Use a prior bill with a similar season only as a starting point. When you compar
 - Include credits and one-time items in the comparison, since neither shows up in the daily-average math.
 - A longer or shorter period can change the total amount due without identifying the underlying reason for any change in daily use or rate.
 
-**EIA data shows the average US residential customer uses roughly {{< stat "avg_monthly_kwh" "raw" >}} kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/22-minimum-bill-utility-bill-explained/) as low as the raw math suggests.
+**EIA data shows the average US residential customer uses roughly {{< stat "avg_monthly_kwh" "raw" >}} kWh per month, or about 29.6 kWh per day.[3]** If your daily average is near that figure, a longer billing period will naturally produce a higher total. And if the daily averages match but the totals do not, check whether a [minimum charge keeps your bill from dropping](/blog/minimum-bill-utility-bill-explained/) as low as the raw math suggests.
 
 ---
 

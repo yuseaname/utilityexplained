@@ -20,9 +20,9 @@ sources:
 
 ## Quick Answer
 
-**An electric blanket is dramatically cheaper to run than a space heater — roughly $6.60 a month for 8 hours a night, versus $25–66 for a heater doing the same job — because it heats the person instead of the room.** The math is simple: a queen-size blanket draws about 150 watts on medium, while a 1,500-watt space heater draws ten times that. Our pick for the blanket side is the **Westinghouse queen heated blanket**, a 4.3-star, 7,300+ review model that runs the full night on a timer. The heater side of this comparison lives in our dedicated guide — [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/) — because the honest answer to "which heater" depends on room size, safety, and how you'll use it. This page owns the blanket and the comparison.
+**An electric blanket is dramatically cheaper to run than a space heater — roughly $6.60 a month for 8 hours a night, versus $25–66 for a heater doing the same job — because it heats the person instead of the room.** The math is simple: a queen-size blanket draws about 150 watts on medium, while a 1,500-watt space heater draws ten times that. Our pick for the blanket side is the **Westinghouse queen heated blanket**, a 4.3-star, 7,300+ review model that runs the full night on a timer. The heater side of this comparison lives in our dedicated guide — [the best energy-efficient space heaters](/blog/best-energy-efficient-space-heater/) — because the honest answer to "which heater" depends on room size, safety, and how you'll use it. This page owns the blanket and the comparison.
 
-If you're new to the units, [what a kilowatt-hour actually is](/blog/11-understanding-kwh-usage/) is the two-minute primer, and [do thermal curtains really work](/blog/do-thermal-curtains-really-work/) covers the other half of the "keep the room warm" equation. If you just want the blanket: {{< amazon asin="B08K3KHS4D" text="the Westinghouse queen is on Amazon" >}}.
+If you're new to the units, [what a kilowatt-hour actually is](/blog/understanding-kwh-usage/) is the two-minute primer, and [do thermal curtains really work](/blog/do-thermal-curtains-really-work/) covers the other half of the "keep the room warm" equation. If you just want the blanket: {{< amazon asin="B08K3KHS4D" text="the Westinghouse queen is on Amazon" >}}.
 
 {{< affiliate-disclosure >}}
 
@@ -91,7 +91,7 @@ The upfront numbers invert the running costs: a heater is often cheaper to buy, 
 
 **The blanket wins when you're stationary** — sleeping, reading, watching TV. It's the single cheapest way to stay warm at night, and it lets you drop the whole-house thermostat a degree or two without noticing. That's the real play: the blanket isn't just cheaper than a heater, it makes a lower thermostat setting tolerable, which cuts the furnace bill too.
 
-**The space heater wins when you're moving around a room** — a home office, a garage workshop, a bathroom before a shower. A blanket can't follow you to a desk. But the heater recommendation itself — which model, what size, what safety features — is a separate question with a separate answer, and it lives in [the best energy-efficient space heaters guide](/blog/42-best-energy-efficient-space-heater/). That page owns the heater picks; this page owns the blanket and the comparison.
+**The space heater wins when you're moving around a room** — a home office, a garage workshop, a bathroom before a shower. A blanket can't follow you to a desk. But the heater recommendation itself — which model, what size, what safety features — is a separate question with a separate answer, and it lives in [the best energy-efficient space heaters guide](/blog/best-energy-efficient-space-heater/). That page owns the heater picks; this page owns the blanket and the comparison.
 
 **The honest middle:** many households run both — a blanket in the bedroom, a heater in the office — and that's fine, because they serve different zones. What doesn't make sense is running a 1,500 W heater in a room where you're sitting still under a blanket anyway.
 
@@ -100,11 +100,11 @@ The upfront numbers invert the running costs: a heater is often cheaper to buy, 
 ## Which Should You Actually Buy?
 
 - **You sleep cold, or sit still for hours** → the blanket. ~$6.60/month to run, pays for itself in one season versus a heater.
-- **You need to heat a room you're active in** → a space heater — but read [the heater guide](/blog/42-best-energy-efficient-space-heater/) for the actual pick.
+- **You need to heat a room you're active in** → a space heater — but read [the heater guide](/blog/best-energy-efficient-space-heater/) for the actual pick.
 - **You want both** → blanket for the bed, heater for the desk, and let each one run only where it's needed.
 - **You're on a tight budget** → the blanket is the cheaper buy twice over: lower upfront than a good heater and a tenth of the running cost.
 
-And the standing rule: **the cheapest heat is the heat you don't generate.** Before you buy either, check the room's actual heat loss — [do thermal curtains really work](/blog/do-thermal-curtains-really-work/) and [what a kilowatt-hour is](/blog/11-understanding-kwh-usage/) are the two reads that tell you whether the room is leaking the warmth you're paying for. A blanket over a drafty window is still a drafty window.
+And the standing rule: **the cheapest heat is the heat you don't generate.** Before you buy either, check the room's actual heat loss — [do thermal curtains really work](/blog/do-thermal-curtains-really-work/) and [what a kilowatt-hour is](/blog/understanding-kwh-usage/) are the two reads that tell you whether the room is leaking the warmth you're paying for. A blanket over a drafty window is still a drafty window.
 
 ## Sources
 

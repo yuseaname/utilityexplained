@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Utility Budget-Billing Plan"
-slug: "16-budget-billing-level-pay-explained"
+slug: "budget-billing-level-pay-explained"
 description: "Review a utility budget-billing or level-pay offer using the provider's written terms, actual charges, settlement rules, and payment options."
 date: 2026-05-28
 hero_below_answer: true
@@ -13,6 +13,7 @@ keywords: ["budget billing", "level pay plan", "utility payment plan"]
 image: "/images/articles/budget-billing-level-pay-explained/image.webp"
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (CFPB Get help paying rent and bills, retrieved 2026-08-29)
+aliases: ["/blog/16-budget-billing-level-pay-explained/"]
 ---
 
 ## Quick Answer
@@ -92,7 +93,7 @@ Keep the offer version and enrollment confirmation with the bills.
 - **Deficit at settle-up** — if the plan under-collects, the balance must be paid at review or when service ends. Exit does not forgive it: FPL bills the deferred balance on your **next bill** (**12-month** re-enrollment block)[4]; PG&E demands full payoff after **two** missed payments plus a **six-month** ban[3].
 - **Not a discount** — you pay the same annual total; National Grid calls its plan "not a discount program"[2], FPL "not a penny more or less"[4].
 - **Re-calculations** — a large rate increase or usage change can trigger a payment jump mid-cycle.
-- **Enrollment screens** — FPL requires a **zero balance** to start[4], PG&E requires on-time history with no active payment plan[3], National Grid routes **30+ day** arrears into an arrangement first[2] — gates akin to those behind the [utility deposit](/blog/26-utility-deposit-explained/).
+- **Enrollment screens** — FPL requires a **zero balance** to start[4], PG&E requires on-time history with no active payment plan[3], National Grid routes **30+ day** arrears into an arrangement first[2] — gates akin to those behind the [utility deposit](/blog/utility-deposit-explained/).
 
 ## Questions to Ask Your Utility
 
@@ -107,11 +108,11 @@ Get the answers in writing before enrolling. Not all utilities offer the same te
 
 ## Continue Reviewing Actual Charges
 
-Treat the plan payment and actual account activity as separate information. Each bill should still be reviewed for billing days, usage, read status, rate-plan changes, credits, and one-time items — see [utility billing cycles explained](/blog/23-utility-billing-cycle-explained/). If the plan displays a balance or settlement amount, ask the utility to explain the calculation and the terms that apply.
+Treat the plan payment and actual account activity as separate information. Each bill should still be reviewed for billing days, usage, read status, rate-plan changes, credits, and one-time items — see [utility billing cycles explained](/blog/utility-billing-cycle-explained/). If the plan displays a balance or settlement amount, ask the utility to explain the calculation and the terms that apply.
 
 ## When Affordability Is the Problem
 
-Level pay fits steady-income households smoothing *timing* — a $280 January against a $95 May — not those seeking to cut what they owe. Enrollment screens block many in arrears: an existing [past-due balance](/blog/21-past-due-balance-utility-bill-explained/) usually must be resolved or arranged first. When affordability is the issue, contact the utility before the due date about arrangements and assistance; the CFPB points to local and state resources including LIHEAP.[1]
+Level pay fits steady-income households smoothing *timing* — a $280 January against a $95 May — not those seeking to cut what they owe. Enrollment screens block many in arrears: an existing [past-due balance](/blog/past-due-balance-utility-bill-explained/) usually must be resolved or arranged first. When affordability is the issue, contact the utility before the due date about arrangements and assistance; the CFPB points to local and state resources including LIHEAP.[1]
 
 ## Sources
 

@@ -1,6 +1,6 @@
 ---
 title: "How to Budget for Apartment Utilities (With Averages)"
-slug: "09-apartment-utilities-cost"
+slug: "apartment-utilities-cost"
 description: "How much do apartment utilities cost? Build a budget from the lease, service setup terms, and the unit's own bill history instead of national averages."
 date: 2026-03-07
 hero_below_answer: true
@@ -15,6 +15,7 @@ sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
   - https://www.eia.gov/electricity/sales_revenue_price/ (Table 5a, retrieved 2026-08-28)
   - https://www.eia.gov/energyexplained/use-of-energy/homes.php (retrieved 2026-08-29)
+aliases: ["/blog/09-apartment-utilities-cost/"]
 ---
 
 ## Quick Answer
@@ -33,7 +34,7 @@ EIA Table 5a data (latest 12-month period) shows **statewide all-home averages**
 | Texas | 14.27¢ | 1,172 | $167 |
 | Illinois | 15.74¢ | 718 | $113 |
 
-The spread is the story: high-rate/low-usage states and low-rate/high-usage states can land on nearly the same bill. **The full 50-state table lives in one place** — [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/) — and it is kept current there; for what drives the kWh number, see [Understanding kWh Usage](/blog/11-understanding-kwh-usage/). Your actual apartment cost depends on local rates, unit size, heating/cooling system, and usage habits.
+The spread is the story: high-rate/low-usage states and low-rate/high-usage states can land on nearly the same bill. **The full 50-state table lives in one place** — [Average Utility Bills by State](/blog/average-utility-bills-by-state-2026/) — and it is kept current there; for what drives the kWh number, see [Understanding kWh Usage](/blog/understanding-kwh-usage/). Your actual apartment cost depends on local rates, unit size, heating/cooling system, and usage habits.
 
 ### First-Apartment Utility Checklist
 
@@ -45,7 +46,7 @@ Before move-in, confirm each of these with the landlord and utility providers:
 - [ ] **Internet**: Required by the lease or optional? Some buildings have bulk agreements.
 - [ ] **Deposits**: What deposit does each utility require? Some waive deposits with a credit check or a letter from a prior utility.
 - [ ] **First-bill timing**: Ask when the first bill arrives. A short initial billing period (e.g., 20 days instead of 30) can make the first total look deceptively low.
-- [ ] **Budget billing**: Does the utility offer levelized billing to smooth seasonal spikes? ([How budget billing works](/blog/16-budget-billing-level-pay-explained/))
+- [ ] **Budget billing**: Does the utility offer levelized billing to smooth seasonal spikes? ([How budget billing works](/blog/budget-billing-level-pay-explained/))
 - [ ] **Leak check**: Read the water meter on move-in day. Take a photo. Report any irregularities to the landlord immediately. ([How to read a water meter](/blog/how-to-read-a-water-meter/))
 
 Keep your lease, utility account numbers, and first bills in one folder. If a charge is unclear, ask the utility for the tariff page.

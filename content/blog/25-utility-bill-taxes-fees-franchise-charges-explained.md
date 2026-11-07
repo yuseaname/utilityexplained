@@ -1,6 +1,6 @@
 ---
 title: "Taxes, Fees, and Charges on Your Utility Bill"
-slug: "25-utility-bill-taxes-fees-franchise-charges-explained"
+slug: "utility-bill-taxes-fees-franchise-charges-explained"
 description: "Utility bill taxes and fees explained: franchise fees, surcharges, and riders — what each one is, who approves it, and which ones you can dispute."
 date: 2026-05-28
 updated: 2026-08-29
@@ -18,15 +18,16 @@ sources:
   - http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/Sections/0166.231.html (Florida Statutes 166.231, retrieved 2026-08-29)
   - https://www.revisor.mn.gov/statutes/cite/216B.36 (Minnesota Statutes 216B.36, retrieved 2026-08-29)
   - https://finance.lacity.gov/lifeline-utility-users-tax-exemption-seniors-and-individuals-disabilities (Los Angeles Office of Finance, retrieved 2026-08-29)
+aliases: ["/blog/25-utility-bill-taxes-fees-franchise-charges-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
 
 ## Quick Answer
 
-**Taxes, fees, and franchise charges are three different kinds of non-usage line, each set by a different authority.** A **utility tax** is a charge a city or state levies on your utility service, usually a percentage of the billed amount [1]. A **fee** is a fixed add-on for a specific cost or service, such as a program or administrative charge (those are covered separately as [riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/)). A **franchise charge** compensates the city for the utility's use of public streets and rights-of-way — the utility either absorbs it or passes it through to customers [5].
+**Taxes, fees, and franchise charges are three different kinds of non-usage line, each set by a different authority.** A **utility tax** is a charge a city or state levies on your utility service, usually a percentage of the billed amount [1]. A **fee** is a fixed add-on for a specific cost or service, such as a program or administrative charge (those are covered separately as [riders and surcharges](/blog/utility-bill-surcharges-and-riders-explained/)). A **franchise charge** compensates the city for the utility's use of public streets and rights-of-way — the utility either absorbs it or passes it through to customers [5].
 
-**Next step:** If your line is a percentage of your billed charges, match its label in the table below. If it is a one-time or program add-on instead, it belongs to the [riders and surcharges family](/blog/19-utility-bill-surcharges-and-riders-explained/) — and [delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) explains how to tell which part of the bill a line applies to.
+**Next step:** If your line is a percentage of your billed charges, match its label in the table below. If it is a one-time or program add-on instead, it belongs to the [riders and surcharges family](/blog/utility-bill-surcharges-and-riders-explained/) — and [delivery vs. supply charges](/blog/delivery-charge-vs-supply-charge-utility-bill/) explains how to tell which part of the bill a line applies to.
 
 ## What Each One Looks Like on a Bill
 
@@ -63,15 +64,15 @@ Check each non-usage line in this order:
 
 {{< visual src="/images/articles/25-utility-bill-taxes-fees-franchise-charges-explained/verify-line-four-steps.webp" alt="Four steps to verify a tax or fee line on a utility bill." wide="true" >}}
 
-A [fuel adjustment charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) tracks the utility's fuel costs; [riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/) recover specific approved programs. One-time items are a third family: [connection fees](/blog/27-utility-connection-fee-explained/) attach to starting service, [reconnection fees](/blog/28-utility-reconnection-fee-explained/) to restoring it.
+A [fuel adjustment charge](/blog/fuel-adjustment-charge-on-utility-bill-explained/) tracks the utility's fuel costs; [riders and surcharges](/blog/utility-bill-surcharges-and-riders-explained/) recover specific approved programs. One-time items are a third family: [connection fees](/blog/utility-connection-fee-explained/) attach to starting service, [reconnection fees](/blog/utility-reconnection-fee-explained/) to restoring it.
 
 ## Related Reading
 
-- [Riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/) — the other recurring add-on lines and which commission approves each.
-- [Every charge on a utility bill, explained](/blog/04-hidden-fees-utility-bill/) — a map of the whole bill, line by line.
-- [Delivery vs. supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — where each line sits in the delivery and supply parts of the bill.
+- [Riders and surcharges](/blog/utility-bill-surcharges-and-riders-explained/) — the other recurring add-on lines and which commission approves each.
+- [Every charge on a utility bill, explained](/blog/hidden-fees-utility-bill/) — a map of the whole bill, line by line.
+- [Delivery vs. supply charges](/blog/delivery-charge-vs-supply-charge-utility-bill/) — where each line sits in the delivery and supply parts of the bill.
 - [How to dispute a utility bill](/blog/how-to-dispute-utility-bill/) — the escalation path when a line will not reconcile.
-- [Your utility deposit, explained](/blog/26-utility-deposit-explained/) — the other one-time line new-service households meet.
+- [Your utility deposit, explained](/blog/utility-deposit-explained/) — the other one-time line new-service households meet.
 
 {{< faq "Why is my utility charging tax on the delivery part of the bill?" >}}
 

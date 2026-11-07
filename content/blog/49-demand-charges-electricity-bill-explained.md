@@ -1,10 +1,10 @@
 ---
 title: "How to Review a Demand Charge on an Electricity Bill"
-slug: "49-demand-charges-electricity-bill-explained"
+slug: "demand-charges-electricity-bill-explained"
 description: "A demand charge bills your peak power draw in kW, not just total kWh. See how it's calculated, who gets one, and how one spike sets the whole month."
 date: 2026-05-30
 updated: 2026-08-29
-aliases: ["/blog/demand-charge-electric-bill-explained/"]
+aliases: ["/blog/49-demand-charges-electricity-bill-explained/", "/blog/demand-charge-electric-bill-explained/"]
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
@@ -60,9 +60,9 @@ Some commercial tariffs also correct demand for power factor before billing it: 
 
 ## Compare Like With Like
 
-Compare the current statement with a similar earlier bill, including billing days, rate-plan version, actual versus estimated data, demand units, energy use, and all line items. If you are not yet comfortable reading the statement itself, [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) is the baseline skill for this comparison. An increase in the total amount due does not by itself prove that demand caused the change.
+Compare the current statement with a similar earlier bill, including billing days, rate-plan version, actual versus estimated data, demand units, energy use, and all line items. If you are not yet comfortable reading the statement itself, [reading your electric bill line by line](/blog/how-to-read-your-electric-bill/) is the baseline skill for this comparison. An increase in the total amount due does not by itself prove that demand caused the change.
 
-If the provider offers interval data or an account-specific analysis, use it to understand the calculation before changing operations, buying equipment, or enrolling in a new rate plan — this is the same [interval data that time-of-use rates are built on](/blog/08-time-of-use-electricity/). Follow manufacturer and electrical-safety instructions for any equipment or control changes.
+If the provider offers interval data or an account-specific analysis, use it to understand the calculation before changing operations, buying equipment, or enrolling in a new rate plan — this is the same [interval data that time-of-use rates are built on](/blog/time-of-use-electricity/). Follow manufacturer and electrical-safety instructions for any equipment or control changes.
 
 ## Questions for the Provider
 
@@ -79,11 +79,11 @@ In the meantime, keep your own record: the bill in question, an earlier statemen
 ## Related Reading
 
 - [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/) — where the demand line sits among all the other line items.
-- [Time-of-Use Electricity Plans: How Demand Charges Fit In](/blog/08-time-of-use-electricity/) — when demand charges apply alongside time-based pricing.
+- [Time-of-Use Electricity Plans: How Demand Charges Fit In](/blog/time-of-use-electricity/) — when demand charges apply alongside time-based pricing.
 - [Tiered Electricity Rates: How They Differ From Demand Charges](/blog/tiered-electricity-rates-explained/) — the other common rate structure readers confuse with demand.
-- [Delivery vs Supply Charge: The Two Big Halves of Your Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — the fundamental split demand sits inside.
+- [Delivery vs Supply Charge: The Two Big Halves of Your Bill](/blog/delivery-charge-vs-supply-charge-utility-bill/) — the fundamental split demand sits inside.
 - [Which Rate Plan Is Right for You? Flat, TOU, or Demand-Based](/blog/which-rate-plan-is-right-for-me/) — deciding what fits once you know your options.
-- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/03-why-is-my-electric-bill-so-high/) — if you got here because the total jumped.
+- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/why-is-my-electric-bill-so-high/) — if you got here because the total jumped.
 
 {{< faq "Does every electric bill have a demand charge?" >}}
 

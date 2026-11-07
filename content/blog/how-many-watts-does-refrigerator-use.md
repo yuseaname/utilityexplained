@@ -32,7 +32,7 @@ A refrigerator is not like a space heater, which pulls a steady wattage whenever
 
 That cycling is why two people with the same fridge can quote different "watts" and both be right — one caught a live reading mid-cycle, one a rest. Neither is yours; your fridge's real figure is the average over time.
 
-Meanwhile, every energy guide — including the federal method for estimating appliance costs — converts to one currency: watts × hours ÷ 1,000 = kWh, the unit your bill prices. If it's fuzzy, [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) builds the intuition in minutes. And kWh per day is the number worth benchmarking: a house far above the national {{< stat "avg_monthly_kwh" >}} (about 30 kWh/day) has a story beyond one appliance — [how many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) covers it.
+Meanwhile, every energy guide — including the federal method for estimating appliance costs — converts to one currency: watts × hours ÷ 1,000 = kWh, the unit your bill prices. If it's fuzzy, [Understanding kWh Usage](/blog/understanding-kwh-usage/) builds the intuition in minutes. And kWh per day is the number worth benchmarking: a house far above the national {{< stat "avg_monthly_kwh" >}} (about 30 kWh/day) has a story beyond one appliance — [how many kWh a house uses per day](/blog/how-many-kwh-does-a-house-use-per-day/) covers it.
 
 ## Typical Numbers: New, Old, and Oversized
 
@@ -69,7 +69,7 @@ The standard-bearer is the Kasa KP115: a standard smart plug whose app reports l
 
 {{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug Slim with Energy Monitoring" label="Monitoring smart plug" description="Wi-Fi smart plug with built-in energy monitoring: live watt readings and cumulative kWh trending in the Kasa app. Standard 120V outlet, no wiring, renter-friendly — useful for continuous logging of a single appliance like a refrigerator." button="Check price on Amazon" >}}
 
-One plain-language caution for every tool here: a meter measures; it doesn't fix or save anything by itself. The readout is information — what changes the bill is what you do after. For the wider monitoring toolbox, see this site's [best smart plugs for standby power and monitoring](/blog/50-best-smart-plugs-standby-power/) and the [whole-home energy monitor guide](/blog/do-home-energy-monitors-save-money/).
+One plain-language caution for every tool here: a meter measures; it doesn't fix or save anything by itself. The readout is information — what changes the bill is what you do after. For the wider monitoring toolbox, see this site's [best smart plugs for standby power and monitoring](/blog/best-smart-plugs-standby-power/) and the [whole-home energy monitor guide](/blog/do-home-energy-monitors-save-money/).
 
 ## The Free Route: Borrow a Meter from the Library
 
@@ -97,7 +97,7 @@ The only equation in the article, done for you at the June 2026 national average
 
 And if the question behind the question is keeping that fridge running through an outage or off-grid, [what size solar generator runs a refrigerator](https://solarpoweredproject.com/pages/what-size-solar-generator-run-refrigerator.html) starts from exactly this measured number.
 
-Two reading notes. First, even the thirstiest rows land in the tens of dollars a month: a fridge is almost never why a bill triples — if your bill is the mystery, start with [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) rather than in the kitchen. Second, against the $164.88 average bill ({{< stat "avg_monthly_kwh" >}} × {{< stat "electric_rate_jun2026" >}}),[1][2] a measured fridge is real money — roughly $5.50 to $11 a month — but a bounded share of the whole.
+Two reading notes. First, even the thirstiest rows land in the tens of dollars a month: a fridge is almost never why a bill triples — if your bill is the mystery, start with [Why Is My Electric Bill So High?](/blog/why-is-my-electric-bill-so-high/) rather than in the kitchen. Second, against the $164.88 average bill ({{< stat "avg_monthly_kwh" >}} × {{< stat "electric_rate_jun2026" >}}),[1][2] a measured fridge is real money — roughly $5.50 to $11 a month — but a bounded share of the whole.
 
 ## If Your Number Comes Back High
 

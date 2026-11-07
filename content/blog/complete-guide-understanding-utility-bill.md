@@ -108,22 +108,22 @@ A dedicated walkthrough exists for nearly every line you will inventory. Map as 
 
 | Charge you see | Read next |
 |---|---|
-| The whole bill, line by line (electric) | [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) |
-| Customer / monthly service charge | [What Is the Customer Charge on a Utility Bill?](/blog/17-what-is-customer-charge-on-utility-bill/) |
-| Supply vs. delivery charges | [Delivery Charge vs. Supply Charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) · gas: [Gas Delivery vs. Supply](/blog/12-how-to-read-your-gas-bill/) |
+| The whole bill, line by line (electric) | [How to Read Your Electric Bill](/blog/how-to-read-your-electric-bill/) |
+| Customer / monthly service charge | [What Is the Customer Charge on a Utility Bill?](/blog/what-is-customer-charge-on-utility-bill/) |
+| Supply vs. delivery charges | [Delivery Charge vs. Supply Charge](/blog/delivery-charge-vs-supply-charge-utility-bill/) · gas: [Gas Delivery vs. Supply](/blog/how-to-read-your-gas-bill/) |
 | How usage, rate, and fees combine | [How Utility Rates, Fees, and Usage Work Together](/blog/how-utility-rates-fees-usage-work-together/) |
-| kWh (electric usage) | [Understanding kWh Usage](/blog/11-understanding-kwh-usage/) |
-| Therms or Ccf (gas/water usage) | [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/) · [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/) |
-| Surcharges and riders | [Utility Surcharges and Riders Explained](/blog/19-utility-bill-surcharges-and-riders-explained/) |
-| Taxes and franchise fees | [Taxes and Franchise Fees on Your Bill](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/) |
-| Fuel/purchased-power adjustment | [Fuel Adjustment Charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) |
-| Demand charge (business meters) | [Demand Charges on Your Electric Bill](/blog/49-demand-charges-electricity-bill-explained/) |
-| Time-of-use or tiered pricing | [How to Review a Time-of-Use Plan](/blog/08-time-of-use-electricity/) · [Tiered Electricity Rates](/blog/tiered-electricity-rates-explained/) |
-| Estimated reading | [Estimated Utility Bills Explained](/blog/14-estimated-utility-bill-explained/) |
-| Partial-month charges | [Utility Bill Proration Explained](/blog/20-utility-bill-proration-explained/) |
-| Minimum bill or past-due balance | [Minimum Bills](/blog/22-minimum-bill-utility-bill-explained/) · [Past-Due Balances](/blog/21-past-due-balance-utility-bill-explained/) |
+| kWh (electric usage) | [Understanding kWh Usage](/blog/understanding-kwh-usage/) |
+| Therms or Ccf (gas/water usage) | [How to Read Your Gas Bill](/blog/how-to-read-your-gas-bill/) · [What Is a CCF on a Water Bill?](/blog/what-is-ccf-on-a-water-bill/) |
+| Surcharges and riders | [Utility Surcharges and Riders Explained](/blog/utility-bill-surcharges-and-riders-explained/) |
+| Taxes and franchise fees | [Taxes and Franchise Fees on Your Bill](/blog/utility-bill-taxes-fees-franchise-charges-explained/) |
+| Fuel/purchased-power adjustment | [Fuel Adjustment Charges](/blog/fuel-adjustment-charge-on-utility-bill-explained/) |
+| Demand charge (business meters) | [Demand Charges on Your Electric Bill](/blog/demand-charges-electricity-bill-explained/) |
+| Time-of-use or tiered pricing | [How to Review a Time-of-Use Plan](/blog/time-of-use-electricity/) · [Tiered Electricity Rates](/blog/tiered-electricity-rates-explained/) |
+| Estimated reading | [Estimated Utility Bills Explained](/blog/estimated-utility-bill-explained/) |
+| Partial-month charges | [Utility Bill Proration Explained](/blog/utility-bill-proration-explained/) |
+| Minimum bill or past-due balance | [Minimum Bills](/blog/minimum-bill-utility-bill-explained/) · [Past-Due Balances](/blog/past-due-balance-utility-bill-explained/) |
 
-For service-specific deep reads, continue from [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/), [How to Read Your Gas Bill](/blog/12-how-to-read-your-gas-bill/), and [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/).
+For service-specific deep reads, continue from [How to Read Your Electric Bill](/blog/how-to-read-your-electric-bill/), [How to Read Your Gas Bill](/blog/how-to-read-your-gas-bill/), and [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/).
 
 ## One bill, verified line by line
 
@@ -161,25 +161,25 @@ The first is the prior read, anchoring your service period's start; the second i
 
 {{< faq "What happens when the meter reading is estimated?" >}}
 
-The provider bills from a historical profile of your account instead of an actual read, and the next actual reading trues the account up — which is why an estimated bill can run high or low and reverse the following month. See [estimated utility bills explained](/blog/14-estimated-utility-bill-explained/) for the full mechanics.
+The provider bills from a historical profile of your account instead of an actual read, and the next actual reading trues the account up — which is why an estimated bill can run high or low and reverse the following month. See [estimated utility bills explained](/blog/estimated-utility-bill-explained/) for the full mechanics.
 
 {{< /faq >}}
 
 {{< faq "Why are taxes and fees different from my neighbor's bill?" >}}
 
-Taxes on utility service are set by jurisdiction: franchise fees, state and local utility taxes, and public-purpose charges apply by address and service territory, not utility brand [4]. Two households on the same street can differ if one is inside city limits and one is not. Line-by-line map: [taxes and franchise fees explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/).
+Taxes on utility service are set by jurisdiction: franchise fees, state and local utility taxes, and public-purpose charges apply by address and service territory, not utility brand [4]. Two households on the same street can differ if one is inside city limits and one is not. Line-by-line map: [taxes and franchise fees explained](/blog/utility-bill-taxes-fees-franchise-charges-explained/).
 
 {{< /faq >}}
 
 {{< faq "Where does the customer charge sit on the bill?" >}}
 
-It sits on the delivery side, as a flat monthly fee per meter that appears regardless of usage — it does not shrink when you use less. Find it, name it, and separate it from usage-driven lines: [what is the customer charge on a utility bill](/blog/17-what-is-customer-charge-on-utility-bill/).
+It sits on the delivery side, as a flat monthly fee per meter that appears regardless of usage — it does not shrink when you use less. Find it, name it, and separate it from usage-driven lines: [what is the customer charge on a utility bill](/blog/what-is-customer-charge-on-utility-bill/).
 
 {{< /faq >}}
 
 {{< faq "What is the difference between supply and delivery charges?" >}}
 
-Supply is the charge for the energy or water itself; delivery is the charge for moving it to you across the wires, pipes, or mains. In regulated markets one utility bills both; in restructured markets they may come from different companies on the same statement. See [delivery charge vs. supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) and the gas-side split in [gas delivery vs. supply](/blog/12-how-to-read-your-gas-bill/).
+Supply is the charge for the energy or water itself; delivery is the charge for moving it to you across the wires, pipes, or mains. In regulated markets one utility bills both; in restructured markets they may come from different companies on the same statement. See [delivery charge vs. supply charge](/blog/delivery-charge-vs-supply-charge-utility-bill/) and the gas-side split in [gas delivery vs. supply](/blog/how-to-read-your-gas-bill/).
 
 {{< /faq >}}
 

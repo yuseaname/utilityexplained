@@ -32,8 +32,8 @@ Utility companies estimate a bill when they cannot physically reach the meter. S
 
 Reading your meter the same way, at the same point in each cycle, replaces that guesswork with a dated record. Three reasons it is worth the walk:
 
-1. **Prevent billing errors.** A read can be transposed or mis-entered — 4500 recorded as 5400. Comparing your meter to the bill's previous-read and current-read fields catches it early, before you pay for gas you did not burn. Our guide to [reading your gas bill](/blog/12-how-to-read-your-gas-bill/) shows where those fields sit.
-2. **Track seasonal usage.** Heating drives gas use up every winter. Monthly readings tell you what a normal January looks like at your house — the baseline you need before you can call a bill abnormal ([high gas bill causes](/blog/07-gas-bill-too-high/)).
+1. **Prevent billing errors.** A read can be transposed or mis-entered — 4500 recorded as 5400. Comparing your meter to the bill's previous-read and current-read fields catches it early, before you pay for gas you did not burn. Our guide to [reading your gas bill](/blog/how-to-read-your-gas-bill/) shows where those fields sit.
+2. **Track seasonal usage.** Heating drives gas use up every winter. Monthly readings tell you what a normal January looks like at your house — the baseline you need before you can call a bill abnormal ([high gas bill causes](/blog/gas-bill-too-high/)).
 3. **Spot a problem early.** If the numbers climb while your habits did not change, or the meter moves when every appliance is off, you have a concrete observation to hand the utility while the problem is still small.
 
 ## Identify Your Meter Type
@@ -196,7 +196,7 @@ Three usual reasons: the bill's reads are for earlier dates in the cycle; the bi
 
 ## Related Reading
 
-- [Why is my gas bill so high? 11 causes and fixes](/blog/07-gas-bill-too-high/) — what to do with the reading once you have it
+- [Why is my gas bill so high? 11 causes and fixes](/blog/gas-bill-too-high/) — what to do with the reading once you have it
 - [Average utility bills by state (2026)](/blog/average-utility-bills-by-state-2026/) — what gas actually costs where you live
 
 ## Sources

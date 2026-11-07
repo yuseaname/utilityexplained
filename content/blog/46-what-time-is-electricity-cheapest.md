@@ -1,6 +1,6 @@
 ---
 title: "What Time Is Electricity Cheapest? (By Rate Plan)"
-slug: "46-what-time-is-electricity-cheapest"
+slug: "what-time-is-electricity-cheapest"
 description: "What time is electricity cheapest? Find cheapest hours for your time-of-use plan, plus a quick-reference table by plan type and off-peak habit checklist."
 date: 2026-08-28
 updated: 2026-10-30
@@ -17,13 +17,14 @@ sources:
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.energystar.gov/products/dishwashers
+aliases: ["/blog/46-what-time-is-electricity-cheapest/"]
 ---
 
 ## Quick Answer
 
 **For most residential time-of-use (TOU) plans, electricity is cheapest after 9:00 PM and before 4:00 PM on weekdays, plus all weekend.** Exact hours depend on your utility's specific tariff. The off-peak discount ranges from under 10% (PG&E's winter spread) to about 81% (Con Edison's summer spread) to entirely free overnight hours (TXU) — so confirm the gap in your utility's tariff before shifting laundry, dishwashing, and EV charging.
 
-This page provides the quick-reference answer. For a full explanation of how TOU plans work, how to read a tariff, and how to compare your usage to your utility's specific schedule, see [Time-of-Use Electricity Rates Explained](/blog/08-time-of-use-electricity/).
+This page provides the quick-reference answer. For a full explanation of how TOU plans work, how to read a tariff, and how to compare your usage to your utility's specific schedule, see [Time-of-Use Electricity Rates Explained](/blog/time-of-use-electricity/).
 
 ## Cheapest Hours by Plan Type (Real 2026 Examples)
 
@@ -39,7 +40,7 @@ Every utility sets its own peak and off-peak windows. The table below shows the 
 
 {{< visual src="/images/articles/46-what-time-is-electricity-cheapest/tou-24h-price-curve.webp" alt="Bar chart of electricity prices across 24 hours with cheap overnight bars, moderate midday bars, and tall expensive late-afternoon peak bars." >}}
 
-For detailed hourly breakdowns, seasonal differences, and a dishwasher-cost comparison across these plans, see [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#real-world-tou-rate-schedules-2026).
+For detailed hourly breakdowns, seasonal differences, and a dishwasher-cost comparison across these plans, see [Time-of-Use Electricity Rates](/blog/time-of-use-electricity/#real-world-tou-rate-schedules-2026).
 
 ## Off-Peak Habit Checklist
 
@@ -59,7 +60,7 @@ Automating these shifts is straightforward with a timer or smart plug. One optio
 
 The national average residential electricity rate hit **{{< stat "electric_rate_jun2026" >}}** in June 2026 (EIA). The off-peak discount depends entirely on the plan: PG&E's E-TOU-C winter spread is under 10%, Con Edison's TOU discount runs about 81% versus its summer peak rate (about 70% in other months), and TXU's Free Nights plan makes overnight energy free.[1][2][3] For an average household using {{< stat "avg_monthly_kwh" >}}, shifting just 200 kWh/month from Con Edison's summer peak supply rate to its off-peak supply rate saves about $45/month (200 × ($0.2786 − $0.0522) ≈ $45), or roughly $540/year — about $23/month in other months, when peak supply is 17.11¢/kWh and the discount is narrowest at ~70%.[5]
 
-The exact savings depend on your utility’s peak-to-off-peak price gap and how much you can shift. The rate-plan hub has a quick comparison tool; for a full cost-benefit check, work through the steps in [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/#compare-with-your-own-usage).
+The exact savings depend on your utility’s peak-to-off-peak price gap and how much you can shift. The rate-plan hub has a quick comparison tool; for a full cost-benefit check, work through the steps in [Time-of-Use Electricity Rates](/blog/time-of-use-electricity/#compare-with-your-own-usage).
 
 ## A Note on Your Exact Hours
 

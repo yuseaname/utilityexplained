@@ -68,7 +68,7 @@ They stack. Rope caulk seals the leaky sash joints, film seals the whole opening
 
 ## Where This Fits in a Winter-Proofing Budget
 
-If you are ranking winter spends from cheapest to most effective, the list usually lands: free behavior changes first (thermostat setbacks — see [how to lower your utility bills](/blog/05-how-to-lower-utility-bills/)), then consumable sealing (rope caulk, outlet gaskets, film on the worst windows), then durable upgrades (thermal curtains, storm windows), and only then equipment. A gas-heated home can trace the payoff straight through the winter bills — the seasonal spike lives in [why your gas bill is so high in winter](/blog/07-gas-bill-too-high/).
+If you are ranking winter spends from cheapest to most effective, the list usually lands: free behavior changes first (thermostat setbacks — see [how to lower your utility bills](/blog/how-to-lower-utility-bills/)), then consumable sealing (rope caulk, outlet gaskets, film on the worst windows), then durable upgrades (thermal curtains, storm windows), and only then equipment. A gas-heated home can trace the payoff straight through the winter bills — the seasonal spike lives in [why your gas bill is so high in winter](/blog/gas-bill-too-high/).
 
 {{< product-box asin="B00002NCJI" name="3M Indoor Window Insulator Kit, Five-Window Pack (2141W-6)" label="The standard shrink kit" description="Five 3x5-foot clear film sheets with double-sided tape; shrinks taut with a hair dryer to seal drafts and add a dead-air layer for the season. Tape-on, peel-off — renter-clean, one season per kit." button="Check price on Amazon" >}}
 

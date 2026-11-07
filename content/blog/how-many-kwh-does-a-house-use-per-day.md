@@ -62,7 +62,7 @@ The ranges below are illustrative: they apply EIA end-use shares — heating and
 | Medium single-family home, electric cooling and appliances | 30–50 | AC dominates summer usage; gas heat keeps cold months modest on the electric side. |
 | Large all-electric home with EV | 40–70+ | Electric space heating is the big add; ~9–12 kWh/day of EV charging pushes the top of the range. |
 
-For unit conversions across bills: 1 therm of natural gas equals 100,000 Btu, and 1 kWh equals 3,412 Btu. [3] At the national average electric price, one therm-equivalent of electric heat costs about $5.38, against typical delivered natural gas prices of roughly $1.35–$1.92 per therm in recent EIA data — the core economics behind the [heat pump vs. gas furnace decision](/blog/48-heat-pump-vs-gas-furnace-savings/).
+For unit conversions across bills: 1 therm of natural gas equals 100,000 Btu, and 1 kWh equals 3,412 Btu. [3] At the national average electric price, one therm-equivalent of electric heat costs about $5.38, against typical delivered natural gas prices of roughly $1.35–$1.92 per therm in recent EIA data — the core economics behind the [heat pump vs. gas furnace decision](/blog/heat-pump-vs-gas-furnace-savings/).
 
 ## Your Daily kWh, in Dollars
 
@@ -82,7 +82,7 @@ The national-average month — {{< stat "avg_monthly_kwh" >}} at {{< stat "elect
 
 ## How to Read Your Own Number
 
-Your electric bill shows kWh for the whole billing cycle. Divide by the days in the cycle and you have your daily average — the number this article compares against. [How to read your electric bill](/blog/01-how-to-read-your-electric-bill/) walks through finding it.
+Your electric bill shows kWh for the whole billing cycle. Divide by the days in the cycle and you have your daily average — the number this article compares against. [How to read your electric bill](/blog/how-to-read-your-electric-bill/) walks through finding it.
 
 Two habits make that number meaningful. First, compare the same season year over year, not summer against spring: heating and cooling are seasonal by nature. [2] Second, lean on the meter itself — modern [smart meters](/blog/how-do-smart-meters-work/) and inexpensive home energy monitors can show your daily average directly, so you are not guessing from one bill.
 
@@ -92,8 +92,8 @@ That daily kWh number has one more use: it is the first input of a [solar system
 
 ## How to Lower a High Daily Average
 
-- **Treat heating and cooling as the main lever.** They are the majority of household energy use. [2] Thermostat discipline, filter changes, and sealing drafts do more than any gadget — see [checking your home for energy leaks](/blog/47-check-energy-leaks-home-diy/).
-- **Run heavy loads off peak.** If your plan has time-of-use pricing, shifting laundry, dishwashing, and EV charging to off-peak hours changes what the same kWh costs — see [what time is electricity cheapest](/blog/46-what-time-is-electricity-cheapest/).
+- **Treat heating and cooling as the main lever.** They are the majority of household energy use. [2] Thermostat discipline, filter changes, and sealing drafts do more than any gadget — see [checking your home for energy leaks](/blog/check-energy-leaks-home-diy/).
+- **Run heavy loads off peak.** If your plan has time-of-use pricing, shifting laundry, dishwashing, and EV charging to off-peak hours changes what the same kWh costs — see [what time is electricity cheapest](/blog/what-time-is-electricity-cheapest/).
 - **Cut the silent baseline.** Always-on electronics and idle chargers add kWh nobody sees — see [phantom power draw explained](/blog/phantom-power-draw-explained/).
 - **Work the full playbook.** The [lower your bills hub](/lower-your-bills/) collects the practical fixes, and the [electricity explainer hub](/electricity-explained/) covers how the numbers on your bill are built.
 

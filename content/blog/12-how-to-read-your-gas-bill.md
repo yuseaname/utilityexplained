@@ -1,7 +1,7 @@
 ---
 title: "How to Read Your Gas Bill (Therms, CCF, Fees Explained)"
-slug: "12-how-to-read-your-gas-bill"
-aliases: ["/blog/how-to-read-your-gas-bill-therms-explained/", "/blog/43-understand-natural-gas-bill-charges/"]
+slug: "how-to-read-your-gas-bill"
+aliases: ["/blog/12-how-to-read-your-gas-bill/", "/blog/how-to-read-your-gas-bill-therms-explained/", "/blog/43-understand-natural-gas-bill-charges/"]
 description: "How to read your gas bill line by line: therms used, delivery versus supply charges, and every fee that hides the real price you pay for gas."
 date: 2026-03-16
 updated: 2026-08-29
@@ -57,7 +57,7 @@ A typical regulated gas bill has two main parts — the gas itself and its deliv
 | **Riders/surcharges** | Specific programs or cost recovery (infrastructure, efficiency, securitization) | Dollar or percentage add-on | Tariff rider schedules |
 | **Taxes and fees** | State and local taxes, gross receipts tax, franchise fees | Percentage of charges or fixed amount | Your state and local tax rules |
 
-Utilities structure these differently. Columbia Gas of Ohio sets its default supply price through a PUCO-supervised auction and adjusts it monthly; the delivery side is a regulated rate.[6] Check which side each rate on your bill sits in before comparing or disputing it — see [How to Compare Delivery and Supply Charges on a Utility Bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/).
+Utilities structure these differently. Columbia Gas of Ohio sets its default supply price through a PUCO-supervised auction and adjusts it monthly; the delivery side is a regulated rate.[6] Check which side each rate on your bill sits in before comparing or disputing it — see [How to Compare Delivery and Supply Charges on a Utility Bill](/blog/delivery-charge-vs-supply-charge-utility-bill/).
 
 ### Verify Which Side Each Rate Sits On
 
@@ -158,7 +158,7 @@ Contact the provider if a meter reading, usage unit, rate schedule, or line item
 
 ## Reconciling Related Guides
 
-Comparing guides on this site: [Why Is My Gas Bill So High?](/blog/07-gas-bill-too-high/) uses a worked winter example reaching about 200 therms for a well-heated home in a cold month — the upper part of the range above — and keeps heating separate from water heating. [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) quotes winter volume in Ccf (100–150 Ccf), which is the same ballpark expressed in volume units: 100–150 Ccf ≈ 104–156 therms at the 1.037 factor. All three pages describe the same seasonal reality: deep-winter peaks in the low-to-mid hundreds of therms for homes that heat with gas, a 10–40 therm summer baseline, and month-to-month comparisons made within the same season.
+Comparing guides on this site: [Why Is My Gas Bill So High?](/blog/gas-bill-too-high/) uses a worked winter example reaching about 200 therms for a well-heated home in a cold month — the upper part of the range above — and keeps heating separate from water heating. [MCF vs CCF vs Therms](/blog/mcf-vs-ccf-vs-therms-on-gas-bill/) quotes winter volume in Ccf (100–150 Ccf), which is the same ballpark expressed in volume units: 100–150 Ccf ≈ 104–156 therms at the 1.037 factor. All three pages describe the same seasonal reality: deep-winter peaks in the low-to-mid hundreds of therms for homes that heat with gas, a 10–40 therm summer baseline, and month-to-month comparisons made within the same season.
 
 ## Sources
 

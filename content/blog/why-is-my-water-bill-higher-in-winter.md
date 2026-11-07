@@ -73,7 +73,7 @@ Winter water bills rise most often because of a longer billing cycle,
             </p>
             <p>
               If you want a step-by-step guide, see
-              <a href="/blog/23-utility-billing-cycle-explained/"> utility billing cycle explained</a>.
+              <a href="/blog/utility-billing-cycle-explained/"> utility billing cycle explained</a>.
             </p>
 
 
@@ -176,7 +176,7 @@ The cheapest defense is stopping the freeze before it starts — the [pipe-freez
             </p>
             <p>
               If you see the word "estimated" on your statement, this guide helps:
-              <a href="/blog/14-estimated-utility-bill-explained/"> estimated utility bills explained</a>.
+              <a href="/blog/estimated-utility-bill-explained/"> estimated utility bills explained</a>.
             </p>
 
 
@@ -243,7 +243,7 @@ Yes. Extra showers, laundry, and dishwashing from guests can push a household in
 {{< /faq >}}
 
 <p>For the summer side of the seasonal pattern, see <a href="/blog/why-is-my-water-bill-higher-in-summer/">Why Is My Water Bill Higher in Summer?</a>.</p>
-<p>For full savings strategies after you identify the cause, see <a href="/blog/44-how-to-lower-water-bill/">how to lower your water bill</a>.</p>
+<p>For full savings strategies after you identify the cause, see <a href="/blog/how-to-lower-water-bill/">how to lower your water bill</a>.</p>
 
 {{< faq-schema >}}
 
@@ -261,5 +261,5 @@ This explainer is part of the [Water Explained hub](/water-explained/).
 
 *Related Reading:*
 - [Why Is My Water Bill Higher in Summer?](/blog/why-is-my-water-bill-higher-in-summer/)
-- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/)
+- [How to Lower Your Water Bill](/blog/how-to-lower-water-bill/)
 - [Why Did My Water Bill Suddenly Increase?](/blog/why-did-my-water-bill-suddenly-increase/)

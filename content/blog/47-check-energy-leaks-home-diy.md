@@ -1,6 +1,6 @@
 ---
 title: "DIY Home Energy Audit: Start Your Own Assessment"
-slug: "47-check-energy-leaks-home-diy"
+slug: "check-energy-leaks-home-diy"
 description: "Use DOE home-energy-assessment guidance to document potential air leaks, understand safe scope limits, and choose appropriate follow-up work."
 date: 2026-05-30
 updated: 2026-08-29
@@ -18,6 +18,7 @@ sources:
   - https://standby.lbl.gov/ (retrieved 2026-08-29)
   - https://www.energy.gov/energysaver (DOE Energy Saver hub — assessments page retired; retrieved 2026-08-29)
   - https://www.energy.gov/cmei/buildings/articles/home-energy-scores-surpass-250000 (retrieved 2026-08-29)
+aliases: ["/blog/47-check-energy-leaks-home-diy/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -86,7 +87,7 @@ The middle path many homeowners miss: DOE's **Home Energy Score**—a ~1-hour as
 - For rental housing, obtain the property owner or manager's approval before altering the unit.
 - Call qualified help for persistent moisture, visible building damage, electrical concerns, combustion or venting questions, or any time the correct repair method is uncertain.[6]
 
-Keep the assessment notes, bills, repair records, and contractor findings together—that record beats any generic payback estimate when you [figure out why a utility bill jumped](/blog/03-why-is-my-electric-bill-so-high/).
+Keep the assessment notes, bills, repair records, and contractor findings together—that record beats any generic payback estimate when you [figure out why a utility bill jumped](/blog/why-is-my-electric-bill-so-high/).
 
 ## Action Checklist
 

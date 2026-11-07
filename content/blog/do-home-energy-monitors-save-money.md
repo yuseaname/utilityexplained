@@ -28,7 +28,7 @@ sources:
 
 **No monitor lowers a bill by itself — it finds the changes that do.** EIA's Short-Term Energy Outlook puts residential electricity near an average 18¢ per kilowatt-hour in 2026, up from roughly 17.3¢ in 2025,[1] and the agency's monthly update shows average electricity revenue up 4.5% year over year as of June 2026.[2] Every wasted kilowatt-hour costs more than it used to — which is exactly the problem a monitor is built to expose.
 
-Be skeptical of any write-up that promises a payback percentage. What actually happens in most households: week one is fascinating, week two holds a surprise or two, and everything after depends on whether someone acts on what the data says. If nobody will open the app once the novelty fades, or your utility's free app already answers your questions, the right amount to spend is zero. And if the bill itself is the mystery, the question isn't a monitor — it's [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/).
+Be skeptical of any write-up that promises a payback percentage. What actually happens in most households: week one is fascinating, week two holds a surprise or two, and everything after depends on whether someone acts on what the data says. If nobody will open the app once the novelty fades, or your utility's free app already answers your questions, the right amount to spend is zero. And if the bill itself is the mystery, the question isn't a monitor — it's [why your electric bill is so high](/blog/why-is-my-electric-bill-so-high/).
 
 A monitor has never lowered a bill. The changes it shows you do. Three device classes orbit that sentence, and they are not interchangeable. A whole-home monitor clamps current transformers around the conductors in your electrical panel and reads the whole service, circuit by circuit. A plug-in meter sits between one appliance and the wall outlet and reports that appliance alone. And the app most smart-meter homes already have shows whole-house usage for free. This article is about the first class — with honest digressions to the other two, because for many households one of them is the smarter buy.
 
@@ -50,7 +50,7 @@ On accuracy: manufacturers publish circuit-level accuracy specs, and in practice
 
 **Nearly every "what is going on with this bill" mystery is one of three shapes.** A monitor doesn't fix any of them. It names them.
 
-**The spike that doesn't match your habits.** When the bill jumps and nothing changed on your end, the useful question is what changed on the house's end. A per-circuit monitor answers with names instead of hunches: the guest-room baseboard that ran all week, the well pump cycling overnight. This site's [sudden-spike checklist](/blog/30-sudden-spike-in-electricity-bill-no-usage/) owns the no-hardware diagnosis; a monitor's job is catching the next one with a circuit name already attached.
+**The spike that doesn't match your habits.** When the bill jumps and nothing changed on your end, the useful question is what changed on the house's end. A per-circuit monitor answers with names instead of hunches: the guest-room baseboard that ran all week, the well pump cycling overnight. This site's [sudden-spike checklist](/blog/sudden-spike-in-electricity-bill-no-usage/) owns the no-hardware diagnosis; a monitor's job is catching the next one with a circuit name already attached.
 
 **The load that never sleeps.** Whole-home monitors routinely surface an overnight floor that never drops to zero — the subject this site covers in full in [phantom power explained](/blog/phantom-power-draw-explained/). The monitor's contribution isn't the explanation; it's your actual overnight baseline on a screen, with circuit names, so the hunt starts somewhere other than the middle.
 
@@ -72,7 +72,7 @@ What the app can't do is the split: it knows the whole house spiked, not that th
 
 And if the decisions the data pushes are big ones — replacement, rate plan, eventually generation — the same numbers feed directly into [sizing a solar system](https://solarpoweredproject.com/pages/solar-system-sizing.html).
 
-1. **Shift the schedule the rate plan punishes.** The data shows the dryer and the dishwasher landing in the peak window every day, by nobody's choice. What you change: delayed-start cycles moved to off-peak hours — the arithmetic is in [how time-of-use electricity works](/blog/08-time-of-use-electricity/), and it only favors you if your plan actually prices peak windows.
+1. **Shift the schedule the rate plan punishes.** The data shows the dryer and the dishwasher landing in the peak window every day, by nobody's choice. What you change: delayed-start cycles moved to off-peak hours — the arithmetic is in [how time-of-use electricity works](/blog/time-of-use-electricity/), and it only favors you if your plan actually prices peak windows.
 2. **Time the replacement you were postponing.** The data shows the old refrigerator's circuit drawing visibly more than it did a year ago. What you change: the calendar on a decision you were already circling — measured runtime against a new unit's spec sheet, weighed alongside the rebates cataloged at DOE's Energy Savings Hub.[5]
 3. **Kill the circuits that run for nobody.** The data shows an overnight floor that never reaches zero, and per-circuit history shows which breakers hold it up. What you change: switchable power strips and a lights-out habit for loads that genuinely belong off at night. The fence stays fixed: medical equipment, sump pumps, security cameras, and refrigeration are never on the kill list.
 4. **Catch the long runtimes you never see.** The data shows high-duty loads operating outside their intended schedules — a pool pump running past its timer setting, a dehumidifier cycling around the clock in a damp basement. What you change: the timer, the humidistat setpoint, or the drain routing — corrections you would never have guessed at without the log.
@@ -100,7 +100,7 @@ And if the decisions the data pushes are big ones — replacement, rate plan, ev
 
 **Renters get the measurement discipline without the panel — one appliance at a time.** A plug-in meter like the P3 Kill A Watt P4400 sits between an appliance and a standard 120V outlet, reporting live watts and cumulative kilowatt-hours for loads up to 1875 W — headroom enough for a refrigerator, an entertainment cluster, or whichever device you suspect most. It cannot see hardwired or 240V loads. It answers the plug-sized half of the bill using the same DOE-documented measurement approach behind this site's standby-power testing.[8]
 
-For ongoing visibility rather than one-off checks, energy-monitoring smart plugs carry the job into the app era — [this site's smart-plug guide](/blog/50-best-smart-plugs-standby-power/) covers which plugs meter energy and how to use them safely. When you want the simplest instrument of all, nothing to pair and nothing to configure, the classic plug-in meter is still the standard.
+For ongoing visibility rather than one-off checks, energy-monitoring smart plugs carry the job into the app era — [this site's smart-plug guide](/blog/best-smart-plugs-standby-power/) covers which plugs meter energy and how to use them safely. When you want the simplest instrument of all, nothing to pair and nothing to configure, the classic plug-in meter is still the standard.
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400" label="Measure before you budget" description="Plug-in meter for any 120V outlet load up to 1875 W — live watts and cumulative kWh for the one appliance you suspect most. No app, no panel, no electrician." button="Check price on Amazon" >}}
 
@@ -115,7 +115,7 @@ For ongoing visibility rather than one-off checks, energy-monitoring smart plugs
 - **The not-going-to-act household.** A monitor nobody opens is a graph of your own habits wearing a price tag — the data says measurement without response moves nothing.
 - **The one-appliance question.** If the whole mystery is what the spare freezer costs, a plain plug-in meter answers it with no panel work and no electrician.
 
-If the goal is simply a lower bill rather than better data, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) is the broader toolbox.
+If the goal is simply a lower bill rather than better data, [how to lower utility bills](/blog/how-to-lower-utility-bills/) is the broader toolbox.
 
 ## Frequently Asked Questions
 

@@ -34,7 +34,7 @@ For scale: residential electricity averaged {{< stat "electric_rate_jun2026" "ra
 
 A standard smart plug contains two parts: a Wi-Fi radio and a relay — a switch the app opens and closes. Nothing in that circuit measures anything. Automate lamps and chargers on a schedule all day; the app still cannot answer the house's simplest energy question: how much is this device using?
 
-An energy-monitoring plug adds a third component: a metering chip on the AC side that samples voltage and current and computes real power. That chip is what puts two numbers in your app — watts right now, and kilowatt-hours accumulated over a day, week, or month. (If the units are foggy, [what a kilowatt-hour actually is](/blog/11-understanding-kwh-usage/) is the two-minute primer.)
+An energy-monitoring plug adds a third component: a metering chip on the AC side that samples voltage and current and computes real power. That chip is what puts two numbers in your app — watts right now, and kilowatt-hours accumulated over a day, week, or month. (If the units are foggy, [what a kilowatt-hour actually is](/blog/understanding-kwh-usage/) is the two-minute primer.)
 
 Manufacturers that meter say it loudly. TP-Link puts the phrase in the product name itself: the KP115's page is titled "Smart Wi-Fi Plug Slim with Energy Monitoring,"[1] and the Tapo P110M's is "Mini Smart Wi-Fi Plug, Energy Monitoring."[2] Two traps: "energy saving" in marketing copy means scheduling features, not metering, and a plug being smart does not mean it measures. If a listing is vague, search its specifications for "monitoring" or "real-time" — if neither appears, assume the plug measures nothing.
 
@@ -72,7 +72,7 @@ All the metering plugs share one electrical class — 15 amps, 1,800 watts at 12
 
 ## Which One Fits Your Setup
 
-**Pick by the app you already use — all three meter the same way.** If your household already runs Kasa or Tapo devices, the KP115 or P110M adds metering without adding a new app. Split across platforms — an Apple Home household with an Alexa speaker, say — the P110M's Matter support decides. If the suspicion is bigger than one device, the Emporia plug is the renter-friendly on-ramp to a whole-home system; [this site's standby-power guide](/blog/50-best-smart-plugs-standby-power/) shows how one metered outlet fits a full audit.
+**Pick by the app you already use — all three meter the same way.** If your household already runs Kasa or Tapo devices, the KP115 or P110M adds metering without adding a new app. Split across platforms — an Apple Home household with an Alexa speaker, say — the P110M's Matter support decides. If the suspicion is bigger than one device, the Emporia plug is the renter-friendly on-ramp to a whole-home system; [this site's standby-power guide](/blog/best-smart-plugs-standby-power/) shows how one metered outlet fits a full audit.
 
 Renters: this is as landlord-proof as hardware gets — no hub, no tools, no panel access, nothing bolted on; it uses an outlet you already have and moves out with you. And if the budget is zero, the no-hardware options in [what gadgets actually lower utility bills](/blog/gadgets-that-lower-utility-bills/), including a utility app's hourly data, answer a surprising share of usage questions before you spend anything.
 

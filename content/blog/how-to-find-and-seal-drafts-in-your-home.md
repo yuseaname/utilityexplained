@@ -25,7 +25,7 @@ sources:
 
 **Find before you buy.** The tour below costs an evening and one windy day and ends with a written list of the gaps your home actually has — buy from that list. The thermal camera waits for round two, if the hand and the smoke pen leave questions behind.
 
-Your hand and a twelve-dollar smoke pen find every gap — no thermal camera required. That is also this article's boundary: when a gap hides where hands can't reach, [the DIY energy-leak checklist](/blog/47-check-energy-leaks-home-diy/) runs the instrument-based audit — a different tier of mystery, a different tool. When round two arrives, [the thermal camera comparison](/blog/best-thermal-camera-home-energy-audit/) sorts the ~$116 USB-C picks from the premium tier.
+Your hand and a twelve-dollar smoke pen find every gap — no thermal camera required. That is also this article's boundary: when a gap hides where hands can't reach, [the DIY energy-leak checklist](/blog/check-energy-leaks-home-diy/) runs the instrument-based audit — a different tier of mystery, a different tool. When round two arrives, [the thermal camera comparison](/blog/best-thermal-camera-home-energy-audit/) sorts the ~$116 USB-C picks from the premium tier.
 
 ## The Detection Kit
 
@@ -113,7 +113,7 @@ The skip list is firmer: anything permanent — expanding foam, committed caulk 
 **Some openings in your home are equipment, not defects.** Sealing the ones below saves pocket change and creates real hazards — the trade never comes out ahead.
 
 - **Weep holes behind siding.** They drain rain out of the wall; block them and the wall keeps the water.
-- **Combustion-air openings near gas appliances.** Furnaces and water heaters breathe through those grilles on purpose; a flame that loses its designed air supply finds air somewhere else. That intake is the starting fact of every gas bill — [why a gas bill runs high](/blog/07-gas-bill-too-high/) begins there.
+- **Combustion-air openings near gas appliances.** Furnaces and water heaters breathe through those grilles on purpose; a flame that loses its designed air supply finds air somewhere else. That intake is the starting fact of every gas bill — [why a gas bill runs high](/blog/gas-bill-too-high/) begins there.
 - **Dryer and exhaust terminations.** Moist air and lint have to exit; a flap that will not close wants cleaning, never a cover.
 - **Attic ventilation.** Soffit and ridge vents carry moisture and heat out of the attic assembly — ventilation, not drafts; they do not owe you stillness.
 
@@ -143,7 +143,7 @@ None of it costs a dollar, and it retires a fair share of "drafty house" verdict
 
 **The full-tour basket** adds classes only as named stops demand them: rope caulk for fixed hairlines, a weighted stopper for a zero-install door, and — where the tour actually found them — the attic-hatch cover at $25–60 and the flue plug at $12–60. That last pair is where spending stops being pocket change; those purchases follow the detection, never lead it.[4]
 
-Two honest brackets before the boxes: ENERGY STAR's up-to-10% figure is its estimate for sealing **and** insulation together — it does not attach to a single sweep.[1] And the 25C Home Improvement Credit covers insulation and air sealing, worth a check before tax season even if the basket stays small.[3] For where this evening ranks among the other levers, [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) keeps the full list. And once the seals are in place, [a home energy monitor can measure what the fixes actually saved](/blog/do-home-energy-monitors-save-money/).
+Two honest brackets before the boxes: ENERGY STAR's up-to-10% figure is its estimate for sealing **and** insulation together — it does not attach to a single sweep.[1] And the 25C Home Improvement Credit covers insulation and air sealing, worth a check before tax season even if the basket stays small.[3] For where this evening ranks among the other levers, [how to lower utility bills](/blog/how-to-lower-utility-bills/) keeps the full list. And once the seals are in place, [a home energy monitor can measure what the fixes actually saved](/blog/do-home-energy-monitors-save-money/).
 
 For the door-specific product picks — sleeves, adhesive sweeps, frame weatherstripping — see [the best door draft stoppers](/blog/best-door-draft-stoppers/).
 

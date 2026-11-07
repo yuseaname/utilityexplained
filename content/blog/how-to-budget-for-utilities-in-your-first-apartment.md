@@ -74,7 +74,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
 
 <p>
               You typically need to start service one to two weeks before move-in.
-              Providers may require a [deposit or credit check](/blog/26-utility-deposit-explained/). Ask about deposit
+              Providers may require a [deposit or credit check](/blog/utility-deposit-explained/). Ask about deposit
               waivers or payment plans if the upfront cost is a concern.
             </p>
             <p>
@@ -196,7 +196,7 @@ See [average water usage per person](/blog/average-water-usage-per-person/) for 
               <li>Use LED bulbs and switch off lights in empty rooms.</li>
               <li>Set your thermostat a few degrees lower in winter and higher in summer.</li>
               <li>Run full loads in the dishwasher and washer.</li>
-              <li>[Report leaks](/blog/47-check-energy-leaks-home-diy/) or maintenance issues quickly.</li>
+              <li>[Report leaks](/blog/check-energy-leaks-home-diy/) or maintenance issues quickly.</li>
               <li>Use a smart power strip for electronics.</li>
             </ul>
             <p>
@@ -236,4 +236,4 @@ Some utilities waive deposits with a credit check or a letter of good standing f
 ---
 
 *Related Reading:*
-- [Average Apartment Utilities Cost: What to Expect and How to Budget](/blog/09-apartment-utilities-cost/)
+- [Average Apartment Utilities Cost: What to Expect and How to Budget](/blog/apartment-utilities-cost/)

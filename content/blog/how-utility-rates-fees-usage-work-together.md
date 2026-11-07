@@ -67,7 +67,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
               <a href="/blog/tiered-electricity-rates-explained/">
                 Tiered Electricity Rates Explained
               </a> and
-              <a href="/blog/08-time-of-use-electricity/"> Time-of-Use Rates</a>.
+              <a href="/blog/time-of-use-electricity/"> Time-of-Use Rates</a>.
             </p>
             <h3>Adjustments and riders</h3>
             <p>
@@ -98,7 +98,7 @@ For more detail, see [Understanding Your Utility Bill](/blog/complete-guide-unde
             <p>
               Local taxes and franchise fees are common and can change yearly. This
               guide walks through them:
-              <a href="/blog/25-utility-bill-taxes-fees-franchise-charges-explained/">
+              <a href="/blog/utility-bill-taxes-fees-franchise-charges-explained/">
                 Utility Bill Taxes, Fees, and Franchise Charges Explained
               </a>.
             </p>
@@ -139,7 +139,7 @@ One concrete anchor for the rate layer: residential electric rates in 2026 run 1
             </p>
             <p>
               If electricity is the main driver, this focused guide helps:
-              <a href="/blog/03-why-is-my-electric-bill-so-high/">
+              <a href="/blog/why-is-my-electric-bill-so-high/">
                 Why your electric bill is so high — the full diagnostic
               </a>.
             </p>

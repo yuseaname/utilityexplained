@@ -1,6 +1,6 @@
 ---
 title: "Why Is My Water Bill So High? Causes Ranked by Likelihood"
-slug: "06-water-bill-too-high"
+slug: "water-bill-too-high"
 description: "Water bill too high with nothing changed? The likely causes — leaks, rates, meter errors — ranked, with free tests to run before spending money."
 date: 2026-03-07
 lastmod: 2026-10-05
@@ -16,6 +16,7 @@ hero_below_answer: true
 sources:
   - https://www.epa.gov/watersense/statistics-and-facts (retrieved 2026-08-29)
   - https://www.epa.gov/watersense/home-maintenance (retrieved 2026-08-29)
+aliases: ["/blog/06-water-bill-too-high/"]
 ---
 
 {{< jump-row "Causes ranked|#the-causes-ranked-by-likelihood" "Benchmark your usage|#benchmark-your-usage-before-you-assume-a-leak" "The checks in order|#work-the-checks-in-order" "Ask the utility|#ask-the-utility-specific-questions" >}}
@@ -166,7 +167,7 @@ The three rungs below solve different problems — pick by what you're protectin
 
 For automatic protection — a monitor that can also close the valve for you — step up to the {{< amazon asin="B00C03D01Q" text="Moen Flo Smart Water Monitor & automatic shutoff on Amazon" >}} — a whole-home monitor on the main line watches flow, pressure, and temperature 24/7, detects drops-per-minute leaks, and can shut the main itself (Moen 900-001 spec; professional installation required). EPA's guidance treats leak-detection and flow-monitoring devices, including shut-off types, as a recommended way to catch irregular use.[2]
 
-For the full playbook after the leak is fixed, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+For the full playbook after the leak is fixed, see [how to lower your water bill](/blog/how-to-lower-water-bill/).
 
 ## FAQ
 

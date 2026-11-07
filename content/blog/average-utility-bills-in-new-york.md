@@ -47,7 +47,7 @@ sources:
 
 ## Why New York rates look like this {#why-new-york-rates-look-like-this}
 
-New York's electric rate sits above the 18.16¢/kWh national average — among the higher-rate states. Market structure matters as much as the number: New York runs regulated upstate, with downstate delivery territory among the priciest in the country. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/10-fixed-vs-variable-utility-rate/).
+New York's electric rate sits above the 18.16¢/kWh national average — among the higher-rate states. Market structure matters as much as the number: New York runs regulated upstate, with downstate delivery territory among the priciest in the country. That means you can shop retail suppliers for the supply portion of your bill while delivery stays with your local utility — if you've never switched, you may be sitting on a month-to-month default rate worth comparing: [which rate plan fits your household](/blog/fixed-vs-variable-utility-rate/).
 
 T
 {{< visual src="/images/articles/average-utility-bills-in-new-york/gas-month-state-vs-national.webp" alt="Standardized 75-therm monthly natural gas cost: New York $127 versus the national average $144." wide="true" >}}
@@ -59,7 +59,7 @@ Water and sewer are set by your city or water district, not the state — two ne
 
 1. **Find the unit on your bill** — most water bills measure in CCF (hundred cubic feet). [What CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) decodes it in two minutes.
 2. **Benchmark usage** — a typical household runs about 2–4 CCF per person per month; well above that, a leak is the usual suspect ([the 10-minute check](/blog/who-responsible-water-leak-before-after-meter/)).
-3. **Check fixed charges** — many water systems have raised base charges faster than usage rates; your bill can climb even with flat usage. [Why your water bill is high](/blog/06-water-bill-too-high/) walks the whole statement.
+3. **Check fixed charges** — many water systems have raised base charges faster than usage rates; your bill can climb even with flat usage. [Why your water bill is high](/blog/water-bill-too-high/) walks the whole statement.
 
 ## If your bill runs above these numbers {#if-your-bill-runs-above-these-numbers}
 
@@ -81,13 +81,13 @@ At the EIA-standardized 899 kWh month, New York's 28.65¢/kWh residential rate p
 
 {{< faq "What is the average gas bill in New York?">}}
 
-New York residential gas averaged $17.58 per thousand cubic feet in 2025 (EIA) — roughly $1.69 per therm. A standardized 75-therm heating month runs about $127, but gas bills are seasonal: low-use summer months often run $25–$40, while winter peaks far higher. [Why gas bills spike in winter](/blog/07-gas-bill-too-high/) explains the swing.
+New York residential gas averaged $17.58 per thousand cubic feet in 2025 (EIA) — roughly $1.69 per therm. A standardized 75-therm heating month runs about $127, but gas bills are seasonal: low-use summer months often run $25–$40, while winter peaks far higher. [Why gas bills spike in winter](/blog/gas-bill-too-high/) explains the swing.
 
 {{< /faq >}}
 
 {{< faq "Is there an average water bill for New York?">}}
 
-No reliable one — water and sewer rates in New York are set city-by-city or by water district, so a single state number would be fiction. Compare your bill's CCF usage against the 2–4 CCF per person per month benchmark, and read [why your water bill is high](/blog/06-water-bill-too-high/) if you're above it.
+No reliable one — water and sewer rates in New York are set city-by-city or by water district, so a single state number would be fiction. Compare your bill's CCF usage against the 2–4 CCF per person per month benchmark, and read [why your water bill is high](/blog/water-bill-too-high/) if you're above it.
 
 {{< /faq >}}
 

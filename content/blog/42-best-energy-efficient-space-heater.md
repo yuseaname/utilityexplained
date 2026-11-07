@@ -1,6 +1,6 @@
 ---
 title: "Best Energy Efficient Space Heater: The Honest Answer"
-slug: "42-best-energy-efficient-space-heater"
+slug: "best-energy-efficient-space-heater"
 description: "Is a portable space heater worth it? Assess one using manufacturer instructions, electrical safety rules, room conditions, and your actual utility rate."
 date: 2026-05-30
 updated: 2026-08-29
@@ -19,6 +19,7 @@ sources:
   - https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/ (retrieved 2026-08-29)
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03 (retrieved 2026-08-29)
   - https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578 (retrieved 2026-08-29)
+aliases: ["/blog/42-best-energy-efficient-space-heater/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -60,7 +61,7 @@ Those are population numbers, not predictions for your living room—and nearly 
 - **Direct wall outlet only**—CPSC: never an extension cord or power strip, which is how cords overheat.[3]
 - **Off when you sleep or leave.** CPSC's rule, not a preference.[3]
 - **Bathrooms and garages:** many manufacturers prohibit them outright; where a manual allows it, the outlet must be GFCI-protected, and the manual governs (its instructions are enforceable under electrical code).
-- **If an outlet, cord, plug, or breaker behaves unexpectedly,** stop using the heater and get a qualified electrician—see the site's [why your electric bill spiked with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/) guide for diagnosing the electrical side.
+- **If an outlet, cord, plug, or breaker behaves unexpectedly,** stop using the heater and get a qualified electrician—see the site's [why your electric bill spiked with no usage change](/blog/sudden-spike-in-electricity-bill-no-usage/) guide for diagnosing the electrical side.
 
 ## Ceramic vs. Infrared vs. Oil-Filled: Real Differences
 
@@ -84,7 +85,7 @@ The arithmetic with the June 2026 national average residential rate ({{< stat "e
 30 days ≈ $66 · Nov–Mar season ≈ $330 (at full duty — a thermostat cycles it lower)
 ```
 
-Swap in **your** all-in rate from your bill (total electric charges ÷ total kWh—delivery charges and riders count), and treat the season number as an upper bound: a working thermostat typically keeps the element off much of those hours. If that seasonal figure lands near your current heating spend, the heater is a supplement, not a strategy—see [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/) for the whole-house diagnosis sequence.
+Swap in **your** all-in rate from your bill (total electric charges ÷ total kWh—delivery charges and riders count), and treat the season number as an upper bound: a working thermostat typically keeps the element off much of those hours. If that seasonal figure lands near your current heating spend, the heater is a supplement, not a strategy—see [why your electric bill is so high](/blog/why-is-my-electric-bill-so-high/) for the whole-house diagnosis sequence.
 
 ## Measure It Instead of Trusting the Label
 

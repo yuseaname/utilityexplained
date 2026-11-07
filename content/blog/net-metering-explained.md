@@ -108,9 +108,9 @@ The structure is the lesson. Under buy-all/sell-all, every kWh consumed on-site 
 A solar credit line never travels alone — it sits inside a bill built from delivery charges, fixed charges, and the rate plan you were on before the panels went up. Five pages take you from the export line to the rest of the statement:
 
 - **[Which rate plan is right for me](/blog/which-rate-plan-is-right-for-me/)** — your rate plan decides what your imports cost *and* when exports are worth keeping or selling.
-- **[Time-of-use electricity, reviewed](/blog/08-time-of-use-electricity/)** — how peak and off-peak windows are priced, and how to audit a TOU plan before joining it.
-- **[What time is electricity cheapest?](/blog/46-what-time-is-electricity-cheapest/)** — the hour-by-hour picture behind every export-credit decision.
-- **[Demand charges on an electricity bill](/blog/49-demand-charges-electricity-bill-explained/)** — solar lowers averages, not necessarily your worst half-hour; know whether your tariff bills the peak.
+- **[Time-of-use electricity, reviewed](/blog/time-of-use-electricity/)** — how peak and off-peak windows are priced, and how to audit a TOU plan before joining it.
+- **[What time is electricity cheapest?](/blog/what-time-is-electricity-cheapest/)** — the hour-by-hour picture behind every export-credit decision.
+- **[Demand charges on an electricity bill](/blog/demand-charges-electricity-bill-explained/)** — solar lowers averages, not necessarily your worst half-hour; know whether your tariff bills the peak.
 - **[Electric bill breakdown: every charge explained](/blog/electric-bill-breakdown-understanding-line-items/)** — where the credit, delivery, and fixed lines actually sit on the statement.
 
 ## Frequently Asked Questions

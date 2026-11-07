@@ -1,7 +1,7 @@
 ---
 title: "How to Review a Time-of-Use Electricity Plan"
-slug: "08-time-of-use-electricity"
-aliases: ["/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
+slug: "time-of-use-electricity"
+aliases: ["/blog/08-time-of-use-electricity/", "/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Compare a time-of-use electricity plan using your utility's current schedule and tariff, plus your own interval data or bill history — the honest method."
 date: 2026-03-07
 updated: 2026-08-29
@@ -54,11 +54,11 @@ A standard dishwasher cycle uses about 1.5 kWh per load. Running it once daily a
 
 {{< visual src="/images/articles/08-time-of-use-electricity/dishwasher-load-shift-savings.webp" alt="Annual peak and off-peak dishwasher-load costs for PG&E, Con Edison, and TXU, with savings of $66, $124, and $80 highlighted." wide="true" >}}
 
-Rate notes, as of the effective dates shown above: PG&E figures reflect the E-TOU-C schedule effective March 2026 — confirm current rates on the utility's tariff page before planning around them, and note that TXU-style "free nights" plans typically cap the free energy (around 2,000 kWh/month on TXU's plan); a single daily dishwasher load stays far below it, but shifting your whole home onto a free-nights plan depends on your total usage. And if your statement also carries a separate demand line alongside the time-based energy prices, that is a different mechanism — see [demand charges on electricity bills: what they are and when they apply](/blog/49-demand-charges-electricity-bill-explained/). An EV battery is the biggest shiftable load most households ever add — for the math on a month of overnight charging, see [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/).
+Rate notes, as of the effective dates shown above: PG&E figures reflect the E-TOU-C schedule effective March 2026 — confirm current rates on the utility's tariff page before planning around them, and note that TXU-style "free nights" plans typically cap the free energy (around 2,000 kWh/month on TXU's plan); a single daily dishwasher load stays far below it, but shifting your whole home onto a free-nights plan depends on your total usage. And if your statement also carries a separate demand line alongside the time-based energy prices, that is a different mechanism — see [demand charges on electricity bills: what they are and when they apply](/blog/demand-charges-electricity-bill-explained/). An EV battery is the biggest shiftable load most households ever add — for the math on a month of overnight charging, see [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/).
 
 You can automate the shift with a {{< product-box asin="B08LN3C7WK" name="Kasa KP115 Smart Plug" label="Energy Monitor + Timer" description="15A / 1800W rating handles plug-in appliances (many US dishwashers are hardwired — check yours before buying; this suits washers, dryers with NEMA 14-30 smart plugs, and plug-in dishwashers). Schedule the outlet to turn on after peak hours end and track daily kWh in the app." button="Check Price on Amazon" >}} — set it once and the shift runs itself.
 
-If you are building out this kind of automation, the wider shopping shortlist is here: [best smart plugs to eliminate standby power drain](/blog/50-best-smart-plugs-standby-power/).
+If you are building out this kind of automation, the wider shopping shortlist is here: [best smart plugs to eliminate standby power drain](/blog/best-smart-plugs-standby-power/).
 
 ## Get the Current Rate Schedule
 
@@ -85,7 +85,7 @@ Compare the complete bill, not only the advertised energy price. Include fixed c
 
 ## Before You Change When You Use Electricity
 
-Only shift loads when it is safe, convenient, and consistent with equipment instructions. Do not alter medical, safety, heating, cooling, electrical-panel, or charging-equipment settings solely because of a generic schedule. Confirm your actual peak periods and program rules first — and before you lock in new habits, check [what time is electricity cheapest in your area](/blog/46-what-time-is-electricity-cheapest/), since off-peak windows are set by your utility's tariff, not by a national clock.
+Only shift loads when it is safe, convenient, and consistent with equipment instructions. Do not alter medical, safety, heating, cooling, electrical-panel, or charging-equipment settings solely because of a generic schedule. Confirm your actual peak periods and program rules first — and before you lock in new habits, check [what time is electricity cheapest in your area](/blog/what-time-is-electricity-cheapest/), since off-peak windows are set by your utility's tariff, not by a national clock.
 
 {{< visual src="/images/articles/08-time-of-use-electricity/tou-safety-gate-checklist.webp" alt="Pre-enrollment checklist for safely shifting time-of-use loads, covering safety loads, equipment instructions, peak periods, program rules, and records." >}}
 
@@ -99,18 +99,18 @@ Only shift loads when it is safe, convenient, and consistent with equipment inst
 
 Save the tariff version and enrollment confirmation with your bill records.
 
-The questions above work best against a bill you can already read with confidence: [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) shows what each charge on your current statement means, so the comparison the utility runs against your historical usage is one you can check yourself.
+The questions above work best against a bill you can already read with confidence: [reading your electric bill line by line](/blog/how-to-read-your-electric-bill/) shows what each charge on your current statement means, so the comparison the utility runs against your historical usage is one you can check yourself.
 
 That is the whole review in one pass: get the tariff's real schedule, match it against your own interval data or bill history, move the loads that are safe to move, and keep the confirmation with your records — do that, and the plan either proves itself on your numbers or you walk away before enrolling.
 
 ## Related Reading
 
 - [Which Rate Plan Is Right for You? Comparing Flat, TOU, and Tiered](/blog/which-rate-plan-is-right-for-me/) — the plan-decision guide this page's schedule review feeds into.
-- [Demand Charges on Electric Bills: How They Differ From TOU Pricing](/blog/49-demand-charges-electricity-bill-explained/) — the other rate mechanism that can sit on a TOU statement.
+- [Demand Charges on Electric Bills: How They Differ From TOU Pricing](/blog/demand-charges-electricity-bill-explained/) — the other rate mechanism that can sit on a TOU statement.
 - [Electric Bill Breakdown: How TOU Charges Appear on Your Statement](/blog/electric-bill-breakdown-understanding-line-items/) — where the time-based charges land among the line items.
-- [What Time Is Electricity Cheapest? A Practical Guide](/blog/46-what-time-is-electricity-cheapest/) — the when-to-run-it companion to this page.
+- [What Time Is Electricity Cheapest? A Practical Guide](/blog/what-time-is-electricity-cheapest/) — the when-to-run-it companion to this page.
 - [How Smart Meters Work: Enabling TOU Pricing With Interval Data](/blog/how-do-smart-meters-work/) — the metering behind the pricing.
-- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/03-why-is-my-electric-bill-so-high/) — if you came here chasing a bill jump.
+- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/why-is-my-electric-bill-so-high/) — if you came here chasing a bill jump.
 
 {{< faq "Do time-of-use plans actually save money?" >}}
 

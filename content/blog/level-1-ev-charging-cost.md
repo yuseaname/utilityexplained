@@ -135,7 +135,7 @@ The full Level 2 economics — equipment, time-of-use rates, cost per mile — l
 - **Long commute in a battery-electric vehicle** → Level 1 will leave you behind. Read the Level 2 payback case in [how EV charging affects your electric bill](/blog/ev-charging-impact-electric-bill/) before buying anything.
 - **You want to know your real cost, not a national average** → buy the Poniie PN2500 once, measure for a month, and multiply by your rate. That number is yours.
 
-And the standing rule for this page, the same as every page on this site: **measuring beats guessing.** A national average tells you what the typical driver pays; a pass-through meter tells you what *your* car costs on *your* outlet at *your* rate. The $66 meter pays for itself the first time it stops you from over- or under-estimating a $50-a-month line on your bill — and it keeps working for every other appliance you plug into it. If you want to understand the kilowatt-hour itself before you trust any of these numbers, [what a kilowatt-hour is](/blog/11-understanding-kwh-usage/) is the two-minute primer.
+And the standing rule for this page, the same as every page on this site: **measuring beats guessing.** A national average tells you what the typical driver pays; a pass-through meter tells you what *your* car costs on *your* outlet at *your* rate. The $66 meter pays for itself the first time it stops you from over- or under-estimating a $50-a-month line on your bill — and it keeps working for every other appliance you plug into it. If you want to understand the kilowatt-hour itself before you trust any of these numbers, [what a kilowatt-hour is](/blog/understanding-kwh-usage/) is the two-minute primer.
 
 ## Sources
 

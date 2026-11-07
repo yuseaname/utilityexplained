@@ -104,7 +104,7 @@ What it costs to run: the math that surprises people. A 30-foot self-regulating 
 
 ## If the Worst Happens
 
-A burst pipe is a water bill problem as much as a flooding problem — a 1/8-inch crack can release hundreds of gallons a day, and the usage shows up on your bill as a [mysterious water-bill spike](/blog/06-water-bill-too-high/) even when the damage is contained fast. Know where your main shutoff is before you need it, and consider the detection layer: battery sensors by the water heater and under sinks ([where to place water leak sensors](/blog/where-to-place-water-leak-sensors/)) turn a catastrophic overnight burst into a 2 a.m. alarm. Winter brings other bill surprises too — see [why your water bill is higher in winter](/blog/why-is-my-water-bill-higher-in-winter/).
+A burst pipe is a water bill problem as much as a flooding problem — a 1/8-inch crack can release hundreds of gallons a day, and the usage shows up on your bill as a [mysterious water-bill spike](/blog/water-bill-too-high/) even when the damage is contained fast. Know where your main shutoff is before you need it, and consider the detection layer: battery sensors by the water heater and under sinks ([where to place water leak sensors](/blog/where-to-place-water-leak-sensors/)) turn a catastrophic overnight burst into a 2 a.m. alarm. Winter brings other bill surprises too — see [why your water bill is higher in winter](/blog/why-is-my-water-bill-higher-in-winter/).
 
 ## Sizing Heat Tape Without Overbuying
 

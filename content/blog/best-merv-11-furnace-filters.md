@@ -97,7 +97,7 @@ The honest summary: filter money is small money. The reason to choose carefully 
 - **Manual says MERV 13 or higher is fine, or an HVAC tech approved it** → the MERV 13 6-pack, especially while it's the cheaper of the two.
 - **Older furnace, marginal blower, or manual is vague** → the MERV 11 6-pack; it's the safer default and the community consensus for a reason.
 - **Allergies, pets, or wildfire smoke in your region and your system can take it** → MERV 13, with more frequent replacement checks (a loaded high-MERV filter chokes airflow faster).
-- **Your system runs constantly regardless of filter** → the filter isn't your problem; check [duct leaks and other reasons HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/), and if it flips on and off rapidly, [these short-cycling causes](/blog/13-ac-short-cycling-causes-fixes/) — a denser filter can even *contribute* to short cycling in marginal systems.
+- **Your system runs constantly regardless of filter** → the filter isn't your problem; check [duct leaks and other reasons HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/), and if it flips on and off rapidly, [these short-cycling causes](/blog/ac-short-cycling-causes-fixes/) — a denser filter can even *contribute* to short cycling in marginal systems.
 
 And the standing rule that outranks every pick on this page: **measure the slot, read the manual, then buy.** The best filter is the correct size at the highest MERV your specific blower tolerates — and the cheapest failure is a $10 filter that doesn't fit, while the expensive one is a system strangled by media it was never designed for.
 

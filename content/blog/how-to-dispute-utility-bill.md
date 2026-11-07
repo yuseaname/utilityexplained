@@ -198,7 +198,7 @@ If the disputed amount is causing financial strain, don't wait for the resolutio
 
 Eligibility is based on income, and every state and territory sets its own requirements [6]. Contact your local LIHEAP office to apply. You can also call 211 to find local assistance options.
 
-For more on managing past-due balances while a dispute is open, see [how to review a past-due balance](/blog/21-past-due-balance-utility-bill-explained/). If a deposit is required as part of the dispute resolution, see [how to review a utility deposit](/blog/26-utility-deposit-explained/). For estimated bills that may be the source of the dispute, see [estimated utility bills explained](/blog/14-estimated-utility-bill-explained/). For a complete walkthrough of every line on your statement, see the [complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/). If your service is at risk, see [can the utility shut off your service](/blog/can-utility-shut-off-service/).
+For more on managing past-due balances while a dispute is open, see [how to review a past-due balance](/blog/past-due-balance-utility-bill-explained/). If a deposit is required as part of the dispute resolution, see [how to review a utility deposit](/blog/utility-deposit-explained/). For estimated bills that may be the source of the dispute, see [estimated utility bills explained](/blog/estimated-utility-bill-explained/). For a complete walkthrough of every line on your statement, see the [complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/). If your service is at risk, see [can the utility shut off your service](/blog/can-utility-shut-off-service/).
 
 ## Review-Request Checklist
 

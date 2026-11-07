@@ -24,7 +24,7 @@ sources:
 
 **A smart thermostat saves money on a time-of-use (TOU) plan by moving your heating and cooling's *purchase times* away from expensive hours — automatically, which is the only way it reliably happens.** The mechanism is scheduling: pre-cool or pre-heat the house in cheap hours, coast through the expensive window, and recover after it ends. DOE's benchmark — up to 10% a year on heating and cooling from a 7–10°F, 8-hour daily setback[1] — was measured on ordinary programmable schedules; a smart thermostat earns its premium by actually maintaining that schedule without anyone remembering to. What no thermostat does is change your rate: if your peak/off-peak gap is small, the automation has little to work with, and the smart move is checking your tariff before buying hardware. For the current hardware field — including which tiers handle staged heat-pump recovery — see [the smart thermostat winter comparison](/blog/best-smart-thermostats-winter-savings/).
 
-This page is about the intersection of two subjects this site covers separately: [how time-of-use rates work](/blog/08-time-of-use-electricity/) and [whether programmable thermostats cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/). If you're on a flat rate, that second page is the relevant one — most of what follows only pays on a TOU (or demand-charge) tariff.
+This page is about the intersection of two subjects this site covers separately: [how time-of-use rates work](/blog/time-of-use-electricity/) and [whether programmable thermostats cut heating bills](/blog/do-programmable-thermostats-cut-heating-bills/). If you're on a flat rate, that second page is the relevant one — most of what follows only pays on a TOU (or demand-charge) tariff.
 
 {{< affiliate-disclosure >}}
 
@@ -46,7 +46,7 @@ A thermostat can't store electricity — what it can do is store *thermal comfor
 
 Two capability tiers separate thermostats on this specific job:
 
-1. **Hourly/period scheduling** (every major smart thermostat): you set target temperatures per hour block, aligned to your tariff's windows. This alone executes pre-cooling. It requires you to look up your tariff's peak hours once — [what time is electricity cheapest](/blog/46-what-time-is-electricity-cheapest/) collects typical windows by plan type.
+1. **Hourly/period scheduling** (every major smart thermostat): you set target temperatures per hour block, aligned to your tariff's windows. This alone executes pre-cooling. It requires you to look up your tariff's peak hours once — [what time is electricity cheapest](/blog/what-time-is-electricity-cheapest/) collects typical windows by plan type.
 2. **Utility program integration:** the premium tiers from Nest and ecobee can connect to participating utilities' energy programs — demand-response and, in some territories, rate-plan-aware scheduling — and adjust automatically when the tariff shifts, including seasonal window changes that manual schedules miss. Availability is territory-specific; check your utility's compatibility list before paying for this tier. ENERGY STAR's smart-thermostat criteria (which include verified savings and useful scheduling features) are a reasonable floor to look for.[2]
 
 The learning feature that sells most smart thermostats — "it learns your comings and goings" — is worth little on a TOU bill if what it learns is *presence* rather than *price*. The models below both do the job; pick on ecosystem and how well your utility is supported.

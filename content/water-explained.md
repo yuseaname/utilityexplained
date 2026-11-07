@@ -19,17 +19,17 @@ Your water bill charges for three things: a fixed service charge, the water you 
 
 ## What are you trying to solve?
 <ul>
-<li><strong>My water bill is too high</strong> — <a href="/blog/06-water-bill-too-high/">Why Is My Water Bill So High?</a></li>
+<li><strong>My water bill is too high</strong> — <a href="/blog/water-bill-too-high/">Why Is My Water Bill So High?</a></li>
 <li><strong>I want to understand tiered water rates</strong> — <a href="/blog/tiered-water-rates-explained/">Tiered Water Rates Explained</a></li>
 <li><strong>How much water does a person use?</strong> — <a href="/blog/average-water-usage-per-person/">Average Water Usage Per Person</a></li>
 <li><strong>My bill is higher in summer or winter</strong> — <a href="/blog/why-is-my-water-bill-higher-in-summer/">Higher in Summer</a> · <a href="/blog/why-is-my-water-bill-higher-in-winter/">Higher in Winter</a></li>
-<li><strong>I want to lower my water bill</strong> — <a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
-<li><strong>My bill was estimated</strong> — <a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a></li>
+<li><strong>I want to lower my water bill</strong> — <a href="/blog/how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
+<li><strong>My bill was estimated</strong> — <a href="/blog/estimated-utility-bill-explained/">Estimated Utility Bill Explained</a></li>
 </ul>
 
 ## How water service works
 <p>
-Your utility treats water and pipes it to your meter, then bills you for what you use; wastewater leaves through a separate drain system to a treatment plant. For how those charges land on your statement, see <a href="/blog/06-water-bill-too-high/">Why Is My Water Bill So High?</a> or the <a href="/utilities-glossary/">utility glossary</a>.
+Your utility treats water and pipes it to your meter, then bills you for what you use; wastewater leaves through a separate drain system to a treatment plant. For how those charges land on your statement, see <a href="/blog/water-bill-too-high/">Why Is My Water Bill So High?</a> or the <a href="/utilities-glossary/">utility glossary</a>.
 </p>
 
 ## How water is measured: gallons, cubic feet, and CCF
@@ -39,7 +39,7 @@ Bills measure water by volume — gallons, cubic feet, or CCF (100 cubic feet, a
 
 ## Understanding your water bill
 <p>
-A water bill combines a water charge, a sewer charge, and fixed fees, sometimes plus stormwater. For a line-by-line breakdown, see <a href="/blog/06-water-bill-too-high/">Why Is My Water Bill So High?</a>.
+A water bill combines a water charge, a sewer charge, and fixed fees, sometimes plus stormwater. For a line-by-line breakdown, see <a href="/blog/water-bill-too-high/">Why Is My Water Bill So High?</a>.
 </p>
 <figure class="bill-figure">
 <img src="/images/articles/water-explained/bill-anatomy.webp" alt="Annotated example water bill: base charge $18.00, water usage of 8 CCF at $3.85 per CCF equaling $30.80, sewer charge of 8 CCF at $4.60 equaling $36.80, stormwater fee $6.50, total due $92.10, with a note that 1 CCF equals 748 gallons" width="1024" height="1536" loading="lazy" decoding="async" />
@@ -84,7 +84,7 @@ Fixing leaks quickly can save thousands of gallons per month and significantly r
 
 ## How to reduce water usage without major changes
 <p>
-Fixing leaks, shorter showers, full appliance loads, and smarter outdoor watering all cut usage. For the full checklist, see <a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a>.
+Fixing leaks, shorter showers, full appliance loads, and smarter outdoor watering all cut usage. For the full checklist, see <a href="/blog/how-to-lower-water-bill/">How to Lower Your Water Bill</a>.
 </p>
 
 ## Common misconceptions about water service
@@ -103,7 +103,7 @@ Meters are generally accurate but can slow or fail over time. If usage looks unu
 
 ## Estimated readings and bill corrections
 <p>
-If the utility cannot access your meter, it may estimate usage, and the next actual reading corrects the bill. You can often submit your own reading online or by phone, and if a bill looks wrong, compare it to your meter and request a review. For how estimates work, see <a href="/blog/14-estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
+If the utility cannot access your meter, it may estimate usage, and the next actual reading corrects the bill. You can often submit your own reading online or by phone, and if a bill looks wrong, compare it to your meter and request a review. For how estimates work, see <a href="/blog/estimated-utility-bill-explained/">Estimated Utility Bill Explained</a>.
 </p>
 
 ## Frequently asked questions
@@ -139,7 +139,7 @@ For the full library of water and sewer guides, jump to the <a href="#water-guid
 
 ### Why Is My Water Bill High?
 <ul>
-<li><a href="/blog/06-water-bill-too-high/">Why Is My Water Bill So High? (11 Fast Checks)</a></li>
+<li><a href="/blog/water-bill-too-high/">Why Is My Water Bill So High? (11 Fast Checks)</a></li>
 <li><a href="/blog/why-did-my-water-bill-suddenly-increase/">Why Did My Water Bill Suddenly Increase?</a></li>
 <li><a href="/blog/why-is-my-water-bill-higher-in-summer/">Why Is My Water Bill Higher in Summer?</a></li>
 <li><a href="/blog/why-is-my-water-bill-higher-in-winter/">Why Is My Water Bill Higher in Winter?</a></li>
@@ -157,7 +157,7 @@ For the full library of water and sewer guides, jump to the <a href="#water-guid
 
 ### Lower Your Water Bill
 <ul>
-<li><a href="/blog/44-how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
+<li><a href="/blog/how-to-lower-water-bill/">How to Lower Your Water Bill</a></li>
 <li><a href="/blog/average-water-usage-per-person/">Average Water Usage Per Person</a></li>
 
 </ul>

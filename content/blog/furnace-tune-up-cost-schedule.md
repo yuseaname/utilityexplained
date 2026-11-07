@@ -110,7 +110,7 @@ Even with an efficient system working perfectly, the context helps: the average 
 
 - [AFUE vs SEER vs HSPF vs COP](/blog/afue-vs-seer-vs-hspf-vs-cop/)
 - [Why Is My Furnace Blowing Cold Air?](/blog/why-is-my-furnace-blowing-cold-air/)
-- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/48-heat-pump-vs-gas-furnace-savings/)
+- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/heat-pump-vs-gas-furnace-savings/)
 - [Heating & Cooling Basics](/heating-cooling-explained/)
 
 First-run burning smells and short cycles are the two symptoms a fall tune-up exists to prevent — the smell guide is [furnace smells like burning](/blog/furnace-smells-like-burning/).

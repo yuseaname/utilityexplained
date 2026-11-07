@@ -115,7 +115,7 @@ A device's cost depends on its measured power use, the time it stays in that mod
 
 {{< product-box asin="B08LN3C7WK" name="Kasa Smart Plug Mini with Energy Monitoring, KP115" label="Reduce what you measured" description="After the Kill A Watt identifies which devices waste standby power, replace the regular plug with this Wi-Fi outlet. Its Kasa app reports ongoing consumption and can schedule shut-off for devices that don't need 24/7 power — the same approach DOE recommends for reducing avoidable standby use.[1]" button="Check price on Amazon" >}}
 
-For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
+For a broader household review, see [how to lower utility bills](/blog/how-to-lower-utility-bills/) and [how to read your electric bill](/blog/how-to-read-your-electric-bill/).
 
 Phantom load is one line of the full savings workflow — see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 

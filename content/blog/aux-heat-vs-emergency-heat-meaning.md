@@ -141,7 +141,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If your winter electric bill spiked, the broader explanation is in
-              <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electric Bill So High?</a>
+              <a href="/blog/why-is-my-electric-bill-so-high/"> Why Is My Electric Bill So High?</a>
               It explains how heating load dominates many winter bills.
             </p>
 
@@ -172,7 +172,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             <p>
               If you're comparing gas heat and electric heat (including heat pumps),
               the bigger context is
-              <a href="/blog/48-heat-pump-vs-gas-furnace-savings/"> Gas vs Electric Heating: Cost Comparison</a>.
+              <a href="/blog/heat-pump-vs-gas-furnace-savings/"> Gas vs Electric Heating: Cost Comparison</a>.
             </p>
 
 
@@ -229,7 +229,7 @@ image: "/images/articles/aux-heat-vs-emergency-heat-meaning/aux-heat-vs-emergenc
             </p>
             <p>
               If summer bills are your bigger pain point, the sister guide is
-              <a href="/blog/03-why-is-my-electric-bill-so-high/"> Why Is My Electricity Bill So High in Summer?</a>.
+              <a href="/blog/why-is-my-electric-bill-so-high/"> Why Is My Electricity Bill So High in Summer?</a>.
             </p>
 
 

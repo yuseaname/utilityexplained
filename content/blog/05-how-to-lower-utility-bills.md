@@ -1,6 +1,6 @@
 ---
 title: "Lower Your Utility Bills: The Ranked List of What Actually Saves"
-slug: "05-how-to-lower-utility-bills"
+slug: "how-to-lower-utility-bills"
 description: "What actually lowers bills? A ranked list of the top fixes across electricity, gas, water, and weatherization — with typical cost, savings, and payback."
 date: 2026-03-07
 updated: 2026-10-30
@@ -16,6 +16,7 @@ sources:
   - https://www.energy.gov/cmei/femp/home-energy-checklist
   - https://www.energy.gov/save/home-upgrades
   - https://www.epa.gov/watersense/showerheads
+aliases: ["/blog/05-how-to-lower-utility-bills/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -28,11 +29,11 @@ sources:
 
 The right improvement sequence is specific to the home, account, equipment, and local program rules. It is not proven by a national cost or payoff table.
 
-**Next step:** Before you invest in any improvement, understand your current bills: read [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) and [how to investigate a high water bill](/blog/06-water-bill-too-high/) to establish your baseline usage and costs.
+**Next step:** Before you invest in any improvement, understand your current bills: read [how to read your electric bill](/blog/how-to-read-your-electric-bill/) and [how to investigate a high water bill](/blog/water-bill-too-high/) to establish your baseline usage and costs.
 
-For a complete view of your baseline, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) if electricity costs dominate, or [how to investigate a high water bill](/blog/06-water-bill-too-high/) if water is your concern. For gas, see [why is my gas bill so high](/blog/07-gas-bill-too-high/) and the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
+For a complete view of your baseline, start with [how to read your electric bill](/blog/how-to-read-your-electric-bill/) if electricity costs dominate, or [how to investigate a high water bill](/blog/water-bill-too-high/) if water is your concern. For gas, see [why is my gas bill so high](/blog/gas-bill-too-high/) and the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
-This page is the cross-utility overview — it prioritizes improvements across electricity, gas, water, and weatherization together. Where a topic deserves its own deep dive, the dedicated guides go further: for water-specific strategies, see [how to lower your water bill](/blog/44-how-to-lower-water-bill/); for standby-power gadgets and plugs, see [best smart plugs for standby power](/blog/50-best-smart-plugs-standby-power/).
+This page is the cross-utility overview — it prioritizes improvements across electricity, gas, water, and weatherization together. Where a topic deserves its own deep dive, the dedicated guides go further: for water-specific strategies, see [how to lower your water bill](/blog/how-to-lower-water-bill/); for standby-power gadgets and plugs, see [best smart plugs for standby power](/blog/best-smart-plugs-standby-power/).
 
 ## Establish a Baseline
 
@@ -46,7 +47,7 @@ Gather comparable electricity, gas, water, and sewer bills; current tariffs or r
 | Equipment records | Model, capacity, maintenance, installation, and safety requirements |
 | Local-program terms | Incentive eligibility, timing, installer, and documentation rules |
 
-To measure actual consumption of individual devices — the first step in any baseline — plug the appliance into a watt-meter that logs cumulative kWh. A single reading can reveal whether an old refrigerator or always-on electronics is worth replacing. Once the meter shows which devices drive the bill, our [guide to gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) sorts the purchases that pay for themselves from the ones that only promise to. For the specific plug-level gadget that cuts always-on standby draw, see [best smart plugs for standby power](/blog/50-best-smart-plugs-standby-power/).
+To measure actual consumption of individual devices — the first step in any baseline — plug the appliance into a watt-meter that logs cumulative kWh. A single reading can reveal whether an old refrigerator or always-on electronics is worth replacing. Once the meter shows which devices drive the bill, our [guide to gadgets that lower utility bills](/blog/gadgets-that-lower-utility-bills/) sorts the purchases that pay for themselves from the ones that only promise to. For the specific plug-level gadget that cuts always-on standby draw, see [best smart plugs for standby power](/blog/best-smart-plugs-standby-power/).
 
 {{< product-box asin="B00009MDBU" name="P3 Kill A Watt P4400 Electricity Usage Monitor" label="The baseline tool" description="Plug any 120V appliance into this meter and read real-time watts, volts, amps, and cumulative kWh with 0.2% accuracy. Leave it in place for a week to get a true average — one reading often changes the math on a $300 replacement." button="Check price on Amazon" >}}
 
@@ -80,7 +81,7 @@ Avoid applying one measure across a home without a documented reason. Never chan
 
 {{< visual src="/images/articles/05-how-to-lower-utility-bills/payback-ladder.webp" alt="Payback ladder: the dollar-zero steps start saving this week, under-fifty-dollar steps pay back within about a month, and big-ticket work takes three to eight years — annual savings rising with each step." wide="true" >}}
 
-Not every improvement fits every home — the table below shows typical ranges based on DOE data and national averages. Use it to compare candidates, not to pick a single winner. Your actual savings depend on local rates, home condition, and the specific problem. One purchase the table deliberately leaves out is backup power, since a generator lowers no bill — if you are weighing one for outages, our [whole-house generator vs. portable cost comparison](/blog/45-whole-house-generator-vs-portable-cost/) breaks down installed cost, fuel, and maintenance on both options.
+Not every improvement fits every home — the table below shows typical ranges based on DOE data and national averages. Use it to compare candidates, not to pick a single winner. Your actual savings depend on local rates, home condition, and the specific problem. One purchase the table deliberately leaves out is backup power, since a generator lowers no bill — if you are weighing one for outages, our [whole-house generator vs. portable cost comparison](/blog/whole-house-generator-vs-portable-cost/) breaks down installed cost, fuel, and maintenance on both options.
 
 | Improvement | Typical cost to implement (installed) | Typical monthly savings (estimate) | Typical payback range | Notes |
 |---|---|---|---|---|
@@ -91,7 +92,7 @@ Not every improvement fits every home — the table below shows typical ranges b
 | Duct sealing (accessible) | $200–$500 (professional) | $10–$20/mo | 1–3 years | Duct losses 20–30% of heating/cooling energy[4] |
 | Water heater temperature setback (120°F) | $0 | $5–$10/mo | Immediate | 3–5% savings per 10°F reduction |
 | Water heater insulation wrap (electric) | $20–$40 | $3–$7/mo | <1 year | Cuts water-heating energy 4–9% (DOE/Energy Star); higher figures apply only to pre-1980s uninsulated tanks |
-| Low-flow showerheads (WaterSense) | $15–$40 each | $5–$15/mo (water + heating) | 3–6 months | EPA: saves ~2,700 gallons + 330 kWh/yr[5] — deeper dive: [water-bill savings](/blog/44-how-to-lower-water-bill/) |
+| Low-flow showerheads (WaterSense) | $15–$40 each | $5–$15/mo (water + heating) | 3–6 months | EPA: saves ~2,700 gallons + 330 kWh/yr[5] — deeper dive: [water-bill savings](/blog/how-to-lower-water-bill/) |
 | Whole-home energy monitor | $40–$200 | $5–$15/mo (behavior-driven) | 1–2 years | Enables data-driven reduction; savings vary by household |
 | ENERGY STAR appliance replacement | $400–$1,500+ | $10–$30/mo | 3–8 years | Best timed at end-of-life, not before |
 

@@ -133,8 +133,8 @@ No. Utilities use different windows, different rate structures, and different me
 
 - [How Sewer Charges Work on Your Water Bill](/blog/how-sewer-charges-work-on-your-water-bill/) — the charge itself, line by line
 - [Why Is My Water Bill Higher in Winter?](/blog/why-is-my-water-bill-higher-in-winter/) — the winter averaging season's bookends
-- [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/) — usage moves the average too
-- [Water Bill Too High?](/blog/06-water-bill-too-high/) — the full diagnostic
+- [How to Lower Your Water Bill](/blog/how-to-lower-water-bill/) — usage moves the average too
+- [Water Bill Too High?](/blog/water-bill-too-high/) — the full diagnostic
 
 ## Sources
 

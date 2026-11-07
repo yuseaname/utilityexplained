@@ -59,7 +59,7 @@ Water and sewer are set by your city or water district, not the state — two ne
 
 1. **Find the unit on your bill** — most water bills measure in CCF (hundred cubic feet). [What CCF means on a water bill](/blog/what-is-ccf-on-a-water-bill/) decodes it in two minutes.
 2. **Benchmark usage** — a typical household runs about 2–4 CCF per person per month; well above that, a leak is the usual suspect ([the 10-minute check](/blog/who-responsible-water-leak-before-after-meter/)).
-3. **Check fixed charges** — many water systems have raised base charges faster than usage rates; your bill can climb even with flat usage. [Why your water bill is high](/blog/06-water-bill-too-high/) walks the whole statement.
+3. **Check fixed charges** — many water systems have raised base charges faster than usage rates; your bill can climb even with flat usage. [Why your water bill is high](/blog/water-bill-too-high/) walks the whole statement.
 
 ## If your bill runs above these numbers {#if-your-bill-runs-above-these-numbers}
 
@@ -81,13 +81,13 @@ At the EIA-standardized 899 kWh month, Pennsylvania's 21.77¢/kWh residential ra
 
 {{< faq "What is the average gas bill in Pennsylvania?">}}
 
-Pennsylvania residential gas averaged $15.04 per thousand cubic feet in 2025 (EIA) — roughly $1.45 per therm. A standardized 75-therm heating month runs about $109, but gas bills are seasonal: low-use summer months often run $25–$40, while winter peaks far higher. [Why gas bills spike in winter](/blog/07-gas-bill-too-high/) explains the swing.
+Pennsylvania residential gas averaged $15.04 per thousand cubic feet in 2025 (EIA) — roughly $1.45 per therm. A standardized 75-therm heating month runs about $109, but gas bills are seasonal: low-use summer months often run $25–$40, while winter peaks far higher. [Why gas bills spike in winter](/blog/gas-bill-too-high/) explains the swing.
 
 {{< /faq >}}
 
 {{< faq "Is there an average water bill for Pennsylvania?">}}
 
-No reliable one — water and sewer rates in Pennsylvania are set city-by-city or by water district, so a single state number would be fiction. Compare your bill's CCF usage against the 2–4 CCF per person per month benchmark, and read [why your water bill is high](/blog/06-water-bill-too-high/) if you're above it.
+No reliable one — water and sewer rates in Pennsylvania are set city-by-city or by water district, so a single state number would be fiction. Compare your bill's CCF usage against the 2–4 CCF per person per month benchmark, and read [why your water bill is high](/blog/water-bill-too-high/) if you're above it.
 
 {{< /faq >}}
 

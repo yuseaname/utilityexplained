@@ -20,7 +20,7 @@ hero_below_answer: true
 
 **Therms measure the heat energy you actually used; CCF and MCF measure the volume of gas that passed your meter.** To compare rates fairly, you must convert volume into therms — gas density varies by region and temperature, so the two are not the same number. On average, 1 CCF holds about 1.037 therms.
 
-<p><strong>Next step:</strong> Now that you know what the units mean, <a href="/blog/12-how-to-read-your-gas-bill/">read your gas bill line by line</a> to find which unit your utility uses, or jump to the <a href="#conversion-table">conversion table</a> to turn your usage into therms.</p>
+<p><strong>Next step:</strong> Now that you know what the units mean, <a href="/blog/how-to-read-your-gas-bill/">read your gas bill line by line</a> to find which unit your utility uses, or jump to the <a href="#conversion-table">conversion table</a> to turn your usage into therms.</p>
 
 
 ## The Three Main Units Defined {#the-three-main-units-defined}
@@ -42,7 +42,7 @@ hero_below_answer: true
 ## The Critical Difference: Volume vs. Energy {#the-critical-difference-volume-vs-energy}
 
 <p>The most important distinction here is the difference between volume and energy. Natural gas is a compressible fluid. Its density changes based on temperature and pressure. A cubic foot of gas in July does not contain the same amount of energy as a cubic foot of gas in January.</p>
-<p>If a utility bills you strictly by volume (CCF or MCF) without adjusting for energy content, you might be overcharged or undercharged depending on the season. However, most modern utilities use a "BTU Adjustment Factor" on volume-based bills to convert the volume into an energy equivalent before charging you. If that line item appears on your statement and looks like alphabet soup, our guide to the <a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">fuel and BTU adjustment charge</a> breaks down exactly what that line item covers.</p>
+<p>If a utility bills you strictly by volume (CCF or MCF) without adjusting for energy content, you might be overcharged or undercharged depending on the season. However, most modern utilities use a "BTU Adjustment Factor" on volume-based bills to convert the volume into an energy equivalent before charging you. If that line item appears on your statement and looks like alphabet soup, our guide to the <a href="/blog/fuel-adjustment-charge-on-utility-bill-explained/">fuel and BTU adjustment charge</a> breaks down exactly what that line item covers.</p>
 <p>This is why therms are often considered the most accurate billing unit. When you see a rate in dollars per therm, you know exactly how much heat energy you are paying for. When you see a rate in dollars per CCF, you have to trust that the utility has adjusted for the gas quality.</p>
 <p>For homeowners trying to compare rates between different providers, this distinction is vital. A rate of $1.00 per therm is not directly comparable to a rate of $1.00 per CCF. Without conversion, you cannot determine which plan is actually cheaper.</p>
 
@@ -94,7 +94,7 @@ hero_below_answer: true
 
 <p>When reviewing your bill, it is easy to get distracted by the total dollar amount. The real insight comes from calculating the cost per unit. This metric helps you track inflation in energy prices and the efficiency of your home.</p>
 <p>Your bill usually shows a "Commodity Charge" and a "Delivery Charge." The Commodity Charge is the cost of the gas itself; the Delivery Charge is the cost to transport it to your home. When you want to know whether your rate is reasonable, focus on the Commodity Charge — delivery rates are often fixed or tiered and do not change with the unit of measurement the way supply rates do.</p>
-<p>Many utility bills also include fixed monthly customer charges. These are the kind of <a href="/blog/04-hidden-fees-utility-bill/">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
+<p>Many utility bills also include fixed monthly customer charges. These are the kind of <a href="/blog/hidden-fees-utility-bill/">hidden fees on utility bill</a> line items that can skew your perception of usage costs. If you pay a $15 monthly fee regardless of usage, your effective cost per therm goes up in summer when you use less gas.</p>
 <p>To get an accurate picture of your fuel cost, subtract fixed customer charges (and taxes or surcharges, if itemized) from your total, then divide the remaining supply cost by your usage in therms — the three bills below work this end to end. If your resulting rate fluctuates wildly month-to-month, your utility likely uses a variable rate plan; if it stays stable, you are on a fixed-rate plan or the utility absorbs the volatility.</p>
 
 
@@ -117,7 +117,7 @@ hero_below_answer: true
 
 <p>Understanding these units helps you budget accurately for the year. Gas bills are seasonal. You will use significantly more gas in winter than in summer.</p>
 <p>If you track your usage in volume (CCF) during winter, the numbers will be high. If you track in volume during summer, they will be low. However, if you track in therms, you are tracking heat output. If your therm usage is high in summer, it might indicate a leak or a water heater issue, not just heating.</p>
-<p>Comparing your usage to <a href="/blog/average-utility-bills-by-state-2026/">average gas bills by state</a> can also flag a home that is using more energy than it should for its size — and once you have compared your own rate, it is worth understanding the usual suspects behind a number that is still too high. Our guide on <a href="/blog/07-gas-bill-too-high/">why your gas bill is so high</a> ranks the ten most common causes.</p>
+<p>Comparing your usage to <a href="/blog/average-utility-bills-by-state-2026/">average gas bills by state</a> can also flag a home that is using more energy than it should for its size — and once you have compared your own rate, it is worth understanding the usual suspects behind a number that is still too high. Our guide on <a href="/blog/gas-bill-too-high/">why your gas bill is so high</a> ranks the ten most common causes.</p>
 <p>This data is crucial for long-term planning. If you are considering switching to electric heating or installing solar, you need to know your baseline energy consumption in a standard unit. Therms are often the bridge between gas and electricity comparisons (kWh vs Therms).</p>
 
 
@@ -128,15 +128,15 @@ hero_below_answer: true
 <ul><li><strong>Lower the Thermostat:</strong> Dropping your thermostat by 2 degrees can save 1-3% on your bill. Over a winter, this reduces your therm usage significantly.</li><li><strong>Use Timers:</strong> Ensure your heating system isn't running when you are at work.</li><li><strong>Seal Leaks:</strong> Drafty windows waste heat. If you are burning more gas to maintain temperature, your therm usage rises even if the gas quality stays the same.</li></ul>
 <h3>Equipment Upgrades</h3>
 <ul><li><strong>High-Efficiency Furnace:</strong> Older furnaces may lose 30% of energy in the vent. A new furnace converts more of the gas volume into usable heat, meaning you use fewer therms for the same comfort.</li><li><strong>Tankless Water Heater:</strong> Gas water heaters are a major consumer of therms. Tankless models heat water on demand, reducing standby losses.</li></ul>
-<p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/05-how-to-lower-utility-bills/">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
+<p>For more detailed strategies on reducing consumption, check out our guide on <a href="/blog/how-to-lower-utility-bills/">how to lower utility bills</a>. These tips apply to gas and electric, and understanding your units helps you track the results.</p>
 
 
 ## Related Reading {#related-reading}
 
 <ul>
-<li><a href="/blog/12-how-to-read-your-gas-bill/">How to read your gas bill, line by line</a> — locate your usage, rate, and adjustment lines on your own statement.</li>
-<li><a href="/blog/18-fuel-adjustment-charge-on-utility-bill-explained/">What the fuel/BTU adjustment charge covers</a> — the line item that reconciles metered volume with billed energy.</li>
-<li><a href="/blog/07-gas-bill-too-high/">Why your gas bill is so high — 10 causes ranked</a> — the next step once your per-therm rate or usage looks abnormal.</li>
+<li><a href="/blog/how-to-read-your-gas-bill/">How to read your gas bill, line by line</a> — locate your usage, rate, and adjustment lines on your own statement.</li>
+<li><a href="/blog/fuel-adjustment-charge-on-utility-bill-explained/">What the fuel/BTU adjustment charge covers</a> — the line item that reconciles metered volume with billed energy.</li>
+<li><a href="/blog/gas-bill-too-high/">Why your gas bill is so high — 10 causes ranked</a> — the next step once your per-therm rate or usage looks abnormal.</li>
 <li><a href="/blog/average-utility-bills-by-state-2026/">Average utility bills by state (2026)</a> — benchmark your converted rate against regional averages.</li>
 <li><a href="/blog/how-to-read-gas-meter/">How to read your gas meter</a> — where the usage number on your bill comes from.</li>
 </ul>

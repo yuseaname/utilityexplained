@@ -284,7 +284,7 @@ When your AC is running but not cooling, the problem is usually
             </ul>
             <p>
               If your summer bills also jump, see
-              <a href="/blog/03-why-is-my-electric-bill-so-high/">
+              <a href="/blog/why-is-my-electric-bill-so-high/">
                 why electricity bills rise in summer
               </a>
               to separate usage from rate changes.

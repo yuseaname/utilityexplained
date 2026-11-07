@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Utility Service-Start Charge"
-slug: "27-utility-connection-fee-explained"
+slug: "utility-connection-fee-explained"
 description: "Confirm utility service-start, deposit, visit, and new-construction charges from the serving provider's written terms before opening an account."
 date: 2026-05-28
 updated: 2026-08-30
@@ -12,19 +12,20 @@ keywords: ["utility connection fee", "utility service start charge", "new utilit
 image: "/images/articles/27-utility-connection-fee-explained/27-utility-connection-fee-explained_hero_v2.webp"
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
+aliases: ["/blog/27-utility-connection-fee-explained/"]
 ---
 
 ## Quick Answer
 
-**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms. If service was interrupted for non-payment rather than newly opened, the charge you are facing is a [reconnection fee](/blog/28-utility-reconnection-fee-explained/); if you were asked for a refundable deposit, see [how utility deposits work](/blog/26-utility-deposit-explained/); for the recurring fixed charge that appears after service starts, see the [water service charge](/blog/water-service-charge-explained/) explained.
+**A charge to start, transfer, reconnect, or install utility service is defined by the serving provider and the property’s service conditions.** Do not rely on a national price range, assume the charge is refundable, or treat a deposit and a service-start charge as the same item without reading the provider's terms. If service was interrupted for non-payment rather than newly opened, the charge you are facing is a [reconnection fee](/blog/utility-reconnection-fee-explained/); if you were asked for a refundable deposit, see [how utility deposits work](/blog/utility-deposit-explained/); for the recurring fixed charge that appears after service starts, see the [water service charge](/blog/water-service-charge-explained/) explained.
 
-**Which fee situation are you in?** New service at a new address — keep reading for the service-start and deposit items. Reconnecting after a non-payment shutoff — start with the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/). Deposit only — see [how utility deposits work](/blog/26-utility-deposit-explained/).
+**Which fee situation are you in?** New service at a new address — keep reading for the service-start and deposit items. Reconnecting after a non-payment shutoff — start with the [reconnection fee guide](/blog/utility-reconnection-fee-explained/). Deposit only — see [how utility deposits work](/blog/utility-deposit-explained/).
 
 {{< visual src="/images/articles/27-utility-connection-fee-explained/fee-situation-router.webp" alt="Three-branch fee router separating new service, reconnection after non-payment shutoff, and a refundable deposit-only situation." wide="true" >}}
 
 Before opening an account, ask for the written schedule of charges and confirm which items apply to the address.
 
-The three branches in the figure above are different charge types, not one fee at three prices. A **same-provider move** is usually a stop-and-start or transfer on an existing account — whether it triggers a fresh charge depends on the provider's terms.[5] **New service** opens a brand-new account, where an establishment fee and a [refundable deposit](/blog/26-utility-deposit-explained/) can both land on the first statement. **Reconnection** after a non-payment shutoff is a separate fee — see the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/) before paying anything.
+The three branches in the figure above are different charge types, not one fee at three prices. A **same-provider move** is usually a stop-and-start or transfer on an existing account — whether it triggers a fresh charge depends on the provider's terms.[5] **New service** opens a brand-new account, where an establishment fee and a [refundable deposit](/blog/utility-deposit-explained/) can both land on the first statement. **Reconnection** after a non-payment shutoff is a separate fee — see the [reconnection fee guide](/blog/utility-reconnection-fee-explained/) before paying anything.
 
 ## Get the Details in Writing
 
@@ -67,7 +68,7 @@ The three charge situations are different items with different triggers and diff
 | Fee type | Typical range | When charged | How to reduce |
 |---|---|---|---|
 | New connection (service start) | Varies by utility — set by tariff; point examples on this page are not a national range | Before or on the first statement when a new account opens | Get the written schedule of charges before opening the account; compare providers where your area allows a choice |
-| Reconnection (after non-payment shutoff) | Varies by utility — see the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/) for published ranges | After the past-due balance (and any required deposit) is settled, before service is restored | Avoid disconnection: a payment arrangement, LIHEAP, or medical/life-support protection before the shutoff date |
+| Reconnection (after non-payment shutoff) | Varies by utility — see the [reconnection fee guide](/blog/utility-reconnection-fee-explained/) for published ranges | After the past-due balance (and any required deposit) is settled, before service is restored | Avoid disconnection: a payment arrangement, LIHEAP, or medical/life-support protection before the shutoff date |
 | Transfer (same-provider move) | Depends on provider terms — may be a stop-and-start or a fresh charge | At the move or service-change date | Ask whether a transfer is available instead of a full stop-and-start; confirm the charge in writing |
 
 ## Before Move-In
@@ -90,12 +91,12 @@ The written schedule is the standard: get it in writing **before** the appointme
 
 ## Related Reading
 
-- [Utility reconnection fee: what it costs after a shutoff](/blog/28-utility-reconnection-fee-explained/)
-- [How utility deposits work: when you need one and how to get it back](/blog/26-utility-deposit-explained/)
+- [Utility reconnection fee: what it costs after a shutoff](/blog/utility-reconnection-fee-explained/)
+- [How utility deposits work: when you need one and how to get it back](/blog/utility-deposit-explained/)
 - [Water service charge: what that fixed monthly line is for](/blog/water-service-charge-explained/)
 - [How to budget for utilities in your first apartment](/blog/how-to-budget-for-utilities-in-your-first-apartment/)
 - [Moving utilities checklist: start, transfer, and stop service](/blog/moving-utilities-checklist/)
-- [What to do if you can't pay the connection fee on time](/blog/21-past-due-balance-utility-bill-explained/)
+- [What to do if you can't pay the connection fee on time](/blog/past-due-balance-utility-bill-explained/)
 
 ## FAQ
 
@@ -132,9 +133,9 @@ Contact the utility before the due date about payment arrangements and assistanc
 ## Next steps
 
 - Opening an account? Ask for the written schedule of charges and confirm which items apply to the address.
-- Reconnecting after a shutoff? Start with the [reconnection fee guide](/blog/28-utility-reconnection-fee-explained/).
+- Reconnecting after a shutoff? Start with the [reconnection fee guide](/blog/utility-reconnection-fee-explained/).
 - Moving soon? Use the [moving utilities checklist](/blog/moving-utilities-checklist/) to keep service, deposits, and dates straight.
-- Can't pay on time? Contact the utility before the due date, and see [what to do if you can't pay](/blog/21-past-due-balance-utility-bill-explained/) before the balance escalates.
+- Can't pay on time? Contact the utility before the due date, and see [what to do if you can't pay](/blog/past-due-balance-utility-bill-explained/) before the balance escalates.
 
 {{< faq-schema >}}
 

@@ -98,7 +98,7 @@ If the math doesn't add up, follow these steps:
 ## Frequently Asked Questions
 
 {{< faq "Why is my sewer bill higher than my water bill in an apartment?" >}}
-In apartments, sewer costs are often higher because the building's total bill is split among tenants. If the building has a common laundry room or a leak in a vacant unit, those costs are distributed. Additionally, many apartments do not have separate irrigation meters, so you pay sewer rates on the water used for the complex's landscaping. See our guide on [apartment utilities cost](/blog/09-apartment-utilities-cost/) for more.
+In apartments, sewer costs are often higher because the building's total bill is split among tenants. If the building has a common laundry room or a leak in a vacant unit, those costs are distributed. Additionally, many apartments do not have separate irrigation meters, so you pay sewer rates on the water used for the complex's landscaping. See our guide on [apartment utilities cost](/blog/apartment-utilities-cost/) for more.
 {{< /faq >}}
 
 {{< faq "Can I get a separate meter for my garden to lower my sewer bill?" >}}
@@ -106,7 +106,7 @@ Yes, many municipalities allow the installation of a "deduct meter" or "irrigati
 {{< /faq >}}
 
 {{< faq "Does a running toilet affect the sewer bill?" >}}
-Absolutely. A running toilet is the most common cause of a [water bill being too high](/blog/06-water-bill-too-high/). Because most cities bill sewer based on water consumption, every gallon that leaks through your toilet and into the drain is billed at the premium sewer rate.
+Absolutely. A running toilet is the most common cause of a [water bill being too high](/blog/water-bill-too-high/). Because most cities bill sewer based on water consumption, every gallon that leaks through your toilet and into the drain is billed at the premium sewer rate.
 {{< /faq >}}
 
 {{< faq-schema >}}

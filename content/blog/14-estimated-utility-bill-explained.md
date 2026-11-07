@@ -1,6 +1,6 @@
 ---
 title: "Estimated Utility Bill? How to Check It's Right"
-slug: "14-estimated-utility-bill-explained"
+slug: "estimated-utility-bill-explained"
 description: "Why do utilities estimate bills? How to spot an estimated read on your statement and force an actual meter read — the ConEd and Texas rules."
 date: 2026-05-28
 updated: 2026-08-30
@@ -16,6 +16,7 @@ sources:
   - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (Con Edison, How to Read Your Electricity Meter, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/complaints/rights/ (Public Utility Commission of Texas, Know Your Rights, retrieved 2026-08-29)
+aliases: ["/blog/14-estimated-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -40,7 +41,7 @@ Utilities publish trigger lists:
 
 The method: Pend Oreille PUD uses "historical usage from the same time period in the previous year" [5]; NJ's Rate Counsel says gas estimates run "based on the weather and past usage" [9]. That's your same-season history, sometimes weather-adjusted — it misses when habits change.
 
-The true-up should be automatic. Pend Oreille PUD: "Once we receive a valid reading, we will 'true-up' your account" — a credit if the estimate ran high, the shortfall billed next cycle if low [5]. *Illustration with round numbers:* last August was **600 kWh**; you used **500 kWh** this August, but the estimated bill charges 600. The next actual read comes in **100 kWh** lighter, so the following bill shrinks by 100 — both bills together charge exactly what you used. The estimate changes the timing, not the total; a catch-up read can even masquerade as a [usage spike with no behavior change](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+The true-up should be automatic. Pend Oreille PUD: "Once we receive a valid reading, we will 'true-up' your account" — a credit if the estimate ran high, the shortfall billed next cycle if low [5]. *Illustration with round numbers:* last August was **600 kWh**; you used **500 kWh** this August, but the estimated bill charges 600. The next actual read comes in **100 kWh** lighter, so the following bill shrinks by 100 — both bills together charge exactly what you used. The estimate changes the timing, not the total; a catch-up read can even masquerade as a [usage spike with no behavior change](/blog/sudden-spike-in-electricity-bill-no-usage/).
 
 ## Actual vs. Estimated: A Side-by-Side Example
 
@@ -62,7 +63,7 @@ Smart meters shrink the problem without erasing it. Duke Energy: its meters "are
 
 Work down the bill:
 
-1. **Find the reading-type notation.** Bills mark the current reading as actual, estimated (sometimes "E" or "EST"), or customer-read — see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for where these codes sit. If the notation is missing, ask the utility what it was for this period.
+1. **Find the reading-type notation.** Bills mark the current reading as actual, estimated (sometimes "E" or "EST"), or customer-read — see [how to read your electric bill](/blog/how-to-read-your-electric-bill/) for where these codes sit. If the notation is missing, ask the utility what it was for this period.
 2. **Check the billing period and days.** Con Edison points customers to the bill's period length — "more days in the billing period" is one of its listed reasons a bill jumps [1].
 3. **Compare usage across months.** Con Edison's bar chart on the paper bill shows the past 13 months of usage [1]; an estimated bar that breaks the pattern deserves a question.
 
@@ -77,9 +78,9 @@ Texas protects this request: a REP may not disconnect service for non-payment of
 
 ## If the Estimate Is Wrong
 
-Open a review with the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/), armed with your meter photo and read. Keep the case number and the representative's explanation in writing. Timing helps: Texas bars estimates for "more than three consecutive billing cycles" [3] — a fourth in a row is worth citing. If the corrected amount lands while you're also carrying a [past-due balance](/blog/21-past-due-balance-utility-bill-explained/), dispute the estimate and set up a payment agreement on the undisputed part in the same conversation.
+Open a review with the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/), armed with your meter photo and read. Keep the case number and the representative's explanation in writing. Timing helps: Texas bars estimates for "more than three consecutive billing cycles" [3] — a fourth in a row is worth citing. If the corrected amount lands while you're also carrying a [past-due balance](/blog/past-due-balance-utility-bill-explained/), dispute the estimate and set up a payment agreement on the undisputed part in the same conversation.
 
-Estimates compound other bill puzzles: an estimated read followed by a catch-up actual read can look like a [fuel or supply spike](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/), and [budget billing](/blog/16-budget-billing-level-pay-explained/) smooths the true-up over months instead of one bill. If a review ends with a service threat, [the shutoff lifecycle guide](/blog/can-utility-shut-off-service/) covers your notice protections, and [deposit demands](/blog/26-utility-deposit-explained/) can follow billing disputes on new accounts.
+Estimates compound other bill puzzles: an estimated read followed by a catch-up actual read can look like a [fuel or supply spike](/blog/fuel-adjustment-charge-on-utility-bill-explained/), and [budget billing](/blog/budget-billing-level-pay-explained/) smooths the true-up over months instead of one bill. If a review ends with a service threat, [the shutoff lifecycle guide](/blog/can-utility-shut-off-service/) covers your notice protections, and [deposit demands](/blog/utility-deposit-explained/) can follow billing disputes on new accounts.
 
 {{< faq "Why did my utility send an estimated bill?" >}}
 

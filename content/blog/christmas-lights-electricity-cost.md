@@ -26,7 +26,7 @@ sources:
 
 **One 25-bulb incandescent C9 string costs about $8.65 to run for a 45-day season at 6 hours a day; the LED equivalent costs about ten cents.** That's the entire LED argument in one line: not "better for the planet" abstractions — an ~85× difference in the electric bill for the same lights. A ten-string roofline display costs roughly **$1 per season on LED versus $87 on incandescent.** The catches: LED strings cost more upfront (they repay that in one to two seasons at display scale), the savings only materialize on the hours a timer actually controls, and — the part most people skip — a schedule that turns the display off at midnight saves more than any bulb choice does.
 
-The math below uses the July 2026 national average of 18.3¢/kWh. If you're in a high-rate state the gap widens proportionally; your actual per-kWh rate is on your bill's electric charges page ([how to read it](/blog/01-how-to-read-your-electric-bill/)).
+The math below uses the July 2026 national average of 18.3¢/kWh. If you're in a high-rate state the gap widens proportionally; your actual per-kWh rate is on your bill's electric charges page ([how to read it](/blog/how-to-read-your-electric-bill/)).
 
 {{< affiliate-disclosure >}}
 
@@ -58,7 +58,7 @@ The arithmetic is deliberately boring so you can reproduce it with your own disp
 - **Roofline (10 strings):** **$86.53 incandescent vs $0.99 LED**
 - **Full display (30 strings — roofline, bushes, trees):** **$259.57 incandescent vs $2.97 LED**
 
-That last row is why the incandescent-to-LED switch shows up on December electric bills as a visible spike — a big display on old bulbs is quietly one of the largest plug-in loads in the house, right behind the [space heater](/blog/space-heater-running-cost/). If your bill jumps every December and you've never known why, this is usually the whole story; the broader spike diagnosis is in [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/), and the season-wide picture — what every fuel is forecast to cost this winter, by region — is the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
+That last row is why the incandescent-to-LED switch shows up on December electric bills as a visible spike — a big display on old bulbs is quietly one of the largest plug-in loads in the house, right behind the [space heater](/blog/space-heater-running-cost/). If your bill jumps every December and you've never known why, this is usually the whole story; the broader spike diagnosis is in [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/), and the season-wide picture — what every fuel is forecast to cost this winter, by region — is the [2026-27 winter heating bill forecast](/blog/winter-heating-bill-forecast-2026-2027/).
 
 ## What Your Display Actually Costs (Three Profiles)
 
@@ -116,7 +116,7 @@ Yard inflatables are the sleeper line item in holiday electric bills. Each one r
 - 450W × 6h × 45 days = 121.5 kWh
 - At 18.3¢/kWh: **~$22 for the season** — more than a 10-string LED roofline, and roughly matching the entire incandescent roofline it's standing next to
 
-A big display (twelve inflatables, larger motors) can reach $50-75 for the season in blower motors alone. Unlike bulbs, there's no LED-style upgrade path — the motor is the product. The mitigations are honest and limited: put inflatables on the same timer as the lights (a blower running from dusk-til-midnight-forgotten is the classic waste), size down the count, and retire ones with tired motors (they draw more as bearings wear). If the December bill mystery persists after auditing lights AND inflatables, the remaining suspects are heating runtime and guests — the full ranked list is in [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+A big display (twelve inflatables, larger motors) can reach $50-75 for the season in blower motors alone. Unlike bulbs, there's no LED-style upgrade path — the motor is the product. The mitigations are honest and limited: put inflatables on the same timer as the lights (a blower running from dusk-til-midnight-forgotten is the classic waste), size down the count, and retire ones with tired motors (they draw more as bearings wear). If the December bill mystery persists after auditing lights AND inflatables, the remaining suspects are heating runtime and guests — the full ranked list is in [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/).
 
 ## Outdoor Power Done Right (Cords, Outlets, Capacity)
 
@@ -155,7 +155,7 @@ Modern ones read as equally bright — early generations (2000s) were famously d
 
 {{< faq-schema >}}
 
-Next: [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/), or the [complete lower-your-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) for everything else with a plug.
+Next: [how to read your electric bill line by line](/blog/how-to-read-your-electric-bill/), or the [complete lower-your-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) for everything else with a plug.
 
 ## Sources
 

@@ -16,27 +16,27 @@ url: "/electricity-explained"
 
 ## Quick Answer: what am I paying for? {#quick-answer}
 
-Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using {{< stat "avg_monthly_kwh" >}} at the June 2026 national average of {{< stat "electric_rate_jun2026" >}} pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
+Your electric bill has three moving parts: **usage** (kWh your meter counted), the **rate** your plan or tariff charges per kWh, and **fixed charges** that don't move with usage. A typical U.S. household using {{< stat "avg_monthly_kwh" >}} at the June 2026 national average of {{< stat "electric_rate_jun2026" >}} pays about **$164.88** for energy alone, before delivery charges, taxes, and fees. Start with [the complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/), or go straight to [delivery vs supply charges](/blog/delivery-charge-vs-supply-charge-utility-bill/) if those two lines are what confuse you.
 
 ## What are you trying to solve? {#router}
 
 <ul>
-<li><strong>My bill jumped and I don't know why</strong> — <a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a> · <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
-<li><strong>I want to read my bill line by line</strong> — <a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a> · <a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown</a></li>
-<li><strong>I want to understand kWh and my usage</strong> — <a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a> · <a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
-<li><strong>I want to understand my rate plan</strong> — <a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a> · <a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a> · <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
-<li><strong>I want to cut what I pay</strong> — <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
+<li><strong>My bill jumped and I don't know why</strong> — <a href="/blog/why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a> · <a href="/blog/sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
+<li><strong>I want to read my bill line by line</strong> — <a href="/blog/how-to-read-your-electric-bill/">How to Read Your Electric Bill</a> · <a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown</a></li>
+<li><strong>I want to understand kWh and my usage</strong> — <a href="/blog/understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a> · <a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
+<li><strong>I want to understand my rate plan</strong> — <a href="/blog/time-of-use-electricity/">Time-of-Use Electricity Rates</a> · <a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a> · <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
+<li><strong>I want to cut what I pay</strong> — <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
 <li><strong>I want to monitor usage in real time</strong> — <a href="/blog/best-home-energy-monitor-2026/">Best Home Energy Monitor 2026</a></li>
 </ul>
 
 ## What is electricity and how does it reach your home?
 <p>
-Electricity flows from generation through transmission and distribution lines to your meter, which records what you use. For how that flow shows up on your statement, see <a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill</a>.
+Electricity flows from generation through transmission and distribution lines to your meter, which records what you use. For how that flow shows up on your statement, see <a href="/blog/how-to-read-your-electric-bill/">How to Read Your Electric Bill</a>.
 </p>
 
 ## How electricity is measured: watts, kilowatts, and kilowatt-hours
 <p>
-Bills charge in kilowatt-hours (kWh) — energy used over time, not the watts an appliance draws at any instant. For the full unit breakdown and the kWh formula, see <a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a>.
+Bills charge in kilowatt-hours (kWh) — energy used over time, not the watts an appliance draws at any instant. For the full unit breakdown and the kWh formula, see <a href="/blog/understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)?</a>.
 </p>
 
 ## Understanding your electric bill
@@ -50,7 +50,7 @@ An electric bill has three parts — the energy (supply) charge, the delivery (d
 
 ## Common rate structures: flat, tiered, and time-of-use
 <p>
-Your price per kWh depends on your tariff: flat (same all the time), tiered (higher as you use more), or time-of-use (higher at peak hours). For how each works and which fits your habits, see <a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a>, <a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a>, and <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
+Your price per kWh depends on your tariff: flat (same all the time), tiered (higher as you use more), or time-of-use (higher at peak hours). For how each works and which fits your habits, see <a href="/blog/time-of-use-electricity/">Time-of-Use Electricity Rates</a>, <a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a>, and <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
 </p>
 
 ## What uses the most electricity in a typical home?
@@ -60,17 +60,17 @@ Heating and cooling usually dominate, followed by water heating and appliances. 
 
 ## Seasonal changes and why electric bills vary
 <p>
-Summer cooling and winter heating drive the biggest swings, and billing-cycle length can move the total too. For the causes of a high or rising bill, see <a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a>.
+Summer cooling and winter heating drive the biggest swings, and billing-cycle length can move the total too. For the causes of a high or rising bill, see <a href="/blog/why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High?</a>.
 </p>
 
 ## How to reduce electricity usage without major investments
 <p>
-Thermostat adjustments, LEDs, power strips, and air sealing all cut usage without big spending. For the full checklist, see <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
+Thermostat adjustments, LEDs, power strips, and air sealing all cut usage without big spending. For the full checklist, see <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
 
 ## Fixed vs. variable rate electricity plans
 <p>
-Fixed rates lock in a price per kWh for a set term; variable rates move with the market. For how to choose, see <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
+Fixed rates lock in a price per kWh for a set term; variable rates move with the market. For how to choose, see <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a>.
 </p>
 
 ## Smart meters and real-time usage data
@@ -127,31 +127,31 @@ Producing your own power is the step beyond efficiency: [solar basics](https://s
 
 ### Understanding Your Bill
 <ul>
-<li><a href="/blog/01-how-to-read-your-electric-bill/">How to Read Your Electric Bill (Line by Line)</a></li>
+<li><a href="/blog/how-to-read-your-electric-bill/">How to Read Your Electric Bill (Line by Line)</a></li>
 <li><a href="/blog/electric-bill-breakdown-understanding-line-items/">Electric Bill Breakdown: Every Charge Explained</a></li>
-<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">Delivery Charge vs Supply Charge</a></li>
 </ul>
 
 ### Why Your Bill Is High
 <ul>
-<li><a href="/blog/03-why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
-<li><a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
+<li><a href="/blog/why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
+<li><a href="/blog/sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
 <li><a href="/blog/why-your-electric-bill-keeps-rising-2026/">Why Your Electric Bill Keeps Rising</a></li>
 <li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>
 </ul>
 
 ### Electricity Rates and Plans
 <ul>
-<li><a href="/blog/08-time-of-use-electricity/">Time-of-Use Electricity Rates</a></li>
-<li><a href="/blog/46-what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
+<li><a href="/blog/time-of-use-electricity/">Time-of-Use Electricity Rates</a></li>
+<li><a href="/blog/what-time-is-electricity-cheapest/">What Time Is Electricity Cheapest?</a></li>
 <li><a href="/blog/tiered-electricity-rates-explained/">Tiered Electricity Rates Explained</a></li>
-<li><a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
-<li><a href="/blog/49-demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
+<li><a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs Variable Utility Rates</a></li>
+<li><a href="/blog/demand-charges-electricity-bill-explained/">Demand Charges Explained</a></li>
 </ul>
 
 ### Meters and Usage
 <ul>
-<li><a href="/blog/11-understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)? Understanding kWh Usage</a></li>
+<li><a href="/blog/understanding-kwh-usage/">What Is a Kilowatt-Hour (kWh)? Understanding kWh Usage</a></li>
 
 <li><a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
 <li><a href="/blog/how-many-watts-does-refrigerator-use/">How Many Watts Does a Refrigerator Use?</a></li>
@@ -168,8 +168,8 @@ Producing your own power is the step beyond efficiency: [solar basics](https://s
 <ul>
 <li><a href="/blog/how-to-lower-electric-bill-without-solar/">Lower Your Electric Bill Without Solar</a></li>
 <li><a href="/blog/how-to-lower-electric-bill-complete-guide/">Complete Guide to Lowering Your Electric Bill</a></li>
-<li><a href="/blog/47-check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
-<li><a href="/blog/50-best-smart-plugs-standby-power/">Best Smart Plugs to Eliminate Standby Power</a></li>
+<li><a href="/blog/check-energy-leaks-home-diy/">How to Check for Energy Leaks at Home</a></li>
+<li><a href="/blog/best-smart-plugs-standby-power/">Best Smart Plugs to Eliminate Standby Power</a></li>
 <li><a href="/blog/phantom-power-draw-explained/">Phantom Power Draw Explained (Silent Electricity Thieves)</a></li>
 </ul>
 

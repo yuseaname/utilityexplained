@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Partial-Period Utility Bill"
-slug: "20-utility-bill-proration-explained"
+slug: "utility-bill-proration-explained"
 description: "How does utility bill proration work? A verified worked example from SMUD's tariff, plus how to check your own statement's dates and the math."
 date: 2026-05-28
 hero_below_answer: true
@@ -19,6 +19,7 @@ sources:
   - https://www.idahopower.com/accounts-service/understand-your-bill/bill-glossary/ (Idaho Power Bill Glossary, Prorated entry, retrieved 2026-08-29)
   - https://www.lbwl.com/FAQs/why-my-bill-being-prorated (Lansing Board of Water & Light FAQ, why bills are prorated, retrieved 2026-08-29)
   - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service (Southern California Edison deposit refund timeline, retrieved 2026-08-29)
+aliases: ["/blog/20-utility-bill-proration-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -51,17 +52,17 @@ Three triggers account for nearly every prorated bill — Lansing Board of Water
 
 | Trigger | What happens | Named example |
 |---|---|---|
-| Mid-cycle start or stop | Service starts or stops inside the [billing cycle](/blog/23-utility-billing-cycle-explained/) — move-ins, move-outs | Idaho Power: a mid-month start bills "only for that portion" [5] |
+| Mid-cycle start or stop | Service starts or stops inside the [billing cycle](/blog/utility-billing-cycle-explained/) — move-ins, move-outs | Idaho Power: a mid-month start bills "only for that portion" [5] |
 | Rate change mid-cycle | A new rate takes effect inside the period | Lansing BWL: usage is "charged with its corresponding rate" from the rate's effective date [6] |
 | Meter-read shift | The read date moves, shortening or lengthening the period | Lansing BWL: "depending on when your meter is read," the bill is prorated to match [6] |
 
 ## Verify the math yourself
 
-Illustration with round numbers (not a real tariff): **$60.00 ÷ 30 days × 18 days = $36.00**. Then reconcile the day count to the calendar — the 10th through the 28th inclusive is **19 days**, so a bill printing 18 carries an off-by-one error worth raising. To locate the day-count field, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
+Illustration with round numbers (not a real tariff): **$60.00 ÷ 30 days × 18 days = $36.00**. Then reconcile the day count to the calendar — the 10th through the 28th inclusive is **19 days**, so a bill printing 18 carries an off-by-one error worth raising. To locate the day-count field, see [how to read your electric bill](/blog/how-to-read-your-electric-bill/).
 
 ## What proration is not
 
-- **Not an estimated read.** Proration resizes the *days*, not the meter data — an "estimated" read flag is an [estimated-bill](/blog/14-estimated-utility-bill-explained/) issue [3].
+- **Not an estimated read.** Proration resizes the *days*, not the meter data — an "estimated" read flag is an [estimated-bill](/blog/estimated-utility-bill-explained/) issue [3].
 - **Not a partial-month discount.** SMUD's $27.00 becoming $18.00 is fewer days at the same rate [1].
 
 ## What to check on your statement
@@ -74,14 +75,14 @@ Con Edison's sample residential bill shows the fields every partial-period revie
 | Day count | Billed days = days served; a 27–34 day period may count as a full month [1][2] |
 | Fixed lines | Compare with the tariff rule — SMUD-style fixed charges prorate under 27 days [1]; per-day charges already scale [4] |
 | Usage lines | Usually billed at full rates for actual kWh/therms — not scaled with the period [1] |
-| Other lines | [Riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/), [taxes and fees](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/), and one-time items each prorate by their own rule |
-| Meter status | Actual vs estimated read — estimates are an [estimated-bill](/blog/14-estimated-utility-bill-explained/) problem [3] |
+| Other lines | [Riders and surcharges](/blog/utility-bill-surcharges-and-riders-explained/), [taxes and fees](/blog/utility-bill-taxes-fees-franchise-charges-explained/), and one-time items each prorate by their own rule |
+| Meter status | Actual vs estimated read — estimates are an [estimated-bill](/blog/estimated-utility-bill-explained/) problem [3] |
 
 ## Move-in, move-out, and closings
 
 Get service start/end dates from the provider in writing and keep them with the statement. Closing or lease documents support your records but do **not** set the utility's billing date — the provider's account record does. If dates or math don't reconcile, ask for the account-specific calculation; see [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/).
 
-Final bills follow a sequence: closing read, account closure, then a bill for the days from the last regular read to the stop date — fixed lines prorated per the tariff [1]. Deposits close the loop: Southern California Edison states "we will mail it to you along with your closing bill within **30 days** of closing your account" [7] — a [utility deposit](/blog/26-utility-deposit-explained/) credit lands on or with the final statement, not before. Guardrail: SCE's 30-day window is its own published practice, not a national standard.
+Final bills follow a sequence: closing read, account closure, then a bill for the days from the last regular read to the stop date — fixed lines prorated per the tariff [1]. Deposits close the loop: Southern California Edison states "we will mail it to you along with your closing bill within **30 days** of closing your account" [7] — a [utility deposit](/blog/utility-deposit-explained/) credit lands on or with the final statement, not before. Guardrail: SCE's 30-day window is its own published practice, not a national standard.
 
 Questions for the provider:
 
@@ -91,7 +92,7 @@ Questions for the provider:
 4. Is the meter read actual or estimated?
 5. What review applies if the dates don't match the account record?
 
-Related: if a short period prorates the fixed [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/), the prorated amount — like SMUD's $18.00 — replaces the full monthly line; a [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) only enters if the tariff states a floor.
+Related: if a short period prorates the fixed [customer charge](/blog/what-is-customer-charge-on-utility-bill/), the prorated amount — like SMUD's $18.00 — replaces the full monthly line; a [minimum bill](/blog/minimum-bill-utility-bill-explained/) only enters if the tariff states a floor.
 
 {{< faq "Do all utilities prorate the same way?" >}}
 

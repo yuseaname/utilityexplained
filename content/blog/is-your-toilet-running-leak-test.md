@@ -103,7 +103,7 @@ A running toilet can waste water without making an obvious sound. The EPA WaterS
 
 ## Next Step: Confirm the Fix on Your Bill {#next-step}
 
-<p>After the repair, compare your next similar billing period with the prior one. If usage does not change, the leak may not be fully fixed or another source of water use may be present. The [complete guide to lowering your water bill](/blog/44-how-to-lower-water-bill/) walks through other checks, including irrigation and fixture use.</p>
+<p>After the repair, compare your next similar billing period with the prior one. If usage does not change, the leak may not be fully fixed or another source of water use may be present. The [complete guide to lowering your water bill](/blog/how-to-lower-water-bill/) walks through other checks, including irrigation and fixture use.</p>
 
 {{< faq "Can a running toilet really cause a high water bill?" >}}
 

@@ -54,7 +54,7 @@ The single most important question to ask each provider is: **"Can I transfer th
 
 **Same provider, same territory = transfer.** If your new address is served by the same electric, gas, or water company, you can usually transfer the account. The service moves with you, your history carries over, and there's typically no new deposit. It's the smoothest path — ask for it first.
 
-**Different provider or different territory = close old + open new.** If you're moving across a service boundary, the old account gets a final bill and the new one starts fresh. That fresh start often means a [deposit](/blog/26-utility-deposit-explained/) — especially if your credit check comes back thin. Budget for it, and ask whether the new provider will waive it if you set up autopay or provide a letter of good standing from your old utility.
+**Different provider or different territory = close old + open new.** If you're moving across a service boundary, the old account gets a final bill and the new one starts fresh. That fresh start often means a [deposit](/blog/utility-deposit-explained/) — especially if your credit check comes back thin. Budget for it, and ask whether the new provider will waive it if you set up autopay or provide a letter of good standing from your old utility.
 
 **Renters have extra rules.** Before you cancel anything, check your lease. Many leases require you to keep electricity or water on through the end of the term, and some landlords bill utilities through the building — in which case you don't cancel anything at all, you just notify the landlord of your move-out date. Never cancel a shared or building-billed service on your own; you could be on the hook for a disruption fee or a lease violation.
 
@@ -64,11 +64,11 @@ Moving is expensive enough without paying for utilities you never used. Three co
 
 **New-service deposits.** When you open a new account, the provider may run a credit check. A strong history usually means no deposit; a thin one means a deposit that can be substantial. Ask three things: (1) can the deposit be waived with autopay or a good-credit letter, (2) can it be paid in installments, and (3) is it refundable after a year of on-time payments. Many utilities will work with you if you ask.
 
-**Connection fees.** The new provider may charge a [connection fee](/blog/27-utility-connection-fee-explained/) to turn the service on — a flat amount separate from any deposit. Ask for it in writing when you schedule, so there's no surprise on the first bill.
+**Connection fees.** The new provider may charge a [connection fee](/blog/utility-connection-fee-explained/) to turn the service on — a flat amount separate from any deposit. Ask for it in writing when you schedule, so there's no surprise on the first bill.
 
 **The old deposit.** If you had a deposit at the old place, it's usually refunded after the final bill is settled — not before. Ask the old provider when the refund will be issued and whether it can be transferred to the new account if it's the same company.
 
-**Why your final bill arrives later.** Your old provider won't bill you on your normal cycle after you move. Instead, they'll issue a final bill based on a final meter reading, and that takes time — often a few weeks. It's not a mistake, and it's not a double charge. It's just the [billing cycle](/blog/20-utility-bill-proration-explained/) catching up to your actual usage. Plan for it to arrive after you've already settled in.
+**Why your final bill arrives later.** Your old provider won't bill you on your normal cycle after you move. Instead, they'll issue a final bill based on a final meter reading, and that takes time — often a few weeks. It's not a mistake, and it's not a double charge. It's just the [billing cycle](/blog/utility-bill-proration-explained/) catching up to your actual usage. Plan for it to arrive after you've already settled in.
 
 ## The Final Bill: Catching Old-Home Charges
 

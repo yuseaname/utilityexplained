@@ -50,11 +50,11 @@ Suppose a tariff prices Tier 1 at $0.28/kWh for the first 400 kWh of a billing p
 
 {{< visual src="/images/articles/tiered-electricity-rates-explained/tier-worked-example-split.webp" alt="Worked tiered-rate bar splitting 550 kWh into 400 kWh at $0.28 and 150 kWh at $0.38 for a $169.00 total." wide="true" >}}
 
-A reader using 550 kWh pays $169 in usage charges — not 550 × $0.38 = $209. Crossing the threshold raises the price only on the units beyond it. When you check your own bill, reproduce exactly this table from your tariff's thresholds and rates, then compare it against the statement line by line. The same pattern drives [why an electric bill climbs without a rate change](/blog/03-why-is-my-electric-bill-so-high/), and it is separate from [when you use power under time-of-use pricing](/blog/08-time-of-use-electricity/). For how tiers sit among all the other line items, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
+A reader using 550 kWh pays $169 in usage charges — not 550 × $0.38 = $209. Crossing the threshold raises the price only on the units beyond it. When you check your own bill, reproduce exactly this table from your tariff's thresholds and rates, then compare it against the statement line by line. The same pattern drives [why an electric bill climbs without a rate change](/blog/why-is-my-electric-bill-so-high/), and it is separate from [when you use power under time-of-use pricing](/blog/time-of-use-electricity/). For how tiers sit among all the other line items, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 ## Check the Statement Line by Line
 
-Compare each tier or block line with the tariff — if the block lines themselves are hard to find on the statement, [reading your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) walks the statement top to bottom first. Confirm the quantity assigned to the block, the rate, and the displayed amount. If the calculation does not reconcile, ask the provider for the account-specific billing calculation rather than inferring an error from the total due.
+Compare each tier or block line with the tariff — if the block lines themselves are hard to find on the statement, [reading your electric bill line by line](/blog/how-to-read-your-electric-bill/) walks the statement top to bottom first. Confirm the quantity assigned to the block, the rate, and the displayed amount. If the calculation does not reconcile, ask the provider for the account-specific billing calculation rather than inferring an error from the total due.
 
 {{< visual src="/images/articles/tiered-electricity-rates-explained/tier-line-anatomy.webp" alt="Statement worksheet with Tier 1 and Tier 2 kWh, rate, and amount blanks, highlighting the Tier 2 quantity to verify." >}}
 
@@ -62,7 +62,7 @@ When comparing months, first account for a changed billing period, rate version,
 
 ## Keep Tiered and Time-Based Pricing Separate
 
-Block pricing concerns the amount of electricity consumed. Time-variable pricing concerns when electricity is consumed under the schedule specified by a rate plan, as covered on the time-of-use page above. And there is a third structure that sounds similar but bills on power drawn rather than energy used: see [demand charges on electricity bills: how they differ from tiered rates](/blog/49-demand-charges-electricity-bill-explained/). A bill may use one, neither, or both. Review the actual tariff before changing appliance use or enrolling in another plan.
+Block pricing concerns the amount of electricity consumed. Time-variable pricing concerns when electricity is consumed under the schedule specified by a rate plan, as covered on the time-of-use page above. And there is a third structure that sounds similar but bills on power drawn rather than energy used: see [demand charges on electricity bills: how they differ from tiered rates](/blog/demand-charges-electricity-bill-explained/). A bill may use one, neither, or both. Review the actual tariff before changing appliance use or enrolling in another plan.
 
 ## Questions for the Provider
 
@@ -78,12 +78,12 @@ The habit to take away from this page is small and repeatable: reproduce the tie
 
 ## Related Reading
 
-- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/03-why-is-my-electric-bill-so-high/) — the tiered-rate mechanism in the context of a rising bill.
-- [Time-of-Use Electricity: How TOU Differs From Tiered Pricing](/blog/08-time-of-use-electricity/) — the when-you-use-it counterpart to how-much.
+- [Why Is My Electric Bill So High? The Full Diagnosis Checklist](/blog/why-is-my-electric-bill-so-high/) — the tiered-rate mechanism in the context of a rising bill.
+- [Time-of-Use Electricity: How TOU Differs From Tiered Pricing](/blog/time-of-use-electricity/) — the when-you-use-it counterpart to how-much.
 - [Electric Bill Breakdown: Every Charge Explained](/blog/electric-bill-breakdown-understanding-line-items/) — where tiers sit among delivery, supply, and fixed charges.
-- [Demand Charges on Electricity Bills: How They Differ From Tiered Rates](/blog/49-demand-charges-electricity-bill-explained/) — the third rate structure, and how it differs.
+- [Demand Charges on Electricity Bills: How They Differ From Tiered Rates](/blog/demand-charges-electricity-bill-explained/) — the third rate structure, and how it differs.
 - [Which Rate Plan Is Right for You? Flat, Tiered, or TOU](/blog/which-rate-plan-is-right-for-me/) — the plan-choice guide for after the tariff review.
-- [How to Read Your Electric Bill Line by Line](/blog/01-how-to-read-your-electric-bill/) — the statement-reading prerequisite to all of this.
+- [How to Read Your Electric Bill Line by Line](/blog/how-to-read-your-electric-bill/) — the statement-reading prerequisite to all of this.
 
 {{< faq "Why did my bill go up when my usage stayed the same?" >}}
 

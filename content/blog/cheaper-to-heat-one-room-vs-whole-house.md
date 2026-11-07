@@ -37,7 +37,7 @@ Every space heater sold in the United States tops out at 1,500 watts — it's a 
 - 1.5 kWh × $0.183/kWh = **$0.27 per hour**
 - "Twenty-seven cents an hour? That's nothing."
 
-Eight hours a evening, thirty days: 360 kWh, **$65.92 a month.** For one room. That's the number that shows up on the bill in February as a mystery [winter electric spike](/blog/03-why-is-my-electric-bill-so-high/), and it's why the [space heater running cost breakdown](/blog/space-heater-running-cost/) deserves its own article. The per-hour framing is technically true and practically misleading — the same way "just $4 a day" is a $120-a-month habit.
+Eight hours a evening, thirty days: 360 kWh, **$65.92 a month.** For one room. That's the number that shows up on the bill in February as a mystery [winter electric spike](/blog/why-is-my-electric-bill-so-high/), and it's why the [space heater running cost breakdown](/blog/space-heater-running-cost/) deserves its own article. The per-hour framing is technically true and practically misleading — the same way "just $4 a day" is a $120-a-month habit.
 
 ## The Per-BTU Truth: What a Dollar of Heat Costs
 
@@ -91,7 +91,7 @@ The pattern generalizes: **on gas heat, the thermostat alone beats the heater-pl
 
 ## If You're Buying a Heater Anyway
 
-Some rooms genuinely need supplemental heat — the office above the garage, the three-season porch — and the [honest buying criteria](/blog/42-best-energy-efficient-space-heater/) are safety features, not efficiency slogans: tip-over switch, overheat shutoff, thermostat control, and a listed (UL/ETL) product. Every 1,500W heater converts watts to heat at exactly the same 100% — "efficient" in marketing means the safety electronics and the thermostat behave, nothing more. The ceramic-vs-infrared-vs-oil-filled differences change how the heat FEELS, not what it costs — that physics breakdown is in the [best energy efficient space heater guide](/blog/42-best-energy-efficient-space-heater/).
+Some rooms genuinely need supplemental heat — the office above the garage, the three-season porch — and the [honest buying criteria](/blog/best-energy-efficient-space-heater/) are safety features, not efficiency slogans: tip-over switch, overheat shutoff, thermostat control, and a listed (UL/ETL) product. Every 1,500W heater converts watts to heat at exactly the same 100% — "efficient" in marketing means the safety electronics and the thermostat behave, nothing more. The ceramic-vs-infrared-vs-oil-filled differences change how the heat FEELS, not what it costs — that physics breakdown is in the [best energy efficient space heater guide](/blog/best-energy-efficient-space-heater/).
 
 {{< product-box asin="B0B3MXGBVT" name="Dreo Atom One 1500W Ceramic Space Heater" label="If a room genuinely needs one" description="ETL-listed PTC ceramic heater with the four safety features that matter (tip-over protection, overheat shutoff, thermostat, timer) at the 1,500W standard draw every plug-in heater shares. The right tool for the room the central system can't reach — not a substitute for setting the thermostat down." button="Check price on Amazon" >}}
 
@@ -143,7 +143,7 @@ Generally no for forced-air systems — closing too many vents raises duct press
 
 {{< faq-schema >}}
 
-The sibling calculations: [space heater running cost](/blog/space-heater-running-cost/), [best energy efficient space heater](/blog/42-best-energy-efficient-space-heater/), and [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
+The sibling calculations: [space heater running cost](/blog/space-heater-running-cost/), [best energy efficient space heater](/blog/best-energy-efficient-space-heater/), and [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
 
 ## Sources
 

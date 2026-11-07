@@ -28,8 +28,8 @@ Answer these in order:
 
 1. **Can you shift 20%+ of your usage out of weekday afternoons?** (Laundry after 9pm, dishwasher delayed-start, [EV charging overnight](/blog/ev-charging-impact-electric-bill/).) If yes → price a **ToU plan** against your current bill. If no → fixed.
 2. **Is your usage seasonal-heavy?** (Summer AC, winter heat.) Fixed rates smooth the per-unit price; ToU adds a second seasonal layer — check both summer and winter peak windows before switching.
-3. **Do you live in a deregulated state?** (TX, PA, OH, and a dozen others.) Then you can shop retail plans — compare real offers on your state's official marketplace, not marketer sites, and read the [fixed vs variable comparison with real offers](/blog/10-fixed-vs-variable-utility-rate/).
-4. **Does your utility bill a demand charge or tiered water/energy rate?** Those change the math differently — see [how demand charges work](/blog/49-demand-charges-electricity-bill-explained/) and [how tiered rates work](/blog/tiered-water-rates-explained/).
+3. **Do you live in a deregulated state?** (TX, PA, OH, and a dozen others.) Then you can shop retail plans — compare real offers on your state's official marketplace, not marketer sites, and read the [fixed vs variable comparison with real offers](/blog/fixed-vs-variable-utility-rate/).
+4. **Does your utility bill a demand charge or tiered water/energy rate?** Those change the math differently — see [how demand charges work](/blog/demand-charges-electricity-bill-explained/) and [how tiered rates work](/blog/tiered-water-rates-explained/).
 
 {{< visual src="/images/articles/which-rate-plan-is-right-for-me/time-of-use-clock.webp" alt="Twenty-four-hour time-of-use clock with off-peak, shoulder, and peak periods identified." >}}
 
@@ -39,7 +39,7 @@ Answer these in order:
 
 A plan can be right in March and still cost you money in August — not because the schedule was wrong, but because one afternoon refused to cooperate. Here is the failure mode with real numbers.
 
-**The setup:** a shift-able household prices a TOU plan. The all-in spread below uses Con Edison's published residential TOU rates for summer 2026 — 44.97¢ per kWh peak (supply + delivery) vs 22.33¢ off-peak, a 2:1 spread. Supply-only spreads run steeper: Con Edison's own summer supply rates are 27.86¢ peak vs 5.22¢ off-peak ([what time is electricity cheapest](/blog/46-what-time-is-electricity-cheapest/)), about 5.3:1, and marketed plans land in between — so we show a mid-case 3:1 spread too (illustrative: a 22.33¢ off-peak price paired with a ~67¢ peak).
+**The setup:** a shift-able household prices a TOU plan. The all-in spread below uses Con Edison's published residential TOU rates for summer 2026 — 44.97¢ per kWh peak (supply + delivery) vs 22.33¢ off-peak, a 2:1 spread. Supply-only spreads run steeper: Con Edison's own summer supply rates are 27.86¢ peak vs 5.22¢ off-peak ([what time is electricity cheapest](/blog/what-time-is-electricity-cheapest/)), about 5.3:1, and marketed plans land in between — so we show a mid-case 3:1 spread too (illustrative: a 22.33¢ off-peak price paired with a ~67¢ peak).
 
 **The booked month:** laundry after 9 PM, dishwasher on delayed start, EV charging overnight — about 40 kWh a month shifted out of the peak window. At the 22.64¢ all-in spread, that is 40 × $0.2264 ≈ **$9.06/month saved** — roughly $109 a year, every month the schedule holds.
 
@@ -58,7 +58,7 @@ A plan can be right in March and still cost you money in August — not because 
 | **Bill predictability** | High | Low | Medium — predictable *if* schedule is stable | High until you cross the tier |
 | **Best for** | Budgeters, stable usage | Price-watchers in deregulated markets | Shift-able schedules, EV owners, smart-home users | Conservation-minded, low-usage households |
 | **Main risk** | Paying a premium when market prices fall | Winter/summer spikes hit unprepared | Afternoon AC or laundry erases savings | One hot month jumps a tier |
-| **Where explained** | [Fixed vs variable, real offers](/blog/10-fixed-vs-variable-utility-rate/) | same | [Time-of-use rates explained](/blog/08-time-of-use-electricity/) | [Tiered water rates](/blog/tiered-water-rates-explained/) |
+| **Where explained** | [Fixed vs variable, real offers](/blog/fixed-vs-variable-utility-rate/) | same | [Time-of-use rates explained](/blog/time-of-use-electricity/) | [Tiered water rates](/blog/tiered-water-rates-explained/) |
 
 ## Match the Plan to Your Usage Pattern
 
@@ -79,28 +79,28 @@ The comparison table says what each plan *is*; this one says what *you* should d
 - Is there a fee to switch plans, a minimum term, or a seasonal window when switches are not allowed?
 - For ToU: what exactly are the peak/off-peak windows, and do they change seasonally? (Utilities publish these in tariff sheets — for example, Pacific Gas & Electric's E-TOU-C schedule defines its windows in its published tariff.)
 - Can I see my hourly usage data for the last 12 months to simulate what my bill would have been on each plan?
-- Does net metering, a demand charge, or a minimum bill interact with the plan? ([Net metering explained](/blog/net-metering-explained/), [minimum bills](/blog/22-minimum-bill-utility-bill-explained/).)
+- Does net metering, a demand charge, or a minimum bill interact with the plan? ([Net metering explained](/blog/net-metering-explained/), [minimum bills](/blog/minimum-bill-utility-bill-explained/).)
 
 That fourth question is the one most readers skip — and the one that turns a guess into a calculation. The national average residential price was about 18.3¢ per kWh in mid-2026 (U.S. EIA), but your all-in local rate is the only number that matters for this decision.
 
 ## Every Rate Page on This Site
 
-- [Fixed vs variable rates — real TX/PA/OH offers](/blog/10-fixed-vs-variable-utility-rate/)
-- [Time-of-use electricity rates explained](/blog/08-time-of-use-electricity/)
-- [What time is electricity cheapest?](/blog/46-what-time-is-electricity-cheapest/)
-- [Demand charges on an electricity bill](/blog/49-demand-charges-electricity-bill-explained/)
+- [Fixed vs variable rates — real TX/PA/OH offers](/blog/fixed-vs-variable-utility-rate/)
+- [Time-of-use electricity rates explained](/blog/time-of-use-electricity/)
+- [What time is electricity cheapest?](/blog/what-time-is-electricity-cheapest/)
+- [Demand charges on an electricity bill](/blog/demand-charges-electricity-bill-explained/)
 - [Tiered water rates explained](/blog/tiered-water-rates-explained/)
 - [Net metering explained](/blog/net-metering-explained/)
-- [Delivery charge vs supply charge](/blog/24-delivery-charge-vs-supply-charge-utility-bill/)
-- [Understanding kWh — the unit behind every plan](/blog/11-understanding-kwh-usage/)
+- [Delivery charge vs supply charge](/blog/delivery-charge-vs-supply-charge-utility-bill/)
+- [Understanding kWh — the unit behind every plan](/blog/understanding-kwh-usage/)
 
 ## Read This Before You Sign
 
-> **Plan choices are commitments.** A fixed or ToU plan is typically a **12-month commitment** — run the worst-case math (your busiest peak-window day, not your average day) before signing, and check any early-termination fee in the [fixed vs variable comparison](/blog/10-fixed-vs-variable-utility-rate/). Rates, windows, and terms vary by utility and state; this page is educational, not financial advice.
+> **Plan choices are commitments.** A fixed or ToU plan is typically a **12-month commitment** — run the worst-case math (your busiest peak-window day, not your average day) before signing, and check any early-termination fee in the [fixed vs variable comparison](/blog/fixed-vs-variable-utility-rate/). Rates, windows, and terms vary by utility and state; this page is educational, not financial advice.
 
 ## After You Pick: Make the Plan Pay
 
-A rate plan is a pricing structure, not a savings plan — the savings come from matching behavior to it. Once your structure is right, [how to lower your utility bills](/blog/05-how-to-lower-utility-bills/) walks the prioritization: measure first, then fix the biggest line.
+A rate plan is a pricing structure, not a savings plan — the savings come from matching behavior to it. Once your structure is right, [how to lower your utility bills](/blog/how-to-lower-utility-bills/) walks the prioritization: measure first, then fix the biggest line.
 
 ## Sources
 

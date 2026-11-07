@@ -79,7 +79,7 @@ Pick a **smart learning thermostat** if:
 3. Observe comfort and system operation for several billing periods.
 4. Compare a similar period before and after the change using your own bill.
 
-For heat pumps and dual-fuel systems, use a thermostat and settings appropriate to the equipment. DOE training material notes that programmable and smart thermostats can adjust temperatures based on a schedule or occupancy, but the chosen control must fit the HVAC system.[5] If the bigger question is which equipment to install in the first place, our [heat pump vs. gas furnace savings comparison](/blog/48-heat-pump-vs-gas-furnace-savings/) runs the operating-cost math on both systems before you buy a thermostat to control either.
+For heat pumps and dual-fuel systems, use a thermostat and settings appropriate to the equipment. DOE training material notes that programmable and smart thermostats can adjust temperatures based on a schedule or occupancy, but the chosen control must fit the HVAC system.[5] If the bigger question is which equipment to install in the first place, our [heat pump vs. gas furnace savings comparison](/blog/heat-pump-vs-gas-furnace-savings/) runs the operating-cost math on both systems before you buy a thermostat to control either.
 
 ## Questions to Ask Before Buying
 

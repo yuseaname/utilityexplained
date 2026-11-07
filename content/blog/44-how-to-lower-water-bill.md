@@ -1,7 +1,7 @@
 ---
 title: "How to Lower Your Water Bill: Fixes Ranked by Cost"
-slug: "44-how-to-lower-water-bill"
-aliases: ["/blog/stormwater-fee-on-water-bill-explained/"]
+slug: "how-to-lower-water-bill"
+aliases: ["/blog/44-how-to-lower-water-bill/", "/blog/stormwater-fee-on-water-bill-explained/"]
 description: "Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified EPA WaterSense savings ranges to boot."
 date: 2026-05-30
 updated: 2026-09-06
@@ -19,7 +19,7 @@ sources:
 
 {{< affiliate-disclosure >}}
 
-> **Before you shop for savings, diagnose your usage.** A high water bill is either a visual problem (leak, outdoor overwatering) or a structural one (old fixtures, inefficient habits). Start with the [high-water-bill investigation guide](/blog/06-water-bill-too-high/) and the [CCF calculator](/blog/what-is-ccf-on-a-water-bill/) to find your baseline usage. Then come back here and work the list below from top to bottom.
+> **Before you shop for savings, diagnose your usage.** A high water bill is either a visual problem (leak, outdoor overwatering) or a structural one (old fixtures, inefficient habits). Start with the [high-water-bill investigation guide](/blog/water-bill-too-high/) and the [CCF calculator](/blog/what-is-ccf-on-a-water-bill/) to find your baseline usage. Then come back here and work the list below from top to bottom.
 
 ---
 
@@ -54,7 +54,7 @@ These actions require no purchase, no tools, and no contractor. Start here.
 
 ### Level 2: Low-Cost Leak Repairs ($5–$50)
 
-Leaks are the most common driver of unexpectedly high water bills. Household leaks average about 9,400 gallons a year (EPA WaterSense) and can run far higher in leak-prone homes, costing $50–$200+ annually — the [high-water-bill diagnostic](/blog/06-water-bill-too-high/) shows how to find them.
+Leaks are the most common driver of unexpectedly high water bills. Household leaks average about 9,400 gallons a year (EPA WaterSense) and can run far higher in leak-prone homes, costing $50–$200+ annually — the [high-water-bill diagnostic](/blog/water-bill-too-high/) shows how to find them.
 
 #### The 10-Minute Leak Check
 
@@ -155,7 +155,7 @@ A smart water leak detector can catch these early. Place one under each sink, be
 
 If you’ve worked through the actions above and your usage hasn’t dropped:
 
-1. **Check the billing period length.** A 33-day billing period will always show more usage than a 28-day one. Compare daily consumption (usage ÷ days). See [billing cycles explained](/blog/23-utility-billing-cycle-explained/).
+1. **Check the billing period length.** A 33-day billing period will always show more usage than a 28-day one. Compare daily consumption (usage ÷ days). See [billing cycles explained](/blog/utility-billing-cycle-explained/).
 2. **Check for a meter error.** Read your meter yourself and compare it to the billed reading. Report a discrepancy to your utility.
 3. **Check rate schedule changes.** Did the utility raise rates mid-cycle? Look for a notice on your bill.
 4. **Look for a sewer charge mismatch.** If your sewer is based on summer consumption without winter averaging, switching to winter-averaged billing (where available) could lower your sewer charge. See [sewer charges](/blog/how-sewer-charges-work-on-your-water-bill/).

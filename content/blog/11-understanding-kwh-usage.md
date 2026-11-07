@@ -1,7 +1,7 @@
 ---
 title: "Understanding kWh Usage on Your Electric Bill"
-slug: "11-understanding-kwh-usage"
-aliases: ["/blog/what-is-a-kilowatt-hour/"]
+slug: "understanding-kwh-usage"
+aliases: ["/blog/11-understanding-kwh-usage/", "/blog/what-is-a-kilowatt-hour/"]
 description: "Learn how to compare kWh, billing days, and rate-plan charges on your own electric statement without relying on generic appliance-cost tables."
 date: 2026-03-15
 updated: 2026-10-30
@@ -36,11 +36,11 @@ EIA reports that electricity use varies widely across regions and housing types,
 
 **kW is how fast; kWh is how much.** Three devices, all consuming exactly 1 kWh: a 1,000-watt space heater for 1 hour, a 100-watt bulb for 10 hours, a 10-watt LED for 100 hours. A high-watt device can be cheap if it runs briefly; a small device adds up if it runs all day.
 
-**The one-line formula:** (watts ÷ 1,000) × hours = kWh. A 1,500-watt heater for 3 hours is 4.5 kWh; multiply by your rate for cost. (Space heaters are the classic worked example — and they do not all cost the same to run: our [space heater guide](/blog/42-best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math.)
+**The one-line formula:** (watts ÷ 1,000) × hours = kWh. A 1,500-watt heater for 3 hours is 4.5 kWh; multiply by your rate for cost. (Space heaters are the classic worked example — and they do not all cost the same to run: our [space heater guide](/blog/best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math.)
 
 ## Read kWh in Context
 
-For each bill, record — and if you need help finding these on your statement, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/):
+For each bill, record — and if you need help finding these on your statement, see [how to read your electric bill](/blog/how-to-read-your-electric-bill/):
 
 1. Total kWh and the number of billed days.
 2. Whether the meter reading was actual or estimated.
@@ -100,7 +100,7 @@ That national figure is an average, not a quote: residential rates in 2026 run f
 
 A rate increase of 1¢/kWh adds about $108/year for the average 899-kWh/month household. A usage increase of 100 kWh/month (one additional dryer load every four days) adds about $220/year at the current national average. Both matter, but here is the practical frame:
 
-- **Rate is mostly out of your control.** Supply, delivery, and regulatory charges change by utility and season. You can switch rate plans (flat, tiered, time-of-use) if your usage pattern fits a cheaper structure. See [Time-of-Use Electricity Rates](/blog/08-time-of-use-electricity/) for details.
+- **Rate is mostly out of your control.** Supply, delivery, and regulatory charges change by utility and season. You can switch rate plans (flat, tiered, time-of-use) if your usage pattern fits a cheaper structure. See [Time-of-Use Electricity Rates](/blog/time-of-use-electricity/) for details.
 - **Usage is where you have leverage.** Adjusting thermostat settings, replacing old appliances, sealing air leaks, and shifting large loads to off-peak hours directly reduce the kWh multiplied by every rate component.
 
 A 10% usage reduction saves the same dollar amount whether your rate is 12¢/kWh or 28¢/kWh — the percentage is constant, the absolute savings grow with your rate.

@@ -85,11 +85,11 @@ Ask “which circuit is eating my bill?” — the Vue 3. You clamp the circuits
 
 Ask “what is my whole home doing, and can software name my devices for me?” — that was the Sense pitch, and it is why owners liked it. With new hardware sales ended, the successor to that pitch is utility-provided data: Sense is embedding its detection in utility smart meters, and your utility's own app may eventually offer the same inference for free. Today, the buyable version of "software figures out my devices" is gone; the Vue 3's named circuits are the reliable route.[7]
 
-Ask “why is my bill so high at all?” — start with [why your electric bill is so high](/blog/03-why-is-my-electric-bill-so-high/) before buying any hardware. A monitor names the load; it does not explain the rate, the weather, or the season.
+Ask “why is my bill so high at all?” — start with [why your electric bill is so high](/blog/why-is-my-electric-bill-so-high/) before buying any hardware. A monitor names the load; it does not explain the rate, the weather, or the season.
 
 Ask “how does my smart meter's data compare?” — your utility's app already shows whole-house usage for free. The monitor's value is the split: [how smart meters work](/blog/how-do-smart-meters-work/) explains what the meter itself can and cannot tell you.
 
-And if you are new to kilowatt-hours entirely, [understanding kWh usage](/blog/11-understanding-kwh-usage/) is the better first read. Context helps: the average U.S. household uses about {{< stat "avg_monthly_kwh" >}}, and the average residential price was about {{< stat "electric_rate_jun2026" >}} in June 2026 — the arithmetic behind a typical bill is worth doing before you spend on hardware.[2][3]
+And if you are new to kilowatt-hours entirely, [understanding kWh usage](/blog/understanding-kwh-usage/) is the better first read. Context helps: the average U.S. household uses about {{< stat "avg_monthly_kwh" >}}, and the average residential price was about {{< stat "electric_rate_jun2026" >}} in June 2026 — the arithmetic behind a typical bill is worth doing before you spend on hardware.[2][3]
 
 ## The Renter's Path
 

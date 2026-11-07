@@ -73,7 +73,7 @@ This is the concept that explains most "it's running all day" panic:
 - On the normal side: a heat pump running continuously near its balance point is doing exactly what it was designed to do. The runtime is long because the margin between delivered heat and heat loss has narrowed, not because anything is broken.
 - On the symptom side: if the system can't reach setpoint even with aux heat contributing — or aux heat seems to run constantly rather than just during the coldest hours — the balance point may sit above where it should, often because of sizing, duct losses, or a heat-loss problem the building owner can actually fix.
 
-For gas-fired homes there's a second meaning of balance point: on a dual-fuel setup it's the temperature where the thermostat switches from heat pump to furnace. How to set it — and why your local electric-to-gas price ratio decides it — is covered in [our heat pump vs gas furnace guide](/blog/48-heat-pump-vs-gas-furnace-savings/).
+For gas-fired homes there's a second meaning of balance point: on a dual-fuel setup it's the temperature where the thermostat switches from heat pump to furnace. How to set it — and why your local electric-to-gas price ratio decides it — is covered in [our heat pump vs gas furnace guide](/blog/heat-pump-vs-gas-furnace-savings/).
 
 ## Defrost cycles and cool air
 
@@ -115,7 +115,7 @@ If your home loses heat quickly, the heat pump will run more often to keep up. A
 
 Duct losses are also why some homes skip ductwork at replacement time — see [ductless mini-split vs. central air](/blog/ductless-mini-split-vs-central-air/) for how a zoned system changes the runtime equation.
 
-And if the runtime question is really a bill question — the pump runs all day and the number at the bottom of the statement is the shock — the broader diagnosis lives in [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/).
+And if the runtime question is really a bill question — the pump runs all day and the number at the bottom of the statement is the shock — the broader diagnosis lives in [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/).
 
 ## When to call a professional
 
@@ -136,7 +136,7 @@ One more flag: a system that suddenly starts running *differently* — new noise
 - **"Defrost means the system is broken."** Defrost is a normal winter function; constant defrost is not.
 - **"Aux heat appearing means I need a new heat pump."** Aux heat below the balance point is by design. Aux heat running constantly in mild weather is the thing to investigate.
 
-If your system turns on and off too quickly, the opposite pattern is its own issue: [AC short cycling explained](/blog/13-ac-short-cycling-causes-fixes/).
+If your system turns on and off too quickly, the opposite pattern is its own issue: [AC short cycling explained](/blog/ac-short-cycling-causes-fixes/).
 
 Long steady runs are healthy; ice that never clears is not — see [heat pump covered in ice: normal defrost or problem](/blog/heat-pump-covered-in-ice-normal-or-problem/).
 
@@ -188,6 +188,6 @@ Yes. Leaky ducts waste heated air and force the system to run longer to maintain
 
 - [Aux Heat vs Emergency Heat: What They Mean](/blog/aux-heat-vs-emergency-heat-meaning/)
 - [Why Is My Furnace Blowing Cold Air?](/blog/why-is-my-furnace-blowing-cold-air/)
-- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/48-heat-pump-vs-gas-furnace-savings/)
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/)
+- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/heat-pump-vs-gas-furnace-savings/)
+- [Why Is My Electric Bill So High?](/blog/why-is-my-electric-bill-so-high/)
 - [AC Running but Not Cooling? 13 Causes and Safe Fixes](/blog/ac-running-but-not-cooling/)

@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Electric Bill So High? Find the Real Cause"
-slug: "03-why-is-my-electric-bill-so-high"
-aliases: ["/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/15-why-utility-bill-higher-same-usage/", "/blog/why-my-utility-bill-is-higher-with-same-usage/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
+slug: "why-is-my-electric-bill-so-high"
+aliases: ["/blog/03-why-is-my-electric-bill-so-high/", "/blog/29-why-is-my-electric-bill-so-high-2026/", "/blog/15-why-utility-bill-higher-same-usage/", "/blog/why-my-utility-bill-is-higher-with-same-usage/", "/blog/why-is-my-electric-bill-so-high-this-month", "/blog/why-is-my-electricity-bill-so-high-in-summer", "/blog/why-is-my-electricity-bill-so-high-in-winter", "/blog/why-electric-bill-changes-month-to-month/"]
 description: "Why is my electric bill so high? Compare your usage, billing period, price, rate plan, and household changes to find what actually drove the increase."
 date: 2026-03-07
 updated: 2026-09-06
@@ -36,7 +36,7 @@ A higher electric bill can result from higher electricity use, a higher electric
 
 EIA explains that residential electric bills reflect both grid-delivered electricity use and the retail electricity price.[1] There is no single normal kWh amount or dollar bill for every home.
 
-**Next step:** If your bill jumped, start with [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) for a line-by-line walkthrough, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to decode every charge category. If the statements match and usage is the culprit, a {{< amazon asin="B00009MDBU" text="plug-in watt meter like the P3 Kill A Watt" >}} will name the appliance responsible in about a day of monitoring.
+**Next step:** If your bill jumped, start with [how to read your electric bill](/blog/how-to-read-your-electric-bill/) for a line-by-line walkthrough, then see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) to decode every charge category. If the statements match and usage is the culprit, a {{< amazon asin="B00009MDBU" text="plug-in watt meter like the P3 Kill A Watt" >}} will name the appliance responsible in about a day of monitoring.
 
 ## Start With the Bill, Not a Guess
 
@@ -87,7 +87,7 @@ More hot-water use can raise electricity use. Compare the period with changes in
 
 ### Lighting, appliances, and electronics
 
-Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions — a failing appliance typically runs far longer than its normal duty cycle, so a refrigerator that never goes quiet across a 24-hour plug-in-meter reading, or daily usage data that steps up and never steps back down, is the signal. If a portable space heater is a regular part of that list, the honest answer is that every 1,500 W plug-in heater costs the same per hour to run — what differs is comfort delivery and safety; our [space heater guide](/blog/42-best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math and what actually helps.
+Look for changes in how long equipment runs. Refrigerators, freezers, dryers, dehumidifiers, portable heaters, pool equipment, computers, and entertainment equipment can matter when use changes or equipment malfunctions — a failing appliance typically runs far longer than its normal duty cycle, so a refrigerator that never goes quiet across a 24-hour plug-in-meter reading, or daily usage data that steps up and never steps back down, is the signal. If a portable space heater is a regular part of that list, the honest answer is that every 1,500 W plug-in heater costs the same per hour to run — what differs is comfort delivery and safety; our [space heater guide](/blog/best-energy-efficient-space-heater/) explains why "efficient" marketing rarely changes the math and what actually helps.
 
 ENERGY STAR reports that LED lighting products produce light up to 90% more efficiently than incandescent light bulbs.[7] Their bill impact depends on the number of bulbs and hours of use.
 

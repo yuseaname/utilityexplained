@@ -109,7 +109,7 @@ Some utilities — especially in California — use water budgets that vary mont
 
 **Watch usage mid-cycle.** Many utilities offer portals with daily usage. A spike you catch in week two costs far less than one you discover on the bill.
 
-For the full playbook, see [How to Lower Your Water Bill](/blog/44-how-to-lower-water-bill/).
+For the full playbook, see [How to Lower Your Water Bill](/blog/how-to-lower-water-bill/).
 
 ## Fees That Ride Alongside Tiers
 
@@ -120,7 +120,7 @@ The tiered volume charge is rarely the whole bill:
 - **Surcharges** — Austin's reserve, community-benefit, and GoPurple fees are typical of the small per-unit add-ons many utilities layer on.[1]
 - **Drought or excessive-use penalties** — separate from tiers, triggered above a threshold.
 
-See [Hidden Fees on Your Utility Bill](/blog/04-hidden-fees-utility-bill/) for a full breakdown.
+See [Hidden Fees on Your Utility Bill](/blog/hidden-fees-utility-bill/) for a full breakdown.
 
 ## Renters: Ask Who Sets Your Rate
 

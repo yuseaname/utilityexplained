@@ -82,7 +82,7 @@ Bear repeating: a cheap curtain hung wide, snug, and floor-length beats an expen
 | Summer | Sun-struck glass | Daytime | **Closed** | Block solar gain before it enters the room |
 | Summer | Shaded glass | Daytime | **Open** | Nothing to block; let air move |
 
-The winter discipline is two-position — closed at night, open on sunny days. Pairing closed curtains with heating only the rooms you actually use is where the winter math compounds — [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/) cover that half. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives. If the summer problem is the equipment rather than the glass, the real choice is [ductless mini-split vs. central air](/blog/ductless-mini-split-vs-central-air/).
+The winter discipline is two-position — closed at night, open on sunny days. Pairing closed curtains with heating only the rooms you actually use is where the winter math compounds — [the best energy-efficient space heaters](/blog/best-energy-efficient-space-heater/) cover that half. The summer discipline keys on the sun: closed across beam-hit glass to block heat before it happens, open where nothing arrives. If the summer problem is the equipment rather than the glass, the real choice is [ductless mini-split vs. central air](/blog/ductless-mini-split-vs-central-air/).
 
 {{< visual src="/images/articles/do-thermal-curtains-really-work/seasonal-operation-clock.webp" alt="Four seasonal operating positions for window coverings: closed winter nights, open winter sunny days, closed against summer sun, open on mild summer nights." wide="true" >}}
 
@@ -121,7 +121,7 @@ Nothing on this list requires a designer label. The category's best sellers are 
 - **Modern double-pane windows in a recently sealed house.** Sealed units already hold a dead-air layer between the panes and conduct poorly; the slack a curtain can recover is small. Buy for darkness or looks, not the heating bill.
 - **Deep exterior shading.** Glass under a wide porch, awning, or heavy tree cover sees less sun and less wind; the curtain has less to intercept on either seasonal job.
 - **A radiator under the window.** The curtain now sits between the heat source and the room. Hung over a hot radiator, a panel can route warm air straight up the cold glass and out — the convection loop, working for the other side. If the heat source lives under the glass, decide which one gets the job. (Air that's lukewarm at every register is a different problem — [why your furnace is blowing cold air](/blog/why-is-my-furnace-blowing-cold-air/).)
-- **The draft is from the frame, not the glass.** Moving air you can feel at the sill is an air-leak signature — air sealing owns that fix, and a curtain will hang politely while you keep heating the outdoors. Walk a [DIY home energy assessment](/blog/47-check-energy-leaks-home-diy/) first; [seal the drafts the curtain can't](/blog/how-to-find-and-seal-drafts-in-your-home/), then dress it. If the heating load itself is the problem, the story is in [why your gas bill is so high](/blog/07-gas-bill-too-high/).
+- **The draft is from the frame, not the glass.** Moving air you can feel at the sill is an air-leak signature — air sealing owns that fix, and a curtain will hang politely while you keep heating the outdoors. Walk a [DIY home energy assessment](/blog/check-energy-leaks-home-diy/) first; [seal the drafts the curtain can't](/blog/how-to-find-and-seal-drafts-in-your-home/), then dress it. If the heating load itself is the problem, the story is in [why your gas bill is so high](/blog/gas-bill-too-high/).
 
 ## Frequently Asked Questions
 
@@ -139,7 +139,7 @@ Single panes are this product's best case. They lose heat faster and run colder,
 
 {{< faq "Are thermal curtains worth it for apartments?" >}}
 
-Arguably the best case in the market. You can't replace the windows and shouldn't drill into them — curtains need neither. A rod and panels are the entire install, and it all leaves with you at move-out. The fit rules still apply: wide past the frame, close to the wall, floor-length, closed at night. For where a window fix sits in the larger picture, see [how to prioritize utility-bill improvements](/blog/05-how-to-lower-utility-bills/).
+Arguably the best case in the market. You can't replace the windows and shouldn't drill into them — curtains need neither. A rod and panels are the entire install, and it all leaves with you at move-out. The fit rules still apply: wide past the frame, close to the wall, floor-length, closed at night. For where a window fix sits in the larger picture, see [how to prioritize utility-bill improvements](/blog/how-to-lower-utility-bills/).
 
 {{< /faq >}}
 

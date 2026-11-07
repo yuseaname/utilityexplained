@@ -28,7 +28,7 @@ sources:
 
 `cost per hour = (watts ÷ 1,000) × your rate in $/kWh`
 
-Plug in your own bill's rate — the national average is nearly meaningless in Nevada (13.11¢) versus Hawaii (52.72¢), where the same hour costs $0.20 versus $0.79. This page is the math: per-wattage tables, the state spread, thermostat cycling, and the decision the formula exists for — [when heating one room is cheaper than heating the whole house](/blog/cheaper-to-heat-one-room-vs-whole-house/). For the permanently-installed sibling, see [electric baseboard heater cost to run](/blog/electric-baseboard-heater-cost-to-run/). For which heater to buy, that's a separate decision covered in [the best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/); for the ten-times-cheaper alternative for a bed, see [electric blanket vs space heater](/blog/electric-blanket-vs-space-heater-cost/).
+Plug in your own bill's rate — the national average is nearly meaningless in Nevada (13.11¢) versus Hawaii (52.72¢), where the same hour costs $0.20 versus $0.79. This page is the math: per-wattage tables, the state spread, thermostat cycling, and the decision the formula exists for — [when heating one room is cheaper than heating the whole house](/blog/cheaper-to-heat-one-room-vs-whole-house/). For the permanently-installed sibling, see [electric baseboard heater cost to run](/blog/electric-baseboard-heater-cost-to-run/). For which heater to buy, that's a separate decision covered in [the best energy-efficient space heaters](/blog/best-energy-efficient-space-heater/); for the ten-times-cheaper alternative for a bed, see [electric blanket vs space heater](/blog/electric-blanket-vs-space-heater-cost/).
 
 ## The formula (and why it is the whole answer)
 
@@ -69,7 +69,7 @@ The last row is the honest one: a heater holding a 65–70°F room in typical wi
 
 {{< visual src="/images/articles/space-heater-running-cost/state-rate-spread.webp" alt="Same 1,500 W heater's hourly cost across state rate bands, Nevada cheapest to Hawaii most expensive." wide="true" >}}
 
-Two honest notes on this table. First, state averages hide intra-state spread — a neutral "delivery charge" re-pricing or a rural co-op can move your rate 20% from the state line figure, which is why the formula beats any table. Second, if you are on a time-of-use plan, the same hour at 9pm can cost a third of what it costs at 7pm; [how time-of-use rates work](/blog/08-time-of-use-electricity/) shows how to read your plan's peak windows and shift heater hours into the cheap ones.
+Two honest notes on this table. First, state averages hide intra-state spread — a neutral "delivery charge" re-pricing or a rural co-op can move your rate 20% from the state line figure, which is why the formula beats any table. Second, if you are on a time-of-use plan, the same hour at 9pm can cost a third of what it costs at 7pm; [how time-of-use rates work](/blog/time-of-use-electricity/) shows how to read your plan's peak windows and shift heater hours into the cheap ones.
 
 ## Thermostat, duty cycle, and the "bill shock" gap
 
@@ -111,10 +111,10 @@ The reliable method is the one the rest of this site keeps returning to: measure
 
 ## Related Reading
 
-- [The best energy-efficient space heaters](/blog/42-best-energy-efficient-space-heater/) — the buying decision, honestly framed (all heaters are ~100% efficient; what differs is safety, controls, delivery).
+- [The best energy-efficient space heaters](/blog/best-energy-efficient-space-heater/) — the buying decision, honestly framed (all heaters are ~100% efficient; what differs is safety, controls, delivery).
 - [Electric blanket vs space heater cost](/blog/electric-blanket-vs-space-heater-cost/) — the ten-times-cheaper option when the "room" is a bed.
 - [How to read an electric meter](/blog/how-to-read-electric-meter/) — verify the duty cycle yourself with the meter you already own.
-- [How time-of-use rates work](/blog/08-time-of-use-electricity/) — the same kWh for a third of the price if your plan has off-peak windows.
+- [How time-of-use rates work](/blog/time-of-use-electricity/) — the same kWh for a third of the price if your plan has off-peak windows.
 - [Why is my heating bill so high?](/blog/why-is-my-heating-bill-so-high/) — when the problem isn't the space heater's math but the whole house's.
 - [The lower-your-bill pillar](/blog/how-to-lower-electric-bill-complete-guide/) — the full diagnosis checklist this page's math feeds into.
 
@@ -154,7 +154,7 @@ Low setting (750 W) in a small, sealed room, on an off-peak rate if you have tim
 
 The per-hour figure — $0.275 at the US average, $0.20 to $0.79 across states — is the ceiling, not the forecast. Your real cost is set by the duty cycle the thermostat negotiates with your room's insulation, and by the marginal rate your plan charges for extra kWh. Both are measurable with the meter you already own, and both move more than any heater feature can.
 
-**Where to go next:** run the formula with your own bill's rate tonight, then verify it against the meter this week. If the number is tolerable, the buying decision is [which heater](/blog/42-best-energy-efficient-space-heater/); if it isn't, the ten-times-cheaper alternative for a bedroom is [the blanket math](/blog/electric-blanket-vs-space-heater-cost/), and the whole-house fix starts with [why the heating bill is high](/blog/why-is-my-heating-bill-so-high/).
+**Where to go next:** run the formula with your own bill's rate tonight, then verify it against the meter this week. If the number is tolerable, the buying decision is [which heater](/blog/best-energy-efficient-space-heater/); if it isn't, the ten-times-cheaper alternative for a bedroom is [the blanket math](/blog/electric-blanket-vs-space-heater-cost/), and the whole-house fix starts with [why the heating bill is high](/blog/why-is-my-heating-bill-so-high/).
 
 This page is part of the [Heating & Cooling hub](/heating-cooling-explained/); terms are defined in the [utility glossary](/utilities-glossary/).
 

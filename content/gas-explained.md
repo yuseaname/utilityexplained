@@ -19,17 +19,17 @@ Your natural gas bill charges for two things: the gas itself (supply, priced per
 
 ## What are you trying to solve?
 <ul>
-<li><strong>My gas bill is too high</strong> — <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a></li>
+<li><strong>My gas bill is too high</strong> — <a href="/blog/gas-bill-too-high/">Why Is My Gas Bill So High?</a></li>
 <li><strong>I want to understand my gas bill charges</strong> — <a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
 <li><strong>What's the difference between MCF, CCF, and therms?</strong> — <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
 <li><strong>How do I read my gas meter?</strong> — <a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
-<li><strong>Fixed vs. variable gas rates</strong> — <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a></li>
-<li><strong>How do I lower my gas usage?</strong> — <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
+<li><strong>Fixed vs. variable gas rates</strong> — <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a></li>
+<li><strong>How do I lower my gas usage?</strong> — <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
 </ul>
 
 ## What is natural gas and how does it reach your home?
 <p>
-Natural gas is methane piped from production areas to your home, where a meter measures what you use. For how that flow shows up on your statement, see <a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill</a>.
+Natural gas is methane piped from production areas to your home, where a meter measures what you use. For how that flow shows up on your statement, see <a href="/blog/how-to-read-your-gas-bill/">How to Read Your Gas Bill</a>.
 </p>
 
 ## How natural gas is measured: therms, BTUs, and CCF
@@ -48,12 +48,12 @@ A gas bill has three parts — supply (commodity), delivery (distribution), and 
 
 ## What uses the most gas in a typical home?
 <p>
-Space heating dominates, followed by water heating, then cooking and drying. For the full usage breakdown, see <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
+Space heating dominates, followed by water heating, then cooking and drying. For the full usage breakdown, see <a href="/blog/gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
 </p>
 
 ## Seasonal changes and why gas bills vary
 <p>
-Winter heating demand drives gas bills far above summer levels. For how seasons and billing cycles move your total, see <a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
+Winter heating demand drives gas bills far above summer levels. For how seasons and billing cycles move your total, see <a href="/blog/gas-bill-too-high/">Why Is My Gas Bill So High?</a>.
 </p>
 
 ## Furnace efficiency and AFUE ratings
@@ -63,12 +63,12 @@ AFUE measures how much gas a furnace turns into heat. For what efficiency means 
 
 ## How to reduce natural gas usage
 <p>
-Lowering your thermostat, sealing leaks, and maintaining your furnace all cut gas use. For the full checklist, see <a href="/blog/05-how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
+Lowering your thermostat, sealing leaks, and maintaining your furnace all cut gas use. For the full checklist, see <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a>.
 </p>
 
 ## Fixed vs. variable gas rates
 <p>
-Fixed rates lock in a price per therm; variable rates move with the market. For how to choose, see <a href="/blog/10-fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a>.
+Fixed rates lock in a price per therm; variable rates move with the market. For how to choose, see <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a>.
 </p>
 
 ## Gas meter basics and how to read yours
@@ -123,24 +123,24 @@ The customer charge covers the fixed costs of maintaining service, such as meter
 
 ### Understanding Your Gas Bill
 <ul>
-<li><a href="/blog/12-how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
+<li><a href="/blog/how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
 <li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
 <li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
-<li><a href="/blog/24-delivery-charge-vs-supply-charge-utility-bill/">Gas Delivery Charge vs Supply Charge</a></li>
-<li><a href="/blog/17-what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>
+<li><a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">Gas Delivery Charge vs Supply Charge</a></li>
+<li><a href="/blog/what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>
 <li><a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
 </ul>
 
 ### Why Is My Gas Bill High?
 <ul>
-<li><a href="/blog/07-gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
-<li><a href="/blog/07-gas-bill-too-high/#seasonal-comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
+<li><a href="/blog/gas-bill-too-high/">Why Is My Gas Bill So High? (10 Causes)</a></li>
+<li><a href="/blog/gas-bill-too-high/#seasonal-comparison-winter-vs-summer-gas-usage">Why Is My Gas Bill High in Winter / Summer?</a></li>
 <li><a href="/blog/gas-leak-signs-what-to-do-bill-impact/">Gas Leak Signs: What to Do First</a></li>
 </ul>
 
 ### Gas vs Other Heating Options
 <ul>
-<li><a href="/blog/48-heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
+<li><a href="/blog/heat-pump-vs-gas-furnace-savings/">Heat Pump vs Gas Furnace Savings (Gas vs Electric Heating Cost)</a></li>
 </ul>
 
 ### Average Gas Bills by State

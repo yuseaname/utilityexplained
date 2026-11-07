@@ -22,7 +22,7 @@ sources:
 <ul>
 <li><strong>Can provide more detailed use data</strong> when the utility makes it available</li>
 <li><strong>May report remotely</strong> depending on the utility's meter system</li>
-<li><strong>Can support time-varying programs</strong> where a utility offers them, such as <a href="/blog/08-time-of-use-electricity/">time-of-use rates</a></li>
+<li><strong>Can support time-varying programs</strong> where a utility offers them, such as <a href="/blog/time-of-use-electricity/">time-of-use rates</a></li>
 <li><strong>Can help you compare usage patterns</strong> with the information in your account portal</li>
 </ul>
 <p>If your bill changes after a meter installation, do not assume the cause — <a href="/blog/why-did-my-utility-bill-go-up-this-month/">our guide covers every likely cause, ranked</a>. Compare the billing period, kWh, rate plan, and itemized charges, then ask the utility how it calculated the bill and what meter-testing process applies to your account.</p>
@@ -64,7 +64,7 @@ One special case runs the meter in both directions: homes with rooftop solar use
             </p>
             <p>
               Usage is measured in
-              <a href="/blog/11-understanding-kwh-usage/"> kilowatt-hours (kWh)</a>,
+              <a href="/blog/understanding-kwh-usage/"> kilowatt-hours (kWh)</a>,
               the same unit your old meter used. The difference is timing.
             </p>
             <p>
@@ -116,7 +116,7 @@ One special case runs the meter in both directions: homes with rooftop solar use
             <ul>
               <li>
                 <strong>Fewer estimated bills:</strong> Smart meters make
-                <a href="/blog/14-estimated-utility-bill-explained/"> estimated bills</a>
+                <a href="/blog/estimated-utility-bill-explained/"> estimated bills</a>
                 less common.
               </li>
               <li>
@@ -126,7 +126,7 @@ One special case runs the meter in both directions: homes with rooftop solar use
               <li>
                 <strong>Better usage insight:</strong> Daily or hourly charts help
                 you explain
-                <a href="/blog/30-sudden-spike-in-electricity-bill-no-usage/">a sudden spike with no change in habits</a>,
+                <a href="/blog/sudden-spike-in-electricity-bill-no-usage/">a sudden spike with no change in habits</a>,
                 and real-time data shows which appliances drive your usage.
               </li>
             </ul>
@@ -159,7 +159,7 @@ One special case runs the meter in both directions: homes with rooftop solar use
               <li>
                 Compare that daily kWh to your utility portal and bill. They
                 should be close — our guide to
-                <a href="/blog/11-understanding-kwh-usage/"> what a month of kWh looks like</a>
+                <a href="/blog/understanding-kwh-usage/"> what a month of kWh looks like</a>
                 gives you the baseline for judging the number.
               </li>
             </ol>
@@ -178,7 +178,7 @@ One special case runs the meter in both directions: homes with rooftop solar use
               Some utilities allow opt-outs, but there is usually a fee. You may
               see a one-time setup charge and a monthly meter reading fee —
               the kind of add-on cataloged in our
-              <a href="/blog/04-hidden-fees-utility-bill/"> hidden fees guide</a>.
+              <a href="/blog/hidden-fees-utility-bill/"> hidden fees guide</a>.
             </p>
             <p>
               Policies vary by state and utility. Check your provider policy
@@ -205,12 +205,12 @@ One special case runs the meter in both directions: homes with rooftop solar use
 
 ## Related Reading
 
-- [What a month of kWh looks like](/blog/11-understanding-kwh-usage/) — judge whether your meter's daily numbers are normal.
-- [Time-of-use rates explained](/blog/08-time-of-use-electricity/) — what interval data makes possible on your plan.
+- [What a month of kWh looks like](/blog/understanding-kwh-usage/) — judge whether your meter's daily numbers are normal.
+- [Time-of-use rates explained](/blog/time-of-use-electricity/) — what interval data makes possible on your plan.
 - [How to read an electric meter](/blog/how-to-read-electric-meter/) — decode the display for the five-minute verification below.
-- [Estimated utility bills explained](/blog/14-estimated-utility-bill-explained/) — why smart meters make estimates less common.
+- [Estimated utility bills explained](/blog/estimated-utility-bill-explained/) — why smart meters make estimates less common.
 - [A practical workflow for understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) — the full bill-decode walkthrough.
-- [Best smart plugs to eliminate standby power drain](/blog/50-best-smart-plugs-standby-power/) — the plug-level companion to circuit-level monitoring.
+- [Best smart plugs to eliminate standby power drain](/blog/best-smart-plugs-standby-power/) — the plug-level companion to circuit-level monitoring.
 
 
 ## Frequently Asked Questions {#faq}

@@ -69,7 +69,7 @@ Compare the same statement fields from a similar earlier period:
 
 If use changes unexpectedly, conduct a safe no-use meter observation ([your meter's leak indicator](/blog/water-meter-leak-indicator-explained/) may confirm it instantly — a visible [running toilet](/blog/is-your-toilet-running-leak-test/) is the classic hidden cause), and contact the utility or a qualified professional for account- or plumbing-specific guidance. Do not infer a leak from a national daily-use number alone.
 
-If the number really is high after those checks, the fix-it playbook starts with [how to lower your water bill](/blog/44-how-to-lower-water-bill/).
+If the number really is high after those checks, the fix-it playbook starts with [how to lower your water bill](/blog/how-to-lower-water-bill/).
 
 ### EPA's 12,000-Gallon Leak Screen
 
@@ -81,7 +81,7 @@ EPA's Fix a Leak Week guidance is blunt: **"If a family of four exceeds 12,000 g
 - [CCF to gallons (and dollars) calculator](/blog/ccf-calculator/) — convert your per-person figure in one step.
 - [Is your toilet running? A 10-minute leak test](/blog/is-your-toilet-running-leak-test/) — the top hidden cause of a high per-person number.
 - [Your water meter's leak indicator](/blog/water-meter-leak-indicator-explained/) — instant no-use check for hidden leaks.
-- [How to lower your water bill](/blog/44-how-to-lower-water-bill/) — the fix-it playbook if your number is genuinely high.
+- [How to lower your water bill](/blog/how-to-lower-water-bill/) — the fix-it playbook if your number is genuinely high.
 
 ## Frequently Asked Questions
 

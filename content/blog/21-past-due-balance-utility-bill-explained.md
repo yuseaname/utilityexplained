@@ -1,6 +1,6 @@
 ---
 title: "How to Review a Past-Due Balance on a Utility Bill"
-slug: "21-past-due-balance-utility-bill-explained"
+slug: "past-due-balance-utility-bill-explained"
 description: "What is a past-due balance on a utility bill? Review it against the statement and payment records, verify the notice, and act before disconnection."
 date: 2026-05-28
 updated: 2026-08-29
@@ -18,6 +18,7 @@ sources:
   - https://www.revisor.mn.gov/statutes/cite/216B.097/ (Minnesota Statutes 216B.097, Cold Weather Rule — municipal and cooperative utilities, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/complaints/rights/ (Public Utility Commission of Texas, Know Your Rights, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
+aliases: ["/blog/21-past-due-balance-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -30,7 +31,7 @@ Help exists year-round: LIHEAP assists roughly 6.7 million households with heati
 
 ## Step 1: Reconcile the Account First
 
-Compare the current statement with the prior statement and your payment records — [how utility billing cycles work](/blog/23-utility-billing-cycle-explained/) explains why the two statements can cover different day counts. Record:
+Compare the current statement with the prior statement and your payment records — [how utility billing cycles work](/blog/utility-billing-cycle-explained/) explains why the two statements can cover different day counts. Record:
 
 | Detail | What to verify |
 |---|---|
@@ -75,24 +76,24 @@ In Texas, if your REP receives notice by the final due date on the disconnection
 
 Ask for a payment agreement before the disconnection date, not after. Texas customers who have received no more than two termination notices in the past year are eligible for a deferred payment plan [6]. Under Minnesota's Cold Weather Rule, a utility also may not charge a new deposit or delinquency charge to keep service when you've entered a payment agreement (or appealed a payment-agreement dispute to the commission) [3].
 
-If a specific line is wrong, open a review using the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/) while keeping the payment agreement — disputing a charge does not put the rest of the bill on hold. Know the downside before you decide: [utility reconnection fee: what to expect after shutoff](/blog/28-utility-reconnection-fee-explained/) covers the cost side if a shutoff does happen.
+If a specific line is wrong, open a review using the [utility-bill dispute process](/blog/how-to-dispute-utility-bill/) while keeping the payment agreement — disputing a charge does not put the rest of the bill on hold. Know the downside before you decide: [utility reconnection fee: what to expect after shutoff](/blog/utility-reconnection-fee-explained/) covers the cost side if a shutoff does happen.
 
 ## Keep a Written Record
 
-Keep bills, notices, payment confirmations, and case numbers together. Ask for the next review level and the oversight authority if the utility can't resolve the question — investor-owned, municipal, and cooperative utilities answer to different regulators, and Minnesota customers can appeal a payment-agreement dispute directly to the state commission, which must decide within 20 working days [3]. As you build the file, [how to read your electric bill line by line](/blog/01-how-to-read-your-electric-bill/) is the reference for decoding the statement behind the balance.
+Keep bills, notices, payment confirmations, and case numbers together. Ask for the next review level and the oversight authority if the utility can't resolve the question — investor-owned, municipal, and cooperative utilities answer to different regulators, and Minnesota customers can appeal a payment-agreement dispute directly to the state commission, which must decide within 20 working days [3]. As you build the file, [how to read your electric bill line by line](/blog/how-to-read-your-electric-bill/) is the reference for decoding the statement behind the balance.
 
-A disconnection notice is recoverable: [reconnection after shutoff](/blog/28-utility-reconnection-fee-explained/) explains the fee side, and [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) explains when utilities can disconnect at all. Deposit demands often arrive with a new past-due situation — how to [review a utility deposit](/blog/26-utility-deposit-explained/).
+A disconnection notice is recoverable: [reconnection after shutoff](/blog/utility-reconnection-fee-explained/) explains the fee side, and [the full shutoff-and-notice lifecycle](/blog/can-utility-shut-off-service/) explains when utilities can disconnect at all. Deposit demands often arrive with a new past-due situation — how to [review a utility deposit](/blog/utility-deposit-explained/).
 
 **Where to go next:** Work the four steps above against your own notice today — reconcile the account, verify the deadline, call LIHEAP or your utility for a payment agreement before that date, and keep every confirmation in one file. If the balance itself doesn't match your records, hand the statement to [how to dispute a utility bill](/blog/how-to-dispute-utility-bill/) and keep the payment agreement running while the review is open.
 
 ## Related Reading
 
-- [Utility reconnection fee: how to restore service after shutoff](/blog/28-utility-reconnection-fee-explained/) — the cost side of getting service back.
-- [How utility deposits work: when you need one and how to get it back](/blog/26-utility-deposit-explained/) — deposit demands that often arrive with a past-due situation.
+- [Utility reconnection fee: how to restore service after shutoff](/blog/utility-reconnection-fee-explained/) — the cost side of getting service back.
+- [How utility deposits work: when you need one and how to get it back](/blog/utility-deposit-explained/) — deposit demands that often arrive with a past-due situation.
 - [Can a utility shut off your service? The full process explained](/blog/can-utility-shut-off-service/) — the complete notice-and-disconnection lifecycle.
 - [How to dispute a utility bill: step by step](/blog/how-to-dispute-utility-bill/) — the formal review process, without losing service.
 - [Utility assistance programs: LIHEAP and other help for bill payments](/blog/utility-assistance-programs-liheap/) — the deep dive on payment help.
-- [How utility billing cycles work: why your due date isn't always 30 days](/blog/23-utility-billing-cycle-explained/) — why statement periods, and deadlines, shift.
+- [How utility billing cycles work: why your due date isn't always 30 days](/blog/utility-billing-cycle-explained/) — why statement periods, and deadlines, shift.
 
 ## Frequently Asked Questions
 

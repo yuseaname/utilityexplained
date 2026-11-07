@@ -23,7 +23,7 @@ sources:
 
 **A water heater blanket is worth it on an older, thin-walled tank in a cold space — and mostly not worth it on a modern factory-insulated tank.** The honest verdict: if your tank is warm to the touch, a ~$33 blanket cuts standby loss and typically pays for itself in one to two winters; if your tank is already well-insulated (most tanks built in the last decade are), the blanket saves single-digit dollars a year and the payback stretches past the tank's remaining life. The U.S. Department of Energy's guidance is to insulate when your tank's R-value is below roughly 24 — and most modern tanks already exceed that.[1] Our pick for the tanks that do need it is the **Frost King SP57/11C**, a 4.2-star, 2,200+ review blanket that fits standard 40–50 gallon tanks.
 
-If you're working through the whole bill, [How to Lower Your Electric Bill: The Complete Guide](/blog/how-to-lower-electric-bill-complete-guide/) is the master list this page slots into — and if your bill is gas-driven, [Is Your Gas Bill Too High?](/blog/07-gas-bill-too-high/) covers the furnace side. If you just want the blanket: {{< amazon asin="B000BPCWQY" text="the Frost King is on Amazon" >}}.
+If you're working through the whole bill, [How to Lower Your Electric Bill: The Complete Guide](/blog/how-to-lower-electric-bill-complete-guide/) is the master list this page slots into — and if your bill is gas-driven, [Is Your Gas Bill Too High?](/blog/gas-bill-too-high/) covers the furnace side. If you just want the blanket: {{< amazon asin="B000BPCWQY" text="the Frost King is on Amazon" >}}.
 
 {{< affiliate-disclosure >}}
 
@@ -95,7 +95,7 @@ A 6-year payback on a tank that may only have 5 years left is not a purchase —
 - At $35/year: 33 ÷ 35 = **~0.9 years**
 - At $10/year: 33 ÷ 10 = **~3.3 years**
 
-Same verdict, slightly longer payback: worth it on an old warm tank, not on a modern one. The gas-bill angle is covered in [Is Your Gas Bill Too High?](/blog/07-gas-bill-too-high/), which treats the water heater as one of the top gas-waste suspects.
+Same verdict, slightly longer payback: worth it on an old warm tank, not on a modern one. The gas-bill angle is covered in [Is Your Gas Bill Too High?](/blog/gas-bill-too-high/), which treats the water heater as one of the top gas-waste suspects.
 
 ## Head-to-Head: Blanket vs. the Alternatives
 
@@ -116,7 +116,7 @@ The honest note: the blanket and the setpoint act on the same standby loss, so t
 - **Modern tank, R-16+, in a conditioned space** → skip it. The savings don't clear the payback horizon.
 - **Not sure?** → the touch test is the honest shortcut: if the tank feels warm, it's losing heat; if it feels room-temperature, the blanket has little to grab.
 
-And the standing rule: **insulation is a multiplier, not a substitute.** A blanket on a tank set to 140°F saves less than a tank set to 120°F with no blanket — the setpoint is free and immediate. Do that first, then wrap the tank that still feels warm. And if your bill is high for reasons beyond the tank, [the complete electric-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) and [the gas-bill guide](/blog/07-gas-bill-too-high/) are where the rest of the savings live.
+And the standing rule: **insulation is a multiplier, not a substitute.** A blanket on a tank set to 140°F saves less than a tank set to 120°F with no blanket — the setpoint is free and immediate. Do that first, then wrap the tank that still feels warm. And if your bill is high for reasons beyond the tank, [the complete electric-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) and [the gas-bill guide](/blog/gas-bill-too-high/) are where the rest of the savings live.
 
 The structural version of the same fix — heating water with the roof instead of the meter — is covered in [solar water heater basics](https://solarpoweredproject.com/pages/solar-water-heater.html).
 

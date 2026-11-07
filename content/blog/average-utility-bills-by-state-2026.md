@@ -85,7 +85,7 @@ Here is the national breakdown for the **narrow basket**:
           <li><strong>Florida</strong>: +6.3% (coal-to-gas conversions)</li>
           </ul>
           <p>Meanwhile, Idaho and North Dakota saw slight decreases (−0.9% and −1.2%, respectively), thanks to new transmission lines and stable hydropower output.</p>
-          <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/10-fixed-vs-variable-utility-rate/">how utility rates are set</a>.</p>
+          <p>For more context on how your state’s utility commission sets rates, see our guide on <a href="/blog/fixed-vs-variable-utility-rate/">how utility rates are set</a>.</p>
 
 
 ## Gas Bills by State: Heating Drives the Difference {#gas-bills-by-state-heating-drives-the-di}
@@ -128,7 +128,7 @@ Here is the national breakdown for the **narrow basket**:
 
           <p>California’s high costs aren’t just from rates—many cities (like San Diego and Los Angeles) add <strong>drought surcharges</strong> during dry periods. Some states have implemented conservation-tier pricing, meaning you pay more per gallon as your usage increases.</p>
           <p>Water bills also vary dramatically within states. In Texas, for example, Austin averages $52/month, while El Paso (with extensive reuse and desalination) is $39—despite being in a drought-prone region. That’s thanks to long-term infrastructure planning.</p>
-          <p>For practical ways to reduce your water bill, check out our <a href="/blog/44-how-to-lower-water-bill/">water-saving tips for homeowners</a>.</p>
+          <p>For practical ways to reduce your water bill, check out our <a href="/blog/how-to-lower-water-bill/">water-saving tips for homeowners</a>.</p>
 
 
 ## Total Utility Cost Comparison: 2026 State-by-State Summary {#total-utility-cost-comparison-2026-state}
@@ -315,7 +315,7 @@ For readers planning beyond the bill — a rooftop decision, a cross-state move 
 - [What the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/) — every line item above the table figures, explained.
 - [How to read your utility bill, line by line](/blog/how-to-read-your-utility-bill/) — decode your own statement against these averages.
 - [Which electricity rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) — what to do when rates vary by provider.
-- [How to lower your water bill](/blog/44-how-to-lower-water-bill/) — action steps for the fastest-rising line on the bill.
+- [How to lower your water bill](/blog/how-to-lower-water-bill/) — action steps for the fastest-rising line on the bill.
 - [Moving utilities to a new address](/blog/moving-utilities-checklist/) — the planner's checklist for the switch itself.
 
 {{< faq "How much more expensive are utilities in high-cost states like Hawaii versus low-cost states like Idaho?" >}}

@@ -33,7 +33,7 @@ Normal heating cycles run roughly 10-15 minutes under design conditions (colder 
 3. The house is **noisy with starts and stops** but never gets properly warm.
 4. Some rooms stay cold because air never circulates long enough to reach them.
 
-The opposite pattern — running continuously without stopping — is a different failure family: [why your furnace is running constantly](/blog/why-is-my-furnace-running-constantly/). The AC sibling of this article covers the cooling-side version: [AC short cycling causes and fixes](/blog/13-ac-short-cycling-causes-fixes/).
+The opposite pattern — running continuously without stopping — is a different failure family: [why your furnace is running constantly](/blog/why-is-my-furnace-running-constantly/). The AC sibling of this article covers the cooling-side version: [AC short cycling causes and fixes](/blog/ac-short-cycling-causes-fixes/).
 
 ## The Mechanism: What the Limit Switch Is Protecting
 
@@ -142,4 +142,4 @@ The two most common fixes are cheap: a filter (about $10-15; a six-pack roughly 
 
 {{< faq-schema >}}
 
-Related: [furnace smells like burning](/blog/furnace-smells-like-burning/), [furnace running constantly](/blog/why-is-my-furnace-running-constantly/), [why is my heating bill so high](/blog/why-is-my-heating-bill-so-high/), and [AC short cycling](/blog/13-ac-short-cycling-causes-fixes/) for the cooling season.
+Related: [furnace smells like burning](/blog/furnace-smells-like-burning/), [furnace running constantly](/blog/why-is-my-furnace-running-constantly/), [why is my heating bill so high](/blog/why-is-my-heating-bill-so-high/), and [AC short cycling](/blog/ac-short-cycling-causes-fixes/) for the cooling season.

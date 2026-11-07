@@ -1,7 +1,7 @@
 ---
 title: "How to Review a Customer Charge on a Utility Bill"
-slug: "17-what-is-customer-charge-on-utility-bill"
-aliases: ["/blog/gas-customer-charge-explained/"]
+slug: "what-is-customer-charge-on-utility-bill"
+aliases: ["/blog/17-what-is-customer-charge-on-utility-bill/", "/blog/gas-customer-charge-explained/"]
 description: "What a utility customer charge actually is, with verified monthly amounts from four utilities' published rates, and how to check yours against the tariff."
 date: 2026-05-28
 hero_below_answer: true
@@ -57,7 +57,7 @@ The charge is flat in both directions: it does not rise when you use more, and i
 | 200 kWh | $24.00 | $15.00 | $39.00 | **38%** |
 | 50 kWh | $6.00 | $15.00 | $21.00 | **71%** |
 
-Cut usage 92% (600 → 50 kWh) and the bill falls only 76% — the fixed floor holds. Two related rules follow. If a computed total dips below the tariff's floor, the [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) sets what you owe instead. And [budget billing](/blog/16-budget-billing-level-pay-explained/) only averages the total you pay — the customer charge still accrues underneath it every month.
+Cut usage 92% (600 → 50 kWh) and the bill falls only 76% — the fixed floor holds. Two related rules follow. If a computed total dips below the tariff's floor, the [minimum bill](/blog/minimum-bill-utility-bill-explained/) sets what you owe instead. And [budget billing](/blog/budget-billing-level-pay-explained/) only averages the total you pay — the customer charge still accrues underneath it every month.
 
 ## Why the amount rises over time
 
@@ -69,13 +69,13 @@ Customer charges move through rate cases — the proceedings in which a utility 
 2. **Find the utility's published rate for it.** Most utilities post customer-charge amounts on their rates pages [2][3][5].
 3. **Ask which rate schedule applies to your account.** One utility can run several residential schedules with different fixed charges — SMUD's standard rate carries $27.00/month, its Low Use rate $17.00 [1]. Compare against the schedule you are actually on, not the utility's headline rate.
 4. **Read what the utility says it covers.** SMUD, Con Edison, and Consumers Energy all state the covered costs in plain terms [1][4][6].
-5. **Separate it from everything else**: usage charges, [riders and surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/), [taxes and franchise fees](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/), and one-time fees.
+5. **Separate it from everything else**: usage charges, [riders and surcharges](/blog/utility-bill-surcharges-and-riders-explained/), [taxes and franchise fees](/blog/utility-bill-taxes-fees-franchise-charges-explained/), and one-time fees.
 6. **Watch for scheduled changes.** SMUD publishes its increases in advance ($26.20 → $27.00 → $27.80 across effective dates) [1], and PG&E's March 2026 restructure folded its old minimum electric charge into the Base Services Charge [3].
 
 ## It is not these other charges
 
-- **One-time fees**: a [connection fee](/blog/27-utility-connection-fee-explained/) attaches to starting service and a [reconnection fee](/blog/28-utility-reconnection-fee-explained/) to restoring it — the customer charge repeats monthly.
-- **Usage-linked recovery**: a [fuel adjustment charge](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) moves with fuel costs; the customer charge is flat.
+- **One-time fees**: a [connection fee](/blog/utility-connection-fee-explained/) attaches to starting service and a [reconnection fee](/blog/utility-reconnection-fee-explained/) to restoring it — the customer charge repeats monthly.
+- **Usage-linked recovery**: a [fuel adjustment charge](/blog/fuel-adjustment-charge-on-utility-bill-explained/) moves with fuel costs; the customer charge is flat.
 - **Delivery vs supply**: the customer charge sits on the delivery side of the [electric bill line-item breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 {{< faq "Why do I pay a customer charge in months I barely used anything?" >}}
@@ -86,7 +86,7 @@ Because it prices fixed service costs, not consumption: metering, billing, custo
 
 {{< faq "Is the customer charge the same as a minimum bill?" >}}
 
-No. The customer charge is an always-on cost component; a [minimum bill](/blog/22-minimum-bill-utility-bill-explained/) is a floor on the total amount due. On some tariffs the two share the same number by design — the distinction is the function.
+No. The customer charge is an always-on cost component; a [minimum bill](/blog/minimum-bill-utility-bill-explained/) is a floor on the total amount due. On some tariffs the two share the same number by design — the distinction is the function.
 
 {{< /faq >}}
 
@@ -98,7 +98,7 @@ No. Among rates published this month by four utilities, fixed charges run from $
 
 {{< faq "Can the customer charge change?" >}}
 
-Yes. Utilities adjust it through scheduled rate changes — SMUD's schedule steps up through 2027 [1] — and partial-period bills may prorate it; see [how proration works](/blog/20-utility-bill-proration-explained/).
+Yes. Utilities adjust it through scheduled rate changes — SMUD's schedule steps up through 2027 [1] — and partial-period bills may prorate it; see [how proration works](/blog/utility-bill-proration-explained/).
 
 {{< /faq >}}
 

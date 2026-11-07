@@ -44,7 +44,7 @@ That leaves the buyable market organized by **how much of your home you want exp
 | 3. Circuit monitoring | CT-clamp panel monitor | ~$100–200 | Per-circuit whole-home use, real time | Appliance names (a circuit ≠ a device) |
 | 4. Utility-embedded detection | Utility smart meter program | Free (if offered) | Device detection, eventually | Availability — rollouts are just starting |
 
-**Start at level 1 regardless.** Most utilities with smart meters expose hourly usage in their account portal, often with downloadable Green Button data. It won't name your devices, but it answers two questions for free: is your usage actually unusual, and when does your house burn its power? If your bill problem turns out to be a rate plan or an estimated read, no monitor was going to fix it — [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) walks that check in fifteen minutes.
+**Start at level 1 regardless.** Most utilities with smart meters expose hourly usage in their account portal, often with downloadable Green Button data. It won't name your devices, but it answers two questions for free: is your usage actually unusual, and when does your house burn its power? If your bill problem turns out to be a rate plan or an estimated read, no monitor was going to fix it — [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) walks that check in fifteen minutes.
 
 {{< visual src="/images/articles/best-home-energy-monitor-2026/monitoring-levels.webp" alt="Line illustration of a four-step staircase: a laptop with a bar chart, a smart plug, an electrical panel with clamps, and a utility smart meter at the top." wide="true" >}}
 

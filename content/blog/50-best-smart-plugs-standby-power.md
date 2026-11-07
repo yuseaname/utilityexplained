@@ -1,6 +1,6 @@
 ---
 title: "How to Measure and Reduce Standby Power (Cheap DIY)"
-slug: "50-best-smart-plugs-standby-power"
+slug: "best-smart-plugs-standby-power"
 description: "Measure standby power before buying a device, then use a suitably rated advanced power strip or smart plug where it can safely reduce idle use."
 date: 2026-05-30
 updated: 2026-09-06
@@ -16,6 +16,7 @@ sources:
   - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/ (retrieved 2026-08-29)
   - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/ (retrieved 2026-08-29)
   - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide (retrieved 2026-08-29)
+aliases: ["/blog/50-best-smart-plugs-standby-power/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -136,7 +137,7 @@ Start with equipment that is easy to observe and safe to switch off, such as sel
 
 {{< product-box asin="B0BYGRLRS1" name="Kasa Matter Smart Plug with Energy Monitoring, KP125M (2-Pack)" label="Two outlets, one app" description="Kasa's Matter-compatible smart plug with energy monitoring, sold in a 2-pack for covering multiple devices. The DOE recommends measuring standby power before reducing it — this plug gives you per-outlet data to decide which devices can safely power down." button="Check price on Amazon" >}}
 
-For a broader household review, see [how to lower utility bills](/blog/05-how-to-lower-utility-bills/) and [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/).
+For a broader household review, see [how to lower utility bills](/blog/how-to-lower-utility-bills/) and [how to read your electric bill](/blog/how-to-read-your-electric-bill/).
 
 For the full savings workflow beyond standby power, see [how to lower your electric bill: the complete guide](/blog/how-to-lower-electric-bill-complete-guide/).
 

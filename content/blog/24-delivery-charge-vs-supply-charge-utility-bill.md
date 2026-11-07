@@ -1,7 +1,7 @@
 ---
 title: "Delivery Charge vs Supply Charge on a Utility Bill"
-slug: "24-delivery-charge-vs-supply-charge-utility-bill"
-aliases: ["/blog/supply-vs-delivery-charges-electricity/"]
+slug: "delivery-charge-vs-supply-charge-utility-bill"
+aliases: ["/blog/24-delivery-charge-vs-supply-charge-utility-bill/", "/blog/supply-vs-delivery-charges-electricity/"]
 description: "What delivery and supply charges cover, who sets each rate, a verified per-utility split table, and whether supply is something you can shop for."
 date: 2026-05-28
 hero_below_answer: true
@@ -64,7 +64,7 @@ Notice what the table does not show: no utility publishes one timeless "supply r
 
 Delivery is never shoppable — one grid serves your address, and the state sets the wires-and-pipes rates through rate cases. Supply is shoppable in retail-choice states: **Pennsylvania, New York, Texas, Ohio, Illinois, New Jersey, Maryland, and Massachusetts** are among the states where you can buy the generation part of your electricity from a licensed supplier while your utility still delivers it and still answers the outage call. Pennsylvania's official PUC shopping site, PAPowerSwitch, reports **1,429,674 Pennsylvanians have switched suppliers as of July 2026** [6]. If you live in one of the other states, the utility is the only seller of supply — nothing to shop for, and the utility's own supply prices apply.
 
-Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/12-how-to-read-your-gas-bill/).
+Gas bills split the same way, and one gas example keeps this straight: Columbia Gas of Ohio separates its per-Mcf delivery service from the cost of gas itself, which Ohio customers can buy through the state's choice program under a Standard Choice Offer auctioned monthly — the identical two-bucket structure, one fuel over. The gas-specific mechanics live in our [gas delivery charge vs supply charge explainer](/blog/how-to-read-your-gas-bill/).
 
 ## A worked month: where 899 kWh goes
 
@@ -77,13 +77,13 @@ The national average household uses **{{< stat "avg_monthly_kwh" >}}** at an ave
 
 Same month's usage repriced in summer's peak windows instead: supply is 27.86¢/kWh, so the supply line jumps to $250.46 — 60% of a $418.92 bill — while delivery never moved. Supply alone nearly doubled the bill. On a city-owned integrated utility like Austin Energy, the same {{< stat "avg_monthly_kwh" "raw" >}} kWh splits about 30/70 — roughly $35 of supply-side pass-through against about $70 of energy/delivery-side charges plus the $16.50 customer charge [3].
 
-The lesson cuts both directions. Shrinking usage shrinks the per-kWh parts of *both* buckets but not the fixed charge — see the [customer charge](/blog/17-what-is-customer-charge-on-utility-bill/) — and no shopping decision touches delivery, ever.
+The lesson cuts both directions. Shrinking usage shrinks the per-kWh parts of *both* buckets but not the fixed charge — see the [customer charge](/blog/what-is-customer-charge-on-utility-bill/) — and no shopping decision touches delivery, ever.
 
 ## It is not these other charges
 
-- [Fuel adjustment charges](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) are the *mechanism* by which many utilities move supply costs — a sub-piece of the supply bucket, not a third bucket.
-- [Demand charges](/blog/49-demand-charges-electricity-bill-explained/) price your peak draw, usually on the delivery side for commercial accounts and some residential TOU rates.
-- Taxes and [rider surcharges](/blog/19-utility-bill-surcharges-and-riders-explained/) ride on both buckets. For the complete picture of every line on the statement, see the [complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) and the [electric bill line-item breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
+- [Fuel adjustment charges](/blog/fuel-adjustment-charge-on-utility-bill-explained/) are the *mechanism* by which many utilities move supply costs — a sub-piece of the supply bucket, not a third bucket.
+- [Demand charges](/blog/demand-charges-electricity-bill-explained/) price your peak draw, usually on the delivery side for commercial accounts and some residential TOU rates.
+- Taxes and [rider surcharges](/blog/utility-bill-surcharges-and-riders-explained/) ride on both buckets. For the complete picture of every line on the statement, see the [complete guide to understanding your utility bill](/blog/complete-guide-understanding-utility-bill/) and the [electric bill line-item breakdown](/blog/electric-bill-breakdown-understanding-line-items/).
 
 {{< faq "Can I lower my delivery charges?" >}}
 

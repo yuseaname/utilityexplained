@@ -165,7 +165,7 @@ COP (Coefficient of Performance) is a point-in-time efficiency number for heat p
 
 {{< faq "Can a heat pump be cheaper than a gas furnace?" >}}
 
-Sometimes, depending on local gas and electricity prices, system efficiency, and climate. The most practical way to think about it is to compare delivered heat and consider fixed charges — [our heat pump vs gas furnace guide](/blog/48-heat-pump-vs-gas-furnace-savings/) shows the formula.
+Sometimes, depending on local gas and electricity prices, system efficiency, and climate. The most practical way to think about it is to compare delivered heat and consider fixed charges — [our heat pump vs gas furnace guide](/blog/heat-pump-vs-gas-furnace-savings/) shows the formula.
 
 {{< /faq >}}
 
@@ -173,9 +173,9 @@ Sometimes, depending on local gas and electricity prices, system efficiency, and
 
 ## Related reading
 
-- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/48-heat-pump-vs-gas-furnace-savings/) — the per-MMBtu cost formula and the breakeven rule
+- [Heat Pump vs Gas Furnace: Which Is Cheaper to Run?](/blog/heat-pump-vs-gas-furnace-savings/) — the per-MMBtu cost formula and the breakeven rule
 - [Ductless Mini-Split vs Central Air](/blog/ductless-mini-split-vs-central-air/) — when skipping ductwork changes the efficiency equation
-- [Why Is My Electric Bill So High?](/blog/03-why-is-my-electric-bill-so-high/) — where seasonal electric spikes actually come from
+- [Why Is My Electric Bill So High?](/blog/why-is-my-electric-bill-so-high/) — where seasonal electric spikes actually come from
 
 ## Sources
 

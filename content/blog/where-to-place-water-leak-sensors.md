@@ -91,7 +91,7 @@ A dead sensor is worse than no sensor — it provides the *feeling* of protectio
 
 ## When Placement Isn't Enough
 
-Pucks answer "did water arrive here." If the question is "is anything leaking anywhere" — an unknown, a bill that's creeping, a meter that runs at night — the diagnosis starts upstream: [the water meter leak indicator](/blog/water-meter-leak-indicator-explained/) and [why is my water bill so high](/blog/06-water-bill-too-high/) are the free five-minute checks. And if the acceptable outcome is "the water stops by itself," that's the whole-home tier — [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers what auto-shutoff actually buys.
+Pucks answer "did water arrive here." If the question is "is anything leaking anywhere" — an unknown, a bill that's creeping, a meter that runs at night — the diagnosis starts upstream: [the water meter leak indicator](/blog/water-meter-leak-indicator-explained/) and [why is my water bill so high](/blog/water-bill-too-high/) are the free five-minute checks. And if the acceptable outcome is "the water stops by itself," that's the whole-home tier — [Flume vs Moen Flo vs Phyn](/blog/flume-vs-moen-flo-vs-phyn-water-monitors/) covers what auto-shutoff actually buys.
 
 ## Frequently asked questions {#faq}
 

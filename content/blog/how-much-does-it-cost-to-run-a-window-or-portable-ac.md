@@ -57,7 +57,7 @@ Using the {{< stat "electric_rate_jun2026" >}} rate, here is what those wattage 
 | 10,000 BTU | 1,000 W | $0.183 | $1.46 |
 | 12,000 BTU | 1,200 W | $0.220 | $1.76 |
 
-*Note: These figures assume the compressor is running 100% of the time. In reality, once a room reaches the set temperature, the compressor cycles off and the cost drops significantly. If your unit is [short cycling](/blog/13-ac-short-cycling-causes-fixes/), your costs may be higher due to the startup surge.*
+*Note: These figures assume the compressor is running 100% of the time. In reality, once a room reaches the set temperature, the compressor cycles off and the cost drops significantly. If your unit is [short cycling](/blog/ac-short-cycling-causes-fixes/), your costs may be higher due to the startup surge.*
 
 ## Portable AC: The Efficiency Penalty
 
@@ -72,7 +72,7 @@ Because of this, the industry moved to a new rating called **SACC (Seasonally Ad
 A typical 12,000 BTU (nameplate) portable unit draws about 1,100 to 1,400 watts. At 1,300 watts:
 **1.3 kW × $0.1834 = $0.238 per hour**
 
-While the hourly cost looks similar to a large window unit, the portable unit will likely run for more hours to achieve the same temperature drop, leading to a higher monthly bill. If you see a [sudden spike in your electricity bill](/blog/30-sudden-spike-in-electricity-bill-no-usage/) after switching to a portable unit, this efficiency gap is usually the culprit.
+While the hourly cost looks similar to a large window unit, the portable unit will likely run for more hours to achieve the same temperature drop, leading to a higher monthly bill. If you see a [sudden spike in your electricity bill](/blog/sudden-spike-in-electricity-bill-no-usage/) after switching to a portable unit, this efficiency gap is usually the culprit.
 
 ## Monthly Cost Scenarios
 
@@ -98,7 +98,7 @@ If you are deciding on a long-term cooling solution, the efficiency differences 
 
 - **Portable AC:** Least efficient. High heat bleed and negative pressure issues. Best for temporary use or where window units are forbidden.
 - **Window AC:** Moderately efficient. Cheap to buy, but can be noisy and block a window.
-- **Mini-Split:** Most efficient. These units often have SEER ratings of 20 to 30, meaning they can provide the same cooling as a window unit for about half the electricity cost. They are essentially small [heat pumps](/blog/48-heat-pump-vs-gas-furnace-savings/).
+- **Mini-Split:** Most efficient. These units often have SEER ratings of 20 to 30, meaning they can provide the same cooling as a window unit for about half the electricity cost. They are essentially small [heat pumps](/blog/heat-pump-vs-gas-furnace-savings/).
 
 {{< visual src="/images/articles/how-much-does-it-cost-to-run-a-window-or-portable-ac/efficiency-comparison.webp" alt="Bar chart comparing the relative efficiency of Portable AC (lowest), Window AC (middle), and Mini-Split (highest)." >}}
 
@@ -118,12 +118,12 @@ For more options on measuring tools, see our list of [Kill A Watt alternatives](
 
 ## Efficiency Tips to Lower Cooling Costs
 
-If your [electric bill is too high](/blog/03-why-is-my-electric-bill-so-high/), cooling is often the first place to look. Here are the most effective ways to reduce the run-time of your window or portable AC:
+If your [electric bill is too high](/blog/why-is-my-electric-bill-so-high/), cooling is often the first place to look. Here are the most effective ways to reduce the run-time of your window or portable AC:
 
 1. **Seal the Gaps:** Window units often have accordion side panels that leak air. Use foam tape or [window insulation kits](/blog/do-window-insulation-kits-pay-off/) to seal these gaps.
 2. **Manage the Sun:** Close curtains or blinds during the day to prevent solar heat gain. This reduces the "load" the AC has to fight.
 3. **Check the Filter:** A dirty filter restricts airflow, making the fan and compressor work harder — the same airflow-to-energy relationship that drives up furnace blower costs in winter applies to AC fans in summer.
-4. **Use Off-Peak Hours:** If your utility has time-of-use rates, try to pre-cool your room during [times when electricity is cheapest](/blog/46-what-time-is-electricity-cheapest/) and turn the unit up during peak afternoon hours.
+4. **Use Off-Peak Hours:** If your utility has time-of-use rates, try to pre-cool your room during [times when electricity is cheapest](/blog/what-time-is-electricity-cheapest/) and turn the unit up during peak afternoon hours.
 5. **Thermostat Settings:** Using a [programmable thermostat](/blog/do-programmable-thermostats-cut-heating-bills/) or a smart AC controller can prevent the unit from cooling an empty room.
 
 ## Summary Table: AC Running Costs

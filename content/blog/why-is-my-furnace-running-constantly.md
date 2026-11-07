@@ -21,7 +21,7 @@ sources:
 
 ## Quick Answer
 
-**In cold weather, a gas furnace that runs long cycles — even back-to-back — is often just doing its job: when heat loss outpaces a single cycle's output, the thermostat never satisfies.** The question that saves money is whether the run-time is *weather-driven* (normal, fixable only with insulation and air sealing) or *problem-driven* (the furnace is producing less heat than it should, or the thermostat is misreading). Work the ranked list below in order: the first three causes are free to check and cover most cases; the last two need a tech. This page is about gas furnaces in heating season — if your AC or heat pump short-cycles year-round, that's a different failure mode covered in [AC short-cycling causes and fixes](/blog/13-ac-short-cycling-causes-fixes/), and if the system runs endlessly while the house *stays cold*, skip straight to [duct leaks: HVAC running all day](/blog/duct-leaks-symptoms-hvac-running-all-day/).
+**In cold weather, a gas furnace that runs long cycles — even back-to-back — is often just doing its job: when heat loss outpaces a single cycle's output, the thermostat never satisfies.** The question that saves money is whether the run-time is *weather-driven* (normal, fixable only with insulation and air sealing) or *problem-driven* (the furnace is producing less heat than it should, or the thermostat is misreading). Work the ranked list below in order: the first three causes are free to check and cover most cases; the last two need a tech. This page is about gas furnaces in heating season — if your AC or heat pump short-cycles year-round, that's a different failure mode covered in [AC short-cycling causes and fixes](/blog/ac-short-cycling-causes-fixes/), and if the system runs endlessly while the house *stays cold*, skip straight to [duct leaks: HVAC running all day](/blog/duct-leaks-symptoms-hvac-running-all-day/).
 
 ## First: how much running is normal?
 
@@ -31,13 +31,13 @@ A properly sized furnace in design-cold weather runs long cycles — 10 to 20+ m
 
 - **Runs constantly but the house holds temperature** → normal-for-the-weather, or thermostat set too high / heat loss too high. Bill problem, not breakdown.
 - **Runs constantly and the house slowly loses ground** → the furnace's delivered heat is below the house's loss: filter, ducts, sizing, or a failing component. Fix-order below.
-- **Short rapid cycles (under ~5 minutes) then off** → that IS short-cycling: [the AC short-cycling page](/blog/13-ac-short-cycling-causes-fixes/) covers the mechanism (many causes are shared).
+- **Short rapid cycles (under ~5 minutes) then off** → that IS short-cycling: [the AC short-cycling page](/blog/ac-short-cycling-causes-fixes/) covers the mechanism (many causes are shared).
 
 ## Causes ranked by likelihood × how cheap they are to check
 
 ### 1. It's just cold (and your house leaks)
 
-The most common "problem" is weather. If the run-time tracks the outdoor temperature and the house stays warm, the furnace is matching a real heat load. The fix isn't in the furnace — it's shrinking the load: air sealing and insulation cut run-hours directly ([how to check for energy leaks](/blog/47-check-energy-leaks-home-diy/)). Free to verify: compare a mild-day cycle pattern to a cold-day one.
+The most common "problem" is weather. If the run-time tracks the outdoor temperature and the house stays warm, the furnace is matching a real heat load. The fix isn't in the furnace — it's shrinking the load: air sealing and insulation cut run-hours directly ([how to check for energy leaks](/blog/check-energy-leaks-home-diy/)). Free to verify: compare a mild-day cycle pattern to a cold-day one.
 
 ### 2. Thermostat set too high, or mounted somewhere wrong
 
@@ -59,7 +59,7 @@ An undersized furnace simply never satisfies on design days — constant run wit
 
 ## What constant running does to your bill
 
-Run-hours × cost-per-run-hour = the fuel line of your gas bill. A 60,000 BTU/h furnace at 80% AFUE burns about $1.15 of gas per hour of run at national averages — the full per-hour math is [how much does it cost to run a furnace](/blog/how-much-does-it-cost-to-run-a-furnace/). The levers that matter, biggest first: setpoint (each degree up extends run-time), filter and ducts (delivered-heat efficiency), insulation (the load itself). If the bill — not the noise — is what brought you here, [why is my gas bill so high](/blog/07-gas-bill-too-high/) ranks all eleven drivers.
+Run-hours × cost-per-run-hour = the fuel line of your gas bill. A 60,000 BTU/h furnace at 80% AFUE burns about $1.15 of gas per hour of run at national averages — the full per-hour math is [how much does it cost to run a furnace](/blog/how-much-does-it-cost-to-run-a-furnace/). The levers that matter, biggest first: setpoint (each degree up extends run-time), filter and ducts (delivered-heat efficiency), insulation (the load itself). If the bill — not the noise — is what brought you here, [why is my gas bill so high](/blog/gas-bill-too-high/) ranks all eleven drivers.
 
 ## The DIY-vs-call line
 

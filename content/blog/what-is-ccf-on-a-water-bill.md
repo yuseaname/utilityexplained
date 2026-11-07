@@ -156,7 +156,7 @@ In many cities, yes. Sewer charges are often calculated from your water usage (i
 ## Next steps
 
 - Convert your own CCF into gallons and dollars with the [CCF calculator](/blog/ccf-calculator/).
-- Your CCF number looks high? Walk through [why your water bill is so high](/blog/06-water-bill-too-high/) — 11 checks ranked by likelihood.
+- Your CCF number looks high? Walk through [why your water bill is so high](/blog/water-bill-too-high/) — 11 checks ranked by likelihood.
 - Suspect a leak? [Check your meter's leak indicator](/blog/water-meter-leak-indicator-explained/) first — it takes two minutes.
 - Curious how water usage becomes sewer charges? See [how sewer charges work on your water bill](/blog/how-sewer-charges-work-on-your-water-bill/).
 

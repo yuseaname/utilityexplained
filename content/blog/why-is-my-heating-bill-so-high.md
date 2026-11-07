@@ -30,13 +30,13 @@ sources:
 Before blaming the furnace, you must determine if you are using more fuel or simply paying more for the same amount. Heating bills are the product of two numbers: **Usage × Rate = Total Cost.**
 
 1.  **Check the Usage:** Look for "Therms" (gas), "Gallons" (propane/oil), or "kWh" (electric). If this number is higher than the same month last year, your house is demanding more heat or your system is less efficient.
-2.  **Check the Rate:** If your usage is flat but the bill is up, your utility or fuel provider has raised prices. For natural gas, rates typically fluctuate between **$1.00–$1.90 per therm** depending on the state and season. If you are specifically seeing a gas spike, see our guide on [why is my gas bill so high](/blog/07-gas-bill-too-high/) for rate-specific mechanics.
+2.  **Check the Rate:** If your usage is flat but the bill is up, your utility or fuel provider has raised prices. For natural gas, rates typically fluctuate between **$1.00–$1.90 per therm** depending on the state and season. If you are specifically seeing a gas spike, see our guide on [why is my gas bill so high](/blog/gas-bill-too-high/) for rate-specific mechanics.
 
 ## Ranked Cause 1: The "Auxiliary Heat" Trap (Heat Pumps)
 
 If you have a heat pump, the most common cause of a massive electric bill spike is "Auxiliary Heat" (also called Emergency Heat or Heat Strips). Heat pumps are highly efficient—often moving 3 to 4 units of heat for every 1 unit of electricity used—but they lose capacity as outdoor temperatures drop.
 
-When it gets too cold for the compressor to keep up, the system turns on electric resistance coils. These coils have a Coefficient of Performance (COP) of 1.0, meaning they are roughly 3 to 4 times more expensive to run than the heat pump itself. If your thermostat is set too high or the outdoor sensor is faulty, these strips may run even when they aren't needed. You can read more about this efficiency gap in our [heat pump vs gas furnace savings](/blog/48-heat-pump-vs-gas-furnace-savings/) analysis and the technical breakdown of [AFUE vs COP](/blog/afue-vs-seer-vs-hspf-vs-cop/).
+When it gets too cold for the compressor to keep up, the system turns on electric resistance coils. These coils have a Coefficient of Performance (COP) of 1.0, meaning they are roughly 3 to 4 times more expensive to run than the heat pump itself. If your thermostat is set too high or the outdoor sensor is faulty, these strips may run even when they aren't needed. You can read more about this efficiency gap in our [heat pump vs gas furnace savings](/blog/heat-pump-vs-gas-furnace-savings/) analysis and the technical breakdown of [AFUE vs COP](/blog/afue-vs-seer-vs-hspf-vs-cop/).
 
 ## Ranked Cause 2: The Blower Motor (Electric Spikes on Gas Heat)
 
@@ -57,7 +57,7 @@ To keep the blower efficient:
 
 ## Ranked Cause 3: Thermostat Behavior and "Phantom" Loads
 
-Your thermostat is the "brain" of the system. If it is misconfigured, it can cause "short cycling," where the heater turns on and off rapidly. This is incredibly inefficient because the system uses the most energy during the startup phase. This is similar to [AC short cycling](/blog/13-ac-short-cycling-causes-fixes/) and is often caused by a thermostat placed too close to a heat vent or a drafty window. The settings themselves are half the battle — the full winter table is in [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
+Your thermostat is the "brain" of the system. If it is misconfigured, it can cause "short cycling," where the heater turns on and off rapidly. This is incredibly inefficient because the system uses the most energy during the startup phase. This is similar to [AC short cycling](/blog/ac-short-cycling-causes-fixes/) and is often caused by a thermostat placed too close to a heat vent or a drafty window. The settings themselves are half the battle — the full winter table is in [what temperature to set your thermostat in winter](/blog/what-temperature-thermostat-winter/).
 
 Upgrading to a smart thermostat like the {{< amazon asin="B0D5BBYRJM" text="Google Nest Learning Thermostat (4th Gen)" >}} or the {{< amazon asin="B09XXS48P8" text="ecobee Premium" >}} can help by using "smart recovery" to ramp up heat gradually rather than slamming on the expensive auxiliary strips. We've analyzed whether these [programmable thermostats actually cut bills](/blog/do-programmable-thermostats-cut-heating-bills/) in detail.
 
@@ -80,7 +80,7 @@ To understand if your bill is "normal," you have to compare the raw energy cost.
 *   **Cost per 100,000 BTU (Electric):** 29.3 kWh × $0.1834 = **$5.37**
 *   **Cost per 100,000 BTU (Gas at 80% AFUE):** $1.50 / 0.80 = **$1.88**
 
-In this scenario, heating with standard electric baseboards or space heaters is nearly **2.85 times more expensive** than gas. This is why using a [space heater](/blog/42-best-energy-efficient-space-heater/) to "save money" often backfires if you don't turn down the central furnace significantly. For a full breakdown, see our [gas vs electric heating cost comparison](/blog/48-heat-pump-vs-gas-furnace-savings/).
+In this scenario, heating with standard electric baseboards or space heaters is nearly **2.85 times more expensive** than gas. This is why using a [space heater](/blog/best-energy-efficient-space-heater/) to "save money" often backfires if you don't turn down the central furnace significantly. For a full breakdown, see our [gas vs electric heating cost comparison](/blog/heat-pump-vs-gas-furnace-savings/).
 
 ## Ranked Cause 5: Weather You Did Not Feel Yet
 
@@ -90,14 +90,14 @@ Heating demand tracks outdoor temperature weeks before you notice it. A month th
 2.  Compute **usage per HDD** for each period — therms ÷ HDD for gas, kWh ÷ HDD for electric heat.
 3.  If usage-per-HDD is flat while the total rose, the weather explains it. If usage-per-HDD climbed, your house or equipment changed — keep reading.
 
-The same logic catches the other silent driver: a longer billing cycle. A 33-day January bill against a 29-day December will read as a "spike" until you divide by days. The [billing-cycle guide](/blog/23-utility-billing-cycle-explained/) shows where the service dates live on the statement.
+The same logic catches the other silent driver: a longer billing cycle. A 33-day January bill against a 29-day December will read as a "spike" until you divide by days. The [billing-cycle guide](/blog/utility-billing-cycle-explained/) shows where the service dates live on the statement.
 
 ## Ranked Cause 6: The Rest of the Bill (Delivery, Fees, and Room Heaters)
 
 Two line-item effects routinely masquerade as "heating costs":
 
-*   **Delivery and riders.** For natural gas, the commodity charge is only part of the story — regulated bills split supply from delivery, and delivery charges (plus riders and taxes) can rival the fuel itself. The [gas bill walkthrough](/blog/07-gas-bill-too-high/) maps every line, and the [fuel adjustment charge explainer](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) shows how a per-kWh rider can flip from credit to charge mid-winter.
-*   **Room heaters.** A single 1,500-watt space heater running the hours a cold bedroom implies can add a startling block of kWh to an otherwise-gas household's electric bill. The [space heater guide](/blog/42-best-energy-efficient-space-heater/) has the honest math on when one helps and when it just moves the cost.
+*   **Delivery and riders.** For natural gas, the commodity charge is only part of the story — regulated bills split supply from delivery, and delivery charges (plus riders and taxes) can rival the fuel itself. The [gas bill walkthrough](/blog/gas-bill-too-high/) maps every line, and the [fuel adjustment charge explainer](/blog/fuel-adjustment-charge-on-utility-bill-explained/) shows how a per-kWh rider can flip from credit to charge mid-winter.
+*   **Room heaters.** A single 1,500-watt space heater running the hours a cold bedroom implies can add a startling block of kWh to an otherwise-gas household's electric bill. The [space heater guide](/blog/best-energy-efficient-space-heater/) has the honest math on when one helps and when it just moves the cost.
 
 ## Propane and Heating Oil: The Delivered-Fuel Difference
 
@@ -125,11 +125,11 @@ That five-minute division turns a scary bill into a ranked shortlist — which i
 | Electric bill spike (Gas Heat) | Blower running longer (PSC) or harder (ECM) | Change filter; [schedule a tune-up](/blog/furnace-tune-up-cost-schedule/) |
 | Electric bill spike (Heat Pump) | Auxiliary heat strips engaged | Lower thermostat; check outdoor sensor |
 | Gas bill spike (Usage up) | Extreme cold or envelope leaks | [Seal drafts](/blog/how-to-find-and-seal-drafts-in-your-home/); check insulation |
-| Gas bill spike (Usage flat) | Utility rate increase | [Compare rates](/blog/07-gas-bill-too-high/) |
-| High bill in one room only | Space heater usage | Check [space heater wattage](/blog/42-best-energy-efficient-space-heater/) |
+| Gas bill spike (Usage flat) | Utility rate increase | [Compare rates](/blog/gas-bill-too-high/) |
+| High bill in one room only | Space heater usage | Check [space heater wattage](/blog/best-energy-efficient-space-heater/) |
 | Usage up, cold month | Weather (longer run cycles) | Normalize by heating degree days before assuming a fault |
 | Delivered-fuel bill jumped | Propane/oil fill timing | Compare price-per-gallon on delivery tickets |
-| Electric rider flipped to a charge | Delivery/rider increase | Read the [fuel adjustment line](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/) |
+| Electric rider flipped to a charge | Delivery/rider increase | Read the [fuel adjustment line](/blog/fuel-adjustment-charge-on-utility-bill-explained/) |
 
 {{< visual src="/images/articles/why-is-my-heating-bill-so-high/heating-cost-comparison.webp" alt="Bar chart comparing the cost of 100,000 BTUs across Natural Gas, Heat Pump, and Electric Resistance." wide="true" >}}
 

@@ -43,7 +43,7 @@ In U.S. homes, **space heating and air conditioning account for about 52% of ene
 
 ## Step 1: Run a Home Energy Assessment (Free, DIY First)
 
-DOE's guidance treats the assessment as the first step before improvements — and before adding any renewable-energy system.[3] A DIY pass documents the obvious — air leaks, dirty filters, blocked vents, water-heater temperature, old incandescent bulbs — and a professional covers insulation, combustion, electrical-panel, or moisture concerns you can't safely assess. Pair it with your bill data: the last 12 months of kWh, your rate plan, and interval data if offered (see [How to Read Your Electric Bill](/blog/01-how-to-read-your-electric-bill/) and [Understanding kWh Usage](/blog/11-understanding-kwh-usage/)).
+DOE's guidance treats the assessment as the first step before improvements — and before adding any renewable-energy system.[3] A DIY pass documents the obvious — air leaks, dirty filters, blocked vents, water-heater temperature, old incandescent bulbs — and a professional covers insulation, combustion, electrical-panel, or moisture concerns you can't safely assess. Pair it with your bill data: the last 12 months of kWh, your rate plan, and interval data if offered (see [How to Read Your Electric Bill](/blog/how-to-read-your-electric-bill/) and [Understanding kWh Usage](/blog/understanding-kwh-usage/)).
 
 ## The Measures With the Best-Documented Savings
 
@@ -54,7 +54,7 @@ Ranked by evidence strength and leverage:
 3. **Water-heating steps — nearly 20% of your energy.[3]** Set the tank to 120°F (check manufacturer guidance first), fix hot-side drips, and wash laundry cold. A WaterSense showerhead saves about 330 kWh a year in water heating — roughly a month of typical household electricity.[7]
 4. **HVAC filter and coil upkeep.** Check filters monthly, change at least every 3 months, and schedule a yearly professional tune-up, per ENERGY STAR.[8]
 5. **Efficient appliances at replacement time.** An ENERGY STAR certified dishwasher costs about $50 per year to run — one of the few appliance swaps with a documented running-cost gap that large when replacing a 1990s model.[9]
-6. **Standby loads — measure, then switch.** Electronics and small appliances draw power off-hours: measure first (a monitoring smart plug shows daily kWh), then schedule the proven offenders off — the [smart-plug comparison](/blog/50-best-smart-plugs-standby-power/) rates current models.
+6. **Standby loads — measure, then switch.** Electronics and small appliances draw power off-hours: measure first (a monitoring smart plug shows daily kWh), then schedule the proven offenders off — the [smart-plug comparison](/blog/best-smart-plugs-standby-power/) rates current models.
 
 For the full ranked walkthrough with bill math: [How to Lower Your Electric Bill: The Complete Guide](/blog/how-to-lower-electric-bill-complete-guide/).
 
@@ -62,9 +62,9 @@ For the full ranked walkthrough with bill math: [How to Lower Your Electric Bill
 
 The same kWh can cost differently by rate design — confirm what you're on:
 
-- **Time-of-use plans** reward shifting laundry, dishwashing, and EV charging off-peak — real 2026 tariff examples in [What Time Is Electricity Cheapest?](/blog/46-what-time-is-electricity-cheapest/) and [How to Review a Time-of-Use Electricity Plan](/blog/08-time-of-use-electricity/).
+- **Time-of-use plans** reward shifting laundry, dishwashing, and EV charging off-peak — real 2026 tariff examples in [What Time Is Electricity Cheapest?](/blog/what-time-is-electricity-cheapest/) and [How to Review a Time-of-Use Electricity Plan](/blog/time-of-use-electricity/).
 - **Tiered rates** charge more per kWh above a baseline — trimming the top tier has outsized value ([Tiered Electricity Rates Explained](/blog/tiered-electricity-rates-explained/)).
-- **Fees and riders** are on every bill and worth auditing line-by-line ([Understanding Your Utility Bill's Surcharges and Riders](/blog/19-utility-bill-surcharges-and-riders-explained/)).
+- **Fees and riders** are on every bill and worth auditing line-by-line ([Understanding Your Utility Bill's Surcharges and Riders](/blog/utility-bill-surcharges-and-riders-explained/)).
 
 ## Before Adding Solar
 

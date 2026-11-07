@@ -48,7 +48,7 @@ The ladder, from the floor up:
 
 A filter's rating says what the media can catch. The system's documentation says what the blower can pull through it. Only one of those numbers is printed on the box, which is exactly why the other one gets ignored — usually at the moment of purchase.
 
-When the mismatch is real, the symptoms are mechanical rather than mysterious: airflow at the registers goes weak, runtimes stretch, and in aggravated cases the system short-cycles. That last one has its own diagnosis page, because it deserves more than a parenthesis: [why your AC short-cycles, and how to fix it](/blog/13-ac-short-cycling-causes-fixes/).
+When the mismatch is real, the symptoms are mechanical rather than mysterious: airflow at the registers goes weak, runtimes stretch, and in aggravated cases the system short-cycles. That last one has its own diagnosis page, because it deserves more than a parenthesis: [why your AC short-cycles, and how to fix it](/blog/ac-short-cycling-causes-fixes/).
 
 **So treat the manual as the ceiling, not a suggestion [2].** If the documentation doesn't confirm your system handles a tier, that tier is unavailable to you — no matter what the box promises or the allergies vote for. Your system breathes first; the rating argues second.
 
@@ -111,7 +111,7 @@ Ready to buy the workhorse tier in the most common size? [Our MERV 11 six-pack c
 
 And if allergy relief is the actual goal, a room HEPA unit — its own sealed airflow path, filtered air where you actually sleep — is often the better-matched purchase than pushing the whole house through denser media. Weigh that as a consideration, not medical advice: the blower governs the system upgrade, and the room governs the HEPA one.
 
-For the same strain question from the other end — what a house loses through gaps and leaks before any filter matters — see [how to check your home for energy leaks](/blog/47-check-energy-leaks-home-diy/). The sealing half of that walk-through is its own guide: [how to find and seal drafts in your home](/blog/how-to-find-and-seal-drafts-in-your-home/).
+For the same strain question from the other end — what a house loses through gaps and leaks before any filter matters — see [how to check your home for energy leaks](/blog/check-energy-leaks-home-diy/). The sealing half of that walk-through is its own guide: [how to find and seal drafts in your home](/blog/how-to-find-and-seal-drafts-in-your-home/).
 
 ## Frequently Asked Questions
 

@@ -91,7 +91,7 @@ None of these devices *saves* water by existing. The savings come from what the 
 - If your water bill is ~$60/month, a caught slow leak can pay for a Flume within a year or two *if one exists to catch*. If none exists, the Flume bought you alerts and data — worth it to some households, pure cost to others.
 - The inline units' payback case runs through *avoided damage*, not the water bill: one insurance-claim-worthy event, or a carrier discount. Insurance math is individual — ask before buying, not after.
 
-For the diagnostic side of water bills — is a leak even your problem? — start with [why is my water bill so high](/blog/06-water-bill-too-high/) and [the water meter leak indicator](/blog/water-meter-leak-indicator-explained/). Both are free, and a five-minute meter check sometimes answers the question a $580 device was going to answer in three weeks.
+For the diagnostic side of water bills — is a leak even your problem? — start with [why is my water bill so high](/blog/water-bill-too-high/) and [the water meter leak indicator](/blog/water-meter-leak-indicator-explained/). Both are free, and a five-minute meter check sometimes answers the question a $580 device was going to answer in three weeks.
 
 ## Decision Rules
 

@@ -124,9 +124,9 @@ A gadget that pays for itself in one home may waste money in another. Here are t
 4. Check electrical rating, installation requirements, and manufacturer instructions.
 5. Recheck the bill or measured use after the change.
 
-DOE notes that ENERGY STAR-qualified products exceed federal minimum standards for efficiency and quality.[1] That label can help when an appliance, electronic product, or other equipment is already due for replacement; it is not evidence that every connected device or gadget will pay for itself. Before buying anything, inspecting the home itself is free — our [DIY guide to checking for energy leaks](/blog/47-check-energy-leaks-home-diy/) walks room by room through the drafts, ducts, and insulation gaps most worth measuring first.
+DOE notes that ENERGY STAR-qualified products exceed federal minimum standards for efficiency and quality.[1] That label can help when an appliance, electronic product, or other equipment is already due for replacement; it is not evidence that every connected device or gadget will pay for itself. Before buying anything, inspecting the home itself is free — our [DIY guide to checking for energy leaks](/blog/check-energy-leaks-home-diy/) walks room by room through the drafts, ducts, and insulation gaps most worth measuring first.
 
-For a broader starting point, see [how to read your electric bill](/blog/01-how-to-read-your-electric-bill/) and [how to lower utility bills](/blog/05-how-to-lower-utility-bills/).
+For a broader starting point, see [how to read your electric bill](/blog/how-to-read-your-electric-bill/) and [how to lower utility bills](/blog/how-to-lower-utility-bills/).
 
 Deep dives on the measuring tools named here: [the best home energy monitor 2026](/blog/best-home-energy-monitor-2026/), [Kill A Watt alternatives](/blog/kill-a-watt-alternatives/), and [which smart plugs actually measure energy](/blog/smart-plug-energy-monitoring-which-measures-usage/).
 

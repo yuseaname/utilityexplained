@@ -1,7 +1,7 @@
 ---
 title: "How to Read Your Electric Bill (Line by Line Guide)"
-slug: "01-how-to-read-your-electric-bill"
-aliases: ["/blog/41-how-to-read-electricity-bill/"]
+slug: "how-to-read-your-electric-bill"
+aliases: ["/blog/01-how-to-read-your-electric-bill/", "/blog/41-how-to-read-electricity-bill/"]
 description: "How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in ten minutes."
 date: 2026-03-07
 updated: 2026-10-30
@@ -29,9 +29,9 @@ sources:
 - **Actual and estimated reads are different.** A utility can estimate use when it cannot read a meter and later correct the bill when it obtains a read.[3]
 - **Rate plans matter.** A time-of-use plan can price electricity differently at different times, but the utility's current plan details control the schedule and price.[6]
 
-**Next step:** For a deeper breakdown of every charge on your statement, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/). If your bill is higher than expected, walk through [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) to diagnose the cause.
+**Next step:** For a deeper breakdown of every charge on your statement, see the [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/). If your bill is higher than expected, walk through [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) to diagnose the cause.
 
-Start with [the electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide, or check [why is my electric bill so high](/blog/03-why-is-my-electric-bill-so-high/) for troubleshooting. For gas bills, see [how to read your gas bill](/blog/12-how-to-read-your-gas-bill/) and [why is my gas bill so high](/blog/07-gas-bill-too-high/). Then:
+Start with [the electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) for a full charge-by-charge guide, or check [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) for troubleshooting. For gas bills, see [how to read your gas bill](/blog/how-to-read-your-gas-bill/) and [why is my gas bill so high](/blog/gas-bill-too-high/). Then:
 
 ## Find These Items First
 
@@ -56,7 +56,7 @@ A kilowatt equals 1,000 watts. One kilowatt of electricity used for one hour equ
 
 For context only, the U.S. Energy Information Administration reports that the average annual electricity purchases of a U.S. residential electric-utility customer were 10,791 kWh in 2022, or about {{< stat "avg_monthly_kwh" >}}; as of 2026 that remains EIA's latest published average. EIA notes that grid purchases may not equal total household consumption for a customer with grid-connected, net-metered solar.[2]
 
-For how much electricity a typical household actually uses, see [understanding kWh usage](/blog/11-understanding-kwh-usage/) — it walks through what a normal month looks like and why yours may not match the average.
+For how much electricity a typical household actually uses, see [understanding kWh usage](/blog/understanding-kwh-usage/) — it walks through what a normal month looks like and why yours may not match the average.
 
 Your own prior bills are more useful than a national average when reviewing your account.
 
@@ -116,7 +116,7 @@ Do not rely on a generic “typical cost” range. The amount and calculation me
 
 Use the definition printed by your own utility whenever one is available.
 
-The line most bills split in half is delivery versus supply — one for the wires and reading, one for the electricity itself. [Delivery charge vs supply charge, side by side](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) shows where each on your statement goes.
+The line most bills split in half is delivery versus supply — one for the wires and reading, one for the electricity itself. [Delivery charge vs supply charge, side by side](/blog/delivery-charge-vs-supply-charge-utility-bill/) shows where each on your statement goes.
 
 ## Calculate a Bill-Wide Effective Rate
 
@@ -141,7 +141,7 @@ Some rate plans use more than one price. The statement or tariff should show whe
 - **Seasonal pricing** — the price or time period can change by season.
 - **Demand-related charges** — more common on commercial accounts, but the bill and tariff control.
 
-Do not use a generic peak-hour schedule. Con Edison, for example, publishes time-of-use details for eligible customers, but its plan documentation—not a national rule—sets those periods and prices.[6] If you have a time-of-use plan, compare its current schedule with flexible loads such as laundry, dishwashing, or EV charging. For how to pull the periods and prices out of your own plan documents, see [time-of-use electricity plans: how to review a TOU schedule](/blog/08-time-of-use-electricity/).
+Do not use a generic peak-hour schedule. Con Edison, for example, publishes time-of-use details for eligible customers, but its plan documentation—not a national rule—sets those periods and prices.[6] If you have a time-of-use plan, compare its current schedule with flexible loads such as laundry, dishwashing, or EV charging. For how to pull the periods and prices out of your own plan documents, see [time-of-use electricity plans: how to review a TOU schedule](/blog/time-of-use-electricity/).
 
 ## Review a Higher-Than-Expected Bill
 
@@ -154,7 +154,7 @@ A larger bill can result from more kWh used, a longer billing period, a differen
 5. **Compare charge descriptions.** Identify new or changed line items, credits, taxes, or adjustments.
 6. **Keep records.** Save the bill, relevant meter information, and notes from conversations with the utility.
 
-If the kWh total looks right but the dollar total still doesn't add up, work through [sudden spike in electricity bill with no usage change](/blog/30-sudden-spike-in-electricity-bill-no-usage/) — it covers the charges and conditions that raise a bill without raising usage.
+If the kWh total looks right but the dollar total still doesn't add up, work through [sudden spike in electricity bill with no usage change](/blog/sudden-spike-in-electricity-bill-no-usage/) — it covers the charges and conditions that raise a bill without raising usage.
 
 ## What to Do if You Think the Bill Is Wrong
 
@@ -167,11 +167,11 @@ Have the account number, billing period, disputed line item, relevant meter info
 ## Related Reading
 
 - [Electric bill breakdown: every charge explained](/blog/electric-bill-breakdown-understanding-line-items/) — the line-item decoder for everything on the statement.
-- [Why is my electric bill so high?](/blog/03-why-is-my-electric-bill-so-high/) — the full diagnosis when the total jumps.
-- [How to read your gas bill](/blog/12-how-to-read-your-gas-bill/) — the same line-by-line method for gas statements.
-- [Delivery charge vs supply charge: the two big halves of your bill](/blog/24-delivery-charge-vs-supply-charge-utility-bill/) — the split behind most charge confusion.
-- [Utility billing cycle: why a 35-day period costs more than 28 days](/blog/23-utility-billing-cycle-explained/) — when the period, not usage, moves the total.
-- [Understanding kWh usage: what a normal month of electricity looks like](/blog/11-understanding-kwh-usage/) — the baseline for judging your own usage.
+- [Why is my electric bill so high?](/blog/why-is-my-electric-bill-so-high/) — the full diagnosis when the total jumps.
+- [How to read your gas bill](/blog/how-to-read-your-gas-bill/) — the same line-by-line method for gas statements.
+- [Delivery charge vs supply charge: the two big halves of your bill](/blog/delivery-charge-vs-supply-charge-utility-bill/) — the split behind most charge confusion.
+- [Utility billing cycle: why a 35-day period costs more than 28 days](/blog/utility-billing-cycle-explained/) — when the period, not usage, moves the total.
+- [Understanding kWh usage: what a normal month of electricity looks like](/blog/understanding-kwh-usage/) — the baseline for judging your own usage.
 
 ## Frequently Asked Questions
 

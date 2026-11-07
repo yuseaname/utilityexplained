@@ -1,6 +1,6 @@
 ---
 title: "How to Review Surcharges and Riders on a Utility Bill"
-slug: "19-utility-bill-surcharges-and-riders-explained"
+slug: "utility-bill-surcharges-and-riders-explained"
 description: "What are utility-bill surcharges and riders? Real named examples plus a 4-step workflow to verify yours against the tariff, the PUC docket, and your bill."
 date: 2026-05-28
 updated: 2026-08-29
@@ -16,6 +16,7 @@ sources:
   - https://codes.ohio.gov/orc/4929.161 (retrieved 2026-08-29)
   - https://www.duke-energy.com/energy-education/understanding-riders (retrieved 2026-08-29)
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options (retrieved 2026-08-29)
+aliases: ["/blog/19-utility-bill-surcharges-and-riders-explained/"]
 ---
 
 {{< affiliate-disclosure >}}
@@ -26,7 +27,7 @@ sources:
 
 **A rider or surcharge is an add-on charge a utility collects outside its base rate, approved by the state public utilities commission, to recover one named cost.** Ohio's utilities commission defines a rider as "a utility charge, not included in standard rates, that allows a utility to recover the costs of specific programs."[1] The commission approves it, caps what it can collect, and re-checks the numbers on a schedule.[1] Riders appear on electric, natural gas, and water bills; find yours in the utility's tariff or bill explanation page, never from the label alone.[1]
 
-On your bill, these lines usually carry the specific cost's name — fuel, storm, vegetation, energy-efficiency — and the named examples from real bills are in the table below. If your line instead reads as a percentage of the bill, it belongs to the [taxes, fees, and franchise charges family](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/).
+On your bill, these lines usually carry the specific cost's name — fuel, storm, vegetation, energy-efficiency — and the named examples from real bills are in the table below. If your line instead reads as a percentage of the bill, it belongs to the [taxes, fees, and franchise charges family](/blog/utility-bill-taxes-fees-franchise-charges-explained/).
 
 ## What Surcharges and Riders Actually Are
 
@@ -82,9 +83,9 @@ Questions for the provider:
 
 ## Related Reading
 
-- [Every charge on a utility bill, explained](/blog/04-hidden-fees-utility-bill/) — the full bill map, line by line.
-- [What a demand charge is](/blog/49-demand-charges-electricity-bill-explained/) — when the way usage is billed changes what you pay.
-- [What a customer charge is](/blog/17-what-is-customer-charge-on-utility-bill/) — why that line appears even when you use nothing.
+- [Every charge on a utility bill, explained](/blog/hidden-fees-utility-bill/) — the full bill map, line by line.
+- [What a demand charge is](/blog/demand-charges-electricity-bill-explained/) — when the way usage is billed changes what you pay.
+- [What a customer charge is](/blog/what-is-customer-charge-on-utility-bill/) — why that line appears even when you use nothing.
 - [How rates, fees, and usage work together](/blog/how-utility-rates-fees-usage-work-together/) — the mental model behind every line on the bill.
 
 ## FAQ
@@ -97,13 +98,13 @@ No. PUCO staff review riders periodically, usually annually, and a rider can be 
 
 {{< faq "Is a rider the same as a tax or fee?" >}}
 
-No. Taxes and franchise fees are government charges collected on the bill; a rider is a utility cost-recovery mechanism approved by the commission. The two are easy to confuse — see [utility bill taxes, fees, and franchise charges explained](/blog/25-utility-bill-taxes-fees-franchise-charges-explained/).
+No. Taxes and franchise fees are government charges collected on the bill; a rider is a utility cost-recovery mechanism approved by the commission. The two are easy to confuse — see [utility bill taxes, fees, and franchise charges explained](/blog/utility-bill-taxes-fees-franchise-charges-explained/).
 
 {{< /faq >}}
 
 {{< faq "How is this different from the fuel charge I already have?" >}}
 
-The fuel cost adjustment rider is the mechanism; the fuel adjustment charge is the line item. Both pass fuel costs through without markup, under commission-approved reconciliation. Full walkthrough: [fuel adjustment charges on utility bills, explained](/blog/18-fuel-adjustment-charge-on-utility-bill-explained/).
+The fuel cost adjustment rider is the mechanism; the fuel adjustment charge is the line item. Both pass fuel costs through without markup, under commission-approved reconciliation. Full walkthrough: [fuel adjustment charges on utility bills, explained](/blog/fuel-adjustment-charge-on-utility-bill-explained/).
 
 {{< /faq >}}
 

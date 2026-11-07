@@ -15,7 +15,7 @@ sources:
 
 **January electric bills are often higher because winter heating demand is near its seasonal peak in many U.S. climates.** Electric furnaces, baseboards, and heat pumps run near-continuously as heating degree days pile up, and heat-pump backup ("aux") strips draw far more power than the pump alone during cold snaps. Many utilities also switch to a winter rate season on January 1, and a single estimated meter read — more common when snow or holiday schedules block meter access — can stack two months of usage into one bill.
 
-Compare **kWh, not dollars**, against December first. If kWh rose with the cold, it's weather-driven — not a malfunction. If kWh barely moved but the bill jumped, work the non-seasonal causes in our [full spike-troubleshooting guide](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+Compare **kWh, not dollars**, against December first. If kWh rose with the cold, it's weather-driven — not a malfunction. If kWh barely moved but the bill jumped, work the non-seasonal causes in our [full spike-troubleshooting guide](/blog/sudden-spike-in-electricity-bill-no-usage/).
 
 {{< spike-triage >}}
 
@@ -54,13 +54,13 @@ Before assuming usage doubled, find these lines on your bill:
 2. The **tier/baseline breakdown** — how many kWh were billed at each tier's price.
 3. The effective $/kWh this January vs last — our [electric bill breakdown](/blog/electric-bill-breakdown-understanding-line-items/) shows exactly where these lines hide.
 
-If the price per kWh moved, no amount of behavioral change fixes it — the lever is [rate-plan optimization](/blog/08-time-of-use-electricity/), including whether a time-of-use plan (cheaper overnight, when heat pumps in cold climates actually run most) beats your current flat rate.
+If the price per kWh moved, no amount of behavioral change fixes it — the lever is [rate-plan optimization](/blog/time-of-use-electricity/), including whether a time-of-use plan (cheaper overnight, when heat pumps in cold climates actually run most) beats your current flat rate.
 
 ## 4. Estimated Meter Reads: The January Bill That Stacks Two Months
 
 Snow-covered meters, locked gates, and holiday access windows make estimated reads more likely in January. If the utility estimated December low and read the meter for real in January, the "catch-up" usage lands entirely on the January bill — stacking close to two months of heating into one statement.
 
-Look for the word "estimated" or "E" next to the meter reading. If you find it: read the meter yourself, compare against the estimate, and be ready for the true-up to swing the other way next month. The full verification and dispute mechanics live in [Step 5 of the spike guide](/blog/30-sudden-spike-in-electricity-bill-no-usage/).
+Look for the word "estimated" or "E" next to the meter reading. If you find it: read the meter yourself, compare against the estimate, and be ready for the true-up to swing the other way next month. The full verification and dispute mechanics live in [Step 5 of the spike guide](/blog/sudden-spike-in-electricity-bill-no-usage/).
 
 ## 5. The Winter Combo Effect
 
@@ -70,7 +70,7 @@ Run the triage tool above — it splits the increase into rate vs usage effects,
 
 ## 6. Not the Weather? Hand Off to the Full Diagnosis
 
-If kWh didn't track the cold, the cause is one of the non-seasonal ones — phantom loads, a failing water heater, a meter fault, or wiring. Route to the [12-cause diagnosis](/blog/30-sudden-spike-in-electricity-bill-no-usage/) (free checks first) and the [17-step lower-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) (fixes ranked by cost).
+If kWh didn't track the cold, the cause is one of the non-seasonal ones — phantom loads, a failing water heater, a meter fault, or wiring. Route to the [12-cause diagnosis](/blog/sudden-spike-in-electricity-bill-no-usage/) (free checks first) and the [17-step lower-bill guide](/blog/how-to-lower-electric-bill-complete-guide/) (fixes ranked by cost).
 
 And if the problem is paying the bill rather than the usage: LIHEAP — the Low Income Home Energy Assistance Program — helps eligible households with winter heating bills and can prevent shutoffs; DOE's Weatherization Assistance Program delivers free efficiency upgrades worth about $372 a year on average. Your local 211 connects you to both plus utility hardship funds.
 
