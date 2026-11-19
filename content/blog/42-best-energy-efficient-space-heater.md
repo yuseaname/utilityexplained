@@ -57,6 +57,8 @@ Those are population numbers, not predictions for your living room—and nearly 
 
 ## Operating Rules That Aren't Optional
 
+One rule worth its own sentence: a 1,500 W heater draws more amps than a shared 15-amp circuit should carry continuously. If yours keeps tripping the breaker, the fix is circuit placement, not a different heater — [space heater keeps tripping the breaker](/blog/space-heater-keeps-tripping-breaker/) explains the arithmetic.
+
 - **Direct wall outlet only**—CPSC: never an extension cord or power strip, which is how cords overheat.[3]
 - **Off when you sleep or leave.** CPSC's rule, not a preference.[3]
 - **Bathrooms and garages:** many manufacturers prohibit them outright; where a manual allows it, the outlet must be GFCI-protected, and the manual governs (its instructions are enforceable under electrical code).

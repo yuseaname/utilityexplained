@@ -41,6 +41,8 @@ It is also worth knowing what that average does *not* include. Electricity is no
 
 ## What Pushes a Home Above or Below the Average
 
+Always-on appliances are the most measurable slice of the total: a garage freezer or second refrigerator runs every hour of the day, and [a chest freezer's cost can be metered exactly](/blog/chest-freezer-cost-to-run/) — unlike HVAC habits, which resist measurement.
+
 **Home size and building envelope.** More square footage means more lights, more appliances, and more air to condition. Older, leakier homes also pay a conditioning penalty in every season — drafts and thin insulation make the heating and cooling share of the bill bigger than it needs to be.
 
 **Climate.** Space heating and air conditioning are the seasonal, energy-intensive end uses, and they vary significantly by geographic location. [2] This is the main reason the state extremes above look the way they do. [1]

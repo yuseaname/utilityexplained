@@ -94,6 +94,8 @@ Service-line breaks cluster in the freeze months — deep-january cold snaps, th
 
 ## Related Reading
 
+- [Water main break: who pays, what to do, and your bill](/blog/water-main-break-who-pays-what-to-do/) — the street-side event this boundary map governs
+
 - [Water meter running when no water is used](/blog/water-meter-running-when-no-water-used/) — the isolation walkthrough that tells you which side you're on.
 - [Water meter leak indicator explained](/blog/water-meter-leak-indicator-explained/) — find and read the small dial that never lies.
 - [How to read a water meter](/blog/how-to-read-a-water-meter/) — the register, the units, and the two-reading usage check.

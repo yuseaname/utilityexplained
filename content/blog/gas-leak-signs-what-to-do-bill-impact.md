@@ -36,7 +36,7 @@ One caveat: the odor can fade. Gas passing through certain soil conditions, rust
 
 **Sound:** an unusual hissing or whistling sound near a gas line, appliance connection, or the meter — the sound of gas escaping under pressure.[2]
 
-**Sight, indoors:** a gas flame that is yellow or orange instead of steady blue, or dust blowing near a connection. A pilot light that keeps going out is worth investigating by phone with your utility.
+**Sight, indoors:** a gas flame that is yellow or orange instead of steady blue, or dust blowing near a connection. A pilot light that keeps going out is worth investigating by phone with your utility. The causes, the safe relight procedure, and when to stop relighting are covered in [pilot light keeps going out](/blog/pilot-light-keeps-going-out/).
 
 **Sight, outdoors:** a patch of dead or dying grass or plants in an otherwise healthy yard, dirt or water blowing into the air near a pipeline route, or continuous bubbling in wet ground or a puddle near buried pipe.[2]
 

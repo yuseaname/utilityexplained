@@ -91,6 +91,8 @@ The pattern generalizes: **on gas heat, the thermostat alone beats the heater-pl
 
 ## If You're Buying a Heater Anyway
 
+Buy the circuit as well as the heater: a full-power plug-in unit needs an outlet that can hold 12-plus amps on its own. If breakers keep tripping, [that problem has its own guide](/blog/space-heater-keeps-tripping-breaker/) — solve it before comparing fuel costs.
+
 Some rooms genuinely need supplemental heat — the office above the garage, the three-season porch — and the [honest buying criteria](/blog/best-energy-efficient-space-heater/) are safety features, not efficiency slogans: tip-over switch, overheat shutoff, thermostat control, and a listed (UL/ETL) product. Every 1,500W heater converts watts to heat at exactly the same 100% — "efficient" in marketing means the safety electronics and the thermostat behave, nothing more. The ceramic-vs-infrared-vs-oil-filled differences change how the heat FEELS, not what it costs — that physics breakdown is in the [best energy efficient space heater guide](/blog/best-energy-efficient-space-heater/).
 
 {{< product-box asin="B0B3MXGBVT" name="Dreo Atom One 1500W Ceramic Space Heater" label="If a room genuinely needs one" description="ETL-listed PTC ceramic heater with the four safety features that matter (tip-over protection, overheat shutoff, thermostat, timer) at the 1,500W standard draw every plug-in heater shares. The right tool for the room the central system can't reach — not a substitute for setting the thermostat down." button="Check price on Amazon" >}}

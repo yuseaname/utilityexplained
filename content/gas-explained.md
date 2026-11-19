@@ -23,6 +23,7 @@ Your natural gas bill charges for two things: the gas itself (supply, priced per
 <li><strong>I want to understand my gas bill charges</strong> — <a href="https://utilityexplained.com/blog/how-to-read-your-gas-bill/">Understanding Natural Gas Bill Charges</a></li>
 <li><strong>What's the difference between MCF, CCF, and therms?</strong> — <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
 <li><strong>How do I read my gas meter?</strong> — <a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
+<li><strong>My pilot light keeps going out</strong> — <a href="/blog/pilot-light-keeps-going-out/">Pilot Light Keeps Going Out: Causes and Safe Fixes</a></li>
 <li><strong>Fixed vs. variable gas rates</strong> — <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a></li>
 <li><strong>How do I lower my gas usage?</strong> — <a href="/blog/how-to-lower-utility-bills/">How to Lower Utility Bills</a></li>
 </ul>

@@ -138,6 +138,8 @@ For the full library of HVAC and heating/cooling guides, jump to the <a href="#h
 <li><a href="/blog/ac-running-but-not-cooling/">AC Running but Not Cooling? (13 Causes)</a></li>
 <li><a href="/blog/ac-short-cycling-causes-fixes/">AC Short Cycling: Causes and Fixes</a></li>
 <li><a href="/blog/why-is-my-furnace-blowing-cold-air/">Why Is My Furnace Blowing Cold Air?</a></li>
+<li><a href="/blog/furnace-wont-turn-on/">Furnace Won't Turn On? The Check Order That Finds Most Causes</a></li>
+<li><a href="/blog/pilot-light-keeps-going-out/">Pilot Light Keeps Going Out: Causes and Safe Fixes</a></li>
 <li><a href="/blog/heat-pump-running-all-day-in-winter/">Heat Pump Running All Day in Winter?</a></li>
 <li><a href="/blog/duct-leaks-symptoms-hvac-running-all-day/">Duct Leaks: Why Some Rooms Never Feel Right</a></li>
 </ul>

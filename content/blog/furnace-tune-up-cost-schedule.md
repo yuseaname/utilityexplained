@@ -119,7 +119,7 @@ First-run burning smells and short cycles are the two symptoms a fall tune-up ex
 
 {{< faq "How often should a furnace be tuned up?">}}
 
-Once a year, before the heating season starts — the schedule this guide builds. Annual service keeps efficiency at spec and catches wear while it is still a part, not a no-heat emergency in January.
+Once a year, before the heating season starts — the schedule this guide builds. Annual service keeps efficiency at spec and catches wear while it is still a part, not a no-heat emergency in January. If that emergency already happened, [furnace won't turn on](/blog/furnace-wont-turn-on/) walks the check order that finds most causes before the service call.
 
 {{< /faq >}}
 

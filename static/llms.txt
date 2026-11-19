@@ -24,11 +24,11 @@ This site publishes original, source-cited guides. Every article carries a Quick
 
 ## Bills & Fees
 
-- [average-utility-bills-in-california](https://utilityexplained.com/blog/average-utility-bills-in-california/) Average utility bills in California 2026: the residential electric rate is 29.75¢/kWh (EIA) and gas runs about $2.12/therm — see what a…
-- [average-utility-bills-in-florida](https://utilityexplained.com/blog/average-utility-bills-in-florida/) Average utility bills in Florida 2026: the residential electric rate is 14.99¢/kWh (EIA) and gas runs about $2.46/therm — see what a…
-- [average-utility-bills-in-new-york](https://utilityexplained.com/blog/average-utility-bills-in-new-york/) Average utility bills in New York 2026: the residential electric rate is 28.65¢/kWh (EIA) and gas runs about $1.69/therm — see what a…
-- [average-utility-bills-in-pennsylvania](https://utilityexplained.com/blog/average-utility-bills-in-pennsylvania/) Average utility bills in Pennsylvania 2026: the residential electric rate is 21.77¢/kWh (EIA) and gas runs about $1.45/therm — see what a…
-- [average-utility-bills-in-texas](https://utilityexplained.com/blog/average-utility-bills-in-texas/) Average utility bills in Texas 2026: the residential electric rate is 15.91¢/kWh (EIA) and gas runs about $1.87/therm — see what a…
+- [average-utility-bills-in-california](https://utilityexplained.com/blog/average-utility-bills-in-california/) Average utility bills in California 2026: the residential electric rate is 29.75¢/kWh (EIA) — among the highest in the country.
+- [average-utility-bills-in-florida](https://utilityexplained.com/blog/average-utility-bills-in-florida/) Average utility bills in Florida 2026: the residential electric rate is 14.99¢/kWh (EIA) and gas runs about $2.46/therm.
+- [average-utility-bills-in-new-york](https://utilityexplained.com/blog/average-utility-bills-in-new-york/) Average utility bills in New York 2026: the residential electric rate is 28.65¢/kWh (EIA) and gas about $1.69/therm.
+- [average-utility-bills-in-pennsylvania](https://utilityexplained.com/blog/average-utility-bills-in-pennsylvania/) Average utility bills in Pennsylvania 2026: the residential electric rate is 21.77¢/kWh (EIA) and gas about $1.45/therm — among the cheaper…
+- [average-utility-bills-in-texas](https://utilityexplained.com/blog/average-utility-bills-in-texas/) Average utility bills in Texas 2026: the residential electric rate is 15.91¢/kWh (EIA) and gas runs about $1.87/therm.
 - [can-utility-shut-off-service](https://utilityexplained.com/blog/can-utility-shut-off-service/) Can the utility shut off your service?
 - [how-to-dispute-utility-bill](https://utilityexplained.com/blog/how-to-dispute-utility-bill/) How to dispute a utility bill: call the utility, submit a written complaint, file with your state commission, and escalate if needed.
 - [moving-utilities-checklist](https://utilityexplained.com/blog/moving-utilities-checklist/) Moving soon? The exact timeline for turning off utilities at your old home and on at the new one, plus a one-page checklist so you don't…
@@ -58,6 +58,8 @@ This site publishes original, source-cited guides. Every article carries a Quick
 
 ## Electricity
 
+- [chest-freezer-cost-to-run](https://utilityexplained.com/blog/chest-freezer-cost-to-run/) A chest freezer costs about $3.28/month to run (215 kWh/yr at 18.34¢/kWh); an upright costs nearly double.
+- [space-heater-keeps-tripping-breaker](https://utilityexplained.com/blog/space-heater-keeps-tripping-breaker/) Space heater tripping the breaker: a 1,500 W heater draws 12.5 amps — a 15-amp circuit's continuous limit before anything else plugs in.
 - [christmas-lights-electricity-cost](https://utilityexplained.com/blog/christmas-lights-electricity-cost/) A 25-bulb incandescent C9 string costs about $8.65 a season to run; the LED equivalent costs about 10 cents.
 - [how-much-does-it-cost-to-run-a-window-or-portable-ac](https://utilityexplained.com/blog/how-much-does-it-cost-to-run-a-window-or-portable-ac/) How much does it cost to run a window or portable AC?
 - [how-to-tell-if-neighbor-is-stealing-electricity](https://utilityexplained.com/blog/how-to-tell-if-neighbor-is-stealing-electricity/) Is a neighbor stealing your electricity?
@@ -102,6 +104,8 @@ This site publishes original, source-cited guides. Every article carries a Quick
 
 ## Heating & Cooling
 
+- [furnace-wont-turn-on](https://utilityexplained.com/blog/furnace-wont-turn-on/) Furnace won't turn on?
+- [pilot-light-keeps-going-out](https://utilityexplained.com/blog/pilot-light-keeps-going-out/) Pilot light keeps going out?
 - [best-door-draft-stoppers](https://utilityexplained.com/blog/best-door-draft-stoppers/) Door drafts are the cheapest heating loss to fix — but the right stopper depends on the door.
 - [furnace-smells-like-burning](https://utilityexplained.com/blog/furnace-smells-like-burning/) A burning smell when the furnace first kicks on is usually months of dust burning off the heat exchanger — but four versions of that smell…
 - [heat-pump-covered-in-ice-normal-or-problem](https://utilityexplained.com/blog/heat-pump-covered-in-ice-normal-or-problem/) A frosty outdoor heat pump unit in winter is usually the normal defrost cycle at work — but ice that won't clear, or a solid block on the…
@@ -158,6 +162,7 @@ This site publishes original, source-cited guides. Every article carries a Quick
 
 ## Water
 
+- [water-main-break-who-pays-what-to-do](https://utilityexplained.com/blog/water-main-break-who-pays-what-to-do/) Water main break: the utility repairs the street main, you own the service line to your house.
 - [heat-tape-vs-pipe-insulation](https://utilityexplained.com/blog/heat-tape-vs-pipe-insulation/) Pipe insulation slows freezing; heat tape stops it — one is a one-time $20 fix, the other runs on electricity all winter.
 - [how-to-keep-pipes-from-freezing](https://utilityexplained.com/blog/how-to-keep-pipes-from-freezing/) How to keep pipes from freezing: the ranked prevention ladder — free tonight, cheap this weekend, worth-it upgrades — plus who pays if one…
 - [water-meter-box-full-of-water](https://utilityexplained.com/blog/water-meter-box-full-of-water/) Water in your meter box is usually rain — but it can be a leak on either side of the meter.

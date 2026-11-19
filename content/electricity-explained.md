@@ -161,6 +161,8 @@ Producing your own power is the step beyond efficiency: [solar basics](https://s
 
 <li><a href="/blog/how-many-kwh-does-a-house-use-per-day/">How Many kWh Does a House Use per Day?</a></li>
 <li><a href="/blog/how-many-watts-does-refrigerator-use/">How Many Watts Does a Refrigerator Use?</a></li>
+<li><a href="/blog/chest-freezer-cost-to-run/">How Much Does a Chest Freezer Cost to Run?</a></li>
+<li><a href="/blog/space-heater-keeps-tripping-breaker/">Space Heater Keeps Tripping the Breaker?</a></li>
 <li><a href="/blog/smart-plug-energy-monitoring-which-measures-usage/">Which Smart Plug Measures Energy Usage?</a></li>
 <li><a href="/blog/emporia-vue-3-vs-sense-comparison/">Emporia Vue 3 vs Sense</a></li>
 <li><a href="/blog/best-home-energy-monitor-2026/">Best Home Energy Monitor 2026</a></li>

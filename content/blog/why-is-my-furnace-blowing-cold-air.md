@@ -62,6 +62,7 @@ If all these pass and the air is still cold after 5 minutes, move to the cause l
 
 ### 4. Pilot or ignition fault
 - **DIY:** On older standing-pilot units, you may relight the pilot per the manual. On modern units with hot-surface igniters, this is not a DIY job.
+  If the pilot relights but will not stay lit, the causes and the two-strike relighting rule are in [pilot light keeps going out](/blog/pilot-light-keeps-going-out/). And if the furnace is completely dead rather than blowing cold, start one guide earlier: [furnace won't turn on](/blog/furnace-wont-turn-on/).
 - **Call a pro?** Most igniter repairs require a technician.
 
 ### 5. Cracked heat exchanger
@@ -119,6 +120,7 @@ Use the maintenance schedule in the equipment manual, keep required vents clear,
 ## Related Reading
 
 - [Duct leak symptoms and why the HVAC runs all day](/blog/duct-leaks-symptoms-hvac-running-all-day/)
+- [Furnace won't turn on](/blog/furnace-wont-turn-on/) — the completely-dead-furnace sibling diagnostic
 - [Auxiliary heat vs. emergency heat: what's the difference?](/blog/aux-heat-vs-emergency-heat-meaning/)
 - [13 reasons your AC short-cycles](/blog/ac-short-cycling-causes-fixes/)
 - [Heat pump vs. gas furnace: 48 factors to compare](/blog/heat-pump-vs-gas-furnace-savings/)

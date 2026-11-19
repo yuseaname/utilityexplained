@@ -59,7 +59,7 @@ A market note as of August 31, 2026: the longtime standard P3 P4400 single-unit 
 
 {{< product-box asin="B07HM9S6ZR" name="P3 P4460 Kill A Watt EZ Electricity Usage Monitor (3-Pack)" label="Plug-in kWh meter" description="Plug-in watt meter that reads live watts and cumulative kWh over time; enter your own utility rate for an on-device cost estimate. Works on any standard 120V outlet — no installation, landlord-friendly, and handy for one measurement on each of several appliances (sold as a 3-pack)." button="Check price on Amazon" >}}
 
-After 24 hours, write down the kWh figure and take it to the cost table below. That number, measured under your kitchen's conditions, beats any table on the internet — including the one above.
+After 24 hours, write down the kWh figure and take it to the cost table below. That number, measured under your kitchen's conditions, beats any table on the internet — including the one above. The same meter method prices the basement sibling, too — [how much a chest freezer costs to run](/blog/chest-freezer-cost-to-run/).
 
 ## Want Continuous Tracking? The Smart-Plug Route
 

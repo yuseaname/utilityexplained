@@ -156,6 +156,7 @@ For the full library of water and sewer guides, jump to the <a href="#water-guid
 <ul>
 <li><a href="/blog/water-meter-leak-indicator-explained/">Water Meter Leak Indicator Explained</a></li>
 <li><a href="/blog/water-meter-running-when-no-water-used/">Water Meter Running When No Water Used</a></li>
+<li><a href="/blog/water-main-break-who-pays-what-to-do/">Water Main Break: Who Pays, What to Do, and Your Bill</a></li>
 <li><a href="/blog/how-to-read-a-water-meter/">How to Read a Water Meter</a></li>
 <li><a href="/blog/is-your-toilet-running-leak-test/">Is Your Toilet Running? Leak Test</a></li>
 <li><a href="/blog/where-to-place-water-leak-sensors/">Where to Place Water Leak Sensors</a></li>
