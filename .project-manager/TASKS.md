@@ -44,19 +44,21 @@
 - Blockers: Associates dashboard access method
 
 ## T-006: Curation wave 2
-- Status: Backlog
+- Status: Done (2026-11-18, commit 9fb464a2)
 - Priority: Medium
 - Milestone: M-002
 - Related ACs: AC-003
 - Objective: second improvement wave (candidates from GROWTH_LOG backlog: top-traffic pages FAQ/answer-first polish, internal-link gaps)
 - Definition of done: shipped + gates green + updated dates advanced
+- Evidence: 6 worst-engagement top-traffic pages (Rybbit 30d selection); gates green; determinism check vs HEAD; live-verified cache-busted
 
 ## T-007: Go/no-go final verification report
-- Status: Blocked (date gate ~Nov 21)
+- Status: Drafted 2026-11-18 (FINAL-GO-NOGO.md; GO, date-gated ≥Nov 21) — finalize on submission day
 - Priority: High
 - Milestone: M-004
 - Related ACs: AC-005
 - Objective: full 174-page sweep + all ACs evidence + GO/NO-GO recommendation to Edgar
+- Evidence: 2026-11-18 full crawl all-green; AC-001..004 checked in contract
 
 ## Completed (this project)
 - 2026-11-07: full audit + 4 remediation waves + review pass + literal-heading fix (commits 8cf33631..2156ef42) — evidence: adsense-audit/, session verification reports

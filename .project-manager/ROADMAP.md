@@ -12,7 +12,7 @@ Derived from COMPLETION_CONTRACT.md. Page-level truth: ../adsense-audit/. Portfo
 - Verification: build + qa gates + live word counts
 - Status: In Progress
 
-## M-002: Curation waves during wait window — Ready
+## M-002: Curation waves during wait window — COMPLETE
 - Goal: visible ongoing curation (Google "ongoing maintenance" signal)
 - Completion criteria: ≥2 waves shipped with advanced `updated:` dates (AC-003)
 - Related ACs: AC-003
@@ -20,9 +20,9 @@ Derived from COMPLETION_CONTRACT.md. Page-level truth: ../adsense-audit/. Portfo
 - Deliverables: content improvement commits
 - Risks: regressions from edits → full gate sweep after each wave
 - Verification: git log dates + gate sweep
-- Status: Wave 1 in progress (M-001 items + review-fix commit 2156ef42 may seed wave 1)
+- Status: COMPLETE 2026-11-18 — wave 1 (M-001 + 2156ef42, 11/7) + wave 2 (9fb464a2, 11/18, 6 pages, all gates green + live-verified)
 
-## M-003: Weekly health monitoring — Ready
+## M-003: Weekly health monitoring — On cadence
 - Goal: catch regressions/redirect rot early
 - Completion criteria: ≥1 recorded health artifact per week until submission (AC-004)
 - Related ACs: AC-004
@@ -30,16 +30,16 @@ Derived from COMPLETION_CONTRACT.md. Page-level truth: ../adsense-audit/. Portfo
 - Deliverables: adsense-audit/data/health/YYYY-MM-DD.json
 - Risks: cron output is local-only (no live delivery) — artifacts land in repo; Edgar sees them in sessions
 - Verification: file presence per week
-- Status: Planned (script this week)
+- Status: On cadence — artifacts 11/07 + 11/18 (both HEALTHY); next ~11/25 only if submission slips
 
-## M-004: Go/no-go + re-review submission — Blocked (by time gate)
+## M-004: Go/no-go + re-review submission — Ready (date gate ≥Nov 21)
 - Goal: submit with maximum approval odds
 - Completion criteria: AC-001..004 green + go/no-go report delivered; Edgar submits
 - Related ACs: AC-005, AC-006
 - Dependencies: M-001..003 + date ≥ Nov 21
 - Deliverables: FINAL-GO-NOGO.md in .project-manager/
 - Risks: submitting too early (R-001)
-- Status: Blocked until ~Nov 21
+- Status: Report DRAFTED 2026-11-18 (GO verdict; evidence complete); Edgar submits after submission-day checklist in window Nov 21–28
 
 ## M-005: Decision capture — Blocked (external)
 - Goal: record Google's re-review outcome

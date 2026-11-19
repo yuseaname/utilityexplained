@@ -15,11 +15,11 @@ utilityexplained.com is re-approved by Google AdSense (ads serving again), the s
 7. Google's decision captured; if approved → revenue tracking begins (M-005/M-006)
 
 ## Acceptance Criteria
-- [ ] AC-001: Live gate sweep passes on all 174 URLs: 0 non-200, exactly 1 H1 each, JSON-LD parses, 0 shortcode/heading leaks, 0 numbered slugs (tool: adsense-audit/crawl.py + gate script)
+- [x] AC-001: Live gate sweep passes on all 174 URLs: 0 non-200, exactly 1 H1 each, JSON-LD parses, 0 shortcode/heading leaks, 0 numbered slugs (tool: adsense-audit/crawl.py + gate script) — GREEN 2026-11-18 post-wave-2 full crawl (keys==sitemap 174/174, 0 non-200, 0 h1≠1, 0 unparseable JSON-LD, 0 numbered slugs; leaks 0 via health check + check_rendered_output)
 - [x] AC-002: 5 minor tracker items cleared or explicitly accepted — consumer-rights accepted-thin; ccf-calculator (1,347w) + rates-fees (1,448w) deepened past the audit's <1,200 thin gate; 3 zero-traffic pages documented MONITORING (seasonal). Evidence: commit 5e1bb624, adsense-audit/data/inventory.json (170 FIXED + 4 monitoring/accepted)
-- [ ] AC-003: ≥2 curation waves shipped post-2026-11-07 with `updated:` dates advancing (git evidence)
-- [ ] AC-004: Weekly health check artifacts recorded in adsense-audit/data/health/ (≥1 per week during wait)
-- [ ] AC-005: Go/no-go report issued with GO recommendation grounded in AC-001..004 evidence
+- [x] AC-003: ≥2 curation waves shipped post-2026-11-07 with `updated:` dates advancing (git evidence) — wave 1: M-001 + review fix (2026-11-07, 5e1bb624/2156ef42); wave 2: answer-first polish, 6 top-traffic pages (2026-11-18, 9fb464a2, all six updated: → 2026-11-18, live-verified)
+- [x] AC-004: Weekly health check artifacts recorded in adsense-audit/data/health/ (≥1 per week during wait) — 2026-11-07 + 2026-11-18, both HEALTHY
+- [ ] AC-005: Go/no-go report issued with GO recommendation grounded in AC-001..004 evidence — DRAFTED 2026-11-18 (FINAL-GO-NOGO.md, GO verdict, submission date-gated ≥Nov 21); finalize on submission day
 - [ ] AC-006: Edgar confirms re-review submitted (dashboard screenshot or statement)
 - [ ] AC-007: AdSense approval confirmed (ads serving — dashboard status or live ad-slot rendering)
 - [ ] AC-008: Revenue progress: ≥$25 cumulative incremental revenue (Associates + AdSense) from project start (2026-11-07) to completion — FLAGGED NUMBER, needs Edgar's confirmation or adjustment

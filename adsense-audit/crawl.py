@@ -182,6 +182,9 @@ def main():
             done += 1
             if done % 25 == 0: print(f"  {done}/{len(targets)}")
     merged = {**prev, **results}
+    # Prune stale keys: results are keyed by CURRENT inventory/sitemap paths —
+    # pages renamed out of the sitemap must not linger from previous runs.
+    merged = {t: merged[t] for t in targets if t in merged}
     json.dump(merged, open(OUT, "w"), indent=1)
     bad = [p for p, s in merged.items() if s.get("http") != 200]
     print(f"done: {len(merged)} pages in crawl-results.json; non-200: {len(bad)}")
