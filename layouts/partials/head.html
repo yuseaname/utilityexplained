@@ -51,7 +51,10 @@
 {{- with .Params.keywords -}}
 <meta name="keywords" content="{{ delimit . ", " }}">
 {{- end -}}
+{{- $noindexPage := or (and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Singular "tag")) (.Params.noindex) -}}
+{{- if not $noindexPage -}}
 <link rel="canonical" href="{{ .Params.canonical | default .Permalink }}">
+{{- end -}}
 
 {{/* Favicon — SVG meter mark primary, PNG fallback */}}
 <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">

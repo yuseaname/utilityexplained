@@ -16,7 +16,6 @@ sources:
   - https://www.tp-link.com/us/home-networking/smart-plug/kp125m/ (retrieved 2026-08-29)
   - https://www.tp-link.com/us/home-networking/smart-plug/tapo-p110m/ (retrieved 2026-08-29)
   - https://help.emporiaenergy.com/en/articles/14745351-smart-plug-compatibility-buying-guide (retrieved 2026-08-29)
-aliases: ["/blog/50-best-smart-plugs-standby-power/"]
 ---
 
 {{< affiliate-disclosure >}}

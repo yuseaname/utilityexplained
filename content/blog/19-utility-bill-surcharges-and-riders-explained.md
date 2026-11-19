@@ -16,7 +16,6 @@ sources:
   - https://codes.ohio.gov/orc/4929.161 (retrieved 2026-08-29)
   - https://www.duke-energy.com/energy-education/understanding-riders (retrieved 2026-08-29)
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options (retrieved 2026-08-29)
-aliases: ["/blog/19-utility-bill-surcharges-and-riders-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

@@ -20,7 +20,7 @@ Your natural gas bill charges for two things: the gas itself (supply, priced per
 ## What are you trying to solve?
 <ul>
 <li><strong>My gas bill is too high</strong> — <a href="/blog/gas-bill-too-high/">Why Is My Gas Bill So High?</a></li>
-<li><strong>I want to understand my gas bill charges</strong> — <a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
+<li><strong>I want to understand my gas bill charges</strong> — <a href="https://utilityexplained.com/blog/how-to-read-your-gas-bill/">Understanding Natural Gas Bill Charges</a></li>
 <li><strong>What's the difference between MCF, CCF, and therms?</strong> — <a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
 <li><strong>How do I read my gas meter?</strong> — <a href="/blog/how-to-read-gas-meter/">How to Read Your Gas Meter</a></li>
 <li><strong>Fixed vs. variable gas rates</strong> — <a href="/blog/fixed-vs-variable-utility-rate/">Fixed vs. Variable Utility Rate</a></li>
@@ -39,7 +39,7 @@ Bills charge in therms (heat energy), though some utilities meter in CCF or MCF.
 
 ## Understanding your gas bill
 <p>
-A gas bill has three parts — supply (commodity), delivery (distribution), and a fixed customer charge. For a line-by-line breakdown, see <a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a>.
+A gas bill has three parts — supply (commodity), delivery (distribution), and a fixed customer charge. For a line-by-line breakdown, see <a href="https://utilityexplained.com/blog/how-to-read-your-gas-bill/">Understanding Natural Gas Bill Charges</a>.
 </p>
 <figure class="bill-figure">
 <img src="/images/articles/gas-explained/bill-anatomy.webp" alt="Annotated example gas bill: customer charge $11.00, gas supply of 64 therms at $1.12 per therm equaling $71.68, delivery charge $18.30, taxes and fees $6.24, total due $107.22, with each charge labeled and explained" width="1024" height="1536" loading="lazy" decoding="async" />
@@ -130,7 +130,7 @@ The customer charge covers the fixed costs of maintaining service, such as meter
 ### Understanding Your Gas Bill
 <ul>
 <li><a href="/blog/how-to-read-your-gas-bill/">How to Read Your Gas Bill (Plain English)</a></li>
-<li><a href="/blog/43-understand-natural-gas-bill-charges/">Understanding Natural Gas Bill Charges</a></li>
+<li><a href="https://utilityexplained.com/blog/how-to-read-your-gas-bill/">Understanding Natural Gas Bill Charges</a></li>
 <li><a href="/blog/mcf-vs-ccf-vs-therms-on-gas-bill/">MCF vs CCF vs Therms Explained</a></li>
 <li><a href="/blog/delivery-charge-vs-supply-charge-utility-bill/">Gas Delivery Charge vs Supply Charge</a></li>
 <li><a href="/blog/what-is-customer-charge-on-utility-bill/">Gas Customer Charge Explained</a></li>

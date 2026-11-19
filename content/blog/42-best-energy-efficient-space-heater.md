@@ -19,7 +19,6 @@ sources:
   - https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/ (retrieved 2026-08-29)
   - https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03 (retrieved 2026-08-29)
   - https://energystar.my.site.com/ENERGYSTAR/s/article/Are-there-ENERGY-STAR-certified-space-heaters-1748921040578 (retrieved 2026-08-29)
-aliases: ["/blog/42-best-energy-efficient-space-heater/"]
 ---
 
 {{< affiliate-disclosure >}}

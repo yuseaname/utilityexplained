@@ -15,7 +15,6 @@ image_alt: "Tariff fuel rate and usage basis combining into a fuel-adjustment li
 sources:
   - https://www.energy.gov/sites/default/files/2021-11/Presentation+-+Understanding+Your+Electricity+Bills.pdf
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
-aliases: ["/blog/18-fuel-adjustment-charge-on-utility-bill-explained/"]
 ---
 
 {{< jump-row "Identify the charge|#identify-the-exact-charge" "How it works|#how-the-clause-works" "Compare bills|#compare-bills-before-drawing-a-conclusion" "What it is not|#what-a-fuel-adjustment-is-not" >}}

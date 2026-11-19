@@ -18,7 +18,6 @@ sources:
   - https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BP+Understanding+your+Utility+Bill+-+Electricity_FINAL.pdf
   - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill (retrieved 2026-08-29)
   - https://www.coned.com/en/accounts-billing/your-bill/rate-calculators/market-supply-charge (retrieved 2026-08-29)
-aliases: ["/blog/04-hidden-fees-utility-bill/"]
 ---
 
 ## Quick Answer

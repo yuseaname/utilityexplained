@@ -1,7 +1,6 @@
 ---
 title: "Average Utility Bills by State (2026): See Your Cost"
 slug: "average-utility-bills-by-state-2026"
-aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
 description: "Average utility bills by state in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table."
 date: 2026-05-29
 updated: 2026-11-18
@@ -273,7 +272,7 @@ hero_below_answer: true
           </tbody>
           </table>
           <p><em>Note: Data sources include EIA, AWWA, and state PUC reports (2025–2026 projections). Rates reflect average residential customers with standard tiered pricing — see <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a> for what's inside those figures. \* Hawaii's electric estimate uses standardized 900 kWh/month; Hawaii's actual average household usage is ~515 kWh/month (EIA FAQ); at the 33.7¢ rate that is a realistic electric bill of about $174/month.</em></p>
-<p><strong>Reading the table against your own bill:</strong> each electric figure is your state's average residential rate multiplied by the same 900 kWh, so differences from your own statement usually trace to usage, your rate plan, or the season. To put your numbers alongside these, see <a href="/blog/how-to-read-your-utility-bill/">how to read your utility bill, line by line</a> — and plan for seasonal swings, not just averages.</p>
+<p><strong>Reading the table against your own bill:</strong> each electric figure is your state's average residential rate multiplied by the same 900 kWh, so differences from your own statement usually trace to usage, your rate plan, or the season. To put your numbers alongside these, see <a href="https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/">how to read your utility bill, line by line</a> — and plan for seasonal swings, not just averages.</p>
 
 ### Basket definitions: what "utilities" includes here {#basket-definitions}
 <p>This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table above and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and other charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket is roughly $470/month ($390–$540).</p>
@@ -315,7 +314,7 @@ For readers planning beyond the bill — a rooftop decision, a cross-state move 
 - [Average utility bills in Texas](/blog/average-utility-bills-in-texas/), [Florida](/blog/average-utility-bills-in-florida/), [California](/blog/average-utility-bills-in-california/), [New York](/blog/average-utility-bills-in-new-york/), and [Pennsylvania](/blog/average-utility-bills-in-pennsylvania/) — EIA-verified state detail pages with the numbers above broken out per state.
 
 - [What the charges on an electricity bill actually are](/blog/electric-bill-breakdown-understanding-line-items/) — every line item above the table figures, explained.
-- [How to read your utility bill, line by line](/blog/how-to-read-your-utility-bill/) — decode your own statement against these averages.
+- [How to read your utility bill, line by line](https://utilityexplained.com/blog/complete-guide-understanding-utility-bill/) — decode your own statement against these averages.
 - [Which electricity rate plan fits your household](/blog/which-rate-plan-is-right-for-me/) — what to do when rates vary by provider.
 - [How to lower your water bill](/blog/how-to-lower-water-bill/) — action steps for the fastest-rising line on the bill.
 - [Moving utilities to a new address](/blog/moving-utilities-checklist/) — the planner's checklist for the switch itself.

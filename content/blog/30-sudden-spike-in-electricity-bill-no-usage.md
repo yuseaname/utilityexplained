@@ -18,7 +18,6 @@ keywords: ["sudden spike in electricity bill", "electric bill spike no change in
 image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
 hero_below_answer: true
 og_image: "/images/social/og-sudden-electricity-spike.webp"
-aliases: ["/blog/30-sudden-spike-in-electricity-bill-no-usage/"]
 ---
 
 {{< jump-row "Causes at a glance|#the-top-10-causes-at-a-glance" "Verify the bill|#step-1-verify-the-bill-is-correct" "Compare your rate|#step-3-compare-the-per-kwh-rate" "Audit your usage|#how-to-audit-your-electricity-usage" >}}

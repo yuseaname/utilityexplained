@@ -14,7 +14,6 @@ sources:
   - https://www.coned.com/en/accounts-billing/your-bill/how-to-read-your-bill/understanding-your-bill-faq (retrieved 2026-08-29)
   - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (retrieved 2026-08-29)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
-aliases: ["/blog/23-utility-billing-cycle-explained/"]
 ---
 
 ## Quick Answer

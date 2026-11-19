@@ -1,7 +1,6 @@
 ---
 title: "How to Review a Time-of-Use Electricity Plan"
 slug: "time-of-use-electricity"
-aliases: ["/blog/08-time-of-use-electricity/", "/blog/time-of-use-electricity-rates/", "/blog/time-of-use-electricity-rates-explained/"]
 description: "Compare a time-of-use electricity plan using your utility's current schedule and tariff, plus your own interval data or bill history — the honest method."
 date: 2026-03-07
 updated: 2026-08-29

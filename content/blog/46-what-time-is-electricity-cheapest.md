@@ -17,7 +17,6 @@ sources:
   - https://www.energy.gov/cmei/femp/evaluating-your-utility-rate-options
   - https://www.eia.gov/electricity/monthly/update/end-use.php
   - https://www.energystar.gov/products/dishwashers
-aliases: ["/blog/46-what-time-is-electricity-cheapest/"]
 ---
 
 ## Quick Answer

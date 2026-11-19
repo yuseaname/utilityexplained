@@ -18,7 +18,6 @@ sources:
   - https://standby.lbl.gov/ (retrieved 2026-08-29)
   - https://www.energy.gov/energysaver (DOE Energy Saver hub — assessments page retired; retrieved 2026-08-29)
   - https://www.energy.gov/cmei/buildings/articles/home-energy-scores-surpass-250000 (retrieved 2026-08-29)
-aliases: ["/blog/47-check-energy-leaks-home-diy/"]
 ---
 
 {{< affiliate-disclosure >}}

@@ -15,7 +15,6 @@ sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (retrieved 2026-08-29)
   - https://www.acf.hhs.gov/ocs/programs/liheap (retrieved 2026-08-29)
   - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
-aliases: ["/blog/28-utility-reconnection-fee-explained/"]
 ---
 
 ## Quick Answer

@@ -17,7 +17,6 @@ sources:
   - https://www.pge.com/assets/rates/tariffs/Res_Current.xlsx (PG&E Residential Gas Tariff Rates workbook, retrieved 2026-08-29)
   - https://www.pge.com/assets/rates/tariffs/res-inclu-tou-current.xlsx (PG&E Current Residential Electric Tariff Rates workbook, retrieved 2026-08-29)
   - https://www.pge.com/en/account/billing-and-assistance/base-services-charge.html (PG&E Base Services Charge FAQ, retrieved 2026-08-29)
-aliases: ["/blog/22-minimum-bill-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

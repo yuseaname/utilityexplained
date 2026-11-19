@@ -1,7 +1,6 @@
 ---
 title: "How to Lower Your Water Bill: Fixes Ranked by Cost"
 slug: "how-to-lower-water-bill"
-aliases: ["/blog/44-how-to-lower-water-bill/", "/blog/stormwater-fee-on-water-bill-explained/"]
 description: "Ranked actions to lower your water bill: free behavior changes, low-cost repairs, and upgrades with verified EPA WaterSense savings ranges to boot."
 date: 2026-05-30
 updated: 2026-09-06

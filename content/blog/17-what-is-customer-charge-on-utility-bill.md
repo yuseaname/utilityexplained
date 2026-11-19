@@ -1,7 +1,6 @@
 ---
 title: "How to Review a Customer Charge on a Utility Bill"
 slug: "what-is-customer-charge-on-utility-bill"
-aliases: ["/blog/17-what-is-customer-charge-on-utility-bill/", "/blog/gas-customer-charge-explained/"]
 description: "What a utility customer charge actually is, with verified monthly amounts from four utilities' published rates, and how to check yours against the tariff."
 date: 2026-05-28
 hero_below_answer: true

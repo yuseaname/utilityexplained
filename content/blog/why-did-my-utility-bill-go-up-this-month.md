@@ -1,7 +1,6 @@
 ---
 title: "Why Did My Utility Bill Go Up This Month?"
 slug: "why-did-my-utility-bill-go-up-this-month"
-aliases: ["/blog/7-states-with-worst-utility-spikes-2026/", "/blog/why-your-electric-bill-keeps-rising-2026/"]
 description: "If your total jumped but your habits did not, this guide breaks down the real drivers: billing days, rate shifts, fixed charges, and corrections."
 date: 2026-01-15
 hero_below_answer: true

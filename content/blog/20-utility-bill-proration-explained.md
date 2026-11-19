@@ -19,7 +19,6 @@ sources:
   - https://www.idahopower.com/accounts-service/understand-your-bill/bill-glossary/ (Idaho Power Bill Glossary, Prorated entry, retrieved 2026-08-29)
   - https://www.lbwl.com/FAQs/why-my-bill-being-prorated (Lansing Board of Water & Light FAQ, why bills are prorated, retrieved 2026-08-29)
   - https://www.sce.com/customer-service-center/help-center/stop-start-move-service/faq/receive-deposit-after-turning-off-service (Southern California Edison deposit refund timeline, retrieved 2026-08-29)
-aliases: ["/blog/20-utility-bill-proration-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

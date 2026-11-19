@@ -16,7 +16,6 @@ sources:
   - https://www.coned.com/en/accounts-billing/how-to-read-your-meter (Con Edison, How to Read Your Electricity Meter, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/complaints/rights/ (Public Utility Commission of Texas, Know Your Rights, retrieved 2026-08-29)
-aliases: ["/blog/14-estimated-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

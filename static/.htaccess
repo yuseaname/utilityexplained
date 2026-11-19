@@ -19,6 +19,9 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RedirectMatch 301 ^/index\.html$ https://utilityexplained.com/
 RedirectMatch 301 ^/(.+)/index\.html$ https://utilityexplained.com/$1/
 
+# Hugo /page/1 pagination-alias stubs removed from deploys (2026-11-18) — 301 to parent
+RedirectMatch 301 ^/(.+)/page/1/?$ https://utilityexplained.com/$1/
+
 # Author persona retirement (2026-10 desk migration): /author/ → editorial team
 RewriteRule ^author/?$ /editorial-team/ [R=301,L]
 
@@ -30,7 +33,11 @@ RewriteRule ^author/?$ /editorial-team/ [R=301,L]
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
-# Alias 301s (P2 2026-10-30) — generated from Hugo aliases front matter.
+# Alias 301s (P2 2026-10-30) — originally generated from Hugo aliases front matter.
+# 2026-11-18: front-matter `aliases:` removed from all 39 content files (Hugo alias
+# STUBS were serving 200 at old URLs — stale CDN edges kept serving them beside these
+# 301s, Google reported the pair as duplicate-canonical). This file is now the SOLE
+# source of old-URL redirects — do NOT prune lines when regenerating other sections.
 # Replaces meta-refresh stubs with instant redirects for users + clean equity flow.
 Redirect 301 /blog/02-average-utility-costs-2026/ https://utilityexplained.com/blog/average-utility-bills-by-state-2026/
 Redirect 301 /blog/15-why-utility-bill-higher-same-usage/ https://utilityexplained.com/blog/why-is-my-electric-bill-so-high/

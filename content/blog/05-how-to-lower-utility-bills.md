@@ -16,7 +16,6 @@ sources:
   - https://www.energy.gov/cmei/femp/home-energy-checklist
   - https://www.energy.gov/save/home-upgrades
   - https://www.epa.gov/watersense/showerheads
-aliases: ["/blog/05-how-to-lower-utility-bills/"]
 ---
 
 {{< affiliate-disclosure >}}

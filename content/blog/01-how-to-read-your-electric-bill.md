@@ -1,7 +1,6 @@
 ---
 title: "How to Read Your Electric Bill (Line by Line Guide)"
 slug: "how-to-read-your-electric-bill"
-aliases: ["/blog/01-how-to-read-your-electric-bill/", "/blog/41-how-to-read-electricity-bill/"]
 description: "How to read your electric bill line by line: the five numbers that matter, what each charge pays for, and how to spot a billing error in ten minutes."
 date: 2026-03-07
 updated: 2026-11-18

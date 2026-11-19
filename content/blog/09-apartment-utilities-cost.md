@@ -15,7 +15,6 @@ sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
   - https://www.eia.gov/electricity/sales_revenue_price/ (Table 5a, retrieved 2026-08-28)
   - https://www.eia.gov/energyexplained/use-of-energy/homes.php (retrieved 2026-08-29)
-aliases: ["/blog/09-apartment-utilities-cost/"]
 ---
 
 ## Quick Answer

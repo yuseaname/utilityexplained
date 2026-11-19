@@ -1,7 +1,6 @@
 ---
 title: "Delivery Charge vs Supply Charge on a Utility Bill"
 slug: "delivery-charge-vs-supply-charge-utility-bill"
-aliases: ["/blog/24-delivery-charge-vs-supply-charge-utility-bill/", "/blog/supply-vs-delivery-charges-electricity/"]
 description: "What delivery and supply charges cover, who sets each rate, a verified per-utility split table, and whether supply is something you can shop for."
 date: 2026-05-28
 hero_below_answer: true

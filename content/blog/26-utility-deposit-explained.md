@@ -18,7 +18,6 @@ sources:
   - https://www.revisor.mn.gov/statutes/cite/216B.098/ (Minnesota Statutes 216B.098, Residential Customer Protections, retrieved 2026-08-29)
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/ (Consumer Financial Protection Bureau, retrieved 2026-08-29)
   - https://liheap.org/ (LIHEAP / NEUAC, retrieved 2026-08-29)
-aliases: ["/blog/26-utility-deposit-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

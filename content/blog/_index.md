@@ -2,7 +2,6 @@
 title: "Blog"
 description: "Plain-English guides to electricity, gas, water, and utility bills. Browse by topic below."
 url: "/blog/"
-aliases: ["/blog"]
 ---
 
 

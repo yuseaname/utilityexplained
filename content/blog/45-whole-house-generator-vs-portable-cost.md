@@ -20,7 +20,6 @@ sources:
   - https://www.generac.com/resources/home-management/backup-generator-installation/ (retrieved 2026-08-29)
   - https://norwall.com/categories/standby-generators/generac-guardian-generators/ (retrieved 2026-08-29)
   - https://www.bobvila.com/exterior/portable-vs-standby-generators-for-home/ (retrieved 2026-08-29)
-aliases: ["/blog/45-whole-house-generator-vs-portable-cost/"]
 ---
 
 {{< affiliate-disclosure >}}

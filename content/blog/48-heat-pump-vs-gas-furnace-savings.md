@@ -1,7 +1,6 @@
 ---
 title: "Heat Pump vs Gas Furnace: Which Is Cheaper to Run?"
 slug: "heat-pump-vs-gas-furnace-savings"
-aliases: ["/blog/48-heat-pump-vs-gas-furnace-savings/", "/blog/gas-vs-electric-heating-cost-comparison/"]
 description: "Compare heat-pump and gas-furnace options through a home-specific load calculation, equipment proposal, tariff review, and local program terms."
 date: 2026-05-30
 updated: 2026-08-30

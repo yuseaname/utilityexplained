@@ -142,8 +142,8 @@ Producing your own power is the step beyond efficiency: [solar basics](https://s
 <ul>
 <li><a href="/blog/why-is-my-electric-bill-so-high/">Why Is My Electric Bill So High? (12 Causes)</a></li>
 <li><a href="/blog/sudden-spike-in-electricity-bill-no-usage/">Sudden Spike With No Usage Change</a></li>
-<li><a href="/blog/why-your-electric-bill-keeps-rising-2026/">Why Your Electric Bill Keeps Rising</a></li>
-<li><a href="/blog/15-why-utility-bill-higher-same-usage/">Why Your Bill Is Higher With Same Usage</a></li>
+<li><a href="https://utilityexplained.com/blog/why-did-my-utility-bill-go-up-this-month/">Why Your Electric Bill Keeps Rising</a></li>
+<li><a href="https://utilityexplained.com/blog/why-is-my-electric-bill-so-high/">Why Your Bill Is Higher With Same Usage</a></li>
 </ul>
 
 ### Electricity Rates and Plans

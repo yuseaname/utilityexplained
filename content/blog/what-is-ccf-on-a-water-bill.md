@@ -86,7 +86,7 @@ sources:
 <h3>Tiered pricing</h3>
 <p>With tiers (block pricing), the first chunk of usage is cheaper and later chunks are more expensive. That can make it look like your "price per unit" changed month to month, even though the tiers themselves are fixed. See our guide to <a href="/blog/tiered-water-rates-explained/">tiered water rates</a> for how the blocks work.</p>
 <p>If your bill also includes sewer, your water usage may drive that charge too. See <a href="/blog/how-sewer-charges-work-on-your-water-bill/">how sewer charges work</a> for the plain-English model.</p>
-<p>CCF only drives the <em>usage</em> part of your bill. Most bills also include a fixed <a href="/blog/water-service-charge-explained/">water service charge</a>, and many add a separate <a href="/blog/stormwater-fee-on-water-bill-explained/">stormwater fee</a> for runoff — neither of which depends on your CCF.</p>
+<p>CCF only drives the <em>usage</em> part of your bill. Most bills also include a fixed <a href="/blog/water-service-charge-explained/">water service charge</a>, and many add a separate <a href="https://utilityexplained.com/blog/how-to-lower-water-bill/">stormwater fee</a> for runoff — neither of which depends on your CCF.</p>
 
 ## Is your CCF normal? A 30-second check {#sanity-check-usage}
 

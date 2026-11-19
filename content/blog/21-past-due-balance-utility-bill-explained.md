@@ -18,7 +18,6 @@ sources:
   - https://www.revisor.mn.gov/statutes/cite/216B.097/ (Minnesota Statutes 216B.097, Cold Weather Rule — municipal and cooperative utilities, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/complaints/rights/ (Public Utility Commission of Texas, Know Your Rights, retrieved 2026-08-29)
   - https://puc.texas.gov/consumer-help/faq/electricity/ (Public Utility Commission of Texas, Electricity FAQs, retrieved 2026-08-29)
-aliases: ["/blog/21-past-due-balance-utility-bill-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

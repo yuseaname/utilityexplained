@@ -12,7 +12,6 @@ keywords: ["utility connection fee", "utility service start charge", "new utilit
 image: "/images/articles/27-utility-connection-fee-explained/27-utility-connection-fee-explained_hero_v2.webp"
 sources:
   - https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/
-aliases: ["/blog/27-utility-connection-fee-explained/"]
 ---
 
 ## Quick Answer

@@ -18,7 +18,6 @@ sources:
   - http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/Sections/0166.231.html (Florida Statutes 166.231, retrieved 2026-08-29)
   - https://www.revisor.mn.gov/statutes/cite/216B.36 (Minnesota Statutes 216B.36, retrieved 2026-08-29)
   - https://finance.lacity.gov/lifeline-utility-users-tax-exemption-seniors-and-individuals-disabilities (Los Angeles Office of Finance, retrieved 2026-08-29)
-aliases: ["/blog/25-utility-bill-taxes-fees-franchise-charges-explained/"]
 ---
 
 {{< affiliate-disclosure >}}

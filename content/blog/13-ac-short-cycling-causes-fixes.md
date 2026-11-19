@@ -14,7 +14,6 @@ sources:
   - https://bsesc.energy.gov/training-modules/hvac-preventative-maintenance (retrieved 2026-08-29)
   - https://web.archive.org/web/20250614182054/https://bsesc.energy.gov/sites/default/files/HVAC%20Systems%20-%20System%20Sizing%20-%20Understand.docx (DOE Building Science; archived 2025-06-14, retrieved 2026-08-29)
   - https://www.energy.gov/save/home-upgrades (retrieved 2026-08-29)
-aliases: ["/blog/13-ac-short-cycling-causes-fixes/"]
 ---
 
 ## Quick Answer
