@@ -3,13 +3,14 @@ title: "How to Read a Water Meter (and Know If Its Accurate)"
 slug: "how-to-read-a-water-meter"
 description: "How to read a water meter: a step-by-step guide to reading your home meter, checking for leaks, and knowing whether the reading is accurate."
 date: 2025-12-25
-updated: 2026-10-30
+updated: 2026-11-18
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["water bill", "leak", "gallons", "water meter", "ccf"]
 keywords: ["high water bill", "water leak detection", "gallons of water", "water meter reading", "ccf"]
 image: "/images/articles/how-to-read-a-water-meter/how-to-read-a-water-meter_hero_v2.webp"
+hero_below_answer: true
 sources:
   - https://water.usgs.gov/water-basics_glossary.html (retrieved 2026-08-29)
   - https://www.epa.gov/watersense/getting-started (retrieved 2026-08-29)

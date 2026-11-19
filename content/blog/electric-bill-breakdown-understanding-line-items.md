@@ -3,13 +3,14 @@ title: "Electric Bill Breakdown: Every Charge Explained"
 slug: "electric-bill-breakdown-understanding-line-items"
 description: "Electric bill breakdown: decode the charge categories on a US electric bill — supply, delivery, customer charges, and taxes — and how to verify each."
 date: 2025-12-25
-updated: 2026-10-30
+updated: 2026-11-18
 author: "Bills & Rates Desk"
 category: "Electricity"
 categories: ["Electricity"]
 tags: ["kwh", "electric bill", "delivery charge", "customer charge", "surcharge"]
 keywords: ["kwh usage", "high electric bill", "delivery charge", "customer charge utility", "utility surcharge"]
 image: "/images/articles/electric-bill-breakdown-understanding-line-items/electric-bill-breakdown-understanding-line-items_hero_00001_.webp"
+hero_below_answer: true
 sources:
   - https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php (retrieved 2026-08-29)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=7 (retrieved 2026-08-29)
@@ -19,11 +20,9 @@ sources:
 
 ## Quick Answer
 
-**Your electric bill is four charge types stacked: supply (the kWh you used × your rate), delivery (moving it to you — also mostly usage-based), fixed customer charges, and taxes. Supply plus delivery is typically about 85–90% of the bill; only the usage-based parts move when you change habits.** Most residential electric bills in the United States are built from a usage-based supply (energy) charge, usage-based delivery charges, any fixed charges your utility's rate schedule includes, and taxes. For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at {{< stat "electric_rate_jun2026" "raw" >}}¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
+**Your electric bill is four charge types stacked: supply (the kWh you used × your rate), delivery (moving it to you — also mostly usage-based), fixed customer charges, and taxes. Supply plus delivery is typically about 85–90% of the bill; only the usage-based parts move when you change habits.** For national context, the U.S. Energy Information Administration (EIA) reported residential customers paying an annual average of about 17.30¢ per kilowatthour (kWh) for 2025, and the June 2026 residential average was higher at {{< stat "electric_rate_jun2026" "raw" >}}¢ — but the only numbers that govern your bill are the rates in your own utility's current rate plan or tariff.[1]
 
 **Tip:** Compare your energy charge month over month against the kWh used. That tells you whether a change came from usage or from the rate itself.
-
-*Source note for the figures above: the residential averages (17.30¢ for 2025, {{< stat "electric_rate_jun2026" "raw" >}}¢ for June 2026) come from EIA Electric Power Monthly data; verify the current release at eia.gov. For the same 2025 data, EIA also reported an average U.S. retail price of electricity of about 13.63¢ per kilowatthour (kWh).*
 
 **Next step:** If your bill jumped, start troubleshooting with [why is my electric bill so high](/blog/why-is-my-electric-bill-so-high/) or learn how to [read your electric bill](/blog/how-to-read-your-electric-bill/) line by line.
 

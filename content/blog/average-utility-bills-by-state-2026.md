@@ -4,7 +4,7 @@ slug: "average-utility-bills-by-state-2026"
 aliases: ["/blog/2026-utility-cost-index-by-state/", "/blog/02-average-utility-costs-2026/"]
 description: "Average utility bills by state in 2026: the narrow basket (electricity, gas, water/sewer) averages about $375/month, with a 17-state sample table."
 date: 2026-05-29
-updated: 2026-10-30
+updated: 2026-11-18
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
   - https://www.eia.gov/tools/faqs/faq.php?id=97&t=3 (retrieved 2026-08-29)
@@ -22,19 +22,14 @@ hero_below_answer: true
 
 ## Quick Answer: Average U.S. Utility Bills in 2026 {#quick-answer}
 
-Here is the national breakdown for the **narrow basket**:
+**The narrow basket — electricity, natural gas, and water/sewer — averages about $375/month nationally, roughly $315–$425 across states. The national breakdown:**
 <ul>
 <li><strong>Electricity:</strong> $165/month (900 kWh at {{< stat "electric_rate_jun2026" >}} — EIA national residential average, June 2026)</li>
 <li><strong>Natural gas:</strong> $80–$170/month for a gas-heated home at 75 therms (EIA state residential prices run ~$1.04–$2.29/therm; ~$1.91/therm national average, May 2026) — winter high, summer low</li>
 <li><strong>Water & sewer:</strong> roughly $70–$90/month combined ($47 water plus $25–$40 sewer, per the water section below)</li>
 </ul>
-<p><strong>How we calculate:</strong> This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table below and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and sewer charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket — adding internet, trash, and the sewer charges energy agencies do not track — is roughly $470/month ($390–$540).</p>
-<p><strong>Broad basket</strong> adds:</p>
-<ul>
-<li><strong>Internet:</strong> $60–$80/month</li>
-<li><strong>Trash/recycling:</strong> $15–$35/month (often bundled with water)</li>
-</ul>
 <p>The cheapest states for utilities are <strong>Idaho, Utah, and Washington</strong> (abundant hydropower). The most expensive are <strong>Hawaii, Alaska, and Connecticut</strong>. The tables below cover 17 states sampled across every region and price tier, plus national averages that apply anywhere.</p>
+<p><strong>How to read the numbers:</strong> the state table uses the narrow basket (electricity + gas + water), matching EIA reporting conventions. Adding internet, trash, and other charges often bundled into "utilities" pushes the broad basket to roughly $470/month — definitions and math are in the methodology notes below the table.</p>
 
 {{< jump-row "Total table|#total-utility-cost-comparison-2026-state" "Electricity|#electricity-rates-by-state-2026-breakdow" "Gas|#gas-bills-by-state-heating-drives-the-di" "Water & sewer|#water-and-sewer-bills-the-overlooked-uti" "How to use it|#how-to-use-this-data-for-smart-decisions" >}}
 
@@ -280,6 +275,13 @@ Here is the national breakdown for the **narrow basket**:
           <p><em>Note: Data sources include EIA, AWWA, and state PUC reports (2025–2026 projections). Rates reflect average residential customers with standard tiered pricing — see <a href="/blog/how-utility-rates-fees-usage-work-together/">how utility rates, fees, and usage work together</a> for what's inside those figures. \* Hawaii's electric estimate uses standardized 900 kWh/month; Hawaii's actual average household usage is ~515 kWh/month (EIA FAQ); at the 33.7¢ rate that is a realistic electric bill of about $174/month.</em></p>
 <p><strong>Reading the table against your own bill:</strong> each electric figure is your state's average residential rate multiplied by the same 900 kWh, so differences from your own statement usually trace to usage, your rate plan, or the season. To put your numbers alongside these, see <a href="/blog/how-to-read-your-utility-bill/">how to read your utility bill, line by line</a> — and plan for seasonal swings, not just averages.</p>
 
+### Basket definitions: what "utilities" includes here {#basket-definitions}
+<p>This guide uses two definitions to avoid confusion. The <strong>narrow basket</strong> (electricity + gas + water) is the standard used in the state-by-state table above and matches EIA reporting conventions. The <strong>broad basket</strong> adds internet, trash, and other charges that are often included in the term "utilities" but are not tracked by energy data agencies. At national-average rates and standard usage, the narrow basket runs about $375/month (roughly $315–$425 across states); the broad basket is roughly $470/month ($390–$540).</p>
+<p>The <strong>broad basket</strong> adds:</p>
+<ul>
+<li><strong>Internet:</strong> $60–$80/month</li>
+<li><strong>Trash/recycling:</strong> $15–$35/month (often bundled with water)</li>
+</ul>
 
 ## What’s Driving These Differences? Key Factors Explained {#what-s-driving-these-differences-key-fac}
 

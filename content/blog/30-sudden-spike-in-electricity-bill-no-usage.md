@@ -4,7 +4,7 @@ slug: "sudden-spike-in-electricity-bill-no-usage"
 description: "Sudden spike in your electricity bill with no usage change? Learn the 12 common causes of bill spikes, how to investigate each one, and what to do next."
 date: 2026-05-28
 lastmod: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-18
 author: "Consumer Rights Desk"
 sources:
   - https://www.eia.gov/electricity/monthly/update/end-use.php (retrieved 2026-08-29)
@@ -16,6 +16,7 @@ categories: ["Troubleshooting"]
 tags: ["bill spike", "unexpected bill", "usage audit", "meter reading"]
 keywords: ["sudden spike in electricity bill", "electric bill spike no change in usage", "unexpected high electric bill", "electricity bill doubled overnight", "sudden increase in power bill"]
 image: "/images/articles/30-sudden-spike-in-electricity-bill-no-usage/custom_hero.webp"
+hero_below_answer: true
 og_image: "/images/social/og-sudden-electricity-spike.webp"
 aliases: ["/blog/30-sudden-spike-in-electricity-bill-no-usage/"]
 ---

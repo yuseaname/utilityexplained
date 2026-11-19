@@ -3,13 +3,14 @@ title: "Water Meter Leak Indicator: How to Spot a Hidden Leak"
 slug: "water-meter-leak-indicator-explained"
 description: "Water meter leak indicator: most meters have a small dial that moves when water flows. How to use it to spot hidden leaks and rule out false alarms."
 date: 2025-12-26
-updated: 2026-09-06
+updated: 2026-11-18
 author: "Bills & Rates Desk"
 category: "Water"
 categories: ["Water"]
 tags: ["leak", "water meter", "water bill"]
 keywords: ["water leak detection", "water meter reading", "high water bill"]
 image: "/images/articles/water-meter-leak-indicator-explained/water-meter-leak-indicator-explained_hero_00001_.webp"
+hero_below_answer: true
 sources:
   - https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices (retrieved 2026-08-29)
 ---
@@ -26,9 +27,7 @@ sources:
 <p><strong>Where to find it:</strong> Lift the lid on your meter box (usually near the street or sidewalk in a concrete or plastic cover). Look on the meter face for a small red triangle, star, or dial — often labeled "leak" or "low flow." On digital smart meters, look for a flashing flow icon or a "leak" alert on the display.</p>
 <p>For a full meter-reading walkthrough covering different dial styles and digital meters, see: <a href="/blog/how-to-read-a-water-meter/">how to read a water meter</a>.</p>
 
-<p><strong>Next step:</strong> If your leak indicator is moving, follow the <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a> guide to isolate the source, then check <a href="/blog/water-bill-too-high/">how to investigate a high water bill</a>. To understand your usage units, see <a href="/blog/what-is-ccf-on-a-water-bill/">what is CCF on a water bill</a>. To watch the meter between your once-a-month checks, a {{< amazon asin="B08DX6MP8X" text="meter-mounted monitor like the Flume 2" >}} catches the same slow continuous flow in real time and sends it to your phone.</p>
-
-<p>For a faster next step when you just need the basics, read <a href="/blog/water-bill-too-high/">how to investigate a high water bill</a> or see <a href="/blog/average-water-usage-per-person/">average water usage per person</a> for a household baseline.</p>
+<p><strong>Next step:</strong> If your leak indicator is moving, follow the <a href="/blog/water-meter-running-when-no-water-used/">water meter running when no water is used</a> guide to isolate the source, then check <a href="/blog/water-bill-too-high/">how to investigate a high water bill</a>. To understand your usage units, see <a href="/blog/what-is-ccf-on-a-water-bill/">what is CCF on a water bill</a>. To watch the meter between your once-a-month checks, a {{< amazon asin="B08DX6MP8X" text="meter-mounted monitor like the Flume 2" >}} catches the same slow continuous flow in real time and sends it to your phone. For a household usage baseline, see <a href="/blog/average-water-usage-per-person/">average water usage per person</a>.</p>
 
 ## The 60-second test: how to check the leak indicator {#how-to-test}
 <p>This is the cleanest way to confirm whether you actually have a leak. The biggest mistake is testing while something small is still running (like an ice maker cycle) — that creates a false alarm.</p>
